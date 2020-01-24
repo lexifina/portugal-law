@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uQbX3ywBlowawaT2KcBSIZQXnZJlvUhg%2b62A92kAVV1p24shLAkUZ30vM6ewkSg8U2gmkwK82qqhDERYOTjgpGFwpVrjR7zfMU1ILAYorgHX8nZwx5y6JIdmSbdPCKeGkOCIZucwPwKmarqqii46b288F0nSaQdPPdr7baVGihkntz4V3rF%2fYp0BK91utCJX0hsnhUIlcwDEyIh5xV%2ba5%2fYyK%2bcd5YcPTx3zUMSMawItnKTQRuc5cYEHTk%2bcbnaM8lUPpEdl3NfTUbRMGQwKMkvtSAMvpqBbunoRrFmzNa914JurVX%2b%2bf%2bhzTpI3uvyt3mb3OeZHc9sqoRywiyhQVTL9FU%2bPwhrLtbPu4f7POewOkV%2bWQl0AQvTeZQ6GFLJ4SdycMvUxsqTVSvsHcEIi77ALL85OtUt55CeYvyRgu68%3d&fich=OEPropostasAlteracao2020Or_json.txt&Inline=true",
+  "ficheiro_sha256": "f063f7e03db08e1874994d5201aed2faf2cb579d66dad08e8da5f8e404a860df",
+  "legislatura": "XIV",
+  "id": "12526",
+  "numero": "676C",
+  "orcamento": "2020",
+  "versao": "Or",
+  "data_registo": "2020-01-24",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "12526",
+    "Numero": "676C",
+    "Data": "24/01/2020 18:58:00",
+    "Titulo": "Novo Artigo 168.º-A (Reforço de valências nos cuidados de saúde primários)",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 168.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449774d6a41784f5445794d545976554545764d57526c4e4456684f4467744e5455345a693030593249334c546c685a474574595463784e474e6b5a6a566b5a5752694c6e426b5a673d3d&Fich=1de45a88-558f-4cb7-9ada-a714cdf5dedb.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JOÃO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULA SANTOS"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 168.º-A",
+        "Titulo": "Reforço de valências nos cuidados de saúde primários",
+        "Texto": "1. No prazo de 90 dias, o Governo apresenta a planificação com vista ao reforço das valências e respostas ao nível dos cuidados de saúde primários, sustentada na proximidade e abrangendo todo o território, devendo considerar nomeadamente os seguintes aspetos:\r\na) reforço nas áreas de saúde oral; saúde visual;",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 168.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Reforço de valências nos cuidados de saúde primários",
+        "Data": "04/02/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
