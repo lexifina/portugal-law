@@ -16,10 +16,6 @@
 
 5 - Caso o beneficiário seja uma pessoa coletiva, o efetivo e duradouro controlo da pessoa coletiva, em termos de decisões relativas à gestão, benefícios e riscos financeiros, deve ser exercido pelo jovem agricultor que no primeiro ano do pedido do pagamento para os jovens agricultores não tenha mais de 40 anos de idade.
 
-6 - Para efeitos de primeira instalação na exploração, é considerada a mais antiga das seguintes datas:
-
-a) De apresentação do primeiro PU;
-
-b) Da decisão de aprovação do projeto relativo às medidas e ações constantes do anexo IV da presente portaria, da qual faz parte integrante.
+6 - Para efeitos de primeira instalação na exploração, é considerada a mais antiga das datas verificadas nas fontes de informação oficiais, nomeadamente nas bases de informação residentes no IFAP, I. P.
 
 7 - O disposto no n.º 2 é igualmente aplicável aos agricultores que receberam pagamentos para jovens agricultores referentes a Pedidos Únicos anteriores a 2018.
