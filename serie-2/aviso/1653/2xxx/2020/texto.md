@@ -1,0 +1,12 @@
+Aviso n.º 1653/2020
+Sumário: Revogação do Plano de Urbanização de Conceição/Cabanas publicado no Diário da República, 2.ª série, n.º 241, de 14 de dezembro de 2007.
+Revogação do Plano de Urbanização de Conceição/Cabanas
+João Pedro da Conceição Rodrigues, Vereador do Urbanismo, Planeamento e Ambiente, torna público, nos termos e para efeitos do disposto no n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que o executivo desta Câmara Municipal deliberou, em reunião ordinária de 20 de novembro de 2019, aprovar e remeter para aprovação da Assembleia Municipal de Tavira, a revogação do Plano de Urbanização de Conceição/Cabanas publicado no Diário da República, 2.ª série, n.º 241, de 14 de dezembro de 2007.
+Mais torna público que a Assembleia Municipal de Tavira, na sua sessão ordinária realizada a 10 de dezembro de 2019 deliberou, por maioria, aprovar a revogação do Plano de Urbanização de Conceição/Cabanas, nos termos do n.º 3 do artigo 127.º do Decreto-Lei n.º 80/2015, de 14 maio.
+Até à entrada em vigor da revisão do Plano Diretor Municipal de Tavira, em curso, com a revogação do Plano de Urbanização de Conceição/Cabanas aplicam-se as regras de uso, ocupação e transformação do solo constantes no PDM vigente, na respetiva área de intervenção do plano territorial ora revogado.
+A documentação referente a este procedimento de revogação poderá ser consultada no sítio eletrónico do Município (www.cm-tavira.pt) ou nas instalações da Divisão de Planeamento, Turismo, Inovação e Empreendedorismo.
+10 de janeiro de 2020. - O Vereador do Urbanismo, Planeamento e Ambiente, João Pedro da Conceição Rodrigues.
+Deliberação
+Minuta de Deliberação da Assembleia Municipal tomada em sessão Ordinária realizada no dia 10 de dezembro de 2019: Pelo Senhor Presidente foi apresentada a proposta de deliberação n.º 275/2019/CM, aprovada em reunião ordinária realizada em 20/11/2019, referente à revogação do Plano de Urbanização de Conceição/Cabanas. Conhecido o seu conteúdo e fundamentos, foi a mesma submetida a votação tendo sido aprovada por maioria de vinte votos a favor, cinco votos contra e duas abstenções. Mais foi deliberado aprovar esta deliberação em minuta no final da reunião, nos termos do n.º 3 e para os efeitos do disposto no n.º 4 do artigo 57.º do anexo I da Lei n.º 75/2013 de 12 de setembro.
+10 de janeiro de 2020. - O Presidente da Assembleia Municipal, José Otílio Pires Baía.
+612915518
