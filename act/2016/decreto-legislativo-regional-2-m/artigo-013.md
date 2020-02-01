@@ -2,7 +2,7 @@
 
 ### Sede e apoios
 
-1 - O Conselho dispõe de sede própria e de serviços de apoio técnico administrativo, cuja instalação compete ao Governo Regional.
+1 - O Conselho dispõe de sede própria e de um serviço de apoio técnico e administrativo, cuja instalação compete à Assembleia Legislativa da Região Autónoma da Madeira.
 
 2 - O Conselho disporá de informação estatística necessária, regional, nacional ou estrangeira, para o exercício das suas funções.
 

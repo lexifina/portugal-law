@@ -1,7 +1,5 @@
 # Artigo 14.º
 
-### Autonomia do Conselho
+### Financiamento
 
-1 - O Conselho é dotado de autonomia administrativa e financeira.
-
-2 - Os meios financeiros necessários ao seu funcionamento são inscritos no Orçamento da Região, por proposta do Conselho.
+Os meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento da Região e incluídos na verba afeta à Assembleia Legislativa da Região Autónoma da Madeira, a qual assegura a respetiva transferência ao Conselho.
