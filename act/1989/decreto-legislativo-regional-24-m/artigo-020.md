@@ -1,6 +1,6 @@
 # Artigo 20.º
 
-### Funcionamento
+### Funcionamento e exercício de funções
 
 1 - O Conselho de Administração é presidido pelo secretário-geral da Assembleia, o qual goza de voto de qualidade em caso de empate.
 
@@ -10,6 +10,8 @@
 
 4 - As deliberações do Conselho de Administração são válidas desde que se verifique a presença de dois dos seus membros, sendo um deles obrigatoriamente o secretário-geral ou o seu substituto, devendo ser lavradas em acta.
 
-5 - Os membros do Conselho de Administração que sejam especificamente nomeados para tal função e que sejam estranhos à Assembleia Legislativa Regional terão a remuneração correspondente a 50% do vencimento ilíquido do secretário-geral.
+5 - Os membros do Conselho de Administração, quando especificamente nomeados para tal função e sejam estranhos à Assembleia Legislativa, terão a remuneração correspondente a 50 % do vencimento ilíquido do secretário-geral, podendo exercer funções a tempo inteiro, desde que tal seja expressamente determinado no despacho de nomeação.
 
-6 - Os membros do Conselho de Administração que desempenhem tal função por inerência a cargo exercido na Assembleia ou recrutados entre pessoas que, a qualquer título, exerçam e continuem a exercer outro cargo na Assembleia Legislativa Regional, bem como os que estejam na situação do n.º 5 deste artigo, terão direito a uma remuneração por dia de reunião a que compareçam correspondente a 1/15 do vencimento ilíquido mensal do secretário-geral da Assembleia Legislativa Regional.
+6 - Aos membros do Conselho de Administração nomeados para exercer funções a tempo inteiro, nos termos previstos no número anterior, pode aplicar-se, por despacho do Presidente da Assembleia Legislativa, sob proposta do secretário-geral, o regime especial de trabalho previsto no artigo 49.º
+
+7 - Os membros do Conselho de Administração que desempenhem tal função por inerência a cargo exercido na Assembleia ou recrutados entre pessoas que, a qualquer título, exerçam e continuem a exercer outro cargo na Assembleia Legislativa Regional, bem como os que estejam na situação do n.º 5 deste artigo, terão direito a uma remuneração por dia de reunião a que compareçam correspondente a 1/15 do vencimento ilíquido mensal do secretário-geral da Assembleia Legislativa Regional.
