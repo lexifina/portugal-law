@@ -1,0 +1,5 @@
+Declaração de Retificação n.º 3/2020
+Sumário: Declaração de retificação do Decreto do Presidente da República n.º 13/2020, de 6 de janeiro, relativo à nomeação do ministro plenipotenciário de 2.ª classe Gonçalo Nuno Gamito Beija de Teles Gomes para o cargo de Embaixador de Portugal na Cidade do Panamá.
+Por ter sido publicado com inexatidão no Diário da República, 1.ª série, n.º 3, de 6 de janeiro de 2020, o Decreto do Presidente da República n.º 13/2020, de 6 de janeiro, declara-se que onde se lê «É nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe Gonçalo Nuno Gamito Beija de Teles Gomes para o cargo de Embaixador de Portugal na Cidade do Panamá.» deve ler-se «É nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe Gonçalo Nuno Gamito Beija de Teles Gomes para o cargo de Embaixador de Portugal na Cidade do Panamá, com efeitos a partir do dia 15 de fevereiro de 2020.».
+Secretaria-Geral da Presidência da República, 28 de janeiro de 2020. - O Secretário-Geral, Arnaldo Pereira Coutinho.
+112972712
