@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MSw62GXLjFgk%2fxADoxHwZLXe6gFy62Ozrr1tJA5XVSNk%2fvxYrQL2xsBChRr2JkFNBjIClFH2ZYjvcBsv8cPvjZD8zLz2yqlrTOiqMOqRi5C9IJA7TFYKiwTBAuxVhlMJp2CS8awPcWmLSeoZVW454%2f0d1DPjUzZ9luROj%2b00vdKD4RdkoDn8Yfx%2fA4vL7GGCAfLzXewecVQzXyfRODNFsaz1AwfcRQODaL6lMIp%2bTZRaHUsMWqnHi8G0Ft%2b4SIeecWD6dqRfRr%2f5pPy56X1nGVOLdwimUxaWe3NdoaXjyaGWq6m3qY9iZUcDZGTXtWoY77gGRfm%2froDNfqryP6o3cgzHd6%2bKGaNfMPGzgj%2fnlwDcwASN%2fmg1ZY0QOxK0OJf8&fich=AtividadesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "b462056a98b76a62a0cdc9c1dd11350b9914ff627d67e4ce7f68f9ff7eac5457",
+  "legislatura": "XIV",
+  "tipo": "Voto",
+  "numero": "166",
+  "data_registo": "2020-02-04",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "De condenação do ‘Plano Trump’ que constitui uma afronta aos direitos nacionais do povo palestiniano e ao direito internacional",
+    "AutoresGP": [
+      "PCP",
+      "Bruno Dias (PCP)",
+      "João Dias (PCP)",
+      "João Oliveira (PCP)",
+      "Jerónimo de Sousa (PCP)",
+      "Alma Rivera (PCP)",
+      "Duarte Alves (PCP)",
+      "Diana Ferreira (PCP)",
+      "Ana Mesquita (PCP)",
+      "António Filipe (PCP)",
+      "Paula Santos (PCP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2020-02-04",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIV",
+    "Numero": "166",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "891483",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-07",
+        "pubLeg": "XIV",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/019/2020-02-07/2?pgs=2&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2020-02-06",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> PEV</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> CH</I><BR>Abstenção:<I>IL</I>",
+        "id": "85863",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "891847",
+            "obs": null,
+            "pag": [
+              "70-70"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-02-07",
+            "pubLeg": "XIV",
+            "pubNr": "26",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/026/2020-02-07/70?pgs=70&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "26",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
