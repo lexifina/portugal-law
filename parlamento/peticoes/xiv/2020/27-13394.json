@@ -1,0 +1,622 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13394",
+  "numero": "27",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-02-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-03-04",
+            "entidades": null,
+            "id": "114533",
+            "tipo": null,
+            "titulo": "Audição em 2020-03-04 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-02-27",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro das Infraestruturas e Habitação"
+            ],
+            "nrOficio": "41/CEIOPH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-10-14",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "912944",
+                "obs": null,
+                "pag": [
+                  "3-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/011/2020-11-06/3?pgs=3-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-02-18",
+        "DataArquivo": "2020-10-23",
+        "DataBaixaComissao": "2020-02-07",
+        "DataEnvioPAR": "2020-11-04",
+        "DataReaberta": "2020-02-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-02-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d6a49324d446b344f5749744e6a59314f5330305a6a67304c5745334e4451744e7a466b596a497a4f444e694e6a51354c6e426b5a673d3d&fich=2260989b-6659-4f84-a744-71db2383b649.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-02-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e44677a4f5456695a5441744d444d355a533030596a51794c546b32596d51745a6a457a59324d31596d553459545a6b4c6e426b5a673d3d&fich=48395be0-039e-4b42-96bd-f13cc5be8a6d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-11-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738765a544e6c4f4463354d474d744e6a646a4e4330305a5749354c546b794d575574596a55304e54646d4e6d55794e47526a4c6e426b5a673d3d&fich=e3e8790c-67c4-4eb9-921e-b5457f6e24dc.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7364",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-02-18",
+            "gp": "PS",
+            "id": "5934",
+            "motivoCessacao": null,
+            "nome": "Hugo Carvalho"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-04-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-02-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d774e5445314d3251344c5759334e5745744e4467775a5331695a5749774c574a694e545135596d56684f445a6c4e4335775a47593d&fich=c05153d8-f75a-480e-beb0-bb549bea86e4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "110647",
+      "110648",
+      "110650"
+    ],
+    "Iniciativasoriginadas": [
+      "110647",
+      "110648",
+      "110650"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Juntos pelo alojamento local (Luís Miguel de Melo Torres Marques e outros); Altera o regime de autorização de exploração dos estabelecimentos de alojamento local (5.ª alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto); Diminui o coeficiente do alojamento local (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares); Elimina o aumento de impostos no alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Juntos pelo alojamento local (Luís Miguel de Melo Torres Marques e outros); Altera o regime de autorização de exploração dos estabelecimentos de alojamento local (5.ª alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto); Diminui o coeficiente do alojamento local (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares); Elimina o aumento de impostos no alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=35"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/29?pgs=29-30,35&org=PLC"
+              }
+            ],
+            "Sumario": "Juntos pelo alojamento local (Luís Miguel de Melo Torres Marques e outros); Altera o regime de autorização de exploração dos estabelecimentos de alojamento local (5.ª alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto); Diminui o coeficiente do alojamento local (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares); Elimina o aumento de impostos no alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Juntos pelo alojamento local (Luís Miguel de Melo Torres Marques e outros); Altera o regime de autorização de exploração dos estabelecimentos de alojamento local (5.ª alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto); Diminui o coeficiente do alojamento local (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares); Elimina o aumento de impostos no alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Juntos pelo alojamento local (Luís Miguel de Melo Torres Marques e outros); Altera o regime de autorização de exploração dos estabelecimentos de alojamento local (5.ª alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto); Diminui o coeficiente do alojamento local (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares); Elimina o aumento de impostos no alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Juntos pelo alojamento local (Luís Miguel de Melo Torres Marques e outros); Altera o regime de autorização de exploração dos estabelecimentos de alojamento local (5.ª alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto); Diminui o coeficiente do alojamento local (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares); Elimina o aumento de impostos no alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Juntos pelo alojamento local (Luís Miguel de Melo Torres Marques e outros); Altera o regime de autorização de exploração dos estabelecimentos de alojamento local (5.ª alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto); Diminui o coeficiente do alojamento local (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares); Elimina o aumento de impostos no alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Juntos pelo alojamento local (Luís Miguel de Melo Torres Marques e outros); Altera o regime de autorização de exploração dos estabelecimentos de alojamento local (5.ª alteração ao Decreto-Lei n.º 128/2014, de 29 de agosto); Diminui o coeficiente do alojamento local (Altera o Código do Imposto sobre o Rendimento das Pessoas Singulares); Elimina o aumento de impostos no alojamento local.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13394",
+    "PetAssunto": "Juntos pelo alojamento local",
+    "PetDataEntrada": "2020-02-05",
+    "PeticoesAssociadas": null,
+    "PetId": "13394",
+    "PetLeg": "XIV",
+    "PetNr": "27",
+    "PetNrAssinaturas": "10143",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6039",
+        "obs": null,
+        "pag": [
+          "28-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-23",
+        "pubLeg": "XIV",
+        "pubNr": "58",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/28?pgs=28-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "891518",
+        "obs": null,
+        "pag": [
+          "17-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-22",
+        "pubLeg": "XIV",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/022/2020-02-22/17?pgs=17-24&org=PLC"
+      }
+    ]
+  }
+}
