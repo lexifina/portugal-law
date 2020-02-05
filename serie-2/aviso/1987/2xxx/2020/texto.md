@@ -1,0 +1,7 @@
+Aviso n.º 1987/2020
+Sumário: Projeto de segundas alterações ao Regulamento dos Animais do Município de Sintra.
+Basílio Horta, Presidente da Câmara Municipal de Sintra, torna público que, ao abrigo do n.º 2 do ponto XXI da deliberação da Câmara Municipal de Sintra tomada em 30 de outubro de 2017 sobre a Proposta n.º 824-P/2017, de 25 de outubro de 2017, é submetido a consulta pública, o Projecto de Segundas Alterações ao Regulamento dos Animais do Município de Sintra, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, durante o prazo de 30 dias a contar da data da publicação do presente Aviso em II Série do Diário da República, estando o texto disponível mediante afixação do Edital n.º 647 /2019 nos locais de estilo e no sítio eletrónico oficial do Município www.cm-sintra.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, endereçadas ao Presidente da Câmara Municipal de Sintra, entregues no Gabinete de Apoio ao Munícipe, Lgº Dr. Virgílio Horta, 2710 Sintra, através do fax 219238551, ou ainda através do e-mail dju@cm-sintra.pt.
+Em todas as comunicações deve ser indicado o procedimento a que mesma se reporta, sob pena de rejeição liminar.
+20 de dezembro de 2019. - O Presidente da Câmara, Basílio Horta.
+312903043
