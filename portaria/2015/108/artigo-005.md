@@ -36,6 +36,8 @@ o) Outras despesas que se revelem necessárias à preparação das atividades do
 
 p) Despesas com atividades relativas ao encerramento do PRODER e PRRN.
 
-2 - A elegibilidade temporal é comprovada pelas datas constantes nas faturas ou outros documentos de valor probatório equivalente das despesas apresentadas.
+2 - Sem prejuízo dos apoios específicos previstos no âmbito do PRORURAL+ e do PRODERAM 2020, são ainda elegíveis as despesas necessárias à preparação das atividades do próximo período de programação, designadamente a avaliação ex ante, que abranjam todo o território português, incluindo a Região Autónoma dos Açores e a Região Autónoma da Madeira.
 
-3 - As despesas são justificadas pelos custos elegíveis efetivamente incorridos e pagos, podendo ser imputadas através de custos simplificados, com base em critérios de imputação devidamente justificados e quantificáveis, desde que verificáveis ao longo da execução da operação.
+3 - A elegibilidade temporal é comprovada pelas datas constantes nas faturas ou outros documentos de valor probatório equivalente das despesas apresentadas.
+
+4 - As despesas são justificadas pelos custos elegíveis efetivamente incorridos e pagos, podendo ser imputadas através de custos simplificados, com base em critérios de imputação devidamente justificados e quantificáveis, desde que verificáveis ao longo da execução da operação.
