@@ -1,0 +1,6 @@
+Aviso n.º 1967/2020
+Sumário: Projeto de Regulamento do Cemitério Municipal de Condeixa-a-Nova.
+Regulamento do Cemitério Municipal de Condeixa-a-Nova
+Nuno Miguel Martins Rondão Moita da Costa, Presidente da Câmara Municipal de Condeixa-a-Nova, ao abrigo da competência constante da alínea t) do n.º 1 do artigo 35.º e para efeitos do estatuído pelo artigo 56.º da Lei n.º 75/2013 de 12 de setembro, da atual redação, torna público que, na reunião do executivo municipal realizada no dia 18 de dezembro de 2019, foi deliberado, para efeitos do artigo 101.º do Código do Procedimento Administrativo, submeter a consulta pública, pelo prazo de 30 dias a contar da data de publicação do presente aviso no Diário da República, o projeto de "Regulamento do Cemitério Municipal de Condeixa-a-Nova". Durante este período os interessados poderão consultar o referido projeto de Regulamento, na Divisão Administrativa e Financeira, durante o horário normal de expediente: das 9h00 às 12h30 e das 14h00 às 16h00, os quais ficarão igualmente disponíveis na página eletrónica do município (www.cm-condeixa.pt).Os interessados, no decurso desse prazo, poderão dirigir por escrito as suas sugestões ao Presidente da Câmara, para Largo Artur Barreto 3150-124 Condeixa-a-Nova ou geral@cm-condeixa.pt.
+6 de janeiro de 2020. - O Presidente da Câmara Municipal, Nuno Moita da Costa.
+312900046
