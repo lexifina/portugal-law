@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 2097/2020
+Sumário: Projeto de Regulamento de Apoio aos Jovens Estudantes da União das Freguesias de Cadafaz e Colmeal.
+Projeto de Regulamento de Apoio aos Jovens Estudantes da União das Freguesias de Cadafaz e Colmeal
+António Alves Martins, Presidente da Junta de Freguesia da União das Freguesia de Cadafaz e Colmeal, Concelho de Góis, torna público que, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, é submetido a consulta pública, para recolha de sugestões, reclamações ou observações, e durante o prazo de 30 (trinta) dias úteis a contar da data da publicação do presente edital/aviso no Diário da República, o Projeto de Regulamento de Apoio aos Jovens Estudantes da União das Freguesias de Cadafaz e Colmeal, aprovado na reunião ordinária da Junta de Freguesia, realizada no dia 1 de dezembro de 2019.
+O texto integral do referido documento poderá ser consultado na página eletrónica da União das Freguesias de Cadafaz e Colmeal, em https:// www.uf-cadafazcolmeal.pt, bem como na Sede da Junta, sita Rua Padre André de Almeida Freire, n.º 1, 3330-073 Colmeal GOI, durante o horário normal de funcionamento.
+As sugestões, reclamações ou observações, que se entendem por convenientes, poderão ser feitas por escrito, dirigidas ao Presidente da Junta de Freguesia, e remetidas por correio postal para a morada da Sede supra mencionada, entregues pessoalmente na referida Sede ou por correio eletrónico para o endereço cadafaz-colmeal@hotmail.com.
+2 de dezembro de 2019. - O Presidente da Junta de Freguesia da União das Freguesias de Cadafaz e Colmeal, António Alves Martins.
+312946258
