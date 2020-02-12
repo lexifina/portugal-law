@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7vz42dekG7SvX%2bJCoI606%2bawj%2fX5VzWets1lObKDepdveONV1z3zBA3cO9lc957K5%2f9HlKJqmHedDhhMyhl2cw4SOzV7qsNm8CFmvLpT5RkqF9HjBDt%2f%2bX0OUM0cdjJwLTwyvrlp3ZMoTcIPfZTsIPJ7MWFPt2X%2bh0DQWsRjX6GyToHZHEfJiay2rPW9JT8dDQem39OFpKzbLyK%2b8DJ08rsf17Fviv%2fFFPxcpMyDb5w1tqdx45uTH13%2bLlwBj4kkTVZgL8HxkUlx96u3wzpvXKLMn7R8Tg9xl9SNSUxzXHSzTSYcy2rAL7Kr%2fWg%2fgF7nS%2fbFNRkzS6x92aIVDj1xOsuRFXDbkBrM5JpdPMk4cxk%3d&fich=IntervencoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "ac2343fce06e15e6ec675fd3460ca65b42c7cb3b7c35721a49abc1fc32427acb",
+  "legislatura": "XIV",
+  "id": "237381",
+  "tipo": "Declaração politica",
+  "orador": "José Luís Ferreira (PEV)",
+  "data_registo": "2020-02-12",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "35188",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "35188",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Refere-se à necessidade de publicação de legislação relativa à proteção dos solos e reparação de áreas contaminadas"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Refere-se à necessidade de publicação de legislação relativa à proteção dos solos e reparação de áreas contaminadas.",
+        "duracao": "00:06:50:824",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=00:46:33:978&drc=00:06:50:824"
+      },
+      {
+        "assunto": "Responde aos pedidos de esclarecimento de Hugo Patrício Oliveira, Joana Lima, Paula Santos e Nelson Peralta sobre  a declaração política em que se referiu à necessidade de publicação de legislação relativa à proteção dos solos e reparação de áreas contaminadas.",
+        "duracao": "00:03:13:467",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:03:19:105&drc=00:03:13:467"
+      }
+    ],
+    "DataReuniaoPlenaria": "2020-02-12",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PEV",
+      "idCadastro": "780",
+      "nome": "José Luís Ferreira"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "237381",
+    "IdDebate": "5509",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "237381",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "14-15",
+          "18-19"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-13",
+        "pubLeg": "XIV",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/14?pgs=14-15,18-19&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde a pedidos de esclarecimento dos Deputados Hugo Patrício Oliveira (PSD),\nJoana Lima (PS), Paula Santos (PCP) e Nelson Peralta (BE)",
+    "Sessao": "1",
+    "Sumario": "Refere-se à necessidade de publicação de legislação relativa à proteção dos solos e reparação de áreas contaminadas",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
