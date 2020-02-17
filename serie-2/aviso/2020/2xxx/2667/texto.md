@@ -1,0 +1,7 @@
+Aviso n.º 2667/2020
+Sumário: Projeto de alteração do Regulamento do Arquivo Municipal de Paredes.
+José Alexandre da Silva Almeida, Presidente da Câmara Municipal de Paredes, torna público que, em reunião ordinária realizada no dia vinte e três de janeiro do ano de dois mil e vinte, o executivo municipal, deliberou, aprovar o projeto de alteração do Regulamento do Arquivo Municipal de Paredes.
+Nos termos do artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, o projeto de Regulamento do Arquivo Municipal de Paredes, é submetido a consulta pública pelo prazo de 30 dias a contar do dia seguinte à publicação deste edital na 2.ª série do Diário da República e na Internet no sítio institucional da Câmara Municipal.
+Durante este período, o referido Projeto encontra-se disponível para consulta na página da internet do Município (www.cm-paredes.pt), podendo, ainda, os interessados apresentar as sugestões que entenderem por convenientes, devendo as mesmas ser endereçadas ao Presidente da Câmara Municipal de Paredes - Unidade de Património Cultural, Biblioteca e Arquivo - Projeto de Alteração do Regulamento do Arquivo Municipal de Paredes, por correio registado para o Município de Paredes, Praça José Guilherme, 4580-130 Paredes, por correio eletrónico para antonia.silva@cm-paredes.pt, ou entregues presencialmente no Balcão Único, sito na referida morada.
+28 de janeiro de 2020. - O Presidente da Câmara, Dr. Alexandre Almeida.
+312969027
