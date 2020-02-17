@@ -1,0 +1,7 @@
+Aviso n.º 2666/2020
+Sumário: Projeto de alteração da postura de resíduos urbanos e higiene pública do concelho de Paredes.
+José Alexandre da Silva Almeida, Presidente da Câmara Municipal de Paredes, torna público que, em reunião ordinária realizada no dia vinte e três de janeiro do ano de dois mil e vinte, o Executivo Municipal, deliberou aprovar o projeto de alteração da Postura de Resíduos Urbanos e Higiene Pública do Concelho de Paredes.
+Nos termos do artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, o Projeto é submetido a consulta pública pelo prazo de 30 dias a contar do dia seguinte à data da publicação deste edital na 2.ª série do Diário da República e na Internet no sítio institucional da Câmara Municipal.
+Durante este período, o referido Projeto encontra-se disponível para consulta na página da internet do Município (www.cm-paredes.pt), podendo, ainda, os interessados apresentar as sugestões que entenderem por convenientes, devendo as mesmas ser endereçadas ao Presidente da Câmara Municipal de Paredes - Unidade de Proteção Florestal - Projeto de alteração da Postura de Resíduos Urbanos e Higiene Pública do Concelho de Paredes, por correio registado para o Município de Paredes, Praça José Guilherme, 4580-130 Paredes, por correio eletrónico para miguel.rodrigues@cm-paredes.pt ou entregues presencialmente no Balcão Único, sito na referida morada.
+28 de janeiro de 2020. - O Presidente da Câmara, Dr. Alexandre Almeida.
+312969051
