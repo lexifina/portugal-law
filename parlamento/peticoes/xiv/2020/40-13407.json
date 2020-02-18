@@ -1,0 +1,724 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13407",
+  "numero": "40",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-02-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-07-01",
+            "entidades": null,
+            "id": "115173",
+            "tipo": null,
+            "titulo": "Audição em 2020-07-01 com António Manuel da Fonseca, Armindo Moreira Palma Jacinto, Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": "2020-06-13",
+            "entidades": [
+              "AEESGIN - Associação de Estudantes da Escola Superior de Gestão de Idanha-a-Nova do Instituto Politécnico de Castelo Branco"
+            ],
+            "nrOficio": "81/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": "2020-06-16",
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "82/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": "2020-06-03",
+            "entidades": [
+              "Câmara Municipal de Idanha-a-Nova"
+            ],
+            "nrOficio": "83/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": "2020-06-08",
+            "entidades": [
+              "Instituto Politécnico de Castelo Branco"
+            ],
+            "nrOficio": "84/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": "2020-10-16",
+            "entidades": [
+              "Ministro da Ciência Tecnologia e Ensino Superior"
+            ],
+            "nrOficio": "80/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-07-09",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915050",
+                "obs": null,
+                "pag": [
+                  "29-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-07-25",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/052/2020-07-25/29?pgs=29-31&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-05-22",
+        "DataArquivo": "2020-07-10",
+        "DataBaixaComissao": "2020-03-18",
+        "DataEnvioPAR": "2020-07-16",
+        "DataReaberta": "2020-05-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-07-06",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694d6a63775a4459314d4330774d54686d4c5451325a445574596a45314e5330355a47566c4d7a6b315a575135597a41756347526d&fich=b270d650-018f-46d5-b155-9dee395ed9c0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793877596a5a684f4451354d6930324f57566c4c5452684d6d49744f4755304d6930304d5745304d6d4e68597a6b354d6a45756347526d&fich=0b6a8492-69ee-4a2b-8e42-41a42cac9921.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324d546c6c4d7a55784d7930305a5746684c54526b4e4445744f445a684e5331684e7a55304e6d566a4f475133595445756347526d&fich=619e3513-4eaa-4d41-86a5-a7546ec8d7a1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694e6d517a4d6d45785a5330794f4451354c5451314f5441744f544668597930784d6d46694e44646b4f47497a4d7a67756347526d&fich=b6d32a1e-2849-4590-91ac-12ab47d8b338.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793833596d51314e54686d4e6930314d475a6b4c5451334e7a6b74596a4d785979316c5a4745304d6d55784e6d49315a6a67756347526d&fich=7bd558f6-50fd-4779-b31c-eda42e16b5f8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334d574d314d7a45354d43316a4d6d457a4c5451314e5759744f5449324d6931694e4441304d57466c5a6a59344e6d59756347526d&fich=71c53190-c2a3-455f-9262-b4041aef686f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4e4451334d3245315a6930354f5751324c5451324e7a49744f5449344e5331695a5459775a4459794e324d784f4751756347526d&fich=f4473a5f-99d6-4672-9285-be60d627c18d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279383359574e6d4d5455305a4330774e5445784c5451794e5463744f546c695a5330784e6a51304e5751794f5441314d3249756347526d&fich=7acf154d-0511-4257-99be-16445d29053b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-06-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4f545a6d5a544d324e4330774f5459314c5451784d474574596a6b354e6930304e54677a4e3255345a4749314d5455756347526d&fich=d96fe364-0965-410a-b996-45837e8db515.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784d6d5a68595467344e433078597a51794c54517a595749744f446b784d5330345a6d4a6b59544d304e544535595749756347526d&fich=12faa884-1c42-43ab-8911-8fbda34519ab.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938304e6d526c596a6b795979316a4e6a56694c5451304e445974596d5a6d4f5330314e7a673059544e6a4f54637a4d3255756347526d&fich=46deb92c-c65b-4446-bff9-5784a3c9733e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784d6d526a4d6d5a6b59533033596a49784c54526a5a545574596a51795a69316d59324d315a5751304e6a63795a5451756347526d&fich=12dc2fda-7b21-4ce5-b42f-fcc5ed4672e4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774d5759355a5749785953316d4e7a46694c5451324f5459744f4441325953316b4d4452694d474a685a6a63314d7a4d756347526d&fich=01f9eb1a-f71b-4696-806a-d04b0baf7533.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-05-22",
+            "gp": "PS",
+            "id": "5837",
+            "motivoCessacao": null,
+            "nome": "Alexandra Tavares de Moura"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-03-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-03-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32497a4d3245314f44426d4c574d354d4749744e4755344e6930344d546c694c546b314d5441354f574e6d4e575a6a4d4335775a47593d&fich=b33a580f-c90b-4e86-819b-951099cf5fc0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45273",
+      "45284",
+      "45285",
+      "45342",
+      "45390",
+      "45412"
+    ],
+    "Iniciativasoriginadas": [
+      "45273",
+      "45284",
+      "45285",
+      "45342",
+      "45390",
+      "45412"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova (Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova); Pela autonomia da Escola Superior de Gestão de Idanha-a-Nova; Pela salvaguarda da autonomia da Escola Superior de Gestão de Idanha-a-Nova; Recomenda ao Governo que encontre uma solução para a Escola Superior de Gestão de Idanha-a-Nova social e territorialmente justa para o concelho; Recomenda ao Governo que promova esforços concertados para que sejam encontradas soluções alternativas que garantam, simultaneamente, a sustentabilidade financeira do Instituto Politécnico de Castelo Branco e a sua permanência no território de Idanha-a-Nova, contribuindo assim para a coesão territorial e o desenvolvimento de toda esta região do interior do País; Autonomia administrativa, pedagógica e científica da Escola Superior de Gestão de Idanha-a-Nova e Recomenda ao Governo que promova uma solução que salvaguarde o projeto educativo da Escola Superior de Gestão de Idanha-a-Nova e do Instituto Politécnico de Castelo Branco. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova (Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova); Pela autonomia da Escola Superior de Gestão de Idanha-a-Nova; Pela salvaguarda da autonomia da Escola Superior de Gestão de Idanha-a-Nova; Recomenda ao Governo que encontre uma solução para a Escola Superior de Gestão de Idanha-a-Nova social e territorialmente justa para o concelho; Recomenda ao Governo que promova esforços concertados para que sejam encontradas soluções alternativas que garantam, simultaneamente, a sustentabilidade financeira do Instituto Politécnico de Castelo Branco e a sua permanência no território de Idanha-a-Nova, contribuindo assim para a coesão territorial e o desenvolvimento de toda esta região do interior do País; Autonomia administrativa, pedagógica e científica da Escola Superior de Gestão de Idanha-a-Nova e Recomenda ao Governo que promova uma solução que salvaguarde o projeto educativo da Escola Superior de Gestão de Idanha-a-Nova e do Instituto Politécnico de Castelo Branco. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova (Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova); Pela autonomia da Escola Superior de Gestão de Idanha-a-Nova; Pela salvaguarda da autonomia da Escola Superior de Gestão de Idanha-a-Nova; Recomenda ao Governo que encontre uma solução para a Escola Superior de Gestão de Idanha-a-Nova social e territorialmente justa para o concelho; Recomenda ao Governo que promova esforços concertados para que sejam encontradas soluções alternativas que garantam, simultaneamente, a sustentabilidade financeira do Instituto Politécnico de Castelo Branco e a sua permanência no território de Idanha-a-Nova, contribuindo assim para a coesão territorial e o desenvolvimento de toda esta região do interior do País; Autonomia administrativa, pedagógica e científica da Escola Superior de Gestão de Idanha-a-Nova e Recomenda ao Governo que promova uma solução que salvaguarde o projeto educativo da Escola Superior de Gestão de Idanha-a-Nova e do Instituto Politécnico de Castelo Branco. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=40"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37",
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/37?pgs=37,40&org=PLC"
+              }
+            ],
+            "Sumario": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova (Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova); Pela autonomia da Escola Superior de Gestão de Idanha-a-Nova; Pela salvaguarda da autonomia da Escola Superior de Gestão de Idanha-a-Nova; Recomenda ao Governo que encontre uma solução para a Escola Superior de Gestão de Idanha-a-Nova social e territorialmente justa para o concelho; Recomenda ao Governo que promova esforços concertados para que sejam encontradas soluções alternativas que garantam, simultaneamente, a sustentabilidade financeira do Instituto Politécnico de Castelo Branco e a sua permanência no território de Idanha-a-Nova, contribuindo assim para a coesão territorial e o desenvolvimento de toda esta região do interior do País; Autonomia administrativa, pedagógica e científica da Escola Superior de Gestão de Idanha-a-Nova e Recomenda ao Governo que promova uma solução que salvaguarde o projeto educativo da Escola Superior de Gestão de Idanha-a-Nova e do Instituto Politécnico de Castelo Branco. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova (Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova); Pela autonomia da Escola Superior de Gestão de Idanha-a-Nova; Pela salvaguarda da autonomia da Escola Superior de Gestão de Idanha-a-Nova; Recomenda ao Governo que encontre uma solução para a Escola Superior de Gestão de Idanha-a-Nova social e territorialmente justa para o concelho; Recomenda ao Governo que promova esforços concertados para que sejam encontradas soluções alternativas que garantam, simultaneamente, a sustentabilidade financeira do Instituto Politécnico de Castelo Branco e a sua permanência no território de Idanha-a-Nova, contribuindo assim para a coesão territorial e o desenvolvimento de toda esta região do interior do País; Autonomia administrativa, pedagógica e científica da Escola Superior de Gestão de Idanha-a-Nova e Recomenda ao Governo que promova uma solução que salvaguarde o projeto educativo da Escola Superior de Gestão de Idanha-a-Nova e do Instituto Politécnico de Castelo Branco. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova (Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova); Pela autonomia da Escola Superior de Gestão de Idanha-a-Nova; Pela salvaguarda da autonomia da Escola Superior de Gestão de Idanha-a-Nova; Recomenda ao Governo que encontre uma solução para a Escola Superior de Gestão de Idanha-a-Nova social e territorialmente justa para o concelho; Recomenda ao Governo que promova esforços concertados para que sejam encontradas soluções alternativas que garantam, simultaneamente, a sustentabilidade financeira do Instituto Politécnico de Castelo Branco e a sua permanência no território de Idanha-a-Nova, contribuindo assim para a coesão territorial e o desenvolvimento de toda esta região do interior do País; Autonomia administrativa, pedagógica e científica da Escola Superior de Gestão de Idanha-a-Nova e Recomenda ao Governo que promova uma solução que salvaguarde o projeto educativo da Escola Superior de Gestão de Idanha-a-Nova e do Instituto Politécnico de Castelo Branco. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova (Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova); Pela autonomia da Escola Superior de Gestão de Idanha-a-Nova; Pela salvaguarda da autonomia da Escola Superior de Gestão de Idanha-a-Nova; Recomenda ao Governo que encontre uma solução para a Escola Superior de Gestão de Idanha-a-Nova social e territorialmente justa para o concelho; Recomenda ao Governo que promova esforços concertados para que sejam encontradas soluções alternativas que garantam, simultaneamente, a sustentabilidade financeira do Instituto Politécnico de Castelo Branco e a sua permanência no território de Idanha-a-Nova, contribuindo assim para a coesão territorial e o desenvolvimento de toda esta região do interior do País; Autonomia administrativa, pedagógica e científica da Escola Superior de Gestão de Idanha-a-Nova e Recomenda ao Governo que promova uma solução que salvaguarde o projeto educativo da Escola Superior de Gestão de Idanha-a-Nova e do Instituto Politécnico de Castelo Branco. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova (Movimento pela Autonomia da Escola Superior de Gestão de Idanha-a-Nova); Pela autonomia da Escola Superior de Gestão de Idanha-a-Nova; Pela salvaguarda da autonomia da Escola Superior de Gestão de Idanha-a-Nova; Recomenda ao Governo que encontre uma solução para a Escola Superior de Gestão de Idanha-a-Nova social e territorialmente justa para o concelho; Recomenda ao Governo que promova esforços concertados para que sejam encontradas soluções alternativas que garantam, simultaneamente, a sustentabilidade financeira do Instituto Politécnico de Castelo Branco e a sua permanência no território de Idanha-a-Nova, contribuindo assim para a coesão territorial e o desenvolvimento de toda esta região do interior do País; Autonomia administrativa, pedagógica e científica da Escola Superior de Gestão de Idanha-a-Nova e Recomenda ao Governo que promova uma solução que salvaguarde o projeto educativo da Escola Superior de Gestão de Idanha-a-Nova e do Instituto Politécnico de Castelo Branco. ",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13407",
+    "PetAssunto": "Pela autonomia e manutenção da sede da Escola Superior de Gestão de Idanha-a-Nova",
+    "PetDataEntrada": "2020-02-18",
+    "PeticoesAssociadas": null,
+    "PetId": "13407",
+    "PetLeg": "XIV",
+    "PetNr": "40",
+    "PetNrAssinaturas": "5578",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6004",
+        "obs": null,
+        "pag": [
+          "33-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-03-12",
+        "pubLeg": "XIV",
+        "pubNr": "50",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/33?pgs=33-40&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "906087",
+        "obs": null,
+        "pag": [
+          "14-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-30",
+        "pubLeg": "XIV",
+        "pubNr": "41",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/041/2020-05-30/14?pgs=14-17&org=PLC"
+      }
+    ]
+  }
+}
