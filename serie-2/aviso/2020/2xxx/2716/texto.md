@@ -1,0 +1,8 @@
+Aviso n.º 2716/2020
+Sumário: Discussão pública dos projetos de Regulamento Municipal do Serviço de Abastecimento Público de Água, Regulamento Municipal do Serviço de Saneamento de Águas Residuais e Regulamento Municipal do Serviço de Gestão de Resíduos Urbanos da Câmara Municipal da Calheta.
+Discussão Pública dos Projetos de Regulamento Municipal do Serviço de Abastecimento Público de Água, Regulamento Municipal do Serviço de Saneamento de Águas Residuais e Regulamento Municipal do Serviço de Gestão de Resíduos Urbanos da Câmara Municipal da Calheta
+Décio Natálio Almada Pereira, Presidente da Câmara Municipal da Calheta, torna público, nos termos do artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, em conformidade com a deliberação da Câmara Municipal datada de 23 de dezembro de 2019, se submete a discussão pública pelo prazo de 30 dias úteis, a contar do dia seguinte ao da publicação do presente aviso na 2.ª série do Diário da República os projetos de Regulamento Municipal do Serviço de Abastecimento Público de Água, Regulamento Municipal do Serviço de Saneamento de Águas Residuais e o Regulamento Municipal de Gestão de Resíduos Urbanos, do Município da Calheta.
+Os referidos Projetos de Regulamento, encontram-se disponíveis para consulta nos dias úteis no Atendimento ao Público da Câmara Municipal na Rua 25 de Abril, Calheta com o horário das 9h00 às 16h00, bem como na página do Município www.cm-calheta.pt.
+As sugestões ou observações aos referidos Projetos de Regulamento deverão ser formuladas por escrito, dirigidas ao Presidente da Câmara Municipal da Calheta dentro do prazo de discussão pública.
+26 de janeiro de 2020. - O Presidente, Décio Natálio Almada Pereira.
+312973871
