@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 2922/2020
+Sumário: Consulta pública do projeto de Regulamento de Publicidade e Ocupação do Espaço Público do Município de Alpiarça.
+Projeto de Regulamento de Publicidade e Ocupação do Espaço Público do Município de Alpiarça - Consulta pública
+Mário Fernando A. Pereira, Presidente da Câmara Municipal de Alpiarça, torna público que, nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, está a decorrer a fase de consulta pública do projeto de Regulamento de Publicidade e Ocupação do Espaço Público do Município de Alpiarça, pelo período de 30 dias a contar da publicação do presente aviso no Diário da República, cujo início do período de consulta pública foi deliberado em reunião de Câmara Municipal do dia vinte e oito de novembro do ano de dois mil e dezanove e sessão da Assembleia Municipal do dia vinte de dezembro do ano dois mil e dezanove.
+Durante esse período, o projeto de regulamento encontra-se disponível para consulta no Serviço de Taxas e Licenças desta Câmara Municipal, durante o horário normal de expediente, nos dias úteis entre as 9h:00 e as 17h:30, bem como no site do Município, em www.cm-alpiarca.pt, devendo as eventuais sugestões, reclamações ou observações ser dirigidas, por escrito, ao Presidente da Câmara Municipal de Alpiarça, por correio, correio eletrónico ou ainda presencialmente no atendimento da Câmara Municipal.
+9 de janeiro de 2020. - O Presidente da Câmara, Mário Fernando A. Pereira.
+312957136
