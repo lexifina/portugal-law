@@ -6,13 +6,13 @@
 
 a) Gabinete de Estudos, Planeamento e Formação: 2 núcleos;
 
-b) Gabinete de Relações Internacionais, Cooperação e Relações Públicas (GRICRP): 1 núcleo;
+b) Gabinete de Relações Internacionais, Cooperação e Relações Públicas (GRICRP): 2 núcleos;
 
 c) Gabinete de Apoio às Direções Regionais: 1 núcleo;
 
 d) Gabinete de Recursos Humanos: 1 núcleo;
 
-e) Gabinete de Sistemas de Informação: 3 núcleos;
+e) Gabinete de Sistemas de Informação: 2 núcleos;
 
 f) Direção Central de Gestão e Administração: 4 núcleos;
 
