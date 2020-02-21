@@ -1,0 +1,74 @@
+# Resolução n.º 72/2020
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 33/2020, suplemento, de 2020-02-21
+
+**Sumário:** Cria junto do departamento do Governo Regional que tutela os setores da informática e da administração pública, a estrutura de missão designada por Gabinete do Encarregado-Geral de Proteção de Dados (GEGPD), incumbida de assegurar de forma interdepartamental e para toda a administração pública regional, as responsabilidades da Região ao nível da Proteção de Dados Pessoais.
+
+## Texto
+
+Resolução n.º 72/2020
+A Resolução n.º 52/2018, de 5 de fevereiro, aprovou o Plano de Ação para a Aplicação do Regulamento Geral de Proteção de Dados (RGPD) à Administração Pública Regional, na sequência das obrigações que aquele diploma, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais, veio a estabelecer, procurando por essa via, preparar o pleno cumprimento das disposições legais ora vigentes nessa matéria
+De acordo com o Plano de Ação aprovado em anexo à referida Resolução, foram definidos o enquadramento institucional e o modelo de governança do Encarregado de Proteção de Dados (EPD), a que correspondem as competências identificadas no artigo 39.º do RGPD.
+Por seu turno, a Lei n.º 58/2019, de 8 de agosto, veio assegurar a execução na ordem jurídica interna Portuguesa do referido Regulamento Geral de Proteção de Dados (RGPD), a qual, no seu artigo 12.º, estabeleceu a obrigatoriedade de designação de um EPD para os organismos públicos da RAM, sendo que, nos termos do n.º 4 do mesmo artigo, pode ser designado um único EPD a um conjunto de organismos públicos, tendo em conta a respetiva estrutura organizacional e dimensão.
+Considerando que o cumprimento da missão do EPD deve ser alcançado através da criação de uma estrutura de suporte de natureza simplificada, que se possa adaptar de modo mais eficiente a alguma eventual mudança estratégica no funcionamento da unidade a criar, opta-se pela criação de uma estrutura de missão, nos termos do disposto no artigo 28.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelo Decreto Legislativo Regional n.º 24/2012/M, de 30 de agosto, pelo Decreto Legislativo Regional n.º 2/2013/M, de 2 de janeiro e pelo Decreto Legislativo Regional n.º 42-A/2016/M , de 30 de dezembro.
+Assim, o Conselho do Governo reunido em plenário em 20 de fevereiro de 2020, resolve:
+1 - Criar junto do departamento do Governo Regional que tutela os setores da informática e da administração pública, a estrutura de missão designada por Gabinete do Encarregado-Geral de
+
+Proteção de Dados (GEGPD), incumbida de assegurar de forma interdepartamental e para toda a administração pública regional, as responsabilidades da Região ao nível da Proteção de Dados Pessoais.
+2 - A Unidade de Missão é dirigida pelo Encarregado-Geral de Proteção de Dados (EGPD), coadjuvado pelo Encarregado-Geral-Adjunto de Proteção de Dados (EGAPD).
+3 - Determinar que, no arranque do GEGPD, serão ainda afetos à sua instalação e funcionamento, em regime de mobilidade, pessoal de informática, da área jurídica e administrativa, até ao máximo de 4 trabalhadores.
+4 - A estrutura designada Gabinete do Encarregado-Geral de Proteção de Dados (GEGPD), é a estrutura incumbida de, forma interdepartamental, assegurar, o controlo, auditoria e fiscalização da aplicação do Regulamento Geral de Proteção de Dados (RGPD), Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 e da Lei n.º 58/2019, de 8 de agosto a fim de defender os direitos, liberdades e garantias das pessoas singulares no âmbito dos tratamentos de dados pessoais.
+5 - Estabelecer que a Rede de Privacidade e Proteção de Dados (RPPD), criada no âmbito do Plano de Ação para aplicação do RGPD, aprovado pela Resolução n.º 52/2018, de 5 de fevereiro, mantém as suas funções como estrutura de apoio técnico do EGPD, sendo composta pelos interlocutores de cada departamento do Governo Regional, nomeado pelos respetivos membros do Governo.
+6 - Determinar que, nos termos do n.º 4 do artigo 12.º da Lei n.º 58/2019, de 8 de agosto, o EGPD é designado Encarregado de Proteção de Dados para todos os organismos da administração pública regional direta e indireta, incluindo o setor público empresarial desde que os órgãos de gestão destas últimas entidades expressamente o declarem perante o EGPD.
+7 - Determinar que as funções do GEGPD são as constantes no artigo 11.º da Lei n.º 58/2019, de 8 de agosto, incluindo funções de controlo e auditoria da sua aplicação, sem prejuízo das que lhe possam ser atribuídas no âmbito da legislação nacional e regional ou resultarem do seu Regulamento Interno, e adicionalmente: a) Exercer funções de regulamentação, supervisão e auditoria; b) Dar parecer prévio, em todas as questões relacionadas com a proteção de dados pessoais, nomeadamente nos processos administrativos, incluindo os de contratação pública, diretrizes e orientações técnicas para a aplicação do RGPD pela administração pública regional; c) Propor ao Governo Regional uma política de privacidade e de proteção de dados a aplicar à toda a administração pública regional bem como os termos da sua aplicação.
+
+8 - Determinar que ao EGPD e seu adjunto é atribuído o estatuto que decorre do disposto no artigo 38.º do RGPD, nomeadamente: a) Ter acesso livre aos dados pessoais e às operações de tratamento; b) Sujeição apenas ao poder de tutela, gozando de independência relativamente ao exercício das suas funções; c) Nomeação mediante comissão de serviço e inamovibilidade da nomeação por motivos diretamente ligados ao exercício do cargo; d) O EGPD articula-se diretamente com os responsáveis máximos dos departamentos e organismos do Governo Regional.
+9 - Estabelecer que os serviços, organismos e estruturas da Administração Pública Regional, no âmbito das suas atribuições e áreas de intervenção, prestam ao GEGPD a colaboração solicitada.
+10 - Determinar que o GEGPD tenha uma vigência de 3 anos, prorrogável por iguais períodos.
+11 - Determinar que o Encarregado-Geral de Proteção de Dados (EGPD) e o Encarregado-Geral-Adjunto de Proteção de Dados (EGAPD) serão nomeados mediante Despacho do membro do Governo referido no n.º 1, sendo equiparados, respetivamente, a cargo de direção superior de 2.º grau e a cargo de direção intermédia de 1.º grau.
+12 - Determinar que o Regulamento Interno, que regulará o funcionamento do GEGPD, deverá ser aprovado por decisão do membro do Governo referido no n.º 1, no prazo máximo de 30 dias após a nomeação dos dirigentes da estrutura de missão.
+13 - A Presente Resolução entra em vigor no dia seguinte à sua publicação.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 73/2020
+Considerando que a ASA - Associação para o Desenvolvimento da Freguesia de Santo António, tem por objetivo principal promover o desenvolvimento, a valorização e recuperação urbanística das freguesias de Santo António, São Roque e outras do concelho do Funchal, e praticar ações com vista a contribuir para a melhoria do nível económico e sociocultural das populações da respetiva área de atuação;
+Considerando que a ASA - Associação para o Desenvolvimento da Freguesia de Santo António tem desempenhado um papel preponderante no desenvolvimento social, cultural, recreativo e desportivo da comunidade da sua área de influência, organizando atividades de cariz social, com o intuito de dar respostas às populações mais carenciadas, sendo reconhecida como uma pessoa coletiva de utilidade pública;
+Considerando que as receitas próprias da ASA - Associação para o Desenvolvimento da Freguesia de Santo António, se manifestam insuficientes para fazer face às despesas inerentes à sua atividade de promoção e de desenvolvimento da comunidade, cujo mérito é socialmente reconhecido;
+
+Considerando que tais despesas constituem um esforço meritório indispensável à prossecução dos objetivos de serviço público por parte daquela Associação;
+Considerando que se torna importante dar apoio à continuidade do trabalho já desenvolvido e cuja relevância permitiu anteriormente a atribuição de apoio financeiro às suas atividades;
+Considerando a importância de que se reveste o associativismo, o voluntariado dos associados da ASA - Associação para o Desenvolvimento da Freguesia de Santo António e o papel primordial que lhes é atribuído no âmbito do desenvolvimento da comunidade da sua área de influência, sendo do interesse público a viabilização da sua ação.
+Nestes termos, o Conselho do Governo reunido em plenário em 20 de fevereiro de 2020, resolve:
+1. Autorizar, ao abrigo do disposto no artigo 33.º do Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, que aprova o Orçamento da Região Autónoma da Madeira para 2020, a celebração de um contrato-programa com a ASA - Associação para o Desenvolvimento da Freguesia de Santo António, de modo a contribuir para a prossecução das atividades de promoção do desenvolvimento social, cultural, recreativo e desportivo e o funcionamento da instituição no ano de 2020.
+2. Para a prossecução dos objetivos estabelecidos no número anterior, conceder à ASA - Associação para o Desenvolvimento da Freguesia de Santo António uma comparticipação financeira que não poderá ultrapassar o montante máximo de € 108.880,00 (cento e oito mil, oitocentos e oitenta euros), que será processada numa única prestação após a outorga do contrato-programa e até 31 de dezembro de 2020, distribuída da seguinte forma: a) Despesas de funcionamento, até ao montante de € 3.000,00 (três mil euros); b) Despesas com atividades de promoção do desenvolvimento social, cultural, recreativo e desportivo, até ao montante de € 105.880,00 (cento e cinco mil, oitocentos e oitenta euros).
+3. O contrato-programa a celebrar com a ASA - Associação para o Desenvolvimento da Freguesia de Santo António produz efeitos desde a data da sua assinatura até 31 de dezembro de 2020.
+4. Aprovar a minuta do contrato-programa, que faz parte integrante desta Resolução e que fica arquivada na Secretaria Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+5. Mandatar a Secretária Regional de Inclusão Social e Cidadania para, em representação da Região, elaborar o respetivo processo e outorgar o contratoprograma.
+6. As despesas resultantes do contrato-programa a celebrar estão inscritas no orçamento da Secretaria Regional de Inclusão Social e Cidadania para o ano de 2020, na Classificação orgânica 48 0 01 01 00, Classificação funcional 231, Classificação económica D.04.07.01 U0.00, Fonte 111, Programa 048, Medida 022, Atividade 168, Centro Financeiro M100800, Compromisso n.º CY52003075.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução n.º 74/2020
+O Conselho do Governo reunido em plenário em 20 de fevereiro de 2020, resolve:
+Aprovar o Decreto Regulamentar Regional que aprova a orgânica da Direção Regional dos Assuntos Sociais.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 75/2020
+Considerando que a estrutura, composição e funcionamento da Comissão de Acompanhamento da Gestão de Resíduos, abreviadamente designada por CAGER, foi fixada pela Portaria n.º 306/2016, de 7 de dezembro;
+Considerando que, nos termos do disposto na alínea d), do número 2, do artigo 2.º, da referenciada Portaria, a CAGER é constituída por um Conselho Consultivo que deve integrar representantes dos órgãos dos Governos Regionais das Regiões Autónomas;
+Considerando que, pelo Despacho Conjunto n.º 19/2020, da Presidência do Governo Regional e da Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas, publicado no JORAM, II Série, n.º 18, de 27 de janeiro, foi nomeado para o cargo de Diretor Regional do Ambiente e Alterações Climáticas, o Licenciado em Engenharia Biológica, Manuel Ara Gouveia Gomes de Oliveira;
+Assim, o Conselho de Governo reunido em plenário em 20 de fevereiro de 2020, resolve:
+1 - Designar o Engenheiro Manuel Ara Gouveia Gomes de Oliveira, Diretor Regional do Ambiente e Alterações Climáticas, como representante do Governo Regional da Região Autónoma da Madeira no Conselho Consultivo da Comissão de Acompanhamento da Gestão de Resíduos.
+2 - A presente resolução produz efeitos imediatos.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 76/2020
+Considerando que pelo Decreto Legislativo Regional n.º 6/2006/M, de 14 de março, aditado pelo Decreto Legislativo Regional n.º 14/2010/M, de 5 de agosto, foi criado o CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM, com a natureza de entidade pública empresarial;
+Considerando que o CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM é uma entidade pública empresarial, cujo capital estatutário é integralmente detido pela Região Autónoma da Madeira, e que esta entidade, no exercício da sua atividade, carece da intervenção e apoio da Região Autónoma da Madeira, de modo a dar resposta às necessidades de natureza económico-financeira;
+Considerando que a Região Autónoma da Madeira se encontra na situação de ter que realizar e apoiar o CARAM - Centro de Abate da Região Autónoma da
+
+Madeira, EPERAM através de um aumento de capital estatutário que lhe permita manter um nível económico-financeiro que possibilite acautelar as despesas de funcionamento próprias do ano corrente.
+O Conselho do Governo reunido em plenário em 20 de fevereiro de 2020, resolve:
+1 - Ao abrigo do disposto no n.º 2 do artigo 35.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro e nos n.ºs 3 e 5 do art.º 4.º do Decreto Legislativo Regional n.º 6/2006/M, de 14 de março, na sua atual redação, bem como nos n.ºs 3 e 5 do art.º 4.º dos respetivos Estatutos aprovados e constantes em anexo ao mesmo diploma, aumentar o capital estatutário do CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM, por entrada em dinheiro, no valor de € 363.286,00
+
+(trezentos e sessenta e três mil duzentos e oitenta e seis euros), que irá possibilitar acautelar as despesas de funcionamento próprias do ano corrente.
+2 - A despesa fixada no número anterior tem cabimento orçamental no Orçamento da Região Autónoma da Madeira para 2020, na Classificação Orgânica 51 0 01 01 00, Classificação Económica D.09.07.07.M0.00, Classificação Funcional 311, Programa 051, Medida 060, Fonte de Financiamento 111, Atividade 254, Centro Financeiro M100600, Fundo 5111000097, Cabimento número CY42003370 e com o número de compromisso CY52003249.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
