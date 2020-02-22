@@ -6,11 +6,11 @@
 
 Despesas elegíveis
 
-1 - Elaboração ou revisão de estudos e projetos e de ações de consultoria, designadamente jurídica, arqueológica e ambiental, desde 1 de janeiro de 2014 e com o limite de 5 % da despesa elegível total da operação, com as seguintes especificidades no caso de candidaturas que respeitem apenas a estudos ou projetos a que se refere o n.º 2 do artigo 6.º:
+1 - Elaboração ou revisão de estudos e projetos e de ações de consultoria, designadamente jurídica, arqueológica e ambiental, desde 1 de janeiro de 2014 e com o limite de 5 % da despesa elegível total da operação, com as seguintes especificidades:
 
-a) O estudo ou projeto não estar concluído à data da apresentação da candidatura;
+a) No caso de candidaturas que respeitem apenas a estudos ou projetos a que se refere o n.º 2 do artigo 6.º, e em que o estudo ou projeto não esteja concluído à data da apresentação da candidatura, o limite de 5 % não é aplicável;
 
-b) O limite de 5 % não é aplicável.
+b) No caso de candidaturas para a melhoria da segurança de barragens, apresentadas antes de 28 de março de 2018 e que nessa consequência tenham sido objeto de reclassificação da classe de risco, o limite de 5 % não é aplicável, até ao valor originalmente aprovado.
 
 2 - Execução de obras, incluindo:
 
