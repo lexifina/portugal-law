@@ -26,4 +26,4 @@ j) Ações constantes dos planos de atividades das ELA ou das estruturas equival
 
 k) Outras ações que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante.
 
-2 - As operações que se enquadrem no número anterior devem ter enquadramento na dotação anual afeta à «Assistência Técnica».
+2 - (Revogado).
