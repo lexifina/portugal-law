@@ -1,0 +1,551 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13411",
+  "numero": "44",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-02-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-07-08",
+            "entidades": null,
+            "id": "115281",
+            "tipo": null,
+            "titulo": "Audição em 2020-07-08 com Audição dos Peticionários da Petição n.º 44/XIV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-09-23",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "912266",
+                "obs": null,
+                "pag": [
+                  "14-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/006/2020-10-09/14?pgs=14-16&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-04-30",
+        "DataArquivo": "2020-09-23",
+        "DataBaixaComissao": "2020-03-18",
+        "DataEnvioPAR": "2020-09-24",
+        "DataReaberta": "2020-04-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-04-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793830597a67785a4749324e433079596d45324c5451314d474574595745305a4330355a6d526c4d6a55774d446b344e5759756347526d&fich=4c81db64-2ba6-450a-aa4d-9fde2500985f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-09-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793833596a41354e6a52694e7931694d47466d4c5451794d544574595463784e5331684e6a646c5a446734596d4e685a444d756347526d&fich=7b0964b7-b0af-4211-a715-a67ed88bcad3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7424",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-04-30",
+            "gp": "PS",
+            "id": "6962",
+            "motivoCessacao": null,
+            "nome": "Susana Correia"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-02-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-03-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3259784d475177597a566c4c575669597a4d744e44426d4d5331694e7a4a6b4c5459345a4445344d5455355957466b4d6935775a47593d&fich=f10d0c5e-ebc3-40f1-b72d-68d18159aad2.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45476",
+      "45576",
+      "45589",
+      "45597"
+    ],
+    "Iniciativasoriginadas": [
+      "45476",
+      "45576",
+      "45589",
+      "45597"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=11"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura» do Hospital Visconde de Salreu; Investimento e requalificação do Hospital Visconde de Salreu; Pela valorização do Hospital Visconde Salreu, em Estarreja; Pela reabertura do serviço de urgência e adequado funcionamento do Hospital Visconde de Salreu (Estarreja) e Requalificação do Hospital Visconde de Salreu.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=12"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura» do Hospital Visconde de Salreu; Investimento e requalificação do Hospital Visconde de Salreu; Pela valorização do Hospital Visconde Salreu, em Estarreja; Pela reabertura do serviço de urgência e adequado funcionamento do Hospital Visconde de Salreu (Estarreja) e Requalificação do Hospital Visconde de Salreu.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=13"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura» do Hospital Visconde de Salreu; Investimento e requalificação do Hospital Visconde de Salreu; Pela valorização do Hospital Visconde Salreu, em Estarreja; Pela reabertura do serviço de urgência e adequado funcionamento do Hospital Visconde de Salreu (Estarreja) e Requalificação do Hospital Visconde de Salreu.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=14"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/14?pgs=14&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura» do Hospital Visconde de Salreu; Investimento e requalificação do Hospital Visconde de Salreu; Pela valorização do Hospital Visconde Salreu, em Estarreja; Pela reabertura do serviço de urgência e adequado funcionamento do Hospital Visconde de Salreu (Estarreja) e Requalificação do Hospital Visconde de Salreu.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=15"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/15?pgs=15&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura» do Hospital Visconde de Salreu; Investimento e requalificação do Hospital Visconde de Salreu; Pela valorização do Hospital Visconde Salreu, em Estarreja; Pela reabertura do serviço de urgência e adequado funcionamento do Hospital Visconde de Salreu (Estarreja) e Requalificação do Hospital Visconde de Salreu.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=16"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura» do Hospital Visconde de Salreu; Investimento e requalificação do Hospital Visconde de Salreu; Pela valorização do Hospital Visconde Salreu, em Estarreja; Pela reabertura do serviço de urgência e adequado funcionamento do Hospital Visconde de Salreu (Estarreja) e Requalificação do Hospital Visconde de Salreu.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=17"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura» do Hospital Visconde de Salreu; Investimento e requalificação do Hospital Visconde de Salreu; Pela valorização do Hospital Visconde Salreu, em Estarreja; Pela reabertura do serviço de urgência e adequado funcionamento do Hospital Visconde de Salreu (Estarreja) e Requalificação do Hospital Visconde de Salreu.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13411",
+    "PetAssunto": "\"Reabertura\" do Hospital Visconde de Salreu",
+    "PetDataEntrada": "2020-02-27",
+    "PeticoesAssociadas": null,
+    "PetId": "13411",
+    "PetLeg": "XIV",
+    "PetNr": "44",
+    "PetNrAssinaturas": "4002",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "5990",
+        "obs": null,
+        "pag": [
+          "11-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-02-04",
+        "pubLeg": "XIV",
+        "pubNr": "44",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/11?pgs=11-17&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "912250",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-03",
+        "pubLeg": "XIV",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/005/2020-10-03/10?pgs=10-11&org=PLC"
+      }
+    ]
+  }
+}
