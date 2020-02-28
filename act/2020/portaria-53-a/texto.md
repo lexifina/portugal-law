@@ -1,0 +1,150 @@
+Portaria n.º 53-A/2020
+de 28 de fevereiro
+Sumário: Aprova o regulamento eleitoral da Casa do Douro e designa os membros da sua comissão eleitoral e procede à marcação da data das eleições para os delegados municipais do conselho geral e para a direção da Casa do Douro.
+A Lei n.º 73/2019, de 2 de setembro, procedeu à reinstitucionalização da Casa do Douro enquanto associação pública de inscrição obrigatória e aprovou os seus estatutos, onde se destaca um novo sistema de representação dos viticultores, com dois dos órgãos, o conselho geral e a direção, cujos membros são objeto de eleição direta pelos associados singulares da Casa do Douro.
+Na sequência da entrada em vigor da referida lei no dia 1 de janeiro de 2020, e conforme previsto no seu artigo 3.º, a presente portaria vem aprovar o regulamento eleitoral da Casa do Douro, designar a sua comissão eleitoral e proceder à marcação das datas relativas ao processo eleitoral.
+Pretende-se ainda que o presente regulamento eleitoral seja mantido em vigor para futuros atos eleitorais da Casa do Douro, com as devidas adaptações.
+Assim:
+Ao abrigo do disposto nos n.os 1 e 2 do artigo 3.º da Lei n.º 73/2019, de 2 de setembro, e do n.º 4 do artigo 2.º dos Estatutos da Casa do Douro, aprovados em anexo à referida lei, manda o Governo, pela Ministra da Agricultura, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria aprova o regulamento eleitoral da Casa do Douro, designa os membros da sua comissão eleitoral e procede à marcação da data das eleições para os delegados municipais do conselho geral e para a direção da Casa do Douro.
+Artigo 2.º
+Regulamento eleitoral
+É aprovado o Regulamento Eleitoral da Casa do Douro, constante do anexo à presente portaria e que dela faz parte integrante.
+Artigo 3.º
+Comissão eleitoral
+1 - É designado presidente da comissão eleitoral da Casa do Douro o doutor Gilberto Paulo Peixoto Igrejas.
+2 - São designados vogais da comissão eleitoral da Casa do Douro a licenciada Carla Maria Gonçalves Alves Pereira e o licenciado Agostinho Gonçalves Alves da Santa.
+3 - Os membros da comissão eleitoral referidos nos números anteriores não auferem qualquer tipo de remuneração pelo exercício das funções para as quais foram designados.
+Artigo 4.º
+Apoio administrativo e divulgação
+1 - O apoio logístico e administrativo necessário à realização das tarefas da comissão eleitoral é assegurado pelo Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.).
+2 - Cabe ao IVDP, I. P., a manutenção e atualização de um sítio na Internet onde seja divulgada toda a informação relevante para o processo eleitoral, nomeadamente a legislação aplicável, avisos, esclarecimentos e decisões da comissão eleitoral, cadernos eleitorais e listas de candidaturas.
+Artigo 5.º
+Datas do processo eleitoral
+1 - É marcado o dia de 16 de maio de 2020 para a realização das primeiras eleições para os delegados municipais do conselho geral e para a direção da Casa do Douro reinstitucionalizada.
+2 - Com vista à realização das eleições na data indicada no número anterior, compete à comissão eleitoral definir e divulgar os prazos para cada uma das fases do processo eleitoral, de acordo com o estipulado no Regulamento Eleitoral.
+Artigo 6.º
+Delegados cooperativos e associativos
+1 - Até ao 5.º dia útil posterior à data referida no n.º 1 do artigo anterior, os associados coletivos da Casa do Douro, a que alude o n.º 4 do artigo 4.º dos Estatutos da Casa do Douro, indicam, por escrito, à comissão eleitoral, o delegado cooperativo ou associativo, consoante o caso, que os representará durante o mandato do conselho geral.
+2 - Compete à mesa do conselho geral, na primeira reunião subsequente à instalação, verificar a conformidade legal dos associados coletivos e seus delegados, para efeitos de determinar a composição do conselho geral, nos termos do artigo 14.º dos Estatutos da Casa do Douro.
+Artigo 7.º
+Processos eleitorais subsequentes
+1 - Os membros da comissão eleitoral referidos no artigo 3.º mantêm-se em funções até à sua substituição.
+2 - Cabe ao conselho geral designar os membros da comissão eleitoral para futuros atos eleitorais.
+Artigo 8.º
+Produção de efeitos
+A presente portaria produz efeitos na data da sua assinatura.
+A Ministra da Agricultura, Maria do Céu de Oliveira Antunes Albuquerque, em 28 de fevereiro de 2020.
+ANEXO
+(a que se refere o artigo 2.º da presente portaria)
+REGULAMENTO ELEITORAL DA CASA DO DOURO
+CAPÍTULO I
+Princípios gerais
+Artigo 1.º
+Âmbito
+O presente Regulamento Eleitoral aplica-se ao conselho geral e à direção da Casa do Douro, conforme o n.º 1 do artigo 3.º da Lei n.º 73/2019, de 2 de setembro, e o n.º 4 do artigo 2.º dos Estatutos da Casa do Douro, aprovados em anexo ao diploma referido (daqui em diante abreviadamente designados por Estatutos).
+Artigo 2.º
+Capacidade eleitoral ativa
+1 - São eleitores para os órgãos da Casa do Douro referidos no artigo anterior todos os viticultores, pessoas singulares ou coletivas, legalmente reconhecidos pelo Estado através do Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.), que adquirem a qualidade de associados singulares da Casa do Douro, nos termos do n.º 1 do artigo 4.º dos Estatutos.
+2 - Excluem-se do disposto no número anterior os viticultores considerados associados coletivos, nos termos do n.º 4 do artigo 4.º dos Estatutos.
+3 - Para efeitos da constituição dos cadernos eleitorais mencionados no artigo 5.º, consideram-se os registos do IVDP, I. P., no dia 1 de janeiro do ano civil da data das eleições.
+4 - Para exercício do direito de voto, o eleitor pessoa singular deve fazer-se acompanhar de cartão do cidadão ou bilhete de identidade.
+5 - A prova documental da qualidade de representante de pessoa coletiva faz-se por meio idóneo que comprove os poderes de gerência ou administração, cabendo um voto por cada pessoa coletiva.
+Artigo 3.º
+Capacidade eleitoral passiva
+1 - São elegíveis para delegados municipais do conselho geral e membros da direção da Casa do Douro todos os associados singulares com capacidade eleitoral ativa, tal como definida no artigo anterior, sem prejuízo do disposto nos números seguintes.
+2 - É incompatível o exercício de funções nos órgãos da Casa do Douro por parte de todos os que com ela tenham uma relação de emprego, prestação de serviços ou de fornecimentos.
+3 - A qualidade de membro da direção é incompatível com a de membro do conselho geral.
+Artigo 4.º
+Comissão eleitoral
+1 - A comissão eleitoral é composta por três membros.
+2 - O mandato dos membros da comissão eleitoral é de três anos.
+3 - Os membros da comissão eleitoral mantêm-se em funções até à designação dos respetivos substitutos.
+4 - Compete à comissão eleitoral liderar e orientar todos os atos preparatórios e executórios do processo eleitoral, incluindo decidir reclamações e conhecer, em última instância, de recursos interpostos de atos praticados pelas mesas de voto.
+5 - Para o exercício das suas funções, a comissão eleitoral pode pedir colaboração ao IVDP, I. P., às câmaras municipais e juntas de freguesia da Região Demarcada do Douro e a qualquer outra entidade pública ou privada que possa facilitar o decurso do processo eleitoral.
+CAPÍTULO II
+Eleição dos órgãos
+SECÇÃO I
+Normas comuns
+Artigo 5.º
+Cadernos eleitorais
+1 - Os eleitores são distribuídos por cadernos eleitorais organizados por freguesia, dentro de cada círculo eleitoral, conforme disposto no n.º 3 do artigo 4.º dos Estatutos.
+2 - Cada eleitor é inscrito no círculo eleitoral onde se verificar a maior quota da sua produção, conforme o disposto no n.º 4 do artigo 15.º dos Estatutos.
+3 - Para efeitos do número anterior, será considerada a produção declarada ao IVDP, I. P., na campanha do ano civil anterior à data das eleições.
+4 - No caso de existirem eleitores com produção igual em dois círculos, ou sem produção declarada na campanha, releva o círculo onde possuam maior área de vinha ou, em caso de igualdade neste critério, a localização da sede ou domicílio fiscal.
+5 - Na organização dos cadernos eleitorais por freguesia, aplicar-se-ão os critérios previstos nos números anteriores, com as necessárias adaptações, sendo que nenhum eleitor poderá ficar inscrito em freguesia fora do círculo eleitoral a que pertence.
+6 - Cabe à comissão eleitoral estabelecer critérios supletivos, em caso de necessidade.
+7 - Os eleitores são inscritos nos cadernos eleitorais apenas com a menção do número de identificação fiscal e do seu nome completo ou designação social, por ordem alfabética.
+8 - Os cadernos eleitorais provisórios, no seu conjunto, serão disponibilizados para consulta na sede da Casa do Douro, entre o 47.º e o 42.º dia útil anterior à data marcada para as eleições.
+9 - Nesse mesmo período, os cadernos eleitorais das freguesias de cada círculo serão disponibilizados para consulta na sede do concelho respetivo e, em moldes a definir pela comissão eleitoral, no sítio da Internet disponibilizado para o efeito.
+10 - No período previsto no n.º 8 deste artigo, pode a comissão eleitoral receber, apreciar e decidir reclamações acerca de inexatidões ou omissões dos cadernos eleitorais, apresentadas por qualquer interessado.
+11 - Até ao 39.º dia anterior à data das eleições, a comissão eleitoral torna definitivos os cadernos eleitorais, disponibilizando-os para consulta nos termos previstos nos n.os 8 e 9 do presente artigo.
+Artigo 6.º
+Candidaturas
+1 - As listas referentes às candidaturas para delegado municipal do conselho geral ou para a direção são entregues à comissão eleitoral entre o 38.º e o 29.º dia útil anterior à data marcada para as eleições.
+2 - Os candidatos integrantes das listas são identificados pelo nome completo, círculo eleitoral e número de identificação fiscal, devendo ainda apresentar os elementos identificativos que sejam definidos pela comissão eleitoral.
+3 - O candidato representante de pessoa coletiva deve apresentar declaração de representação, assinada por quem tenha poderes de gerência ou administração do representado.
+4 - Com a entrega das listas de candidatura deve ser junta uma declaração de propositura assinada, conjunta ou separadamente, por todos os proponentes, identificados com os elementos constantes nos números anteriores.
+5 - No mesmo ato, deve ser junta uma declaração de aceitação de candidatura, conjunta ou separadamente, pelos candidatos.
+6 - Cada lista de candidatura deve designar um mandatário que a represente em todo o processo eleitoral, podendo ser um dos proponentes ou candidatos, e indicar um endereço de correio eletrónico, que será utilizado como contacto pela comissão eleitoral, incluindo para efeitos de notificação de quaisquer atos.
+Artigo 7.º
+Admissão, impugnação e fixação das listas
+1 - As listas provisoriamente admitidas pela comissão eleitoral serão identificadas com as letras seguidas do alfabeto, iniciando-se na letra A, segundo a ordem da sua receção.
+2 - As listas provisoriamente admitidas são publicitadas, através de afixação, em local de acesso público, na sede da Casa do Douro, bem como no sítio da Internet disponibilizado para o efeito, até ao 25.º dia útil anterior à data das eleições.
+3 - Até ao 23.º dia útil anterior à data das eleições, qualquer eleitor devidamente identificado pode impugnar por escrito, perante a comissão eleitoral, as listas provisoriamente admitidas, com base em fundamentos suficientemente especificados.
+4 - Até ao 18.º dia útil anterior à data das eleições, a comissão eleitoral verifica a regularidade das candidaturas apresentadas, notificando, dentro do mesmo prazo, os respetivos mandatários para suprirem, em três dias úteis, as irregularidades detetadas, sob pena de rejeição definitiva das listas.
+5 - Até ao 11.º dia útil anterior à data das eleições, a comissão eleitoral, após decisão da admissibilidade definitiva das listas, procede à sua afixação na sede da Casa do Douro, em local de acesso público, no sítio da Internet disponibilizado para o efeito e notifica os respetivos mandatários.
+Artigo 8.º
+Assembleias de voto
+1 - Cabe à comissão eleitoral definir as assembleias de voto integrantes de cada círculo eleitoral, podendo, para o efeito, agrupar numa assembleia mais de um caderno eleitoral, desde que dentro do mesmo círculo.
+2 - Até ao 10.º dia útil anterior à data das eleições, a comissão eleitoral divulga, na sede da Casa do Douro e no sítio da Internet disponibilizado para o efeito, os locais onde funcionará cada uma das assembleias de voto, os cadernos eleitorais respetivos e os eleitores aí inscritos.
+3 - No prazo referido no número anterior, a comissão eleitoral nomeia, para cada assembleia, a mesa que presidirá ao ato eleitoral, constituída por um presidente e dois vogais, assumindo um deles as funções de secretário.
+4 - Os membros da mesa podem ser associados da Casa do Douro ou qualquer pessoa de reconhecido mérito e idoneidade para o efeito.
+5 - Os membros da mesa não podem ser candidatos por nenhuma lista, devem saber ler e assinar e residir no círculo eleitoral da respetiva assembleia.
+6 - O mandatário de cada lista pode designar um delegado e respetivo substituto, que o representam junto de cada mesa, devendo estes ser indicados à comissão eleitoral até ao 6.º dia útil anterior à data das eleições.
+7 - Até ao 5.º dia útil anterior à data das eleições, a comissão eleitoral envia aos presidentes das mesas os cadernos eleitorais respeitantes aos eleitores que votarão nas respetivas assembleias, as listas das candidaturas, o nome do delegado e respetivo substituto de cada lista junto da mesa, os boletins de voto e outros elementos necessários para a realização das eleições.
+8 - O presidente da mesa afixa as listas, no local onde vai decorrer o ato eleitoral, com antecedência de quarenta e oito horas.
+Artigo 9.º
+Funcionamento das assembleias de voto
+1 - As assembleias de voto terão a sua abertura às 9.00 horas e o seu encerramento às 17.00 horas.
+2 - Qualquer reclamação relativa ao ato eleitoral deverá ser apresentada por escrito na mesa da assembleia de voto respetiva, que, de imediato, sobre ela decidirá.
+3 - Qualquer eleitor pode interpor recurso para a comissão eleitoral de atos praticados pela mesa, que será conhecido e decidido no momento de apuramento geral dos resultados das eleições.
+4 - Será pela mesa lavrada ata que relate o que ocorrer durante o ato eleitoral e registe os seus resultados e que, juntamente com todos os boletins usados e não usados e demais elementos, será enviada, até final do dia útil seguinte, à comissão eleitoral.
+5 - Os resultados eleitorais, logo que apurados em cada assembleia de voto, serão afixados à porta do local respetivo e enviados por correio eletrónico para a comissão eleitoral, juntamente com cópia da ata.
+Artigo 10.º
+Apuramento geral de resultados
+1 - Até ao 5.º dia útil posterior ao dia das eleições, a comissão eleitoral, depois de decidir, em última instância, sobre eventuais recursos apresentados nos termos do n.º 4 do artigo anterior, procede ao apuramento geral dos resultados.
+2 - No mesmo dia, a comissão eleitoral promove a divulgação dos resultados na sede da Casa do Douro, em local de acesso público, bem como no sítio da Internet disponibilizado para o efeito, deles dando conhecimento aos mandatários das listas candidatas.
+SECÇÃO II
+Normas específicas por órgão
+Artigo 11.º
+Conselho geral
+1 - Os delegados municipais a que se refere a alínea a) do n.º 1 do artigo 14.º dos Estatutos são eleitos por círculos, conforme o n.º 2 do artigo 15.º dos Estatutos, segundo o sistema da representação proporcional e o método da média mais alta de Hondt.
+2 - O número de delegados municipais a eleger por cada círculo eleitoral é o que consta do mapa anexo a este regulamento, que dele faz parte integrante.
+3 - Caso se verifique a situação prevista no n.º 2 do artigo 14.º dos Estatutos, será eleito um delegado condicional, que constará com a indicação «+ 1» no mapa anexo a que alude o número anterior e assim constando das correspondentes listas do círculo eleitoral em causa.
+4 - Cada lista de candidatura ao conselho geral deve ser subscrita por um mínimo de 15 proponentes de entre os associados singulares inscritos no círculo eleitoral a que se refere a respetiva eleição.
+5 - Cada eleitor só pode subscrever ou integrar uma única lista e dentro do círculo eleitoral em que está inscrito como associado singular.
+6 - As listas propostas às eleições devem ser compostas por um número de candidatos efetivos igual ao número de mandatos a preencher, sem prejuízo do disposto no antecedente n.º 3, integrando também os candidatos suplentes em número igual ao de candidatos efetivos, num máximo de três.
+7 - Os candidatos consideram-se ordenados segundo a sequência constante da respetiva lista de candidatura referida no n.º 1 do artigo 6.º
+Artigo 12.º
+Direção
+1 - As candidaturas para a direção são apresentadas por listas completas dos seus membros, especificando os cargos a que concorre cada um dos elementos que as integram, de acordo com o n.º 1 do artigo 19.º dos Estatutos.
+2 - As listas devem apresentar, no mínimo, dois candidatos suplentes para preenchimento de qualquer cargo em caso de vacatura.
+3 - A direção eleita é formada pela lista mais votada, por maioria absoluta dos votos expressos, no sistema de maioria de votos a duas voltas.
+4 - Cada lista de candidatura deve ser subscrita por um mínimo de 200 e um máximo de 300 proponentes de entre os associados singulares inscritos nos cadernos eleitorais.
+5 - Cada eleitor só pode subscrever ou integrar uma única lista.
+6 - Se nenhuma das listas a sufrágio obtiver maioria absoluta dos votos expressos, realizar-se-á uma segunda volta entre as duas listas mais votadas, no mesmo dia da segunda semana seguinte, nos mesmos locais e no mesmo horário.
+CAPÍTULO III
+Disposições finais
+Artigo 13.º
+Instalação e posse
+1 - Cabe à comissão eleitoral definir a data e hora da primeira reunião do conselho geral, após divulgação dos resultados referidos no n.º 2 do artigo 10.º
+2 - No ato de instalação e posse, o conselho geral verificará a conformidade formal do processo eleitoral, procedendo, de imediato, à eleição da sua mesa.
+3 - De seguida, o conselho geral conferirá posse aos membros da direção.
+ANEXO
+(a que se refere o n.º 2 do artigo 11.º do presente Regulamento e o n.º 3 do artigo 15.º dos Estatutos da casa do Douro)
+
+(ver documento original)
+113067855
