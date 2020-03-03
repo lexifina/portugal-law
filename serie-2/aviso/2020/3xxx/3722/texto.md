@@ -1,0 +1,8 @@
+Aviso n.º 3722/2020
+Sumário: Projeto de regulamento de publicidade da Freguesia de Vila Chã de Ourique.
+Projeto de Regulamento de Publicidade da Freguesia de Vila Chã de Ourique
+Vasco Manuel Marques de Sousa Casimiro, Presidente da Junta de Freguesia de Vila Chã de Ourique, torna público, ao abrigo das disposições conjugadas previstas nas alíneas f) e h) do artigo 9.º e no artigo 16.º, ambos da Lei n.º 75/2013 de 12 de setembro, na sua atual redação, nos termos previstos no artigo 101.º do Código do Procedimento Administrativo, que a Junta de Freguesia de Vila Chã de Ourique, em reunião ordinária de 27 de janeiro de 2020, deliberou aprovar o Projeto do Regulamento de Publicidade da Freguesia de Vila Chã de Ourique, e dar início ao período de consulta pública pelo período de trinta dias úteis, a contar da data de publicação do presente Aviso no Diário da República.
+Durante o período de consulta pública, qualquer interessado poderá consultar o presente projeto de regulamento na secretaria desta Freguesia e se assim o entender, formular reclamações, observações ou sugestões que entenda por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Junta da Freguesia de Vila Chã de Ourique, podendo ser remetidas por via posta, correio eletrónico, para o endereço jfvilachadeourique@gmail.com, ou entregues na Junta de Freguesias de Vila Chã de Ourique, durante o período normal de expediente.
+Para constar se lavrou o presente aviso, que vai ser publicado no Diário da República, e outros de igual teor para serem afixados nos lugares públicos do costume.
+4 de fevereiro de 2020. - O Presidente da Junta de Freguesia, Vasco Manuel Marques de Sousa Casimiro.
+313022364
