@@ -1,0 +1,451 @@
+# Acórdão do Tribunal Constitucional n.º 145/2020, de 2020-03-03
+
+**Acórdão:** 145/20
+
+**Processo:** 228-A/17
+
+**Formação:** Conf.
+
+**Espécie:** Recurso
+
+**Data:** 03.03.2020
+
+**Relator:** Cons. Maria José Rangel de Mesquita
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20200145.html
+
+## Texto integral
+
+ACÓRDÃO Nº 145/2020
+
+Processo n.º 228-A/17
+
+3.ª Secção
+
+Relatora: Conselheira Maria José Rangel de Mesquita
+
+Acordam, em conferência, na 3.ª Secção do Tribunal Constitucional
+
+I – Relatório
+
+1. Os autos em que foi extraído o presente traslado, vindos do Tribunal da Relação de Lisboa (TRL), em que é recorrente A. e são recorridos o Ministério Público e B., respeitam a um recurso de constitucionalidade, interposto pelo primeiro, ao abrigo do artigo 70.º, n.º 1, alínea b), da Lei n.º 28/82, de 15 de novembro (Lei do Tribunal Constitucional, adiante designada pela sigla LTC), de acórdão daquele Tribunal da Relação proferido em de 27 de setembro de 2016, que julgou apenas parcialmente provido o recurso então interposto pelo arguido A., revogando a decisão recorrida na parte que determina a recolha de amostras de ADN ao arguido, mas mantendo a mesma no demais.
+
+2. Nos presentes autos foi proferida a Decisão Sumária n.º 513/2018, na qual se decidiu não conhecer do objeto do recurso interposto para o Tribunal Constitucional: quanto às duas primeiras questões, por não cumprimento do ónus de prévia suscitação adequada (artigo 72.º, n.º 2, da LTC); quanto à terceira e à quarta questões, por incumprimento do mesmo ónus e, ainda, na falta de dimensão normativa das mesmas.
+
+3. A Decisão Sumária n.º 513/2018 foi notificada ao mandatário do recorrente por carta registada e para o respetivo domicílio profissional (cfr. fls. 17 dos presentes autos de traslado).
+
+4. Não tendo sido apresentada reclamação da mesma Decisão Sumária, esta transitou em julgado (cfr. cota de fls. 18 dos presentes autos de traslado), tendo sido elaborada a Conta n.º 431/2018 e notificada a mesma ao mandatário do recorrente e ao recorrente (cfr. fls. 19 e 21-22 dos presentes autos de traslado), tendo os autos baixado ao Tribunal da Relação de Lisboa.
+
+5. Na sequência da notificação da referida Conta n.º 431/2018, veio o recorrente apresentar requerimento (cfr. fls. 23-25 dos presentes autos de traslado) no qual se alega, no essencial, que nem o recorrente nem o respetivo mandatário foram notificados da decisão proferida por este Tribunal (Decisão Sumária n.º 513/2018) que, por força da notificação referente à Conta n.º 431/2018, supõem ter sido prolatada, assim existindo preterição de notificação que constitui irregularidade processual arguida nos termos e para os efeitos do disposto no n.º 2 do artigo 123.º do Código de Processo Penal (cfr. requerimento, n.ºs 7 a 9). Conclui o recorrente no sentido de ser declarada a arguida irregularidade e seja ordenada a notificação da Decisão proferida sobre o recurso (interposto para este Tribunal) pelo recorrente, com as devidas consequências legais (cfr. requerimento, 10).
+
+5.1 O recorrido Ministério Público pronunciou-se no sentido do indeferimento do requerido (cfr. fls. 29).
+
+5.2 Por despacho da Relatora neste Tribunal (fls. 31-33) foi indeferido o requerido nos termos seguintes:
+
+«(…)
+
+5. Cumpre começar por clarificar que a invocada norma do artigo 123.º, n.º 2, do Código de Processo Penal não tem aplicação no âmbito dos processos de fiscalização concreta face ao disposto no artigo 69.º da Lei n.º 28/82, de 15 de novembro (Lei do Tribunal Constitucional, adiante designada pela sigla LTC), o qual prevê que à tramitação dos recursos para este Tribunal são subsidiariamente aplicáveis as normas do Código de Processo Civil (CPC), em especial as respeitantes ao recurso de apelação.
+
+6. Sendo obrigatória a constituição de avogado nos recursos para o Tribunal Constitucional (artigo 83.º, n.º 1, da LTC), a notificação da Decisão Sumária n.º 513/2018 foi efetuada através de carta registada expedida na pessoa do mandatário do recorrente (artigo 247.º do CPC) e para o respetivo domicílio profissional, presumindo-se a mesma feita nos termos (com as devidas adaptações) do artigo 248.º do CPC (terceiro dia posterior ao do registo ou primeiro dia útil seguinte a esse, quando o não seja).
+
+7. Resulta dos autos que a carta registada enviada ao mandatário do recorrente foi devolvida em 1/8/2018 com a menção “não reclamado” (cfr. cota de fls. 28 dos presentes autos).
+
+8. O alegado pelo recorrente no seu requerimento não se afigura passível de ilidir a presunção prevista no artigo 248.º do CPC já que o mesmo não alega nem demonstra que, por acto que não lhe seja imputável, não tomou (ou não pôde tomar) conhecimento da referida notificação da Decisão Sumária proferida nos autos.
+
+9. Pelo exposto, indefere-se o requerido.»
+
+6. Notificado do mencionado despacho, veio o recorrente apresentar reclamação para a conferência (cfr. fls. 37-45) – e, ainda, «Reclamação do ato praticado pelo Exmo. Sr. Escrivão de Direito» (cfr. fls.73-75), esta relativa a aplicação de penalização nos termos do artigo 139.º, n.º 6, do Código de Processo Civil (CPC) tendo, no entanto, procedido à cautela ao pagamento em causa.
+
+6.1 O representante do Ministério Público junto deste Tribunal pronunciou-se pelo indeferimento da reclamação para a conferência (fl. 83).
+
+6.2 No Acórdão n.º 664/2018 (cfr. fls. 91-103) decidiu-se indeferir a reclamação apresentada, com a seguinte fundamentação (cfr. II, em especial n.ºs 8-10):
+
+«8. Analisada a reclamação apresentada, verifica-se que, na mesma, o reclamante não oferece argumentos suscetíveis de alterar o decidido no despacho reclamado.
+
+Na verdade, do teor da reclamação resulta que, para além da invocação da absoluta falta de notificação da Decisão Sumária – o que se mostra infirmado pelos elementos constantes dos autos –, o reclamante vem manifestar discordância quanto ao despacho da Relatora relativamente ao alegado «juízo normativo-interpretativo do art.° 248.° do CPC aplicado em concreto aos presentes autos, pela Exma Sra Juíza Conselheira- Relatora, no sentido, de se considerar 1) que era exigível que o recorrente tivesse alegado logo no requerimento apresentado a fls 23-25 factos que pudessem reportar-se como idóneos a ilidir a mencionada presunção, sem que ao mesmo pudesse ser exigível- no momento e condições em que arguiu a nulidade (…) na medida em que, secundamos o entendimento de que apenas deverá impor-se ao recorrente esse ónus-de alegação e prova - quando tenha efectivo conhecimento dos elementos processuais que lhe permitem alegar porque razão a referida notificação não foi recepcionada.»
+
+Segundo o recorrente, ora reclamante, apenas terá tido conhecimento da prolação da Decisão Sumária e da expedição da respetiva notificação por via da leitura do despacho ora reclamado. Assim, «foi apenas, com a prolação da douta decisão sob escrutínio que julgou improcedente a arguida nulidade, que o arguido e recorrente, passou a ter conhecimento, através da pessoa do seu mandatário, de que fora expedido no passado dia 01/08/2018, notificação por via postal registada da referida decisão Sumária, que terá apreciado o (d)mérito do recurso de constitucionalidade que o arguido A., interpôs para esse Colendo Tribunal. (…) E bem assim, de que o referido expediente, não terá sido reclamado nos serviços de distribuição postal, nos termos dos regulamentos em vigor, naqueles serviços.»
+
+Em sequência, o recorrente vem colocar em causa a validade da decisão reclamada, por alegada ofensa do princípio do contraditório e do direito a um processo equitativo. Recorde-se que o faz nos seguintes termos:
+
+«22. Afigura-se-nos pois, em face do processado, e das exigências de salvaguarda de um processo equitativo e das garantias constitucionais, designadamente, dos direitos de defesa do arguido, e bem assim do princípio do contraditório que fosse dado cumprimento, pela Exma Sra Juiz Conselheira-Relatora do disposto no n.º 3 do art.º 3 do CPC, aplicável ex vi art.º 69.º da LOTC, o qual impõe ao juiz um poder-dever, de natureza estritamente vinculada de: “observar e fazer cumprir ao longo de todo o processo, o princípio do contraditório, não lhe sendo lícito, salvo caso manifesta desnecessidade, decidir questões de direito ou de facto, mesmo que de conhecimento oficioso, sem que as partes tenham tido a possibilidade sobre elas se pronunciarem.”
+
+23. Ora, o certo é que, efectivamente, na douta decisão sob reclamação, refere-se a elementos que o arguido e recorrente desconhecia em absoluto, e que apenas veio a ter conhecimento com a notificação do despacho que indeferiu a arguida irregularidade, designadamente, de que havia sido expedida notificação em 01.08.2018 da decisão sumária proferida pela Exma Sra Juíza Conselheira, para o domicílio profissional do Mandatário.
+
+24. Ora, essa realidade processual não era do conhecimento do recorrente, e o mesmo teria, todo o interesse em pronunciar-se bastando para o efeito, que lhe fosse informado- até pela própria seccção(!), que o expediente da notificação da decisão sumária, fora devolvido, por não ter sido reclamado tempestivamente,
+
+25. E nessa sequência, após essa prestação de informação por parte do tribunal, o arguido alegaria os factos que no seu entendimento levaram a que ocorressem a que tal expediente não fosse reclamado nos serviços de distribuição postal, e designadamente, se foi inclusivamente, informado de que existia esse expediente para proceder ao seu levantamento.
+
+26. Por conseguinte, afigura-se que, e salvo melhor opinião, que a decisão proferida pela Exma Sra Juiza Conselheira Relatora, na medida em que ao dar conhecimento ao arguido de uma realidade processual, que o mesmo desconhecia, e ao não lhe permitir que o mesmo se pronunciasse previamente sobre tais actos, pronunciando-se nos termos que julgasse oportuno, e bem assim, ao não lhe facultar o exercício do contraditório, relativamente a posição sufragada pelo Exmo Sr. Procurador Geral-Adjunto do Ministério Público, junto desse Colendo Tribunal, violou o disposto no art.º 3.º n.º 3 do art.º 3.º do CPC aplicável ex vi art 69.º da LOTC, configurando a mesma, uma verdadeira decisão surpresa, atenta aos pressupostos factuais em que assenta.»
+
+9. Na medida em que o reclamante vem questionar a validade/regularidade formal do despacho proferido pela relatora e agora reclamado, cumpre começar por este aspeto.
+
+Com efeito, invoca o reclamante que o facto de a prolação do despacho reclamado não ter sido precedida da audição do ora reclamante consubstancia a preterição do princípio do contraditório e do direito a um processo equitativo e justo, referindo-se à necessidade de cumprimento do dever contido no n.º 3 do artigo 3.º do Código de Processo Civil, em face «das exigências de salvaguarda de um processo equitativo e das garantias constitucionais, designadamente, dos direitos de defesa do arguido, e bem assim do princípio do contraditório».
+
+Como se escreveu no recente Acórdão n.º 510/2018 (disponível, bem como os demais citados, em www.tribunalconstitucional.pt), pese embora a propósito dos poderes do Relator contidos no artigo 78.º-A, da LTC:
+
+«A questão suscitada pelo ora reclamante encontra-se desde há muito solucionada na jurisprudência deste Tribunal.
+
+De forma reiterada e estável, vem este Tribunal entendendo que a prolação de decisão sumária, nos termos consentidos pelo artigo 78.º-A da LTC, não tem de ser precedida da prévia audição das partes ¾ mormente do recorrente, em caso de não conhecimento do objeto do recurso ¾, nos termos que decorrem do artigo 3.º, n.º 3, do Código de Processo Civil, conjugado com o disposto no n.º 1 do respetivo artigo 655.º, sem que daí resulte qualquer violação do princípio do contraditório ou do direito ao processo equitativo.
+
+Ainda que por referência às hipóteses em que a questão a decidir é considerada «simples», igualmente contempladas no n.º 1 do artigo 78.º-A, n.º 1, da LTC, escreveu-se no Acórdão n.º 585/16, a tal propósito, o seguinte:
+
+«Nos casos previstos no artigo 78.º-A, n.º 1, da LTC, a lei prevê que seja proferida – como foi, nos presentes autos – decisão sumária sem necessidade de serem produzidas alegações pelo recorrente ou pelo recorrido, atenta a simplicidade da questão. Na verdade, a decisão sumária e a apresentação de alegações são alternativas, já que as partes só alegam se o relator não proferir decisão sumária (artigo 78.º-A, n.º 5 da LTC). Ou seja, no caso de decisão sumária, não existe um momento processual prefigurado para alegações.
+
+Ao contrário do que vem alegado, o regime acabado de expor não prejudicou a Recorrida. Na verdade, o regime dos recursos está estruturado por forma a diferir a discussão sobre o respetivo objeto para momento posterior à primeira intervenção do relator. Aliás – com interesse para o caso dos autos – a Recorrida não poderia sequer pronunciar-se quanto à admissibilidade do recurso antes desse momento (artigo 76.º, n.º 3, segunda parte, da LTC).
+
+Na primeira intervenção do relator, este pode notificar as partes para alegarem (artigo 78.º-A, n.º 5 da LTC) ou, como fez nos presentes autos, proferir decisão sumária (artigo 78.º-A, n.º 1 da LTC). Esta decisão não é precedida de qualquer notificação, sem que, com isso, a parte fique desprotegida, já que pode reclamar para a conferência (artigo 78.º-A, n.º 3 da LTC) […] e, então, alegar o que tiver por conveniente quanto às decisões recorrida e reclamada.
+
+O regime da LTC – designadamente a possibilidade de reclamação das decisões do relator para a conferência – é conforme à Constituição, como o Tribunal repetidamente tem afirmado. A este respeito, recupera-se a argumentação do Acórdão n.º 530/07:
+
+“[D]eve notar-se que a possibilidade de proferimento de decisão sumária quando o Relator entender ‘que a questão é simples, designadamente por a mesma já ter sido objeto de decisão anterior do Tribunal ou por ser manifestamente infundada’, conferida pelo n.º 1 do artigo 78º-A da LTC, não atenta em nada contra a alínea b) do n.º 1 do artigo 280º da CRP. Nos termos de tal disposição constitucional, ‘cabe recurso para o Tribunal Constitucional das decisões dos tribunais: (…) b) que apliquem norma cuja inconstitucionalidade haja sido suscitada durante o processo’. Ora, a norma constante do n.º 1 do artigo 78º-A da LTC não nega o direito de recurso às partes vencidas nos incidentes de inconstitucionalidade decorridos perante os tribunais comuns. Esse recurso simplesmente é apreciado, não pelo pleno de uma secção do Tribunal Constitucional, mas por um Juiz-Relator, que compõe e representa esse mesmo Tribunal.
+
+E nem se diga que tal faculdade processual do Juiz-Relator atenta contra o direito a uma tutela jurisdicional efetiva (cfr. artigo 20º, n.º 4 da CRP) (…).
+
+Desde logo, e decisivamente, o Tribunal Constitucional já teve oportunidade de apreciar, em inúmeras ocasiões, a eventual inconstitucionalidade da norma constante do artigo 78º-A da LTC, tendo sempre julgado, sem exceção, pela não inconstitucionalidade da mesma (adotando tal entendimento, ver, entre muitos outros e a mero título de exemplo, os Acórdãos n.º 80/99, 09 de fevereiro de 1999, n.º 550/99, de 14 de outubro de 1999, n.º 567/99, de 20 de outubro de 1999, n.º 223/01, de 22 de maio de 2001, n.º 307/01, de 03 de julho de 2001, n.º 456/02, de 05 de novembro de 2002, n.º 402/05, de 14 de julho de 2005, n.º 402/05, de 14 de julho de 2007, n.º 420/05, de 04 de agosto de 2005, n.º 283/06, de 03 de maio de 2006, n.º 49/07, de 30 de janeiro de 2007, todos disponíveis in www.tribunalconstitucional.pt).
+
+Tal jurisprudência é firme e integralmente acompanhada pelo presente Acórdão visto que, no caso de decisões sumárias proferidas com fundamento na “simplicidade da questão”, o Tribunal Constitucional – através de um dos seus membros, no exercício da função de Relator – aprecia efetivamente o objeto do recurso interposto, proferindo decisão de fundo sobre a questão, ainda que aquela “possa consistir em simples remissão para anterior jurisprudência do Tribunal” (cfr. n.º 1 do artigo 78º-A da LTC). […]”».
+
+O mesmo entendimento vale, mutatis mutandis, para as hipóteses em que, como na presente se verifica, o relator conclui pela impossibilidade de conhecimento do objeto do recurso por falta de verificação de um (ou vários) dos pressupostos processuais que condicionam a respetiva admissibilidade.
+
+Com efeito, também neste caso se encontra assegurada ao recorrente, por força do disposto no n.º 3 do artigo 78.º-A da LTC, a faculdade de contestar, perante a conferência, tanto a legalidade da própria prolação da decisão sumária, como o mérito respetivo. Não ocorre, por isso, qualquer «diminuição do conteúdo garantístico do processo constitucional» (cf. Carlos Lopes do Rego, Os recursos de Fiscalização Concreta na Lei e na Jurisprudência do Tribunal Constitucional, Almedina, 2010, p. 251), tanto mais quanto certo é que, também no caso de não conhecimento do objeto do recurso, a reclamação só é decidida em conferência se houver unanimidade dos três juízes que a compõem; caso contrário, a decisão caberá ao pleno da secção, por força do disposto no n.º 4 do artigo 78.º-A, da LTC.»
+
+Ora, tal entendimento é perfeitamente transponível para a situação dos autos, já que, à semelhança do disposto no n.º 3 do artigo 78.º-A da LTC, também por força do n.º 2 do artigo 78.º-B – ao abrigo do qual foi apresentada a presente reclamação –, o despacho da Relatora é objeto de reapreciação em conferência, ponderados os factos e argumentos trazidos pelo Reclamante como motivo da sua discordância quanto ao decidido e respetivos fundamentos, garantindo-se, deste modo, a audição e contraditório do reclamante.
+
+10. Assim sendo, e na oportunidade de contraditar os factos e argumentos ponderados no despacho ora reclamado, caberia agora ao reclamante a ilisão da presunção da notificação da Decisão Sumária, prevista no artigo 248.º do Código de Processo Civil (CPC), sendo caso disso.
+
+Com efeito, de acordo com o disposto no n.º 1 do artigo 247.º do CPC (Notificação às partes que constituíram mandatário), «as notificações às partes em processos pendentes são feitas na pessoa dos seus mandatários judiciais», dispondo o artigo 248.º do mesmo Código que «os mandatários são notificados nos termos definidos na portaria prevista no n.º 1 do artigo 132.º, devendo o sistema informático certificar a data da elaboração da notificação, presumindo-se esta feita no 3.º dia posterior ao da elaboração ou no 1.º dia útil seguinte a esse, quando o não seja.»
+
+Não sendo, na presente reclamação, aduzidos quaisquer factos ou razões que ponham em causa o decidido no despacho proferido pela Relatora, no qual foram indeferidos o requerimento de arguição de irregularidade por preterição da notificação da Decisão Sumária n.º 513/2018 e o pedido de (nova) notificação da mesma decisão sumária, resta concluir pela manifesta ausência de fundamento das pretensões deduzidas na reclamação apresentada, impondo-se o respetivo indeferimento.»
+
+7. Notificado do referido Acórdão n.º 664/2018, veio o recorrente apresentar requerimento, composto por duas partes (I – Do pedido de reforma, n.ºs 1 a 4 e II – Do enquadramento endo-processual-recursal, n.ºs 5 a 28), no qual vem, em suma, «pedir a reforma» do acórdão (por incorreta aplicação de normas) e invocar a nulidade do mesmo (por preterição do disposto nos artigos 3.º, n.º 3 e 655, n.º 1, do CPC e 75.º-A da LTC), nos seguintes termos (cfr. fls. 110-112 com verso, reiterado a fls. 121-126):
+
+«A., arguido no âmbito dos autos de recurso à margem referenciados, tendo sido notificado do Acórdão proferido pelos Exmos Srs juízes Conselheiros, em sede de conferência, que apreciou a reclamação apresentada pelo arguido, na sequência da prolação da Decisão Sumária prolatada em 11.10.2018, vem nos termos do disposto no n.º 2 do art.º 613.º, art.º 615.º e art.º 616.º ambos do CPC, aplicáveis ex vi do n.º 1 e n.º 2 do art.º 666.º do CPC e do art.º 69.º da Lei n.28/82, de 15/11, doravante designada por LOTC,
+
+Requerer a reforma do douto Acórdão e bem assim arguir nulidade do mesmo o que faz nos termos e com os seguintes fundamentos:
+
+I - DO PEDIDO DE REFORMA
+
+1. Conforme resulta do disposto no n.º 2 da al. a) do art.º 616.º do CPC aplicável ex vi n.º 2 do art.º 666 do referido diploma legal, por força da remissão inter-normatíva operada pelo art.º 68.º da LTC; “2- Não cabendo recurso da decisão, é ainda lícito a qualquer das partes requerer a reforma da sentença quando, por manifesto lapso do juiz:
+
+a) tenha ocorrido erro na determinação da norma aplicável ou na qualificação jurídica dos factos.”
+
+2. Por outro lado, pode ainda o recorrente, caso assim o entenda arguir fundamentadamente, quaisquer das nulidades tipificadas no n.º 1 do art.º 613.º do CPC por via do disposto do n.º 2 do art.º 666.º do CPC.
+
+3. Sendo pois ainda licito ao recorrente, requerer ao douto tribunal ad quem, que proferiu o Acórdão, a reforma quanto às custas que o haja condenado, pela reclamação deduzida.
+
+4. São pois tais faculdades processuais que o arguido e ora recorrente pretende, Exmos Srs juizes Conselheiros, pretende fazê-lo, passando a expor as razões que de facto e de direito, no seu humilde entendimento, considera que o Acórdão proferido, em sede de conferência padece de vícios/ilegalidades.
+
+II- DO ENQUADRAMENTO ENDO-PROCESSUAL-RECURSAL
+
+5. O Acórdão cuja reforma ora se requer, incidiu em termos objectivos sobre a reclamação que foi apresentada pelo Recorrente e arguido A., relativamente ao Despacho proferido pela Exma Sra juíza Conselheira Relatora, de 11 de Novembro de 2018, que indeferiu a arguição de nulidade por preterição de notificação ao aqui arguido e recorrrente da Decisão Sumária proferida, nos termos da qual, fora decidido não conhecer do objecto do recurso, por não se verificarem os pressupostos de admissibilidade, conforme se fez constar no douto Acórdão.
+
+6. Do Despacho supra referido, foi apresentada reclamação para Conferência, suscitando-se a nulidade do Despacho id. no número anterior, desde logo, por falta de cumprimento do art.º 3.º n.º 3 do CPC, e bem assim, pelo facto do recorrente entender que a determinação hermenêutica do sentido e alcance e aplicação do art.º 248.º do CPC aos presentes autos, conforme havia sido ajuizado pela Exma Sra Relatora, afigurava-se-lhe normativamente incorrecto,
+
+7. Posição essa que o fez sustentando-a nos argumentos aduzidos na reclamação apresentada para Conferência, a fls ... dos presentes autos.
+
+8. O Acórdão proferido, entendeu que, a posição sufragada pelo Recorrente não tinha sustentação legal, pelos fundamentos consignados no douto Acórdão, e deliberaram os Exmos Srs ]uízes Conselheiros julgar improcedente a reclamação suscitada pelo arguido.
+
+9. Ora, salvo o devido e considerado respeito, e após uma ponderada análise do Acórdão proferido, e bem assim, a consulta e leitura da jurisprudência desse Colendo Tribunal, que é invocada no douto aresto, para legitimar a deliberação vertida no douto Acórdão, o recorrente, entende que, efectivamente, o Tribunal incorreu em erro sobre a determinação da norma aplicável.
+
+10. Com efeito, e tendo-se debruçado sobre o primeiro aspecto de natureza " formal" mas com relevância material para uma densificação de um regime efectivo do exercício dos direitos de defesa do arguido/recorrente- o Acórdão aborda a quaestio do incumprimento do art.º 3.º n.º 3 do CPC por parte da Exma Sra Juiza Conselheira, aquando da prolação da Decisão referida em 5).
+
+11. Negando, quanto à este aspecto qualquer razão aos argumentos aduzidos pelo recorrente, fundamentando a sua posição na imensa jurisprudência já proferida por esse Colendo Tribunal.
+
+12. A qual, toda ela aponta, no sentido de ser" dispensável" a notificação dos recorrentes, e nesta medida, que seja dado cumprimento ao disposto no art.º 75-A da LOTC e n.º 1 do art.º 655.º e art.º 3.º n.º 3 ambos do CPC, quando, o Relator, entenda proferir Decisão Sumária, cujo teor seja o de indeferir o recurso, designadamente, o de proferir decisão de não conhecimento do objecto do recurso, ao abrigo do disposto no n.º 1 do art.º 78.º A da LOTC, ou com qualquer um dos fundamentos aí expressamente previstos nesse inciso legal.
+
+13. E a "desnecessidade" de cumprimento de tal" formalidade", em nada feriria o contéudo essencial do direito de acesso ao direito e aos tribunais por parte dos cidadãos, contemplando-se aqui, a vertente recursiva, na medida em que, o recorrente, quando confrontado com uma decisão desse teor, sempre poderia submeter a apreciação dessa questão de admissibilidade do recurso, em sede de conferência, e por conseguinte, contaria com a intervenção de três juízes para apreciar tal questão, com a possibilidade de ainda, em caso de não reunir unanimidade a "revalidação" da decisão sumária "revidenda", poder fazer intervir o pleno das secções.
+
+14. Efectivamente, aderimos, in totto, no que a este aspecto diz respeito, a jurisprudência desse Colendo Tribunal, quando à necessidade ou desncessídade de dar cumprimento à notificação dos recorrentes, no caso a que alude o n.º 1 do art.º 78.º-A da LOTC.
+
+15. Porém, e salvo o devido e considerado respeito, e realce-se após uma ponderada análise da jurisprudência invocada no douto Acórdão, afigurasse-nos que a mesma, não poderá servir de " discurso legitimador" para a presente situação.
+
+16. Com efeito, a situação em apreço, e que constitui objecto da presente reclamação, não se prende com a apreciação do (de )mérito da Decisão Sumária, que conhecimento do recurso.
+
+17. Prende-se sim, com a situação da prolação de um despacho posterior à tomada da decisão sumária, arvorada ao abrigo do n.º 1 do art.º 78.º-A da LOTC, e em que está em causa a arguição de nulidade derivada da falta de notificação dessa mesma decisão sumária!
+
+18. Ora, se é certo que a impugnação da decisão sumária, por via de reclamação para conferência poderá legitimar a " preterição" ou até mesmo dispensabilidade do cumprimento do art.º 3. n.º 3 e n.º 1 do art.º 655.º do CPC e do art.º 75.º- A da LOTC, uma vez que o recorrente tem a possibilidade de expor as suas razões, para infirmar o teor dessa decisão, argumentos esses que serão apreciados por três Juízes, o certo é que, no caso em apreço, por força também das regras processuais, o mesmo não poderia acontecer. Senão vejamos,
+
+19. O obejcto da reclamação para conferência é a própria decisão sumária proferida, sendo que, nada mais, para os autos, existe para carrear- nem é processualmente admissível que o seja- ,para que os Srs Juízes Conselheiros, em Conferência possam apreciar essa mesma reclamação.
+
+20. Contrariamente, nos presentes autos, o douto Acórdão começa por referir, que o arguido/recorrente nada de " novo" traz aos presentes autos em termos factuais e (probatórios), uma vez que "na (.. ) reclamação, [ não são] aduzidos quaisquer factos ou razoes que ponham em causa o decidido no despacho pela Relatora( ... ).".
+
+21. Ora, e salvo o devido respeito, entende o recorrente, que não foi deduzido, porque processualmente tais factos têm que ser deduzidos perante a Exm Sra Juiz Relatora.
+
+22. Com efeito, se a reclamação para conferência funciona como uma espécie de meio impugnatório das decisões proferidas pelos Exmos Srs Relatores, naturalmente, que a reclamação deverá cingir-se aos factos existente à data da prolação dessa mesma decisão.
+
+23. Não pode o recorrente, em termos processuais, invocar novos factos e carrear provas, quando impugna a decisão sumária para conferência, uma vez que, estaríamos neste caso concreto, a admitir, o conhecimento de questões novas, e já não a cingirmos, à análise e conformidade da decisão proferida pelo Relator, no momento em que o foi.
+
+24. Na verdade, admitir/se que o recorrente deveria alegar e até demonstrar factos que fossem susceptíveis de ilidir a presunção, que não foram apreciados, pelo Relator, em sede de impugnação da referida decisão para conferência, afigura/se/nos contrário ao nosso regime recursal, em que o recurso e as reclamações funcionam sempre como remédios jurídicos, nos quais são reexamínados os pressupostos da decisão impugnada, não se admitindo o alvitrar de novas questões processuais e probatórias, conforme parece sufragar o douto acordao.
+
+25. Pelo que, por essas razões, afigura-se-nos que in casu, era necessário que a Exma Sra Juiza Relatora desse cumprimento ao disposto no art.º 3.º n.º 3 e art.º 655.º n.º 1 do CPC e ainda do art..º 75.º-A da LOTC, para que o recorrente pudesse nesse momento processual carrear para os autos os elementos probatórios e até alegar os factos suscetiveis de ilidir a presunção em causa.
+
+26. Pelo que, entende o recorrente que o Tribunal fez uma incorrecta aplicação da norma ao causa em concreto, devendo ser aplicável os normativos já referidos no número anterior.
+
+27. Pelo que se requer a reforma do acórdão com base no supra exposto.
+
+28. Por outro lado, é nulo ainda o acordao proferido por preterição do disposto nos incisos legais a que se refere o n.º 25. O que desde já invoca, sendo de conhecimento oficioso.».
+
+7.1 O Ministério Público neste Tribunal, notificado do requerimento de fls. 121-126, pronunciou-se pelo indeferimento do requerido, nos termos seguintes (cfr. fls. 129-131):
+
+«1.º
+
+Na nossa promoção de fls. 29, dissemos:
+
+“1. Pela douta Decisão Sumária n.º 513/2018, não se conheceu do objecto do recurso interposto para o Tribunal Constitucional por A..
+
+2. Transitada a decisão e elaborada a conta (Conta n.º 431/2018) foi o recorrente notificado nos termos do artigo 31.º, n.º 1, do Regulamento das Custas Processuais.
+
+3. Veio então informar que não havia sido notificado da Decisão Sumária.
+
+4. Consta da informação acima prestada e dos elementos constantes dos autos, que o mandatário do recorrente foi notificado por carta registada, enviada em 16 de Julho de 2018, para o seu escritório.
+
+5. A carta foi devolvida em 1 de Agosto de 2018, com a menção de “não reclamada”.
+
+6. Ora, tendo sido a notificação expedida para o domicilio profissional, considera-se o mandatário do recorrente notificado no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte a esse, quando o não seja, pese embora a carta não ter sido levantada.
+
+7. Efectivamente, o recorrente nada diz que possa ilidir a presunção da notificação.”
+
+2.º
+
+A Exma. Senhora Conselheira Relatora proferiu então despacho, no qual, fundamentadamente, concluiu:
+
+“8. O alegado pelo recorrente no seu requerimento não se afigura passível de ilidir a presunção prevista no artigo 248.º do CPC já que o mesmo não alega nem demonstra que, por acto que não lhe seja imputável, não tomou (ou não pôde tomar) conhecimento da referida notificação da Decisão Sumária proferida nos autos.
+
+9. Pelo exposto, indefere-se o requerido.”
+
+3.º
+
+Apresentada reclamação para a conferência, foi proferido o Acórdão n.º 664/2018, consignando-se na parte final do mesmo, o seguinte:
+
+“Não sendo, na presente reclamação, aduzidos quaisquer factos ou razões que ponham em causa o decidido no despacho proferido pela Relatora, no qual foram indeferidos o requerimento de arguição de irregularidade por preterição da notificação da Decisão Sumária n.º 513/2018 e o pedido de (nova) notificação da mesma decisão sumária, resta concluir pela manifesta ausência de fundamento das pretensões deduzidas na reclamação apresentada, impondo-se o respetivo indeferimento.”
+
+4.º
+
+Notificado do acórdão, vem agora o recorrente apresentar um pedido de reforma e arguir a sua nulidade.
+
+5.º
+
+No presente traslado, a única questão que teria de ser e foi resolvida diz respeito à notificação da Decisão Sumária n.º 513/2018 e, consequentemente, ao seu trânsito.
+
+6.º
+
+Ora, o Acórdão n.º 664/2018, é perfeitamente claro e está devidamente fundamentado, não se vislumbrando a existência de qualquer vício.
+
+7.º
+
+Aliás, o recorrente, sobre a matéria tratada por aquele Acórdão – e essa era a única que, naturalmente, podia ser objecto do incidente pós-decisório apresentado – nada de pertinente alega.
+
+8.º
+
+Pelo exposto, deve indeferir-se o que vem requerido.».
+
+7.2. Foi então proferido o Acórdão n.º 310/2019, no qual se decidiu indeferir o pedido de reforma e arguição de nulidade do Acórdão n.º 664/2018 (cfr. Acórdão n.º 310/2019, III., 15.). Isto com os seguintes fundamentos (cfr. idem, II, 9. a 14.):
+
+«II – Fundamentação
+
+9. Cumpre começar por clarificar que a questão objeto do presente traslado é a questão que se reporta à notificação da Decisão Sumária n.º 513/2018 – que o recorrente entende não ter sido efetuada – com projeção no respetivo trânsito em julgado.
+
+10. Sobre a pretensão do recorrente relativa àquela notificação foi proferido primeiro despacho da relatora e, posteriormente, o Acórdão n.º 664/2018 – no qual, pelas razões supra transcritas, se indeferiu a pretensão do recorrente.
+
+Proferido este Acórdão sobre a pretensão do recorrente, ficou esgotado o poder jurisdicional (artigo 613.º do CPC, ex vi do artigo 69.º da LTC), sem prejuízo da possibilidade de retificação de erros materiais, de invocação de causas de nulidade da decisão e de reforma quanto a custas e multas (artigos 613.º, n.º 2 e 614.º a 616.º do CPC, também aplicáveis por força do artigo 69.º da LTC).
+
+É, pois, neste contexto, que se insere o requerimento do recorrente que constitui um incidente pós-decisório, apresentado nos termos daqueles preceitos legais e expressamente invocando o recorrente os artigos 616.º, n.º 2, alínea a) do CPC (reforma da sentença por «erro na determinação da norma aplicável ou na qualificação jurídica dos factos») e as «nulidades» tipificadas no n.º 1 do artigo 613.º [615.º] do mesmo Código.
+
+12. Cumpre começar por reiterar que não se apreciou no Acórdão ora arguido de erro e nulidade qualquer reclamação para a conferência da Decisão Sumária proferida – direito que assiste aos recorrentes nos termos do artigo 78.º-A, n.º 3, da LTC. Aí se apreciou, sim, questão que se coloca a montante, relativa a reclamação dirigida ao despacho da relatora de indeferimento da reclamação apresentada pelo recorrente com fundamento em preterição da notificação daquela Decisão Sumária o que, segundo o mesmo, constituiria uma irregularidade processual. O Acórdão n.º 664/2018 decidiu, tão só, a reclamação do recorrente que incidiu sobre aquele despacho e que se centrava na validade/regularidade do despacho da Relatora por preterição do disposto no artigo 3.º, n.º 3 do CPC, tendo considerado que o recorrente teve oportunidade, na reclamação para a conferência daquele despacho, de contraditar os factos e os argumentos ponderados no despacho então reclamado no que respeita à ilisão da presunção de notificação prevista no artigo 248.º do CPC - e, não o tendo feito, concluiu o Acórdão pela ausência de fundamento da pretensão deduzida na reclamação, assim indeferindo o requerido
+
+13. No requerimento apresentado, e após o introito (I – Do pedido de reforma, 1 a 4), o recorrente, para além de aspetos relativos ao iter processual dos autos, expõe «as razões de facto e de direito» pelas quais o Acórdão n.º 664/2018 «padece de vícios/ilegalidades» (cfr. II – Do enquadramento endo-processual- recursal, n.ºs 5 a 26), concluindo no sentido da reforma do acórdão (II, 27) e da nulidade do mesmo por preterição dos artigos 3.º, n.º 3, 655.º, n.º 1 do CPC e75.º-A, da LTC (cfr. II, 28 e 25).
+
+As razões apresentadas reportam-se, em suma: à invocação de erro sobre a determinação da norma aplicável (cfr. em especial n.ºs 6 e 9) e ao incumprimento do disposto nos artigos 3.º, n.º 3, e 655.º, n.º 1, do CPC e do artigo 75.º-A da LTC – de modo a que o recorrente pudesse carrear nesse momento para os autos os elementos probatórios e alegar factos suscetíveis de ilidir a presunção em causa perante a Relatora, sob pena de estar a carrear novos factos e provas no âmbito da reclamação para a conferência (cfr. em 21 e ss. em especial 24 e 25 – pese embora o recorrente se refira, no n.º 23, à impugnação de decisão sumária).
+
+Não assiste razão ao reclamante.
+
+13.1 O reclamante funda a sua pretensão, primeiro – e reportando-se à alínea a) do n.º 2 do artigo 616.º do CPC –, em erro de sobre a determinação da norma aplicável (cfr. em especial n.ºs 6 e 9) – presumindo-se que o invocado erro se reporta ao artigo 248.º do CPC.
+
+Todavia, não se vislumbra qualquer erro no Acórdão, já que foram aplicados nos autos os artigos 247.º e 248.º do CPC, não tendo sido pelo recorrente ilidida a presunção de notificação da Decisão Sumária prolatada ao mandatário identificado nos autos. Acrescente-se, aliás, que diversamente do alegado pelo recorrente (cfr. II, 12) não decorre do Acórdão proferido em conferência ser «“dispensável”» a notificação dos recorrentes – já que in casu a notificação do mandatário do recorrente foi expedida e presumiu-se efetuada nos termos legais.
+
+13.2 Depois o reclamante funda a sua pretensão na preterição, pela relatora, do disposto nos artigos 3.º, n.º 3, e 655.º, n.º 1, do CPC e do artigo 75.º-A da LTC.
+
+Desde logo, não se afigura pertinente a invocação do disposto no artigo 655.º do CPC (Não conhecimento do objeto do recurso), por existir lei própria aplicável (LTC). Além disso, também não se afigura pertinente a invocação do artigo 75.º-A da LTC, o qual se refere tão só aos elementos formais do requerimento de recurso e ao seu aperfeiçoamento.
+
+Acresce que, a invocação de preterição do artigo 3.º, n.º 3 do CPC, igualmente não procede para efeitos da invocada de nulidade do Acórdão com fundamento no artigo 615.º, n.º 1, do CPC (sem que se indique, aliás, qual a exata ou exatas alíneas em causa). Tal já foi invocado na precedente reclamação e ponderado pelo Acórdão n.º 664/2018, aí se decidindo estar garantida a audição e contraditório do reclamante por via da reclamação – do despacho da relatora – para a conferência, à semelhança do que sucede com a reclamação de decisões sumárias para a conferência (artigo 78.º-A, n.º 3, da LTC.
+
+13.3 Acresce que sobre a concreta questão da ilisão da presunção de notificação, nada diz, ainda que invoque que tal deve ser efectuado, primeiro, perante a relatora (cfr. n.º 23 e 24).
+
+14. Assim, não se verificando os invocados fundamentos de reforma e nulidade do Acórdão n.º 664/2018, há que concluir pelo indeferimento do requerido.»
+
+8. Notificado do referido Acórdão n.º 310/2019, veio o recorrente apresentar novo requerimento com o seguinte teor (cfr. fls. 158-162 cm verso):
+
+«A., arguido no âmbito dos autos de recurso à margem referenciados, tendo sido notificado do Acórdão proferido pelos Exmos Srs Juízes Conselheiros, em sede de Conferência- Ac. n.º 310/2019, que incidiu sobre o pedido de reforma e arguição de nulidade do Acórdão n.º 664/2018, vem nos termos do disposto no art.º 615.º do CPC, aplicável ex vi do n. º l e n.º 2 do art.º 666.º do CPC e do art.º 69.º da Lei n.28/82, de 15/11, doravante designada por LOTC,
+
+Deduzir incidente pós-decisório de arguição de arguição de nulidade, do mesmo o que faz nos termos e com os seguintes fundamentos:
+
+I- Das causas de nulidade do Acórdão n.º 310/2019.
+
+1. O Recorrente suscitou perante esse Colendo Tribunal, incidente pós decisório, na sequência da notificação do Acórdão proferido em sede de Conferência que incidiu objectivamente sobre a Decisão/Despacho proferido pela Exma Sra Conselheira Relatora que indeferiu a arguição de nulidade relativa à notificação da Decisão Sumária n.º 513/2018 prolatada nos presentes autos, no qual requereu a reforma do Acórdão n.º 664/2018 e bem assim arguiu a sua nulidade.
+
+2. Nos termos constantes do pedido de reforma do douto Acórdão, o recorrente, arvorou a sua pretensão, alegando e sustentando a existência de erro na norma aplicável.
+
+3. Sucede porém que, o faz numa perspectiva, não de erro no que concerne à identificação da norma que deveria aplicar-se aos presentes autos,
+
+4. Mas antes, numa perspectiva hermenêutica, isto é, no que concerne à determinação do sentido e alcance da norma que foi aplicada por esse Colendo Tribunal, aos presentes autos, na fase em que se encontram, e perante a tramitação que o mesmo espelha, e bem assim ante as concretas questões que foram suscitadas pelo Recorrente e o regime recursivo em vigor.
+
+5. Com efeito, o pedido de reforma do Acórdão, quando sustentado no fundamento normativo invocado pelo recorrente, no incidente pós decisório precedente - erro na determinação da norma aplicável, previsto na 1.ª parte da al. a) do nº 2 do art.º 616.º do CPC aplicável ex vi art.º 69.º da LOTC, não se reconduz univocamente à hipótese de erro na identificação e determinação da norma aplicável.
+
+6. Mas também, à situação em que, pese embora a norma invocada e aplicada que serve de fundamento jurídico-normativo à decisão, esteja correctamente determinada e identificada, a mesma não foi na perspectiva do Recorrente, correcta e devidamente aplicada.
+
+7. Ou seja, o disposto na l.ª parte da al. a) do n.º 2 do art.º 616.º do CPC para além de se aplicar às situações em que o recorrente/reclamante entenda que a norma jurídica que serve de fundamento à decisão, objeto de impugnação, não é a correcta por sufragar um entendimento diverso quanto ao âmbito de aplicação objectiva e subjectiva da norma que veio a ser aplicada, sustentando por essa via a aplicação de outra norma, com previsão e estatuição legal distinta da aplicada;
+
+8. Caberão de igual modo, as situações em que, pese embora, seja aplicada uma determinada norma, o Recorrente entenda que a norma aplicada, não foi devida e correctamente aplicada, em termos de determinação do seu sentido e alcance.
+
+9. Trata-se nesta segunda perspectiva de fundamento-normativo para o pedido de reforma do Acórdão, nos termos da l.ª parte da alínea al. do n.º 2 do art.º 616.º do CPC, de uma situação de interpretação normativa, conjungando-se nesta fase os elementos que concorrem para a determinação do seu sentido e alcance, designadamente elementos sistemáticos, históricos, literais, previstos no art.º 9.º do Código Civil.
+
+10. Ora, foi nesta segunda perspectiva que o Recorrente suscitou e deduziu o pedido de reforma do Acórdão n.º 664/2018, sufragando perante V.ª Ex.ªs, Srs Juízes Conselheiros, o entendimento de que, o sentido jurídico-normativo com que foi aplicado quer pela Exma Sra Juiz Conselheira Relatora- em sede de apreciação do requerimento de arguição de nulidade a fls 23-25 destes autos, quer por V.ªs Exªs com a prolação do Ac. 664/2018 não era, no seu humilde entendimento, a hermenêuticamente correcta.
+
+11. Com efeito, os motivos que determinaram a impugnação da decisão da Exma Conselheira Relatora, quanto ao indeferimento da arguição da nulidade, através da reclamação para Conferência, sustentou-se ab initio, no errado sentido interpretativo, que no entendimento do Recorrente, foi atribuído ao art.º 248.º do CPC, aplicável ex vi art.º 69.º da LOTC.
+
+12. Sustentando o Recorrente em sede de reclamação para Conferência que, antes da prolação do despacho que indeferiu o incidente de nulidade de notificação da Decisão Sumária, deveria ter sido dado cumprimento pela Exma juiz Relatora ao art.º 3.º n.º 3 do CPC, por forma a que, o Recorrente, ficasse nessa fase, e por força da possibilidade de contraditar, aquilo que poderia ser o conteúdo decisório final nesse incidente, os factos que serviam de fundamento a tal decisão, quer, carreando nessa fase- reitere-se nessa fase- os elementos de prova que entendesse ser necessários à ilisão e afastamento da presunção a que alude o art.º 248.º do CPC.
+
+13. Ou seja, a questão que se nos afigura transversal a todos os incidentes pós decisórios, designadamente- i) incidente de arguição de nulidade deduzido perante à Exma juiz Relatora; ii) Reclamação para Conferência do despacho da Exma juiz Relatora que indeferiu a arguição de nulidade, culminando na prolacção do Ac. n.º 664/2018; iii) Pedido de Reforma do Acórdão n.º 664/2018 foi sempre efectivamente a de saber, se se impunha ou não no momento em que foi apreciado o incidente referido em i) que fosse dado cumprimento ao art.º 3.º n.º 3 do CPC, por forma a que o Recorrente, pudesse ilidir a presunção quanto à notificação da Decisão Sumária n.º 513/2018, que alegou não ter sido dela notificado.
+
+14. E bem assim a relevância em termos processuais, do cumprimento no art.º 3.º n.º 3 do CPC para que pudesse fazer-se funcionar a presunção e a consequência legal ínsita no art.º 248.º do CPC, designadamente, para garantir, que ao Recorrente fosse disponibilizado o momento processual adequado para o efeito.
+
+15. Por conseguinte, não se pode descurar que a ilisão da aludida presunção do art.º248.º do CPC teria que ser suscitado no momento processual adequado e perante a entidade competente para a sua apreciação.
+
+16. Tal asserção reconduz-nos à seguinte questão: Qual é o momento processual adequado e perante quem deverá ser suscitado e alegado os factos reconducentes à ilisão da aludida presunção legal?
+
+17. No Ac.664/2018 e bem assim no Ac. 310/2019, sob escrutínio, encontra-se plasmado que não era necessário proceder-se à notificação do recorrente nos termos do art.º 3.º n. 3 do CPC, no momento processual prévio à prolacção da decisão que indeferiu a arguição da nulidade quanto à notificação da Decisão Sumária encontrando-se fundamentada e sustentada o douto acórdão, noutros Acórdãos já proferidos pelo TC, embora a propósito da Decisão Sumária de rejeição do recurso de constitucionalidade.
+
+18. Relere-se no douto Ac.664/20l8 que o Recorrente poderia ter suscitado a intervenção da Conferência, na sequência da notificação da Exma Relatora- ficando desse modo assegurado o contraditório quanto à aplicação da presunção legal ínsita no art.º 248.º do CPC.
+
+19. Mais aludindo que" nada de novo" foi alegado pelo Recorrente, àquele propósito!
+
+20. Porém, a verdade é que, o Acórdão, que foi objecto do pedido de reforma, não respondeu/ ofuscou a resposta essencial que nesta sede e impunha, por forma a aferir-se da relevância processual no cumprimento do art.º 3.º n.º 3 do CPC--- não sendo pois, nesta medida, aplicável nem analogícamente- salvo o devido respeito por opinião diversa- à presente situação os casos referidos no douto Acórdão, quanto à desnecessidade de notificação nos termos do n.º 3 do art.º 3.º do CPC, em momento processual prévio à prolacção da Decisão Sumária de rejeição do recurso de constitucionalidade.
+
+21. Ou seja, a determinação do sentido correcto a atribuir o art.º 248.º do CPC, passa necessariamente por saber em que momento processual o Recorrente deveria alegar os factos e carrear para os autos os elementos de prova que lhe permitiam ílidir a presunção do art.º 248.º do CPC?
+
+22. No Ac. 664/2018 refere-se que quanto à ilisão da presunção" nada de novo é alegado pelo Recorrente";
+
+23. No Acórdão 310/2019 refere-se que: " sobre a concreta questão da ilisão da presunção de notificação, nada diz, ainda que invoque que tal deve ser efectuado, primeiro, perante a relatara (cfr. n.º 23 e 24).".
+
+24. Ora verifica-se pois, que quanto à questão do momento processual, nos Acórdão precedentes, nada se refere, nada se decide- o que, salvo melhor entendimento se impunha, para resolução da quaestio hermeutica-normativa suscitada pelo Recorrente no incidente processual de pedido de reforma.
+
+25. E impunha-se que fosse decidida tal questão, a qual fora suscitada pelo Recorrente, no pedido de reforma na sequência da reclamação apresentada relativamente ao despacho de indeferimento de arguição de nulidade, no qual o mesmo alega, que por considerar que apenas poderia suscitar tal questão- ainda que num momento prévio- perante Exma Relatora,
+
+26. A única formalidade processual idónea à garantir a possibilidade de alegação e demonstração dos factos reconducentes à ilisão da presunção da notificação, era efectivamente, o cumprimento do art.º 3.º n.º 3 do CPC.
+
+27. E por conseguinte, a aplicação do art.º 248.º do CPC impunha o prévio cumprimento do art.º 3.º n.º 3 do CPC? (posição que defende o Recorrente).
+
+28. Já que, em termos impugnatórios, se essa questão não fosse suscitada pelo Recorrente perante a entidade que a deveria suscitar; o Relator-não poderia a Conferência dela conhecer, com bases em factos novos que viessem a ser alegados, e bem assim com base na valoração e consideração de meios probatórios, que a Exma Relatora, não teve em consideração aquando da prolacçao da sua decisão.
+
+29. Ora, no sistema recursal em vigor entres nós; e tanto mais, que é a própria LOTC que subsidiariamente manda aplicar por força do art.º 69.º do referido diploma o regime do recurso de Apelação previsto no CPC; é consabido, que está vedado ao impugnante/recorrente suscitar perante o órgão que apreciará a impugnação (seja reclamação seja recurso, o meio impugnatório utilizado) questões novas, baseada em factos novos e meios de prova que não foram considerado pelo entidade de cuja decisão se recorre.
+
+30. Pelo que, no caso dos presentes autos, a questão que é colocada no pedido de reforma do Acórdão 664/2018 é a de saber se existiu erro na determinação da norma jurídica aplicável (entendendo o recorrente que se impunha em face das considerações supra referidas, e designadamente, de que se lhe impunha a si suscitar previamente em termos processuais tal questão da ilisão probatória perante a Exrna Sra Juiz Relatora) ao ponto de, considerar que a interpretação do art.º 248.º do CPC aos presentes autos vertida no douto Acórdão n.º 664/2018 está inquinada, padece de erro na determinação do seu sentido, por ter sido obliterado a dimensão processual, retro referida; o da prévia necessidade de deduzir e ser apreciada no incidente de arguição de nulidade, tramitado perante a Exma Relatora
+
+31. Ao ponto de se questionar, se a aplicação do art.º 248.º do CPC, impunha uma interpretação e aplicação sistémica e conjunta com n.º 3 do art.º 3.º do CPC, no sentido de que, a referida norma deveria ser interpretada nos termos em que a ilisão da presunção ínsita no art.º 248.º do CPC, atento à natureza do meio impugnatório e o sistema de recurso vigente entre nós, e designadamente, atendendo à natureza dos meios de impugnação- recurso e reclamação' (que não assenta na decisão de questões novas)- e bem assim a fase em que se encontram os presentes autos, se impunha que ao Recorrente, fosse notificado e dado a conhecer " o projecto de decisão" que a Exma Relatora conjecturasse no âmbito do incidente de apreciação da arguição de nulidade da notificação da Decisão Sumária, por ser esse o momento processual adequado para alegar factos e carrear provas que pudesse ilidír tal presunção do art.º 248.º do CPC,
+
+32. Uma vez que, a falta de alegação de tais factos para afastar o funcionamento da presunção, nessa primeira fase, fará necessariamente com que ao Recorrente, fique precludida a possibilidade de suscitar esses factos e meios probatórios em sede de reclamação para conferência, por esta estar vedado o conhecimento de questões novas (excepto de natureza oficiosa)!
+
+33. Ou seja, a questão suscitada em termos hermeuticos é a de saber se: é correcta a interpretação do art. 248.º do CPC, no sentido de que, o Recorrente, perante a decisão da Relatora, que indefira a arguição de nulidade de notificação de decisão Sumária, com base entre outros, no fundamento de que não foi indicado factos e bem assim carreado meios de prova idóneos à afastar o funcionamento da presunção, ainda assim, poderá invocar tais factos e meios de probatórios em sede de reclamação para conferência, afigurando/se esse momento processual ainda como adequado? Ou pelo contrário: Estando vedado à Conferência o conhecimento e decisão sobre questões novas, que não hajam sido apreciadas' porque não previamente suscitadas perante a Exma Relatora- a ilisão da presunção do art.º 248.º do CPC, quanto à notificação da decisão Sumária por parte do recorrente, impunha que fosse dado a conhecer ao Recorrente os factos que sustentam o funcionamento de tal presunção, a ocorrer antes da prolação de decisão, através do cumprimento do art.º 3.º n.º 3 do CPC? Ou a preterição do cumprimento do art.º 3.º n.º 3, não preclude a faculdade do recorrente de alegar novos factos tendentes à afastar a presunção, em sede de reclamação para a conferência?
+
+34. Ora, salvo o devido e considerado respeito, à estas concretas questões, em que assente o pedido de reforma, quanto à determinação do sentido e alcance das normas jurídicas aplicáveis, o Acórdão sob escrutínio, omite pronuncia.
+
+35. Razão pela qual, o mesmo está ferido de nulidade, nos termos da al. d) do n.º 1 do art.º 615.º do CPC que ora se argui expressamente para todos e os devidos efeitos legais.
+
+36. Por outro lado, verifica-se que foi preterida ao Recorrente a notificação do parecer emitido pelo MP junto desse tribunal, situação essa que configura uma nulidade que também se argui.
+
+Termos em que deverá ser julgada procedente por verificada as arguidas nulidades, com os devidos efeitos legais.».
+
+9. O Ministério Público neste Tribunal notificado do requerimento a fls. 158 a 162, vem dizer o seguinte: (cfr. fls. 170-171):
+
+«1.º
+
+Pelo douto Acórdão n.º 664/2018, indeferiu-se a reclamação da decisão proferida pela Exma. Senhora Conselheira Relatora, em 11 de Outubro de 2018.
+
+2.º
+
+O recorrente veio arguir a nulidade do acórdão e pediu a sua reforma.
+
+3.º
+
+Pelo Acórdão n.º 310/2019, foram indeferidos os pedidos.
+
+4.º
+
+Notificado desse Acórdão, vem agora o recorrente “deduzir incidente pós-decisório da arguição de nulidade”.
+
+5.º
+
+Ora, o acórdão é perfeitamente claro e não enferma de qualquer vício, designadamente daqueles que lhe são imputados pelo recorrente.
+
+6.º
+
+Com o requerimento agora apresentado, o recorrente demonstra, sim, que discordou da decisão.
+
+7.º
+
+Assim, tendo em atenção o conteúdo do requerimento e a conduta processual que o recorrente vem adoptando, parece-nos que a mesma se aproxima do conceito de litigância de má fé, prevista e regulada no artigo 542.º do Código de Processo Civil, aplicável ex vi com o disposto no artigo 69.º da Lei de Organização, Funcionamento e Processo do Tribunal Constitucional (LTC).».
+
+Cumpre apreciar e decidir.
+
+II – Fundamentação
+
+10. Cumpre começar por clarificar que a questão objeto do presente traslado é a questão que se reporta à notificação da Decisão Sumária n.º 513/2018 – que o recorrente entende não ter sido efetuada – com projeção no respetivo trânsito em julgado.
+
+Sobre a pretensão do recorrente relativa àquela notificação foi proferido primeiro despacho da relatora e, posteriormente, o Acórdão n.º 664/2018 – no qual, pelas razões supra transcritas (em I, 6.2), se indeferiu a pretensão do recorrente. Proferido este Acórdão sobre a pretensão do recorrente, ficou esgotado o poder jurisdicional (artigo 613.º do CPC, ex vi do artigo 69.º da LTC), sem prejuízo da possibilidade de retificação de erros materiais, de invocação de causas de nulidade da decisão e de reforma quanto a custas e multas (artigos 613.º, n.º 2 e 614.º a 616.º do CPC, também aplicáveis por força do artigo 69.º da LTC).
+
+O recorrente veio pedir a «reforma» do Acórdão n.º 664/2018 (por incorreta aplicação de normas) e invocar a nulidade do mesmo (por preterição do disposto nos artigos 3.º, n.º 3 e 655, n.º 1, do CPC e 75.º-A da LTC).
+
+Foi então proferido o Acórdão n.º 310/2019, no qual se decidiu indeferir o pedido de reforma e arguição de nulidade do Acórdão n.º 664/2018 (cfr. Acórdão n.º 310/2019, supra transcrito em I, 7.2.).
+
+O recorrente vem agora arguir a nulidade do Acórdão n.º 310/2019 (cfr. requerimento supra reproduzido em I, 8.). O requerimento do recorrente constitui um novo incidente pós-decisório, sendo expressamente arguida pelo recorrente a nulidade do Acórdão n.º 310/2019, por omissão de pronúncia, ao abrigo do disposto no artigo 615.º, n.º 1, alínea d), do CPC (nulidade por omissão de pronúncia). Argui também nulidade derivada da preterição de notificação ao recorrente do parecer emitido pelo Ministério Público antes da prolação do Acórdão ora reclamado (cfr. parecer reproduzido supra em I, 7.1).
+
+Vejamos.
+
+11. Invoca o recorrente, ora requerente, incorrer o Acórdão n.º 310/2019 em omissão de pronúncia quanto à questão da apreciação do invocado erro sobre a determinação da norma aplicável, por aplicação do disposto no artigo 615.º, n.º 1, alínea d), do CPC.
+
+Dos autos decorre que o requerente impugnou o Acórdão n.º 664/2018, invocando erro sobre a determinação da norma aplicável (quanto à norma contida no artigo 248.º, do Código de Processo Civil) e incumprimento do disposto nos artigos 3.º, n.º 3, e 655.º, n.º 1, do CPC e do artigo 75.º-A da LTC. E, no Acórdão n.º 310/2019 (supra transcrito em I, 7.2), o Tribunal Constitucional, em cumprimento do correspondente dever de pronúncia, apreciou tais questões, concluindo que não ocorrera o invocado erro sobre a determinação da norma aplicável, para o efeito da pretendida reforma do Acórdão então reclamado e que não procedia a invocação do alegado incumprimento daquelas normas legais, seja por não se mostrarem pertinentes para a solução do caso dos autos (quanto aos artigos 655.º, n.º 1, do CPC e 75.º-A, da LTC), seja por não relevarem para a arguição de nulidade do precedente Acórdão n.º 664/2018 (quanto ao artigo 3.º, n.º 3, do CPC). A este respeito, considerou o Acórdão n.º 310/2019 que a alegada preterição do direito ao contraditório já tinha «sido invocado na precedente reclamação e ponderado pelo Acórdão n.º 664/2018, aí se decidindo estar garantida a audição e contraditório do reclamante por via da reclamação – do despacho da relatora – para a conferência, à semelhança do que sucede com a reclamação de decisões sumárias para a conferência (artigo 78.º-A, n.º 3, da LTC no qual ao reclamante não assistia o invocado direito à retificação, por não verificação dos respetivos pressupostos legais, e, por isso, confirmou o julgado» (cfr. transcrição supra em I, 8.).
+
+O recorrente vem, agora, arguir a nulidade do referido aresto, invocando, para o efeito, que «o pedido de reforma do Acórdão precedente, sustentado em erro na determinação da norma aplicável, previsto na 1.ª parte da al. a) do nº 2 do art.º 616.º do CPC aplicável ex vi art.º 69.º da LOTC, não se reconduz univocamente à hipótese de erro na identificação e determinação da norma aplicável, mas também, à situação em que, pese embora a norma invocada e aplicada que serve de fundamento jurídico-normativo à decisão, esteja correctamente determinada e identificada, a mesma não foi na perspectiva do Recorrente, correcta e devidamente aplicada», pelo que a questão a decidir seria a do erro sobre a determinação da norma aplicável «numa perspectiva hermenêutica, isto é, no que concerne à determinação do sentido e alcance da norma que foi aplicada por esse Colendo Tribunal, aos presentes autos, na fase em que se encontram, e perante a tramitação que o mesmo espelha, e bem assim ante as concretas questões que foram suscitadas pelo Recorrente e o regime recursivo em vigor». Questiona o requerente «se a aplicação do art.º 248.º do CPC, impunha uma interpretação e aplicação sistémica e conjunta com n.º 3 do art.º 3.º do CPC, no sentido de que, a referida norma deveria ser interpretada nos termos em que a ilisão da presunção ínsita no art.º 248.º do CPC, atento à natureza do meio impugnatório e o sistema de recurso vigente entre nós, e designadamente, atendendo à natureza dos meios de impugnação- recurso e reclamação' (que não assenta na decisão de questões novas)- e bem assim a fase em que se encontram os presentes autos, se impunha que ao Recorrente, fosse notificado e dado a conhecer " o projecto de decisão" que a Exma Relatora conjecturasse no âmbito do incidente de apreciação da arguição de nulidade da notificação da Decisão Sumária, por ser esse o momento processual adequado para alegar factos e carrear provas que pudesse ilidir tal presunção do art.º 248.º do CPC» (cfr. requerimento reproduzido em I, 9., em especial, I, 5., 6., 4., e 31).
+
+Ora, desde logo, cumpre sublinhar que, para o efeito de fundar a invocada nulidade por omissão de pronúncia, não está o Tribunal Constitucional obrigado a apreciar todos e cada um dos argumentos invocados pelo reclamante em ordem à pretendida reforma do Acórdão precedente, mas, e tão-só, a questão do então invocado erro sobre a determinação da norma aplicável – o que o Acórdão ora impugnado fez. Para mais, verifica-se que a presente arguição de nulidade por omissão de pronúncia configura tão só o reiterar das razões de discordância com o decidido no Acórdão n.º 664/2018 e mantido no Acórdão n.º 310/2019, sendo que este Acórdão, ora reclamado, conheceu já a questão que o recorrente aqui vem invocar, o que fez de modo abundantemente sustentado (vd. os seus pontos 13.1 a 13.3). Não releva, assim, como fundamento da arguida nulidade, por omissão de pronúncia, a alegação de que se omitiu pronúncia quanto à questão de saber se «a aplicação do art.º 248.º do CPC impunha o prévio cumprimento do art.º 3.º, n.º 3 do CPC» – o que, em rigor, os autos desmentem.
+
+Deste modo, improcede a arguição de nulidade, por omissão de pronúncia, fundada no facto de o Tribunal Constitucional não se ter pronunciado sobre a questão invocada pelo recorrente, ora requerente, pelo que é de indeferir, nesta parte, o requerido.
+
+12. O requerente vem ainda arguir outra causa de nulidade do Acórdão n.º 310/2019, invocando, para o efeito, que não foi notificado do parecer do Ministério Público, para o efeito de exercer o contraditório.
+
+Ora, recorde-se que o Ministério Público emitiu parecer no sentido do indeferimento do deduzido incidente pós-decisório, limitando-se a considerar que o acórdão então visado não padecia de quaisquer dos vícios invocados pelo requerente e que nada de pertinente era alegado pelo recorrente. Isto, nos seguintes termos (cfr. parecer supra reproduzido em I, 7.1):
+
+«4.º
+
+Notificado do acórdão, vem agora o recorrente apresentar um pedido de reforma e arguir a sua nulidade.
+
+5.º
+
+No presente traslado, a única questão que teria de ser e foi resolvida diz respeito à notificação da Decisão Sumária n.º 513/2018 e, consequentemente, ao seu trânsito.
+
+6.º
+
+Ora, o Acórdão n.º 664/2018, é perfeitamente claro e está devidamente fundamentado, não se vislumbrando a existência de qualquer vício.
+
+7.º
+
+Aliás, o recorrente, sobre a matéria tratada por aquele Acórdão – e essa era a única que, naturalmente, podia ser objecto do incidente pós-decisório apresentado – nada de pertinente alega.
+
+8.º
+
+Pelo exposto, deve indeferir-se o que vem requerido.».
+
+No confronto com o ponderado e decidido no Acórdão n.º 310/2019, conclui-se que não ocorre qualquer preterição dos direitos do requerente, em especial, do direito ao contraditório, já que as razões invocadas pelo Ministério Público, no parecer emitido em resposta à arguição de nulidade e pedido de reforma do precedente Acórdão do Tribunal Constitucional, se limitam à afirmação da improcedência dos argumentos aduzidos no incidente pós-decisório em causa, não configurando a apresentação de questão ou razão nova que devesse ser contraditada pelo requerente, pelo que não era, in casu, exigível o cumprimento do artigo 3.º, n.º 3, do Código do Processo Civil, aplicável.
+
+Não se verifica, pois, qualquer nulidade, por preterição do contraditório, que importe a anulação da decisão de indeferimento do pedido de reforma e arguição de nulidade formulado pelo ora requerente, prolatada no Acórdão n.º 310/2019.
+
+13. Assim, não se verificando os invocados fundamentos de nulidade do Acórdão n.º 310/2019, há que concluir pelo indeferimento do requerido.
+
+III – Decisão
+
+14. Pelo exposto, indefere-se a arguição de nulidade do Acórdão n.º 310/2019.
+
+Custas pelo requerente, fixando-se a taxa de justiça em 20 unidades de conta, nos termos do artigo 7.º e ponderados os critérios referidos no artigo 9.º, n.º 1, do Decreto-Lei n.º 303/98, de 7 de outubro e a prática do Tribunal em casos semelhantes.
+
+Lisboa, 3 de março de 2020 - Maria José Rangel de Mesquita - Lino Rodrigues Ribeiro - João Pedro Caupers
