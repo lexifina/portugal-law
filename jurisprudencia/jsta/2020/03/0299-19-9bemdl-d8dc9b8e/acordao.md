@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2020-03-04, processo 0299/19.9BEMDL
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0299/19.9BEMDL
+
+**Data do Acordão:** 03/04/2020
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOSÉ GOMES CORREIA
+
+**Descritores:** INCOMPETÊNCIA EM RAZÃO DA HIERARQUIA; FIXAÇÃO DA MATÉRIA COLECTÁVEL; LEI GERAL TRIBUTÁRIA
+
+**Nº Convencional:** JSTA000P25661
+
+**Nº do Documento:** SA2202003040299/19
+
+**Data de Entrada:** 02/06/2020
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A............. E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A competência do tribunal afere-se face à pretensão formulada pelo autor na petição inicial, traduzida no binómio pedido/causa de pedir, ou seja, face ao «quid disputatum» e não ao «quid decisum», isto é, dito por outras palavras, a competência determina-se pelo pedido do Autor, irrelevando qualquer tipo de indagação acerca do seu mérito.
+
+II - A identificação dos fundamentos do recurso colhe-se nas conclusões das alegações porque é nelas que o recorrente tem de condensar as causas de pedir que tenham susceptibilidade jurídica para, segundo o seu prisma, justificar a censura da decisão recorrida.
+
+III - O recurso tem exclusivo fundamento em matéria de direito se, perante o circunstancialismo dos autos, se concluir que para solucionar a matéria alegada e controvertida pelas partes não se torna necessário fazer qualquer juízo sobre questões probatórias ou averiguar da materialidade alegada como eventualmente interessando a outras plausíveis soluções de direito.
+
+IV - Em regra, a competência em razão da hierarquia para conhecer recurso jurisdicional de decisão de tribunal tributário de 1.ª instância cabe aos tribunais centrais administrativos, dado que o Supremo Tribunal Administrativo apenas goza dessa competência quando o recurso tiver por exclusivo fundamento matéria de direito [arts. 26.º, alínea b), e 38.º, alínea a), do ETAF, e art. 280.º, n.º 1, do CPPT].
+
+V - Quando no recurso se invocam factos sobre os quais a sentença não efectuou julgamento e deles se pretende extrair relevante consequência jurídica, é de considerar que o recurso não tem por fundamento exclusivo matéria de direito.
+
+VI - Sendo o recurso decidido no que à competência hierárquica do STA se refere, com base nos factos alegados e provados, factos esses de que as partes tiveram conhecimento e contra os quais esgrimiram os argumentos que entenderam convenientes, a decisão tomada no acórdão em nada afectará quer a pretensão deduzida, quer a defesa, estando a audição das partes será dispensada nos termos do artigo 3º nº. 3 pois é um caso de manifesta desnecessidade e em que, objectivamente, as partes não possam alegar de boa fé, desconhecimento das questões de direito ou de facto a decidir pelo Juiz e das respectivas consequências, o que sucedeu precisamente no caso concreto.
