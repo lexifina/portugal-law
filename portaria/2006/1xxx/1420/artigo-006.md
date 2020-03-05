@@ -1,0 +1,5 @@
+# Artigo 6.º
+
+### Início de funcionamento do curso
+
+O curso pode iniciar o seu funcionamento a partir do ano lectivo de 2006-2007, inclusive.
