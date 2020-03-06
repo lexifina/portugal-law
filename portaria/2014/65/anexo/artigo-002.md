@@ -58,4 +58,6 @@ v) «Tromba-d'água»: Efeitos mediata ou imediatamente resultantes de queda plu
 
 w) «Unidade de produção»: O conjunto de parcelas agrícolas, agroflorestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum de mão de obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização;
 
-x) 'Viveiro': o local onde é exercida, em conformidade com as disposições legais aplicáveis, a atividade de viveirista, e onde se produzem, para replantação, plantas vitícolas, frutícolas, florestais e plantas ornamentais, em regime de ar livre, sem venda ao público e cujas plantas não são produzidas no âmbito de ensaios ou estudos de natureza científica.
+x) 'Viveiro': o local onde é exercida, em conformidade com as disposições legais aplicáveis, a atividade de viveirista, e onde se produzem, para replantação, plantas vitícolas, frutícolas, florestais e plantas ornamentais, em regime de ar livre, sem venda ao público e cujas plantas não são produzidas no âmbito de ensaios ou estudos de natureza científica;
+
+y) 'Título de reconhecimento do Estatuto de Agricultura Familiar': título atribuído ao responsável da exploração agrícola familiar pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR).

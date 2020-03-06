@@ -4,7 +4,7 @@
 
 1 - A determinação do valor do apoio é efetuada da seguinte forma:
 
-a) 60 % do prémio dos contratos de seguro coletivo, de segurados que tenham aderido no ano anterior, bem como dos contratos de seguro de jovens agricultores em ano de 1.ª instalação;
+a) 60 % do prémio para os contratos de seguro coletivo, para contratos de seguros individuais de segurados que tenham aderido a um seguro agrícola no ano anterior ou que detenham título de reconhecimento do Estatuto da Agricultura Familiar, bem como para contratos de seguro subscritos por jovens agricultores em ano de 1.ª instalação;
 
 b) 57 % do prémio nas situações não enquadradas na alínea anterior.
 

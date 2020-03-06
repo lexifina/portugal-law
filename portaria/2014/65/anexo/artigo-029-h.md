@@ -1,7 +1,3 @@
-## Subsecção V
-
-## Seguro Especial de Pera Rocha Oeste
-
 # Artigo 29.º-H
 
 ### Montante da indemnização
