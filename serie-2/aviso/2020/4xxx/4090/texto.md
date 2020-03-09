@@ -1,0 +1,12 @@
+Aviso n.º 4090/2020
+Sumário: Alteração do Regulamento e Tabela de Taxas Municipais do Município de Castelo de Vide.
+Alteração do Regulamento e Tabela de Taxas Municipais do Município de Castelo de Vide
+António Manuel Neves Nobre Pita, Presidente da Câmara Municipal de Castelo de Vide:
+Torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 98.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, que aprovou o Código do Procedimento Administrativo, o seguinte:
+1 - A Câmara Municipal de Castelo de Vide, em reunião ordinária realizada no dia 18 de dezembro do ano transato deliberou iniciar nessa data o procedimento que tem por objeto a Alteração do Regulamento e Tabela de Taxas Municipais do Município de Castelo de Vide, ao abrigo do disposto na alínea k), do artigo 33.º da Lei n.º 75/2013, de 12 de setembro, na sua atual redação.
+2 - Podem constituir-se como interessados no procedimento todos aqueles que, nos termos do n.º 1 do artigo 68.º do CPA, sejam titulares de direitos, interesses legalmente protegidos, deveres, encargos, ónus ou sujeições no âmbito das decisões que nele forem ou possam ser tomadas, bem como as associações, para defender interesses coletivos ou proceder à defesa coletiva de interesses individuais dos seus associados que caibam no âmbito dos respetivos fins.
+3 - Os interessados podem ainda, no prazo de 10 dias úteis seguintes à publicação do presente aviso, formular contributos ou sugestões sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de Alteração do Regulamento e Tabela de Taxas Municipais do Município de Castelo de Vide.
+4 - A formulação de sugestões ou contributos bem como a constituição como interessados na alteração regulamentar deverão ser entregues no prazo referenciado e dirigidas, por escrito, ao Sr. Presidente da Câmara Municipal, por uma das seguintes formas: apresentadas presencialmente no Balcão Único desta Câmara Municipal, por via postal para os Paços do Município, Rua Bartolomeu Álvares da Santa, 7320-117 Castelo de Vide, ou por via eletrónica para cm.castvide@mail.telepac.pt, contendo, em qualquer uma das formas, a identificação completa do(s) seu(s) subscritor(es).
+Para constar e para os devidos e legais efeitos se publica o presente Aviso que vai ser afixado nos lugares de estilo, na página eletrónica da Câmara Municipal bem como publicitado na 2.ª série do Diário da República.
+21 de fevereiro de 2020. - O Presidente da Câmara, António Manuel das Neves Nobre Pita.
+313041472
