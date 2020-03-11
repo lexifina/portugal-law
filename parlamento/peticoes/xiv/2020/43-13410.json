@@ -1,0 +1,341 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13410",
+  "numero": "43",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-03-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Fundação Francisco Manuel dos Santos"
+            ],
+            "nrOficio": "87/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Instituto de Matemática da Universidade da Beira Interior"
+            ],
+            "nrOficio": "88/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Centro de Matemática da Universidade de Coimbra"
+            ],
+            "nrOficio": "89/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Instituto de Matemática da Universidade de Évora"
+            ],
+            "nrOficio": "90/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Instituto de Matemática da Universidade do Algarve"
+            ],
+            "nrOficio": "92/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": "2020-06-23",
+            "entidades": [
+              "Departamento de Matemática da Universidade do Minho"
+            ],
+            "nrOficio": "93/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": "2020-06-03",
+            "entidades": [
+              "Departamento de Matemática da Universidade do Porto"
+            ],
+            "nrOficio": "94/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Instituto de Matemática da Universidade Nova de Lisboa"
+            ],
+            "nrOficio": "95/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Ordem dos Economistas"
+            ],
+            "nrOficio": "96/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Academia das Ciências de Lisboa"
+            ],
+            "nrOficio": "86/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": "2020-06-01",
+            "entidades": [
+              "Revista Portugaliae Mathematica da Faculdade de Ciências da Universidade de Lisboa"
+            ],
+            "nrOficio": "97/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Sociedade Portuguesa de Matemática"
+            ],
+            "nrOficio": "98/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-05-25",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Ciência Tecnologia e Ensino Superior"
+            ],
+            "nrOficio": "85/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2020-05-22",
+        "DataArquivo": "2020-06-23",
+        "DataBaixaComissao": "2020-03-18",
+        "DataEnvioPAR": "2020-06-30",
+        "DataReaberta": "2020-05-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b5a6d4d314e7a4d79596930305a6d59354c545130596a67744f5464695969316c4f57466b5a544d354d4451324f574d756347526d&fich=dfc5732b-4ff9-44b8-97bb-e9ade390469c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793835596a41344e545a6b4f43303259546c684c54517a4e4751744f574a6b5a4330334e574d335a6d5a684e54646c4e7a45756347526d&fich=9b0856d8-6a9a-434d-9bdd-75c7ffa57e71.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344f44466a4d5749314e53316c4e7a63304c5451794d444d74596a6730595330324e475a684d7a426b4d446c684d7a59756347526d&fich=881c1b55-e774-4203-b84a-64fa30d09a36.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793834596a5177597a6b314e7930794f47597a4c54526c4e546774596a6b334d4330334e324d324e7a51304f544930596a55756347526d&fich=8b40c957-28f3-4e58-b970-77c6744924b5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794f474d315957557a597930304d546b7a4c5451304f446b744f5745794d793031597a59324d574d324e6a557a4e6d49756347526d&fich=28c5ae3c-4193-4489-9a23-5c661c66536b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4e6a5a6a5a44517a4d7930304e5755314c545132596d49744f54677a5969307a4d57457759324d324e4467784d5451756347526d&fich=d66cd433-45e5-46bb-983b-31a0cc648114.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794d7a413059574d784e4330305a6a51334c5451324e574d74595459314e4330344f444e6c4e7a686a59324d344d574d756347526d&fich=2304ac14-4f47-465c-a654-883e78ccc81c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314e5467315a4751774f4330335a6d566b4c5451344f4459744f445a6b4e4330775a444d7a4e474e684f4455325a4745756347526d&fich=5585dd08-7fed-4886-86d4-0d334ca856da.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684e6a63794e6d5178595330794f47557a4c54517a4d5749744f5755305a533031595749354f4468684d4445304d7a67756347526d&fich=a6726d1a-28e3-431b-9e4e-5ab988a01438.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a4e32526b593245795a4330305a4759784c5451784d5759744f546c6b4e5330324f54686a4e474d784d6a646c4d3251756347526d&fich=c7ddca2d-4df1-411f-99d5-698c4c127e3d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4d7a55334e7a67794f5331684f57557a4c5451314f5463744f54426b4d5330344f4455325a44566a4e325a6a4e6a45756347526d&fich=33577829-a9e3-4597-90d1-8856d5c7fc61.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334e6d59354d445a69595330775a57566c4c5451774d544574595451785a43316d4d4452684d324d30596d4933596d4d756347526d&fich=76f906ba-0eee-4011-a41d-f04a3c4bb7bc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a4d545931597a49354e4331694d3251354c5451344d475174595759334d69316b4f5467345a475179597a67775a5463756347526d&fich=c165c294-b3d9-480d-af72-d988dd2c80e7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-05-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793878595759315a5467785a69316b4d5449304c54526c4e6a597459574d7a5a5331684f575a684d7a6c6a595455315a4755756347526d&fich=1af5e81f-d124-4e66-ac3e-a9fa39ca55de.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-06-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938775a6d59784e544d79596931685a57466b4c54517759575974596d55334e793033597a49354f4452685954557a5a4451756347526d&fich=0ff1532b-aead-40af-be77-7c2984aa53d4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-06-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a59546377596a67344f53316a4e5755344c5451325a575174595745794f4330794d7a55304d474d344d6a6732597a49756347526d&fich=ca70b889-c5e8-46ed-aa28-23540c8286c2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4d324e6b4d7a41784f4330335a6d4a694c5451795a6a41745954426d595331685a574d314e4446694d5463774d5745756347526d&fich=33cd3018-7fbb-42f0-a0fa-aec541b1701a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a5a6a566d5a5745794d4330794e6d4a684c54526c4e444d7459546b354f4330304d6d59774f57526a4d325577596a63756347526d&fich=3f5fea20-26ba-4e43-a998-42f09dc3e0b7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938354e6a67785a47466b4d43316a4d324d314c5451314e6a6b744f44646b4e6931685a6a4930595752694e4455355a6d59756347526d&fich=9681dad0-c3c5-4569-87d6-af24adb459ff.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938795a546c6d4d5745334e6930354d6a55324c5452694f444974595459784e5331684d47553259544a6d4d474a694e6a6b756347526d&fich=2e9f1a76-9256-4b82-a615-a0e6a2f0bb69.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694d4463784e4449774d5331695a4455774c5451304e6a4974595745304d693168596a5a6d5a5455314d5749784d6a6b756347526d&fich=b0714201-bd50-4462-aa42-ab6fe551b129.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2020-05-13",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4979596a6b785a475a6d4c5751324d5751744e446c694e6931684d7a426a4c544d774d6a67795a54646c4e44426b4e6935775a47593d&fich=22b91dff-d61d-49b6-a30c-30282e7e40d6.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2020-03-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a5a6a4f445a6a5a5455334c5455774d7a41744e444e6a597931684e7a55344c5751354f4441785a545178596a56694d4335775a47593d&fich=6c86ce57-5030-43cc-a758-d9801e41b5b0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13410",
+    "PetAssunto": "Em ordem à validação oficial da demonstração matemática irrefutável do «último teorema de Fermat», apresentada há quarenta anos por um cidadão",
+    "PetDataEntrada": "2020-03-11",
+    "PeticoesAssociadas": null,
+    "PetId": "13410",
+    "PetLeg": "XIV",
+    "PetNr": "43",
+    "PetNrAssinaturas": "19",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
