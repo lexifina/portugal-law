@@ -8,8 +8,8 @@
 
 3 - A decisão sobre as reclamações compete ao presidente do Instituto, sendo notificado o reclamante por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º
 
-4 - As decisões sobre reclamações que não hajam sido liminarmente rejeitadas nos termos do n.º 2, são notificadas aos reclamantes através de carta registada com aviso de receção.
+4 - Revogado.
 
-5 - Ao procedimento relativo à apresentação e decisão das reclamações é aplicável o regime do Código do Procedimento Administrativo.
+5 - Revogado.
 
 6 - A reclamação está sujeita ao pagamento da taxa prevista na tabela de emolumentos em vigor, que será devolvida sempre que a reclamação seja deferida.

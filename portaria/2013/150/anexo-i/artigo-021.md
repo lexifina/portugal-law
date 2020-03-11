@@ -2,7 +2,7 @@
 
 ### Decisão
 
-1 - A decisão sobre as candidaturas a que se refere o presente Regulamento é da competência do presidente do Instituto, mediante proposta dos serviços competentes da Escola, materializada sob a forma de edital de resultados organizado por variante, ramo e opção, publicado no sítio da Internet do Instituto.
+1 - A decisão sobre as candidaturas a que se refere o presente Regulamento é da competência do presidente do Instituto, mediante proposta dos serviços competentes da Escola, materializada sob a forma de edital de resultados organizado por variante, opção/instrumento, publicado no sítio da Internet do Instituto.
 
 2 - O resultado final do concurso exprime-se através de uma das seguintes situações:
 

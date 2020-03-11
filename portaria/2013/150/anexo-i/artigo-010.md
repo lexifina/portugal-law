@@ -6,7 +6,7 @@ Em cada ano letivo, o processo de candidatura inicia-se com a publicitação, no
 
 a) O calendário das ações a desenvolver;
 
-b) As vagas por variante, ramo e opção;
+b) As vagas por variante, opção/instrumento;
 
 c) A informação sobre a instrução de processos de candidatura;
 

@@ -20,8 +20,8 @@ d) Passagem à situação de Excluído.
 
 5 - A decisão de retificação é notificada ao interessado por via eletrónica e através do sistema online, no prazo indicado no edital a que se refere o artigo 10.º
 
-6 - A decisão que revista a forma de alteração da colocação, de passagem à situação de Não Colocado ou de Excluído é notificada através de carta registada com aviso de receção.
+6 - Revogado.
 
-7 - Ao procedimento relativo à apresentação e decisão da retificação é aplicável o regime do Código do Procedimento Administrativo.
+7 - Revogado.
 
 8 - A retificação abrange apenas o candidato em que o erro foi detetado, não tendo qualquer efeito em relação aos restantes candidatos.

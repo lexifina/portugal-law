@@ -4,9 +4,9 @@
 
 1 - São componentes de avaliação da capacidade para a frequência as seguintes provas específicas de acesso:
 
-a) Prova de aptidão prática;
+a) Prova prática;
 
-b) Prova de aptidão escrita;
+b) Prova escrita;
 
 c) Entrevista.
 

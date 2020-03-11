@@ -6,6 +6,6 @@ Escola Superior de Música, Artes e Espetáculo
 
 Curso de licenciatura em Música
 
-Provas específicas a realizar para cada variante, ramo e opção
+Provas específicas a realizar para cada variante
 
 (ver documento original)
