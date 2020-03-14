@@ -1,15 +1,3 @@
-## Capítulo VIII
-
-## Medidas de proteção social na doença e na parentalidade
-
-## Capítulo IX
-
-## Medidas de apoio aos trabalhadores independentes
-
-## Capítulo X
-
-## Formas alternativas de trabalho
-
 # Artigo 30.º
 
 ### Regime excecional de funcionamento de júris nos sistemas do ensino superior, ciência e tecnologia

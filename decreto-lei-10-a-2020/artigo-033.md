@@ -1,7 +1,3 @@
-## Capítulo XI
-
-## Disposições complementares e finais
-
 # Artigo 33.º
 
 ### Enquadramento no subsistema de proteção familiar
