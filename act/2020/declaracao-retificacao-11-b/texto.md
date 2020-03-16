@@ -1,0 +1,11 @@
+Declaração de Retificação n.º 11-B/2020
+Sumário: Retifica o Decreto-Lei n.º 10-A/2020, de 13 de março, da Presidência do Conselho de Ministros, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID-19, publicado no Diário da República, 1.ª série, 1.º suplemento, n.º 52, de 13 de março de 2020.
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se que o Decreto-Lei n.º 10-A/2020, publicado no Diário da República, 1.ª série, 1.º suplemento, n.º 52, de 13 de março de 2020, saiu com as seguintes inexatidão que, mediante declaração da entidade emitente, assim se retificam:
+Nos n.os 1 e 2 do artigo 16.º, onde se lê:
+«1 - Sem prejuízo do disposto no número seguinte, as autoridades públicas aceitam, para todos os efeitos legais, a exibição de documentos suscetíveis de renovação cujo prazo de validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores ou posteriores.
+2 - O cartão do cidadão, certidões e certificados emitidos pelos serviços de registos e da identificação civil, carta de condução, bem como os documentos e vistos relativos à permanência em território nacional, cuja validade termine a partir da data de entrada em vigor do presente decreto-lei são aceites, nos mesmos termos, até 30 de junho de 2020.»
+deve ler-se:
+«1 - Sem prejuízo do disposto no número seguinte, as autoridades públicas aceitam, para todos os efeitos legais, a exibição de documentos suscetíveis de renovação cujo prazo de validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores.
+2 - O cartão do cidadão, certidões e certificados emitidos pelos serviços de registos e da identificação civil, carta de condução, bem como os documentos e vistos relativos à permanência em território nacional, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores são aceites, nos mesmos termos, até 30 de junho de 2020.»
+Secretaria-Geral, 16 de março de 2020. - O Secretário-Geral, David Xavier.
+113125907
