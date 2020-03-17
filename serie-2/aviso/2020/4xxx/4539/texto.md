@@ -1,0 +1,7 @@
+Aviso n.º 4539/2020
+Sumário: Discussão pública do projeto de alteração ao Regulamento Municipal de Atribuição de Bolsas de Estudo.
+Projeto de Alteração ao Regulamento Municipal de Atribuição de Bolsas de Estudo
+Marcelo David Coelho Guerreiro, Presidente da Câmara Municipal de Ourique, no uso da competência conferida pela alínea t) do n.º 1 do artigo 35.º e para efeitos do disposto no artigo 56.º do Anexo I, à Lei n.º 75/2013, de 12 de setembro, torna público, em cumprimento do disposto no artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, que o Órgão Executivo Municipal na sua reunião ordinária realizada em 29 de janeiro de 2020, deliberou submeter a consulta pública, para recolha de sugestões, durante o prazo de 30 dias úteis, a contar da data da publicação do presente Aviso no Diário da República, 2.ª série, o Projeto de Alteração ao Regulamento Municipal de Atribuição de Bolsas de Estudo, o qual se encontra disponível no Portal do Município na Internet, em www.cm-ourique.pt
+Qualquer interessado poderá apresentar, durante o período de consulta pública, por escrito, sugestões que possam ser consideradas relevantes no âmbito do presente projeto, conforme disposto no n.º 2 do citado artigo 101.º, dirigidas ao Presidente da Câmara, em correio normal: Av. 25 de abril, n.º 26, 7670-250 Ourique ou via correio eletrónico: geral@cmourique
+20 de fevereiro de 2020. - O Presidente da Câmara, Marcelo David Coelho Guerreiro.
+313043221
