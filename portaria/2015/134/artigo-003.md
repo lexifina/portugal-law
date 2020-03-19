@@ -22,7 +22,7 @@ h) 'Entidades Coletivas de Gestão Florestal', as entidades de gestão florestal
 
 i) «Espaço florestal» a superfície ocupada por arvoredos florestais de qualquer porte, por uso silvopastoril ou por incultos de longa duração, terrenos improdutivos ou estéreis do ponto de vista da existência de comunidades vegetais e ainda as águas interiores, nos termos definidos pelo Inventário Florestal Nacional, independentemente de desta resultarem produtos abrangidos pelo Anexo I do Tratado de Funcionamento da União Europeia;
 
-j) «Espécie invasora» a espécie suscetível de, por si própria, ocupar o território de uma forma excessiva, em área ou em número de indivíduos, provocando uma modificação significativa nos ecossistemas, conforme estabelecido no Decreto-Lei n.º 565/99, de 21 de dezembro;
+j) 'Espécie invasora', a espécie suscetível de, por si própria, ocupar o território de uma forma excessiva, em área ou em número de indivíduos, provocando uma modificação significativa nos ecossistemas, conforme estabelecido no Decreto-Lei n.º 92/2019, de 10 de julho;
 
 k) «Exploração florestal» o prédio ou conjunto de prédios, de forma contínua ou não, ocupados total ou parcialmente por espaços florestais, submetidos a uma gestão única;
 
@@ -30,7 +30,7 @@ l) «Fogo controlado» o uso do fogo na gestão de espaços florestais, sob cond
 
 m) 'Intervenções com escala territorial relevante', as intervenções que abranjam áreas mínimas de 750 ha, ou que, no caso da operação 8.1.4, incidam em áreas afetadas superiores a 750 ha identificadas pelo ICNF, I. P., para efeitos de estabilização da emergência, sem prejuízo do disposto no artigo seguinte;
 
-n) 'Instrumento equivalente do Plano de Gestão Florestal (PGF)', o plano de utilização dos baldios;
+n) (Revogada);
 
 o) «Monitorização» o procedimento, aplicado de forma contínua, que permite acompanhar a evolução temporal da população de um determinado agente biótico, com o objetivo de conhecer a dimensão do ataque e avaliar as suas consequências económicas, no sentido de permitir a tomada de decisão;
 

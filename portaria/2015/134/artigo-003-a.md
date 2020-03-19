@@ -6,7 +6,7 @@
 
 2 - Consideram-se no âmbito das intervenções com escala territorial relevante, aquelas que incluam áreas apresentadas por autarquias locais e entidades intermunicipais, desde que:
 
-a) Estejam em consonância com a totalidade da área definida e calendarizada no Plano Municipal de Defesa da Floresta Contra Incêndios (PMDFCI), para cada tipologia de intervenção e no âmbito da respetiva área geográfica, no caso da defesa da floresta contra agentes abióticos;
+a) Estejam em consonância com a totalidade da área definida no Plano Municipal de Defesa da Floresta contra Incêndios (PMDFCI), para cada tipologia de intervenção e no âmbito da respetiva área geográfica, no caso da defesa da floresta contra agentes abióticos;
 
 b) Apresentem uma área mínima de intervenção de 100 hectares (ha), no caso da prevenção e controlo de agentes bióticos nocivos.
 
