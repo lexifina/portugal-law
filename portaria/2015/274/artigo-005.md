@@ -2,7 +2,7 @@
 
 ### Cumulação dos apoios
 
-1 - Os apoios previstos na presente portaria, incluindo os prémios de perda de rendimento e de manutenção, bem como os restantes apoios para a ação 8.1. «Silvicultura sustentável» da Medida 8, «Proteção e Reabilitação dos Povoamentos Florestais» do PDR 2020 são cumuláveis entre si, não sendo contabilizado para este efeito o investimento destinado à estabilização de emergência pós-incêndio, à recuperação dos efeitos decorrentes de calamidades naturais ou acontecimentos catastróficos, desde que respeitem as seguintes condições:
+1 - Os apoios previstos para a ação 8.1, 'Silvicultura sustentável' da medida 8, 'Proteção e Reabilitação dos Povoamentos Florestais', do PDR 2020 são cumuláveis entre si, não sendo contabilizado para este efeito o investimento destinado à estabilização de emergência pós-incêndio, à recuperação dos efeitos decorrentes de calamidades naturais ou acontecimentos catastróficos, desde que respeitem as seguintes condições:
 
 a) Investimento elegível até ao limite de 2 milhões de euros por ZIF ou por baldio;
 
