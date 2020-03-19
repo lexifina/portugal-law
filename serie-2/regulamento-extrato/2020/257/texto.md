@@ -1,0 +1,7 @@
+Regulamento (extrato) n.º 257/2020
+Sumário: Aprovação da revisão do Regulamento Municipal para Atribuição e Gestão de Habitações Sociais.
+Aprovação da Revisão do Regulamento Municipal para Atribuição e Gestão de Habitações Sociais
+Carlos António Pinto Coutinho, Presidente da Câmara Municipal de Benavente, torna público que, no uso da competência previstas na alínea t), do n.º 1, do artigo 35.º e no n.º 1, do artigo 56.º, ambos da Lei n.º 75/2013, de 12 de setembro, na redação vigente, em cumprimento com o estabelecido no artigo 139.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, e após decorrido o período de consulta pública previsto no 101.º do mesmo decreto-lei, a Assembleia Municipal, na sua sessão ordinária de 13 de fevereiro de 2020 e que a Câmara Municipal, na sua reunião ordinária de 27 de janeiro de 2020, deliberaram aprovar a Revisão do Regulamento Municipal para Atribuição e Gestão de Habitações Sociais.
+O referido regulamento entra em vigor no dia imediatamente seguinte ao dia da publicação do presente aviso no Diário da República, podendo o mesmo ser consultado, na íntegra, na página eletrónica do Município de Benavente, em www.cm-benavente.pt. Para constar e devidos efeitos se lavrou o presente aviso e outros de igual teor que vão ser afixados nos lugares de estilo e será objeto de divulgação na página eletrónica do Município.
+21 de fevereiro de 2020. - O Presidente da Câmara Municipal, Carlos António Pinto Coutinho.
+313062824
