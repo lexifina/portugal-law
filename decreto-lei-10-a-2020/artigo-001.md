@@ -10,4 +10,4 @@
 
 2 - O disposto no presente decreto-lei aplica-se à prevenção, contenção, mitigação e tratamento de infeção epidemiológica por COVID-19, bem como à reposição da normalidade em sequência da mesma.
 
-3 - As medidas excecionais previstas nos capítulos II e III são aplicáveis às entidades do setor público empresarial e do setor público administrativo, bem como, com as necessárias adaptações, às autarquias locais.
+3 - As medidas excecionais previstas no artigo 2.º são aplicáveis, com as necessárias adaptações, às entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.
