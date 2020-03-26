@@ -4,7 +4,7 @@
 
 1 - Os bens das instituições extintas revertem para outras instituições particulares de solidariedade social ou para entidades de direito público que prossigam idênticas finalidades, nos termos das disposições estatutárias, ou, na sua falta, mediante deliberação dos órgãos competentes.
 
-2 - Não havendo disposição estatutária aplicável, nem deliberação dos órgãos competentes, os bens são atribuídos, por decisão do membro do Governo Regional responsável pela área da segurança social, a instituições particulares de solidariedade social com sede ou estabelecimento no concelho da localização dos bens, ou em concelhos limítrofes, preferindo as que prossigam ações do tipo das exercidas pelas instituições extintas, ou, na sua falta, para entidades de direito público que prossigam essas ações.
+2 - Não havendo disposição estatutária aplicável, nem deliberação dos órgãos competentes, os bens são atribuídos, por decisão do membro do Governo Regional responsável pela área da segurança social, saúde ou educação, consoante o organismo onde a instituição esteja registada como Instituição Particular de Solidariedade Social, a instituições particulares de solidariedade social com sede ou estabelecimento no concelho da localização dos bens, ou em concelhos limítrofes, preferindo as que prossigam ações do tipo das exercidas pelas instituições extintas, ou, na sua falta, para entidades de direito público que prossigam essas ações.
 
 3 - Aos bens deixados ou doados com qualquer encargo ou afetados a determinados fins é dado destino de acordo com os números anteriores, respeitando quanto possível a intenção do encargo ou da afetação.
 

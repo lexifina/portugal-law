@@ -2,7 +2,7 @@
 
 ### Requisição de bens
 
-1 - Para garantir a continuidade das respostas sociais, pode o membro do Governo Regional responsável pela área da segurança social requisitar, sem prejuízo dos direitos de terceiro sobre tais bens, os bens afetos às atividades das instituições para serem utilizados com o mesmo fim e na mesma área por outras instituições ou por serviços oficiais, quando as instituições se extingam ou suspendam o exercício de atividades e se verifique que os beneficiários são por esse motivo gravemente prejudicados.
+1 - Para garantir a continuidade das respostas sociais, pode o membro do Governo Regional responsável pela área da segurança social, da saúde ou da educação, consoante o organismo onde a instituição esteja registada como Instituição Particular de Solidariedade Social, requisitar, sem prejuízo dos direitos de terceiro sobre tais bens, os bens afetos às atividades das instituições para serem utilizados com o mesmo fim e na mesma área por outras instituições ou por serviços oficiais, quando as instituições se extingam ou suspendam o exercício de atividades e se verifique que os beneficiários são por esse motivo gravemente prejudicados.
 
 2 - A requisição cessa:
 
