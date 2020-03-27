@@ -1,0 +1,87 @@
+Decreto-Lei n.º 10-I/2020
+de 26 de março
+Sumário: Estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos não realizados.
+Atendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação, no dia 11 de março de 2020, da doença COVID-19 como uma pandemia, o Governo tem vindo a aprovar um conjunto de medidas extraordinárias e de caráter urgente, em diversas matérias.
+A Direção-Geral de Saúde (DGS), enquanto Autoridade Nacional da Saúde Pública, produziu, a 28 de fevereiro, a Informação n.º 006/2020 sobre a frequência de eventos de massa, tendo-se seguido a Orientação n.º 007/2020, de 10 de março, atualizada em 16 de março de 2020, onde recomenda o cancelamento de eventos de massas com o objetivo de evitar a transmissão do vírus entre um elevado número de pessoas em espaços confinados.
+Esta orientação da DGS, que, desde logo, teve um efeito alargado no cancelamento ou adiamento de vários espetáculos ao vivo de natureza artística, então agendados, tornou-se posteriormente obrigatória com a declaração de Estado de Alerta, emitida pelo Governo no dia 13 de março.
+No dia 18 de março de 2020, foi decretado o estado de emergência em Portugal, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, tendo o Governo aprovado o Decreto n.º 2-A/2020, de 20 de março, para a sua execução.
+A aplicação de medidas extraordinárias e de caráter urgente de restrição de direitos e liberdades, em especial no que respeita aos direitos de circulação e às liberdades económicas, em articulação com as autoridades europeias, com vista a evitar a transmissão do vírus, passaram, nomeadamente, pelo encerramento de instalações e estabelecimentos onde se desenvolvem atividades culturais e artísticas, ao abrigo do artigo 7.º do Decreto n.º 2-A/2020, de 20 de março.
+Neste contexto, impõe-se a adoção de um regime de caráter excecional, que confira uma proteção especial aos agentes culturais envolvidos na realização dos espetáculos não realizados em virtude da pandemia. Por outro lado, alguns espetáculos carecem de preparação, ensaios, montagens e outros atos técnicos que não podem ser realizados no período em que vivemos, impossibilitando a realização dos mesmos ainda que agendados para uma data posterior ao fim do estado de emergência.
+Deste modo, o presente decreto-lei aplica-se a todos os espetáculos que não podem ser realizados no lugar, dia ou hora agendados, entre os dias 28 de fevereiro de 2020 e até ao 90.º dia útil seguinte ao fim do estado de emergência. Assim, em primeiro lugar, os espetáculos não realizados devem, sempre que possível, ser reagendados, devendo todos os agentes culturais envolvidos na realização do espetáculo intentar todos os esforços para a sua concretização, segundo as regras da boa-fé.
+Em segundo lugar, o espetáculo reagendado deve ocorrer no prazo de um ano a contar da data inicialmente prevista. Caso seja necessário substituir o bilhete de ingresso do espetáculo reagendado, por mudança de local, data ou hora, o mesmo não terá custos acrescidos para o consumidor final.
+Em terceiro lugar, caso o espetáculo não possa ser reagendado, o seu cancelamento deve igualmente ser anunciado, devendo ser indicado o local, físico e eletrónico, o modo e o prazo de restituição do preço dos bilhetes de ingresso já adquiridos, garantindo-se os direitos dos consumidores.
+Em quarto lugar, estabelece-se uma proibição de cobrança de comissões pelas entidades que vendem bilhetes aos agentes culturais pelos espetáculos não realizados.
+Em quinto lugar, aplicam-se, com as necessárias adaptações, aos proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos as regras relativas ao reagendamento e cancelamento de espetáculos e respetivas devoluções de valores pagos. Deste modo, caso o espetáculo seja reagendado, não pode ser cobrado qualquer valor suplementar ao promotor do evento. Porém, caso o espetáculo seja cancelado, o valor pago pela reserva da sala ou recinto deve ser devolvido ao promotor do evento ou, por acordo entre as partes, o valor pago pela sala ou recinto pode ser utilizado para a realização de outro espetáculo.
+Por último, de forma a garantir a sustentabilidade dos agentes culturais envolvidos na criação, produção e realização dos espetáculos, permite-se que as entidades públicas promotoras, em caso de reagendamento dos espetáculos, se socorreram dos regimes de adiantamento do preço, revisão de preços e ainda do regime dos bens, serviços ou trabalhos complementares. Em caso de cancelamento podem a entidades públicas promotoras proceder ao pagamento dos compromissos assumidos e efetivamente realizados, na respetiva proporção.
+Foram ouvidas as associações representativas do setor, a saber APEC - Associação Portuguesa de Empresas Cinematográficas, APEFE - Associação de Promotores Espetáculos, GEDIPE - Associação para a Gestão Coletiva de Direitos de Autor e de Produtores Cinematográficos e Audiovisuais, SPA - Sociedade Portuguesa de Autores, AUDIOGEST - Associação para a Gestão e Distribuição de Direitos, a FEVIP - Federação de Editores de Videogramas e a GDA - Cooperativa de Gestão dos Direitos dos Artistas, CRL.
+Foi promovida a audição do Conselho Nacional de Consumo.
+Assim,
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+1 - O presente decreto-lei estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos de natureza artística, promovidos por entidades públicas ou privadas, não realizados no local, data e hora previamente agendados.
+2 - Para efeitos do presente decreto-lei entende-se por espetáculos de natureza artística os referidos na alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual, doravante «espetáculos».
+Artigo 2.º
+Âmbito objetivo
+1 - O presente decreto-lei é aplicável ao reagendamento ou cancelamento de espetáculos não realizados entre os dias 28 de fevereiro de 2020 e até 90 dias úteis após o término do estado de emergência.
+2 - O presente decreto-lei estabelece as regras aplicáveis à:
+a) Venda, substituição e restituição do preço dos bilhetes de ingresso daqueles espetáculos;
+b) Restituição dos valores pagos com as reservas das salas e recintos daqueles espetáculos.
+Artigo 3.º
+Âmbito de aplicação subjetivo
+O presente decreto-lei aplica-se, independentemente da natureza pública ou privada, a todos:
+a) Os agentes culturais, nomeadamente, aos artistas, intérpretes e executantes, autores, produtores, promotores de espetáculos, agentes, doravante agentes culturais;
+b) Os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos;
+c) As agências, postos de venda e plataformas de venda eletrónica de bilhetes.
+Artigo 4.º
+Reagendamento de espetáculos
+1 - Os espetáculos abrangidos pelo presente decreto-lei devem, sempre que possível, ser reagendados.
+2 - O espetáculo reagendado tem de ocorrer no prazo máximo de um ano após a data inicialmente prevista.
+3 - O reagendamento pode implicar, alternativa ou cumulativamente, a alteração de local, data e hora, mediante acordo entre os agentes culturais envolvidos e as entidades referidas na alínea b) do artigo anterior.
+4 - A alteração do local do espetáculo fica limitada à cidade, área metropolitana ou a um raio de 50 km relativamente à localização inicialmente prevista.
+5 - O reagendamento do espetáculo pode, se necessário, implicar a substituição dos bilhetes de ingresso já vendidos.
+6 - A alteração do local, da data e/ou da hora da realização de espetáculos, e se aplicável, o local, físico e eletrónico, o modo e o prazo de substituição dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes cultuais.
+7 - Pela substituição do bilhete de ingresso não pode ser cobrado qualquer outro valor ou comissão.
+8 - O reagendamento do espetáculo não pode implicar o aumento do custo do bilhete de ingresso para aqueles que à data do reagendamento já fossem portadores dos mesmos.
+Artigo 5.º
+Cancelamento de espetáculos
+1 - Sempre que não seja possível o reagendamento do espetáculo, o mesmo deve ser cancelado.
+2 - O cancelamento do espetáculo, bem como o local, físico e eletrónico, o modo e o prazo de restituição do preço dos bilhetes de ingresso já adquiridos devem ser devidamente publicitados pelos agentes culturais.
+3 - O cancelamento do espetáculo dá lugar à restituição do preço dos bilhetes de ingresso já vendidos, o qual deve ocorrer no prazo máximo de 60 dias úteis após o anúncio do cancelamento.
+Artigo 6.º
+Substituição bilhetes de ingresso
+Em alternativa ao previsto no n.º 4 do artigo 4.º e no n.º 3 do artigo 5.º, a pedido do portador do bilhete de ingresso, os agentes culturais podem proceder à substituição do bilhete do espetáculo por outro espetáculo diferente, ajustando-se o preço devido.
+Artigo 7.º
+Cobrança de comissões
+As agências, os postos de venda e as plataformas de venda eletrónica de bilhetes, bem como os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos que tenham bilhética própria, não podem exigir aos agentes culturais a comissão devida pelos espetáculos não realizados ou cancelados abrangidos pelo artigo 2.º
+Artigo 8.º
+Instalações e estabelecimentos de espetáculos
+1 - Pelo reagendamento do espetáculo não podem os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos cobrar qualquer valor suplementar ao agente cultural.
+2 - Em caso de cancelamento do espetáculo os proprietários ou entidades exploradoras de instalações, estabelecimentos e recintos de espetáculos devem proceder ao reembolso do valor da reserva ao agente cultural, no prazo de 90 dias úteis após o término do estado de emergência ou, por acordo entre as partes, o valor pago pela sala ou recinto pode ser utilizado para a realização posterior de outro espetáculo.
+Artigo 9.º
+Contraordenações
+A violação das obrigações previstas no presente decreto-lei constitui contraordenação nos termos do n.º 1 do artigo 36.º do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual.
+Artigo 10.º
+Fiscalização
+Compete à Inspeção-Geral das Atividades Culturais a fiscalização do cumprimento do previsto no presente decreto-lei.
+Artigo 11.º
+Espetáculos promovidos por entidades públicas
+1 - As entidades públicas, promotoras de espetáculos abrangidos pelo presente decreto-lei, podem aplicar aos contratos celebrados e a celebrar as normas previstas nos artigos 2.º a 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.
+2 - As entidades públicas que tenham que proceder ao reagendamento dos espetáculos podem contratar bens, serviços ou trabalhos complementares, ao abrigo do disposto nos artigos 438.º e 454.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, bem como aplicar o regime da revisão de preços, se aplicável.
+3 - As entidades públicas que tenham de cancelar os espetáculos por impossibilidade de reagendamento dos mesmos podem proceder ao pagamento do preço dos compromissos anteriormente assumidos, caso o bem ou serviço tenha sido efetivamente prestados, ou na respetiva proporção, aplicando-se o disposto no artigo 299.º do CCP.
+Artigo 12.º
+Direito subsidiário
+Em tudo o que não estiver expressamente previsto no presente decreto-lei, aplica-se o disposto no Decreto-Lei n.º 23/2014, de 14 de fevereiro, na sua redação atual.
+Artigo 13.º
+Direito transitório formal
+O presente decreto-lei aplica-se aos contratos celebrados relativos à realização dos espetáculos referidos no artigo 2.º, em data anterior à sua entrada em vigor, prevalecendo sobre os mesmos.
+Artigo 14.º
+Entrada em vigor e vigência
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora pelo período de um ano após o término do estado de emergência.
+Visto e aprovado em Conselho de Ministros de 26 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Graça Maria da Fonseca Caetano Gonçalves.
+Promulgado em 26 de março de 2020.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 26 de março de 2020.
+O Primeiro-Ministro, António Luís Santos da Costa.
+113149049
