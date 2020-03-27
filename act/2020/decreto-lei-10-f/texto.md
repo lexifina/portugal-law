@@ -1,0 +1,100 @@
+Decreto-Lei n.º 10-F/2020
+de 26 de março
+Sumário: Estabelece um regime excecional e temporário de cumprimento de obrigações fiscais e contribuições sociais, no âmbito da pandemia da doença COVID-19.
+Atendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação, no dia 11 de março de 2020, da doença COVID-19 como uma pandemia, o Governo tem vindo a aprovar um conjunto de medidas extraordinárias e de caráter urgente, em diversas matérias.
+Em 9 de março, o Governo decidiu prorrogar o prazo de cumprimento de obrigações fiscais (declarativas e de pagamento) relativas ao Imposto sobre o Rendimento das Pessoas Coletivas, nomeadamente adiando o Pagamento Especial por Conta de 31 de março de 2020 para 30 de junho de 2020, prorrogando a entrega da declaração Modelo 22 de 31 de maio de 2020 para 31 de julho de 2020 e prorrogando o primeiro pagamento por conta e o primeiro pagamento adicional por conta de 31 de julho de 2020 para 31 de agosto de 2020.
+Para fazer face aos constrangimentos causados no desenvolvimento da atividade judicial e administrativa, foi aprovado o Decreto-Lei n.º 10-A/2020, de 13 de março, e a proposta de lei que deu origem à Lei n.º 1-A/2020, de 19 de março.
+Em complemento às medidas anteriormente tomadas, o Governo decide agora adotar uma série de medidas adicionais que visam a proteção dos cidadãos e das empresas, de forma a proteger o emprego e os postos de trabalho, a criar condições para que seja assegurado, na medida do possível, o rendimento das famílias e, bem assim, a sobrevivência das empresas.
+Para o efeito, com vista ao objetivo essencial de assegurar liquidez às empresas e preservar a atividade destas e os respetivos postos de trabalho, o presente decreto-lei flexibiliza o pagamento de impostos e contribuições sociais, mantendo-se o pagamento pontual das quotizações.
+As medidas aprovadas destinam-se a apoiar as pequenas e médias empresas, mas não é excluída a sua aplicação a outras, nomeadamente às que demonstrem uma quebra na sua atividade, bem como as que se integrem nos setores que foram encerrados nos termos do Decreto n.º 2-A/2020, de 20 de março, na sua redação atual, e nos setores da aviação e turismo, que se preveem especialmente afetados por esta situação excecional.
+Simultaneamente, e sem prejuízo do disposto na Lei n.º 1-A/2020, de 19 de março, determina-se ainda a suspensão, até 30 de junho de 2020, dos processos de execução fiscal em curso ou que venham a ser instaurados pela Autoridade Tributária e Aduaneira e pela Segurança Social.
+No que concerne às prestações por desemprego e às prestações do sistema de segurança social que garantam mínimos de subsistência, cujo período de concessão ou prazo de renovação termine antes de 30 de junho de 2020, a sua atribuição é extraordinariamente prorrogada. Paralelamente, são também extraordinariamente suspensas as reavaliações das condições de manutenção das prestações do sistema de segurança social.
+O presente decreto-lei assegura igualmente a possibilidade de serem flexibilizados os termos e as condições de pagamento das contribuições devidas à Caixa de Previdência dos Advogados e Solicitadores.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+CAPÍTULO I
+Disposição geral
+Artigo 1.º
+Objeto
+O presente decreto-lei aprova:
+a) Um regime de flexibilização dos pagamentos relativos a Imposto sobre o Valor Acrescentado (IVA) e retenções na fonte de Imposto sobre Rendimento das Pessoas Singulares (IRS) e Imposto sobre o Rendimento das Pessoas Coletivas (IRC) a cumprir no segundo trimestre de 2020;
+b) Um regime de pagamento diferido das contribuições devidas pelas entidades empregadoras e pelos trabalhadores independentes;
+c) A aplicação aos planos prestacionais em curso na Autoridade Tributária e Aduaneira (AT) e na Segurança Social (SS) do regime previsto no n.º 1 do artigo 7.º da Lei n.º 1-A/2020, de 19 de março;
+d) A suspensão dos processos de execução fiscal instaurados pela AT e dos processos de execução por dívidas à segurança social até 30 de junho de 2020, caso o regime aprovado no n.º 1 do artigo 7.º da Lei n.º 1-A/2020, de 19 de março cesse em data anterior;
+e) A prorrogação extraordinária das prestações por desemprego e de todas as prestações do sistema de segurança social que garantam mínimos de subsistência cujo período de concessão ou prazo de renovação termine antes de 30 de junho de 2020, bem como a suspensão das reavaliações das condições de manutenção das prestações do sistema de segurança social;
+f) A possibilidade de diferimento e flexibilização do pagamento das contribuições devidas à Caixa de Previdência dos Advogados e Solicitadores (CPAS).
+CAPÍTULO II
+Obrigações fiscais
+Artigo 2.º
+Entrega do Imposto sobre o Valor Acrescentado e das retenções na fonte de Imposto sobre Rendimento das Pessoas Singulares e Imposto sobre o Rendimento das Pessoas Coletivas
+1 - No segundo trimestre de 2020, as obrigações previstas no artigo 98.º do Código do IRS, no artigo 94.º do Código do IRC e no artigo 27.º do Código do IVA, que tenham de ser realizadas por sujeitos passivos que tenham obtido um volume de negócios até (euro) 10 000 000,00 em 2018, ou cuja atividade se enquadre nos setores encerrados nos termos do artigo 7.º do Decreto n.º 2-A/2020, de 20 de março, na sua redação atual, ou ainda que tenham iniciado a atividade em ou após 1 de janeiro de 2019, podem ser cumpridas:
+a) Nos termos e nas datas previstos nos mencionados artigos; ou
+b) Em três ou seis prestações mensais, sem juros.
+2 - As prestações mensais relativas aos planos prestacionais referidos nas alíneas b) e c) do número anterior vencem-se da seguinte forma:
+a) A primeira prestação na data de cumprimento da obrigação de pagamento em causa;
+b) As restantes prestações mensais na mesma data dos meses subsequentes.
+3 - O disposto no n.º 1 é ainda aplicável aos sujeitos passivos que tenham reiniciado atividade em ou após 1 de janeiro de 2019, quando não tenham obtido volume de negócios em 2018.
+4 - Os pedidos de pagamentos em prestações mensais a que se referem as alíneas b) e c) do n.º 1 são apresentados por via eletrónica, até ao termo do prazo de pagamento voluntário.
+5 - Os sujeitos passivos não abrangidos no n.º 1 podem igualmente requerer os pagamentos em prestações nele previstos, quando declarem e demonstrem uma diminuição da faturação comunicada através do E-fatura de, pelo menos, 20 % na média dos três meses anteriores ao mês em que exista esta obrigação, face ao período homólogo do ano anterior.
+6 - Os pagamentos em prestações abrangidos pelo presente decreto-lei não dependem da prestação de quaisquer garantias.
+7 - Em tudo o que não seja regulado no presente decreto-lei são aplicáveis as regras relativas a pagamentos em prestações previstas no Decreto-Lei n.º 492/88, de 30 de dezembro, na sua redação atual, com as necessárias adaptações.
+8 - Para efeitos do presente artigo, o conceito de volume de negócios corresponde ao previsto no artigo 143.º do Código do IRC, quando aplicável.
+9 - A demonstração da diminuição da faturação a que se refere no n.º 5 deve ser efetuada por certificação de revisor oficial de contas ou contabilista certificado.
+CAPÍTULO III
+Contribuições sociais
+Artigo 3.º
+Entidades abrangidas pelo diferimento do pagamento de contribuições
+1 - Têm direito ao diferimento do pagamento de contribuições previsto no presente decreto-lei as entidades empregadoras dos setores privado e social com:
+a) Menos de 50 trabalhadores;
+b) Um total de trabalhadores entre 50 e 249, desde que apresentem uma quebra de, pelo menos, 20 % da faturação comunicada através do e-fatura nos meses de março, abril e maio de 2020, face ao período homólogo do ano anterior ou, para quem tenha iniciado a atividade há menos de 12 meses, à média do período de atividade decorrido;
+c) Um total de 250 ou mais trabalhadores, desde que se trate de instituição particular de solidariedade social ou equiparada, ou que a atividade dessas entidades empregadoras se enquadre nos setores encerrados nos termos do artigo 7.º do Decreto n.º 2-A/2020, de 20 de março, ou nos setores da aviação e do turismo, e desde que apresentem uma quebra de, pelo menos, 20 % da faturação comunicada através do e-fatura nos meses de março, abril e maio de 2020, face ao período homólogo do ano anterior ou, para quem tenha iniciado a atividade há menos de 12 meses, à média do período de atividade decorrido.
+2 - O número de trabalhadores a que se refere o número anterior é aferido por referência à declaração de remunerações relativa ao mês de fevereiro de 2020.
+3 - As entidades empregadoras beneficiárias podem ser fiscalizadas, em qualquer momento, pelas entidades públicas competentes, devendo comprovar os factos de que depende o diferimento, para além de verificação por via eletrónica com a AT.
+4 - Têm igualmente direito ao diferimento do pagamento de contribuições previsto no presente decreto-lei os trabalhadores independentes.
+Artigo 4.º
+Pagamento das contribuições diferidas
+1 - As contribuições da responsabilidade da entidade empregadora, devidas nos meses de março, abril e maio de 2020, podem ser pagas nos seguintes termos:
+a) Um terço do valor das contribuições é pago no mês em que é devido;
+b) O montante dos restantes dois terços é pago em prestações iguais e sucessivas nos meses de julho, agosto e setembro de 2020 ou nos meses de julho a dezembro de 2020, sem juros.
+2 - Às entidades empregadoras que já efetuaram o pagamento da totalidade das contribuições devidas em março de 2020, o diferimento previsto no presente artigo inicia-se em abril de 2020 e termina em junho de 2020.
+3 - O diferimento do pagamento de contribuições previsto no presente artigo não se encontra sujeito a requerimento.
+4 - O disposto nos números anteriores não impede o pagamento integral das contribuições devidas pelas entidades empregadoras.
+5 - Em julho de 2020, as entidades empregadoras devem indicar na Segurança Social Direta qual dos prazos de pagamento previstos na alínea b) do n.º 1 pretendem utilizar.
+6 - Os requisitos do plano prestacional relativos à faturação, previstos nas alíneas b) e c) do n.º 1 do artigo anterior, são demonstrados pela entidade empregadora durante o mês de julho de 2020, conjuntamente com certificação do contabilista certificado da empresa.
+7 - O diferimento das contribuições devidas pelos trabalhadores independentes aplica-se aos meses de abril, maio e junho de 2020 e as contribuições podem ser pagas nos termos dos números anteriores.
+8 - O incumprimento do disposto na alínea a) do n.º 1 determina a imediata cessação dos benefícios concedidos no presente artigo.
+9 - O incumprimento dos requisitos de acesso ao diferimento do pagamento de contribuições implica o vencimento imediato da totalidade das prestações em falta, bem como a cessação da isenção de juros prevista na alínea b) do n.º 1.
+Artigo 5.º
+Planos prestacionais e suspensão de processos
+1 - O disposto no n.º 1 do artigo 7.º da Lei n.º 1-A/2020, de 19 de março, é igualmente aplicável aos planos prestacionais em curso, sem prejuízo de estes poderem continuar a ser pontualmente cumpridos.
+2 - Caso a equiparação ao regime das férias judiciais a que se refere o n.º 1 do artigo 7.º da Lei n.º 1-A/2020, de 19 de março, venha a cessar antes de 30 de junho de 2020, os processos de execução fiscal devem manter-se suspensos até esta data.
+3 - São igualmente suspensos, pelo prazo previsto no número anterior, os planos prestacionais em curso por dívidas à Segurança Social fora do âmbito dos processos executivos, sem prejuízo de poderem continuar a ser pontualmente cumpridos.
+4 - Após 30 de junho de 2020, pode o conselho diretivo da instituição de segurança social competente deliberar a extensão do prazo de suspensão dos planos prestacionais referidos no número anterior celebrados com instituições particulares de solidariedade social no âmbito de acordos de cooperação.
+Artigo 6.º
+Prorrogação extraordinária de prestações sociais
+1 - São extraordinariamente prorrogadas as prestações por desemprego e todas as prestações do sistema de segurança social que garantam mínimos de subsistência cujo período de concessão ou prazo de renovação termine antes do prazo referido no n.º 3.
+2 - São extraordinariamente suspensas as reavaliações das condições de manutenção das prestações do sistema de segurança social.
+3 - A prorrogação e a suspensão a que se referem os números anteriores aplica-se até 30 de junho de 2020.
+4 - A medida prevista no presente artigo é financiada pelo Orçamento do Estado.
+Artigo 7.º
+Transferências para o orçamento da segurança social
+As transferências do Orçamento do Estado para o orçamento da segurança social para financiamento das medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID-19 são efetuadas até ao dia 10 de cada mês.
+Artigo 8.º
+Contribuições à Caixa de Previdência dos Advogados e Solicitadores
+A CPAS pode, por decisão da Direção e com parecer favorável do Conselho Geral, diferir o prazo de pagamento de contribuições, suspender temporariamente o seu pagamento ou reduzir temporariamente os escalões contributivos aos beneficiários que, comprovadamente, tenham sofrido uma quebra de rendimentos que os impeça de satisfazer as suas obrigações contributivas, nomeadamente em virtude de doença ou redução anormal de atividade relacionadas com a situação epidemiológica do novo Coronavírus - COVID-19.
+Artigo 9.º
+Norma transitória
+O prazo para pagamento das contribuições e quotizações devidas no mês de março de 2020 termina, excecionalmente, a 31 de março de 2020.
+Artigo 10.º
+Produção de efeitos
+O presente decreto-lei produz efeitos à data de 12 de março de 2020.
+Artigo 11.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 20 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+Promulgado em 26 de março de 2020.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 26 de março de 2020.
+O Primeiro-Ministro, António Luís Santos da Costa.
+113149073
