@@ -1,0 +1,10 @@
+Aviso n.º 5272/2020
+Sumário: Prorrogação do prazo de elaboração da 1.ª alteração à 2.ª revisão do Plano Diretor Municipal de Oliveira do Bairro.
+1.ª Alteração à 2.ª Revisão do Plano Diretor Municipal de Oliveira do Bairro
+Duarte dos Santos Almeida Novo, Presidente da Câmara Municipal de Oliveira do Bairro, faz saber que a Câmara Municipal de Oliveira do Bairro, na sua reunião ordinária pública, realizada a 30 de janeiro de 2020, deliberou por unanimidade, nos termos e para o efeito do disposto no n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, aprovar a prorrogação do prazo para a elaboração da 1.ª Alteração à 2.ª Revisão do Plano Diretor Municipal, estabelecido no Aviso n.º 15884/2018, de 5 de novembro (2.ª série do Diário da República), por um período máximo igual ao previamente estabelecido (18 meses), a contar da data do fim do prazo anteriormente estabelecido.
+Mais deliberou proceder à publicação do aviso no Diário da República referente à deliberação tomada, divulgar a presente prorrogação através dos meios de comunicação social, da plataforma colaborativa de gestão territorial e no sítio da internet deste município, bem como dar conhecimento à Comissão de Coordenação e Desenvolvimento Regional do Centro.
+14 de fevereiro de 2020. - O Presidente da Câmara Municipal, Duarte dos Santos Almeida Novo.
+Deliberação
+Duarte dos Santos Almeida Novo, Presidente da Câmara Municipal de Oliveira do Bairro, declara para os devidos efeitos, que a Câmara Municipal de Oliveira do Bairro, na sua reunião ordinária de 30 de janeiro de 2020, deliberou por unanimidade, proceder à prorrogação do prazo para a elaboração da 1.ª Alteração à 2.ª Revisão do Plano Diretor Municipal de Oliveira do Bairro, por um período máximo igual ao previamente estabelecido (18 meses), a contar da data do fim do prazo anteriormente estabelecido, nos termos do disposto no n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+Oliveira do Bairro, 14 de fevereiro de 2020. - O Presidente da Câmara Municipal, Duarte dos Santos Almeida Novo.
+613036183
