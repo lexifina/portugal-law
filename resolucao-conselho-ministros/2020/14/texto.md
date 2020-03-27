@@ -1,0 +1,25 @@
+Resolução do Conselho de Ministros n.º 14/2020
+Sumário: Cria o programa «Conhecer Portugal» para apoiar a realização de estágios e atividades de I&D sobre as regiões portuguesas de menor densidade populacional.
+A valorização do papel das regiões de menor densidade populacional de Portugal, designadamente em termos da exigência crescente de articulação de políticas e estratégias para a coesão e para a competitividade, exige reconhecer o papel estruturante da presença de jovens estudantes e investigadores nessas regiões, sobretudo em associação com a realização de trabalhos científicos e teses académicas que promovam o conhecimento dessas regiões.
+Neste sentido, importa estimular a mobilidade de estudantes e investigadores envolvidos em instituições de ciência e ensino superior, em todas as áreas do conhecimento nas principais regiões urbanas, para realizarem atividades de investigação e desenvolvimento por períodos mínimos de 3 a 12 meses nas regiões de menor densidade populacional, estimulando o seu conhecimento por essas regiões e fomentado novos hábitos na população jovem que se tem concentrado principalmente no litoral de Portugal e, sobretudo, nas regiões urbanas de Lisboa e Porto.
+Esta iniciativa vem complementar outras ações já em curso para estimular a presença de estudantes em regiões de menor densidade populacional de Portugal, designadamente: o Programa +Superior, através do qual tem sido estimulada e reforçada com sucesso a deslocação de estudantes a nível nacional para a realização de graus académicos em instituições localizadas em regiões de menor densidade populacional, designadamente por períodos de pelo menos 3 anos no caso de licenciaturas; o reforço das vagas atribuídas no âmbito do Concurso Nacional de Acesso ao Ensino Superior em todos os estabelecimentos de ensino superior situados no interior do país; e a criação e promoção de centros colaborativos de investigação e inovação, designadamente de «Laboratórios Colaborativos» nessas regiões.
+Interessa agora complementar essas iniciativas com outros tipos de apoios que estimulem a presença de jovens estudantes e investigadores por períodos curtos nas regiões de menor densidade populacional, estimulando o seu conhecimento por essas regiões, que possam compensar os custos acrescidos com deslocações e instalação.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Determinar que a Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), em estreita colaboração com as Comissões de Coordenação e Desenvolvimento Regional e os Programas Operacionais Regionais, cria o programa «Conhecer Portugal», enquanto instrumento de apoio a atividades de investigação e desenvolvimento (I&D) para estudar e valorizar regiões com baixa densidade populacional de Portugal continental e regiões autónomas, com períodos de mobilidade em instituições públicas ou privadas nessas regiões de Portugal, incluindo instituições académicas, científicas, empresariais e da Administração Pública.
+2 - Autorizar, nos termos do anexo à presente resolução, que dela faz parte integrante, o planeamento dos investimentos públicos do programa «Conhecer Portugal», conjugados com a previsão de cofinanciamento por fundos comunitários, a confirmar no âmbito do futuro Acordo de Parceria no que concerne a 2023 e 2024, que considere designadamente:
+a) A realização de atividades e trabalhos de I&D, em todas as áreas do conhecimento, no âmbito da preparação de projetos finais de licenciatura, teses de mestrado ou teses de doutoramento, por períodos de 3 a 12 meses, com permanência nas regiões abrangidas pelo programa, compensando os custos acrescidos com deslocações e instalação;
+b) Apoios diretos a estudantes e investigadores portugueses e estrangeiros, inscritos em instituições nacionais, exigindo a permanência nas regiões abrangidas pelo programa por períodos de 3 a 12 meses;
+c) A articulação entre as instituições de ensino superior de origem dos estudantes, os empregadores, quando aplicável, ou entidades públicas e privadas onde as atividades e trabalhos de I&D são realizados.
+3 - Determinar que o valor dos apoios do programa «Conhecer Portugal» é fixado nos termos do regulamento de bolsas de investigação da FCT, I. P., devendo ter em consideração o custo das deslocações e o custo de vida nas regiões abrangidas.
+4 - Determinar que a regulamentação prevista no número anterior contempla ainda:
+a) A coordenação do programa «Conhecer Portugal» com outras ações e programas já em curso nas áreas governativas do planeamento, da ciência, tecnologia e ensino superior e da coesão territorial;
+b) A adoção de um prazo de 60 dias para o procedimento de candidatura.
+5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 27 de fevereiro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+ANEXO
+(a que se refere o n.º 2)
+Investimentos públicos de âmbito plurianual do Programa «Conhecer Portugal»
+
+(ver documento original)
+113145533
