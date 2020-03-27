@@ -1,0 +1,8 @@
+Aviso n.º 5248/2020
+Sumário: Projeto de Regulamento das Regras Gerais para a Implementação do PART (Programa de Apoio à Redução Tarifária) nos Transportes Públicos da CIM do Ave.
+Projeto de Regulamento das Regras Gerais para a Implementação do PART (Programa de Apoio à Redução Tarifária) nos Transportes Públicos da CIM do Ave
+Raul Cunha, Presidente do Conselho Intermunicipal da Comunidade Intermunicipal do Ave, torna público, nos termos da alínea c) do n.º 3 do artigo 100.º e do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que se submete a consulta pública pelo período de 30 dias o projeto de Regulamento das Regras Gerais para a Implementação do PART (Programa de Apoio à Redução Tarifária) nos Transportes Públicos da CIM do Ave, aprovado pelo Conselho Intermunicipal da Comunidade Intermunicipal do Ave na sua reunião ordinária e pública de 27 de fevereiro de 2020.
+O projeto de Regulamento encontra-se disponível para consulta dos interessados na página da internet da Comunidade Intermunicipal, e nos serviços desta entidade, sitos na Rua Capitão Alfredo Guimarães, n.º 1, 4800-019 Guimarães, no horário de funcionamento.
+Durante o prazo de 30 dias, contados a partir da publicação deste aviso no Diário da República, poderão os interessados apresentar por escrito, em requerimento dirigido a esta entidade, as suas sugestões sobre o projeto de Regulamento projeto de Regulamento das Regras Gerais para a Implementação do PART (Programa de Apoio à Redução Tarifária) nos Transportes Públicos da CIM do Ave.
+27 de fevereiro de 2020. - O Presidente do Conselho Intermunicipal, Raul Cunha.
+313080336
