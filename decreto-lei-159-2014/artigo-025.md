@@ -10,7 +10,9 @@ a) No prazo de 30 dias úteis, a contar da data da receção do pedido de reembo
 
 b) Sempre que, por motivos não imputáveis ao beneficiário, seja impossível proceder à emissão do pedido de reembolso no prazo fixado na alínea anterior, a autoridade de gestão emite um pedido de pagamento a título de adiantamento;
 
-c) O pagamento efetuado a título de adiantamento, nos termos da alínea anterior, é convertido em pagamento a título de reembolso, através da validação da correspondente despesa em prazo não superior a 60 dias úteis.
+c) O pagamento efetuado a título de adiantamento, nos termos da alínea anterior, é convertido em pagamento a título de reembolso, através da validação da correspondente despesa em prazo não superior a 60 dias úteis;
+
+d) O disposto nas alíneas b) e c) pode ser aplicado aos pedidos de pagamento do saldo com redução de 15 % do valor apurado do apoio a pagar, em situações excecionais reconhecidas por deliberação da CIC Portugal 2020.
 
 3 - Os pagamentos aos beneficiários são processados na medida das disponibilidades financeiras da Agência, I. P., sendo efetuados até ao limite de 95 % do montante da decisão de financiamento, ficando o pagamento do respetivo saldo (5 %) condicionado a pedido pela autoridade de gestão, após a apresentação pelo beneficiário do pedido de pagamento de saldo final e confirmação da execução da operação nos termos previstos.
 
