@@ -8,4 +8,4 @@
 
 3 - Até à entrada em vigor da portaria referida no artigo 51.º as competências de equipamento de escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário previstas nos n.os 1 e 2 do artigo 32.º, bem como das residências escolares previstas no n.º 2 do artigo 37.º são exercidas pelo departamento governamental com competências na área da educação.
 
-4 - Até à entrada em vigor da portaria referida no n.º 1 do artigo 68.º, as condições de acesso ao transporte escolar previstas na alínea a) do n.º 1 do artigo 20.º, são circunscritas aos alunos do ensino básico, mantendo-se em vigor as regras fixadas pela Portaria n.º 138/2009, de 3 de fevereiro, na sua redação atual, para os alunos do ensino secundário.
+4 - Até à entrada em vigor da portaria referida no n.º 1 do artigo 68.º, o previsto na alínea a) do n.º 1 do artigo 20.º é circunscrito ao ensino básico, mantendo-se a aplicação o previsto no Decreto-Lei n.º 299/84, de 5 de setembro.
