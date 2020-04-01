@@ -12,6 +12,6 @@ a) Os agregados familiares que comprovadamente tenham mais de três dependentes 
 
 b) Os agregados familiares que comprovadamente tenham três dependentes a seu cargo e em que pelo menos dois tenham idade inferior a 8 anos.
 
-2 - Para efeitos do disposto no número anterior, só são considerados os automóveis ligeiros de passageiros com emissões específicas de CO(índice 2) iguais ou inferiores a 150 g/km, não podendo a isenção ultrapassar o montante de (euro) 7800.
+2 - Para efeitos do disposto no número anterior, só são considerados os automóveis ligeiros de passageiros com emissões específicas de CO(índice 2) NEDC iguais ou inferiores a 150 g/km ou emissões específicas iguais ou inferiores a 173 g/km de CO(índice 2) WLTP, não podendo a isenção ultrapassar o montante de 7800 (euro).
 
 3 - O reconhecimento da isenção prevista no n.º 1 depende de pedido dirigido à Autoridade Tributária e Aduaneira.
