@@ -2,9 +2,9 @@
 
 ### Táxis e veículos afectos à actividade de aluguer
 
-1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respetivos documentos, e não tenham níveis de emissão de CO(índice 2) superiores a 160 g/km, confirmados pelo respetivo certificado de conformidade, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
+1 - Os automóveis ligeiros de passageiros e de utilização mista que se destinem ao serviço de aluguer com condutor - táxis, letra 'A' e letra 'T', introduzidos no consumo e que apresentem até quatro anos de uso, contados desde a atribuição da primeira matrícula e respetivos documentos, e não tenham níveis de emissão de CO(índice 2) NEDC superiores a 160 g/km ou níveis de emissão de CO(índice 2) WLTP superiores a 184 g/km, confirmados pelo respetivo certificado de conformidade, beneficiam de uma isenção correspondente a 70 % do montante do imposto.
 
-2 - Os veículos referidos no número anterior que se encontrem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás de petróleo liquefeito, gás natural ou de energia eléctrica, ou com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia eléctrica ou solar quer de gasolina ou gasóleo, ficam integralmente isentos de imposto.
+2 - Os veículos referidos no número anterior que se encontrem equipados com motores preparados para o consumo exclusivo, no seu sistema de propulsão, de gás natural ou de energia elétrica, ou com motores híbridos, preparados para o consumo, no seu sistema de propulsão, quer de energia elétrica ou solar quer de gasolina ou gasóleo, ficam integralmente isentos de imposto.
 
 3 - A isenção prevista no número anterior é aplicável também aos veículos adaptados ao acesso e transporte de pessoas com deficiência, independentemente dos níveis de emissão de CO(índice 2), devendo os mesmos apresentar as características que se encontram definidas regulamentarmente pela entidade competente em matéria de circulação e segurança rodoviária, para os veículos destinados ao transporte em táxi de pessoas com mobilidade reduzida.
 
@@ -12,7 +12,7 @@
 
 5 - Os automóveis ligeiros de passageiros e de utilização mista não previstos no artigo 8.º e nos n.os 1 e 2 do artigo 9.º, bem como os veículos previstos no n.º 3 do artigo 9.º, novos, que se destinem ao exercício de atividades de aluguer sem condutor, beneficiam, na introdução no consumo, de uma isenção correspondente a 40 % do montante do imposto, nas condições seguintes:
 
-a) Os veículos devem possuir um nível de emissão de CO(índice 2) até 120 g/km, ou até 165 g/km no caso dos veículos previstos no n.º 3 do artigo 9.º, confirmado pelo respetivo certificado de conformidade;
+a) Os veículos devem possuir um nível de emissão de CO(índice 2) NEDC até 120 g/km ou nível de emissão de CO(índice 2) WLTP até 138 g/km ou, no caso dos veículos previstos no n.º 3 do artigo 9.º, um nível de emissão de CO(índice 2) NEDC até 165 g/km ou nível de emissão de CO(índice 2) WLTP até 190 g/km, desde que, em qualquer caso, os níveis de emissões sejam confirmados pelo respetivo certificado de conformidade;
 
 b) As empresas beneficiárias locadoras devem estar licenciadas para o exercício exclusivo da actividade de aluguer de automóveis;
 

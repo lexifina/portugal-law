@@ -16,6 +16,18 @@ Componente cilindrada
 
 Componente ambiental
 
+Aplicável a veículos com emissões de CO(índice 2) resultantes dos testes realizados ao abrigo do Novo Ciclo de Condução Europeu Normalizado (New European Driving Cycle - NEDC)
+
+Veículos a gasolina
+
+(ver documento original)
+
+Veículos a gasóleo
+
+(ver documento original)
+
+Aplicável a veículos com emissões de CO(índice 2) resultantes dos testes realizados ao abrigo do Procedimento Global de Testes Harmonizados de Veículos Ligeiros (Worldwide Harmonized Light Vehicle Test Procedure - WLTP)
+
 Veículos a gasolina
 
 (ver documento original)
@@ -40,7 +52,7 @@ Componente cilindrada
 
 (ver documento original)
 
-3 - Ficam sujeitos a um agravamento de (euro) 500 no total do montante do imposto a pagar os veículos ligeiros equipados com sistema de propulsão a gasóleo, sendo o valor acima referido reduzido para (euro) 250 relativamente aos veículos ligeiros de mercadorias referidos no n.º 2 do artigo 9.º, com exceção dos veículos que apresentarem nos respetivos certificados de conformidade ou, na sua inexistência, nas homologações técnicas, um valor de emissão de partículas inferior a 0,002 g/km.
+3 - Os veículos ligeiros, equipados com sistema de propulsão a gasóleo ficam sujeitos a um agravamento de 500 (euro) no total do montante do imposto a pagar, sendo esse valor reduzido para 250 (euro) relativamente aos veículos ligeiros de mercadorias referidos no n.º 2 do artigo 9.º, com exceção dos veículos que apresentarem nos respetivos certificados de conformidade ou, na sua inexistência, nas homologações técnicas, um valor de emissão de partículas inferior a 0,001 g/km.
 
 4 - Sempre que o imposto relativo à componente ambiental apresentar um resultado negativo, será o mesmo deduzido ao montante do imposto da componente cilindrada, não podendo o total do imposto a pagar ser inferior a (euro) 100, independentemente do cálculo que resultar da aplicação da tabela A ou da tabela B.
 
