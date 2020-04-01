@@ -4,29 +4,29 @@
 
 # Artigo 60.º
 
-### Reorganização de empresas em resultado de operações de restruturação ou de acordos de cooperaçã
+### Reorganização de entidades em resultado de operações de restruturação ou de acordos de cooperação
 
-1 - Às empresas que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços, e que se reorganizem, em resultado de operações de reestruturação ou acordos de cooperação, são aplicáveis os seguintes benefícios:
+1 - Às entidades que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços, e que se reorganizem, em resultado de operações de reestruturação ou acordos de cooperação, são aplicáveis os seguintes benefícios:
 
 a) Isenção do imposto municipal sobre transmissões onerosas de imóveis, relativamente aos imóveis não habitacionais e, quando afetos à atividade exercida a título principal, aos imóveis habitacionais, necessárias às operações de reestruturação ou aos acordos de cooperação;
 
-b) Isenção do imposto do selo, relativamente à transmissão dos imóveis referidos na alínea anterior, ou à constituição, aumento de capital ou do ativo de uma sociedade de capitais necessários às operações de reestruturação ou aos acordos de cooperação;
+b) Isenção do imposto do selo, relativamente à transmissão dos imóveis referidos na alínea anterior ou de estabelecimento comercial, industrial ou agrícola, necessários às operações de reestruturação ou aos acordos de cooperação;
 
 c) Isenção dos emolumentos e de outros encargos legais que se mostrem devidos pela prática dos atos inseridos nos processos de reestruturação ou de cooperação.
 
-2 - O regime previsto no presente artigo é aplicável às operações de reestruturação ou aos acordos de cooperação que envolvam empresas com sede, direção efetiva ou domicílio em território português, noutro Estado membro da União Europeia ou, ainda, no Estado em relação ao qual vigore uma convenção para evitar a dupla tributação sobre o rendimento e o capital celebrada com Portugal, com exceção das entidades domiciliadas em países, territórios ou regiões com regimes de tributação privilegiada, claramente mais favoráveis, constantes de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
+2 - O regime previsto no presente artigo é aplicável às operações de reestruturação ou aos acordos de cooperação que envolvam entidades com sede, direção efetiva ou domicílio em território português, noutro Estado-Membro da União Europeia ou, ainda, no Estado em relação ao qual vigore uma convenção para evitar a dupla tributação sobre o rendimento e o capital celebrada com Portugal, com exceção das entidades domiciliadas em países, territórios ou regiões com regimes de tributação privilegiada, claramente mais favoráveis, constantes de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
 3 - Para efeitos do presente artigo, consideram-se 'operações de reestruturação' apenas as seguintes:
 
-a) A fusão de sociedades, empresas públicas ou cooperativas;
+a) A fusão de sociedades, empresas públicas, cooperativas ou outras entidades;
 
-b) A incorporação por uma sociedade do conjunto ou de um ou mais ramos de atividade de outra sociedade;
+b) A incorporação por uma entidade do conjunto ou de um ou mais ramos de atividade de outra entidade;
 
-c) A cisão de sociedade, através da qual:
+c) A cisão de entidade, através da qual:
 
-i) Uma sociedade destaque um ou mais ramos da sua atividade para com eles constituir outras sociedades ou para os fundir com sociedades já existentes, mantendo, pelo menos, um dos ramos de atividade; ou
+i) Uma entidade destaque um ou mais ramos da sua atividade para com eles constituir outras entidades ou para os fundir com entidades já existentes, mantendo, pelo menos, um dos ramos de atividade; ou
 
-ii) Uma sociedade se dissolva, dividindo o seu património em duas ou mais partes que constituam, cada uma delas, pelo menos, um ramo de atividade, sendo cada uma delas destinada a constituir uma nova sociedade ou a ser fundida com sociedades já existentes ou com partes do património de outras sociedades, separadas por idênticos processos e com igual finalidade.
+ii) Uma entidade se dissolva, dividindo o seu património em duas ou mais partes que constituam, cada uma delas, pelo menos, um ramo de atividade, sendo cada uma delas destinada a constituir uma nova entidade ou a ser fundida com entidades já existentes ou com partes do património de outras entidades, separadas por idênticos processos e com igual finalidade.
 
 4 - Para efeitos do presente artigo, entende-se por:
 

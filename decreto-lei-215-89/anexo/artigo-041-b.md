@@ -2,7 +2,7 @@
 
 ### Benefícios fiscais aplicáveis aos territórios do Interior e às Regiões Autónomas
 
-1 - Às empresas que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços em territórios do interior, que sejam qualificados como micro, pequena ou média empresa, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho, é aplicável a taxa de IRC de 12,5 % aos primeiros (euro) 15 000 de matéria coletável.
+1 - Às empresas que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços em territórios do interior, que sejam qualificadas como micro, pequenas ou médias empresas, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, é aplicável a taxa de IRC de 12,5 % aos primeiros 25 000 (euro) de matéria coletável.
 
 2 - São condições para usufruir dos benefícios fiscais previstos no número anterior:
 
