@@ -2,7 +2,7 @@
 
 ### Entrega de documentos
 
-1 - Sem prejuízo do disposto nos números seguintes, a ADSE, I. P., só pode pagar qualquer despesa mediante a apresentação dos originais do recibo e demais documentos relevantes devidamente preenchidos.
+1 - Sem prejuízo do disposto nos números seguintes, a ADSE, I. P., só pode pagar qualquer despesa mediante a apresentação dos originais da fatura, fatura-recibo ou fatura simplificada, com o número de identificação fiscal do beneficiário impresso, que cumpram as normas do Decreto-Lei n.º 102/2008, de 20 de junho, do Decreto-Lei n.º 28/2019, de 15 de fevereiro, e demais obrigações legais e documentos relevantes.
 
 2 - Não é permitido o pagamento mediante a apresentação de segundas vias dos documentos, salvo quando resulte inequivocamente de que não cabe qualquer responsabilidade ao beneficiário, caso em que se deve proceder de harmonia com a última parte do n.º 2 do artigo anterior.
 
