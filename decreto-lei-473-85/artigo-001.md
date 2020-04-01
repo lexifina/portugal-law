@@ -1,0 +1,3 @@
+# Artigo 1.º
+
+Aos motoristas dos gabinetes dos membros do Governo e da Presidência da República, bem como ao pessoal referido nos Decretos-Leis n.º 305/82, de 2 de Agosto, e 434-B1/82, de 29 de Outubro, e ainda aos elementos da Polícia de Segurança Pública que garantem a segurança pessoal aos membros do Governo não abrangidos pelos referidos diplomas poderá ser satisfeito o encargo com a refeição, até ao limite de 25% da correspondente ajuda de custo diária, sempre que, deslocados em serviço que não dê origem ao pagamento de ajudas de custo, o período da deslocação abranja a hora da refeição e, em virtude da função desempenhada, este pessoal fique impossibilitado de a tomar no local habitual.
