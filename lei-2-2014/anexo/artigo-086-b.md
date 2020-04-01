@@ -16,7 +16,9 @@ e) 0,95 dos rendimentos provenientes de contratos que tenham por objeto a cessã
 
 f) 1,00 do valor de aquisição dos incrementos patrimoniais obtidos a título gratuito determinado nos termos do n.º 2 do artigo 21.º
 
-g) 0,35 dos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento.
+g) 0,50 dos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento, localizados em área de contenção;
+
+h) 0,35 dos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento não previstos na alínea anterior.
 
 2 - (Revogado).
 
