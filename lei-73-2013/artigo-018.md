@@ -48,7 +48,7 @@ c) 'Tratamento de resíduos', qualquer atividade de exploração e gestão de re
 
 16 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, a derrama incide sobre o lucro tributável individual de cada uma das sociedades do grupo, sem prejuízo do disposto no artigo 115.º do Código do IRC.
 
-17 - A deliberação a que se refere o n.º 1 deve ser comunicada por via eletrónica pela câmara municipal à AT até ao dia 30 de novembro do respetivo período de tributação por parte dos serviços competentes do Estado.
+17 - A deliberação a que se refere o n.º 1 deve ser comunicada por via eletrónica pela câmara municipal à AT até ao dia 31 de dezembro do respetivo período de tributação por parte dos serviços competentes do Estado.
 
 18 - Se a comunicação a que se refere o número anterior for remetida para além do prazo nele estabelecido, a liquidação e cobrança da derrama são efetuadas com base na taxa e benefícios fiscais que estiverem em vigor naquela data.
 

@@ -20,7 +20,13 @@ c) Diminua o serviço da dívida do município.
 
 6 - Para cálculo do valor atualizado dos encargos totais referidos na alínea a) do n.º 3, deve ser utilizada a taxa de desconto a que se refere o n.º 3 do artigo 19.º do Regulamento Delegado (UE) n.º 480/2014, da Comissão Europeia, de 3 de março de 2014.
 
-7 - Os empréstimos têm um prazo de vencimento adequado à natureza das operações que visam financiar, não podendo, em caso algum, exceder a vida útil do respetivo investimento, nem ultrapassar o prazo de 20 anos.
+7 - Os empréstimos têm um prazo de vencimento adequado à natureza das operações que visam financiar, não podendo exceder a vida útil do respetivo investimento, nem ultrapassar os seguintes prazos:
+
+a) 20 anos;
+
+b) 50 anos, nos casos de empréstimos para construção de habitação ou intervenções de reabilitação urbana destinadas a arrendamento, bem como para recuperação do parque habitacional degradado da titularidade dos municípios; ou
+
+c) 30 anos, em operações financiadas pelo Banco Europeu de Investimento (BEI).
 
 8 - Os empréstimos contratados para proceder de acordo com os mecanismos de recuperação financeira municipal, nos termos previstos no artigo 43.º da Lei n.º 53/2014, de 25 de agosto, na sua redação atual, têm um prazo de vencimento nos termos do disposto no n.º 1 do artigo 45.º da referida lei.
 
@@ -31,3 +37,5 @@ c) Diminua o serviço da dívida do município.
 11 - As amortizações anuais previstas para cada empréstimo não podem ser inferiores a 80 % da amortização média de empréstimos, tal como definida no n.º 4 do artigo 40.º.
 
 12 - Aos empréstimos celebrados no âmbito dos instrumentos financeiros referidos no n.º 1 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, não são aplicáveis os n.os 10 e 11.
+
+13 - Os empréstimos previstos na alínea a) do n.º 5 do artigo 52.º, quando contratualizados ao abrigo das linhas de financiamento disponibilizadas pelo BEI e instituições similares, podem ser utilizados para financiar despesas pagas ou por pagar, desde que as operações não se encontrem física e financeiramente concluídas à data da submissão do pedido de financiamento.
