@@ -12,7 +12,7 @@
 
 Estão isentas do imposto:
 
-1) As prestações de serviços efectuadas no exercício das profissões de médico, odontologista, parteiro, enfermeiro e outras profissões paramédicas;
+1) As prestações de serviços efetuadas no exercício das profissões de médico, odontologista, psicólogo, parteiro, enfermeiro e outras profissões paramédicas;
 
 2) As prestações de serviços médicos e sanitários e as operações com elas estreitamente conexas efectuadas por estabelecimentos hospitalares, clínicas, dispensários e similares;
 
@@ -118,4 +118,6 @@ c) Ensino de ballet e de música;
 
 36) Os serviços de alimentação e bebidas fornecidos pelas entidades patronais aos seus empregados;
 
-37) As actividades das empresas públicas de rádio e televisão que não tenham carácter comercial.
+37) As actividades das empresas públicas de rádio e televisão que não tenham carácter comercial;
+
+38) As prestações de serviços efetuadas por intérprete de língua gestual portuguesa.

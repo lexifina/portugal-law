@@ -6,7 +6,7 @@
 
 a) Despesas relativas à aquisição, fabrico ou importação, à locação, à utilização, à transformação e reparação de viaturas de turismo, de barcos de recreio, helicópteros, aviões, motos e motociclos. É considerado viatura de turismo qualquer veículo automóvel, com inclusão do reboque, que, pelo seu tipo de construção e equipamento, não seja destinado unicamente ao transporte de mercadorias ou a uma utilização com carácter agrícola, comercial ou industrial ou que, sendo misto ou de transporte de passageiros, não tenha mais de nove lugares, com inclusão do condutor;
 
-b) Despesas respeitantes a combustíveis normalmente utilizáveis em viaturas automóveis, com excepção das aquisições de gasóleo, de gases de petróleo liquefeitos (GPL), gás natural e biocombustíveis, cujo imposto é dedutível na proporção de 50 %, a menos que se trate dos bens a seguir indicados, caso em que o imposto relativo aos consumos de gasóleo, GPL, gás natural e biocombustíveis é totalmente dedutível:
+b) Despesas respeitantes a combustíveis normalmente utilizáveis em viaturas automóveis, com exceção das aquisições de gasóleo, de gases de petróleo liquefeitos (GPL), gás natural e biocombustíveis, cujo imposto é dedutível na proporção de 50 %, a menos que se trate dos bens a seguir indicados, caso em que o imposto relativo aos consumos de gasóleo, gasolina, GPL, gás natural e biocombustíveis é totalmente dedutível:
 
 i) Veículos pesados de passageiros;
 
@@ -39,5 +39,7 @@ e) Despesas mencionadas na alínea c) e despesas de alojamento, alimentação e 
 f) Despesas relativas à aquisição, fabrico ou importação, à locação e à transformação em viaturas elétricas ou híbridas plug-in, de viaturas ligeiras de passageiros ou mistas elétricas ou híbridas plug-in, quando consideradas viaturas de turismo, cujo custo de aquisição não exceda o definido na portaria a que se refere a alínea e) do n.º 1 do artigo 34.º do Código do IRC;
 
 g) Despesas relativas à aquisição, fabrico ou importação, à locação e à transformação em viaturas movidas a GPL ou a GNV, de viaturas ligeiras de passageiros ou mistas movidas a GPL ou a GNV, quando consideradas viaturas de turismo, cujo custo de aquisição não exceda o definido na portaria a que se refere a alínea e) do n.º 1 do artigo 34.º do Código do IRC, na proporção de 50 %.
+
+h) Despesas respeitantes a eletricidade utilizada em viaturas elétricas ou híbridas plug-in.
 
 3 - Não conferem também direito à dedução do imposto as aquisições de bens referidos na alínea f) do n.º 2 do artigo 16.º, quando o valor da sua transmissão posterior, de acordo com legislação especial, for a diferença entre o preço de venda e o preço de compra.

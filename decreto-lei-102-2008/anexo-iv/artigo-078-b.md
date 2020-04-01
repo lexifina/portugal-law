@@ -4,7 +4,7 @@
 
 1 - A dedução do imposto associado a créditos considerados de cobrança duvidosa, nos termos da alínea a) do n.º 2 do artigo anterior, é efetuada mediante pedido de autorização prévia a apresentar, por via eletrónica, no prazo de seis meses contados a partir da data em que os créditos sejam considerados de cobrança duvidosa, nos termos do referido número.
 
-2 - Sem prejuízo do disposto no n.º 4, o pedido de autorização prévia deve ser apreciado pela Autoridade Tributária e Aduaneira no prazo máximo de oito meses, findo o qual se considera indeferido.
+2 - Sem prejuízo do disposto no n.º 4, o pedido de autorização prévia deve ser apreciado pela Autoridade Tributária e Aduaneira no prazo máximo de quatro meses, findo o qual se considera indeferido.
 
 3 - No caso de créditos abrangidos pela alínea b) do n.º 2 e pelo n.º 4 do artigo anterior, a dedução é efetuada pelo sujeito passivo sem necessidade de pedido de autorização prévia, no prazo de dois anos a contar do 1.º dia do ano civil seguinte, reservando-se à Autoridade Tributária e Aduaneira a faculdade de controlar posteriormente a legalidade da pretensão do sujeito passivo.
 

@@ -6,7 +6,7 @@
 
 2 - Para efeitos do disposto no número anterior, consideram-se créditos de cobrança duvidosa aqueles que apresentem um risco de incobrabilidade devidamente justificado, o que se verifica nos seguintes casos:
 
-a) O crédito esteja em mora há mais de 24 meses desde a data do respetivo vencimento e existam provas objetivas de imparidade e de terem sido efetuadas diligências para o seu recebimento;
+a) O crédito esteja em mora há mais de 12 meses desde a data do respetivo vencimento e existam provas objetivas de imparidade e de terem sido efetuadas diligências para o seu recebimento;
 
 b) O crédito esteja em mora há mais de seis meses desde a data do respetivo vencimento, o valor do mesmo não seja superior a (euro) 750, IVA incluído, e o devedor seja particular ou sujeito passivo que realize exclusivamente operações isentas que não confiram direito à dedução.
 

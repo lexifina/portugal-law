@@ -10,7 +10,7 @@
 
 ### Âmbito de aplicação
 
-1 - Beneficiam da isenção do imposto os sujeitos passivos que, não possuindo nem sendo obrigados a possuir contabilidade organizada para efeitos do IRS ou IRC, nem praticando operações de importação, exportação ou actividades conexas, nem exercendo actividade que consista na transmissão dos bens ou prestação dos serviços mencionados no anexo E do presente Código, não tenham atingido, no ano civil anterior, um volume de negócios superior a (euro) 10 000.
+1 - Beneficiam da isenção do imposto os sujeitos passivos que, não possuindo nem sendo obrigados a possuir contabilidade organizada para efeitos do IRS ou IRC, nem praticando operações de importação, exportação ou atividades conexas, nem exercendo atividade que consista na transmissão dos bens ou prestação dos serviços mencionados no anexo E do presente Código, não tenham atingido, no ano civil anterior, um volume de negócios superior a 12 500 (euro).
 
 2 - Não obstante o disposto no número anterior, são ainda isentos do imposto os sujeitos passivos com um volume de negócios superior a (euro) 10 000, mas inferior a (euro) 12 500, que, se tributados, preencheriam as condições de inclusão no regime dos pequenos retalhistas.
 
