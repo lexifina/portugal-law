@@ -70,6 +70,8 @@ d) Pelo valor patrimonial tributário dos imóveis correspondente à participaç
 
 20.ª O valor dos bens imóveis adquiridos ao abrigo de regimes legais de apoio financeiro à habitação, quando se trate da primeira transmissão, é o valor ou o preço fixado pelo Instituto da Habitação e da Reabilitação Urbana, I. P., nos termos estabelecidos nesses regimes.
 
+21.ª Quando se constituir direito real de habitação duradoura, o imposto é liquidado sobre o valor da caução.
+
 5 - Para efeitos dos números anteriores, considera-se, designadamente, valor constante do acto ou do contrato, isolada ou cumulativamente:
 
 a) A importância em dinheiro paga a título de preço pelo adquirente;

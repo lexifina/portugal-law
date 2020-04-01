@@ -12,7 +12,7 @@
 
 5 - A aquisição a que se refere o artigo 7.º deixará de beneficiar de isenção logo que se verifique que aos prédios adquiridos para revenda foi dado destino diferente ou que os mesmos não foram revendidos dentro do prazo de três anos ou o foram novamente para revenda.
 
-6 - Deixarão de beneficiar de isenção as aquisições a que se refere o artigo 8.º, se os prédios não forem alienados no prazo de cinco anos a contar da data da aquisição.
+6 - Deixam de beneficiar de isenção as aquisições a que se refere o artigo 8.º, se os prédios não forem alienados no prazo de cinco anos a contar da data da aquisição ou o adquirente seja uma entidade com relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC.
 
 7 - Deixam de beneficiar igualmente de isenção e de redução de taxas previstas no artigo 9.º e nas alíneas a) e b) do n.º 1 do artigo 17.º as seguintes situações:
 

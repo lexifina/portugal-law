@@ -6,6 +6,8 @@
 
 2 - No caso de não ser possível utilizar as regras do artigo 38.º, o perito deve utilizar o método do custo adicionado do valor do terreno.
 
-3 - No caso de terrenos, o seu valor unitário corresponde ao que resulta da aplicação do coeficiente de 0,005, referido no n.º 4 do artigo 40.º, ao produto do valor base dos prédios edificados pelo coeficiente de localização.
+3 - No caso de prédios dotados de autonomia económica nos termos do n.º 1 do artigo 2.º, o terreno a considerar para efeitos da aplicação do número anterior corresponde apenas à área efetivamente ocupada com a implantação.
 
-4 - O valor patrimonial tributário dos prédios urbanos em ruínas é determinado como se de terreno para construção se tratasse, de acordo com deliberação da câmara municipal.
+4 - No caso de terrenos, o seu valor unitário corresponde ao que resulta da aplicação do coeficiente de 0,005, referido no n.º 4 do artigo 40.º, ao produto do valor base dos prédios edificados pelo coeficiente de localização.
+
+5 - O valor patrimonial tributário dos prédios urbanos em ruínas é determinado como se de terreno para construção se tratasse, de acordo com deliberação da câmara municipal.
