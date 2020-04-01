@@ -119,3 +119,5 @@ a) O disposto no n.º 10 do artigo 73.º do Código do IRC, com as necessárias 
 b) A exigência dos elementos de prova previstos nos n.os 5 e 6 do artigo 78.º do mesmo código.
 
 14 - Os sujeitos passivos devem declarar a alienação onerosa das ações, bem como a data das respetivas aquisições.
+
+15 - Em caso de restituição ao património particular de imóvel habitacional que seja afeto à obtenção de rendimentos da categoria F, não há lugar à tributação de qualquer ganho, se em resultado dessa afetação o imóvel gerar rendimentos durante cinco anos consecutivos.

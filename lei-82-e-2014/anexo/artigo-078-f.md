@@ -27,3 +27,5 @@ c) À mesma pessoa coletiva de utilidade pública que desenvolva atividades de n
 4 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
 
 5 - Nas atividades previstas no n.º 1 consideram-se abrangidas as atividades equivalentes previstas na tabela a que se refere o artigo 151.º.
+
+6 - O disposto na alínea e) do n.º 1 inclui a aquisição de medicamentos de uso veterinário.

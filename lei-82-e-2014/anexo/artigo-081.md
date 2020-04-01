@@ -2,7 +2,7 @@
 
 ### Eliminação da dupla tributação jurídica internacional
 
-1 - Os titulares de rendimentos das diferentes categorias obtidos no estrangeiro, incluindo os previstos nas alíneas c) a e) do n.º 1 do artigo 72.º, têm direito a um crédito de imposto por dupla tributação jurídica internacional, dedutível até ao limite das taxas especiais aplicáveis e, nos casos de englobamento, até à concorrência da parte da coleta proporcional a esses rendimentos líquidos, considerados nos termos do n.º 6 do artigo 22.º, que corresponde à menor das seguintes importâncias:
+1 - Os titulares de rendimentos das diferentes categorias obtidos no estrangeiro, incluindo os previstos no artigo 72.º, têm direito a um crédito de imposto por dupla tributação jurídica internacional, dedutível até ao limite das taxas especiais aplicáveis e, nos casos de englobamento, até à concorrência da parte da coleta proporcional a esses rendimentos líquidos, considerados nos termos do n.º 6 do artigo 22.º, que corresponde à menor das seguintes importâncias:
 
 a) Imposto sobre o rendimento pago no estrangeiro;
 
@@ -24,14 +24,12 @@ a) Possam ser tributados no outro Estado contratante, em conformidade com conven
 
 b) Possam ser tributados no outro país, território ou região, em conformidade com o modelo de convenção fiscal sobre o rendimento e o património da OCDE, interpretado de acordo com as observações e reservas formuladas por Portugal, nos casos em que não exista convenção para eliminar a dupla tributação celebrada por Portugal, desde que aqueles não constem de lista aprovada por portaria do membro do Governo responsável pela área das finanças, relativa a regimes de tributação privilegiada, claramente mais favoráveis e, bem assim, desde que os rendimentos, pelos critérios previstos no artigo 18.º, não sejam de considerar obtidos em território português.
 
-6 - Aos residentes não habituais em território português que obtenham, no estrangeiro, rendimentos da categoria H, na parte em que os mesmos, quando tenham origem em contribuições, não tenham gerado uma dedução para efeitos do n.º 2 do artigo 25.º, aplica-se o método da isenção, bastando que se verifique qualquer das condições previstas nas alíneas seguintes:
+6 - (Revogado.)
 
-a) Sejam tributados no outro Estado contratante, em conformidade com convenção para eliminar a dupla tributação celebrada por Portugal com esse Estado; ou
+7 - Os rendimentos isentos nos termos dos n.os 4 e 5 são obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, com exceção dos previstos nas alíneas c) a e) do n.º 1, nos n.os 2 a 5 e no n.º 10 do artigo 72.º
 
-b) Pelos critérios previstos no n.º 1 do artigo 18.º, não sejam de considerar obtidos em território português.
-
-7 - Os rendimentos isentos nos termos dos n.os 4, 5 e 6 são obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, com exceção dos previstos nas alíneas c) a e) do n.º 1 e no n.º 10 do artigo 72.º
-
-8 - Os titulares dos rendimentos isentos nos termos nos n.os 4, 5 e 6 podem optar pela aplicação do método do crédito de imposto referido no n.º 1, sendo neste caso os rendimentos obrigatoriamente englobados para efeitos da sua tributação, com exceção dos previstos nas alíneas c) a e) do n.º 1 e nos n.os 7 e 10 do artigo 72.º
+8 - Os titulares dos rendimentos isentos nos termos dos n.os 4 e 5 podem optar pela aplicação do método do crédito de imposto referido no n.º 1, sendo neste caso os rendimentos obrigatoriamente englobados para efeitos da sua tributação, com exceção dos previstos nas alíneas c) a e) do n.º 1, nos n.os 2 a 5, 7 e 10 do artigo 72.º
 
 9 - Os rendimentos obtidos no estrangeiro relativamente aos quais, por força de convenção para eliminar a dupla tributação celebrada por Portugal, seja aplicado o método da isenção com progressividade, são obrigatoriamente englobados para efeitos de determinação da taxa aplicável aos restantes rendimentos.
+
+10 - Os titulares dos rendimentos obtidos no estrangeiro relativamente aos quais, por força de convenção para eliminar a dupla tributação celebrada por Portugal, seja aplicado o método do crédito de imposto no Estado da fonte não beneficiam do direito a crédito de imposto por dupla tributação jurídica internacional previsto nos n.os 1 e 8.

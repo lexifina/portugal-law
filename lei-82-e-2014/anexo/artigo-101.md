@@ -20,6 +20,8 @@ a) Às entidades devedoras dos rendimentos referidos nos n.os 1 e 4 e na alínea
 
 b) Às entidades que paguem ou coloquem à disposição os rendimentos referidos na alínea b) do n.º 1 e nas alíneas a) e b) do n.º 16 do artigo 71.º
 
+c) Às entidades gestoras de plataformas de financiamento colaborativo que paguem ou coloquem à disposição rendimentos referidos no n.º 1 do artigo 71.º e que tenham em território português a sua sede ou direção efetiva ou estabelecimento estável a que deva imputar-se o pagamento.
+
 3 - Tratando-se de rendimentos de valores mobiliários sujeitos a registo ou depósito, emitidos por entidades residentes em território português, o disposto na alínea a) do n.º 1 e na alínea a) do n.º 2 é da responsabilidade das entidades registadoras ou depositárias.
 
 4 - A taxa é aplicada ao rendimento ilíquido sujeito a retenção, antes da liquidação do IVA a que, sendo caso disso, deva proceder-se.

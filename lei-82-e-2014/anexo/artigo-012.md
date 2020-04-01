@@ -33,3 +33,7 @@ c) Os prémios em reconhecimento do valor e mérito de êxitos desportivos, nos 
 7 - O IRS não incide sobre as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros pela Autoridade Nacional de Proteção Civil, municípios e comunidades intermunicipais e pagos pelas respetivas entidades detentoras de corpos de bombeiros, no âmbito do dispositivo especial de combate a incêndios florestais e do dispositivo conjunto de proteção e socorro na Serra da Estrela, nos termos do respetivo enquadramento legal.
 
 8 - O IRS não incide sobre o valor atribuído em resultado da liquidação, revogação ou extinção de estruturas fiduciárias a sujeitos passivos beneficiários das referidas estruturas distintos daqueles que as constituíram.
+
+9 - São excluídos de tributação, até ao limite anual global de 5 vezes o valor do IAS, os rendimentos da categoria A provenientes de contrato de trabalho e os rendimentos de categoria B provenientes de contrato de prestação de serviços, incluindo atos isolados, por estudante considerado dependente, nos termos do artigo 13.º, a frequentar estabelecimento de ensino integrado no sistema nacional de educação ou reconhecidos como tendo fins análogos pelos ministérios competentes.
+
+10 - Para efeitos do disposto no número anterior, devem os sujeitos passivos submeter através do Portal das Finanças, até 15 de fevereiro do ano seguinte àquele a que o imposto respeita, documento comprovativo da frequência de estabelecimento de ensino oficial ou autorizado.

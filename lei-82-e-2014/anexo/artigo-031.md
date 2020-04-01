@@ -26,6 +26,8 @@ ii) Sociedades nas quais, durante mais de 183 dias do período de tributação:
 
 2) O sujeito passivo, o cônjuge ou unido de facto e os ascendentes e descendentes destes detenham no seu conjunto, direta ou indiretamente, pelo menos 25 % das respetivas partes de capital ou direitos de voto.
 
+h) 0,50 aos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento, localizados em área de contenção.
+
 2 - Os sujeitos passivos que obtenham os rendimentos previstos nas alíneas b) e c) do número anterior, após aplicação dos coeficientes aí previstos, podem deduzir, até à concorrência do rendimento líquido assim obtido, os montantes comprovadamente suportados com contribuições obrigatórias para regimes de proteção social, conexas com as atividades em causa, na parte em que excedam 10 % dos rendimentos brutos, quando não tenham sido deduzidas a outro título.
 
 3 - O rendimento coletável é objeto de englobamento e tributado nos termos gerais.

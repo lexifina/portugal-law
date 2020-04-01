@@ -42,4 +42,4 @@ i) Os provenientes da prática de atos isolados referentes a atividade abrangida
 
 8 - Sem prejuízo do disposto no número anterior, sempre que ocorra uma alteração do regime de tributação, no primeiro ano de aplicação do novo regime devem ser efetuados os necessários ajustamentos destinados a evitar qualquer duplicação de tributação dos rendimentos, bem como a sua não tributação.
 
-9 - Para efeitos da alínea c) do n.º 2, não configura uma transferência para o património particular do empresário a afetação de bem imóvel habitacional à obtenção de rendimentos da categoria F.
+9 - Para efeitos da alínea c) do n.º 2, não é considerada mais-valia a transferência para o património particular do empresário de bem imóvel habitacional que seja imediatamente afeto à obtenção de rendimentos da categoria F.

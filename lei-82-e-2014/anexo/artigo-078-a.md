@@ -15,3 +15,5 @@ c) Por cada ascendente que viva efetivamente em comunhão de habitação com o s
 a) (euro) 126 por cada dependente referido na alínea a) e (euro) 63 a cada sujeito passivo referido na alínea b) do número anterior quando o dependente não ultrapasse três anos de idade até 31 de dezembro do ano a que respeita o imposto;
 
 b) (euro) 110 no caso de existir apenas um ascendente enquadrável na alínea c) nos termos previstos no número anterior.
+
+3 - No caso previsto na alínea a) do número anterior, os montantes são de 300 (euro) e 150 (euro), respetivamente, para o segundo dependente e seguintes, independentemente da idade do primeiro dependente.

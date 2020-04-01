@@ -12,7 +12,7 @@ c) O saldo positivo entre as mais-valias e menos-valias, resultante das operaç�
 
 d) Os rendimentos de capitais, tal como são definidos no artigo 5.º, quando não sujeitos a retenção na fonte, nos termos do artigo anterior;
 
-e) Os rendimentos prediais.
+e) Os rendimentos prediais, incluindo os referidos na alínea b) do n.º 5 do artigo 8.º
 
 2 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a dois anos e inferior a cinco anos, é aplicada uma redução de dois pontos percentuais da respetiva taxa autónoma; e por cada renovação com igual duração, é aplicada uma redução de dois pontos percentuais até ao limite de catorze pontos percentuais.
 
@@ -20,7 +20,7 @@ e) Os rendimentos prediais.
 
 4 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a dez anos e inferior a vinte anos, é aplicada uma redução de catorze pontos percentuais da respetiva taxa autónoma.
 
-5 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a vinte anos, é aplicada uma redução de dezoito pontos percentuais da respetiva taxa autónoma.
+5 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a vinte anos, bem como aos rendimentos prediais decorrentes de contratos de direito real de habitação duradoura (DHD), na parte respeitante ao pagamento da prestação pecuniária mensal, é aplicada uma redução de 18 pontos percentuais da respetiva taxa autónoma.
 
 6 - São tributados autonomamente à taxa de 25 %:
 
@@ -38,15 +38,17 @@ b) Não obstante o disposto no número anterior, os rendimentos previstos nas al
 
 11 - (Revogado.)
 
-12 - Os rendimentos previstos nas alíneas c) a e) do n.º 1, no n.º 5 e no n.º 6 podem ser englobados por opção dos respetivos titulares residentes em território português.
+12 - Os residentes não habituais em território português são ainda tributados à taxa de 10 % relativamente aos rendimentos líquidos de pensões, incluindo os da categoria H e os previstos na alínea d) do n.º 1 e subalíneas 3) e 11) da alínea b) do n.º 3 do artigo 2.º, quando, pelos critérios previstos no n.º 1 do artigo 18.º, não sejam de considerar obtidos em território português, na parte em que os mesmos, quando tenham origem em contribuições, não tenham gerado uma dedução para efeitos do n.º 2 do artigo 25.º
 
-13 - Os residentes noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, desde que, neste último caso, exista intercâmbio de informações em matéria fiscal, podem optar, relativamente aos rendimentos referidos nas alíneas a), b) e e) do n.º 1 e no n.º 2, pela tributação desses rendimentos à taxa que, de acordo com a tabela prevista no n.º 1 do artigo 68.º, seria aplicável no caso de serem auferidos por residentes em território português.
+13 - Os rendimentos previstos nas alíneas c) a e) do n.º 1 e nos n.os 2 a 5 e nos n.os 9, 10 e 12 podem ser englobados por opção dos respetivos titulares residentes em território português.
 
-14 - Para efeitos de determinação da taxa referida no número anterior são tidos em consideração todos os rendimentos, incluindo os obtidos fora deste território, nas mesmas condições que são aplicáveis aos residentes.
+14 - Os residentes noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, desde que, neste último caso, exista intercâmbio de informações em matéria fiscal, podem optar, relativamente aos rendimentos referidos nas alíneas a), b) e e) do n.º 1 e no n.º 2, pela tributação desses rendimentos à taxa que, de acordo com a tabela prevista no n.º 1 do artigo 68.º, seria aplicável no caso de serem auferidos por residentes em território português.
 
-15 - Os acréscimos patrimoniais não justificados a que se refere a alínea d) do n.º 1 do artigo 9.º, de valor superior a (euro) 100 000, são tributados à taxa especial de 60 %.
+15 - Para efeitos de determinação da taxa referida no número anterior são tidos em consideração todos os rendimentos, incluindo os obtidos fora deste território, nas mesmas condições que são aplicáveis aos residentes.
 
-16 - São tributados autonomamente à taxa de 35 %:
+16 - Os acréscimos patrimoniais não justificados a que se refere a alínea d) do n.º 1 do artigo 9.º, de valor superior a (euro) 100 000, são tributados à taxa especial de 60 %.
+
+17 - São tributados autonomamente à taxa de 35 %:
 
 a) Os rendimentos de capitais, tal como são definidos no artigo 5.º e mencionados nas alíneas a) e b) do n.º 1 do artigo anterior, devidos por entidades não residentes sem estabelecimento estável em território português, que sejam domiciliadas em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças, quando não sujeitos a retenção na fonte nos termos da alínea b) do n.º 12 do artigo anterior;
 
@@ -56,8 +58,8 @@ c) Os ganhos previstos no n.º 3) da alínea b) do n.º 1 do artigo 10.º relati
 
 d) As mais-valias previstas na alínea a) do n.º 1 do artigo 10.º auferidas por entidades não residentes sem estabelecimento estável em território português, que sejam domiciliadas em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
-17 - Para efeitos da aplicação da taxa prevista no n.º 3, são equiparadas a gratificações auferidas pela prestação ou em razão da prestação de trabalho, quando não atribuídas pela entidade patronal, as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros, pelas associações humanitárias de bombeiros, até ao limite máximo anual, por bombeiro, de três vezes o indexante de apoios sociais.
+18 - Para efeitos da aplicação da taxa prevista no n.º 3, são equiparadas a gratificações auferidas pela prestação ou em razão da prestação de trabalho, quando não atribuídas pela entidade patronal, as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros, pelas associações humanitárias de bombeiros, até ao limite máximo anual, por bombeiro, de três vezes o indexante de apoios sociais.
 
-18 - Sempre que os contratos de arrendamento previstos nos n.os 2, 3, 4 e 5 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações, por motivo imputável ao senhorio, extingue-se o direito às reduções da taxa aí previstas, com efeitos desde o início do contrato ou renovação, devendo os titulares dos rendimentos, no ano da cessação do contrato, proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago, acrescida de juros compensatórios.
+19 - Sempre que os contratos de arrendamento previstos nos n.os 2, 3, 4 e 5 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações, por motivo imputável ao senhorio, ou, no caso do direito de habitação duradoura, por acordo das partes, extingue-se o direito às reduções da taxa aí previstas, com efeitos desde o início do contrato ou renovação, devendo os titulares dos rendimentos, no ano da cessação do contrato, proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago, acrescida de juros compensatórios.
 
-19 - Para efeitos do disposto no número anterior, suspende-se o prazo de caducidade do direito à liquidação de imposto nos termos da alínea c) do n.º 2 do artigo 46.º da Lei Geral Tributária.
+20 - Para efeitos do disposto no número anterior, suspende-se o prazo de caducidade do direito à liquidação de imposto nos termos da alínea c) do n.º 2 do artigo 46.º da Lei Geral Tributária.
