@@ -1,8 +1,8 @@
 # Artigo 37.º-A
 
-### Reconhecimento da idoneidade e do caráter de investigação e desenvolvimento dos projetos
+### Reconhecimento da idoneidade e do caráter de investigação e desenvolvimento das entidades
 
-1 - Cabe à Agência Nacional de Inovação, S. A., o reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento a que se referem as alíneas e) e f) do n.º 1 do artigo 37.º bem como o reconhecimento do caráter de investigação e desenvolvimento dos projetos a que se refere a alínea f) do n.º 1 do artigo 37.º
+1 - Cabe à Agência Nacional de Inovação, S. A., o reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento a que se referem as alíneas e) e f) do n.º 1 do artigo 37.º
 
 2 - O reconhecimento da idoneidade da entidade nos termos previstos no número anterior é válido até ao oitavo exercício seguinte àquele em que foi pedido.
 
@@ -18,6 +18,6 @@
 
 8 - A consideração das despesas referidas no número anterior ficará condicionada à emissão da declaração de reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento.
 
-9 - O reconhecimento do caráter de investigação e desenvolvimento dos projetos é válido até ao encerramento do projeto.
+9 - (Revogado).
 
-10 - A Agência Nacional de Inovação, S. A., em face da informação reportada no mapa de indicadores a que se refere o n.º 11 do artigo 40.º, reavaliará anualmente o caráter de investigação e desenvolvimento do projeto, podendo, caso se não mantenham os pressupostos que o determinaram, fazer cessar o referido reconhecimento.
+10 - (Revogado).

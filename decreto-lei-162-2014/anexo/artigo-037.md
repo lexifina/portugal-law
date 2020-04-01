@@ -14,7 +14,7 @@ d) Despesas de funcionamento, até ao máximo de 55 % das despesas com o pessoal
 
 e) Despesas relativas à contratação de atividades de investigação e desenvolvimento junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida nos termos do artigo 37.º-A;
 
-f) Participação no capital de instituições de investigação e desenvolvimento, no capital de fundos de investimento, públicos ou privados, que tenham como objeto o financiamento de empresas dedicadas sobretudo a investigação e desenvolvimento e que desenvolvam projetos reconhecidos nos termos do artigo 37.º-A;
+f) Participação no capital de instituições de investigação e desenvolvimento e contribuições para fundos de investimento, públicos ou privados, destinados a financiar empresas dedicadas sobretudo a investigação e desenvolvimento, incluindo o financiamento da valorização dos seus resultados, cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida pela Agência Nacional de Inovação, S. A., nos termos do n.º 1 do artigo 37.º-A;
 
 g) Custos com registo e manutenção de patentes;
 

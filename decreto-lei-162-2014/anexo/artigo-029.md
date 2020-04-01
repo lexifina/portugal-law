@@ -2,9 +2,9 @@
 
 ### Dedução por lucros retidos e reinvestidos
 
-1 - Os sujeitos passivos referidos no artigo anterior podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2014, até 10 % dos lucros retidos que sejam reinvestidos em aplicações relevantes nos termos do artigo 30.º, no prazo de três anos contado a partir do final do período de tributação a que correspondam os lucros retidos.
+1 - Os sujeitos passivos referidos no artigo anterior podem deduzir à coleta do IRC, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2014, até 10 % dos lucros retidos que sejam reinvestidos em aplicações relevantes nos termos do artigo 30.º, no prazo de quatro anos contado a partir do final do período de tributação a que correspondam os lucros retidos.
 
-2 - Para efeitos da dedução prevista no número anterior, o montante máximo dos lucros retidos e reinvestidos, em cada período de tributação, é de 10 000 000 (euro), por sujeito passivo.
+2 - Para efeitos da dedução prevista no número anterior, o montante máximo dos lucros retidos e reinvestidos, em cada período de tributação, é de 12 000 000 (euro), por sujeito passivo.
 
 3 - A dedução prevista no número anterior é feita, nos termos da alínea c) do n.º 2 do artigo 90.º do Código do IRC, até à concorrência de 25 % da coleta do IRC.
 

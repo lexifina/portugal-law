@@ -24,8 +24,12 @@ b) A Agência Nacional de Inovação, S. A., remete à APA, I. P., nos 15 dias �
 
 c) A APA, I. P., comunica à Agência Nacional de Inovação, S. A., o teor do seu parecer vinculativo até 15 de novembro.
 
-9 - Fica o Governo autorizado a sujeitar a avaliação das candidaturas, para efeitos de obtenção dos benefícios fiscais previstos neste capítulo, pela entidade a que se refere o n.º 1, ao pagamento de uma taxa máxima de 1 % por parte das entidades interessadas, calculada sobre o montante de crédito solicitado, em termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças, da ciência, tecnologia e ensino superior e da economia.
+9 - (Revogado).
 
-10 - A receita resultante da taxa referida no número anterior destina-se a cobrir os custos inerentes ao processo de avaliação e a apoiar empresas em atividades de investigação e desenvolvimento, inovação, empreendedorismo de base tecnológica e propriedade industrial.
+10 - (Revogado).
 
 11 - As entidades beneficiadas pelo SIFIDE comprometem-se a comunicar anualmente, no prazo de dois meses após o encerramento de cada exercício, à Agência Nacional de Inovação, S. A., através de mapa de indicadores a disponibilizar por esta, os resultados das atividades apoiadas pelo incentivo fiscal concedido, durante os cinco anos seguintes à aprovação do mesmo.
+
+12 - Para efeitos de verificação do investimento realizado, as entidades gestoras dos fundos de investimento a que se refere a alínea f) do n.º 1 do artigo 37.º enviam à Agência Nacional de Inovação, S. A., até 30 de junho de cada ano, o último relatório anual auditado, bem como documento, seja portefólio ou outro que evidencie os investimentos realizados pelo fundo, no período anterior, nas entidades previstas naquela disposição.
+
+13 - As entidades gestoras dos fundos de investimento podem solicitar à Agência Nacional de Inovação, S. A., a emissão de declaração de conformidade da política de investimento prevista no regulamento de gestão do fundo face ao requisito da destinação do investimento referido na alínea f) do n.º 1 do artigo 37.º, não tendo esta declaração caráter vinculativo quanto à elegibilidade futura da despesa a que se refere esta disposição.
