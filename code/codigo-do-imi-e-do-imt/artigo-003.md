@@ -4,15 +4,15 @@
 
 1 - São prédios rústicos os terrenos situados fora de um aglomerado urbano, exceto os que sejam de classificar como terrenos para construção, nos termos do n.º 3 do artigo 6.º, e os que tenham por destino normal uma utilização geradora de rendimentos comerciais e industriais, desde que:
 
-a) Estejam afetos ou, na falta de concreta afetação, tenham como destino normal uma utilização geradora de rendimentos agrícolas e silvícolas;
+a) Estejam afetos ou, na falta de concreta afetação, tenham como destino normal uma utilização geradora de rendimentos agrícolas, silvícolas e pecuários;
 
 b) Não tendo a afectação indicada na alínea anterior, não se encontrem construídos ou disponham apenas de edifícios ou construções de carácter acessório, sem autonomia económica e de reduzido valor.
 
-2 - São também prédios rústicos os terrenos situados dentro de um aglomerado urbano, desde que, por força de disposição legalmente aprovada, não possam ter utilização geradora de quaisquer rendimentos ou só possam ter utilização geradora de rendimentos agrícolas ou silvícolas e estejam a ter, de facto, esta afetação.
+2 - São também prédios rústicos os terrenos situados dentro de um aglomerado urbano, desde que, por força de disposição legalmente aprovada, não possam ter utilização geradora de quaisquer rendimentos ou só possam ter utilização geradora de rendimentos agrícolas, silvícolas e pecuários e estejam a ter, de facto, esta afetação.
 
 3 - São ainda prédios rústicos:
 
-a) Os edifícios e construções diretamente afetos à produção de rendimentos agrícolas ou silvícolas, quando situados nos terrenos referidos nos números anteriores;
+a) Os edifícios e construções diretamente afetos à produção de rendimentos agrícolas, silvícolas e pecuários, quando situados nos terrenos referidos nos números anteriores;
 
 b) As águas e plantações nas situações a que se refere o n.º 1 do artigo 2.º
 

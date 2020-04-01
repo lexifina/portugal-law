@@ -52,7 +52,7 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 
 15 - Para efeitos da aplicação da taxa do IMI prevista no n.º 3, a identificação dos prédios ou fracções autónomas em ruínas compete às câmaras municipais e deve ser comunicada à Direcção-Geral dos Impostos, nos termos e prazos referidos no n.º 13.
 
-16 - O disposto no n.º 4 não se aplica aos prédios que sejam propriedade de pessoas singulares.
+16 - A identificação dos prédios ou frações autónomas devolutos, os prédios em ruínas e os terrenos para construção referidos no artigo 112.º-B deve ser comunicada pelos municípios à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, nos termos e prazos referidos no n.º 14 e divulgada por estes no respetivo sítio na Internet, bem como no boletim municipal, quando este exista.
 
 17 - O disposto no n.º 4 não se aplica aos prédios que sejam propriedade de pessoas singulares.
 
