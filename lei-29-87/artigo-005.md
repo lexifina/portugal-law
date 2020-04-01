@@ -38,6 +38,8 @@ q) Ao exercício de todos os direitos previstos na legislação sobre protecçã
 
 r) A subsídio de refeição, a abonar nos termos e quantitativos fixados para a Administração Pública.
 
-2 - Os direitos referidos nas alíneas a), b), e), f), p), q) e r) do número anterior apenas são concedidos aos eleitos em regime de permanência.
+2 - Os direitos referidos nas alíneas a), b), f), p), q) e r) do número anterior apenas são concedidos aos eleitos em regime de permanência.
 
-3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.
+3 - O direito referido na alínea e) do n.º 1 apenas é concedido aos eleitos em regime de permanência ou em regime de meio tempo.
+
+4 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais.
