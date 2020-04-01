@@ -2,7 +2,7 @@
 
 ### Composição e designação da direção executiva
 
-1 - A direção executiva é constituída por um presidente e dois vogais, designados, pela comissão de acompanhamento, para um mandato de cinco anos, não renovável.
+1 - A direção executiva é constituída por um presidente e dois vogais, designados pela comissão de acompanhamento, para um mandato de cinco anos, renovável uma única vez.
 
 2 - O presidente da direção executiva tem voto de qualidade.
 
