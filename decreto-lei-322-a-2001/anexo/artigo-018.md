@@ -178,7 +178,7 @@ b) Por cada bem, além do primeiro, adjudicado a cada partilhante (euro) 30 por 
 
 6.11 - Processo de suprimento de certidão de registo quando requerido ao abrigo do artigo 270.º do Código do Registo Civil - (euro) 100;
 
-6.12 - Procedimento de mudança de sexo e correspondente alteração de nome próprio - (euro) 200;
+6.12 - (Revogado).
 
 6.13 - Pela desistência ou não conclusão de atos, processos e procedimentos previstos no presente artigo, por motivos imputáveis às partes é devido metade do emolumento previsto;
 
