@@ -6,4 +6,4 @@
 
 2 - As funções previstas no número anterior são exercidas em comissão de serviço por um período de três anos, renovável por duas vezes.
 
-3 - O diretor de DIAP pode frequentar o curso de formação referido no artigo 102.º da Lei da Organização do Sistema Judiciário.
+3 - O diretor de DIAP pode frequentar o curso de formação referido no artigo 97.º da Lei da Organização do Sistema Judiciário.

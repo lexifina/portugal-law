@@ -16,13 +16,7 @@ a) Ser cidadão português;
 
 b) Estar no pleno gozo dos direitos civis e políticos;
 
-c) Possuir:
-
-i) Licenciatura em Direito de cinco anos ou grau académico equivalente reconhecido em Portugal;
-
-ii) Licenciatura obtida ao abrigo do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual, seguida de conclusão, com aproveitamento, da parte curricular dos cursos de mestrado ou de doutoramento em área do Direito obtidos em universidade portuguesa, ou grau académico e parte escolar equivalentes reconhecidos em Portugal;
-
-iii) Licenciatura obtida ao abrigo do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual, ou grau académico equivalente reconhecido em Portugal, acompanhado de experiência profissional na área forense, ou em outras áreas conexas, relevante para o exercício das funções de magistrado, de duração efetiva não inferior a cinco anos.
+c) Possuir licenciatura em Direito de cinco anos ou de duração inferior, desde que complementada, neste caso, por mestrado ou doutoramento em área do Direito, obtidos em universidade portuguesa ou por graus académicos equivalentes reconhecidos em Portugal;
 
 d) Ter frequentado com aproveitamento os cursos ou estágios de formação;
 

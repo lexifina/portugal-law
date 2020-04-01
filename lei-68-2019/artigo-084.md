@@ -22,4 +22,4 @@ d) Propor ao magistrado coordenador da comarca a emissão de ordens ou instruç�
 
 4 - Os coordenadores setoriais podem beneficiar de redução de serviço a decidir pelo Conselho Superior do Ministério Público, sob proposta do magistrado coordenador de comarca.
 
-5 - Os coordenadores setoriais podem frequentar o curso de formação referido no artigo 102.º da Lei da Organização do Sistema Judiciário.
+5 - Os coordenadores setoriais podem frequentar o curso de formação referido no artigo 97.º da Lei da Organização do Sistema Judiciário.
