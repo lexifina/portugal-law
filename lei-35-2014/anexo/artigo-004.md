@@ -36,6 +36,6 @@ m) Greve e lock-out.
 
 4 - Para efeitos da aplicação do regime previsto no Código do Trabalho ao vínculo de emprego público, as referências a empregador e empresa ou estabelecimento, consideram-se feitas a empregador público e órgão ou serviço, respetivamente.
 
-5 - O regime do Código do Trabalho e legislação complementar, em matéria de acidentes de trabalho e doenças profissionais, é aplicável aos trabalhadores que exercem funções públicas nas entidades referidas nas alíneas b) e c) do n.º 1 do artigo 2.º
+5 - O regime do Código do Trabalho e legislação complementar, em matéria de acidentes de trabalho e doenças profissionais, é aplicável aos trabalhadores que exercem funções públicas nas entidades referidas nas alíneas b) e c) do n.º 1 do artigo 2.º, com exceção do pessoal integrado no Regime de Proteção Social Convergente (RPSC) aos quais é aplicável o Decreto-Lei n.º 503/99, de 20 de novembro.
 
 6 - Para efeitos de fiscalização do cumprimento da legislação relativa à segurança e saúde no trabalho, é aplicável o regime das contraordenações laborais previsto no Código do Trabalho e legislação complementar, com as adaptações constantes do título IV da parte I da presente lei.
