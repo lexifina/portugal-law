@@ -2,7 +2,7 @@
 
 ### Condição geral do pagamento das prestações aos trabalhadores independentes e beneficiários do seguro social voluntário
 
-1 - É condição geral do pagamento das prestações aos trabalhadores independentes e aos beneficiários do seguro social voluntário que os mesmos tenham a sua situação contributiva regularizada até ao termo do 3.º mês imediatamente anterior ao do evento determinante da atribuição da prestação.
+1 - É condição geral do pagamento das prestações aos trabalhadores independentes e aos beneficiários do seguro social voluntário que os mesmos tenham a sua situação contributiva regularizada na data em que é reconhecido o direito à prestação.
 
 2 - (Revogado).
 

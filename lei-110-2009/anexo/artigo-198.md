@@ -2,7 +2,7 @@
 
 ### Retenções
 
-1 - O Estado, as outras pessoas colectivas de direito público e as entidades de capitais exclusiva ou maioritariamente públicos, só podem conceder algum subsídio ou proceder a pagamentos superiores a (euro) 5000, líquido de IVA, a contribuintes da segurança social, mediante a apresentação de declaração comprovativa da situação contributiva destes perante a segurança social.
+1 - O Estado, as outras pessoas coletivas de direito público e as entidades de capitais exclusiva ou maioritariamente públicos só podem conceder algum subsídio ou proceder a pagamentos superiores a 3000 (euro), líquido de IVA, a contribuintes da segurança social, mediante a apresentação de declaração comprovativa da situação contributiva destes perante a segurança social.
 
 2 - A declaração prevista no número anterior é dispensada sempre que o contribuinte preste consentimento à entidade pagadora para consultar a sua situação contributiva perante a segurança social, no sítio da segurança social directa, nos termos legalmente estatuídos.
 
