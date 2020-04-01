@@ -74,13 +74,13 @@
 
 17.2 - Operações realizadas por ou com intermediação de instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e quaisquer outras instituições financeiras - sobre o valor cobrado:
 
-17.2.1 - Crédito de prazo inferior a um ano - por cada mês ou fração - 0,128 %;
+17.2.1 - Crédito de prazo inferior a um ano - por cada mês ou fração - 0,141 %;
 
-17.2.2 - Crédito de prazo igual ou superior a um ano - 1,6 %;
+17.2.2 - Crédito de prazo igual ou superior a um ano - 1,76 %;
 
-17.2.3 - Crédito de prazo igual ou superior a cinco anos - 1,6 %;
+17.2.3 - Crédito de prazo igual ou superior a cinco anos - 1,76 %;
 
-17.2.4 - Crédito utilizado sob a forma de conta-corrente, descoberto bancário ou qualquer outra forma em que o prazo de utilização não seja determinado ou determinável, sobre a média mensal obtida através da soma dos saldos em dívida apurados diariamente, durante o mês, divididos por 30 - 0,128 %.
+17.2.4 - Crédito utilizado sob a forma de conta-corrente, descoberto bancário ou qualquer outra forma em que o prazo de utilização não seja determinado ou determinável, sobre a média mensal obtida através da soma dos saldos em dívida apurados diariamente, durante o mês, divididos por 30 - 0,141 %.»
 
 18 - Precatórios ou mandados para levantamento e entrega de dinheiro ou valores existente - sobre a importância a levantar ou a entregar ... 0,5%
 
