@@ -8,21 +8,15 @@
 
 3 - A taxa do IEJO nas situações descritas nos números anteriores é de 8%.
 
-4 - Sem prejuízo do disposto no número anterior, quando o montante das apostas efetuadas junto da entidade exploradora for superior a (euro) 30 000 000,00, a matéria coletável é dividida em duas parcelas:
+4 - (Revogado.)
 
-a) Até ao montante de (euro) 30 000 000,00, aplica-se a taxa de 8%;
+5 - (Revogado.)
 
-b) Sobre o excedente, a taxa é determinada com base na seguinte fórmula:
+6 - (Revogado.)
 
-Taxa = [8% x (montante anual das apostas efetuadas/(euro) 30 000 000,00)]
+7 - Nos casos em que as comissões cobradas pela entidade exploradora são o único rendimento diretamente resultante da exploração das apostas desportivas à cota em que os apostadores jogam uns contra os outros, o IEJO incide sobre o montante dessas comissões à taxa de 35 %.
 
-5 - A taxa calculada nos termos da alínea b) do número anterior tem como limite máximo 16%.
-
-6 - A diferença entre o montante calculado nos termos do n.º 4 e o montante do imposto liquidado mensalmente nos termos do n.º 3 com referência ao mesmo ano é liquidada até ao dia 15 do mês de janeiro do ano seguinte àquele a que respeita, devendo a respetiva nota de cobrança ser paga até ao dia 31 do mesmo mês.
-
-7 - O disposto nos números anteriores não se aplica quando as comissões cobradas pela entidade exploradora são o único rendimento diretamente resultante da exploração das apostas desportivas à cota em que os apostadores jogam uns contra os outros, caso em que o IEJO incide sobre o montante dessas comissões à taxa de 15%.
-
-8 - No caso previsto no número anterior, o imposto é liquidado mensalmente até ao dia 15 do mês seguinte àquele a que respeita, devendo a respetiva nota de cobrança ser paga até ao último dia do mesmo mês.
+8 - (Revogado.)
 
 9 - Do montante do IEJO apurado nos termos do presente artigo, 25 % constitui receita própria da entidade de controlo, inspeção e regulação, e 37,5 % constitui receita a atribuir às entidades objeto de aposta a repartir pelos clubes ou pelos praticantes, consoante o caso, e pela federação que organiza o evento, incluindo as ligas se as houver, para promoção da modalidade e execução de programas de prevenção, formação e educação sobre o combate à manipulação de competições e corrupção desportiva, em defesa da integridade das competições desportivas, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças, do desporto e do turismo.
 
