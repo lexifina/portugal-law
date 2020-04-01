@@ -2,7 +2,7 @@
 
 ### Taxas na Região Autónoma da Madeira
 
-1 - A taxa do imposto aplicável às bebidas espirituosas declaradas para consumo na Região Autónoma da Madeira é de (euro) 1237,58/hl.
+1 - A taxa do imposto aplicável às bebidas espirituosas declaradas para consumo na Região Autónoma da Madeira é de 1241,29 (euro)/hectolitro.
 
 2 - A taxa prevista no número anterior é igualmente aplicável ao álcool etílico tributável nos termos do n.º 1 do artigo 75.º
 

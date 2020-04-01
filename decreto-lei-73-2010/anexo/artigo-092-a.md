@@ -13,3 +13,5 @@
 4 - O adicionamento incide sobre os produtos petrolíferos e energéticos referidos no artigo anterior e no n.º 1 quando sujeitos ao imposto e dele não isentos.
 
 5 - É aplicável à liquidação, cobrança e pagamento o disposto no presente Código, na lei geral tributária e no Código de Procedimento e Processo Tributário, com as devidas adaptações.
+
+6 - Os produtos petrolíferos e energéticos suscetíveis de beneficiar da isenção prevista na alínea f) do n.º 1 do artigo 89.º do Código dos IEC que sejam utilizados em instalações abrangidas pelo sistema CELE que tenham optado pela exclusão voluntária prevista neste regime estão isentos do adicionamento previsto neste artigo.

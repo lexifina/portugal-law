@@ -8,14 +8,14 @@
 
 a) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja inferior a 25 gramas por litro: 1 (euro) por hectolitro;
 
-b) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja inferior a 50 gramas por litro e igual ou superior a 25 gramas por litro: 6 (euro) por hectolitro;
+b) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja inferior a 50 gramas por litro e igual ou superior a 25 gramas por litro: 6,02 (euro) por hectolitro;
 
-c) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja inferior a 80 gramas por litro e igual ou superior a 50 gramas por litro: 8 (euro) por hectolitro;
+c) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja inferior a 80 gramas por litro e igual ou superior a 50 gramas por litro: 8,02 (euro) por hectolitro;
 
-d) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja igual ou superior a 80 gramas por litro: 20 (euro) por hectolitro;
+d) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja igual ou superior a 80 gramas por litro: 20,06 (euro) por hectolitro;
 
 e) Concentrados previstos na alínea c) do n.º 1 do artigo 87.º-A:
 
-i) Na forma líquida: (euro) 6/hl, (euro) 36/hl, (euro) 48/hl ou (euro) 120/hl, consoante o teor de açúcar seja, respetivamente, inferior a 25 gramas por litro, inferior a 50 gramas por litro e igual ou superior 25 gramas por litro, inferior a 80 gramas por litro e igual ou superior 50 gramas por litro, ou igual ou superior a 80 gramas por litro;
+i) Na forma líquida: 6,02 (euro)/hectolitro, 36,11 (euro)/hectolitro, 48,14 (euro)/hectolitro e 120,36 (euro)/hectolitro, consoante o teor de açúcar seja, respetivamente, inferior a 25 gramas por litro, inferior a 50 gramas por litro e igual ou superior a 25 gramas por litro, inferior a 80 gramas por litro e igual ou superior a 50 gramas por litro, ou igual ou superior a 80 gramas por litro;
 
-ii) Apresentados sob a forma de pó, grânulos ou outras formas sólidas: (euro) 10/hl, (euro) 60/hl, (euro) 80/hl e (euro) 200/hl por 100 quilogramas de peso líquido, consoante o teor de açúcar seja, respetivamente, inferior a 25 gramas por litro, inferior a 50 gramas por litro e igual ou superior 25 gramas por litro, inferior a 80 gramas por litro e igual ou superior 50 gramas por litro, ou igual ou superior a 80 gramas por litro.
+ii) Apresentados sob a forma de pó, grânulos ou outras formas sólidas: 10,03 (euro)/hectolitro, 60,18 (euro)/hectolitro, 80,24 (euro)/hectolitro e 200,60 (euro)/hectolitro por 100 quilogramas de peso líquido, consoante o teor de açúcar seja, respetivamente, inferior a 25 gramas por litro, inferior a 50 gramas por litro e igual ou superior a 25 gramas por litro, inferior a 80 gramas por litro e igual ou superior a 50 gramas por litro, ou igual ou superior a 80 gramas por litro.

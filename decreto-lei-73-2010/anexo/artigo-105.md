@@ -8,4 +8,4 @@ a) Elemento específico - (euro) 34;
 
 b) Elemento ad valorem - 42 %.
 
-2 - Os cigarros ficam sujeitos, no mínimo, a 75 % do montante do imposto que resulta da aplicação do disposto no n.º 5 do artigo 103.º
+2 - Os cigarros ficam sujeitos, no mínimo, a 78 % do montante do imposto que resulte da aplicação do disposto no n.º 5 do artigo 103.º
