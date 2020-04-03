@@ -2,14 +2,12 @@
 
 ### Taxas moderadoras
 
-1 - O acesso às prestações de saúde no âmbito do Serviço Regional de Saúde dos Açores implica o pagamento de taxas moderadoras nos casos seguintes:
+1 - O acesso a prestações de saúde no âmbito do Serviço Regional de Saúde dos Açores implica o pagamento de taxas moderadoras nas seguintes situações:
 
-a) Nos serviços de urgência hospitalares, de unidades de saúde de ilha e de centros de saúde;
+a) Nos serviços de urgência hospitalar e unidades básicas de urgência;
 
-b) Nas consultas médicas nos hospitais, nas unidades de saúde de ilha, nos centros de saúde e em outros serviços de saúde públicos ou privados convencionados;
+b) Nas consultas, atos complementares prescritos e outras prestações de saúde, se a origem de referenciação para estas não for o Serviço Regional de Saúde ou o Serviço Nacional de Saúde.
 
-c) Na realização de meios complementares de diagnóstico e de terapêutica, designadamente análises clínicas e sessões de fisioterapia, em serviços de saúde públicos ou privados convencionados, com excepção dos efectuados em regime de internamento.
-
-2 - Os actos e os valores das taxas moderadoras são aprovados por portaria conjunta dos membros do Governo Regional competentes em matéria de finanças e de saúde, sendo revistos e actualizados anualmente tendo em conta, nomeadamente, o índice da inflação.
+2 - Os atos e valores das taxas moderadoras são aprovados por portaria conjunta dos membros do Governo Regional competentes em matéria de finanças e de saúde.
 
 3 - O valor das taxas previstas no número anterior não pode exceder um terço do valor constante na tabela de preços do Serviço Regional de Saúde para actos semelhantes.
