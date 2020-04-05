@@ -1,0 +1,42 @@
+Portaria n.º 86/2020
+de 4 de abril
+Sumário: Estabelece um conjunto de medidas excecionais e temporárias relativas à situação epidemiológica da doença COVID 19, no âmbito da operação 10.2.1.4, «Cadeias curtas e mercados locais», da ação n.º 10.2, «Implementação das estratégias», integrada na medida n.º 10, «LEADER», da área n.º 4, «Desenvolvimento local», do Programa de Desenvolvimento Rural do Continente.
+A Organização Mundial de Saúde considerou, no passado dia 30 de janeiro de 2020, que a epidemia COVID-19 causou uma situação de emergência de saúde pública de âmbito internacional, tendo, no dia 11 de março de 2020, caracterizado a disseminação do vírus como uma pandemia em virtude do elevado número de países afetados.
+Consequentemente, o Conselho de Ministros aprovou, nos dias 12 e 13 de março de 2020, um conjunto de medidas extraordinárias e de caráter urgente de resposta à situação epidemiológica da COVID-19, através do Decreto-Lei n.º 10-A/2020, de 13 de março, e da Resolução do Conselho de Ministros n.º 10-A/2020, de 13 de março.
+Foi ainda declarado o estado de emergência através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, renovado pelo Decreto do Presidente da República n.º 17-A/2020, de 2 de abril, executado através do Decreto n.º 2-A/2020, de 20 de março, que adotou um conjunto de medidas, designadamente em matéria de circulação na via pública e de funcionamento ou suspensão de determinados tipos de instalações, estabelecimentos e atividades, com o intuito de conter a transmissão do vírus e conter a expansão da doença COVID-19.
+Neste contexto, importa promover e agilizar os canais de comercialização de produtos alimentares locais, alargando as possibilidades de escoamento da produção previstas na operação 10.2.1.4, «Cadeias curtas e mercados locais», da ação n.º 10.2, «Implementação das estratégias», integrada na medida n.º 10, «LEADER», da área n.º 4, «Desenvolvimento local», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.
+Assim:
+Manda o Governo, pela Ministra da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelos Decretos-Leis n.os 215/2015, de 6 de outubro, 88/2018, de 6 de novembro, 127/2019, de 29 de agosto, e 10-L/2020, de 26 de março, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria estabelece um conjunto de medidas excecionais e temporárias relativas à situação epidemiológica da doença COVID 19, no âmbito da operação 10.2.1.4, «Cadeias curtas e mercados locais», da ação n.º 10.2, «Implementação das estratégias», integrada na medida n.º 10, «LEADER», da área n.º 4, «Desenvolvimento local», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.
+Artigo 2.º
+Beneficiários
+Para além das entidades previstas no n.º 2 do artigo 28.º da Portaria n.º 152/2016, de 25 de maio, na sua redação atual, podem beneficiar da componente «cadeias curtas», do apoio «Cadeias curtas e mercados locais», as entidades previstas no n.º 1 do referido preceito, a título individual ou em parceria com os titulares de explorações agrícolas referido no n.º 2, para adaptação e apetrechamento de infraestruturas existentes, para pontos específicos, previsto na alínea b) do n.º 1 do artigo 4.º da presente portaria.
+Artigo 3.º
+Critérios de elegibilidade das operações
+1 - O custo total elegível das operações, apurado em sede de análise, deve ser igual ou superior a 500 euros e inferior ou igual a 50 000 euros, no caso da componente «cadeias curtas», e igual ou superior a 5000 euros e igual ou inferior a 100 000 euros no caso da componente «mercados locais».
+2 - As operações devem ser realizadas na área geográfica correspondente ao território de intervenção do grupo de ação local (GAL), podendo ainda abranger a demais área geográfica respeitante aos concelhos desse território, aos concelhos limítrofes, e aos concelhos que integram a mesma comunidade intermunicipal, exceto quando respeitem a mercados locais e pontos de venda coletivos que se traduzam em estruturas fixas.
+Artigo 4.º
+Tipologia de ações
+1 - O apoio «Cadeias curtas e mercados locais», no que respeita à componente «cadeias curtas», compreende, para além das ações previstas no n.º 1 do artigo 31.º da Portaria n.º 152/2016, de 25 de maio, na sua redação atual, as seguintes:
+a) Deslocações dos produtores aos mercados locais, entregas em pontos específicos e aquisições de serviços associadas;
+b) Adaptação e apetrechamento de infraestruturas existentes, para pontos específicos, no âmbito de cadeias curtas.
+2 - Para os efeitos do disposto no número anterior, entendem-se por pontos específicos os pontos destinados à concentração da entrega de produtos locais agrícolas e agroalimentares, sob a gestão de uma entidade diversa do consumidor final e que comprova a entrega, localizados nos concelhos da área geográfica correspondente aos territórios de intervenção do GAL, ou ainda, no caso de estruturas móveis, na área dos concelhos limítrofes e dos concelhos que integram a mesma comunidade intermunicipal.
+Artigo 5.º
+Forma, níveis e limite dos apoios
+O montante máximo de apoio relativo a deslocações, por titular de uma exploração agrícola, no âmbito da operação, não pode exceder os 7488 euros, durante a vigência do projeto, correspondente a um apoio de 48 euros por deslocação, considerando-se um dia de entregas equivalente a uma deslocação.
+Artigo 6.º
+Despesas elegíveis
+É elegível uma despesa, na forma de custo simplificado, tendo em vista suportar os custos de deslocações aos mercados locais, ou a pontos de entrega, nomeadamente os custos de transporte, portagens e alimentação, no valor de 60 euros por deslocação, conforme os limites definidos nos n.os 4 e 5 do artigo 34.º da Portaria n.º 152/2016, de 25 de maio, na sua redação atual.
+Artigo 7.º
+Regime de aplicação
+Em tudo o que não está excecionado na presente portaria, aplica-se o regime de aplicação estabelecido pela Portaria n.º 152/2016, de 25 de maio, na sua redação atual.
+Artigo 8.º
+Produção de efeitos
+A presente portaria aplica-se aos avisos de abertura de candidaturas ainda não encerrados.
+Artigo 9.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+A Ministra da Agricultura, Maria do Céu de Oliveira Antunes Albuquerque, em 3 de abril de 2020.
+113167266
