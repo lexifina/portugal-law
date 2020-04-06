@@ -1,0 +1,95 @@
+# Portaria n.º 113/2020
+
+**Emissor:** VICE-PRESIDÊNCIA DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES E SECRETARIA REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA
+
+**Publicação:** JORAM, I série, n.º 64/2020, de 2020-04-06
+
+**Sumário:** Aprova a estrutura nuclear da Direção Regional de Educação e define as atribuições e competências das respetivas unidades orgânicas.
+
+## Texto
+
+Portaria n.º 113/2020
+de 6 de abril
+Aprova a estrutura nuclear da Direção Regional de Educação e define as atribuições e competências das
+respetivas unidades orgânicas
+O Decreto Regulamentar Regional n.º 20/2020/M, de 6 de março, definiu a missão, atribuições e competências e o tipo de organização interna da Direção Regional de Educação da Secretaria Regional de Educação, Ciência e Tecnologia.
+Importa agora, no desenvolvimento daquele decreto regulamentar regional, determinar a estrutura nuclear dos serviços e as competências das respetivas unidades orgânicas bem como a dotação das unidades orgânicas flexíveis.
+Assim: Ao abrigo do n.º 4 do artigo 21.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.ºs 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro, e no desenvolvimento do Decreto Regulamentar Regional n.º 20/2020/M, de 6 de março, manda o Governo Regional da Madeira, pelos Vice-Presidente do Governo Regional e dos Assuntos Parlamentares e Secretário Regional de Educação, Ciência e Tecnologia, o seguinte:
+Secção I Objeto e estrutura
+Artigo 1.º Objeto
+É aprovada a estrutura nuclear da Direção Regional de Educação e definidas as atribuições e competências das respetivas unidades orgânicas.
+
+Artigo 2.º Estrutura nuclear
+A Direção Regional de Educação, abreviadamente designada por DRE, estrutura-se nas seguintes unidades orgânicas nucleares:
+a) Direção de Serviços de Educação Pré-Escolar e dos Ensinos Básico e Secundário;
+b) Direção de Serviços de Educação Especial; c) Direção de Serviços de Investigação, Formação e
+Inovação Educacional; d) Direção de Serviços de Apoios Técnicos Especia-
+lizados; e) Direção de Serviços de Educação Artística; f) Direção de Serviços do Desporto Escolar; g) Direção de Serviços de Apoio à Gestão e Orga-
+nização.
+Secção II Unidades orgânicas nucleares
+Artigo 3.º Direção de Serviços de Educação Pré-Escolar e
+dos Ensinos Básico e Secundário
+1 - A Direção de Serviços de Educação Pré-Escolar e dos Ensinos Básico e Secundário abreviadamente designada por DSEPEEBS, é a unidade orgânica de coordenação e apoio à DRE no âmbito pedagógico e didático dos estabelecimentos de educação e ensino.
+2 - São atribuições da DSEPEEBS, designadamente: a) Coordenar e acompanhar, em termos pedagógicos e didáticos, o funcionamento dos estabelecimentos de educação e ensino; b) Promover a articulação entre os diferentes níveis e modalidades de educação e ensino numa perspetiva holística; c) Monitorizar o cumprimento das orientações curriculares da educação de infância e do currículo dos ensinos básico e secundário; d) Acompanhar o processo de avaliação das aprendizagens dos alunos tendo em conta as competências previstas nos documentos curriculares em vigor; e) Acompanhar o processo de avaliação externa das aprendizagens dos alunos, sem prejuízo das competências do Júri Nacional de Exames; f) Coordenar, em articulação com a Direção Regional de Planeamento, Recursos e Infraestruturas (DRPRI), os procedimentos de matrícula, renovação de matrícula e transferência de crianças ou alunos; g) Coordenar, em articulação com os serviços competentes da DRE, os processos de antecipação ou adiamento de matrícula no 1.º ano do 1.º ciclo do ensino básico; h) Colaborar com os estabelecimentos de ensino no que concerne às modalidades educativas de ensino individual, ensino doméstico, bem como no ensino a distância e para a itinerância; i) Monitorizar a concessão de equivalência de habilitações de sistemas educativos estrangeiros a habilitações do sistema educativo português ao nível dos ensinos básico e secundário;
+
+j) Acompanhar o funcionamento dos estabelecimentos de educação e de ensino particular e cooperativo, instituições particulares de solidariedade social e escolas profissionais privadas da rede regional no âmbito didático e pedagógico;
+k) Coordenar os processos de atribuição de paralelismo e de autonomia pedagógicas dos estabelecimentos de ensino básico e secundário particular e cooperativo;
+l) Emitir parecer no âmbito pedagógico e didático, relativo aos processos de concessão de autorização provisória ou definitiva de funcionamento de estabelecimentos de educação e de ensino particular e cooperativo, instituições particulares de solidariedade social e escolas profissionais privadas, ou sobre a alteração ou extinção dessa concessão;
+m) Acompanhar o processo de adoção dos manuais escolares nos ensinos básico e secundário;
+n) Monitorizar os processos disciplinares dos alunos dos ensinos básico e secundário;
+o) Coordenar o funcionamento da oferta educativa de segunda oportunidade, nas diferentes modalidades, numa perspetiva de formação ao longo da vida.
+3 - A DSEPEEBS é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
+Artigo 4.º Direção de Serviços de Educação Especial
+1 - A Direção de Serviços de Educação Especial, abreviadamente designada por DSEE é a unidade orgânica de coordenação e apoio à DRE na inclusão das crianças, alunos e formandos.
+2 - São atribuições da DSEE, designadamente: a) Colaborar com os estabelecimentos de educação e ensino, famílias e unidades de saúde pública, de segurança social e outras, no despiste, observação, avaliação, encaminhamento e atendimento de crianças e alunos no âmbito da implementação das medidas de suporte à aprendizagem e à inclusão; b) Promover o acompanhamento pedagógico, social, psicológico, psicomotor e terapêutico das crianças e alunos e respetivas famílias, cujas problemáticas aconselhem intervenções específicas nos seus diferentes contextos, nomeadamente no âmbito da intervenção precoce e no apoio domiciliário; c) Contribuir para a universalidade da intervenção precoce na infância e para a implementação de programas de educação especial, de transição para a vida ativa e de medidas de suporte à aprendizagem e à inclusão, reforçando a qualidade dos apoios de natureza educativa, habilitativa e reabilitativa; d) Desenvolver ações destinadas a promover o sucesso educativo e a prevenir o abandono escolar precoce; e) Qualificar jovens e adultos com necessidades educativas especiais, através de ações de formação inicial e contínua; f) Desenvolver, em articulação, nomeadamente, com o Instituto para a Qualificação, IP-RAM
+
+e com o Instituto de Emprego da Madeira IP-RAM, ações precursoras de formação adequada e de medidas facilitadoras no acesso ao emprego, através de convénios e incentivos às entidades empregadoras; g) Desenvolver ações de sensibilização junto da comunidade, tendo como objetivo reforçar os mecanismos necessários para uma educação inclusiva, promotora do sucesso de todos e de cada um, assente em princípios de direito e igualdade de oportunidades, de personalização, de educabilidade universal, de equidade e de participação; h) Garantir a organização de respostas educativas diferenciadas, através da implementação de sistemas de intervenção preventivas e proativas; i) Desenvolver projetos experimentais e de investigação-ação, subjacentes ao estudo e à divulgação de boas práticas e perspetivas inovadoras em matéria de educação inclusiva e de educação especial, em articulação intra e interinstitucional; j) Colaborar nos processos de adiamento de matrícula no 1.º ano do 1.º ciclo do ensino básico; k) Colaborar no desenvolvimento de um sistema de indicadores de qualidade no âmbito da educação inclusiva.
+3 - A DSEE é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
+Artigo 5.º Direção de Serviços de Investigação, Formação
+e Inovação Educacional
+1 - A Direção de Serviços de Investigação, Formação e Inovação Educacional, abreviadamente designada por DSIFIE, é a unidade orgânica de apoio à DRE em matéria de promoção das atividades de investigação, desenvolvimento, formação e inovação educacional.
+2 - São atribuições da DSIFIE, designadamente: a) Incentivar, desenvolver, coordenar, apoiar e avaliar projetos de investigação, de inovação, de formação e de intervenção educacional para promover o sucesso educativo; b) Elaborar, difundir e apoiar a criação de instrumentos de avaliação e de intervenção tendo em vista a promoção da qualidade das aprendizagens e o sucesso educativo; c) Prestar apoio técnico-pedagógico à realização de estudos e à implementação de experiências de inovação das práticas de ensino e de educação em contexto escolar, no domínio da metodologia da investigação educacional; d) Analisar os pedidos de estudos e investigações no âmbito, nomeadamente, dos mestrados e doutoramentos, que pretendam ser implementados nos estabelecimentos de educação e ensino da RAM; e) Produzir, editar e divulgar documentação científica de âmbito educacional; f) Coordenar a formação contínua do pessoal docente e não docente da Secretaria Regional de Educação, Ciência e Tecnologia;
+
+g) Conceber e implementar o plano anual de formação para o pessoal docente e não docente, em articulação com os serviços da SRE, escolas e outras entidades vocacionadas para o efeito, em função das necessidades detetadas e das medidas que contribuam para uma melhoria contínua das aprendizagens dos alunos e do desempenho dos diferentes profissionais;
+h) Implementar processos que permitam monitorizar e avaliar a formação, os projetos de promoção do sucesso educativo, os projetos com recurso às tecnologias educativas, os projetos de enriquecimento de currículo e os projetos e programas de componentes curriculares regionais;
+i) Propor a validação e certificação da formação contínua do pessoal docente;
+j) Promover, desenvolver e implementar as atividades de enriquecimento curricular e da educação extraescolar;
+k) Apoiar e estimular as iniciativas relativas à aprendizagem em rede, com recurso às tecnologias educativas, aplicadas a projetos educacionais;
+l) Operacionalizar, em articulação com outros serviços da DRE, o funcionamento do ensino a distância no sistema educativo regional.
+3 - A DSIFIE é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
+Artigo 6.º Direção de Serviços de Apoios Técnicos Especializados
+1 - A Direção de Serviços de Apoios Técnicos Especializados, abreviadamente designada por DSATE, é a unidade orgânica de apoio à DRE em matéria de apoios técnicos no âmbito das áreas especializadas.
+2 - São atribuições da DSATE, designadamente: a) Definir as orientações gerais de organização dos serviços de psicologia e orientação escolar e vocacional, ciências da educação, área social, reabilitação psicomotora, nutrição e dietética, audiologia, terapia da fala, terapia ocupacional, fisioterapia, acessibilidade e ajudas técnicas, entre outras; b) Coordenar o processo de intervenção nas diferentes áreas técnicas, através de uma abordagem centrada no aluno e na interação entre este e os ambientes em que participa, visando otimizar o seu potencial de aprendizagem e o seu desenvolvimento integral; c) Promover, adaptar e divulgar tecnologias de apoio e ajudas técnicas a serem utilizadas por crianças e alunos necessárias ao seu processo de aprendizagem; d) Promover a conceção, organização e execução de programas e medidas promotoras da cidadania e da formação pessoal e social; e) Coordenar e implementar boas práticas e perspetivas inovadoras nas diferentes áreas de intervenção; f) Colaborar no estudo, conceção e planeamento de medidas que visem a melhoria do ambiente escolar, da qualidade das aprendizagens dos alunos e do sistema educativo regional;
+
+g) Coordenar e organizar os recursos humanos e materiais nas áreas técnicas e articular a sua ação com outros serviços da DRE;
+h) Propor o estabelecimento de protocolos e parcerias estratégicas com entidades que desenvolvam a sua ação no âmbito das suas atribuições;
+i) Colaborar nos processos de antecipação de matrícula no 1.º ano do 1.º ciclo do ensino básico;
+j) Acompanhar e monitorizar as medidas disciplinares previstas no Estatuto do Aluno e Ética Escolar da RAM.
+3 - A DSATE é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
+Artigo 7.º Direção de Serviços de Educação Artística
+1 - A Direção de Serviços de Educação Artística, abreviadamente designada por DSEA, é a unidade orgânica de coordenação e apoio à DRE na área da educação artística.
+2 - São atribuições da DSEA, designadamente: a) Coordenar e acompanhar a educação artística nos estabelecimentos de educação e ensino da RAM, em colaboração com os serviços da DRE; b) Planear, orientar e avaliar projetos e atividades de enriquecimento curricular no âmbito da educação artística nos estabelecimentos de educação e de ensino; c) Proporcionar atividades na área de animação e educação artística, promotoras da inclusão de todas as crianças e alunos; d) Desenvolver iniciativas que promovam o intercâmbio escolar no âmbito das atividades artísticas, ao nível dos ensinos básico e secundário; e) Coordenar e acompanhar a componente regional do currículo, nomeadamente na disciplina de Educação Musical nos 2.º e 3.º ciclos do ensino básico; f) Organizar e coordenar a participação de crianças e alunos em projetos, concursos, iniciativas e eventos de natureza educativa e artística; g) Promover a divulgação e o conhecimento do património artístico madeirense em articulação com outros serviços e entidades; h) Propor, em articulação com o serviço competente da DRE, a formação contínua no âmbito da educação artística; i) Propor o estabelecimento de protocolos e parcerias estratégicas com entidades que desenvolvam a sua ação no âmbito das suas atribuições.
+3 - A DSEA é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
+Artigo 8.º Direção de Serviços do Desporto Escolar
+1 - A Direção de Serviços do Desporto Escolar, abreviadamente designado por DSDE, é a unidade orgânica de coordenação e apoio à DRE nas áreas da expressão e educação física e motora e do desporto escolar.
+
+2 - São atribuições da DSDE, designadamente: a) Coordenar o desporto escolar em todos os níveis de ensino; b) Acompanhar a área de expressão e educação física e motora nos estabelecimentos de educação e no 1.º ciclo do ensino básico; c) Planear, orientar e avaliar projetos e atividades de natureza educativa e desportiva; d) Promover a organização de competições e outras atividades desportivas escolares; e) Assegurar condições de participação a todos os alunos em modalidades e eventos desportivos; f) Propor, em articulação com o serviço competente da DRE, a formação contínua no âmbito da educação física e desportiva; g) Propor o estabelecimento de protocolos e parcerias estratégicas com entidades que desenvolvam a sua ação no âmbito das suas atribuições.
+3 - A DSDE é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
+Artigo 9.º Direção de Serviços de Apoio à Gestão e Organização.
+1 - A Direção de Serviços de Apoio à Gestão e Organização, abreviadamente designada por DSAGO, é a unidade orgânica de coordenação e apoio à DRE nas áreas de organização e gestão dos recursos humanos e físicos.
+2 - São atribuições da DSAGO, designadamente: a) Coordenar e assegurar a execução dos procedimentos referentes à gestão e organização do pessoal afeto ou em exercício de funções na DRE, em articulação com a Direção Regional responsável pela área da administração e gestão escolar; b) Desencadear as atividades relativas ao Sistema de Avaliação do Desempenho do pessoal afeto à DRE, visando o seu desenvolvimento, coordenação e monitorização; c) Coordenar a elaboração do plano de gestão de riscos de corrupção e infrações conexas e garantir a sua monitorização; d) Proceder ao levantamento de indicadores de gestão e garantir a sua atualização permanente; e) Assegurar a gestão documental da direção regional, através de técnicas documentais tendencionalmente automatizadas; f) Organizar e manter atualizado o Centro de Documentação da DRE, assegurando o tratamento adequado da documentação; g) Assegurar a gestão dos arquivos corrente, intermédio e definitivo da DRE; h) Assegurar a receção, classificação, registo, tratamento, distribuição e expedição da correspondência e demais documentos da DRE; i) Garantir a gestão integrada da frota automóvel; j) Identificar as necessidades de formação dos recursos humanos docentes e não docentes, em articulação com outras unidades orgânicas da DRE; tendo em vista o seu aperfeiçoamento pessoal e profissional e a concretização dos objetivos estratégicos da DRE; k) Assegurar a manutenção e conservação dos equipamentos e recursos físicos afetos à DRE, em articulação com outras unidades orgânicas da DRE.
+
+3 - A DSAGO é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
+Secção III Unidades orgânicas flexíveis
+Artigo 10.º Unidades orgânicas flexíveis
+O número máximo de unidades orgânicas flexíveis da DRE é fixado em 15.
+Secção IV Disposições Finais e transitórias.
+Artigo 11.º Norma transitória
+Mantêm-se as comissões de serviço dos titulares dos cargos de direção intermédia de 1.º grau das Direções de Serviços de Educação Pré-Escolar e dos Ensinos Básico e Secundário; de Educação Especial; de Investigação, Formação e Inovação Educacional; de Apoios Técnicos e Especializados; de Educação Artística e do Desporto Escolar, nos termos da alínea c) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de janeiro, com a redação dada pela Lei n.ºs 51/2005, de 30 de agosto, 64-A/2008 de 31 de dezembro, 3-B/2010, de 28 de abril, alterada e republicada pela Lei n.º 64/2011, de 22 de dezembro, e pelas Leis n.ºs 68/2013, de 29 de agosto, e 128/2015, de 3 de setembro, e adaptada à RAM pelo Decreto Legislativo Regional n.º 5/2004/M, de 22 de abril, alterado pelos Decretos Legislativos Regionais n.ºs 27/2006/M, de 14 de julho, e 27/2016/M, de 6 de julho.
+Artigo 12.º Norma revogatória
+É revogada a Portaria n.º 90/2016, de 3 de março, alterada e republicada pela Portaria n.º 465/2019, de 8 de agosto.
+Artigo 13.º Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Vice-Presidência do Governo Regional e dos Assuntos Parlamentares e Secretaria Regional de Educação, Ciência e Tecnologia, 2 de abril de 2020.
+O VICE-PRESIDENTE DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES, Pedro Miguel Amaro de Bettencourt Calado
+O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, Jorge Maria Abreu de Carvalho
