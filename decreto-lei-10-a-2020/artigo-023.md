@@ -15,3 +15,13 @@
 6 - Os apoios previstos no presente artigo e no artigo seguinte não podem ser percebidos simultaneamente por ambos os progenitores e só são percebidos uma vez, independentemente do número de filhos ou dependentes a cargo
 
 7 - Quando a entidade empregadora revista natureza pública, com exceção do setor empresarial do estado, o apoio previsto no presente artigo é assegurado integralmente pela mesma.
+
+8 - Para os trabalhadores do serviço doméstico, o valor do apoio corresponde a dois terços da remuneração registada no mês de janeiro de 2020, com os limites previstos no n.º 2, sendo pago um terço pela Segurança Social, mantendo as entidades empregadoras a obrigação de:
+
+a) Pagamento de um terço da remuneração;
+
+b) Declaração dos tempos de trabalho e da remuneração normalmente declarada relativa ao trabalhador, independentemente da suspensão parcial do seu efetivo pagamento; e
+
+c) Pagamento das correspondentes contribuições e quotizações.
+
+9 - O apoio previsto no presente artigo não é cumulável com os apoios previstos no Decreto-Lei n.º 10-G/2020, de 26 de março.

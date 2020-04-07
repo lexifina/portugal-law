@@ -13,3 +13,5 @@
 5 - O apoio a que se refere o presente artigo é atribuído de forma automática após requerimento do trabalhador independente, desde que não existam outas formas de prestação da atividade, nomeadamente por teletrabalho.
 
 6 - Os apoios previstos no presente artigo e no artigo anterior não podem ser percebidos simultaneamente por ambos os progenitores e só são percebidos uma vez, independentemente do número de filhos ou dependentes a cargo.
+
+7 - O apoio previsto no presente artigo não é cumulável com os apoios previstos no Decreto-Lei n.º 10-G/2020, de 26 de março.

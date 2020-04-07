@@ -21,3 +21,7 @@
 7 - Fica, igualmente, dispensada de autorização prévia a exceção para a aquisição centralizada de bens ou serviços abrangidos por um acordo-quadro para as entidades abrangidas pelo Sistema Nacional de Compras Públicas.
 
 8 - Aos contratos celebrados ao abrigo do presente decreto-lei, aplica-se o disposto no n.º 5 do artigo 45.º da Lei n.º 98/97, de 26 de agosto, na sua redação atual, podendo o contrato produzir todos os seus efeitos antes do visto ou da declaração de conformidade, designadamente quanto aos pagamentos a que derem causa.
+
+9 - Os documentos de habilitação, previstos nas alíneas a) e b) do n.º 1 do artigo 81.º do CCP, podem ser dispensados, inclusivamente para efeitos de efetuação de pagamentos, sem prejuízo da entidade adjudicante os poder pedir a qualquer momento.
+
+10 - Independentemente do preço contratual, a prestação da caução pode não ser exigida.
