@@ -1,0 +1,645 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13426",
+  "numero": "59",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-04-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-05-07",
+            "entidades": null,
+            "id": "114786",
+            "tipo": null,
+            "titulo": "Audição em 2020-05-07 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-09-18",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "911173",
+                "obs": null,
+                "pag": [
+                  "6-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-23",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/003/2020-09-23/6?pgs=6-9&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-04-21",
+        "DataArquivo": "2020-09-23",
+        "DataBaixaComissao": "2020-04-08",
+        "DataEnvioPAR": "2020-09-23",
+        "DataReaberta": "2020-04-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-04-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764f544d334d6d4d795a4441744d6d4d7a597930304e544e6b4c5745774d546b745a5441774d7a51795a5745324f44426d4c6e426b5a673d3d&fich=9372c2d0-2c3c-453d-a019-e00342ea680f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-09-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d4749794d575a68597a6b744f54426b4d5330304e4759794c574a694f5755744e546c694e7a67794f5759314e7a557a4c6e426b5a673d3d&fich=0b21fac9-90d1-44f2-bb9e-59b7829f5753.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7364",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-04-21",
+            "gp": "PS",
+            "id": "6013",
+            "motivoCessacao": null,
+            "nome": "Hugo Costa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-02-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-04-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51304e4451354d6a55304c5449774f446b744e4459344e7931694e4467334c574d335a6a6b7759544d344d32466d5a6935775a47593d&fich=44449254-2089-4687-b487-c7f90a383aff.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45622"
+    ],
+    "Iniciativasoriginadas": [
+      "45622"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=18"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=19"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=20"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=21"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=22"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=25"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-02-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_02_03_15_00_00_clean_14_plenario.xml&idsegmento=26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-02-04",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso dos sócios-gerentes ao regime de layoff; Apoio aos sócios-gerentes e trabalhadores independentes. ",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13426",
+    "PetAssunto": "Acesso dos sócios gerentes ao regime de lay-off",
+    "PetDataEntrada": "2020-04-07",
+    "PeticoesAssociadas": null,
+    "PetId": "13426",
+    "PetLeg": "XIV",
+    "PetNr": "59",
+    "PetNrAssinaturas": "34078",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "5991",
+        "obs": null,
+        "pag": [
+          "17-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-02-04",
+        "pubLeg": "XIV",
+        "pubNr": "44",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/044/2021-02-04/17?pgs=17-25&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "899608",
+        "obs": null,
+        "pag": [
+          "7-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-04-24",
+        "pubLeg": "XIV",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/036/2020-04-24/7?pgs=7&org=PLC"
+      }
+    ]
+  }
+}
