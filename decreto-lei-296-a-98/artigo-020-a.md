@@ -30,6 +30,6 @@ d) Fixar as regras para a conversão de classificações a que se refere o n.º 
 
 7 - (Revogado.)
 
-8 - As decisões a que se referem os n.os 3 e 6 são proferidas e divulgadas até 31 de Maio do ano que antecede o ano de realização da candidatura.
+8 - As decisões a que referem os n.os 3 e 6 são proferidas até 31 de maio do ano da realização da candidatura.
 
 9 - Os exames a que se refere o n.º 1 podem ser utilizados como provas de ingresso por um prazo idêntico ao fixado pela CNAES para a utilização dos exames nacionais do ensino secundário.
