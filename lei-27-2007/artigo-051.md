@@ -30,4 +30,6 @@ l) Garantir o exercício dos direitos de antena, de resposta e de réplica polí
 
 m) Emitir as mensagens cuja difusão seja solicitada pelo Presidente da República, pelo Presidente da Assembleia da República ou pelo Primeiro-Ministro;
 
-n) Ceder tempo de emissão à Administração Pública, com vista à divulgação de informações de interesse geral, nomeadamente em matéria de saúde e segurança públicas.
+n) Ceder tempo de emissão à Administração Pública, com vista à divulgação de informações de interesse geral, nomeadamente em matéria de saúde e segurança públicas;
+
+o) Promover a emissão de programas que aconselhem e estimulem os cidadãos para a prática adequada de exercício físico e de uma boa nutrição, no caso de dever coletivo de permanência em residência, por período alargado, devido a declaração de estado de exceção ou por necessidade de isolamento social.
