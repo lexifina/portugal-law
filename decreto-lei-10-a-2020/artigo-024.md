@@ -6,7 +6,7 @@
 
 2 - O valor do apoio é correspondente a um terço da base de incidência contributiva mensualizada referente ao primeiro trimestre de 2020.
 
-3 - O apoio a que se refere os números anteriores tem por limite mínimo 1 Indexante de Apoios Sociais (IAS) e máximo de 2 1/2 IAS.
+3 - O apoio a que se refere os números anteriores tem por limite mínimo 1 Indexante de Apoios Sociais (IAS) e máximo de 2 1/2 IAS, não podendo, em qualquer caso, exceder o montante da remuneração registada como base de incidência contributiva.
 
 4 - O apoio é objeto de declaração trimestral de rendimentos, estando sujeito à correspondente contribuição social.
 

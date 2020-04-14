@@ -27,3 +27,7 @@ b) A dois terços do valor da remuneração registada como base de incidência c
 6 - O apoio previsto no presente artigo é concedido, com as necessárias adaptações, aos sócios-gerentes de sociedades, bem como membros de órgãos estatutários de fundações, associações ou cooperativas com funções equivalentes àqueles, sem trabalhadores por conta de outrem, que estejam exclusivamente abrangidos pelos regimes de segurança social nessa qualidade e que, no ano anterior, tenham tido faturação comunicada através do E-fatura inferior a (euro) 60 000.
 
 7 - O apoio previsto no presente artigo não é cumulável com os apoios previstos no capítulo anterior, nem confere o direito à isenção do pagamento de contribuições à Segurança Social.
+
+8 - Nas situações previstas na alínea b) do n.º 1, o valor do apoio financeiro referido no n.º 3 é multiplicado pela respetiva quebra de faturação, expressa em termos percentuais.
+
+9 - Para os efeitos do número anterior, a quebra de faturação é declarada nos termos da alínea b) do n.º 1 e é sujeita a posterior verificação pela segurança social, no prazo de um ano a contar da atribuição do apoio, com base em informação solicitada à Autoridade Tributária e Aduaneira, dando lugar à eventual restituição das quantias indevidamente recebidas.
