@@ -2,20 +2,16 @@
 
 ### Cursos ministrados ou a ministrar aos marítimos na área da marinha de pesca açoriana
 
-1 - Os cursos ministrados ou a ministrar aos marítimos, na área da marinha regional de pesca, são os seguintes:
+1 - Os cursos a ministrar para o exercício da atividade de marítimo são os seguintes:
 
-a) Para o escalão da mestrança:
+a) De nível de gestão;
 
-i) Cursos de promoção;
+b) De nível operacional;
 
-b) Para o escalão da marinhagem:
+c) De nível de apoio;
 
-i) Cursos de preparação;
+d) De qualificação;
 
-ii) Cursos de formação.
+e) De reciclagem e de atualização.
 
-2 - Podem ainda ser ministrados aos marítimos, para além dos referidos no número anterior, os seguintes cursos:
-
-a) Cursos de qualificação;
-
-b) Cursos de reciclagem.
+2 - (Revogado.)

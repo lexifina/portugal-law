@@ -14,6 +14,6 @@
 
 6 - As autorizações prévias têm uma vigência de 12 meses, sem prejuízo de poderem ser fixados períodos mais restritos para a utilização de determinadas artes ou utensílios de pesca.
 
-7 - As licenças de pesca têm uma vigência de 12 meses, sem prejuízo de poderem ser fixados períodos mais restritos para a utilização de determinadas artes ou utensílios, bem como do disposto no número seguinte.
+7 - Sem prejuízo do disposto no número seguinte, as licenças de pesca são válidas pelo período de doze meses, podendo ser fixados outros períodos para a utilização de determinadas artes ou utensílios.
 
 8 - Poderão ser concedidas licenças excepcionais, com qualquer vigência e a todo o tempo revogáveis, quando esteja em causa, nomeadamente, a recolha de espécies para fins científicos, incluindo a experimentação ou para repovoamento, bem como a recolha destinada a estabelecimentos de aquicultura e aquários, desde que controlada pelo departamento do Governo Regional responsável pelas pescas e supervisionada por entidade científica de reconhecido mérito.

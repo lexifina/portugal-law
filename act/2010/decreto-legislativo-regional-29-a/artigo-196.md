@@ -16,6 +16,8 @@ c) Requerimento do respectivo dono ou detentor para que estes sejam alienados.
 
 4 - O produto da venda será depositado em conta bancária, à ordem da entidade que a determinou, a fim de ser entregue, por simples termo nos autos e sem quaisquer encargos, a quem a ele tenha direito, ou a dar entrada nos cofres da Região, se for decidida a perda a favor deste.
 
-5 - Serão inutilizados os bens apreendidos, sempre que não seja possível aproveitá-los sem violação do disposto neste diploma.
+5 - Sem prejuízo do disposto nos números anteriores, o pescado com tamanho inferior ao mínimo de referência de conservação, não sujeito a obrigação de descarga, apreendido no âmbito de ações de inspeção, fiscalização e controlo, pode ser doado a entidades públicas, instituições privadas de solidariedade social ou pessoas coletivas sem fins lucrativos ou de utilidade pública.
 
-6 - Quando razões de economia regional o justifiquem e não haja prejuízo para a saúde do consumidor, o membro do Governo Regional responsável pelas pescas poderá determinar que os bens apreendidos sejam aproveitados para os fins e nas condições que estabelecer.
+6 - Caso não seja possível a venda do pescado apreendido por impedimento legal ou por inexistência de meios que assegurem a respetiva venda, pode o mesmo ser doado nos termos do disposto número anterior.
+
+7 - Serão inutilizados os bens apreendidos, sempre que não seja possível aproveitá-los sem violação do disposto neste diploma.
