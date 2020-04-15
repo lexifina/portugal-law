@@ -1,0 +1,23 @@
+Aviso (extrato) n.º 6334/2020
+Sumário: Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao RERAE.
+Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao Regime Excecional de Regularização das Atividades Económicas (RERAE)
+(Aprovação da versão final)
+João Manuel Ventura Grilo de Melo Lobo, Presidente da Câmara Municipal de Proença-a-Nova, em cumprimento da alínea f) do n.º 4 do artigo 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na redação dada pelo Decreto-Lei n.º 80/2015, de 14 de maio, conjugado com a alínea t) do n.º 1 do artigo 35.º e do artigo 56.º, ambos do Anexo I da Lei n.º 75/2013, de 12 de setembro, torna público que a Câmara Municipal deliberou por unanimidade, na sua reunião ordinária de 20 de janeiro de 2020, aprovar a versão final da proposta da Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao RERAE, e remeter à Assembleia Municipal, para aprovação, nos termos do disposto no n.º 1 do artigo 90.º do RJIGT.
+A Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao RERAE decorreu em conformidade e nos termos do citado diploma, conjugado com o Regime Excecional de Regularização das Atividades Económicas (RERAE) aprovado pelo DL n.º 165/2014, de 5 de novembro, e alterado pela Lei n.º 21/2016, de 19 de julho, tendo sido cumpridas todas as formalidades legais, nomeadamente a discussão pública, a qual teve lugar no período compreendido entre 13 de dezembro de dois mil e dezanove e 8 de janeiro de dois mil e vinte.
+Mais torna público que, a Assembleia Municipal de Proença-a-Nova em sessão ordinária de 28 de fevereiro de 2020 deliberou aprovar, por unanimidade, a versão final da Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao RERAE, ao abrigo do n.º 1 do artigo 90.º do RJIGT.
+Assim, publica-se no Diário da República, a deliberação da Assembleia Municipal de Proença-a-Nova que aprova a versão final da Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao RERAE, e o aditamento ao regulamento do plano com o artigo n.º 30-A.
+2 de março de 2020. - O Presidente da Câmara Municipal, João Manuel Ventura Grilo de Melo Lobo.
+Deliberação
+Sessão de 28/02/2020
+António Gil Martins Dias, 1.º secretário da mesa da Assembleia Municipal de Proença-a-Nova, certifica para os devidos e legais efeitos que, no texto das deliberações aprovadas em minuta na sessão ordinária da Assembleia Municipal, realizada em 28 de fevereiro de dois mil e vinte, se encontra exarado o seguinte:
+2.5 - Aprovação da versão final da Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao Regime Excecional de Regularização das Atividades Económicas (RERAE).
+Presente na sessão da Assembleia Municipal a versão final da Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao RERAE, nos termos do n.º 1 do artigo 90.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) mediante proposta aprovada por unanimidade em reunião ordinária da câmara municipal de 20 de janeiro de dois mil e vinte.
+De acordo com os documentos apresentados a Câmara Municipal desencadeou o período de discussão pública da Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao RERAE, que decorreu entre 13 de dezembro de dois mil e dezanove, e 8 de janeiro de 2020, não tendo sido rececionadas quaisquer observações ou contributos.
+Nessa sequência foi elaborada a versão final da Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - RERAE, de acordo com o n.º 6 do artigo 89.º do RJIGT.
+Analisados os referidos documentos, a Assembleia Municipal deliberou, por unanimidade, aprovar a versão final da Alteração à 1.ª Revisão do Plano Diretor Municipal de Proença-a-Nova - Adequação ao RERAE, nos termos do n.º 1 do artigo 90.º do RJIGT.
+Nada mais me cumpre certificar e aos referidos documentos me reporto, e autentico com o selo branco em uso neste município.
+Proença-a-Nova, 28 de fevereiro de 2020. - O 1.º Secretário da Assembleia Municipal, António Gil Martins Dias.
+Artigo 30.º A
+Regularização no âmbito do Regime Excecional de Regularização das Atividades Económicas (RERAE)
+São consideradas como compatíveis com as normas de uso do solo ou de edificabilidade previstas no presente regulamento, as atividades abrangidas pelo artigo 1.º do Decreto-Lei n.º 165/2014, de 5 de novembro e artigo 3.º da Lei n.º 21/2016, de 19 de julho, cujos processos de regularização tenham obtido, ao abrigo do regime consagrado nestes diplomas, deliberação favorável ou favorável condicionada em sede de conferência decisória.
+613123922
