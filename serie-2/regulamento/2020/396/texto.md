@@ -1,0 +1,9 @@
+Regulamento n.º 396/2020
+Sumário: Projeto de alteração ao Regulamento da Feira Semanal de Monte Abraão.
+Projeto de alteração ao Regulamento da Feira Semanal de Monte Abraão
+Torna-se público que a União das Freguesia de Massamá e Monte Abraão deliberou, na sua reunião de 05 de março de 2020, submeter a período de consulta pública, pelo prazo de 30 dias úteis, o Projeto de Alteração ao Regulamento da Feira Semanal de Monte Abraão, que visa por um lado, a alteração aos preceitos relativo ao prazo e pagamento das taxas de ocupação pelo espaço de venda e, por outro lado a possibilidade de apreensão de objetos destinados à pratica de contraordenações, nomeadamente a alteração do n.º 2 e n.º 4 do artigo 6.º e a introdução do n.º 3 ao Artigo 39.º do Regulamento da Feira Semanal de Monte Abraão em vigor.
+O prazo da consulta pública é contado da data da publicação do respetivo Aviso na 2.ª série do Diário da República.
+O processo poderá ser consultado nas instalações da União das Freguesias de Massamá e Monte Abraão, sitas na Rua Dr. Francisco Ribeiro de Spínola, s/n, Massamá 2745-872 Queluz, durante o horário de expediente entre as 09h00 e as 17h00 ou no site da União das Freguesias, em www.uf-massamamabraao.pt devendo as sugestões/contribuições escritas ser entregues no prazo estipulado através do endereço eletrónico seguinte geral@uf-massamamabraao.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, endereçados à união da Freguesias de Massamá e Monte Abraão, para a morada: Rua Dr. Francisco Ribeiro de Spínola, s/n, Massamá 2745-872 Queluz ou ainda através do referido endereço eletrónico.
+31 de março de 2020. - O Presidente da União das Freguesias de Massamá e Monte Abraão, Pedro de Oliveira Brás.
+313155934
