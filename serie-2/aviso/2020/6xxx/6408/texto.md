@@ -1,0 +1,9 @@
+Aviso n.º 6408/2020
+Sumário: Alteração do Plano de Intervenção da Praia da Torreira (PP 06) - anexo iv do Regulamento de Gestão das Praias Marítimas do Troço Ovar-Marinha Grande, aprovado pelo Aviso n.º 11506/2017, de 29 de setembro.
+Alteração do Plano de Intervenção da Praia da Torreira (PP 06) - Anexo IV do Regulamento de Gestão das Praias Marítimas do troço Ovar-Marinha Grande, aprovado pelo Aviso n.º 11506/2017, de 29 de setembro
+Por deliberação do Conselho Diretivo da Agência Portuguesa do Ambiente, I. P. (APA, I. P.), de 05 de março de 2020, torna-se público que, nos termos e para os efeitos do disposto no artigo 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, vai proceder-se à abertura do período de discussão pública do projeto de alteração do Plano de Intervenção na Praia da Torreira - PP 06 constante do Anexo IV do Regulamento de Gestão das Praias Marítimas do troço Ovar-Marinha Grande, publicado pelo Aviso n.º 11506/2017, de 29 de setembro.
+O projeto de alteração do referido plano de intervenção na praia e a nota justificativa da alteração estão disponíveis na Internet no Portal Participa (participa.pt) e na página da Internet da APA, I. P. (www.apambiente.pt).
+No âmbito do processo de Discussão Pública serão ponderadas todas as observações e sugestões relativas ao projeto de alteração, as quais devem ser dirigidas diretamente à Agência Portuguesa do Ambiente, I. P., e apresentadas por escrito através de correio, do Portal Participa (participa.pt) ou para o endereço eletrónico poc.omg@apambiente.pt até à data de termo da consulta.
+O período de discussão pública tem início 5 dias após a data de publicação deste aviso e terá a duração de 30 dias úteis.
+1 de abril de 2020. - O Vice-Presidente do Conselho Diretivo da APA, I. P., José Pimenta Machado.
+313168198
