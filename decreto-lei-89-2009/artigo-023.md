@@ -24,7 +24,7 @@ b) Subsídio parental alargado, 25 %;
 
 c) Subsídio por adopção é igual ao previsto nos n.os 2 e 3;
 
-d) Subsídios por riscos específicos e para assistência a filho, 65 %;
+d) Subsídio para assistência a filho, 100 %;
 
 e) Subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, 65 %, tendo como limite máximo mensal o valor correspondente a duas vezes o indexante dos apoios sociais (IAS);;
 
