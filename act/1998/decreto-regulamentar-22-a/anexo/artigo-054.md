@@ -2,7 +2,7 @@
 
 ### Domínio de aplicação
 
-A sinalização turístico-cultural deve ser utilizada para assinalar, designadamente:
+A sinalização turística cultural deve ser utilizada para assinalar, designadamente:
 
 a) Regiões que se destacam pelos seus valores patrimoniais e ou paisagísticos;
 
@@ -18,6 +18,6 @@ b) Motivos de relevância cultural, histórico-patrimonial e paisagística, de a
 
 c) Acidentes geográficos e parques naturais ou nacionais;
 
-d) Conjuntos de locais de interesse turístico-cultural de acesso público que constituam itinerário turístico;
+d) Conjuntos de locais e percursos de interesse turístico-cultural e paisagístico de acesso público que constituam itinerário turístico;
 
 e) Localidades, com indicação dos motivos de interesse turístico, geográfico-ecológico e cultural.

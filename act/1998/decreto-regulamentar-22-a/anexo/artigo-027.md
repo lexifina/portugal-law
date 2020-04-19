@@ -4,11 +4,13 @@
 
 # Artigo 27.º
 
-### Sinais de obrigação
+### Enumeração e significado dos sinais de obrigação
 
 Os sinais de obrigação, representados no quadro XXV, em anexo, são os seguintes:
 
-D1a, D1b, D1c, D1d e D1e - sentido obrigatório: indicação da obrigação de seguir no sentido indicado pela seta inscrita no sinal;
+D1a e D1b - Sentido obrigatório: indicação da obrigação de seguir no sentido indicado pela seta inscrita no sinal;
+
+D1c, D1d e D1e - Sentido obrigatório: indicação da obrigação de seguir no sentido indicado pela seta inscrita no sinal na próxima intersecção;
 
 D2a, D2b e D2c - sentidos obrigatórios possíveis: indicação da obrigação de seguir por um dos sentidos indicados pelas setas inscritas no sinal;
 
@@ -20,7 +22,11 @@ D5a - via obrigatória para automóveis de mercadorias: indicação da obrigaç�
 
 D5b - via obrigatória para automóveis pesados: indicação da obrigação para os automóveis pesados de circularem pela via de trânsito a que se refere o sinal;
 
-D6 - via reservada a veículos de transporte público: indicação de que a via está reservada apenas à circulação de veículos de transporte público regular de passageiros, automóveis de praça de letra A ou taxímetro, veículos prioritários e de polícia;
+D5c - Via obrigatória para motociclos: indicação da obrigação para os motociclos de circularem pela via de trânsito a que se refere o sinal;
+
+D6 - Via reservada a veículos de transporte público: indicação de que a via está reservada apenas à circulação de veículos de transporte público regular de passageiros, táxis, veículos que transitem em missão de prestação de socorro ou de serviço urgente de interesse público, assinalando adequadamente a sua marcha, e veículos em missão de polícia;
+
+D6a - Via reservada a veículos com alta taxa de ocupação: indicação de que a via de trânsito está reservada apenas à circulação de veículos que transportem duas ou mais pessoas incluindo o condutor;
 
 D7a - pista obrigatória para velocípedes: indicação da obrigação de os velocípedes circularem pela pista que lhes é especialmente destinada;
 
@@ -42,7 +48,9 @@ D11a - fim da via obrigatória para automóveis de mercadorias: indicação de q
 
 D11b - fim da via obrigatória para automóveis pesados: indicação de que terminou a via obrigatória para automóveis pesados;
 
-D12 - fim da via reservada a veículos de transporte público: indicação de que terminou a via reservada à circulação de veículos de transporte público regular de passageiros e automóveis de praça de letra A ou taxímetro, veículos prioritários e de polícia;
+D11c - Fim da via obrigatória para motociclos: indicação de que terminou a via obrigatória para motociclos;
+
+D12 - Fim da via reservada a veículos de transporte público: indicação de que terminou a via reservada a veículos de transporte público;
 
 D13a - fim da pista obrigatória para velocípedes: indicação de que terminou a pista obrigatória para velocípedes;
 
@@ -59,3 +67,5 @@ D14 - fim da obrigação de transitar à velocidade mínima de ... km/h: indica�
 D15 - fim da obrigação de utilizar correntes de neve: indicação do local a partir do qual termina a obrigação imposta pelo sinal D9;
 
 D16 - fim da obrigação de utilizar as luzes de cruzamento acesas: indicação do local a partir do qual termina a obrigação imposta pelo sinal D10.
+
+D17 - Fim da via reservada a veículos com alta taxa de ocupação: indicação de que terminou a via reservada a veículos com alta taxa de ocupação.

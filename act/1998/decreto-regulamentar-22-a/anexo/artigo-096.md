@@ -15,3 +15,5 @@ d) A sinalização de posição deve ser colocada na proximidade imediata da zon
 e) A sinalização final deve ser colocada à distância de 100 m após a zona de obras ou de obstáculos ocasionais;
 
 f) Não devem ser agrupados mais de dois sinais sobre o mesmo suporte ou lado a lado.
+
+g) A altura dos sinais acima do solo não deve ser inferior a 80 cm.

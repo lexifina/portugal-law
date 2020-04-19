@@ -4,7 +4,7 @@
 
 # Artigo 30.º
 
-### Sinais de selecção de vias
+### Enumeração e significado dos sinais de seleção de vias
 
 Os sinais de selecção de vias, representados no quadro XXVI, em anexo, são os seguintes:
 

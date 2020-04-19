@@ -6,7 +6,7 @@ As cores dos sinais turístico-culturais são as seguintes:
 
 a) O sinal T1 tem pictograma e inscrições a branco ou tons de castanho sobre fundo castanho ou branco;
 
-b) O sinal T2 tem pictograma e inscrições a branco sobre fundo castanho;
+b) Os sinais T1a e T2 têm pictograma e inscrições a branco, sobre fundo castanho;
 
 c) O sinal T3 tem símbolo de acordo com o quadro XXI, em anexo, e inscrições a branco sobre fundo castanho;
 

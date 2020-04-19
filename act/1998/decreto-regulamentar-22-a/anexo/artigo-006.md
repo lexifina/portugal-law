@@ -10,4 +10,4 @@
 
 ### Sinais verticais
 
-O sistema de sinalização vertical a colocar nas vias públicas compreende sinais de perigo, sinais de regulamentação, sinais de indicação, sinalização de mensagem variável e sinalização turístico-cultural.
+Os sinais verticais a colocar nas vias públicas compreendem sinais de perigo, sinais de regulamentação, sinais de indicação, sinalização de mensagem variável e sinalização turístico-cultural.

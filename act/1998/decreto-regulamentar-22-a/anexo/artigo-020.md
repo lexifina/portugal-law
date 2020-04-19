@@ -8,4 +8,6 @@
 
 3 - Os sinais de perigo, com excepção dos previstos no número anterior, têm a forma de um triângulo equilátero e são colocados com o lado que serve de base ao símbolo na posição horizontal e o ângulo oposto para o alto.
 
-4 - Os sinais de perigo devem obedecer às características fixadas no quadro I, em anexo.
+4 - O sinal A29 é complementado com painel adicional indicativo do tipo de perigo, devendo ser utilizado apenas quando não exista sinal adequado ao perigo prevalecente.
+
+5 - Os sinais de perigo devem obedecer às características fixadas no quadro I, em anexo.

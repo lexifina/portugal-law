@@ -1,17 +1,19 @@
 # Artigo 2.º
 
-### Sinalização do trânsito
+### Tipos de sinalização do trânsito
 
-A sinalização do trânsito compreende:
+1 - A sinalização do trânsito faz-se através de:
+
+a) Sinais de trânsito, incluindo a sinalização temporária;
+
+b) Sinais dos agentes reguladores do trânsito;
+
+c) Sinais dos condutores.
+
+2 - Os sinais de trânsito compreendem:
 
 a) Sinais verticais;
 
 b) Marcas rodoviárias;
 
-c) Sinais luminosos;
-
-d) Sinalização temporária;
-
-e) Sinais dos agentes reguladores do trânsito;
-
-f) Sinais dos condutores.
+c) Sinais luminosos.

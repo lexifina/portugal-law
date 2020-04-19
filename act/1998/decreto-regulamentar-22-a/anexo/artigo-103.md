@@ -6,7 +6,7 @@
 
 ### Sinais dos agentes reguladores de trânsito
 
-Os sinais dos agentes reguladores do trânsito são os seguintes:
+Os sinais dos agentes reguladores do trânsito, representados no quadro LII, em anexo, são os seguintes:
 
 a) Paragem do trânsito que venha de frente - braço levantado verticalmente, com a palma da mão para a frente;
 

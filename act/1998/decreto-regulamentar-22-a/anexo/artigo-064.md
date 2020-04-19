@@ -1,6 +1,6 @@
 # Artigo 64.º
 
-### Marcas diversas e guias
+### Enumeração e significado das marcas diversas
 
 1 - Para fornecer determinadas indicações ou repetir as já dadas por outros meios de sinalização podem ser utilizadas as marcas seguintes:
 
@@ -19,3 +19,5 @@ M21 - marcas de segurança: recomendam a distância de segurança a observar par
 2 - As raias oblíquas podem ser delimitadas por uma linha descontínua: significam proibição de estacionar e de entrar na área por elas abrangida, a não ser para a realização de manobras que manifestamente não apresentem perigo.
 
 3 - Podem utilizar-se inscrições no pavimento para transmitir aos utentes indicações úteis, complementando a sinalização vertical; os caracteres e símbolos utilizados nestas inscrições devem ser alongados, por forma a serem facilmente legíveis pelos condutores a que se destinam.
+
+4 - Em locais onde possam ocorrer situações de especial perigosidade, podem ser inscritos no pavimento sinais de trânsito, em complemento da sinalização vertical, designadamente o sinal C13, para alertar os utentes dos limites de velocidade impostos, devendo os mesmos ser alongados, por forma a serem facilmente legíveis.

@@ -8,7 +8,7 @@ a) Sinais de cedência de passagem - informam os condutores da existência de um
 
 b) Sinais de proibição - transmitem aos utentes a interdição de determinados comportamentos;
 
-c) Sinais de obrigação - transmitem aos utentes a imposição de determinados comportamentos;
+c) Sinais de obrigação - transmitem aos utentes a imposição de determinados comportamentos, bem como a interdição de outros comportamentos incompatíveis com a obrigação imposta;
 
 d) Sinais de prescrição específica - transmitem aos utentes a imposição ou proibição de determinados comportamentos e abrangem:
 

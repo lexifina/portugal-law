@@ -4,19 +4,19 @@
 
 1 - As cores utilizadas nos sinais verticais devem respeitar as coordenadas cromáticas constantes do quadro XIX, em anexo.
 
-2 - As cores dos sinais de selecção e de afectação de vias, bem como dos de pré-sinalização, de direcção, de confirmação e complementares, com excepção das baias e balizas, são as constantes do quadro XX, em anexo.
+2 - As cores dos sinais de seleção e de afetação de vias, bem como dos sinais de pré-sinalização, de direção, de confirmação e dos complementares, com exceção das baias e balizas, são as constantes do quadro XX, em anexo.
 
 3 - As inscrições e as orlas dos sinais referidos no número anterior devem obedecer às seguintes características:
 
 a) Sobre fundo azul, verde ou vermelho: inscrições e orlas de cor branca;
 
-b) Sobre fundo branco: inscrições e orlas de cor preta.
+b) Sobre fundo branco ou amarelo: inscrições e orlas de cor preta.
 
 4 - Os sinais de selecção e de afectação de vias, de pré-sinalização, de confirmação e complementares, com excepção das baias e balizas, devem ter cor de fundo correspondente à rede viária em que estão colocados de acordo com o quadro XX, em anexo, entendendo-se, para esse efeito, que:
 
-a) À rede fundamental, constituída por itinerários principais, corresponde a cor verde;
+a) Às autoestradas qualquer que seja a rede em que se integrem, corresponde a cor azul;
 
-b) Às auto-estradas, qualquer que seja a rede em que se integrem, corresponde a cor azul;
+b) Aos itinerários principais que não se integrem na alínea anterior, corresponde a cor verde;
 
 c) Às restantes vias públicas corresponde a cor branca.
 
@@ -38,4 +38,16 @@ b) O sinal esteja colocado nas restantes vias e indique localidade servida por i
 
 11 - Os símbolos utilizados nos sinais de indicação, representados no quadro XXI, em anexo, são de cor preta, inseridos em quadrado de fundo branco, com excepção daqueles cuja cor se indica no referido quadro.
 
-12 - Os destinos associados aos símbolos previstos no quadro XXI podem ser inscritos sobre rectângulo de cor de fundo e inscrições de acordo com o quadro X, em anexo.
+12 - Os destinos associados aos símbolos previstos no quadro XXI, em anexo, podem ser inscritos sobre retângulo de cor de fundo e inscrições de acordo com aquele quadro e com o quadro X, em anexo, desde que não se incluam na lista dos destinos principais definida pela entidade competente para a normalização.
+
+13 - Nos sinais complementares de demarcação quilométrica, hectométrica e miriamétrica são usadas as seguintes cores:
+
+a) Azul, em autoestradas qualquer que seja a rede em que se integrem;
+
+b) Vermelho, em itinerários principais;
+
+c) Preto, nas restantes vias nacionais;
+
+d) Amarelo, em vias municipais;
+
+e) Verde sob a designação da estrada europeia, nos sinais de confirmação e de demarcação miriamétrica das estradas europeias.

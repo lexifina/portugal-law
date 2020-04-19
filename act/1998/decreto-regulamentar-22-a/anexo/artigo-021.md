@@ -4,7 +4,7 @@
 
 # Artigo 21.º
 
-### Sinais de cedência de passagem
+### Enumeração e significado dos sinais de cedência de passagem
 
 Os sinais de cedência de passagem, representados no quadro XXIII, em anexo, são os seguintes:
 

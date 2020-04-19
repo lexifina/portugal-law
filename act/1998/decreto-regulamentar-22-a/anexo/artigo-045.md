@@ -12,8 +12,10 @@ c) Num itinerário principal sobreposto a outro itinerário principal, desde que
 
 d) A demarcação de um itinerário principal deve prevalecer sobre a dos itinerários complementares onde, eventualmente, se insere.
 
-2 - Os sinais O4 devem ser colocados à distância indicada do início da via de abrandamento ou de saída cuja aproximação anunciam.
+2 - Os sinais O4 são colocados à distância indicada do início da via de abrandamento, de entrecruzamento ou de saída, em intersecção desnivelada, cuja aproximação anunciam.
 
-3 - Os sinais O5 devem ser colocados na zona de divergência que assinalam e sobre a marca M17a.
+3 - Os sinais O5 são colocados na zona de divergência, de uma saída em intersecção desnivelada, que assinalam, e sobre a marca M17a.
 
 4 - As características a que devem obedecer os sinais complementares são as constantes do quadro XIII, em anexo.
+
+5 - Os sinais O1b, O2c e O3c, podem ser utilizados na demarcação das vias designadas por restantes estradas e por estradas municipais, com a identificação cromática definida no quadro XX, em anexo.

@@ -1,10 +1,10 @@
 # Artigo 51.º
 
-### Dimensões
+### Características
 
 1 - Os sinais transmitidos pela sinalização de mensagem variável devem ter as dimensões exigidas para uma perfeita leitura das suas prescrições ou indicações.
 
-2 - A forma e cor dos sinais de trânsito inscritos devem estar de acordo com os quadros I a XVI, em anexo, com as seguintes especificidades:
+2 - A forma e cor dos sinais de trânsito inscritos devem estar de acordo com os quadros I a XVI, em anexo, podendo ter as seguintes especificidades:
 
 a) Sinais de perigo e de proibição: orla vermelha sobre fundo de cor escura e símbolos de cor branca;
 

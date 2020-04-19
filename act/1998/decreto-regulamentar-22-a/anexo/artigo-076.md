@@ -4,8 +4,20 @@
 
 Quem infringir as prescrições dos sinais luminosos a que se refere o presente capítulo é sancionado com coima de:
 
-a) 15000$00 a 75000$00, quando se trate de infracções ao disposto na alínea a) do n.º 1 e na alínea a) do n.º 2 do artigo 69.º, no n.º 2 do artigo 71.º, na alínea a) do artigo 72.º e na alínea b) do n.º 1 do artigo 73.º e ainda da inobservância da direcção da seta verde a que se referem a alínea c) do n.º 2 do artigo 69.º e o n.º 1 do artigo 70.º;
+a) (euro) 120 a (euro) 600, quando se trate de infrações ao disposto:
 
-b) 3000$00 a 15000$00, quando se trate de infracção ao disposto na alínea b) do n.º 1 e na alínea b) do n.º 2 do artigo 69.º e no n.º 1 do artigo 71.º;
+i) Na alínea a) do n.º 1 e na alínea a) do n.º 2 do artigo 69.º;
 
-c) 1000$00 a 5000$00, quando se trate de infracção ao disposto na alínea a) do artigo 74.º
+ii) Na alínea c) do n.º 2 do artigo 69.º e no n.º 1 do artigo 70.º, quando se trate da inobservância da direção da seta;
+
+iii) No n.º 3 do artigo 71.º;
+
+iv) Na alínea b) do n.º 1 do artigo 73.º
+
+b) (euro) 60 a (euro) 300, quando se trate de infração ao disposto:
+
+i) Na alínea b) do n.º 1 e na alínea b) do n.º 2 do artigo 69.º;
+
+ii) Nas alíneas a) b) e c) do n.º 1 do artigo 71.º
+
+c) (euro) 10 a (euro) 50, quando se trate de infração ao disposto na alínea a) do n.º 1 do artigo 74.º

@@ -4,6 +4,6 @@
 
 Quem infringir as prescrições impostas pelos sinais de cedência de passagem é sancionado com coima de:
 
-a) 20000$00 a 100000$00, no caso de desrespeito dos sinais B1 e B2;
+a) (euro) 120 a (euro) 600, quando se trate dos sinais B1 e B2;
 
-b) 10000$00 a 50000$00, no caso de desrespeito do sinal B5.
+b) (euro) 60 a (euro) 300, quando se trate do sinal B5.

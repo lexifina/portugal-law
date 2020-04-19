@@ -1,6 +1,6 @@
 ## Secção III
 
-## Enumeração e características dos sinais
+## Características e identificação dos sinais
 
 # Artigo 89.º
 

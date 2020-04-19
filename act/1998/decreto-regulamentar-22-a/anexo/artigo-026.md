@@ -2,6 +2,6 @@
 
 ### Sanções
 
-1 - Quem infringir as prescrições impostas pelos sinais de proibição é sancionado com coima de 5000$00 a 25000$00, se sanção mais grave não estiver prevista no Código da Estrada; nos casos de desrespeito dos sinais C15 e C16, as coimas são, respectivamente, de 2000$00 a 10000$00 e de 4000$00 a 20000$00.
+1 - Se outra sanção não estiver prevista no Código da Estrada, o desrespeito das mensagens transmitidas pelos sinais de proibição é sancionado com coima de (euro) 60 a (euro) 300, salvo quando se trate dos sinais C15 e C16, caso em que a coima é de (euro) 30 a (euro) 150.
 
-2 - As coimas aplicáveis aos peões que desrespeitem os sinais que a eles se dirigem são de 1000$00 a 5000$00.
+2 - As coimas aplicáveis aos peões que desrespeitem os sinais que a eles se dirigem são de (euro) 10 a (euro) 50.

@@ -6,4 +6,10 @@
 
 2 - Os sinais colocados lateralmente à faixa de rodagem devem ser deslocados à medida que os trabalhos vão progredindo.
 
-3 - Excepcionalmente, e caso a natureza dos trabalhos o justifique, em função da respectiva mobilidade, pode ser dispensada a sinalização avançada e a sinalização de posição desde que fique suficientemente acautelada a segurança dos utentes da via, devendo, nestes casos, ser colocado o sinal A23 sobre os veículos que acompanham os trabalhos; nestes veículos devem ser colocados dispositivos complementares com as características do dispositivo ET3, da forma seguinte: à frente, um dispositivo a toda a largura do veículo, à retaguarda, da forma mais adequada, sinalizando as partes mais salientes.
+3 - Excecionalmente, e caso a natureza dos trabalhos o justifique, em função da respetiva mobilidade, pode ser dispensada a sinalização avançada e a sinalização de posição desde que fique suficientemente acautelada a segurança dos utentes, devendo, nestes casos, ser colocado o sinal A23 sobre os veículos que acompanham os trabalhos.
+
+4 - Nos veículos referidos no número anterior são colocados dispositivos complementares com as características do dispositivo ET 3, da forma seguinte:
+
+a) À frente, um dispositivo a toda a largura do veículo; e
+
+b) À retaguarda, da forma mais adequada, sinalizando as partes mais salientes.

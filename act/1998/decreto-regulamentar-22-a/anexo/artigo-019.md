@@ -1,6 +1,6 @@
 ## Secção III
 
-## Enumeração dos sinais
+## Enumeração, significado, características e regras especiais de colocação dos sinais
 
 ## Subsecção I
 
@@ -8,7 +8,7 @@
 
 # Artigo 19.º
 
-### Sinais de perigo
+### Enumeração e significado dos sinais de perigo
 
 Os sinais de perigo, representados no quadro XXII, em anexo, são os seguintes:
 
@@ -40,7 +40,7 @@ A7a - bermas baixas: indicação de um troço de via com bermas baixas do lado d
 
 A7b - bermas baixas: indicação de um troço de via com bermas baixas do lado esquerdo;
 
-A8 - saída num cais ou precipício: indicação de que a via vai terminar num cais ou precipício;
+A8 - Saída num cais ou precipício: indicação de que a via ladeia ou termina num cais ou precipício;
 
 A9 - queda de pedras: indicação da proximidade de um local onde há perigo de ocorrência de queda de pedras;
 
@@ -56,17 +56,23 @@ A14 - crianças: indicação de um lugar frequentado por crianças, como escola,
 
 A15 - idosos: indicação de um lugar frequentado por idosos, como lar, jardim, parque ou outro similar;
 
-A16a - passagem de peões: indicação da aproximação de uma passagem de peões;
+A16a - Passagem para peões: indicação da aproximação de uma passagem para peões;
 
 A16b - travessia de peões: indicação de que podem ser encontrados peões a atravessar a faixa de rodagem;
 
-A17 - saída de ciclistas: indicação da proximidade de um local frequentemente utilizado por ciclistas que pretendem entrar na via pública ou atravessá-la;
+A17 - Saída de velocípedes: indicação da proximidade de um local frequentemente utilizado por condutores de velocípedes que pretendem entrar na via pública ou atravessá-la;
+
+A17a - Passagem para velocípedes: indicação da aproximação de uma passagem para velocípedes;
 
 A18 - cavaleiros: indicação da proximidade de um local frequentemente utilizado por cavaleiros que pretendem entrar na via pública ou atravessá-la;
 
 A19a - animais: indicação de um troço de via em que podem ser encontrados animais sem condutor;
 
 A19b - animais selvagens: indicação de que a via pode ser atravessada por animais selvagens;
+
+A19c - Linces-ibéricos: indicação de que a via pode ser atravessada por linces-ibéricos;
+
+A19d - Anfíbios: indicação de que a via pode ser atravessada por anfíbios;
 
 A20 - túnel: indicação da proximidade de um túnel;
 
@@ -82,11 +88,11 @@ A25 - trânsito nos dois sentidos: indicação de que a via em que o trânsito s
 
 A26 - passagem de nível com guarda: indicação da proximidade de uma passagem de nível com cancelas ou barreiras;
 
-A27 - passagem de nível sem guarda: indicação da proximidade de uma passagem de nível sem cancelas ou barreiras, com ou sem sinalização automática; além deste sinal, na proximidade imediata da via férrea deve ser colocado o sinal A32a ou A32b;
+A27 - Passagem de nível sem guarda: indicação da proximidade de uma passagem de nível sem cancelas ou barreiras, com ou sem sinalização luminosa regulada automaticamente;
 
 A28 - intersecção com via onde circulam veículos sobre carris: indicação de cruzamento ou entroncamento com via em que transitam veículos sobre carris; este sinal não deve ser utilizado nas passagens de nível;
 
-A29 - outros perigos: indicação de um perigo diferente de qualquer dos indicados nos sinais anteriores;
+A29 - Outros perigos: indicação de um perigo diferente de qualquer dos indicados nos restantes sinais de perigo;
 
 A30 - congestionamento: indicação da proximidade de um troço de via com elevado volume de trânsito;
 
