@@ -1,0 +1,750 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13436",
+  "numero": "69",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-04-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-06-08",
+            "entidades": null,
+            "id": "115025",
+            "tipo": null,
+            "titulo": "Audição em 2020-06-08 com Peticionante"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-06-02",
+            "dataResposta": null,
+            "entidades": [
+              "CCP - Confederação do Comércio e Serviços de Portugal"
+            ],
+            "nrOficio": "75/CEIOPH",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-10-07",
+                "dataResposta": "2020-10-26",
+                "nrOficio": "209/CEIOPH",
+                "oficioResposta": "731/20"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-02",
+            "dataResposta": "2020-06-18",
+            "entidades": [
+              "AEP - Associação Empresarial de Portugal"
+            ],
+            "nrOficio": "76/CEIOPH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-09",
+            "dataResposta": "2020-06-23",
+            "entidades": [
+              "CPPME - Confederação Portuguesa das Micro, Pequenas e Médias Empresas"
+            ],
+            "nrOficio": "139/CEIOPH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-09",
+            "dataResposta": null,
+            "entidades": [
+              "CESP - Sindicato dos Trabalhadores do Comércio, Escritórios e Serviços de Portugal"
+            ],
+            "nrOficio": "140/CEIOPH",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-10-07",
+                "dataResposta": null,
+                "nrOficio": "208/CEIOPH",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-02",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado da Economia e da Transição Digital"
+            ],
+            "nrOficio": "74/CEIOPH",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-10-07",
+                "dataResposta": null,
+                "nrOficio": "74/CEIOPH",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-05-20",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915082",
+                "obs": null,
+                "pag": [
+                  "248-252"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-04",
+                "pubLeg": "XIV",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/048/2021-06-04/248?pgs=248-252&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-05-26",
+        "DataArquivo": "2021-06-02",
+        "DataBaixaComissao": "2020-04-30",
+        "DataEnvioPAR": "2021-06-02",
+        "DataReaberta": "2020-05-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-05-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738765a545a6c4e446379597a63745a44526c5a5330304e444a6b4c5745314d324574596a646b4f4467304e6a51794d5445774c6e426b5a673d3d&fich=e6e472c7-d4ee-442d-a53a-b7d884642110.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-06-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e4441774e6a637a4e4451744f5449315a6930304f5463334c5749795a6a4d744d32566b59574977596d526a4f54646b4c6e426b5a673d3d&fich=40067344-925f-4977-b2f3-3edab0bdc97d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d6d59334d5467304d3249744e6d45315a5330304f47497a4c57466d4e5759745a546c684f544a6a5a575a684e6a49304c6e426b5a673d3d&fich=2f71843b-6a5e-48b3-af5f-e9a92cefa624.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d544d31595759304f4751744e6a59774e7930304e5755354c546b324d544d745a54526b4d6d553259546333596a51354c6e426b5a673d3d&fich=135af48d-6607-45e9-9613-e4d2e6a77b49.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e6a566b4f5452684e5455745a6d4a6d4e7930304f444d794c57466b4d7a59744d3245304e545a694d545577596a6b334c6e426b5a673d3d&fich=65d94a55-fbf7-4832-ad36-3a456b150b97.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a59573876597a6b325954526a4d446b744d4455345a6930304e5441344c54677a4e474d744d6a6733596a6c6d4e4445344d6a686c4c6e426b5a673d3d&fich=c96a4c09-058f-4508-834c-287b9f41828e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764f5446684e4441335a5749744f4467794e5330305a54557a4c5749784d7a4d744f446c684e7a49304e4455314f57526b4c6e426b5a673d3d&fich=91a407eb-8825-4e53-b133-89a7244559dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e7a55774e6a597a5a5455744e4749774f4330304f44526c4c54677a4f4441744d6a49324d575a6c4d3259354e546c6c4c6e426b5a673d3d&fich=750663e5-4b08-484e-8380-2261fe3f959e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764f44686c4d6d45354d7a4d744d7a4a695a6930304f5751774c546b334d544574596a5a685a47517a59325131596a63304c6e426b5a673d3d&fich=88e2a933-32bf-49d0-9711-b6add3cd5b74.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-06-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d6a63345a6d56684e446374596a59794f4330304d32466a4c574a684e6a59745a4759324d5463355954457a4e44426c4c6e426b5a673d3d&fich=278fea47-b628-43ac-ba66-df6179a1340e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-06-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d4751784e44497a5a5459745a4445324f5330304f575a6d4c5467335a475974596a6b354d6d45354d6a6735593259354c6e426b5a673d3d&fich=0d1423e6-d169-49ff-87df-b992a9289cf9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e5463784d544d334e444d744d7a52684e5330305a6d55784c5468684e574d74596a686d4e7a4d7a4d544e685a44526c4c6e426b5a673d3d&fich=57113743-34a5-4fe1-8a5c-b8f73313ad4e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e7a41324e5746684d7a67745a5455314e6930304f4455354c546b344f5751744e444d304f474a6c4e6a41314f47466b4c6e426b5a673d3d&fich=7065aa38-e556-4859-989d-4348be6058ad.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738765a57557a4e7a41345a4749745a6d5a684e6930305a6a677a4c574931596a67744e5455775957557a5a6a6868596a466c4c6e426b5a673d3d&fich=ee3708db-ffa6-4f83-b5b8-550ae3f8ab1e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7364",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-05-26",
+            "gp": "PSD",
+            "id": "6595",
+            "motivoCessacao": null,
+            "nome": "Márcia Passos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2022-10-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-05-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4d324d6d5a68596d56694c5751315a6a4d744e446b334f5330354d324a694c546b774d5449314e57566c4e5759785a4335775a47593d&fich=362fabeb-d5f3-4979-93bb-901255ee5f1d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121618",
+      "151994"
+    ],
+    "Iniciativasoriginadas": [
+      "121618",
+      "151994"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo encerramento dos shoppings aos domingos; Regulação dos horários de funcionamento das unidades de comércio e distribuição; Regula e estabelece limites aos horários de funcionamento de grandes superfícies comerciais e consagra um regime transitório de redução do período normal de trabalho.",
+            "Teor": "Apresenta o Projeto-Lei nº 153/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=49"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50",
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/49?pgs=49-50,56&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo encerramento dos shoppings aos domingos; Regulação dos horários de funcionamento das unidades de comércio e distribuição; Regula e estabelece limites aos horários de funcionamento de grandes superfícies comerciais e consagra um regime transitório de redução do período normal de trabalho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=50"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50",
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/50?pgs=50,57&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo encerramento dos shoppings aos domingos; Regulação dos horários de funcionamento das unidades de comércio e distribuição; Regula e estabelece limites aos horários de funcionamento de grandes superfícies comerciais e consagra um regime transitório de redução do período normal de trabalho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51",
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/50?pgs=50-51,56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo encerramento dos shoppings aos domingos; Regulação dos horários de funcionamento das unidades de comércio e distribuição; Regula e estabelece limites aos horários de funcionamento de grandes superfícies comerciais e consagra um regime transitório de redução do período normal de trabalho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo encerramento dos shoppings aos domingos; Regulação dos horários de funcionamento das unidades de comércio e distribuição; Regula e estabelece limites aos horários de funcionamento de grandes superfícies comerciais e consagra um regime transitório de redução do período normal de trabalho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo encerramento dos shoppings aos domingos; Regulação dos horários de funcionamento das unidades de comércio e distribuição; Regula e estabelece limites aos horários de funcionamento de grandes superfícies comerciais e consagra um regime transitório de redução do período normal de trabalho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo encerramento dos shoppings aos domingos; Regulação dos horários de funcionamento das unidades de comércio e distribuição; Regula e estabelece limites aos horários de funcionamento de grandes superfícies comerciais e consagra um regime transitório de redução do período normal de trabalho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo encerramento dos shoppings aos domingos; Regulação dos horários de funcionamento das unidades de comércio e distribuição; Regula e estabelece limites aos horários de funcionamento de grandes superfícies comerciais e consagra um regime transitório de redução do período normal de trabalho.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13436",
+    "PetAssunto": "Pelo encerramento dos shoppings aos domingos",
+    "PetDataEntrada": "2020-04-20",
+    "PeticoesAssociadas": null,
+    "PetId": "13436",
+    "PetLeg": "XIV",
+    "PetNr": "69",
+    "PetNrAssinaturas": "81774",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16247",
+        "obs": null,
+        "pag": [
+          "48-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-10-13",
+        "pubLeg": "XV",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/48?pgs=48-57&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "906090",
+        "obs": null,
+        "pag": [
+          "20-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-30",
+        "pubLeg": "XIV",
+        "pubNr": "41",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/041/2020-05-30/20?pgs=20-21&org=PLC"
+      }
+    ]
+  }
+}
