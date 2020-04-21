@@ -72,4 +72,6 @@ gg) Direção de Serviços de Gestão de Risco.
 
 hh) Direção de Serviços de Contratação Pública e Logística.
 
+ii) Direção de Serviços de Apoio e Defesa do Contribuinte.
+
 2 - Aos dirigentes dos serviços centrais cumpre gerir, a nível nacional, as áreas de resultado cuja responsabilidade lhes esteja cometida, incluindo a tomada de medidas e o prosseguimento das ações tendentes à uniformização de procedimentos nos serviços desconcentrados.
