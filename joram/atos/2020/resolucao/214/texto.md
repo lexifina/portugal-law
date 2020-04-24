@@ -1,0 +1,27 @@
+# Resolução n.º 214/2020
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 76/2020, suplemento, de 2020-04-24
+
+**Sumário:** Autoriza a celebração do contrato-programa entre a Região Autónoma da Madeira e o Município da Ribeira Brava, tendo em vista a atribuição do apoio financeiro destinado a cofinanciar a reparação e reconstrução de infraestruturas da responsabilidade do município, decorrentes da intempérie de 20 de fevereiro de 2010.
+
+## Texto
+
+Resolução n.º 214/2020
+Considerando que nos termos do disposto no n.º 2 do artigo 5.º do Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, e no artigo 17.º do Decreto Legislativo Regional n.º 6/2005/M, de 1 de junho, na sua redação atual, conjugado com o n.º 3 do artigo 22.º e artigo 22.º-B, da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, o Governo Regional poderá celebrar contratos-programa com os municípios da Região Autónoma da Madeira afetados pela intempérie de 20 de fevereiro de 2010, destinados a cofinanciar iniciativas associadas à reconstrução das zonas afetadas da responsabilidade destes.
+Considerando que nos termos da Resolução n.º 17/2019, de 17 de janeiro, foi celebrado em 18 de janeiro de 2019, entre a Região Autónoma da Madeira e o Município da Ribeira Brava, o contrato-programa de cooperação técnica e financeira, ao abrigo do disposto no n.º 2 do artigo 5.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro, e no artigo 17.º do Decreto Legislativo Regional n.º 6/2005/M, de 1 de junho, na sua redação atual, conjugado com o n.º 3 do artigo 22.º e artigo 22.º-B, da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, publicado no Suplemento do JORAM, II Série, número 15, de 25 de janeiro de 2019, para financiar no montante máximo de € 452.000,00, a obra “Reconstrução da rede de águas pluviais na Rua de São Bento e Largo dos Herédias”, a ser executada em 2019.
+Considerando que o Município da Ribeira Brava por não ter executado a obra até o termo do período de vigência do contrato-programa previsto para 31/12/2019, apresentou um pedido de reprogramação do contrato para 2020, justificando que os serviços afetos às condutas da Portugal Telecom S.A., da EEM - Eletricidade da Madeira, S.A., e da ARM - Águas e Resíduos da Madeira, S.A., por não se encontrarem devidamente cartografados ou identificados, provocou atrasos significativos dos traçados identificados no projeto.
+Considerando que o valor da adjudicação com IVA para a execução da obra, ascendeu a € 356 971,70, inferior à comparticipação de € 452.000,00 inicialmente prevista no contrato-programa, tendo já sido pago pelo Governo Regional até 31/12/2019, o valor de € 342 055,77, faltando o financiamento do remanescente de € 14 915,93, agora solicitado pelo Município.
+Considerando que o Município da Ribeira Brava apresentou o formulário de candidatura devidamente atualizado e preenchido nos termos do Decreto Legislativo Regional n.º 6/2005/M, de 1 de junho, na sua redação atual, tendo sido cumpridas todas as formalidades associadas ao mesmo, sendo agora necessário contratualizar os termos da correspondente cooperação técnica e financeira.
+Considerando a homologação retificada do projeto no âmbito do Programa de Reconstrução da Madeira - Intempérie 2010.
+Assim, o Conselho do Governo reunido em plenário em 24 de abril, resolve:
+1. Ao abrigo do disposto no n.º 2 do artigo 5.º do Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, e no artigo 17.º do Decreto Legislativo Regional n.º 6/2005/M, de 1 de junho, na sua atual redação, conjugado com o n.º 3 do artigo 22.º e artigo 22.º-B, da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, autorizar a celebração do contrato-programa entre a Região Autónoma da Madeira e o Município da Ribeira
+
+Brava, tendo em vista a atribuição do apoio financeiro destinado a cofinanciar a reparação e reconstrução de infraestruturas da responsabilidade do município, decorrentes da intempérie de 20 de fevereiro de 2010, cuja ficha de apreciação e aprovação da reprogramação se junta em anexo, a qual fica arquivada na Secretaria-Geral da Presidência e faz parte integrante da presente Resolução.
+2. Autorizar, nos termos do número anterior, a atribuição do montante máximo de € 14.915,93, para a parte remanescente não financiada pelo contrato-programa celebrado entre ambas as partes a 18-01-2019, que finaliza a execução financeira da obra “Reconstrução da rede de águas pluviais na Rua de São Bento e Largo dos Herédias”, a ser executada em 2020.
+3. Aprovar a minuta do contrato-programa a que se refere o número 1, a qual faz parte integrante da presente Resolução e fica arquivada na SecretariaGeral da Presidência.
+4. Mandatar o Vice-Presidente do Governo Regional para, em representação da Região Autónoma da Madeira, outorgar no respetivo contrato-programa, o qual produzirá efeitos após publicação no JORAM e finda a 31 de dezembro de 2020.
+5. Autorizar o processamento das importâncias devidas ao Município nos termos previstos e até ao montante fixado no respetivo contrato-programa.
+6. As despesas resultantes do contrato-programa a celebrar têm cabimento orçamental na Vice-Presidência 43, Capítulo 50, Divisão 02, Subdivisão 01, Classificação Económica D.08.05.03.B0.HH, projeto 50728, tendo sido atribuído o compromisso n.º CY52005396.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
