@@ -1,0 +1,417 @@
+Regulamento da CMVM n.º 5/2020
+Sumário: Capital de Risco, Empreendedorismo Social e Investimento Alternativo Especializado (altera o Regulamento da CMVM n.º 3/2015, de 3 de novembro).
+Capital de Risco, Empreendedorismo Social e Investimento Alternativo Especializado
+(altera o Regulamento da CMVM n.º 3/2015, de 3 de novembro de 2015)
+Com o presente Regulamento procede-se à primeira alteração ao Regulamento da CMVM n.º 3/2015, de 3 de novembro de 2015, relativo ao capital de risco, empreendedorismo social e investimento alternativo especializado. Esta alteração ocorre em virtude da criação da figura dos Organismos de Investimento Alternativo Especializado de Créditos (OIAE de créditos) resultante das alterações introduzidas pelo Decreto-Lei n.º 144/2019, de 23 de setembro, na Lei n.º 18/2015, de 4 de março, que aprovou o Regime Jurídico do Capital de Risco, Empreendedorismo Social e Investimento Especializado (RJCRESIE).
+As principais alterações introduzidas no Regulamento referem-se aos moldes segundo os quais os OIAE de créditos podem conceder crédito, nomeadamente a composição do respetivo património, as regras de exposição por entidade ou grupo, regras de análise do risco de crédito, avaliação, monitorização e controlo do risco de crédito, testes de esforço, deveres relacionados com os mutuários e informação relativa a OIAE de créditos. São também regulamentados os requisitos adicionais de experiência exigíveis ao órgão de administração destes organismos, prevendo-se que pelo menos um membro daquele órgão, tenha experiência comprovada nas atividades de concessão de crédito e de avaliação e gestão do risco de crédito.
+Para além das alterações específicas relativas aos OIAE de créditos, é também aditado um preceito relativo à instrução do pedido de autorização de sociedade gestora de fundos de capital de risco e de sociedade de investimento em capital de risco, alinhando-se o regime com o adotado para as sociedades gestoras de organismos de investimento coletivo e para as sociedades gestoras de titularização de créditos.
+Assinala-se que o tratamento de dados pessoais no âmbito do presente Regulamento da CMVM obedece ao disposto no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, e legislação nacional conexa.
+Os dados pessoais recolhidos pela CMVM são conservados em conformidade com os princípios do interesse administrativo e utilidade administrativa, previstos no Decreto-Lei n.º 16/93, de 23 janeiro, ou seja, pelo menos até à data em que se esgote a finalidade que fundamentou a sua recolha, acrescida dos prazos de prescrição, nomeadamente contra-ordenacional, tributária ou civil. Findos os prazos de prescrição aplicáveis ou outros impostos por lei, os dados pessoais poderão ainda ser conservados para efeitos de arquivo definitivo ou histórico, nos termos do referido decreto-lei.
+A transferência de dados pessoais recolhidos pela CMVM para organismos de países terceiros e organizações internacionais obedece ao disposto na regulamentação europeia, na legislação nacional e nos acordos de cooperação celebrados com aquelas entidades.
+Para as soluções adotadas no presente Regulamento foram tidos em conta os contributos recebidos no âmbito da consulta pública da CMVM n.º 8/2019.
+Assim, ao abrigo do disposto na alínea h) do n.º 2 do artigo 67.º ambos do RJCRESIE, no artigo 369.º do Código dos Valores Mobiliários, na alínea d) do n.º 2 do artigo 1.º, na alínea r) do artigo 12.º e na alínea a) do n.º 3 do artigo 15.º, todos dos Estatutos da CMVM, aprovados pelo Decreto-Lei n.º 5/2015, de 8 de janeiro, e no artigo 41.º da Lei-Quadro das Entidades Reguladoras, aprovada pela Lei n.º 67/2013, de 28 de agosto, o Conselho de Administração da Comissão do Mercado de Valores Mobiliários aprova o seguinte Regulamento:
+Artigo 1.º
+Objeto
+O presente Regulamento procede à primeira alteração ao Regulamento da CMVM n.º 3/2015, de 3 de novembro de 2015, relativo ao Capital de Risco, Empreendedorismo Social e Investimento Alternativo Especializado.
+Artigo 2.º
+Alteração ao Regulamento da CMVM n.º 3/2015, de 3 de novembro de 2015
+O artigo 14.º do Regulamento da CMVM n.º 3/2015, de 3 de novembro de 2015, passa a ter a seguinte redação:
+«Artigo 14.º
+Informação aos investidores
+1 - [...].
+2 - [...].
+3 - [...].
+4 - Nos OIAE de créditos a informação prévia aos investidores, prestada nos termos do artigo 221.º do Regime Geral dos Organismos de Investimento Coletivo, inclui menção sobre os riscos decorrentes do investimento em créditos e sobre a natureza não garantida do investimento num OIAE de créditos, bem como à possibilidade de iliquidez e perdas no investimento.»
+Artigo 3.º
+Aditamento ao Regulamento da CMVM n.º 3/2015
+São aditados ao Regulamento da CMVM n.º 3/2015, de 3 de novembro de 2015, os artigos 1.º-A, 9.º-A, 9.º-B, 9.º-C, 9.º-D, 9.º-E, 9.º-F, 9.º-G e 16.º-A, com a seguinte redação:
+«Artigo 1.º-A
+Instrução do pedido de autorização
+O pedido de autorização de sociedade gestora de fundos de capital de risco e de sociedade de investimento em capital de risco para o exercício de atividade é instruído com a informação identificada no Anexo I.
+Artigo 9.º-A
+Experiência
+O órgão de administração da entidade responsável pela gestão de OIAE de créditos inclui pelo menos um membro com experiência comprovada nas atividades de concessão de crédito e de avaliação e gestão do risco de crédito.
+Artigo 9.º-B
+Património dos OIAE de créditos
+1 - O património do OIAE de créditos é constituído por créditos decorrentes de:
+a) Empréstimos concedidos pelo OIAE de créditos, incluindo em associação do OIAE de créditos num consórcio bancário;
+b) Participações em empréstimos adquiridas pelo OIAE de créditos ao originador do crédito ou a terceiros.
+2 - O prazo de vencimento dos créditos detidos pelo OIAE de créditos não pode exceder a duração do OIAE de créditos.
+3 - O património do OIAE de créditos pode ainda ser constituído por:
+a) Liquidez, com um limite máximo de 20 % dos ativos do OIAE de créditos;
+b) Títulos representativos de dívida emitidos por mutuários elegíveis nos termos do Regime Jurídico, com um limite máximo de 20 % dos ativos do OIAE de créditos;
+c) Outros ativos que lhe advenham da satisfação dos créditos ou que demonstradamente sejam necessários para maximizar a satisfação dos mesmos.
+4 - Para efeitos do disposto na alínea a) do número anterior considera-se liquidez depósitos bancários suscetíveis de mobilização a todo o momento, certificados de depósito, unidades de participação de organismos de investimento do mercado monetário ou do mercado monetário de curto prazo e instrumentos financeiros emitidos ou garantidos por um Estado membro com prazo de vencimento residual inferior a 12 meses.
+5 - O limite previsto na alínea a) do n.º 3 apenas é aplicável a partir dos primeiros seis meses de atividade do OIAE de créditos.
+6 - Os instrumentos financeiros que se enquadrem no âmbito da Norma Internacional de Relato Financeiro 9 (IFRS 9 - Instrumentos Financeiros) e que integrem o património dos OIAE de créditos são avaliados nos termos desta norma, sendo os restantes ativos avaliados segundo o método do justo valor.
+Artigo 9.º-C
+Exposição por entidade ou entidades em relação de controlo ou domínio
+A partir dos primeiros doze meses de atividade do OIAE de créditos, a respetiva carteira de créditos deve estar suficientemente diversificada, com um limite de créditos, por entidade ou por entidades em relação de controlo ou domínio, de 20 % do ativo total do OIAE de créditos.
+Artigo 9.º-D
+Análise do risco de crédito
+1 - O sistema de gestão de risco da entidade responsável pela gestão do OIAE de créditos inclui:
+a) O modelo de concessão de crédito, incluindo designadamente os critérios de seleção dos créditos e de elegibilidade dos devedores e parâmetros de pontuação;
+b) A criação de ficheiros de crédito com a compilação de toda a informação qualitativa e quantitativa sobre os mutuários;
+c) Um procedimento de decisão de concessão de crédito claramente formalizado e que descreva o processo de tomada de decisão pelos órgãos competentes, incluindo nas situações em que a gestão do risco seja subcontratada;
+d) A política de gestão de garantias e colaterais;
+e) Procedimentos de gestão de situações de incumprimento, incluindo o acompanhamento, a reestruturação e a prorrogação de créditos;
+f) Procedimentos de mensuração dos créditos.
+2 - O procedimento de análise de risco no âmbito da concessão de crédito pode ser automatizado mediante definição do critério de elegibilidade e, em certas situações, utilizando um sistema de atribuição de uma pontuação ao empréstimo, devendo:
+a) O algoritmo utilizado ser descrito no programa de atividades;
+b) A elegibilidade para o critério ser documentada no dossier de crédito;
+c) O processo de tomada de decisão ser formalizado.
+3 - No caso de um crédito concedido em associação do OIAE de créditos num consórcio bancário, a informação qualitativa e quantitativa sobre os mutuários pode ser recolhida por um outro participante no consórcio bancário, incluindo por instituição de crédito do mesmo grupo da entidade responsável pela gestão.
+4 - No caso previsto no número anterior, a entidade responsável pela gestão mantém dossiers de crédito autónomos e estabelece procedimentos autónomos de decisão de concessão de crédito, incluindo sobre a análise de risco.
+Artigo 9.º-E
+Avaliação, monitorização e controlo do risco de crédito
+1 - A entidade responsável pela gestão de OIAE de créditos estabelece um procedimento de monitorização adequado, no mínimo numa base trimestral, das alterações à qualidade de cada crédito individualmente considerado, determinando, quando aplicável, os níveis de depreciação ou apreciação no valor dos créditos e, quando aplicável, nas garantias e no colateral.
+2 - O procedimento de monitorização do risco inclui as medidas operacionais a serem adotadas em caso de materialização do risco de crédito, designadamente a anulação do crédito, a recuperação e a ativação do colateral ou garantias.
+Artigo 9.º-F
+Testes de esforço
+A entidade responsável pela gestão de OIAE de créditos realiza testes de esforço, nos termos do n.º 2 do artigo 59.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Alternativo Especializado, com uma periodicidade mínima trimestral.
+Artigo 9.º-G
+Deveres relacionados com os mutuários
+1 - Nas relações com os mutuários, são aplicáveis à entidade responsável pela gestão:
+a) Os deveres de informação previstos nas alíneas a), e) e h) do n.º 1 e nos n.os 3, 4 do artigo 312.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, com as devidas adaptações, sendo igualmente aplicável a periodicidade de comunicação da informação relativa ao custo do serviço prevista no n.º 9 do referido artigo;
+b) O dever de segredo profissional nos termos previstos para o segredo bancário.
+2 - Na concessão de empréstimos pelos OIAE de créditos aplica-se o regime da concessão de crédito bancário, em termos de:
+a) Informação a prestar aos mutuários em matéria de taxas de juro e outros custos das operações de crédito;
+b) Contagem do prazo, juros remuneratórios, capitalização de juros e mora do devedor;
+c) Critério utilizado no arredondamento e no indexante da taxa de juro.
+Artigo 16.º-A
+Informação relativa a OIAE de créditos
+A informação anual relativa ao OIAE de créditos, prestada nos termos do n.º 2 do artigo 15.º e do artigo 16.º, inclui:
+a) A desagregação dos créditos detidos pelo OIAE de créditos em dívida preferencial garantida, dívida subordinada e dívida intercalar;
+b) A desagregação entre os créditos reembolsados de acordo com um plano de pagamentos e os créditos reembolsados numa única prestação;
+c) A desagregação do rácio entre o valor do empréstimo e o valor da garantia para cada um dos créditos detidos pelo OIAE de créditos;
+d) Informação relativa a exposições em incumprimento e a situações de renegociação, reestruturação e prorrogação de créditos;
+e) Alterações significativas à avaliação do crédito e procedimentos de monitorização.»
+Artigo 4.º
+Aditamento de anexo ao Regulamento da CMVM n.º 3/2015, de 3 de novembro de 2015
+É aditado ao Regulamento da CMVM n.º 3/2015, de 3 de novembro, o Anexo I ao presente regulamento, do qual faz parte integrante.
+Artigo 5.º
+Alterações à organização sistemática do Regulamento da CMVM n.º 3/2015, de 3 de novembro
+São introduzidas as seguintes alterações sistemáticas ao Regulamento da CMVM n.º 3/2015, de 3 de novembro:
+a) É aditado o Título I-A, com a epígrafe «Autorização de sociedade gestora de fundos de capital de risco e de sociedade de investimento em capital de risco», que compreende o artigo 1.º-A;
+b) É aditada a secção I, no capítulo II do Título II, com a epígrafe: «Regras gerais», que compreende os artigos 7.º a 9.º;
+c) É aditada a secção II no capítulo II do Título II, com a epígrafe: «OIAE de créditos», que compreende os artigos 9.º-A a 9.º-G.
+Artigo 6.º
+Republicação
+É republicado em anexo ao presente Regulamento, do qual faz parte integrante, o Regulamento da CMVM n.º 3/2015, de 3 de novembro, com a redação introduzida pelo presente Regulamento.
+Artigo 7.º
+Entrada em vigor
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação.
+16 de abril de 2020. - A Presidente do Conselho de Administração, Gabriela Figueiredo Dias. - O Vogal do Conselho de Administração, Rui Pinto.
+ANEXO I
+Informação instrutória relativa ao pedido de autorização de Sociedade Gestora de Fundos de Capital de Risco e Sociedade de Investimento em Capital de Risco
+(informação prevista no artigo 1.º-A)
+O programa de atividades inclui os seguintes elementos:
+a) Informação financeira previsional relativa aos três primeiros anos de atividade, agregada e discriminada por área geográfica e por cada atividade para que se pretende obter autorização;
+b) Pressupostos da informação financeira previsional, bem como a explicação detalhada dos dados e números apresentados;
+c) Relativamente à estrutura organizacional:
+(i) Organograma e respetiva descrição organizacional, em particular os sistemas de governação e de controlo interno, os procedimentos de tomada de decisão, os níveis hierárquicos, as linhas de responsabilidade e os canais de relato e de comunicação interna e externa;
+(ii) Funções de cada departamento, serviço ou área funcional e o respetivo número de recursos humanos medidos pela disponibilidade;
+(iii) Sistemas, políticas e procedimentos adotados para cumprir os requisitos de controlo interno, gestão de riscos e auditoria interna;
+(iv) Políticas e procedimentos adotados para cumprir os requisitos relativos à identificação, prevenção, gestão e acompanhamento da ocorrência de conflitos de interesses;
+(v) Modelo de risco e políticas e procedimentos adotados para cumprir os requisitos relativos à prevenção da prática do branqueamento de capitais e do financiamento ao terrorismo;
+(vi) Políticas e procedimentos adotados para cumprir os requisitos relativos à avaliação de ativos.
+d) Relativamente à informação sobre meios humanos, técnicos e materiais:
+(i) Nome completo dos titulares dos órgãos sociais e informação sobre a distribuição de pelouros, a exclusividade, a disponibilidade e a discriminação entre membros executivos e não executivos e entre residentes e não residentes em Portugal;
+(ii) Nome completo sobre as pessoas responsáveis pela gestão do investimento, controlo interno, gestão de riscos, auditoria interna, prevenção de branqueamento de capitais e financiamento ao terrorismo, avaliação independente de ativos, e informação, para cada uma delas, sobre a exclusividade, a disponibilidade e informação que permita demonstrar a sua experiência, qualificação e competência para o desempenho da função;
+(iii) Identificação das aplicações informáticas utilizadas no exercício da atividade, bem como dos procedimentos de segurança da informação.
+ANEXO
+Republicação do Regulamento da CMVM n.º 3/2015, de 3 de novembro de 2015
+Regulamento da CMVM n.º 3/2015
+Capital de Risco, Empreendedorismo Social e Investimento Alternativo Especializado
+TÍTULO I
+Disposições gerais
+Artigo 1.º
+Âmbito
+O presente regulamento desenvolve o regime previsto no Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado, aprovado pela Lei n.º 18/2015, de 4 de março, adiante abreviadamente designado «Regime Jurídico», especificamente quanto às seguintes matérias:
+a) Termos e condições de funcionamento;
+b) Regras aplicáveis às sociedades de investimento alternativo especializado e aos fundos de investimento alternativo especializado;
+c) Regras aplicáveis às sociedades de empreendedorismo social e aos fundos de empreendedorismo social;
+d) Comercialização;
+e) Vicissitudes dos organismos de investimento.
+TÍTULO I-A
+Autorização de sociedade gestora de fundos de capital de risco e de sociedade de investimento em capital de risco
+Artigo 1.º-A
+Instrução do pedido de autorização
+O pedido de autorização de sociedade gestora de fundos de capital de risco e de sociedade de investimento em capital de risco para o exercício de atividade é instruído com a informação identificada no Anexo I.
+TÍTULO II
+Termos e condições de funcionamento
+CAPÍTULO I
+Avaliação
+SECÇÃO I
+Regras gerais
+Artigo 2.º
+Princípios
+1 - Os ativos que integram o património dos organismos de investimento em capital de risco, das sociedades de capital de risco, dos fundos de empreendedorismo social, das sociedades de empreendedorismo social e dos organismos de investimento alternativo especializado são avaliados pelo método do justo valor.
+2 - Os ativos referidos no número anterior são avaliados com a periodicidade mínima seguinte, salvo se periodicidade inferior estiver prevista no regulamento de gestão ou no regulamento interno:
+a) Anual, tratando-se de fundos de empreendedorismo social, de sociedades de empreendedorismo social e de organismos de investimento alternativo especializado; e
+b) Semestral, tratando-se de organismos de investimento em capital de risco e de sociedades de capital de risco.
+3 - O método, a periodicidade e os critérios de avaliação dos ativos dos organismos de investimento em capital de risco, dos fundos de empreendedorismo social e dos organismos de investimento alternativo especializado, bem como das sociedades de capital de risco e das sociedades de empreendedorismo social constam expressamente do regulamento de gestão ou do regulamento interno, respetivamente, bem como do relatório e contas.
+4 - As entidades responsáveis pela gestão adotam critérios e pressupostos uniformes para a avaliação de ativos idênticos que integrem as carteiras sob sua gestão, salvo quando a situação apresente particularidades que justifiquem a adoção de critérios e pressupostos diversos, a qual deve ser fundamentada.
+5 - No relatório de auditoria às contas anuais, os auditores pronunciam-se sobre o cumprimento dos critérios e os pressupostos de avaliação.
+Artigo 3.º
+Ficha técnica da avaliação
+Os critérios, pressupostos e fontes utilizados na avaliação individual de cada ativo, incluindo dos contratos a prazo, são detalhadamente justificados e arquivados nos termos do disposto na alínea a) do n.º 1 e no n.º 3 do artigo 307.º-B do Código dos Valores Mobiliários.
+SECÇÃO II
+Avaliação dos ativos dos organismos de investimento em capital de risco e das sociedades de capital de risco
+Artigo 4.º
+Avaliação dos instrumentos financeiros não negociados em mercado organizado
+1 - Na avaliação de instrumentos financeiros não negociados em mercado organizado integrantes do património de investimento em capital de risco, é aplicado o método do justo valor obtido através de um dos seguintes critérios:
+a) Valor de aquisição;
+b) Transações materialmente relevantes, efetuadas nos últimos doze meses face ao momento da avaliação, assim consideradas as realizadas por entidades independentes do fundo de capital de risco, da sociedade de capital de risco e da sociedade de investimento em capital de risco;
+c) Múltiplos de sociedades comparáveis, nomeadamente, em termos de setor de atividade, dimensão, alavancagem e rendibilidade;
+d) Fluxos de caixa descontados;
+e) Último valor patrimonial divulgado pela entidade responsável pela gestão quanto a participações em organismos de investimento coletivo;
+f) Outros internacionalmente reconhecidos, em situações excecionais e devidamente fundamentadas por escrito.
+2 - Sempre que se recorra ao critério previsto na alínea b) do número anterior deve ser avaliada a existência de factos ou circunstâncias ocorridos após a data da transação que impliquem uma alteração no valor considerado à data da avaliação.
+3 - Quando existam as transações referidas na alínea b) do n.º 1, o respetivo valor é utilizado para avaliar os ativos em capital de risco.
+4 - O valor de aquisição apenas pode ser usado nos 12 meses seguintes à data de aquisição.
+5 - Os créditos e outros instrumentos com natureza de dívida não negociados em mercado organizado, adquiridos ou concedidos no âmbito de investimentos em capital de risco, são avaliados de acordo com o critério previsto na alínea d) do n.º 1, tendo em consideração:
+a) Os prazos definidos contratualmente;
+b) Os reembolsos de capital e amortizações previstos;
+c) A taxa de juro efetiva apurada tendo em consideração o seguinte:
+i) As taxas de juro de mercado e o risco de crédito do mutuário vigente à data; ou
+ii) A taxa de juro que seria aplicável se o crédito fosse concedido na data da avaliação.
+6 - Em situações excecionais e devidamente fundamentadas por escrito, a avaliação dos ativos referidos no número anterior pode ser realizada de acordo com o critério do custo de aquisição, tendo em consideração:
+a) A quantia pela qual os créditos e outros instrumentos com natureza de dívida foram mensurados no reconhecimento inicial;
+b) Os reembolsos de capital e amortizações acumuladas;
+c) As quantias incobráveis;
+d) As situações que possam ter um impacto material no valor; e
+e) A expectativa de realização.
+7 - O direito e a obrigação de transacionar determinado ativo de capital de risco numa data futura (contrato a prazo) são avaliados e reconhecidos patrimonialmente de acordo com os critérios previstos no n.º 1.
+Artigo 5.º
+Avaliação dos instrumentos financeiros negociados em mercado organizado
+A avaliação dos instrumentos financeiros negociados em mercado organizado integrantes do património dos organismos de investimento em capital de risco e das sociedades de capital de risco é realizada de acordo com o disposto no n.º 2 do artigo 30.º e no artigo 31.º do Regulamento da CMVM n.º 2/2015 relativo a organismos de investimento coletivo (mobiliários e imobiliários) e comercialização de fundos de pensões abertos de adesão individual, com as devidas adaptações.
+SECÇÃO III
+Avaliação dos ativos de empreendedorismo social
+Artigo 6.º
+Avaliação dos ativos dos fundos de empreendedorismo social e das sociedades de empreendedorismo social
+1 - Na avaliação dos ativos que integram o património dos fundos e das sociedades de empreendedorismo social é aplicado o método do justo valor obtido de acordo com as melhores práticas em vigor no setor do investimento social, tomando em consideração o impacto ou incidência social positiva quantificável dos investimentos realizados.
+2 - Para efeitos da avaliação referida no número anterior, as entidades gestoras dos fundos de empreendedorismo social e as sociedades de empreendedorismo social adotam procedimentos que:
+a) Sejam claros e transparentes; e
+b) Incluam indicadores que possam, em função do objetivo social da natureza da sociedade, quantificar a incidência social positiva da sua atividade.
+CAPÍTULO II
+Organismos de Investimento Alternativo Especializado e Investimento em Empreendedorismo Social
+SECÇÃO I
+Regras Gerais
+Artigo 7.º
+Património dos organismos de investimento alternativo especializado
+1 - O património dos organismos de investimento alternativo especializado pode ser constituído por qualquer ativo que seja elegível para a carteira de um organismo de investimento coletivo.
+2 - O organismo de investimento alternativo especializado não pode deter, direta ou indiretamente, em valor superior a 20 % do respetivo valor líquido global, ativos emitidos ou garantidos pelas seguintes entidades:
+a) Os promotores dos organismos de investimento coletivo sob forma societária, sendo o caso;
+b) A entidade responsável pela gestão;
+c) As entidades que detenham participações superiores a 10 % do respetivo valor líquido global;
+d) As entidades que se encontrem em relação de domínio ou de grupo com a entidade responsável pela gestão, ou as entidades com quem aquelas se encontrem em relação de domínio ou de grupo;
+e) As entidades em que a entidade responsável pela gestão, ou entidade que com aquela se encontre em relação de domínio ou de grupo, detenha participação superior a 20 % do capital social ou dos direitos de voto;
+f) O depositário ou qualquer entidade que com este se encontre numa das relações referidas nas alíneas c) e d);
+g) Os membros dos órgãos sociais de qualquer das entidades referidas nas alíneas anteriores.
+3 - A detenção referida neste artigo abrange a titularidade, o usufruto, as situações que conferem ao titular o poder de administrar ou dispor dos ativos, bem como aquelas em que, não tendo nenhum destes poderes, é o real beneficiário dos seus frutos ou pode de facto deles dispor ou administrá-los.
+Artigo 8.º
+Património das sociedades e dos fundos de empreendedorismo social
+1 - São elegíveis para integrar o património das sociedades e dos fundos de empreendedorismo social as sociedades que, desenvolvendo soluções adequadas para problemas sociais, nos termos do disposto no n.º 1 do artigo 4.º do Regime Jurídico, cumpram as condições previstas na alínea d) do artigo 3.º do Regulamento (UE) n.º 346/2013.
+2 - Os limites referidos nas alíneas b) e c) do n.º 1 do artigo 9.º do Regime Jurídico não são aplicáveis às sociedades e fundos de empreendedorismo social caso existam limitações legais ou estatutárias ao investimento em capital social nas entidades elegíveis para integrar o referido património.
+Artigo 9.º
+Requisitos relativos ao capital e valor líquido global dos organismos de investimento alternativo especializado
+1 - O capital das sociedades de investimento alternativo especializado tem de ser obrigatoriamente realizado numa parcela correspondente a 5 %, no momento da subscrição, devendo encontrar-se integralmente realizado até ao final dos primeiros 12 meses de atividade.
+2 - O valor líquido global dos organismos de investimento alternativo especializado deve ser de, pelo menos, (euro) 1 250 000 a partir dos primeiros 12 meses de atividade.
+3 - Se o valor líquido global dos organismos de investimento alternativo especializado apresentar valor inferior a dois terços do limite previsto no número anterior, a entidade responsável pela gestão convoca a assembleia de participantes para deliberar sobre a liquidação do organismo, realizando-se a assembleia em data que não exceda 40 dias sobre a verificação da situação de insuficiência do valor líquido global.
+4 - A liquidação prevista no número anterior depende de aprovação favorável de um quarto dos participantes presentes na assembleia.
+SECÇÃO II
+OIAE de créditos
+Artigo 9.º-A
+Experiência
+O órgão de administração da entidade responsável pela gestão de OIAE de créditos inclui pelo menos um membro com experiência comprovada nas atividades de concessão de crédito e de avaliação e gestão do risco de crédito.
+Artigo 9.º-B
+Património dos OIAE de créditos
+1 - O património do OIAE de créditos é constituído por créditos decorrentes de:
+a) Empréstimos concedidos pelo OIAE de créditos, incluindo em associação do OIAE de créditos num consórcio bancário;
+b) Participações em empréstimos adquiridas pelo OIAE de créditos ao originador do crédito ou a terceiros.
+2 - O prazo de vencimento dos créditos detidos pelo OIAE de créditos não pode exceder a duração do OIAE de créditos.
+3 - O património do OIAE de créditos pode ainda ser constituído por:
+a) Liquidez, com um limite máximo de 20 % dos ativos do OIAE de créditos;
+b) Títulos representativos de dívida emitidos por mutuários elegíveis nos termos do Regime Jurídico, com um limite máximo de 20 % dos ativos do OIAE de créditos;
+c) Outros ativos que lhe advenham da satisfação dos créditos ou que demonstradamente sejam necessários para maximizar a satisfação dos mesmos.
+4 - Para efeitos do disposto na alínea a) do número anterior considera-se liquidez depósitos bancários suscetíveis de mobilização a todo o momento, certificados de depósito, unidades de participação de organismos de investimento do mercado monetário ou do mercado monetário de curto prazo e instrumentos financeiros emitidos ou garantidos por um Estado membro com prazo de vencimento residual inferior a 12 meses.
+5 - O limite previsto na alínea a) do n.º 3 apenas é aplicável a partir dos primeiros seis meses de atividade do OIAE de créditos.
+6 - Os instrumentos financeiros que se enquadrem no âmbito da Norma Internacional de Relato Financeiro 9 (IFRS 9 - Instrumentos Financeiros) e que integrem o património dos OIAE de créditos são avaliados nos termos desta norma, sendo os restantes ativos avaliados segundo o método do justo valor.
+Artigo 9.º-C
+Exposição por entidade ou entidades em relação de controlo ou domínio
+A partir dos primeiros doze meses de atividade do OIAE de créditos, a respetiva carteira de créditos deve estar suficientemente diversificada, com um limite de créditos, por entidade ou por entidades em relação de controlo ou domínio, de 20 % do ativo total do OIAE de créditos.
+Artigo 9.º-D
+Análise do risco de crédito
+1 - O sistema de gestão de risco da entidade responsável pela gestão do OIAE de créditos inclui:
+a) O modelo de concessão de crédito, incluindo designadamente os critérios de seleção dos créditos e de elegibilidade dos devedores e parâmetros de pontuação;
+b) A criação de ficheiros de crédito com a compilação de toda a informação qualitativa e quantitativa sobre os mutuários;
+c) Um procedimento de decisão de concessão de crédito claramente formalizado e que descreva o processo de tomada de decisão pelos órgãos competentes, incluindo nas situações em que a gestão do risco seja subcontratada;
+d) A política de gestão de garantias e colaterais;
+e) Procedimentos de gestão de situações de incumprimento, incluindo o acompanhamento, a reestruturação e a prorrogação de créditos;
+f) Procedimentos de mensuração dos créditos.
+2 - O procedimento de análise de risco no âmbito da concessão de crédito pode ser automatizado mediante definição do critério de elegibilidade e, em certas situações, utilizando um sistema de atribuição de uma pontuação ao empréstimo, devendo:
+a) O algoritmo utilizado ser descrito no programa de atividades;
+b) A elegibilidade para o critério ser documentada no dossier de crédito;
+c) O processo de tomada de decisão ser formalizado.
+3 - No caso de um crédito concedido em associação do OIAE de créditos num consórcio bancário, a informação qualitativa e quantitativa sobre os mutuários pode ser recolhida por um outro participante no consórcio bancário, incluindo por instituição de crédito do mesmo grupo da entidade responsável pela gestão.
+4 - No caso previsto no número anterior, a entidade responsável pela gestão mantém dossiers de crédito autónomos e estabelece procedimentos autónomos de decisão de concessão de crédito, incluindo sobre a análise de risco.
+Artigo 9.º-E
+Avaliação, monitorização e controlo do risco de crédito
+1 - A entidade responsável pela gestão de OIAE de créditos estabelece um procedimento de monitorização adequado, no mínimo numa base trimestral, das alterações à qualidade de cada crédito individualmente considerado, determinando, quando aplicável, os níveis de depreciação ou apreciação no valor dos créditos e, quando aplicável, nas garantias e no colateral.
+2 - O procedimento de monitorização do risco inclui as medidas operacionais a serem adotadas em caso de materialização do risco de crédito, designadamente a anulação do crédito, a recuperação e a ativação do colateral ou garantias.
+Artigo 9.º-F
+Testes de esforço
+A entidade responsável pela gestão de OIAE de créditos realiza testes de esforço, nos termos do n.º 2 do artigo 59.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Alternativo Especializado, com uma periodicidade mínima trimestral.
+Artigo 9.º-G
+Deveres relacionados com os mutuários
+1 - Nas relações com os mutuários, são aplicáveis à entidade responsável pela gestão:
+a) Os deveres de informação previstos nas alíneas a), e) e h) do n.º 1 e nos n.os 3, 4 do artigo 312.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, com as devidas adaptações, sendo igualmente aplicável a periodicidade de comunicação da informação relativa ao custo do serviço prevista no n.º 9 do referido artigo;
+b) O dever de segredo profissional nos termos previstos para o segredo bancário.
+2 - Na concessão de empréstimos pelos OIAE de créditos aplica-se o regime da concessão de crédito bancário, em termos de:
+a) Informação a prestar aos mutuários em matéria de taxas de juro e outros custos das operações de crédito;
+b) Contagem do prazo, juros remuneratórios, capitalização de juros e mora do devedor;
+c) Critério utilizado no arredondamento e no indexante da taxa de juro.
+TÍTULO III
+Comercialização
+Artigo 10.º
+Investidores qualificados
+1 - Para efeitos da comercialização por entidades que não estejam sujeitas às regras aplicáveis à atividade de intermediação financeira previstas no Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, consideram-se investidores qualificados:
+a) Os previstos no n.º 1 do artigo 30.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro; e
+b) Os investidores qualificados a pedido, nos termos dos números seguintes.
+2 - O investidor não qualificado pode solicitar à entidade responsável pela gestão tratamento como investidor qualificado, para efeitos da subscrição de participações em um ou mais organismos de investimento em capital de risco e sociedades de capital de risco, em fundos de empreendedorismo social e sociedades de empreendedorismo social ou em organismos de investimento alternativo especializado, indicando-os.
+3 - A satisfação da solicitação formulada nos termos do número anterior depende de avaliação prévia, a realizar, de forma documentada, pelas entidades referidas no n.º 1 que asseguram a comercialização, dos conhecimentos e experiência do interessado, pela qual se garanta que este tem capacidade para tomar as suas próprias decisões de investimento e que compreende os riscos associados ao investimento em capital de risco, empreendedorismo social ou investimento alternativo especializado.
+4 - Para efeitos da avaliação prevista no número anterior, o interessado deve, no mínimo, respeitar dois dos seguintes requisitos:
+a) Ter efetuado operações no mercado relevante para as atividades referidas no n.º 2 nos últimos 3 anos;
+b) Dispor de uma carteira de instrumentos financeiros, incluindo também depósitos em numerário, que exceda (euro) 500 000;
+c) Prestar ou ter prestado funções na área financeira, durante, pelo menos, dois anos, em cargo que exija conhecimento dos serviços ou operações em causa.
+5 - Nos casos em que a solicitação tenha sido apresentada por pessoa coletiva, a avaliação prevista no n.º 3 e a relativa ao requisito mencionado na alínea c) do número anterior são feitas relativamente ao responsável pelas atividades de investimento da requerente.
+6 - A solicitação de tratamento como investidor qualificado observa os seguintes procedimentos:
+a) O interessado solicita à entidade responsável pela gestão, por escrito, tratamento como investidor qualificado;
+b) Realizada a avaliação prevista no n.º 3, a entidade responsável pela gestão deve informar o interessado, por escrito, do deferimento do pedido e das consequências da sua qualificação;
+c) Recebida tal informação, o interessado deve declarar, por escrito, em documento autónomo, que está ciente das consequências da sua opção.
+7 - Compete ao investidor que tenha solicitado tratamento como investidor qualificado manter a entidade responsável pela gestão informada sobre qualquer alteração suscetível de afetar os pressupostos que conduziram à sua qualificação.
+8 - A entidade responsável pela gestão que tome conhecimento que um investidor deixou de satisfazer os requisitos de qualificação deve informá-lo que, se não comprovar a manutenção dos requisitos, dentro do prazo por aquela determinado, é tratado como investidor não qualificado.
+9 - Sem prejuízo de exigências legais e regulamentares mais rigorosas, as entidades responsáveis pela gestão conservam em arquivo, pelo prazo mínimo de cinco anos, todos os documentos relevantes para efeitos de qualificação do investidor.
+Artigo 11.º
+Entidades comercializadoras
+1 - Podem ser entidades comercializadoras de unidades de participação:
+a) As entidades responsáveis pela gestão;
+b) Os depositários;
+c) Os intermediários financeiros registados junto da CMVM para o exercício das atividades de colocação em ofertas públicas de distribuição ou de receção e transmissão de ordens por conta de outrem.
+2 - As relações entre a entidade responsável pela gestão e as entidades comercializadoras regem-se por contrato escrito.
+3 - As entidades comercializadoras respondem perante os participantes pelos danos causados no exercício da sua atividade.
+4 - As entidades comercializadoras disponibilizam aos investidores toda a informação que para o efeito lhes seja remetida pela entidade responsável pela gestão.
+Artigo 12.º
+Comercialização junto de investidores não qualificados
+1 - Os fundos de empreendedorismo social e as sociedades de empreendedorismo social podem ser comercializados junto de investidores não qualificados, desde que estes:
+a) Invistam um montante máximo de (euro) 5 000;
+b) Declarem por escrito que estão conscientes dos riscos associados ao investimento previsto.
+2 - Os requisitos previstos nas alíneas do número anterior não são aplicáveis aos investimentos feitos por dirigentes, diretores ou empregados que participem nas atividades de gestão de fundos ou sociedades de empreendedorismo social quando invistam nos fundos ou sociedades por si geridos.
+TÍTULO IV
+Informação
+Artigo 13.º
+Regulamento interno
+O regulamento interno das sociedades de capital de risco e das sociedades de empreendedorismo social prevê, pelo menos, o seguinte:
+a) As regras gerais de funcionamento da sociedade;
+b) A política de investimento, quando a sociedade gira carteira própria;
+c) As regras de avaliação de ativos;
+d) Os procedimentos de investimento e de desinvestimento;
+e) A subcontratação de funções;
+f) Os procedimentos de prevenção do branqueamento de capitais, de gestão e mitigação de conflitos de interesse e de gestão e controlo de riscos; e
+g) Informação sobre a política de acompanhamento das entidades participadas.
+Artigo 14.º
+Informação aos investidores
+1 - As entidades gestoras de fundos de capital de risco previstas no n.º 2 do artigo 17.º do Regime Jurídico e as sociedades de capital de risco prestam de forma clara e compreensível aos respetivos investidores, antes de estes tomarem decisões de investimento, a informação prevista no artigo 13.º do Regulamento (UE) n.º 345/2013, com as necessárias adaptações.
+2 - As entidades gestoras de fundos de empreendedorismo social previstas no n.º 5 do artigo 4.º do Regime Jurídico e as sociedades de empreendedorismo social prestam de forma clara e compreensível aos respetivos investidores, antes de estes tomarem decisões de investimento, a informação prevista no artigo 14.º do Regulamento (UE) n.º 346/2013.
+3 - Além da informação prevista no n.º 3 do artigo 5.º do Regime Jurídico, as entidades responsáveis pela gestão de organismos de investimento alternativo especializado disponibilizam aos investidores, de acordo com os respetivos documentos constitutivos e antes de efetuado o investimento nesses organismos, informação quanto aos riscos inerentes aos ativos em que os organismos investem.
+4 - Nos OIAE de créditos a informação prévia aos investidores, prestada nos termos do artigo 221.º do Regime Geral dos Organismos de Investimento Coletivo, inclui menção sobre os riscos decorrentes do investimento em créditos e sobre a natureza não garantida do investimento num OIAE de créditos, bem como à possibilidade de iliquidez e perdas no investimento.
+Artigo 15.º
+Deveres de informação
+1 - As entidades gestoras de fundos de capital de risco, em relação a cada fundo de capital de risco, as sociedades de capital de risco e as sociedades de investimento em capital de risco, enviam semestralmente à CMVM, até ao final do segundo mês subsequente a cada semestre, os seguintes ficheiros:
+a) Carteira;
+b) Capital, desempenho e comissões;
+c) Participantes;
+d) Aquisição e alienação de ativos;
+e) Contas, com informação relativa ao balanço e demonstração de resultados.
+2 - As entidades gestoras de fundos de empreendedorismo social, as sociedades de empreendedorismo social, as entidades gestoras de fundos de investimento alternativo especializado e as sociedades de investimento alternativo especializado enviam anualmente à CMVM a informação prevista no número anterior, até ao final do segundo mês subsequente ao final do ano.
+3 - As referidas no n.º 2 do artigo 17.º do Regime Jurídico que não sejam sociedades de capital de risco prestam anualmente à CMVM as informações constantes do artigo 13.º do Regime Jurídico nos termos ali previstos.
+Artigo 16.º
+Relatório e contas
+As entidades gestoras de fundos de capital de risco, de fundos de empreendedorismo social e de fundos de investimento alternativo especializado, em relação a cada fundo que gerem, as sociedades de capital de risco, as sociedades de investimento em capital de risco, as sociedades de empreendedorismo social e as sociedades de investimento alternativo especializado, e os investidores em capital de risco, enviam à CMVM, no prazo máximo de 30 dias a contar da realização da assembleia anual, respetivamente, dos participantes ou dos acionistas, os seguintes documentos, se aplicáveis:
+a) Relatório de gestão;
+b) Balanço, demonstração dos resultados, demonstração dos fluxos de caixa, demonstração de variações no capital próprio e anexos;
+c) Relatório de auditor registado na CMVM;
+d) Ata da assembleia anual;
+e) Demais documentos de prestação de contas exigidos por lei ou regulamento.
+Artigo 16.º-A
+Informação relativa a OIAE de créditos
+A informação anual relativa ao OIAE de créditos, prestada nos termos do n.º 2 do artigo 15.º e do artigo 16.º, inclui:
+a) A desagregação dos créditos detidos pelo OIAE de créditos em dívida preferencial garantida, dívida subordinada e dívida intercalar;
+b) A desagregação entre os créditos reembolsados de acordo com um plano de pagamentos e os créditos reembolsados numa única prestação;
+c) A desagregação do rácio entre o valor do empréstimo e o valor da garantia para cada um dos créditos detidos pelo OIAE de créditos;
+d) Informação relativa a exposições em incumprimento e a situações de renegociação, reestruturação e prorrogação de créditos;
+e) Alterações significativas à avaliação do crédito e procedimentos de monitorização.
+Artigo 17.º
+Forma de reporte da informação
+As entidades responsáveis pela gestão enviam à CMVM, através do portal extranet, nos termos definidos em Instrução da CMVM a informação prevista nos artigos 15.º e 16.º, e o regulamento de gestão atualizado, sem prejuízo do dever de comunicação das alterações a este nos termos previstos no Regime Jurídico.
+TÍTULO V
+Vicissitudes
+Artigo 18.º
+Fusão
+1 - A fusão de dois ou mais organismos de investimento em capital de risco, de fundos de empreendedorismo social e de organismos de investimento alternativo especializado, pode realizar-se:
+a) Por incorporação de um ou mais organismos, realizada mediante a transferência total do património de um ou mais organismos para o organismo incorporante, com extinção dos organismos incorporados;
+b) Por constituição de um novo organismo, para o qual se transfere a totalidade do património dos organismos objeto de fusão, com a extinção dos mesmos.
+2 - A fusão de organismos está sujeita a:
+a) Comunicação subsequente à CMVM, no prazo de 15 dias após a produção dos seus efeitos, no caso de organismos de investimento exclusivamente dirigidos a investidores qualificados;
+b) Comunicação prévia à CMVM, com uma antecedência de 30 dias face à produção dos seus efeitos, no caso dos demais organismos de investimento.
+3 - O processo de fusão é instruído e remetido à CMVM com os seguintes elementos:
+a) O projeto da fusão, devidamente aprovado em assembleias de participantes dos organismos incorporados e do organismo incorporante, contendo designadamente a seguinte informação:
+i) A modalidade, os motivos, as condições e os objetivos da fusão, relativamente a todos os organismos envolvidos;
+ii) A data prevista para a produção de efeitos da fusão;
+iii) A demonstração da compatibilidade do organismo incorporante ou do novo organismo, consoante os casos, com a respetiva política de investimento e valorização dos ativos;
+iv) O balanço de cada um dos organismos intervenientes, donde conste designadamente o valor dos elementos do ativo e do passivo a transferir para o organismo incorporante ou para o novo organismo;
+v) Os critérios adotados na avaliação dos ativos e passivos e justos valores utilizados;
+vi) A demonstração da relação de troca das unidades de participação ou das ações;
+vii) Os critérios de atribuição das unidades de participação ou de ações aos participantes do organismo que resultar da fusão;
+viii) Os direitos assegurados pelo organismo incorporante ou pelo novo organismo aos participantes do organismo incorporado que possuam direitos especiais;
+ix) A data a partir da qual as operações dos organismos são consideradas, do ponto de vista contabilístico, como efetuadas por conta do organismo incorporante ou do novo organismo;
+x) A versão atualizada do regulamento de gestão ou do regulamento interno do organismo incorporante;
+xi) Parecer dos revisores oficiais de contas dos organismos envolvidos na fusão;
+xii) Relatório de auditor independente registado na CMVM sobre o projeto de fusão, designadamente sobre as matérias enunciadas nas alíneas v), vi) e vii).
+b) As declarações de concordância de cada um dos depositários envolvidos na fusão;
+c) A aprovação da fusão pelas assembleias de participantes dos organismos envolvidos na fusão, nos casos das operações referidas na alínea a) do n.º 2;
+d) Os elementos necessários à constituição do novo organismo, no caso previsto na alínea b) do n.º 1, nomeadamente os documentos constitutivos;
+e) A data de produção de efeitos, nos casos das operações referidas na alínea a) do n.º 2.
+4 - O balanço referido na subalínea iv) da alínea a) do número anterior pode ser:
+a) O balanço do último exercício, desde que tenha sido encerrado nos seis meses anteriores à data do projeto de fusão;
+b) Um balanço reportado a uma data que não anteceda o trimestre anterior à data do projeto de fusão.
+5 - A fusão produz efeitos na data da subscrição das unidades de participação ou das ações do organismo incorporante, sendo igualmente essa a data relevante para o cálculo dos termos de troca das unidades de participação ou das ações do organismo incorporado por unidades de participação ou por ações do organismo incorporante e, se aplicável, para a determinação do valor patrimonial líquido para os pagamentos em dinheiro.
+6 - Os participantes que votarem contra a operação de fusão podem solicitar o reembolso das unidades de participação ou das ações, podendo este direito ser exercido até cinco dias úteis antes da data da produção dos efeitos da fusão.
+Artigo 19.º
+Cisão
+É aplicável à cisão de organismos de investimento em capital de risco, de fundos de empreendedorismo social e de organismos de investimento alternativo especializado, com as necessárias adaptações, o disposto relativamente à fusão.
+TÍTULO VI
+Disposições finais
+Artigo 20.º
+Entrada em vigor
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação.
+15 de outubro de 2015. - O Presidente do Conselho de Administração, Carlos Tavares. - O Vogal do Conselho de Administração, Carlos Alves.
+ANEXO I
+Informação instrutória relativa ao pedido de autorização de Sociedade Gestora de Fundos de Capital de Risco e Sociedade de Investimento em Capital de Risco
+(informação prevista no artigo 1.º-A)
+O programa de atividades inclui os seguintes elementos:
+a) Informação financeira previsional relativa aos três primeiros anos de atividade, agregada e discriminada por área geográfica e por cada atividade para que se pretende obter autorização;
+b) Pressupostos da informação financeira previsional, bem como a explicação detalhada dos dados e números apresentados;
+c) Relativamente à estrutura organizacional:
+(i) Organograma e respetiva descrição organizacional, em particular os sistemas de governação e de controlo interno, os procedimentos de tomada de decisão, os níveis hierárquicos, as linhas de responsabilidade e os canais de relato e de comunicação interna e externa;
+(ii) Funções de cada departamento, serviço ou área funcional e o respetivo número de recursos humanos medidos pela disponibilidade;
+(iii) Sistemas, políticas e procedimentos adotados para cumprir os requisitos de controlo interno, gestão de riscos e auditoria interna;
+(iv) Políticas e procedimentos adotados para cumprir os requisitos relativos à identificação, prevenção, gestão e acompanhamento da ocorrência de conflitos de interesses;
+(v) Modelo de risco e políticas e procedimentos adotados para cumprir os requisitos relativos à prevenção da prática do branqueamento de capitais e do financiamento ao terrorismo;
+(vi) Políticas e procedimentos adotados para cumprir os requisitos relativos à avaliação de ativos.
+d) Relativamente à informação sobre meios humanos, técnicos e materiais:
+(i) Nome completo dos titulares dos órgãos sociais e informação sobre a distribuição de pelouros, a exclusividade, a disponibilidade e a discriminação entre membros executivos e não executivos e entre residentes e não residentes em Portugal;
+(ii) Nome completo sobre as pessoas responsáveis pela gestão do investimento, controlo interno, gestão de riscos, auditoria interna, prevenção de branqueamento de capitais e financiamento ao terrorismo, avaliação independente de ativos, e informação, para cada uma delas, sobre a exclusividade, a disponibilidade e informação que permita demonstrar a sua experiência, qualificação e competência para o desempenho da função;
+(iii) Identificação das aplicações informáticas utilizadas no exercício da atividade, bem como dos procedimentos de segurança da informação.
+313193364
