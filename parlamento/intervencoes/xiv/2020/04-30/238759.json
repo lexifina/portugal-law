@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7vz42dekG7SvX%2bJCoI606%2bawj%2fX5VzWets1lObKDepdveONV1z3zBA3cO9lc957K5%2f9HlKJqmHedDhhMyhl2cw4SOzV7qsNm8CFmvLpT5RkqF9HjBDt%2f%2bX0OUM0cdjJwLTwyvrlp3ZMoTcIPfZTsIPJ7MWFPt2X%2bh0DQWsRjX6GyToHZHEfJiay2rPW9JT8dDQem39OFpKzbLyK%2b8DJ08rsf17Fviv%2fFFPxcpMyDb5w1tqdx45uTH13%2bLlwBj4kkTVZgL8HxkUlx96u3wzpvXKLMn7R8Tg9xl9SNSUxzXHSzTSYcy2rAL7Kr%2fWg%2fgF7nS%2fbFNRkzS6x92aIVDj1xOsuRFXDbkBrM5JpdPMk4cxk%3d&fich=IntervencoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "ac2343fce06e15e6ec675fd3460ca65b42c7cb3b7c35721a49abc1fc32427acb",
+  "legislatura": "XIV",
+  "id": "238759",
+  "tipo": "Intervenção",
+  "orador": "João Cotrim de Figueiredo (IL)",
+  "data_registo": "2020-04-30",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "360746",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "44765",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Promove e garante a capacidade de resposta das autarquias locais no âmbito da pandemia da doença COVID-19"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Discussão, na generalidade, da Proposta de Lei n.º 27/XIV/1.ª (GOV) — Promove e garante a capacidade de resposta das autarquias locais no âmbito da pandemia da doença COVID-19.",
+        "duracao": "00:01:28:119",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2020_04_30_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m04/&tI=01:42:53:819&drc=00:01:28:119"
+      }
+    ],
+    "DataReuniaoPlenaria": "2020-04-30",
+    "Debate": null,
+    "Deputados": {
+      "GP": "IL",
+      "idCadastro": "6550",
+      "nome": "João Cotrim de Figueiredo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "238759",
+    "IdDebate": "14537",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "44765",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "238759",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "25-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-02",
+        "pubLeg": "XIV",
+        "pubNr": "49",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/049/2020-05-02/25?pgs=25&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Promove e garante a capacidade de resposta das autarquias locais no âmbito da pandemia da doença COVID-19",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
