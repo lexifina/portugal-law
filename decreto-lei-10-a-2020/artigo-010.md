@@ -7,3 +7,5 @@
 2 - As instituições da área da deficiência, com resposta de Centro de Atividades Ocupacionais, sem prejuízo da suspensão das atividades dos mesmos, devem garantir apoio aos responsáveis pelos seus utentes que sejam trabalhadores de serviços considerados essenciais, nos termos identificados no número anterior.
 
 3 - Os trabalhadores das atividades enunciadas no n.º 1 são mobilizados pela entidade empregadora ou pela autoridade pública.
+
+4 - São serviços essenciais, para efeitos do disposto no n.º 1, os definidos em portaria do membro do Governo responsável pela Presidência do Conselho de Ministros.
