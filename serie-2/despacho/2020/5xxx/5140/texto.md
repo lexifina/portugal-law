@@ -1,0 +1,17 @@
+Despacho n.º 5140/2020
+Sumário: Altera o Regulamento do StartUP Voucher, aprovado pelo Despacho n.º 6619-A/2018, publicado no Diário da República, 2.ª série, n.º 128, 1.º suplemento, de 5 de julho de 2018, para os projetos aprovados na primeira cut-off do StartUP Voucher (2019-2020).
+A Organização Mundial de Saúde, no passado dia 11 de março de 2020, qualificou a situação atual de emergência de saúde pública ocasionada pela doença COVID-19 como uma pandemia internacional, constituindo uma calamidade pública.
+Em resultado, no dia 18 de março de 2020, foi decretado o estado de emergência em Portugal, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, renovado posteriormente através do Decreto do Presidente da República n.º 17-A/2020, de 2 de abril.
+A situação excecional em que se vive exige a aplicação de medidas extraordinárias. Nesse sentido, têm vindo a ser estabelecidas medidas excecionais e temporárias por parte do Governo, da Comissão Europeia e de organizações internacionais, destinadas a reforçar o apoio financeiro às famílias, às empresas e aos trabalhadores, que, por força da pandemia do coronavírus, sofreram uma quebra e perda de rendimentos significativa.
+Tendo em conta a necessidade de medidas ativas de emprego e de outras medidas não formativas, bem como o interesse para a economia nacional em criar condições que promovam o eficaz desenvolvimento de ideias inovadoras, visando o lançamento de novas startups, importa adaptar o StartUP Voucher, enquanto medida que pretende promover o desenvolvimento, por parte dos jovens, de novos projetos de empreendedorismo inovador, à atual situação de calamidade em que vivemos.
+Assim, ao abrigo das competências que me foram delegadas pelo n.º 12 do Despacho n.º 12483/2019, do Ministro de Estado, da Economia e da Transição Digital, publicado no Diário da República, 2.ª série, n.º 251, de 31 de dezembro de 2019, determino o seguinte:
+1 - É alterado o Regulamento do StartUP Voucher, aprovado por Despacho n.º 6619-A/2018, publicado no Diário da República, 2.ª série, n.º 128, 1.º suplemento, de 5 de julho de 2018, para os projetos aprovados na primeira cut-off do StartUP Voucher (2019-2020), nos termos a seguir descritos:
+a) O prazo de duração máxima do StartUP Voucher previsto no n.º 1 do artigo 3.º é alargado para 15 meses;
+b) O prazo máximo de atribuição da bolsa do StartUP Voucher estabelecido no n.º 1 do artigo 5.º é alargado para 15 meses;
+c) O prémio de concretização a que se refere o n.º 1 do artigo 9.º é pago após a constituição da empresa, considerando-se que essa constituição pode ocorrer após os primeiros 6 meses de participação no programa e até 6 meses após os 15 meses de duração máxima do StartUP Voucher, fixados nos termos da alínea anterior;
+d) O período de 4 meses estabelecido no n.º 2 do artigo 12.º para apoiar a 1.ª fase do desenvolvimento do projeto empresarial é prorrogado por mais 3 meses;
+e) Em resultado do disposto na alínea anterior, a avaliação intercalar da 1.ª fase do projeto, a que se refere o n.º 3 do artigo 12.º é realizada no fim do 7.º mês;
+f) Nos termos do n.º 6 do artigo 12.º, a avaliação intercalar, a realizar no fim da 2.ª fase do projeto, ocorre decorridos 11 meses.
+2 - O presente despacho entra em vigor na data da sua publicação.
+24 de abril de 2020. - O Secretário de Estado para a Transição Digital, André Eduardo de Aragão Gonçalves de Azevedo.
+313206372
