@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7vz42dekG7SvX%2bJCoI606%2bawj%2fX5VzWets1lObKDepdveONV1z3zBA3cO9lc957K5%2f9HlKJqmHedDhhMyhl2cw4SOzV7qsNm8CFmvLpT5RkqF9HjBDt%2f%2bX0OUM0cdjJwLTwyvrlp3ZMoTcIPfZTsIPJ7MWFPt2X%2bh0DQWsRjX6GyToHZHEfJiay2rPW9JT8dDQem39OFpKzbLyK%2b8DJ08rsf17Fviv%2fFFPxcpMyDb5w1tqdx45uTH13%2bLlwBj4kkTVZgL8HxkUlx96u3wzpvXKLMn7R8Tg9xl9SNSUxzXHSzTSYcy2rAL7Kr%2fWg%2fgF7nS%2fbFNRkzS6x92aIVDj1xOsuRFXDbkBrM5JpdPMk4cxk%3d&fich=IntervencoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "ac2343fce06e15e6ec675fd3460ca65b42c7cb3b7c35721a49abc1fc32427acb",
+  "legislatura": "XIV",
+  "id": "238889",
+  "tipo": "Intervenção",
+  "orador": "António Costa (Primeiro-Ministro)",
+  "data_registo": "2020-05-07",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "114783",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "114783",
+        "tipo": "DEB",
+        "titulo": "Debate com o Primeiro-Ministro - Sobre \"Questões Políticas de Saúde, Económicas e Sociais e COVID-19\""
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Debate quinzenal com o Primeiro-Ministro (António Costa), ao abrigo da alínea b) do n.º 2 do artigo 224.º do Regimento. Responde a André Ventura.",
+        "duracao": "00:00:18:726",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2020_05_07_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=01:44:25:033&drc=00:00:18:726"
+      }
+    ],
+    "DataReuniaoPlenaria": "2020-05-07",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "238889",
+    "IdDebate": "5539",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIV",
+    "MembrosGoverno": {
+      "cargo": "Primeiro-Ministro",
+      "governo": "XXII GOVERNO CONSTITUCIONAL",
+      "nome": "António Costa"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "238889",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "28-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-08",
+        "pubLeg": "XIV",
+        "pubNr": "51",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/051/2020-05-08/28?pgs=28&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde a perguntas do Deputado André Ventura (CH)",
+    "Sessao": "1",
+    "Sumario": "Sobre \"Questões Políticas de Saúde, Económicas e Sociais e COVID-19\"",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
