@@ -1,0 +1,21 @@
+# Resolução n.º 278/2020
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 87/2020, suplemento, de 2020-05-08
+
+**Sumário:** Revoga a Resolução n.º 195/2020, de 14 de abril, e, nessa sequência, comunicar à Assembleia Legislativa da Madeira a desistência do Governo Regional da iniciativa legislativa relativa à proposta de Decreto Legislativo Regional que “adapta e regulamenta na Região Autónoma da Madeira as medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2, previstas no Decreto-Lei n.º 10-A/2020, de 13 de março, retificado pela Declaração de Retificação n.º 11-B/2020, de 16 de março, ratificado pela Lei n.º 1-A/2020, de 19 de março, na redação que lhe foi conferida pela Lei n.º 4-A/2020, de 6 de abril, alterado pelo Decreto-Lei n.º 10-E/2020, de 24 de março e pelo Decreto-Lei n.º 12-A/2020, de 6 de abril”.
+
+## Texto
+
+Resolução n.º 278/2020
+Considerando que, através da Resolução n.º 195/2020, de 14 de abril, o Governo Regional aprovou uma proposta de Decreto Legislativo Regional que adapta à Região Autónoma da Madeira o Decreto-Lei n.º 10-A/2020, de 13 de março, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus COVID 19;
+Considerando que, após tal aprovação e sua submissão à Assembleia Legislativa da Madeira, surgiram novas e relevantes alterações legislativas, quer de alteração ao DL 10-A/2020, de 13 de março, quer medidas inovatórias como sejam a Lei n.º 9-A/2020, de 17 de abril, que estabelece um regime excecional e temporário de processo orçamental atendendo à situação económica e financeira decorrente da situação epidemiológica provocada pelo coronavírus, e o Decreto-Lei n.º 19-A/2020, de 30 de abril, que estabelece um regime excecional e temporário de reequilíbrio
+
+financeiro de contratos de execução duradoura, no âmbito da pandemia da doença COVID-19, alterações essas que justificavam a revisão da proposta anteriormente aprovada em Conselho de Governo;
+Considerando que, por questões formais e regimentais, o Governo Regional não pode propor alterações a iniciativas suas cujo processo legislativo esteja já em curso na Assembleia Legislativa da Madeira;
+Considerando ainda que por questões de técnica legislativa e melhor apreensão do regime a aprovar, não faria sentido ter duas iniciativas legislativas a versar sobre matéria semelhante, que desembocariam em dois Decretos Legislativos Regionais quase consecutivos, sendo mais adequada a sistematização e concatenação, num único diploma legislativo, de todos as medidas relativas à pandemia COVID-19 que regulem as especificidades regionais que se pretende acautelar;
+O Conselho do Governo reunido em plenário em 8 de maio de 2020, resolve:
+1 - Revogar a Resolução n.º 195/2020, de 14 de abril, e, nessa sequência, comunicar à Assembleia Legislativa da Madeira a desistência do Governo Regional da iniciativa legislativa relativa à proposta de Decreto Legislativo Regional que “adapta e regulamenta na Região Autónoma da Madeira as medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2, previstas no Decreto-Lei n.º 10-A/2020, de 13 de março, retificado pela Declaração de Retificação n.º 11-B/2020, de 16 de março, ratificado pela Lei n.º 1-A/2020, de 19 de março, na redação que lhe foi conferida pela Lei n.º 4-A/2020, de 6 de abril, alterado pelo Decreto-Lei n.º 10-E/2020, de 24 de março e pelo Decreto-Lei n.º 12-A/2020, de 6 de abril”.
+2 - Aprovar a proposta de Decreto Legislativo Regional que aplica na Região Autónoma da Madeira o Decreto-Lei n.º 19-A/2020, de 30 de abril, que estabelece um regime excecional e temporário de reequilíbrio financeiro de contratos de execução duradoura, no âmbito da pandemia da doença COVID-19, adapta e regulamenta na Região Autónoma da Madeira as medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2, previstas no Decreto-Lei n.º 10-A/2020, de 13 de março, e ainda a Lei n.º 9-A/2020, de 17 de abril, que estabelece um regime excecional e temporário de processo orçamental, e submetê-la à aprovação da Assembleia Legislativa da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
