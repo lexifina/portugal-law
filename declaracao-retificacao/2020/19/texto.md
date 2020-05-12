@@ -1,0 +1,13 @@
+Declaração de Retificação n.º 19/2020
+Sumário: Retifica a Portaria n.º 100/2020, de 22 de abril, da Justiça, que procede à primeira alteração à Portaria n.º 341/2019, de 1 de outubro, e à terceira alteração à Portaria n.º 380/2017, de 19 de dezembro, publicada no Diário da República, 1.ª série, n.º 79, de 22 de abril de 2020.
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se que a Portaria n.º 100/2020, publicada no Diário da República, 1.ª série, n.º 79, de 22 de abril de 2020, saiu com as seguintes inexatidões, que, mediante declaração da entidade emitente, assim se retificam:
+1 - No sumário, onde se lê:
+«Procede à primeira alteração à Portaria n.º 341/2019, de 1 de outubro, e à quarta alteração à Portaria n.º 380/2017, de 19 de dezembro»
+deve ler-se:
+«Procede à primeira alteração à Portaria n.º 341/2019, de 1 de outubro, e à terceira alteração à Portaria n.º 380/2017, de 19 de dezembro»
+2 - No artigo 1.º, onde se lê:
+«A presente portaria procede à primeira alteração à Portaria n.º 341/2019, de 1 de outubro, que regulamenta os modelos a que devem obedecer os articulados no âmbito dos processos de contencioso dos procedimentos de massa, previstos no n.º 3 do artigo 99.º do Código de Processo nos Tribunais Administrativos, bem como os formulários de articulados suscetíveis de determinar a redução da taxa de justiça aplicável aos processos administrativos, previstos no n.º 9 do artigo 6.º do Regulamento das Custas Processuais e à quarta alteração à Portaria n.º 380/2017, de 19 de dezembro, que regula a tramitação eletrónica dos processos nos tribunais administrativos de círculo, nos tribunais tributários, nos tribunais centrais administrativos e no Supremo Tribunal Administrativo.»
+deve ler-se:
+«A presente portaria procede à primeira alteração à Portaria n.º 341/2019, de 1 de outubro, que regulamenta os modelos a que devem obedecer os articulados no âmbito dos processos de contencioso dos procedimentos de massa, previstos no n.º 3 do artigo 99.º do Código de Processo nos Tribunais Administrativos, bem como os formulários de articulados suscetíveis de determinar a redução da taxa de justiça aplicável aos processos administrativos, previstos no n.º 9 do artigo 6.º do Regulamento das Custas Processuais, e à terceira alteração à Portaria n.º 380/2017, de 19 de dezembro, que regula a tramitação eletrónica dos processos nos tribunais administrativos de círculo, nos tribunais tributários, nos tribunais centrais administrativos e no Supremo Tribunal Administrativo.»
+Secretaria-Geral, 4 de maio de 2020. - A Secretária-Geral Adjunta, Catarina Maria Romão Gonçalves.
+113222264
