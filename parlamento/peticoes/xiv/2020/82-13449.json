@@ -1,0 +1,694 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13449",
+  "numero": "82",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-05-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-06-09",
+            "entidades": null,
+            "id": "115006",
+            "tipo": null,
+            "titulo": "Audição em 2020-06-09 com FENPROF"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "145/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": "2020-06-22",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "146/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "147/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": "2020-07-03",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "148/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "149/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "150/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "151/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "FNAEBS - Federação Nacional de Associações de Estudantes do Básico e Secundário"
+            ],
+            "nrOficio": "152/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação"
+            ],
+            "nrOficio": "143/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-16",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "143/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-06-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-06-02",
+        "DataArquivo": "2020-07-03",
+        "DataBaixaComissao": "2020-05-13",
+        "DataEnvioPAR": "2020-07-06",
+        "DataReaberta": "2020-06-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-06-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938354d5755775a5441794d6930314e57497a4c545177597a6b744f5759325a4330774e446b334d6d45344e446c6b4d4449756347526d&fich=91e0e022-55b3-40c9-9f6d-04972a849d02.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4e474e6b4f4449324d533035596a526b4c54526d4f546374595463354d79316c596d59344d3256684d32566d4e7a63756347526d&fich=34cd8261-9b4d-4f97-a793-ebf83ea3ef77.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344e7a63355a6a55315a53316a4f575a684c5451304d474d74595456684e7931684e4467784f444d324d4759324f5463756347526d&fich=8779f55e-c9fa-440c-a5a7-a4818360f697.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794d475a69597a426b5a693031597a4d784c5452695a6a51744f444d354d79316b5a54466c4f44466d4e5455794d7a45756347526d&fich=20fbc0df-5c31-4bf4-8393-de1e81f55231.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694f445131597a6b345a53316b4f47526d4c545269595463744f5759324f5331685957526a4e7a59785a44686b5a6d4d756347526d&fich=b845c98e-d8df-4ba7-9f69-aadc761d8dfc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938354e5759794d546b354f5330774e4759794c5451334e3255744f54466b4d43316b4e5463794e444d335a6a6c6c4d3249756347526d&fich=95f21999-04f2-477e-91d0-d572437f9e3b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694d6a4d774e4467774d5330324d574d334c54526959545974596a517a4d6930774d4449304d7a526b4f5752684e7a45756347526d&fich=b2304801-61c7-4ba6-b432-002434d9da71.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4e474d784d7a55774e4330334e4451334c54526d4d546b744f54426b4e7930324d5456684e5445774e6a5a6c4e5449756347526d&fich=34c13504-7447-4f19-90d7-615a51066e52.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4f446b304e47466c4e4330324d6d49334c5451335a6d45744f54597a5969316b4d324d344f546731596a4a6d4e574d756347526d&fich=f8944ae4-62b7-47fa-963b-d3c8985b2f5c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4f47526d4d44686b5a5330335a545a684c5451314d6d4974596d526b4d53316b5a445a684d6a6c685a574530595455756347526d&fich=e8df08de-7e6a-452b-bdd1-dd6a29aea4a5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4e4441344f5445334f4330795a6d466d4c54517a4d4745744f4451355979307a4f4442694d57597a4e6a63334d6a6b756347526d&fich=e4089178-2faf-430a-849c-380b1f367729.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4f57566c5a6d5578596931684e546b774c5451324f475974596a51774d43316b4d44426d4e44466d5a54426b4d4455756347526d&fich=f9eefe1b-a590-468f-b400-d00f41fe0d05.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4d57466a4e4759794f4330794f44417a4c5451304d5755744f4467785a6930314d474e6c597a566b4d4751784f546b756347526d&fich=31ac4f28-2803-441e-881f-50cec5d0d199.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-06-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794d5463324e4442695a53307759574d324c5451334f474d744f5759774f5330775a57517959324d30597a5978596a45756347526d&fich=217640be-0ac6-478c-9f09-0ed2cc4c61b1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4f5749785a546b305a693077597a63774c5451774d4449744f4463305a53316d5a4751794e4451354e32566d4d444d756347526d&fich=39b1e94f-0c70-4002-874e-fdd24497ef03.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324f475577596a49785969316b4f4451344c54526b4e6a45744f4467784d69316c4d5449314d6d45784d545530595755756347526d&fich=68e0b21b-d848-4d61-8812-e1252a1154ae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-06-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a59324e694f5752694d69316b4d324e6b4c5451334f544d744f4452684d7930785957526a4f5463324e7a63334e3249756347526d&fich=cccb9db2-d3cd-4793-84a3-1adc9767777b.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-06-02",
+            "gp": "PSD",
+            "id": "7007",
+            "motivoCessacao": null,
+            "nome": "Carla Madureira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-12-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-05-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a55795a6d49795a5445784c54517a595745744e4759775a4330355a4759344c546b334f546b315957526b4d47526a597935775a47593d&fich=52fb2e11-43aa-4f0d-9df8-97995add0dcc.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45274",
+      "45274"
+    ],
+    "Iniciativasoriginadas": [
+      "45274"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242112",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura de estabelecimentos de educação e ensino deverá ser precedida da realização de testes; Pela disponibilização de testes COVID-19 gratuitos a professores, trabalhadores não-docentes e alunos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura de estabelecimentos de educação e ensino deverá ser precedida da realização de testes; Pela disponibilização de testes COVID-19 gratuitos a professores, trabalhadores não-docentes e alunos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/53?pgs=53-55&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura de estabelecimentos de educação e ensino deverá ser precedida da realização de testes; Pela disponibilização de testes COVID-19 gratuitos a professores, trabalhadores não-docentes e alunos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242115",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura de estabelecimentos de educação e ensino deverá ser precedida da realização de testes; Pela disponibilização de testes COVID-19 gratuitos a professores, trabalhadores não-docentes e alunos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242116",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura de estabelecimentos de educação e ensino deverá ser precedida da realização de testes; Pela disponibilização de testes COVID-19 gratuitos a professores, trabalhadores não-docentes e alunos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura de estabelecimentos de educação e ensino deverá ser precedida da realização de testes; Pela disponibilização de testes COVID-19 gratuitos a professores, trabalhadores não-docentes e alunos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242118",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Reabertura de estabelecimentos de educação e ensino deverá ser precedida da realização de testes; Pela disponibilização de testes COVID-19 gratuitos a professores, trabalhadores não-docentes e alunos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13449",
+    "PetAssunto": "Reabertura de estabelecimentos de educação e ensino deverá ser precedida da realização de testes",
+    "PetDataEntrada": "2020-05-12",
+    "PeticoesAssociadas": null,
+    "PetId": "13449",
+    "PetLeg": "XIV",
+    "PetNr": "82",
+    "PetNrAssinaturas": "4496",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "5985",
+        "obs": null,
+        "pag": [
+          "52-58"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-12-17",
+        "pubLeg": "XIV",
+        "pubNr": "30",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/52?pgs=52-58&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
