@@ -1,0 +1,551 @@
+# Decisão sumária do Tribunal Constitucional n.º 290/2020, de 2020-05-14
+
+**Decisão sumária:** 290/20
+
+**Processo:** 101/20
+
+**Formação:** 3ª
+
+**Data:** 14.05.20
+
+**Relator:** Cons. Maria José Rangel de Mesquita
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/decsumarias/20200290.html
+
+## Texto integral
+
+DECISÃO SUMÁRIA N.º 290/20
+
+Processo n.º 101/20
+
+3.ª Secção
+
+Relatora: Conselheira Maria José Rangel de Mesquita
+
+I – Relatório
+
+1. Nos presentes autos, vindos do Tribunal Administrativo e Fiscal de Penafiel (TAF de Penafiel), em que é recorrente o Ministério Público e recorrido A., foi pelo primeiro interposto recurso, ao abrigo do artigo 70.º, n.º 1, alínea a), da Lei n.º 28/82, de 15 de novembro, na sua atual versão (Lei do Tribunal Constitucional, adiante designada pela sigla LTC), da sentença proferida por aquele TAF em 29 de novembro de 2019 que, julgando a ação parcialmente procedente, sustentou a jurisprudência deste Tribunal exarada no Acórdão n.º 328/2018 e outros e recusou a aplicação da norma do n.º 8 do artigo 2.º do Novo Regime do Fundo de Garantia Salarial aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril «na redação vigente à data da prática do ato impugnado, quando interpretada no sentido de que a mesma estabelece um prazo de caducidade para requerer o pagamento dos créditos laborais ao FGS, insuscetível de qualquer suspensão ou interrupção», e, em consequência, além do mais, condenou o Réu Fundo de Garantia Salarial a pagar a quantia de € 3,864,00 (três mil oitocentos e sessenta e quatro euros) ao Autor, ora recorrido (cf. decisão recorrida, n.º 3 - Motivação, Fundamentação de Direito e Decisão).
+
+2. Assim decidiu o TAF de Penafiel no caso dos presentes autos (cf. sentença de 29/11/2019, fls. 52 a 63, 3. Motivação, Fundamentação de Direito e Decisão):
+
+«3 - Motivação
+
+(…)
+
+Fundamentação de Direito
+
+Surge a presente ação administrativa em decorrência do despacho proferido pelo Sr. Presidente do conselho de gestão do FGS, mediante o qual foi indeferido o requerimento apresentado pelo autor para pagamento de créditos emergentes de contrato de trabalho, sua cessação ou violação.
+
+Conforme decorre das informações em que o despacho impugnado encontrou amparo, a decisão teve como base a circunstância de o requerimento ter sido considerado intempestivo, porque apresentado mais de um ano após a cessação do contrato de trabalho pelo autor.
+
+Ora, porquanto estamos perante um ato de conteúdo negativo, i.e., de indeferimento, cumpre atentar no que se estabelece no art.º 66.°, n.° 2, do CPTA, de acordo com o qual ainda que a prática do ato devido tenha sido expressamente recusada, o ohjeto do processo é a pretensão do interessado e não o ato de indeferimento, cuja eliminação da ordem jurídica resulta diretamente da pronúncia condenatória. Disposição que encontra confirmação no estatuído no art.º 71.°, n.° 1, do mesmo CPTA, e que encontra aplicação in casu, dado que o autor pretende o pagamento/deferimento da quantia aposta no requerimento.
+
+Aqui chegados, comecemos por expor, em breves traços, o regime jurídico aplicável.
+
+·
+
+No art.º 336.° do Código do Trabalho estabelece-se que "o pagamento de créditos de trabalhador emergentes de contrato de trabalho, ou da sua violação ou cessação, que não possam ser pagos pelo empregador por motivo de insolvência ou de situação económica difícil, é assegurado pelo Fundo de Garantia Salarial, nos termos previstos em legislação específica".
+
+O Decreto-Lei n.° 59/2015, de 21.04, conferindo sentido àquela disposição, aprovou o novo regime do FGS, que se encontra publicado em anexo [e que doravante designaremos apenas por RFGS ou regime do FGS]. No âmbito da presente querela não vem sequer questionado que este é o regime aplicável.
+
+Pois bem, de acordo com o art.º 1.º daquele regime:
+
+"1-O Fundo de Garantia Salarial, abreviadamente designado por Fundo, assegura o pagamento ao trabalhador de créditos emergentes do contrato de trabalho ou da sua violação ou cessação, desde que seja:
+
+Proferida sentença de declaração de insolvência do empregador;
+
+Proferido despacho do juiz que designa o administrador judicial provisório, em caso de processo especial de revitalização;
+
+Proferido despacho de aceitação do requerimento proferido pelo IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), no âmbito do procedimento extrajudicial de recuperação de empresas."
+
+Mas ainda que se registe alguma destas situações, não é todo e qualquer crédito cujo pagamento é assegurado pelo FGS. Apenas ficam salvaguardados pela intervenção do FGS os créditos que preencham os requisitos consagrados no art.º 2.° do RFGS, que rege do seguinte modo:
+
+"1 - Os créditos referidos no n.º 1 do artigo anterior abrangem os créditos do trabalhador emergentes do contrato de trabalho ou da sua violação ou cessação.
+
+2 - Aos créditos devidos ao trabalhador referidos no número anterior deduzem-se;
+
+a) Os montantes de quotizações para a segurança social, da responsabilidade do trabalhador;
+
+b) Os valores devidos pelo trabalhador correspondentes à retenção na fonte do imposto sobre o rendimento.
+
+3 - O Fundo entrega às entidades competentes as importâncias referidas no número anterior.
+
+4 - O Fundo assegura o pagamento dos créditos previstos no n.° 1 que se tenham vencido nos seis meses anteriores à propositura da ação de insolvência ou à apresentação do requerimento no processo especial de revitalização ou do requerimento de utilização do procedimento extrajudicial de recuperação de empresas.
+
+5 - Caso não existam créditos vencidos no período de referência mencionado no número anterior ou o seu montante seja inferior ao limite máximo definido no n.° 1 do artigo seguinte, o Fundo assegura o pagamento, até este limite, de créditos vencidos após o referido período de referência.
+
+(...)
+
+8 - O Fundo só assegura o pagamento dos créditos quando o pagamento lhe seja requerido até um ano a partir do dia seguinte àquele em que cessou o contrato de trabalho."
+
+Por último, cumpre assinalar que a intervenção do FGS está limitada quantitativamente, como resulta do art.º 3.° do RFGS:
+
+"1-O Fundo assegura o pagamento de créditos emergentes do contrato de trabalho, referidos no n.° 1 do artigo anterior, com o limite máximo global equivalente a seis meses de retribuição, e com o limite máximo mensal correspondente ao triplo da retribuição mínima mensal garantida.
+
+2 - Quando o trabalhador seja titular de créditos correspondentes a prestações diversas, o pagamento é prioritariamente imputado à retribuição base e diuturnidades."
+
+De acordo com o regime jurídico exposto, pode então dizer-se que são pressupostos materiais para a intervenção do FGS que:
+
+i) O empregador tenha sido judicialmente declarado insolvente, ou haja sido proferido despacho de nomeação de administrador judicial provisório no âmbito do PER, ou ainda que tenha sido proferido despacho de aceitação pelo IAPMEI, no âmbito do procedimento extrajudicial de recuperação de empresas;
+
+ii) Os créditos pedidos tenham natureza laboral, tendo como fonte o contrato de trabalho, sua cessação ou violação;
+
+iii) Esses créditos se tenham vencido nos seis meses anteriores à propositura da ação de insolvência, ou da apresentação do requerimento do PER ou do procedimento extrajudicial de recuperação de empresas, ou apôs essas datas;
+
+iv) O requerimento tenha sido apresentado no prazo de um ano contado desde a cessação do contrato de trabalho.
+
+Ora, no caso em apreço, e partindo do que logo ab initio se disse (ou seja, que o objeto do processo é, em primeira linha, a pretensão formulada pelo autor, e não o ato de indeferimento propriamente dito) está desde logo em causa o preenchimento deste último requisito, ou seja, a tempestividade do requerimento.
+
+Vejamos.
+
+·
+
+Quanto à tempestividade do requerimento - inconstitucionalidade do art.º 2.°, n.° 8. do regime do FGS
+
+No que diz respeito ao prazo estabelecido para a apresentação do requerimento, o regime do FGS instituído em 2015 acabou por inovar em relação ao que se estabelecia no anterior regime consagrado na Lei n.° 35/2004, de 29.07. Com efeito, o art.º 319.°, n.° 3, desta Lei estabelecia que "o Fundo de Garantia Salarial só assegura o pagamento dos créditos que lhe sejam reclamados até três meses antes da respectiva prescrição".
+
+Naturalmente que este regime acabava por se revelar, em regra, mais protetor do interessado, porquanto fazia depender o prazo para apresentação do requerimento ao FGS da prescrição dos créditos laborais, e este prazo, por seu turno, está sujeito às causas de suspensão e interrupção previstas na lei. Por outro lado, acabava por se revelar perverso, dado que, e por exemplo, se o crédito se encontrasse reconhecido em título executivo só prescreveria após 20 anos, o que faria com o que o recurso ao FGS pudesse ser feito em momento temporal totalmente desfasado da respetiva causa, v. g., da declaração de insolvência ou da prolação do despacho de nomeação do administrador judicial provisório no PER.
+
+O novo regime revela-se bastante mais exigente, mas também mais seguro (pelo menos em aparência): o prazo começa a contar no dia seguinte ao da cessação do contrato, e conta-se por si só, sem ficar dependente do apuramento do momento em que os créditos laborais prescreveriam.
+
+E a verdade é que a norma do art.º 2.°, n.° 8, do regime do FGS não dá espaço a qualquer outra interpretação: é um prazo de caducidade, e não estão previstas quaisquer causas de interrupção ou suspensão. Por isso, o FGS só podia ter aplicado a lei deste modo, atento o princípio da legalidade - e foi o que fez, como se retira da leitura das informações levadas ao probatório.
+
+Esta conclusão prejudica, por outro lado, toda a argumentação expendida pelo autor na petição inicial, no sentido de alegar a demora na entrega da certidão requerida, e do próprio PER, ou ainda a necessidade de certificação - é que a Lei não prevê que qualquer um desses fatores sirva para interromper, suspender ou de qualquer forma prolongar o prazo de um ano estabelecido.
+
+Mas se o problema não está na decisão administrativa, o mesmo não poderá dizer-se da norma que sustentou esta conclusão. Aliás, em sede de alegações o autor veio levantar precisamente este problema, remetendo para a jurisprudência constitucional recente.
+
+De facto, o art.º 2.°, n.° 8, do regime do FGS afronta a CRP, como aliás foi sancionado pelo Tribunal Constitucional, o qual veio a pronunciar-se pela primeira vez sobre a conformidade constitucional desta solução legislativa, pelo acórdão n.° 328/2018 [proferido no processo n.° 555/2017, datado de 27.06.2018], concluindo nos seguintes termos:
+
+"Julgar inconstitucional a norma contida no artigo 2°, n.° 8, do Decreto-Lei n.°59/2015, de 21 de abril, na interpretação segundo a qual o prazo de um ano para requerer o pagamento dos créditos laborais, certificados com a declaração de insolvência, cominado naquele preceito legal é de caducidade e insuscetível de qualquer interrupção ou suspensão".
+
+Sublinhe-se que esta decisão não tem força obrigatória geral, mas constitui sempre um importante subsídio interpretativo, e com impacto direto na situação concreta em discussão. E diga-se que apenas se declara inconstitucional uma determinada interpretação, e não a norma propriamente dita. Por sinal, a interpretação em causa é precisamente a que o FGS faz [rectius, a única que o teor literal do preceito lhe concede] no caso concreto dos autos, ou seja, estamos perante um prazo de caducidade que não está sujeito a qualquer causa de suspensão ou interrupção.
+
+Pois bem, lendo o aresto assinalado, fica patente que o Tribunal Constitucional, baseado na análise de diversa jurisprudência do TJUE sobre o assunto (recorde-se que a institucionalização do FGS decorre de obrigações europeias, e da transposição das respetivas Diretivas), considera o FGS como um dos mecanismos especiais de garantia dos créditos laborais abrangido pelo art.º 59.°, n.° 3, da CRP:
+
+"(...) ao escolher (apesar de, nessa escolha, se encontrar vinculado pelo Direito da União) instituir o FGS como uma das garantias especiais da retribuição, o legislador está vinculado à construção de um regime que lhe assegure um mínimo de efetividade, sem a qual resultaria esvaziada de sentido a norma constitucional, com respeito pela igualdade (artigos 13° e 59°, n.° 1, da CRP). Por outro lado, tratando-se de atribuir, no apontado contexto, um direito a uma prestação pecuniária, e de limitar no tempo a efectividade desse direito pelo não exercício, tal atribuição deve operar, na compaginação destas duas vertentes, segundo regras claras, certas e objetivas - exigência decorrente do princípio do Estado de direito democrático (artigo 2° da Constituição)."
+
+Adiante, o Tribunal Constitucional acaba por concluir o seguinte:
+
+"Não estamos - deve sublinhar-se - perante a questão, sucessivamente apreciada pela jurisprudência europeia, de saber se o legislador pode fixar prazos mais ou menos alargados para o exercício do direito ao acionamento do FGS, sob pena de caducidade ou prescrição: ninguém aqui discute a existência de prazos nem o prazo em concreto estabelecido na norma referenciada na decisão.
+
+O que está em causa é saber se, na contagem desse prazo, é possível incluir um período temporal (que, como vimos, pode ser assinalável) especificamente determinado e tendente à criação de um pressuposto essencial do direito ao acionamento do FGS (o período entre o pedido de declaração da insolvência e a sua efetiva declaração pelo tribunal competente), cujos termos escapam por completo ao controlo do trabalhador-credor, de tal forma que o mero decurso do tempo nessa fase processual provoque a extinção do direito. Assim se cria uma evidente antinomia: o trabalhador- credor-de um empregador insolvente que queira ver tutelado o direito à prestação pelo FGS vê-se obrigado a pedir a declaração de insolvência e, a partir desse momento, as vicissitudes próprias do processo que fez nascer com essa finalidade, comprometem o exercício desse mesmo direito, sem que um comportamento alternativo lhe seja exigível - rectius, possa por ele ser adotado - no sentido de evitar essa preclusão.
+
+(...)
+
+Porém, não é irrelevante a pouca clareza do regime legal, espelhada na norma em causa, considerada em si mesma ou sistematicamente inserida no diploma que a contém. O elemento de incerteza deste regime (evidenciado à saciedade, nestes autos, pelas posições assumidas na decisão recorrida, nas alegações e contra-alegações de recurso e no item 2.1, supra) compromete seriamente a efetividade da tutela que corresponde ao mecanismo do FGS, apresentando-se o complexo normativo do NRFGS, ao gerar estas interpretações díspares, com uma consistência pouco definida - para não dizer insuportavelmente ambígua cuja interpretação muito dificilmente assumirá um sentido minimamente claro, gerador de segurança nos destinatários beneficiários do seu âmbito de proteção. Isto ao ponto destes não disporem, consistentemente, da possibilidade de, agindo com normal diligência, anteverem com suficiente segurança o comportamento que devem adotar para formular atempadamente a sua pretensão junto do FGS, assim se comprometendo as exigências mínimas de certeza decorrentes do princípio do Estado de direito democrático (artigo 2.° da Constituição)."
+
+Conclui assim o Tribunal Constitucional que a norma do art.º 2.°, n.° 8, do regime do FGS, se interpretada no sentido de que ali se estabelece um prazo de caducidade, não sujeito a qualquer causa de suspensão ou interrupção, afronta o princípio da efetividade. Esta interpretação, afastada pelo Tribunal Constitucional, é a que o FGS assumiu na apreciação do requerimento do autor, e que mantém em contestação.
+
+Diga-se que entretanto o mesmo Tribunal já se pronunciou em sentido semelhante noutros processos, nomeadamente nos acórdãos n.° 270/2019, 251/2019 ou 583/2018. Não tardará, por isso, a declaração de inconstitucionalidade com força obrigatória geral, até porque muitas outras decisões sumárias têm sido adotadas em idêntico sentido.
+
+De facto, o legislador não previu qualquer meio de defesa dos trabalhadores no sentido de acautelar a efetividade do seu direito, deixando-os totalmente desprotegidos em situações como a demora da prolação da sentença de insolvência ou de certificação dos requerimentos, e à mercê do decurso inabalável do tempo. Esta situação só veio a ser corrigida (e ainda veremos se em termos suficientes) com a introdução de um n.° 9 ao art.º 2.° do regime do FGS, norma que não se aplica in casu, por não estar em vigor à data do indeferimento.
+
+Em qualquer caso, e com amparo na argumentação expendida no acórdão do Tribunal Constitucional acima citado, importa no caso concreto desaplicar a norma em análise, interpretada no sentido proposto pelo FGS [sem que este, na verdade, tenha verdadeira responsabilidade nesse sentido interpretativo que, como se disse, é o único que emerge da literalidade da norma].
+
+Porquanto o art.º 204.° da CRP consagra expressamente que nos feitos submetidos a julgamento não podem os tribunais aplicar normas que infrinjam o disposto na Constituição ou os princípios nela consignados. Ora, na medida em que o art.º 2.°, n.° 8, do regime do FGS interpretado no sentido de se tratar de um prazo de caducidade, não sujeito a causas de suspensão e interrupção, não cumpre as necessárias condições de certeza e segurança jurídicas, afronta o princípio da efetividade da proteção social visada pelo FGS, e por isso mesmo é contrária às exigências de clareza, assertividade, certeza e segurança jurídicas que brotam do princípio do Estado de Direito, consagrado no art.º 2.° da CRP.
+
+O que, em conformidade, se decidirá.
+
+Não obstante a desaplicação da norma, nem nesse caso se poderá cair num vazio quanto ao prazo para exercício do direito. É que, note-se, o próprio Tribunal Constitucional não coloca em causa que se estabeleça um prazo, mas sim a forma como o prazo é estabelecido.
+
+Em último caso - e na medida em que a desaplicação concreta da norma, ao contrário do que sucede com a declaração de inconstitucionalidade com força obrigatória geral, não determina a repristinação do regime jurídico anterior - sempre terá de concluir-se que, quando o pagamento foi pedido, os créditos laborais ainda não estavam prescritos, à luz do que rege o art.º 337.° do Código do Trabalho.
+
+E seguramente que não o estavam. Considerando que o contrato de trabalho cessou em 11.07.2016, o prazo de prescrição iniciou-se no dia imediato.
+
+No entanto, o prazo ficou suspenso com a prolação do despacho de nomeação do administrador judicial provisório ocorrida em 12.08.2016, nos termos do art.º 17.°-E, n.° 7, do CIRE, efeito que se mantém no decurso do processo, e designadamente até à decisão de homologação do plano. Atendendo a que apenas em 20.06.2017 foi proferida a sentença de homologação, transitada em julgado a 06.07.2017, é seguro que quando o requerimento é apresentado em 07.09.2017 não estavam prescritos os créditos laborais.
+
+Termos em que o requerimento deve considerar-se tempestivo, com a consequente anulação do despacho de indeferimento.
+
+(…)
+
+Decisão
+
+Nos termos e pelos fundamentos expostos, julgo a presente ação administrativa parcialmente procedente e, em consequência:
+
+a) Recuso, ao abrigo do art.º 204° da CRP, a aplicação no presente caso da norma do art.0 2.°, n.° 8, do regime do FGS na redação vigente à data da prática do ato impugnado, quando interpretada no sentido de que a mesma estabelece um prazo de caducidade para requerer o pagamento dos créditos laborais ao FGS, insuscetível de qualquer suspensão ou interrupção;
+
+b) Anulo o despacho do presidente do conselho de gestão do FGS, que indeferiu o requerimento apresentado pelo autor;
+
+c) Condeno o FGS a deferir e pagar ao autor a quantia de € 3,864,00 (três mil oitocentos e sessenta e quatro euros), observando eventuais deduções e retenções legais a que haja lugar;
+
+d) Absolvo o FGS quanto ao demais peticionado, v. g. o pagamento das quantias que excedem aquele limite e das respeitantes aos créditos vencidos fora do período de referência.
+
+(…)»
+
+3. É este o teor do requerimento de interposição de recurso para o Tribunal Constitucional (cf. fl. 64):
+
+«O Ministério Público, na ação à margem identificada, que A. move ao Fundo de Garantia Salarial, vem ao abrigo do disposto nos artigos 280.° n.° 1, al. a), n.° 2 al. a) e n.° 3 da Constituição da República Portuguesa (CRP), 70°, n° 1, alínea a), e 72° n° 1 alínea a) e n° 3, da Lei n° 28/82, de 15/11, na sua atual versão, interpor recurso para o Tribunal Constitucional da douta sentença proferida em 29 de novembro de 2019, que expressamente recusou a aplicação, no caso dos autos, do disposto no art.° 2.°, n.° 8, do NRFGS (aprovado pelo Decreto-Lei n.° 59/2015, de 21 de abril), quando interpretada no sentido de que a mesma estabelece um prazo de caducidade para requerer o pagamento dos créditos laborais ao FGS, insuscetível de qualquer suspensão ou interrupção, nos termos do disposto no art0 204° da CRP, com fundamento na sua inconstitucionalidade, por não cumprir as necessárias condições de certeza e segurança jurídicas, afronta o princípio da efetividade da proteção social visada pelo FGS, e por isso mesmo é contrária às exigências de clareza, assertividade, certeza e segurança jurídicas que brotam do princípio do Estado de Direito, consagrado no art.º 2.° da CRP.
+
+Por ter legitimidade e estar em tempo em tempo, queiram V. Exas. considerá-lo interposto, o qual tem efeito suspensivo e subida imediata nos próprios autos.
+
+Nos termos previstos no art° 79° da Lei 28/82, as alegações de recurso serão produzidas no Tribunal Constitucional.»
+
+4. O requerimento de recurso para este Tribunal foi admitido por despacho do Tribunal a quo proferido em 28 de janeiro de 2020 (cf. fl. 67).
+
+Cumpre apreciar e decidir.
+
+II – Fundamentação
+
+5. O presente recurso foi interposto ao abrigo da alínea a) do n.º 1 do artigo 70.º, da LTC, estando a sua admissibilidade dependente da verificação de dois pressupostos: i) que a decisão recorrida tenha recusado efetivamente a aplicação de certa norma ou interpretação normativa, relevante para a resolução do caso; e ii) que tal desaplicação normativa se funde num juízo de inconstitucionalidade do regime jurídico nela estabelecido.
+
+Tem sido entendido pela jurisprudência do Tribunal Constitucional que, neste tipo de recurso, só são passíveis de recurso as decisões em que o Tribunal a quo tenha recusado efetivamente a aplicação de uma norma com fundamento na respetiva inconstitucionalidade, não o sendo aquelas em que o juízo efetuado pela decisão impugnada se consubstancia num simples obiter dictum em matéria de constitucionalidade ou quando a norma cuja aplicação foi recusada com fundamento na sua inconstitucionalidade acaba por não relevar, em termos decisivos, como ratio decidendi da pronúncia do tribunal quanto ao caso concreto (assim, Carlos Lopes do Rego, Os Recursos de Fiscalização Concreta na Lei e na Jurisprudência do Tribunal Constitucional, Almedina, Coimbra, 2010, pp. 66-67).
+
+6. O objeto do presente recurso, tal como enunciado no requerimento respetivo, incide sobre dimensão normativa extraída da norma do n.º 8 do artigo 2.º do Novo Regime do Fundo de Garantia Salarial (NRFGS), aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril, cuja aplicação foi recusada pela sentença ora recorrida (cf. Decisão, trecho supra transcrito em I, 2.). Resulta da parte decisória da sentença recorrida e do requerimento de interposição do presente recurso de constitucionalidade (supra transcrito em I, 3.) que o Tribunal a quo recusou expressamente a aplicação da norma ao caso dos autos, sustentando o juízo de inconstitucionalidade no julgamento feito no Acórdão do Tribunal Constitucional n.º 328/2018 (retificado pelo Acórdão n.º 447/2018) quanto à «norma contida no artigo 2.º, n.º 8, do Novo Regime do Fundo de Garantia Salarial, aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril, na interpretação segundo a qual o prazo de um ano para requerer o pagamento dos créditos laborais, certificados com a declaração de insolvência, cominado naquele preceito legal é de caducidade e insuscetível de qualquer interrupção ou suspensão».
+
+A fundamentação do Acórdão n.º 328/2018 é a seguinte (cfr. II – Fundamentação):
+
+«2. Constitui primeiro passo na apreciação do recurso a determinação exata do respectivo objeto. Ora, para tal efeito, importa contextualizar a dinâmica processual da qual emergiu a impugnação.
+
+2.1. Subjacente à decisão recorrida está a seguinte sucessão de factos relevantes:
+
+(a) os contratos de trabalho dos Autores cessaram, por encerramento do estabelecimento onde prestavam trabalho, em 04/03/2014;
+
+(b) em 28/08/2014, o primeiro Autor requereu a insolvência da entidade patronal;
+
+(c) em 17/03/2015, a entidade patronal foi declarada insolvente (foi-o, pois, mais de seis meses depois de requerida a insolvência);
+
+(d) em 05/11/2015, os Autores reclamaram os seus créditos na insolvência;
+
+(e) no mesmo dia 05/11/2015, os Autores requereram ao Fundo de Garantia Salarial (doravante identificado pela sigla FGS) o pagamento dos créditos emergentes de contrato de trabalho, nos valores parcelares de €5.507,65;
+
+(f) por despacho do Senhor Presidente do FGS de 26/05/2016, tal pedido foi indeferido, por verificação do prazo de caducidade previsto no n.º 8 do artigo 2.º do Novo Regime do Fundo de Garantia Salarial (doravante, NRFGS), aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril (como descrevemos no item 1.2.1. supra, esse indeferimento assentou, expressamente, na qualificação do prazo em causa como de caducidade, associado à inexistência de previsão legal de suspensão ou interrupção).
+
+É, pois, a norma contida no artigo 2.º, n.º 8, do NRFGS que está em causa no presente recurso, tendo esta a seguinte redação:
+
+Artigo 2.º
+
+Créditos abrangidos
+
+----------------------------------------------------------------------------------------------.
+
+8 – O Fundo só assegura o pagamento dos créditos quando o pagamento lhe seja requerido até um ano a partir do dia seguinte àquele em que cessou o contrato de trabalho.
+
+Antes da aprovação do NRFGS, em abril de 2015, o diploma contendo a regulamentação do Código do Trabalho (no item 2.3.2. infra, particularizaremos e situaremos no tempo o enquadramento jurídico que agora estamos a pressupor para efeitos de delimitação do objeto do recurso), aprovado pela Lei n.º 35/2004, de 29 de julho, previa que o Fundo “[…] assegura[va] o pagamento dos créditos […] nos casos em que o empregador [fosse] judicialmente declarado insolvente”, abrangendo os créditos vencidos nos seis meses que antecedessem a data da propositura do processo de insolvência reclamados até três meses antes da respetiva prescrição (artigos 318.º, n.º 1, 319.º, n.º 1 e 3, da referida Lei de regulamentação do Código do Trabalho, isto sem prejuízo da extensão temporal prevista no n.º 2 desse artigo 319.º).
+
+A decisão recorrida, no seu processo de construção da asserção de desconformidade constitucional da norma contida no (construída dentro do) artigo 2.º, n.º 8, do NRFGS, percorreu uma linha argumentativa que pode ser sintetizada nos seguintes traços essenciais:
+
+(a) “o FGS considera que os Autores podiam ter apresentado o requerimento ao Fundo mesmo antes da prolação da sentença de insolvência, podendo instruí-lo logo com a declaração do empregador confirmando os créditos, no próprio formulário do requerimento, e, depois, a posteriori, juntar a sentença da insolvência e, até, o reconhecimento dos créditos na mesma insolvência”;
+
+(b) entendeu-se (na decisão recorrida), todavia, que este enquadramento, dado pelo FGS, não era correto, pois “[…] tendo havido ação laboral e de insolvência, o que se exigia era, sem alternativa, o documento mencionado na alínea a) do n.º 2 do artigo 5.º: declaração do administrador da falência ou cópia autenticada de documento comprovativo dos créditos reclamados pelo trabalhador na insolvência. A haver processo de insolvência, os créditos têm de ser aí reclamados e isso mesmo demonstrado ao Fundo, em documento anexo ao requerimento: artigo 5.º, n.º 2, alínea b), do Regime do Fundo” (os sublinhados foram acrescentados);
+
+(c) daí concluiu-se na decisão que os Autores se encontravam “[…] condicionados pelo andamento do processo de insolvência para poderem exercer o direito de pedir o pagamento dos seus créditos pelo Fundo”, podendo um pedido tardio ou uma declaração tardia da insolvência pôr em causa a satisfação dos créditos, por força da regra de caducidade prevista no artigo 2.º, n.º 8, do NRFGS;
+
+(d) assim – ainda no entendimento da decisão recorrida –, ao não se preverem causas de suspensão ou interrupção do prazo de caducidade, estabelecendo-se “[…] requisitos para o exercício do direito, que não está na mão do seu titular fazer preencher, de tal maneira que não está garantido que o seu titular possa ter oportunidade legal de exercer o direito dentro do prazo”, ocorre violação do princípio do Estado de Direito, “[…] na medida em que torna aleatórios e arbitrariamente subversíveis os pressupostos do exercício de um direito social reconhecido a todos os trabalhadores”;
+
+(e) acrescendo a violação do princípio da igualdade, decorrente, segundo aquela decisão, da circunstância de “[…] perante os mesmos pressupostos substantivos de facto e de direito, sem causa de discriminação alguma que não o acaso, se denegar, potencialmente, a uns trabalhadores e conferir a outros, uma prestação do Estado Social”;
+
+(f) termina a decisão afastando a norma do artigo 2.º, n.º 8, do NRFGS, por inconstitucionalidade, e aplicando, na sua ausência, o regime da prescrição dos créditos laborais, incluindo as respetivas causas de suspensão e interrupção, para concluir que, à data em que foi apresentado o pedido ao FGS, os Autores ainda tinham direito ao pagamento dos seus créditos.
+
+Constitui, assim, objeto do recurso – no contexto acabado de descrever, correctamente interpretado pelo Ministério Público no requerimento de interposição do recurso (cfr. item 1.3. supra) – a interpretação do n.º 8 do artigo 2.º do Novo Regime do Fundo de Garantia Salarial, aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril1, segundo a qual o prazo de um ano para requerer o pagamento dos créditos laborais, certificados com a declaração de insolvência, cominado naquele preceito legal é de caducidade e insuscetível de qualquer interrupção ou suspensão.
+
+2.2. Delimitado o objeto do recurso, importa determinar, antes de mais, se é viável a (re)interpretação do direito ordinário proposta nas alegações do Ministério Público.
+
+Na verdade, contra o entendimento (assumido na decisão recorrida) de que o acionamento do FGS apenas pode ocorrer em momento posterior ao da prolação da sentença de insolvência (artigo 5.º, n.º 2, do NRFGS), conclui o Ministério Público que “[…] os requisitos do exercício do direito de requerer o pagamento não implicam, porque a lei não o prescreve – e distintamente do pressuposto pela douta sentença recorrida – que já tenha ocorrido a prolação da sentença que declara a insolvência, bem como o reconhecimento dos créditos reclamados, embora pressuponha que a insolvência já tenha sido requerida”.
+
+Sendo a construção em causa – uma ou outra das descritas – um prius em relação à norma objeto do recurso, o certo é que se trata, em qualquer caso, da interpretação do direito infraconstitucional, cujo resultado – aliás, cujo resultado que emerge da decisão recorrida – constitui, em princípio, um dado para o Tribunal Constitucional. Com efeito, como se observou no Acórdão n.º 331/2016 [no respectivo ponto 3., a), “[d]elimitação da questão a apreciar”]:
+
+“[…]
+
+Independentemente da questão de saber se esta é, ou não, a melhor interpretação da norma em causa – questão sobre a qual o Tribunal Constitucional não deve pronunciar-se, na medida em que a norma ou interpretação normativa questionadas devem ser consideradas, para efeitos da fiscalização […] concreta da constitucionalidade, como um dado – a menos que se trate de uma interpretação que claramente a letra da lei não comporta e, nesse caso, pode socorrer-se do artigo 80.º, n.º 3, da LTC e proceder à interpretação da norma conforme à Constituição. Esta deve, todavia, ser uma situação excecional, uma vez que, em certo sentido, implica que o Tribunal Constitucional se substitua aos tribunais comuns na interpretação das normas jurídicas por aqueles aplicadas nas decisões concretas. Ora, no caso em apreço, a interpretação das normas extraídas dos preceitos legais acima mencionados efetuada pela decisão recorrida é perfeitamente plausível em função da letra das mesmas.
+
+[…]” (sublinhados acrescentados).
+
+Assim, sem entrar no âmbito de qual a melhor interpretação dos preceitos legais contidos no NRFGS (tarefa que, como vimos, não cabe ao Tribunal Constitucional), cumpre realçar que – fruto da redação nem sempre precisa das normas aplicáveis – a sua leitura na jurisprudência tende a não ser clara.
+
+Com efeito, encontramos, na jurisdição administrativa, decisões que tendem a afastar a relevância da sentença de declaração da insolvência para o efeito do acionamento do Fundo [cfr. o acórdão do TCA Norte de 14/07/2017, processo n.º 00698/16.8BEPNF: “a decisão de insolvência ou de graduação de créditos tem apenas relevo para a definição dos créditos do autor sobre a sua entidade patronal ou sobre a massa falida, mas não para o direito a receber os créditos pelo Fundo de Garantia Salarial, tratando-se, com vimos, de realidades distintas. […] [B]asta a declaração ou cópia autenticada de documento comprovativo dos créditos reclamados pelo trabalhador emitida pelo administrador de insolvência ou pelo administrador judicial provisório, para deduzir o pedido junto do Fundo de Garantia Salarial – artigo 5.º, n.º 2, al. a), do Decreto-Lei n.º 59/2015”; acórdão do TCA Norte de 07/07/2017, processo n.º 00416/14.5BEMDL: “a reclamação ao FGS é independente do reconhecimento dos créditos salariais em sede de insolvência, bastando a declaração ou cópia autenticada de documento comprovativo dos créditos reclamados pelo trabalhador emitida pelo administrador de insolvência ou pelo administrador judicial provisório (cfr. artigo 5.º, n.º 2, al. a), do DL 59/2015). Por isso, o reconhecimento dos créditos não é necessário nem imprescindível para se efetuar a reclamação ao Fundo, aqui Recorrido, pelo que o trabalhador poderia e deveria ter feito o pedido a este (Fundo) logo após a reclamação dos créditos na insolvência”].
+
+Paralelamente, encontramos decisões que parecem adotar entendimento não inteiramente convergente (cfr. o acórdão do TCA Sul de 01/06/2017, processo n.º 3462/15.8BESNT).
+
+No entanto, e precisamente porque não cabe ao Tribunal Constitucional tomar posição nesse plano interpretativo, assinala-se, apenas, que a interpretação adotada na decisão recorrida não corresponde a uma “que claramente a letra da lei não comporta” – o que, como vimos, abriria a possibilidade excecional de a mesma ser corrigida. Na verdade – no NRFGS – o artigo 1.º, n.º 1, alínea a), (“[o] Fundo de Garantia Salarial, abreviadamente designado por Fundo, assegura o pagamento ao trabalhador de créditos emergentes do contrato de trabalho ou da sua violação ou cessação, desde que seja: […] proferida sentença de declaração de insolvência do empregador”), e n.º 2, alínea a), (“[p]ara efeitos do disposto no número anterior, o Fundo é notificado nos seguintes casos: […] no âmbito do processo especial de insolvência, o tribunal judicial notifica o Fundo da sentença de declaração de insolvência do empregador, a qual deve ser acompanhada de cópia da petição inicial e dos documentos identificados nas alíneas a) e b) do artigo 24.º do Código da Insolvência e da Recuperação de Empresas (CIRE)” – v., também, o artigo 37.º, n.º 2, do CIRE); e artigo 5.º, n.º 2, alínea a), (“[o] requerimento é instruído, consoante as situações, com os seguintes documentos: […] declaração ou cópia autenticada de documento comprovativo dos créditos reclamados pelo trabalhador, emitida pelo administrador de insolvência ou pelo administrador judicial provisório”).
+
+Qualquer destas disposições do NRFGS não permite afirmar que o sentido normativo expressamente pressuposto na decisão recorrida é desconforme ou desajustado à letra da lei, ou que não tem nesta “[…] um mínimo de correspondência verbal, ainda que imperfeitamente expresso”, como exige o artigo 9.º, n.º 2 do Código Civil (CC).
+
+Assim, não obstante a afirmação de que o FGS aceitaria o pedido como atempado desde que formulado perante o mero pedido de declaração de insolvência (afirmação que, todavia, é totalmente contraditória com a fundamentação pelo Fundo dos despachos impugnados pelos ora Recorridos, nos termos evidenciados no item 1.2.1. supra), e apesar do disposto no artigo 5.º, n.º 2, alínea c) (cuja aplicabilidade à hipótese de insolvência não é inequívoca), as normas citadas não afastam, por total desfasamento da letra do preceito, a interpretação efetuada pelo Tribunal Administrativo e Fiscal de Coimbra, pelo que a deve aceitar este Tribunal como um dado, para os efeitos de controlo de constitucionalidade neste processo. Tal interpretação assume, aliás, fielmente as razões apresentadas pelo Fundo para indeferir o pagamento das prestações que lhe foi requerido pelos Recorridos (mais uma vez remetemos para o item 1.2.1. supra), consubstanciando, precisamente, a interpretação que o tribunal a quo deveria sindicar, como efectivamente sindicou [e não, obviamente, a “nova” construção que o Fundo, contraditoriamente com a posição até aí sustentada, veio introduzir na sua contestação (cfr. item 1.2.2. supra)].
+
+Assente este pressuposto – que é central na economia expositiva da presente decisão – importa avançar na apreciação da substancia do recurso referida ao objeto sublinhado no final do item 2.1. supra.
+
+2.3. A proteção dos trabalhadores em caso de insolvência do empregador constitui um tema recorrente no direito nacional e no direito europeu.
+
+2.3.1. Começando pelo Direito da União (na terminologia actual, decorrente do Tratado de Lisboa), assinalamos a Diretiva 80/987/CEE do Conselho de 20 de outubro de 1980 relativa à proteção dos trabalhadores assalariados em caso de insolvência do empregador (JO L 283 de 28/10/1980, p. 23, posteriormente alterada pela Diretiva 87/164/CEE do Conselho de 2 de março de 1987 e pela Diretiva 2002/74/CE do Parlamento Europeu e do Conselho de 23 de setembro de 2002) prevendo a sua aplicação “[…] aos créditos dos trabalhadores assalariados emergentes de contratos de trabalho ou de relações de trabalho existentes em relação a empregadores que se encontrem em estado de insolvência” (artigo 1.º), estabelecendo que “[…] os Estados-Membros devem tomar as medidas necessárias para que as instituições de garantia assegurem, sob reserva do artigo 4.º, o pagamento dos créditos em dívida dos trabalhadores assalariados emergentes de contratos de trabalho ou de relações de trabalho, incluindo, sempre que o direito nacional o estabeleça, as indemnizações pela cessação da relação de trabalho”, sendo que “[…] os créditos a cargo da instituição de garantia consistem em remunerações em dívida correspondentes a um período anterior e/ou, conforme os casos, posterior a uma data fixada pelos Estados-Membros" (artigo 3.º, n.ºs 1 e 2). Entretanto, foi esta Diretiva 80/987/CEE substituída pela Diretiva 2008/94/CE do Parlamento Europeu e do Conselho, de 22 de outubro de 2008 (cfr. o respectivo artigo 16.º), contendo um artigo 3.º cujo teor é exatamente igual ao precedente.
+
+Situando-nos noutro plano, cumpre referir que a Carta Social Europeia Revista, aberta à assinatura dos Estados-Membros do Conselho da Europa em Estrasburgo, em 3 de maio de 1996 (aprovada para ratificação pela Resolução da Assembleia da República n.º 64-A/2001 e ratificada pelo Decreto do Presidente da República n.º 54-A/2001, de 17 de outubro, ambos publicados no Diário da República n.º 241/2001, 1.º Suplemento, Série I-A de 17/10/2001) prevê, no seu artigo 25.º, o seguinte: “[…] com vista a assegurar o exercício efetivo do direito dos trabalhadores à proteção dos seus créditos em caso de insolvência do seu empregador, as Partes comprometem-se a prever que os créditos dos trabalhadores resultantes de contratos de trabalho ou de relações de emprego sejam garantidos por uma instituição de garantia ou por qualquer outra forma efetiva de proteção”.
+
+2.3.2. No ordenamento jurídico nacional, o Decreto-Lei n.º 50/85, de 27 de fevereiro, instituiu “um sistema de garantia salarial com o objetivo de garantir aos trabalhadores o pagamento das retribuições devidas e não pagas pela entidade empregadora declarada extinta, falida ou insolvente, […] na linha do estabelecido na Diretiva Comunitária n.º 80/787/CEE [leia-se «Diretiva 80/987/CEE», supra referida]”, garantindo aos trabalhadores o pagamento das retribuições devidas e não pagas pela entidade empregadora declarada extinta, falida ou insolvente, desde que tal declaração implicasse a cessação dos contratos de trabalho, abrangendo os últimos 4 meses compreendidos no período de 6 meses imediatamente anteriores à declaração de extinção, falência ou insolvência da entidade empregadora (artigos 1.º e 2.º).
+
+Posteriormente, o Decreto-Lei n.º 219/99, de 15 de junho, procedeu à “revisão do sistema de garantia salarial, instituído pelo Decreto-Lei n.º 50/85, de 27 de fevereiro”, criando, para o efeito, “um Fundo de Garantia Salarial que, em caso de incumprimento pela entidade patronal, assegura aos trabalhadores o pagamento de créditos emergentes de contratos de trabalho” (artigo 1.º), consignando-se, no preâmbulo do diploma:
+
+“[…]
+
+Para além dos compromissos decorrentes do acordo de concertação estratégica de 1996-1999, visa-se compatibilizar a lei nacional com o regime constante da Diretiva n.º 80/987/CEE, relativa à aproximação das legislações dos Estados membros respeitantes à proteção dos trabalhadores assalariados em caso de insolvência do empregador, uma vez que algumas das disposições do Decreto-Lei n.º 50/85 não respeitavam integralmente o regime da referida diretiva. Articula-se também o novo regime com o Código dos Processos Especiais de Recuperação da Empresa e de Falência.
+
+[…]”.
+
+O FGS assegurava o pagamento de créditos emergentes de contrato de trabalho ou da sua cessação, nos casos em que a entidade patronal estivesse em situação de insolvência ou em situação económica difícil e, encontrando-se pendente contra ela uma ação nos termos do Código dos Processos Especiais de Recuperação da Empresa e de Falência, o juiz declarasse a falência ou mandasse prosseguir a ação como processo de falência ou como processo de recuperação da empresa (artigo 2.º, n.º 1), assegurando o pagamento dos créditos emergentes de contratos de trabalho que se tivessem vencido nos seis meses que antecedessem a data da propositura da ação ou da entrada do requerimento (artigo 3.º, n.º 1).
+
+Pelo Decreto-Lei n.º 139/2001, de 24 de abril, foi aprovado o Regulamento do Fundo de Garantia Salarial.
+
+O Decreto-Lei n.º 219/99, de 15 de junho, foi revogado pelo Código do Trabalho de 2003 (artigo 21.º, alínea m), da Lei n.º 99/2003, de 27 de agosto), que, no seu artigo 380.º, previa que “[a] garantia do pagamento dos créditos emergentes do contrato de trabalho e da sua violação ou cessação, pertencentes ao trabalhador, que não possam ser pagos pelo empregador por motivo de insolvência ou de situação económica difícil é assumida e suportada pelo Fundo de Garantia Salarial, nos termos previstos em legislação especial”, sendo esta matéria regulamentada nos artigos 316.º a 326.º do Regulamento do Código do Trabalho, aprovado pela Lei n.º 35/2004, de 29 de julho. Ali se previa que “o Fundo de Garantia Salarial assegura[sse], em caso de incumprimento pelo empregador, ao trabalhador o pagamento dos créditos emergentes do contrato de trabalho e da sua violação ou cessação” (artigo 317.º), cobrindo “o pagamento dos créditos […] nos casos em que o empregador seja judicialmente declarado insolvente” (artigo 318.º, n.º 1), “que se tenham vencido nos seis meses que antecedem a data da propositura da ação ou apresentação do requerimento” (artigo 319.º, n.º 1), mas apenas assegurava “o pagamento dos créditos que lhe sejam reclamados até três meses antes da respetiva prescrição” (artigo 319.º, n.º 3).
+
+Por força do artigo 12.º, n.º 6, alínea o), da Lei n.º 7/2009, de 12 de fevereiro, que aprovou o (actual) Código do Trabalho de 2009, os artigos 317.º a 326.º da Lei n.º 35/2004, de 29 de julho, mantiveram-se em vigor até à “entrada em vigor do diploma que [viesse a] regular a mesma matéria”. Tal diploma foi o Decreto-Lei n.º 59/2015, de 21 de abril, que, como vimos, aprovou o NRFGS.
+
+Alcançámos, assim, o enquadramento legal em causa no presente recurso.
+
+2.3.3. O Tribunal de Justiça da União Europeia (TJUE) tem-se pronunciado sobre a interpretação e aplicação da Diretiva 80/987/CEE do Conselho de 20 de outubro de 1980 relativa à proteção dos trabalhadores assalariados em caso de insolvência do empregador e da Diretiva 2008/94/CE do Parlamento Europeu e do Conselho, de 22 de outubro de 2008, relativa à proteção dos trabalhadores assalariados em caso de insolvência do empregador, que, como antes referimos, substituiu aquela.
+
+2.3.3.1. No processo C-69/08 (Raffaello Visciano c. Istituto nazionale della previdenza sociale (INPS), acórdão de 16 de julho de 2009, ECLI:EU:C:2009:468), correspondente a um pedido de decisão prejudicial assente em três questões colocadas por um tribunal italiano, o Tribunal de Justiça formulou as seguintes respostas: “1) [o]s artigos 3.º e 4.º da Diretiva 80/987/CEE […] não se opõem a uma legislação nacional que permite qualificar de ‘prestações de segurança social’ os créditos dos trabalhadores em dívida quando os créditos são pagos por uma instituição de garantia. 2) [a] Diretiva 80/987 não se opõe a uma legislação nacional que utiliza como simples termo de comparação o crédito salarial originário do trabalhador assalariado para determinar a prestação a garantir pela intervenção de um fundo de garantia. 3) [n]o contexto de um pedido de um trabalhador assalariado para obter de um fundo de garantia o pagamento dos créditos de remuneração em dívida, a Diretiva 80/987 não se opõe à aplicação de um prazo de prescrição de um ano (princípio da equivalência). Todavia, compete ao órgão jurisdicional nacional apreciar se a configuração deste prazo não torna impossível na prática ou excessivamente difícil o exercício dos direitos reconhecidos pela ordem jurídica comunitária (princípio da efetividade).” (sublinhado acrescentado). Na fundamentação deste acórdão pode ler-se o seguinte:
+
+“[…]
+
+39. [Os] Estados-Membros têm, em princípio, a faculdade de prever no seu direito nacional disposições que fixem um prazo de prescrição para a propositura da ação de um trabalhador assalariado para obter, nas condições da Diretiva 80/987, o pagamento dos seus créditos de remunerações em dívida, desde que, no entanto, estas disposições não sejam menos favoráveis do que as respeitantes a reclamações internas de idêntica natureza (princípio da equivalência) e não sejam formuladas de modo a tornar na prática impossível o exercício dos direitos reconhecidos pela ordem jurídica comunitária […].
+
+40. A este propósito, o órgão jurisdicional de reenvio considera que se deve verificar se a qualificação dos créditos do trabalhador em relação ao Fundo de prestações de segurança social que tenha como consequência não se aplicarem as regras da interrupção do prazo de prescrição aos créditos admitidos ao passivo da insolvência, é ou não contrária aos princípios da equivalência e da efetividade.
+
+41. Quanto ao princípio da equivalência, deve observar‑se, desde logo, que o pedido de pagamento de remunerações em dívida do trabalhador assalariado ao Fundo e o pedido desse trabalhador ao seu empregador insolvente não são semelhantes. É esta conclusão que se extrai, nomeadamente, do artigo 4.º da Diretiva 80/987, que confere aos Estados‑Membros a faculdade de limitar a obrigação de pagamento das instituições de garantia.
+
+42. Por consequência, a existência de regimes de prescrição diferentes não ofende o princípio da equivalência.
+
+43. No que se refere ao princípio da efetividade, o Tribunal de Justiça já considerou compatível com o direito comunitário a fixação de prazos razoáveis de atuação judicial, sob pena de preclusão, no interesse da segurança jurídica que protege simultaneamente o contribuinte [del contribuinte, em italiano, a língua oficial do processo; le contribuable, na tradução francesa; the taxpayer, na versão inglesa] e a entidade administrativa em causa (v. acórdão de 17 de novembro de 1998, Aprile, C‑228/96, Colect., p. I‑7141, n.º 19 e jurisprudência referida). Com efeito, esses prazos não são suscetíveis de, na prática, impossibilitarem ou dificultarem excessivamente o exercício dos direitos conferidos pelo ordenamento jurídico comunitário.
+
+44. A este respeito, há que recordar que, no que se refere ao pagamento de créditos salariais, que, pela sua própria natureza, se revestem de grande importância para os interessados, a brevidade do prazo de prescrição não deve ter a consequência de os interessados não conseguirem, na prática, respeitar o referido prazo e, assim, não beneficiarem da proteção que a Diretiva 80/987 se destina precisamente a garantir‑lhes (v. acórdão Pflücke, já referido, n.º 37).
+
+45. A este propósito, o Tribunal de Justiça já decidiu que um prazo de prescrição de um ano para intentar uma ação destinada a obter a reparação de um dano causado pela transposição tardia para o direito interno da Diretiva 80/987 parece razoável (v., neste sentido, acórdão de 10 de julho de 1997, Palmisani, C‑261/95, Colect., p. I‑4025, n.º 29).
+
+46. Contudo, resulta igualmente do n.º 39 do acórdão de 11 de julho de 2002, Marks & Spencer (C‑62/00, Colect., p. I‑6325), que, para cumprir a sua função de garantia da segurança jurídica, um prazo de prescrição deve ser fixado antecipadamente. Uma situação caracterizada por uma considerável incerteza jurídica pode constituir uma violação do princípio da efetividade, uma vez que a reparação dos danos causados a particulares por violações do direito comunitário imputáveis a um Estado‑Membro pode, na prática, ser extremamente dificultada se estes não puderem determinar o prazo de prescrição aplicável, com um razoável grau de certeza (acórdão de 24 de Março de 2009, Danske Slagterier, C‑445/06, ainda não publicado na Colectânea, n.º 33 e jurisprudência referida).
+
+47. No processo principal, deve observar‑se que, segundo o órgão jurisdicional de reenvio, o Decreto legislativo n.º 80/92 fixa o prazo de prescrição em um ano, mas não determina o dies a quo.
+
+48. Por outro lado, o mesmo órgão jurisdicional observa que a jurisprudência da ‘Corte suprema di cassazione’ começou por qualificar de natureza salarial as prestações pagas pelo Fundo, idêntica à dos salários pagos pelo empregador, qualificação que tinha como consequência serem aplicados os prazos de prescrição e respetivas regras de interrupção estabelecidos no processo de insolvência. Mais tarde, esse tribunal supremo considerou que a obrigação imposta ao Fundo tem por objeto uma prestação de segurança social, independente da obrigação salarial do empregador, o que tem como consequência, entre outras, a inaplicação das regras de interrupção dos prazos de prescrição já referidos.
+
+49. Estas duas conclusões são suscetíveis de criar incertezas jurídicas que podem constituir uma violação do princípio da efetividade, se se verificar que estas incertezas jurídicas podem explicar que a ação de R. Visciano tenha sido intentada fora de prazo, o que compete ao órgão jurisdicional nacional apreciar.
+
+50. À luz de todas as considerações precedentes, deve, pois, responder‑se à terceira questão que, no contexto de um pedido de um trabalhador assalariado para obter de um fundo de garantia o pagamento dos créditos de remuneração em dívida, a Diretiva 80/987 não se opõe à aplicação de um prazo de prescrição de um ano (princípio da equivalência). Todavia, compete ao órgão jurisdicional nacional apreciar se a configuração deste prazo não torna impossível na prática ou excessivamente difícil o exercício dos direitos reconhecidos pela ordem jurídica comunitária (princípio da efetividade).
+
+[…]” (sublinhados acrescentados).
+
+2.3.3.2. No processo C‑247/12 (Meliha Veli Mustafa c. Direktor na fond «Garantirani vzemania na rabotnitsite i sluzhitelite» kam Natsionalnia osiguritelen institut, acórdão de 18 de abril de 2013, ECLI:EU:C:2013:256), também correspondente a um pedido de decisão prejudicial, o Tribunal de Justiça declarou que: “[a] Diretiva 2008/94/CE do Parlamento Europeu e do Conselho, de 22 de outubro de 2008, relativa à proteção dos trabalhadores assalariados em caso de insolvência do empregador [que substituiu a Diretiva 80/987/CEE, nos termos indicados supra no item 2.3.1.], deve ser interpretada no sentido de que não obriga os Estados‑Membros a prever garantias para os créditos dos trabalhadores em cada etapa do processo de insolvência do seu empregador. Em particular, não se opõe a que os Estados‑Membros prevejam uma garantia unicamente para os créditos dos trabalhadores constituídos antes da transcrição no Registo Comercial da decisão de dar início ao processo de insolvência, mesmo que essa decisão não ordene a cessação das atividades do empregador”. Interessam, neste caso, os seguintes pontos da fundamentação:
+
+“[…]
+
+29. Resulta da decisão de reenvio que o processo de insolvência teve duas decisões sucessivas, a primeira que decide dar início ao processo de insolvência e a segunda que ordena a cessação de atividades. Ora, o direito búlgaro prevê que o período de referência que dá lugar a uma garantia dos créditos se situa antes da transcrição no Registo Comercial da decisão de dar início ao processo de insolvência, de forma que só os créditos dos trabalhadores constituídos antes dessa data são cobertos pela referida garantia, enquanto os constituídos depois não o são.
+
+30. Em primeiro lugar, deve salientar‑se que o artigo 2.º, n.º 1, da Diretiva 2008/94 abre o âmbito de aplicação desta diretiva e, fazendo isso, condiciona o desencadeamento da garantia tal como prevista pela referida diretiva (v., neste sentido, acórdãos de 10 de julho de 1997, Bonifaci e o. e Berto e o., C‑94/95 e C‑95/95, Colet., p. I‑3969, n.º 36, e Maso e o., C‑373/95, Colet., p. I‑4051, n.º 46).
+
+31. A este propósito, resulta dos próprios termos do artigo 2.º, n.º 1, da Diretiva 2008/94 que, para que se considere que um empregador se encontra em estado de insolvência, é necessário que tenha sido requerida a abertura de um processo coletivo, baseado na insolvência do empregador, previsto pelas disposições legislativas, regulamentares e administrativas de um Estado‑Membro, que implique a inibição parcial ou total desse empregador da administração ou disposição de bens e a designação de um síndico, ou de uma pessoa que exerça uma função similar, e que a autoridade competente por força das disposições nacionais supramencionadas tenha decidido a abertura desse processo, ou declarado o encerramento definitivo da empresa ou do estabelecimento do empregador bem como a insuficiência do ativo disponível para justificar a abertura de tal processo.
+
+32. Por conseguinte, afigura‑se que, para que a garantia prevista pela Diretiva 2008/94 se aplique, devem estar reunidos dois requisitos. Por um lado, deve ter sido pedida a abertura de um processo colectivo [a referência a “processo colectivo”, na tradução oficial portuguesa do acórdão, indica, numa tradução da versão francesa (procédure collective), a abertura do processo de insolvência, enquanto processo consistente numa execução universal ou colectiva dos bens do devedor em favor dos credores, não referencia propriamente a fase de liquidação; note-se que na versão inglesa do acórdão traduz-se a mesma expressão por opening of proceedings; a Diretiva 2008/94/CE equaciona esta questão no respectivo considerando (4)] com base na insolvência do empregador e, por outro, uma decisão de abertura desse processo ou, em caso de insuficiência do ativo para justificar a abertura de tal processo, uma declaração do encerramento definitivo da empresa.
+
+33. Ora, sempre que tenha sido adotada tal decisão de abertura, o artigo 2.º, n.º 1, da Diretiva 2008/94 não exige que o processo coletivo em causa deva necessariamente redundar na cessação da atividade do empregador.
+
+34. Esta conclusão é corroborada pelo considerando 4 da Diretiva 2008/94, que enuncia que deverá definir‑se o estado de insolvência à luz das tendências legislativas nos Estados‑Membros, devendo [ser] abrangidos através da definição do «estado de insolvência» igualmente outros processos de insolvência distintos dos de liquidação.
+
+35. No tocante ao direito búlgaro, deve salientar‑se que o teor literal do artigo 630.º, n.º 1, do TZ indica expressamente que a decisão de dar início ao processo de insolvência declara a insolvência e fixa a data da sua ocorrência. Ora, esta disposição utiliza o mesmo termo para designar a insolvência que o previsto na versão búlgara do artigo 2.º, n.º 1, da Diretiva 2008/94.
+
+36. Além disso, e como salienta a Comissão Europeia, em conformidade com o disposto no artigo 2.º, alínea a), do Regulamento (CE) n.º 1346/2000 do Conselho, de 29 de maio de 2000, relativo aos processos de insolvência (JO L 160, p. 1), conforme alterado pelo Regulamento (CE) n.º 1791/2006 do Conselho, de 20 de novembro de 2006 (JO L 363, p. 1), o Anexo A desse regulamento determina que o processo de insolvência búlgaro previsto nos artigos 607.º e seguintes do TZ constitui um «processo de insolvência», na aceção do artigo 1.º, n.º 1, do referido regulamento. Ora, essa última disposição descreve os «processos coletivos com base em insolvência» da mesma forma que o artigo 2.º, n.º 1, da Diretiva 2008/94, na medida em que se requer que o referido processo determine a inibição parcial ou total do devedor da administração ou disposição de bens e a designação de um síndico.
+
+37. Por conseguinte, o artigo 2.º, n.º 1, da Diretiva 2008/94 não exige, para que a garantia prevista por esta diretiva seja aplicável, que tenha sido ordenada a cessação das atividades do empregador.
+
+38. Em segundo lugar, cumpre verificar se os artigos 3.º e 4.º da referida diretiva permitem determinar a data de transcrição no Registo Comercial da decisão de dar início ao processo de insolvência como data de referência posteriormente à qual os créditos dos trabalhadores já não são garantidos.
+
+39. A este propósito, o artigo 3.º, segundo parágrafo, da Diretiva 2008/94 dá aos Estados‑Membros a faculdade de determinar a data antes e/ou, tal sendo o caso, posteriormente à qual se situa o período durante o qual os créditos correspondentes a remunerações não pagos são tomados a cargo pela instituição de garantia.
+
+40. Quanto à determinação dessa data pelos Estados‑Membros, há que salientar que o artigo 3.º, n.º 2, da Diretiva 80/987, na sua versão inicial, antes da sua alteração pela Diretiva 2002/74, só previa a escolha pelos Estados‑Membros entre as três datas de referência que enumerava.
+
+41. Ora, as alterações introduzidas pela Diretiva 2002/74 e mantidas pela Diretiva 2008/94 suprimiram a menção dessas três datas e o artigo 3.º, segundo parágrafo, desta última diretiva deixa, por isso, aos Estados‑Membros a liberdade de determinar uma data adequada.
+
+42. Por último, deve salientar‑se que o artigo 11.º, primeiro parágrafo, da Diretiva 2008/94 não prejudica a faculdade de os Estados‑Membros aplicarem ou introduzirem disposições legislativas, regulamentares ou administrativas mais favoráveis aos trabalhadores assalariados, e assim prolongar o período de garantia de uma forma adequada se o julgarem oportuno (v., neste sentido, acórdão de 15 de maio de 2003, Mau, C‑160/01, Colet., p. I‑4791, n.º 32).
+
+43. Em face do exposto, há que responder à primeira e segunda questões que a Diretiva 2008/94 deve ser interpretada no sentido de que não obriga os Estados‑Membros a prever garantias para os créditos dos trabalhadores em cada etapa do processo de insolvência do seu empregador. Em particular, não se opõe a que os Estados‑Membros prevejam uma garantia unicamente para os créditos dos trabalhadores constituídos antes da transcrição no Registo Comercial da decisão de dar início ao processo de insolvência, mesmo que essa decisão não ordene a cessação das atividades do empregador.
+
+[…]” (sublinhados acrescentados).
+
+2.3.3.3. No processo C‑309/12 (Maria Albertina Gomes Viana Novo e outros c. Fundo de Garantia Salarial, IP, acórdão de 28 de novembro de 2013, ECLI:EU:C:2013:774), em resposta a um pedido de reenvio prejudicial apresentado pelo Tribunal Central Administrativo Norte, o TJUE decidiu que “[a] Diretiva 80/987/CEE do Conselho, de 20 de outubro de 1980, relativa à proteção dos trabalhadores assalariados em caso de insolvência do empregador, conforme alterada pela Diretiva 2002/74/CE do Parlamento Europeu e do Conselho, de 23 de setembro de 2002, deve ser interpretada no sentido de que não se opõe a uma legislação nacional que não garante os créditos salariais vencidos mais de seis meses antes da propositura da ação de insolvência do empregador, mesmo quando os trabalhadores tenham proposto, antes do início desse período, uma ação judicial contra o seu empregador, com vista à fixação do valor desses créditos e à sua cobrança coerciva”. Na fundamentação deste aresto pode ler-se o seguinte:
+
+“[…]
+
+19. Resulta dos autos apresentados ao Tribunal de Justiça que o FGS recusou pagar a Gomes Viana Novo e o. os seus créditos salariais, uma vez que estes se tinham vencido mais de seis meses antes da data da propositura da ação de insolvência do empregador, que a legislação nacional que transpôs a Diretiva 80/987, conforme alterada, elegeu como data a partir da qual deve ser calculado o período de referência previsto nos artigos 3.º, segundo parágrafo, e 4.º, n.º 2, daquela.
+
+20. A Diretiva 80/987, na sua versão inicial e conforme alterada, visa assegurar a todos os trabalhadores assalariados um mínimo de proteção, ao nível da União Europeia, em caso de insolvência do empregador, através do pagamento dos créditos em dívida resultantes de contratos ou de relações de trabalho, respeitantes à remuneração relativa a um determinado período (v. acórdãos de 4 de março de 2004, Barsotti e o., C‑19/01, C‑50/01 e C‑84/01, Colet., p. I‑2005, n.º 35; de 16 de julho de 2009, Visciano, C‑69/08, Colet., p. I‑6741, n.º 27; e de 17 de novembro de 2011, van Ardennen, C‑435/10, Colet., p. I‑11705, n.º 27).
+
+21. É com este objetivo que o artigo 3.º da Diretiva 80/987, conforme alterada, impõe que os Estados‑Membros tomem as medidas necessárias para que as instituições de garantia nacionais assegurem o pagamento dos créditos em dívida aos trabalhadores assalariados.
+
+22. Todavia, tanto a Diretiva 80/987, na sua versão inicial, como a Diretiva 80/987, conforme alterada, conferem aos Estados‑Membros a faculdade de limitarem a obrigação de pagamento através da fixação de um período de referência ou de um período de garantia e/ou do estabelecimento de limites máximos aos pagamentos.
+
+23. A este título, resulta do ponto 3 do Relatório da Comissão ao Parlamento Europeu e ao Conselho sobre a aplicação de determinadas disposições da Diretiva 2008/94 [COM(2011) 84 final], cujos artigos 3.º e 4.º correspondem, em substância, aos da Diretiva 80/987, conforme alterada, que muitos Estados‑Membros fizeram uso dessa faculdade de limitar a sua obrigação de pagamento no tempo e/ou estabeleceram limites máximos aos pagamentos.
+
+24. O artigo 3.º da Diretiva 80/987, na sua versão inicial, dava aos Estados‑Membros a faculdade de escolherem, de entre várias possibilidades, a data até à qual seriam garantidas as remunerações em dívida. Tendo em conta a escolha assim efetuada, o artigo 4.º, n.º 2, da referida diretiva determinava os créditos em dívida que, em qualquer caso, deviam ser cobertos pela obrigação de garantia quando um Estado‑Membro tivesse decidido, ao abrigo do artigo 4.º, n.º 1, limitar essa obrigação de garantia (v., neste sentido, acórdão de 10 de julho de 1997, Maso e o., C‑373/95, Colet., p. I‑4051, n.º 47).
+
+25. As alterações introduzidas pela Diretiva 2002/74 no artigo 3.º da Diretiva 80/987, na sua versão inicial, suprimiram a referência às três datas que aí constavam inicialmente e, nos termos do segundo parágrafo desse artigo, os Estados‑Membros passaram a fixar livremente a data anteriormente e/ou, tal sendo o caso, posteriormente à qual se situa o período durante o qual os créditos correspondentes a remunerações em dívida são tomados a cargo pela instituição de garantia (v., neste sentido, acórdão de 18 de abril de 2013, Mustafa, C‑247/12, n.ºs 39 a 41).
+
+26. Ao abrigo do artigo 4.º, n.ºs 1 e 2, da Diretiva 80/987, na sua versão inicial, quando os Estados‑Membros optassem por limitar a garantia assegurada pela instituição, podiam situar a garantia mínima de três meses no período de seis meses anterior à data de referência. Após a entrada em vigor das alterações à Diretiva 80/987, na sua versão inicial, introduzidas pela Diretiva 2002/74, é também possível situar esse período posteriormente a esta data de referência. Os Estados‑Membros têm também a faculdade de prever uma garantia mínima limitada a oito semanas, desde que este período de oito semanas se situe num período de referência mais longo, de dezoito meses, no mínimo.
+
+27. Nestas condições, há que constatar que a Diretiva 80/987, conforme alterada, não se opõe a que um Estado‑Membro fixe como data de início do cálculo do período de referência a data da propositura da ação de insolvência do empregador. De igual modo, se um Estado‑Membro decidir fazer uso da faculdade de limitar a garantia através da fixação de um período de referência, pode escolher limitar este período de referência a seis meses, desde que garanta o pagamento da remuneração dos três últimos meses da relação de trabalho.
+
+28. Dado que, no âmbito do litígio no processo principal, a legislação nacional garante a remuneração referente aos três últimos meses da relação de trabalho, há que constatar que o legislador nacional, ao adotar disposições que preveem que o FGS assegura o pagamento dos créditos salariais vencidos seis meses antes da propositura da ação de insolvência do empregador e, em certas condições, mesmo após essa data, pode fazer uso da faculdade de limitar a obrigação que incumbe às instituições de garantia, que lhe é conferida pelos artigos 3.º e 4.º da Diretiva 80/987, conforme alterada.
+
+29. Como resulta da jurisprudência do Tribunal de Justiça recordada no n.º 20 do presente acórdão, a Diretiva 80/987, conforme alterada, visa apenas uma proteção mínima dos trabalhadores assalariados, em caso de insolvência do seu empregador. As disposições relativas à faculdade oferecida aos Estados‑Membros de limitarem a sua garantia demonstram que o sistema estabelecido pela Diretiva 80/987, conforme alterada, tem em consideração a capacidade financeira desses Estados e procura preservar o equilíbrio financeiro das suas instituições de garantia.
+
+30. Esta consideração manifesta‑se designadamente na faculdade concedida aos Estados‑Membros de encurtarem o período de garantia, se o período mínimo de referência for prolongado, como prevê o artigo 4.º, n.º 2, segundo parágrafo, da Diretiva 80/987, como alterada, bem como na faculdade de estabelecerem limites máximos aos pagamentos, nos termos do artigo 4.º, n.º 3, desta diretiva.
+
+31. Importa recordar que os casos em que é permitido limitar a obrigação de pagamento das instituições de garantia, previstos no artigo 4.º da Diretiva 80/987, conforme alterada, devem ser objeto de interpretação estrita (v., neste sentido, acórdão van Ardennen, já referido, n.º 34).
+
+32. Todavia, a interpretação restritiva destes casos não pode ter por efeito esvaziar de conteúdo a faculdade expressamente reservada aos Estados‑Membros de limitarem a referida obrigação de pagamento.
+
+33. Ora, há que constatar que tal seria o caso se se devesse interpretar a Diretiva 80/987, conforme alterada, no sentido de que se opõe a uma legislação nacional que não garante os créditos salariais vencidos mais de seis meses antes da propositura da ação de insolvência do empregador.
+
+34. Além disso, sublinhe‑se que, como resulta da jurisprudência do Tribunal de Justiça recordada no n.º 20 do presente acórdão, a Diretiva 80/987 visa assegurar aos trabalhadores uma proteção em caso de insolvência do empregador. Daí decorre que o sistema instituído por esta diretiva pressupõe um nexo entre a insolvência e os créditos salariais em dívida.
+
+35. Contudo, com base nos autos apresentados ao Tribunal de Justiça, parece que esse nexo não existe no âmbito do litígio no processo principal.
+
+36. Na verdade, ao passo que os créditos salariais objeto deste litígio resultam do facto de o empregador de Gomes Viana Novo e o. ter deixado de lhes pagar salários a partir de abril de 2003 e de estes terem rescindido os seus contratos de trabalho, em setembro de 2003, devido a essa falta de pagamento, outros trabalhadores ao serviço do mesmo empregador continuaram a receber salário ao longo dos anos de 2004 a 2006 e só em maio de 2006 é que os contratos destes últimos trabalhadores cessaram, devido à insolvência do seu empregador. Assim, apesar dos atrasos nos pagamentos dos salários, o empregador manteve e remunerou uma parte importante do seu pessoal, vários anos após a rescisão dos contratos de trabalho de Gomes Viana Novo e o.
+
+37. Há, pois, que responder à questão submetida que a Diretiva 80/987, conforme alterada, deve ser interpretada no sentido de que não se opõe a uma legislação nacional que não garante os créditos salariais vencidos mais de seis meses antes da propositura da ação de insolvência do empregador, mesmo quando os trabalhadores tenham proposto, antes do início desse período, uma ação judicial contra o seu empregador, com vista à fixação do valor desses créditos e à sua cobrança coerciva.
+
+[…]” (sublinhados acrescentados).
+
+2.3.3.4. Salienta-se, ainda, que, segundo o Tribunal de Justiça, “[…] quando se verifica uma discriminação contrária ao direito comunitário e enquanto as medidas que restabelecem a igualdade de tratamento não forem adotadas, o respeito do princípio da igualdade só pode ser assegurado pela concessão, às pessoas da categoria desfavorecida, das mesmas vantagens de que beneficiam as pessoas da categoria privilegiada (acórdão Rodríguez Caballero […] n.º 42). […] Em tal hipótese, o juiz nacional deve afastar toda e qualquer disposição nacional discriminatória, não tendo de pedir ou aguardar a sua eliminação prévia pelo legislador, e aplicar aos membros do grupo desfavorecido o mesmo regime de que beneficiam os outros trabalhadores (acórdão Rodríguez Caballero […] n.º 43, e jurisprudência aí indicada). Esta obrigação incumbe‑lhe independentemente da existência, no ordenamento jurídico nacional, de disposições que lhe atribuam competência para assim proceder” [processo C‑309/12, Anacleto Cordero Alonso c. Fondo de Garantía Salarial (Fogasa), acórdão de 7 de setembro de 2006, ECLI:EU:C:2006:529, pontos 45 e 46].
+
+2.4. Estabelece o artigo 59.º da CRP:
+
+Artigo 59.º
+
+(Direitos dos trabalhadores)
+
+1. Todos os trabalhadores, sem distinção de idade, sexo, raça, cidadania, território de origem, religião, convicções políticas ou ideológicas, têm direito:
+
+a) À retribuição do trabalho, segundo a quantidade, natureza e qualidade, observando-se o princípio de que para trabalho igual salário igual, de forma a garantir uma existência condigna;
+
+----------------------------------------------------------------------------------------------.
+
+3. Os salários gozam de garantias especiais, nos termos da lei.
+
+Reafirmando, neste específico domínio, o princípio da igualdade no corpo do n.º 1, a lei fundamental afirma, na alínea a), o direito à justa retribuição do trabalho, cujo destaque encontra evidente justificação. Nas palavras do Acórdão n.º 257/2008 (ponto 13):
+
+“[…]
+
+Na verdade, a retribuição da prestação laboral, quer na sua causa, quer na sua destinação típica, está intimamente ligada à pessoa do trabalhador. Ela é a contrapartida da disponibilização da sua energia laborativa, posta ao serviço da entidade patronal. Ela é também, por outro lado, o único ou principal meio de subsistência do trabalhador, que se encontra numa situação de dependência da retribuição auferida na execução do contrato para satisfazer as suas necessidades vivenciais.
+
+É esta dimensão pessoal e existencial que qualifica diferenciadamente os créditos laborais, justificando a tutela constitucional reforçada de que gozam, para além da conferida, em geral, às posições patrimoniais ativas.
+
+É, na verdade, esta perspetiva valorativa que levou à consagração do direito à retribuição do trabalho entre os direitos dos trabalhadores enumerados no n.º 1, alínea a), do artigo 59.º da CRP, por forma a ‘garantir uma existência condigna’ – direito este já expressamente considerado pelo Tribunal Constitucional como um direito de natureza análoga aos direitos, liberdades e garantias (Acórdão n.º 379/91). Por outro lado, no n.º 3 do mesmo preceito estabelece-se que ‘os salários gozam de garantias especiais, nos termos da lei’.
+
+Esta previsão constitucional de garantias especiais para créditos salariais seguramente que, não só justifica, como impõe, regimes consagradores da sua discriminação positiva, em relação aos demais créditos sobre os empregadores (cfr., neste sentido, Gomes Canotilho/Vital Moreira, Constituição da República Portuguesa Anotada, I, 4.ª ed., Coimbra, 2007, 777).
+
+[…]
+
+Como a norma [da alínea a) do n.º 1] expressamente acentua – nos seus próprios termos, tem-se em vista ‘garantir uma existência condigna’ –, o reconhecimento de tal direito exprime o valor básico da dignidade da pessoa humana (artigo 1.º da CRP), constituindo, no seu específico âmbito de proteção, um instrumento do preenchimento das condições materiais da realização deste valor. E o relevo nuclear do direito à (justa) remuneração do trabalho é atestado pela vinculação do legislador ao estabelecimento de garantias especiais para os salários (n.º 3 do artigo 59.º).
+
+[…]”.
+
+Por outro lado, “é pacífico na doutrina, e este Tribunal tem também afirmado, que o direito à retribuição é um direito de natureza análoga aos direitos liberdades e garantias (v., entre muitos, os Acórdãos n.ºs 620/2007 e 396/2011), que, de resto, o Estado tem o dever de proteger (cfr. artigo 59.º, n.º 2, da Constituição)” (Acórdão n.º 510/2016).
+
+2.4.1. A proteção da retribuição inclui, nos termos do artigo 59.º, n.º 3, da Constituição, a previsão de “garantias especiais”, cuja modelação cabe ao legislador, que, para o efeito, goza de “ampla liberdade” (cfr. Jorge Miranda e Rui Medeiros, Constituição Portuguesa Anotada, tomo I, 2.ª ed., Coimbra, 2010, p. 1166). Não obstante, a instituição do mecanismo do Fundo de Garantia Salarial (para além de – como vimos – consistir numa obrigação para o Estado Português decorrente do Direito da União) não pode deixar de ser vista como concretização de uma das garantias a que se refere aquele n.º 3 (nesse sentido, v. J. J. Gomes Canotilho e Vital Moreira, Constituição da República Portuguesa Anotada, vol. I, 4.ª ed., Coimbra, 2014, p. 777).
+
+Não é inócua a apontada ligação entre o mecanismo do FGS e a norma do n.º 3 do artigo 59.º da CRP. Tratando-se de uma das garantias ali previstas, ao escolher (apesar de, nessa escolha, se encontrar vinculado pelo Direito da União) instituir o FGS como uma das garantias especiais da retribuição, o legislador está vinculado à construção de um regime que lhe assegure um mínimo de efetividade, sem a qual resultaria esvaziada de sentido a norma constitucional, com respeito pela igualdade (artigos 13.º e 59.º, n.º 1, da CRP). Por outro lado, tratando-se de atribuir, no apontado contexto, um direito a uma prestação pecuniária, e de limitar no tempo a efectividade desse direito pelo não exercício, tal atribuição deve operar, na compaginação destas duas vertentes, segundo regras claras, certas e objetivas – exigência decorrente do princípio do Estado de direito democrático (artigo 2.º da Constituição).
+
+2.5. Tendo presentes as linhas essenciais do NRFGS – em particular a norma objeto do presente recurso (cfr. itens 2.1. e 2.2., supra) – verificam-se aporias que o afastam do padrão de efetividade e certeza acabado de traçar.
+
+De acordo com o sentido das normas relevante para a presente decisão (cfr. item 2.2., supra), a declaração de insolvência faz nascer o direito ao acionamento do FGS. Sucede que a declaração judicial constitui um momento num processo judicial contraditório, de cujos termos o trabalhador tem (ou pode ter) unicamente o domínio do impulso processual inicial, sendo que, subsequentemente, o desenvolvimento do processo como que lhe “sai das mãos”, sendo muito limitada a respectiva capacidade de determinar no elemento tempo os ulteriores passos processuais até à efetiva declaração do devedor em estado de insolvência. De facto, basta pensar que, não sendo um dos casos excecionais de dispensa da audiência do devedor (artigo 12.º do Código da Insolvência e da Recuperação de Empresas, doravante CIRE), há lugar à citação deste, que poderá ser mais ou menos demorada, podendo ser apresentada oposição e realizada audiência de julgamento, gerando-se uma dilação assinalável entre o pedido de declaração da insolvência e essa mesma declaração – circunstâncias das quais o caso dos autos constitui, aliás, exemplo vivo, tendo a declaração de insolvência ocorrido cerca de seis meses e meio após ter sido requerida pelo primeiro Recorrente. Ou seja, pegando precisamente no exemplo que os autos ilustram, observamos que se consumiu mais de metade do prazo de acionamento do FGS em vicissitudes processuais que o trabalhador credor da insolvente não esteve em condições de dominar, sendo certo que a declaração de insolvência foi pedida decorridos que foram menos de seis meses do prazo de um ano previsto no artigo 2.º, n.º 8, do NRFGS.
+
+Não estamos – deve sublinhar-se – perante a questão, sucessivamente apreciada pela jurisprudência europeia, de saber se o legislador pode fixar prazos mais ou menos alargados para o exercício do direito ao acionamento do FGS, sob pena de caducidade ou prescrição: ninguém aqui discute a existência de prazos nem o prazo em concreto estabelecido na norma referenciada na decisão.
+
+O que está em causa é saber se, na contagem desse prazo, é possível incluir um período temporal (que, como vimos, pode ser assinalável) especificamente determinado e tendente à criação de um pressuposto essencial do direito ao acionamento do FGS (o período entre o pedido de declaração da insolvência e a sua efectiva declaração pelo tribunal competente), cujos termos escapam por completo ao controlo do trabalhador-credor, de tal forma que o mero decurso do tempo nessa fase processual provoque a extinção do direito. Assim se cria uma evidente antinomia: o trabalhador-credor de um empregador insolvente que queira ver tutelado o direito à prestação pelo FGS vê-se obrigado a pedir a declaração de insolvência e, a partir desse momento, as vicissitudes próprias do processo que fez nascer com essa finalidade, comprometem o exercício desse mesmo direito, sem que um comportamento alternativo lhe seja exigível – rectius, possa por ele ser adotado – no sentido de evitar essa preclusão.
+
+Ao fazer nascer, ainda que potencialmente, na própria condição de realização de um direito a causa da sua extinção, à qual o respetivo titular se vê impossibilitado de obstar, o legislador deixa de conferir à retribuição – e ao “remédio” (talvez mais até ao paliativo) para a sua perda – a tutela que lhe era devida nos termos do artigo 59.º, n.º 3, da Constituição. Sendo certo que o sistema do FGS “pressupõe um nexo entre a insolvência e os créditos salariais em dívida” (acórdão do TJUE de 28 de novembro de 2013, cfr. supra 2.3.2.3.), seria o próprio processo judicial com aptidão para estabelecer o referido nexo que constituiria causa da preclusão do direito.
+
+Geram-se, por outro lado, diferenciações arbitrárias na concessão (na realização) daquele direito a distintos titulares, subordinado que fica este à duração maior ou menor da fase inicial dos processos de insolvência, em função de ter sido deduzida oposição, da duração das audiências de julgamento, das diferentes capacidades de resposta dos tribunais, etc. Tudo fatores alheios à vontade do trabalhador-credor e que, por isso mesmo, não suportam a afirmação de existência de algo semelhante a um “domínio do facto” por este, cujo efeito de condicionamento do respectivo direito não encontra justificação na tutela de qualquer outro valor que possamos considerar relevante no confronto com a necessidade de tutela da retribuição que se verifica no contexto apontado.
+
+A este respeito, não releva, propriamente, de forma direta, a qualificação do prazo como de caducidade ou de prescrição – questão que, na ausência de uma opção legal expressa, se prefigura como de âmbito fundamentalmente doutrinário que, em todo o caso, nos aparece aqui ligada a uma opção interpretativa do direito infraconstitucional –, relevando antes a circunstância de, no contexto descrito, a contagem de tal prazo ocorrer sem qualquer suspensão ou interrupção, gerando um sinal – rectius, potenciando um efeito – de valor contrário ao próprio direito.
+
+Note-se, todavia – sublinhando o sentido atuante que a qualificação jurídica do prazo aqui acabou por assumir –, que o Fundo, na fundamentação da respectiva posição de indeferimento da pretensão dos ora Recorridos (cfr. item 1.2.1. supra) – e sublinha-se, pois, que foi nesse quadro que a decisão recorrida, como não podia deixar de ser, se forjou –, qualificou expressamente o prazo em causa no artigo 2.º, n.º 8, do NRFGS como de caducidade, referindo-lhe expressamente a circunstância, que é própria do regime da caducidade nos termos do artigo 328.º do CC, de só comportar suspensão ou interrupção mediante previsão legal, no caso inexistente. E, de facto, é neste contexto que se afirma que, “[e]m matéria de contagem do prazo de caducidade[,] aplicam-se, em princípio, tal como na prescrição, as regras gerais, com uma importante diferença. Na caducidade vale muito mais plenamente o princípio segundo o qual o tempo se conta ininterruptamente”, já que, “[…] como resulta do artigo 328.º do CC, ‘o prazo de caducidade não se suspende nem se interrompe, senão nos casos em que a lei o determine’. Assim, se a lei, em cada caso concreto, não admitir, expressamente, a suspensão e a interrupção do prazo de caducidade (ou algum destes institutos), o prazo corre sempre sem intermitências de qualquer ordem” (Luís A. Carvalho Fernandes, Teoria Geral do Direito Civil, Vol. II, 4.ª ed., Lisboa, 2007, p. 703). Ora, tendo sido a invocação, por parte do FGS, desta característica do regime da caducidade que conduziu à construção do indeferimento (por inexistir previsão legal a permitir a suspensão ou a interrupção do decurso do prazo), não poderia a decisão recorrida, ao sindicar esse indeferimento, deixar de pressupor essa interpretação e construir em função dela a questão de inconstitucionalidade que constituiu a respetiva ratio decidendi.
+
+Porém, não é irrelevante a pouca clareza do regime legal, espelhada na norma em causa, considerada em si mesma ou sistematicamente inserida no diploma que a contém. O elemento de incerteza deste regime (evidenciado à saciedade, nestes autos, pelas posições assumidas na decisão recorrida, nas alegações e contra-alegações de recurso e no item 2.2., supra) compromete seriamente a efetividade da tutela que corresponde ao mecanismo do FGS, apresentando-se o complexo normativo do NRFGS, ao gerar estas interpretações díspares, com uma consistência pouco definida – para não dizer insuportavelmente ambígua –, cuja interpretação muito dificilmente assumirá um sentido minimamente claro, gerador de segurança nos destinatários beneficiários do seu âmbito de proteção. Isto ao ponto destes não disporem, consistentemente, da possibilidade de, agindo com normal diligência, anteverem com suficiente segurança o comportamento que devem adotar para formular atempadamente a sua pretensão junto do FGS, assim se comprometendo as exigências mínimas de certeza decorrentes do princípio do Estado de direito democrático (artigo 2.º da Constituição).
+
+2.5.1. Aliás, em hipóteses como a dos presentes autos, pode mesmo dizer-se, tomando de empréstimo as palavras do acórdão do TJUE de 16 de julho de 2009, no caso Visciano (referido supra no item 2.3.2.1.), que a configuração do prazo pode tornar “[…] impossível na prática ou excessivamente difícil” o exercício do direito do trabalhador credor, além de que – como justamente se assinalou naquela decisão – “[…] uma situação caracterizada por uma considerável incerteza jurídica pode constituir uma violação do princípio da efetividade, uma vez que a reparação dos danos causados a particulares por violações do direito comunitário imputáveis a um Estado‑Membro pode, na prática, ser extremamente dificultada se estes não puderem determinar o prazo de prescrição aplicável, com um razoável grau de certeza”.
+
+2.6. As razões que antecedem são, pois, aptas a fundar um juízo de censura constitucional à norma sub judicio, confirmando a esse respeito a decisão recorrida. Complementarmente, justificam-se duas observações adicionais, referidas à incidência na situação do Direito da União e à referenciação da intervenção do Tribunal Constitucional exclusivamente à questão de inconstitucionalidade.
+
+2.6.1. Assim, como primeira nota, respeitante às incidências do caso relativas ao Direito da União, cumpre-nos salientar, quanto ao âmbito da intervenção deste Tribunal no quadro referencial do artigo 8.º, n.º 4 da CRP (aqui relevante no trecho que estabelece que “[…] as normas emanadas das […] instituições [da União Europeia], no exercício das respectivas competências, são aplicáveis na ordem interna, nos termos definidos no Direito da União […]”), a ausência de justificação para que equacionemos (neste recurso) um reenvio prejudicial de interpretação ao TJUE, nos termos do artigo 267.º do Tratado sobre o funcionamento da União Europeia (TFUE).
+
+Vale esta opção – como adiante explicitaremos – em função da constatação de não se prefigurar aqui, na sequência da jurisprudência do TJUE referida ao longo deste Acórdão, uma dúvida quanto à interpretação do Direito da União que apresenta relevância no caso concreto, designadamente quanto ao sentido prescritivo dos artigos 3.º sucessivamente incluídos nas Diretivas 80/987/CEE e 2008/94/CE, referidas no item 2.3.1 supra. Estas, consubstanciando “atos jurídicos da União” vinculativos do Estado português “[…] quanto ao resultado a alcançar […]”, na aceção do terceiro parágrafo do artigo 288.º do TFUE (“[a] directiva vincula o Estado-Membro destinatário quanto ao resultado a alcançar, deixando, no entanto, às instâncias nacionais a competência quanto à forma e aos meios”), mostram-se já devidamente esclarecidas pela jurisprudência do TJUE, no seu sentido operante relativamente à norma de Direito interno aqui sujeita à apreciação do Tribunal Constitucional (o artigo 2.º, n.º 8 do NRFGS na interpretação em causa na decisão recorrida).
+
+Aliás, conforme indicámos no item 2.5.1. supra, o ora decidido encontra-se, assumidamente, em linha com o sentido evidente dessa jurisprudência relevante na matéria aqui em causa – referimo-nos às decisões, todas proferidas em processos de reenvio, do TJUE referenciadas no item 2.3.3. supra e respectivas subdivisões (2.3.3.1 a 2.3.3.4.) –, concretamente com o ponto 46. acima transcrito, no item 2.3.3.1., constante do acórdão Visciano c. INPS, de 16 de julho de 2009 (processo C-69/08).
+
+Com efeito, estando em causa uma obrigação de reenvio, nos termos do terceiro parágrafo do artigo 267.º do TFUE, “[…] para os órgãos jurisdicionais que julguem sem hipótese de recurso judicial previsto no direito interno” [Inês Quadros, “Acórdão do Tribunal de Justiça de 6 de Outubro de 1982 – Processo 283/81 Srl Cilfit et Lanificio di Gavardo SpA c. Ministero della sanità”, in Princípios Fundamentais de Direito da União Europeia. Uma Abordagem Jurisprudencial, Sofia Oliveira Pais (coord.), 3.ª ed., Coimbra, 2014, p. 223], verifica-se neste caso uma das circunstâncias nas quais, segundo o TJUE no acórdão Cilfit, está o tribunal nacional dispensado desse reenvio.
+
+Referimo-nos em concreto, seguindo o ponto 14. desse acórdão de 1982 (que é invariavelmente assumido como precedente de forte valor persuasivo), às situações em que exista “[…] uma orientação jurisprudencial do Tribunal que esclareça o ponto de direito em causa, qualquer que seja a natureza do procedimento que deu lugar a esta jurisprudência, mesmo na ausência de uma estrita identidade das questões em litígio”. Nestes casos, o esclarecimento anterior pelo TJUE de uma situação equivalente, em termos aptos a suportar, consistentemente, um juízo de identidade de razão, confere à norma interpretanda a natureza de “ato clarificado” (Inês Quadros, “Acórdão do Tribunal de Justiça de 6 de Outubro de 1982…”, cit. p. 229).
+
+2.6.2. A isto acresce – como segunda nota complementar acima indicada no item 2.6. – a seguinte observação. Cabe ao Tribunal Constitucional a última palavra sobre a inconstitucionalidade da norma em questão, não lhe cabe, porém, determinar qual a melhor interpretação do direito infraconstitucional na sequência do afastamento dessa norma (dessa construção normativa). Assim, na falta de uma opção legislativa expressa, caberá aos tribunais comuns a solução das questões que o presente julgamento deixa em aberto (designadamente, se deve tratar-se de interrupção ou suspensão do prazo, se o efeito interruptivo ou suspensivo em relação a todos os credores pode depender do pedido de declaração de insolvência de um só credor ou de um credor de certa categoria ou até quando se deve verificar a suspensão ou interrupção).
+
+Cinge-se, pois, a presente decisão, à questão de inconstitucionalidade, nos termos em que esta emergiu da decisão de recusa do Tribunal a quo.
+
+2.7. Pelas razões que antecedem, improcede o recurso, devendo confirmar-se a decisão recorrida.
+
+É o que nos resta afirmar, conferindo-lhe expressão decisória.».
+
+Neste Acórdão, o Tribunal Constitucional julgou inconstitucional «a norma contida no artigo 2.º, n.º 8, do Novo Regime do Fundo de Garantia Salarial, aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril, na interpretação segundo a qual o prazo de um ano para requerer o pagamento dos créditos laborais, certificados com a declaração de insolvência, cominado naquele preceito legal é de caducidade e insuscetível de qualquer interrupção ou suspensão».
+
+Este juízo de inconstitucionalidade foi sucessivamente reiterado nos Acórdãos n.os 583/2018, 251/2019, 270/2019, 575/2019, 576/2019 e 578/2019 e nas Decisões Sumárias n.os 111/2019 e 114/2019, 204/2019, 297/2019, 464/2019, 512/2019 e 530/2019 (disponíveis em www.tribunalconstitucional.pt/tc/decsumarias).
+
+7. No caso dos presentes autos não teve lugar um processo de insolvência, mas sim um processo especial de revitalização (PER), no qual figurava como devedora a sociedade empregadora do ora recorrido. A situação sub judice enquadra-se, assim, na alínea b) e não na alínea a) do n.º 1 do artigo 1.º do NRFGS, aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril, que assim dispõe:
+
+«Artigo 1.º
+
+O Fundo de Garantia Salarial, abreviadamente designado por Fundo, assegura o pagamento ao trabalhador de créditos emergentes do contrato de trabalho ou da sua violação ou cessação, desde que seja:
+
+a) Proferida sentença de declaração de insolvência do empregador;
+
+b) Proferido despacho do juiz que designa o administrador judicial provisório, em caso de processo especial de revitalização;
+
+c) Proferido despacho de aceitação do requerimento proferido pelo IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), no âmbito do procedimento extrajudicial de recuperação de empresas.»
+
+Resulta dos autos, de acordo com a factualidade assente na decisão judicial recorrida, que o autor, ora recorrido, foi trabalhador da sociedade empregadora na qual foi admitido em maio de 1987. Em 11/7/2016, comunicou à referida sociedade que resolvia o contrato de trabalho existente, invocando a falta de pagamento de créditos salariais. Mediante petição apresentada em 10/8/2016, correu termos o processo especial de revitalização (PER) n.º 1034/16.9T8AMT. No Tribunal Judicial foi proferido, em 12/8/2016, despacho judicial de nomeação do administrador judicial provisório, a quem o autor, ora recorrido, viria a solicitar – e obter - o reconhecimento de créditos laborais. Em 20/6/2017 foi proferida sentença que homologou o plano de revitalização da mencionada sociedade, a qual transitou em julgado a 6/7/2017. A 22/6/2017, o autor apresentou requerimento requerendo a emissão de certidão “nos termos do disposto no art.º 336º do Código do Trabalho”, a qual apenas foi emitida pelo respetivo Tribunal em 27/7/2017. Em 24/8/2017, o mandatário do autor, ora recorrido, remeteu ao administrador judicial provisório, por email, o formulário para pagamento de créditos pelo FGS, solicitando a respetiva certificação, tendo o administrador judicial provisório devolvido o formulário em causa por carta registada expedida em 1/9/2017. Em 7/9/2017, no serviço de atendimento de Marco de Canaveses do Centro Distrital do Porto da segurança social, o autor apresentou requerimento para o pagamento pelo Fundo de Garantia Salarial dos créditos reclamados. O Fundo de Garantia Salarial viria a indeferir o requerido, por intempestividade do respetivo requerimento (artigo 2.º, n.º 8, do NRFGS).
+
+A este respeito, pronunciou-se a sentença ora recorrida nos seguintes termos (cf. supra, I, 2.):
+
+«O novo regime revela-se bastante mais exigente, mas também mais seguro (pelo menos em aparência): o prazo começa a contar no dia seguinte ao da cessação do contrato, e conta-se por si só, sem ficar dependente do apuramento do momento em que os créditos laborais prescreveriam.
+
+E a verdade é que a norma do art.º 2.°, n.° 8, do regime do FGS não dá espaço a qualquer outra interpretação: é um prazo de caducidade, e não estão previstas quaisquer causas de interrupção ou suspensão. Por isso, o FGS só podia ter aplicado a lei deste modo, atento o princípio da legalidade - e foi o que fez, como se retira da leitura das informações levadas ao probatório.
+
+Esta conclusão prejudica, por outro lado, toda a argumentação expendida pelo autor na petição inicial, no sentido de alegar a demora na entrega da certidão requerida, e do próprio PER, ou ainda a necessidade de certificação - é que a Lei não prevê que qualquer um desses fatores sirva para interromper, suspender ou de qualquer forma prolongar o prazo de um ano estabelecido.
+
+Mas se o problema não está na decisão administrativa, o mesmo não poderá dizer-se da norma que sustentou esta conclusão. Aliás, em sede de alegações o autor veio levantar precisamente este problema, remetendo para a jurisprudência constitucional recente.
+
+De facto, o art.º 2.°, n.° 8, do regime do FGS afronta a CRP, como aliás foi sancionado pelo Tribunal Constitucional, o qual veio a pronunciar-se pela primeira vez sobre a conformidade constitucional desta solução legislativa, pelo acórdão n.° 328/2018 [proferido no processo n.° 555/2017, datado de 27.06.2018], concluindo nos seguintes termos:
+
+"Julgar inconstitucional a norma contida no artigo 2°, n.° 8, do Decreto-Lei n.°59/2015, de 21 de abril, na interpretação segundo a qual o prazo de um ano para requerer o pagamento dos créditos laborais, certificados com a declaração de insolvência, cominado naquele preceito legal é de caducidade e insuscetível de qualquer interrupção ou suspensão".
+
+Sublinhe-se que esta decisão não tem força obrigatória geral, mas constitui sempre um importante subsídio interpretativo, e com impacto direto na situação concreta em discussão. E diga-se que apenas se declara inconstitucional uma determinada interpretação, e não a norma propriamente dita. Por sinal, a interpretação em causa é precisamente a que o FGS faz [rectius, a única que o teor literal do preceito lhe concede] no caso concreto dos autos, ou seja, estamos perante um prazo de caducidade que não está sujeito a qualquer causa de suspensão ou interrupção.»
+
+Sendo certo que o tribunal recorrido partiu de dados de facto e de um pressuposto diferente do considerado no Acórdão n.º 328/2018 (o direito ao acionamento do FGS depende da declaração de insolvência), ponderando que o reconhecimento dos créditos reclamados pelo trabalhador-credor ou que a sentença de homologação do PER (e o respetivo trânsito em julgado) possam constituir condições para o pedido de pagamento de créditos laborais junto do FGS, não menos certo é que o tribunal entendeu aderir aos fundamentos do Acórdão n.º 328/2018 para sustentar a recusa de aplicação ao caso vertente da norma do n.º 8 do artigo 2.º do NRFGS, essencialmente pelas seguintes razões:
+
+«De facto, o legislador não previu qualquer meio de defesa dos trabalhadores no sentido de acautelar a efetividade do seu direito, deixando-os totalmente desprotegidos em situações como a demora da prolação da sentença de insolvência ou de certificação dos requerimentos, e à mercê do decurso inabalável do tempo. Esta situação só veio a ser corrigida (e ainda veremos se em termos suficientes) com a introdução de um n.º 9 ao art.º 2.º do regime do FGS, norma que não se aplica in casu, por não estar em vigor à data do indeferimento.
+
+Em qualquer caso, e com amparo na argumentação expendida no acórdão do Tribunal Constitucional acima citado, importa no caso concreto desaplicar a norma em análise, interpretada no sentido proposto pelo FGS [sem que este, na verdade, tenha verdadeira responsabilidade nesse sentido interpretativo que, como se disse, é o único que emerge da literalidade da norma].
+
+Porquanto o art.º 204º da CRP consagra expressamente que nos feitos submetidos a julgamento não podem os tribunais aplicar normas que infrinjam o disposto na Constituição ou os princípios nela consignados. Ora, na medida em que o art.º 2.°, n.º 8, do regime do FGS interpretado no sentido de se tratar de um prazo de caducidade, não sujeito a causas de suspensão e interrupção, não cumpre as necessárias condições de certeza e segurança jurídicas, afronta o princípio da efetividade da proteção social visada pelo FGS, e por isso mesmo é contrária às exigências de clareza, assertividade, certeza e segurança jurídicas que brotam do princípio do Estado de Direito, consagrado no art.º 2.° da CRP.
+
+O que, em conformidade, se decidirá.»
+
+Assim, na perspetiva do tribunal a quo, a inconstitucionalidade da norma deriva da desconsideração das vicissitudes próprias dos processos (de insolvência ou de revitalização), cuja demora pode inviabilizar o exercício do direito pelo trabalhador dentro do prazo estabelecido, já que, como se lê na sentença recorrida, «o legislador não previu qualquer meio de defesa dos trabalhadores no sentido de acautelar a efetividade do seu direito, deixando-os totalmente desprotegidos em situações como a demora da prolação da sentença de insolvência ou de certificação dos requerimentos, e à mercê do decurso inabalável do tempo».
+
+Nessa medida, o problema de constitucionalidade ora em análise coloca-se nos mesmos termos em que foi apreciado no Acórdão n.º 328/2018: uma situação em que vicissitudes próprias do processo de insolvência (in casu, do PER) que “escapam por completo ao controlo do trabalhador-credor” determinam a impossibilidade de exercício do direito à proteção dos créditos laborais certificados com a declaração de insolvência (in casu certificados no âmbito do PER), no prazo de um ano que o NRFGS estabelece para o exercício do direito à satisfação dos créditos laborais especialmente garantidos.
+
+Deste modo, pese embora a decisão recorrida tenha enunciado a norma desaplicada (cf. Decisão recorrida, alínea a), supra transcrita em I, 2.) como sendo a «norma do art.° 2.°, n.° 8, do regime do FGS na redação vigente à data da prática do ato impugnado, quando interpretada no sentido de que a mesma estabelece um prazo de caducidade para requerer o pagamento dos créditos laborais ao FGS, insuscetível de qualquer suspensão ou interrupção;», decorre do acima exposto que a norma recusada aplicar se afigura mais restrita: a norma contida no artigo 2.º, n.º 8, do Novo Regime do Fundo de Garantia Salarial, aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril, vigente à data da prática do ato impugnado, quando interpretada no sentido de que a mesma estabelece um prazo de caducidade para requerer o pagamento dos créditos laborais, certificados no âmbito de Processo Especial de Revitalização, ao Fundo de Garantia Salarial, insuscetível de qualquer suspensão ou interrupção.
+
+8. A questão de inconstitucionalidade subjacente ao objeto do presente recurso, reportado à norma do n.º 8 do artigo 2.º do Novo Regime do Fundo de Garantia Salarial aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril, na redação vigente à data da prática do ato impugnado, quando interpretada no sentido de que a mesma estabelece um prazo de caducidade para requerer o pagamento dos créditos laborais, certificados no âmbito de Processo Especial de Revitalização, ao FGS, insuscetível de qualquer suspensão ou interrupção, cuja aplicação foi recusada pela decisão ora recorrida, constitui questão simples, na aceção do n.º 1 do artigo 78.º-A da LTC, por ter sido já apreciada por este Tribunal, nos específicos termos acima transcritos, no referido Acórdão n.º 328/2018 e demais citados.
+
+Assim, e tal como concluiu a decisão judicial recorrida, os fundamentos do juízo de inconstitucionalidade proferido no Acórdão n.º 328/2018, pese embora a já assinalada diferença, são transponíveis para a questão dos autos, em que a certificação dos créditos laborais ocorre no âmbito do PER (pelo administrador judicial provisório), julgando-se inconstitucional a norma em causa nos presentes autos ora sindicada.
+
+III – Decisão
+
+9. Nos termos e pelos fundamentos exposto, ao abrigo do disposto no n.º 1 do artigo 78.º-A da LTC, decide-se:
+
+a) Julgar inconstitucional a norma contida no artigo 2.º, n.º 8, do Novo Regime do Fundo de Garantia Salarial, aprovado pelo Decreto-Lei n.º 59/2015, de 21 de abril, quando interpretada no sentido de que a mesma estabelece um prazo de caducidade para requerer o pagamento dos créditos laborais, certificados no âmbito de Processo Especial de Revitalização, ao FGS, insuscetível de qualquer suspensão ou interrupção;
+
+e, em consequência,
+
+b) Julgar improcedente o recurso interposto pelo recorrente.
+
+Sem custas, por não serem legalmente devidas (artigos 84.º da LTC, 4.º, n.º 1, do Decreto-Lei n.º 303/98, de 7 de outubro e 4.º, n.º 1, alínea a), do Regulamento das Custas Processuais).
+
+Lisboa, 14 de maio de 2020 - Maria José Rangel de Mesquita
