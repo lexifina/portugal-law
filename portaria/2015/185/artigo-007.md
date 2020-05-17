@@ -38,7 +38,7 @@ a) Nas categorias A1, A2 e A:
 
 i) Uma hora de condução noturna, sempre que possível;
 
-ii) Entre uma e seis horas de condução em que o instrutor é transportado pelo candidato a condutor no motociclo;
+ii) [Revogada.]
 
 b) Nas categorias B1, B, C1, C, D1, D, C1E, D1E, CE e DE, sempre que possível:
 
