@@ -1,0 +1,18 @@
+Aviso (extrato) n.º 8115/2020
+Sumário: 3.ª alteração à 1.ª revisão do Plano Diretor Municipal de Penela.
+3.ª alteração à 1.ª revisão do Plano Diretor Municipal de Penela
+Luís Filipe da Silva Lourenço Matias, Presidente da Câmara Municipal de Penela, torna público que, nos termos e para efeitos do disposto no artigo 118.º, conjugado com o n.º 1 do artigo 76.º e do n.º 2 do artigo 199.º do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal de Penela, em reunião de 16 de março de 2020, deliberou proceder à abertura do procedimento da 3.ª alteração à 1.ª revisão do Plano Diretor Municipal de Penela (PDMP).
+Deliberou ainda, nos termos e para efeitos do disposto no n.º 1 do artigo 120.º do Decreto-Lei n.º 80/2015, de 14 de maio, e no n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual, que o procedimento deverá ser sujeito a avaliação ambiental.
+Mais deliberou estabelecer um prazo de 9 (nove) meses para a elaboração da 3.ª alteração à 1.ª revisão do PDMP, contados a partir do período de participação preventiva.
+Nos termos do n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, decorrerá um período de participação pública preventiva para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito da 3.ª alteração à 1.ª revisão do PDMP, por um prazo de 15 dias, contados a partir do quinto dia útil seguinte à data da publicação do presente aviso no Diário da República.
+A deliberação da Câmara Municipal de Penela e a documentação de suporte poderão ser consultadas no sítio na internet da Câmara Municipal de Penela (www.cm-penela.pt) ou no balcão único de atendimento desta autarquia, nos dias úteis e no horário de funcionamento dos serviços, convidando-se todos os interessados, no decorrer do prazo acima referido, a apresentarem por escrito as sugestões, informações e observações que acharem por conveniente, devendo as mesmas ser dirigidas ao Presidente da Câmara Municipal de Penela e conter a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+11 de maio de 2020. - O Presidente da Câmara Municipal, Luís Filipe da Silva Lourenço Matias.
+Deliberação
+Maria Leonor dos Santos Carnoto, técnica superior, certifica, para os devidos e legais efeitos, que, na ata da reunião ordinária da Câmara Municipal de Penela, realizada no dia dezasseis de março de dois mil e vinte consta a seguinte deliberação:
+A Câmara Municipal de Penela deliberou, por unanimidade:
+1 - Aprovar a abertura do procedimento da 3.ª alteração à 1.ª revisão do PDMP para adequação ao novo RJIGT, bem como os respetivos termos de referência, nos termos propostos na informação dos serviços;
+2 - Estabelecer, nos termos do n.º 1, do artigo 76.º do RJIGT, o prazo de elaboração, que se prevê de 9 meses, após o período de participação preventiva, previsto no n.º 1 do artigo 76.º e no n.º 2 do artigo 88.º do mesmo diploma, que deverá ser de 15 dias úteis, para formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração;
+3 - Que a 3.ª Alteração à 1.ª Revisão do PDM de Penela deverá ser sujeita a processo de avaliação ambiental estratégica nos termos do disposto no artigo 120.º do RJIGT, conjugado com o artigo 3.º, do Dec. Lei n.º 232/2007, na atual redação.
+E por ser verdade se passa a presente Certidão, ao sétimo dia do mês de maio de dois mil e vinte, a qual vai ser assinada e autenticada com o selo branco em uso nesta câmara municipal.
+7 de maio de 2020. - A Técnica Superior, Maria Leonor dos Santos Carnoto.
+613236764
