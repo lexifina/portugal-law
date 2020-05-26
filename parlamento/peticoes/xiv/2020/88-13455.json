@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13455",
+  "numero": "88",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-05-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-09-15",
+            "entidades": null,
+            "id": "115630",
+            "tipo": null,
+            "titulo": "Audição em 2020-09-15 com Pedro Santos, Ana Caridade"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-09-29",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "914674",
+                "obs": null,
+                "pag": [
+                  "8-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/016/2020-12-04/8?pgs=8-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-06-16",
+        "DataArquivo": "2020-12-02",
+        "DataBaixaComissao": "2020-06-03",
+        "DataEnvioPAR": "2020-12-04",
+        "DataReaberta": "2020-06-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-06-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a51304d6a566a59325a694c5455334e6d4d744e44686a5a6931694d44686a4c546b324d6a4e6a595467355a54686a5a5335775a47593d&fich=4425ccfb-576c-48cf-b08c-9623ca89e8ce.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-12-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a49325a6a4e695a44566b4c575135596a55744e4755324d7931694d6a41334c5445324d57457a5a44686b4e575a6a5a4335775a47593d&fich=26f3bd5d-d9b5-4e63-b207-161a3d8d5fcd.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7484",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Cultura e Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-06-16",
+            "gp": "PS",
+            "id": "6956",
+            "motivoCessacao": null,
+            "nome": "Sara Velez"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2020-06-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a67324e3251334f546c6c4c5749305a5751744e4445324e4331694f5745344c546b304e3251775a4468685a44457a595335775a47593d&fich=867d799e-b4ed-4164-b9a8-947d0d8ad13a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13455",
+    "PetAssunto": "Pelo recuo na suspensão da iniciativa Cultura Para Todos",
+    "PetDataEntrada": "2020-05-26",
+    "PeticoesAssociadas": null,
+    "PetId": "13455",
+    "PetLeg": "XIV",
+    "PetNr": "88",
+    "PetNrAssinaturas": "1071",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
