@@ -1,0 +1,9 @@
+Aviso n.º 8331/2020
+Sumário: Projeto de regulamento municipal de atribuição de apoio à reconstrução de habitações não permanentes afetadas pelos incêndios de 2017.
+Projeto de Regulamento Municipal de Atribuição de Apoio à Reconstrução de Habitações não Permanentes Afetadas pelos Incêndios de 2017
+Leonel José Antunes Gouveia, Presidente da Câmara Municipal de Santa Comba Dão, torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, na sua reunião ordinária realizada no dia 12 de maio de 2020, deliberou, por maioria, com 5 votos a favor do PS e uma abstenção do Vereador da Coligação PPD/PSD-CDS.PP, submeter o projeto de Regulamento Municipal de Atribuição de Apoio à Reconstrução de Habitações não Permanentes Afetadas pelos Incêndios de 2017 a consulta pública, nos termos do artigo 101.º do Código do Procedimento Administrativo, para recolha de sugestões pelo prazo de 30 dias úteis a contar da data da publicação do presente aviso no Diário da República.
+Os eventuais interessados poderão dirigir, por escrito, as suas sugestões, dentro do período atrás referido, para Presidente da Câmara Municipal de Santa Comba Dão, Largo do Município, n.º 13, 3440-337 Santa Comba Dão ou para o e-mail geral@cm-santacombadao.pt.
+O referido projeto de Regulamento encontra-se à disposição do público, para consulta, no Balcão Único de Atendimento, sito no Largo Engenheiro Urbano, em Santa Comba Dão, durante as horas normais de expediente e ainda no sítio www.cm-santacombadao.pt.
+Para conhecimento geral se torna público o presente aviso e outros de igual teor que vão ser afixados nos lugares públicos de estilo e ainda no sitio www.cm-santacombadao.pt.
+14 de maio de 2020. - O Presidente da Câmara Municipal, Leonel José Antunes Gouveia.
+313246995
