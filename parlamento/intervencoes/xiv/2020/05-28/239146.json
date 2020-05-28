@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7vz42dekG7SvX%2bJCoI606%2bawj%2fX5VzWets1lObKDepdveONV1z3zBA3cO9lc957K5%2f9HlKJqmHedDhhMyhl2cw4SOzV7qsNm8CFmvLpT5RkqF9HjBDt%2f%2bX0OUM0cdjJwLTwyvrlp3ZMoTcIPfZTsIPJ7MWFPt2X%2bh0DQWsRjX6GyToHZHEfJiay2rPW9JT8dDQem39OFpKzbLyK%2b8DJ08rsf17Fviv%2fFFPxcpMyDb5w1tqdx45uTH13%2bLlwBj4kkTVZgL8HxkUlx96u3wzpvXKLMn7R8Tg9xl9SNSUxzXHSzTSYcy2rAL7Kr%2fWg%2fgF7nS%2fbFNRkzS6x92aIVDj1xOsuRFXDbkBrM5JpdPMk4cxk%3d&fich=IntervencoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "ac2343fce06e15e6ec675fd3460ca65b42c7cb3b7c35721a49abc1fc32427acb",
+  "legislatura": "XIV",
+  "id": "239146",
+  "tipo": "Declaração de voto",
+  "orador": "Sofia Araújo (PS)",
+  "data_registo": "2020-05-28",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "361977",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "44327",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Recomenda ao Governo que proceda à requalificação da Escola Básica Dr. António Augusto Louro, no concelho do Seixal"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2020-05-28",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "6049",
+      "nome": "Sofia Araújo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "239146",
+    "IdDebate": "14627",
+    "Iniciativas": [
+      {
+        "fase": "Votação na generalidade",
+        "id": "44327",
+        "tipo": "Projeto de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "239146",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "56-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-29",
+        "pubLeg": "XIV",
+        "pubNr": "57",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/057/2020-05-29/56?pgs=56&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Recomenda ao Governo que proceda à requalificação da Escola Básica Dr. António Augusto Louro, no concelho do Seixal; Recomenda a requalificação da escola básica 2,3 Dr. António Augusto Louro, agrupamento de escolas Dr. António Augusto Louro; Recomenda ao Governo que proceda com urgência à requalificação da Escola Básica Dr. António Augusto Louro, no Concelho do Seixal e que divulgue calendário de intervenções de remoção de fibras de amianto nos equipamentos escolares; Recomenda ao Governo que agende e execute a urgente retirada das placas de fibrocimento existentes nas coberturas da EB 2,3 Dr. António Augusto Louro, do Seixal, e programe as necessárias obras de requalificação",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração de voto"
+  }
+}
