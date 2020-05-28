@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 8320/2020
+Sumário: Afetação/reafetação dos trabalhadores do mapa de pessoal do município na sequência da 4.ª revisão da Estrutura/Regulamento de Organização dos Serviços do Município de Mira.
+Para os devidos efeitos se torna público que por despacho do Sr. Presidente da Câmara de 13 de maio de 2020, no uso da competência conferida pela alínea a) do n.º 2 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro na sua atual redação, e conforme previsto no artigo 8.º e n.º 3 do artigo 10.º ambos do Decreto-Lei n.º 305/2009, de 23 de outubro, se procedeu à afetação/reafetação dos trabalhadores do mapa de pessoal do Município de Mira à Estrutura/Regulamento de Organização dos Serviços do Município de Mira, republicado no Diário da República n.º 61, de 23/03/2020, após aprovação em reunião de Câmara de 20 de fevereiro de 2020 e sessão da Assembleia Municipal de 27 de fevereiro de 2020. A lista de afetação/reafetação do pessoal encontra-se disponível no sítio da internet da Câmara Municipal Mira em wwwcm-mira.pt.
+13 de maio de 2020. - O Presidente da Câmara, Raul José Rei Soares de Almeida, Dr.
+313249449
