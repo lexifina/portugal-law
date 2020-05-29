@@ -1,0 +1,25 @@
+# Portaria n.º 236/2020
+
+**Emissor:** VICE-PRESIDÊNCIA DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES E SECRETARIA REGIONAL DE SAÚDE E PROTEÇÃO CIVIL
+
+**Publicação:** JORAM, I série, n.º 103/2020, de 2020-05-29
+
+**Sumário:** Dá nova redação aos n.ºs 1 e 3 da Portaria n.º 44/2020, publicada no Jornal Oficial, I Série, n.º 33, de 21 de fevereiro de 2020, que autoriza a distribuição dos encargos orçamentais previstos para o Contrato-Programa - Experiência Piloto em Cuidados Integrados celebrado com a Dilectus, Residência Assistida, S.A. em 4 de abril de 2019, afirmado entre o Instituto de Administração da Saúde, IP-RAM, o Instituto da Segurança Social da Madeira, IP-RAM e a Dilectus, Residência Assistida, S.A., ao abrigo da Resolução n.º 176/2019, de 2 de abril, no valor global de € 1.641.078,00.
+
+## Texto
+
+Portaria n.º 236/2020
+de 29 de maio
+Considerando que através da Portaria n.º 44/2020, publicada no JORAM, I Série, n.º 33, a 21 de fevereiro de 2020, o Instituto de Administração da Saúde, IP-RAM, foi autorizado a assumir o encargo plurianual relativo ao Contrato-Programa - Projeto Piloto em Cuidados Integrados, celebrado a 4 de abril de 2019, e, prorrogado por três meses, de 1 de janeiro a 31 de março de 2020, ao abrigo, respetivamente, das Resoluções do Conselho de Governo n.ºs 176/2019, de 28 de março, publicada no JORAM, I Série, n.º 52, suplemento, a 2 de abril de 2019, e 87/2020, de 5 de março, publicada no JORAM, I Série, n.º 42, suplemento, a 9 de março de 2020, até o valor global de 1.641.078,00 € (um milhão seiscentos e quarenta e um mil e setenta e oito euros), com uma repartição de encargos escalonada nos anos económicos de 2019 e 2020;
+Considerando que, durante o período de prorrogação do referido Contrato-Programa, de 1 de janeiro a 31 de março de 2020, ocorreram acontecimentos a nível mundial, nacional e regional, relacionados com o surto do novo coronavírus - COVID-19, tais como, a qualificação como pandemia mundial, e a declaração do estado de emergência em Portugal pelo Presidente da República, com início em 19 de março de 2020, que determinam a imperiosa necessidade de proceder a uma segunda prorrogação deste Contrato-Programa - Projeto Piloto em Cuidados Integrados, e, consequentemente o aumento do valor global do encargo a assumir e reescalonamento no corrente ano económico de 2020.
+Assim, torna-se necessário proceder ao aumento do valor global do encargo plurianual, no montante de € 590.778,90 (quinhentos e noventa mil, setecentos e setenta e oito euros e noventa cêntimos), e ao reescalonamento dos encargos relativos ao citado Contrato-Programa, o que determina a necessidade de alteração da Portaria n.º 44/2020, publicada no JORAM, I Série, n.º 33, a 21 de fevereiro de 2020.
+Nestes termos, e em cumprimento do disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na redação dada pela Lei n.º 22/2015, de 17 de março, no artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na redação dada pelo Decreto-Lei n.º 99/2015, de 2 de junho, e no n.º 1 do artigo 28.o do Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, conjugado com o artigo 49.º da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, manda o Governo Regional, através do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares e do Secretário Regional de Saúde e Proteção Civil, o seguinte:
+1- Os números 1 e 3 da Portaria n.º 44/2020, publi-cada no JORAM, I Série, n.º 33, de 21 de fevereiro de 2020, são alterados, passando a ter a seguinte redação:
+“1- Os encargos orçamentais previstos para o Contrato-Programa - Experiência Piloto em Cuidados Integrados celebrado em 4 de abril de 2019, entre o Instituto de Administração da Saúde, IP-RAM, o Instituto de Segurança Social da Madeira, IP-RAM e a Dilectus, Residências Assistidas, S.A. ao abrigo da Resolução do
+
+Conselho de Governo n.º 176/2019, publicada no JORAM, I Série, n.º 52, suplemento, a 2 de abril de 2019, no valor global de € 2.231.856,90 (dois milhões duzentos e trinta e um mil e oitocentos e cinquenta e seis euros e noventa cêntimos), encontram-se escalonados na forma abaixo indicada: a) Ano económico de 2019 - € 963.433,15; b) Ano económico de 2020 - € 1.268.423,75.
+3- A despesa emergente relativa ao corrente ano económico está prevista na fonte de financiamento 381, classificação económica 02.02.22.C0.00, do orçamento do Instituto de Administração da Saúde, IP-RAM, e no ano seguinte por verbas adequadas a inscrever no orçamento do mesmo organismo.”
+2- A presente portaria produz efeitos a partir da data da sua assinatura.
+Vice-Presidência do Governo Regional e dos Assuntos Parlamentares e Secretaria Regional de Saúde e Proteção Civil, no Funchal, aos 26 dias do mês de maio de 2020.
+O VICE-PRESIDENTE DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES, Pedro Miguel Amaro de Bettencourt Calado
+O SECRETÁRIO REGIONAL DE SAÚDE E PROTEÇÃO CIVIL, Pedro Miguel de Câmara Ramos
