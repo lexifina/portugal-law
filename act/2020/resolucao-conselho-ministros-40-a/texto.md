@@ -1,0 +1,258 @@
+Resolução do Conselho de Ministros n.º 40-A/2020
+Sumário: Prorroga a declaração da situação de calamidade, no âmbito da pandemia da doença COVID-19.
+A situação epidemiológica em Portugal causada pela doença COVID-19 tem exigido do Governo a aprovação de medidas extraordinárias com vista a prevenir a transmissão daquela doença.
+A prioridade de prevenção da doença, contenção da pandemia e garantia da segurança dos portugueses, aliada ao levantamento gradual das suspensões e interdições decretadas durante o período do estado de emergência, repercute-se agora num caminho de regresso gradual da atividade económica ao seu normal funcionamento, mediante a avaliação do quadro epidemiológico, sanitário, social e económico, caminho este que se pretende implementar através de diversas e subsequentes fases.
+Considerando este enquadramento, e atendendo à evolução da situação epidemiológica verificada em Portugal, no passado dia 30 de abril e no passado dia 15 de maio, o Governo aprovou uma série de medidas com vista a iniciar o processo de desconfinamento das medidas que foram sendo adotadas para combater a COVID-19.
+Para o efeito, foram estabelecidas na Resolução do Conselho de Ministros n.º 33-C/2020, de 30 de abril, três fases de desconfinamento: uma fase que se iniciou a 30 de abril de 2020, uma fase subsequente, que se iniciou a 18 de maio de 2020, e outra prevista para o final do mês de maio de 2020.
+A calendarização adotada pretende possibilitar a avaliação da situação epidemiológica em Portugal e os efeitos que cada uma daquelas três fases apresenta, considerando sempre o impacto verificado na fase anterior naquela situação epidemiológica.
+Assim, pela presente resolução, o Governo dá continuidade ao processo de desconfinamento iniciado em 30 de abril de 2020, continuado no dia 18 de maio de 2020, no quadro de uma evolução controlada da situação epidemiológica em Portugal, que justifica a renovação da situação de calamidade, declarada com efeitos a 18 de maio de 2020, nos termos da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual.
+Com efeito, é necessário declarar novamente a situação de calamidade.
+Mantém-se a necessidade, por razões de saúde pública, de se observar regras de ocupação, permanência e distanciamento físico, bem como regras de higiene.
+De igual modo, ainda ao abrigo dos artigos 12.º e 13.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, o Governo renova igualmente as medidas excecionais e específicas quanto a atividades relativas aos estabelecimentos de comércio a retalho, de prestação de serviços, estabelecimentos de restauração e ao acesso a serviços e edifícios públicos.
+Ademais, a Lei relativa ao Sistema de Vigilância em Saúde Pública, aprovada pela Lei n.º 81/2009, de 21 de agosto, permite ao Governo tomar medidas adicionais e de exceção que se configuram como indispensáveis ao controlo da pandemia COVID-19.
+Nesta fase, o Governo opta por um elenco menos intenso de restrições e encerramentos do que aquele que se encontrava vigente, sem prejuízo da gradualidade do levantamento das restrições e da necessidade de se manter o escrupuloso cumprimento, pela população portuguesa, das medidas de distanciamento físico indispensáveis à contenção da infeção.
+A salvaguarda da saúde e segurança da população, de forma a mitigar o contágio e a propagação do vírus SARS-CoV-2 e da doença COVID-19 é fundamental, pelo que ficam em confinamento obrigatório, em estabelecimento de saúde ou no respetivo domicílio, as pessoas doentes e em vigilância ativa.
+Bem assim, a população deixa de ter de cumprir um dever cívico de recolhimento domiciliário.
+O exercício profissional em regime de teletrabalho deixa de ser obrigatório, podendo ser implementadas, dentro dos limites máximos do período normal de trabalho e com respeito pelo direito ao descanso diário e semanal, medidas de prevenção e mitigação dos riscos decorrentes da pandemia, nomeadamente, a adoção de escalas de rotatividade de trabalhadores entre o regime de teletrabalho e o trabalho prestado no local de trabalho habitual, diárias ou semanais, horários diferenciados de entrada e saída, horários diferenciados de pausas e de refeições.
+É alargado o conjunto de estabelecimentos comerciais que podem estar em funcionamento, permitindo a abertura daqueles que tenham área superior a 400 metros quadrados.
+Os estabelecimentos de restauração e similares, deixam de ter restrições à sua ocupação, sem prejuízo de manterem a necessidade de observância de todas as orientações de higiene e sanitária da Direção-Geral da Saúde definidas para o setor.
+Passam a ser permitidos, desde que respeitem as orientações da Direção-Geral da Saúde, os eventos de natureza familiar, incluindo casamentos e batizados, as celebrações comunitárias das diversas confissões religiosas, eventos de natureza corporativa realizados em espaços adequados para o efeito, bem como eventos de natureza cultural.
+Por fim, considerando os surtos localizados na Área Metropolitana de Lisboa estabelecem-se limitações especiais, designadamente quanto à concentração de pessoas e a estabelecimentos de comércio ou prestação de serviços.
+Assim:
+Nos termos dos artigos 12.º e 13.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, por força do disposto no artigo 2.º da Lei n.º 1-A/2020, de 19 de março, na sua redação atual, do artigo 17.º da Lei n.º 81/2009, de 21 de agosto, do artigo 19.º da Lei n.º 27/2006, de 3 de julho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Declarar, na sequência da situação epidemiológica da COVID-19, a situação de calamidade em todo o território nacional até às 23:59h do dia 14 de junho de 2020, sem prejuízo de prorrogação ou modificação na medida em que a evolução da situação epidemiológica o justificar.
+2 - Determinar, sem prejuízo das competências do Ministro de Estado, da Economia e da Transição Digital, do Ministro da Administração Interna, da Ministra da Modernização do Estado e da Administração Pública, da Ministra da Saúde, do Ministro do Ambiente e da Ação Climática e do Ministro das Infraestruturas e da Habitação, as quais podem ser exercidas conjuntamente com os membros do Governo responsáveis pelas respetivas áreas setoriais, quando aplicável, a adoção, em todo o território nacional, das seguintes medidas de caráter excecional, necessárias ao combate à COVID-19, bem como as previstas no regime anexo à presente resolução e da qual faz parte integrante:
+a) Fixação de regras de proteção da saúde individual e coletiva dos cidadãos;
+b) Limitação ou condicionamento de acesso, circulação ou permanência de pessoas em espaços frequentados pelo público, bem como dispersão das concentrações superiores a 20 pessoas, salvo se pertencerem ao mesmo agregado familiar, sem prejuízo das limitações especiais aplicáveis à Área Metropolitana de Lisboa;
+c) Limitação ou condicionamento de certas atividades económicas;
+d) Fixação de regras de funcionamento de estabelecimentos industriais, comerciais e de serviços;
+e) Racionalização da utilização dos serviços públicos de transportes, comunicações e abastecimento de água e energia, bem como do consumo de bens de primeira necessidade.
+3 - Estabelecer, no âmbito da proteção e socorro:
+a) A manutenção do estado de prontidão das forças e serviços de segurança e de todos os agentes de proteção civil, com reforço de meios para eventuais operações de apoio na área da saúde pública;
+b) A manutenção do funcionamento da Subcomissão COVID-19, no âmbito da Comissão Nacional de Proteção Civil, em regime de permanência, enquanto estrutura responsável pela recolha e tratamento da informação relativa ao surto epidémico em curso, garantindo uma permanente monitorização da situação;
+c) A utilização, quando necessário, do sistema de avisos à população pela Autoridade Nacional de Emergência e Proteção Civil (ANEPC).
+4 - Reforçar que, durante o período de vigência da situação de calamidade, os cidadãos e as demais entidades têm, nos termos dos n.os 1 a 3 do artigo 6.º da Lei n.º 27/2006, de 3 de julho, na sua redação atual, o dever de colaboração, nomeadamente no cumprimento de ordens ou instruções dos órgãos e agentes responsáveis pela segurança interna e pela proteção civil e na pronta satisfação de solicitações que justificadamente lhes sejam feitas pelas entidades competentes para a concretização das medidas que justificam a presente declaração de calamidade.
+5 - Estabelecer que o Governo avalia, a todo o tempo, a necessidade de aprovação de um quadro sancionatório por violação da presente resolução, com base no reporte efetuado pelas forças e serviços de segurança ao membro do Governo responsável pela área da administração interna relativamente ao grau de acatamento das medidas adotadas pela presente resolução.
+6 - Reforçar, sem prejuízo dos números anteriores, que compete às forças e serviços de segurança e à polícia municipal fiscalizar o cumprimento do disposto na presente resolução, mediante:
+a) O encerramento dos estabelecimentos e a cessação das atividades previstas no anexo I ao regime anexo à presente resolução e da qual faz parte integrante;
+b) A emanação das ordens legítimas, nos termos da presente resolução, designadamente para recolhimento ao respetivo domicílio;
+c) A cominação e a participação por crime de desobediência, nos termos e para os efeitos da alínea b) do n.º 1 do artigo 348.º do Código Penal, do artigo 6.º da Lei n.º 27/2006, de 3 de julho, na sua redação atual, por violação do disposto no artigo 3.º do regime anexo à presente resolução, bem como do confinamento obrigatório de quem a ele esteja sujeito nos termos do artigo 2.º do referido regime;
+d) O aconselhamento da não concentração de pessoas na via pública e a dispersão das concentrações superiores a 20 pessoas, salvo se pertencerem ao mesmo agregado familiar, sem prejuízo das limitações especiais aplicáveis à Área Metropolitana de Lisboa.
+7 - Recomendar às juntas de freguesia, no quadro da garantia de cumprimento do disposto no regime anexo à presente resolução:
+a) O aconselhamento da não concentração de pessoas na via pública;
+b) A sinalização junto das forças e serviços de segurança, bem como da polícia municipal, dos estabelecimentos a encerrar, para garantir a cessação das atividades previstas no anexo I ao regime anexo à presente resolução.
+8 - Determinar que, para efeitos do disposto na alínea c) do n.º 6, as autoridades de saúde comunicam às forças e serviços de segurança do local de residência a aplicação das medidas de confinamento obrigatório.
+9 - Determinar a criação de uma estrutura de monitorização da situação de calamidade, coordenada pelo membro do Governo responsável pela área da administração interna, com faculdade de delegação, composta por representantes das áreas governativas definidas por despacho do Primeiro-Ministro e de representantes das forças e serviços de segurança e da ANEPC, para efeitos de acompanhamento regular da situação.
+10 - Reforçar que a desobediência e a resistência às ordens legítimas das entidades competentes, quando praticadas durante a vigência da situação de calamidade e em violação do disposto no regime anexo à presente resolução, constituem crime e são sancionadas nos termos da lei penal, sendo as respetivas penas agravadas em um terço, nos seus limites mínimo e máximo, nos termos do n.º 4 do artigo 6.º da Lei n.º 27/2006, de 3 de julho, na sua redação atual.
+11 - Revogar a Resolução do Conselho de Ministros n.º 38/2020, de 17 de maio, sem prejuízo do disposto na alínea a) do n.º 3 do artigo 5.º do regime anexo à presente resolução.
+12 - Determinar que a presente resolução produz efeitos a partir das 00:00h do dia 1 de junho de 2020, sem prejuízo do disposto na alínea a) do n.º 2 do artigo 12.º e no n.º 3 do artigo 12.º do regime anexo à presente resolução, que produzem efeitos a partir das 00:00h do dia 30 de maio de 2020.
+Presidência do Conselho de Ministros, 29 de maio de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+ANEXO
+(regime da situação de calamidade a que se refere o n.º 2 da presente resolução)
+Artigo 1.º
+Objeto
+O presente regime estabelece medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2 e à doença COVID-19 no âmbito da declaração de situação de calamidade em todo o território nacional.
+Artigo 2.º
+Confinamento obrigatório
+1 - Ficam em confinamento obrigatório, em estabelecimento de saúde, no respetivo domicílio ou noutro local definido pelas autoridades de saúde:
+a) Os doentes com COVID-19 e os infetados com SARS-Cov2;
+b) Os cidadãos relativamente a quem a autoridade de saúde ou outros profissionais de saúde tenham determinado a vigilância ativa.
+2 - As autoridades de saúde comunicam às forças e serviços de segurança do local de residência a aplicação das medidas de confinamento obrigatório.
+Artigo 3.º
+Instalações e estabelecimentos encerrados
+São encerradas as instalações e estabelecimentos referidos no anexo I ao presente regime e que dele faz parte integrante.
+Artigo 4.º
+Teletrabalho e organização de trabalho
+1 - O empregador deve proporcionar ao trabalhador condições de segurança e saúde adequadas à prevenção de riscos de contágio decorrentes da pandemia da doença COVID-19, podendo, nomeadamente, adotar o regime de teletrabalho, nos termos previstos no Código do Trabalho.
+2 - Sem prejuízo da possibilidade de adoção do regime de teletrabalho nos termos gerais previstos no Código do Trabalho, este regime é obrigatório quando requerido pelo trabalhador, independentemente do vínculo laboral e sempre que as funções em causa o permitam, nas seguintes situações:
+a) O trabalhador, mediante certificação médica, se encontre abrangido pelo regime excecional de proteção de imunodeprimidos e doentes crónicos, nos termos do artigo 25.º-A do Decreto-Lei n.º 10-A/2020, de 10 de março, na sua redação atual;
+b) O trabalhador com deficiência, com grau de incapacidade igual ou superior a 60 %;
+c) O trabalhador com filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência, fora dos períodos de interrupções letivas fixados nos anexos II e IV ao Despacho n.º 5754-A/2019, publicado no Diário da República, 2.ª série, n.º 115, de 18 de junho.
+3 - A obrigatoriedade prevista na alínea c) do número anterior é aplicável apenas a um dos progenitores, independentemente do número de filhos ou dependentes a cargo.
+4 - O regime de teletrabalho é ainda obrigatório, independentemente do vínculo laboral e sempre que as funções em causa o permitam, quando os espaços físicos e a organização do trabalho não permitam o cumprimento das orientações da Direção-Geral da Saúde (DGS) e da Autoridade para as Condições do Trabalho sobre a matéria, na estrita medida do necessário.
+5 - Nas situações em que não seja adotado o regime de teletrabalho nos termos previstos no Código do Trabalho, podem ser implementadas, dentro dos limites máximos do período normal de trabalho e com respeito pelo direito ao descanso diário e semanal previstos na lei ou em instrumento de regulamentação coletiva de trabalho aplicável, medidas de prevenção e mitigação dos riscos decorrentes da pandemia, nomeadamente, a adoção de escalas de rotatividade de trabalhadores entre o regime de teletrabalho e o trabalho prestado no local de trabalho habitual, diárias ou semanais, horários diferenciados de entrada e saída, horários diferenciados de pausas e de refeições.
+6 - Para efeitos do número anterior, o empregador pode alterar a organização do tempo de trabalho ao abrigo do respetivo poder de direção, devendo ser respeitado o procedimento previsto na legislação aplicável.
+Artigo 5.º
+Limitações especiais aplicáveis à Área Metropolitana de Lisboa
+1 - Na Área Metropolitana de Lisboa o acesso, circulação ou permanência de pessoas em espaços frequentados pelo público, bem como as concentrações de pessoas na via pública encontram-se limitadas a 10 pessoas, salvo se pertencerem ao mesmo agregado familiar.
+2 - Na Área Metropolitana de Lisboa são suspensas as atividades em estabelecimentos de comércio a retalho e de prestação de serviços que disponham de uma área de venda ou prestação de serviços superior a 400 m2, bem como os que se encontrem em conjuntos comerciais, salvo se dispuserem de área igual ou inferior e uma entrada autónoma e independente pelo exterior, e as respetivas áreas de consumo de comidas e bebidas (food-courts) dos conjuntos comerciais.
+3 - Excetuam-se do disposto no número anterior:
+a) Os estabelecimentos comerciais e atividades de prestação de serviços elencados no anexo ii à Resolução do Conselho de Ministros n.º 38/2020, de 17 de maio, independentemente da respetiva área;
+b) Os estabelecimentos de comércio de livros e suportes musicais;
+c) Os estabelecimentos que pretendam manter a respetiva atividade exclusivamente para efeitos de entrega ao domicílio ou disponibilização dos bens à porta do estabelecimento ou ao postigo, estando neste caso interdito o acesso ao interior do estabelecimento pelo público;
+d) Os estabelecimentos que disponham de uma área superior a 400 m2, quando o respetivo funcionamento tenha sido autorizado pelo município territorialmente competente e desde que garantidas as demais regras e exigências previstas no presente regime;
+e) Os estabelecimentos que, ainda que disponham de uma área superior a 400 m2, restrinjam a área de venda ou de prestação de serviços a uma área não superior àquele valor.
+4 - Na Área Metropolitana de Lisboa, os municípios territorialmente competentes reavaliam a manutenção da abertura dos estabelecimentos que disponham de uma área superior a 400 m2 que haja sido autorizada ao abrigo da alínea d) do n.º 2 do artigo 6.º do regime anexo à Resolução do Conselho de Ministros n.º 38/2020, de 17 de maio, bem como a manutenção em funcionamento de recintos de feiras que hajam retomado o seu funcionamento ao abrigo do artigo 18.º do mesmo regime
+5 - Na Área Metropolitana de Lisboa, as Lojas do Cidadão permanecem encerradas, sem prejuízo de poderem aceitar marcações para atendimento presencial a realizar após 1 de junho de 2020, mantendo-se o atendimento presencial por marcação nas Lojas de Cidadão apenas nas localidades onde não existam balcões desconcentrados, bem como a prestação desses serviços através dos meios digitais e dos centros de contacto com os cidadãos e as empresas.
+6 - Na Área Metropolitana de Lisboa, os veículos com lotação superior a cinco pessoas apenas podem circular, salvo se todos os ocupantes integrarem o mesmo agregado familiar, com dois terços da sua capacidade, devendo os ocupantes usar máscara ou viseira, com as exceções previstas no artigo 13.º-B do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.
+7 - O disposto no número anterior não se aplica aos transportes públicos.
+8 - A atividade operacional das forças e serviços de segurança e dos serviços de socorro a operar na Área Metropolitana de Lisboa, no âmbito da execução do presente regime, pode ser reforçada, em caso de necessidade, por efetivos de outras áreas geográficas, em articulação com a estrutura municipal de proteção civil.
+Artigo 6.º
+Regras de ocupação, permanência e distanciamento físico
+1 - Em todos os locais abertos ao público, devem ser observadas as seguintes regras de ocupação, permanência e distanciamento físico:
+a) A afetação dos espaços acessíveis ao público deve observar regra de ocupação máxima indicativa de 0,05 pessoas por metro quadrado de área, com exceção dos estabelecimentos de prestação de serviços;
+b) A adoção de medidas que assegurem uma distância mínima de dois metros entre as pessoas, salvo disposição especial ou orientação da DGS em sentido distinto;
+c) A garantia de que as pessoas permanecem dentro do espaço apenas pelo tempo estritamente necessário;
+d) A proibição de situações de espera para atendimento no interior dos estabelecimentos de prestação de serviços, devendo os operadores económicos recorrer, preferencialmente, a mecanismos de marcação prévia;
+e) A definição, sempre que possível, de circuitos específicos de entrada e saída nos estabelecimentos e instalações, utilizando portas separadas;
+f) A observância de outras regras definidas pela DGS;
+g) O incentivo à adoção de códigos de conduta aprovados para determinados setores de atividade ou estabelecimentos, desde que não contrariem o disposto no presente regime.
+2 - Para efeitos do disposto na alínea a) do número anterior:
+a) Entende-se por «área», a área destinada ao público, incluindo as áreas de uso coletivo ou de circulação, à exceção das zonas reservadas a parqueamento de veículos;
+b) Os limites previstos de ocupação máxima por pessoa não incluem os funcionários e prestadores de serviços que se encontrem a exercer funções nos espaços em causa.
+3 - Os gestores, os gerentes ou os proprietários dos espaços e estabelecimentos devem envidar todos os esforços no sentido de:
+a) Efetuar uma gestão equilibrada dos acessos de público, em cumprimento do disposto nos números anteriores;
+b) Monitorizar as recusas de acesso de público, de forma a evitar, tanto quanto possível, a concentração de pessoas à entrada dos espaços ou estabelecimentos.
+Artigo 7.º
+Regras de higiene
+Os locais abertos ao público devem observar as seguintes regras de higiene:
+a) A prestação do serviço e o transporte de produtos devem ser efetuados mediante o respeito das necessárias regras de higiene definidas pela DGS;
+b) Os operadores económicos devem promover a limpeza e desinfeção diárias e periódicas dos espaços, equipamentos, objetos e superfícies, com os quais haja um contacto intenso;
+c) Os operadores económicos devem promover a limpeza e desinfeção, após cada utilização ou interação, dos terminais de pagamento automático (TPA), equipamentos, objetos, superfícies, produtos e utensílios de contacto direto com os clientes;
+d) Os operadores económicos devem promover a contenção, tanto quanto possível, pelos trabalhadores ou pelos clientes, do toque em produtos ou equipamentos bem como em artigos não embalados, os quais devem preferencialmente ser manuseados e dispensados pelos trabalhadores;
+e) Nos estabelecimentos de comércio a retalho de vestuário e similares, durante a presente fase, deve ser promovido o controlo do acesso aos provadores, salvaguardando-se, quando aplicável, a inativação parcial de alguns destes espaços, por forma a garantir as distâncias mínimas de segurança, e garantindo-se a desinfeção dos mostradores, suportes de vestuário e cabides após cada utilização, bem como a disponibilização de soluções desinfetantes cutâneas para utilização pelos clientes;
+f) Em caso de trocas, devoluções ou retoma de produtos usados, os operadores devem, sempre que possível, assegurar a sua limpeza e desinfeção antes de voltarem a ser disponibilizados para venda, a menos que tal não seja possível ou comprometa a qualidade dos produtos;
+g) Outras regras definidas em códigos de conduta aprovados para determinados setores de atividade ou estabelecimentos, desde que não contrariem o disposto no presente regime.
+Artigo 8.º
+Soluções desinfetantes cutâneas
+Os estabelecimentos de comércio a retalho ou de prestação de serviços devem procurar assegurar a disponibilização de soluções desinfetantes cutâneas, para os trabalhadores e clientes, junto de todas as entradas e saídas dos estabelecimentos, assim como no seu interior, em localizações adequadas para desinfeção de acordo com a organização de cada espaço.
+Artigo 9.º
+Horários de atendimento
+1 - Os horários de funcionamento dos estabelecimentos de comércio a retalho ou de prestação de serviços podem ser ajustados, por forma a garantir um desfasamento da hora de abertura ou de encerramento, por iniciativa dos próprios, por decisão concertada, por decisão dos gestores dos espaços onde se localizam os estabelecimentos ou do membro do Governo responsável pela área da economia, sem prejuízo do disposto no número seguinte.
+2 - Os estabelecimentos que retomaram a sua atividade ao abrigo da Resolução do Conselho de Ministros n.º 33-A/2020, de 30 de abril, da Resolução do Conselho de Ministros n.º 38/2020, de 17 de maio, bem como os que retomam a sua atividade a partir da entrada em vigor do presente regime, não podem, em qualquer caso, abrir antes das 10:00h.
+3 - Os estabelecimentos cujo horário de abertura habitual seja alterado por efeito do número anterior podem adiar o horário de encerramento num período equivalente.
+4 - O disposto nos n.os 2 e 3 não é aplicável aos salões de cabeleireiro, barbeiros, institutos de beleza, restaurantes e similares, cafetarias, casas de chá e afins, escolas de condução e centros de inspeção técnica de veículos.
+5 - Os estabelecimentos de comércio a retalho ou de prestação de serviços podem encerrar em determinados períodos do dia para assegurar operações de limpeza e desinfeção dos funcionários, dos produtos ou do espaço.
+6 - Os horários de funcionamento dos estabelecimentos de comércio a retalho ou de prestação de serviços podem ser limitados ou modificados por despacho do membro do Governo responsável pela área da economia, durante o período de vigência do presente regime.
+Artigo 10.º
+Atendimento prioritário
+Os estabelecimentos de comércio a retalho ou de prestação de serviços devem atender com prioridade os profissionais de saúde, os elementos das forças e serviços de segurança, de proteção e socorro, o pessoal das forças armadas e de prestação de serviços de apoio social.
+Artigo 11.º
+Dever de prestação de informações
+Os estabelecimentos de comércio a retalho ou de prestação de serviços devem informar, de forma clara e visível, os clientes relativamente às novas regras de ocupação máxima, funcionamento, acesso, prioridade, atendimento, higiene, segurança e outras relevantes aplicáveis a cada estabelecimento.
+Artigo 12.º
+Eventos
+1 - Não é permitida a realização de celebrações e de outros eventos que impliquem uma aglomeração de pessoas em número superior a 20, sem prejuízo do disposto no número seguinte.
+2 - A DGS define as orientações específicas para os seguintes eventos:
+a) Cerimónias religiosas, incluindo celebrações comunitárias;
+b) Eventos de natureza familiar, incluindo casamentos e batizados, quer quanto às cerimónias civis ou religiosas, quer quanto aos demais eventos comemorativos;
+c) Eventos de natureza corporativa realizados em espaços adequados para o efeito, designadamente, salas de congressos, estabelecimentos turísticos, recintos adequados para a realização de feiras comerciais e espaços ao ar livre.
+3 - Na ausência de orientação da DGS, os organizadores dos eventos devem observar, com as necessárias adaptações, o disposto nos artigos 6.º a 8.º, bem como no artigo 14.º quanto aos espaços de restauração nestes envolvidos, e os participantes usar máscara ou viseira nos espaços fechados.
+4 - Em situações devidamente justificadas, os membros do Governo responsáveis pelas áreas da administração interna e da saúde podem, conjuntamente, autorizar a realização de outras celebrações ou eventos, definindo os respetivos termos.
+Artigo 13.º
+Funerais
+1 - A realização de funerais está condicionada à adoção de medidas organizacionais que garantam a inexistência de aglomerados de pessoas e o controlo das distâncias de segurança, designadamente a fixação de um limite máximo de presenças, a determinar pela autarquia local que exerça os poderes de gestão do respetivo cemitério.
+2 - Do limite fixado nos termos do número anterior não pode resultar a impossibilidade da presença no funeral de cônjuge ou unido de facto, ascendentes, descendentes, parentes ou afins.
+Artigo 14.º
+Restauração e similares
+1 - O funcionamento de estabelecimentos de restauração e similares apenas é permitido caso se verifiquem as seguintes condições:
+a) A observância das instruções especificamente elaboradas para o efeito pela DGS, bem como as regras e instruções previstas no presente regime;
+b) A ocupação, no interior do estabelecimento, seja limitada a 50 % da respetiva capacidade, tal como definida no artigo 133.º do anexo ao Decreto-Lei n.º 10/2015, de 16 de janeiro, na sua redação atual, ou, em alternativa, sejam utilizadas barreiras físicas impermeáveis de separação entre os clientes que se encontrem frente a frente e um afastamento entre mesas de um metro e meio;
+c) A partir das 23:00h o acesso ao público fique excluído para novas admissões;
+d) O recurso a mecanismos de marcação prévia, a fim de evitar situações de espera para atendimento nos estabelecimentos, bem como no espaço exterior.
+2 - A ocupação ou o serviço em esplanadas apenas é permitida, desde que sejam respeitadas, com as necessárias adaptações, as orientações da DGS para o setor da restauração.
+3 - Nas áreas de consumo de comidas e bebidas (food-courts) dos conjuntos comerciais deve prever-se a organização do espaço por forma a evitar aglomerações de pessoas e a respeitar, com as devidas adaptações, as orientações da DGS para o setor da restauração.
+4 - Os estabelecimentos de restauração e similares que pretendam manter a respetiva atividade, total ou parcialmente, para efeitos de confeção destinada a consumo fora do estabelecimento ou entrega no domicílio, diretamente ou através de intermediário, estão dispensados de licença para confeção destinada a consumo fora do estabelecimento ou entrega no domicílio e podem determinar aos seus trabalhadores, desde que com o seu consentimento, a participação nas respetivas atividades, ainda que as mesmas não integrassem o objeto dos respetivos contratos de trabalho.
+Artigo 15.º
+Feiras e mercados
+1 - Para cada recinto de feira ou mercado, deve existir um plano de contingência para a COVID-19, elaborado pela autarquia local competente ou aprovado pela mesma, no caso de feiras e mercados sob exploração de entidades privadas.
+2 - O plano de contingência deve ser disponibilizado no sítio do município na Internet.
+3 - A reabertura das feiras e mercados deve ser precedida de ações de sensibilização de todos os feirantes e comerciantes, relativas à implementação do plano de contingência e sobre outras medidas de prevenção e práticas de higiene.
+4 - O referido plano de contingência deve, com as necessárias adaptações, respeitar as regras em vigor para os estabelecimentos de comércio a retalho quanto a ocupação, permanência e distanciamento físico, assim como as orientações da DGS, prevendo um conjunto de procedimentos de prevenção e controlo da infeção, designadamente:
+a) Procedimento operacional sobre as ações a desencadear em caso de doença, sintomas ou contacto com um caso confirmado da doença COVID-19;
+b) Implementação da obrigatoriedade do uso de máscara ou viseira por parte dos feirantes e comerciantes e dos clientes;
+c) Medidas de distanciamento físico adequado entre lugares de venda, quando possível;
+d) Medidas de higiene, nomeadamente a obrigatoriedade de cumprimento de medidas de higienização das mãos e de etiqueta respiratória, bem como a disponibilização obrigatória de soluções desinfetantes cutâneas, nas entradas e saídas dos recintos das feiras e mercados, nas instalações sanitárias, quando existentes, bem como a respetiva disponibilização pelos feirantes e comerciantes, quando possível;
+e) Medidas de acesso e circulação relativas, nomeadamente:
+i) À gestão dos acessos ao recinto das feiras e dos mercados, de modo a evitar uma concentração excessiva, quer no seu interior, quer à entrada dos mesmos;
+ii) Às regras aplicáveis à exposição dos bens, preferencialmente e sempre que possível, mediante a exigência de disponibilização dos mesmos pelos feirantes e comerciantes;
+iii) Aos procedimentos de desinfeção dos veículos e das mercadorias, ajustados à tipologia dos produtos e à organização da circulação;
+f) Plano de limpeza e de higienização dos recintos das feiras e dos mercados;
+g) Protocolo para tratamento dos resíduos, em particular no que diz respeito aos equipamentos de proteção individual.
+5 - O reinício da atividade, em feiras e mercados, de prestação de serviços de restauração e bebidas não sedentária ou de outros prestadores de serviços acompanha a reabertura faseada das atividades correspondentes exercidas em estabelecimento comercial.
+6 - Sem prejuízo das competências das demais autoridades, as autoridades de fiscalização municipal, a polícia municipal e as entidades responsáveis pela gestão dos recintos das feiras e dos mercados, consoante os casos, podem contribuir na monitorização do cumprimento dos procedimentos contidos nos planos de contingência.
+Artigo 16.º
+Serviços públicos
+1 - Os serviços públicos mantêm o atendimento presencial por marcação, mantendo-se a continuidade da prestação dos serviços através dos meios digitais e dos centros de contacto com os cidadãos e as empresas.
+2 - Aos serviços abrangidos pelo presente artigo aplica-se o disposto nos artigos 7.º e 9.º
+Artigo 17.º
+Museus, monumentos, palácios, sítios arqueológicos e similares
+1 - O funcionamento dos museus, monumentos, palácios, sítios arqueológicos e similares apenas é permitido desde que se:
+a) Observem as normas e as instruções definidas pela DGS referentes ao distanciamento físico, higiene das mãos e superfícies, etiqueta respiratória e as regras previstas no presente regime;
+b) Garanta que cada visitante dispõe de uma área mínima de 20 m2 e distância mínima de dois metros para qualquer outra pessoa que não seja sua coabitante;
+c) Assegure, sempre que possível:
+i) A criação de um sentido único de visita;
+ii) A limitação do acesso a visita a espaços exíguos;
+iii) A eliminação, ou caso não seja possível, a redução, do cruzamento de visitantes em zonas de estrangulamento;
+d) Minimizem as áreas de concentração dos visitantes com equipamentos interativos, devendo, preferencialmente, desativar os equipamentos que necessitem ou convidem à interação dos visitantes;
+e) Recorra, preferencialmente, no caso de visitas de grupo, a mecanismos de marcação prévia, a fim de evitar situações de espera para entrar no equipamento cultural, bem como no espaço exterior;
+f) Coloquem barreiras nas áreas de bilheteira e atendimento ao público;
+g) Privilegie a realização de transações por TPA.
+2 - A admissão dos visitantes deve ser realizada de forma livre ou por conjunto de pessoas, dependendo da área do referido equipamento cultural, devendo ser assegurada a regra de ocupação máxima indicativa de 0,05 pessoas por metro quadrado de área.
+3 - A ocupação ou o serviço em esplanadas dos equipamentos culturais apenas é permitida, desde que sejam respeitadas, com as necessárias adaptações, as orientações da DGS para o setor da restauração.
+4 - Nas áreas de consumo de restauração e bebidas dos equipamentos culturais devem respeitar-se as orientações definidas pela DGS para o setor da restauração.
+Artigo 18.º
+Eventos de natureza cultural
+1 - Não obstante o disposto no n.º 1 do artigo 12.º é permitido o funcionamento das salas de espetáculos, de exibição de filmes cinematográficos e similares, bem como de eventos de natureza cultural realizados ao ar livre, desde que:
+a) Sejam observadas, com as devidas adaptações, as regras definidas nos artigos 6.º e 7.º;
+b) Nas salas de espetáculo ou salas de exibição de filmes cinematográficos seja reduzida, sempre que necessário, observando as seguintes orientações:
+i) Os lugares ocupados devem ter um lugar de intervalo entre espetadores que não sejam coabitantes, sendo que na fila seguinte os lugares ocupados devem ficar desencontrados;
+ii) No caso de existência de palco, seja garantida uma distância mínima de pelo menos dois metros entre a boca da cena e a primeira fila de espetadores;
+c) Nos recintos de espetáculos ao ar livre, a lotação do recinto deve observar as seguintes orientações:
+i) Os lugares estejam previamente identificados, cumprindo um distanciamento físico entre espetadores de um metro e meio;
+ii) No caso de existência de palco, seja garantida uma distância mínima de pelo menos dois metros entre a boca da cena e a primeira fila de espetadores;
+d) Os postos de atendimento estejam, preferencialmente, equipados com barreiras de proteção;
+e) Seja privilegiada a compra antecipada de ingressos por via eletrónica e os pagamentos por vias sem contacto, através de cartão bancário ou outros métodos similares;
+f) Sempre que aplicável, seja assegurada a manutenção dos sistemas de ventilação, garantindo que o seu funcionamento é efetuado sem ocorrência de recirculação de ar;
+g) Se adaptem as cenas e os espetáculos ao vivo, sempre que possível, de forma a minimizar o contacto físico entre os envolvidos e a manter o distanciamento recomendado;
+h) Sejam observadas outras regras definidas pela DGS.
+2 - Nas áreas de consumo de restauração e bebidas destes equipamentos culturais devem respeitar-se as orientações definidas pela DGS para o setor da restauração.
+Artigo 19.º
+Atividade física e desportiva
+1 - Sem prejuízo do disposto nos números seguintes, apenas pode ser realizada a prática de atividade física e desportiva em contexto não competitivo de modalidades desportivas individuais, conforme definidas no Despacho n.º 1710/2014, publicado no Diário da República, 2.ª série, de 4 de fevereiro, ou de modalidades coletivas por atletas federados, desde que no cumprimento das orientações definidas pela DGS.
+2 - As competições de modalidades desportivas individuais e sem contacto físico, bem como a 1.ª Liga de Futebol Profissional, apenas podem ser realizadas ao ar livre, sem público, e desde que respeitem as orientações especificamente definidas pela DGS.
+3 - A prática de atividade física e desportiva ao ar livre ou em ginásios e academias apenas pode ser realizada desde que sejam respeitadas as orientações definidas pela DGS.
+4 - As instalações desportivas em funcionamento para efeitos dos números anteriores regem-se pelo disposto no artigo 7.º, com as necessárias adaptações.
+Artigo 20.º
+Visitas a utentes de estruturas residenciais
+1 - As visitas a utentes de estruturas residenciais para idosos, unidades de cuidados continuados integrados da Rede Nacional de Cuidados Continuados Integrados e outras respostas dedicadas a pessoas idosas, bem como a crianças, jovens e pessoas com deficiência, apenas são permitidas se forem observadas as regras definidas pela DGS.
+2 - Mediante avaliação da situação epidemiológica específica, pode ser determinada pela DGS, em articulação com a autoridade de saúde local e coordenadamente com o membro do Governo responsável pela área da saúde, a suspensão de visitas à instituição por tempo limitado.
+Artigo 21.º
+Estabelecimentos de jogos de fortuna ou azar, casinos, bingos ou similares
+É permitido o funcionamento dos estabelecimentos de jogos de fortuna ou azar, casinos, bingos ou similares, desde que:
+a) Observem as orientações e as instruções definidas especificamente para o efeito pela DGS referentes ao distanciamento físico, higiene das mãos e superfícies, etiqueta respiratória e as regras previstas no presente regime;
+b) Possuam um protocolo específico de limpeza e higienização das zonas de jogo;
+c) Privilegiem a realização de transações por TPA;
+d) Não permaneçam no interior dos estabelecimentos frequentadores que não pretendam consumir ou jogar.
+Artigo 22.º
+Cuidados pessoais e estética
+1 - É permitido o funcionamento de:
+a) Salões de cabeleireiro, barbeiros, institutos de beleza, mediante marcação prévia;
+b) Estabelecimentos ou estúdios de tatuagens e bodypiercing, mediante marcação prévia;
+c) Atividade de massagens em salões de beleza, em ginásios ou em estabelecimentos similares.
+2 - Nestes estabelecimentos devem respeitar-se as orientações definidas pela DGS.
+ANEXO I
+(a que se refere o artigo 3.º)
+1 - Atividades recreativas, de lazer e diversão:
+Salões de dança ou de festa;
+Parques de diversões e parques recreativos e similares para crianças;
+Parques aquáticos, sem prejuízo do acesso dos trabalhadores para efeitos de cuidado dos animais;
+Outros locais ou instalações semelhantes às anteriores.
+2 - Atividades culturais:
+Grutas nacionais, regionais e municipais, públicas ou privadas, sem prejuízo do acesso dos trabalhadores para efeitos de conservação;
+Praças, locais e instalações tauromáquicas;
+3 - Atividades desportivas, salvo as destinadas à atividade dos praticantes desportivos federados, em contexto de treino:
+Pavilhões ou recintos fechados, exceto os destinados à prática de desportos individuais sem contacto;
+Pavilhões fechados de futsal, basquetebol, andebol, voleibol, hóquei em patins e similares;
+Pistas fechadas de patinagem, hóquei no gelo e similares;
+Ringues de boxe, artes marciais e similares;
+Pistas de atletismo fechadas.
+4 - Atividades em espaços abertos, espaços e vias públicas, ou espaços e vias privadas equiparadas a vias públicas:
+Desfiles e festas populares ou manifestações folclóricas ou outras de qualquer natureza.
+5 - Espaços de jogos e apostas:
+Salões de jogos e salões recreativos.
+6 - Estabelecimentos de bebidas:
+Estabelecimentos de bebidas e similares, com ou sem espaços de dança, salvo quanto aos integrados em estabelecimentos turísticos e de alojamento local, para prestação de serviço exclusiva para os respetivos hóspedes.
+7 - Termas e spas ou estabelecimentos afins, bem como solários.
+8 - Escolas de línguas e centros de explicações, salvo, quanto aos primeiros, para efeito de realização de provas, no estrito cumprimento do distanciamento físico recomendado pela autoridade de saúde.
+113283939
