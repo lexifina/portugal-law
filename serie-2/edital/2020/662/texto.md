@@ -1,0 +1,6 @@
+Edital n.º 662/2020
+Sumário: Regulamento da Venda de Lotes para Construção de Habitação em Loteamentos Municipais a Jovens Naturais ou Residentes no Concelho das Caldas da Rainha.
+Regulamento da Venda de Lotes para Construção de Habitação em Loteamentos Municipais a Jovens Naturais ou Residentes no Concelho das Caldas da Rainha
+Fernando Manuel Tinta Ferreira, Presidente da Câmara Municipal das Caldas da Rainha, torna Público nos termos e para os efeitos do disposto no artigo 139.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, que o Regulamento da Venda de Lotes para Construção de Habitação em Loteamentos Municipais a Jovens Naturais ou Residentes no Concelho das Caldas da Rainha, depois de ter sido aprovado pela Câmara Municipal em sua reunião ordinária realizada em 23 de março de 2020 e pela Assembleia Municipal em sua sessão ordinária de 21 de abril de 2020, entra em vigor no dia seguinte ao da sua publicação no Diário da República. Mais Torna Público, que o referido Regulamento poderá ser consultado na página do Município em www.cm-caldas-rainha.pt.
+14 de maio de 2020. - O Presidente da Câmara, Fernando Manuel Tinta Ferreira.
+313248063
