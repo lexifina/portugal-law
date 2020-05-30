@@ -4,7 +4,7 @@ Acetil-alfa-metilfentanil - N-[1-(alfa) metilfenetil-4-piperidil] acetanilida.
 
 Acetildiidrocodeína - 3-metoxi-4,5-epoxi-6-acetoxi-17-metilmorfinano.
 
-Acetilfentanilo - (N-fenil-N-[1-(2-feniletil) piperidina-4-il]acetamida).
+Acetilfentanilo - (N-fenil-N-[1-(2-feniletil)piperidina-4-il]acetamida).
 
 Acetilmetadol - 3-acetoxi-6-dimetilamino-4,4-difenil-heptano.
 
@@ -34,7 +34,7 @@ ANPP (4-anilino-N-fenetilpiperidina).
 
 Benzilmorfina - 3-benziloxi-4,5-epoxi-N-metil-7-morfineno-6-ol; 3-benzilmorfina.
 
-Benzetidina - éster etílico do ácido 1-(2-benziloxietil)-- 4-fenilpepiridino-4-carboxílico.
+Benzetidina - éster etílico do ácido 1-(2-benziloxietil)- - 4-fenilpepiridino-4-carboxílico.
 
 Betacetilmetadol - beta-3-acetoxi-6-dimetilamino-4,4-difenil-heptano.
 
@@ -57,6 +57,8 @@ Butirfentanilo - (N-fenil-N-[1-(2-feniletil)-4-iperidinil]butanamida).
 Carfentanilo - (1-(2-feniletil)-4-[fenil(propanoil)amino]piperidina-4-carboxilato de metilo).
 
 Cetobemidona - 4-meta-hidroxifenil-1-metil-4-propionilpiperidina.
+
+Ciclopropilfentanilo - N-fenil-N-[1-(2-feniletil)piperidin-4-il]ciclopropanocarboxamida
 
 Clonitazeno - 2-para-clorobenzil-1-dietilaminoetil-5-nitrobenzimidazol.
 
@@ -112,7 +114,7 @@ Fenadoxona - 6-morfolino-4,4-difenil-3-heptanona.
 
 Fenanpromida - N-(1-metil-2-piperidinoetil)-propionalida.
 
-Fenazocina - '2'-hidroxi-5,9-dimetil-2-fenetil-6,7-benzomorfano.
+Fenazocina -'2'-hidroxi-5,9-dimetil-2-fenetil-6,7-benzomorfano.
 
 Fenomorfano - 3-hidroxi-N-fenetilmorfinano.
 
@@ -152,13 +154,15 @@ Metadona - 6-dimetilamino-4,4-difenil-3-heptanona.
 
 Metadona, intermediário de - 4-ciano-2-dimetilamino-4,4-difenilbutano.
 
-Metazocina - '2'-hidroxi-2,5,9-trimetil-6,7-benzom orfano.
+Metazocina -'2'-hidroxi-2,5,9-trimetil-6,7-benzomorfano.
 
 Metildesorfina - 6-metil-delta-6-desoximorfina; 3-hidroxi-4,5-epoxi-6,17-dimetil-6-morfineno.
 
 Metildiidromorfina - 6-metil-diidromorfina; 3,6-diidroxi-4,5-epoxi-6,17-dimetilmorfinano.
 
 3-metilfentanil - N-(3-metil-1-fenetil-4-piperidil) propionanilida (e os seus dois isómeros cis e trans).
+
+Metoxiacetilfentanilo - 2-metoxi-N-fenil-N- [1-(2-feniletil)piperidin-4-il]acetamida.
 
 Metopão - 5-metil di-hidromorfinona; 3-hidroxi-4,5-epoxi-6-oxo-5,17 dimetilmorfinona.
 
@@ -204,9 +208,13 @@ Ocfentanilo (N-(2-fluorofenil) -2-metoxi-N-[1-(2-fenetil)piperidin-4-il]acetamid
 
 Oripavina [3-O-desmetiltebaína, o 6,7,8,14-tetradeshi-dro-4,5-(alfa)-epoxi-6-metoxi-17-metilmorfinan-3-ol].
 
+Ortofluorofentanilo - N-(2-fluorofenil)-N-[1-(2-feniletil)piperidin-4-il]propanamida.
+
 Oxicodona - 3-metoxi-4,5-epoxi-6-oxo-14-hidroxi-17-metilmorfinano; 14-hidroxidiidrocodeínona.
 
 Oximorfona - 3,14-diidroxi-4,5-epoxi-6-oxo-17-metilmorfinano; 14-hidroxidiidromorfinona.
+
+Parafluorobutirilfentanilo - N-(4-fluorofenil)-N-[1-(2-feniletil)piperidin-4-il]butanamida.
 
 Para-fluorofentanil-['4'-fluoro-N-(1-fenetil-4-piperidil)] propionanilida.
 
