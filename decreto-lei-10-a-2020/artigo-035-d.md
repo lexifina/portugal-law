@@ -12,6 +12,6 @@ c) Os prazos previstos nas portarias que aprovam os Programas Regionais de Orden
 
 2 - O prazo para aprovação ou atualização dos Planos Municipais de Defesa da Floresta, previsto no n.º 7 do artigo 203.º da Lei n.º 2/2020, de 31 de março, é prorrogado até 31 de maio de 2020.
 
-3 - Até 90 dias após a cessação do estado de emergência, os pareceres vinculativos da Comissão de Defesa da Floresta, previstos no artigo 16.º do Decreto-Lei n.º 124/2006, de 28 de junho, na sua redação atual, são substituídos por parecer do Instituto da Conservação da Natureza e das Floresta, I. P.
+3 - Até 90 dias após a cessação do estado de emergência, os pareceres vinculativos da Comissão de Defesa da Floresta, previstos no artigo 16.º do Decreto-Lei n.º 124/2006, de 28 de junho, na sua redação atual, são substituídos por parecer do Instituto da Conservação da Natureza e das Florestas, I. P., caso os municípios entendam não ter condições técnicas que permitam a emissão de pareceres vinculativos por parte da Comissão de Defesa da Floresta.
 
 4 - Na ausência de Plano Operacional Municipal de Defesa da Floresta aprovado para o ano de 2020, mantém-se em vigor o plano aprovado em 2019, devendo este ser atualizado mediante deliberação da câmara municipal até 31 de maio de 2020 e comunicado aos membros que integram a Comissão Municipal de Defesa da Floresta.

@@ -6,7 +6,9 @@
 
 2 - O financiamento previsto no número anterior ascende a 90 % do custo total da barreira acrílica, com o limite de (euro) 54,00 por unidade, sendo apenas elegíveis as barreiras que obedeçam ao modelo definido pela Agência para a Modernização Administrativa, I. P. (AMA, I. P.).
 
-3 - O procedimento de financiamento é simplificado, desenvolvendo-se nos seguintes termos:
+3 - Ficam dispensadas do cumprimento da obrigatoriedade prevista no número anterior, quanto ao modelo definido pela AMA, I. P., as autarquias locais que, anteriormente à publicação do Decreto-Lei n.º 20-D/2020, de 12 de maio, já tivessem iniciado o procedimento aquisitivo das barreiras.
+
+4 - O procedimento de financiamento é simplificado, desenvolvendo-se nos seguintes termos:
 
 a) As autarquias locais solicitam junto da Direção-Geral das Autarquias Locais (DGAL) o financiamento previsto no presente artigo, de acordo com o formulário disponibilizado no respetivo portal da DGAL;
 
@@ -14,4 +16,4 @@ b) A DGAL procede à validação, junto da AMA, I. P., do número de barreiras a
 
 c) A autarquia local envia o comprovativo da aquisição à DGAL;
 
-d) A comparticipação é transferida pela DGAL em função da despesa realizada, nos termos do número anterior.
+d) A comparticipação é transferida pela DGAL em função da despesa realizada, nos termos do n.º 2.

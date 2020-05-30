@@ -6,7 +6,7 @@
 
 2 - A atribuição do apoio está sujeita à produção de efeitos do enquadramento no regime de segurança social dos trabalhadores independentes e implica a manutenção do exercício de atividade por um período mínimo de 24 meses após a cessação do pagamento da prestação.
 
-3 - A atribuição do apoio está sujeita a condição de recursos nos termos previstos na Lei n.º 13/2003, de 21 de maio, na sua redação atual.
+3 - A atribuição do apoio está sujeita a condição de recursos do requerente e respetivo cônjuge ou unido de facto, com base nos rendimentos disponíveis no sistema de informação da segurança social e da administração tributária, tendo por base o referencial previsto na Lei n.º 13/2003, de 21 de maio, na sua redação atual.
 
 4 - O apoio é devido a partir da data de apresentação do requerimento e é atribuído por um período máximo de dois meses.
 

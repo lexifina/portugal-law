@@ -15,3 +15,5 @@
 4 - O cartão de beneficiário familiar de ADSE cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores é aceite até 30 de outubro de 2020.
 
 5 - O disposto no número anterior aplica-se independentemente da verificação das situações previstas no artigo 9.º do Decreto-Lei n.º 118/83, de 25 de fevereiro, na sua redação atual, quando os beneficiários declarem que não conseguiram, em momento anterior, proceder à marcação dos atos médicos ou que estes foram desmarcados.
+
+6 - O disposto no n.º 2 não é aplicável às licenças de pesca lúdica mensais e anuais que estivessem válidas na data a que se refere o n.º 1, considerando-se as mesmas prorrogadas pelo período equivalente ao da respetiva interdição de exercício da pesca lúdica.
