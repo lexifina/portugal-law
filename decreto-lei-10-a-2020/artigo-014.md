@@ -11,3 +11,5 @@
 2 - A declaração referida no número anterior constitui, igualmente, fundamento de justificação de não comparecimento em qualquer diligência processual ou procedimental, bem como do seu adiamento, no âmbito dos processos e procedimentos referidos no número anterior.
 
 3 - O disposto nos números anteriores é, com as devidas adaptações, aplicável aos demais intervenientes processuais ou procedimentais, ainda que meramente acidentais.
+
+4 - A declaração referida no n.º 1 considera-se também, para todos os efeitos, fundamento para a alegação do justo impedimento à prática de atos processuais e procedimentais que podem ser praticados remotamente quando o sujeito não tenha acesso a meios de comunicação à distância ou esteja incapacitado por infeção por COVID-19 para os praticar, no âmbito dos processos, procedimentos, atos e diligências referidos nesse número.
