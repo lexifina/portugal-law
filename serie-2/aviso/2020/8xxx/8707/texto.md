@@ -1,0 +1,15 @@
+Aviso n.º 8707/2020
+Sumário: Plano de Pormenor da Área de Acolhimento Empresarial de Sabrosa - Ampliação da Zona Industrial de Sabrosa - discussão pública.
+Plano de Pormenor da Área de Acolhimento Empresarial de Sabrosa Ampliação da Zona Industrial de Sabrosa
+Discussão Pública
+Domingos Manuel Alves Carvas, Presidente da Câmara Municipal de Sabrosa, torna público, em cumprimento do disposto no artigo 89.º e alínea a) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação vigente, Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) e ainda para os efeitos do artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, Regime Jurídico das Autarquias Locais (RJAL), que a Câmara Municipal de Sabrosa, na sua reunião de 14 de maio de 2020, deliberou submeter a discussão pública a proposta de Plano de Pormenor da Área de Acolhimento Empresarial de Sabrosa - Ampliação da Zona Industrial de Sabrosa, pelo prazo de 20 dias úteis, com início a contar do 5.º dia seguinte à publicação do presente Aviso no Diário da República.
+A proposta acima mencionada encontra-se disponível para consulta no sítio da Internet do Município de Sabrosa, em www.cm-sabrosa.pt e na Unidade Orgânica Flexível Obras, Serviços e Ordenamento do Território da Câmara Municipal.
+Todos os interessados podem apresentar por escrito reclamações, observações e sugestões ou pedidos de esclarecimento, até ao termo do referido período, dirigidos, sob a referência em epígrafe, ao Presidente da Câmara Municipal de Sabrosa, através do correio eletrónico geral@cm-sabrosa.pt, por via postal ou por entrega presencial no Balcão Único de Atendimento da Câmara Municipal (Rua do Loreto, 5060-328 Sabrosa)
+Para que conste, mandou-se publicar este Aviso no Diário da República e outros de igual teor, que serão afixados nos lugares públicos do costume, na comunicação social, no sítio da Internet do Município de Sabrosa e na Plataforma Colaborativa de Gestão Territorial em (www.dgterritorio.pt)
+19 de maio de 2020 - O Presidente da Câmara Municipal de Sabrosa, Domingos Manuel Alves Carvas.
+Deliberação
+A Câmara Municipal de Sabrosa na sua reunião ordinária de 14 de maio de 2020, deliberou:
+Aprovar, por unanimidade, de acordo com artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, a abertura do período de discussão pública da proposta do Plano de Pormenor da Área de Acolhimento Empresarial de Sabrosa - Ampliação da Zona Industrial de Sabrosa, através de aviso a publicar no Diário da República e divulgar através da comunicação social, da plataforma colaborativa de gestão territorial e no respetivo sítio na Internet, do qual consta o período de discussão pública, a forma como os interessados podem apresentar as suas reclamações, observações e sugestões ou pedidos de esclarecimento e os locais onde se encontra disponível o conteúdo documental da proposta.
+O período de discussão pública deve ser anunciado com a antecedência mínima de 5 (cinco) dias, e terá a duração de 20 (vinte) dias úteis.
+Sabrosa e Paços do Concelho, 19 de maio de 2020. - O Presidente da Câmara Municipal, Domingos Manuel Alves Carvas.
+613261436
