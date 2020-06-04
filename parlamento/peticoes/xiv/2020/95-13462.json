@@ -1,0 +1,601 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13462",
+  "numero": "95",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-06-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-07-01",
+            "entidades": null,
+            "id": "115182",
+            "tipo": null,
+            "titulo": "Audição em 2020-07-01 com Peticionários da petição n.º 95/XIV/1.ª — Abertura das Escolas de Dança – apoios e medidas"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-06-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra da Cultura"
+            ],
+            "nrOficio": "19/CCC/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-06-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "19/CCC/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-11-26",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "914675",
+                "obs": null,
+                "pag": [
+                  "10-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/016/2020-12-04/10?pgs=10-12&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-06-23",
+        "DataArquivo": "2020-12-02",
+        "DataBaixaComissao": "2020-06-12",
+        "DataEnvioPAR": "2020-12-03",
+        "DataReaberta": "2020-06-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-06-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c324a6c5a474a6c4e5452694c54646d4d5449744e446b785a6930355a6a55344c5451774d574d32595459774d44457a596935775a47593d&fich=bedbe54b-7f12-491f-9f58-401c6a60013b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-06-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c324e6c4e445a684d7a597a4c5449304f5445744e47526d4d7931694f5449334c544d315a444a6a4d4459304e5456684f4335775a47593d&fich=ce46a363-2491-4df3-b927-35d2c06455a8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a55355a6d453059324a6d4c544a684f5749744e4755324e5330344d4455774c54426a5a5451775a6a6c6a597a63345a6935775a47593d&fich=59fa4cbf-2a9b-4e65-8050-0ce40f9cc78f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-12-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a49354e44457a5a54566c4c5451304e4463744e474d324e6930344e6a677a4c5467304e6d4e6c4e6d566c596d5a6b4e5335775a47593d&fich=29413e5e-4447-4c66-8683-846ce6eebfd5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-06-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a526a5a6d59334e4467324c546b794f5441744e44466c4d4331685954466a4c5745324d7a63784e44686a4f444d78597935775a47593d&fich=4cff7486-9290-41e0-aa1c-a637148c831c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7484",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Cultura e Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-06-23",
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-06-01",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-06-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a41324d6a4a694d5749774c575a6a4e6a67744e444978595330354e6a41794c5441334d546c695a6d59344e544e694d7935775a47593d&fich=0622b1b0-fc68-421a-9602-0719bff853b3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45651",
+      "45660",
+      "45716",
+      "45741",
+      "45742",
+      "45753"
+    ],
+    "Iniciativasoriginadas": [
+      "45651",
+      "45660",
+      "45716",
+      "45741",
+      "45742",
+      "45753"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=30"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244544",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/26?pgs=26-27,34&org=PLC"
+              }
+            ],
+            "Sumario": "Adaptação das regras de confinamento às especificidades das escolas de dança; Medidas de apoio à dança; Recomenda ao Governo que assegure a adoção de medidas de apoio às escolas de dança; Requalificação do Conservatório Nacional e valorização e defesa do ensino artístico na Escola de Música e na Escola de Dança; Apoio às escolas de dança devido ao encerramento obrigatório decretado a propósito da pandemia COVID-19; Recomenda a conclusão urgente das obras de requalificação do edifício do Conservatório Nacional",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244545",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Adaptação das regras de confinamento às especificidades das escolas de dança; Medidas de apoio à dança; Recomenda ao Governo que assegure a adoção de medidas de apoio às escolas de dança; Requalificação do Conservatório Nacional e valorização e defesa do ensino artístico na Escola de Música e na Escola de Dança; Apoio às escolas de dança devido ao encerramento obrigatório decretado a propósito da pandemia COVID-19; Recomenda a conclusão urgente das obras de requalificação do edifício do Conservatório Nacional",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244546",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Adaptação das regras de confinamento às especificidades das escolas de dança; Medidas de apoio à dança; Recomenda ao Governo que assegure a adoção de medidas de apoio às escolas de dança; Requalificação do Conservatório Nacional e valorização e defesa do ensino artístico na Escola de Música e na Escola de Dança; Apoio às escolas de dança devido ao encerramento obrigatório decretado a propósito da pandemia COVID-19; Recomenda a conclusão urgente das obras de requalificação do edifício do Conservatório Nacional",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244547",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Adaptação das regras de confinamento às especificidades das escolas de dança; Medidas de apoio à dança; Recomenda ao Governo que assegure a adoção de medidas de apoio às escolas de dança; Requalificação do Conservatório Nacional e valorização e defesa do ensino artístico na Escola de Música e na Escola de Dança; Apoio às escolas de dança devido ao encerramento obrigatório decretado a propósito da pandemia COVID-19; Recomenda a conclusão urgente das obras de requalificação do edifício do Conservatório Nacional",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244548",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Adaptação das regras de confinamento às especificidades das escolas de dança; Medidas de apoio à dança; Recomenda ao Governo que assegure a adoção de medidas de apoio às escolas de dança; Requalificação do Conservatório Nacional e valorização e defesa do ensino artístico na Escola de Música e na Escola de Dança; Apoio às escolas de dança devido ao encerramento obrigatório decretado a propósito da pandemia COVID-19; Recomenda a conclusão urgente das obras de requalificação do edifício do Conservatório Nacional",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Adaptação das regras de confinamento às especificidades das escolas de dança; Medidas de apoio à dança; Recomenda ao Governo que assegure a adoção de medidas de apoio às escolas de dança; Requalificação do Conservatório Nacional e valorização e defesa do ensino artístico na Escola de Música e na Escola de Dança; Apoio às escolas de dança devido ao encerramento obrigatório decretado a propósito da pandemia COVID-19; Recomenda a conclusão urgente das obras de requalificação do edifício do Conservatório Nacional",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Adaptação das regras de confinamento às especificidades das escolas de dança; Medidas de apoio à dança; Recomenda ao Governo que assegure a adoção de medidas de apoio às escolas de dança; Requalificação do Conservatório Nacional e valorização e defesa do ensino artístico na Escola de Música e na Escola de Dança; Apoio às escolas de dança devido ao encerramento obrigatório decretado a propósito da pandemia COVID-19; Recomenda a conclusão urgente das obras de requalificação do edifício do Conservatório Nacional",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13462",
+    "PetAssunto": "Abertura das Escolas de Dança – apoios e medidas",
+    "PetDataEntrada": "2020-06-04",
+    "PeticoesAssociadas": null,
+    "PetId": "13462",
+    "PetLeg": "XIV",
+    "PetNr": "95",
+    "PetNrAssinaturas": "6017",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6083",
+        "obs": null,
+        "pag": [
+          "26-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-02",
+        "pubLeg": "XIV",
+        "pubNr": "73",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/26?pgs=26-34&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "909115",
+        "obs": null,
+        "pag": [
+          "13-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-07-02",
+        "pubLeg": "XIV",
+        "pubNr": "46",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/046/2020-07-02/13?pgs=13-15&org=PLC"
+      }
+    ]
+  }
+}
