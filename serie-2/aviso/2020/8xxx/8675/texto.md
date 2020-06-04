@@ -1,0 +1,10 @@
+Aviso n.º 8675/2020
+Sumário: Prorrogação do prazo para elaboração do Plano de Pormenor do Parque Empresarial de Alcanena.
+Abertura de Procedimento de Elaboração do Plano de Pormenor do Parque Empresarial de Alcanena - Prorrogação do Prazo Fernanda Maria Pereira Asseiceira, Presidente da Câmara Municipal de Alcanena;
+Torna público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015 de 14 de maio, que a Câmara Municipal de Alcanena, na sua reunião realizada em 28 de outubro de 2019, deliberou, por maioria, aprovar a prorrogação do prazo para a Elaboração do Plano de Pormenor do Parque Empresarial de Alcanena, por mais dezasseis meses, na sequencia da aprovação da Elaboração do Parque Empresarial de Alcanena em reunião de Câmara realizada a 16 de abril de 2018, na qual se aprovou, igualmente, ao prazo de dezasseis meses e os respetivos Termos de Referência e Qualificação do Plano como suscetível de ter efeitos significativos no ambiente. Foi publicado mediante Aviso n.º 8873/2018, no Diário da República, 2.ª série, n.º 124, de 29 de junho.
+Para se constar se elaborou o presente Aviso que vai ser publicado no Diário da República, na comunicação social, na plataforma colaborativa de gestão territorial e no sítio da internet http://cm-alcanena.pt/
+16 de janeiro de 2020. - A Presidente da Câmara, Fernanda Maria Pereira Asseiceira.
+Deliberação
+A Câmara Municipal de Alcanena, na sua reunião realizada em 28 de outubro de 2019, deliberou, por maioria, aprovar a prorrogação do prazo para a Elaboração do Plano de Pormenor do Parque Empresarial de Alcanena, por mais dezasseis meses, na sequencia da aprovação da Elaboração do Parque Empresarial de Alcanena em reunião de Câmara realizada a 16 de abril de 2018, na qual se aprovou, igualmente, ao prazo de dezasseis meses e os respetivos Termos de Referência e Qualificação do Plano como suscetível de ter efeitos significativos no ambiente. Foi publicado mediante Aviso n.º 8873/2018, no Diário da República, 2.ª série, n.º 124, de 29 de junho.
+16 de janeiro de 2020. - A Presidente da Câmara, Fernanda Maria Pereira Asseiceira.
+613101233
