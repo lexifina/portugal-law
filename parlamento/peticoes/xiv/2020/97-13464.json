@@ -1,0 +1,620 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13464",
+  "numero": "97",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-06-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-05-04",
+            "entidades": null,
+            "id": "117004",
+            "tipo": null,
+            "titulo": "Audição em 2021-05-04 com Subscritores  da Petição n.º 97/XIV/1.ª"
+          },
+          {
+            "data": "2021-05-05",
+            "entidades": null,
+            "id": "117019",
+            "tipo": null,
+            "titulo": "Audição em 2021-05-05 com Direcção Nacional do Sindicato dos Profissionais de Polícia - PSP"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-05-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-07-07",
+        "DataArquivo": "2021-05-19",
+        "DataBaixaComissao": "2020-06-12",
+        "DataEnvioPAR": "2021-05-20",
+        "DataReaberta": "2020-07-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-07-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a59573876597a4d335a6d51354d5745745a4449354e693030597a4a694c57466c5a5755745a475a6b4d7a41305a474a6d5a4451334c6e426b5a673d3d&fich=c37fd91a-d296-4c2b-aeee-dfd304dbfd47.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-05-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d6a4d775a4463794d5745744d54557a4e533030596d45784c546c694d446b74597a51334e6d4d314e4455794d44466d4c6e426b5a673d3d&fich=230d721a-1535-4ba1-9b09-c476c545201f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7264",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-07-07",
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2022-06-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-06-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325979597a67344f544d794c54526c4f5467744e4451305a6930345a6a4d784c544935595745784f57566b595755785a5335775a47593d&fich=f2c88932-4e98-444f-8f31-29aa19edae1e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121534",
+      "121526",
+      "121532",
+      "121533"
+    ],
+    "Iniciativasoriginadas": [
+      "121534",
+      "121526",
+      "121532",
+      "121533"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": "Apresentação do Projeto de Lei nº 105/XV/1ª e dos Projetos de Resolução n.ºs 75 e 82/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=27"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23",
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/22?pgs=22-23,29&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=28"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Reconhecimento dos direitos intrínsecos da natureza e de todos os seres vivos; Procede à sexta alteração do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro; Atualização da lista de espécies em risco e em vias de extinção e Cadastro Nacional dos Valores Naturais Classificados; Proteger as áreas protegidas; Recomenda ao Governo a emissão de um novo despacho dos prazos para indemnização por danos em animais causados pelo lobo-ibérico e a sensibilização para a adoção de medidas preventivas que evitem ataques de lobo.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13464",
+    "PetAssunto": "Reconhecimento dos Direitos Intrínsecos da Natureza e de Todos os Seres Vivos",
+    "PetDataEntrada": "2020-06-09",
+    "PeticoesAssociadas": null,
+    "PetId": "13464",
+    "PetLeg": "XIV",
+    "PetNr": "97",
+    "PetNrAssinaturas": "4241",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16211",
+        "obs": null,
+        "pag": [
+          "22-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-25",
+        "pubLeg": "XV",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/22?pgs=22-29&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
