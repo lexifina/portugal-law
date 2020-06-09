@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7vz42dekG7SvX%2bJCoI606%2bawj%2fX5VzWets1lObKDepdveONV1z3zBA3cO9lc957K5%2f9HlKJqmHedDhhMyhl2cw4SOzV7qsNm8CFmvLpT5RkqF9HjBDt%2f%2bX0OUM0cdjJwLTwyvrlp3ZMoTcIPfZTsIPJ7MWFPt2X%2bh0DQWsRjX6GyToHZHEfJiay2rPW9JT8dDQem39OFpKzbLyK%2b8DJ08rsf17Fviv%2fFFPxcpMyDb5w1tqdx45uTH13%2bLlwBj4kkTVZgL8HxkUlx96u3wzpvXKLMn7R8Tg9xl9SNSUxzXHSzTSYcy2rAL7Kr%2fWg%2fgF7nS%2fbFNRkzS6x92aIVDj1xOsuRFXDbkBrM5JpdPMk4cxk%3d&fich=IntervencoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "ac2343fce06e15e6ec675fd3460ca65b42c7cb3b7c35721a49abc1fc32427acb",
+  "legislatura": "XIV",
+  "id": "238917",
+  "tipo": "Intervenção",
+  "orador": "Bebiana Cunha (PAN)",
+  "data_registo": "2020-06-09",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "362447",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "44095",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Concessão de Honras do Panteão Nacional a Aristides de Sousa Mendes"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Discussão do Projeto de Resolução n.º 64/XIV/1.ª (N insc.) — Concessão de honras do Panteão Nacional a Aristides de Sousa Mendes.",
+        "duracao": "00:05:00:086",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2020_06_09_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=00:53:43:572&drc=00:05:00:086"
+      }
+    ],
+    "DataReuniaoPlenaria": "2020-06-09",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PAN",
+      "idCadastro": "6549",
+      "nome": "Bebiana Cunha"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "238917",
+    "IdDebate": "14703",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "44095",
+        "tipo": "Projeto de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "238917",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "16-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-06-12",
+        "pubLeg": "XIV",
+        "pubNr": "62",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/062/2020-06-12/16?pgs=16-17&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Concessão de Honras do Panteão Nacional a Aristides de Sousa Mendes.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
