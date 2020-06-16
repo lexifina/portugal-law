@@ -1,0 +1,8 @@
+Aviso n.º 9058/2020
+Sumário: Levantamento do regime de suspensão do prazo do procedimento regulamentar a que foi submetido o projeto de Regulamento do Leilão para a Atribuição de Direitos de Utilização de Frequências nas Faixas dos 700 MHz, 900 MHz, 1800 MHz, 2,1 GHz, 2,6 GHz e 3,6 GHz.
+A ANACOM aprovou, em 19 de março de 2020, a suspensão do procedimento de consulta regulamentar relativo ao Projeto de Regulamento do Leilão para a Atribuição de Direitos de Utilização de Frequências nas faixas dos 700 MHz, 900 MHz, 1800 MHz, 2,1 GHz, 2,6 GHz e 3,6 GHz, com efeitos à data dessa decisão e até à data do seu levantamento, a decidir tendo em conta a vigência das medidas excecionais e temporárias de resposta à situação epidemiológica provocada por SARS-Cov2 e pela doença COVID19.
+Nos termos legalmente aplicáveis, a decisão referida foi publicada no sítio institucional da ANACOM na Internet e na Série II do Diário da República de 16 de abril de 2020, através do Aviso n.º 6426/2020.
+Entretanto, a Lei n.º 1-A/2020, de 19 de março, suspendeu os prazos de procedimentos administrativos, tendo a primeira alteração a esta lei (Lei n.º 4-A/2020, de 6 de abril) clarificado que aquela suspensão produzia efeitos a 9 de março de 2020, ou seja, em data anterior à decisão da ANACOM.
+A Lei n.º 16/2020, publicada a 29 de maio, veio determinar o levantamento do regime de suspensão dos referidos prazos, considerando-os vencidos no vigésimo dia útil posterior à entrada em vigor desta lei, pelo que a ANACOM torna público que o termo do presente procedimento ocorrerá a 3 de julho de 2020.
+1 de junho de 2020. - O Presidente do Conselho de Administração, João António Cadete de Matos.
+313288248
