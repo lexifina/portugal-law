@@ -12,7 +12,7 @@ Incentivos à inovação empresarial e empreendedorismo
 
 a) No encerramento financeiro - com a apresentação dos dados sobre a conclusão física e financeira do projeto, é avaliada a concretização dos objetivos e condições subjacentes à aprovação do projeto, incluindo a concretização dos indicadores de realização e de resultado;
 
-b) No ano de cruzeiro - que corresponde ao segundo exercício económico completo após o ano de conclusão física e financeira do projeto, com exceção dos projetos do setor do turismo que corresponde ao terceiro exercício económico completo, é efetuada uma avaliação sobre o cumprimento dos resultados associados a externalidades positivas geradas na economia, aferindo a possibilidade de manutenção definitiva da componente não reembolsável face aos objetivos contratuais alcançados.
+b) No ano de cruzeiro - que corresponde ao exercício económico completo de laboração após o ano de conclusão física e financeira do projeto, o qual não pode exceder o segundo exercício económico, com exceção dos projetos do setor do turismo em que não pode exceder o terceiro exercício económico - é efetuada uma avaliação sobre o cumprimento dos resultados associados a externalidades positivas geradas na economia, aferindo a possibilidade de manutenção definitiva da componente não reembolsável face aos objetivos contratuais alcançados.
 
 3 - A avaliação referida na alínea a) do número anterior releva para efeitos de aplicação do disposto no artigo 15.º, incluindo para efeitos do disposto no n.º 3 do artigo 34.º
 
