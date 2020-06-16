@@ -12,6 +12,6 @@ b) 50 % das despesas elegíveis, no caso do PO Lisboa;
 
 c) 80 % das despesas elegíveis, no caso do PO Algarve.
 
-3 - Em casos devidamente justificados, por deliberação da Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), as taxas de cofinanciamento referidas no presente diploma podem ser aumentadas até 10 pontos percentuais.
+3 - Nas situações em que as Autoridades de Gestão competentes demonstrem que os compromissos a assumir respeitam a taxa de cofinanciamento do Eixo do Programa Operacional em que se inserem, pode ser autorizado pela Comissão Especializada competente da Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), o aumento até 100 % da taxa máxima referida nos números anteriores.
 
-4 - A deliberação prevista no número anterior deve ainda prever o modo de compensação de forma a garantir o cumprimento das taxas de financiamento nos respetivos eixos prioritários.
+4 - A CIC Portugal 2020 pode ainda autorizar taxas máximas até 100 %, em situações excecionais decorrentes da legislação comunitária, sujeitas a regularização em reprogramações ulteriores.
