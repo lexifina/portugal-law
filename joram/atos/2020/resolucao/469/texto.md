@@ -1,0 +1,117 @@
+# Resolução n.º 469/2020
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 115/2020, de 2020-06-19
+
+**Sumário:** Aprova a prestação de contas do Subsetor do Governo Regional da Madeira, referente ao ano económico de 2019.
+
+## Texto
+
+Resolução n.º 469/2020
+Conforme dispõe o Decreto-Lei n.º 192/2015, de 11 de setembro e a Instrução do Tribunal de Contas n.º 1/2019, de 6 de março, o subsetor do Governo Regional deve efetuar a prestação de contas referente ao ano de 2019 de acordo com o Sistema de Normalização Contabilística para as Administrações Públicas.
+Nesta conformidade, considerando que a Conta do Subsetor do Governo Regional agrega a totalidade da informação contabilística, dos serviços integrados neste subsetor, cabe aos membros do Governo Regional aprovar as Demonstrações Financeiras referentes ao ano de 2019.
+Assim, o Conselho de Governo reunido em plenário em 18 de junho de 2020, resolve:
+Aprovar a prestação de contas do Subsetor do Governo Regional da Madeira, referente ao ano económico de 2019, documento que consta como anexo à presente Resolução e que dela faz parte integrante, ficando arquivado na Secretaria Geral da Presidência.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 470/2020
+Considerando que a Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR) compreende na sua estrutura
+
+orgânica um Conselho Consultivo a quem compete contribuir para a formulação das políticas públicas do setor dos serviços de águas e resíduos e emitir parecer sobre o plano e o relatório anual de atividades e contas da ERSAR, o modelo regulatório e outros assuntos cuja apreciação lhe seja submetida pelo respetivo Conselho de Administração;
+Considerando que, enquanto órgão de consulta na definição das linhas gerais de atuação da ERSAR, cabe ainda ao Conselho Consultivo apresentar, por sua iniciativa, sugestões e propostas ao Conselho de Administração destinadas a promover a melhoria do setor e das atividades da ERSAR no quadro das respetivas atribuições;
+Considerando que o Conselho Consultivo da ERSAR deve garantir a participação de representantes dos principais interesses envolvidos nas atividades dos setores regulados dos serviços de águas e resíduos;
+Considerando que entre os elementos que integram o Conselho Consultivo da ERSAR está previsto um representante de cada uma das Regiões Autónomas;
+Considerando a necessidade de indicar o representante da Região Autónoma da Madeira no Conselho Consultivo da ERSAR;
+O Conselho de Governo reunido em plenário em 18 de junho de 2020, resolve nomear o Engenheiro Manuel Ara Gouveia Gomes Oliveira, Diretor Regional do Ambiente e Alterações Climáticas, e a Engenheira Nélia Maria Sequeira de Sousa, assessora - grau 1 da sociedade «Águas e Resíduos da Madeira, S.A.», como representantes efetivo e suplente, respetivamente, da Região Autónoma da Madeira no Conselho Consultivo da Entidade Reguladora dos Serviços de Águas e Resíduos.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 471/2020
+Considerando o Decreto Legislativo Regional n.º 18/2017/M, de 27 de junho, que desenvolve as bases da política pública de solos, de ordenamento do território e de urbanismo na Região Autónoma da Madeira, contidas na Lei n.º 31/2014, de 30 de maio, e define o respetivo sistema regional de gestão territorial;
+Considerando que, de acordo com a norma constante do n.º2 do artigo 168.º do mencionado decreto legislativo regional, no prazo máximo de 3 anos após a sua entrada em vigor, os planos territoriais devem incluir as regras de classificação e qualificação nele previstas;
+Considerando que a consequência do não cumprimento dessa norma é a suspensão das normas dos planos territoriais que deveriam ter sido alteradas, não podendo, na área abrangida e enquanto durar a suspensão, haver lugar à prática de quaisquer atos ou operações que impliquem a ocupação, uso e transformação do solo;
+Considerando que o prazo concedido pela lei para que os planos diretores municipais incorporassem as novas regras de classificação e qualificação dos solos se revelou insuficiente para alguns concelhos da Região Autónoma da Madeira concluírem esse trabalho;
+Considerando que a situação de suspensão das normas de um plano municipal como consequência da não integração das novas regras de classificação e qualificação dos solos representa um forte constrangimento ao regular exercício das competências das autarquias nos respetivos concelhos, implicando, em última instância, graves prejuízos para a população em geral;
+Considerando a importância de alterar o Decreto Legislativo Regional n.º18/2017/M, de 27 de junho, de modo a conferir a possibilidade de os Municípios da Região
+
+Autónoma da Madeira concluírem o trabalho de revisão e adaptação dos seus planos diretores municipais às novas regras de classificação e qualificação dos solos;
+O Conselho de Governo reunido em plenário em 18 de junho de 2020, resolve:
+1. Aprovar a proposta de decreto legislativo regional que altera o Decreto Legislativo Regional n.º18/2017/M, de 27 de junho, que desenvolve as bases da política pública de solos, de ordenamento do território e de urbanismo na Região Autónoma da Madeira e define o respetivo sistema regional de gestão territorial;
+2. Submeter a proposta referida no número anterior, com processo de urgência, à aprovação da Assembleia Legislativa da Região Autónoma da Madeira.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 472/2020
+O Conselho do Governo reunido em plenário em 18 de junho de 2020, resolve:
+Aprovar o Decreto Regulamentar Regional que procede à primeira alteração ao Decreto Regulamentar Regional n.º 37/2020/M, de 3 de junho, que aprovou a estrutura orgânica da Direção Regional de Agricultura e Desenvolvimento Rural.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 473/2020
+Considerando que, na organização do XIII Governo Regional da Madeira, à Secretaria Regional de Agricultura e Desenvolvimento Rural estão acometidas, entre outras, as competências de conceber, desenvolver, coordenar e executar a política regional do desenvolvimento rural;
+Considerando que as Casas do Povo da Região Autónoma da Madeira, e as suas associações, ao prosseguirem como principal propósito mobilizar a população da área da sua influência em torno de ações de cooperação que confiram uma acrescida dinâmica de desenvolvimento local, pela sua particular implantação, naquelas necessariamente refletem a superlativa importância social, cultural, económica e ambiental das atividades agrícolas e agroindustriais;
+Considerando que, naquele sentido, as Casas do Povo, as suas associações e outras entidades privadas sem fins lucrativos, têm vindo a organizar as mais variadas iniciativas, designadamente a realização de eventos de promoção e divulgação, quer da cultura e das tradições associadas à agricultura, à atividade piscatória e à ruralidade, quer dos produtos agrícolas, das pescas e agroalimentares de maior relevância local e ou regional, desempenhando um papel fundamental para a consolidação do processo de desenvolvimento integral e sustentado das populações;
+Considerando que, na melhor gestão dos fundos públicos, para a realização dos eventos com o cariz referido
+
+no parágrafo anterior, não deixará de haver que incitar que as Casas do Povo, as suas associações e outras entidades privadas sem fins lucrativos, quando enquadrável e oportuno, devam candidatar-se ao financiamento no âmbito de programas comunitários, nomeadamente do Programa de Apoio Rural da Região Autónoma da Madeira PRODERAM 2020;
+Considerando que a Casa do Povo da Serra de Água organizou, em 2020, a 6.ª edição do evento “Mostra da Poncha e do Mel”, o qual prestou um inestimável contributo à promoção e divulgação, quer da cultura e das tradições associadas à agricultura e à ruralidade, quer dos produtos agrícolas e agroalimentares da Região Autónoma da Madeira;
+Considerando que as receitas próprias da Casa do Povo da Serra de Água são manifestamente insuficientes para fazer face ao total das despesas inerentes à realização do evento em causa;
+Considerando a importância de que se reveste o associativismo, o voluntariado dos sócios da Casa do Povo da Serra de Água e o papel primordial que lhes é atribuído no âmbito do desenvolvimento rural e das comunidades de inserção, sendo por isso do interesse público assegurar a viabilização da sua ação;
+O Conselho do Governo reunido em plenário em 18 de junho de 2020, resolve:
+1. Ao abrigo do disposto no n.º 2 do artigo 33.º, e do artigo 36.º do Decreto Legislativo Regional n.º 1A/2020/M, de 31 de janeiro, que Aprova o Orçamento da Região Autónoma da Madeira para 2020 e da Resolução n.º 532/2016, de 18 de agosto, retificada pela Declaração de Retificação n.º 23/2016, de 25 de agosto, que aprova o Regulamento de Atribuição do Apoio Financeiro às Casas do Povo, Suas Associações e Entidades Privadas Sem Fins Lucrativos, para a Realização de Eventos de Promoção e Divulgação da Cultura e das Tradições Associadas à Agricultura e à Ruralidade, alterado pela Resolução n.º 517/2018, de 23 de agosto, autorizar a celebração de contratoprograma com a Casa do Povo da Serra de Água tendo em vista a definição do processo de cooperação financeira entre as partes outorgantes para a prossecução do evento “Mostra da Poncha e do Mel”, realizado no ano de 2020.
+2. Para a prossecução do previsto no número anterior, conceder à Casa do Povo da Serra de Água uma comparticipação financeira que não excederá o montante de 10.000,00 (dez mil euros).
+3. O contrato-programa produz efeitos desde a data da sua assinatura até 31 de dezembro de 2020.
+4. Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+5. Mandatar o Secretário Regional de Agricultura e Desenvolvimento Rural para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o contrato-programa.
+6. A despesa resultante do contrato-programa a celebrar tem cabimento orçamental no ano de 2020 na classificação orgânica 51 9 50 02 00, classificação funcional 313, classificação
+
+económica D.04.07.01.DN.00, fonte de financiamento 181, programa 48, medida 22, projeto SIGO 50013, fundo 4181000048, centro financeiro M100607, centro de custo M100A63100, cabimento n.º CY42006897 e compromisso n.º CY52008344.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 474/2020
+Considerando que o Programa do XIII.º Governo da Região Autónoma da Madeira 2019-2023, estabelece como uma das prioridades da sua ação «A elevação do conhecimento, a promoção da cultura e a valorização da nossa identidade», e como orientação estratégica, entre outras, «Promover a valorização e contribuir para a requalificação do património cultural material e imaterial»;
+Considerando que são atribuições da Secretaria Regional de Turismo e Cultura (SRTC) «Promover e implementar uma estratégia cultural para a valorização da identidade cultural regional, do património cultural, da oferta cultural diversificada e de qualidade […]», «Promover a descentralização cultural em articulação com outras entidades públicas e privadas visando uma maior integração das populações em atividades culturais», bem como «Promover a divulgação do património cultural imóvel, móvel e imaterial […]» (cfr. alíneas h), i) e l) do artigo 3.º da orgânica da SRTC aprovada pelo Decreto Regulamentar Regional n.º 7/2020/M, de 20 de janeiro);
+Considerando que o Coro de Câmara da Madeira, apesar de apenas em abril de 1986 se ter constituído como associação cultural, já existe desde 1971, data da sua fundação no seio da antiga Academia de Música e Belas Artes da Madeira;
+Considerando que a associação em causa tem por objeto a promoção de atividades recreativas e culturais através da prática e divulgação da música e do canto, desenvolvendo, igualmente, uma importante atividade de ensino e prática do canto coral dirigida a jovens e adultos;
+Considerando que o Coro de Câmara da Madeira também desenvolve com regularidade uma colaboração performativa com músicos e agrupamentos distintos tais como a Orquestra Clássica da Madeira, a Orquestra de Bandolins da Madeira e muitas formações corais e instrumentais regionais de relevo;
+Considerando que a associação Coro de Câmara da Madeira é uma entidade sem fins lucrativos, declarada de utilidade pública pela Resolução do Conselho do Governo Regional n.º 717/91, de 11 de julho, publicada no JORAM, Iª Série, n.º 86, de 18 de julho de 1991;
+Considerando que importa dar continuidade ao trabalho até agora desenvolvido pela associação em apreço, enquanto veículo dinamizador de variantes fundamentais da oferta cultural na Região Autónoma da Madeira, como são a música e o canto coral;
+Considerando que importa manter infraestruturas de produção cultural de base regional, por forma a suscitar novos públicos para a música e para o canto coral e consolidar os existentes, oferecendo com regularidade um repertório qualificado nestas áreas;
+Considerando a importante e necessária cooperação entre entidades públicas e privadas para o alcance de primordiais objetivos de índole cultural;
+Considerando que é de manifesto interesse público que a Região Autónoma da Madeira contribua para a
+
+sustentabilidade e atividade de instituições como o Coro de Câmara da Madeira, que se revela estruturante na área da música e do canto coral e imprescindível para a promoção e divulgação da Região também enquanto destino de cultura;
+Considerando que o funcionamento normal da associação em causa requer a afetação de importantes meios e recursos financeiros, humanos, logísticos, e outros congéneres, e durante todo o ano económico, ou seja, de janeiro a dezembro;
+Ao abrigo do disposto no n.º 2 do artigo 33.º do Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro (Orçamento da RAM-2020), o Conselho do Governo reunido em plenário em 18 de junho de 2020, resolve:
+1. Autorizar a celebração de um contrato-programa com a associação Coro de Câmara da Madeira, contribuinte n.º 511027869, com sede à Travessa das Capuchinhas, n.º 4, r/c, 9000-030 Funchal, para viabilização do normal funcionamento da mesma no ano de 2020, abrangendo as suas despesas ordinárias no que respeita à atividade/objeto social e às instalações, pessoal, equipamentos e outras congéneres;
+2. Autorizar, ao abrigo do disposto no n.º 7 do artigo 33.º do Decreto Legislativo Regional n.º 1A/2020/M, de 31 de janeiro, que o contratoprograma entre em vigor desde a data da sua assinatura e produza efeitos desde 1 de janeiro até 31 de dezembro de 2020;
+3. Conceder à associação Coro de Câmara da Madeira uma comparticipação financeira que não excederá os € 20.000,00 (vinte mil euros);
+4. Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência;
+5. Mandatar o Secretário Regional de Turismo e Cultura para, em representação da Região Autónoma da Madeira, outorgar o referido contratoprograma.
+6. A despesa resultante do contrato-programa a celebrar têm cabimento orçamental na Secretaria 47, Capítulo 50, Divisão 01, Subdivisão 03, cl func. 253, Classificação Económica D.04.07.01.EA.00, proj. 50205, fonte 181, prog. 043, med. 007.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 475/2020
+Considerando que a Associação Humanitária dos Bombeiros Voluntários de Santana tem desempenhado, através do seu Corpo de Bombeiros, um papel preponderante na proteção de vidas e bens no seu concelho, justamente reconhecido pelo Governo através da atribuição do estatuto de utilidade pública, e que se tem afirmado como instrumento fundamental para a concretização da política do Governo Regional na salvaguarda da vida, saúde e dignidade humanas;
+Considerando que a Associação Humanitária dos Bombeiros Voluntários de Santana, através do seu Corpo de
+
+Bombeiros, prossegue o objetivo estatutário de apoiar o Governo Regional na missão acima mencionada;
+Considerando que, face à reconhecida importância de que se reveste o associativismo e o voluntariado dos Bombeiros e o papel primordial que lhes é atribuído no âmbito da Proteção Civil, é de manifesto interesse público o apoio à viabilização da sua atividade;
+Considerando que, no âmbito da edição de 2019 do Orçamento Participativo da Região Autónoma da Madeira, a proposta apresentada pela Associação Humanitária dos Bombeiros Voluntários de Santana foi uma das propostas vencedoras, consistindo a mesma na aquisição de um veículo todo-o-terreno de resgate em montanha, equipado com maca de transporte, imprescindível à prontidão e à melhoria das condições e da qualidade do serviço prestado aos resgatados e dos requisitos essenciais de operacionalidade, segurança, proteção e integridade dos elementos bombeiros afetos a esta tipologia de serviço.
+O Conselho de Governo reunido em plenário em 18 de junho de 2020, resolve:
+1 - Ao abrigo do disposto no n.º 1 do artigo 3.º e no artigo 33.º do Decreto Legislativo Regional n.º 1A/2020/M, 31 de janeiro, que aprova o Orçamento da Região Autónoma da Madeira para o ano de 2020, conjugado com a alínea o) do n.º 3 do artigo 3.º da Orgânica do Serviço Regional de Proteção Civil, IP-RAM, aprovada em anexo ao Decreto Legislativo Regional n.º 17/2009/M, de 30 de junho, alterada pelos Decretos Legislativos Regionais n.ºs 8/2010/M, de 26 de maio e 12/2013/M, de 25 de março, autorizar a celebração de um contrato-programa entre a Região Autónoma da Madeira, ora representada pelo Presidente do Conselho Diretivo do Serviço Regional de Proteção Civil, IP-RAM, José António Oliveira Dias, adiante designado como primeiro outorgante, e a Associação Humanitária dos Bombeiros Voluntários de Santana, representada pelo Presidente da Direção, Martinho Mendonça de Freitas, tendo em vista contribuir para a melhoria das operações de socorro na RAM, no âmbito da intervenção do resgate em montanha, permitindo a prontidão e a melhoria das condições e da qualidade do serviço prestado aos resgatados e dos requisitos essenciais de operacionalidade, segurança, proteção e integridade dos elementos bombeiros afetos a esta tipologia de serviço.
+2 - Para a prossecução do objectivo estabelecido no número anterior, proceder-se-á à transferência no valor correspondente ao preço de aquisição do veículo de resgate em montanha, no montante máximo de € 50.000,00 (cinquenta mil euros), para a Associação Humanitária dos Bombeiros Voluntários de Santana.
+3 - O contrato-programa a celebrar com a Associação Humanitária dos Bombeiros Voluntários de Santana, entra em vigor no dia seguinte à sua assinatura e vigora pelo período de 4 meses.
+4 - Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria - Geral da Presidência do Governo Regional.
+5 - Mandatar o Presidente do Serviço Regional de Proteção Civil, IP-RAM para, em representação da
+
+Região Autónoma da Madeira, elaborar o respectivo processo e outorgar o contrato-programa. 6 - As despesas resultantes dos contratos-programa a celebrar, estão inscritas no Orçamento Privativo do Serviço Regional de Proteção Civil, IP-RAM, na Classificação Orgânica 468030100 e Classificação Económica 0407010000, Fonte Financiamento 381 Programa/Medida 053042 Funcional Transferências Correntes - Instituições sem fins lucrativos, compromisso n.º 0001585.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 476/2020
+O Conselho do Governo reunido em plenário em 18 de junho de 2020, tendo presente o relatório final da fase de apresentação e análise das propostas relativo ao concurso limitado por prévia qualificação para a obra de “Reconstrução da E.R. 218 - Pico das Pedras / Achada do Teixeira”, resolve adjudicar a referida empreitada à proposta apresentada pelo agrupamento de empresas constituído pela “AFAVIAS-Engenharia e Construções, S.A., e Construtora do Tâmega Madeira, S.A.”, pelo preço contratual de € 2 778 992,00, a acrescer de IVA à taxa legal em vigor e prazo de execução de 450 dias.
+Mais resolve delegar ao abrigo do disposto no n.º 1 do artigo 109.º do Código dos Contratos Públicos e artigos 44.º e seguintes do Código do Procedimento Administrativo, no Secretário Regional de Equipamentos e Infraestruturas os poderes para aprovar a minuta e outorgar o correspondente contrato e no Diretor Regional de Estradas os poderes para proceder à prática de todos os atos relacionados com a fase de execução do contrato.
+A despesa programada para o ano económico de 2020, decorrente do contrato tem cobertura orçamental prevista na rubrica Secretaria 52, Capítulo 50, Divisão 03 Subdivisão 01, Projeto 50409, Fonte de Financiamento 191, Código de Classificação Económica 07.01.04.S0.00, do Orçamento da RAM para 2020.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 477/2020
+Considerando que o Decreto Legislativo Regional n.º 21/2003/M, de 13 de agosto, alterado pelo Decreto
+
+Legislativo Regional n.º 3/2014/M, de 10 de abril, estabeleceu o regime jurídico das insígnias honoríficas madeirenses a atribuir pelo Governo Regional, por forma a estimular o mérito e manter vivas as tradições que conferem prestígio e dignidade a pessoas, entidades e coletividades;
+Considerando que o processo de agraciamento e a estrutura material das insígnias autonómicas de valor, distinção e de bons serviços, estão definidos no Decreto Regulamentar Regional n.º 9/2004/M, de 12 de abril;
+Considerando que este ano as comemorações oficiais do Dia da Região Autónoma da Madeira e das Comunidades Madeirenses decorrerão no Funchal, no dia 1 de julho;
+Considerando que, anualmente, por ocasião das comemorações do “Dia da Região e das Comunidades Madeirenses”, são distinguidos pelo Governo Regional aqueles que deram o seu contributo à Madeira e às suas populações.
+Nestes termos, o Conselho do Governo reunido em plenário de 18 de junho de 2020, resolve:
+1. Atribuir, por ocasião das comemorações do “Dia da Região Autónoma da Madeira e das Comunidades Madeirenses”, no ano de 2020, as seguintes insígnias honoríficas madeirenses: Insígnia Autonómica de Valor - Conceição Maria de Sousa Nunes Almeida Estudante (cordão) - José Ferreira Prada (cordão) Insígnia Autonómica de Distinção - José Nelson Gomes de Abreu (medalha) - Porta 33 - Associação Quebra Costas Centro de Arte Contemporânea (medalha) Insígnia Autonómica de Bons Serviços - Centro Social e Paroquial de São Bento da Ribeira Brava (cordão) - Maria Helena Tavares Ramos dos Santos Pereira (cordão) - Felicidade de Carvalho Ferraz Branco (cordão) - Maria Lúcia Fernandez da Cruz dos Santos (medalha) - Manuel José Figueiroa França Gomes (medalha)
+2. A imposição das Insígnias Autonómicas às personalidades e instituições agraciadas terá lugar no Funchal, dia 1 de julho.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
