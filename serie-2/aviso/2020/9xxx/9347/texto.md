@@ -1,0 +1,12 @@
+Aviso n.º 9347/2020
+Sumário: Discussão pública da revogação do Plano de Pormenor da Zona Envolvente ao Núcleo Escolar a Norte de Ovar.
+Revogação Parcial do Plano de Pormenor da Zona Envolvente ao Núcleo Escolar a Norte de Ovar
+Salvador Malheiro Ferreira da Silva, Presidente da Câmara Municipal de Ovar, torna público, nos termos do disposto do n.º 1 do artigo 50.º da Lei n.º 31/2014, de 30 de maio, que aprova a Lei de Bases Gerais da Politica Pública de Solos, de Ordenamento do Território e de Urbanismo, conjugado com o disposto no Artigo 127.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprova a Revisão do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), com a consequente aplicabilidade do PDMO, em vigor, que a Câmara Municipal de Ovar, na sua reunião pública realizada a 23 de janeiro de 2020, deliberou, por unanimidade, aprovar a proposta de revogação parcial do Plano de Pormenor da Zona Envolvente ao Núcleo Escolar a Norte de Ovar, seguindo-se os trâmites destinados à realização de consulta pública e posterior remessa à Assembleia Municipal.
+Para efeitos do disposto no n.º 2 do artigo 89.º do RJIGT, estabelece-se um período de 20 dias úteis, contados a partir do quinto dia da data da publicação do presente aviso no Diário da República, para discussão pública.
+As reclamações, observações ou sugestões deverão ser apresentadas por escrito e dirigidas ao Exmo. Sr. Presidente da Câmara Municipal, com referência expressa do assunto, em documento identificado com nome e morada, através do seguinte enderenço: Praça da República 3880-141 Ovar ou através de correio eletrónico: gapresidencia@cm-ovar.pt.
+Mais se informa, que o Relatório de Fundamentação da Revogação Parcial se encontra disponível, para consulta, na Divisão de Urbanismo e Planeamento e no site institucional do município em www.cm-ovar.pt.
+18 de fevereiro de 2020. - O Presidente da Câmara Municipal de Ovar, Salvador Malheiro Ferreira da Silva.
+Deliberação
+Salvador Malheiro Ferreira da Silva, Presidente da Câmara Municipal de Ovar, torna público que a Câmara Municipal de Ovar, na sua reunião pública de 23/01/2020, deliberou, por unanimidade, aprovar a proposta de revogação parcial do Plano de Pormenor da Zona Envolvente ao Núcleo Escolar a Norte de Ovar, seguindo-se os trâmites destinados à realização de consulta pública e posterior remessa à Assembleia Municipal.
+18 de fevereiro de 2020. - O Presidente da Câmara Municipal de Ovar, Salvador Malheiro Ferreira da Silva.
+613292046
