@@ -1,0 +1,7 @@
+Edital n.º 717/2020
+Sumário: Projeto de Regulamento Municipal de Apoio ao Associativismo e Atividades Culturais, Cívicas, Desportivas e Recreativas.
+Projeto de Regulamento Municipal de Apoio ao Associativismo e Atividades Culturais, Cívicas,
+Desportivas e Recreativas
+Luis António Pita Ameixa, Presidente da Câmara Municipal de Ferreira do Alentejo, faz saber que, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, em cumprimento e para efeitos do disposto no artigo 56.º do mesmo diploma, e ainda do disposto no n.º 1 dos artigos 100.º e 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião ordinária realizada no dia 13 de maio de 2020, submeter a audiência dos interessados e consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Edital, o Projeto de Regulamento Municipal de Apoio ao Associativismo e Atividades Culturais, Cívicas, Desportivas e Recreativas, que se encontra disponível para consulta na página do Município em https://www.cm-ferreira-alentejo.pt. Os interessados podem endereçar as suas sugestões por escrito à Câmara Municipal de Ferreira do Alentejo, para: Praça do Comendador Infante Passanha, 5, 7900-571 em Ferreira do Alentejo, ou através de correio eletrónico para geral@cm-ferreira-alentejo.pt, dentro do prazo referido.
+14 de maio de 2020. - O Presidente da Câmara, Luis António Pita Ameixa.
+313245439
