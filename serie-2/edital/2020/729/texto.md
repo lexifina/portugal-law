@@ -1,0 +1,7 @@
+Edital n.º 729/2020
+Sumário: Projeto de Regulamento do Programa de Valorização do Comércio e dos Produtos Locais.
+Projeto de Regulamento Programa de Valorização do Comércio e dos Produtos Locais
+Nota Justificativa
+Luís António Pita Ameixa, Presidente da Câmara Municipal de Ferreira do Alentejo, faz saber que, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, em cumprimento e para efeitos do disposto no artigo 56.º do mesmo diploma, e ainda do disposto no n.º 1 dos artigos 100.º e 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião ordinária realizada no dia 9 de junho de 2020, submeter a audiência dos interessados e consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Edital, o Projeto de Regulamento Programa de Valorização do Comércio e dos Produtos Locais, que se encontra disponível para consulta na página do Município em https://www.cm-ferreira-alentejo.pt. Os interessados podem endereçar as suas sugestões por escrito à Câmara Municipal de Ferreira do Alentejo, para: Praça do Comendador Infante Passanha, 5, 7900-571 em Ferreira do Alentejo, ou através de correio eletrónico para geral@cm-ferreira-alentejo.pt, dentro do prazo referido.
+12 de junho de 2020. - O Presidente da Câmara, Luís António Pita Ameixa.
+313309867
