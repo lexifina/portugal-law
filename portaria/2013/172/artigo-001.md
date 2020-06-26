@@ -6,4 +6,4 @@
 
 ### Objeto
 
-A presente portaria estabelece o regime de verificação da disponibilidade dos centros eletroprodutores.
+A presente portaria estabelece o regime de verificação da disponibilidade dos centros eletroprodutores ou de sistemas de armazenamento.
