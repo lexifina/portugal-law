@@ -1,0 +1,276 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13468",
+  "numero": "101",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-06-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-07-30",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "182/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "182/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": "2020-09-22",
+                "nrOficio": "Email",
+                "oficioResposta": "Email"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-08-03",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "182/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-08-10",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "182/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "182/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação"
+            ],
+            "nrOficio": "183/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-10-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-07-29",
+        "DataArquivo": "2020-10-06",
+        "DataBaixaComissao": "2020-07-03",
+        "DataEnvioPAR": "2020-10-07",
+        "DataReaberta": "2020-07-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4e475a6b5a6a55794d4331684e5449324c5452684e6a63745954646d5a53307a59545979597a64684d6a4932593249756347526d&fich=d4fdf520-a526-4a67-a7fe-3a62c7a226cb.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d5a6a63324e575a6a5979307a596a49774c54526b5a546774596a566c5953316d4e57466c4d6d45324d47526d597a51756347526d&fich=ff765fcc-3b20-4de8-b5ea-f5ae2a60dfc4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938305a6d51314d7a63334e4330794f5759354c5451324e545574596a46694f4330304e5463355a6a51324e7a59314d3249756347526d&fich=4fd53774-29f9-4655-b1b8-4579f467653b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4e7a63785a5759354f43307a597a6c6a4c5451784d6a6b74595467795a6931694d4459344e5451794f47513259574d756347526d&fich=3771ef98-3c9c-4129-a82f-b0685428d6ac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a593251774d44417a59793033596d566c4c5451334d545574596a67325a5330774e57557a4e57566d4e7a5a684d4459756347526d&fich=3cd0003c-7bee-4715-b86e-05e35ef76a06.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334f47466d4d4759344e4330344d4467314c54526d4d7a6374596a63774e7930775a544d334f4759344e5445784f4755756347526d&fich=78af0f84-8085-4f37-b707-0e378f85118e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314f54466d4f5745304e5331684e6a6c6b4c545132597a49744f4467795969316d5a44526c5a6a4a694d544d354d4451756347526d&fich=591f9a45-a69d-46c2-882b-fd4ef2b13904.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793969596d457a4d6d45774e4330784f4751324c5451795a6a6774596a5a6b4e79307959574d354e6d5131596d51304d7a45756347526d&fich=bba32a04-18d6-42f8-b6d7-2ac96d5bd431.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774d7a49334e5451355969316d4d6a59304c545177593245744f4449324e7930354d54426b5a544e694e545133595459756347526d&fich=0327549b-f264-40ca-8267-910de3b547a6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694f4749784f446b794e6931685a6d45784c5451784e6a51744f4749304e53307a4f57466c4e54637859544d314d4455756347526d&fich=b8b18926-afa1-4164-8b45-39ae571a3505.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-10-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324d3249304e4441324d69316b4e5459794c5451774d44517459575933597930774d7a63324d4751325a6a6b335a5451756347526d&fich=63b44062-d562-4004-af7c-03760d6f97e4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-07-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a5a4751325a6d45354e53307a4f446c6d4c5452695a546b744f4459345a4330774e44646a5a5451794e5745314d7a6b756347526d&fich=cdd6fa95-389f-4be9-868d-047ce425a539.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4f4464694e7a55335a43307a5a6d4e6d4c5451795a4455744f444a6b5a69316c4d4464684d7a4179596a59344e6d45756347526d&fich=e87b757d-3fcf-42d5-82df-e07a302b686a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-08-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793968597a45774e3255784e7930324d6a4d784c54526d59324d7459574a685969307a596d45314e5455334d6d4e684e6a51756347526d&fich=ac107e17-6231-4fcc-abab-3ba55572ca64.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-08-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784f474d305a5441785953316c4e6a51774c54526d4d6d4974596a67354d53307a4e474d344d6d4a6a5a445a6b5a4467756347526d&fich=18c4e01a-e640-4f2b-b891-34c82bcd6dd8.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-07-29",
+            "gp": "PS",
+            "id": "6861",
+            "motivoCessacao": null,
+            "nome": "Telma Guerreiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2020-07-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32593159575933596a55794c5746695a4749744e4449794f4331695a544e6c4c5745794d3259345a6a55304e6d49344d7935775a47593d&fich=f5af7b52-abdb-4228-be3e-a23f8f546b83.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13468",
+    "PetAssunto": "PROPOSTA DE ADIAMENTO PARA O INGRESSO NO 1º ANO ESCOLAR",
+    "PetDataEntrada": "2020-06-26",
+    "PeticoesAssociadas": null,
+    "PetId": "13468",
+    "PetLeg": "XIV",
+    "PetNr": "101",
+    "PetNrAssinaturas": "21",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
