@@ -30,4 +30,4 @@ b) Declaração médica que ateste que a condição clínica da pessoa não se c
 
 8 - Sem prejuízo do número seguinte, em caso de incumprimento, as pessoas ou entidades referidas no número anterior devem informar os utilizadores não portadores de máscara que não podem aceder, permanecer ou utilizar os espaços, estabelecimentos ou transportes coletivos de passageiros e informar as autoridades e forças de segurança desse facto caso os utilizadores insistam em não cumprir aquela obrigatoriedade.
 
-9 - O incumprimento do disposto no n.º 3 constitui contraordenação, punida com coima de valor mínimo correspondente a (euro) 120 e valor máximo de (euro) 350.
+9 - (Revogado).
