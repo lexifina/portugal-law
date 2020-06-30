@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MSw62GXLjFgk%2fxADoxHwZLXe6gFy62Ozrr1tJA5XVSNk%2fvxYrQL2xsBChRr2JkFNBjIClFH2ZYjvcBsv8cPvjZD8zLz2yqlrTOiqMOqRi5C9IJA7TFYKiwTBAuxVhlMJp2CS8awPcWmLSeoZVW454%2f0d1DPjUzZ9luROj%2b00vdKD4RdkoDn8Yfx%2fA4vL7GGCAfLzXewecVQzXyfRODNFsaz1AwfcRQODaL6lMIp%2bTZRaHUsMWqnHi8G0Ft%2b4SIeecWD6dqRfRr%2f5pPy56X1nGVOLdwimUxaWe3NdoaXjyaGWq6m3qY9iZUcDZGTXtWoY77gGRfm%2froDNfqryP6o3cgzHd6%2bKGaNfMPGzgj%2fnlwDcwASN%2fmg1ZY0QOxK0OJf8&fich=AtividadesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "b462056a98b76a62a0cdc9c1dd11350b9914ff627d67e4ce7f68f9ff7eac5457",
+  "legislatura": "XIV",
+  "tipo": "Relatório de Segurança Interna",
+  "numero": null,
+  "data_registo": "2020-06-30",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Relatório Anual de Segurança Interna - 2019",
+    "Audicoes": null,
+    "Comissao": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+    "DataAgendamentoDebate": null,
+    "DataEntrada": "2020-06-30",
+    "DataParecerUTAO": null,
+    "DataPedidoParecer": null,
+    "DescTipo": "Relatório de Segurança Interna",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-09-30 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer 1.ª CACDLG",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a4e6a4f544e6c4f57466b4c5751344d7a6b744e44566d4d533168596a55324c5455784e546b344f44426b595446694d4335775a47593d&fich=3c93e9ad-d839-45f1-ab56-5159880da1b0.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2020-06-30 00:00:00.0",
+        "TipoDocumento": "Relatório",
+        "TituloDocumento": "Relatório Anual de Segurança Interna - 2019",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a466d5a6a49305a4467334c574e6c597a6b744e474d315a5331685a5459794c575134596a67774e7a59794d57466c4e4335775a47593d&fich=1ff24d87-cec9-4c5e-ae62-d8b807621ae4.pdf&Inline=true"
+      }
+    ],
+    "EntidadesExternas": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIV",
+    "Links": null,
+    "LinkTexto": null,
+    "MembrosGoverno": null,
+    "Observacoes": null,
+    "ParecerComissao": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "913048",
+        "obs": "Debate",
+        "pag": [
+          "33-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-23",
+        "pubLeg": "XIV",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/016/2020-10-23/33?pgs=33-42&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "Relatores": [
+      {
+        "dataCessacao": null,
+        "dataNomeacao": null,
+        "gp": "PSD",
+        "id": "6539",
+        "motivoCessacao": null,
+        "nome": "André Coelho Lima"
+      }
+    ],
+    "Sessao": "1",
+    "TextoRelatorio": null,
+    "TextosAprovados": null,
+    "Tipo": "RSI",
+    "VotacaoDebate": null,
+    "VotacaoRelatorio": {
+      "ausencias": null,
+      "data": "2020-09-30",
+      "descricao": null,
+      "detalhe": null,
+      "id": "88695",
+      "publicacao": null,
+      "resultado": "Aprovado",
+      "reuniao": "61",
+      "tipoReuniao": null,
+      "unanime": null
+    }
+  }
+}
