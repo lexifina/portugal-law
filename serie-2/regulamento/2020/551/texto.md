@@ -1,0 +1,11 @@
+Regulamento n.º 551/2020
+Sumário: Regulamento de Transmissão Áudio e Vídeo das Sessões da Assembleia de Freguesia de Massamá e Monte Abraão.
+Regulamento de Transmissão Áudio e Vídeo das Sessões da Assembleia de Freguesia de Massamá e Monte Abraão
+Torna-se público que a União das Freguesias de Massamá e Monte Abraão deliberou, na sua reunião de 12 de maio de 2020, submeter a período de consulta pública, pelo prazo de 30 dias úteis, o Regulamento de transmissão áudio e vídeo das sessões da Assembleia de Freguesia de Massamá e Monte Abraão que visa, contribuir para a aproximação entre os cidadãos e o órgão que os representa localmente, pretendendo ser um fórum privilegiado de debate, de participação e de exercício da cidadania.
+Foi requerido parecer a Comissão de proteção de dados, não tendo esta entidade emitido parecer desfavorável ao presente documento.
+O presente regulamento tem como objeto a filmagem e a transmissão áudio e vídeo das sessões da Assembleia de Freguesia de Massamá e Monte Abraão, através de meios e condições técnicas, disponibilizados pela autarquia, para que a referida transmissão seja visualizada no site da freguesia.
+O prazo da consulta pública é contado da data da publicação do respetivo Aviso na 2.ª série do Diário da República.
+O processo poderá ser consultado nas instalações da União das Freguesias de Massamá e Monte Abraão, sitas na Rua Dr. Francisco Ribeiro de Spínola, s/n, Massamá 2745-872 Queluz, durante o horário de expediente entre as 09h00 e as 17h00 ou no site da União das Freguesias, em www.uf-massamamabraao.pt devendo as sugestões/contribuições escritas ser entregues no prazo estipulado através do endereço eletrónico seguinte geral@uf-massamamabraao.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, endereçados à união da Freguesias de Massamá e Monte Abraão, para a morada: Rua Dr. Francisco Ribeiro de Spínola, s/n, Massamá 2745-872 Queluz ou ainda através do referido endereço eletrónico.
+16 de junho de 2020. - O Presidente da União das Freguesias de Massamá e Monte Abraão, Pedro de Oliveira Brás.
+313318185
