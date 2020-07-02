@@ -20,13 +20,13 @@ a) O IEFP, I. P. no âmbito das operações previstas nas alíneas a) e c) do n.
 
 b) A CASES, no âmbito das operações previstas na alínea d) do n.º 2 do artigo anterior, enquanto organismo responsável pela concretização do respetivo instrumento de política pública;
 
-c) Os empreendedores, as micro e pequenas empresas e as organizações da economia social no âmbito das operações previstas nas alíneas b) e g) do n.º 2 do artigo anterior;
+c) Os empreendedores, as micro, pequenas e médias empresas e organizações da economia social no âmbito das operações previstas nas alíneas b) e g) do n.º 2 do artigo anterior;
 
 d) (Revogada.)
 
 e) O IPDJ, I. P. no âmbito das operações previstas na alínea h) do n.º 2 do artigo anterior enquanto organismo responsável pela concretização do respetivo instrumento de política pública;
 
-f) Os municípios e suas associações, bem como as agências e associações de desenvolvimento regional e local, no âmbito das operações previstas nas alíneas e) e g) do n.º 2 do artigo anterior;
+f) Os municípios e suas associações, as agências e associações de desenvolvimento regional e local, bem como as organizações da economia social, no âmbito das operações previstas nas alíneas e) e g) do n.º 2 do artigo anterior;
 
 g) As mulheres que criam as empresas enquanto beneficiárias diretas do apoio ao arranque da empresa, no âmbito das operações previstas na alínea a) do n.º 3 do artigo anterior.
 

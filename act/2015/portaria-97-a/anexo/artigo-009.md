@@ -20,7 +20,9 @@ d) Apoios à contratação que podem ter a duração máxima de 48 meses nos cas
 
 e) Rede local de intervenção social, para apoio das ações previstas no n.º 1 do artigo 201.º que podem ter a duração máxima de 48 meses;
 
-f) Contratos Locais de Desenvolvimento Social, para apoio a ações previstas no artigo 211.º, que podem ter a duração máxima de 48 meses.
+f) Contratos Locais de Desenvolvimento Social, para apoio a ações previstas no artigo 211.º, que podem ter a duração máxima de 48 meses;
+
+g) Modelos de apoio à vida independente, no âmbito das ações previstas na alínea c) do artigo 175.º, que podem ter a duração máxima de 42 meses.
 
 5 - No momento da submissão da candidatura, o beneficiário submete eletronicamente o termo de responsabilidade, devidamente autenticado nos termos previstos no artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
 

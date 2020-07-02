@@ -4,7 +4,7 @@
 
 1 - A aceitação da decisão de aprovação da candidatura pelo beneficiário confere-lhe o direito a receber o financiamento para a realização das respetivas operações, nos termos do disposto no artigo 25.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
 
-2 - Os beneficiários têm direito, para cada operação aprovada, a receber um adiantamento no valor correspondente a 15 % do montante do financiamento aprovado para cada ano civil, o qual é processado quando se cumpram, cumulativamente, as seguintes condições:
+2 - Os beneficiários têm direito, para cada operação aprovada, a receber um adiantamento no valor correspondente a 15 % do montante do financiamento aprovado para cada ano civil ou ano escolar, o qual é processado quando se cumpram, cumulativamente, as seguintes condições:
 
 a) Submissão do termo de aceitação da decisão de aprovação;
 

@@ -30,7 +30,7 @@ e) Projetos de empreendedorismo social, promoção de startups sociais, bem como
 
 f) (Revogada);
 
-g) Projetos de investimento para a expansão de pequenas e microempresas existentes de base local ou para a criação de novas empresas e pequenos negócios, designadamente na área da valorização e exploração de recursos endógenos, do artesanato e da economia verde, incluindo o desenvolvimento de empresas em viveiros de empresas.
+g) Projetos de investimento para a expansão de micro, pequenas e médias empresas existentes de base local ou para a criação de novas empresas e pequenos negócios, designadamente na área da valorização e exploração de recursos endógenos, do artesanato e da economia verde, incluindo o desenvolvimento de empresas em viveiros de empresas;
 
 h) Rede de perceção e gestão de negócios.
 

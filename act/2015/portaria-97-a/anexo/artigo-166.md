@@ -6,7 +6,7 @@
 
 a) Sistemas de vigilância eletrónica;
 
-b) Sistemas de teleassistência.
+b) Sistemas de teleassistência e serviço de informação a vítimas de violência doméstica.
 
 2 - São ainda elegíveis as seguintes ações:
 
