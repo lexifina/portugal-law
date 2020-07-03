@@ -6,7 +6,7 @@
 
 2 - A formação contínua tem como destinatários juízes dos tribunais judiciais, juízes dos tribunais administrativos e fiscais e magistrados do Ministério Público em exercício de funções.
 
-3 - As ações de formação contínua podem ser de âmbito genérico ou especializado, podendo ser especificamente dirigidas a determinada magistratura, e devem incidir obrigatoriamente na área dos direitos humanos e, no caso de magistrados com funções no âmbito dos tribunais criminais e de família e menores, obrigatoriamente sobre violência doméstica, nas seguintes matérias:
+3 - As ações de formação contínua podem ser de âmbito genérico ou especializado, podendo ser especificamente dirigidas a determinada magistratura, e devem incidir obrigatoriamente na área dos direitos humanos e, no caso de magistrados com funções no âmbito dos tribunais criminais e de família e menores, obrigatoriamente sobre a Convenção sobre os Direitos da Criança e violência doméstica, nas seguintes matérias:
 
 a) Estatuto da vítima de violência doméstica;
 

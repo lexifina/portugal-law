@@ -8,7 +8,7 @@ a) Na componente formativa de especialidade:
 
 i) Direito Europeu;
 
-ii) Direito Internacional, incluindo cooperação judiciária internacional;
+ii) Direito Internacional, incluindo cooperação judiciária internacional e Convenção sobre os Direitos da Criança;
 
 iii) Direito da Concorrência e de Regulação Económica;
 
