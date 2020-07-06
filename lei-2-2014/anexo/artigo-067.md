@@ -34,7 +34,7 @@ d) Os gastos de financiamento líquidos de sociedades do grupo, bem como a parte
 
 10 - Sempre que o período de tributação tenha duração inferior a um ano, o limite previsto na alínea a) do n.º 1 é determinado proporcionalmente ao número de meses desse período de tributação.
 
-11 - O disposto no presente artigo não se aplica às entidades sujeitas à supervisão do Banco de Portugal e do Instituto de Seguros de Portugal, às sucursais em Portugal de instituições de crédito e outras instituições financeiras ou empresas de seguros, e às sociedades de titularização de créditos constituídas nos termos do Decreto-Lei n.º 453/99, de 5 de novembro.
+11 - O disposto no presente artigo não se aplica às entidades sujeitas à supervisão do Banco de Portugal e da Autoridade de Supervisão de Seguros e Fundos de Pensões, e às sucursais em Portugal de instituições de crédito e outras instituições financeiras ou empresas de seguros.
 
 12 - Para efeitos do presente artigo, consideram-se:
 
