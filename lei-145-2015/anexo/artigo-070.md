@@ -6,6 +6,18 @@
 
 2 - Os advogados honorários podem usar a denominação de advogado desde que a façam seguir da indicação dessa qualidade.
 
-3 - A criação e a atribuição de títulos de especialista são definidas em regulamento aprovado pela assembleia geral, mediante proposta do conselho geral e parecer vinculativo do conselho de supervisão.
+3 - Os advogados só podem identificar-se como especialistas quando a Ordem dos Advogados lhes haja atribuído tal qualidade, pelo menos, numa das seguintes áreas:
 
-4 - O regulamento referido no número anterior produz efeitos após homologação pelo membro do Governo responsável pela área da justiça.
+a) Direito Administrativo;
+
+b) Direito Fiscal;
+
+c) Direito do Trabalho;
+
+d) Direito Financeiro;
+
+e) Direito Europeu e da Concorrência;
+
+f) Direito da Propriedade Intelectual; e
+
+g) Direito Constitucional.

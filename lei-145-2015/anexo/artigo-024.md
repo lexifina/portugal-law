@@ -6,7 +6,7 @@
 
 2 - Para os efeitos previstos no número anterior:
 
-a) O presidente do conselho superior, o presidente do conselho de supervisão, os membros do conselho geral, do conselho superior e do conselho de supervisão, o presidente do conselho fiscal, o provedor dos destinatários dos serviços e os presidentes dos conselhos regionais e de deontologia são equiparados aos juízes conselheiros;
+a) O presidente do conselho superior, os membros do conselho geral e do conselho superior, o presidente do conselho fiscal e os presidentes dos conselhos regionais e de deontologia são equiparados aos juízes conselheiros;
 
 b) Os membros dos conselhos regionais e dos conselhos de deontologia são equiparados aos juízes desembargadores;
 
@@ -14,6 +14,6 @@ c) Os membros das delegações, os delegados e os restantes advogados são equip
 
 3 - O advogado que exerça ou haja exercido cargos nos órgãos da Ordem dos Advogados tem direito a usar a insígnia correspondente, nos termos do respetivo regulamento.
 
-4 - (Revogado.)
+4 - O advogado que desempenhe ou tenha desempenhado funções nos conselhos da Ordem dos Advogados ou na Caixa de Previdência dos Advogados e Solicitadores, enquanto se encontre no exercício dos cargos e nos seis anos subsequentes, fica isento do dever de prestar quaisquer serviços de nomeação oficiosa.
 
-5 - (Revogado.)
+5 - Em caso de justificada necessidade, o conselho regional pode fazer cessar a isenção prevista no número anterior.

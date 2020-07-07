@@ -14,7 +14,7 @@
 
 6 - Se nenhuma das listas concorrentes a bastonário e conselho geral obtiver o número de votos referidos no número anterior, procede-se a segundo sufrágio, a realizar até ao vigésimo dia subsequente à primeira votação, ao qual concorrem as duas listas mais votadas no primeiro sufrágio.
 
-7 - (Revogado.)
+7 - A eleição para os conselhos de deontologia é efetuada de forma a assegurar a representação proporcional de acordo com o método da média mais alta de Hondt.
 
 8 - Não é impedimento à candidatura:
 

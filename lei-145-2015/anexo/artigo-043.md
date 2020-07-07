@@ -2,7 +2,7 @@
 
 ### Pleno e secções
 
-1 - O conselho superior reúne em sessão plenária e por secções, cada uma delas constituída por quatro advogados inscritos e por três membros não inscritos na Ordem dos Advogados.
+1 - O conselho superior reúne em sessão plenária e por secções, cada uma delas constituída por sete membros.
 
 2 - O presidente do conselho superior preside às sessões plenárias e pode participar, com direito a voto, nas reuniões das secções, as quais são presididas por cada um dos vice-presidentes.
 

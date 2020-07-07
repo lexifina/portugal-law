@@ -30,4 +30,4 @@ iii) A situação de suspensão ou interdição temporária do exercício da ati
 
 iv) A informação relativa às sociedades de profissionais ou outras formas de organização associativa de profissionais para que prestem serviços no Estado membro de origem, caso aqui prestem serviços nessa qualidade;
 
-g) (Revogada.)
+g) Registo atualizado de sociedades de advogados e de outras formas de organização associativa inscritas com a respetiva designação, sede, número de inscrição e número de identificação fiscal ou equivalente.

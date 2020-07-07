@@ -2,7 +2,7 @@
 
 ### Legitimidade procedimental e extinção do direito de queixa
 
-1 - Têm legitimidade para participar à Ordem dos Advogados factos suscetíveis de constituir infração disciplinar qualquer pessoa direta ou indiretamente afetada por estes, e qualquer órgão da Ordem dos Advogados.
+1 - Tem legitimidade para participar à Ordem dos Advogados factos suscetíveis de constituir infração disciplinar qualquer pessoa direta ou indiretamente afetada por estes.
 
 2 - Podem intervir no processo as pessoas com interesse direto, pessoal e legítimo relativamente aos factos participados, requerendo e alegando o que tiverem por conveniente.
 
