@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7vz42dekG7SvX%2bJCoI606%2bawj%2fX5VzWets1lObKDepdveONV1z3zBA3cO9lc957K5%2f9HlKJqmHedDhhMyhl2cw4SOzV7qsNm8CFmvLpT5RkqF9HjBDt%2f%2bX0OUM0cdjJwLTwyvrlp3ZMoTcIPfZTsIPJ7MWFPt2X%2bh0DQWsRjX6GyToHZHEfJiay2rPW9JT8dDQem39OFpKzbLyK%2b8DJ08rsf17Fviv%2fFFPxcpMyDb5w1tqdx45uTH13%2bLlwBj4kkTVZgL8HxkUlx96u3wzpvXKLMn7R8Tg9xl9SNSUxzXHSzTSYcy2rAL7Kr%2fWg%2fgF7nS%2fbFNRkzS6x92aIVDj1xOsuRFXDbkBrM5JpdPMk4cxk%3d&fich=IntervencoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "ac2343fce06e15e6ec675fd3460ca65b42c7cb3b7c35721a49abc1fc32427acb",
+  "legislatura": "XIV",
+  "id": "239288",
+  "tipo": "Intervenção",
+  "orador": "Alexandra Leitão (Ministra da Modernização do Estado e da Administração Pública)",
+  "data_registo": "2020-07-07",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "363398",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "45011",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Prorroga o prazo de um regime excecional de medidas aplicáveis às autarquias locais, no âmbito da pandemia da doença COVID-19, e altera as regras sobre endividamento das autarquias locais"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Aprsentação da Proposta de Lei n.º 34/XIV/1.ª (GOV) — Prorroga o prazo de um regime excecional de medidas aplicáveis às autarquias locais, no âmbito da pandemia da COVID-19, e altera as regras sobre endividamento das autarquias locais.",
+        "duracao": "00:04:20:454",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2020_07_07_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m07/&tI=02:06:19:587&drc=00:04:20:454"
+      },
+      {
+        "assunto": "Encerramento da discussão, na generalidade, da Proposta de Lei n.º 34/XIV/1.ª (GOV) — Prorroga o prazo de um regime excecional de medidas aplicáveis às autarquias locais, no âmbito da pandemia da COVID-19, e altera as regras sobre endividamento das autarquias locais.",
+        "duracao": "00:01:48:847",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2020_07_07_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m07/&tI=02:31:42:879&drc=00:01:48:847"
+      }
+    ],
+    "DataReuniaoPlenaria": "2020-07-07",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "239288",
+    "IdDebate": "14820",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "45011",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIV",
+    "MembrosGoverno": {
+      "cargo": "Ministra da Modernização do Estado e da Administração Pública",
+      "governo": "XXII GOVERNO CONSTITUCIONAL",
+      "nome": "Alexandra Leitão"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "239288",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "33-34",
+          "39-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-07-08",
+        "pubLeg": "XIV",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/072/2020-07-08/33?pgs=33-34,39&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Prorroga o prazo de um regime excecional de medidas aplicáveis às autarquias locais, no âmbito da pandemia da doença COVID-19, e altera as regras sobre endividamento das autarquias locais.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
