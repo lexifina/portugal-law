@@ -1,0 +1,11 @@
+Aviso n.º 10165/2020
+Sumário: Procedimento de alteração do Regulamento Disciplinar.
+Procedimento de alteração do Regulamento Disciplinar
+Nos termos e para os efeitos previstos no artigo 98.º, n.º 1, do Código de Procedimento Administrativo, torna-se público que o Conselho Jurisdicional, reunido em plenário na reunião ordinária de 05 de junho de 2020, aprovou o projeto de alteração ao Regulamento Disciplinar, promovendo-se a publicitação do referido projeto, na página eletrónica oficial da Ordem dos Enfermeiros e, mediante o presente Aviso, na 2.ª série do Diário da República, nos seguintes termos e condições:
+Objeto do procedimento:
+Tendo sido identificado um conjunto de alterações a proceder ao Regulamento Disciplinar, no sentido de integrar e corrigir algumas lacunas, proceder à simplificação de procedimentos e introduzir mecanismos mais ágeis do exercício do poder disciplinar, procedendo-se, deste modo, à introdução de um regime simplificado para a tramitação de processos disciplinares com origem no incumprimento de pagamento da quotização mensal em vigor, são clarificados e definidos os instrumentos necessários aos órgãos com responsabilidade disciplinar para garantir os elementos necessários para a tramitação disciplinar, são estabelecidas ainda custas associadas aos procedimentos disciplinares e são efetuadas melhorias de redação ao longo do diploma.
+Forma e prazo para a constituição como interessado:
+São interessados todos os membros da Ordem dos Enfermeiros com inscrição em vigor.
+O projeto de regulamento está sujeito a consulta pública de todos os membros da Ordem dos Enfermeiros com inscrição em vigor, devendo os interessados dirigir, por escrito, devidamente identificados, através de nome completo e número de cédula profissional, as suas sugestões ao Conselho Jurisdicional, no prazo de 30 (trinta) dias úteis, contados sobre a data da última publicitação do projeto de regulamento, utilizando para o efeito o seguinte endereço eletrónico regdisciplinar2020@ordemenfermeiros.pt, estando o projeto de regulamento disciplinar disponível na página eletrónica oficial da Ordem dos Enfermeiros, em www.ordemenfermeiros.pt.
+19 de junho de 2020. - A Bastonária, Ana Rita Pedroso Cavaco.
+313336467
