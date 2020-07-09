@@ -1,0 +1,23 @@
+Resolução da Assembleia da República n.º 37/2020
+Sumário: Recomenda ao Governo que avalie e assegure a qualidade de serviço dos sistemas de gestão de resíduos urbanos.
+Recomenda ao Governo que avalie e assegure a qualidade de serviço dos sistemas de gestão de resíduos urbanos
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Elabore uma estratégia específica para a redução da produção de resíduos urbanos, com metas e meios para atingir o fim a alcançar, assumindo a sua diminuição como etapa prioritária na política de resíduos.
+2 - Defina e assegure a monitorização dos níveis de qualidade de serviço dos aterros.
+3 - Promova o reforço da fiscalização, designadamente através de um programa de inspeções frequentes que:
+a) Proceda a uma avaliação criteriosa das infraestruturas de valorização, tratamento e eliminação de resíduos, com o objetivo de aferir as capacidades existentes e necessárias de forma a evitar a ampliação ou a instalação de novos aterros, contribuindo para uma eficiente utilização dos existentes;
+b) Condicione a atribuição de licenças de aumento da capacidade instalada dos aterros, através, designadamente, da abertura de novas células, à avaliação do impacto destes no território em que se inserem, nomeadamente, ao nível da proximidade de aglomerados populacionais, massas de água, zonas agrícolas e outros de relevância significativa;
+c) Suspenda ou revogue as licenças de operadores que, de forma sistemática, incumprem a lei, de acordo com o princípio da proteção da saúde humana e do ambiente, constante do artigo 6.º do Decreto-Lei n.º 178/2006, de 5 de setembro, com a gravidade dos incumprimentos identificados e com a rapidez de resolução dos mesmos;
+d) Promova a sistematização de circuitos de eficiência de capacidade e de transporte de resíduos que possibilite reduzir o impacto gerado neste processo, otimizando soluções que maximizem o tempo de vida dos aterros e minimizem a distância e os recursos necessários para proceder ao tratamento e depósito dos resíduos.
+4 - Apresente o cronograma do Plano de Ação de Aterros 2020 e apresente um plano nacional de auditoria, inspeção e controlo das instalações, de valorização, tratamento e eliminação de resíduos que garanta um período especial de fiscalização e inspeção intensas de todos os aterros de resíduos urbanos e de resíduos industriais, perigosos ou não perigosos, de modo a avaliar mais especificamente o incumprimento decorrente da deposição de resíduos indevidos.
+5 - Apresente à Assembleia da República um relatório público sistematizado de informação anual sobre a execução do Decreto-Lei n.º 183/2009, de 10 de agosto, com as experiências de recolha seletiva de resíduos dos sistemas implementados no país e os seus resultados práticos, por região, na evolução da preparação para a reciclagem de resíduos.
+6 - O relatório referido no ponto anterior deve conter os seguintes elementos:
+a) Infraestruturas existentes e o seu enquadramento no território;
+b) Quantidade, tipologia, origem e destino dos resíduos recebidos em cada sistema;
+c) Circuitos associados à recolha, transporte e depósito dos resíduos.
+7 - Garanta o acompanhamento do relatório indicado no ponto anterior e os meios necessários para fazer cumprir as medidas corretivas identificadas nos sistemas sinalizados, priorizando a atividade de acordo com a gravidade do impacto dos incumprimentos, nomeadamente ao nível da qualidade de vida das populações e da qualidade do ar e dos solos, no ambiente e no respetivo território.
+8 - Institua, no imediato, uma comissão de acompanhamento para avaliar, propor medidas e acompanhar as condições de funcionamento dos aterros que apresentem situações identificadas como problemáticas, composta pelas Comissões de Coordenação e Desenvolvimento Regional (CCDR) e representantes das entidades envolvidas, designadamente, Agência Portuguesa do Ambiente (APA), Administração da Região Hidrográfica (ARH), Administração Regional de Saúde (ARS), câmaras municipais e comissões de moradores ou associações constituídas com este fim.
+9 - Promova uma ampla discussão nacional sobre o setor dos resíduos, em particular sobre os resíduos urbanos, infraestruturas e sistemas que os gerem e a eventual necessidade de os reavaliar, adaptar ou reinventar, com vista a desenvolver um setor mais eficiente e resiliente e que permita responder aos desafios que Portugal enfrenta no sentido de atingir a meta de 10 % de resíduos em aterro em 2035.
+Aprovada em 19 de junho de 2020.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+113374204
