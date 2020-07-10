@@ -1,0 +1,24 @@
+# Resolução n.º 526/2020
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 130/2020, 3.º suplemento, de 2020-07-10
+
+**Sumário:** Altera o n.º 6 do Anexo II da Resolução n.º 326/2020, de 14 de maio, que define medidas de desconfinamento adicionais em resultado da evolução positiva que a Região vem alcançando no combate à pandemia da COVID-19, bem como revoga a Resolução n.º 119/2020, de 17 de março, e respetiva Declaração de Retificação n.º 13/2020 de 18 de março.
+
+## Texto
+
+Resolução n.º 526/2020
+Considerando que, através da Resolução n.º 484/2020, de 24 de junho, foi mantido pelo Governo Regional a situação de calamidade, tendo sido igualmente definido o âmbito material, temporal e territorial da mesma, e ainda as restrições e proibições que, na decorrência desse estado de calamidade, se mantêm ainda vigentes na Região Autónoma da Madeira;
+Considerando, contudo, que a Região Autónoma da Madeira mantém uma evolução positiva da pandemia, não registando neste momento qualquer caso ativo na ilha do Porto Santo e apenas 5 casos na ilha da Madeira, todos importados e detetados no âmbito do controlo efetuado a todos os passageiros que entram na Região;
+Considerando que, por força do supra referido, é possível reformular algumas medidas já anteriormente tomadas pelo Governo Regional, alargando o seu âmbito ou reduzindo os condicionalismos anteriormente determinados, nomeadamente através da adoção de algumas medidas tendo por objetivo o retomar do normal funcionamento dos serviços de justiça na Loja do Cidadão da Madeira, recuperando o atendimento presencial nos serviços da DRAJ - Direção Regional da Administração da Justiça, sem prejuízo da possibilidade de agendamento prévio, ao qual se confere prioridade, que passa agora a ser prestado em regime de entrada direta e, portanto, sem necessidade de marcação ou do referido agendamento prévio.
+Assim, ao abrigo das alíneas a) e b) do artigo 69.º, do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, com as alterações conferidas pelas Leis n.ºs 130/99, de 21 de agosto e 12/2000, de 21 de junho, da Base 34 da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, da Lei n.º 27/2006, de 3 de julho, alterada e republicada pela Lei n.º 80/2015, de 3 de agosto, que aprova a Lei de Bases da Proteção Civil, do Decreto Legislativo Regional n.º 16/2009/M, de 30 de junho, que aprova o regime jurídico do Sistema de Proteção Civil da Região Autónoma da Madeira, dos n.ºs 1 e 2 e alíneas a) e c) do n.º 3 do artigo 5.º e artigo 16.º do Decreto-Lei n.º 82/2009, de 2 de abril, alterado e republicado pelo Decreto-Lei n.º 135/2013, de 4 de outubro, e do n.º 3 do artigo 2.º e n.º 2 do artigo 4.º do Decreto Legislativo Regional n.º 9/2013/M, de 19 de fevereiro, que adaptou à RAM o Decreto-Lei que estabelece as regras de designação, competência e funcionamento das entidades que exercem o poder de autoridade de saúde, o Conselho de Governo reunido em plenário em 8 de julho de 2020, resolve o seguinte:
+
+1- É alterado o n.º 6 do Anexo II à Resolução n.º 326/2020, de 14 de maio, que passa a ter a seguinte redação:
+“6 - O SEF - Serviço de Estrangeiros e Fronteiras só faz atendimento presencial mediante agendamento prévio, através dos seguintes contactos: Email: gricrp.cc@sef.pt Rede fixa: 808 202 653 Rede Móvel: 808 962 690”
+2- É revogado o n.º 2 do anexo VIII da Resolução n.º 326/2020, de 14 de maio, devendo a ocupação das cabines das Instalações por cabo para o Transporte de Pessoas (Teleféricos) ser equiparada às dos transportes públicos coletivos de passageiros, constante do n.º 1 da Resolução n.º 385/2020, de 1 de Junho, salvo nos casos do caso das famílias e de menores acompanhados por adultos, caso em que tal equiparação pode ser ultrapassada, tendo como limite máximo a capacidade de lotação oficial da cabine.
+3- Determina-se a limitação ou condicionamento de acesso, circulação ou permanência de pessoas em espaços frequentados pelo público, a concentrações superiores a 10 pessoas, salvo se pertencerem ao mesmo agregado familiar e sem prejuízo das limitações especiais aplicáveis na Região Autónoma da Madeira, designadamente as constantes da Resolução n.º 510/2020, de 8 de julho.
+4- Sem prejuízo do previsto no número anterior, a Autoridade Regional de Saúde, após a devida avaliação casuística sanitária, poderá autorizar, excecionalmente, a concentração de mais de 10 pessoas, em espaços frequentados pelo público.
+5- As decisões constantes da presente Resolução são passíveis de reversão caso surjam novas situações de risco que ponham em causa a saúde pública.
+6- A presente resolução entra em vigor no dia da sua publicação e, no que concerne ao número 1, produz efeitos a partir das 00:00 horas do dia 13 de julho de 2020.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
