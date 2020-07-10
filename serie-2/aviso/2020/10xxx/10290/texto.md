@@ -1,0 +1,7 @@
+Aviso n.º 10290/2020
+Sumário: Consulta pública do Projeto de Regulamento dos Mercados Municipais de Matosinhos.
+Luísa Maria Neves Salgueiro, Presidente da Câmara Municipal de Matosinhos, torna pública que a Câmara Municipal deliberou, por unanimidade, em reunião realizada no dia 5 de maio de 2020, submeter a consulta pública o Projeto de Regulamento dos Mercados Municipais de Matosinhos, pelo prazo de 30 dias a contar da data da publicação do presente Aviso, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro. O texto do Regulamento encontra-se disponível em edital afixado nos locais de estilo e no sítio eletrónico oficial do município www.cm-matosinhos.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões ou questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, devendo ser endereçadas à Presidente da Câmara Municipal de Matosinhos, por correio, cuja morada é Av. D. Afonso Henriques, 4454-510 Matosinhos ou através de correio eletrónico para o endereço: geral@cm-matosinhos.pt.
+Em todas as comunicações deve ser indicado o procedimento a que mesma se reporta, sob pena de rejeição liminar.
+23/06/2020. - A Presidente da Câmara, Luísa Salgueiro, Dr.ª
+313339415
