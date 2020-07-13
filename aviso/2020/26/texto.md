@@ -1,0 +1,7 @@
+Aviso n.º 26/2020
+Sumário: Torna público que a República Portuguesa depositou o seu instrumento de ratificação do Instrumento de Emenda da Constituição da Organização Internacional do Trabalho, adotado pela Conferência Internacional do Trabalho, na sua 72.ª Sessão, realizada em Genebra, em 24 de junho de 1986.
+Por ordem superior se torna público que, em 26 de novembro de 2019, a República Portuguesa depositou, junto do Diretor-Geral do Secretariado Internacional do Trabalho, na qualidade de depositário, o seu instrumento de ratificação do Instrumento de Emenda da Constituição da Organização Internacional do Trabalho, adotado pela Conferência Internacional do Trabalho, na sua 72.ª Sessão, realizada em Genebra, em 24 de junho de 1986.
+Em cumprimento do artigo 36.º da Constituição da Organização Internacional do Trabalho, o presente Instrumento de Emenda entrará em vigor assim que tiver sido ratificado ou aceite por dois terços dos membros da Organização, incluindo cinco dos dez membros representados no Conselho de Administração enquanto membros de maior importância industrial.
+A República Portuguesa é Parte do Instrumento de Emenda da Constituição da Organização Internacional do Trabalho, aprovado pela Resolução da Assembleia da República n.º 217/2019 e ratificado pelo Decreto do Presidente da República n.º 58/2019, ambos publicados no Diário da República, 1.ª série, n.º 206, de 25 de outubro de 2019.
+Direção-Geral de Política Externa, 30 de junho de 2020. - A Subdiretora-Geral, Cristina Castanheta.
+113363423
