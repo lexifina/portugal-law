@@ -2,7 +2,7 @@
 
 ### Limites especiais ao acesso
 
-1 - Sem prejuízo das limitações impostas ao acesso a recursos naturais definidas pelo presente diploma e pelas normas regulamentares que o desenvolvem, podem ainda ser estabelecidos outros limites especiais de acesso, nomeadamente a interdição de acesso, com respeito pelo princípio da proporcionalidade, nos casos seguintes:
+1 - Sem prejuízo das limitações impostas ao acesso a recursos naturais definidas pelo presente diploma, em legislação regulamentar, bem como pelo Regulamento (UE) n.º 511/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e pelo Regulamento de Execução (UE) 2015/1866, da Comissão, de 13 de outubro de 2015, podem ainda ser estabelecidos outros limites especiais de acesso, nomeadamente a interdição de acesso, com respeito pelo princípio da proporcionalidade, nos casos seguintes:
 
 a) Sempre que esteja em causa a preservação e ou manutenção dos recursos naturais a aceder, nomeadamente espécies e habitats protegidos ao abrigo de convenções internacionais em matéria de ambiente e de que Portugal seja signatário;
 
