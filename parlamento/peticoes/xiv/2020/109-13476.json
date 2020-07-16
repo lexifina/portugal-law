@@ -1,0 +1,937 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13476",
+  "numero": "109",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-07-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-10-13",
+            "entidades": null,
+            "id": "115932",
+            "tipo": null,
+            "titulo": "Audição em 2020-10-13 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "Pró-Ordem - Associação Sindical dos Professores"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": "2020-10-02",
+                "nrOficio": "Email",
+                "oficioResposta": "Email"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-07-31",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-08-05",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-08-11",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "MEP - Movimento Escola Pública"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-08-03",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-08-14",
+            "entidades": [
+              "Conselho Nacional de Educação"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": "2020-09-16",
+                "nrOficio": "Email",
+                "oficioResposta": "FP-186/2020"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "FESAP - Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": "2020-09-16",
+                "nrOficio": "Email",
+                "oficioResposta": "F/33"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-07-30",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "Pró-Inclusão - Associação Nacional de Docentes de Educação Especial"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-07-30",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": "2020-08-05",
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "184/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-07-29",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação"
+            ],
+            "nrOficio": "185/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-09-15",
+                "dataResposta": null,
+                "nrOficio": "Email",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-12-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-07-29",
+        "DataArquivo": "2020-12-15",
+        "DataBaixaComissao": "2020-07-21",
+        "DataEnvioPAR": "2020-12-17",
+        "DataReaberta": "2020-07-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c597a49344d4749774e4330334e6a63794c54517959324d74596a45774f5330304e6d4e6d4f44686b4f5746684f5449756347526d&fich=ec280b04-7672-42cc-b109-46cf88d9aa92.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a4e446b32596a6c6b5a4331685a6d5a684c54517a5a444d74596d4a684e5331695a6d4a6d4f4456685a54457a4e4745756347526d&fich=c496b9dd-affa-43d3-bba5-bfbf85ae134a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938785a5445345a444d794e6930304e7a686c4c5452694e5459745954426c596930775a6a63344d324a684f5441794e544d756347526d&fich=1e18d326-478e-4b56-a0eb-0f783ba90253.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4e4749305a57566b4d4330774d5468684c545134596a6374596a56684f4330774e444532596a6c6a595467324d5451756347526d&fich=d4b4eed0-018a-48b7-b5a8-0416b9ca8614.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784d6a63355a4455315a5330354e474d334c5451304e575574595451784d79303559574a6a4d4752694e5467775a6a4d756347526d&fich=1279d55e-94c7-445e-a413-9abc0db580f3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334e4745334d6d526c4f53316a4e4463794c5451335a475574596a51344f53316c4e324d7a5a6d526d5a5441315a4755756347526d&fich=74a72de9-c472-47de-b489-e7c3fdfe05de.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938785a5449794f4441774e7930795a44646a4c545130597a55744f446b355a69316a4d6a6c6c5a474668597a686b4d6d55756347526d&fich=1e228007-2d7c-44c5-899f-c29edaac8d2e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324e6a63324f4449354e53316a4d6a4d324c5451304d5751744f5759775a69316b4d6a51774d6a4e695a6a63794d7a63756347526d&fich=66768295-c236-441d-9f0f-d24023bf7237.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324e6d5a6b4e5445344f4330785a54426d4c5451334d444d744f5445334e433079595759354d6d526a4f474e684e4749756347526d&fich=66fd5188-1e0f-4703-9174-2af92dc8ca4b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a4e7a6333597a4a6d595331694d6a517a4c5451304e6a4974596d526c5a5331695a6a4d784f544a694f54566a4f4463756347526d&fich=c777c2fa-b243-4462-bdee-bf3192b95c87.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794d6d4d794f544d7a5a5330784d6a49304c54517a4e6a5574595468694d69316b4e54597a4f546777593255305a6a4d756347526d&fich=22c2933e-1224-4365-a8b2-d563980ce4f3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4d546b775a4749315a533077597a6c6d4c5452684d6d457459574d794e53307a4d7a6b354e324d304e32597a593259756347526d&fich=3190db5e-0c9f-4a2a-ac25-33997c47f3cf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784d7a59794e6d4e695969307a4f4751354c5451325a5441744f4451324d5330324e544269595755345a475930596a41756347526d&fich=13626cbb-38d9-46e0-8461-650bae8df4b0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694d4755334f54517a5a69307a5954526c4c5451334d6a55744f574a694e4330355a6d52684e6a4a6a4f4449344e544d756347526d&fich=b0e7943f-3a4e-4725-9bb4-9fda62c82853.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d7a4d354e7a67314e6930795a544d7a4c5451304d544d744f5455304d693078596a6b7a4e6a6c6a4e54526d593259756347526d&fich=53397856-2e33-4413-9542-1b9369c54fcf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938335a5463774e7a526b4d43307a4d6a67784c5452695a6a51744f474d324d53316d5a6a45325a6a4d305a6a5a6a4e4445756347526d&fich=7e7074d0-3281-4bf4-8c61-ff16f34f6c41.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684d6a5a684f47597a4e6930774e7a52694c5451774e7a6774596d526b4d7931695a6d45314e5745334f546c694e6d45756347526d&fich=a26a8f36-074b-4078-bdd3-bfa55a799b6a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684e7a45334f5455774e6930784e6a51314c5451324d4759744f544e6d5a6931684e7a4d304e4455335a5459345a6a49756347526d&fich=a7179506-1645-460f-93ff-a734457e68f2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d5a474d344d325669596930324e6d597a4c545132597a4d744f5459774d5330795a444e6b4e444e684e6a4d78595755756347526d&fich=fdc83ebb-66f3-46c3-9601-2d3d43a631ae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938795a475a6d4f5746684e43316d4e7a4d334c5451314e7a6774596a4d784d5330345a4452684d4467344d6a6b315a5455756347526d&fich=2dff9aa4-f737-4578-b311-8d4a088295e5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324f54466d59545a6b4e4330784d5752684c54526959545174595449794d4330334d6a526c4d57466b4d6a59314d7a63756347526d&fich=691fa6d4-11da-4ba4-a220-724e1ad26537.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794f47466a5a4455304e79316d5a544d7a4c5451354d3245745954646d4d53316a4d5468694e32566b4d4749774f5455756347526d&fich=28acd547-fe33-493a-a7f1-c18b7ed0b095.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d597a63314f4452684e433077597a41354c54526a4e574d74595445775a693168595468695a44566d4d5745304d5759756347526d&fich=fc7584a4-0c09-4c5c-a10f-aa8bd5f1a41f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938354f544e69595442694d7930795a5451334c5451344e4749744f4449315a43316959546b335a5463344d4445305a5755756347526d&fich=993ba0b3-2e47-484b-825d-ba97e78014ee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4e6d55795a6a67314e79307a4f4451334c5451334e6a6b744f574e6d4d53316d4d7a41784f5449324d474930593259756347526d&fich=d6e2f857-3847-4769-9cf1-f3019260b4cf.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-12-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794d6d5577597a566b4e79316d4f544d344c5451334d545574595449334d7930325a6a51324e4751325a54457a5a6a4d756347526d&fich=22e0c5d7-f938-4715-a273-6f464d6e13f3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-07-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344d5446684e324d784e6930334d5459774c5451354d6a55744f5449324d69316d4e4746684e4455775a6a417a4e5751756347526d&fich=811a7c16-7160-4925-9262-f4aa450f035d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774e7a4d78596a59354e6930794e445a6b4c5451314e6a41744f574d314f4330794e475a6a5954646a4e4759354d474d756347526d&fich=0731b696-246d-4560-9c58-24fca7c4f90c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-07-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324d47526c5a57566a596930795a4756694c54513159544d744f4441304d5330344f4467794e6a5a6b4e7a63794e3245756347526d&fich=60deeecb-2deb-45a3-8041-888266d7727a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-08-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784e6a6330596d4d314d4330304e4446694c54517a597a41744f5463354e4330305a4749324e5445794d4449344e6d49756347526d&fich=1674bc50-441b-43c0-9794-4db65120286b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-08-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c597a45334d4452685a53316d4e6a45314c54526a596d5574596a4d304f5330795a474e6a59544d785a6a466a4f4455756347526d&fich=ec1704ae-f615-4cbe-b349-2dcca31f1c85.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-08-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794e575935596a5a694d7930344d54677a4c5451324f4759744f44646d596931695a6a51785a6a4a6a4d6a67345a4445756347526d&fich=25f9b6b3-8183-468f-87fb-bf41f2c288d1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-08-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939695a5463304f475a6b4e4331694e5441324c5451314e6a4d744f544d335a5330324e4751784d6d59354d6a4d315a4459756347526d&fich=be748fd4-b506-4563-937e-64d12f9235d6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-08-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938354d3251774d5467355953316c5a546b784c54526d596d45744f54517a4d6930344f4467304e6d5177595745315a6a45756347526d&fich=93d0189a-ee91-4fba-9432-88846d0aa5f1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793833595451314f546378597931685a574a684c54526a4e7a4d744f475a6d4f53316b4f5463304d5467324d5459334f5467756347526d&fich=7a45971c-aeba-4c73-8ff9-d97418616798.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4d6a45774f474532597930325a544d324c54526b4e6a5974596d526b4e5331684d7a59315a44566a4d44526c4e6a67756347526d&fich=e2108a6c-6e36-4d66-bdd5-a365d5c04e68.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938775a6a566a4d5745795a433030596a5a6d4c5451315a445974595467324e6931694d7a517a595442694d7a466c5a4467756347526d&fich=0f5c1a2d-4b6f-45d6-a866-b343a0b31ed8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-05-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684d545a684d5745344e7930325a4751324c5451775a6a4574596a597a4d6930334d324d345a6d526b4d444d7a4e6d55756347526d&fich=a16a1a87-6dd6-40f1-b632-73c8fdd0336e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-07-29",
+            "gp": "PCP",
+            "id": "5705",
+            "motivoCessacao": null,
+            "nome": "Ana Mesquita"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-10-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-07-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a526d596a67774d6d526a4c57566d4e6d4d744e4467305a6930344d6a41304c54646a4f57466d5a6a4d7a4e4464694f4335775a47593d&fich=4fb802dc-ef6c-484f-8204-7c9aff3347b8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_06_15_00_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-07",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/007/2021-10-07/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Pela redução do número de alunos por turma, pelo rejuvenescimento da classe docente e pela dignificação do pessoal não docente nas Escolas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_06_15_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-07",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/007/2021-10-07/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Pela redução do número de alunos por turma, pelo rejuvenescimento da classe docente e pela dignificação do pessoal não docente nas Escolas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_06_15_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-07",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/007/2021-10-07/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Pela redução do número de alunos por turma, pelo rejuvenescimento da classe docente e pela dignificação do pessoal não docente nas Escolas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_06_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-07",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/007/2021-10-07/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Pela redução do número de alunos por turma, pelo rejuvenescimento da classe docente e pela dignificação do pessoal não docente nas Escolas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_06_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-07",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/007/2021-10-07/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Pela redução do número de alunos por turma, pelo rejuvenescimento da classe docente e pela dignificação do pessoal não docente nas Escolas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_06_15_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-07",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/007/2021-10-07/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Pela redução do número de alunos por turma, pelo rejuvenescimento da classe docente e pela dignificação do pessoal não docente nas Escolas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_06_15_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-07",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/007/2021-10-07/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Pela redução do número de alunos por turma, pelo rejuvenescimento da classe docente e pela dignificação do pessoal não docente nas Escolas",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13476",
+    "PetAssunto": "Pela redução do número de alunos por turma, pelo rejuvenescimento da classe docente e pela dignificação do pessoal não docente nas Escolas",
+    "PetDataEntrada": "2020-07-16",
+    "PeticoesAssociadas": null,
+    "PetId": "13476",
+    "PetLeg": "XIV",
+    "PetNr": "109",
+    "PetNrAssinaturas": "5105",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "716",
+        "obs": null,
+        "pag": [
+          "23-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-07",
+        "pubLeg": "XIV",
+        "pubNr": "7",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/007/2021-10-07/23?pgs=23-30&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "910426",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-07-31",
+        "pubLeg": "XIV",
+        "pubNr": "53",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/053/2020-07-31/10?pgs=10-11&org=PLC"
+      }
+    ]
+  }
+}
