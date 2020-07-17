@@ -1,0 +1,9 @@
+# Artigo 23.º
+
+### Cabimentação e compromissos
+
+1 - Os serviços e organismos da Administração central do Estado registam e mantêm atualizados, nos seus sistemas informáticos, a cabimentação dos encargos prováveis programados para o ano de 2019.
+
+2 - Os serviços e organismos da Administração central do Estado devem manter os sistemas contabilísticos permanentemente atualizados em relação ao registo dos compromissos assumidos.
+
+3 - Em regra, o número do compromisso assumido nos termos do número anterior deve constar da fatura ou outros documentos que titulem transmissões de bens ou serviços.
