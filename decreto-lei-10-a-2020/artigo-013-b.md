@@ -8,7 +8,7 @@ a) Nos espaços e estabelecimentos comerciais e de prestação de serviços;
 
 b) Nos edifícios públicos ou de uso público onde se prestem serviços ou ocorram atos que envolvam público;
 
-c) Nos estabelecimentos de ensino e creches pelos funcionários docentes e não docentes e pelos alunos;
+c) Nos estabelecimentos de educação, de ensino e nas creches;
 
 d) No interior das salas de espetáculos, de exibição de filmes cinematográficos ou similares.
 
@@ -18,7 +18,7 @@ d) No interior das salas de espetáculos, de exibição de filmes cinematográfi
 
 4 - Para efeitos do disposto no número anterior, a utilização de transportes coletivos de passageiros inicia-se nos termos do n.º 2 do artigo 2.º da Lei n.º 28/2006, de 4 de julho, na sua redação atual.
 
-5 - A obrigação de uso de máscara ou viseira nos termos do presente artigo apenas é aplicável às pessoas com idade superior a 10 anos.
+5 - A obrigação de uso de máscara ou viseira nos termos do presente artigo apenas é aplicável às pessoas com idade superior a 10 anos, exceto para efeitos da alínea c) do n.º 1, em que a obrigação do uso de máscara por alunos apenas se aplica a partir do 2.º ciclo do ensino básico, independentemente da idade.
 
 6 - A obrigatoriedade referida nos n.os 1 e 3 é dispensada mediante a apresentação de:
 

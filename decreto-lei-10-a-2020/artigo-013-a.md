@@ -6,7 +6,7 @@
 
 a) Lotação máxima de 2/3 da sua capacidade para o transporte terrestre, fluvial e marítimo;
 
-b) A adequação do número máximo de passageiros transportados no transporte aéreo, impondo um valor limite de acordo com as recomendações sobre lotação máxima, a definir em portaria do membro do Governo responsável pela área dos transportes aéreos;
+b) [Revogada.]
 
 c) A limpeza diária, a desinfeção semanal e a higienização mensal dos veículos, instalações e equipamentos utilizados pelos passageiros e outros utilizadores, de acordo com as recomendações das autoridades de saúde.
 

@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Suspensão de atividade letivas e não letivas
-
 # Artigo 9.º-A
 
 ### Programa de Estágios Profissionais na Administração Local
