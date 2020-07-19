@@ -2,13 +2,15 @@
 
 ### Impedimentos
 
-1 - As entidades credenciadas estão impedidas de:
+1 - As entidades credenciadas estão impedidas de realizar:
 
-a) Realizar vistorias de SCIE a edificações, cujo projecto ou medidas tenham merecido parecer seu;
+a) Vistorias de SCIE a edificações cujo projeto ou medidas tenham sido objeto de parecer seu;
 
-b) Realizar inspecções de SCIE a edificações, por si vistoriadas.
+b) A primeira inspeção regular de SCIE a edifícios ou recintos por si vistoriadas ou que não tenham sido objeto de vistoria no âmbito da SCIE mas cujo projeto ou medidas de autoproteção tenham sido objeto de parecer seu;
 
-2 - São ainda casos de impedimento emitir pareceres ou realizar vistorias e inspecções sobre determinado processo, quando:
+c) Duas inspeções regulares consecutivas ao mesmo edifício ou recinto.
+
+2 - As entidades credenciadas estão, ainda, impedidas de emitir pareceres ou realizar vistorias e inspeções relativas a determinado processo quando:
 
 a) Nele tenha interesse, por si, como representante ou como gestor de negócios;
 

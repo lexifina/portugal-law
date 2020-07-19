@@ -1,44 +1,32 @@
 # Artigo 4.º
 
-### Pré-requisitos para credenciação
+### Requisitos para a credenciação
 
-1 - Os técnicos a credenciar nos termos da alínea a) do n.º 1 do artigo anterior devem cumprir os seguintes pré-requisitos:
+1 - [Revogado.]
 
-a) Ter exercido funções na área SCIE, em regime de contrato de tarefa ou avença com a ANPC, no mínimo durante dois anos, contados até à data de apresentação do requerimento para credenciação;
+2 - [Revogado.]
 
-b) Possuir seguro de responsabilidade civil que cubra danos decorrentes da actividade profissional no montante mínimo de (euro) 250 000.
+3 - Os técnicos municipais, a credenciar nos termos da alínea a) do n.º 2 do artigo anterior, devem cumprir os seguintes requisitos:
 
-2 - Os técnicos a credenciar nos termos da alínea b) do n.º 1 do artigo anterior devem cumprir os seguintes pré-requisitos:
+a) Ser titular de formação habilitante nos domínios da arquitetura, engenharia ou engenharia técnica, reconhecida em Portugal, e estar inscrito na respetiva ordem profissional;
 
-a) Estar habilitado com o curso de arquitecto, reconhecido pela OA, de engenheiro, reconhecido pela OE ou com o curso de engenheiro técnico, reconhecido pela ANET;
+b) Possuir formação específica em SCIE, de acordo com os requisitos a estabelecer pela ANEPC.
 
-b) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;
+c) [Revogada.]
 
-c) Possuir experiência profissional na área de SCIE, por um período superior a cinco anos;
+4 - Os elementos dos corpos de bombeiros, a credenciar nos termos da alínea b) do n.º 2 e do n.º 3 do artigo anterior, devem cumprir os seguintes requisitos:
 
-d) Possuir seguro de responsabilidade civil que cubra danos decorrentes da actividade profissional no montante mínimo de (euro) 250 000.
-
-3 - Os técnicos municipais a credenciar nos termos da alínea a) do n.º 2 do artigo anterior devem cumprir os seguintes pré-requisitos:
-
-a) Estar habilitado com o curso de arquitecto, reconhecido pela OA, de engenheiro, reconhecido pela OE ou com o curso de engenheiro técnico, reconhecido pela ANET;
-
-b) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;
-
-c) Possuir experiência profissional na área de SCIE, por um período superior a três anos.
-
-4 - Os elementos dos corpos de bombeiros a credenciar nos termos da alínea b) do n.º 2 e do n.º 3 do artigo anterior devem cumprir os seguintes pré-requisitos:
-
-a) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;
+a) Possuir formação específica em SCIE, de acordo com os requisitos a estabelecer pela ANEPC;
 
 b) Possuir, no mínimo:
 
-i) Elementos dos corpos de bombeiros profissionais ou mistos:
+i) Elementos dos corpos de bombeiros profissionais ou mistos detidos por municípios:
 
-1) No quadro de comando dos bombeiros municipais e profissionais, o cargo de adjunto técnico;
+1) No quadro de comando dos corpos de bombeiros profissionais e municipais, o cargo de adjunto técnico;
 
-2) Na carreira de bombeiro municipal, a categoria de bombeiro de 1.ª classe e na carreira de bombeiro sapador a categoria de subchefe de 1.ª classe.
+2) Nas carreiras de bombeiro municipal e de bombeiro sapador, a categoria de subchefe de 1.ª classe;
 
-ii) Elementos dos corpos de voluntários:
+ii) Elementos de corpos de bombeiros voluntários ou mistos detidos por associações humanitárias de bombeiros:
 
 1) No quadro de comando, o cargo de adjunto de comando, e ter concluído toda a formação exigida para o ingresso neste quadro;
 

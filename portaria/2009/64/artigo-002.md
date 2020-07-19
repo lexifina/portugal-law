@@ -4,18 +4,18 @@
 
 Para efeitos da presente portaria entende-se por:
 
-a) «Parecer» a apreciação da conformidade e adequação das condições e requisitos:
+a) 'Parecer', a apreciação da conformidade e adequação das condições e requisitos:
 
-1) Das medidas de autoprotecção e de segurança, nos termos previstos nos n.os 5 e 6 do artigo 3.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;
+1) Das medidas de autoproteção, previstas no artigo 21.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual;
 
-2) Das soluções de SCIE, previstas no artigo 14.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;
+2) [Revogada.]
 
-3) Dos projectos de especialidade de SCIE submetidos a consulta da Autoridade Nacional de Protecção Civil, previstos no artigo 17.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;
+3) Dos projetos de especialidade de SCIE, previstos nos artigos 14.º, 14.º-A e 17.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual;
 
-4) Das medidas de autoprotecção, no âmbito das consultas prévias previstas no n.º 3 do artigo 22.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;
+4) [Revogada.]
 
-b) «Vistoria» a verificação do cumprimento das condições de SCIE e dos respectivos projectos e fichas de segurança, com vista à emissão de autorização de utilização ou funcionamento, nos termos previstos nos n.os 2 e 3 do artigo 18.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;
+b) 'Vistoria', a verificação do cumprimento das condições de SCIE e dos respetivos projetos e fichas de segurança, com vista à emissão de autorização de utilização ou funcionamento, nos termos previstos nos n.os 2 e 3 do artigo 18.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual;
 
-c) «Inspecção» a fiscalização da manutenção do cumprimento das condições de SCIE aprovadas e da execução das medidas de autoprotecção e segurança, nos termos previstos no artigo 19.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;
+c) 'Inspeção', o ato de verificação da manutenção das condições de SCIE aprovadas ou licenciadas e da implementação das medidas de autoproteção, nos termos previstos no n.º 4 do artigo 19.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual.
 
-d) «Entidades credenciadas» as referidas nos n.os 1 a 3 do artigo seguinte.
+d) [Revogada.]

@@ -1,5 +1,5 @@
 # Artigo 15.º
 
-### Inspecções às entidades credenciadas
+### Auditorias às entidades credenciadas
 
-A ANPC realiza, no âmbito das suas competências, de forma aleatória e sistemática, inspecções às entidades credenciadas, com o fim de verificar do cumprimento dos requisitos e normas decorrentes da credenciação.
+A ANEPC realiza, no âmbito das suas competências, de forma aleatória e sistemática, auditorias às entidades credenciadas, com o fim de verificar o cumprimento dos requisitos e normas decorrentes da credenciação.
