@@ -1,0 +1,586 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13478",
+  "numero": "111",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-07-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-10-15",
+            "entidades": null,
+            "id": "115967",
+            "tipo": null,
+            "titulo": "Audição em 2020-10-15 com Subscritores da Petição"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-12-16",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-09-09",
+        "DataArquivo": "2020-12-16",
+        "DataBaixaComissao": "2020-07-31",
+        "DataEnvioPAR": "2020-12-16",
+        "DataReaberta": "2020-09-09",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-09-09",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d6d4a6a4d47597a4f54637459546b334f5330305a44466a4c54686a4e575574597a566c5a6a59334e7a59785a6a45794c6e426b5a673d3d&fich=2bc0f397-a979-4d1c-8c5e-c5ef67761f12.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-01-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e7a64684e6d466b4f4451744e3255795a6930304d7a45314c5746684d5441744d6a6c6a4d7a49774e57466b4e6d45784c6e426b5a673d3d&fich=77a6ad84-7e2f-4315-aa10-29c3205ad6a1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7264",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-09-09",
+            "gp": "PS",
+            "id": "4209",
+            "motivoCessacao": null,
+            "nome": "Elza Pais"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-06-01",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-09-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32566c4d7a45344d6a45794c5445315a4749744e4449334e5331684f574d794c5449794e6d4e6d4f4441784f5441334e5335775a47593d&fich=ee318212-15db-4275-a9c2-226cf8019075.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45616",
+      "110418",
+      "110637",
+      "110835",
+      "110851",
+      "45616",
+      "110637",
+      "110835",
+      "110851"
+    ],
+    "Iniciativasoriginadas": [
+      "45616",
+      "110418",
+      "110637",
+      "110835",
+      "110851"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Reforça a proteção das crianças e jovens que vivam em contexto de violência doméstica ou que o testemunhem; Altera o Regime Geral do Processo Tutelar Cível, reforçando o direito das crianças à participação efetiva nas decisões que lhes digam respeito; Reconhecimento do estatuto de vítima às crianças que testemunhem ou vivam em contexto de violência doméstica, alterando a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Consagração do estatuto de vítima para as crianças que testemunhem a prática de violência doméstica ou que vivam em contexto de violência doméstica; Reconhece o estatuto de vítima aos menores que vivam em contexto de violência doméstica ou o testemunhem",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/58?pgs=58&org=PLC"
+              }
+            ],
+            "Sumario": "Reforça a proteção das crianças e jovens que vivam em contexto de violência doméstica ou que o testemunhem; Altera o Regime Geral do Processo Tutelar Cível, reforçando o direito das crianças à participação efetiva nas decisões que lhes digam respeito; Reconhecimento do estatuto de vítima às crianças que testemunhem ou vivam em contexto de violência doméstica, alterando a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Consagração do estatuto de vítima para as crianças que testemunhem a prática de violência doméstica ou que vivam em contexto de violência doméstica; Reconhece o estatuto de vítima aos menores que vivam em contexto de violência doméstica ou o testemunhem",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Reforça a proteção das crianças e jovens que vivam em contexto de violência doméstica ou que o testemunhem; Altera o Regime Geral do Processo Tutelar Cível, reforçando o direito das crianças à participação efetiva nas decisões que lhes digam respeito; Reconhecimento do estatuto de vítima às crianças que testemunhem ou vivam em contexto de violência doméstica, alterando a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Consagração do estatuto de vítima para as crianças que testemunhem a prática de violência doméstica ou que vivam em contexto de violência doméstica; Reconhece o estatuto de vítima aos menores que vivam em contexto de violência doméstica ou o testemunhem",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=66"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Reforça a proteção das crianças e jovens que vivam em contexto de violência doméstica ou que o testemunhem; Altera o Regime Geral do Processo Tutelar Cível, reforçando o direito das crianças à participação efetiva nas decisões que lhes digam respeito; Reconhecimento do estatuto de vítima às crianças que testemunhem ou vivam em contexto de violência doméstica, alterando a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Consagração do estatuto de vítima para as crianças que testemunhem a prática de violência doméstica ou que vivam em contexto de violência doméstica; Reconhece o estatuto de vítima aos menores que vivam em contexto de violência doméstica ou o testemunhem",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=67"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Reforça a proteção das crianças e jovens que vivam em contexto de violência doméstica ou que o testemunhem; Altera o Regime Geral do Processo Tutelar Cível, reforçando o direito das crianças à participação efetiva nas decisões que lhes digam respeito; Reconhecimento do estatuto de vítima às crianças que testemunhem ou vivam em contexto de violência doméstica, alterando a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Consagração do estatuto de vítima para as crianças que testemunhem a prática de violência doméstica ou que vivam em contexto de violência doméstica; Reconhece o estatuto de vítima aos menores que vivam em contexto de violência doméstica ou o testemunhem",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Reforça a proteção das crianças e jovens que vivam em contexto de violência doméstica ou que o testemunhem; Altera o Regime Geral do Processo Tutelar Cível, reforçando o direito das crianças à participação efetiva nas decisões que lhes digam respeito; Reconhecimento do estatuto de vítima às crianças que testemunhem ou vivam em contexto de violência doméstica, alterando a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Consagração do estatuto de vítima para as crianças que testemunhem a prática de violência doméstica ou que vivam em contexto de violência doméstica; Reconhece o estatuto de vítima aos menores que vivam em contexto de violência doméstica ou o testemunhem",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Reforça a proteção das crianças e jovens que vivam em contexto de violência doméstica ou que o testemunhem; Altera o Regime Geral do Processo Tutelar Cível, reforçando o direito das crianças à participação efetiva nas decisões que lhes digam respeito; Reconhecimento do estatuto de vítima às crianças que testemunhem ou vivam em contexto de violência doméstica, alterando a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Consagração do estatuto de vítima para as crianças que testemunhem a prática de violência doméstica ou que vivam em contexto de violência doméstica; Reconhece o estatuto de vítima aos menores que vivam em contexto de violência doméstica ou o testemunhem",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-06-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Reforça a proteção das crianças e jovens que vivam em contexto de violência doméstica ou que o testemunhem; Altera o Regime Geral do Processo Tutelar Cível, reforçando o direito das crianças à participação efetiva nas decisões que lhes digam respeito; Reconhecimento do estatuto de vítima às crianças que testemunhem ou vivam em contexto de violência doméstica, alterando a Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas, e o Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; Consagração do estatuto de vítima para as crianças que testemunhem a prática de violência doméstica ou que vivam em contexto de violência doméstica; Reconhece o estatuto de vítima aos menores que vivam em contexto de violência doméstica ou o testemunhem",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13478",
+    "PetAssunto": "Aprovação do estatuto de vítima para crianças inseridas em contexto de violência doméstica",
+    "PetDataEntrada": "2020-07-22",
+    "PeticoesAssociadas": null,
+    "PetId": "13478",
+    "PetLeg": "XIV",
+    "PetNr": "111",
+    "PetNrAssinaturas": "48053",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6085",
+        "obs": null,
+        "pag": [
+          "57-64"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-02",
+        "pubLeg": "XIV",
+        "pubNr": "73",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/57?pgs=57-64&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "909117",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-09-10",
+        "pubLeg": "XIV",
+        "pubNr": "57",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/057/2020-09-10/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
