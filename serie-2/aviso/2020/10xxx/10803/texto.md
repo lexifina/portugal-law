@@ -1,0 +1,9 @@
+Aviso n.º 10803/2020
+Sumário: 7.ª alteração ao Plano Diretor Municipal - abertura do período de discussão pública.
+7.ª alteração ao Plano Diretor Municipal - Abertura do período de discussão pública
+Ricardo Manuel Silva Fernandes, Presidente da Câmara Municipal de Bombarral, torna público, que nos termos e para os efeitos do disposto no n.º 1 e 2 do artigo 89.º, do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na sua redação atual, a Câmara Municipal deliberou, por unanimidade, na sua reunião pública de 09 de junho de 2020, determinara abertura de um período de discussão pública, a decorrer pelo período de 30 (trinta) dias úteis, contados a partir do 5.º dia da publicação do presente Aviso na 2.ª série do Diário da República.
+O período de discussão pública terá início no 5.º dia útil contado a partir da data de publicação do presente Aviso no Diário da República e terá a duração de 30 dias úteis, nos termos previstos no disposto no n.º 2 do artigo 89.º do RJIGT.
+Durante o referido período, a proposta da "VII Alteração ao Plano Diretor Municipal do Bombarral" está disponível para consulta na Divisão de Obras e Planeamento Urbanístico, durante as horas normais de expediente (das 9 horas às 13 horas e das 14 horas às 17 horas) ou através da Internet no endereço http://www.cm-bombarral.pt.
+Convidam-se todos os munícipes a formular as reclamações, observações e sugestões que entendam por conveniente, as quais devem ser apresentadas por escrito em impresso próprio, ou em ofício devidamente identificado, dirigido ao Presidente da Câmara Municipal de Bombarral, e entregue na Divisão de Obras e Planeamento Urbanístico. É ainda disponibilizado um e-mail próprio (obrasparticulares@cm-bombarral.pt). O presente Aviso vai ser afixado nos lugares públicos do costume.
+23 de junho de 2020. - O Presidente da Câmara Municipal do Bombarral, Ricardo Manuel Silva Fernandes.
+613349257
