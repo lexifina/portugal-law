@@ -1,0 +1,23 @@
+# Artigo 12.º
+
+### Limitação extraordinária de pagamentos por conta em sede de IRS ou IRC de 2020
+
+1 - No caso de um sujeito passivo de imposto sobre o rendimento das pessoas singulares não proceder ao primeiro e segundo pagamentos por conta em 2020, nos termos do artigo 102.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro (Código do IRS), o montante total em causa pode ser regularizado até à data limite de pagamento do terceiro pagamento, sem quaisquer ónus ou encargos.
+
+2 - O regime previsto no artigo 107.º do Código do IRC é aplicável, com as necessárias adaptações, ao primeiro e segundo pagamentos por conta relativos ao período de tributação de 2020, até ao limite de 50 % do respetivo quantitativo, desde que a média mensal de faturação comunicada através do E-fatura referente aos primeiros seis meses do ano de 2020 evidencie uma quebra de, pelo menos, 20 % em relação à média verificada no período homólogo do ano anterior ou, para quem tenha iniciado a atividade em ou após 1 de janeiro de 2019, em relação à média do período de atividade anteriormente decorrido.
+
+3 - O regime previsto no artigo 107.º do Código do IRC é também aplicável, com as necessárias adaptações, à totalidade do quantitativo do primeiro e segundo pagamentos por conta relativos ao período de tributação de 2020, desde que a média mensal de faturação comunicada através do E-fatura referente aos primeiros seis meses do ano de 2020 evidencie uma quebra de, pelo menos, 40 % em relação à média verificada no período homólogo do ano anterior ou, para quem tenha iniciado a atividade em ou após 1 de janeiro de 2019, em relação à média do período de atividade anteriormente decorrido, ou quando a atividade principal do sujeito passivo se enquadre na classificação de atividade económica de alojamento, restauração e similares, ou quando o sujeito passivo seja classificado como cooperativa ou como micro, pequena e média empresa, de acordo com os critérios definidos no artigo 2.º do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.
+
+4 - Considera-se que a atividade principal do sujeito passivo se enquadra na classificação de atividade económica de alojamento, restauração e similares quando o volume de negócios referente a essas atividades corresponda a mais de 50 % do volume de negócios total obtido no período de tributação anterior.
+
+5 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, previsto nos artigos 69.º e seguintes do Código do IRC, nas entregas que devam ser efetuadas pela sociedade dominante, deve atender-se ao seguinte:
+
+a) A quebra de volume de negócios é aferida considerando o montante correspondente à soma algébrica do valor obtido por cada uma das sociedades do grupo no período de tributação de 2020, incluindo a sociedade dominante, bem como a composição do grupo no período de tributação de 2020 vigente no último dia do prazo para proceder ao primeiro pagamento por conta;
+
+b) Quando uma ou mais sociedades exerçam uma atividade principal enquadrada na classificação de atividade económica de alojamento, restauração e similares, e o volume de negócios dessa atividade corresponda a mais de 50 % do volume de negócios total dessa ou dessas sociedades no período de tributação anterior, a limitação referida no n.º 3 é aplicada, em primeiro lugar, subtraindo ao pagamento por conta devido pela sociedade dominante o pagamento que seria devido por cada uma dessas sociedades caso não fosse aplicado o regime especial de tributação, sem prejuízo da aplicação subsequente dos n.os 2 e 3 relativamente às restantes sociedades.
+
+6 - O enquadramento na classificação de cooperativa, micro, pequena e média empresa, de atividade económica de alojamento, restauração e similares ou de quebra de volume de negócios a que se referem os n.os 2 e 3 deve ser certificada por contabilista certificado no Portal das Finanças.
+
+7 - Caso o sujeito passivo verifique, com base na informação de que dispõe, que, em consequência da redução total ou parcial do primeiro e segundo pagamentos por conta nos termos dos n.os 2 e 3, pode vir a deixar de ser paga uma importância superior à prevista no n.º 2 do artigo 107.º do Código do IRC, pode regularizar o montante em causa até ao último dia do prazo para o terceiro pagamento, sem quaisquer ónus ou encargos, mediante certificação por contabilista certificado no Portal das Finanças.
+
+8 - No período de tributação de 2020, os juros compensatórios devidos em consequência da limitação, cessação ou redução dos pagamentos por conta contam-se dia a dia, desde o termo do prazo fixado para o último pagamento por conta até à data em que, por lei, a liquidação deva ser feita.
