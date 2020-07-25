@@ -1,0 +1,13 @@
+# Artigo 168.º-A
+
+### Apoio ao pagamento das rendas habitacionais e não habitacionais
+
+1 - Os arrendatários habitacionais, bem como, no caso dos estudantes que não aufiram rendimentos do trabalho, os respetivos fiadores, que tenham, comprovadamente, quebra de rendimentos nos termos previstos no artigo 3.º da Lei n.º 4-C/2020, de 6 de abril, e se vejam incapacitados de pagar a renda das habitações que constituem a sua residência permanente, podem solicitar a moratória da renda ao IHRU, I. P.
+
+2 - Os senhorios habitacionais que tenham, comprovadamente, quebra de rendimentos nos termos previstos no artigo 3.º da Lei n.º 4-C/2020, de 6 de abril, cujos arrendatários não recorram ao IHRU, I. P., nos termos do presente artigo, podem solicitar ao IHRU, I. P., a concessão de um empréstimo sem juros para compensar o valor da renda mensal devida e não paga, sempre que o rendimento disponível restante do agregado desça, por essa razão, abaixo do valor do IAS.
+
+3 - As moratórias e os empréstimos previstos no presente artigo são concedidos pelo IHRU, I. P., ao abrigo das suas atribuições, em particular da competência prevista na alínea k) do n.º 2 do artigo 3.º do Decreto-Lei n.º 175/2012, de 2 de agosto, e têm, como primeiras fontes de financiamento, as verbas inscritas no seu orçamento para 2020 provenientes da consignação de receita de impostos sobre o rendimento e, se necessário, das verbas a transferir para o IHRU, I. P., pela DGTF no âmbito de políticas de promoção de habitação, financiadas por receitas de impostos inscritas no capítulo 60, ambas nos termos previstos na presente lei, bem como nos saldos transitados do Programa SOLARH, criado pelo Decreto-Lei n.º 39/2001, de 9 de fevereiro.
+
+4 - O regulamento a ser elaborado pelo IHRU, I. P., com as condições de concessão da moratória, atendendo à urgência e ao seu especial fim, produz todos os seus efeitos a contar da data da sua divulgação no Portal da Habitação, na sequência de aprovação pelo conselho diretivo do IHRU, I. P., sujeita a homologação do membro do Governo responsável pela área da habitação.
+
+5 - Nos casos em que sejam aplicáveis formas específicas de contratos de exploração de imóveis para comércio e serviços em centros comerciais, não são devidos quaisquer valores a título de rendas mínimas, até 31 de dezembro de 2020, sendo apenas devido aos proprietários dos centros comerciais o pagamento da componente variável da renda, calculada sobre as vendas realizadas pelo lojista, mantendo-se ainda a responsabilidade, da parte dos lojistas, pelo pagamento de todas as despesas contratualmente acordadas, designadamente as referentes a despesas e encargos comuns.

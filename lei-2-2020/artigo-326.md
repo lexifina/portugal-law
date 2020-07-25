@@ -1,0 +1,443 @@
+## Título II
+
+## Disposições fiscais
+
+## Capítulo I
+
+## Impostos diretos
+
+## Secção I
+
+## Imposto sobre o Rendimento das Pessoas Singulares
+
+# Artigo 326.º
+
+### Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares
+
+Os artigos 3.º, 8.º, 10.º, 12.º, 22.º, 31.º, 68.º, 72.º, 78.º-A, 78.º-E, 78.º-F, 81.º, 99.º-F, 101.º, 102.º e 115.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro, na sua redação atual, adiante designado por Código do IRS, passam a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - Para efeitos da alínea c) do n.º 2, não é considerada mais-valia a transferência para o património particular do empresário de bem imóvel habitacional que seja imediatamente afeto à obtenção de rendimentos da categoria F.
+
+Artigo 8.º
+
+[...]
+
+1 - ...
+
+2 - ...:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) As importâncias relativas aos contratos de direito real de habitação duradoura.
+
+3 - ...
+
+4 - ...
+
+5 - Os rendimentos decorrentes de contratos de direito real de habitação duradoura ficam sujeitos a tributação:
+
+a) Desde o seu recebimento ou colocação à disposição na parte respeitante ao pagamento da prestação pecuniária mensal;
+
+b) Desde o momento em que a prestação pecuniária anual constitua rendimento ou seja deduzida pelo proprietário em virtude do não cumprimento pelo morador das suas obrigações nos termos previstos no diploma que cria o direito real de habitação duradoura, na parte respeitante à caução inicial.
+
+Artigo 10.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - ...
+
+13 - ...
+
+14 - ...
+
+15 - Em caso de restituição ao património particular de imóvel habitacional que seja afeto à obtenção de rendimentos da categoria F, não há lugar à tributação de qualquer ganho, se em resultado dessa afetação o imóvel gerar rendimentos durante cinco anos consecutivos.
+
+Artigo 12.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - São excluídos de tributação, até ao limite anual global de 5 vezes o valor do IAS, os rendimentos da categoria A provenientes de contrato de trabalho e os rendimentos de categoria B provenientes de contrato de prestação de serviços, incluindo atos isolados, por estudante considerado dependente, nos termos do artigo 13.º, a frequentar estabelecimento de ensino integrado no sistema nacional de educação ou reconhecidos como tendo fins análogos pelos ministérios competentes.
+
+10 - Para efeitos do disposto no número anterior, devem os sujeitos passivos submeter através do Portal das Finanças, até 15 de fevereiro do ano seguinte àquele a que o imposto respeita, documento comprovativo da frequência de estabelecimento de ensino oficial ou autorizado.
+
+Artigo 22.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...:
+
+a) Os rendimentos auferidos por sujeitos passivos não residentes em território português, sem prejuízo do disposto nos n.os 13 e 14 do artigo 72.º;
+
+b) ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+Artigo 31.º
+
+[...]
+
+1 - ...:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) 0,50 aos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento, localizados em área de contenção.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - ...
+
+13 - ...
+
+14 - ...
+
+15 - ...
+
+Artigo 68.º
+
+[...]
+
+1 - ...:
+
+(ver documento original)
+
+2 - O quantitativo do rendimento coletável, quando superior a 7112 (euro), é dividido em duas partes, nos seguintes termos: uma, igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da coluna B correspondente a esse escalão; outra, igual ao excedente, a que se aplica a taxa da coluna A respeitante ao escalão imediatamente superior.
+
+Artigo 72.º
+
+[...]
+
+1 - ...:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Os rendimentos prediais, incluindo os referidos na alínea b) do n.º 5 do artigo 8.º
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a vinte anos, bem como aos rendimentos prediais decorrentes de contratos de direito real de habitação duradoura (DHD), na parte respeitante ao pagamento da prestação pecuniária mensal, é aplicada uma redução de 18 pontos percentuais da respetiva taxa autónoma.
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - Os residentes não habituais em território português são ainda tributados à taxa de 10 % relativamente aos rendimentos líquidos de pensões, incluindo os da categoria H e os previstos na alínea d) do n.º 1 e subalíneas 3) e 11) da alínea b) do n.º 3 do artigo 2.º, quando, pelos critérios previstos no n.º 1 do artigo 18.º, não sejam de considerar obtidos em território português, na parte em que os mesmos, quando tenham origem em contribuições, não tenham gerado uma dedução para efeitos do n.º 2 do artigo 25.º
+
+13 - Os rendimentos previstos nas alíneas c) a e) do n.º 1 e nos n.os 2 a 5 e nos n.os 9, 10 e 12 podem ser englobados por opção dos respetivos titulares residentes em território português.
+
+14 - (Anterior n.º 13.)
+
+15 - (Anterior n.º 14.)
+
+16 - (Anterior n.º 15.)
+
+17 - (Anterior n.º 16.)
+
+18 - (Anterior n.º 17.)
+
+19 - Sempre que os contratos de arrendamento previstos nos n.os 2, 3, 4 e 5 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações, por motivo imputável ao senhorio, ou, no caso do direito de habitação duradoura, por acordo das partes, extingue-se o direito às reduções da taxa aí previstas, com efeitos desde o início do contrato ou renovação, devendo os titulares dos rendimentos, no ano da cessação do contrato, proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago, acrescida de juros compensatórios.
+
+20 - (Anterior n.º 19.)
+
+Artigo 78.º-A
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - No caso previsto na alínea a) do número anterior, os montantes são de 300 (euro) e 150 (euro), respetivamente, para o segundo dependente e seguintes, independentemente da idade do primeiro dependente.
+
+Artigo 78.º-E
+
+[...]
+
+1 - ...:
+
+a) Com as importâncias, líquidas de subsídios ou comparticipações oficiais, suportadas a título de renda pelo arrendatário de prédio urbano ou da sua fração autónoma para fins de habitação permanente, quando referentes a contratos de arrendamento celebrados ao abrigo do Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro, ou do Novo Regime do Arrendamento Urbano, aprovado pela Lei n.º 6/2006, de 27 de fevereiro, ou com contratos de direito real de habitação duradoura no ano em que tais importâncias sejam tributáveis como rendimento do proprietário, até ao limite de 502 (euro);
+
+b) ...
+
+c) ...
+
+d) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - No caso do direito real de habitação duradoura, a importância suportada a título de caução inicial deve ser indicada pelo morador na declaração a que se refere o n.º 1 do artigo 57.º relativa ao ano em que seja tributável como rendimento do proprietário nos termos da alínea b) do n.º 5 do artigo 8.º
+
+Artigo 78.º-F
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - O disposto na alínea e) do n.º 1 inclui a aquisição de medicamentos de uso veterinário.
+
+Artigo 81.º
+
+[...]
+
+1 - Os titulares de rendimentos das diferentes categorias obtidos no estrangeiro, incluindo os previstos no artigo 72.º, têm direito a um crédito de imposto por dupla tributação jurídica internacional, dedutível até ao limite das taxas especiais aplicáveis e, nos casos de englobamento, até à concorrência da parte da coleta proporcional a esses rendimentos líquidos, considerados nos termos do n.º 6 do artigo 22.º, que corresponde à menor das seguintes importâncias:
+
+a) Imposto sobre o rendimento pago no estrangeiro;
+
+b) Fração da coleta do IRS, calculada antes da dedução, correspondente aos rendimentos que no país em causa possam ser tributados, líquidos das deduções específicas previstas neste Código.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - (Revogado.)
+
+7 - Os rendimentos isentos nos termos dos n.os 4 e 5 são obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, com exceção dos previstos nas alíneas c) a e) do n.º 1, nos n.os 2 a 5 e no n.º 10 do artigo 72.º
+
+8 - Os titulares dos rendimentos isentos nos termos dos n.os 4 e 5 podem optar pela aplicação do método do crédito de imposto referido no n.º 1, sendo neste caso os rendimentos obrigatoriamente englobados para efeitos da sua tributação, com exceção dos previstos nas alíneas c) a e) do n.º 1, nos n.os 2 a 5, 7 e 10 do artigo 72.º
+
+9 - ...
+
+10 - Os titulares dos rendimentos obtidos no estrangeiro relativamente aos quais, por força de convenção para eliminar a dupla tributação celebrada por Portugal, seja aplicado o método do crédito de imposto no Estado da fonte não beneficiam do direito a crédito de imposto por dupla tributação jurídica internacional previsto nos n.os 1 e 8.
+
+Artigo 99.º-F
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - As entidades que procedam à retenção na fonte dos rendimentos previstos no artigo 2.º-B devem aplicar a taxa de retenção que resultar do despacho previsto no n.º 1 para a totalidade dos rendimentos, incluindo os isentos, apenas à parte dos rendimentos que não esteja isenta, consoante se trate do primeiro, do segundo ou do terceiro ano de rendimentos após a conclusão de um ciclo de estudos.
+
+5 - Para efeitos do disposto no número anterior, é aplicável o n.º 2 do artigo 99.º, com as necessárias adaptações, devendo os sujeitos passivos invocar, junto das entidades devedoras, a possibilidade de beneficiar do regime previsto no artigo 2.º-B, através da comprovação da conclusão de um ciclo de estudos.
+
+Artigo 101.º
+
+[...]
+
+1 - ...
+
+2 - ...:
+
+a) ...
+
+b) ...
+
+c) Às entidades gestoras de plataformas de financiamento colaborativo que paguem ou coloquem à disposição rendimentos referidos no n.º 1 do artigo 71.º e que tenham em território português a sua sede ou direção efetiva ou estabelecimento estável a que deva imputar-se o pagamento.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - ...
+
+13 - ...
+
+Artigo 102.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - Os titulares de rendimentos, cujas entidades devedoras dos rendimentos não se encontrem abrangidas pela obrigação de retenção na fonte prevista neste código, podem, querendo, efetuar pagamentos por conta do imposto devido a final, desde que o montante de cada entrega seja igual ou superior a 50 (euro).
+
+Artigo 115.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...:
+
+a) A passar recibo de quitação, em modelo oficial, de todas as importâncias recebidas dos seus inquilinos, pelo pagamento das rendas referidas nas alíneas a) a e) e h) do n.º 2 do artigo 8.º, ainda que a título de caução, adiantamento ou reembolso de despesas; ou
+
+b)...»
