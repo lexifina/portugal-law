@@ -2,6 +2,6 @@
 
 ### Dispensa da fiscalização prévia
 
-1 - As leis do orçamento fixam, para vigorar em cada ano orçamental, o valor, com exclusão do montante do imposto sobre o valor acrescentado que for devido, abaixo do qual os contratos referidos nas alíneas b) e c) do n.º 1 do artigo 46.º ficam dispensados de fiscalização prévia.
+1 - Ficam dispensados de fiscalização prévia os contratos referidos nas alíneas b) e c) do n.º 1 do artigo 46.º de valor inferior a 750 000 (euro), com exclusão do montante do imposto sobre o valor acrescentado que for devido.
 
-2 - Para efeitos da dispensa prevista no número anterior, considera-se o valor global dos actos e contratos que estejam ou aparentem estar relacionados entre si.
+2 - O limite referido no número anterior, quanto ao valor global dos atos e contratos que estejam ou aparentem estar relacionados entre si, é de 950 000 (euro).
