@@ -1,0 +1,5 @@
+Aviso n.º 11352/2020
+Sumário: Consulta pública do Regulamento de Pós-Doutoramento na UAlg.
+Por despacho do Reitor da Universidade do Algarve, torna-se público que, nos termos conjugados dos artigos 97.º a 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º da Lei n.º 62/2007 de 10 de setembro, que aprova o Regime Jurídico das Instituições de Ensino Superior (RJIES), em conformidade com o disposto na alínea l) do n.º 3 do artigo 38.º dos Estatutos da Universidade do Algarve, submete-se a consulta pública a proposta de Regulamento de Pós-Doutoramentos da Universidade do Algarve, com vista à recolha de contributos e sugestões, procedendo-se, para o efeito, à publicação do aviso na 2.ª série do Diário da República e à divulgação no sítio da Internet https://www.ualg.pt/content/documentos-ualg, devendo os interessados apresentar as sugestões ou comentários por escrito, no prazo de 30 dias a contar da data da publicação do aviso no Diário da República, para o Reitor da Universidade do Algarve, utilizando o endereço eletrónico reitor@ualg.pt.
+3 de julho de 2020. - O Reitor, Paulo Águas.
+313377291
