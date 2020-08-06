@@ -1,0 +1,9 @@
+Aviso (extrato) n.º 11435/2020
+Sumário: Projeto de regulamento para atribuição de bolsas de estudo para o ensino superior.
+Projeto de Regulamento para Atribuição de Bolsas de Estudo para o Ensino Superior
+Henrique Bertino Batista Antunes, Presidente da Câmara Municipal de Peniche, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º do Anexo I, da Lei n.º 75/2013, de 12 de setembro, torna público que por deliberação da Câmara Municipal de Peniche n.º 557/2020, tomada em reunião ordinária de 1 de junho, foi aprovado o Projeto de Regulamento para Atribuição de Bolsas de Estudo para o Ensino Superior.
+Assim, em cumprimento da mesma deliberação e nos termos do artigo 101.º do Código do Procedimento Administrativo, submete-se o referido projeto de regulamento a consulta pública, por um prazo de 30 dias úteis, a contar da data de publicação do presente aviso no Diário da República, podendo o mesmo ser consultado na internet, na página do Município de Peniche.
+De acordo com o n.º 2 do artigo 101.º do CPA, convidam-se todos os interessados a remeter por escrito, a esta Câmara Municipal, as suas sugestões, dentro do período atrás mencionado, dirigidas ao Presidente da Câmara Municipal e remetidas por correio postal para o Largo do Município, 2520-239 Peniche, ou por correio eletrónico para cmpeniche@cm-peniche.pt, ou entregues na Secção de Taxas e Licenças e Apoio aos Órgãos Municipais, nos dias úteis, entre as 9:00 e as 13:00 horas e entre as 14:00 e as 16:00 horas, sito no Largo do Município.
+O texto integral do referido documento poderá ser consultado na página eletrónica do Município de Peniche, em www.cm-peniche.pt, nas Juntas de Freguesia, bem como na Secção de Taxas e Licenças e Apoio aos Órgãos Municipais.
+22 de junho de 2020. - O Presidente da Câmara, Henrique Bertino Batista Antunes.
+313371572
