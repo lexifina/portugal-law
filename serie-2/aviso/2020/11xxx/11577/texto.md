@@ -1,0 +1,8 @@
+Aviso n.º 11577/2020
+Sumário: Consulta pública do Regulamento de Tarifas da APL - Administração do Porto de Lisboa, S. A., para o ano de 2021.
+Abertura do período de consulta pública do projeto de revisão do Regulamento de Tarifas da APL - Administração do Porto de Lisboa, S. A., para 2021
+Lídia Sequeira, Presidente do Conselho de Administração da APL - Administração do Porto de Lisboa, S. A. torna público, nos termos do disposto na alínea c) do artigo 10.º dos Estatutos da APL - Administração do Porto de Lisboa, S. A., publicados em anexo ao Decreto-Lei n.º 336/98, de 3 de novembro, que o referido Conselho de Administração, na sua sessão de 30-07-2020, deliberou submeter a consulta pública, nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, o projeto de revisão do "Regulamento de Tarifas da APL, Administração do Porto de Lisboa, S. A.", para 2021.
+Mais torna público que aquele projeto de Regulamento se encontra em consulta pública pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República, podendo o mesmo ser consultado na íntegra na APL - Administração do Porto de Lisboa, S. A., durante o horário de expediente, ou na página eletrónica do Porto de Lisboa, em www.portodelisboa.pt.
+As eventuais reclamações, observações ou sugestões deverão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido à Presidente do Conselho de Administração da APL - Administração do Porto de Lisboa, S. A., Gare Marítima de Alcântara, 1350-355 Lisboa ou para o endereço eletrónico tpl@portodelisboa.pt.
+31 de julho de 2020. - A Presidente do Conselho de Administração, Lídia Sequeira.
+313457108
