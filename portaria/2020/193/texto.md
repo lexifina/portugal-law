@@ -1,0 +1,48 @@
+Portaria n.º 193/2020
+de 10 de agosto
+Sumário: Estabelece medidas excecionais e temporárias de resposta à pandemia causada pela doença COVID-19 no âmbito dos apoios financeiros atribuídos às associações de jovens no ano de 2020.
+A Organização Mundial de Saúde qualificou, no passado dia 11 de março de 2020, a emergência de saúde pública em virtude do vírus SARS-CoV-2, responsável pela doença COVID-19, como uma pandemia internacional, com impactos nas mais diversas dimensões da vida em sociedade.
+Através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, foi declarado o estado de emergência, com fundamento na verificação de uma situação de calamidade pública, abrangendo todo o território nacional, o qual foi renovado pelo Decreto do Presidente da República n.º 17-A/2020, de 2 de abril, e subsequentemente pelo Decreto do Presidente da República n.º 20-A/2020, de 17 de abril.
+A declaração do estado de emergência por força da situação de pandemia verificada compreendeu um conjunto significativo de restrições a vários setores da sociedade, às quais o movimento associativo jovem não foi alheio. Estas materializam-se em constrangimentos no desenvolvimento dos planos de atividades das associações de jovens, tendo impacto na sustentabilidade e viabilidade da sua ação.
+Assim, reconhecendo a importância do movimento associativo jovem para o desenvolvimento e capacitação das pessoas jovens, bem como para o reforço da coesão social, e, sublinhando a intervenção de primeira linha ao nível local que muitas associações de jovens têm desempenhado, nomeadamente no apoio a segmentos da população mais desfavorecidos ou em situação de maior vulnerabilidade, importa estabelecer um regime excecional e temporário que permita minimizar alguns dos efeitos negativos para estas entidades resultantes da situação de pandemia.
+Pelo que, em cumprimento do disposto nos artigos 40.º, n.º 1, e 42.º, n.º 1, da Lei n.º 23/2006, de 23 de junho, na sua redação atual, e ao abrigo do artigo 4.º, n.º 4, alínea a), do Decreto-Lei n.º 98/2011, de 21 de setembro, na sua redação atual, manda o Governo, pelo Secretário de Estado da Juventude e do Desporto, no uso das competências que lhe foram delegadas, com faculdade de subdelegação, pelo Ministro da Educação, nos termos da alínea a) do n.º 1 do Despacho n.º 561/2020, de 3 de janeiro, publicado no Diário da República, 2.ª série, n.º 11, de 16 de janeiro de 2020, o seguinte:
+CAPÍTULO I
+Disposição geral
+Artigo 1.º
+Objeto
+A presente portaria estabelece medidas excecionais e temporárias de resposta à pandemia causada pela doença COVID-19 no âmbito dos apoios financeiros atribuídos às associações de jovens no ano de 2020 quanto:
+a) Aos programas de apoio financeiro ao associativismo jovem, criados pela Portaria n.º 1230/2006, de 15 de novembro;
+b) Ao Programa Formar+, criado pela Portaria n.º 382/2017, de 20 de dezembro.
+CAPÍTULO II
+Programas de apoio financeiro ao associativismo jovem, criados pela Portaria n.º 1230/2006, de 15 de novembro
+Artigo 2.º
+Reorçamentação
+No ano de 2020, para efeitos do disposto na alínea a) do artigo 11.º e na alínea a) do artigo 32.º do Regulamento dos Programas de Apoio Financeiro ao Associativismo Jovem, aprovado pela Portaria n.º 1230/2006, de 15 de novembro, sempre que uma associação desista de qualquer atividade financiada no âmbito do Programa de Apoio Juvenil (PAJ) e do Programa de Apoio Estudantil (PAE), após comunicação do apoio concedido, perde automaticamente o apoio correspondente ao valor para aquela calculado, salvo quanto às despesas devidamente comprovadas relacionadas com a preparação das atividades, previstas e canceladas, entre a data de início da declaração do estado de emergência e até 120 dias úteis após o seu termo.
+Artigo 3.º
+Limites ao apoio financeiro
+Para efeitos do disposto nos artigos 12.º e 33.º do Regulamento dos Programas de Apoio Financeiro ao Associativismo Jovem, aprovado pela Portaria n.º 1230/2006, de 15 de novembro, aplicam-se, no ano de 2020, as seguintes disposições:
+a) Nas modalidades de apoio financeiro pontual e anual do PAJ e do PAE são elegíveis as despesas de estrutura até 40 %, nos termos previstos nos n.os 6 e 7 do artigo 40.º da Lei n.º 23/2006, de 23 de junho, na sua redação atual;
+b) As associações que se candidataram e beneficiem de apoio anual do PAJ podem candidatar-se a um apoio pontual até ao limite de (euro) 3000;
+c) As associações ou federações que apenas se candidatam a apoio pontual do PAJ podem beneficiar de três candidaturas até ao limite de (euro) 3000 por candidatura;
+d) As associações que se candidataram e beneficiem de apoio anual do PAE podem apresentar uma candidatura na modalidade de apoio pontual até ao limite de (euro) 3000;
+e) As associações beneficiárias de apoio no âmbito do PAJ ou do PAE devem garantir um limite mínimo de autofinanciamento em 15 % do valor do projeto.
+Artigo 4.º
+Substituição extraordinária de atividades
+1 - Para efeitos do disposto na alínea a) do artigo 15.º e na alínea a) do artigo 37.º do Regulamento dos Programas de Apoio Financeiro ao Associativismo Jovem, aprovado pela Portaria n.º 1230/2006, de 15 de novembro, as associações de jovens que se candidataram aos apoios do PAJ ou do PAE para o ano de 2020 podem, extraordinariamente e no decurso deste ano, substituir as atividades aprovadas e não realizadas por outras de natureza similar, até ao limite do financiamento fixado no protocolo celebrado com a associação.
+2 - O disposto no número anterior abrange as atividades aprovadas e não realizadas desde o dia 18 de março de 2020.
+CAPÍTULO III
+Programa Formar+, criado pela Portaria n.º 382/2017, de 20 de dezembro
+Artigo 5.º
+Ações de formação
+1 - Para efeitos do disposto no artigo 21.º do Regulamento do Programa Formar+, aprovado pela Portaria n.º 382/2017, de 20 de dezembro, as ações de formação presenciais já aprovadas e não realizadas podem, no ano de 2020, ser substituídas por ações de formação não presenciais, sendo consideradas elegíveis as despesas resultantes da realização destas ações, desde que devidamente comprovadas.
+2 - O disposto no número anterior abrange as ações de formação presenciais já aprovadas e não realizadas desde o dia 18 de março de 2020.
+Artigo 6.º
+Avaliação
+No ano de 2020, as associações e federações de associações de jovens objeto de apoio podem apresentar o relatório de execução do plano de formação previsto no artigo 22.º do Regulamento do Programa Formar+, aprovado pela Portaria n.º 382/2017, de 20 de dezembro, até ao dia 2 de dezembro, devendo a última ação de formação realizada concluir-se até ao dia 30 de novembro.
+CAPÍTULO IV
+Disposição final
+Artigo 7.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado da Juventude e do Desporto, João Paulo de Loureiro Rebelo, em 5 de agosto de 2020.
+113471704
