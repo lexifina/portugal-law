@@ -2,7 +2,7 @@
 
 ### Atribuições
 
-São atribuições do IDR, IP-RAM:
+São atribuições do IDR:
 
 a) Analisar a evolução económico-social mundial, em geral, e comunitária e nacional, em particular, e acompanhar os estudos de prospectiva realizados no âmbito respectivo;
 
@@ -22,7 +22,7 @@ h) Preparar o enquadramento dos planos e programas sectoriais de desenvolvimento
 
 i) Estabelecer a necessária ligação aos organismos de planeamento do desenvolvimento regional e cooperar com outras entidades no domínio das suas actividades;
 
-j) Assegurar a representação da Região nos órgãos de planeamento de âmbito nacional;
+j) Assegurar a colaboração com a representação da Região nos órgãos de planeamento de âmbito nacional;
 
 k) Assegurar uma correcta articulação na aplicação dos fundos comunitários na RAM;
 

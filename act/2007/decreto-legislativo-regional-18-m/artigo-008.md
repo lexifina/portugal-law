@@ -1,11 +1,3 @@
-## Capítulo III
-
-## Órgãos, competências e funcionamento
-
-## Secção I
-
-## De direcção
-
 # Artigo 8.º
 
 ### Composição, designação e competências
