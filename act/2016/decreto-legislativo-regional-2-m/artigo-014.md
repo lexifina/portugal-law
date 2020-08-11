@@ -2,4 +2,4 @@
 
 ### Financiamento
 
-Os meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento da Região e incluídos na verba afeta à Assembleia Legislativa da Região Autónoma da Madeira, a qual assegura a respetiva transferência ao Conselho.
+Os meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento da Região e assegurados através da verba afeta à Assembleia Legislativa da Região Autónoma da Madeira.
