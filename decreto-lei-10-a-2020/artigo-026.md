@@ -4,11 +4,11 @@
 
 # Artigo 26.º
 
-### Apoio extraordinário à redução da atividade económica de trabalhador independente
+### Apoio extraordinário à redução da atividade económica de trabalhador
 
-1 - O apoio extraordinário à redução da atividade económica reveste a forma de um apoio financeiro aos trabalhadores abrangidos exclusivamente pelo regime dos trabalhadores independentes e que não sejam pensionistas, sujeitos ao cumprimento da obrigação contributiva em pelo menos 3 meses seguidos ou seis meses interpolados há pelo menos 12 meses:
+1 - O apoio extraordinário à redução da atividade económica reveste a forma de um apoio financeiro aos trabalhadores abrangidos exclusivamente pelo regime dos trabalhadores independentes, ou que estejam também abrangidos pelo regime de trabalhadores por conta de outrem e não aufiram, neste regime, mais do que o valor do IAS, e que não sejam pensionistas, sujeitos ao cumprimento da obrigação contributiva em pelo menos três meses seguidos ou seis meses interpolados há pelo menos 12 meses:
 
-a) Em situação comprovada de paragem total da sua atividade ou da atividade do respetivo setor, em consequência da pandemia da doença COVID-19; ou
+a) Em situação comprovada de paragem total da sua atividade como trabalhador independente, ou da atividade do respetivo setor, em consequência da pandemia da doença COVID-19; ou
 
 b) Mediante declaração do próprio conjuntamente com certidão de contabilista certificado que o ateste, em situação de quebra abrupta e acentuada de, pelo menos, 40 % da faturação no período de trinta dias anterior ao do pedido junto dos serviços competentes da segurança social, com referência à média mensal dos dois meses anteriores a esse período, ou face ao período homólogo do ano anterior ou, ainda, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período.
 

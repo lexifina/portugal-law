@@ -14,7 +14,7 @@
 
 6 - (Revogado).
 
-7 - (Revogado).
+7 - Estão isentas de licenciamento nos termos do Decreto-Lei n.º 178/2006, de 5 de setembro, durante o período em que se verificar a situação de calamidade, as operações de aumento da capacidade de armazenamento dos operadores de gestão de resíduos urbanos e hospitalares.
 
 8 - (Revogado).
 

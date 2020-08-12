@@ -2,7 +2,7 @@
 
 ### Medida extraordinária de incentivo à atividade profissional
 
-1 - A medida extraordinária de incentivo à atividade profissional reveste a forma de apoio financeiro aos trabalhadores que em março de 2020 se encontravam exclusivamente abrangidos pelo regime dos trabalhadores independentes, estando numa das condições previstas nas alíneas a) ou b) do n.º 1 do artigo 26.º, e que:
+1 - A medida extraordinária de incentivo à atividade profissional reveste a forma de apoio financeiro aos trabalhadores que em março de 2020 se encontravam exclusivamente abrangidos pelo regime dos trabalhadores independentes, ou que estejam também abrangidos pelo regime de trabalhadores por conta de outrem e não aufiram, neste regime, mais do que o valor do IAS, estando numa das condições previstas nas alíneas a) ou b) do n.º 1 do artigo 26.º, e que:
 
 a) Tenham iniciado atividade há mais de 12 meses e não preencham as condições referidas no corpo do n.º 1 do artigo 26.º; ou
 
