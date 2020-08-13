@@ -1,0 +1,13 @@
+Aviso n.º 11828/2020
+Sumário: Prorrogação do prazo de elaboração do plano de pormenor de espaço de atividades económicas do operador de gestão de resíduos FVSA - Futuro Verde, Soluções Ambientais, Lda.
+Rute Miriam Soares dos Santos, vice-presidente da Câmara Municipal de Arruda dos Vinhos, torna público, que em reunião de quinze de junho de 2020, a Câmara Municipal deliberou, por unanimidade, nos termos do disposto no n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, a prorrogação do prazo para a elaboração de plano de pormenor de espaço para atividades económicas de operador de gestão de resíduos, FVSA - Futuro Verde Soluções Ambientais, Lda., publicado na segunda série do Diário da República de 18 de julho através do aviso n.º 9637/2018, por mais dois anos.
+18 de junho de 2020. - A Vice-Presidente da Câmara Municipal, Rute Miriam Soares dos Santos.
+Deliberação
+Em reunião de câmara de quinze de junho de 2020, foi deliberado, por unanimidade, aprovar, a proposta da senhora vice-presidente da câmara, que a seguir se transcreve:
+«Considerando que:
+A empresa FVSA - Futuro Verde Soluções Ambientais, Lda. apresentou um pedido de prorrogação de prazo para a elaboração de plano de pormenor de espaço de atividades económicas. O procedimento de elaboração do plano de pormenor, foi deliberado em reunião de câmara de 11 de junho de 2018, tendo sido estabelecido um prazo de dois anos para a sua execução. A deliberação de câmara foi publicada no Diário da República de 18 de julho através do aviso n.º 9637/2018. O prazo previsto para o efeito irá caducar sem o plano de pormenor ter sido concluído. A proposta de plano apresentada pelos interessados foi submetida a parecer da CCDRLVT, tendo esta entidade enviado o mesmo no dia 23 de abril de 2020, via portal PCGT, verificando-se que é necessário proceder a várias alterações no mesmo.
+No requerimento apresentado pela empresa foi estabelecida uma calendarização para os trabalhos a realizar, estando prevista a apresentação de uma nova proposta no prazo de seis meses. Nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio este prazo pode ser prorrogado por uma única vez e por período máximo igual ao previamente estabelecido.
+Proponho que:
+A câmara municipal delibere, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, prorrogar o prazo de elaboração do plano de pormenor de espaço para atividades económicas - operador de gestão de resíduos, FVSA - Futuro Verde Soluções Ambientais, Lda., por mais 2 anos.»
+Paços do Concelho de Arruda dos Vinhos, 18 de junho de 2020. - A Vice-Presidente da Câmara Municipal , Rute Miriam Soares dos Santos.
+613383269
