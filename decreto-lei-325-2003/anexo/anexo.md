@@ -32,7 +32,7 @@ Castelo Branco:
 
 Sede: Castelo Branco.
 
-Municípios de Aguiar da Beira, Almeida, Alter do Chão, Arronches, Avis, Belmonte, Campo Maior, Castelo Branco, Celorico da Beira, Castelo de Vide, Covilhã, Crato, Elvas, Figueira de Castelo Rodrigo, Fornos de Algodres, Fronteira, Fundão, Gavião, Gouveia, Guarda, Idanha-a-Nova, Manteigas, Marvão, Meda, Monforte, Nisa, Oleiros, Penamacor, Pinhel, Ponte de Sor, Portalegre, Proença-a-Nova, Sabugal, Seia, Sertã, Sousel, Trancoso, Vila de Rei, Vila Nova de Foz Côa e Vila Velha de Ródão.
+Municípios de Alter do Chão, Arronches, Avis, Belmonte, Campo Maior, Castelo Branco, Castelo de Vide, Covilhã, Crato, Elvas, Fronteira, Fundão, Gavião, Idanha-a-Nova, Manteigas, Marvão, Monforte, Nisa, Oleiros, Penamacor, Ponte de Sor, Portalegre, Proença-a-Nova, Sabugal, Sertã, Sousel, Vila de Rei e Vila Velha de Ródão.
 
 Coimbra:
 
@@ -104,7 +104,7 @@ Viseu (ver nota 2):
 
 Sede: Viseu.
 
-Municípios de Armamar, Carregal do Sal, Castro Daire, Cinfães, Lamego, Mangualde, Moimenta da Beira, Mortágua, Nelas, Oliveira de Frades, Penalva do Castelo, Penedono, Resende, Santa Comba Dão, São João da Pesqueira, São Pedro do Sul, Sátão, Sernancelhe, Tabuaço, Tarouca, Tondela, Vila Nova de Paiva, Viseu e Vouzela.
+Municípios de Aguiar da Beira, Almeida, Armamar, Carregal do Sal, Castro Daire, Celorico da Beira, Cinfães, Figueira de Castelo Rodrigo, Fornos de Algodres, Gouveia, Guarda, Lamego, Mangualde, Meda, Moimenta da Beira, Mortágua, Nelas, Oliveira de Frades, Penalva do Castelo, Penedono, Pinhel, Resende, Santa Comba Dão, São João da Pesqueira, São Pedro do Sul, Sátão, Seia, Sernancelhe, Tabuaço, Tarouca, Tondela, Trancoso, Vila Nova de Foz Côa, Vila Nova de Paiva, Viseu e Vouzela.
 
 (nota 1) Após instalação do Tribunal Administrativo e Fiscal de Aveiro.
 
