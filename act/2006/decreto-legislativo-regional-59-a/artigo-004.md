@@ -18,7 +18,7 @@ d) «Pessoa com deficiência» aquela que, por motivo de perda ou anomalia, cong
 
 e) «Rendimento mensal bruto (Rmb)» o quantitativo que resulte da divisão por 12 dos rendimentos auferidos, sem dedução de quaisquer encargos, por todos os elementos do agregado familiar durante o ano civil anterior ao da candidatura;
 
-f) «Índice 100 do regime geral da função pública (I100)» o valor previsto nos n.os 2 e 3 do artigo 4.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, anualmente actualizado por portaria do Ministro das Finanças;
+f) 'Indexante dos apoios sociais' (IAS), o valor base de referência ao cálculo e atualização das contribuições, pensões e demais prestações sociais atribuídas pela segurança social, nos termos previstos na Lei n.º 53-B/2006, de 29 de dezembro;
 
 g) «Rendimentos» as remunerações provenientes de trabalho subordinado e independente, incluindo ordenados, salários e outras remunerações do trabalho, tais como diuturnidades, horas extraordinárias e subsídios; os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos e urbanos; as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras, rendimento social de inserção, subsídio de desemprego e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória, incluindo os subsídios auferidos em razão dessas actividades, com excepção do subsídio familiar;
 

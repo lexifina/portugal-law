@@ -10,7 +10,7 @@ b) Não ser o interessado, ou qualquer outro elemento do seu agregado familiar, 
 
 c) Não ser o interessado, ou qualquer outro elemento do seu agregado familiar, proprietário de prédios rústicos, salvo se o somatório das respectivas áreas não ultrapassar um valor a fixar e não sejam passíveis de operações de loteamento e obras de urbanização;
 
-d) Não ser o rendimento mensal bruto do agregado superior ao limite máximo resultante do produto dos coeficientes indicados no anexo III, tendo como aferidor o índice 100 do regime geral da função pública do ano a que aquele se reporta, pelo número de elementos do agregado familiar;
+d) Não ser o rendimento mensal bruto do agregado superior ao limite máximo resultante do produto dos coeficientes indicados no anexo iii, tendo como aferidor o indexante de apoios sociais (IAS) do ano a que aquele se reporta, pelo número de elementos do agregado familiar;
 
 e) Possuir capacidade financeira para fazer face ao custo de aquisição, deduzido do valor do apoio a conceder.
 

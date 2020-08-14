@@ -10,9 +10,9 @@ a) Pela aplicação da percentagem de comparticipação por metro quadrado, tend
 
 b) Pelo acréscimo de 10% do valor da comparticipação de base, no caso de beneficiários jovens.
 
-3 - Para os efeitos previstos na alínea b) do número anterior, são considerados «beneficiários jovens» aqueles que possuam idade inferior a 30 anos ou aqueles, sendo casados ou vivendo em situação análoga, cuja soma das idades não perfaça 60 anos à data da apresentação da candidatura.
+3 - Para os efeitos previstos na alínea b) do número anterior, são considerados 'beneficiários jovens' aqueles que possuam idade inferior a 35 anos ou aqueles, sendo casados ou vivendo em situação análoga, cuja soma das idades não perfaça 70 anos à data da apresentação da candidatura.
 
-4 - Quando acumulável com os apoios previstos nas alíneas a) e d) do n.º 1 do artigo 2.º do Decreto Legislativo Regional n.º 21/2005/A, de 3 de Agosto, o valor da comparticipação financeira, apurada nos termos dos números anteriores, é reduzido a 50%.
+4 - Quando acumulável com os apoios previstos nas alíneas a) e d) do n.º 1 do artigo 2.º do Decreto Legislativo Regional n.º 21/2005/A, de 3 de agosto, o valor da comparticipação financeira, apurada nos termos dos números anteriores, é reduzido em percentagem a fixar por portaria dos membros do Governo Regional com competência em matéria de finanças e habitação.
 
 5 - O valor da comparticipação financeira à construção, ampliação e alteração de habitação em caso algum poderá exceder o valor orçamentado para a execução da obra.
 

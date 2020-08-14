@@ -4,13 +4,13 @@
 
 1 - O acesso à comparticipação financeira para a construção, ampliação e alteração de habitação, depende da verificação cumulativa das seguintes condições, a aferir pelo departamento do Governo Regional competente em matéria de habitação:
 
-a) Não estar a ser o interessado, ou qualquer outro elemento do seu agregado familiar, beneficiado por este ou por qualquer outro apoio à habitação atribuído por organismos da Administração Pública, sem prejuízo do disposto no n.º 3 do artigo 9.º;
+a) Não estar a ser o interessado, ou qualquer outro elemento do seu agregado familiar, beneficiado por este ou por qualquer outro apoio de promoção à aquisição ou reabilitação de habitação própria atribuído por organismos da Administração Pública, sem prejuízo do disposto no n.º 3 do artigo 9.º;
 
 b) Não ser o interessado, ou qualquer outro elemento do seu agregado familiar, proprietário de outros prédios urbanos para além do que é objecto da candidatura, excepto se esses prédios se encontrarem exclusivamente afectos à actividade profissional daqueles;
 
 c) Não ser o interessado, ou qualquer outro elemento do seu agregado familiar, proprietário de prédios rústicos, salvo se o somatório das respectivas áreas não ultrapassar um valor a fixar e não sejam passíveis de operações de loteamento e obras de urbanização;
 
-d) Não ser o rendimento mensal bruto do agregado superior ao limite máximo resultante do produto dos coeficientes indicados no anexo III, tendo como aferidor o índice 100 do regime geral da função pública do ano a que aquele se reporta, pelo número de elementos do agregado familiar;
+d) Não ser o rendimento mensal bruto do agregado superior ao limite máximo resultante do produto dos coeficientes indicados no anexo iii, tendo como aferidor o indexante de apoios sociais (IAS) do ano a que aquele se reporta, pelo número de elementos do agregado familiar;
 
 e) Possuir capacidade financeira para fazer face ao custo de execução da obra, deduzido do valor do apoio a conceder;
 
