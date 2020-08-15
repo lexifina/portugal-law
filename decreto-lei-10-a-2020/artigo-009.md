@@ -8,7 +8,7 @@
 
 1 - [Revogado.]
 
-2 - Ficam suspensas as atividades de apoio social desenvolvidas em Centro de Dia.
+2 - Ficam suspensas as atividades de apoio social desenvolvidas em centro de dia com funcionamento acoplado a outras respostas sociais, sem prejuízo da possibilidade de reinício das referidas atividades mediante avaliação das condições de reabertura, a realizar pela instituição, pelo Instituto da Segurança Social, I. P., e pela autoridade de saúde local.
 
 3 - [Revogado.]
 
