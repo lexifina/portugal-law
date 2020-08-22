@@ -2,11 +2,11 @@
 
 ### (Modo como vota cada eleitor)
 
-1 - Cada eleitor, apresentando-se perante a mesa, indica o seu número de inscrição no recenseamento e o seu nome, entregando ao presidente o bilhete de identidade, se o tiver.
+1 - Cada eleitor, apresentando-se perante a mesa, indica o seu nome, entregando ao presidente o seu documento de identificação civil, se o tiver.
 
-2 - Na falta de bilhete de identidade, a identificação do eleitor faz-se por meio de qualquer outro documento que contenha fotografia actualizada e que seja geralmente utilizado para identificação, ou através de dois cidadãos eleitores que atestem, sob compromisso de honra, a sua identidade, ou ainda por reconhecimento unânime dos membros da mesa.
+2 - Na falta de documento de identificação civil, a identificação do eleitor faz-se por meio de qualquer outro documento que contenha fotografia atualizada e que seja geralmente utilizado para identificação, ou através de dois cidadãos eleitores que atestem, sob compromisso de honra, a sua identidade, ou ainda por reconhecimento unânime dos membros da mesa.
 
-3 - Reconhecido o eleitor, o presidente diz em voz alta o seu número de inscrição no recenseamento e o seu nome e, depois de verificada a inscrição, entrega-lhe um boletim de voto.
+3 - Identificado o eleitor, o presidente diz em voz alta o seu nome e número de identificação civil e, depois de verificada a inscrição, entrega-lhe um boletim de voto.
 
 4 - Em seguida, o eleitor entra na câmara de voto situada na assembleia e aí, sozinho, marca uma cruz no quadrado respectivo da lista em que vota e dobra o boletim em quatro.
 

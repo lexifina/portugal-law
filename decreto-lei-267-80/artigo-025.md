@@ -4,7 +4,7 @@
 
 1 - A apresentação consiste na entrega da lista contendo os nomes e demais elementos de identificação dos candidatos e do mandatário da lista, bem como da declaração de candidatura, e ainda, no caso de lista apresentada por coligação, a indicação do partido que propõe cada um dos candidatos.
 
-2 - Para efeito do disposto no n.º 1, entendem-se por elementos de identificação os seguintes: idade, filiação, profissão, naturalidade e residência, bem como número, arquivo de identificação e data do bilhete de identidade.
+2 - Para efeito do disposto no número anterior, entendem-se por elementos de identificação os seguintes: idade, filiação, profissão, naturalidade e residência, bem como número de identificação civil.
 
 3 - A declaração de candidatura é assinada conjunta ou separadamente pelos candidatos e dela deve constar que:
 

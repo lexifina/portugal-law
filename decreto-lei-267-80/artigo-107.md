@@ -6,7 +6,7 @@
 
 2 - Da acta devem constar:
 
-a) Os números de inscrição no recenseamento e os nomes dos membros da mesa e dos delegados das listas;
+a) Os números de identificação civil e os nomes dos membros da mesa e dos delegados das listas;
 
 b) A hora de abertura e encerramento da votação e o local da assembleia ou secção de voto;
 
@@ -14,7 +14,7 @@ c) As deliberações tomadas pela mesa durante as operações;
 
 d) O número total de eleitores inscritos e o de votantes;
 
-e) O número de inscrição no recenseamento dos eleitores que votaram antecipadamente;
+e) O número de identificação civil dos eleitores que votaram antecipadamente;
 
 f) O número de votos obtidos por cada lista, o de votos em branco e o de votos nulos;
 

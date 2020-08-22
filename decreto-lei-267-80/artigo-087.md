@@ -1,5 +1,5 @@
 # Artigo 87.º
 
-### (Extravio do cartão de eleitor)
+### Informação sobre o local de exercício de sufrágio
 
-No caso de extravio do cartão de eleitor, os eleitores têm o direito de obter informação sobre o seu número de inscrição no recenseamento na junta de freguesia, que para o efeito está aberta no dia das eleições.
+Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral.

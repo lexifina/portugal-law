@@ -4,19 +4,19 @@
 
 1 - Podem votar antecipadamente:
 
-a) Os militares que no dia da realização da eleição estejam impedidos de se deslocar à assembleia de voto, por imperativo inadiável de exercício das suas funções;
+a) (Revogada.)
 
-b) Os agentes de forças e serviços que exerçam funções de segurança interna nos termos da lei e se encontrem em situação análoga à prevista na alínea anterior;
+b) (Revogada.)
 
-c) Os trabalhadores marítimos e aeronáuticos que por força da sua actividade profissional se encontrem presumivelmente embarcados ou deslocados no dia da realização da eleição;
+c) (Revogada.)
 
-d) Os eleitores que por motivo de estudo ou formação profissional se encontrem matriculados ou inscritos em estabelecimento de ensino situado fora da ilha por onde se encontrem recenseados;
+d) (Revogada.)
 
 e) Os eleitores que por motivo de doença se encontrem internados ou presumivelmente internados em estabelecimento hospitalar e impossibilitados de se deslocar à assembleia de voto;
 
 f) Os eleitores que se encontrem presos e não privados de direitos políticos;
 
-g) Os membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva, e se encontrem deslocados no estrangeiro, em competições desportivas, no dia da realização da eleição.
+g) (Revogada).
 
 2 - Podem também votar antecipadamente os seguintes eleitores deslocados no estrangeiro:
 
