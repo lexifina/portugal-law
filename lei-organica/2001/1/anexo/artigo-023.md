@@ -8,15 +8,25 @@ a) Lista contendo a indicação da eleição em causa, a identificação do part
 
 b) Declaração de candidatura.
 
-2 - Para efeitos do disposto no n.º 1, entendem-se por 'elementos de identificação' os seguintes: denominação, sigla e símbolo do partido ou coligação, denominação, sigla e símbolo do grupo de cidadãos e o nome completo, idade, filiação, profissão, naturalidade e residência, bem como o número, a data e o arquivo de identificação do bilhete de identidade dos candidatos e dos mandatários.
+2 - Para efeitos do disposto no número anterior, entendem-se por elementos de identificação a denominação, sigla e símbolo do partido ou coligação, a denominação e sigla do grupo de cidadãos e o nome completo, idade, filiação, profissão, naturalidade, residência e número de identificação civil dos candidatos e dos mandatários.
 
 3 - A declaração de candidatura é assinada conjunta ou separadamente pelos candidatos, dela devendo constar, sob compromisso de honra, que não estão abrangidos por qualquer causa de inelegibilidade nem figuram em mais de uma lista de candidatos para o mesmo órgão, que aceitam a candidatura pelo partido, coligação ou grupo de cidadãos proponente da lista e que concordam com a designação do mandatário indicado na mesma.
 
 4 - A identificação do grupo de cidadãos eleitores deve cumprir os seguintes requisitos:
 
-a) A denominação não pode conter mais de seis palavras, nem basear-se exclusivamente em nome de pessoa singular ou integrar as denominações oficiais dos partidos políticos ou das coligações com existência legal, nem conter expressões diretamente relacionadas com qualquer religião, instituição nacional ou local;
+a) A denominação não pode conter mais de seis palavras, nem integrar as denominações oficiais dos partidos políticos ou das coligações de partidos com existência legal, expressões correntemente utilizadas para identificar ou denominar um partido político, nem conter expressões diretamente relacionadas com qualquer religião ou confissão religiosa, ou instituição nacional ou local;
 
-b) O símbolo não pode confundir-se ou ter relação gráfica ou fonética com símbolos institucionais, heráldica ou emblemas nacionais ou locais, com símbolos de partidos políticos ou coligações com existência legal ou de outros grupos de cidadãos eleitores, nem com imagens ou símbolos religiosos.
+b) A denominação dos grupos de cidadãos eleitores não pode basear-se exclusivamente em nome de pessoa singular;
+
+c) A denominação dos grupos de cidadãos eleitores apenas pode integrar um nome de pessoa singular se este for o do primeiro candidato ao respetivo órgão, salvo no caso dos grupos de cidadãos eleitores simultaneamente candidatos aos órgãos câmara municipal e assembleia municipal, conforme previsto no n.º 5 do artigo 19.º;
+
+d) O símbolo não pode confundir-se ou ter relação gráfica ou fonética com símbolos institucionais, heráldica ou emblemas nacionais ou locais, com símbolos de partidos políticos ou coligações com existência legal ou de outros grupos de cidadãos eleitores, nem com imagens ou símbolos religiosos;
+
+e) Os símbolos e as siglas de diferentes grupos de cidadãos eleitores candidatos na área geográfica do mesmo concelho devem ser distintos;
+
+f) É vedada a utilização das palavras «partido» e «coligação» na denominação dos grupos de cidadãos eleitores.e) Os símbolos e as siglas de diferentes grupos de cidadãos eleitores candidatos na área geográfica do mesmo concelho devem ser distintos;
+
+f) É vedada a utilização das palavras «partido» e «coligação» na denominação dos grupos de cidadãos eleitores.
 
 5 - Cada lista é instruída com os seguintes documentos:
 
@@ -30,7 +40,7 @@ c) Certidão de inscrição no recenseamento eleitoral de cada um dos candidatos
 
 7 - A prova da capacidade eleitoral activa pode ser feita globalmente, para cada lista de candidatos e de proponentes, na sequência de solicitação dirigida aos presidentes das comissões recenseadoras.
 
-8 - Na declaração de propositura por grupos de cidadãos eleitores, nos casos em que a presente lei o admitir, os proponentes são ordenados, à excepção do primeiro e sempre que possível, pelo número de inscrição no recenseamento.
+8 - Na declaração de propositura por grupos de cidadãos eleitores, nos casos em que a presente lei o admitir, os proponentes são ordenados, à exceção do primeiro e sempre que possível, por ordem alfabética.
 
 9 - As listas, para além dos candidatos efectivos, devem indicar os candidatos suplentes em número não inferior a um terço, arredondado por excesso.
 
