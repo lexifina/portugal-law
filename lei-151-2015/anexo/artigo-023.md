@@ -10,10 +10,10 @@
 
 4 - O plano de correção privilegia a adoção de medidas de redução da despesa pública, bem como a distribuição do ajustamento entre os subsetores das administrações públicas em obediência ao princípio da solidariedade recíproca.
 
-5 - O plano de correção referido no n.º 1 com as medidas necessárias ao cumprimento dos objetivos constantes do artigo 20.º consta do Programa de Estabilidade, o qual deve ser precedido de parecer não vinculativo do Conselho das Finanças Públicas.
+5 - O plano de correção referido no n.º 1, com as medidas necessárias ao cumprimento dos objetivos constantes do artigo 20.º, deve ser precedido de parecer não vinculativo do Conselho das Finanças Públicas.
 
-6 - Do Programa de Estabilidade constam:
+6 - Do plano de correção constam:
 
-a) As recomendações apresentadas pelo Conselho das Finanças Públicas;
+a) A avaliação do Conselho das Finanças Públicas;
 
-b) A avaliação das recomendações apresentadas pelo Conselho das Finanças Públicas e a justificação da sua eventual não consideração ou aceitação.
+b) A justificação para a eventual não consideração ou aceitação da avaliação do Conselho das Finanças Públicas.

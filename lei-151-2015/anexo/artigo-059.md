@@ -22,6 +22,10 @@ f) O aumento das despesas do orçamento da segurança social, com exceção das 
 
 g) Transferências de verbas do orçamento da segurança social entre diferentes grandes funções ou funções no respeito pela adequação seletiva das fontes de financiamento consagradas na Lei de Bases do Sistema de Segurança Social.
 
-2 - As demais alterações orçamentais são da competência do Governo, nos termos de decreto-lei próprio.
+2 - A proposta de revisão orçamental a que se refere o número anterior deve ser acompanhada de um relatório justificativo e dos elementos informativos previstos no artigo 37.º, com as devidas adaptações decorrentes da alteração concreta que é proposta e da sua dimensão orçamental.
 
-3 - As alterações orçamentais da competência do Governo são comunicadas à Assembleia da República nos termos do n.º 2 do artigo 75.º
+3 - As demais alterações orçamentais são da competência do Governo, nos termos de decreto-lei próprio.
+
+4 - As alterações orçamentais da competência do Governo são comunicadas à Assembleia da República nos termos do n.º 2 do artigo 75.º.
+
+5 - As revisões orçamentais previstas no n.º 1 têm a designação de 'Proposta de Lei de Revisão Orçamental'.

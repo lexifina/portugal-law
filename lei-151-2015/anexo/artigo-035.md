@@ -24,7 +24,9 @@ a) Redefinição pela Comissão Europeia do objetivo de médio prazo;
 
 b) Desvio significativo em relação ao objetivo de médio prazo, tendo em conta as medidas de correção adotadas ou a adotar nos termos do artigo 23.º;
 
-c) Verificação de uma das situações previstas no artigo 59.º
+c) Verificação de uma das situações previstas no artigo 60.º;
+
+d) Nas situações excecionais referidas no artigo 24.º
 
 7 - O disposto no n.º 3 não se aplica a revisões que decorram das alterações do financiamento da União Europeia, ou do aumento de receitas provenientes de Fundos Europeus concretizados.
 
