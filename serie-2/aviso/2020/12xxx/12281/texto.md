@@ -1,0 +1,8 @@
+Aviso n.º 12281/2020
+Sumário: Audiência pública ao projeto de Regulamento Municipal para a Instrução de Pedidos em Formato Digital.
+António José Martins Coutinho, Dr., Presidente da Câmara Municipal de Sever do Vouga, dando cumprimento ao estipulado na alínea b), do n.º 1, do artigo 35.º, do anexo I, à Lei n.º 75/2013, de 12 de setembro, torna público que foi aprovado na reunião da Câmara Municipal do dia 8 de julho deste ano, a última proposta do "Regulamento Municipal para a Instrução de Pedidos em Formato Digital", após inúmeras alterações à primeira proposta, submetida a audiência pública, pelo aviso n.º 4176, publicado no Diário da República, 2.ª série, n.º 49, de 10 de março deste ano.
+Assim, dando-se cumprimento ao artigo n.º 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, submete-se a proposta do Regulamento Municipal para a Instrução de Pedidos em Formato Digital, a consulta pública, para recolha de sugestões, procedendo-se à publicação do presente aviso no Diário da República, 2.ª série, na Internet, no sítio institucional deste Município, no átrio do Município e nos locais de estilo das juntas de freguesia, podendo o projeto de Regulamento ser consultado no Serviço Administrativo deste Município.
+Nos termos do n.º 2 do referido artigo, os interessados devem dirigir, por escrito, as suas sugestões ao Sr. Presidente da Câmara, no prazo de 30 dias, a contar da publicação deste aviso na 2.ª série do Diário da República.
+Para que conste e demais efeitos, lavrou-se o presente aviso e outros de igual teor que serão publicitados.
+14 de julho de 2020. - O Presidente da Câmara, António José Martins Coutinho, Dr.
+313398181
