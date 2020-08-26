@@ -9,3 +9,5 @@
 a) São ajustados para refletir o perfil de liquidez do instrumento financeiro em diferentes mercados e o diferencial médio entre vendedor e comprador, tendo em conta o interesse de dispor de preços relativamente estáveis sem limitar indevidamente a redução progressiva dos intervalos de preço;
 
 b) Adaptam a variação de preços de ofertas de cada instrumento financeiro de forma adequada.
+
+3 - As regras previstas no n.º 1 não impedem o encontro de ofertas de volume elevado no ponto médio dos preços correntes de compra e venda.

@@ -18,7 +18,7 @@ f) A admissão de instrumentos financeiros à negociação em mercado regulament
 
 g) A falta de divulgação do prospecto de admissão, das respectivas adenda e rectificações, ou de informações necessárias à sua actualização, ou a sua divulgação sem aprovação prévia pela entidade competente;
 
-h) A falta de divulgação da informação exigida pelos emitentes de valores mobiliários negociados em mercado regulamentado;
+h) A falta de divulgação e comunicação da informação exigida pelos emitentes de valores mobiliários negociados em mercado regulamentado;
 
 i) (Revogada);
 
@@ -40,7 +40,9 @@ f) De divulgação do documento de consolidação de informação anual;
 
 g) De divulgação de informação exigida no n.º 2 do artigo 134.º
 
-h) De manter informação à disposição do público por tempo determinado, quando exigido por lei.
+h) De manter informação à disposição do público por tempo determinado, quando exigido por lei;
+
+i) De divulgação e comunicação da informação exigida aos acionistas que sejam investidores institucionais.
 
 3 - Constitui contra-ordenação menos grave a falta de nomeação:
 

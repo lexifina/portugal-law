@@ -12,4 +12,6 @@ c) Contra-ordenação muito grave, quando se trate de violação do dever de seg
 
 d) Contraordenação grave, quando se trate da violação de deveres consagrados no regulamento europeu sobre o abuso de mercado e respetiva regulamentação e atos delegados;
 
-e) Contraordenação muito grave, quando se trate de violação de deveres relativos à elaboração, e utilização de índices de referência e fornecimento de dados de cálculo para os mesmos.
+e) Contraordenação muito grave, quando se trate de violação de deveres relativos à elaboração, e utilização de índices de referência e fornecimento de dados de cálculo para os mesmos;
+
+f) Contraordenação grave, quando se trate de violação do regime de conflitos de interesses por investidores institucionais.

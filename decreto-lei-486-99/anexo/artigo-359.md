@@ -6,19 +6,19 @@
 
 a) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral ou organizado, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários, de registo inicial ou de administração de sistema de registo centralizado e contrapartes centrais;
 
-b) Intermediários financeiros e consultores para investimento;
+b) Intermediários financeiros, sociedades gestoras de organismos de investimento coletivo e consultores para investimento;
 
 c) Emitentes de valores mobiliários;
 
-d) Investidores profissionais referidos nas alíneas a) a f) do n.º 1 do artigo 30.º e titulares de participações qualificadas;
+d) Investidores profissionais referidos nas alíneas a) a f) do n.º 1 do artigo 30.º, titulares de participações qualificadas e investidores institucionais;
 
 e) Fundos de garantia e sistemas de indemnização dos investidores e respectivas entidades gestoras;
 
 f) Auditores registados na CMVM;
 
-g) As entidades com objeto específico de titularização, cedentes, mutuantes iniciais, patrocinadores, gestores de créditos, entidades independentes e terceiros na titularização de créditos e outros ativos;
+g) As entidades com objeto específico de titularização, sociedades gestoras de fundos de titularização de créditos, cedentes, mutuantes iniciais, patrocinadores, gestores de créditos, entidades independentes e terceiros na titularização de créditos e outros ativos;
 
-h) Sociedades de capital de risco, sociedades de empreendedorismo social e sociedades de investimento alternativo especializado;
+h) [Revogada];
 
 i) (Revogada.)
 
@@ -36,7 +36,9 @@ o) Instituições de investimento coletivo sob forma societária;
 
 p) Sociedades de capital de risco, sociedades gestoras de fundos de capital de risco e sociedades de empreendedorismo social;
 
-q) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
+q) Consultores em matéria de votação;
+
+r) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
 
 2 - As pessoas ou entidades que exerçam atividades de caráter transnacional ficam sujeitas à supervisão da CMVM sempre que essas atividades tenham alguma conexão relevante com mercados regulamentados, sistemas de negociação multilateral ou organizado, operações ou instrumentos financeiros sujeitos à lei portuguesa.
 

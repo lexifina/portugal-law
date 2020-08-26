@@ -1,7 +1,3 @@
-## Secção III-A
-
-## Transparência dos intermediários financeiros que prestam o serviço de gestão de carteiras por conta de outrem, dos investidores institucionais e dos consultores em matéria de votaçã
-
 # Artigo 26.º-A
 
 ### Política de remuneração

@@ -2,7 +2,11 @@
 
 ### Sociedades abertas
 
-1 - Constitui contra-ordenação muito grave a omissão de comunicação ou divulgação de participação qualificada em sociedade aberta ou de participação detida por sociedade aberta em sociedade sediada em Estado ou jurisdição que não seja membro da União Europeia.
+1 - Constitui contraordenação muito grave:
+
+a) A omissão de comunicação ou de divulgação de participação qualificada em sociedade aberta ou de participação detida por sociedade aberta em sociedade sediada em Estado ou jurisdição que não seja membro da União Europeia;
+
+b) A realização, por parte de sociedade emitente de valores mobiliários admitidos à negociação em mercado regulamentado, de transações com partes relacionadas não permitidas ou em condições não permitidas.
 
 2 - Constitui contra-ordenação grave a omissão de:
 
@@ -10,7 +14,15 @@ a) (Revogada).
 
 b) Comunicação à CMVM de acordos parassociais relativos ao exercício de direitos sociais em sociedade aberta;
 
-c) Verificação da autenticidade do voto por correspondência e de garantia da sua confidencialidade.
+c) Verificação da autenticidade do voto por correspondência, da garantia da sua confidencialidade e do envio da confirmação de receção dos votos expressos por via eletrónica a quem os exerceu;
+
+d) Divulgação ou comunicação da informação devida pelos consultores em matéria de votação;
+
+e) Prestação de informação ao acionista quanto ao registo e contabilização dos seus votos;
+
+f) Submissão a votação, em assembleia geral de acionistas de sociedade emitente de valores mobiliários admitidos à negociação em mercado regulamentado, da proposta de política de remunerações;
+
+g) Submissão a apreciação, em assembleia geral de acionistas de sociedade emitente de valores mobiliários admitidos à negociação em mercado regulamentado, do relatório sobre as remunerações.
 
 3 - Constitui contra-ordenação menos grave a omissão de:
 
