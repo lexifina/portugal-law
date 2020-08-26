@@ -34,7 +34,11 @@ m) De respeitar a exigência de forma escrita nos contratos de intermediação f
 
 n) De respeitar as regras relativas à apreciação do carácter adequado da operação em função do perfil do cliente;
 
-o) De adotar e aplicar políticas e procedimentos relativas à produção e distribuição de instrumentos financeiros produzidos ou comercializados pelo intermediário financeiro.
+o) De adotar e aplicar políticas e procedimentos relativas à produção e distribuição de instrumentos financeiros produzidos ou comercializados pelo intermediário financeiro;
+
+p) De não cobrar comissões proibidas;
+
+q) De divulgação e comunicação da informação exigida.
 
 3 - (Revogado).
 

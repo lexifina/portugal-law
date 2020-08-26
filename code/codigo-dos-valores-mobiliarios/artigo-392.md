@@ -30,6 +30,8 @@ c) A criação, a manutenção, a gestão, a suspensão ou o encerramento de sis
 
 a) O registo de valores mobiliários escriturais ou o depósito de valores mobiliários titulados junto de entidade ou em sistema centralizado, de registo inicial ou de administração de sistema de registo centralizado, distintos dos permitidos ou exigidos por lei;
 
-b) A recusa de informação por entidade registadora ou depositária, por entidade gestora de sistema centralizado, ou de registo inicial ou de administração de sistema de registo centralizado, às pessoas com legitimidade para a solicitar ou a omissão de envio de informações dentro dos prazos exigidos por lei ou acordados com o interessado.
+b) A recusa de informação por entidade registadora ou depositária, por entidade gestora de sistema centralizado, ou de registo inicial ou de administração de sistema de registo centralizado, às pessoas com legitimidade para a solicitar ou a omissão de envio de informações dentro dos prazos exigidos por lei ou acordados com o interessado;
+
+c) A violação do dever de não cobrar comissões proibidas, por parte de entidade gestora de sistema centralizado.
 
 5 - Constituem contra-ordenação menos grave os factos referidos nos número anteriores quando relativos a valores mobiliários emitidos por sociedades fechadas ou não admitidos à negociação em mercado regulamentado.
