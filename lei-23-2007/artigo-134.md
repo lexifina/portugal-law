@@ -26,6 +26,8 @@ f) Em relação ao qual existam sérias razões para crer que cometeu atos crimi
 
 g) Que seja detentor de um título de residência válido ou de outro título que lhe confira direito de permanência em outro Estado membro e não cumpra a obrigação de se dirigir, imediatamente, para esse Estado membro.
 
+h) Que tenha contornado ou tentado contornar as normas aplicáveis em matéria de entrada e de permanência, em território nacional ou no dos Estados membros da União Europeia ou dos Estados onde vigore a Convenção de Aplicação, nomeadamente pela utilização ou recurso a documentos de identidade ou de viagem, títulos de residência, vistos ou documentos comprovativos do cumprimento das condições de entrada falsos ou falsificados.
+
 2 - O disposto no número anterior não prejudica a responsabilidade criminal em que o estrangeiro haja incorrido.
 
 3 - Aos refugiados aplica-se o regime mais benéfico resultante de lei ou convenção internacional a que o Estado Português esteja obrigado.

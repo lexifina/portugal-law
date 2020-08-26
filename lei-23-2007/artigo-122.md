@@ -18,7 +18,7 @@ d) Maiores, nascidos em território nacional, que daqui não se tenham ausentado
 
 e) Menores, obrigatoriamente sujeitos a tutela nos termos do Código Civil;
 
-f) Que tenham deixado de beneficiar do direito de asilo em Portugal em virtude de terem cessado as razões com base nas quais obtiveram a referida proteção;
+f) Que tenham deixado de beneficiar do direito de proteção internacional em Portugal em virtude de terem cessado as razões com base nas quais obtiveram a referida proteção;
 
 g) Que sofram de uma doença que requeira assistência médica prolongada que obste ao retorno ao país, a fim de evitar risco para a saúde do próprio;
 
@@ -55,3 +55,5 @@ r) Que façam prova da atividade de investimento, nos termos a que se refere a a
 6 - Sempre que o menor, sem razão atendível, deixe de frequentar o ensino secundário ou profissional pode ser cancelada ou não renovada a autorização de residência temporária concedida ao abrigo da alínea b) do n.º 1 e do n.º 4.
 
 7 - Os titulares de autorização de residência concedida com dispensa de visto ao abrigo dos números anteriores gozam dos direitos previstos no artigo 83.º
+
+8 - Sem prejuízo das regras em matéria de reagrupamento familiar, a concessão de autorização de residência nos termos da alínea g) do n.º 1 é extensível a cidadão estrangeiro que acompanhe o requerente na qualidade de acompanhante ou cuidador informal, podendo ser solicitada em simultâneo.
