@@ -10,6 +10,8 @@
 
 4 - O juiz ou, durante a fase de inquérito, o Ministério Público, devem determinar, sempre que tal se mostre imprescindível à proteção da vítima e obtido o seu consentimento, que lhe seja assegurado apoio psicossocial e proteção por teleassistência, por período não superior a seis meses, prorrogável se circunstâncias associadas à proteção da vítima o justificarem.
 
-5 - O organismo da Administração Pública responsável pela área da cidadania e da igualdade de género pode recorrer a regimes de parceria para instalar, assegurar e manter em funcionamento sistemas técnicos de teleassistência.
+5 - A vítima pode requerer que a sua morada seja ocultada nas notificações das autoridades competentes que tenham o suspeito ou o arguido como destinatário.
 
-6 - O disposto nos números anteriores não prejudica a aplicação das demais soluções constantes do regime especial de protecção de testemunhas, nomeadamente no que se refere à protecção dos familiares da vítima.
+6 - O organismo da Administração Pública responsável pela área da cidadania e da igualdade de género pode recorrer a regimes de parceria para instalar, assegurar e manter em funcionamento sistemas técnicos de teleassistência.
+
+7 - O disposto nos números anteriores não prejudica a aplicação das demais soluções constantes do regime especial de protecção de testemunhas, nomeadamente no que se refere à protecção dos familiares da vítima.
