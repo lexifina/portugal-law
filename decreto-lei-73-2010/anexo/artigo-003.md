@@ -36,8 +36,8 @@ h) Melilha;
 
 i) Livigno;
 
-j) Campione d'Italia;
+j) (Revogada);
 
-l) Águas italianas do lago Lugano.
+l) (Revogada).
 
 4 - À entrada e à saída de produtos sujeitos a impostos especiais de consumo provenientes ou destinados a um dos territórios referidos no número anterior são aplicáveis, respectivamente, as formalidades estabelecidas pelas disposições aduaneiras comunitárias para a entrada e a saída de produtos no território aduaneiro da Comunidade.
