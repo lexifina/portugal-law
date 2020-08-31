@@ -1,0 +1,5 @@
+Regulamento n.º 724/2020
+Sumário: Anulação do Regulamento n.º 117/2016.
+No exercício das competências que legalmente me estão conferidas, designadamente, pelo disposto na alínea p) do artigo 92.º da Lei n.º 62/2007, de 10 de setembro, que aprovou o Regime Jurídico das Instituições de Ensino Superior (RJIES), conjugado com o disposto na alínea p) do artigo 26.º dos Estatutos do Instituto Politécnico de Lisboa, homologados pelo Despacho Normativo n.º 20/2009 Diário da República, 2.ª série, n.º 98, de 21 de maio de 2009, alterado pelo Despacho Normativo n.º 16/2014, publicado no Diário da República, 2.ª série, n.º 217, de 10 de novembro de 2014, procedo à anulação do Regulamento n.º 117/2016, publicado no Diário da República, 2.ª série, n.º 22, de 2 de fevereiro de 2016, atento ao pedido da Presidente da Escola Superior de Tecnologia da Saúde de Lisboa e ao facto do mesmo já se encontrar desajustado da realidade organizacional desta Unidade Orgânica do IPL.
+30 de julho de 2020. - O Presidente do IPL, Prof. Doutor Elmano da Fonseca Margato.
+313455886
