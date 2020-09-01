@@ -14,6 +14,6 @@ d) A prestação de contas das sociedades com sede no estrangeiro e representaç
 
 e) O contrato de agência ou representação comercial, quando celebrado por escrito, suas alterações e extinção;
 
-f) O incumprimento da obrigação de declaração de beneficiário efetivo, nos termos da lei;
+f) (Revogada.)
 
 g) Quaisquer outros factos que a lei declare sujeitos a registo comercial.
