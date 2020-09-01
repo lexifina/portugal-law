@@ -6,4 +6,4 @@
 
 2 - A falta de realização através de conta bancária de movimentos nos casos legalmente previstos é punível com coima de (euro) 180 a (euro) 4500.
 
-3 - A realização de transações em numerário que excedam os limites legalmente previstos é punível com coima de (euro) 180 a (euro) 4 500.
+3 - A realização de transações em numerário que excedam os limites legalmente previstos é punível com coima de 180 (euro) a 4500 (euro), salvo se constituir contraordenação praticada por entidade obrigada nos termos da legislação aplicável em matéria de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo.
