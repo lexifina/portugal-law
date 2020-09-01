@@ -12,4 +12,4 @@ b) O prestador de serviços de pagamento do beneficiário poder rastrear, atrav�
 
 c) O montante da transferência de fundos não exceder (euro) 1 000.
 
-3 - O disposto no Regulamento (UE) 2015/847 não prejudica a aplicação das demais disposições constantes da presente lei e da regulamentação que o concretiza.
+3 - O disposto no Regulamento (UE) 2015/847 não prejudica a aplicação das demais disposições constantes da presente lei e da regulamentação que a concretiza.

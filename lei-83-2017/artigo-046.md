@@ -6,7 +6,7 @@
 
 a) A data de início da sua atividade, acompanhada do código de acesso à certidão permanente do registo comercial, no prazo máximo de 60 dias a contar dessa data;
 
-b) Em base semestral, os seguintes elementos sobre cada transação imobiliária e contrato de arrendamento efetuados:
+b) Em base trimestral, os seguintes elementos sobre cada transação imobiliária e contrato de arrendamento efetuados:
 
 i) Identificação clara dos intervenientes;
 
@@ -29,3 +29,5 @@ b) É acompanhada de certidão do registo comercial, caso a entidade comunicante
 3 - Para os efeitos do disposto na alínea b) do n.º 1, apenas são comunicados os contratos de arrendamento de bens imóveis cujo montante de renda seja igual ou superior a (euro) 2 500 mensais.
 
 4 - O disposto no presente artigo é objeto de regulamentação pelo IMPIC, I. P., designadamente quanto à forma e aos prazos das comunicações devidas.
+
+5 - A Autoridade Tributária e Aduaneira disponibiliza ao IMPIC, I. P., os elementos de que disponha quanto às obrigações previstas nas alíneas a) e b) do n.º 1 relativamente às entidades obrigadas que exerçam atividades imobiliárias.

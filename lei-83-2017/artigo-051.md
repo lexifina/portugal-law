@@ -19,3 +19,5 @@ a) Conservados em suporte duradouro, com preferência pelos meios de suporte ele
 b) Arquivados em condições que permitam a sua adequada conservação e fácil localização, bem como o imediato acesso aos mesmos, sempre que solicitados pela Unidade de Informação Financeira e pelas autoridades judiciárias, policiais, setoriais e pela Autoridade Tributária e Aduaneira.
 
 4 - O disposto no presente artigo não prejudica nem é prejudicado por outras obrigações de conservação que não decorram da presente lei, designadamente em matéria de meios de prova aplicáveis a investigações e inquéritos criminais ou a processos judiciais e administrativos pendentes.
+
+5 - Sem prejuízo do disposto no número anterior, os elementos de informação comunicados ao abrigo do artigo 81.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, são conservados pelas entidades financeiras, para os efeitos da presente lei, por um período de sete anos após o termo da relação de negócio com os intervenientes da conta ou, sendo o caso, com o locatário de cofre dissociado de conta.

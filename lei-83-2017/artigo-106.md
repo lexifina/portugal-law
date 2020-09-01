@@ -6,7 +6,7 @@
 
 2 - Sem prejuízo de quaisquer outros tratamentos legítimos, as autoridades judiciárias, policiais e setoriais ficam autorizadas a tratar, enquanto responsáveis por tais tratamentos, os dados pessoais e meios comprovativos a que se refere o artigo 58.º para fins de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, sendo aplicável, com as necessárias adaptações, o disposto no artigo 60.º
 
-3 - Além dos dados para que remete o número anterior e sem prejuízo de quaisquer outros tratamentos legítimos, as autoridades referidas naquele número podem ainda tratar os demais dados pessoais que se mostrem relevantes para a prevenção e o combate ao branqueamento de capitais e ao financiamento do terrorismo, em conformidade com o disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.
+3 - Além dos dados para que remete o número anterior e sem prejuízo de quaisquer outros tratamentos legítimos, as autoridades referidas naquele número podem ainda tratar os demais dados pessoais que se mostrem relevantes para a prevenção e o combate ao branqueamento de capitais e ao financiamento do terrorismo, em conformidade com o disposto na Lei n.º 59/2019, de 8 de agosto.
 
 4 - É igualmente aplicável o disposto no n.º 3 do artigo 57.º e no n.º 1 do artigo 61.º
 

@@ -6,7 +6,7 @@
 
 ### Dados estatísticos e outra informação relevante
 
-1 - A fim de contribuir para a elaboração das avaliações nacionais dos riscos previstas no artigo 8.º, e para a aferição da eficácia dos sistemas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo existentes, a nível nacional e ao nível dos diferentes setores, a Unidade de Informação Financeira e as autoridades judiciárias, policiais e setoriais mantêm dados estatísticos completos em matéria de prevenção do branqueamento de capitais e financiamento do terrorismo.
+1 - A fim de contribuir para a elaboração das avaliações nacionais dos riscos previstas no artigo 8.º, e para a aferição da eficácia dos sistemas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo existentes, a nível nacional e ao nível dos diferentes setores, a Unidade de Informação Financeira e as autoridades judiciárias, policiais e setoriais mantêm dados estatísticos completos em matéria de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo.
 
 2 - Os dados estatísticos mencionados no número anterior incluem, consoante os casos:
 
@@ -30,4 +30,10 @@ b) Revê periodicamente a adequação dos dados estatísticos e, se necessário,
 
 a) Os dados estatísticos que lhe sejam comunicados nos termos previstos nos artigos seguintes;
 
-b) Uma análise consolidada dos dados estatísticos completos em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo, a qual é posteriormente comunicada à Comissão Europeia pelos órgãos governamentais competentes.
+b) Uma análise consolidada dos dados estatísticos completos em matéria de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, a qual é posteriormente comunicada à Comissão Europeia pelos órgãos governamentais competentes.
+
+6 - A Comissão de Coordenação elabora, mantém atualizada e publica no portal previsto no artigo 121.º, sempre que necessário, a lista das funções públicas proeminentes de nível superior que se enquadram na definição de 'pessoas politicamente expostas' prevista na alínea cc) do n.º 1 do artigo 2.º
+
+7 - Para efeitos do número anterior, a Comissão de Coordenação solicita às organizações internacionais acreditadas em território nacional que elaborem, mantenham atualizada e lhe enviem a lista das funções públicas proeminentes nessas organizações.
+
+8 - A Comissão de Coordenação notifica a Comissão Europeia das listas referidas nos n.os 6 e 7.

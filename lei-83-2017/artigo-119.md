@@ -8,7 +8,7 @@ a) Dados sobre a dimensão e importância económica de cada setor;
 
 b) Dados sobre o número de pessoas ou entidades obrigadas registadas ou autorizadas a operar em território nacional;
 
-c) Sempre que possível, dados sobre:
+c) Dados sobre:
 
 i) O número de inspeções, monitorizações ou análises remotas realizadas;
 
@@ -19,5 +19,7 @@ iii) O número de infrações legais ou regulamentares detetadas;
 iv) O número de sanções ou outras medidas administrativas aplicadas;
 
 v) O valor das coimas aplicadas.
+
+vi) Os recursos humanos afetos ao desempenho das funções previstas nos artigos 84.º a 92.º
 
 2 - As autoridades setoriais comunicam, pelo menos anualmente, os dados estatísticos previstos nos números anteriores à Comissão de Coordenação, para os efeitos previstos no n.º 5 do artigo 116.º

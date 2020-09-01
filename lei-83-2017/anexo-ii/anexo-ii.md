@@ -8,7 +8,7 @@ Lista não exaustiva dos fatores e tipos indicativos de risco potencialmente mai
 
 a) Sociedades com ações admitidas à negociação em mercado regulamentado e sujeitas, em virtude das regras desse mercado, da lei ou de outros instrumentos vinculativos, a deveres de informação que garantam uma transparência adequada quanto aos respetivos beneficiários efetivos;
 
-b) Administrações ou empresas públicas;
+b) Administração Pública ou empresas públicas;
 
 c) Clientes que residam em zonas geográficas de risco mais baixo, apuradas de acordo com o n.º 3 do presente anexo.
 
@@ -24,7 +24,7 @@ d) Produtos ou serviços financeiros limitados e claramente definidos, que tenha
 
 e) Produtos em que os riscos de branqueamento de capitais e de financiamento do terrorismo são controlados por outros fatores, como a imposição de limites de carregamento ou a transparência da respetiva titularidade, podendo incluir certos tipos de moeda eletrónica.
 
-3 - Fatores de risco inerentes à localização geográfica:
+3 - Fatores de risco inerentes à localização geográfica - registo, estabelecimento ou residência em:
 
 a) Estados-Membros da União Europeia;
 

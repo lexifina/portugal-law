@@ -2,9 +2,9 @@
 
 ### Prestação de informação sobre beneficiários efetivos às entidades obrigadas
 
-1 - As pessoas coletivas que estabeleçam ou mantenham relações de negócio com entidades obrigadas ou com estas realizem transações ocasionais disponibilizam-lhes em tempo útil:
+1 - As pessoas coletivas que estabeleçam ou mantenham relações de negócio com entidades obrigadas ou com estas realizem transações ocasionais disponibilizam-lhes em tempo útil, sob pena do exercício do dever de recusa previsto no artigo 50.º:
 
-a) Informação sobre o seu proprietário legal ou titular formal;
+a) Informação sobre os seus proprietários legais ou titulares formais, quando se trate de pessoa coletiva;
 
 b) Informações suficientes, exatas e atuais sobre os seus beneficiários efetivos;
 

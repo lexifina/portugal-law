@@ -36,4 +36,4 @@ c) A referência à realização das consultas às autoridades referidas na alí
 
 6 - As autoridades setoriais definem os termos em que deve ter lugar a restituição dos fundos ou outros bens que estejam confiados às entidades obrigadas à data do termo da relação de negócio a que se refere o n.º 2 e a alínea b) do n.º 3, sempre que tal restituição não seja inviabilizada por medida judiciária ou outra legalmente prevista.
 
-7 - O exercício do dever de recusa ou a cessação da relação de negócio ao abrigo do presente artigo não implicam qualquer responsabilidade para a entidade obrigada que as exerça de boa-fé.
+7 - O exercício do dever de recusa ou a cessação da relação de negócio ao abrigo do presente artigo não determinam qualquer responsabilidade para a entidade obrigada que atue de boa-fé.

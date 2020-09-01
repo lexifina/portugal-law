@@ -18,7 +18,13 @@ c) Aos meios comprovativos dos elementos referidos nas alíneas anteriores.
 
 3 - Sem prejuízo do disposto no n.º 5 e quando o contrário não resulte das medidas reforçadas de identificação ou diligência previstas na presente lei e na regulamentação que o concretiza, as entidades obrigadas podem igualmente adaptar a natureza e a extensão das obrigações de atualização dos meios comprovativos anteriormente obtidos e dos procedimentos de diligência, em função dos riscos de branqueamento de capitais ou de financiamento do terrorismo existentes à data da atualização, sendo aplicável, com as necessárias adaptações, o disposto no artigo 28.º
 
-4 - As entidades obrigadas procedem de imediato às necessárias diligências de atualização dos dados sempre que tenham razões para duvidar da sua veracidade, exatidão ou atualidade ou tenham suspeitas de práticas relacionadas com o branqueamento de capitais ou com o financiamento do terrorismo.
+4 - As entidades obrigadas procedem de imediato às necessárias diligências de atualização dos dados sempre que:
+
+a) Tenham razões para duvidar da sua veracidade, exatidão ou atualidade;
+
+b) Tenham suspeitas de práticas relacionadas com o branqueamento de capitais ou com o financiamento do terrorismo; ou
+
+c) Sobre elas impenda uma obrigação legal que as obrigue a proceder a essa atualização.
 
 5 - A comprovação documental da informação a atualizar pode ser efetuada por cópia simples, devendo, contudo, as entidades obrigadas solicitar a apresentação de documentos originais, em suporte físico ou eletrónico, ou cópias certificadas dos mesmos, ou, em alternativa, obter informação eletrónica com valor equivalente, sempre que:
 

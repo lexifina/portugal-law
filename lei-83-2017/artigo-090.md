@@ -16,6 +16,18 @@ c) Asseguram que são ministradas as ações de formação necessárias a garant
 
 4 - As ordens profissionais elaboram um relatório anual detalhado das atividades levadas a cabo para assegurar o cumprimento das obrigações que lhes cabem ao abrigo da presente lei, remetendo-o, até ao dia 31 de março do ano seguinte a que respeita, ao membro do Governo que exerce os respetivos poderes de tutela em conformidade com o artigo 45.º da Lei n.º 2/2013, de 10 de janeiro.
 
-5 - No exercício das suas funções de tutela, os membros do Governo referidos no número anterior elaboram e executam planos anuais de inspeções especificamente dedicados a aferir o cumprimento das obrigações que cabem às ordens profissionais ao abrigo da presente lei.
+5 - No relatório anual a que se refere o número anterior, devem ser consideradas, em especial:
 
-6 - As ordens profissionais dão conhecimento, através da Comissão de Coordenação, do relatório anual previsto no n.º 4 às demais entidades competentes para a verificação do cumprimento da presente lei.
+a) As sanções aplicadas por incumprimento das obrigações decorrentes da presente lei;
+
+b) O número de comunicações de irregularidades recebidas nos termos da alínea a) do artigo 185.º;
+
+c) O número de comunicações de operações suspeitas recebidas;
+
+d) O número de comunicações de operações suspeitas transmitidas à Unidade de Informação Financeira;
+
+e) Número e descrição das medidas empreendidas para verificar o cumprimento, pelas entidades obrigadas, das obrigações que lhes incumbem nos termos dos artigos 74.º e 79.º
+
+6 - No exercício das suas funções de tutela, os membros do Governo referidos no n.º 4 fiscalizam o cumprimento das obrigações que cabem às ordens profissionais ao abrigo da presente lei.
+
+7 - As ordens profissionais dão conhecimento, através da Comissão de Coordenação, do relatório anual previsto no n.º 4 às demais entidades competentes para a verificação do cumprimento da presente lei.

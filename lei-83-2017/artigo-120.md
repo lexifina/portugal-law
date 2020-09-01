@@ -10,6 +10,6 @@ b) Indícios e elementos caracterizadores de suspeição que permitam a deteçã
 
 c) Preocupações relevantes quanto às fragilidades dos dispositivos de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo existentes noutras jurisdições;
 
-d) Outros aspetos que auxiliem ao cumprimento do disposto na presente lei e na regulamentação que o concretiza.
+d) Outros aspetos que auxiliem ao cumprimento do disposto na presente lei e na regulamentação que a concretiza.
 
 2 - A informação prevista no número anterior deve ser disponibilizada no portal a que se refere o artigo seguinte, na medida em que tal não prejudique a prevenção ou o combate ao branqueamento de capitais e ao financiamento do terrorismo.

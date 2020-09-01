@@ -26,9 +26,9 @@ c) À Autoridade Tributária e Aduaneira, no âmbito de procedimento de inspeç�
 
 3 - O disposto no n.º 1 não impede a divulgação das informações e dos demais elementos ali previstos:
 
-a) Entre entidades financeiras e outras entidades de natureza equivalente situadas em Estado membro da União Europeia, independentemente da existência de uma relação de grupo;
+a) Entre entidades financeiras e entre estas e outras entidades de natureza equivalente situadas em Estado-Membro, desde que pertençam ao mesmo grupo;
 
-b) Entre entidades financeiras e as suas sucursais e filais participadas maioritariamente situadas em países terceiros, desde que essas sucursais e filiais cumpram integralmente o disposto no n.º 4 do artigo 22.º;
+b) Entre entidades financeiras e as suas sucursais e filiais participadas maioritariamente, situadas em países terceiros, desde que essas sucursais e filiais cumpram integralmente o disposto no n.º 4 do artigo 22.º;
 
 c) Entre as pessoas referidas nas alíneas e) e f) do n.º 1 do artigo 4.º, que estejam estabelecidas num Estado membro da União Europeia ou em país terceiro que imponha requisitos equivalentes aos estabelecidos na presente lei e na regulamentação que o concretiza, quando exerçam a sua atividade profissional, como trabalhadores assalariados ou não, dentro da mesma pessoa coletiva ou de uma estrutura mais vasta a que pertence a pessoa e que partilha a mesma propriedade, gestão ou controlo da conformidade normativa;
 
@@ -36,7 +36,7 @@ d) Entre entidades financeiras, outras entidades de natureza equivalente e as pe
 
 i) Estejam situadas ou estabelecidas num Estado membro da União Europeia ou em país terceiro que imponha requisitos equivalentes aos estabelecidos na presente lei e na regulamentação que o concretiza;
 
-ii) Pertençam à mesma categoria profissional; e
+ii) Pertençam à mesma categoria profissional, entendendo-se, para este efeito, que pertencem à mesma categoria profissional as entidades financeiras abrangidas pela presente lei e as entidades de natureza equivalente; e
 
 iii) Estejam sujeitas a obrigações equivalentes no que se refere ao segredo profissional e à proteção de dados pessoais.
 

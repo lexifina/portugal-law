@@ -14,7 +14,7 @@
 
 ### Autoridades judiciárias e policiais
 
-1 - Sem prejuízo das demais atribuições legais atribuídas às autoridades judiciárias, o juiz de instrução criminal e o Ministério Público exercem as competências e beneficiam das demais prerrogativas conferidas pelas disposições específicas da presente lei.
+1 - O juiz de instrução criminal e o Ministério Público exercem as competências e beneficiam das demais prerrogativas conferidas pelas disposições específicas da presente lei.
 
 2 - Sem prejuízo do disposto no número anterior, o DCIAP realiza as ações de prevenção das práticas relacionadas com atividades criminosas de que provenham fundos ou outros bens, com o branqueamento de capitais ou com o financiamento do terrorismo, no âmbito das quais exerce as competências que lhe são especificamente conferidas pela presente lei.
 
@@ -22,4 +22,4 @@
 
 4 - Com vista à realização das finalidades da prevenção do branqueamento e do financiamento do terrorismo, o DCIAP acede diretamente e mediante despacho, a toda a informação financeira, fiscal, administrativa, judicial e policial, necessária aos procedimentos de averiguação preventiva subjacentes ao branqueamento de capitais e do financiamento do terrorismo.
 
-5 - As autoridades policiais exercem as respetivas competências no âmbito das suas atribuições legais em matéria de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, beneficiando em particular do dever de colaboração previsto no artigo 53.º
+5 - As autoridades policiais, no exercício das respetivas competências, beneficiam das prerrogativas conferidas pela presente lei, em especial do dever de colaboração previsto no artigo 53.º

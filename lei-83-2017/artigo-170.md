@@ -2,7 +2,7 @@
 
 ### Coimas
 
-As contraordenações previstas no artigo anterior são puníveis nos seguintes termos:
+1 - As contraordenações especialmente graves previstas no artigo 169.º-A são puníveis nos seguintes termos:
 
 a) Quando a infração for praticada no âmbito da atividade de uma instituição de crédito ou instituição financeira:
 
@@ -27,3 +27,11 @@ d) Quando a infração for praticada no âmbito da atividade de outra entidade n
 i) Com coima de (euro) 5 000 a (euro) 1 000 000, se o agente for uma pessoa coletiva ou entidade equiparada a pessoa coletiva;
 
 ii) Com coima de (euro) 2 500 a (euro) 1 000 000, se o agente for uma pessoa singular.
+
+e) Quando a infração for praticada por pessoa coletiva, entidade equiparada a pessoa coletiva ou pessoa singular que não se enquadre nas situações previstas nas alíneas anteriores:
+
+i) Com coima de 3000 (euro) a 1 000 000 (euro), se o agente for uma pessoa coletiva ou entidade equiparada a pessoa coletiva;
+
+ii) Com coima de 1000 (euro) a 500 000 (euro), se o agente for uma pessoa singular.
+
+2 - Quando a infração praticada constitua contraordenação ao abrigo do artigo 169.º, são aplicáveis os montantes previstos no número anterior, sendo os valores máximos reduzidos a metade.

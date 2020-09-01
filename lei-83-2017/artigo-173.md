@@ -10,7 +10,7 @@
 
 a) À Autoridade de Supervisão de Seguros e Fundos de Pensões, ao Banco de Portugal ou à CMVM, no caso das contraordenações praticadas pelas entidades financeiras referidas nos n.os 1 e 2 e na alínea a) do n.º 3 do artigo 3.º, no âmbito específico das competências de supervisão conferidas àquelas autoridades pelos artigos 85.º a 88.º;
 
-b) Ao Banco de Portugal, no caso das contraordenações praticadas pelas entidades referidas na alínea a) do artigo 5.º e no artigo 6.º;
+b) Ao Banco de Portugal, no caso das contraordenações praticadas pelas entidades referidas na alínea o) do n.º 1 do artigo 4.º, na alínea a) do artigo 5.º e no artigo 6.º;
 
 c) À CMVM:
 
@@ -32,4 +32,6 @@ i) No caso das contraordenações praticadas pelas demais entidades não finance
 
 ii) No caso das contraordenações praticadas pelas entidades referidas nas subalíneas ii) e iii) da alínea b) do artigo 5.º
 
-2 - As competências instrutória e decisória dos procedimentos instaurados pela prática da contraordenação prevista na alínea ee) do artigo 169.º cabem sempre ao IMPIC, I. P., qualquer que seja a natureza da entidade infratora.
+2 - As competências instrutória e decisória dos procedimentos instaurados pela prática da contraordenação prevista na alínea d) do artigo 169.º cabem sempre ao IMPIC, I. P., qualquer que seja a natureza da entidade infratora.
+
+3 - Quando as contraordenações previstas na presente secção sejam praticadas por pessoa coletiva, entidade equiparada a pessoa coletiva ou pessoa singular de natureza diversa das entidades previstas nos artigos 3.º a 6.º, as competências instrutória e decisória cabem à autoridade setorial perante a qual a adoção do comportamento ou cessação da conduta sejam devidos.

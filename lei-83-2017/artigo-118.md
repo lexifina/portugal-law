@@ -2,7 +2,7 @@
 
 ### Autoridades judiciárias e policiais
 
-1 - As autoridades judiciárias e policiais procedem à recolha dos dados estatísticos relativos à respetiva atividade em matéria de prevenção do branqueamento de capitais e do financiamento do terrorismo, incluindo os seguintes:
+1 - As autoridades judiciárias e policiais procedem à recolha dos dados estatísticos relativos à respetiva atividade em matéria de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, incluindo os seguintes:
 
 a) O número de casos investigados;
 
@@ -18,10 +18,10 @@ f) O número de pedidos de auxílio judiciário mútuo ou outros pedidos de coop
 
 2 - As autoridades judiciárias e policiais remetem, anualmente, os dados referidos no número anterior que respeitam à sua atividade:
 
-a) À Direção-Geral da Política de Justiça, quando se trate dos dados referidos nas alíneas a) a e);
+a) À Direção-Geral da Política de Justiça e à Unidade de Informação Financeira, quando se trate dos dados referidos nas alíneas a) a d);
 
 b) À Procuradoria-Geral da República, quando se trate dos dados referidos nas alíneas a) e f);
 
-c) À Unidade de Informação Financeira, quando se trate dos dados referidos nas alíneas a) a d).
+c) Ao Gabinete de Recuperação de Ativos, quando se trate dos dados referidos na alínea e).
 
-3 - A Direção-Geral da Política de Justiça e a Procuradoria-Geral da República comunicam, pelo menos anualmente, os dados estatísticos previstos no número anterior à Comissão de Coordenação, para os efeitos previstos no n.º 5 do artigo 116.º
+3 - A Direção-Geral da Política de Justiça, a Procuradoria-Geral da República e o Gabinete de Recuperação de Ativos comunicam, pelo menos anualmente, os dados estatísticos previstos no número anterior à Comissão de Coordenação, para os efeitos previstos no n.º 5 do artigo 116.º

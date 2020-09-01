@@ -42,19 +42,25 @@ j) «Branqueamento de capitais»:
 
 i) As condutas previstas e punidas pelo artigo 368.º-A do Código Penal;
 
-ii) A aquisição, a detenção ou a utilização de bens, com conhecimento, no momento da sua receção, de que provêm de uma atividade criminosa ou da participação numa atividade dessa natureza; e
+ii) (Revogada); e
 
-iii) A participação num dos atos a que se referem as subalíneas anteriores, a associação para praticar o referido ato, a tentativa e a cumplicidade na sua prática, bem como o facto de facilitar a sua execução ou de aconselhar alguém a praticá-lo;
+iii) A participação num dos atos a que se refere a subalínea i), a associação para praticar o referido ato, a tentativa e a cumplicidade na sua prática, bem como o facto de facilitar a sua execução ou de aconselhar alguém a praticá-lo;
 
-k) «Centros de interesses coletivos sem personalidade jurídica», os patrimónios autónomos, tais como condomínios de imóveis em propriedade horizontal, heranças jacentes e fundos fiduciários (trusts) de direito estrangeiro, quando e nos termos em que lhes for conferida relevância pelo direito interno;
+k) 'Centros de interesses coletivos sem personalidade jurídica', os patrimónios autónomos, tais como condomínios de imóveis em propriedade horizontal, fundos fiduciários (trusts) de direito estrangeiro e entes coletivos análogos a estes, quando e nos termos em que lhes for conferida relevância pelo direito interno, considerando-se serem análogos a fundos fiduciários (trusts) os entes coletivos que apresentem, pelo menos, as seguintes características:
+
+i) Os bens constituem um património separado e não integram o património do seu administrador;
+
+ii) O administrador, ou quem represente o ente coletivo, figura como titular dos bens; e
+
+iii) O administrador está sujeito à obrigação de administrar, gerir ou dispor dos bens e, sendo o caso, prestar contas, nos termos das regras que regulam o ente coletivo;
 
 l) «Comissão de Coordenação», a Comissão de Coordenação das Políticas de Prevenção e Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo, criada pela Resolução do Conselho de Ministros n.º 88/2015, de 6 de outubro;
 
-m) «Contas correspondentes de transferência (payable through accounts)», as contas tituladas pelos correspondentes que, diretamente ou através de uma subconta, permitem a execução de operações, por conta própria, por parte dos clientes do respondente ou outros terceiros;
+m) 'Contas correspondentes de transferência (payable-through accounts)', as contas disponibilizadas pelos correspondentes que, diretamente ou através de uma subconta, permitem a execução de operações, por conta própria, por parte dos clientes do respondente ou outros terceiros;
 
 n) «Direção de topo», qualquer dirigente ou colaborador com conhecimentos suficientes da exposição da entidade obrigada ao risco de branqueamento de capitais e de financiamento do terrorismo e com um nível hierárquico suficientemente elevado para tomar decisões que afetem a exposição ao risco, não sendo necessariamente um membro do órgão de administração;
 
-o) «Distribuidores», as pessoas singulares ou coletivas que distribuem ou reembolsam moeda eletrónica nos termos do disposto nos artigos 18.º-A e 23.º-A do regime jurídico constante do anexo I ao Decreto-Lei n.º 317/2009, de 30 de outubro, Regime jurídico relativo ao acesso à atividade das instituições de pagamento e à prestação de serviços de pagamento, alterado pelos Decretos-Leis n.os 242/2012, de 7 de novembro, e 157/2014, de 24 de outubro;
+o) 'Distribuidor', a pessoa singular ou coletiva habilitada a distribuir e reembolsar moeda eletrónica em nome e sob responsabilidade de uma instituição de moeda eletrónica;
 
 p) «Entidades financeiras», as entidades referidas no artigo 3.º;
 
@@ -92,17 +98,21 @@ iv) Um organismo de investimento coletivo que comercialize as suas ações ou un
 
 v) As sucursais, situadas na União Europeia, das instituições financeiras a que se referem as subalíneas anteriores, independentemente de a respetiva sede estar situada num Estado membro ou num país terceiro;
 
-w) «Membros próximos da família»:
+w) 'Membros próximos da família':
 
-i) Os ascendentes e descendentes diretos em linha reta de pessoa politicamente exposta;
+i) O cônjuge ou unido de facto de pessoa politicamente exposta;
 
-ii) Os cônjuges ou unidos de facto de pessoa politicamente exposta e das pessoas referidas na subalínea anterior;
+ii) Os parentes e afins em 1.º grau, na linha reta ou na linha colateral, da pessoa politicamente exposta;
 
-x) «Moeda eletrónica», o valor monetário abrangido pela definição da alínea d) do artigo 2.º do regime jurídico constante do anexo I ao Decreto-Lei n.º 317/2009, de 30 de outubro, alterado pelos Decretos-Leis n.os 242/2012, de 7 de novembro, e 157/2014, de 24 de outubro;
+iii) Os unidos de facto dos parentes da pessoa politicamente exposta referidos na subalínea anterior, na medida em que não beneficiam do estatuto de afinidade;
 
-y) «Ordens profissionais», a Ordem dos Advogados, a Ordem dos Contabilistas Certificados, a Ordem dos Revisores Oficiais de Contas e a Ordem dos Solicitadores e dos Agentes de Execução, no âmbito das competências que exercem, ao abrigo da presente lei, relativamente aos respetivos membros;
+iv) As pessoas que, em outros ordenamentos jurídicos, ocupem posições similares;
 
-z) «Organização sem fins lucrativos», pessoa coletiva, entidade sem personalidade jurídica ou organização que tem por principal objeto a recolha e a distribuição de fundos para fins caritativos, religiosos, culturais, educacionais, sociais ou fraternais ou outros tipos de obras de beneficência;
+x) 'Moeda eletrónica', o valor monetário armazenado eletronicamente, inclusive de forma magnética, representado por um crédito sobre o emitente e emitido após a receção de notas de banco, moedas e moeda escritural, para efetuar operações de pagamento e que seja aceite por uma pessoa singular ou coletiva diferente do emitente de moeda eletrónica;
+
+y) 'Ordens profissionais', a Ordem dos Advogados, a Ordem dos Contabilistas Certificados, a Ordem dos Notários, a Ordem dos Revisores Oficiais de Contas e a Ordem dos Solicitadores e dos Agentes de Execução, no âmbito das competências que exercem, ao abrigo da presente lei, relativamente aos respetivos membros;
+
+z) 'Organização sem fins lucrativos', pessoa coletiva, entidade sem personalidade jurídica ou organização que, na prossecução dos seus fins de interesse social, designadamente caritativos, religiosos, culturais, educacionais ou fraternais ou outros tipos de obras de beneficência, procede ou promove a recolha e a distribuição de fundos;
 
 aa) «Órgão de administração», o órgão plural ou singular da entidade obrigada responsável pela prática dos atos materiais e jurídicos necessários à execução da vontade daquela;
 
@@ -112,9 +122,9 @@ cc) «Pessoas politicamente expostas», as pessoas singulares que desempenham, o
 
 i) Chefes de Estado, chefes de Governo e membros do Governo, designadamente ministros, secretários e subsecretários de Estado ou equiparados;
 
-ii) Deputados;
+ii) Deputados ou outros membros de câmaras parlamentares;
 
-iii) Juízes do Tribunal Constitucional, do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo, do Tribunal de Contas, e membros de supremos tribunais, tribunais constitucionais e de outros órgãos judiciais de alto nível de outros estados e de organizações internacionais;
+iii) Membros do Tribunal Constitucional, do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo, do Tribunal de Contas, e membros de supremos tribunais, tribunais constitucionais, de contas e de outros órgãos judiciais de alto nível de outros Estados e de organizações internacionais;
 
 iv) Representantes da República e membros dos órgãos de governo próprio de regiões autónomas;
 
@@ -122,7 +132,7 @@ v) Provedor de Justiça, Conselheiros de Estado, e membros da Comissão Nacional
 
 vi) Chefes de missões diplomáticas e de postos consulares;
 
-vii) Oficiais Generais das Forças Armadas em efetividade de serviço;
+vii) Oficiais Generais das Forças Armadas e da Guarda Nacional Republicana (GNR) em efetividade de serviço, bem como os Superintendentes-Chefes da Polícia de Segurança Pública (PSP);
 
 viii) Presidentes e vereadores com funções executivas de câmaras municipais;
 
@@ -163,6 +173,22 @@ jj) «Unidade de Informação Financeira», a unidade central nacional com compe
 i) Receber, analisar e difundir a informação resultante de comunicações de operações suspeitas nos termos da presente lei e de outras fontes quando relativas a atividades criminosas de que provenham fundos ou outros bens; e
 
 ii) Cooperar com as congéneres internacionais e as demais entidades competentes para a prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo.
+
+kk) 'Moeda fiduciária', notas de banco e moedas designadas como tendo curso legal, moeda escritural e moeda eletrónica;
+
+ll) 'Ativo virtual', uma representação digital de valor que não esteja necessariamente ligada a uma moeda legalmente estabelecida e que não possua o estatuto jurídico de moeda fiduciária, mas que é aceite por pessoas singulares ou coletivas como meio de troca ou de investimento e que pode ser transferida, armazenada e comercializada por via eletrónica;
+
+mm) 'Atividades com ativos virtuais', qualquer uma das seguintes atividades económicas, exercidas em nome ou por conta de um cliente:
+
+i) Serviços de troca entre ativos virtuais e moedas fiduciárias;
+
+ii) Serviços de troca entre um ou mais ativos virtuais;
+
+iii) Serviços por via dos quais um ativo virtual é movido de um endereço ou carteira (wallet) para outro (transferência de ativos virtuais);
+
+iv) Serviços de guarda ou guarda e administração de ativos virtuais ou de instrumentos que permitam controlar, deter, armazenar ou transferir esses ativos, incluindo chaves criptográficas privadas;
+
+nn) 'Organismo de investimento coletivo', as instituições referidas na alínea aa) do n.º 1 do artigo 2.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, bem como os organismos de investimento coletivo regulados por legislação especial.
 
 2 - O conhecimento, a intenção ou o motivo exigidos como elemento das condutas descritas nas alíneas j) e s) do número anterior podem ser deduzidos a partir de circunstâncias factuais objetivas.
 

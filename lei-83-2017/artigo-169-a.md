@@ -112,62 +112,46 @@ aaa) A atuação em violação do disposto no n.º 4 do artigo 108.º e nas corr
 
 bbb) O incumprimento das regras sobre o registo de prestadores de serviços a sociedades, a outras pessoas coletivas ou a centros de interesses coletivos sem personalidade jurídica, previstas no artigo 112.º e nas correspondentes disposições regulamentares;
 
-ccc) (Revogada.)
+ccc) O incumprimento das regras relativas ao registo de entidades que exerçam atividades com ativos virtuais previstas no artigo 112.º-A e nas correspondentes disposições regulamentares;
 
 ddd) O incumprimento dos deveres de registo e conservação previstos no artigo 144.º e nas correspondentes disposições regulamentares;
 
 eee) O incumprimento, pelas organizações sem fins lucrativos, dos deveres previstos no n.º 1 do artigo 146.º e nas correspondentes disposições regulamentares;
 
-fff) O incumprimento, pelos prestadores de serviços de pagamento, dos deveres previstos nos artigos 4.º, 5.º e 6.º do Regulamento (UE) 2023/1113, com as especificações constantes do n.º 1 do artigo 147.º da presente lei e nas correspondentes disposições regulamentares;
+fff) O incumprimento, pelos prestadores de serviços de pagamento, dos deveres previstos nos artigos 4.º, 5.º e 6.º do Regulamento (UE) 2015/847, com as especificações constantes do n.º 1 do artigo 147.º da presente lei e nas correspondentes disposições regulamentares;
 
-ggg) O incumprimento, pelos prestadores de serviços de criptoativos, dos deveres previstos nos artigos 14.º e 15.º do Regulamento (UE) 2023/1113, com as especificações constantes do n.º 1 do artigo 147.º da presente lei e nas correspondentes disposições regulamentares;
+ggg) O incumprimento, pelos prestadores de serviços de pagamento, dos deveres previstos no artigo 7.º do Regulamento (UE) 2015/847, com as especificações constantes do n.º 2 do artigo 147.º da presente lei e nas correspondentes disposições regulamentares;
 
-hhh) O incumprimento, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, dos deveres previstos no artigo 7.º e no artigo 16.º, respetivamente, do Regulamento (UE) 2023/1113, com as especificações constantes do n.º 2 do artigo 147.º da presente lei e nas correspondentes disposições regulamentares;
+hhh) A não aplicação, pelos prestadores de serviços de pagamento, de procedimentos baseados no risco, em violação do disposto na primeira parte do n.º 1 do artigo 8.º do Regulamento (UE) 2015/847, com as especificações constantes do artigo 148.º da presente lei e nas correspondentes disposições regulamentares;
 
-iii) A não aplicação, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, de procedimentos baseados no risco, em violação do disposto na primeira parte do n.º 1 dos artigos 8.º e 17.º, respetivamente, do Regulamento (UE) 2023/1113, com as especificações constantes do artigo 148.º da presente lei e nas correspondentes disposições regulamentares;
+iii) A não rejeição de transferências ou a não solicitação de informações sobre o ordenante e o beneficiário, pelos prestadores de serviços de pagamento, em violação do disposto na segunda parte do n.º 1 dos artigos 8.º e 12.º do Regulamento (UE) 2015/847 e nas correspondentes disposições regulamentares;
 
-jjj) A não rejeição de transferências ou a não solicitação de informações sobre o ordenante e o beneficiário, pelos prestadores de serviços de pagamento, em violação do disposto na segunda parte do n.º 1 dos artigos 8.º e 12.º do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
+jjj) A não adoção de medidas, pelos prestadores de serviços de pagamento, nos casos de não prestação reiterada de informações sobre o ordenante ou o beneficiário, em violação do disposto na primeira parte do n.º 2 dos artigos 8.º e 12.º do Regulamento (UE) 2015/847 e nas correspondentes disposições regulamentares;
 
-kkk) A não rejeição de transferências ou a não solicitação de informações sobre o originador e o destinatário, pelos prestadores de serviços de criptoativos, em violação do disposto na segunda parte do n.º 1 dos artigos 17.º e 21.º do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
+kkk) A não comunicação à autoridade competente, pelos prestadores de serviços de pagamento, das omissões de informação e das medidas adotadas, em violação do disposto na segunda parte do n.º 2 dos artigos 8.º e 12.º do Regulamento (UE) 2015/847, com as especificações constantes do artigo 149.º da presente lei e nas correspondentes disposições regulamentares;
 
-lll) A não adoção de medidas, pelos prestadores de serviços de pagamento, nos casos de não prestação reiterada de informações sobre o ordenante ou o beneficiário, em violação do disposto na primeira parte do n.º 2 dos artigos 8.º e 12.º do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
+lll) A ausência de ponderação, pelos prestadores de serviços de pagamento, do caráter omisso ou incompleto das informações sobre os ordenantes ou os beneficiários, em violação do disposto nos artigos 9.º e 13.º do Regulamento (UE) 2015/847, com as especificações constantes das alíneas a) e b) do artigo 150.º da presente lei e nas correspondentes disposições regulamentares;
 
-mmm) A não adoção de medidas, pelos prestadores de serviços de criptoativos, nos casos de não prestação reiterada de informações sobre o ordenante ou o beneficiário, em violação do disposto na primeira parte do n.º 2 dos artigos 17.º e 21.º do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
+mmm) A ausência de comunicação, pelos prestadores de serviços de pagamento, de operações suspeitas, em violação do disposto nos artigos 9.º e 13.º do Regulamento (UE) 2015/847, com as especificações constantes da alínea c) do artigo 150.º da presente lei, e nas correspondentes disposições regulamentares;
 
-nnn) A não comunicação à autoridade competente, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, das omissões de informação e das medidas adotadas, em violação do disposto na segunda parte do n.º 2 dos artigos 8.º e 12.º e na segunda parte do n.º 2 dos artigos 17.º e 21, respetivamente, do Regulamento (UE) 2023/1113, com as especificações constantes do artigo 149.º da presente lei e nas correspondentes disposições regulamentares;
+nnn) A não aplicação, pelos prestadores de serviços de pagamento, de procedimentos eficazes para a análise dos campos de informação sobre os ordenantes e os beneficiários e para a deteção da omissão de informação sobre os mesmos, em violação do disposto no artigo 11.º do Regulamento (UE) 2015/847 e nas correspondentes disposições regulamentares;
 
-ooo) A ausência de ponderação, pelos prestadores de serviços de pagamento, do caráter omisso ou incompleto das informações sobre os ordenantes ou os beneficiários, em violação do disposto nos artigos 9.º e 13.º do Regulamento (UE) 2023/1113, com as especificações constantes das alíneas a) e b) do artigo 150.º da presente lei e nas correspondentes disposições regulamentares;
+ooo) A não aplicação, pelos prestadores de serviços de pagamento, de procedimentos baseados no risco, em violação do disposto na primeira parte do n.º 1 do artigo 12.º do Regulamento (UE) 2015/847 e nas correspondentes disposições regulamentares;
 
-ppp) A ausência de ponderação, pelos prestadores de serviços de criptoativos, do caráter omisso ou incompleto das informações sobre os originadores ou os destinatários, em violação do disposto nos artigos 18.º e 22.º do Regulamento (UE) 2023/1113, com as especificações constantes das alíneas a) e b) do artigo 150.º da presente lei e nas correspondentes disposições regulamentares;
+ppp) A ausência, inadequação ou incompletude da prestação de colaboração, pelos prestadores de serviços de pagamento, ao DCIAP, à Unidade de Informação Financeira, às demais autoridades judiciárias e policiais ou às autoridades setoriais, em violação do disposto no artigo 14.º do Regulamento (UE) 2015/847, e com as especificações constantes da alínea a) do n.º 1 e do n.º 2 do artigo 151.º da presente lei e nas correspondentes disposições regulamentares;
 
-qqq) A ausência de comunicação, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, de operações suspeitas, em violação do disposto nos artigos 9.º e 13.º e nos artigos 18.º e 22.º, respetivamente, do Regulamento (UE) 2023/1113, com as especificações constantes da alínea c) do artigo 150.º da presente lei, e nas correspondentes disposições regulamentares;
+qqq) O incumprimento, pelos prestadores de serviços de pagamento, dos deveres previstos no artigo 54.º em conjugação com a alínea b) do n.º 1 do artigo 151.º, e nas correspondentes disposições regulamentares;
 
-rrr) A não aplicação, pelos prestadores de serviços de pagamento, de procedimentos eficazes para a análise dos campos de informação sobre os ordenantes e os beneficiários e para a deteção da omissão de informação sobre os mesmos, em violação do disposto no artigo 11.º do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
+rrr) O incumprimento, pelos prestadores de serviços de pagamento, dos deveres sobre conservação da informação, em violação do disposto no artigo 16.º do Regulamento (UE) 2015/847, com as especificações constantes do artigo 153.º da presente lei e nas correspondentes disposições regulamentares;
 
-sss) A ausência de conservação, pelos prestadores de serviços de criptoativos, das informações sobre os originadores e os destinatários juntamente com as transferências, em violação do disposto no artigo 19.º do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
+sss) A prática ou omissão de atos suscetíveis de impedir ou dificultar o exercício da atividade inspetiva das autoridades setoriais;
 
-ttt) A não aplicação, pelos prestadores de serviços de criptoativos, de procedimentos eficazes para detetar se as informações relativas aos originadores e os destinatários foram apresentadas antes ou em simultâneo com a transferência de criptoativos ou a transferência por lotes de criptoativos, em violação do disposto no artigo 20.º, do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
+ttt) A não prestação e a prestação de forma incompleta de informações e outros elementos devidos às autoridades setoriais, nos prazos estabelecidos;
 
-uuu) A não aplicação, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, de procedimentos baseados no risco, em violação do disposto na primeira parte do n.º 1 do artigo 12.º e na primeira parte do n.º 1 do artigo 21.º, respetivamente, do Regulamento (UE) 2023/1113 e nas correspondentes disposições regulamentares;
+uuu) A prestação às autoridades setoriais de informações falsas ou de informações incompletas suscetíveis de induzir a conclusões erróneas de efeito idêntico ou semelhante ao que teriam informações falsas sobre o mesmo objeto;
 
-vvv) A ausência de políticas, procedimentos e controlos internos para assegurar o cumprimento, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, das medidas restritivas nas transferências de fundos e nas transferências de criptoativos, em violação do disposto no artigo 23.º do Regulamento (UE) 2023/1113, com as especificações constantes do artigo 150.º-A da presente lei, e nas correspondentes disposições regulamentares;
+vvv) A desobediência ilegítima a determinações das autoridades setoriais, ditadas especificamente, nos termos da lei, para o caso individual considerado;
 
-www) A ausência, inadequação ou incompletude da prestação de colaboração, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, ao DCIAP, à Unidade de Informação Financeira, às demais autoridades judiciárias e policiais ou às autoridades setoriais, em violação do disposto no artigo 24.º do Regulamento (UE) 2023/1113, e com as especificações constantes da alínea a) do n.º 1 e do n.º 2 do artigo 151.º da presente lei e nas correspondentes disposições regulamentares;
+www) O incumprimento de contramedidas adotadas pelas autoridades setoriais;
 
-xxx) O incumprimento, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, dos deveres previstos no artigo 54.º em conjugação com a alínea b) do n.º 1 do artigo 151.º da presente lei, e nas correspondentes disposições regulamentares;
-
-yyy) O incumprimento, pelos prestadores de serviços de pagamento e pelos prestadores de serviços de criptoativos, dos deveres sobre conservação da informação, em violação do disposto no artigo 26.º do Regulamento (UE) 2023/1113, com as especificações constantes do artigo 153.º da presente lei e nas correspondentes disposições regulamentares;
-
-zzz) O incumprimento, pelos prestadores de serviços de criptoativos, das regras relativas às medidas reforçadas aplicáveis às transferências de criptoativos cujo destino ou origem seja um endereço autoalojado, nos termos previstos no artigo 71.ºA e nas correspondentes disposições regulamentares;
-
-aaaa) A prática ou omissão de atos suscetíveis de impedir ou dificultar o exercício da atividade inspetiva das autoridades setoriais;
-
-bbbb) A não prestação e a prestação de forma incompleta de informações e outros elementos devidos às autoridades setoriais, nos prazos estabelecidos;
-
-cccc) A prestação às autoridades setoriais de informações falsas ou de informações incompletas suscetíveis de induzir a conclusões erróneas de efeito idêntico ou semelhante ao que teriam informações falsas sobre o mesmo objeto;
-
-dddd) A desobediência ilegítima a determinações das autoridades setoriais, ditadas especificamente, nos termos da lei, para o caso individual considerado;
-
-eeee) O incumprimento de contramedidas adotadas pelas autoridades setoriais;
-
-ffff) O incumprimento das decisões das autoridades setoriais que determinem o encerramento de estabelecimentos, nos termos da presente lei.
+xxx) O incumprimento das decisões das autoridades setoriais que determinem o encerramento de estabelecimentos, nos termos da presente lei.

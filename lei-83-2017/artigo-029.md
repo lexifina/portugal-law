@@ -18,7 +18,7 @@ c) À adoção das medidas razoáveis para verificar a identidade dos beneficiá
 
 3 - As entidades obrigadas dão ainda cumprimento, com as necessárias adaptações, ao disposto na presente divisão, sempre que o cliente seja uma pessoa singular que possa não estar a atuar por conta própria.
 
-4 - As entidades obrigadas mantêm um registo escrito de todas as ações destinadas a dar cumprimento ao disposto na presente divisão, incluindo de quaisquer meios utilizados para aferir a qualidade de beneficiário efetivo, de acordo com os critérios de aferição constantes do artigo seguinte.
+4 - As entidades obrigadas mantêm um registo escrito de todas as ações destinadas a dar cumprimento ao disposto na presente divisão, incluindo de quaisquer meios utilizados para aferir a qualidade de beneficiário efetivo, de acordo com os critérios de aferição constantes do artigo seguinte, bem como de quaisquer dificuldades eventualmente encontradas durante o processo de verificação da identidade dos beneficiários efetivos.
 
 5 - O registo referido no número anterior é conservado nos termos previstos no artigo 51.º e colocado, em permanência, à disposição das autoridades setoriais.
 

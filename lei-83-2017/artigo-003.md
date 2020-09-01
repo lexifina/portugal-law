@@ -18,9 +18,9 @@ d) Empresas de investimento e outras sociedades financeiras;
 
 e) Sociedades de investimento coletivo autogeridas e sociedades gestoras de organismos de investimento coletivo;
 
-f) Sociedades de capital de risco, investidores em capital de risco, sociedades de empreendedorismo social, sociedades gestoras de fundos de capital de risco, sociedades de investimento em capital de risco e sociedades de investimento alternativo especializado, autogeridas;
+f) Sociedades de capital de risco, investidores em capital de risco, sociedades de empreendedorismo social, sociedades gestoras de fundos de capital de risco, sociedades de investimento em capital de risco autogeridas e sociedades de investimento alternativo especializado autogeridas;
 
-g) Sociedades de titularização de créditos;
+g) Sociedades de titularização de créditos e sociedades gestoras de fundos de titularização de créditos;
 
 h) Sociedades que comercializam, junto do público, contratos relativos ao investimento em bens corpóreos;
 
@@ -28,7 +28,17 @@ i) Consultores para investimento em valores mobiliários;
 
 j) Sociedades gestoras de fundos de pensões;
 
-k) Empresas e mediadores de seguros que exerçam atividades no âmbito do ramo Vida.
+k) Empresas de seguros, mediadores de seguros e mediadores de seguros a título acessório, que exerçam atividades no âmbito do ramo Vida;
+
+l) Sociedades de investimento mobiliário para fomento da economia;
+
+m) Gestores de fundos de capital de risco qualificados;
+
+n) Gestores de fundos de empreendedorismo social qualificados;
+
+o) Fundos de investimento de longo prazo da União Europeia com a designação 'ELTIF' autogeridos;
+
+p) Sociedades de Investimento e Gestão Imobiliária em Portugal.
 
 2 - Estão igualmente sujeitas às disposições da presente lei, com exceção do disposto no capítulo XI:
 
@@ -45,3 +55,5 @@ d) As entidades referidas no número anterior, ou outras de natureza equivalente
 a) Às entidades que prestem serviços postais;
 
 b) À Agência de Gestão da Tesouraria e da Dívida Pública, E. P. E. (IGCP, E. P. E).
+
+4 - Para efeitos de aplicabilidade das disposições constantes da presente lei, consideram-se incluídas nas instituições de pagamento as entidades a estas equiparadas nos termos do Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, aprovado em anexo ao Decreto-Lei n.º 91/2018, de 12 de novembro.

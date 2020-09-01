@@ -38,4 +38,4 @@ g) Informação sobre decisões que apliquem penas, medidas de segurança, coima
 
 2 - As entidades obrigadas podem igualmente tratar quaisquer meios comprovativos necessários à verificação dos dados previstos no número anterior.
 
-3 - Além dos dados previstos no n.º 1, as entidades obrigadas procedem ao tratamento dos demais dados pessoais de que dependa o cumprimento dos deveres preventivos previstos na presente lei, devendo, para o efeito, acionar os procedimentos devidos de acordo com o disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.
+3 - Além dos dados previstos no n.º 1, as entidades obrigadas procedem ao tratamento dos demais dados pessoais de que dependa o cumprimento dos deveres preventivos previstos na presente lei, devendo, para o efeito, acionar os procedimentos devidos de acordo com o disposto no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e demais legislação de proteção de dados.

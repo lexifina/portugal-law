@@ -6,7 +6,7 @@
 
 2 - Em cumprimento do disposto no número anterior, às entidades obrigadas incumbe, em especial:
 
-a) Responder, de forma completa, no prazo fixado e através de canal seguro que garanta a integral confidencialidade dos elementos prestados, aos pedidos de informação destinados a determinar se mantêm ou mantiveram, nos últimos 10 anos, relações de negócio com uma dada pessoa singular ou coletiva ou centro de interesses coletivos sem personalidade jurídica, e qual a natureza dessas relações;
+a) Responder, de forma completa, no prazo fixado e através de canal seguro que garanta a integral confidencialidade dos elementos prestados, aos pedidos de informação destinados a determinar se mantêm ou mantiveram, nos últimos sete anos, relações de negócio com uma dada pessoa singular ou coletiva ou centro de interesses coletivos sem personalidade jurídica, e qual a natureza dessas relações;
 
 b) Disponibilizar, de forma completa e no prazo fixado, todas as informações, esclarecimentos, documentos e elementos que lhes sejam requeridos;
 
@@ -28,7 +28,7 @@ iv) Facultando cópias, extratos ou traslados de toda a documentação requerida
 
 v) Assegurando a comparência e a plena colaboração de qualquer representante ou colaborador que deva ser ouvido pela autoridade inspetiva, qualquer que seja a natureza do respetivo vínculo;
 
-g) Cumprir pontualmente, e no prazo fixado, as determinações, ordens ou instruções que lhes sejam dirigidas ao abrigo do disposto na presente lei;
+g) Cumprir integralmente, e no prazo fixado, as determinações, ordens ou instruções que lhes sejam dirigidas ao abrigo do disposto na presente lei;
 
 h) Informar sobre o estado de execução das recomendações que lhes sejam dirigidas ao abrigo do artigo 98.º
 

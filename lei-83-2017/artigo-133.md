@@ -8,7 +8,7 @@
 
 a) Alegação de que o pedido abrange factos com relevância tributária ou aduaneira, ainda que sujeitos a segredo e mesmo quando configurem a prática de crimes dessa natureza, independentemente das diferenças na definição daqueles tipos criminais face aos demais ordenamentos jurídicos;
 
-b) Invocação de dever de segredo, imposto por via legislativa, regulamentar ou contratual, que impenda sobre as entidades sujeitas;
+b) Invocação de dever de segredo, imposto por via legislativa, regulamentar ou contratual, que impenda sobre as entidades obrigadas;
 
 c) Alegação de que se encontra em curso ou pode vir a encontrar-se em curso uma investigação, um inquérito criminal ou outro procedimento legal, exceto quando a satisfação do pedido de cooperação possa prejudicar aquela investigação, inquérito ou procedimento;
 

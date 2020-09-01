@@ -22,6 +22,14 @@ d) Obtêm a aprovação da direção de topo antes de estabelecerem novas relaç
 
 e) Fazem constar de documento escrito as responsabilidades dos intervenientes na relação de correspondência.
 
+f) No âmbito da disponibilização de contas correspondentes de transferência (payable-through accounts), asseguram que os respondentes:
+
+i) Verificam a identidade da clientela que tem acesso direto às contas;
+
+ii) Mantêm um acompanhamento contínuo das relações de negócio estabelecidas;
+
+iii) Sempre que tal lhes for solicitado, estão aptos a fornecer informação relativamente ao cumprimento do dever de identificação e diligência.
+
 2 - O estabelecimento de relações de correspondência é sempre objeto de parecer prévio de onde resultem todas as diligências efetuadas ao abrigo das alíneas a) a c) do número anterior, a emitir pela pessoa designada nos termos do n.º 1 do artigo 16.º ou, quando a designação desta não tenha lugar, por um elemento da direção de topo com conhecimentos suficientes sobre os riscos de branqueamento de capitais e de financiamento do terrorismo associados à concreta relação de correspondência.
 
 3 - Os elementos recolhidos ao abrigo do disposto nas alíneas a) a c) do n.º 1 são objeto de atualização em função do grau de risco associado às relações de correspondência bancária estabelecidas, sendo aplicável, com as devidas adaptações, o preceituado no artigo 40.º

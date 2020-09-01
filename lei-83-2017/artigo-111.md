@@ -2,7 +2,7 @@
 
 ### Avaliação de competência e idoneidade
 
-1 - As pessoas que ocupem funções de direção nas entidades obrigadas, com exceção das mencionadas na alínea l) do n.º 1 do artigo 4.º, devem ser consideradas competentes e idóneas pelas autoridades competentes para o seu registo, licenciamento ou autorização.
+1 - As pessoas que ocupem funções de direção nas entidades obrigadas, com exceção das mencionadas nas alíneas j), m) e n) do n.º 1 do artigo 4.º, devem ser consideradas competentes e idóneas pelas autoridades competentes para o seu registo, licenciamento ou autorização.
 
 2 - O disposto no presente artigo é aplicável na medida em que tal não resulte dos diplomas setoriais que regulam o acesso às atividades abrangidas pela presente lei e não contrarie o disposto em atos jurídicos da União Europeia que regulam essas atividades.
 
