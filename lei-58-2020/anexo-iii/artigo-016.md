@@ -1,0 +1,35 @@
+# Artigo 16.º
+
+### Alteração ao Decreto-Lei n.º 117/2011, de 15 de dezembro
+
+O artigo 14.º do Decreto-Lei n.º 117/2011, de 15 de dezembro, alterado pelos Decretos-Leis n.os 200/2012, de 27 de agosto, 1/2015, de 6 de janeiro, 5/2015, de 8 de janeiro, e 28/2015, de 10 de fevereiro, passa a ter a seguinte redação:
+
+«Artigo 14.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.
+
+3 - [...]»
