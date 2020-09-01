@@ -8,7 +8,7 @@
 
 4 - As partes podem designar a lei aplicável à hipoteca ou direito equivalente, sem prejuízo da aplicação das normas constantes das convenções internacionais que vinculam internacionalmente o Estado Português.
 
-5 - No caso previsto no número anterior, com o pedido de registo é junta cópia dessa legislação, assinada pelas partes, depois de traduzida, excepto quando o conservador dispense a tradução ou determine que esta seja feita por perito por ele escolhido.
+5 - No caso previsto no número anterior, com o pedido de registo é junta cópia dessa legislação, assinada pelas partes, depois de traduzida, exceto quando o conservador dispense, total ou parcialmente, a tradução ou determine que esta seja feita por perito por ele escolhido.
 
 6 - A escolha das partes deve ser inscrita em conjunto com o próprio registo da hipoteca.
 
