@@ -8,7 +8,7 @@
 
 3 - Incorre na pena de 12 a 25 anos de prisão quem chefiar ou dirigir grupo, organização ou associação referidos no n.º 1.
 
-4 - Se o grupo, organização ou associação tiver como finalidade ou actividade a conversão, transferência, dissimulação ou receptação de bens ou produtos dos crimes previstos nos artigos 21.º e 22.º, o agente é punido:
+4 - Se o grupo, organização ou associação tiver como finalidade ou atividade a prática das condutas previstas nos n.os 3 a 5 do artigo 368.º-A do Código Penal face a vantagens ou a prática de recetação de coisas ou animais provenientes dos crimes previstos nos artigos 21.º e 22.º, o agente é punido:
 
 a) Nos casos dos n.os 1 e 3, com pena de prisão de 2 a 10 anos;
 
