@@ -22,4 +22,6 @@ h) Comité Europeu do Risco Sistémico;
 
 i) Entidades responsáveis pela deteção e investigação de violações do direito das sociedades ou pessoas por estas mandatadas para o efeito.
 
+j) Autoridades responsáveis pela supervisão das instituições de crédito e outras empresas financeiras em matéria de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo.
+
 2 - O disposto no número anterior é ainda aplicável à transmissão, pela ASF, às entidades nacionais ou de outro Estado membro incumbidas da gestão de processos de liquidação ou de fundos de garantia, das informações necessárias para o exercício das respetivas funções.
