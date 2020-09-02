@@ -1,0 +1,8 @@
+Aviso n.º 29/2020
+Sumário: Torna público que a República do Botswana depositou o seu instrumento de adesão ao Primeiro Protocolo à Convenção para a Proteção dos Bens Culturais em Caso de Conflito Armado, adotado na Haia a 14 de maio de 1954.
+Por ordem superior se torna público ter a República do Botswana depositado, a 23 de agosto de 2017, junto da Diretora-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO), o seu instrumento de adesão ao Primeiro Protocolo à Convenção para a Proteção dos Bens Culturais em Caso de Conflito Armado, adotado na Haia a 14 de maio de 1954.
+Nos termos da alínea b) do artigo 10.º, o Protocolo em apreço entrou em vigor em relação a este Estado três meses após a data do depósito do referido instrumento, ou seja, a 23 de novembro de 2017.
+A República Portuguesa é Parte do Primeiro Protocolo à Convenção para a Proteção dos Bens Culturais em Caso de Conflito Armado, aprovado para adesão pela Resolução da Assembleia da República n.º 4/2005, e ratificado pelo Decreto do Presidente da República n.º 9/2005, publicados no Diário da República, 1.ª série, n.º 31, de 14 de fevereiro de 2005, tendo depositado o seu instrumento de adesão a 18 de fevereiro de 2005, conforme consta no Aviso n.º 228/2005, publicado no Diário da República, 1.ª série, n.º 99, de 23 de maio de 2005.
+Nos termos da alínea b) do artigo 10.º, o Protocolo em apreço entrou em vigor para a República Portuguesa três meses após a data do depósito do instrumento de ratificação, ou seja, no dia 18 de maio de 2005.
+Direção-Geral de Política Externa, 21 de agosto de 2020. - A Subdiretora-Geral, Cristina Castanheta.
+113512082
