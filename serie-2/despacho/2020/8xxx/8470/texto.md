@@ -1,0 +1,8 @@
+Despacho n.º 8470/2020
+Sumário: Consulta pública - Projeto de Regulamento Geral de Funcionamento do Edifício Reynaldo dos Santos da Faculdade de Medicina da Universidade de Lisboa.
+Consulta pública - Projeto de Regulamento Geral de Funcionamento do Edifício Reynaldo dos Santos da Faculdade de Medicina da Universidade de Lisboa
+Fausto José da Conceição Alexandre Pinto, Diretor da Faculdade de Medicina da Universidade de Lisboa (FMUL), no uso da competência conferida pela alínea g) do n.º 1 do artigo 28.º conjugado com o artigo 23.º, ambos dos Estatutos da FMUL, homologados pelo Despacho n.º 5323-A/2018, publicados na 2.ª série do Diário da República, em 28 de maio de 2018, torna público o projeto de Regulamento Geral de Funcionamento do Edifício Reynaldo dos Santos da FMUL, submetendo-o a consulta pública, nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da pressente publicação no Diário da República.
+O projeto de Regulamento Geral de Funcionamento do Edifício Reynaldo dos Santos da FMUL pode ser consultado no sítio institucional da Escola, em www.medicina.ulisboa.pt.
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais deverão ser endereçadas ao Gabinete do Diretor da FMUL através do endereço de correio eletrónico gab.director@medicina.ulisboa.pt, com identificação do Projeto de Regulamento em apreço, sob pena de rejeição liminar.
+15 de julho de 2020. - O Diretor, Fausto José da Conceição Alexandre Pinto.
+313431974
