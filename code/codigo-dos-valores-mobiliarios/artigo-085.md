@@ -12,7 +12,7 @@ a) Pelos titulares dos valores mobiliários, em relação aos elementos constant
 
 b) Pelos titulares de direitos de usufruto, de penhor e de outras situações jurídicas que onerem valores mobiliários registados, em relação aos respectivos direitos;
 
-c) Pelos emitentes, em relação a elementos constantes das contas de valores mobiliários nominativos.
+c) Pelos emitentes, em relação a elementos constantes das contas de valores mobiliários, necessários para a identificação dos respetivos titulares ou para o exercício de direitos inerentes aos mesmos.
 
 2 - O dever de informação abrange os elementos constantes dos documentos que serviram de base aos registos.
 
