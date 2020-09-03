@@ -1,0 +1,12 @@
+Aviso n.º 12996/2020
+Sumário: Alteração do Plano Diretor Municipal de Vila Velha de Ródão - prorrogação do prazo de elaboração.
+Alteração do Plano Diretor Municipal de Vila Velha de Ródão - Prorrogação do prazo de elaboração
+José Manuel Ribeiro Alves, Vice-Presidente da Câmara Municipal de Vila Velha de Ródão, torna público que, em cumprimento do disposto no artigo 76.º conjugado com o artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) em vigor, a Câmara Municipal de Vila Velha de Ródão deliberou, por unanimidade, na reunião realizada em 21 de fevereiro de 2020, a prorrogação de prazo para a elaboração da 1.ª Revisão do Plano Diretor Municipal de Vila Velha de Ródão, por um período de 5 meses, a contar da data do fim do prazo anteriormente estabelecido no Aviso n.º 18197/2019, publicado na 2.ª série do Diário da República, do dia 14 de novembro de 2019.
+Para constar e para os devidos efeitos legais, se publica o presente aviso na 2.ª série do Diário da República e se procede à sua divulgação através da plataforma colaborativa de gestão territorial e no sítio da Internet deste Município, para além da sua afixação nos lugares de estilo.
+29 de julho de 2020. - O Vice-Presidente da Câmara Municipal de Vila Velha de Ródão, José Manuel Ribeiro Alves.
+Deliberação
+Alteração do Plano Diretor Municipal de Vila Velha de Ródão - Prorrogação do prazo de elaboração
+José Manuel Ribeiro Alves, Vice-Presidente da Câmara Municipal de Vila Velha de Ródão, certifica que esta Câmara Municipal, em sessão pública ordinária de 21 de fevereiro de 2020, deliberou, por unanimidade, e em cumprimento do disposto no artigo 76.º conjugado com o artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) em vigor, a prorrogação de prazo para a elaboração da 1.ª Revisão do Plano Diretor Municipal de Vila Velha de Ródão, por um período de 5 meses, a contar da data do fim do prazo anteriormente estabelecido no Aviso n.º 18197/2019, publicado na 2.ª série do Diário da República, do dia 14 de novembro de 2019.
+Por ser verdade e para constar é emitida a presente certidão, para ser junta ao processo administrativo, tendo esta deliberação sido aprovada em minuta (Ponto 3 da Minuta n.º 023/2020), para efeitos de execução imediata, de acordo com o estipulado nos termos dos n.º 3 e n.º 4 do artigo 57.º do Anexo I à Lei n.º 75/2013, de 12 de setembro.
+Vila Velha de Ródão, 29 de julho de 2020. - O Vice-Presidente da Câmara Municipal de Vila Velha de Ródão, José Manuel Ribeiro Alves.
+613452378
