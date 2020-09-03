@@ -1,0 +1,8 @@
+Aviso n.º 12995/2020
+Sumário: Consulta pública da proposta de alteração ao Regulamento Municipal dos Serviços de Gestão de Resíduos Urbanos e Limpeza Urbana.
+Proposta de Alteração ao Regulamento Municipal dos Serviços de Gestão de Resíduos Urbanos e Limpeza Urbana - Consulta Pública
+Luís Carlos Piteira Dias, Presidente da Câmara Municipal de Vendas Novas torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º, conjugado com os n.os 1 e 2 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, na sua reunião realizada dia 22 de julho de 2020, deliberou, aprovar a consulta pública da "Proposta de Alteração do Regulamento Municipal dos Serviços de Gestão de Resíduos Urbanos e Limpeza Urbana", no cumprimento do disposto no artigo 101.º do Código do Procedimento Administrativo, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da publicação do presente Aviso no Diário da República.
+O documento encontra-se disponível para consulta na página eletrónica da internet do Município de Vendas Novas (http://www.cm-vendasnovas.pt/), no Centro de Atendimento da Câmara Municipal de Vendas Novas, sito na Avenida da República, 7800-099 Vendas Novas todos os dias úteis no horário normal de atendimento ao público (das 9h00 às 17h30) e na Junta de Freguesia de Landeira, Rua da Vinha Grande, n.º 15, 2965-421 Landeira, disponível nos dias úteis, das 9h00 às 12h30 e das 14h00 às 17h30.
+As sugestões deverão ser formuladas por escrito e enviadas à Câmara Municipal, dirigidas ao seu Presidente, até às 17,30 horas do último dia do prazo acima referido.
+24 de julho de 2020. - O Presidente da Câmara Municipal, Luís Carlos Piteira Dias.
+313435692
