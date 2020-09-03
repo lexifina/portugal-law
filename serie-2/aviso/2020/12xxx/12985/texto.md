@@ -1,0 +1,23 @@
+Aviso n.º 12985/2020
+Sumário: Caducidade relativa ao Aviso n.º 421/2019, do Diário da República, de 7 de janeiro de 2019, e alteração do Plano de Urbanização do Picoto.
+Alteração do Plano de Urbanização do Picoto
+Caducidade e Abertura do novo Procedimento de Alteração
+Carlos Manuel Ramos dos Santos, Vereador do Urbanismo da Câmara Municipal de Sernancelhe, torna público, para cumprimento do disposto no n.º 1 do artigo 119.º, em conjugação com o n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio (publicou o RJIGT - Regime Jurídico dos Instrumentos de Gestão Territorial), que a Câmara Municipal de Sernancelhe, de acordo com a deliberação tomada na reunião pública de 29 de julho de 2020, deliberou, por unanimidade o seguinte:
+A caducidade do procedimento de alteração aprovada na reunião de Câmara de 23-11-2018 e publicada na segunda série n.º 4 do Diário da República, através do Aviso n.º 421/2019, de 07/01/2019;
+Dar inicio ao novo procedimento de alteração do plano de Urbanização do Picoto, em Ferreirim, estabelecendo o prazo de 15 (quinze) meses para a sua alteração, aprovar os termos de referência correspondentes, não sujeitar a alteração ao procedimento de avaliação ambiental, dispensar o acompanhamento das entidades representativas dos interesses a ponderar e proceder à abertura do período de participação pública, nos termos do n.º 1 e 3 do artigo 76.º do RJIGT e nos termos do n.º 1 do artigo 86.º e n.º 1 e 2 do artigo 120.º ambos do RJIGT.
+Torna-se ainda público que, nos termos do n.º 2 do artigo 88.º e da alínea c) do n.º 4 do artigo 191.º, ambos do RJIGT, o referido período terá início no 5.º (quinto) dia após a publicação do presente Aviso no Diário da República, 2.ª série, e terá a duração de 15 (quinze) dias para formulação de sugestões ou apresentação de informações, por qualquer interessado, sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do plano.
+Durante este período, os interessados poderão consultar os termos de referência e demais documentação no sítio eletrónico da Câmara Municipal de Sernancelhe, em www.cm-sernancelhe.pt, ou na Divisão Técnica de Obras e Urbanismo (DTOU) da Câmara Municipal de Sernancelhe, sita na Rua Dr. Oliveira Serrão, em Sernancelhe, todos os dias úteis durante as horas de expediente.
+A formulação de sugestões, bem como a apresentação de informações, deverão ser feitas por escrito, até ao termo do referido período, e dirigidas ao Presidente da Câmara Municipal de Sernancelhe, utilizando para o efeito, o impresso próprio disponível nas instalações da DTOU ou no sítio eletrónico da Câmara Municipal de Sernancelhe e deverão ser entregues por via eletrónica através do endereço eletrónico dtou@cm-sernancelh.pt, presencialmente nas instalações da DTOU ou através de correio registado para a Câmara Municipal de Sernancelhe, sita na morada anteriormente identificada.
+3 de agosto de 2020. - O Vereador do Urbanismo da Câmara Municipal, Carlos Manuel Ramos dos Santos.
+Deliberação
+A Câmara Municipal de Sernancelhe, em reunião ordinária pública realizada a 29 de julho de 2020, deliberou por unanimidade:
+1 - A caducidade do procedimento de alteração do PUP ao abrigo do n.º 7 do artigo 76.º do RJIGT;
+2 - Dar início ao novo procedimento de alteração do PUP ao abrigo do n.º 1 do artigo 76.º do RJIGT;
+3 - Aprovar os Termos de Referência para a alteração do PUP, em conformidade com o n.º 3 do artigo 76.º do RJIGT;
+4 - Fixar o prazo de 15 (quinze) meses para a elaboração do procedimento de alteração do PUP, nos termos do n.º 1 do artigo 76.º do RJIGT;
+5 - Isentar o procedimento de alteração do PUP do procedimento de Avaliação Ambiental, ao abrigo dos n.os 1 e 2 do artigo 120.º do RJIGT;
+6 - Dispensar o procedimento de alteração do PUP do acompanhamento das entidades representativas dos interesses a ponderar, em conformidade com o n.º 1 do artigo 86.º do RJIGT;
+7 - Estabelecer o prazo de 15 (quinze) dias para a participação pública destinada a formulação de sugestões e apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração, nos termos do n.º 1 do artigo 76.º e do n.º 2 do artigo 88.º, ambos do RJIGT;
+8 - Determinar a publicação na 2.ª série do Diário da República, bem como a divulgação na comunicação social, no sítio na Internet da Câmara Municipal e na PCGT, do Aviso que divulgue o teor da presente deliberação, ao abrigo do n.º 1 do artigo 76.º e da alínea a) do n.º 4 do artigo 191.º, ambos do RJIGT.
+Sernancelhe 3 de agosto de 2020. - O Vereador do Pelouro do Urbanismo, Carlos Manuel Ramos dos Santos.
+613484049
