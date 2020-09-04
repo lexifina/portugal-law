@@ -2,7 +2,7 @@
 
 ### Subsídios de assistência a filho e a neto
 
-1 - Considera-se falta justificada a situação decorrente do acompanhamento de isolamento profilático durante 14 dias de filho ou outro dependente a cargo dos trabalhadores por conta de outrem do regime geral de segurança social, motivado por situações de grave risco para a saúde pública decretado pelas entidades que exercem o poder de autoridade de saúde, no âmbito do exercício das competências previstas no artigo 5.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual.
+1 - Considera-se falta justificada a situação decorrente do acompanhamento de isolamento profilático motivado por situações de grave risco para a saúde pública decretado pelas entidades que exercem o poder de autoridade de saúde, no âmbito do exercício das competências previstas no artigo 5.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual, ou de doença por COVID-19, até ao limite de 14 dias, em cada uma das situações, de filho ou outro dependente a cargo dos trabalhadores por conta de outrem do regime geral de segurança social.
 
 2 - Em caso de isolamento profilático, determinado nos termos do número anterior, de criança menor de 12 anos ou, independentemente da idade, com deficiência ou doença crónica, a atribuição do subsídio para assistência a filho e do subsídio para assistência a neto, não depende de prazo de garantia.
 
