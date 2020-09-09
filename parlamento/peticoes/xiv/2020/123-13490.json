@@ -1,0 +1,889 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13490",
+  "numero": "123",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-09-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-10-20",
+            "entidades": null,
+            "id": "116000",
+            "tipo": null,
+            "titulo": "Audição em 2020-10-20 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-12",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-19",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-12",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-15",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-23",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-13",
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-16",
+            "entidades": [
+              "Sindicato S.TO.P. - Sindicato de Todos os Professores"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-12",
+            "entidades": [
+              "ANVPC - Associação Nacional dos Professores Contratados"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-14",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "189/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação"
+            ],
+            "nrOficio": "190/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-10-26",
+                "dataResposta": null,
+                "nrOficio": "224/CECJD/2020",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-12-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-09-29",
+        "DataArquivo": "2020-12-15",
+        "DataBaixaComissao": "2020-09-15",
+        "DataEnvioPAR": "2020-12-17",
+        "DataReaberta": "2020-09-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334d32526a5a6a64684f53316b4e4759794c5451304d6a45744f4455344e7930784d5751305a6a63304f4468694e5459756347526d&fich=73dcf7a9-d4f2-4421-8587-11d4f7488b56.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4d6a49314f446b334d43316b593259354c545178593259744f44426b4e793033595451334e474d775a44686b595745756347526d&fich=e2258970-dcf9-41cf-80d7-7a474c0d8daa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784f5752684e6a6b354d4330314f474d344c54517859574974595759785a69316b4f444e6a4f4441304e6a45774e7a4d756347526d&fich=19da6990-58c8-41ab-af1f-d83c80461073.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314e444d31596a4a6c5a533035595751774c54513559324d744f5755324e5331685a544e6b4d5755774d444d794d3245756347526d&fich=5435b2ee-9ad0-49cc-9e65-ae3d1e00323a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334d3249355a54526a5a69316b4e5446684c54526d5a545574596d4d334f4330345a6d557a595751314e4751324e6a67756347526d&fich=73b9e4cf-d51a-4fe5-bc78-8fe3ad54d668.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793832597a56685a54526c5a5330355a44426d4c5451344e6a41744f574d7a5a69316d4e5467304f4467334f44466b5a4449756347526d&fich=6c5ae4ee-9d0f-4860-9c3f-f58488781dd2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a596d4a6b4f445531595330354f5749784c54526a5a544174596a45325a6931684e7a646c4f5751325a4455314d7a55756347526d&fich=3bbd855a-99b1-4ce0-b16f-a77e9d6d5535.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938785a4749344e6a4a694e4330774e6a426b4c54526b596a6374596d4d304f4330334e4759334e7a4e6b4e3249324e5745756347526d&fich=1db862b4-060d-4db7-bc48-74f773d7b65a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793968597a4e6d5a6a41774d4330344e5451324c54517a596d4d74596d59344e6930784d3245345a4759345a57526a5a4467756347526d&fich=ac3ff000-8546-43bc-bf86-13a8df8edcd8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694f475a684f545a6b5953307a596a426d4c5452685a5467744f446c6b4f43316b5a474d314d47526b4e474e6c4f4759756347526d&fich=b8fa96da-3b0f-4ae8-89d8-ddc50dd4ce8f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344e7a52685a446c6a4d7930334f544e6a4c54526b4e324d744f475a6a596931684d4755324d3245325a6d4d7a4e6a51756347526d&fich=874ad9c3-793c-4d7c-8fcb-a0e63a6fc364.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a597a4e6b4d5451334f53307a4f5463784c5451354d6a6774596d59774f4330794e3252685a6d526b4e324d314f4449756347526d&fich=3c3d1479-3971-4928-bf08-27dafdd7c582.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-01-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b597a67794e4441305a43316a5a5456694c5451784d444574596a466a4d43316d597a566b5954646d4d4441355a6a59756347526d&fich=dc82404d-ce5b-4101-b1c0-fc5da7f009f6.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-10-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939694d5751324e47526d4e793034596a41774c54526a4d7a45744f474e6d4d43316b597a5135596a4d30596a55784f4451756347526d&fich=b1d64df7-8b00-4c31-8cf0-dc49b34b5184.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4d7a6b774f474d345a69307a597a5a6b4c54526d593259744f47566a4e5330334d6d49354d6a4133595445324d5745756347526d&fich=f3908c8f-3c6d-4fcf-8ec5-72b9207a161a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324f474d334e6d4d304e7930774f5467304c5451314d7a6374595755344d5331684d6a45334e54686a5932517859574d756347526d&fich=68c76c47-0984-4537-ae81-a21758ccd1ac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794f474a694f4467794e4330774e7a59774c54526d5a4749745954686b5a43316c4e445a6d4f4449324d6a68694e6a49756347526d&fich=28bb8824-0760-4fdb-a8dd-e46f82628b62.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d6a637a5a6a51324d7930344e4441324c5451334d446b744f57526d4d53307a4d5751355a4445324f54677a4f544d756347526d&fich=5273f463-8406-4709-9df1-31d9d1698393.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334f5442694e4468694d4331694d6a51314c5451304e325974595755354d7930324e44646b596d466b4e5445795a6a49756347526d&fich=790b48b0-b245-447f-ae93-647dbad512f2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774f574d345a4467334e4331694d3259784c5451335a4759744f5445775a69316b4d4451344d474e6c59324d344d5467756347526d&fich=09c8d874-b3f1-47df-910f-d0480cecc818.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794e6d4e6b5a6a4a6c4e5330774e5464694c5452684f4749744f4459334d69303359574d7a4d7a4a694e7a566a4e5445756347526d&fich=26cdf2e5-057b-4a8b-8672-7ac332b75c51.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938354d474979595759314d4330324e4459784c54517a4e7a45744f474d354d6930775a44497a4d44526b5a5455784e5455756347526d&fich=90b2af50-6461-4371-8c92-0d2304de5155.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-05-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938355957566a4f544a6a4e53316c596d51334c5451354d324d744f545931597930334e4441315a44597a4f5442694f5445756347526d&fich=9aec92c5-ebd7-493c-965c-7405d6390b91.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-09-29",
+            "gp": "PSD",
+            "id": "7007",
+            "motivoCessacao": null,
+            "nome": "Carla Madureira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-04-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-09-25",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59354d5455794e575a6a4c57466d4e3249744e4755775a5331684d5449314c5464684e7a497a4e6d51354e6d51314d4335775a47593d&fich=691525fc-af7b-4e0e-a125-7a7236d96d50.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2020-09-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d314d6d51304d7a466b4c5745334f5745744e44526d4e6931684d7a49774c5445344d6a4a6c4d574e6b5a6d45794d7935775a47593d&fich=c52d431d-a79a-44f6-a320-1822e1cdfa23.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45698",
+      "45699",
+      "45700",
+      "45702",
+      "45657",
+      "110560",
+      "110563",
+      "110322",
+      "110585",
+      "110586",
+      "45692",
+      "110585"
+    ],
+    "Iniciativasoriginadas": [
+      "45698",
+      "45699",
+      "45700",
+      "45702",
+      "45657",
+      "110560",
+      "110563",
+      "110322",
+      "110585",
+      "110586",
+      "45692"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=21"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-19",
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/17?pgs=17-19,27&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=22"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19",
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/19?pgs=19,26&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=25"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22",
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/21?pgs=21-22,26&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=27"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=28"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Vinculação extraordinária de todos os docentes com cinco ou mais anos de serviço até 2022 — que foi discutido na generalidade e que, a requerimento do proponente, baixou à Comissão de Educação, Ciência, Juventude e Desporto; Procede à oitava alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Contabilização do tempo de trabalho, para efeitos de segurança social, dos docentes contratados a termo com horário incompleto; Abertura de concurso para a vinculação extraordinária do pessoal docente das componentes técnico-artísticas especializadas para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino; Redução das desigualdades que afetam os docentes contratados com horários incompletos; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Recomenda ao Governo a realização de um concurso justo que valorize a carreira docente e respeite as necessidades das escolas; Criação de regras justas para os concursos docentes, que deem resposta às necessidades das escolas;  Alteração dos intervalos a concurso dos docentes, nomeadamente do ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho (Ricardo André de Castro Pereira e outros); Programa extraordinário de vinculação dos docentes com cinco ou mais anos de serviço; Determina a revisão do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais; Tempo de trabalho declarado à segurança social dos docentes contratados a exercer funções a tempo parcial.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13490",
+    "PetAssunto": "Alteração dos intervalos a concurso dos docentes, nomeadamente o ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho",
+    "PetDataEntrada": "2020-09-09",
+    "PeticoesAssociadas": null,
+    "PetId": "13490",
+    "PetLeg": "XIV",
+    "PetNr": "123",
+    "PetNrAssinaturas": "4718",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6038",
+        "obs": null,
+        "pag": [
+          "17-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-23",
+        "pubLeg": "XIV",
+        "pubNr": "58",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/17?pgs=17-27&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "912251",
+        "obs": null,
+        "pag": [
+          "11-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-03",
+        "pubLeg": "XIV",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/005/2020-10-03/11?pgs=11-12&org=PLC"
+      }
+    ]
+  }
+}
