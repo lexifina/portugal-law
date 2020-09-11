@@ -1,0 +1,15 @@
+Aviso n.º 13781/2020
+Sumário: Alteração ao Plano de Urbanização de Vagos.
+Alteração ao Plano de Urbanização de Vagos
+Participação pública
+Dr. Silvério Rodrigues Regalado, Presidente da Câmara Municipal de Vagos, torna público que a Câmara Municipal, em reunião ordinária pública de 23 de julho de 2020, deliberou dar início ao procedimento de elaboração da alteração ao Plano de Urbanização de Vagos, nos termos da alínea a) do n.º 2 do artigo 115.º do Decreto-Lei n.º 80/2015, de 14 de maio, prevendo-se para a sua elaboração o prazo máximo de 15 meses.
+Foi igualmente deliberado não sujeitar a elaboração da alteração ao plano a Avaliação Ambiental Estratégica, nos termos do n.º 1 e 2 do artigo 120.º do Decreto-Lei n.º 80/2015, de 14 de maio, e determinar a abertura de um período de prévia participação pública, de acordo com o artigo 88.º do mesmo diploma, destinado à formulação de sugestões e à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do processo de alteração do plano, pelo prazo de 15 dias, a contar da data de publicação deste aviso na 2.ª série do Diário da República.
+A fundamentação para a elaboração da alteração ao Plano de Urbanização, contendo os termos de referência e a justificação para a não sujeição a Avaliação Ambiental Estratégica, estará disponível para consulta na sede do Município de Vagos e no site da Câmara Municipal de Vagos, em www.cm-vagos.pt.
+As sugestões ou observações devem ser apresentadas por escrito até ao final do período referido, devidamente fundamentadas e entregues na Secção de Atendimento ao Público desta Câmara Municipal durante o horário normal de expediente (segunda a sexta feira, das 09:00 às 16:00 horas), remetidas por correio e dirigidas ao Presidente da Câmara Municipal de Vagos, Rua da Saudade, 3840-420 - Vagos ou por correio eletrónico para planeamento@cm-vagos.pt.
+Quaisquer informações ou esclarecimentos poderão ser obtidos na Divisão de Planeamento e Obras Públicas da Câmara Municipal de Vagos durante o referido horário de expediente.
+Para constar se lavrou o presente aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume e divulgados através do site do município e da comunicação social.
+27 de julho de 2020. - O Presidente da Câmara Municipal de Vagos, Dr. Silvério Rodrigues Regalado.
+Deliberação
+Venho, por este meio, informar que a Câmara Municipal de Vagos deliberou, por unanimidade, em reunião ordinária pública realizada no dia 23 de julho de 2020, declarar a caducidade da deliberação de início de procedimento para elaboração da alteração ao Plano de Urbanização de Vagos, tomada em 22 de março de 2018; dar início a novo procedimento para a elaboração da alteração ao Plano de Urbanização de Vagos; não sujeitar a Avaliação Ambiental Estratégica a alteração ao Plano de Urbanização de Vagos, nos termos do artigo 120.º do Decreto-Lei n.º 80/2015, de 14 de maio, e proceder à abertura de um período de participação pública, nos termos do artigo 88.º do mesmo diploma legal.
+27 de julho de 2020. - O Presidente da Câmara Municipal de Vagos, Dr. Silvério Rodrigues Regalado.
+613490245
