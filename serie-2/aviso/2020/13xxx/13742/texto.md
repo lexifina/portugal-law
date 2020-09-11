@@ -1,0 +1,7 @@
+Aviso n.º 13742/2020
+Sumário: Projeto de Regulamento Municipal de Instrução dos Procedimentos Administrativos.
+Joaquim Manuel dos Santos Baptista, Presidente da Câmara Municipal da Murtosa, torna público que, nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, durante o período de 30 dias úteis, a contar da data da publicação do presente aviso na 2.ª série do Diário da República, é submetido a consulta pública, o projeto de Regulamento Municipal de Instrução dos Procedimentos Administrativos do Município da Murtosa, aprovado por deliberação da Câmara Municipal de 6 de agosto de 2020.
+Durante esse período, poderão os interessados, consultar o referido projeto de regulamento, no Balcão de Atendimento Integrado da Câmara Municipal da Murtosa, nas Juntas de Freguesia do concelho e na internet, no sítio institucional www.cm-murtosa.pt.
+Os interessados deverão enviar as suas sugestões por escrito, dentro do período acima mencionado, dirigidas ao Presidente da Câmara Municipal e remetidas por correio registado para a Câmara Municipal, sita na Praça do Município 1, 3870-101 Murtosa, ou por correio eletrónico para geral@cm-murtosa.pt, durante o horário normal de expediente, de segunda a sexta-feira, das 9,00h às 12,30h e das 13,30h às 16,30h.
+11 de agosto de 2020. - O Presidente da Câmara Municipal da Murtosa, Joaquim Manuel dos Santos Baptista.
+313489703
