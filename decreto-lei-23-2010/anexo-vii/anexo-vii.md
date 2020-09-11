@@ -6,7 +6,7 @@ Requisitos de eficiência energética para os operadores de sistemas de transpor
 
 1 - Os operadores de sistemas de transporte e os operadores de sistemas de distribuição devem:
 
-a) Estabelecer e tornar públicas as suas regras de base relativas à assunção e partilha dos custos das adaptações técnicas, tais como ligações à rede e reforços de rede, melhoria do funcionamento da rede e regras para a aplicação não discriminatória dos códigos de rede, necessárias para integrar novos produtores que alimentem a rede interligada com eletricidade produzida em cogeração de elevada eficiência;
+a) Estabelecer e tornar públicas as suas regras de base relativas à assunção e partilha dos custos das adaptações técnicas, tais como ligações à rede, reforços de rede existentes, introdução de novas redes, melhoria do funcionamento da rede e regras para a aplicação não discriminatória dos códigos de rede, necessárias para integrar novos produtores que alimentem a rede interligada com eletricidade produzida em cogeração de elevada eficiência;
 
 b) Fornecer aos novos produtores de eletricidade produzida em cogeração de elevada eficiência que desejem ser ligados à rede as informações exaustivas e necessárias por eles requeridas, nomeadamente:
 

@@ -62,7 +62,9 @@ i) Benefícios
 
 O valor da produção (de calor e eletricidade) para o consumidor;
 
-Na medida do possível, os benefícios externos, nomeadamente ambientais e sanitários.
+Na medida do possível, os benefícios externos, nomeadamente ambientais, em termos de emissões de gases com efeito de estufa, sanitários e de segurança.
+
+Na medida do possível, os efeitos no mercado de trabalho, segurança energética e competitividade.
 
 ii) Custos
 
@@ -72,9 +74,11 @@ Os custos de capital das redes de energia associadas;
 
 Os custos variáveis e fixos de funcionamento;
 
-Os custos energéticos; e
+Os custos energéticos;
 
-Na medida do possível, os custos ambientais e sanitários.
+Na medida do possível, os custos ambientais, sanitários e de segurança.
+
+Na medida do possível, os custos no mercado de trabalho, segurança energética e competitividade.
 
 h) Análise de sensibilidade:
 
