@@ -2,13 +2,13 @@
 
 ### Aquisição de bens e serviços
 
-1 - Nos procedimentos de formação e celebração de contratos de aquisição de bens e serviços de valor superior aos limiares estabelecidos no artigo 7.º da Diretiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de março de 2004, as entidades da administração central devem, na medida em que tal seja coerente com uma boa relação custo-eficácia, viabilidade económica, maior sustentabilidade, adequação técnica e condições de concorrência suficientes, assegurar que os bens e serviços a adquirir possuem um desempenho elevado em termos de eficiência energética.
+1 - Nos procedimentos de formação e celebração de contratos de aquisição de bens e serviços, as entidades da administração pública devem, na medida em que tal seja coerente com uma boa relação custo-eficácia, viabilidade económica, maior sustentabilidade, adequação técnica e condições de concorrência suficientes, assegurar que os bens e serviços a adquirir possuem um desempenho elevado em termos de eficiência energética.
 
 2 - O disposto no número anterior não se aplica aos contratos e entidades previstos no Decreto-Lei n.º 104/2011, de 6 de outubro, ficando os demais contratos e organismos nos domínios da defesa e da segurança sujeitos àquela norma e aos números seguintes, na medida em que a sua aplicação não colida com a natureza e objetivo principal das suas atividades.
 
 3 - A obrigação estabelecida no n.º 1 é cumprida mediante a observância dos seguintes critérios para a aquisição de bens e serviços específicos:
 
-a) Caso um produto seja abrangido por um ato delegado adotado nos termos do Decreto-Lei n.º 63/2011, de 9 de maio, ou por uma diretiva de execução relacionada, da Comissão Europeia, deve aquele pertencer à classe energética mais elevada possível, de acordo com medidas de informação direcionadas para o utilizador final através de etiquetagem e outras indicações sobre o consumo de energia previstas no referido decreto-lei e tendo em conta a necessidade de garantir condições de concorrência suficientes;
+a) Caso um produto seja abrangido por um ato delegado adotado nos termos do Regulamento (UE) 2017/1369, do Parlamento Europeu e do Conselho, de 4 de julho de 2017 que estabelece um regime de etiquetagem energética, deve aquele pertencer às duas classes energéticas mais elevadas possíveis, de acordo com medidas de informação direcionadas para o utilizador final através de etiquetagem e outras indicações sobre o consumo de energia previstas no referido Regulamento e tendo em conta a necessidade de garantir condições de concorrência suficientes;
 
 b) Os produtos excluídos do âmbito da alínea anterior, mas abrangidos por uma medida de execução ao abrigo do Decreto-Lei n.º 12/2011, de 24 de janeiro, adotada após a entrada em vigor do presente decreto-lei, devem cumprir os marcos de referência especificados na medida de execução da conceção ecológica ao abrigo do referido decreto-lei e que satisfaçam os parâmetros de eficiência energética especificados na respetiva medida de execução;
 

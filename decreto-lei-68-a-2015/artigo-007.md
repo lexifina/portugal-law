@@ -2,28 +2,18 @@
 
 ### Edifícios da Administração Pública
 
-1 - Os organismos da administração central devem cumprir o objetivo de redução do consumo de energia definido no PNAEE, face ao consumo verificado nos seus edifícios e equipamentos, através de medidas previstas, nomeadamente, no Programa de Eficiência Energética na Administração Pública - ECO.AP, aprovado pela Resolução do Conselho de Ministros n.º 2/2011, de 12 de janeiro.
+1 - Os organismos da administração central devem cumprir o objetivo de redução do consumo de energia definido no PNAEE, até 31 de dezembro de 2020, face ao consumo verificado nos seus edifícios e equipamentos, através de medidas previstas, nomeadamente, no Programa de Eficiência Energética na Administração Pública - ECO.AP, aprovado pela Resolução do Conselho de Ministros n.º 2/2011, de 12 de janeiro.
 
 2 - Para verificação da redução do consumo de energia enunciado no número anterior, os organismos da administração central que detenham ou ocupem edifícios devem reportar anualmente os seus consumos de energia através do barómetro de eficiência energética da Administração Pública, que se destina a comparar e a divulgar publicamente o desempenho energético dos respetivos serviços.
 
-3 - Para obtenção da redução do consumo de energia referida no n.º 1, os organismos da administração central devem implementar medidas que permitam alcançar economias de energia equivalentes àquelas que resultariam do cumprimento dos requisitos mínimos de desempenho energético previstos no Decreto-Lei n.º 118/2013, de 20 de agosto designadamente:
+3 - Os organismos da administração central, regional e local devem cumprir o objetivo de redução do consumo de energia definido no PNEC, com recurso a programas e medidas próprios e especialmente adequados às atividades que desenvolvem e recursos que utilizam e, bem assim, aos programas e estratégias nacionais criadas para o efeito.
 
-a) Planos de ação de eficiência energética;
+4 - Para obtenção da redução do consumo de energia referida nos n.os 1 e 3, os organismos da administração pública abrangidos devem implementar medidas que permitam alcançar economias de energia equivalentes àquelas que resultariam do cumprimento dos requisitos mínimos de desempenho energético previstos na legislação relativa ao desempenho energético dos edifícios.
 
-b) Contratos de gestão de eficiência energética;
+5 - Os organismos detentores ou gestores de habitação social da administração regional e local, e outros organismos de direito público, sempre que possível e adequado:
 
-c) Alterações comportamentais;
+a) Adotam um plano de eficiência energética que preveja objetivos e medidas específicas em matéria de economia de energia e de eficiência energética para a habitação social que detêm ou gerem;
 
-d) Substituição de equipamentos;
+b) Implementam um sistema de gestão da energia, que inclua a realização de auditorias energéticas, como parte integrante da execução do seu plano.
 
-e) Medidas de gestão de energia;
-
-f) Renovações profundas.
-
-4 - Os organismos da administração regional e local, e os organismos de direito público detentores ou gestores de habitação social, sempre que possível e adequado:
-
-a) Adotam um plano de eficiência energética que preveja objetivos e medidas específicas em matéria de economia de energia e de eficiência energética;
-
-b) Implementam um sistema de gestão da energia, que inclua a realização de auditorias energéticas, como parte integrante da execução do seu plano;
-
-c) Recorrem a empresas de serviços energéticos (ESE), qualificadas no âmbito do Sistema de Qualificação das ESE, nos termos do regulamento previsto no n.º 2 do artigo 6.º do Decreto-Lei n.º 29/2011, de 28 de fevereiro, e a contratos de gestão de eficiência energética, previstos no mesmo decreto-lei, para implementar medidas e planos destinados a aumentar a eficiência energética.
+6 - As entidades abrangidas podem recorrer a empresas de serviços energéticos (ESE) e a contratos de gestão de eficiência energética, nos termos da legislação aplicável, para cumprimento do disposto no número anterior.

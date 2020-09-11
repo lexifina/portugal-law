@@ -25,3 +25,5 @@ d) Em 2018, 1,5 % de novas economias de energia, o que, cumulado com as percenta
 e) Em 2019, 1,5 % de novas economias de energia, o que, cumulado com as percentagens anuais dos anos anteriores, obriga à verificação de economias de energia no valor de 7,5 %;
 
 f) Em 2020, 1,5 % de novas de economias de energia, o que, cumulado com as percentagens anuais dos anos anteriores, obriga à verificação de economias de energia no valor de 9 %.
+
+5 - Entre de 1 de janeiro de 2021 e 31 de dezembro de 2030, devem ser alcançadas, anualmente, novas economias de energia que ascendam a 0,8 % do consumo anual de energia final, calculadas com base na média do último período de três anos anterior a 1 de janeiro de 2019.
