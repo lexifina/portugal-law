@@ -1,0 +1,858 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13493",
+  "numero": "126",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-09-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-10-13",
+            "entidades": null,
+            "id": "115933",
+            "tipo": null,
+            "titulo": "Audição em 2020-10-13 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-12",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-20",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "CNE - Conselho Nacional de Educação"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-19",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": "2020-10-19",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "192/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-09-30",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação"
+            ],
+            "nrOficio": "191/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-10-28",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915043",
+                "obs": null,
+                "pag": [
+                  "13-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-12",
+                "pubLeg": "XIV",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/018/2020-12-12/13?pgs=13-17&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-09-29",
+        "DataArquivo": "2020-12-09",
+        "DataBaixaComissao": "2020-09-15",
+        "DataEnvioPAR": "2020-12-09",
+        "DataReaberta": "2020-09-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a4d7a41324e6a49794e693030595449314c5451344e475574596d46695a53316a4d4759355a57466d4f5456695a4745756347526d&fich=c3066226-4a25-484e-babe-c0f9eaf95bda.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d7a426a596a4e685a6930304d7a6b314c54526b4d324974595759344e69316a4e44526c593245774f5463304f4455756347526d&fich=530cb3af-4395-4d3b-af86-c44eca097485.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344d6a6b774d6a41344d6930344e4745314c5452684d7a4174596a677a4f43316d4e44426b4e7a4e6d5a6a4a6b597a4d756347526d&fich=82902082-84a5-4a30-b838-f40d73ff2dc3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774e7a4131596a5a6a5a6930775a6a557a4c5452684f575174596a67325953307a4e6a5a684e7a59344e3255795a444d756347526d&fich=0705b6cf-0f53-4a9d-b86a-366a7687e2d3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684e32466a4e545133596930305a445a684c5451354e5749744f5449344d5330774d6a4a6d597a4177593249344d5445756347526d&fich=a7ac547b-4d6a-495b-9281-022fc00cb811.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324e5749355a4751325a69316d4d445a684c545178596d55744f54686b4d693168596a646c593259335a445978593245756347526d&fich=65b9dd6f-f06a-41be-98d2-ab7ecf7d61ca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938335a544a684d7a6b344d69307a4d3249324c54526b4d3255744f54526b5a6930794d47466d5a4759774f4759325a444d756347526d&fich=7e2a3982-33b6-4d3e-94df-20afdf08f6d3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c597a4d30596a4535597930304e4751774c54517a4d544974596a67334d5330344d4463354d7a4d354d4463794f4749756347526d&fich=ec34b19c-44d0-4312-b871-80793390728b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387859545932596a55784d5330324e6a466b4c54517a4e444574596d493559793034596d526a4d5451314d6d51354f5449756347526d&fich=1a66b511-661d-4341-bb9c-8bdc1452d992.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938775a4463314d444a6c4f5330334e7a6c684c54526859575974596a49345a43316d5a544d315a5749334f47466c4d7a63756347526d&fich=0d7502e9-779a-4aaf-b28d-fe35eb78ae37.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938304f4759334d4459324e79316b4d57457a4c5451344d444974596a4d794e7930305a6d59325a574e6b4e475a6b4e3255756347526d&fich=48f70667-d1a3-4802-b327-4ff6ecd4fd7e.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-12-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344d5759785a6a566a4d6930794e7a67304c54513359546774596a4d784d43316d4e6a45335a47566a593249324e4459756347526d&fich=81f1f5c2-2784-47a8-b310-f617deccb646.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-10-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938355a57513159324a694e79316b4f574e684c5451345a6a4974595445324e5330305a5449774d6d466c4d545a6a4d6d55756347526d&fich=9ed5cbb7-d9ca-48f2-a165-4e202ae16c2e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4e324e6a4f4455334d5330324e44646a4c5451794d5749744f57466d4d5330305a4463344f44526c5a6d526c5a6d4d756347526d&fich=e7cc8571-647c-421b-9af1-4d7884efdefc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938304f44426b5a5441344e5330325a5449304c54526c4f5459744f5463334d6931695a6d55334e475931597a45335a6d59756347526d&fich=480de085-6e24-4e96-9772-bfe74f5c17ff.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-10-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684e6d4d7a4e3255315a53307a5a5745324c54517a597a597459574e684e43316b4d4445334e54466b5a6a41344d7a67756347526d&fich=a6c37e5e-3ea6-43c6-aca4-d01751df0838.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-09-29",
+            "gp": "BE",
+            "id": "4557",
+            "motivoCessacao": null,
+            "nome": "Mariana Mortágua"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-03-31",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-09-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325a6a4f4445784e6a56694c544d335a4459744e47466a4e4331684f4463344c5451334e6a6b795a5745315a474a68596935775a47593d&fich=fc81165b-37d6-4ac4-a878-47692ea5dbab.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "110302",
+      "110303",
+      "110305",
+      "110350",
+      "110518",
+      "110519",
+      "110520",
+      "44798",
+      "110512",
+      "110514",
+      "110305",
+      "44798"
+    ],
+    "Iniciativasoriginadas": [
+      "110302",
+      "110303",
+      "110305",
+      "110350",
+      "110518",
+      "110519",
+      "110520",
+      "44798",
+      "110512",
+      "110514"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=98"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=108"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82",
+                  "90-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/82?pgs=82,90-91&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=99"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=100"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=107"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84",
+                  "90-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/83?pgs=83-84,90&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=101"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/84?pgs=84-85&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=102"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/85?pgs=85&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=103"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-87"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/85?pgs=85-87&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=104"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/87?pgs=87-88&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=105"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "88-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/88?pgs=88&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-04-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=106"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "88-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/88?pgs=88-90&org=PLC"
+              }
+            ],
+            "Sumario": "Diminui o número máximo de alunos permitido por turma, na generalidade; Recomenda ao Governo a adoção de métodos de testagem não invasivos para crianças e jovens no retorno ao ensino presencial; Sobre a reconsideração dos exames nacionais, tendo em conta as desigualdades reveladas pelo ensino à distância; Estabelece um número máximo de alunos por turma; Medidas de apoios aos estudantes no contexto da ação social escolar; Estabelece medidas de redução do número de alunos por turma, visando a melhoria do processo de ensino-aprendizagem; Estabelece medidas com vista à eliminação dos exames, fixando um regime transitório para conclusão do ensino secundário e acesso ao ensino superior no ano letivo 2020/2021, na generalidade; Recomenda ao Governo que mantenha a realização dos exames finais nacionais para efeitos de aprovação de disciplinas e conclusão do ensino secundário e que recorra à utilização de espaços sob a alçada das autarquias para realização das provas de ensino em causa; Pela prevenção e combate efetivo ao abandono escolar precoce; Pelo direito de os estudantes realizarem exames nacionais para melhoria da classificação interna",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13493",
+    "PetAssunto": "Redução do número de alunos por turma a partir de 2020/2021",
+    "PetDataEntrada": "2020-09-14",
+    "PeticoesAssociadas": null,
+    "PetId": "13493",
+    "PetLeg": "XIV",
+    "PetNr": "126",
+    "PetNrAssinaturas": "35843",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6045",
+        "obs": null,
+        "pag": [
+          "81-91"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-01",
+        "pubLeg": "XIV",
+        "pubNr": "53",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/81?pgs=81-91&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "912252",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-03",
+        "pubLeg": "XIV",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/005/2020-10-03/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
