@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2020-09-16, processo 0529/11.5BEPRT 01455/17
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0529/11.5BEPRT 01455/17
+
+**Data do Acordão:** 09/16/2020
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOSÉ GOMES CORREIA
+
+**Descritores:** OPOSIÇÃO; INCOMPETÊNCIA; CÂMARA MUNICIPAL; INSTAURAÇÃO DA EXECUÇÃO FISCAL; INCONSTITUCIONALIDADE
+
+**Nº Convencional:** JSTA000P26337
+
+**Nº do Documento:** SA2202009160529/11
+
+**Data de Entrada:** 12/20/2017
+
+**Recorrente:** CÂMARA MUNICIPAL DE VILA NOVA DE GAIA
+
+**Recorrido 1:** A............ E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – O processo de execução fiscal é o meio processual adequado para a cobrança coerciva da dívida exequenda sob exame relacionada com as despesas realizadas pela autarquia local com a demolição de imóvel, como medida de tutela da legalidade urbanística, constituindo o título executivo a certidão comprovativa das despesas, passada pelos serviços camarários competentes (art.108º n°2 RJUE aprovado pelo DL n° 555/89,16 Dezembro).
+
+II - Mas ocorre a incompetência da autarquia local para a instauração do processo de execução fiscal pois são os serviços da administração tributária que têm competência genérica para a instauração dos processos de execução fiscal (art.10º, n°1 al. f) CPPT) competindo aos respectivos órgãos executivos a cobrança coerciva das dívidas às autarquias locais provenientes de taxas, encargos de mais-valias e outras receitas de natureza tributaria (art.56° n°3 Lei das Finanças Locais - Lei n° 2/2007,15 Janeiro vigente na data da instauração da execução).
+
+III - A exclusão da competência das autarquias locais para cobrança coerciva de dívidas de natureza não tributária já estava prevenida no regime das anteriores leis das finanças locais e mantém-se na actual regime financeiro das autarquias locais e das entidades intermunicipais (art.17° n°5 da Lei n° 1/79, de 2 Janeiro; art.22° nº 5 da Lei nº 1/87, de 2 Janeiro; art.30° n°4 da Lei nº 42/98,de 6 Agosto e art. 15º al. c) da Lei n° 73/2013 de 3 Setembro).
+
+IV- Não obstante, a atribuição às autarquias locais das competências conferidas aos órgãos periféricos locais para a cobrança coerciva de dívidas tributárias apenas abrange os tributos administrados por aquelas autarquias (art.7° DL n° 433/99, de 26 Outubro, diploma que aprovou do CPPT).
+
+V – O art.115º do CPA aprovado pelo Decreto-Lei n° 442/91,de 15 Novembro, disposição de carácter geral, já apontava no sentido da competência dos serviços da administração tributária para a instauração das execuções fiscais para a cobrança coerciva de quantias pecuniárias (sem natureza tributária) devidas a pessoas colectivas públicas por força de um acto administrativo.
+
+VI - Na situação relatada nos pontos antecedentes e como expressão processual, verifica-se a ilegitimidade activa do órgão executivo autárquico como exequente, excepção dilatória cuja procedência determina a absolvição dos executados da instância (arts.30°,576°, n°2 e 577° al. e) do CPC ex vi do artº.2° al. e) do CPPT).
+
+VII - Vindo a recorrente invocar agora as normas que, segundo ela, padeceriam de inconstitucionalidade, mas fazendo apenas um juízo genérico de inconformidade das normas aplicadas na sentença recorrida interpretadas do modo e sentido antes expostos com normas constitucionais, sem melhor substanciar a respectiva violação dos princípios, significa que a recorrente não densificou, no recurso que veio dirigido a este Supremo Tribunal, as amparadas violações dos ditos princípios constitucionais e legais, sendo que nem este Tribunal conseguiria, se o pretendesse fazer ex officio, conhecer de tais vícios uma vez que os mesmos não resultam imediatamente apreensíveis face aos argumentos esgrimidos pela apelante e o que foi decidido na sentença. Dito de outro modo: a falta de concretização/densificação das enumeradas violações dos princípios constitucionais e legais invocados impede que este Tribunal emita também uma apreciação individualizada sobre as mesmas.
