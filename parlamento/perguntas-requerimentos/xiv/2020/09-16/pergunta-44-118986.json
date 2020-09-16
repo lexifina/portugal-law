@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=z0cicdXsctfDc%2f9d1yARp1h7LFP%2fPGVMel8b9Bs7qvIqqHf34aeiO%2fdSKc0kDVR%2fLPbpEhs8U02z8aTDhVPvFDlF%2fdKEEctQOAVBXAtX7LLShPZo92EzlqrMf22g5W0QzGV0aCZng02VuQ2i47rX6KSQmaNsnVdROvmsS6SfIEfjwTnjcIIdg5uaB26FYEsyBxpEx535%2flU1eVLFTgnGeYJwshXN9MyVA9O79pSzvAtRnFl4FA9LHWO0i%2fC6Jes0DgOirCwusGnDpbNeLznaglZoqG5yA3uKgOEVajD%2bffRtAHBPCFjXYUZYch%2fFDjvpml8adBIDDiTp4ORyeY%2buOiAEn0WrTw1oHDEHpIHFYgc2Z%2f2WA%2bcWd1S5gBz1pfYaXvKLX4rMWQ6%2fHvxYqG7g79%2bPFDMkB%2bjM%2f8YhHh57FjA%3d&fich=RequerimentosXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "96fd1f34afbaf4a538efe509d9bf0017a1ace25d2f4cc53999570fe4dcaa1746",
+  "legislatura": "XIV",
+  "id": "118986",
+  "tipo": "Pergunta",
+  "numero": "44",
+  "data_registo": "2020-09-16",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Conclusão das obras da Escola Secundária João de Barros, no concelho do seixal, distrito de setúbal",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "4197",
+        "nome": "Paula Santos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      }
+    ],
+    "DataEnvio": "2020-09-25",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2020-09-25",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro da Educação",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2021-02-08",
+            "docRemetida": null,
+            "entidade": "Ministro da Educação",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a55794e7a4d334f5745354c5467774e7a59744e4442694d6930344d4449324c574d7a4d5749314d546b794e5745794f4335775a47593d&fich=527379a9-8076-40b2-8026-c31b51925a28.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2020-09-16",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c324d794d5755775a5445794c574d78596d49744e4745344d7931694d446c6c4c5756685a444a684e5441304d545a684d4335775a47593d&fich=c21e0e12-c1bb-4a83-b09e-ead2a50416a0.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "118986",
+    "Legislatura": "XIV",
+    "Nr": "44",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
