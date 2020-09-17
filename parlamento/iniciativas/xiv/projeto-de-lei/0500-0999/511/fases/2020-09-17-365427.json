@@ -1,0 +1,169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "511",
+    "id": "45236",
+    "titulo": "Garante a atribuição de um suplemento remuneratório a todos os trabalhadores dos serviços essenciais"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2020-09-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "48948",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2020-09-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2020-09-17",
+        "DatafimApreciacaoPublica": "2020-11-21",
+        "DatainicioApreciacaoPublica": "2020-10-22",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2020-11-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XIVLeg/13CAPMADPL/Paginas/iniciativas-apreciacao-publica.aspx?t=4d734b714c6942545a584e7a77364e76&Path=6148523063446f764c324679626d56304c334e706447567a4c31684a566b786c5a793944543030764d544e445156424e5155525154433942636e463161585a765132397461584e7a595738765357357059326c6864476c3259584d6c4d6a426c625355794d454677636d566a6157456c517a4d6c5154636c517a4d6c51544e764a5449775548566962476c6a5953387977716f7549464e6c633350446f32383d"
+          },
+          {
+            "DataDocumento": "2020-12-17",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "NT PJL 511-XIV-2 (PCP).",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d575a6a595445344f4331694f5464694c545134595759744f445a6b4e4330785a5449794d474d304d7a55304d6a41756347526d&fich=a1fca188-b97b-48af-86d4-1e220c435420.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-01-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Projeto de Lei n.º 511",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4f5441774d325a68596930794d6d5a694c5451774e474574595455785a5330315a574e6c4e446b304f446b34596a41756347526d&fich=d9003fab-22fb-404a-a51e-5ece494898b0.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7504",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local",
+        "Numero": "7504",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "44-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-06",
+            "pubLeg": "XIV",
+            "pubNr": "55",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/055/2021-01-06/44?pgs=44-52&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "44-52"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-06",
+            "pubLeg": "XIV",
+            "pubNr": "55",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/055/2021-01-06/44?pgs=44-52&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "BE",
+            "id": "6063",
+            "motivoCessacao": null,
+            "nome": "Joana Mortágua"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-01-05",
+            "dataRemessa": "2021-01-06",
+            "numeroOficio": "Email DAPLEN",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2021-01-05",
+            "descricao": null,
+            "detalhe": null,
+            "id": "89547",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "58",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2020-09-17",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 10.ª Comissão.",
+    "OevId": "365427",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
