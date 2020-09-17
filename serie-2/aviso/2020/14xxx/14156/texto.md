@@ -1,0 +1,6 @@
+Aviso n.º 14156/2020
+Sumário: Sexta alteração ao Plano Diretor Municipal de Mira.
+6.ª Alteração ao Plano Diretor Municipal de Mira
+Torna-se público que a Câmara Municipal de Mira, na sua reunião ordinária de 06 de agosto de 2020, deliberou aprovar o parecer final da Comissão de Coordenação e Desenvolvimento Regional do Centro relativo à 6.ª alteração ao Plano Diretor Municipal de Mira, emitido nos termos do n.º 3 do artigo 86.º do DL n.º 80/2015, de 14 de maio. Deliberou ainda, de acordo com o disposto no n.º 1 do artigo 89.º do DL n.º 80/2015, de 14 de maio, proceder à abertura de um período de discussão pública da proposta da 6.ª alteração ao Plano Diretor Municipal de Mira que decorrerá por um período de 30 dias contados a partir do 6.º dia útil a seguir à data da publicação do presente aviso na 2.ª série do Diário da República. Os interessados poderão consultar os documentos aprovados, na página da internet (município www.cm-mira.pt, em Discussão Pública). Qualquer sugestão, informação ou observação deverá ser apresentada na forma de email dirigido ao seguinte endereço: planos@cm-mira.pt ou através de requerimento geral disponível no balcão de atendimento ao munícipe da Câmara Municipal.
+21 de agosto de 2020. - O Presidente da Câmara Municipal, Raul José Rei Soares de Almeida, Dr.
+613514359
