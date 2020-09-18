@@ -1,0 +1,13 @@
+Aviso n.º 14234/2020
+Sumário: Início de procedimento da 2.ª Alteração ao Plano de Pormenor para Expansão da Zona Industrial da Tapada do Lago em Alter do Chão.
+2.ª Alteração ao Plano de Pormenor para Expansão da Zona Industrial da Tapada do Lago em Alter do Chão
+Francisco António Martins dos Reis, Presidente da Câmara Municipal de Alter do Chão, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 76.º e do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal, na sua reunião ordinária de 15 de julho de 2020, deliberou proceder à 2.ª Alteração ao Plano de Pormenor para Expansão da Zona Industrial da Tapada do Lago em Alter do Chão e fixar em 180 (cento e oitenta) dias o prazo para a elaboração da mesma, cujos termos de referência e metodologia foram aprovados na mesma reunião. Foi também deliberado a não sujeição do Plano a Avaliação Ambiental, nos de acordo com os fundamentos constantes nos termos de referência.
+Foi ainda deliberado proceder ao período de participação pública, por um prazo de 15 (quinze) dias úteis, contados a partir do primeiro dia útil seguinte à data da publicação do presente Aviso no Diário da República, durante o qual os interessados poderão formular observações e sugestões, apresentarem ou obterem informações ou esclarecimentos, sobre quaisquer questões que entendam ser consideradas no âmbito da elaboração da 2.ª Alteração ao Plano de Pormenor para Expansão da Zona Industrial da Tapada do Lago em Alter do Chão.
+As sugestões e outras informações atrás referidas deverão ser apresentadas por escrito, endereçadas ao Presidente da Câmara Municipal de Alter do Chão, Largo do Município, n.º 2, 7440-026 Alter do Chão ou para o correio eletrónico geral@cm-alter-chao.pt.
+Para os devidos efeitos se publica o presente Aviso no Diário da República, que será também publicado na comunicação social e na página internet da Câmara Municipal de Alter do Chão.
+18 de agosto de 2020. - O Presidente da Câmara Municipal, Francisco António Martins dos Reis.
+Deliberação
+Francisco António Martins dos Reis, Presidente da Câmara Municipal de Alter do Chão, certifica, para os devidos efeitos, que a Câmara Municipal de Alter do Chão, reunida em quinze de julho de dois mil e vinte, deliberou por unanimidade, iniciar o procedimento de elaboração da 2.ª Alteração ao Plano de Pormenor para Expansão da Zona Industrial da Tapada do Lago em Alter do Chão, nos termos da informação n.º 2796, de 10 de julho de 2020 da Unidade Orgânica Flexível de Obras, Urbanismo e Serviços Urbanos.
+Por ser verdade, passo a presente que assino e autentico com o selo branco em uso neste Município.
+18 de agosto de 2020. - O Presidente da Câmara, Francisco António Martins dos Reis.
+613512317
