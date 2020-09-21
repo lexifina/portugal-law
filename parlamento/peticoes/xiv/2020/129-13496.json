@@ -1,0 +1,676 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13496",
+  "numero": "129",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-09-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-02-17",
+            "entidades": null,
+            "id": "116700",
+            "tipo": null,
+            "titulo": "Audição em 2021-02-17 com Ângela Maria Oliveira Galvão"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-12-02",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra do Trabalho Solidariedade e Segurança Social"
+            ],
+            "nrOficio": "84/10ª CTSS",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-02-24",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915048",
+                "obs": null,
+                "pag": [
+                  "25-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-05",
+                "pubLeg": "XIV",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/031/2021-03-05/25?pgs=25-29&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-12-02",
+        "DataArquivo": "2021-02-24",
+        "DataBaixaComissao": "2020-09-28",
+        "DataEnvioPAR": "2021-03-04",
+        "DataReaberta": "2020-12-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-12-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e6862793833596a63774e6a426d4d79307859574e684c545130595455744f5745784d4331685a57566d4d6d557a4f475269596a45756347526d&fich=7b7060f3-1aca-44a5-9a10-aeef2e38dbb1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627939694e5467334d6a646c5a4330314f5451334c54517a4d5463744f4449355953316c5a5759354e4456684d4467794f4459756347526d&fich=b58727ed-5947-4317-829a-eef945a08286.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-03-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938324e7a64695a6a5a695a4331684e4463794c5451304f5745744f54466c4d69316b4d6a526b4d6a4d354f545130596a67756347526d&fich=677bf6bd-a472-449a-91e2-d24d239944b8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7444",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-12-02",
+            "gp": "PSD",
+            "id": "4299",
+            "motivoCessacao": null,
+            "nome": "Clara Marques Mendes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-10-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-10-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4d314d544d314d4749304c5749304d574d744e474a6b5a6931684e32526d4c574e684e446c694e5459334f574d774d5335775a47593d&fich=351350b4-b41c-4bdf-a7df-ca49b5679c01.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45603",
+      "110810",
+      "45630",
+      "120866",
+      "121124",
+      "45289",
+      "110291"
+    ],
+    "Iniciativasoriginadas": [
+      "121124",
+      "45289",
+      "45603",
+      "45630",
+      "110810",
+      "120866",
+      "110291"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=10"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/12?pgs=12&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=11"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/13?pgs=13&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=12"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=13"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=14"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=15"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/16?pgs=16&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=16"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/17?pgs=17&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=17"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-10-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=18"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Cria a licença parental pré-natal e o subsídio parental pré-natal, procedendo à décima oitava alteração à Lei n.º 7/2009, de 12 de fevereiro, à quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e à sétima alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Promove a igualdade no exercício das responsabilidades parentais estabelecendo uma licença parental inicial paritária; Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade; Reforça a proteção dos advogados em caso de parentalidade; Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança (vigésima primeira alteração à Lei n.º 7/2009, de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril, e sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril); Pelo aumento da licença parental atribuída às mães e pais do País, contribuindo, desta forma, para um fortalecimento dos laços familiares e, consequentemente, da taxa de natalidade; Apoio excecional às famílias monoparentais e numerosas",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13496",
+    "PetAssunto": "Covid19 - Alargamento Licença Maternidade para 1 ano a 100%",
+    "PetDataEntrada": "2020-09-21",
+    "PeticoesAssociadas": null,
+    "PetId": "13496",
+    "PetLeg": "XIV",
+    "PetNr": "129",
+    "PetNrAssinaturas": "25277",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6116",
+        "obs": null,
+        "pag": [
+          "11-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-09",
+        "pubLeg": "XIV",
+        "pubNr": "9",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/11?pgs=11-20&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "914676",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-12-04",
+        "pubLeg": "XIV",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/016/2020-12-04/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
