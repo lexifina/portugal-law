@@ -6,4 +6,6 @@ Compete ao comandante-geral, por motivos de ordem operacional e sem prejuízo da
 
 a) Definir as subunidades, de escalão posto, que passam a integrar o escalão subdestacamento;
 
-b) Alterar a classificação atribuída aos postos territoriais.
+b) Alterar a classificação atribuída aos postos territoriais;
+
+c) Definir as subunidades de escalão pelotão e posto da UEPS.
