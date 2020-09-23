@@ -13,3 +13,7 @@
 5 - Para efeitos do cumprimento do previsto no presente artigo, as entidades processadoras dos pagamentos devem efetuar a discriminação dos montantes respeitantes a cada um dos anos.
 
 6 - O exercício da opção prevista no n.º 3 não prejudica que, para efeitos de contagem do prazo de caducidade previsto no artigo 45.º da Lei Geral Tributária, o facto tributário se considere verificado no ano do pagamento ou colocação à disposição dos rendimentos.
+
+7 - A faculdade de opção pelo regime alternativo de tributação de rendimentos a que se refere o n.º 3 deve ser exercida na declaração de rendimentos do ano em que os rendimentos foram pagos ou colocados à disposição.
+
+8 - É aplicável o prazo previsto no n.º 2 do artigo 60.º do presente Código para a entrega das declarações relativas aos anos anteriores, contado a partir do termo do prazo a que se refere o n.º 1 do mesmo artigo.
