@@ -1,0 +1,820 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "7",
+    "id": "45255",
+    "titulo": "Comissão Eventual de Inquérito Parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2020-09-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "14927",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2020-09-25",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Inquérito Parlamentar",
+        "id": "45158",
+        "leg": "XIV",
+        "nr": "4",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "I",
+        "titulo": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Inquérito Parlamentar",
+        "id": "45177",
+        "leg": "XIV",
+        "nr": "5",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "I",
+        "titulo": "Comissão eventual de inquérito parlamentar aos prejuízos do novo banco imputados ao fundo de resolução"
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Inquérito Parlamentar",
+        "id": "45215",
+        "leg": "XIV",
+        "nr": "6",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2741",
+            "obs": null,
+            "pag": [
+              "21-30"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-09-26",
+            "pubLeg": "XIV",
+            "pubNr": "6",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "I",
+        "titulo": "Comissão Eventual de Inquérito Parlamentar às razões dos prejuízos do Novo Banco"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2020-09-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:06:21:875&drc=00:04:36:564"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:10:58:440&drc=00:03:42:721"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:44:49:458&drc=00:01:53:579"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/22?pgs=22,30&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6550",
+                "nome": "João Cotrim de Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:14:41:161&drc=00:02:41:577"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:17:22:738&drc=00:05:21:067"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:22:43:806&drc=00:03:42:593"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:26:26:399&drc=00:03:22:920"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5710",
+                "nome": "Duarte Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:29:49:320&drc=00:04:10:326"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:33:59:646&drc=00:05:10:828"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:39:10:474&drc=00:03:42:164"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4012",
+                "nome": "Fernando Anastácio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:00",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_09_25_10_00_00_clean_14_plenario&url=l14/sl2/a2020/m09/&tI=01:42:52:639&drc=00:01:56:818"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-26",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Parlamentar de inquérito ao Financiamento de campanhas políticas pelo Grupo Espírito Santo (GES) , bem como às operações de alienação de ativos do Novo Banco; Comissão eventual de inquérito parlamentar aos prejuízos do Novo Banco imputados ao Fundo de Resolução; Comissão eventual de inquérito parlamentar às razões dos prejuízos do Novo Banco e Comissão eventual de inquérito parlamentar às perdas registadas pelo Novo Banco imputadas ao Fundo de Resolução.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "365882",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "913698",
+        "obs": null,
+        "pag": [
+          "21-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-09-26",
+        "pubLeg": "XIV",
+        "pubNr": "6",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/006/2020-09-26/21?pgs=21-30&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
