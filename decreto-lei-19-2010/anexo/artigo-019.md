@@ -18,4 +18,4 @@ f) Relação dos empréstimos contraídos a médio e longo prazos;
 
 g) Certificação legal de contas;
 
-h) Relatório e parecer do fiscal único.
+h) Relatório e parecer do conselho fiscal.
