@@ -4,10 +4,12 @@
 
 # Artigo 4.º
 
-### Órgãos da empresa
+### Órgãos
 
-São órgãos da empresa:
+São órgãos da NAV Portugal, E. P.E.:
 
 a) O conselho de administração;
 
-b) O conselho fiscal.
+b) O conselho fiscal;
+
+c) O revisor oficial de contas ou sociedade de revisores oficiais de contas.
