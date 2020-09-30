@@ -10,7 +10,7 @@ a) Fixar o número de vagas destes estabelecimentos de acordo com as orientaçõ
 
 b) Realizar a gestão da ocupação destas vagas, privilegiando o acolhimento de pessoas com alta hospitalar e outras necessidades detetadas na comunidade.
 
-3 - Esta autorização provisória de funcionamento cessa a 30 de setembro de 2020, após a qual deve ser retomado e concluído o procedimento de autorização de funcionamento, salvaguardando-se, nos termos legais e sempre que possível, a continuidade da atividade já iniciada.
+3 - Esta autorização provisória de funcionamento cessa a 31 de dezembro de 2021, após a qual deve ser retomado e concluído o procedimento de autorização de funcionamento, salvaguardando-se, nos termos legais e sempre que possível, a continuidade da atividade já iniciada.
 
 4 - Durante a situação de calamidade pode haver lugar a alteração transitória da utilização do espaço do edificado, relativamente ao atualmente estabelecido, quer nos equipamentos sociais referidos no n.º 1, quer nos que se encontram em funcionamento, licenciados e/ou com acordo de cooperação.
 
