@@ -1,7 +1,3 @@
-Decreto-Lei n.º 82/2017
-
-de 18 de julho
-
 O Decreto-Lei n.º 329/2007, de 8 de outubro, veio regular a produção, controlo, certificação e comercialização de materiais de propagação e de plantação de espécies hortícolas, com exceção das sementes, e de materiais de propagação de fruteiras e de fruteiras destinadas à produção de frutos, transpondo e consolidando no direito nacional um conjunto de diretivas da União Europeia sobre a matéria.
 
 Deste leque de diretivas, cumpre agora destacar a Diretiva n.º 2008/90/CE, do Conselho, de 29 de setembro de 2008, relativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos, cujo âmbito de aplicação foi entretanto desenvolvido e atualizado por força da aprovação de três novas diretivas de execução que carecem de ser transpostas para o ordenamento jurídico interno.

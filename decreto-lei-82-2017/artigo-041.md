@@ -6,7 +6,7 @@
 
 ### Dispensa de cumprimento de exigências
 
-1 - Os materiais de propagação de fruteiras provenientes de plantas-mãe instaladas e aprovadas como pré-base, base, certificada ou CAC antes de 1 de janeiro de 2017, podem ser comercializados no território nacional até 31 de dezembro de 2029, desde que tenham sido oficialmente certificados ou qualificados como CAC, devendo para tal, estes materiais, estarem identificados com uma referência expressa ao artigo 32.º da Diretiva de Execução 2014/98/UE, da Comissão, de 15 de outubro, na etiqueta e no documento de acompanhamento.
+1 - Os materiais de propagação de fruteiras provenientes de plantas-mãe instaladas e aprovadas como pré-base, base, certificada ou CAC antes de 1 de janeiro de 2017, podem ser comercializados no território nacional até 31 de dezembro de 2022, desde que tenham sido oficialmente certificados ou qualificados como CAC, devendo para tal, estes materiais, estarem identificados com uma referência expressa ao artigo 32.º da Diretiva n.º 2014/98/CE, da Comissão, de 15 de outubro, na etiqueta e no documento de acompanhamento.
 
 2 - Os fornecedores de materiais CAC de fruteiras e de plantas hortícolas de «qualidade UE» e cuja atividade se limite à produção destinada a venda a retalho para consumidores finais não profissionais, ficam dispensados:
 
