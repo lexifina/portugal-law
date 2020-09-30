@@ -2,7 +2,7 @@
 
 ### Regime sancionatório
 
-1 - As infrações ao disposto no n.º 1 do artigo 7.º, nos n.os 2 e 3 do artigo 8.º, no n.º 2 do artigo 9.º, no artigo 11.º e no n.º 3 do artigo 12.º constituem contraordenações puníveis com coima cujo montante mínimo é de 1000 (euro) e máximo de 3700 (euro) ou 44000 (euro), consoante o agente seja pessoa singular ou coletiva.
+1 - As infrações ao disposto no n.º 1 do artigo 7.º, no n.º 5 artigo 7.º-A, nos n.os 2 e 3 do artigo 8.º, no n.º 2 do artigo 9.º, no artigo 11.º e no n.º 3 do artigo 12.º constituem contraordenações puníveis com coima cujo montante mínimo é de (euro) 1 000,00 e máximo de (euro) 3 700,00 ou (euro) 44 000,00, consoante o agente seja pessoa singular ou coletiva.
 
 2 - A negligência é punível, sendo os limites mínimos e máximos das coimas previstos no número anterior reduzidos para metade.
 

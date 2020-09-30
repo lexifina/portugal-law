@@ -14,7 +14,7 @@
 
 4 - A etiqueta ou o documento redigido pelo fornecedor, referidos no n.º 2, deve incluir os seguintes elementos expressos, pelo menos, numa das línguas oficiais da União Europeia (UE):
 
-a) Indicação 'Qualidade UE';
+a) Indicação 'Qualidade UE', exceto nos materiais abrangidos pela alínea a) do n.º 2 do artigo 1.º, onde se aplica em sua substituição a menção 'Qualidade PT';
 
 b) Indicação do código do Estado-Membro da UE;
 
@@ -34,4 +34,4 @@ i) Quantidade;
 
 j) No caso de importação de países terceiros, o nome do país de produção.
 
-5 - No caso de o material de propagação ser acompanhado de passaporte fitossanitário, ao abrigo do Decreto-Lei n.º 154/2005, de 6 de setembro, este constituirá, se o fornecedor assim o desejar, o documento redigido pelo fornecedor referido no número anterior, sendo neste caso obrigatória a menção das informações constantes das alíneas a), d) e e) e, se for o caso, também das alíneas f) e g) ou h), i) e j), podendo estas informações constar do mesmo documento que inclui o passaporte fitossanitário, mas neste caso claramente separadas.
+5 - No caso de o material de propagação ser acompanhado de passaporte fitossanitário, ao abrigo do Regulamento (UE) n.º 2016/2031, este constituirá, se o fornecedor assim o desejar, o documento redigido pelo fornecedor referido no número anterior, sendo neste caso obrigatória a menção das informações constantes das alíneas a), d) e e) do número anterior e, se for o caso, também das alíneas f) e g) ou h), i) e j) do mesmo número, podendo estas informações constar do mesmo documento que inclui o passaporte fitossanitário, mas neste caso claramente separadas.

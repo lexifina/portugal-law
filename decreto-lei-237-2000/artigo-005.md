@@ -2,4 +2,4 @@
 
 ### Requisitos de protecção fitossanitária
 
-O material de propagação deve obedecer às condições fitossanitárias definidas no Decreto-Lei n.º 14/99, de 12 de Janeiro, e legislação complementar.
+O material de propagação deve cumprir com os requisitos fitossanitários definidos no Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, adiante designado por Regulamento (UE) n.º 2016/2031, e legislação de execução complementar.
