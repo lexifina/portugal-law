@@ -1,0 +1,121 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "536",
+    "id": "45312",
+    "titulo": "Assegura mais tempo de lazer por via da redução do limite máximo do período normal de trabalho e da consagração do direito a 25 dias úteis de férias nos setores público e privado, procedendo à décima sexta alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, e à décima terceira alteração à Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2020-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "49067",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2020-09-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2020-11-07",
+        "DatainicioApreciacaoPublica": "2020-10-08",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2020-11-06",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XIVLeg/10CTSS/Paginas/Iniciativas-Apreciacao-Publica.aspx?t=53556b675532567a63384f6a6279424d5a5764706332786864476c325953394462323530636d6c696458527663794251536b77674e544d325831684a566c38794c734b71&Path=6148523063446f764c324679626d56304c334e706447567a4c31684a566b786c5a793944543030764d54424456464e544c30467963585670646d39446232317063334e686279394a626d6c6a6157463061585a68637955794d4756744a544977515842795a574e70595356444d7956424e7956444d7956424d32386c4d6a42514a554d7a4a554a42596d78705932457653556b675532567a63384f6a6279424d5a5764706332786864476c325953394462323530636d6c696458527663794251536b77674e544d325831684a566c38794c734b71"
+          },
+          {
+            "DataDocumento": "2021-06-30",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255774e575a685a6a6b304c574d7a4d3251744e4463774d7930344e6d566a4c5455335a5749794e6a566b5a6d5177596935775a47593d&fich=e05faf94-c33d-4703-86ec-57eb265dfd0b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7444",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "Numero": "7444",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7015",
+            "motivoCessacao": null,
+            "nome": "Cristina Mendes da Silva"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2020-09-30",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 13.ª Comissão",
+    "OevId": "365968",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929035",
+        "obs": null,
+        "pag": [
+          "20-47"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-07-01",
+        "pubLeg": "XIV",
+        "pubNr": "161",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/161/2021-07-01/20?pgs=20-47&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
