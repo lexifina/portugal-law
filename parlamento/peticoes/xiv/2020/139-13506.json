@@ -1,0 +1,611 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13506",
+  "numero": "139",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-09-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-02-24",
+            "entidades": null,
+            "id": "116715",
+            "tipo": null,
+            "titulo": "Audição em 2023-02-24 com Peticionários da Petição n.º 139/XIV/2.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-07-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-12-02",
+        "DataArquivo": "2021-07-21",
+        "DataBaixaComissao": "2020-10-14",
+        "DataEnvioPAR": "2021-07-21",
+        "DataReaberta": "2020-12-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-02-24",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396d4d6d51785a4452694e6930354e544e6a4c54526a4e3245744f44557a4d6930344d6d466a595441344d4755314e7a59756347526d&fich=f2d1d4b6-953c-4c7a-8532-82aca080e576.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-12-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396c4e4751794d6d49334f53316c4e6a517a4c5451794f54677459544d324e6931685a544131596d56684d544d33596a67756347526d&fich=e4d22b79-e643-4298-a366-ae05bea137b8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-07-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387959544e6a596a63325a43307a5a4464694c54517a59574574595441304f5330325a445a684d6d49795a6a5a684e5745756347526d&fich=2a3cb76d-3d7b-43aa-a049-6d6a2b2f6a5a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7424",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-12-02",
+            "gp": "PSD",
+            "id": "5693",
+            "motivoCessacao": null,
+            "nome": "Rui Cristina"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2022-11-30",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-10-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324668596a59305a4759304c54686d593251744e474930596930344d6a56694c5467315a446c6c4d6a56685a5455774d5335775a47593d&fich=aab64df4-8fcd-4b4b-825b-85d9e25ae501.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121613",
+      "121627",
+      "152073"
+    ],
+    "Iniciativasoriginadas": [
+      "121613",
+      "121627",
+      "152073"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=22"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/20?pgs=20-21,30&org=PLC"
+              }
+            ],
+            "Sumario": "Apoiar os enfermeiros do Algarve; Alteração da carreira de enfermagem, de forma a valorizar estes profissionais tão importantes para o Serviço Nacional de Saúde e para o País; Pela valorização dos profissionais de saúde e do SNS na região do Algarve; Recomenda a eliminação das posições intermédias nas categorias dos enfermeiros especialistas e gestores colocados nas 1.ª e 2.ª posições remuneratórias e a respetiva atualização salarial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Apoiar os enfermeiros do Algarve; Alteração da carreira de enfermagem, de forma a valorizar estes profissionais tão importantes para o Serviço Nacional de Saúde e para o País; Pela valorização dos profissionais de saúde e do SNS na região do Algarve; Recomenda a eliminação das posições intermédias nas categorias dos enfermeiros especialistas e gestores colocados nas 1.ª e 2.ª posições remuneratórias e a respetiva atualização salarial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Apoiar os enfermeiros do Algarve; Alteração da carreira de enfermagem, de forma a valorizar estes profissionais tão importantes para o Serviço Nacional de Saúde e para o País; Pela valorização dos profissionais de saúde e do SNS na região do Algarve; Recomenda a eliminação das posições intermédias nas categorias dos enfermeiros especialistas e gestores colocados nas 1.ª e 2.ª posições remuneratórias e a respetiva atualização salarial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=25"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Apoiar os enfermeiros do Algarve; Alteração da carreira de enfermagem, de forma a valorizar estes profissionais tão importantes para o Serviço Nacional de Saúde e para o País; Pela valorização dos profissionais de saúde e do SNS na região do Algarve; Recomenda a eliminação das posições intermédias nas categorias dos enfermeiros especialistas e gestores colocados nas 1.ª e 2.ª posições remuneratórias e a respetiva atualização salarial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=26"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24",
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/23?pgs=23-24,29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Apoiar os enfermeiros do Algarve; Alteração da carreira de enfermagem, de forma a valorizar estes profissionais tão importantes para o Serviço Nacional de Saúde e para o País; Pela valorização dos profissionais de saúde e do SNS na região do Algarve; Recomenda a eliminação das posições intermédias nas categorias dos enfermeiros especialistas e gestores colocados nas 1.ª e 2.ª posições remuneratórias e a respetiva atualização salarial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=27"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/24?pgs=24-26&org=PLC"
+              }
+            ],
+            "Sumario": "Apoiar os enfermeiros do Algarve; Alteração da carreira de enfermagem, de forma a valorizar estes profissionais tão importantes para o Serviço Nacional de Saúde e para o País; Pela valorização dos profissionais de saúde e do SNS na região do Algarve; Recomenda a eliminação das posições intermédias nas categorias dos enfermeiros especialistas e gestores colocados nas 1.ª e 2.ª posições remuneratórias e a respetiva atualização salarial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=28"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/26?pgs=26-28&org=PLC"
+              }
+            ],
+            "Sumario": "Apoiar os enfermeiros do Algarve; Alteração da carreira de enfermagem, de forma a valorizar estes profissionais tão importantes para o Serviço Nacional de Saúde e para o País; Pela valorização dos profissionais de saúde e do SNS na região do Algarve; Recomenda a eliminação das posições intermédias nas categorias dos enfermeiros especialistas e gestores colocados nas 1.ª e 2.ª posições remuneratórias e a respetiva atualização salarial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Apoiar os enfermeiros do Algarve; Alteração da carreira de enfermagem, de forma a valorizar estes profissionais tão importantes para o Serviço Nacional de Saúde e para o País; Pela valorização dos profissionais de saúde e do SNS na região do Algarve; Recomenda a eliminação das posições intermédias nas categorias dos enfermeiros especialistas e gestores colocados nas 1.ª e 2.ª posições remuneratórias e a respetiva atualização salarial.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13506",
+    "PetAssunto": "Apoiar os enfermeiros do Algarve",
+    "PetDataEntrada": "2020-09-30",
+    "PeticoesAssociadas": null,
+    "PetId": "13506",
+    "PetLeg": "XIV",
+    "PetNr": "139",
+    "PetNrAssinaturas": "4877",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16267",
+        "obs": null,
+        "pag": [
+          "20-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-11-30",
+        "pubLeg": "XV",
+        "pubNr": "61",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/20?pgs=20-30&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915149",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-02",
+        "pubLeg": "XV",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/048/2022-12-02/13?pgs=13-14&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915155",
+        "obs": "Relatório final da Comissão de Saúde",
+        "pag": [
+          "7-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-17",
+        "pubLeg": "XV",
+        "pubNr": "52",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/052/2022-12-17/7?pgs=7-10&org=PLC"
+      }
+    ]
+  }
+}
