@@ -36,6 +36,4 @@ c) A quem tenha sido reconhecido o estatuto de membro da família de beneficiár
 
 d) Que sejam beneficiários dos direitos conferidos ao abrigo do Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia.
 
-e) Beneficiários de proteção temporária nos termos da Lei n.º 67/2003, de 23 de agosto.
-
 3 - São revogadas as Portarias n.os 480/2003, de 16 de Junho, e 996/2008, de 4 de Setembro.
