@@ -4,7 +4,7 @@
 
 1 - Consoante a gravidade do ilícito e a culpa do agente, podem ser aplicadas, cumulativamente com as penas previstas para os crimes referidos nos artigos 387.º e 388.º, as seguintes penas acessórias:
 
-a) Privação do direito de detenção de animais de companhia pelo período máximo de 5 anos;
+a) Privação do direito de detenção de animais de companhia pelo período máximo de 6 anos;
 
 b) Privação do direito de participar em feiras, mercados, exposições ou concursos relacionados com animais de companhia;
 
