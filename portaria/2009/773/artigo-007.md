@@ -1,13 +1,17 @@
 # Artigo 7.º
 
-### Entidades certificadas
+### Certificação da qualidade
 
-1 - O registo no sítio da ANPC deve permitir a identificação permanentemente actualizada das entidades certificadas ao abrigo de um referencial de qualidade específico para a actividade, no âmbito do comércio, instalação e ou manutenção de produtos e equipamentos de SCIE, auditado periodicamente por uma entidade terceira e independente.
+1 - A ANEPC divulga no seu sítio na internet:
 
-2 - Para efeitos do registo previsto no número anterior, as entidades certificadas devem ser detentoras de um dos seguintes certificados:
+a) O referencial de qualidade específico para a atividade, no âmbito do comércio, instalação ou manutenção de equipamentos e sistemas de SCIE, por si definido;
 
-a) Certificado de sistema de gestão da qualidade pela NP EN IS0 9001, emitido por organismos certificadores acreditados pelo IPAC, no âmbito do comércio, instalação e ou manutenção de produtos e equipamentos de SCIE;
+b) As entidades com certificação da qualidade no âmbito do comércio, instalação ou manutenção de equipamentos e sistemas de SCIE.
 
-b) Certificado de serviço, emitido por organismos certificadores acreditados pelo IPAC, no âmbito do comércio, instalação e ou manutenção de produtos e equipamentos de SCIE, com base no referencial definido e divulgado pela ANPC no seu sítio.
+2 - Para efeitos do previsto na alínea b) do número anterior, as entidades devem ser detentoras de um dos seguintes certificados, no âmbito do comércio, instalação ou manutenção de equipamentos e sistemas de SCIE:
 
-3 - O âmbito da certificação deve discriminar os produtos e equipamentos de SCIE objecto de comercialização, instalação e ou manutenção, previstos no artigo 2.º da presente portaria.
+a) Certificado de sistema de gestão da qualidade pela NP EN IS0 9001, emitido por organismos certificadores acreditados pelo IPAC;
+
+b) Certificado de serviço, emitido por organismos certificadores acreditados pelo IPAC, com base no referencial de qualidade definido pela ANEPC.
+
+3 - A certificação deve discriminar os equipamentos e sistemas de SCIE e as atividades de comercialização, instalação ou manutenção a eles associados.
