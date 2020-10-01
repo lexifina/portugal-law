@@ -6,9 +6,9 @@
 
 ### (Pressupostos)
 
-1 - Quando houver indícios de que alguém oculta na sua pessoa quaisquer objectos relacionados com um crime ou que possam servir de prova, é ordenada revista.
+1 - Quando houver indícios de que alguém oculta na sua pessoa quaisquer animais, coisas ou objetos relacionados com um crime ou que possam servir de prova, é ordenada revista.
 
-2 - Quando houver indícios de que os objectos referidos no número anterior, ou o arguido ou outra pessoa que deva ser detida, se encontram em lugar reservado ou não livremente acessível ao público, é ordenada busca.
+2 - Quando houver indícios de que os animais, as coisas ou os objetos referidos no número anterior, ou o arguido ou outra pessoa que deva ser detida, se encontram em lugar reservado ou não livremente acessível ao público, é ordenada busca.
 
 3 - As revistas e as buscas são autorizadas ou ordenadas por despacho pela autoridade judiciária competente, devendo esta, sempre que possível, presidir à diligência.
 

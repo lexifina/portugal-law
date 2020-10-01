@@ -8,7 +8,7 @@ a) As indicações tendentes à identificação do arguido;
 
 b) As indicações tendentes à identificação do assistente e das partes civis;
 
-c) A indicação do crime ou dos crimes imputados ao arguido, segundo a acusação, ou pronúncia, se a tiver havido;
+c) A indicação do destino a dar a animais, coisas ou objetos relacionados com o crime, com expressa menção das disposições legais aplicadas;
 
 d) A indicação sumária das conclusões contidas na contestação, se tiver sido apresentada.
 

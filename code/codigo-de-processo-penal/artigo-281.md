@@ -22,7 +22,7 @@ a) Indemnizar o lesado;
 
 b) Dar ao lesado satisfação moral adequada;
 
-c) Entregar ao Estado ou a instituições privadas de solidariedade social certa quantia ou efectuar prestação de serviço de interesse público;
+c) Entregar ao Estado, a instituições privadas de solidariedade social, associação de utilidade pública ou associações zoófilas legalmente constituídas certa quantia ou efetuar prestação de serviço de interesse público;
 
 d) Residir em determinado lugar;
 
@@ -38,7 +38,7 @@ i) Não acompanhar, alojar ou receber certas pessoas;
 
 j) Não frequentar certas associações ou participar em determinadas reuniões;
 
-l) Não ter em seu poder determinados objectos capazes de facilitar a prática de outro crime;
+l) Não ter em seu poder determinados animais, coisas ou objetos capazes de facilitar a prática de outro crime;
 
 m) Qualquer outro comportamento especialmente exigido pelo caso.
 

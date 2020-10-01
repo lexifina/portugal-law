@@ -2,7 +2,7 @@
 
 ### (Sujeição a exame)
 
-1 - Se alguém pretender eximir-se ou obstar a qualquer exame devido ou a facultar coisa que deva ser examinada, pode ser compelido por decisão da autoridade judiciária competente.
+1 - Se alguém pretender eximir-se ou obstar a qualquer exame devido ou a facultar animal ou coisa que deva ser objeto de exame, pode ser compelido por decisão da autoridade judiciária competente.
 
 2 - É correspondentemente aplicável o disposto nos n.os 3 do artigo 154.º e 6 e 7 do artigo 156.º
 
