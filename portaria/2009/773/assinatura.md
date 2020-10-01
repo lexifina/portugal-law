@@ -1,0 +1,1 @@
+O Ministro da Administração Interna, Rui Carlos Pereira, em 8 de Junho de 2009. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 8 de Junho de 2009. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 9 de Junho de 2009.
