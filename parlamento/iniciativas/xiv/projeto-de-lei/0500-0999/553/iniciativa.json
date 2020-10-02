@@ -1,0 +1,263 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "553",
+  "id": "45343",
+  "fases": 18,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2020-10-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "132",
+        "nome": "Rui Rio"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4030",
+        "nome": "Carlos Peixoto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6531",
+        "nome": "Mónica Quintela"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6595",
+        "nome": "Márcia Passos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6901",
+        "nome": "Catarina Rocha Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4397",
+        "nome": "Afonso Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4364",
+        "nome": "Luís Leite Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6539",
+        "nome": "André Coelho Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6935",
+        "nome": "Isabel Meireles"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1905",
+        "nome": "Fernando Negrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6973",
+        "nome": "José Cancela Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6176",
+        "nome": "Sara Madruga da Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5759",
+        "nome": "Lina Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5499",
+        "nome": "André Neves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4170",
+        "nome": "Duarte Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6905",
+        "nome": "Artur Soveral Andrade"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7128",
+        "nome": "Sofia Matos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2665",
+        "nome": "Jorge Paulo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5693",
+        "nome": "Rui Cristina"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6909",
+        "nome": "Fernanda Velez"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5490",
+        "nome": "Helga Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6537",
+        "nome": "Paulo Moniz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6853",
+        "nome": "António Maló de Abreu"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4055",
+        "nome": "Olga Silvestre"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1580",
+        "nome": "Firmino Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4304",
+        "nome": "Bruno Coimbra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6178",
+        "nome": "Paulo Neves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6538",
+        "nome": "Ana Miguel dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6529",
+        "nome": "Cláudia André"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6548",
+        "nome": "Nuno Miguel Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6545",
+        "nome": "Jorge Salgueiro Mendes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7011",
+        "nome": "Maria Gabriela Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6541",
+        "nome": "Filipa Roseta"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6551",
+        "nome": "Isabel Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5993",
+        "nome": "Alberto Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5749",
+        "nome": "Sandra Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2576",
+        "nome": "Eduardo Teixeira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Maria Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7274",
+        "nome": "Hugo Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6119",
+        "nome": "Emília Cerqueira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6571",
+        "nome": "António Cunha"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "45343",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "",
+    "IniNr": "553",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Texto inicial substituído a pedido do autor em 03-12-2020 e uma segunda alteração em 16-12-2020",
+    "IniTipo": "J",
+    "IniTitulo": "Introduz mecanismos de controlo da distribuição eletrónica dos processos judiciais, procedendo à décima alteração ao Código de Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
