@@ -1,0 +1,8 @@
+Aviso n.º 15780/2020
+Sumário: Regulamento Municipal dos Serviços de Abastecimento de Água e de Saneamento de Águas Residuais Urbanas - projeto.
+Regulamento Municipal dos Serviços de Abastecimento de Água e de Saneamento de Águas Residuais Urbanas - Projeto
+Álvaro Manuel Balseiro Amaro, Presidente da Câmara Municipal de Palmela, torna público que, nos termos e em cumprimento do disposto no artigo 56.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, conjugado com o artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e com o artigo 62.º do Decreto-Lei n.º 194/2009, de 20 de agosto, decidiu, por seu despacho de 23 de julho de 2020, prorrogar por 15 dias úteis o prazo de consulta pública relativo ao projeto do Regulamento Municipal dos Serviços de Abastecimento de Água e de Saneamento de Águas Residuais Urbanas, já objeto de publicação no Diário da República (2.ª série de 13 de março de 2020, n.º 52, Aviso n.º 4400/2020 e cujo texto se encontra também disponível no sítio eletrónico oficial do município www.cm-palmela.pt.
+A contagem do prazo inicia-se na data da publicação do presente Aviso em 2.ª série do Diário da República.
+Qualquer interessado poderá, assim, durante este novo período de consulta pública, apresentar por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente projeto, conforme disposto no n.º 2 do citado artigo 101.º, dirigidas à Câmara Municipal, via correio normal (Largo do Município 2954-001 Palmela) ou via correio eletrónico (geral@cm-palmela.pt).
+3 de setembro de 2020. - O Presidente da Câmara, Álvaro Manuel Balseiro Amaro.
+313539997
