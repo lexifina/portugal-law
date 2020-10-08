@@ -1,0 +1,903 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "542",
+    "id": "45318",
+    "titulo": "Reforça os direitos dos trabalhadores no regime de trabalho nocturno e por turnos (Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2020-10-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16642",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2020-10-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "43965",
+        "leg": "XIV",
+        "nr": "17",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44081",
+        "leg": "XIV",
+        "nr": "75",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alterações ao regime jurídico-laboral e alargamento da proteção social dos trabalhadores por turnos e noturnos (16.ª alteração ao Código do Trabalho)"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44548",
+        "leg": "XIV",
+        "nr": "246",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Código do Trabalho e a Lei Geral do Trabalho em Funções Públicas, reforçando os direitos dos trabalhadores no regime de trabalho nocturno e por turnos"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44557",
+        "leg": "XIV",
+        "nr": "252",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5947",
+            "obs": null,
+            "pag": [
+              "20-31"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-31&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Garante o reforço dos direitos aos trabalhadores por turnos e noturno (Alteração ao Código de Trabalho e á Lei de Trabalho em Funções Públicas)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2020-10-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=23"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/20?pgs=20-21,30-31&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=24"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/21?pgs=21-22,30&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6549",
+                "nome": "Bebiana Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=25"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=26"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Ninsc",
+                "idCadastro": "6547",
+                "nome": "Cristina Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=27"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6550",
+                "nome": "João Cotrim de Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=28"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4147",
+                "nome": "Carla Barros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/25?pgs=25-27&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2215",
+                "nome": "Nuno Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:29",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_08_15_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/011/2020-10-09/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Lei n.º 75/XIV/1.ª (BE); Projeto de Lei n.º 17/XIV/1.ª (PCP); Projeto de Lei n.º 246/XIV/1.ª (PAN); Projeto de Lei n.º 252/XIV/1.ª (PEV); Projeto de Lei n.º 542/XIV/2.ª (DNI Cristina Rodrigues",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "366322",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
