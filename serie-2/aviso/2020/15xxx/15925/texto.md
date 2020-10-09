@@ -1,0 +1,6 @@
+Aviso n.º 15925/2020
+Sumário: Alteração ao Plano de Urbanização de Mira.
+Alteração ao Plano de Urbanização de Mira - Discussão Pública
+Torna-se público que a Câmara Municipal de Mira, na sua reunião ordinária de 17 de setembro de 2020, deliberou aprovar, por unanimidade, a correção proposta no âmbito do parecer final da Comissão de Coordenação e Desenvolvimento Regional do Centro relativo à alteração ao Plano de Urbanização de Mira, emitido nos termos do n.º 1 e n.º 2 do artigo 85.º do DL n.º 80/2015, de 14 de maio. Deliberou ainda, de acordo com o disposto no n.º 1 do artigo 89.º do DL n.º 80/2015, de 14 de maio, proceder à abertura de um período de discussão pública da proposta da alteração ao Plano de Urbanização de Mira que decorrerá por um período de 20 dias contados a partir do 6.º dia útil a seguir à data da publicação do presente aviso na 2.ª série do Diário da República. Os interessados poderão consultar os documentos aprovados, na página da internet (município www.cm-mira.pt, em Discussão Pública). Qualquer sugestão, informação ou observação deverá ser apresentada na forma de email dirigido ao seguinte endereço: planos@cm-mira.pt ou através de requerimento geral disponível no balcão de atendimento ao munícipe da Câmara Municipal.
+22 de setembro de 2020. - O Presidente da Câmara Municipal, Raul José Rei Soares de Almeida, Dr.
+613586499
