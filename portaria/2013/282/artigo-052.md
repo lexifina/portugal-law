@@ -23,3 +23,5 @@ iii) De que as despesas de deslocação são da sua exclusiva responsabilidade, 
 b) O exequente aceitar expressamente a cobrança da deslocação.
 
 4 - Para os efeitos do n.º 1, consideram-se despesas comprovadas as que sejam lançadas, de forma automática, pelo sistema informático de suporte à atividade dos agentes de execução na conta corrente do processo, nomeadamente as que resultem de registos de penhora eletrónica, expedição de correio, notificações eletrónicas, transferências e pagamentos eletrónicos.
+
+5 - As faturas das despesas relativas a comissões e serviços bancários são emitidas em nome do exequente, pela entidade que presta o serviço, mediante indicação do agente de execução efetuada através do sistema informático de suporte à respetiva atividade, no qual essas faturas devem ficar disponibilizadas.
