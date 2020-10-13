@@ -1,0 +1,163 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Resolução",
+  "numero": "715",
+  "id": "45394",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2020-10-13",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4030",
+        "nome": "Carlos Peixoto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6906",
+        "nome": "Carla Borges"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6544",
+        "nome": "Isaura Morais"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6973",
+        "nome": "José Cancela Moura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1442",
+        "nome": "Fernando Ruas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2665",
+        "nome": "Jorge Paulo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6595",
+        "nome": "Márcia Passos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Maria Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7011",
+        "nome": "Maria Gabriela Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7007",
+        "nome": "Carla Madureira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4304",
+        "nome": "Bruno Coimbra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4055",
+        "nome": "Olga Silvestre"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6531",
+        "nome": "Mónica Quintela"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6545",
+        "nome": "Jorge Salgueiro Mendes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6207",
+        "nome": "Margarida Balseiro Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6857",
+        "nome": "Hugo Patrício Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5490",
+        "nome": "Helga Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6137",
+        "nome": "António Lima Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5759",
+        "nome": "Lina Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5993",
+        "nome": "Alberto Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6885",
+        "nome": "Ofélia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1738",
+        "nome": "Pedro Alves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "45394",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4749354d7a67324e6d51745a4463774f4330304d6d52684c5467324d444174596a49334e4449774d5451344d3255304c6d527659773d3d&fich=db93866d-d708-42da-8600-b274201483e4.doc&Inline=true",
+    "IniNr": "715",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo que conclua o processo de avaliação, celebre os contratos e proceda aos pagamentos em dívida, referente às candidaturas apresentadas pelas Entidades Associativas e Religiosas, no âmbito do Programa Equipamentos (subprograma 2) - Furacão Leslie (2018), até ao final de 2020",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
