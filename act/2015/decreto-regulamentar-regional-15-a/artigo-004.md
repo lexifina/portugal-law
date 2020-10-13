@@ -1,11 +1,11 @@
 # Artigo 4.º
 
-### Prova de declarações
+### Comunicações
 
-1 - Para efeito da apreciação da candidatura, os serviços da Direção Regional da Habitação podem, a qualquer momento, exigir a apresentação de documentos comprovativos das declarações prestadas pelos requerentes.
+1 - As comunicações a efetuar em todas as fases do procedimento da candidatura são preferencialmente concretizadas por meios eletrónicos.
 
-2 - O requerente será notificado para o fazer, no prazo máximo de dez dias úteis, através de carta registada com aviso de receção.
+2 - Quando o candidato que não possa ser notificado pelos meios referidos no número anterior, as comunicações far-se-ão através de carta registada com aviso de receção.
 
-3 - O prazo fixado nos termos do número anterior pode, por motivos devidamente justificados, ser prorrogado.
+3 - (Revogado.)
 
-4 - Considera-se regularmente notificado o interessado, cuja notificação enviada para o domicílio do requerente, não seja por ele reclamada.
+4 - Considera-se regularmente notificado o candidato cuja comunicação enviada para o respetivo domicílio não seja por ele reclamada.

@@ -14,11 +14,11 @@ c) Documento comprovativo do domicílio fiscal dos membros do agregado familiar.
 
 3 - Para comprovar o valor da renda:
 
-a) Contrato de arrendamento celebrado ao abrigo do Novo Regime do Arrendamento Urbano, constante do Título I da Lei n.º 6/2006, de 27 de fevereiro, ou do regime transitório previsto no seu Título II, do Capítulo I, com as alterações introduzidas pela Lei n.º 31/2012, de 14 de agosto, que deverá conter o registo do serviço de finanças de liquidação do imposto de selo;
+a) Contrato de arrendamento celebrado ao abrigo do Novo Regime do Arrendamento Urbano, constante do Título I da Lei n.º 6/2006, de 27 de fevereiro, ou do regime transitório previsto no seu Título II, do Capítulo I, com as alterações introduzidas pela Lei n.º 31/2012, de 14 de agosto, com a respetiva declaração do Imposto de Selo da comunicação do contrato de arrendamento junto da Autoridade Tributária;
 
 b) Último recibo de renda ou documento comprovativo do respetivo pagamento;
 
-c) Cópia não certificada da certidão de teor do prédio objeto da candidatura e caderneta predial.
+c) Cópia não certificada da certidão de teor do prédio objeto da candidatura e caderneta predial atualizadas.
 
 4 - Para comprovar o valor dos rendimentos:
 
@@ -38,9 +38,9 @@ g) Em caso de beneficiários do Rendimento Social de Inserção, declaração do
 
 h) Em situação de família monoparental, documento comprovativo do valor da pensão de alimentos dos menores ou, na falta deste, declaração sob compromisso de honra do valor auferido;
 
-i) Em caso de algum elemento do agregado familiar beneficiar de Subsídio por Assistência de Terceira Pessoa, declaração do Instituto da Segurança Social dos Açores ou de outra entidade comprovativa, com o respetivo montante anual;
+i) Em caso de algum elemento do agregado familiar ser portador de deficiência, declaração do Instituto da Segurança Social dos Açores, IPRA, ou de outra entidade, comprovativa do tipo de subsídio auferido e respetivo montante anual;
 
-j) Em caso de algum elemento do agregado familiar ser portador de deficiência, declaração do Instituto da Segurança Social dos Açores ou de outra entidade comprovativa do tipo de subsídio auferido e respetivo montante anual, bonificação do Abono de Família para Crianças e Jovens ou subsídio por Frequência de Estabelecimento de Educação Especial ou Subsídio Mensal Vitalício.
+j) Extrato de remunerações da segurança social dos últimos dois anos de todos os elementos do agregado familiar com idade igual ou superior a 18 anos.
 
 5 - Para comprovar a inexistência de bens imóveis suscetíveis de serem ocupados ou cuja utilização permite o pagamento integral do arrendamento:
 
@@ -62,13 +62,17 @@ b) Se à data da candidatura não tiverem ocorrido mais de três anos contados d
 
 7 - Para as situações previstas no n.º 3, do artigo 10.º, devem ser apresentados os seguintes elementos:
 
-a) Todos os recibos do pagamento da renda, de acordo com o disposto na alínea b), do n.º 3;
+a) Todos os recibos do pagamento da renda, de acordo com o disposto na alínea b) do n.º 3, relativos ao período em que o candidato beneficiou do apoio, sem prejuízo da possibilidade de apresentação voluntária com periodicidade mensal;
 
-b) Os documentos comprovativos do reembolso do apoio que haja sido indevidamente recebido;
+b) Os documentos comprovativos do reembolso do apoio que haja sido indevidamente recebido, caso não se aplique a dedução prevista no n.º 4 do artigo 16.º do presente diploma;
 
 c) Atualização dos documentos referidos nos n.os 2, 4 e 5 e nas alíneas a) e b), do n.º 6;
 
-d) Os documentos referidos nas alíneas a) e c), do n.º 4, no caso de existir alteração de morada.
+d) Os documentos referidos nas alíneas a) e c), do n.º 3, no caso de existir alteração de morada;
+
+e) Adenda ao contrato de arrendamento, e respetiva declaração do Imposto de Selo da comunicação da alteração do contrato de arrendamento junto da autoridade tributária, se aplicável;
+
+f) Comunicação, escrita, do senhorio a comunicar a atualização do valor da renda de acordo com o coeficiente de atualização da renda em vigor para o respetivo ano civil, se aplicável.
 
 8 - Para comprovar que a habitação esteve arrendada a militares norte-americanos:
 
@@ -78,4 +82,6 @@ b) Cópia das declarações de rendimentos prediais em sede de IRS ou IRC do pro
 
 c) Cópia do contrato de arrendamento, registado no Housing Office e no serviço de finanças, no caso de o imóvel constar das declarações referidas na alínea anterior.
 
-9 - A não instrução do processo de renovação do apoio nos termos indicados e dentro do prazo estabelecido no n.º 3, do artigo anterior, determina a caducidade do direito à renovação.
+9 - Os candidatos, bem como os elementos que compõem o respetivo agregado familiar, poderão autorizar os serviços da direção regional competente em matéria de habitação a obterem os documentos referidos nas alíneas e), f), g), i) e j) do n.º 4 do presente artigo junto do Instituto da Segurança Social dos Açores, IPRA.
+
+10 - A não instrução do processo da 2.ª e 3.ª candidatura ou da renovação do apoio nos termos indicados e dentro dos prazos estabelecidos nos n.os 2 e 3 do artigo anterior determina a caducidade do direito à candidatura ou à renovação, consoante o caso.

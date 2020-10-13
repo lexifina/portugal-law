@@ -4,13 +4,13 @@
 
 # Artigo 7.º
 
-### Seleção das Habitações
+### Seleção das habitações
 
-1 - Para efeitos de aquisição de habitações selecionadas nos termos dos n.os 1 e 2, do artigo 8.º do diploma ora regulamentado, a mesma estará sujeita aos preços máximos definidos anualmente para efeitos dos Decretos-Leis n.os 163/93, de 7 de maio e 135/2004, de 3 de junho, na redação conferida pelo Decreto-Lei n.º 54/2007, de 12 de março e Decreto-Lei n.º 197/95, de 29 de julho.
+1 - A aquisição de habitações selecionadas nos termos dos n.os 1 e 2 do artigo 8.º do diploma ora regulamentado está sujeita ao regime previsto no Decreto Legislativo Regional n.º 11/2008/A, de 19 de maio.
 
-2 - Em casos excecionais e devidamente fundamentados, por despacho do membro do Governo Regional com competência em matéria de habitação, as aquisições podem ser autorizadas por preços superiores aos limites máximos fixados no número anterior, desde que tal valor seja devidamente justificado no relatório de avaliação do imóvel.
+2 - (Revogado.)
 
-3 - Quando os fogos a adquirir estejam integrados em empreendimentos de custos controlados, os respetivos preços de aquisição são os valores finais de venda desses fogos, determinados de acordo com o regime da habitação de custos controlados, não podendo em caso algum exceder os limites máximos fixados para o efeito nos termos do n.º 1.
+3 - Quando os fogos a adquirir estejam integrados em empreendimentos de custos controlados, os respetivos preços de aquisição são fixados com base no respetivo custo de promoção, determinado de acordo com o regime da habitação de custos controlados.
 
 4 - A construção de habitações para arrendamento está sujeita aos parâmetros e valores em vigor para a habitação de custos controlados, nomeadamente quanto aos custos de construção por metro quadrado.
 
