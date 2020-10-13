@@ -16,7 +16,7 @@
 
 7 - A extrapolação da estrutura temporal das taxas de juro sem risco relevante baseia-se nas taxas de juro sem risco ajustadas nos termos do número anterior.
 
-8 - Para cada país o ajustamento de volatilidade das taxas de juro sem risco referido nos n.os 4 a 7 para a moeda desse país é acrescido, antes da aplicação do fator de 65 %, da diferença entre o spread relativo ao país corrigido do risco e o dobro do spread relativo à moeda corrigido do risco, sempre que essa diferença seja positiva e o spread relativo ao país corrigido do risco seja superior a 100 pontos base.
+8 - Para cada país, o ajustamento de volatilidade das taxas de juro sem risco referido nos n.os 4 a 7 para a moeda desse país é acrescido, antes da aplicação do fator de 65 %, da diferença entre o spread relativo ao país corrigido do risco e o dobro do spread relativo à moeda corrigido do risco, sempre que essa diferença seja positiva e o spread relativo ao país corrigido do risco seja superior a 85 pontos base.
 
 9 - O ajustamento de volatilidade referido no número anterior é aplicável ao cálculo da melhor estimativa das responsabilidades de seguros e de resseguros decorrentes de produtos comercializados nesse país.
 
