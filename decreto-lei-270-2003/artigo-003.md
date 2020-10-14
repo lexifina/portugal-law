@@ -44,13 +44,13 @@ s) Revogada;
 
 t) Revogada;;
 
-u) «Sistema de gestão da segurança (SGS)» a organização e as disposições adotadas pelo gestor da infraestrutura ou por empresa de transporte ferroviário para garantir a segurança da gestão das suas operações;
+u) Revogada;
 
 v) Revogada;
 
 w) Revogada;
 
-x) «Transporte combinado» o transporte no qual o camião, o reboque, o semirreboque, com ou sem trator, a caixa móvel ou o contentor, sendo este de, pelo menos, 20 pés, utilizem sucessivamente dois ou mais modos de transporte, um dos quais o ferroviário;
+x) Revogada;
 
 y) Revogada;
 

@@ -1,7 +1,3 @@
-Decreto-Lei n.º 270/2003
-
-de 28 de Outubro
-
 1 - As Directivas n.os 2001/12/CE, 2001/13/CE e 2001/14/CE, todas do Parlamento Europeu e do Conselho, de 26 de Fevereiro, conjunto a que é comum atribuir a designação «pacote ferroviário I», cuja aprovação representou um marco no desenvolvimento da política comunitária para o sector ferroviário e a que o presente decreto-lei vem dar transposição, orientam-se no sentido de introduzir mecanismos de mercado no tradicionalmente fechado sector do transporte ferroviário.
 
 As soluções que aquelas directivas prevêem consagram a separação vertical entre as actividades de gestão da infra-estrutura ferroviária e de operação de transporte ferroviário, com ênfase para a necessidade de assegurar o equilíbrio financeiro do gestor da infra-estrutura; a concessão às empresas de transporte ferroviário europeias de direitos de acesso às redes dos vários Estados membros em casos específicos; a adopção de critérios gerais comuns no licenciamento do acesso à actividade de transporte ferroviário, acompanhada da criação de um modelo uniforme de licença europeia, com vista ao mútuo reconhecimento das empresas de transporte ferroviário, e a publicitação junto dos operadores, pelos gestores da infra-estrutura, das características da mesma, nomeadamente da capacidade oferecida, bem como das condições da mesma e do seu preço.
