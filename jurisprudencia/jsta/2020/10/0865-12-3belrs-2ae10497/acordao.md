@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2020-10-14, processo 0865/12.3BELRS
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0865/12.3BELRS
+
+**Data do Acordão:** 10/14/2020
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOSÉ GOMES CORREIA
+
+**Descritores:** IRC; BENEFÍCIOS FISCAIS; SUBSÍDIO DE ALIMENTAÇÃO; MAJORAÇÃO; CRIAÇÃO DE POSTOS DE TRABALHO; DESEMPREGO
+
+**Nº Convencional:** JSTA000P26489
+
+**Nº do Documento:** SA2202010140865/12
+
+**Data de Entrada:** 11/29/2019
+
+**Recorrente:** AT-AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A……..PORTUGAL- SUPERMERCADOS, S.A.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O subsídio de refeição não tem a natureza de remuneração, entendimento este que é acolhido no CIRS, ao considerar-se que essa prestação apenas está sujeita a tributação «na parte em que exceder o limite legal estabelecido ou em que o exceda em 60% sempre que o respetivo subsídio seja atribuído através de vales de refeição;» - 2) da alínea b) do nº3 do artigo 2º do CIRS.
+
+II - O subsídio de refeição tem a natureza de benefício social e destina-se a compensar os trabalhadores das despesas com a refeição principal do dia em que prestam serviço efectivo, tomada fora da residência habitual, o que vale por dizer que é na sua causa, e apenas nesta, que radica a sua regularidade, à qual não pode, pois, ser atribuído outro sentido, como seja o indiciar, nos termos gerais, o seu carácter retributivo.
+
+III - Igual descaracterização [da sua natureza remuneratória] era feita no art. 260º, nº 2, Código do Trabalho de 2003, excepto na parte que exceda os respectivos montantes normais, tenham sido previstas no contrato ou se devam considerar pelos usos como elemento integrante da retribuição do trabalhador, caso em que se considerava retribuição, e foi mantida nos mesmos termos no art. 260º, nº 1, al. a) e nº 2, do Código do Trabalho de 2009.
+
+IV - Tratando-se não de uma componente da remuneração do trabalho mas de um benefício social cuja existência é justificada pela necessidade de custear as refeições realizadas durante o período da prestação de trabalho, tal prestação não é subsumível no conceito de “remuneração fixa” consagrada no artigo 19º do EBF, sendo a sua introdução pela Lei nº 53-A/2006, um evidente intuito do legislador em restringir o conceito de “encargos” a atender para efeitos de majoração.
+
+V - Para efeitos de majoração dos “encargos” correspondentes à criação líquida de postos de trabalho para jovens e para desempregados de longa duração, admitidos por contrato de trabalho por tempo indeterminado, ao abrigo do disposto no artigo 19º do EBF, deve atender-se aos montantes suportados pela entidade empregadora com o trabalhador, a título da “remuneração fixa” e das contribuições para a segurança social a cargo da mesma entidade, nos quais não se inclui o subsídio de alimentação, por não revestir a natureza remuneratória, mas sim de benefício social.
+
+VI - Tal entendimento é o mais harmónico com a letra e o espirito do legislador, que com as alterações introduzidas ao artigo 19º do EBF, pela Lei nº 53-A/2006, de 29/12, e constantes da alínea c) do seu nº2, revela o seu intuito de restringir o âmbito do conceito de “encargos” previsto nº1 do mesmo preceito legal.
