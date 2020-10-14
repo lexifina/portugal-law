@@ -1,0 +1,448 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "657",
+    "id": "45279",
+    "titulo": "Pela regulamentação da atividade de carteiro com vista à redução do desgaste resultante do exercício da atividade e à garantia das condições de segurança e saúde no trabalho"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2020-10-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17169",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2020-10-14",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2020-10-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=84"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242443",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79",
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/013/2020-10-15/78?pgs=78-79,84-85&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Resolução 657/XIV/2.ª (BE); Petição 637/XIII/4ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/013/2020-10-15/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Resolução 657/XIV/2.ª (BE); Petição 637/XIII/4ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242445",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/013/2020-10-15/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Resolução 657/XIV/2.ª (BE); Petição 637/XIII/4ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=87"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242446",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81",
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/013/2020-10-15/81?pgs=81,84&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Resolução 657/XIV/2.ª (BE); Petição 637/XIII/4ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6896",
+                "nome": "Nelson Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242447",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/013/2020-10-15/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Resolução 657/XIV/2.ª (BE); Petição 637/XIII/4ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6909",
+                "nome": "Fernanda Velez"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242448",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/013/2020-10-15/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Resolução 657/XIV/2.ª (BE); Petição 637/XIII/4ª",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7212",
+                "nome": "Fernando José"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=90"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_14_15_00_00_clean_14_plenario.xml&idsegmento=92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242449",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/013/2020-10-15/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "sumario": "Projeto de Resolução 657/XIV/2.ª (BE); Petição 637/XIII/4ª",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "366594",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "927572",
+        "obs": null,
+        "pag": [
+          "78-85"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-15",
+        "pubLeg": "XIV",
+        "pubNr": "13",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/013/2020-10-15/78?pgs=78-85&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
