@@ -124,19 +124,19 @@ c) A 21 de julho de 2024, relativamente à utilização em microscópios eletró
 
 37 - Chumbo em elétrodos de platina platinada utilizados para medições de condutividade, pelo menos, numa das seguintes condições:
 
-a) Medições numa gama vasta de condutividades, que abranja mais de uma ordem de grandeza (por exemplo, de 0,1 mS/m a 5 mS/m), em aplicações laboratoriais com concentrações desconhecidas;
+a) Medições numa gama vasta de condutividades, que abranja mais de uma ordem de grandeza (por exemplo de 0,1 mS/m a 5 mS/m), em aplicações laboratoriais com concentrações desconhecidas;
 
-b) Medições de soluções, se for necessária uma precisão de (mais ou menos)1 % da gama de amostragem e uma elevada resistência do elétrodo à corrosão, em qualquer dos seguintes meios:
+b) Medições de soluções, se for necessária uma precisão de (mais ou menos) 1 % da gama de amostragem e elevada resistência do elétrodo à corrosão, em qualquer dos seguintes meios:
 
-i) soluções com acidez (menor que) pH 1;
+i) Soluções com acidez (menor que) pH 1;
 
-ii) soluções com alcalinidade (maior que) pH 13;
+ii) Soluções com alcalinidade (maior que) pH 13;
 
-iii) Soluções corrosivas de gases halogéneos.
+iii) Soluções corrosivas de gases halogéneos;
 
 c) Medições de condutividades superiores a 100 mS/m, efetuadas com instrumentos portáteis.
 
-Caduca em 31 de dezembro de 2018.
+Caduca a 31 de dezembro de 2025.
 
 38 - Chumbo em soldas de interfaces de elementos empilhados de grande superfície, com mais de 500 interconexões por interface, utilizados em detetores de raios X para tomografia computorizada e em sistemas de raios X. Caduca em 31 de dezembro de 2019. Após essa data, pode ser utilizado em peças sobresselentes para tomografia computorizada e sistemas de raios X colocados no mercado antes de 1 de janeiro de 2020.
 
@@ -168,10 +168,16 @@ c) 21 de julho de 2024, no respeitante aos instrumentos industriais de monitoriz
 
 40 - Chumbo em materiais cerâmicos dielétricos de condensadores com tensão nominal inferior a 125 V AC ou 250 V DC para instrumentos industriais de monitorização e controlo. Caduca em 31 de dezembro de 2020. Após essa data, pode ser utilizado em peças sobresselentes de instrumentos industriais de monitorização e controlo colocados no mercado antes de 1 de janeiro de 2021.
 
-41 - Chumbo como estabilizador térmico no policloreto de vinilo (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos, que são usados em dispositivos médicos para diagnóstico in vitro para a análise de amostras de sangue e de outros fluidos e gases corporais. Caduca em 31 de dezembro de 2018.
+41 - Chumbo como estabilizador térmico no poli(cloreto de vinilo) (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos usados em dispositivos médicos de diagnóstico in vitro para análise de amostras de sangue e de outros fluidos e gases corporais.
+
+Caduca a 31 de março de 2022.
 
 42 - Mercúrio em conectores elétricos rotativos utilizados em sistemas de imagiologia de ultrassom intravascular capazes de funcionar a alta frequência (maior que) 50 MHz). Caduca em 30 de junho de 2019.
 
 43 - Ânodos de Cádmio em células Hersch para sensores de oxigénio utilizados em instrumentos industriais de monitorização e controlo, se for necessária uma sensibilidade inferior a 10 ppm.
 
 A isenção caduca a 15 de julho de 2023.
+
+44 - Cádmio em tubos de câmaras de vídeo resistentes a radiações concebidos para câmaras com resolução central superior a 450 TVL utilizadas em ambientes expostos a radiações ionizantes geradoras de doses superiores a 100 Gy/hora e de doses totais superiores a 100 kGy. Aplica-se à categoria 9.
+
+Caduca a 31 de março de 2027.
