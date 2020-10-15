@@ -1,0 +1,818 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "533",
+    "id": "45309",
+    "titulo": "Elimina o banco de horas grupal e por acordo de grupo, a adaptabilidade individual e grupal e reforça a fiscalização dos horários de trabalho (16.ª alteração ao Código de Trabalho)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2020-10-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "14958",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2020-10-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "45310",
+        "leg": "XIV",
+        "nr": "534",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Aprova medidas que garantam a conciliação do trabalho com a vida familiar e uma maior estabilidade profissional, procedendo para o efeito à décima sexta alteração ao Código do Trabalho, à décima terceira alteração à Lei Geral do Trabalho em Funções Públicas, e à sexta alteração ao Decreto-Lei n.º 91/2009, de 9 de abril"
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "45315",
+        "leg": "XIV",
+        "nr": "539",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Restabelece o banco de horas individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro que aprovou o Código do Trabalho)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44062",
+        "leg": "XIV",
+        "nr": "64",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade e de banco de horas, nas modalidades grupal e por regulamentação coletiva (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44063",
+        "leg": "XIV",
+        "nr": "65",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2751",
+            "obs": null,
+            "pag": [
+              "42-51"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-16",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2020-10-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=02:30:39:059&drc=00:05:36:096"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=03:04:49:950&drc=00:02:15:511"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43",
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-16",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-43,50-51&org=PLC"
+              }
+            ],
+            "sumario": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade e de banco de horas, nas modalidades grupal e por regulamentação coletiva (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Elimina o banco de horas grupal e por acordo de grupo, a adaptabilidade individual e grupal e reforça a fiscalização dos horários de trabalho (16.ª alteração ao Código do Trabalho); Aprova medidas que garantam a conciliação do trabalho com a vida familiar e uma maior estabilidade profissional, procedendo, para o efeito, à 16.ª alteração ao Código do Trabalho, à 13.ª alteração à Lei Geral do Trabalho em Funções Públicas e à 6.ª alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Restabelece o banco de horas individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=02:36:15:155&drc=00:03:48:533"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=03:02:36:054&drc=00:02:13:896"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44",
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-16",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/43?pgs=43-44,49-50&org=PLC"
+              }
+            ],
+            "sumario": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade e de banco de horas, nas modalidades grupal e por regulamentação coletiva (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Elimina o banco de horas grupal e por acordo de grupo, a adaptabilidade individual e grupal e reforça a fiscalização dos horários de trabalho (16.ª alteração ao Código do Trabalho); Aprova medidas que garantam a conciliação do trabalho com a vida familiar e uma maior estabilidade profissional, procedendo, para o efeito, à 16.ª alteração ao Código do Trabalho, à 13.ª alteração à Lei Geral do Trabalho em Funções Públicas e à 6.ª alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Restabelece o banco de horas individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6549",
+                "nome": "Bebiana Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=02:40:03:689&drc=00:04:49:627"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-16",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade e de banco de horas, nas modalidades grupal e por regulamentação coletiva (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Elimina o banco de horas grupal e por acordo de grupo, a adaptabilidade individual e grupal e reforça a fiscalização dos horários de trabalho (16.ª alteração ao Código do Trabalho); Aprova medidas que garantam a conciliação do trabalho com a vida familiar e uma maior estabilidade profissional, procedendo, para o efeito, à 16.ª alteração ao Código do Trabalho, à 13.ª alteração à Lei Geral do Trabalho em Funções Públicas e à 6.ª alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Restabelece o banco de horas individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6550",
+                "nome": "João Cotrim de Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=02:44:53:316&drc=00:02:58:063"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-16",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade e de banco de horas, nas modalidades grupal e por regulamentação coletiva (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Elimina o banco de horas grupal e por acordo de grupo, a adaptabilidade individual e grupal e reforça a fiscalização dos horários de trabalho (16.ª alteração ao Código do Trabalho); Aprova medidas que garantam a conciliação do trabalho com a vida familiar e uma maior estabilidade profissional, procedendo, para o efeito, à 16.ª alteração ao Código do Trabalho, à 13.ª alteração à Lei Geral do Trabalho em Funções Públicas e à 6.ª alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Restabelece o banco de horas individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5759",
+                "nome": "Lina Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=02:47:51:379&drc=00:05:17:706"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-16",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade e de banco de horas, nas modalidades grupal e por regulamentação coletiva (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Elimina o banco de horas grupal e por acordo de grupo, a adaptabilidade individual e grupal e reforça a fiscalização dos horários de trabalho (16.ª alteração ao Código do Trabalho); Aprova medidas que garantam a conciliação do trabalho com a vida familiar e uma maior estabilidade profissional, procedendo, para o efeito, à 16.ª alteração ao Código do Trabalho, à 13.ª alteração à Lei Geral do Trabalho em Funções Públicas e à 6.ª alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Restabelece o banco de horas individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2445",
+                "nome": "Tiago Barbosa Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=02:53:09:086&drc=00:05:33:584"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-16",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade e de banco de horas, nas modalidades grupal e por regulamentação coletiva (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Elimina o banco de horas grupal e por acordo de grupo, a adaptabilidade individual e grupal e reforça a fiscalização dos horários de trabalho (16.ª alteração ao Código do Trabalho); Aprova medidas que garantam a conciliação do trabalho com a vida familiar e uma maior estabilidade profissional, procedendo, para o efeito, à 16.ª alteração ao Código do Trabalho, à 13.ª alteração à Lei Geral do Trabalho em Funções Públicas e à 6.ª alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Restabelece o banco de horas individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_10_15_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m10/&tI=02:58:42:670&drc=00:03:53:384"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-16",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade e de banco de horas, nas modalidades grupal e por regulamentação coletiva (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Garante o cumprimento efetivo dos horários de trabalho e a conciliação do trabalho com a vida familiar e revoga os mecanismos de adaptabilidade individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho); Elimina o banco de horas grupal e por acordo de grupo, a adaptabilidade individual e grupal e reforça a fiscalização dos horários de trabalho (16.ª alteração ao Código do Trabalho); Aprova medidas que garantam a conciliação do trabalho com a vida familiar e uma maior estabilidade profissional, procedendo, para o efeito, à 16.ª alteração ao Código do Trabalho, à 13.ª alteração à Lei Geral do Trabalho em Funções Públicas e à 6.ª alteração ao Decreto-Lei n.º 91/2009, de 9 de abril; Restabelece o banco de horas individual (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "366606",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "913982",
+        "obs": null,
+        "pag": [
+          "42-51"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-16",
+        "pubLeg": "XIV",
+        "pubNr": "14",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/014/2020-10-16/42?pgs=42-51&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
