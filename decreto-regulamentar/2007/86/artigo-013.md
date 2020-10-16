@@ -15,3 +15,5 @@
 6 - A visita, vistoria técnica e verificação documental são efectuadas pela ASAE no âmbito das suas atribuições legais, designadamente quanto à fiscalização das actividades económicas.
 
 7 - Sempre que as acções a desenvolver no âmbito das matérias previstas no n.º 3 revelem a existência de ilícitos de natureza aduaneira e fiscal, ou a documentação existente suscite dúvidas sobre a legalidade e ou regularidade de situações relacionadas com a importação ou exportação de bens, equipamentos, cargas ou do próprio navio ou embarcação, o assunto é remetido à DGAIEC para posterior condução do processo.
+
+8 - Sem prejuízo dos números anteriores, a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, nos termos das suas competências e da legislação em vigor, tem a faculdade de proceder a ações de inspeção.
