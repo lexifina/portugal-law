@@ -1,0 +1,135 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "512",
+    "id": "45241",
+    "titulo": "Medidas para a recuperação da atividade das juntas médicas de avaliação de incapacidades"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2020-10-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "49337",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2020-12-09",
+            "id": "116238",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-12-11",
+            "id": "116264",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-12-21",
+            "id": "116350",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2021-01-06",
+            "id": "116424",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2021-01-13",
+            "id": "116465",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2020-10-16",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2020-10-16",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-03-10",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório Discussão e Votação da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a68695a6d55344f4755344c546b304f574d744e4759774e4331694d474d324c574d33595449335a544d355a57557a4f4335775a47593d&fich=8bfe88e8-949c-4f04-b0c6-c7a27e39ee38.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-10",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Anexo IV - Texto de substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6869597a6379596a49774c5751314d7a41744e474d794e6931694d3259784c57566a4e5467774e5751355a5445314e4335775a47593d&fich=8bc72b20-d530-4c26-b3f1-ec5805d9e154.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Anexo I ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325132596a55324f47517a4c546779595455744e446b315a4331684e6a49324c5452695a5467795a47566d597a5a6a5a6935775a47593d&fich=d6b568d3-82a5-495d-a626-4be82defc6cf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Anexo II",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59304d6d5533597a67774c5745325a574d744e4441314e4331695a4749324c5751315a5467774d6d45355a44426b4d5335775a47593d&fich=642e7c80-a6ec-4054-bdb6-d5e802a9d0d1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Anexo III",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d785a6d49795954466d4c54457a595755744e474d305a4331694d6a466a4c544a685a5749304d57466d5a5755354d4335775a47593d&fich=c1fb2a1f-13ae-4c4d-b21c-2aeb41afee90.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7424",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "7424",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2020-10-16",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "366822",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
