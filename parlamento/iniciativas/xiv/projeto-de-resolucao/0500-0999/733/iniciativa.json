@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Resolução",
+  "numero": "733",
+  "id": "45420",
+  "fases": 12,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2020-10-19",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "7007",
+        "nome": "Carla Madureira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6853",
+        "nome": "António Maló de Abreu"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6538",
+        "nome": "Ana Miguel dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5499",
+        "nome": "André Neves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5489",
+        "nome": "António Topa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4304",
+        "nome": "Bruno Coimbra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5490",
+        "nome": "Helga Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5693",
+        "nome": "Rui Cristina"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5749",
+        "nome": "Sandra Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6871",
+        "nome": "Cláudia Bento"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6909",
+        "nome": "Fernanda Velez"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6885",
+        "nome": "Ofélia Ramos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "45420",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a63344e6a6b305a5463745a6a63354e5330305a5755324c546c6a4f4745744e546b305a5451314d5749304e7a64694c6d527659773d3d&fich=c78694e7-f795-4ee6-9c8a-594e451b477b.doc&Inline=true",
+    "IniNr": "733",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo o início urgente do processo que promova as necessárias obras no bloco operatório do Hospital Dr. Francisco Zagalo, de Ovar, no distrito de Aveiro",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
