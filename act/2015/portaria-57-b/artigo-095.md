@@ -20,7 +20,7 @@ vi) Investimentos em instrumentos de apoio à gestão e na obtenção de informa
 
 b) Saneamento de Águas Residuais (SAR):
 
-i) Investimentos com vista à redução da poluição urbana nas massas de água, com especial enfoque no integral cumprimento da Diretiva relativa ao Tratamento de Águas Residuais Urbanas - Diretiva 91/271/CEE, de 21-05-1991 (DARU), de forma a assegurar a proteção do ambiente em geral e das águas superficiais e costeiras em particular, dos efeitos nefastos das descargas das águas residuais urbanas, através de construção de sistemas para aglomerados de maior dimensão, bem como o aumento da acessibilidade física ao serviço de saneamento de águas residuais, incluindo soluções adequadas para pequenos aglomerados, como por exemplo ETAR compactas, mini-ETAR e limpa fossas;
+i) Investimentos com vista à redução da poluição urbana nas massas de água, com especial enfoque no integral cumprimento da Diretiva relativa ao Tratamento de Águas Residuais Urbanas - Diretiva 91/271/CEE, de 21-05-1991 (DARU), de forma a assegurar a proteção do ambiente em geral e das águas superficiais em particular, dos efeitos nefastos das descargas das águas residuais urbanas, através de construção de sistemas para aglomerados de maior dimensão, bem como o aumento da acessibilidade física ao serviço de saneamento de águas residuais, incluindo soluções adequadas para pequenos aglomerados, como por exemplo ETAR compactas, mini-ETAR e limpa fossas;
 
 ii) Investimentos em renovação e reabilitação dos sistemas de drenagem de águas residuais urbanas em casos de dimensionamento desadequado e/ou para redução e controlo de infiltrações e afluências indevidas aos sistemas públicos unitários de drenagem de águas residuais com vista a redução da ocorrência de colapsos e de inundações;
 
@@ -30,6 +30,6 @@ iv) Investimentos para a implementação de sistemas adequados de gestão de lam
 
 v) Fecho de sistemas de saneamento de águas residuais com vista à otimização da utilização da capacidade instalada e da adesão ao serviço, através da execução de ligações entre os sistemas em alta e os sistemas em baixa e da extensão do serviço a populações ainda não servidas na área de influência dos sistemas;
 
-vi) Investimentos necessários à reutilização de águas residuais tratadas, por exemplo execução de etapas de afinamento do tratamento existente, com vista a possibilitar uma gestão integrada de recursos hídricos em zonas consideradas de escassez;
+vi) Investimentos necessários à utilização de águas residuais tratadas, por exemplo execução de etapas de afinamento do tratamento existente, com vista a possibilitar uma gestão integrada de recursos hídricos em zonas consideradas de escassez;
 
 vii) Investimentos em instrumentos de apoio à gestão e na obtenção de informação que permita uma gestão eficiente dos serviços, através da elaboração de cadastro das infraestruturas existentes dos sistemas em baixa, cujos termos de referência são definidos a nível nacional.

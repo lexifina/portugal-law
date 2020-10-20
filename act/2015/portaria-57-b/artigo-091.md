@@ -10,4 +10,6 @@ b) Cumpram os requisitos mínimos definidos para o efeito pela entidade regulado
 
 c) Evidenciem a inexistência de dívidas reconhecidas por sentença judicial transitada em julgado, relativas ao serviço em alta, através de documento emitido para o efeito pela entidade gestora em alta, ou a celebração de um plano de pagamentos acordado.
 
-2 - Em casos excecionais, que visem a resolução de situações de incumprimento comunitário, podem ser elegíveis entidades que não evidenciem o cumprimento dos critérios definidos nas alíneas b) e c) do número anterior, desde que se comprometam a evidenciar o seu cumprimento no prazo máximo de um ano a contar da data de aprovação da candidatura.
+2 - Em casos excecionais, podem ser elegíveis entidades que não evidenciem o cumprimento do requisito mínimo em matéria de grau de recuperação de custos, previsto na alínea b) do número anterior, desde que se comprometam a evidenciar o seu cumprimento no prazo máximo definido para o efeito.
+
+3 - No caso de apoios a investimentos com vista ao aumento de recolha seletiva de resíduos urbanos biodegradáveis (RUB), previstos na subalínea v), da alínea a) do artigo 88.º, não é aplicável o critério definido na alínea b) do n.º 1 deste artigo.

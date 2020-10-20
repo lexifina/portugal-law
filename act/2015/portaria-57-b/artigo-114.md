@@ -53,3 +53,5 @@ i) Ações locais e regionais de proteção contra riscos de incêndios, complem
 3 - O apoio aos projetos referidos no número anterior é atribuído para o lançamento da iniciativa, e, quando realizados de forma continuada, até ao limite de três anos e com intensidade degressiva do financiamento.
 
 4 - As operações associadas à promoção e desenvolvimento do património cultural deverão estar devidamente enquadradas em estratégias de promoção turística e o apoio à expansão, remodelação, reabilitação ou construção de novas infraestruturas culturais está condicionado ao mapeamento a aprovar pela Comissão Europeia, nos termos do Acordo de Parceria.
+
+5 - Suspendem-se em 2020 e 2021 as limitações de apoio a iniciativas que não sejam novas, incluindo as limitações em matéria de taxa de cofinanciamento, previstas no n.º 3 deste artigo, tendo presente as exigências acrescidas em matéria de segurança sanitária que estes eventos terão que cumprir, bem como a sua relevância acrescida para mitigar a profunda crise no turismo.

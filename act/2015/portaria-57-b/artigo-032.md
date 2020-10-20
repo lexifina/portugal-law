@@ -4,7 +4,7 @@
 
 1 - Para além das despesas referidas no artigo 7.º do presente Regulamento Específico, as operações a que se refere a presente secção devem ainda satisfazer os seguintes critérios:
 
-a) Nos casos em que as intervenções previstas sejam tipificáveis, incluindo as auditorias e diagnósticos energéticos, devem ser tidos em conta os custos-padrão máximos por tecnologia e ou por superfície intervencionada, quando definidos pela DGEG, e publicitados nos avisos de abertura de candidatura.
+a) (Revogada.)
 
 b) A despesa elegível com investimento em produção de energia elétrica para autoconsumo a partir de fontes de energias renováveis está limitada a 30 % do montante de investimento total elegível da candidatura.
 

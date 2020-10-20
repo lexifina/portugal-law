@@ -1,7 +1,3 @@
-## Secção 12
-
-## Adaptação às Alterações Climáticas e Prevenção e Gestão de Riscos
-
 # Artigo 82.º
 
 ### Tipologias de operações
@@ -142,4 +138,4 @@ iii) Desenvolvimento de sistemas de informação e aquisição de equipamento em
 
 3 - A tipologia de operações prevista na subalínea iii) da alínea a) do ponto 2.1 do n.º 2 do presente artigo, referente à aquisição de veículos operacionais de proteção e socorro, visa manter operacional o dispositivo mínimo de segurança previsto no Dispositivo Especial de Combate a Incêndios Florestais (DECIF), respeitando a dotação mínima prevista na Portaria n.º 174/2009, de 18 de fevereiro, alterada pela Portaria n.º 974/2009, de 1 de setembro, podendo incluir a substituição de veículos sinistrados.
 
-4 - A tipologia de operações prevista na subalínea ii) da alínea a) do ponto 2.2 do n.º 2 do presente artigo, referente à aquisição de veículos operacionais de proteção e socorro na RAM, visa manter o dispositivo mínimo de segurança previsto no Programa Operacional de Combate a Incêndios Florestais (POCIF), aprovado nos termos da Resolução do Conselho do Governo Regional da Madeira n.º 280/2016, de 31 de maio, podendo incluir a substituição de veículos sinistrados.
+4 - A tipologia de operações prevista na subalínea ii) da alínea a) do ponto 2.2 do n.º 2 do presente artigo, referente à aquisição de veículos operacionais de proteção e socorro na RAM, visa manter o dispositivo mínimo de segurança previsto no Programa Operacional de Combate a Incêndios Florestais (POCIF), aprovado nos termos da Resolução do Conselho do Governo Regional da Madeira n.º 380/2015, de 18 de maio, revisto e atualizado anualmente, podendo incluir a substituição de veículos sinistrados.

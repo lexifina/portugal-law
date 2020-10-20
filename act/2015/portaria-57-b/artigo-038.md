@@ -10,7 +10,7 @@ b) Apresentar auditoria energética ou estudo que demonstre a adequação do inv
 
 c) (Revogada.)
 
-d) Incidir sobre infraestruturas públicas de propriedade e de utilização da administração pública, não sendo financiadas despesas de funcionamento e de manutenção;
+d) Incidir sobre infraestruturas públicas de propriedade do beneficiário ou sobre as quais o mesmo detenha título legal de posse, compatível com o tempo de vida útil dos investimentos ou, caso aplicável, dos reembolsos da subvenção, consoante o período que se revele mais longo, e de utilização da Administração Pública ou das IPSS, não sendo financiadas despesas de funcionamento e de manutenção;
 
 e) Ter por base a categoria de desempenho energético inicial do edifício, devendo resultar em melhoramentos significativos em termos de eficiência energética, isto é, num mínimo de redução em 30 % no consumo de energia primária no investimento candidato face ao consumo anterior à realização do investimento, confirmada no âmbito da avaliação ex post;
 

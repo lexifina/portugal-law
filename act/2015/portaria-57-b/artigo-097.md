@@ -16,7 +16,7 @@ e) Demonstrar que a operação configura um objeto que se concretiza através de
 
 f) Os projetos de renovação ou reabilitação de redes deverão ter por base um relatório técnico que identifique o mau funcionamento do Sistema.
 
-2 - Em casos excecionais, que visem a resolução de situações de incumprimento comunitário, podem ser elegíveis operações que não evidenciem o cumprimento do critério definido na alínea f) do n. 1, caso visem a resolução de situações de contencioso comunitário.
+2 - (Revogado).
 
 3 - Não são elegíveis as intervenções de modernização ou reconversão em infraestruturas intervencionadas anteriormente, com o apoio dos fundos comunitários.
 

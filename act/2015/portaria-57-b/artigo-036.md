@@ -10,7 +10,7 @@ i) Intervenções na envolvente opaca dos edifícios, com o objetivo de proceder
 
 ii) Intervenções na envolvente envidraçada dos edifícios, nomeadamente através da substituição de caixilharia com vidro simples, e caixilharia com vidro duplo sem corte térmico, por caixilharia com vidro duplo e corte térmico, ou solução equivalente em termos de desempenho energético e respetivos dispositivos de sombreamento;
 
-iii) Iluminação interior e intervenções nos sistemas técnicos instalados, através da substituição dos sistemas existentes por sistemas de elevada eficiência, ou através de intervenções nos sistemas existentes que visem aumentar a sua eficiência energética, nomeadamente integração de água quente solar, incorporação de microgeração, sistemas de iluminação, aquecimento, ventilação e ar condicionado (AVAC);
+iii) Iluminação interior e intervenções nos sistemas técnicos instalados, através da substituição dos sistemas existentes por sistemas de elevada eficiência, ou através de intervenções nos sistemas existentes que visem aumentar a sua eficiência energética, nomeadamente integração de água quente solar, e de sistemas de iluminação e de aquecimento, ventilação e ar condicionado (AVAC);
 
 iv) Instalação de sistemas e equipamentos que permitam a gestão de consumos de energia, por forma a contabilizar e gerir os consumos de energia, gerando assim economias e possibilitando a sua transferência entre períodos tarifários.
 

@@ -10,7 +10,7 @@ i) Instalação de painéis solares térmicos para produção de água quente sa
 
 ii) Intervenções na envolvente envidraçada dos edifícios, nomeadamente através da substituição de caixilharia com vidro simples, e caixilharia com vidro duplo sem corte térmico, por caixilharia com vidro duplo e corte térmico, ou solução equivalente em termos de desempenho energético, e respetivos dispositivos de sombreamento;
 
-iii) Intervenções nos sistemas técnicos instalados, através da substituição dos sistemas existentes por sistemas de elevada eficiência, ou através de intervenções nos sistemas existentes que visem aumentar a sua eficiência energética, nomeadamente integração de água quente solar, incorporação de microgeração, sistemas de iluminação, aquecimento, ventilação e ar condicionado (AVAC);
+iii) Intervenções nos sistemas técnicos instalados, através da substituição dos sistemas existentes por sistemas de elevada eficiência, ou através de intervenções nos sistemas existentes que visem aumentar a sua eficiência energética, nomeadamente integração de água quente solar, de sistemas de iluminação e de aquecimento, ventilação e ar condicionado (AVAC);
 
 iv) Iluminação interior e exterior, excluindo a iluminação pública;
 
@@ -22,6 +22,6 @@ i) Instalação de painéis solares térmicos para produção de água quente sa
 
 ii) Instalação de sistemas de produção de energia para autoconsumo a partir de fontes de energia renovável.
 
-c) Auditorias energéticas necessárias à realização dos investimentos, e à implementação de Planos de Ação de eficiência energética bem como a avaliação ex post independente que permita a avaliação e o acompanhamento do desempenho e da eficiência energética do investimento.
+c) Auditorias energéticas necessárias à realização dos investimentos, bem como a avaliação ex post independente que permita a avaliação e o acompanhamento do desempenho e da eficiência energética do investimento;
 
 d) Campanhas de sensibilização e de promoção da eficiência energética dirigidas à Administração Pública.

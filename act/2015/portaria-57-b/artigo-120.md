@@ -2,7 +2,7 @@
 
 ### Plano de ação de regeneração urbana
 
-1 - As intervenções previstas no n.º 1 do artigo seguinte devem estar enquadradas no plano de ação de regeneração urbana desenvolvido para o território em que incidem.
+1 - As intervenções previstas no n.º 1 do artigo seguinte devem estar enquadradas no plano de ação de regeneração urbana desenvolvido para o território em que incidem, com exceção das selecionadas no âmbito do instrumento financeiro, as quais poderão, se devidamente justificado, ter outro enquadramento.
 
 2 - No caso dos PO Norte, Centro, Lisboa e Alentejo, para os centros urbanos de nível superior previstos no Programa Operacional Regional respetivo, o plano de ação de regeneração urbana referido no número anterior deve ser enquadrado num plano estratégico de desenvolvimento urbano, elaborado pelas Autoridades Urbanas e aprovado pela Autoridade de Gestão, sendo neste plano articulados os seguintes instrumentos de programação em função das áreas de intervenção que sejam mobilizadas em cada caso:
 

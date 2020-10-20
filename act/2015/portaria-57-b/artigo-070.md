@@ -1,7 +1,3 @@
-## Secção 10
-
-## Conservação da Natureza
-
 # Artigo 70.º
 
 ### Tipologias de operações

@@ -24,4 +24,6 @@ iv) (Revogado.)
 
 c) No que respeita às intervenções identificadas na alínea c) do artigo anterior:
 
-i) Empresas do Setor Empresarial do Estado responsáveis pela realização dos investimentos previstos.
+i) Empresas do Setor Empresarial do Estado responsáveis pela realização dos investimentos previstos;
+
+ii) As entidades previstas na alínea anterior podem submeter operações em parceria devendo, neste caso, designar um líder que assumirá perante a Autoridade de Gestão o estatuto de beneficiário, independentemente das relações que o mesmo estabelecer com os outros parceiros na operação.

@@ -12,17 +12,11 @@ ii) Investimentos com vista ao aumento da quantidade e qualidade da reciclagem m
 
 iii) Investimentos com vista ao aumento da valorização orgânica de resíduos, através do reforço e otimização do tratamento mecânico e biológico (TMB), designadamente através de instalação de novas TMB e instalação de linhas de tratamento adicionais em TMB existentes com os equipamentos atrás referidos acrescidos de túneis de compostagem, digestores e equipamento de afinação do composto, e do apoio a sistemas e iniciativas de recolha seletiva de RUB, de compostagem doméstica de RUB e de valorização do composto;
 
-i) Ações para a prevenção da produção e perigosidade dos resíduos e reciclagem, incluindo quer ações de educação e sensibilização, quer estudos que se revelem necessários, com o enfoque nos primeiros patamares da pirâmide da gestão de resíduos ou seja ao nível da prevenção e redução e da preparação para a reutilização e reciclagem;
-
-ii) Investimentos com vista ao aumento da quantidade e qualidade da reciclagem multimaterial, nomeadamente através da otimização e reforço das redes de recolha seletiva existentes, designadamente através da aquisição de ecopontos subterrâneos e superficiais, contentores de recolha seletiva e viaturas de recolha seletiva, ecocentros; otimização e reforço das infraestruturas de triagem multimaterial, nomeadamente através da instalação de novas centrais de triagem bem como de linhas de tratamento adicionais e respetivos equipamentos adicionais, tais como tapetes transportadores, separadores óticos, magnéticos, balísticos, e de metais não ferrosos, crivos rotativos;
-
-iii) Investimentos para a introdução de soluções que permitam aumentar significativamente a participação dos cidadãos e a eficiência dos sistemas de recolha e reciclagem multimaterial (recolha porta-a-porta e sistemas pay-as-you-throw - PAYT);
-
 iv) Investimentos com vista ao aumento da valorização orgânica de resíduos, através do reforço e otimização do tratamento mecânico ou mecânico e biológico (TM ou TMB), designadamente através de instalação de novas TM e TMB, adaptação tecnológica das TM e TMB existentes, bem como a instalação de linhas de tratamento adicionais em TM e TMB existentes acrescidos de túneis de compostagem, digestores e equipamento de afinação do composto, e entre outros, incluindo também investimentos em estações de transferência e respetivas viaturas para encaminhamento dos RU para valorização orgânica e/ou material, incluindo a valorização energética do biogás;
 
-v) Investimentos com vista ao aumento de recolha seletiva de resíduos urbanos biodegradáveis (RUB), de compostagem doméstica de RUB e de valorização do composto, incluindo sistemas de recolha porta-a-porta de RUB e PAYT;
+v) Investimentos com vista ao aumento de recolha seletiva de resíduos urbanos biodegradáveis (RUB), de compostagem doméstica de RUB e de valorização orgânica de RUB para produção de composto, incluindo sistemas de recolha porta a porta de RUB e PAYT;
 
-vi) Investimentos com vista à erradicação progressiva da deposição direta em aterro, através do reforço e otimização da recolha seletiva e do tratamento mecânico e biológico instalado, e respetiva valorização energética do biogás, contribuindo para a redução de GEE;
+vi) (Revogada.)
 
 vii) Investimentos com vista ao desvio de aterro dos refugos e rejeitados das unidades de tratamento mecânico e biológico de RU, nomeadamente através do seu processamento e transformação em Combustíveis Derivados de Resíduos (CDR), e/ou da sua valorização energética, bem como investimentos que permitam a valorização do CDR, de modo a obter o fim de estatuto de resíduo;
 

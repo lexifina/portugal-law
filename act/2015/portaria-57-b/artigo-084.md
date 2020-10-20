@@ -18,7 +18,7 @@ Sem prejuízo dos critérios gerais de elegibilidade definidos no artigo 5.º do
 
 7) Atestar a conformidade com os PMOT aplicáveis, no caso das operações que preconizem intervenções com expressão territorial;
 
-8) Comprovar que a zona a intervencionar se encontra identificada no WISE, no caso das operações previstas na alínea b) do ponto 2.1 e na alínea b) do ponto 2.2 do n.º 2 do artigo 82.º, quando aplicável;
+8) Comprovar que a zona a intervencionar se encontra identificada no WISE, ou na área de influência direta a montante ou a jusante das zonas críticas, no caso das operações previstas na alínea b) do ponto 2.1 e na alínea b) do ponto 2.2 do n.º 2 do artigo 82.º, quando aplicável;
 
 9) No caso da tipologia de operações previstas nas subalíneas ii), iii) e iv) da alínea a) do ponto 2.1 do n.º 2 do artigo 82.º, sempre que os investimentos realizados tenham sido objeto de apoio noutros períodos de programação, as candidaturas devem apenas incluir intervenções numa lógica de complementaridade, para suprir as necessidades mais profundas;
 

@@ -6,4 +6,4 @@
 
 2 - O apoio a este tipo de investimento estará limitado ao montante que resultar da aplicação da metodologia de cálculo do deficit de financiamento, que permita a realização e viabilização económica dos projetos, tendo em conta uma taxa de desconto real de acordo com as orientações da Comissão Europeia relativas aos projetos geradores de receitas.
 
-3 - No caso dos projetos apoiados que incluam integração na rede de distribuição e ou armazenamento de energia, as entidades detentoras da rede de distribuição ou de transporte que vejam estes investimentos ser apoiados a fundo perdido não poderão ser remuneradas pelo sistema elétrico nacional ou pelo sistema nacional de gás natural na parte cofinanciada desse investimento.
+3 - No caso dos projetos apoiados que incluam injeção nas redes de distribuição e ou armazenamento de energia, as entidades detentoras das redes de distribuição ou de transporte que vejam estes investimentos ser apoiados a fundo perdido não poderão ser remuneradas pelo sistema elétrico nacional ou pelo sistema nacional de gás natural na parte cofinanciada desse investimento.
