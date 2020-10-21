@@ -1,0 +1,7 @@
+Aviso n.º 49/2020
+Sumário: Em 27 de fevereiro de 2020 e em 12 de agosto de 2020, foram emitidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros do Reino da Noruega e pela Embaixada de Portugal em Oslo, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo sobre as Atividades Remuneradas de Membros da Família do Pessoal Diplomático e Consular entre a República Portuguesa e o Reino da Noruega, assinado em Lisboa em 13 de janeiro de 2020.
+Por ordem superior se torna público que, em 27 de fevereiro de 2020 e em 12 de agosto de 2020, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros do Reino da Noruega e pela Embaixada de Portugal em Oslo, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo sobre as Atividades Remuneradas de Membros da Família do Pessoal Diplomático e Consular entre a República Portuguesa e o Reino da Noruega, assinado em Lisboa, em 13 de janeiro de 2020.
+Por parte da República Portuguesa, o referido Acordo foi aprovado pelo Decreto n.º 4/2020, de 6 de agosto, publicado no Diário da República, 1.ª série, n.º 152, de 6 de agosto de 2020.
+Nos termos do seu artigo 12.º, o Acordo entrou em vigor a 11 de setembro de 2020.
+Departamento de Assuntos Jurídicos, 13 de outubro de 2020. - A Diretora, Susana Vaz Patto.
+113641383
