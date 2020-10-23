@@ -1,0 +1,1293 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "572",
+    "id": "45419",
+    "titulo": "Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho relativa à procriação medicamente assistida"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2020-10-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16665",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2020-10-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44073",
+        "leg": "XIV",
+        "nr": "71",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho)"
+      },
+      {
+        "autor": "Cidadãos",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44463",
+        "leg": "XIV",
+        "nr": "214",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Procriação medicamente assistida post mortem"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44495",
+        "leg": "XIV",
+        "nr": "223",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Sétima Alteração à Lei n.º 32/2006, de 26 de Julho, alargando as situações de realização de inseminação post mortem"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44528",
+        "leg": "XIV",
+        "nr": "231",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Sétima alteração à Lei nº 32/2006, de 26 de Julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de Procriação Medicamente Assistida, comparticipados pelo Serviço Nacional de Saúde"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44538",
+        "leg": "XIV",
+        "nr": "237",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (sétima alteração à Lei n.º 32/2006, de 26 de julho)"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44549",
+        "leg": "XIV",
+        "nr": "247",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5941",
+            "obs": null,
+            "pag": [
+              "28-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-10-24",
+            "pubLeg": "XIV",
+            "pubNr": "17",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de Julho (procriação medicamente assistida)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2020-10-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4162",
+                "nome": "Moisés Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Procriação medicamente assistida post mortem; Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Sétima alteração à Lei n.º 32/2006, de 26 de julho, alargando as situações de realização de inseminação post mortem; Sétima alteração à Lei nº 32/2006, de 26 de julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de procriação medicamente assistida comparticipados pelo Serviço Nacional de Saúde; Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida); Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho, relativa à procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=34"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/30?pgs=30-31,37-38&org=PLC"
+              }
+            ],
+            "sumario": "Procriação medicamente assistida post mortem; Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Sétima alteração à Lei n.º 32/2006, de 26 de julho, alargando as situações de realização de inseminação post mortem; Sétima alteração à Lei nº 32/2006, de 26 de julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de procriação medicamente assistida comparticipados pelo Serviço Nacional de Saúde; Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida); Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho, relativa à procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "5748",
+                "nome": "Ana Rita Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Procriação medicamente assistida post mortem; Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Sétima alteração à Lei n.º 32/2006, de 26 de julho, alargando as situações de realização de inseminação post mortem; Sétima alteração à Lei nº 32/2006, de 26 de julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de procriação medicamente assistida comparticipados pelo Serviço Nacional de Saúde; Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida); Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho, relativa à procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6549",
+                "nome": "Bebiana Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Procriação medicamente assistida post mortem; Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Sétima alteração à Lei n.º 32/2006, de 26 de julho, alargando as situações de realização de inseminação post mortem; Sétima alteração à Lei nº 32/2006, de 26 de julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de procriação medicamente assistida comparticipados pelo Serviço Nacional de Saúde; Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida); Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho, relativa à procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Procriação medicamente assistida post mortem; Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Sétima alteração à Lei n.º 32/2006, de 26 de julho, alargando as situações de realização de inseminação post mortem; Sétima alteração à Lei nº 32/2006, de 26 de julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de procriação medicamente assistida comparticipados pelo Serviço Nacional de Saúde; Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida); Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho, relativa à procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6550",
+                "nome": "João Cotrim de Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Procriação medicamente assistida post mortem; Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Sétima alteração à Lei n.º 32/2006, de 26 de julho, alargando as situações de realização de inseminação post mortem; Sétima alteração à Lei nº 32/2006, de 26 de julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de procriação medicamente assistida comparticipados pelo Serviço Nacional de Saúde; Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida); Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho, relativa à procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Procriação medicamente assistida post mortem; Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Sétima alteração à Lei n.º 32/2006, de 26 de julho, alargando as situações de realização de inseminação post mortem; Sétima alteração à Lei nº 32/2006, de 26 de julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de procriação medicamente assistida comparticipados pelo Serviço Nacional de Saúde; Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida); Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho, relativa à procriação medicamente assistida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5749",
+                "nome": "Sandra Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Procriação medicamente assistida post mortem; Alteração ao regime jurídico da gestação de substituição (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Sétima alteração à Lei n.º 32/2006, de 26 de julho, alargando as situações de realização de inseminação post mortem; Sétima alteração à Lei nº 32/2006, de 26 de julho, aumentando de três para cinco ciclos de tratamentos de segunda linha de procriação medicamente assistida comparticipados pelo Serviço Nacional de Saúde; Altera o Regime da Procriação Medicamente Assistida, permitindo a inseminação post mortem para realização de projeto parental claramente estabelecido (Sétima alteração à Lei n.º 32/2006, de 26 de julho); Garante o acesso à gestação de substituição, procedendo à sétima alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida); Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho, relativa à procriação medicamente assistida",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "366936",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "916587",
+        "obs": null,
+        "pag": [
+          "28-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-24",
+        "pubLeg": "XIV",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/28?pgs=28-38&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
