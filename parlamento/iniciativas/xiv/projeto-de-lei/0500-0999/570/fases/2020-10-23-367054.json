@@ -1,0 +1,653 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "570",
+    "id": "45416",
+    "titulo": "Imposição Transitória da Obrigatoriedade do uso de Máscara em Espaços Públicos"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2020-10-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17011",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2020-10-23",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2020-10-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=82"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241907",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60",
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/60?pgs=60,61&org=PLC"
+              }
+            ],
+            "sumario": "Imposição Transitória da Obrigatoriedade do uso de Máscara em Espaços Públicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241908",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Imposição Transitória da Obrigatoriedade do uso de Máscara em Espaços Públicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241909",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Imposição Transitória da Obrigatoriedade do uso de Máscara em Espaços Públicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Imposição Transitória da Obrigatoriedade do uso de Máscara em Espaços Públicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Imposição Transitória da Obrigatoriedade do uso de Máscara em Espaços Públicos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:35",
+            "horaTermo": "14:18",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_10_23_09_30_00_clean_14_plenario.xml&idsegmento=88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "241912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-24",
+                "pubLeg": "XIV",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24/61?pgs=61&org=PLC"
+              }
+            ],
+            "sumario": "Imposição Transitória da Obrigatoriedade do uso de Máscara em Espaços Públicos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "367054",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "16796",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-24",
+        "pubLeg": "XIV",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/017/2020-10-24?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Artigo 1.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>IL</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89080",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Proposta do BE, de emenda do artigo 4.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> IL</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89095",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Artigo 5.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>BE</I>, <I> PCP</I>, <I> IL</I><BR>Abstenção:<I>PEV</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89096",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Artigo 6.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>BE</I>, <I> PCP</I>, <I> PEV</I>, <I> IL</I><BR>Abstenção:<I>Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89097",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Artigo 7.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>1-PS</I>, <I> IL</I><BR>Abstenção:<I>BE</I>, <I> PCP</I>, <I> PEV</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89098",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Proposta do PS, de emenda do artigo 8.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>PAN</I><BR>Abstenção:<I>BE</I>, <I> PCP</I>, <I> PEV</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89099",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Proposta do PS, de aditamento do artigo 9.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>IL</I><BR>Abstenção:<I>BE</I>, <I> PCP</I>, <I> PEV</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89100",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Alínea d) do n.º 2 do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> IL</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89089",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Corpo do n.º 2 do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> IL</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89090",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Proposta do BE, de aditamento do artigo 3.º-A",
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> IL</I><BR>Ausência: <I>CH</I>",
+        "id": "89091",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Proposta do PAN, de aditamento do artigo 3.º-A",
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>, <I> IL</I><BR>Ausência: <I>CH</I>",
+        "id": "89092",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Proposta do BE, de aditamento do artigo 3.º-B",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89093",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Proposta do PAN, de aditamento do artigo 3.º-B",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> PAN</I>, <I> PEV</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>CDS-PP</I><BR>Ausência: <I>CH</I>",
+        "id": "89094",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>IL</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89081",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Proposta da NiJKM de emenda do n.º 1 do artigo 3.º",
+        "detalhe": "A Favor: <I>IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PAN</I><BR>Abstenção:<I>PCP</I>, <I> CDS-PP</I>, <I> PEV</I><BR>Ausência: <I>CH</I>",
+        "id": "89084",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "N.º 1 do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>IL</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89085",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Alínea a) do n.º 2 do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> IL</I><BR>Ausência: <I>CH</I>",
+        "id": "89086",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Alínea b) do n.º 2 do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> IL</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89087",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2020-10-23",
+        "descricao": "Alínea c) do n.º 2 do artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Abstenção:<I>PCP</I>, <I> CDS-PP</I>, <I> PEV</I>, <I> IL</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "89088",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "17",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
