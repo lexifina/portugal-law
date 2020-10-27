@@ -1,0 +1,6 @@
+Aviso n.º 17207/2020
+Sumário: Regulamento do Orçamento Participativo do Município de Macedo de Cavaleiros.
+Regulamento do Orçamento Participativo do Município de Macedo de Cavaleiros
+Benjamim do Nascimento Pereira Rodrigues, Presidente da Câmara Municipal de Macedo de Cavaleiros, torna público, nos termos e para efeitos do artigo 139.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, que no dia seguinte à publicação do presente aviso no Diário da República, entra em vigor o Regulamento do Orçamento Participativo do Município de Macedo de Cavaleiros, que foi presente à reunião de Câmara Municipal, realizada em 20 de agosto de 2020 e aprovado em sessão ordinária da Assembleia Municipal de Macedo de Cavaleiros, realizada em 28 de setembro de 2020. Mais torna público que, em cumprimento do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, foi o respetivo projeto de regulamento submetido a consulta pública através do Aviso n.º 9340/2020, de 22 de junho publicado no Diário da República, 2.ª série, n.º 119, de 22 de junho.
+12 de outubro de 2020. - O Presidente da Câmara Municipal, Benjamim do Nascimento Pereira Rodrigues.
+313636986
