@@ -1,0 +1,12 @@
+Aviso n.º 17351-C/2020
+Sumário: Alteração do Plano de Pormenor da Área Urbana Degradada de Sernancelhe.
+Alteração do Plano de Pormenor da Área Urbana Degradada de Sernancelhe
+Carlos Manuel Ramos dos Santos, Vereador do Urbanismo da Câmara Municipal de Sernancelhe, torna público, que de acordo com a deliberação tomada na reunião pública de 23 de outubro de 2020, o Executivo Municipal deliberou proceder à abertura do período de discussão pública do Plano de Pormenor de Área Urbana Degradada de Sernancelhe.
+E para constar, se publica o presente aviso na 2.ª série do Diário da República, nos termos do artigo 89.º, do RJGT, e respetiva divulgação através da Plataforma Colaborativa de Gestão Territorial (PCGT), comunicação social, no sítio na Internet do Município de Sernancelhe, bem como a afixação de Edital de idêntico teor nos Paços do Município.
+Mais se informa que o período de discussão pública é de 20 dias a contar do sexto dia útil após a publicação do respetivo aviso no Diário da República e que os interessados podem consultar a proposta do plano, a ata da Conferencia Procedimental e demais pareceres emitidos, assim como as informações emitidas pelos serviços técnicos camarários no âmbito da presente alteração de Plano.
+A formulação de reclamações, observações ou sugestões deverão feitas por escrito, até ao termo do referido período, e dirigidas ao Presidente da Câmara Municipal de Sernancelhe, utilizando para o efeito, o impresso próprio disponível nas instalações da DTOU ou no sítio eletrónico da Câmara Municipal de Sernancelhe e deverão ser entregues por via eletrónica através do endereço eletrónico dtou@cm-sernancelhe.pt, presencialmente nas instalações da DTOU ou através de correio registado para a Câmara Municipal de Sernancelhe, Avenida Dr. Oliveira Serrão 3640-240 Sernancelhe.
+23 de outubro de 2020. - O Vereador do Urbanismo da Câmara Municipal, Carlos Manuel Ramos dos Santos.
+Deliberação
+Carlos Manuel Ramos dos Santos, Vereador do Urbanismo da Câmara Municipal de Sernancelhe, declara, para os devidos efeitos, que na reunião pública do Executivo Municipal realizada no dia 23 de outubro de 2020, foi aprovado, a abertura do período de discussão pública do Plano de Pormenor da Área Urbana Degradada de Sernancelhe, por um período de 20 dias úteis, a contar do sexto dia útil após a publicação de aviso no Diário da República.
+Sernancelhe, 23 de outubro de 2020. - O Vereador do Urbanismo da Câmara Municipal, Carlos Manuel Ramos dos Santos.
+613673476
