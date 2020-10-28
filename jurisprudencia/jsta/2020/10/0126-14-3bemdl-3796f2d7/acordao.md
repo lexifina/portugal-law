@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2020-10-28, processo 0126/14.3BEMDL
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0126/14.3BEMDL
+
+**Data do Acordão:** 10/28/2020
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ANÍBAL FERRAZ
+
+**Descritores:** IMPOSTO DE SELO; INTERPRETAÇÃO
+
+**Nº Convencional:** JSTA000P26559
+
+**Nº do Documento:** SA2202010280126/14
+
+**Data de Entrada:** 12/10/2018
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A...............
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A usucapião, constituindo, por natureza, uma forma de aquisição originária (desde logo, do direito de propriedade), é, para efeitos fiscais, ficcionada como transmissão gratuita de bens, em particular, imóveis, nascendo, constituindo-se a obrigação tributária no momento do trânsito em julgado da ação de justificação judicial, quando for celebrada a escritura de justificação notarial ou na data em que se tornar definitiva a decisão proferida em processo de justificação nos termos do Código do Registo Predial (e não no momento da aquisição do direito …) - ver, artigos (arts.) 1.º n.ºs 1 e 3 alínea (al.) a), 2.º n.º 2 al. b) e 5.º (n.º 1) al. r) todos do Código do Imposto do Selo (CIS).
+
+II - Nos termos do art. 13.º n.º 1 do mesmo compêndio, o valor (tributável) dos imóveis é o valor patrimonial tributável (VPT), conforme com os termos do Código do Imposto Municipal sobre Imóveis (CIMI), à data da transmissão ou o determinado por avaliação, nos casos de prédios omissos ou inscritos sem valor patrimonial.
+
+III - Não consubstanciando, objetivamente, desrespeito pela lei, a utilização, pelo julgador, da regra de interpretação, inscrita no n.º 3 do art. 11.º da Lei Geral tributária (LGT), só, em situações limite, muito específicas, quando mais nenhum sentido literal, lógico, finalístico e/ou sistemático, for possível atribuir a normas, em particular, de incidência tributária, a mesma deve acontecer e, nesse caso, sempre, com a preocupação de o resultado não se traduzir, em vez da aplicação, na criação de Direito.
+
+IV - No caso de alguém que, desde partilha, ocorrida em 1989, logo, passou a possuir um prédio urbano, composto de casa de habitação, …, inscrito na competente matriz predial, o qual, entre outros, na escritura de justificação notarial, de julho de 2013, veio a ser adquirido, como tal, por usucapião (e sem qualquer referência/menção a “benfeitorias”), não se tem de curar saber se o imposto do selo incide, apenas, sobre o ato de aquisição do prédio objeto de usucapião ou se inclui o ato de aquisição de benfeitorias, realizadas nesse mesmo prédio.
