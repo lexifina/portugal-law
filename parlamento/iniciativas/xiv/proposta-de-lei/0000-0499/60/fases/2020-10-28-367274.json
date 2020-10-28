@@ -1,0 +1,304 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "60",
+    "id": "45391",
+    "titulo": "Lei das Grandes Opções para 2021- 2023"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2020-10-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "49421",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2020-10-29",
+            "id": "116069",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-10-30",
+            "id": "116081",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-10-30",
+            "id": "116080",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-02",
+            "id": "116083",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-02",
+            "id": "116082",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-03",
+            "id": "116090",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-04",
+            "id": "116103",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-04",
+            "id": "116102",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-05",
+            "id": "116113",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-05",
+            "id": "116112",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-05",
+            "id": "116109",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-06",
+            "id": "116126",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-06",
+            "id": "116116",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-09",
+            "id": "116129",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-09",
+            "id": "116128",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-10",
+            "id": "116146",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-10",
+            "id": "116130",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-11",
+            "id": "116154",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-11",
+            "id": "116147",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-12",
+            "id": "116169",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-12",
+            "id": "116168",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-12",
+            "id": "116163",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2020-10-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2020-10-28",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2020-11-20",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de Votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e57466b5a4449354d693168597a466d4c54526c4d4463744f444e685a4330784d6d5a6d5a446b784e32466c4e6a6b756347526d&fich=e5add292-ac1f-4e07-83ad-12ffd917ae69.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-24",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de Votação com votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d4749354e4759784e6930774d6a426d4c545132596a67744f54646d5979316d59544e68597a6c6d5a544a685a6a41756347526d&fich=80b94f16-020f-46b8-97fc-fa3ac9fe2af0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CES",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a5445314f54526d4d5330324f5449324c54517a4e7a45744f44466b4e4330775a5446684e575269595451774d6d4d756347526d&fich=5e1594f1-6926-4371-81d4-0e1a5dba402c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-24",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354e544a695a6d4e69595330314d6d59794c545269596d59745957597a5a4330775a4467794e6a6b795a574e6c595441756347526d&fich=952bfcba-52f2-4bbf-af3d-0d82692ecea0.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7344",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "7344",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Ata",
+            "pag": [
+              "1-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-11-21",
+            "pubLeg": "XIV",
+            "pubNr": "1",
+            "pubSL": "2",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/02/001/2020-11-21/1?pgs=1-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade",
+            "pag": [
+              "16-16"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-12-10",
+            "pubLeg": "XIV",
+            "pubNr": "42",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/042/2020-12-10/16?pgs=16&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Ata",
+            "pag": [
+              "1-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-11-21",
+            "pubLeg": "XIV",
+            "pubNr": "1",
+            "pubSL": "2",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/02/001/2020-11-21/1?pgs=1-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade",
+            "pag": [
+              "16-16"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-12-10",
+            "pubLeg": "XIV",
+            "pubNr": "42",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/042/2020-12-10/16?pgs=16&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2020-11-24",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2020-10-28",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "367274",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
