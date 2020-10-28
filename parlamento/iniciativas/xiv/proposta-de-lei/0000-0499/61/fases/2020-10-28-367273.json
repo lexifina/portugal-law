@@ -1,0 +1,623 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "61",
+    "id": "45392",
+    "titulo": "Aprova o Orçamento do Estado para 2021"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2020-10-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "49420",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2020-10-29",
+            "id": "116069",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-10-29",
+            "id": "116067",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-10-30",
+            "id": "116081",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-10-30",
+            "id": "116080",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-02",
+            "id": "116083",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-02",
+            "id": "116082",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-03",
+            "id": "116090",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-04",
+            "id": "116103",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-04",
+            "id": "116102",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-05",
+            "id": "116113",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-05",
+            "id": "116112",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-05",
+            "id": "116109",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-06",
+            "id": "116126",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-06",
+            "id": "116116",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-09",
+            "id": "116129",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-09",
+            "id": "116128",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-10",
+            "id": "116146",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-10",
+            "id": "116130",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-11",
+            "id": "116154",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-11",
+            "id": "116147",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-12",
+            "id": "116169",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-12",
+            "id": "116168",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2020-11-12",
+            "id": "116163",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2020-11-04",
+            "id": "116106",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2020-11-04",
+            "id": "116105",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2020-11-05",
+            "id": "116108",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2020-11-05",
+            "id": "116107",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2020-11-10",
+            "id": "116133",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2020-11-10",
+            "id": "116132",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2020-11-11",
+            "id": "116150",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2020-11-11",
+            "id": "116149",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2020-11-12",
+            "id": "116156",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2020-10-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2020-10-28",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2020-11-02",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contibutos - António Domingues Rebelo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d6a466d595751305a433168593249304c5451774d546374596d517a5a4331694e6d4578595459304d6d4d7a5a4755756347526d&fich=a21fad4d-acb4-4017-bd3d-b6a1a642c3de.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contibutos - STAL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d4445784d575a6d5a6931684d324d334c5451794f444d744f574e6b4e5330334d546c6a5a4745334d474e6c5a5449756347526d&fich=00111fff-a3c7-4283-9cd5-719cda70cee2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contibutos - STI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d54466a4d32566d5a4330314d4451314c5451345a6d55744f47517a5a43316d593245354e3245344d54526d596d45756347526d&fich=811c3efd-5045-48fe-8d3d-fca97a814fba.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-06",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contibutos - UGT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d3259304f4459774d5330774e446b784c54526a595759744f574d304f4331684e7a59774e6a677a5a6a557a59574d756347526d&fich=53f48601-0491-4caf-9c48-a760683f53ac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-06",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo  - APR",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d6d49335a4449784d6930784d6a67794c5451354e324574596a45784d5330304d4755334d7a6c6d595451785a5467756347526d&fich=22b7d212-1282-497a-b111-40e739fa41e8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-06",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo  - ARAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a5745774d474e6a4e5331684d3255324c5451785a446774596d5579595330334e4749334d3249794e47466c5a5751756347526d&fich=fea00cc5-a3e6-41d8-be2a-74b73b24aeed.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-06",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo  - CGTP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d44426d4f44646a5a69316c59324e684c5451304d3249744f546b79597930344d7a49794d325131595759795a4759756347526d&fich=100f87cf-ecca-443b-992c-83223d5af2df.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - ALF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d596a4e685a5459775953307a4f474e684c545131596d4d744f5441785a5330354d6d55305a544d35596d59314e6a4d756347526d&fich=fb3ae60a-38ca-45bc-901e-92e4e39bf563.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo AdC - IVAucher",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833596d45335a54566c4e6930774e57526c4c5451324e544d74596d593259533077595446694e32526b5a6d46684f4759756347526d&fich=7ba7e5e6-05de-4653-bf6a-0a1b7ddfaa8f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-17",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo adicional LBP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a6d4a6d4d6a6b775a53316a4d7a457a4c5451355a4459744f546c6d596930794f5463304e5467324e7a51304d6d59756347526d&fich=bfbf290e-c313-49d6-99fb-29745867442f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo AEM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d6d5668596a45354d79316a4d446b324c54517a59546b744f4452694d533078597a4930595455314d6a686d5a4445756347526d&fich=62eab193-c096-43a9-84b1-1c24a5528fd1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo APFIPP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a6d55784d5451784e7930304f4468694c5451324e4459744f44677a5a5330325a446c6a5a6d4d784e57466d4e5751756347526d&fich=3fe11417-488b-4646-883e-6d9cfc15af5d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-17",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo APOTEC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877596d566b4f575933597931695a6a55314c545132595751744f544d354d69316c596d51334d32526d5a6a63334e3251756347526d&fich=0bed9f7c-bf55-46ad-9392-ebd73dff777d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo APRe",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878597a497a4d4463354f4331694f44426b4c54513059544d744f4446694d4330305a5749334f47466d4e446b334f5755756347526d&fich=1c230798-b80d-44a3-81b0-4eb78af4979e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo APS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794f445132593255314d6930335a4441344c5452695a6a4174596a67345a5330785a6a4d785a4449304e6d4d334d4467756347526d&fich=2846ce52-7d08-4bf0-b88e-1f31d246c708.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-17",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo FPCUB",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b595745794f4467344f433169597a4d774c54526959324d744f57497a4d43316a4f5449345a6d51324e47526d4e4749756347526d&fich=daa28888-bc30-4bcc-9b30-c928fd64df4b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Manifesto da Convergência pela Cultura ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d597a6b774d4459774e69316d5a544d354c5452695a474574595755775a69316a596a59324e54646b4e5759314d5745756347526d&fich=fc900606-fe39-4bda-ae0f-cb6657d5f51a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Ordem dos Solicitadores e Agentes de Execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d474d314f444e684d6930334e5755784c5451304d4455744f5445324d7930315a4749795a444e6a4d6d49784e6a63756347526d&fich=80c583a2-75e1-4405-9163-5db2d3c2b167.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-17",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo Setor cultural",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d474a684e6d59354d5330355a446c6d4c5451344d544d7459575669597931684f4445784e6a67795a6a4934595759756347526d&fich=e0ba6f91-9d9f-4813-aebc-a811682f28af.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-02",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - ASF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877597a517a5a47517a5a69316b4f57466b4c5451314e6a4574596a6b774e433031596d566c4e5463324f574a6b4e3255756347526d&fich=0c43dd3f-d9ad-4561-b904-5bee5769bd7e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-09",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - Autoridade da Concorrência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d44566b4e32497a5a4330345a6d51784c54526d4e6a41744f47566b4e4330305a6a646c4d54637a4d6a4d334e7a45756347526d&fich=d05d7b3d-8fd1-4f60-8ed4-4f7e17323771.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-10-29",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - LBP - Bombeiros em risco",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a474532595749324e4330774d3249334c5451785a4445744f4467324f4330304f57566c4e6d5a6b5a4441344d4755756347526d&fich=8da6ab64-03b7-41d1-8868-49ee6fdd080e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-10-30",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - Movimento Cultural da Terra de Miranda",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e3245334d444934595330314e44646c4c5452695a6a6b744f5759334d7930324e7a526a4e7a4d304e444534595441756347526d&fich=a7a7028a-547e-4bf9-9f73-674c734418a0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-10-30",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - MUBi",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a597a67334d6a4a684d4330314f4446684c54517a4e575174596a67774e793033596a56694d474d324d6a51344f5455756347526d&fich=3c8722a0-581a-435d-b807-7b5b0c624895.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-10-30",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - STE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a474d304e6a6b30597930795a4751784c5451304e6a4d744f44517a5a5330774e6a49784e6a6c694f44417a4d6a45756347526d&fich=edc4694c-2dd1-4463-843e-062169b80321.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-10-30",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos - STI - Direcção Regional da Madeira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e544d324d3249314e5330785a4755324c5452684d7a49744f474e694d4330794e544269596a677a5a544d775a6d49756347526d&fich=05363b55-1de6-4a32-8cb0-250bb83e30fb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-02",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributos SIAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e57466b4e5759344d5330775a6d49784c54526b4d6d457459574d355953316b4d47526c4d325a6d5a5759344e574d756347526d&fich=e5ad5f81-0fb1-4d2a-ac9a-d0de3ffef85c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CES",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d6a55774d5441324f4330314d6a49314c545178595455744f44526d4d6930354d4463304f4442694f544e6b595751756347526d&fich=22501068-5225-41a5-84f2-907480b93dad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793969597a67785a474d334d433034596a686b4c54526c4f47557459575a684e4331684e4459774f54426a4f4749784e5441756347526d&fich=bc81dc70-8b8d-4e8e-afa4-a46090c8b150.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2020-11-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer UTAO - Apreciação final ao OE 2021",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793968596d52684f5445324d6930344d4451784c5451324e4449744f5751795a4330334d6d51784d324a6d595451334e3251756347526d&fich=abda9162-8041-4642-9d2d-72d13bfa477d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7344",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "7344",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-02-04",
+            "pubLeg": "XIV",
+            "pubNr": "1",
+            "pubSL": "1",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/01/001/2020-02-04/1?pgs=1-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-11-24",
+            "pubLeg": "XIV",
+            "pubNr": "2",
+            "pubSL": "2",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/02/002/2020-11-24/1?pgs=1-85&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-107"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-11-25",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "2",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/02/003/2020-11-25/2?pgs=2-107&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "3-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-12-15",
+            "pubLeg": "XIV",
+            "pubNr": "45",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/045/2020-12-15/3?pgs=3-7&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1-90"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-11-26",
+            "pubLeg": "XIV",
+            "pubNr": "4",
+            "pubSL": "2",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/02/004/2020-11-26/1?pgs=1-90&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-02-04",
+            "pubLeg": "XIV",
+            "pubNr": "1",
+            "pubSL": "1",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/01/001/2020-02-04/1?pgs=1-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1-85"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-11-24",
+            "pubLeg": "XIV",
+            "pubNr": "2",
+            "pubSL": "2",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/02/002/2020-11-24/1?pgs=1-85&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-107"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-11-25",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "2",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/02/003/2020-11-25/2?pgs=2-107&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "3-7"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-12-15",
+            "pubLeg": "XIV",
+            "pubNr": "45",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/045/2020-12-15/3?pgs=3-7&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "1-90"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-11-26",
+            "pubLeg": "XIV",
+            "pubNr": "4",
+            "pubSL": "2",
+            "pubTipo": "DAR II S -OE",
+            "pubTp": "V",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/14/02/004/2020-11-26/1?pgs=1-90&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2020-10-28",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "367273",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
