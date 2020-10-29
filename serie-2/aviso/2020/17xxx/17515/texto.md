@@ -1,0 +1,7 @@
+Aviso n.º 17515/2020
+Sumário: Projeto de Regulamento de Incentivo e Apoio às Artes Performativas.
+Basílio Horta, Presidente da Câmara Municipal de Sintra, torna público que, ao abrigo do n.º 2 do ponto XXI da deliberação da Câmara Municipal de Sintra tomada em 30 de outubro de 2017 sobre a Proposta n.º 824-P/2017, de 25 de outubro de 2017, é submetido a consulta pública, o Projeto de Regulamento de Incentivo e Apoio às Artes Performativas, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, durante o prazo de 30 dias a contar da data da publicação do presente Aviso em 2.ª série do Diário da República, estando o texto disponível mediante afixação do Edital n.º 306/2020, nos locais de estilo e no sítio eletrónico oficial do Município www.cm-sintra.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, endereçadas ao Presidente da Câmara Municipal de Sintra, entregues no Gabinete de Apoio ao Munícipe, Lgº Dr. Virgílio Horta, 2710 Sintra, através do fax 219238551, ou ainda através do e-mail dju@cm-sintra.pt.
+Em todas as comunicações deve ser indicado o procedimento a que mesma se reporta, sob pena de rejeição liminar.
+13 de outubro de 2020. - O Presidente da Câmara, Basílio Horta.
+313651573
