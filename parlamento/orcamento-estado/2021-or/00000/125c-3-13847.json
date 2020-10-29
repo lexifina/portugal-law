@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uPZIVXm2yI22KXbLu%2b3HI%2fiKx4uCbvqSqBowFfMKWMV6UMwpD%2fysewE8s1XcGhwYasqy6Rx9KPKqRsUf8FNicaTL7pHS7OYjTxKxRacUw%2fmgK7vRNhgPARA9o7mrBT6FaH%2bs1YAfw4ppxJxaze6ZAEl09N453i5HCqwScbEQ5A60dO3yLzYuxRAHm6gJ50%2fKj4KeDLRgc%2blEnfSqm64cLLZXn%2bNOWTzXp9EsP%2bAMAkWJOuFFcczbEfgIsmICwvg921NjVb80EDFj65tsd46JhazX1lcdSZj32ewVt5pgRDRkJY3e9H3XtxmcQ21%2fEz3pLPtZe3lhMSMXTToK9RBU63gfRn875CwCJ9lDC73pOhz6BsssCKCeM%2b4Pl67BZ1hwfPemmzIi0lz1HVZ%2b%2fE%2bO38N1t7C0BRaqE6aXGZTI%2fEY%3d&fich=OEPropostasAlteracao2021Or_json.txt&Inline=true",
+  "ficheiro_sha256": "2fb4c945f684891eb34c0446d34622e97756f6657e3edcb4ca6cf11940b6d9b9",
+  "legislatura": "XIV",
+  "id": "13847",
+  "numero": "125C-3",
+  "orcamento": "2021",
+  "versao": "Or",
+  "data_registo": "2020-10-29",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "13847",
+    "Numero": "125C-3",
+    "Data": "29/10/2020 09:21:00",
+    "Titulo": "Artigo 234.º-A (Aditamento ao Código dos Impostos Especiais de Consumo)",
+    "Tema": "Agricultura e Mar; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 234.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449784d6a41794d4445774d544976554545764f44526c4f4455774d5451744e6a457859693030595751774c57457a4e574d744d444a6d5a6d45774d7a46684d4445784c6e426b5a673d3d&Fich=84e85014-611b-4ad0-a35c-02ffa031a011.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PAN",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "ANDRÉ SILVA"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "BEBIANA CUNHA"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "INÊS DE SOUSA REAL"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 234.º-A",
+        "Titulo": "Aditamento ao Código dos Impostos Especiais de Consumo",
+        "Texto": "São aditados ao Código dos IEC, os artigos 87.º-G a 87.º-I, com a seguinte redação:\r\n\r\n«Artigo 87.º-G\r\n\r\nIncidência objetiva\r\n\r\n1 -Estão sujeitos a Imposto sobre o carbono da produção pecuária os seguintes produtos:\r\n\r\na) Carnes da espécie ovina e caprina;\r\nb) Carnes da espécie bovina;\r\nc) Carnes da espécie s",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 234.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Aditamento ao Código dos Impostos Especiais de Consumo",
+        "Data": "24/11/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Contra",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
