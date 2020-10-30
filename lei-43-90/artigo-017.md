@@ -16,7 +16,7 @@
 
 5 - Recebida a petição, a comissão parlamentar competente toma conhecimento do objeto da mesma, delibera sobre a sua admissão, com base na nota de admissibilidade, e nomeia obrigatoriamente um Deputado relator para as petições subscritas por mais de 100 cidadãos.
 
-6 - Recebida a petição, a comissão parlamentar competente toma conhecimento do objecto da mesma, delibera sobre a sua admissão, com base na nota de admissibilidade elaborada pelos serviços parlamentares, nomeia o Deputado relator e aprecia, nomeadamente:
+6 - A comissão aprecia, nomeadamente:
 
 a) Se ocorre alguma das causas legalmente previstas que determinem o seu indeferimento liminar;
 
@@ -30,8 +30,22 @@ d) As providências julgadas adequadas que integrarão as conclusões do relató
 
 8 - O Presidente da Assembleia da República, por iniciativa própria ou a solicitação de qualquer comissão parlamentar, pode determinar a junção de petições num único processo de tramitação, sempre que se verifique manifesta identidade de objecto e pretensão.
 
-9 - A comissão parlamentar competente deve apreciar e deliberar sobre as petições no prazo de 60 dias a contar da data da sua admissão, descontados os períodos de suspensão do funcionamento da Assembleia da República.
+9 - Nos casos em que tenha sido nomeado relator, a comissão parlamentar competente aprova o relatório final, devidamente fundamentado, sobre as petições no prazo de 60 dias a contar da data da sua admissão, descontados os períodos de suspensão do funcionamento da Assembleia da República.
 
 10 - Se ocorrer o caso previsto no n.º 5 do artigo 9.º, o prazo estabelecido no número anterior só começa a correr na data em que se mostrem supridas as deficiências verificadas.
 
-11 - Findo o exame da petição, o relatório final é enviado ao Presidente da Assembleia da República, contendo as providências julgadas adequadas, nos termos do artigo 19.º
+11 - O prazo referido no n.º 9 pode ser prorrogado uma vez, por um período máximo de 30 dias, a pedido do relator, quando:
+
+a) Se verificar a junção de outras petições num único processo, nos termos do n.º 8;
+
+b) Estiver pendente resposta de alguma entidade que o relator considere essencial para a elaboração do relatório;
+
+c) Tal se afigurar necessário para assegurar a audição obrigatória dos peticionários;
+
+d) For promovida uma diligência conciliadora prevista no artigo 22.º
+
+12 - Findo o exame da petição, o relatório final é enviado ao Presidente da Assembleia da República, contendo as providências julgadas adequadas, nos termos do artigo 19.º
+
+13 - Nos casos em que não seja nomeado relator, o processo de apreciação da petição fica concluído com a aprovação da nota de admissibilidade.
+
+14 - As iniciativas legislativas de cidadãos que não preencham os requisitos previstos no respetivo regime jurídico para a sua admissibilidade podem ser convoladas pelo Presidente da Assembleia da República em petição, caso preencham os requisitos legais para a sua admissibilidade como tal, por proposta da comissão parlamentar competente, após consulta à respetiva comissão representativa, aplicando-se o disposto na presente lei, com as necessárias adaptações.
