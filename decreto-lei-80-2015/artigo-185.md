@@ -42,11 +42,7 @@ j) Um representante da Direção-Geral da Saúde;
 
 k) Um representante da Direção-Geral da Educação;
 
-l) Um representante da Direção-Geral do Património Cultural;
-
-m) Um representante do IAPMEI. - Agência para a Competitividade e Inovação, I. P.;
-
-n) Um representante da área metropolitana ou das comunidades intermunicipais, face aos interesses sub-regionais e municipais envolvidos.
+l) Um representante da área metropolitana ou das comunidades intermunicipais, face aos interesses sub-regionais e municipais envolvidos.
 
 3 - A representação das entidades referidas nos números anteriores é assegurada pelos seus responsáveis máximos, com possibilidade de delegação em titulares de cargos de direção superior de 2.º grau, ou em cargos equivalentes no âmbito de outras entidades.
 

@@ -29,5 +29,3 @@ d) Derrube de árvores em maciço ou destruição do solo vivo e do coberto vege
 7 - Quando as medidas preventivas envolvam a sujeição a parecer vinculativo, o órgão competente para o seu estabelecimento determina quais as entidades a consultar.
 
 8 - Para salvaguardar situações excecionais de reconhecido interesse nacional ou regional, nomeadamente a execução de empreendimentos de relevante interesse público, situações de calamidade pública ou outras situações de risco, bem como para garantir a elaboração, alteração ou revisão de programas especiais, o Governo pode estabelecer medidas preventivas, sendo aplicável as disposições previstas nos números anteriores.
-
-9 - As medidas preventivas estabelecidas para garantir a elaboração, alteração ou revisão de programas especiais, caducam com a entrada em vigor da atualização dos planos de âmbito intermunicipal ou municipal preexistentes, nas áreas respetivamente abrangidas, não se aplicando o disposto na alínea c) do n.º 3 do artigo 141.º e suspendendo-se o respetivo prazo de vigência durante o prazo estabelecido para atualização do plano.

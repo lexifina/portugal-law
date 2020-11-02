@@ -6,10 +6,10 @@
 
 2 - Os procedimentos administrativos subsequentes à conclusão da elaboração dos planos municipais devem ser concretizados de modo a que, entre a respetiva aprovação e a publicação no Diário da República, medeiem os seguintes prazos máximos:
 
-a) Plano diretor municipal - 45 dias;
+a) Plano diretor municipal - 60 dias;
 
 b) Plano de urbanização - 30 dias;
 
-c) Plano de pormenor - 25 dias.
+c) Plano de pormenor - 30 dias.
 
 3 - Os prazos fixados no número anterior suspendem-se nos casos previstos no n.º 2 do artigo anterior.

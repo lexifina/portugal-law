@@ -2,7 +2,7 @@
 
 ### Reserva de solo
 
-1 - Os planos territoriais podem estabelecer reservas de solo para a execução de infraestruturas urbanísticas, de equipamentos e de espaços verdes e outros espaços de utilização coletiva, bem como de habitação pública, a custos controlados ou para arrendamento acessível.
+1 - Os planos territoriais podem estabelecer reservas de solo para a execução de infraestruturas urbanísticas, de equipamentos e de espaços verdes e outros espaços de utilização coletiva.
 
 2 - A reserva de solo que incida sobre prédios de particulares determina a obrigatoriedade da sua aquisição, no prazo estabelecido no plano territorial ou no respetivo instrumento de programação.
 

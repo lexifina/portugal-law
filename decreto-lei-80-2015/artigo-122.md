@@ -12,8 +12,8 @@ c) Correções do regulamento ou das plantas, determinadas por incongruência de
 
 d) Correção de lapsos gramaticais, ortográficos, de cálculo ou de natureza análoga; ou
 
-e) Correção de erros materiais provenientes de divergências entre o ato original e o ato efetivamente publicado no Diário da República.
+e) Correção de erros materiais provenientes de divergências entre o ato original e o ato efetivamente publicado na 1.ª série do Diário da República.
 
-2 - As correções materiais são obrigatórias e podem ser efetuadas a todo o tempo por comunicação da entidade responsável pela elaboração do programa ou do plano, sujeita a publicação e publicitação idênticas às do instrumento de gestão territorial objeto de correção.
+2 - As correções materiais podem ser efetuadas a todo o tempo, por comunicação da entidade responsável pela elaboração dos programas ou dos planos, e são publicadas na mesma série do Diário da República em que foi publicado o programa ou plano objeto de correção.
 
 3 - A comunicação referida no número anterior é transmitida previamente ao órgão competente para a aprovação do programa ou do plano, quando este seja diferente do órgão responsável pela respetiva elaboração, sendo depois transmitida à comissão de coordenação e desenvolvimento regional territorialmente competente e remetida para publicação e depósito, nos termos previstos no presente decreto-lei.

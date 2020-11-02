@@ -10,4 +10,4 @@ a) Ajustar às disposições do plano intermunicipal ou do plano municipal, a co
 
 b) Distribuir equitativamente os benefícios e encargos resultantes do plano;
 
-c) Localizar as áreas a ceder obrigatoriamente pelos proprietários destinadas à implantação de infraestruturas, de espaços verdes e de equipamentos públicos, bem como para habitação pública, a custos controlados ou para arrendamento acessível.
+c) Localizar as áreas a ceder obrigatoriamente pelos proprietários destinadas à implantação de infraestruturas, de espaços verdes e de equipamentos públicos.

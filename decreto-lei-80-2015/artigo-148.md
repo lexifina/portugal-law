@@ -9,27 +9,3 @@
 3 - As unidades de execução podem corresponder a uma unidade operativa de planeamento e gestão, à área abrangida por plano de urbanização ou por plano de pormenor ou a parte desta.
 
 4 - Na falta de plano de urbanização ou de plano de pormenor aplicável à área abrangida pela unidade de execução, deve a câmara municipal promover, previamente à aprovação, um período de discussão pública, em termos análogos aos previstos para o plano de pormenor.
-
-5 - À unidade de execução pode designadamente estar associado:
-
-a) O desenho urbano;
-
-b) As parcelas;
-
-c) Os alinhamentos;
-
-d) O polígono de base para implantação das edificações;
-
-e) A altura total das edificações;
-
-f) A altura das fachadas;
-
-g) A divisão em lotes;
-
-h) O número máximo de fogos;
-
-i) A área de construção e o respetivo uso;
-
-j) A programação das obras de urbanização;
-
-k) A contratualização para a sua implementação.

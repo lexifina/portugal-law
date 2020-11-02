@@ -2,6 +2,6 @@
 
 ### Instrumentos de gestão territorial
 
-1 - Os planos setoriais expressamente previstos por lei e os planos regionais de ordenamento do território em vigor são equiparados, para todos os efeitos, aos programas setoriais e aos programas regionais, respetivamente.
+1 - Os planos setoriais e regionais devem ser reconduzidos aos novos programas setoriais e regionais, no período de dois anos, a contar da data de entrada em vigor do presente decreto-lei.
 
-2 - Na sua alteração ou revisão, os planos sectoriais e os planos regionais de ordenamento do território a que se refere o número anterior adotam a forma do programa territorial que lhes corresponde.
+2 - Findo o prazo estabelecido para a transposição do conteúdo dos planos especiais, nos termos do artigo 78.º da lei bases de política pública de solos, do ordenamento do território e urbanismo, devem os mesmos ser reconduzidos aos programas especiais, no prazo de um ano.

@@ -22,7 +22,7 @@ e) A resolução do Conselho de Ministros que aprova o programa regional, inclui
 
 f) A resolução do Conselho de Ministros ou, quando for o caso, o ato que, nos termos da lei, aprova o programa setorial, incluindo os elementos referidos no n.º 1 do artigo 41.º;
 
-g) A decisão relativa à ratificação total ou parcial, ou à recusa de ratificação, das disposições do plano diretor municipal ou do plano diretor intermunicipal, identificando as partes do regulamento, da planta de ordenamento ou da planta de condicionantes afetadas;
+g) O ato que ratifica o plano diretor municipal ou o plano diretor intermunicipal, incluindo o regulamento, a planta de ordenamento e a planta de condicionantes;
 
 h) A resolução do Conselho de Ministros que aprova o programa especial, incluindo as normas de execução e as peças gráficas ilustrativas;
 
@@ -32,7 +32,7 @@ j) A resolução do Conselho de Ministros que suspende o programa regional, o pr
 
 k) A resolução do Conselho de Ministros que determina a revogação de programa territorial.
 
-3 - (Revogado).
+3 - No caso da ratificação prevista na alínea e) do número anterior ser parcial, devem ser identificadas no regulamento publicado as disposições não ratificadas.
 
 4 - São publicados na 2.ª série do Diário da República:
 
@@ -46,7 +46,7 @@ d) A deliberação das assembleias municipais ou da assembleia intermunicipal qu
 
 e) A deliberação das assembleias municipais ou da assembleia intermunicipal que aprova o plano intermunicipal, incluindo o relatório e as peças gráficas ilustrativas;
 
-f) A deliberação municipal que aprova o plano municipal não sujeito a ratificação ou que obteve a ratificação total das disposições, e a deliberação a que se refere o n.º 5 do artigo 91.º, incluindo o regulamento, a planta de ordenamento, de zonamento ou de implantação, consoante os casos, e a planta de condicionantes;
+f) A deliberação municipal que aprova o plano municipal não sujeito a ratificação, incluindo o regulamento, a planta de ordenamento, de zonamento ou de implantação, consoante os casos, e a planta de condicionantes;
 
 g) A deliberação das assembleias municipais ou da assembleia intermunicipal que aprova o plano intermunicipal, incluindo o regulamento, a planta de ordenamento e a planta de condicionantes;
 
@@ -58,16 +58,14 @@ j) A deliberação municipal ou intermunicipal que determina a revogação de pl
 
 k) A declaração da entidade responsável pela elaboração do programa ou do plano territorial, prevista no n.º 3 do artigo 121.º
 
-5 - Caso haja lugar a ratificação de disposições do plano diretor municipal, a publicação da deliberação prevista na alínea f) do número anterior deve incluir anexo mencionando a decisão prevista na alínea g) do n.º 2 e, na falta de ratificação total, indicando as disposições objeto de recusa total ou parcial de ratificação e as alterações introduzidas no plano para sanar as incompatibilidades identificadas, nos termos do n.º 5 do artigo 91.º
+5 - As alterações ou revisões dos programas e dos planos territoriais que incidem sobre as respetivas plantas e peças gráficas determinam a publicação integral das mesmas ou, quando for o caso, da folha ou das folhas alteradas.
 
-6 - As alterações ou revisões dos programas e dos planos territoriais que incidem sobre as respetivas plantas e peças gráficas determinam a publicação integral das mesmas ou, quando for o caso, da folha ou das folhas alteradas.
+6 - A publicação das plantas e demais peças gráficas referentes aos programas e aos planos territoriais, bem como das suas alterações, é efetuada mediante ligação automática do local da publicação dos atos a que se referem no sítio na Internet do Diário da República ao local da sua publicação no SNIT.
 
-7 - A publicação das plantas e demais peças gráficas referentes aos programas e aos planos territoriais, bem como das suas alterações, é efetuada mediante ligação automática do local da publicação dos atos a que se referem no sítio na Internet do Diário da República ao local da sua publicação no SNIT.
-
-8 - Compete à Direção-Geral do Território assegurar a criação e o funcionamento da plataforma informática a que se refere a alínea b) do artigo 190.º, que garante a permanente acessibilidade e legibilidade no SNIT das plantas e peças gráficas referidas no número anterior, devendo assegurar que:
+7 - Compete à Direção-Geral do Território assegurar a criação e o funcionamento da plataforma informática a que se refere a alínea b) do artigo 190.º, que garante a permanente acessibilidade e legibilidade no SNIT das plantas e peças gráficas referidas no número anterior, devendo assegurar que:
 
 a) As plantas e peças gráficas não são alteradas;
 
 b) Sempre que se proceda a alterações, a revisões, a adaptações ou a retificações das plantas e peças gráficas é disponibilizada uma nova versão integral das mesmas.
 
-9 - O envio dos programas e planos territoriais para publicação no Diário da República é efetuado por via eletrónica através da plataforma informática prevista na alínea b) do artigo 190.º
+8 - O envio dos programas e planos territoriais para publicação no Diário da República é efetuado por via eletrónica através da plataforma informática prevista na alínea b) do artigo 190.º
