@@ -1,0 +1,252 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13509",
+  "numero": "142",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-11-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.Audiencias",
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2020-11-11",
+        "DataBaixaComissao": "2020-11-04",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-11-12",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279387a4d44426b4e7a41784e7930354d6a45314c5451794d4749744f4759344d7930325a446b314e7a426a4d5455784e7a6b756347526d&fich=300d7017-9215-420b-8f83-6d9570c15179.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7424",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-01-19",
+            "entidades": null,
+            "id": "116474",
+            "tipo": null,
+            "titulo": "Audição em 2021-01-19 com Peticionário: André Filipe Rodrigues Pedro Ferreira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-12-10",
+            "dataResposta": "2020-12-18",
+            "entidades": [
+              "Ordem dos Psicólogos"
+            ],
+            "nrOficio": "CAPMADPL/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-12-10",
+            "dataResposta": "2021-01-05",
+            "entidades": [
+              "Ministra da Modernização do Estado e da Administração Pública"
+            ],
+            "nrOficio": "CAPMADPL/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-03-02",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915066",
+                "obs": null,
+                "pag": [
+                  "13-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-30",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/041/2021-04-30/13?pgs=13-19&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-12-09",
+        "DataArquivo": "2021-03-02",
+        "DataBaixaComissao": "2020-11-11",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2020-12-09",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-12-09",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a59573876597a6b354e7a4e6a5a6a6b744f546b7a4e5330304d546b334c5467774f5451744d7a686859325932597a526c4f475a694c6e426b5a673d3d&fich=c9973cf9-9935-4197-8094-38acf6c4e8fb.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a59573876595456694e444a6c4d44677459325a6c4d6930304e7a49784c54686a4f475574596d526b4e7a457a5a6d5178597a67324c6e426b5a673d3d&fich=a5b42e08-cfe2-4721-8c8e-bdd713fd1c86.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764f444a6d4d54686d596d59745a6a46694d6930304e7a49344c546c6a4f575974595463354f4751334e6d466c5a54466b4c6e426b5a673d3d&fich=82f18fbf-f1b2-4728-9c9f-a798d76aee1d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-04-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738765957526d4d324a694d4451745a4746694f4330304f5749784c546c6c4e324d744d5459304f4749324d7a566c4f44677a4c6e426b5a673d3d&fich=adf3bb04-dab8-49b1-9e7c-1648b635e883.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-01-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764e44466c5a6a4d334d7a63744f44566d4d433030597a51344c54686c4d6a49744e324d334d6a55304e7a426b597a566b4c6e426b5a673d3d&fich=41ef3737-85f0-4c48-8e22-7c725470dc5d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-01-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764d325a6c4e6d566d4f4455744e6a6c694e4330304f4451334c5749784d6d49745a4745334e6a566b4f444a6a5a474a6c4c6e426b5a673d3d&fich=3fe6ef85-69b4-4847-b12b-da765d82cdbe.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7504",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-12-09",
+            "gp": "BE",
+            "id": "4162",
+            "motivoCessacao": null,
+            "nome": "Moisés Ferreira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Saúde para esta comissão."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2020-10-06",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4a6c597a4e6a5a6a4d784c5459304d7a67744e44526c4f4330344d7a466b4c5467354e4449355a5463304d44557a5a5335775a47593d&fich=2ec3cf31-6438-44e8-831d-89429e74053e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13509",
+    "PetAssunto": "Pelo acesso à Carreira Especial de Técnico Superior de Saúde - Ramo Psicologia Clínica",
+    "PetDataEntrada": "2020-11-02",
+    "PeticoesAssociadas": null,
+    "PetId": "13509",
+    "PetLeg": "XIV",
+    "PetNr": "142",
+    "PetNrAssinaturas": "1099",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915046",
+        "obs": null,
+        "pag": [
+          "21-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-12-12",
+        "pubLeg": "XIV",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/018/2020-12-12/21?pgs=21-22&org=PLC"
+      }
+    ]
+  }
+}
