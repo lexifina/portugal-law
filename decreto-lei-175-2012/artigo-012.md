@@ -6,23 +6,25 @@
 
 2 - O IHRU, I. P., dispõe ainda das seguintes receitas próprias:
 
-a) As resultantes da sua atividade de financiamento;
+a) As receitas dos impostos que lhe sejam consignadas;
 
-b) O produto da alienação e da cobrança de rendas e outros proveitos do seu património ou da constituição de direitos sobre o mesmo;
+b) As resultantes da sua atividade de financiamento;
 
-c) Os rendimentos resultantes da cobrança de taxas e comissões por serviços prestados;
+c) O produto da alienação e da cobrança de rendas e outros proveitos do seu património ou da constituição de direitos sobre o mesmo;
 
-d) As receitas provenientes de ações de formação, de estudos ou de apoio técnico;
+d) Os rendimentos resultantes da cobrança de taxas e comissões por serviços prestados;
 
-e) O produto da venda de publicações e de outros bens ou serviços;
+e) As receitas provenientes de ações de formação, de estudos ou de apoio técnico;
 
-f) Os recursos obtidos pela contração de empréstimos internos ou externos, incluindo a emissão de obrigações hipotecárias ou outros títulos, previamente autorizados nos termos legais;
+f) O produto da venda de publicações e de outros bens ou serviços;
 
-g) As subvenções, comparticipações, subsídios ou donativos concedidos por quaisquer entidades, nacionais ou estrangeiras;
+g) Os recursos obtidos pela contração de empréstimos internos ou externos, incluindo a emissão de obrigações hipotecárias ou outros títulos, previamente autorizados nos termos legais;
 
-h) As heranças, legados ou doações de que venha a ser beneficiário;
+h) As subvenções, comparticipações, subsídios ou donativos concedidos por quaisquer entidades, nacionais ou estrangeiras;
 
-i) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+i) As heranças, legados ou doações de que venha a ser beneficiário;
+
+j) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
 
 3 - As receitas do património imobiliário do IHRU, I. P., abrangido pelo Decreto-Lei n.º 117/89, de 14 de abril, estão sujeitas ao regime especial de afetação previsto nesse diploma.
 
