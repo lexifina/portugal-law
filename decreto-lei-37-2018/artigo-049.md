@@ -8,7 +8,7 @@
 
 Pode ser concedido financiamento à aquisição de frações ou prédios ao abrigo do 1.º Direito nos seguintes casos e condições:
 
-a) Às entidades referidas nas alíneas a) a c) do artigo 26.º, para aquisição de frações a atribuir, em regime de arrendamento apoiado ou de propriedade resolúvel a pessoas ou agregados elegíveis para acesso ao 1.º Direito;
+a) Às entidades referidas nas alíneas a) a c) do artigo 26.º, para aquisição de frações a atribuir, em regime de arrendamento ou de propriedade resolúvel a pessoas ou agregados elegíveis para acesso ao 1.º Direito;
 
 b) Às entidades referidas nas alíneas a) a d)do artigo 26.º, para aquisição de frações ou prédios habitacionais a atribuir em arrendamento ou em regime de propriedade resolúvel às pessoas ou agregados a que se referem os artigos 10.º e 11.º;
 

@@ -6,7 +6,7 @@
 
 2 - A comparticipação ao arrendamento para subarrendamento é concedida por um prazo máximo de 10 anos e é no montante correspondente:
 
-a) Nos primeiros cinco anos, a 50 % da diferença referida no número anterior, até um valor máximo de referência correspondente a 40 % do valor mediano das rendas por m2 de alojamentos familiares (euro) do concelho de localização da habitação, relativo ao último ano divulgado pelo INE, I. P., podendo ainda ser objeto da comparticipação 50 % do montante da caução que seja devida pelo beneficiário com o contrato;
+a) Nos primeiros cinco anos, a 50 % da diferença referida no número anterior, até um valor máximo de referência correspondente a 40 % do último valor mediano das rendas por m2 de alojamentos familiares (euro) do concelho de localização da habitação, divulgado pelo INE, I. P., podendo ainda ser objeto da comparticipação 50 % do montante da caução que seja devida pelo beneficiário com o contrato;
 
 b) Até 25 % da referida diferença nos restantes anos, até ao último, com o máximo de 20 % do valor mediano das rendas referido na alínea anterior.
 

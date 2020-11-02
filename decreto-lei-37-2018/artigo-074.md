@@ -8,6 +8,6 @@
 
 3 - No caso de unidades residenciais sujeitas ao regime especial de afetação ou no caso do regime especial de alienação, o registo é requerido com base em declaração emitida pelo IHRU, I. P., para o efeito.
 
-4 - O custo dos registos referidos nos números anteriores é considerado despesa elegível dos beneficiários nos termos da alínea c) do n.º 1 do artigo 15.º
+4 - O custo dos registos referidos nos números anteriores é considerado despesa elegível dos beneficiários nos termos da alínea d) do n.º 1 do artigo 14.º
 
 5 - É registada oficiosamente a caducidade do registo dos regimes especiais de afetação e de alienação pelo decurso do respetivo prazo, mas o respetivo cancelamento por outras causas de extinção só pode ser efetuado com base em declaração emitida pelo IHRU, I. P., para o efeito.

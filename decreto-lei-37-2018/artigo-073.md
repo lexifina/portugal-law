@@ -12,8 +12,16 @@
 
 5 - Em caso de renúncia por parte do município e do IHRU, I. P., o beneficiário só pode alienar a habitação a terceiros mediante o pagamento ao IHRU, I. P., e à AT das quantias relativas, respetivamente, à comparticipação concedida e ao valor da redução do IVA de que tenha beneficiado a empreitada, podendo esse pagamento ser efetuado no ato de celebração da correspondente escritura.
 
-6 - As quantias referidas no número anterior são atualizadas pela aplicação de juros de mora desde a data da respetiva disponibilização sempre que a transmissão se verifique durante os primeiros oito anos do prazo referido no n.º 1.
+6 - As quantias referidas no número anterior são atualizadas pela aplicação de percentagem igual à dos juros de mora civil desde a data da respetiva disponibilização, sempre que a transmissão se verifique durante os primeiros oito anos do prazo referido no n.º 1.
 
-7 - Não são consideradas no âmbito e para efeito do regime especial de alienação as transmissões pelas associações de moradores ou cooperativas beneficiárias do 1.º Direito de frações ou prédios aos respetivos moradores em regime de propriedade resolúvel, nem as transmissões gratuitas efetuadas por beneficiários diretos a favor de pessoas que integrem o respetivo agregado habitacional ou que deles sejam parentes ou afins, até ao 2.º grau da linha reta ou da linha colateral.
+7 - A habitação de beneficiários diretos que seja transmitida mortis causa pode ser cedida pelos respetivos herdeiros, durante o prazo estabelecido no n.º 1 do presente artigo, através de arrendamento ao abrigo do Programa de Arrendamento Acessível, aprovado pelo Decreto-Lei n.º 68/2019, de 22 de maio, estando os restantes atos de transmissão ou cedência sujeitos ao disposto nos números anteriores.
 
-8 - O regime especial de alienação caduca pelo decurso do prazo, bem como caduca no caso de dação ou de venda executiva da habitação para pagamento de dívidas de empréstimos hipotecários à aquisição ou à realização de obras, sendo a comparticipação paga ao IHRU, I. P., com o remanescente do produto da venda executiva, uma vez satisfeitas aquelas dívidas e as custas processuais.
+8 - Não são consideradas no âmbito e para efeito do regime especial de alienação regulado no presente artigo:
+
+a) As habitações financiadas com comparticipação de montante inferior a cinco mil euros; ou
+
+b) As transmissões gratuitas efetuadas por beneficiários a favor de pessoas que integrem o seu agregado habitacional.
+
+9 - O disposto no presente artigo é aplicável no caso de habitações transmitidas em regime de propriedade resolúvel, quando o adquirente pague antecipadamente a totalidade do preço antes do termo do prazo estabelecido no n.º 1.
+
+10 - O regime especial de alienação caduca pelo decurso do prazo, bem como caduca no caso de dação ou de venda executiva da habitação para pagamento de dívidas de empréstimos hipotecários à aquisição ou à realização de obras, sendo a comparticipação paga ao IHRU, I. P., com o remanescente do produto da venda executiva, uma vez satisfeitas aquelas dívidas e as custas processuais.

@@ -4,7 +4,7 @@
 
 Para efeitos do presente decreto-lei considera-se:
 
-a) «Agregado habitacional», o conjunto constituído pelas pessoas que coabitam em economia comum no mesmo local e mantêm entre si vínculos de convivência estável e ou de dependência, com exceção das situações previstas no n.º 8 do artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual;
+a) «Agregado habitacional», o conjunto constituído pelas pessoas que coabitam em economia comum no mesmo local e mantêm entre si vínculos de convivência estável e ou de dependência, ou que constitua uma unidade de convivência na aceção do n.º 2 do artigo 8.º da lei de bases da habitação (LBH), aprovada pela Lei n.º 83/2019, de 3 de setembro, excluindo as situações previstas no n.º 8 do artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual;
 
 b) «Agregado unititulado», o agregado habitacional constituído por um ou mais dependentes e um único adulto não dependente;
 
@@ -12,7 +12,7 @@ c) «Dependente», o menor de idade e a pessoa que, não tendo mais de 25 anos o
 
 d) «Deficiência» ou «incapacidade», a situação da pessoa com grau de incapacidade permanente igual ou superior a 60 %, devidamente comprovado com atestado médico de incapacidade multiúso;
 
-e) «Situação de carência financeira», a situação da pessoa ou do agregado habitacional que detém um património mobiliário de valor inferior a 5 % do limite do estabelecido nos termos dos n.os 4 e 5 do artigo 2.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual, e cujo rendimento médio mensal é inferior a quatro vezes o indexante dos apoios sociais (IAS);
+e) «Situação de carência financeira», a situação da pessoa ou do agregado habitacional que detém um património mobiliário de valor inferior a 7,5 % do limite do estabelecido nos termos dos n.ºs 4 e 5 do artigo 2.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual, e cujo rendimento médio mensal é inferior a quatro vezes o indexante dos apoios sociais (IAS);
 
 f) «Pessoa em situação de sem-abrigo», aquela que se encontre:
 
@@ -20,7 +20,7 @@ i) Sem teto, vivendo no espaço público, alojada em abrigo de emergência ou co
 
 ii) Sem casa, encontrando-se em alojamento temporário destinado para o efeito;
 
-g) «Município competente», o município, ou o órgão do município, em cujo território reside a pessoa ou o agregado habitacional que se candidata a apoio ao abrigo do 1.º Direito ou no qual são promovidas as soluções habitacionais financiadas no âmbito deste programa, sem prejuízo de qualquer dessas soluções poder ser desenvolvida por uma Região Autónoma ou por uma associação de municípios, diretamente ou através de entidade que a represente, quando detenha os poderes para o efeito nos termos legais aplicáveis;
+g) «Município competente», o município, ou o órgão do município, em cujo território reside a pessoa ou o agregado habitacional que se candidata a apoio ao abrigo do 1.º Direito ou no qual são promovidas as soluções habitacionais financiadas no âmbito deste programa, sem prejuízo de qualquer dessas soluções poder ser desenvolvida por uma junta de freguesia, uma região autónoma ou por uma associação de municípios, diretamente ou através de entidade que a represente, quando detenha os poderes para o efeito nos termos legais aplicáveis;
 
 h) «Serviços sociais competentes», os serviços e organismos com atribuições legais em matéria de assistência, de apoio e de solidariedade social, nomeadamente os serviços do Instituto da Segurança Social, I. P. (ISS, I. P.), e as comissões de proteção de crianças e jovens;
 
@@ -36,7 +36,7 @@ m) «Partes acessórias da fração», os espaços destinados a garagem ou estac
 
 n) «Fração habitacional», a fração destinada a fins habitacionais;
 
-o) «Área habitacional de um prédio», o somatório das áreas brutas das frações habitacionais de um prédio;
+o) «Área habitacional de um prédio», o somatório das áreas brutas das frações habitacionais de um prédio, sendo consideradas as áreas brutas privativas das frações quando o valor de referência para cálculo da comparticipação for o valor mediano das vendas por m2 divulgado pelo Instituto Nacional de Estatística, I. P. (INE, I. P.);
 
 p) «Empreendimento habitacional», o conjunto edificado em que o somatório das áreas brutas habitacionais dos prédios que o constituem corresponde a, pelo menos, metade da sua área bruta total;
 
@@ -50,4 +50,6 @@ t) «Reabilitação», a intervenção destinada a conferir adequadas caracterí
 
 u) «Soluções de sustentabilidade ambiental», as medidas construtivas, os equipamentos e as tecnologias destinados a dotar os prédios e as frações das condições necessárias a uma utilização racional da energia e da água, bem como para a gestão de resíduos;
 
-v) «Autopromoção», a promoção pelo próprio agregado elegível ao abrigo do 1.º Direito, através de empreitada contratada diretamente pelo mesmo, da construção de prédio unifamiliar destinado a proporcionar-lhe uma habitação adequada.
+v) «Autopromoção», a promoção pelo próprio agregado elegível ao abrigo do 1.º Direito, através de empreitada contratada diretamente pelo mesmo, da construção de prédio unifamiliar destinado a proporcionar-lhe uma habitação adequada;
+
+w) «Divisão habitável», divisão cuja área é de pelo menos 4 m2.

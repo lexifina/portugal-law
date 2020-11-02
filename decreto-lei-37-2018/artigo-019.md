@@ -11,3 +11,5 @@
 4 - No caso de intervenções de reabilitação, apenas são comparticipáveis as despesas relativas a soluções de eficiência energética que permitam um aumento da classe energética, certificada antes das obras, em, pelo menos, dois níveis.
 
 5 - Com exceção do apoio ao arrendamento para subarrendamento, quando haja lugar à aplicação conjugada de duas ou mais majorações da comparticipação, a percentagem total dessas majorações não pode ser superior a 25 %.
+
+6 - A atribuição de habitações financiadas ao abrigo do programa a pessoas ou agregados habitacionais a que se refere o artigo 10.º pode ser realizada nas condições do regime excecional do artigo 14.º da Lei n.º 81/2014, de 19 de dezembro, na sua redação atual, designadamente no que respeita à possibilidade de dispensa de contrato escrito.

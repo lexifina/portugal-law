@@ -8,7 +8,7 @@ a) Precariedade, considerando-se como tais as situações de pessoas sem abrigo,
 
 b) Insalubridade e insegurança, nos casos em que a pessoa ou o agregado vive em local, construído ou não, destituído de condições básicas de salubridade, segurança estrutural, estanquidade e higiene ou por ser uma edificação sem condições mínimas de habitabilidade;
 
-c) Sobrelotação, quando, da relação entre a composição do agregado e o número de divisões da habitação, esta constitui um espaço de habitação insuficiente, por falta de 2 ou mais divisões, nos termos do conceito espaço de habitação sobrelotado usado pelo Instituto Nacional de Estatística, I. P. (INE, I. P.);
+c) Sobrelotação, quando, da relação entre a composição do agregado e o número de divisões habitáveis da habitação, esta não dispõe de um número de divisões suficiente, considerando-se suficiente um número correspondente a uma divisão comum e a uma divisão por cada casal, por cada adulto, por cada duas pessoas do mesmo sexo com idades entre os 12 e os 17 anos, por cada pessoa de sexo diferente com idades entre os 12 e os 17 anos e por cada duas pessoas com menos de 12 anos;
 
 d) Inadequação, por incompatibilidade das condições da habitação com características específicas de pessoas que nele habitam, como nos casos de pessoas com incapacidade ou deficiência, em especial quando a habitação:
 

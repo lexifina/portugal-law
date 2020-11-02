@@ -6,7 +6,7 @@
 
 a) Seja detentor de título, como de propriedade, usufruto ou arrendamento, que lhe confere, e ao seu agregado, o direito a utilizar uma habitação adequada;
 
-b) Tenha beneficiado de apoio público a fundo perdido ou de uma indemnização no âmbito de regimes especiais de apoio a programas municipais de realojamento e não seja dependente ou deficiente;
+b) Tenha beneficiado de apoio a fundo perdido para aquisição, construção ou reconstrução de habitação no âmbito de regimes legais de financiamento público e não seja dependente ou deficiente;
 
 c) Seja cidadão estrangeiro com autorização de residência temporária para o exercício de determinadas atividades de curta e média duração, como são os casos de intercâmbio estudantil, voluntariado ou estágio profissional.
 
