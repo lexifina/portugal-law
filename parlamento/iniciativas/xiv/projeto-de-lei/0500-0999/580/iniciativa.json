@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "580",
+  "id": "45449",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2020-11-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d4455335a5441784d5451744f44566b4d6930304e6a4e6b4c546b7a4e6a6b744e4459315a6d59335a6a6b7859544d304c6e426b5a673d3d&fich=057e0114-85d2-463d-9369-465ff7f91a34.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "BE",
+        "idCadastro": "5952",
+        "nome": "Maria Manuel Rola"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3926",
+        "nome": "Pedro Filipe Soares"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4557",
+        "nome": "Mariana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4194",
+        "nome": "Jorge Costa"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5549",
+        "nome": "Alexandra Vieira"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4450",
+        "nome": "Beatriz Gomes Dias"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6024",
+        "nome": "Fabíola Cardoso"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5854",
+        "nome": "Isabel Pires"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4022",
+        "nome": "João Vasconcelos"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3998",
+        "nome": "José Manuel Pureza"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3951",
+        "nome": "José Maria Cardoso"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5949",
+        "nome": "Luís Monteiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4162",
+        "nome": "Moisés Ferreira"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3928",
+        "nome": "Nelson Peralta"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6533",
+        "nome": "Ricardo Vicente"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4196",
+        "nome": "Sandra Cunha"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4161",
+        "nome": "Catarina Martins"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "BE"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "45449",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5464685a4467784d5755744d7a41344d5330304d7a49344c574a6c4e444d744e7a4e6d596a59334d4467315a6a4d324c6d527659773d3d&fich=17ad811e-3081-4328-be43-73fb67085f36.doc&Inline=true",
+    "IniNr": "580",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Interdita a menores o trabalho em atividades tauromáquicas, profissionais ou amadoras, assim como a assistência a eventos tauromáquicos (1.ª alteração à Lei n.º 31/2015, de 23 de abril; 2.ª alteração ao Decreto-Lei n.º 23/2014, de 14 de fevereiro; 4.ª alteração à Lei n.º 27/2007, de 30 de julho)",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
