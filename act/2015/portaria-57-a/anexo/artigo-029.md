@@ -16,6 +16,6 @@ a) Possuir situação líquida positiva;
 
 b) Não ter projetos aprovados nas tipologias identificadas nos n.os 3 e 5 do artigo 21.º;
 
-c) Corresponder a uma empresa criada há menos de dois anos.
+c) Corresponder a uma empresa criada há menos de três anos.
 
 3- Os critérios de elegibilidade dos beneficiários estabelecidos nos números anteriores devem ser reportados à data da candidatura.
