@@ -1,0 +1,5 @@
+Declaração de Retificação n.º 44/2020
+Sumário: Declara nula a Portaria n.º 259/2020, de 3 de novembro, do Planeamento, que procede à oitava alteração ao Regulamento Que Estabelece Normas Comuns sobre o Fundo Social Europeu, aprovado em anexo à Portaria n.º 60-A/2015, de 2 de março, na sua atual redação, publicada no Diário da República, 1.ª série, n.º 214, de 3 de novembro de 2020.
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, conjugadas com o disposto no n.º 5 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, declara-se sem efeito a Portaria n.º 259/2020, de 3 de novembro, publicada no Diário da República, 1.ª série, n.º 214, de 3 de novembro de 2020, por corresponder à publicação em duplicado do texto da Portaria n.º 255/2020, publicada no Diário da República, 1.ª série, n.º 209, de 27 de outubro de 2020.
+Secretaria-Geral, 4 de novembro de 2020. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+113710062
