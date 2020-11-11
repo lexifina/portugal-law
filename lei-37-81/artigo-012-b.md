@@ -4,9 +4,11 @@
 
 1 - A titularidade de boa-fé de nacionalidade portuguesa originária ou adquirida durante, pelo menos, 10 anos é causa de consolidação da nacionalidade, ainda que o ato ou facto de que resulte a sua atribuição ou aquisição seja contestado.
 
-2 - Nos casos de atribuição da nacionalidade, o prazo referido no número anterior conta-se a partir da data do registo de nascimento, se a identificação como cidadão português tiver na sua origem o respetivo registo, ou a partir da data da emissão do primeiro documento de identificação como cidadão nacional, se a identificação como cidadão português derivar do documento emitido.
+2 - O prazo referido no número anterior é de 18 meses para os menores com nascimento no registo civil português.
 
-3 - Nos casos de aquisição de nacionalidade, o prazo referido no n.º 1 conta-se a partir:
+3 - Nos casos de atribuição da nacionalidade, o prazo referido no n.º 1 conta-se a partir da data do registo de nascimento, se a identificação como cidadão português tiver na sua origem o respetivo registo, ou a partir da data da emissão do primeiro documento de identificação como cidadão nacional, se a identificação como cidadão português derivar do documento emitido.
+
+4 - Nos casos de aquisição de nacionalidade, o prazo referido no n.º 1 conta-se a partir:
 
 a) Da data do registo da nacionalidade, nos casos de aquisição por efeito da vontade, pela adoção ou por naturalização;
 
