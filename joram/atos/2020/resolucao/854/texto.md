@@ -1,0 +1,22 @@
+# Resolução n.º 854/2020
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 213/2020, suplemento, de 2020-11-11
+
+**Sumário:** Determina que a entidade denominada CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM, isente todos os seus apresentantes das taxas por si cobradas referentes aos serviços de abate e preparação de todas as espécies, aos serviços de transporte (entrega da carne), eliminação de resíduos, abates de urgência e lavagem de viaturas, desde o dia seguinte à data da publicação da presente Resolução e até 31 de dezembro de 2020.
+
+## Texto
+
+Resolução n.º 854/2020
+Considerando a emergência de saúde pública de âmbito internacional declarada pela Organização Mundial de Saúde no dia 30 de janeiro de 2020, bem como a classificação, no dia 11 de março de 2020, da doença da COVID-19 como pandemia internacional;
+
+Considerando que, subsequentemente, foi declarado o estado de emergência em todo o território nacional, com fundamento na verificação de uma situação de calamidade pública, nos termos do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, estado de emergência que foi sucessivamente renovado até ao dia 2 de maio de 2020;
+Considerando que, na sequência da situação epidemiológica da COVID-19, foi, posteriormente, decretada pelo Governo Regional da Madeira, nos termos da Resolução do Conselho do Governo n.º 272/2020, de 30 de abril, a situação de calamidade em todo o território da Região Autónoma da Madeira; situação de calamidade que tem sido sucessivamente prorrogada e que, no presente e nos termos da Resolução do Conselho de Governo n.º 623/2020, de 28 de agosto, se mantém até às 23:59 horas, do dia 30 de setembro de 2020;
+Considerando que, no enquadramento acima, as medidas excecionais e temporárias que vêm sendo adotadas para fazer face à situação epidemiológica do novo Coronavírus-COVID 19 constituíram e constituem ainda uma forte restrição de alguns direitos e liberdades dos cidadãos, em concreto, no que concerne às liberdades económicas;
+Considerando que, no âmbito das referidas medidas excecionais e temporárias, são inevitavelmente colocados diversos constrangimentos ao nível do normal funcionamento das cadeias de abastecimento alimentar, desde logo no que se refere à reorganização dos circuitos e à procura, em face designadamente da suspensão das normais atividades da hotelaria e da restauração na ordem dos 50% a 80%;
+Considerando que, ainda que não se consiga determinar o impacto da pandemia da COVID-19 em toda a sua amplitude, é reconhecido que o seu impacto económico é devastador, ao qual o Governo Regional não é de todo alheio, tendo pelo contrário tendo vindo prontamente a aprovar um conjunto de medidas de caráter excecional para auxílio às famílias e ao tecido empresarial regional, sejam empresas ou empresários em nome individual, por forma a mitigar os prejuízos económicos decorrentes da COVID-19;
+Considerando que o referido impacto económico é transversal e atinge as empresas e os trabalhadores de todos os setores da economia e não exclui a agricultura e a pecuária;
+Considerando que o Governo Regional da Madeira, na prossecução das suas políticas regionais de apoio ao desenvolvimento agropecuário, pretende incentivar a produção regional e o consumo de produtos locais, apoio e incentivo que são essenciais às explorações pecuárias da Região Autónoma da Madeira, um setor de atividade já de si com alguma volatilidade socioeconómica associada e o qual se vê também afetado pela doença da COVID-19.
+Nestes termos, o Conselho do Governo reunido em plenário em 5 de novembro de 2020, ao abrigo do disposto da alínea a) do n.º 1 do artigo 5.º e alínea d) do 7.º, ambos do Decreto Legislativo Regional n.º 12/2020/M, de 10 de agosto, bem como ao abrigo do artigo 33.º do Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, aplicável por remissão do n.º 3 do artigo 5.º do Decreto Legislativo Regional n.º 12/2020/M, de 10 de agosto, resolve determinar, que o CARAM - Centro de Abate da Região Autónoma da Madeira, EPERAM, isente todos os seus apresentantes das taxas por si cobradas referentes aos serviços de abate e preparação de todas as espécies, aos serviços de transporte (entrega da carne), eliminação de resíduos, abates de urgência e lavagem de viaturas, desde o dia seguinte à data da publicação da presente Resolução e até 31 de dezembro de 2020.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
