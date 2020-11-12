@@ -14,8 +14,8 @@
 
 6 - Os funcionários diplomáticos e outros com acreditação diplomática, alternativamente, podem inscrever-se na comissão recenseadora correspondente ao local onde exercem funções, mediante a apresentação do título de identificação nacional e de documento comprovativo do local de exercício de funções, emitido pela área governativa dos negócios estrangeiros.
 
-7 - A inscrição no recenseamento dos cidadãos referidos no n.º 1, cujo recenseamento seja voluntário, é convertida em inativa quando tenham decorrido 12 meses do termo de validade do último documento de identificação nacional ou passaporte válidos, sem revalidação.
+7 - A inscrição no recenseamento dos cidadãos referidos no artigo 4.º é convertida em inativa quando tenham decorrido 24 meses do termo de validade do último documento de identificação nacional, sem revalidação.
 
-8 - Para os efeitos previstos no número anterior, o eleitor é notificado para a última morada conhecida 60 dias antes do termo daquele prazo.
+8 - Para os efeitos previstos no número anterior, o eleitor é notificado para a última morada conhecida 180 dias antes do termo daquele prazo.
 
 9 - Nos casos referidos no número anterior, a inscrição passa a ativa, oficiosamente, com a obtenção ou revalidação do cartão de cidadão ou com a inscrição voluntária no recenseamento.
