@@ -2,7 +2,7 @@
 
 ### Determinação das assembleias de voto
 
-1 - Até ao 30.º dia anterior ao do referendo, o presidente da câmara municipal determina o desdobramento em secções de voto, quando necessário, da assembleia de voto de cada freguesia, comunicando-o imediatamente à correspondente junta de freguesia.
+1 - Até ao 30.º dia anterior ao do referendo, o presidente da câmara municipal decide os pedidos de desdobramentos referidos no artigo anterior, comunicando-o imediatamente à correspondente junta de freguesia e aos serviços da administração eleitoral.
 
 2 - Da decisão do presidente da câmara cabe recurso para o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma.
 
