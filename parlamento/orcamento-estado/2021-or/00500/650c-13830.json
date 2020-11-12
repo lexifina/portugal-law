@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uPZIVXm2yI22KXbLu%2b3HI%2fiKx4uCbvqSqBowFfMKWMV6UMwpD%2fysewE8s1XcGhwYasqy6Rx9KPKqRsUf8FNicaTL7pHS7OYjTxKxRacUw%2fmgK7vRNhgPARA9o7mrBT6FaH%2bs1YAfw4ppxJxaze6ZAEl09N453i5HCqwScbEQ5A60dO3yLzYuxRAHm6gJ50%2fKj4KeDLRgc%2blEnfSqm64cLLZXn%2bNOWTzXp9EsP%2bAMAkWJOuFFcczbEfgIsmICwvg921NjVb80EDFj65tsd46JhazX1lcdSZj32ewVt5pgRDRkJY3e9H3XtxmcQ21%2fEz3pLPtZe3lhMSMXTToK9RBU63gfRn875CwCJ9lDC73pOhz6BsssCKCeM%2b4Pl67BZ1hwfPemmzIi0lz1HVZ%2b%2fE%2bO38N1t7C0BRaqE6aXGZTI%2fEY%3d&fich=OEPropostasAlteracao2021Or_json.txt&Inline=true",
+  "ficheiro_sha256": "2fb4c945f684891eb34c0446d34622e97756f6657e3edcb4ca6cf11940b6d9b9",
+  "legislatura": "XIV",
+  "id": "13830",
+  "numero": "650C",
+  "orcamento": "2021",
+  "versao": "Or",
+  "data_registo": "2020-11-12",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "13830",
+    "Numero": "650C",
+    "Data": "12/11/2020 17:05:00",
+    "Titulo": "Artigo 205.º-B (Programa de Conversão à Agricultura Biológica)",
+    "Tema": "Agricultura e Mar; Ambiente, Energia e Ordenamento do Território; Apoio à produção biológica; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 205.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449784d6a41794d4445774d544976554545764f446335596a63334d3255745a4441774e6930304e4441314c5745784e3255744e6d49775a6a4d774e544d7a4d57526a4c6e426b5a673d3d&Fich=879b773e-d006-4405-a17e-6b0f305331dc.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "JOACINE KATAR MOREIRA",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "L",
+        "Deputado": "JOACINE KATAR MOREIRA"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 205.º-B",
+        "Titulo": "Programa de Conversão à Agricultura Biológica",
+        "Texto": "1 - Em 2021, o Governo cria um programa específico de conversão à agricultura biológica para agricultores convencionais, que inclua incentivos fiscais e sociais específicos, em particular para os agricultores biológicos que se instalem em territórios de baixa densidade.\r\n\r\n2 – O disposto no n.º 1 é financiado",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 205.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Programa de Conversão à Agricultura Biológica",
+        "Data": "24/11/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
