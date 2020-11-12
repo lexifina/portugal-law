@@ -20,8 +20,8 @@
 
 9 - À designação dos membros das mesas de voto antecipado em mobilidade aplica-se o disposto nos números anteriores com as seguintes adaptações:
 
-a) Compete aos presidentes da câmara dos municípios capital de distrito, para efeitos do disposto no n.º 2, nomear os membros das mesas de entre os cidadãos inscritos no recenseamento eleitoral das freguesias do seu concelho;
+a) Compete aos presidentes das câmaras municipais, para efeitos do disposto no n.º 2, nomear os membros das mesas de entre os cidadãos inscritos no recenseamento eleitoral das freguesias do seu concelho;
 
-b) O edital a que se refere o n.º 3 é afixado na sede do município capital de distrito.
+b) O edital a que se refere o n.º 3 é afixado no edifício da sede da câmara municipal.
 
-10 - Para efeitos do disposto no n.º 3 do artigo 35.º-A, o presidente da câmara do município capital de distrito pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
+10 - Para efeitos do disposto no n.º 3 do artigo 35.º-A, o presidente da câmara municipal pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
