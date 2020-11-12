@@ -2,7 +2,7 @@
 
 ### Modo de exercício do direito de voto antecipado em mobilidade em território nacional
 
-1 - Os eleitores referidos no artigo 79.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito nos termos do artigo 40.º-A.
+1 - Os eleitores referidos no artigo 79.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito nos termos do artigo 40.º-B.
 
 2 - Os eleitores que pretendam votar antecipadamente em mobilidade devem manifestar essa intenção, por via postal ou por meio eletrónico disponibilizado para esse efeito pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, entre o décimo quarto e o décimo dias anteriores ao da eleição.
 
@@ -16,13 +16,13 @@ c) Número de identificação civil;
 
 d) Morada;
 
-e) Mesa de voto antecipado em mobilidade onde pretende exercer o seu direito de voto;
+e) Município onde pretende exercer o direito de voto antecipado em mobilidade;
 
-f) Endereço de correio eletrónico ou contacto telefónico.
+f) Contacto telefónico e, sempre que possível, endereço de correio eletrónico.
 
 4 - Caso seja detetada alguma desconformidade nos dados fornecidos, o eleitor será contactado pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, no prazo de 24 horas, por meio eletrónico ou via postal, com vista ao seu esclarecimento.
 
-5 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna comunica aos presidentes da câmara dos municípios sede do círculo eleitoral a relação nominal dos eleitores que optaram por essa modalidade de votação na sua área de circunscrição.
+5 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna comunica aos presidentes das câmaras municipais a relação nominal dos eleitores que optaram por essa modalidade de votação na sua área de circunscrição.
 
 6 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, através das forças de segurança, providencia pelo envio dos boletins de voto aos presidentes da câmara dos municípios indicados pelos eleitores nos termos do n.º 3.
 
@@ -34,13 +34,13 @@ f) Endereço de correio eletrónico ou contacto telefónico.
 
 10 - O eleitor preenche o boletim em condições que garantam o segredo de voto, dobra-o em quatro, introduzindo-o no sobrescrito de cor branca, que fecha adequadamente.
 
-11 - Em seguida, o sobrescrito de cor branca é introduzido no sobrescrito de cor azul, que é então fechado, preenchido de forma legível e selado com uma vinheta de segurança, em modelo a aprovar por despacho do Secretário-Geral do Ministério da Administração Interna.
+11 - Em seguida, o sobrescrito de cor branca é introduzido no sobrescrito de cor azul, que é então fechado, preenchido de forma legível e selado com uma vinheta de segurança, em modelo aprovado por despacho do Secretário-Geral do Ministério da Administração Interna.
 
 12 - O presidente da mesa entrega ao eleitor o duplicado da vinheta aposta no sobrescrito de cor azul, o qual serve de comprovativo do exercício do direito de voto.
 
-13 - Terminadas as operações de votação, a mesa elabora uma ata das operações efetuadas, dela reproduzindo tantos exemplares quantos necessários, destinada aos presidentes das assembleias de apuramento geral, remetendo-as para esse efeito aos presidentes das câmaras municipais da sede do círculo eleitoral.
+13 - Terminadas as operações de votação, a mesa elabora uma ata das operações efetuadas, dela reproduzindo tantos exemplares quantos necessários, destinada aos presidentes das assembleias de apuramento geral, remetendo-as para esse feito aos presidentes das câmaras municipais.
 
-14 - Da ata referida no número anterior consta, obrigatoriamente, o número de eleitores que exerceram o direito de voto antecipado, por cada círculo eleitoral, nela se mencionando expressamente o nome do eleitor, o número do documento de identificação civil e a freguesia onde se encontra recenseado, bem como quaisquer ocorrências que dela devam constar nos termos gerais.
+14 - Da ata referida no número anterior consta, obrigatoriamente, o número de eleitores que aí exerceram o direito de voto antecipado, nela se mencionando expressamente o nome do eleitor, o número do documento de identificação civil e a freguesia onde se encontra recenseado, anexando a relação nominal dos eleitores inscritos para votar naquela mesa, bem como quaisquer ocorrências que dela devam constar nos termos gerais.
 
 15 - No dia seguinte ao do voto antecipado, as forças de segurança procedem à recolha do material eleitoral das mesas de voto em mobilidade, em todo o território nacional, para entrega aos presidentes das câmaras municipais, que providenciam pela sua remessa às juntas de freguesia onde os eleitores se encontram inscritos.
 

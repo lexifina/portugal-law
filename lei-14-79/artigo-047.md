@@ -18,15 +18,15 @@
 
 8 - À designação dos membros das mesas de voto antecipado em mobilidade aplica-se o disposto nos números anteriores com as seguintes adaptações:
 
-a) A reunião a que se refere o n.º 1 é realizada no município sede do círculo eleitoral, mediante convocação do respetivo presidente;
+a) A reunião a que se refere o n.º 1 é realizada na câmara municipal, mediante convocação do respetivo presidente;
 
-b) Compete ao presidente da câmara do município sede do círculo eleitoral, para efeitos do disposto no n.º 3, nomear os membros das mesas em falta de entre os cidadãos inscritos no recenseamento eleitoral das freguesias dos seus concelhos;
+b) Compete ao presidente da câmara municipal, para efeitos do disposto no n.º 3, nomear os membros das mesas em falta de entre os cidadãos inscritos no recenseamento eleitoral das freguesias dos seus concelhos;
 
-c) O edital a que se refere o n.º 4 é afixado no município sede do círculo eleitoral;
+c) O edital a que se refere o n.º 4 é afixado na sede do município;
 
-d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câmara do município sede do círculo eleitoral.
+d) A reclamação a que se refere o n.º 4 é feita perante o presidente da câmara municipal.
 
-9 - Para efeitos do disposto no n.º 3 do artigo 40.º-A, o presidente da câmara do município sede do círculo eleitoral pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
+9 - Para efeitos do disposto no n.º 3 do artigo 40.º-B, o presidente da câmara municipal pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
 
 10 - Tratando-se de assembleias de voto que funcionem no estrangeiro, as competências atribuídas ao presidente da câmara municipal entendem-se atribuídas ao presidente da comissão recenseadora.
 
