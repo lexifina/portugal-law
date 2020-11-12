@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 18410/2020
+Sumário: Consulta pública do projeto de alteração ao Regulamento de Apoio à Vacinação Infantil.
+Consulta Pública do Projeto de Alteração ao Regulamento de Apoio à Vacinação Infantil
+Ana Izabel Antunes Merêces, Presidente da União das Freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso, torna público que, por deliberação da Junta Freguesia tomada em reunião extraordinária de 29 de outubro de 2020 e em cumprimento com o Artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, se submete a consulta pública, pelo prazo de 30 dias úteis contados a partir da data da publicação do presente aviso o Projeto de Alteração ao "Regulamento do Apoio à Vacinação Infantil", durante este período encontra-se disponível para consulta na Sede da Junta (Rua da Portela n.º 22, e no sítio institucional na internet (www.uf-concelhodocrato.pt). Os interessados no decurso do prazo poderão apresentar sugestões, por escrito dirigidas à Senhora Presidente, por via postal para o seguinte endereço: Rua da Portela n.º 22, Apartado 24, 7430-909 Crato, entregues pessoalmente nos serviços de atendimento da Junta ou por endereço eletrónico geral@uf-concelhodocrato.pt.
+30 de outubro de 2020. - A Presidente da União das Freguesias, Ana Izabel Antunes Merêces.
+313693086
