@@ -1,0 +1,104 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uPZIVXm2yI22KXbLu%2b3HI%2fiKx4uCbvqSqBowFfMKWMV6UMwpD%2fysewE8s1XcGhwYasqy6Rx9KPKqRsUf8FNicaTL7pHS7OYjTxKxRacUw%2fmgK7vRNhgPARA9o7mrBT6FaH%2bs1YAfw4ppxJxaze6ZAEl09N453i5HCqwScbEQ5A60dO3yLzYuxRAHm6gJ50%2fKj4KeDLRgc%2blEnfSqm64cLLZXn%2bNOWTzXp9EsP%2bAMAkWJOuFFcczbEfgIsmICwvg921NjVb80EDFj65tsd46JhazX1lcdSZj32ewVt5pgRDRkJY3e9H3XtxmcQ21%2fEz3pLPtZe3lhMSMXTToK9RBU63gfRn875CwCJ9lDC73pOhz6BsssCKCeM%2b4Pl67BZ1hwfPemmzIi0lz1HVZ%2b%2fE%2bO38N1t7C0BRaqE6aXGZTI%2fEY%3d&fich=OEPropostasAlteracao2021Or_json.txt&Inline=true",
+  "ficheiro_sha256": "2fb4c945f684891eb34c0446d34622e97756f6657e3edcb4ca6cf11940b6d9b9",
+  "legislatura": "XIV",
+  "id": "14221",
+  "numero": "1019C",
+  "orcamento": "2021",
+  "versao": "Or",
+  "data_registo": "2020-11-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "14221",
+    "Numero": "1019C",
+    "Data": "13/11/2020 16:43:00",
+    "Titulo": "Artigo 182.º",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449784d6a41794d4445774d544976554545765a4756694d57466a597a417459325a6b4e7930304e7a64694c5749324f4455745a6d4e6b4d6d5535597a49774f4751344c6e426b5a673d3d&Fich=deb1acc0-cfd7-477b-b685-fcd2e9c208d8.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "AFONSO OLIVEIRA"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "ANTÓNIO MALÓ DE ABREU"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "DUARTE PACHECO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "DUARTE PACHECO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "RICARDO BAPTISTA LEITE"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 182.º",
+        "Titulo": "Quota de genéricos e biossimilares",
+        "Texto": "Em 2021, o Governo prossegue a adoção de medidas que visem aumentar a quota de genéricos e de medicamentos biossimilares no mercado do SNS.",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 182.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Quota de genéricos e biossimilares",
+        "Data": "23/11/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
