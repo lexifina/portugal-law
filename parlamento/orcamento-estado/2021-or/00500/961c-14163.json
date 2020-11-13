@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uPZIVXm2yI22KXbLu%2b3HI%2fiKx4uCbvqSqBowFfMKWMV6UMwpD%2fysewE8s1XcGhwYasqy6Rx9KPKqRsUf8FNicaTL7pHS7OYjTxKxRacUw%2fmgK7vRNhgPARA9o7mrBT6FaH%2bs1YAfw4ppxJxaze6ZAEl09N453i5HCqwScbEQ5A60dO3yLzYuxRAHm6gJ50%2fKj4KeDLRgc%2blEnfSqm64cLLZXn%2bNOWTzXp9EsP%2bAMAkWJOuFFcczbEfgIsmICwvg921NjVb80EDFj65tsd46JhazX1lcdSZj32ewVt5pgRDRkJY3e9H3XtxmcQ21%2fEz3pLPtZe3lhMSMXTToK9RBU63gfRn875CwCJ9lDC73pOhz6BsssCKCeM%2b4Pl67BZ1hwfPemmzIi0lz1HVZ%2b%2fE%2bO38N1t7C0BRaqE6aXGZTI%2fEY%3d&fich=OEPropostasAlteracao2021Or_json.txt&Inline=true",
+  "ficheiro_sha256": "2fb4c945f684891eb34c0446d34622e97756f6657e3edcb4ca6cf11940b6d9b9",
+  "legislatura": "XIV",
+  "id": "14163",
+  "numero": "961C",
+  "orcamento": "2021",
+  "versao": "Or",
+  "data_registo": "2020-11-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "14163",
+    "Numero": "961C",
+    "Data": "13/11/2020 16:20:00",
+    "Titulo": "N.º 2, Artigo 46.º",
+    "Tema": "Assuntos Constitucionais, Direitos, Liberdades e Garantias; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449784d6a41794d4445774d544976554545764f475a6c596a67354e6a59745a6a63304d4330304d3259304c546b794d5745744f4459315a6d466c4e545535595441334c6e426b5a673d3d&Fich=8feb8966-f740-43f4-921a-865fae559a07.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "IL",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "IL",
+        "Deputado": "JOÃO COTRIM DE FIGUEIREDO"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 46.º",
+        "Titulo": "Reforço da formação para o combate à violência doméstica",
+        "Texto": "Em 2021, o Governo procede à implementação do plano anual de formação conjunta em matéria de combate à violência doméstica, pelos membros do Governo responsáveis pelas áreas da cidadania e da igualdade, da administração interna, da justiça, da educação, do trabalho, solidariedade e segurança social e da saúde",
+        "Estado": "Aprovado(a) por Unanimidade em Comissão",
+        "Numeros": {
+          "Numero": "N.º 2",
+          "Titulo": null,
+          "Texto": null,
+          "Estado": "Entrada"
+        }
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "N.º 2, Artigo 46.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "20/11/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
