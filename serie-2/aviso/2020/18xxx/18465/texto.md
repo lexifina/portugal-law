@@ -1,0 +1,8 @@
+Aviso n.º 18465/2020
+Sumário: Abertura do período de discussão pública da revisão do Plano Diretor Municipal de Tomar.
+Discussão Pública do Plano Diretor Municipal de Tomar
+Hugo Cristóvão, Vereador da Câmara Municipal de Tomar torna público, nos termos do n.º 1 do artigo 89.º e do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Tomar, em reunião pública de 3 de agosto de 2020, deliberou aprovar a proposta de revisão do Plano Diretor Municipal (PDM) de Tomar, bem como sujeitá-la a um período de discussão pública de 30 dias úteis.
+Torna-se ainda público que o referido período de discussão pública terá início 5 dias após a publicação do presente aviso no Diário da República, podendo ser apresentadas reclamações, observações ou sugestões e consultada a proposta de revisão do PDM de Tomar (incluindo o relatório ambiental, o parecer final, a ata da comissão consultiva, os demais pareceres emitidos e os resultados da concertação), no site institucional do Município de Tomar, em www.cm-tomar.pt, e/ou na Casa Vieira Guimarães, sita na Rua Serpa Pinto, n.º 6 em Tomar, durante os dias úteis em que decorre a referida discussão pública, no horário das 9 às 13 horas.
+A formulação de sugestões e a apresentação de informações serão efetuadas através de formulário próprio, disponibilizado em plataforma digital acessível no site institucional do Município de Tomar, em www.cm-tomar.pt, podendo aceder-se ao mesmo através de material informático disponível na já referida Casa Vieira Guimarães.
+30 de outubro de 2020. - O Vereador da Câmara Municipal de Tomar, Hugo Cristóvão.
+613697614
