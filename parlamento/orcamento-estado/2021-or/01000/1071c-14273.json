@@ -1,0 +1,104 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uPZIVXm2yI22KXbLu%2b3HI%2fiKx4uCbvqSqBowFfMKWMV6UMwpD%2fysewE8s1XcGhwYasqy6Rx9KPKqRsUf8FNicaTL7pHS7OYjTxKxRacUw%2fmgK7vRNhgPARA9o7mrBT6FaH%2bs1YAfw4ppxJxaze6ZAEl09N453i5HCqwScbEQ5A60dO3yLzYuxRAHm6gJ50%2fKj4KeDLRgc%2blEnfSqm64cLLZXn%2bNOWTzXp9EsP%2bAMAkWJOuFFcczbEfgIsmICwvg921NjVb80EDFj65tsd46JhazX1lcdSZj32ewVt5pgRDRkJY3e9H3XtxmcQ21%2fEz3pLPtZe3lhMSMXTToK9RBU63gfRn875CwCJ9lDC73pOhz6BsssCKCeM%2b4Pl67BZ1hwfPemmzIi0lz1HVZ%2b%2fE%2bO38N1t7C0BRaqE6aXGZTI%2fEY%3d&fich=OEPropostasAlteracao2021Or_json.txt&Inline=true",
+  "ficheiro_sha256": "2fb4c945f684891eb34c0446d34622e97756f6657e3edcb4ca6cf11940b6d9b9",
+  "legislatura": "XIV",
+  "id": "14273",
+  "numero": "1071C",
+  "orcamento": "2021",
+  "versao": "Or",
+  "data_registo": "2020-11-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "14273",
+    "Numero": "1071C",
+    "Data": "13/11/2020 17:13:00",
+    "Titulo": "Artigo 181.º-A (Comparticipação dos Dispositivos de Perfusão Subcutânea Contínua de Insulina)",
+    "Tema": "Orçamento e Finanças; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 181.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449784d6a41794d4445774d544976554545764e6d51775a6a466d4d7a41744f574a6b595330304d5451794c546b334d5751744d7a67775a6a4d335a6a646c4e7a67334c6e426b5a673d3d&Fich=6d0f1f30-9bda-4142-971d-380f37f7e787.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "CDS-PP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "ANA RITA BESSA"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "CECÍLIA MEIRELES"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "JOÃO GONÇALVES PEREIRA"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "JOÃO PINHO DE ALMEIDA"
+        },
+        {
+          "GP_Partido": "CDS-P",
+          "Deputado": "TELMO CORREIA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 181.º-A",
+        "Titulo": "Comparticipação dos Dispositivos de Perfusão Subcutânea Contínua de Insulina",
+        "Texto": "São comparticipados a 100% os Dispositivos de Perfusão Subcutânea Contínua de Insulina a todos os diabéticos maiores de 18 anos, com indicação clínica expressa do seu médico assistente.",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 181.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Comparticipação dos Dispositivos de Perfusão Subcutânea Contínua de Insulina",
+        "Data": "23/11/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
