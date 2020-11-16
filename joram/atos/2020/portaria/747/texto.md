@@ -1,0 +1,75 @@
+# Portaria n.º 747/2020
+
+**Emissor:** VICE-PRESIDÊNCIA DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES E SECRETARIA REGIONAL DE SAÚDE E PROTEÇÃO CIVIL
+
+**Publicação:** JORAM, I série, n.º 216/2020, suplemento, de 2020-11-16
+
+**Sumário:** Aprova a organização interna do Gabinete do Secretário Regional de Saúde e Proteção Civil e serviços dependentes, abreviadamente designado por GSRS.
+
+## Texto
+
+Portaria n.º 747/2020
+de 16 de novembro
+O Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro, que aprova a estrutura orgânica e funcionamento da Secretaria Regional de Saúde e Proteção Civil, alterado pelo Decreto Regulamentar Regional n.º 29/2020/M, de 5 de maio, retificado pela Declaração de Retificação n.º 21/2020, publicada no Diário da República, I Série, n.º 102, de 26 de maio, integra como serviço da
+
+Administração Direta, o Gabinete do Secretário Regional e serviços dependentes, cuja organização interna é aprovada, nos termos da lei, por Portaria Conjunta do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares e do Secretário Regional de Saúde e Proteção Civil.
+O Gabinete do Secretário Regional e serviços dependentes assegura o apoio técnico e administrativo necessário ao exercício das competências do Secretário Regional.
+Destarte, através da presente portaria, é determinada a estrutura nuclear dos serviços dependentes do Gabinete do Secretário Regional de Saúde e Proteção Civil e as respetivas atribuições e competências, que são desenvolvidas com respeito pelo Regulamento Geral de Proteção de Dados (RGPD), cuja execução na ordem jurídica portuguesa ocorre através da Lei n.º 58/2019, de 8 de agosto, e pelas normas legais, regulamentares e princípios norteadores da atividade da administração pública.
+Assim, em conformidade com o disposto no artigo 9.º do Decreto Regulamentar Regional n.º 1/2020/M, de 2 de janeiro, alterado pelo Decreto Regulamentar Regional n.º 29/2020/M, de 5 de maio, retificado pela Declaração de Retificação n.º 21/2020, publicada no Diário da República, I Série, n.º 102, de 26 de maio, e ao abrigo do n.º 4 do artigo 21.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.ºs 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro e 42-A/2016/M, de 30 de dezembro, manda o Governo Regional, pelo Vice-Presidente do Governo Regional e dos Assuntos Parlamentares e pelo Secretário Regional de Saúde e Proteção Civil, o seguinte:
+Artigo 1.º Objeto
+O presente diploma aprova a organização interna do Gabinete do Secretário Regional de Saúde e Proteção Civil e serviços dependentes, adiante abreviadamente designado por GSRS.
+Artigo 2.º Estrutura Nuclear
+1. O Gabinete compreende as seguintes unidades orgânicas nucleares: a) Direção de Serviços Jurídicos e de Suporte à Governação; b) Inspeção das Atividades em Saúde; c) Unidade de Gestão da Secretaria Regional de Saúde e Proteção Civil.
+2. A Direção de Serviços Jurídicos e de Suporte à Governação, a Inspeção das Atividades em Saúde e a Unidade de Gestão da Secretaria Regional de Saúde e Proteção Civil funcionam sob a direta dependência do Secretário Regional de Saúde e Proteção Civil.
+Artigo 3.º Direção de Serviços Jurídicos e de Suporte à Governação
+1. A Direção de Serviços Jurídicos e de Suporte à Governação, abreviadamente designada por DSJ, tem por missão prestar apoio jurídico ao GSRS, com funções de mera consulta jurídica, apoio administrativo, gestão dos recursos humanos e formação profissional, coordenação dos circuitos da correspondência geral, organização da documentação e gestão dos arquivos, bem como apoiar administrativa e tecnicamente, os órgãos consultivos, comissões e grupos de trabalho da SRS, que não disponham de meios apropriados.
+
+2. À DSJ compete: a) Elaborar estudos jurídicos e emitir pareceres em matéria de natureza jurídica; b) Elaborar e analisar projetos de diplomas legais; c) Participar na elaboração de pareceres sobre propostas de diplomas em que a Região Autónoma da Madeira seja ouvida nos termos da Constituição da República Portuguesa e do Estatuto Político-Administrativo da RAM; d) Proceder ao acompanhamento logístico e de apoio aos mandatários dos processos de contencioso administrativo, em que a SRS seja parte; e) Apoiar as atividades dos serviços dependentes do Gabinete do Secretário Regional no âmbito da divulgação e recolha de informação legislativa e regulamentar, tratamento e difusão da mesma; f) Proceder à compilação, anotação e divulgação de legislação, jurisprudência e doutrina, no âmbito das atribuições de saúde e proteção civil, e nas matérias transversais à adminis-tração pública; g) Assegurar a coordenação dos circuitos da correspondência geral do Gabinete da Secretaria Regional de Saúde e Proteção Civil, o respetivo arquivo e promover a divulgação de normas internas e diretivas gerais; h) Proceder à gestão corrente dos recursos humanos do Gabinete e serviços dependentes e coordenar as respetivas atividades de formação profissional; i) Prestar apoio administrativo, técnico e jurídico direto ao Secretário Regional, bem como ao Gabinete e aos órgãos consultivos, comissões e grupos de trabalho desta Secretaria Regional, que não disponham dos meios apropriados; j) Prestar apoio administrativo à articulação do Gabinete com os serviços dependentes e com os serviços da Administração direta e indireta sob tutela da SRS; k) Coordenar a gestão corrente dos recursos humanos do GSRS; l) Apoiar a elaboração dos Planos e Relatórios de Atividades; m) Coordenar e supervisionar a aplicação do SIADAP-3 dos trabalhadores do GSRS, bem como a organização os respetivos processos; n) Emitir certidões e outros documentos na área dos recursos humanos do Gabinete; o) Assegurar a gestão das instalações e dos equipamentos afetos ao GSRS; p) Assegurar o expediente, tratamento e arquivo de toda a documentação do GSRS; q) Prestar informação no âmbito de todos os processos internos e externos que sejam submetidos a decisão superior do Secretário Regional.
+3. A DSJ é dirigida por um Diretor de Serviços, cargo de direção intermédia de 1.º grau.
+4. Nas situações de ausência ou impedimento do Diretor de Serviços, este é substituído pelo Jurista por si indicado.
+Artigo 4.º Organização interna da DSJ
+A DSJ integra: a) O Serviço de Recursos Humanos e Documentação; b) O Serviço de Expediente e Arquivo.
+
+Artigo 5.º Inspeção das Atividades em Saúde
+1 A Inspeção das Atividades em Saúde, abreviadamente designada por IAS, tem por missão assegurar o cumprimento da lei, em todos os domínios da prestação dos cuidados de saúde, quer pelos serviços e organismos da SRS, ou por esta tutelados, quer ainda pelas entidades privadas, pessoas singulares ou coletivas, com ou sem fins lucrativos.
+2. A IAS prossegue as seguintes atribuições: a) Verificar o cumprimento das disposições legais, regulamentares e das orientações aplicáveis, por qualquer entidade ou profissional, no domínio das atividades em saúde; b) Inspecionar as atividades e prestações de saúde desenvolvidas pelos serviços e organismos integrados na SRS ou por esta tutelados; c) Desenvolver a ação disciplinar por determinação do Secretário Regional, em serviços e organismos da SRS, designadamente, instruindo processos de inquérito, disciplinares, de esclarecimento, de sindicância ou de averiguações e avocar a instrução dos processos disciplinares no âmbito dos organismos tutelados pela SRS, por determinação do Secretário Regional; d) Proceder à instrução dos processos de contraordenação cuja competência lhe caiba, nos termos da lei, designadamente, os resultantes da atividade inspetiva do funcionamento dos estabelecimentos farmacêuticos; e) Proceder à verificação das reclamações, incluindo as do Livro de Reclamações, recolhidas e analisadas no âmbito dos organismos tutelados pela SRS.
+3. Sem prejuízo do disposto na alínea c) do número anterior, é ainda atribuída à IAS: a) A instrução de processos disciplinares em que os arguidos sejam, ou tenham sido há menos de cinco anos, titulares de cargo de direção superior ou membros dos órgãos máximos de gestão dos serviços e organismos da SRS ou por esta tutelados, independentemente da respetiva natureza jurídica; b) A instrução dos processos disciplinares a cujas infrações corresponda a aplicação de pena expulsiva ao abrigo da Lei Geral do Trabalho em Funções Públicas.
+4. Sob proposta da IAS, pode a instrução dos processos disciplinares, incluindo os referidos no número anterior, ser confiada a pessoal com formação jurídica, de qualquer outro serviço ou organismo da SRS ou por esta tutelado.
+5. A IAS é dirigida por um Diretor, equiparado para todos os efeitos legais a cargo de direção intermédia do 1.º grau, ao qual compete: a) Elaborar os planos de atividades, designadamente, o plano das inspeções ordinárias e o das inspeções temáticas; b) Propor a realização de processos de inspeções ordinárias, extraordinárias, temáticas e outras não tipificadas, bem como propor as respetivas decisões finais;
+
+c) Pronunciar-se e submeter a despacho da entidade competente a aplicação das penas disciplinares previstas na Lei Geral do Trabalho em Funções Públicas;
+d) Propor, na sequência das ações desenvolvidas, as recomendações preventivas e corretivas adequadas à adoção de medidas destinadas ao correto funcionamento do sistema de saúde, bem como tendentes a assegurar ou restabelecer a legalidade dos atos, acompanhando a respetiva implementação e evolução;
+e) Propor, quando em consequência das ações da IAS relativamente aos estabelecimentos e serviços privados de saúde resultar perigo grave para a saúde das pessoas, as providências que em cada caso se justifiquem para prevenir ou eliminar tal situação;
+f) Propor a realização de ações de fiscalização e a instauração de processos de contraordenação cuja competência seja legalmente atribuída à IAS, bem como propor a aplicação das respetivas sanções;
+g) Propor a instauração de processos disciplinares, de inquérito e sindicâncias, bem como proceder a processos de averiguações;
+h) Propor a avocação da instrução dos processos de natureza disciplinar em curso nos organismos sob tutela da SRS;
+i) Propor a nomeação de instrutores de processos de natureza disciplinar de entre pessoal de organismos ou serviços da SRS ou por esta tutelados;
+j) Propor a suspensão preventiva de trabalhadores arguidos em processos disciplinares;
+k) Propor a nomeação de peritos e técnicos especializados, quando a atuação da IAS carecer de especiais conhecimentos técnicos ou científicos.
+Artigo 6.º Garantias do exercício da atividade de inspeção
+Sem prejuízo das garantias gerais da atividade de inspeção, nos termos do Decreto-Lei n.º 276/2007, de 31 de julho, na sua redação atual, o pessoal da carreira de inspetor superior da IAS pode requisitar para consulta, exame, reprodução ou junção aos autos, quaisquer processos ou documentos, incluindo processos individuais e processos clínicos, em poder ou na disposição das entidades objeto da intervenção da IAS.
+Artigo 7.º Unidade de Gestão da Secretaria Regional de Saúde e
+Proteção Civil
+1. A Unidade de Gestão da Secretaria Regional de Saúde e Proteção Civil, abreviadamente designada por UGSRS, tem por missão o tratamento integral e centralizado de todas as matérias contabilísticas, orçamentais, financeiras e patrimoniais dos serviços da Administração direta e indireta, integrados na estrutura orgânica da SRS e a articulação entre a SRS e a Vice-Presidência do Governo Regional e dos Assuntos Parlamentares.
+2. São atribuições da UGSRS: a) Garantir o tratamento integral e centralizado de todas as matérias contabilísticas,
+
+orçamentais, financeiras e patrimoniais dos serviços da Administração direta e indireta integrados na estrutura orgânica da SRS; b) Proceder ao reporte orçamental e financeiro à Vice-Presidência do Governo Regional e dos Assuntos Parlamentares; c) Controlar a execução e a regularidade da execução orçamental dos serviços sob tutela da SRS; d) Controlar o cumprimento da aplicação da Lei dos Compromissos e dos Pagamentos em Atraso, a Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, nos serviços sob tutela da SRS; e) Propor medidas de fiscalização com vista a um efetivo controlo das despesas públicas e dos recursos orçamentais disponíveis; f) Superintender na gestão orçamental dos serviços sob tutela da SRS, de acordo com as normas vigentes e legislação aplicável; g) Promover a aplicação do Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP), nos serviços sob tutela, de acordo com o sistema informático disponibilizado para o efeito; h) Controlar a afetação e a utilização dos fundos disponíveis atribuídos; i) Validar mensalmente os lançamentos contabilísticos em SNC-AP, assim como os saldos de terceiros; j) Desenvolver procedimentos de controlo interno e transversais à Secretaria Regional de Saúde e Proteção Civil.
+3. A UGSRS é responsável pelo cumprimento dos prazos de reporte e pela prévia validação das informações de reporte orçamental e financeiro, referentes aos serviços da Administração direta e indireta da SRS, prestadas à Vice-Presidência do Governo Regional e dos Assuntos Parlamentares.
+4. Para efeitos dos números anteriores, os serviços da Administração direta e indireta da SRS são responsáveis pelo conteúdo da informação reportada à UGSRS.
+5. A UGSRS é dirigida por um Diretor de Serviços, cargo de direção intermédia de 1.º grau.
+6. Nas situações de ausência ou impedimento do Diretor de Serviços, este é substituído por um Técnico Superior por si indicado.
+Artigo 8.º Unidades orgânicas flexíveis
+O número de unidades orgânicas flexíveis da Secretaria Regional de Saúde e Proteção Civil é fixada em um.
+Artigo 9.º Manutenção das comissões
+de serviço
+Mantém-se as comissões de serviço dos titulares de cargo de direção intermédia de 1.º grau, da Direção de Serviços Jurídicos e de Suporte à Governação, da Inspeção das Atividades em Saúde e da Unidade de Gestão da Secretaria Regional de Saúde e Proteção Civil, nas
+
+respetivas unidades orgânicas que lhes sucedem, previstas nas alíneas a), b) e c) do n.º 1 do artigo 2.º da presente portaria, para efeitos do disposto na alínea c), do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de janeiro, na sua redação atual, adaptada à Região Autónoma da Madeira através do Decreto Legislativo Regional n.º 5/2004/M, de 22 de abril, na redação conferida pelo Decreto Legislativo Regional n.º 27/2016/M, de 6 de julho.
+Artigo 10.º Norma revogatória
+É revogada a Portaria n.º 119/2016, publicada no JORAM, I Série, número 54, de 28 de março de 2016, das Secretarias Regionais das Finanças e da Administração Pública e da Saúde.
+
+Artigo 11.º Entrada em vigor
+A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
+Vice-Presidência do Governo Regional e dos Assuntos Parlamentares e Secretaria Regional de Saúde e Proteção Civil, no Funchal, aos 5 dias do mês de novembro de 2020.
+O VICE-PRESIDENTE DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES, Pedro Miguel Amaro de Bettencourt Calado
+O SECRETÁRIO REGIONAL DE SAÚDE E PROTEÇÃO CIVIL, Pedro Miguel de Câmara Ramos
