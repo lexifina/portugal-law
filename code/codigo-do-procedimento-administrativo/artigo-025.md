@@ -6,4 +6,4 @@
 
 2 - A ordem do dia deve ser entregue a todos os membros com a antecedência de, pelo menos, 48 horas sobre a data da reunião.
 
-3 - No caso previsto no n.º 5 do artigo anterior, a competência conferida no n.º 1 ao presidente é devolvida aos vogais que convoquem a reunião.
+3 - No caso previsto no n.º 5 do artigo 24.º, a competência conferida no n.º 1 ao presidente é devolvida aos vogais que convoquem a reunião.

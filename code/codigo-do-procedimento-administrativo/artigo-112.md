@@ -12,13 +12,13 @@ c) Por telefax, telefone, correio eletrónico ou notificação eletrónica autom
 
 d) Por edital, quando seja esta a forma de notificação prescrita por lei ou regulamento ou quando os notificandos forem incertos ou de paradeiro desconhecido;
 
-e) Por anúncio, quando os notificandos forem em número superior a 50.
+e) Por anúncio, quando os notificandos forem em número superior a 25.
 
 2 - As notificações previstas na alínea c) do número anterior podem ter lugar nos seguintes casos:
 
 a) Por iniciativa da Administração, sem necessidade de prévio consentimento, para plataformas informáticas com acesso restrito ou para os endereços de correio eletrónico ou número de telefax ou telefone indicados em qualquer documento apresentado no procedimento administrativo, quando se trate de pessoas coletivas;
 
-b) Mediante o consentimento prévio do notificando, nos restantes casos.
+b) Mediante o consentimento prévio do notificando, prestado no decurso do procedimento, nos restantes casos.
 
 3 - A notificação prevista na alínea d) do n.º 1 é feita por reprodução e publicação do conteúdo do edital na Internet, no sítio institucional da entidade pública, e ainda:
 

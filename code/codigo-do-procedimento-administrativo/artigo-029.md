@@ -2,7 +2,7 @@
 
 ### Quórum
 
-1 - Os órgãos colegiais só podem, em regra, deliberar quando esteja presente a maioria do número legal dos seus membros com direito a voto.
+1 - Os órgãos colegiais só podem, em regra, deliberar quando a maioria do número legal dos seus membros com direito a voto esteja fisicamente presente ou a participar através de meios telemáticos.
 
 2 - Quando se não verifique na primeira convocação o quórum previsto no número anterior, deve ser convocada nova reunião com um intervalo mínimo de 24 horas.
 

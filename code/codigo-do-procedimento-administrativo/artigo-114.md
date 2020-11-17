@@ -22,4 +22,4 @@ c) A indicação do órgão competente para apreciar a impugnação administrati
 
 4 - Para efeitos do disposto na alínea c) do n.º 2, o reconhecimento jurisdicional da existência de erro ou omissão na indicação do meio de impugnação administrativa a utilizar contra o ato notificado não prejudica a utilização do referido meio no prazo de 30 dias, a contar do trânsito em julgado da decisão jurisdicional.
 
-5 - Quando não haja prazo fixado na lei, os atos administrativos devem ser notificados no prazo de oito dias.
+5 - Quando não exista prazo fixado na lei, os atos administrativos devem ser notificados no prazo de cinco dias.

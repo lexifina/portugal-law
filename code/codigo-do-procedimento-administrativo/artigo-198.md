@@ -4,7 +4,7 @@
 
 1 - Quando a lei não fixe prazo diferente, o recurso hierárquico deve ser decidido no prazo de 30 dias, a contar da data da remessa do processo ao órgão competente para dele conhecer.
 
-2 - O prazo referido no número anterior é elevado até ao máximo de 90 dias, quando haja lugar à realização de nova instrução ou de diligências complementares.
+2 - O prazo referido no número anterior é elevado até ao máximo de 60 dias, quando haja lugar à realização de nova instrução ou de diligências complementares.
 
 3 - No âmbito do recurso hierárquico necessário, o superior hierárquico deve apreciar todas as questões suscitadas pelo recorrente, excetuadas aquelas cuja decisão esteja prejudicada pela solução dada a outras.
 
