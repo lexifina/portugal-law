@@ -1,0 +1,6 @@
+Aviso n.º 18703-A/2020
+Sumário: Projeto de alteração do Regulamento de Taxas do Município de Mafra.
+Torna-se público que, por meu despacho de dezasseis de novembro de dois mil e vinte, exarado nos termos do disposto no artigo 35.º, n.º 3 do Anexo I à Lei n.º 75/2013, de 12 de setembro, na sua versão atual, determinei submeter o "Projeto de Alteração do Regulamento de Taxas do Município de Mafra" a consulta pública, por 30 (trinta) dias seguidos, nos termos do artigo 101.º, n.os 1 e 2 do Código do Procedimento Administrativo, na sua redação atual, para recolha de sugestões, atendendo à natureza das questões reguladas no referido projeto de alteração, por estarem em causa a criação e regulamentação de taxas, devendo os interessados dirigir, por escrito, as suas sugestões à Câmara Municipal.
+Mais torna público que, durante o referido período, os interessados poderão consultar o respetivo o "Projeto de Alteração do Regulamento de Taxas do Município de Mafra", na Secção de Atendimento, sita no piso 0 do Edifício dos Paços do Município, em Mafra, durante o horário normal de atendimento (de segunda a sexta-feira, das 09:00 às 17:00 horas) ou através da Internet, no endereço eletrónico deste Município (https://www.cm-mafra.pt/).
+16 de novembro de 2020. - O Presidente da Câmara Municipal, Hélder António Guerra de Sousa Silva.
+313738998
