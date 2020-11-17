@@ -2,56 +2,56 @@
 
 ### Missão e atribuições
 
-1 - O IASAÚDE, IP-RAM, tem por missão apoiar a definição das políticas, prioridades e objetivos para o setor da saúde e consumo, na procura de ganhos em saúde e de um elevado nível de proteção dos direitos e interesses dos consumidores, assegurando a melhor articulação entre os diversos serviços e organismos.
+1 - O IASAÚDE, IP-RAM, tem por missão assegurar a gestão dos recursos financeiros, humanos, da formação profissional, das instalações e equipamentos, dos sistemas e tecnologias de informação do Serviço Regional de Saúde e dos serviços da administração direta no domínio da SRS.
 
 2 - Compete, em especial, ao IASAÚDE, IP-RAM:
 
-a) Coadjuvar a Secretaria Regional dos Assuntos Sociais (SRAS) nas funções de regulamentação, planeamento, financiamento, orientação, acompanhamento, avaliação, auditoria e inspeção do Sistema Regional de Saúde;
+a) Coadjuvar a SRS na definição de políticas no domínio da contratação da prestação de cuidados de saúde no Sistema Regional de Saúde e a respetiva normalização, regulamentação, acompanhamento, auditoria e inspeção;
 
-b) Apoiar a atividade da SRAS nas áreas da saúde e do consumo, nas relações institucionais de âmbito nacional e internacional;
+b) Apoiar financeira e contratualmente a atividade da SRS na área da Saúde;
 
-c) Coordenar as atividades de promoção da saúde e de prevenção e controlo da doença, bem como a vigilância epidemiológica e ainda promover e desenvolver a investigação científica na área da saúde a nível regional;
+c) Coordenar, monitorizar e controlar as atividades da SRS para a gestão dos recursos financeiros afetos ao Serviço Regional de Saúde, designadamente estudar e propor modelos de financiamento do Serviço Regional de Saúde, definir normas e orientações sobre modalidades para obtenção, distribuição e aplicação dos recursos financeiros, bem como de avaliação de custos e definição de preços das instituições e serviços integrados no Serviço Regional de Saúde;
 
-d) Assegurar a implementação e proceder ao acompanhamento do plano regional de saúde, bem como o desenvolvimento de programas de saúde, através da emissão e adaptação de normas e orientações de apoio à respetiva execução e de melhoria contínua da qualidade clínica e organizacional, e coordenar a produção de informação adequada, designadamente estatística, em articulação com o SESARAM, E. P. E.;
+d) [Revogada.]
 
-e) Garantir a produção e divulgação de informação adequada, designadamente estatísticas de saúde, no quadro do sistema estatístico nacional;
+e) [Revogada.]
 
-f) Apoiar a SRAS na coordenação e no acompanhamento da gestão da Rede Regional de Cuidados Continuados Integrados, em articulação com os demais organismos competentes;
+f) Coordenar e acompanhar a gestão da Rede Regional de Cuidados Continuados Integrados, em articulação com os demais organismos competentes;
 
-g) Elaborar, difundir e apoiar a criação de instrumentos de planeamento;
+g) Elaborar, difundir e apoiar a criação de instrumentos de planeamento financeiro no Sistema Regional de Saúde;
 
-h) Apoiar as atividades da SRAS na definição e desenvolvimento de políticas de recursos humanos na saúde, designadamente, adaptando normas e orientações relativas a profissões, exercício profissional, registo de profissionais, bases de dados de recursos humanos, bem como realizar estudos conducentes à caracterização dos recursos humanos, das profissões e exercícios profissionais no setor da saúde;
+h) Apoiar as atividades da SRS na definição e desenvolvimento de políticas de recursos humanos na saúde, designadamente, adaptando normas e orientações relativas a profissões, exercício profissional, registo de profissionais, bases de dados de recursos humanos, bem como realizar estudos conducentes à caracterização dos recursos humanos, das profissões e exercícios profissionais no setor da saúde;
 
-i) Coordenar a formação profissional intersectorial para os organismos da SRAS;
+i) Assegurar a prestação centralizada de atividades comuns nas áreas dos recursos humanos e financeiros para os serviços da SRS integrados na administração direta do Estado, bem como coordenar a formação profissional intersectorial para os organismos da SRS;
 
-j) Coordenar o internato médico na Região, sem prejuízo das competências dos respetivos órgãos específicos, em articulação com as necessidades formativas do SESARAM, E. P. E., nos termos da lei;
+j) Coordenar o internato médico na Região, sem prejuízo das competências dos respetivos órgãos específicos, em articulação com as necessidades formativas do SESARAM, EPERAM, nos termos da lei;
 
-k) Coadjuvar a SRAS na elaboração dos contratos-programa a celebrar com o SESARAM, E. P. E., e proceder à transferência dos recursos financeiros para esta entidade pública empresarial, em conformidade com as dotações previstas no contrato-programa;
+k) Coadjuvar a SRS na elaboração dos contratos-programa a celebrar com o SESARAM, EPERAM, e proceder à transferência dos recursos financeiros para esta entidade pública empresarial, em conformidade com as dotações previstas no respetivo contrato-programa;
 
-l) Coadjuvar a SRAS na elaboração dos contratos-programa a celebrar com a Investimentos Habitacionais da Madeira, E. P. E. R. A. M., e proceder à transferência dos recursos financeiros para esta entidade pública empresarial, em conformidade com as dotações previstas no contrato-programa;
+l) Efetuar o controlo da gestão através da avaliação continuada dos indicadores de desempenho e da prática das instituições e serviços do Sistema de Saúde, bem como desenvolver e implementar modelos de gestão de risco económico-financeiro para o Sistema de Saúde;
 
-m) Coadjuvar a SRAS na celebração, acompanhamento e revisão de acordos, protocolos e convenções com profissionais liberais e entidades privadas de saúde, com ou sem fins lucrativos, em articulação com o SESARAM, E. P. E., e a respetiva capacidade instalada;
+m) Coadjuvar a SRS na celebração, acompanhamento e revisão de acordos, protocolos e convenções com profissionais liberais e entidades privadas de saúde, com ou sem fins lucrativos, em articulação com o SESARAM, EPERAM, e a respetiva capacidade instalada;
 
 n) Proceder à comparticipação, aos utentes, dos encargos resultantes da prestação de cuidados de saúde ao abrigo designadamente de acordos, protocolos ou convenções celebrados com entidades privadas de saúde, nos termos dos regulamentos em vigor;
 
-o) Orientar e coordenar os procedimentos e inscrições no subsistema da ADSE, no âmbito da administração regional autónoma da Madeira;
+o) Orientar e informar sobre os procedimentos e inscrições respeitantes ao subsistema da ADSE, no âmbito da administração regional autónoma da Madeira;
 
 p) Assegurar o regular funcionamento da junta médica da ADSE;
 
-q) Promover a redução do consumo de drogas lícitas e ilícitas, bem como a diminuição das toxicodependências, designadamente através da realização de ações e programas de prevenção, e acompanhar o plano regional de luta contra a droga e a toxicodependência;
+q) [Revogada.]
 
-r) Coordenar os processos de licenciamento das entidades privadas prestadoras de cuidados de saúde ou serviços de saúde, com ou sem fins lucrativos, bem como dos estabelecimentos farmacêuticos e proceder à fiscalização e verificação da aplicação do respetivo quadro normativo em vigor;
+r) [Revogada.]
 
-s) Assegurar a atividade de farmacovigilância, a nível regional;
+s) [Revogada.]
 
-t) Apoiar as atividades da SRAS na gestão da rede de instalações e equipamentos de saúde, através da definição e adaptação de normas, metodologias e requisitos tendentes à melhoria e desenvolvimento equilibrado dessa rede no território regional, bem como elaborar a carta regional de instalações e equipamentos;
+t) Apoiar as atividades da SRS na gestão da rede de instalações e equipamentos tendentes à melhoria e desenvolvimento equilibrado da rede no território regional, bem como elaborar a carta regional de instalações e equipamentos;
 
-u) Apoiar a SRAS na definição e normalização dos sistemas de informação e comunicação adaptados às necessidades do sistema regional de saúde;
+u) Apoiar a SRS na definição e normalização dos sistemas de informação e comunicação adaptados às necessidades do Sistema Regional de Saúde;
 
-v) Coordenar e dinamizar as ações tendentes à concretização das políticas de defesa dos consumidores;
+v) [Revogada.]
 
-w) Instruir os processos de contraordenação em matéria de publicidade;
+w) [Revogada.]
 
-x) Promover a resolução extrajudicial de conflitos de consumo, de natureza civil, que ocorram na Região, através dos mecanismos de conciliação e arbitragem;
+x) [Revogada.]
 
-y) Exercer as funções de autoridade de saúde na Região, nos termos da lei.
+y) [Revogada.]

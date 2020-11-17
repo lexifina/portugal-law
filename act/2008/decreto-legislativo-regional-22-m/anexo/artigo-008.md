@@ -2,4 +2,4 @@
 
 ### Organização interna
 
-A organização interna do IASAÚDE, IP-RAM, é a prevista nos respectivos estatutos, a aprovar por portaria do Vice-Presidente do Governo Regional e dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais.
+A organização interna do IASAÚDE, IP-RAM, é a prevista nos respetivos estatutos, a aprovar por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças, da administração pública e da saúde.
