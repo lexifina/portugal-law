@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2020-11-18, processo 0940/13.7BALSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0940/13.7BALSB
+
+**Data do Acordão:** 11/18/2020
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** SUZANA TAVARES DA SILVA
+
+**Descritores:** CONTRATO; ACÇÃO ADMINISTRATIVA; RESOLUÇÃO; INCUMPRIMENTO
+
+**Nº Convencional:** JSTA000P26767
+
+**Nº do Documento:** SA2202011180940/13
+
+**Data de Entrada:** 09/18/2013
+
+**Recorrente:** A....., S.A.
+
+**Recorrido 1:** PRESIDÊNCIA DO CONSELHO DE MINISTROS E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - No contrato de concessão de um benefício fiscal, o objecto é um benefício fiscal, ou seja, um elemento essencial do imposto que concorre na sua determinação para o desagravamento do quantum daquela obrigação, sendo esta obrigação de base legal e estritamente vinculada, e o mesmo sucedendo com o benefício fiscal, que apenas pode ser concedido nos termos da lei e na medida da lei, contratualizando-se apenas a medida do benefício (o seu quantum) e os pressupostos em que radica o reconhecimento do mesmo.
+
+II - Nos contratos de concessão de benefícios fiscais o Estado visa apenas conceder um estímulo financeiro por via fiscal aos investidores, “comprometendo-se”, mediante vínculo contratual, a reconhecer-lhes um crédito fiscal, o qual depende de os investidores co-contratantes conseguirem atingir os objectivos contratualmente fixados, pois caso não o consigam, o Estado resolve o contrato por incumprimento.
+
+III - Nos contratos de concessão de benefícios fiscais não há partilha de risco e a gestão do contrato, a admitir-se, terá de realizar-se nos estritos termos previstos na lei que prevê a contratualização do benefício fiscal em causa.
+
+IV - Os benefícios fiscais decorrentes de contrato constituem-se com a celebração do mesmo mas apenas adquirem eficácia com o cumprimento do contrato, o que significa que, em caso de incumprimento, essa eficácia nunca se desencadeia e, como tal, não se fundam expectativas legítimas do co-contratante à titularidade daqueles benefícios.
+
+V - Na caducidade do direito à liquidação em caso de contratualização de benefícios fiscais aplica-se o disposto na al. b) do n.º 2 do artigo 46.º da LGT, ou seja, o prazo de caducidade suspende-se, desde o início do mesmo até à resolução do contrato.
+
+VI - A fundamentação do acto de resolução do contrato deve considerar-se cumprida nos casos em que a mesma resulte de remissão para o Relatório do CICIFI, sempre que o co-contratante tenha sido notificado do mesmo e revele ter conhecido, integralmente, o iter lógico em o mesmo se sustenta.
