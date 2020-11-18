@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2020-11-18, processo 0817/19.2BEAVR
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0817/19.2BEAVR
+
+**Data do Acordão:** 11/18/2020
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** UNIFORMIZAÇÃO DE JURISPRUDÊNCIA; MELHOR APLICAÇÃO DO DIREITO; PRAZO DE RECURSO; CADUCIDADE DO DIREITO DE ACÇÃO
+
+**Nº Convencional:** JSTA000P26762
+
+**Nº do Documento:** SA2202011180817/19
+
+**Data de Entrada:** 07/22/2020
+
+**Recorrente:** A............, Lda.
+
+**Recorrido 1:** MINISTÉRIO PÚBLICO E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A lei admite que, em casos legalmente justificados, se deduza o recurso ao abrigo do artº.73, nº.2, do R.G.C.O. (aplicável "ex vi" do artº.3, al.b), do R.G.I.T.), quando tal se afigure manifestamente necessário à melhoria da aplicação do direito ou à promoção da uniformidade da jurisprudência.
+
+II - O prazo para dedução do recurso previsto no artº.73, nº.2, do R.G.C.O., é de dez dias, conforme dispõe o artº.74, nº.1, do mesmo diploma, tendo como termo inicial a data da sentença ou da sua notificação ao arguido, acaso a decisão seja proferida sem a presença do mesmo. Por outro lado, o mencionado prazo reveste natureza judicial e contínua, pelo que, na sua contagem se incluem os sábados, domingos e dias feriados, mas não as férias judiciais, tudo nos termos do artº.104, nº.1, do C.P.Penal, e do artº.138, do C.P.Civil, mais se transferindo o seu termo final para o primeiro dia útil seguinte, quando o prazo para a prática do acto processual terminar em dia em que os tribunais estiverem encerrados.
+
+III - O prazo fixado para a dedução da acção, porque aparece como extintivo do respectivo direito (subjectivo) potestativo de pedir judicialmente o reconhecimento de uma certa pretensão, é um prazo de caducidade. E a caducidade do direito de acção é de conhecimento oficioso, porque estabelecida em matéria que se encontra excluída da disponibilidade das partes (cfr. artº.333, do C.Civil). É, pois, um pressuposto processual negativo, em rigor, uma excepção peremptória que, nos termos do artº.576, nº.3, do C.P.Civil, consiste na ocorrência de factos que impedem o efeito jurídico dos articulados pelo autor, assim sobrevindo o não conhecimento "de meritis" e a consequente absolvição oficiosa do pedido.
+
+(sumário da exclusiva responsabilidade do relator)
