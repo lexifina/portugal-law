@@ -75,3 +75,9 @@ Polo de captação de Carvalhal
 Captação JK12
 
 (ver documento original)
+
+Polo de captação de Casal dos Crespos
+
+Captação FR3
+
+(ver documento original)
