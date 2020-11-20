@@ -1,0 +1,26 @@
+# Resolução n.º 1007/2020
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 220/2020, 2.º suplemento, de 2020-11-20
+
+**Sumário:** Altera o n.º 2 da Resolução n.º 799/2020, de 30 de outubro que autoriza a contração do empréstimo obrigacionista de longo prazo, até ao montante de 458.000.000,00 euros, junto do consórcio formado pelo Banco Comercial Português, S.A., e pela Caixa - Banco de Investimento, S.A..
+
+## Texto
+
+Resolução n.º 1007/2020
+Considerando que através da Resolução n.º 799/2020, de 30 de outubro, o Conselho do Governo autorizou, nos termos do n.º 5 do art.º 77.º da Lei n.º 2/2020, de 31 de março (Orçamento do Estado para 2020) na redação dada pela Lei n.º 27-A/2020 de 24 de julho, e do n.º 1 do art.º 7.º do Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro de 2020 (Orçamento da Região Autónoma da Madeira para 2020) na redação dada pelo Decreto Legislativo Regional n.º 12/2020/M de 10 de agosto, a contração do empréstimo obrigacionista de longo prazo, até ao montante de 458.000.000,00 euros, junto do consórcio formado pelo Banco Comercial Português, S.A., e pela Caixa - Banco de Investimento, S.A., em representação do Grupo Caixa Geral de Depósitos nos termos da ficha técnica anexa à referida Resolução sendo dela parte integrante;
+Considerando que a proposta selecionada se refere a empréstimo obrigacionista e com vista a maximizar o montante final da emissão, interessa alcançar um leque alargado de investidores através da colocação de obrigações representativas do referido empréstimo em mercados internacionais;
+Considerando que atentos a essa finalidade e ao esforço de assegurar o sucesso da emissão, veio o consórcio formado pelo Banco Comercial Português, S.A., e pela Caixa - Banco de Investimento, S.A., em representação do Grupo Caixa Geral de Depósitos, propor integrar um banco internacional, o Crédit Agricole Corporate and Investment Bank, por se manifestar particularmente vocacionado para o efeito.
+O Conselho do Governo reunido em plenário em 19 de novembro de 2020, resolve:
+Alterar o n.º 2 da Resolução n.º 799/2020, de 30 de outubro, nos seguintes termos:
+«1. [...]
+2. Contrair, nos termos do n.º 5 do art.º 77.º da Lei n.º 2/2020, de 31 de março (Orçamento do Estado para 2020), na redação dada pela Lei n.º 27-A/2020 de 24 de julho, e do n.º 1 do art.º 7.º do Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro de 2020 (Orçamento da Região Autónoma da Madeira para 2020)
+
+na redação dada pelo Decreto Legislativo Regional n.º 12/2020/M de 10 de agosto, o empréstimo obrigacionista de longo prazo, até ao montante de 458.000.000,00 euros, junto do consórcio formado pelo Banco Comercial Português, S.A., e pela Caixa - Banco de Investimento, S.A., em representação do Grupo Caixa Geral de Depósitos, e do Crédit Agricole Corporate and Investment Bank, nos termos da ficha técnica que se anexa e faz parte integrante da presente Resolução.
+3. [...]»
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Anexo da Resolução n.º 1007/2020, de 19 de novembro
+Ficha Técnica Emitente: Região Autónoma da Madeira Modalidade: Emissão de obrigações a taxa fixa mediante oferta particular; Montante: Até 458.000.000,00 Euros; Prazo: 14 anos; Taxa de juro: Mid-swap para o prazo médio da emissão, acrescido da Margem; Margem: Mid I-Spread calculado por interpolação da curva de OT, considerando o prazo médio da emissão, determinado em data mais próxima da data de subscrição, acrescido de 0,925%; Contagem e pagamento de juros: ACT/ACT, e pagamento anual; Valor Nominal: 50.000,00 euros por obrigação; Preço de emissão: 100% do Valor Nominal; Data de subscrição: A emitir em [●]; Reembolso das obrigações: Com amortização de 50% ao final do 13.º ano e de 50% ao final do 14.º ano; Comissão up front: 0,40% a liquidar na data de subscrição e calculada sobre o valor nominal total emitido; Comissão de Agente Pagador: 3.500,00 euros, em cada data de pagamento de juros, atualizada anualmente à taxa de 3%; Garantia de subscrição e tomada firme: Assegurada no montante de 229.000.000,00 euros pelos seguintes bancos: Banco Comercial Português, S.A: 114.500.000,00 euros; e,
+
+Caixa Geral de Depósitos, S.A.: 114.500.000,00 euros. A garantia de subscrição é válida desde que a Margem não seja inferior ao Mid I-Spread calculado por interpolação da curva de OT considerando o prazo médio, determinado em data mais próxima da Data de subscrição, acrescido de 0,925%; Colocação: A colocação das Obrigações será efetuada junto de investidores institucionais, sendo que os Líderes e Organizadores se comprometem a desenvolver os melhores esforços com vista à colocação das Obrigações, sem prejuízo da Garantia de Subscrição e dos termos apresentados para a mesma. Admissão à Negociação: Mercado Regulamentado “Euronext Lisbon”; Lei aplicável e foro competente: Portuguesa/Tribunal da Comarca do Funchal; Organização e liderança: Banco Comercial Português, S.A. (“Millennium Investment Banking”); e, Caixa-Banco de Investimento, S.A. (“Caixa BI”) e Crédit Agricole Corporate and Investment Bank (“CACIB”); Agente Pagador: o Millennium Investment Banking; e, o Caixa BI, em regime de rotatividade anual.
