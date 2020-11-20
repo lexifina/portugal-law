@@ -1,0 +1,9 @@
+Edital n.º 1217/2020
+Sumário: Consulta pública relativa às alterações ao Regulamento Geral dos Ciclos de Estudos Conducentes ao Grau de Mestre e ao Regulamento Geral dos Ciclos de Estudos Conducentes ao Grau de Doutor, do Instituto Superior de Economia e Gestão da Universidade de Lisboa.
+Publicação no Diário da República de Consulta Pública relativa as alterações ao Regulamento Geral dos Ciclos de Estudos Conducentes ao Grau de Mestre e ao Regulamento Geral dos Ciclos de Estudos Conducentes ao Grau de Doutor, do Instituto Superior de Economia e Gestão da Universidade de Lisboa.
+Clara Patrícia Costa Raposo, Presidente do Instituto Superior de Economia e Gestão da Universidade de Lisboa, torna público que, aprovou, em 16 de setembro de 2020, o Projeto de alteração ao Regulamento Geral dos Ciclos de Estudos Conducentes ao Grau de Doutor e ao Regulamento Geral dos Ciclos de Estudos Conducentes ao Grau de Mestre, submetendo-os, nos termos do artigo 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º do regime jurídico das instituições de ensino superior, a consulta pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente edital no Diário da República.
+Os projetos de regulamento podem ser consultados na Internet, no sítio institucional da Escola em www.iseg.ulisboa.pt.
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais deverão ser endereçadas à Presidente, sendo remetidas por correio eletrónico para o endereço presidenciaiseg@iseg.ulisboa.pt.
+Para constar se publica o presente edital, o qual vai ser disponibilizado na Internet, no sítio institucional da Escola.
+22-10-2020. - A Presidente do Instituto Superior de Economia e Gestão, Prof.ª Doutora Clara Patrícia Costa Raposo.
+313719702
