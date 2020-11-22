@@ -1,0 +1,166 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13529",
+  "numero": "161",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-11-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2021-01-12",
+        "DataArquivo": "2021-01-12",
+        "DataBaixaComissao": "2020-11-26",
+        "DataEnvioPAR": "2021-01-14",
+        "DataReaberta": "2021-01-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-01-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764f5759304d444d7a59325174596a677a5a6930305a6a46694c57466c5a6a63745a546b345a6a4935595445355a6d45774c6e426b5a673d3d&fich=9f4033cd-b83f-4f1b-aef7-e98f29a19fa0.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7504",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a49334e3249794f5745304c5456685a5441744e446b315a4330354d324e684c546735596d55784d6d55334d7a41314d4335515245593d&fich=277b29a4-5ae0-495d-93ca-89be12e73050.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a67774d57466b5a444d794c546b344e6a63744e4441784f5331694e4441774c544d794e4455334e7a557a4f475a6a4d6935775a47593d&fich=801add32-9867-4019-b400-324577538fc2.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a49785a6a59344d7a59334c5455774d4459744e44566a4e4331694d54426a4c5455784e4468684d7a4d314e54677a4e7935775a47593d&fich=21f68367-5006-45c4-b10c-5148a3355837.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a67354d6a59315954597a4c5451344d4449744e4755335a4330354d6a51324c574e694d6a457a4d324a6b5a474d304e7935775a47593d&fich=89265a63-4802-4e7d-9246-cb2133bddc47.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a426c4e4745775a6a4d354c54526a4f4759744e444a684d6930354e6d4d774c5449324d324d784e3255304d544e6a4e6935775a47593d&fich=0e4a0f39-4c8f-42a2-96c0-263c17e413c6.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32526d4d5759794d4746694c5745344d5745744e47466b4d533168597a6b7a4c5467345a444d314d5441324d6d566d5a6935775a47593d&fich=df1f20ab-a81a-4ad1-ac93-88d351062eff.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3245314e7a51334f4759324c5755354e3255744e4445334d5330354f5749354c5751775a6a6b7a4e544d774d6a49794d7935775a47593d&fich=a57478f6-e97e-4171-99b9-d0f935302223.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325535596d526a5a4455354c5749334d7a4d744e44677a4f4330344e7a67344c5445774d546c6a4e444a694e3245315a5335515245593d&fich=e9bdcd59-b733-4838-8788-1019c42b7a5e.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a55325a6d4e6d5a574e6a4c5749794e7a4d744e4751345a4330355a6a64684c57526a5a6a6b334e47566d4f4751324d7935775a47593d&fich=56fcfecc-b273-4d8d-9f7a-dcf974ef8d63.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3251344d7a42684d5755314c57526d4d544d744e444178597930354d5755314c5449315a6a55775a545a684d6d51794e4335775a47593d&fich=d830a1e5-df13-401c-91e5-25f50e6a2d24.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325269597a526c4d5463324c5467785a5441744e4467334f4330354f444d344c545a6a4f5467344f54426a4e6a566b4e5335515245593d&fich=dbc4e176-81e0-4878-9838-6c98890c65d5.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3245305a575a6d4e4459324c574d7a5a6a4d744e4449304d433169596d4d344c5755784d32526a5a5451354d7a5668595335775a47593d&fich=a4eff466-c3f3-4240-bbc8-e13dce4935aa.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51305a5468694d546c6c4c574533595759744e4445794d7931694e324d354c546b78596a566b5954526a4e3252694e7935775a47593d&fich=44e8b19e-a7af-4123-b7c9-91b5da4c7db7.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3251354e325a6d4e474d344c575a6b5a5745744e4745304e4331694e5749304c54566a5a446331596a64684e6a466b4d6935775a47593d&fich=d97ff4c8-fdea-4a44-b5b4-5cd75b7a61d2.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a45335a6a686d4e546b794c546b784e5455744e4749795a6931685a574e6d4c5441794e7a59774d6a677a5a4441354f4335775a47593d&fich=17f8f592-9155-4b2f-aecf-02760283d098.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59324e546b794e444d784c5463355a4449744e444d34596931694e4442684c54466b4e54526b4f5449335a4759304f5335775a47593d&fich=66592431-79d2-438b-b40a-1d54d927df49.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2020-12-04",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a55335a5745354f4441774c5467785a6a45744e474d33597931684d5749784c57526b4d5449795932526b4e4463344e6935775a47593d&fich=57ea9800-81f1-4c7c-a1b1-dd122cdd4786.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13529",
+    "PetAssunto": "Pela dignificação da memória de Silva Rocha",
+    "PetDataEntrada": "2020-11-22",
+    "PeticoesAssociadas": null,
+    "PetId": "13529",
+    "PetLeg": "XIV",
+    "PetNr": "161",
+    "PetNrAssinaturas": "55",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
