@@ -15,3 +15,5 @@ c) A limpeza diária, a desinfeção semanal e a higienização mensal dos veíc
 3 - Sem prejuízo do disposto nos números anteriores, podem ser adotadas outras medidas adicionais que sejam adequadas e necessárias no sentido de preservar a saúde pública, designadamente a não disponibilização da venda de títulos de transporte a bordo, a instalação de separações físicas entre os condutores e os passageiros e a disponibilização de gel ou solução cutânea desinfetante.
 
 4 - As autoridades de transporte, previstas na Lei n.º 52/2015, de 9 de junho, na sua redação atual, devem proceder à articulação com os respetivos operadores de transportes, no sentido de adequar a oferta à procura e às necessidades de transporte, salvaguardando a continuidade do serviço público essencial e o cumprimento das regras de salvaguarda da saúde pública.
+
+5 - Para cumprimento do disposto no número anterior, às contratações de veículos de transporte rodoviários de passageiros destinadas ao reforço da rede ferroviária e rodoviária, aplica-se o regime previsto no artigo 2.º
