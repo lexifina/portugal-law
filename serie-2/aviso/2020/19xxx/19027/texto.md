@@ -1,0 +1,8 @@
+Aviso n.º 19027/2020
+Sumário: Convite à apresentação de candidaturas e regulamento interno para a eleição, em Portugal, da Capital Europeia da Cultura em 2027.
+Convite à Apresentação de Candidaturas e Regulamento Interno para a eleição, em Portugal, da Capital Europeia da Cultura em 2027
+O Gabinete de Estratégia, Planeamento e Avaliação Culturais (GEPAC) torna público, através do presente aviso, o Convite à Apresentação de Candidaturas e o Regulamento Interno para a eleição, em Portugal, da Capital Europeia da Cultura em 2027, de acordo com o Artigo 7.º da Decisão n.º 445/2014/EU do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que cria uma ação da União de apoio às Capitais Europeias da Cultura para os anos de 2020 a 2033 e que revoga a Decisão n.º 1622/2006/CE.
+A iniciativa Capital Europeia da Cultura é uma das ações mais conhecidas da União Europeia. A iniciativa tem como objetivos salvaguardar e promover a diversidade das culturas, na Europa, realçando as características comuns que partilham, e aumentar o sentimento de pertença dos cidadãos a um espaço cultural comum, de modo a fomentar o contributo da cultura para o desenvolvimento a prazo das cidades de acordo com suas respetivas estratégias e prioridades.
+A Autoridade de Gestão do processo é o GEPAC, sob tutela da Ministra da Cultura. As cidades candidatas deverão consultar o website www.ecoc2027.mc.gov.pt para informação mais detalhada sobre o Convite à Apresentação de Candidaturas, o Regulamento Interno e a documentação complementar do processo.
+16 de novembro de 2020. - A Diretora-Geral, Maria Fernanda Soares Rebelo Heitor.
+313741872
