@@ -1,0 +1,610 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13545",
+  "numero": "177",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-11-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-03-04",
+            "entidades": null,
+            "id": "116758",
+            "tipo": null,
+            "titulo": "Audição em 2021-03-04 com "
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-10-06",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915105",
+                "obs": null,
+                "pag": [
+                  "3-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-30",
+                "pubLeg": "XIV",
+                "pubNr": "10",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/03/010/2021-10-30/3?pgs=3-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-02-03",
+        "DataArquivo": "2021-10-06",
+        "DataBaixaComissao": "2020-12-22",
+        "DataEnvioPAR": "2021-10-06",
+        "DataReaberta": "2021-02-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-02-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a4468685a6a49785a444574596a4d35595330305a4452694c5467335a6a55744d5759354e32526b59545a6b4d5452684c6e426b5a673d3d&fich=d8af21d1-b39a-4d4b-87f5-1f97dda6d14a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-10-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e5451304d4455354d7a557459574a694d69303059324a6d4c5745334e4463745a545a6d4f54597a5a4446695a5449334c6e426b5a673d3d&fich=54405935-abb2-4cbf-a747-e6f963d1be27.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7264",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-02-03",
+            "gp": "PS",
+            "id": "6536",
+            "motivoCessacao": null,
+            "nome": "Isabel Rodrigues"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2022-12-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-02-03",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a466b59544d34597a49354c546868596a4d744e474e694d5331694f4451324c5464694e7a4e6b4e32513459325a6b4d4335515245593d&fich=1da38c29-8ab3-4cb1-b846-7b73d7d8cfd0.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-01-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a5a684f4749354e5749304c5759784d3255744e446c6a4d5330345a6a41354c546b345a4467304e5759324f44686a4f4335775a47593d&fich=6a8b95b4-f13e-49c1-8f09-98d845f688c8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152102"
+    ],
+    "Iniciativasoriginadas": [
+      "152102"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61",
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-15",
+                "pubLeg": "XV",
+                "pubNr": "66",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/61?pgs=61,68&org=PLC"
+              }
+            ],
+            "Sumario": "(APAR — Associação Portuguesa de Apoio ao Recluso) — Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos; Recomenda a avaliação da implementação de princípios de justiça restaurativa para mediação penal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-15",
+                "pubLeg": "XV",
+                "pubNr": "66",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "(APAR — Associação Portuguesa de Apoio ao Recluso) — Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos; Recomenda a avaliação da implementação de princípios de justiça restaurativa para mediação penal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-15",
+                "pubLeg": "XV",
+                "pubNr": "66",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "(APAR — Associação Portuguesa de Apoio ao Recluso) — Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos; Recomenda a avaliação da implementação de princípios de justiça restaurativa para mediação penal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-15",
+                "pubLeg": "XV",
+                "pubNr": "66",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "(APAR — Associação Portuguesa de Apoio ao Recluso) — Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos; Recomenda a avaliação da implementação de princípios de justiça restaurativa para mediação penal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-15",
+                "pubLeg": "XV",
+                "pubNr": "66",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/64?pgs=64&org=PLC"
+              }
+            ],
+            "Sumario": "(APAR — Associação Portuguesa de Apoio ao Recluso) — Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos; Recomenda a avaliação da implementação de princípios de justiça restaurativa para mediação penal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-15",
+                "pubLeg": "XV",
+                "pubNr": "66",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "(APAR — Associação Portuguesa de Apoio ao Recluso) — Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos; Recomenda a avaliação da implementação de princípios de justiça restaurativa para mediação penal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=66"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-67",
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-15",
+                "pubLeg": "XV",
+                "pubNr": "66",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/65?pgs=65-67,68&org=PLC"
+              }
+            ],
+            "Sumario": "(APAR — Associação Portuguesa de Apoio ao Recluso) — Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos; Recomenda a avaliação da implementação de princípios de justiça restaurativa para mediação penal.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-12-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=67"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-15",
+                "pubLeg": "XV",
+                "pubNr": "66",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "(APAR — Associação Portuguesa de Apoio ao Recluso) — Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos; Recomenda a avaliação da implementação de princípios de justiça restaurativa para mediação penal.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13545",
+    "PetAssunto": "Aprovação de um perdão de penas generalizado e de uma amnistia para pequenos delitos",
+    "PetDataEntrada": "2020-11-24",
+    "PeticoesAssociadas": [
+      "13544"
+    ],
+    "PetId": "13545",
+    "PetLeg": "XIV",
+    "PetNr": "177",
+    "PetNrAssinaturas": "21482",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Recebida na Comissão em 28/01/2021.\n",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16264",
+        "obs": null,
+        "pag": [
+          "61-68"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-15",
+        "pubLeg": "XV",
+        "pubNr": "66",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/61?pgs=61-68&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915101",
+        "obs": null,
+        "pag": [
+          "12-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-23",
+        "pubLeg": "XIV",
+        "pubNr": "9",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/03/009/2021-10-23/12?pgs=12-14&org=PLC"
+      }
+    ]
+  }
+}
