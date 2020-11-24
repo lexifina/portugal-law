@@ -110,11 +110,17 @@ Sendo que L é o valor da distância da ligação hertziana em quilómetros (val
 
 As ligações ponto-multiponto são constituídas por um conjunto de ligações ponto-ponto. Neste caso particular, a taxa a aplicar resultará do somatório das taxas calculadas para cada uma das ligações ponto-ponto.
 
-Uma segunda ligação hertziana, cocanal, no mesmo trajeto e com recurso a polarização cruzada, será objeto de uma redução de 50 % sobre o valor da taxa aplicável.
+Uma segunda ligação hertziana, cocanal, no mesmo trajeto e com recurso a polarização cruzada, é objeto de uma redução de 50 % sobre o valor da taxa aplicável.
 
-As ligações hertzianas unidirecionais serão objeto de uma redução de 25 % sobre o valor da taxa aplicável às ligações bidirecionais.
+As ligações hertzianas unidirecionais são objeto de uma redução de 25 % sobre o valor da taxa aplicável às ligações bidirecionais.
 
-É fixado em (euro)50 o valor mínimo da taxa de utilização aplicável por ligação e por canal consignado.
+O valor da taxa aplicável às ligações hertzianas, em que a localização de, pelo menos, uma estação fixa se encontre no território de uma das freguesias identificadas no anexo x à presente portaria, é fixado em metade do valor da taxa aplicável às restantes.
+
+É fixado em (euro) 50 o valor mínimo da taxa de utilização aplicável por ligação e por canal consignado.
+
+É fixada uma redução de 100 % no valor da taxa aplicável à utilização dos feixes hertzianos em substituição de ligações físicas, designadamente fibra ótica, cabo coaxial e par de cobre, para o restabelecimento de comunicações públicas ou serviços de comunicações eletrónicos acessíveis ao público, no caso de catástrofes naturais, designadamente incêndios, de ato de terrorismo ou de sabotagem, pelo período máximo de 180 dias, passível de uma renovação por igual ou inferior período.
+
+Para efeitos da redução da taxa referida no parágrafo anterior, o requerente deve apresentar à ANACOM os elementos justificativos da sua aplicação.
 
 1.4.2 - Serviço fixo - ligações ponto-ponto e ponto-multiponto de utilização ocasional e a operarem em faixas de frequências iguais ou superiores a 1 GHz:
 
@@ -144,9 +150,7 @@ Taxa aplicável por rede e por canal consignado:
 
 1.4.7 (Revogado)
 
-1.4.8 - Sistemas de acesso fixo via rádio (FWA) e de acesso de banda larga via rádio (BWA):
-
-(ver documento original)
+1.4.8 - Revogado
 
 1.4.9 - Fixo - ligações em ondas decamétricas e hectométricas:
 
