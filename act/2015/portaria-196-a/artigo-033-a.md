@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Incumprimento e fiscalização
-
 # Artigo 33.º-A
 
 ### Acompanhamento e apoio técnico
