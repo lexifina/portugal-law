@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 19402/2020
+Sumário: Projeto do Regulamento do Cemitério e Capela Mortuária de Pedrouços.
+Projeto do Regulamento do Cemitério e Capela Mortuária de Pedrouços, Maia
+Torna-se público, que nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, se encontra para consulta pública, pelo prazo de 30 dias, a contar da data de publicação do presente aviso no Diário da República, 2.ª série, o projeto do Regulamento do Cemitério e Capela Mortuária de Pedrouços, Maia que poderá ser consultado no edifício da freguesia de Pedrouços, nos dias uteis, durante o horário normal de expediente ou na internet, no sitio institucional da Freguesia www.jf-pedroucos.pt.
+Mais se informa que os interessados podem formular por escrito sugestões sobre o Projeto do Regulamento do Cemitério e Capela Mortuária de Pedrouços, Maia, dirigidas ao Presidente da Junta, as quais poderão ser remetidas por meio de requerimento da freguesia, que se encontra disponível no sitio institucional da Freguesia www.jf-pedroucos.pt ou nos serviços da secretaria, para o endereço eletrónico da Freguesia mail@jf-pedroucos.pt por correio para a morada Avenida Nossa Senhora da Natividade, 250 4425-671 Pedrouços ou entregue pessoalmente nos serviços da Freguesia sitos na Avenida Nossa Senhora da Natividade, 250, 4425-671 Pedrouços.
+28 de outubro de 2020. - O Presidente da Junta, Joaquim Freitas Araújo.
+313684402
