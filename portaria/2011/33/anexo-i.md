@@ -6,531 +6,721 @@ Lista de munições obsoletas
 
 I - Munições de percussão lateral
 
-22 BB Cap.
-
-22 CB Cap.
-
-22 Extra Long.
-
-22 ILARCO Short Magnum.
-
-22 Remington Automatic.
-
-22 Short Magnum Rimfire.
-
-22 Winchester Automatic.
-
-22 Winchester Rimfire ou 22WRF.
-
-25 Short.
-
-25 Stevens.
-
-25 Stevens Short.
-
-30 Long.
-
-30 Short.
-
-32 Extra Short.
-
-32 Extra Long.
-
-32 Long.
-
-32 Long Rifle.
-
-32 Short.
-
-38 Extra Long.
-
-38 Long.
-
-38 Short.
-
-41 Long.
-
-41 Short (Derringer).
-
-41 Swiss.
-
-44 Short.
-
-44 Long.
-
-44 Extra Long.
-
-44 Henry Flat.
-
-46 Extra Long.
-
-46 Long.
-
-46 Short.
-
-50 Remington Navy.
-
-56-46 Spencer.
-
-56-50 Spencer.
-
-56-52 Spencer.
-
-56-56 Spencer.
+Qualquer calibre para armas curtas ou longas cujo cartucho ou invólucro seja percutido lateralmente na sua base, com exceção das munições dos calibres .17 HMR (Hornady Magnum Rimfire), .22 Short, .22 Long Rifle, .22 WMR (Winchester Magnum Rimfire), assim como das que forem excluídas por aplicação do n.º 3 do artigo 3.º e qualquer outra munição de percussão lateral que não cumpra algum dos requisitos da definição de munição obsoleta.
 
 II - Munições de percussão central inglesas e norte-americanas com designação em polegadas (centésimos ou milésimos)
 
-219 Zipper.
+.10 Eichelberger LR.
 
-22 Extra Long (Maynard).
+.12 Eichelberger WinMg.
 
-22 Winchester ou 22 W. C. F.
+.11 Whatzit.
 
-22-15-60 Stevens.
+.14 Kopp Short.
 
-240 Flanged Nitro Express.
+.14 OTTR.
 
-242 Rimless Nitro Express.
+.14 Myra Tini-Mite.
 
-246 Purdey.
+.14 Kopp Long.
 
-25 Remington.
+.14/.22 Magnum.
 
-25-20 Single Shot.
+.17 High Standard.
 
-25-20 Winchester.
+.17/.25 AUTO.
 
-25-21 Stevens.
+.17 Tuba Mag.
 
-25-25 Stevens.
+.17 Nickal/4.5 x 28 R.
 
-25-35 Winchester.
+.145 Alton Jones CF.
 
-25-36 Marlin.
+.22 SFM Extra Short.
 
-25/303.
+.22 Short Revolver Central Fire.
 
-255 Rook Rifle.
+.22 LONG.
 
-256 Magnum (Gibbs).
+.22 Extra Large Suíço.
 
-256 Mannlicher.
+.22 Extra Large US.
 
-256 Newton.
+.219 Zipper.
 
-26 Rimless Nitro Express (BSA).
+.22 Extra Long (Maynard).
 
-275 Flanged Magnum (H & H).
+.22 Winchester ou 22 W. C. F.
 
-276 Enfield-P13.
+.22-15-60 Stevens.
 
-276 Pedersen.
+.240 Flanged Nitro Express.
 
-28-30-120 Stevens.
+.242 Rimless Nitro Express.
 
-280 Flanged Nitro Express.
+.246 Purdey.
 
-280 Rimless (Ross).
+.25 Remington.
 
-280/30 British.
+.25-20 Single Shot.
 
-297/230 Morris Short.
+.25-20 Winchester.
 
-297/230 Morris Long.
+.25-21 Stevens.
 
-297/250 Rook Rifle.
+.25-25 Stevens.
 
-30 Borchardt.
+.25-35 Winchester.
 
-30 Flanged Nitro (Purdey).
+.25-36 Marlin.
 
-30 Newton.
+.25/303.
 
-30 Remington.
+.255 Rook Rifle.
 
-30-30 Wesson.
+.256 Magnum (Gibbs).
 
-30-40 Krag.
+.256 Mannlicher.
 
-30-40 Wesson.
+.256 Newton.
 
-295 Rook Rifle.
+.26 Rimless Nitro Express (BSA).
 
-300 Rook Rifle.
+.275 Flanged Magnum (H & H).
 
-300 Sherwood.
+.276 Enfield-P13.
 
-303 Magnum.
+.276 Pedersen.
 
-303 Savage.
+.28-30-120 Stevens.
 
-308 x 1.5" Barnes.
+.280 Flanged Nitro Express.
 
-310 Cadet Rifle.
+.280 Rimless (Ross).
 
-32 Ballard Extra Long.
+.280/30 British.
 
-32 Ideal.
+.297/230 Morris Short.
 
-32 Long Colt.
+.297/230 Morris Long.
 
-32 Long Rifle.
+.297/250 Rook Rifle.
 
-32 Remington.
+.298 Minex.
 
-32 Short Colt.
+.300/.250 Rook.
 
-32 Smith & Wesson (pólvora negra)
+.30 Borchardt.
 
-32 W. C. F. (.32-20 Winchester).
+.30 Flanged Nitro (Purdey).
 
-32 Winchester Self-Loading.
+.30 Newton.
 
-32-30 Remington.
+.30 Remington.
 
-32-35 Stevens & Maynard.
+.30-30 Wesson.
 
-32-40 Bullard.
+.30-40 Krag.
 
-32-40 Remington.
+.30-40 Wesson. 2.
 
-320 (revólver).
+.95 Rook Rifle.
 
-33 Belted Rimless Nitro Express (BSA).
+.300 Rook Rifle.
 
-33 Winchester.
+.300 Sherwood.
 
-333 Flanged Nitro Express.
+.303 Magnum.
 
-35 Newton.
+.303 Savage.
 
-35 Smith & Wesson Auto.
+.308 x 1"(elevado a 1/2) Barnes.
 
-35 Winchester.
+.310 Cadet Rifle.
 
-35 Winchester Self-Loading.
+.310 Greener.
 
-35-30 Maynard 1882.
+.31 Thuer.
 
-35-40 Maynard.
+.320/.230 Rook.
 
-351 Winchester Self-Loading (W. S. L.).
+.32 Protector.
 
-360 Nitro Express (21/4").
+.32 Ideal.
 
-360 Nitro for Black Powder.
+.32 Long Colt.
 
-360 Nitro Express no. 2.
+.32 Long Rifle.
 
-360 No. 5 Rook.
+.32 Remington.
 
-369 Nitro Express (Purdey).
+.32 Short Colt.
 
-375 Flanged Nitro Express (21/2").
+.32 Smith & Wesson (pólvora preta).
 
-375/303 Axite.
+.32 W. C. F. (.32-20 Winchester).
 
-38 Ballard Extra Long.
+.32 Winchester Self-Loading.
 
-38 Long.
+.32-30 Remington.
 
-38 Long Colt.
+.32-35 Stevens & Maynard.
 
-38-35 Stevens.
+.32-40 Bullard.
 
-38-40 Remington-Hepburn.
+.32-40 Remington.
 
-38-40 Winchester (W.C.F).
+.33 Belted Rimless Nitro Express (BSA).
 
-38-44 Smith &Wesson Target.
+.33 Winchester.
 
-38-45 Bullard.
+.333 Flanged Nitro Express.
 
-38-45 Stevens.
+.32-40 Winchester and Ballard.
 
-38-50 Ballard.
+.32-44 Smith & Wesson.
 
-38-50 Maynard 1882.
+.320 Long Revolver CF.
 
-38-50 Remington-Hepburn.
+.320 Short Revolver Long Case.
 
-38-56 Winchester.
+.320 Short Revolver Short Case.
 
-38-70 Winchester.
+.320 Short Revolver Extra-Short Case.
 
-38-72 Winchester.
+.340 Short Revolver.
 
-38-90 Winchester Express.
+.340 Long Revolver.
 
-380 Long.
+.35 Newton.
 
-380 (revólver).
+.35 Smith & Wesson Auto.
 
-40-40 Maynard 1882.
+.35 Winchester.
 
-40-50 Sharps Necked.
+.35 Winchester Self-Loading.
 
-40-50 Sharps Straight.
+.35-30 Maynard 1882.
 
-40-60 Marlin.
+.35-40 Maynard.
 
-40-60 Maynard 1882.
+.351 Winchester Self-Loading (W. S. L.).
 
-40-60 Winchester.
+.360 Thuer.
 
-40-63 Ballard.
+.360 shotgun.
 
-40-65 Ballard Everlasting.
+.360 No.3 Gibbs.
 
-40-65 Winchester.
+.360 Westley Richard n.º 3 Express.
 
-40-70 Ballard.
+.360 Gibbs No. 4.
 
-40-70 Maynard.
+.360/.300 Fraser.
 
-40-70 Peabody «What Cheer».
+.360 2" (elevado a 3/4) Boxer.
 
-40-70 Remington.
+.360 Shotgun 1 3/4" for special Purdey rifle.
 
-40-70 Sharps Necked.
+.360 Purdey Coiled 1"(elevado a 1/2) case.
 
-40-70 Sharps Straight.
+.360 Shotgun 1"(elevado a 1/8) for special Purdey Rifle.
 
-40-70 Winchester.
+.360 Nitro Express (2"(elevado a 1/4)).
 
-40-72 Winchester.
+.360 Nitro for Black Powder.
 
-40-75 Bullard.
+.360 Nitro Express no. 2.
 
-40-82 Winchester.
+.360 No. 5 Rook.
 
-40-85 Ballard.
+.369 Nitro Express (Purdey).
 
-40-90 Ballard.
+.375 Flanged Nitro Express (2"(elevado a 1/2)).
 
-40-90 Bullard.
+.375/303 Axite.
 
-40-90 Peabody «What Cheer».
+.38-35 Stevens Everlasting.
 
-40-90 Sharps Necked.
+.38-40 Ballard Everlasting.
 
-40-90 Sharps Straight.
+.380 Black Powder Express.
 
-40-110 Winchester Express.
+.380 British MKI.
 
-400 Nitro for Black Powder (3").
+.380 British MKII.
 
-400/350 Nitro Express.
+.380 Long Rifle Central Fire.
 
-400/360 Nitro Express (23/4") (Purdey).
+.380 Short Revolver Short Case.
 
-400/360 Nitro Express (23/4") (Westley Richards).
+.380 Short Revolver Long Case (.38 Short Colt).
 
-400/375 Belted Nitro Express (H & H).
+.38 Rimless Smokeless (Colt mod. 1900 e 1902).
 
-401 Winchester Auto.
+.38-44 Smith &Wesson Target.
 
-405 Winchester.
+.38-45 Bullard.
 
-41 Long Colt.
+.38-45 Stevens.
 
-43 Remington (Egipto).
+.38-50 Ballard.
 
-43 Remington (Espanha).
+.38-50 Maynard 1882.
 
-44 Bull Dog.
+.38-50 Remington-Hepburn.
 
-44 Colt.
+.38-56 Winchester.
 
-44 Evans Long.
+.38-70 Winchester.
 
-44 Evans Short.
+.38-72 Winchester.
 
-44 Extra Long Ballard.
+.38-90 Winchester Express.
 
-44 Henry.
+.400-2"(elevado a 1/2) Kynoch.
 
-44 Long.
+.400-3"(elevado a 1/4) Boxer.
 
-44 Marlin-Colt Game Getter.
+.400-3" Purdey.
 
-44 Smith & Wesson (modelo americano).
+.40-40 Maynard 1882.
 
-44 Smith & Wesson (modelo russo).
+.40-50 Sharps Necked.
 
-44 Webley (442 RIC).
+.40-50 Sharps Straight.
 
-44 Wesson Extra Long.
+.40-60 Marlin.
 
-44-40 Extra Long.
+.40-60 Maynard 1882.
 
-44-60 Peabody «Creedmoor».
+.40-60 Winchester.
 
-44-60 Sharps Necked.
+.40-63 Ballard.
 
-44-60 Winchester.
+.40-65 Ballard Everlasting.
 
-44-70 Maynard.
+.40-65 Winchester.
 
-44-75 Ballard Everlasting.
+.40-70 Ballard.
 
-44-77 Sharps & Remington.
+.40-70 Maynard.
 
-44-85 Wesson.
+.40-70 Peabody «What Cheer».
 
-44-90 Remington Special.
+.40-70 Remington.
 
-44-90 Remington Straight.
+.40-70 Sharps Necked.
 
-44-90 Sharps Necked.
+.40-70 Sharps Straight.
 
-44-95 Peabody «What Cheer».
+.40-70 Winchester.
 
-44-100 Ballard.
+.40-72 Winchester.
 
-44-100 Remington «Creedmoor».
+.40-75 Bullard.
 
-44-100 Wesson.
+.40-82 Winchester.
 
-442 RIC (44 Webley).
+.40-85 Ballard.
 
-45 Smith & Wesson.
+.40-90 Ballard.
 
-45 Webley.
+.40-90 Bullard.
 
-45-50 Peabody Sporting.
+.40-90 Peabody «What Cheer».
 
-45-60 Winchester.
+.40-90 Sharps Necked.
 
-45-75 Sharps Straight.
+.40-90 Sharps Straight.
 
-45-75 Winchester.
+.40-110 Winchester Express.
 
-45-82 Winchester.
+.400 Nitro for Black Powder (3").
 
-45-85 Winchester.
+.400/350 Nitro Express.
 
-45-90 Winchester.
+.400/360 Nitro Express (2"(elevado a 3/4)) (Purdey).
 
-45-100 Ballard.
+.400/360 Nitro Express (2"(elevado a 3/4)) (Westley Richards).
 
-45-100 Remington.
+.400/375 Belted Nitro Express (H & H).
 
-45-100 Sharps Straight.
+.401 Winchester Auto.
 
-45-120 Sharps Straight (31/4").
+.405 Winchester.
 
-45-125 Winchester.
+.41 Long Colt.
 
-450 Adams.
+.425 Webley.
 
-450 (revólver).
+.430 Long Rifle.
 
-450 No. 1
+.430 Tranter.
 
-450 Rigby Match (2,4").
+.43 Remington (11 x 50 regulamentar egípcio).
 
-450/400 BPE (2 3/8").
+.43 Remington (11 x 58 regulamentar espanhol mod. 1871).
 
-450/400 Magnum Nitro Express (3 1/4").
+.44 Bull Dog.
 
-450/400 Nitro for Black Powder (2 3/8").
+.44 Colt.
 
-455 Colt.
+.44 Evans Long (10,5 x 37,8 R).
 
-455 Mk I (revólver).
+.44 Evans Short.
 
-455 Mk II (revólver).
+.44 Extra Long Ballard.
 
-455 Webley Automatic.
+.44 Henry.
 
-455 Webley Mk II (revólver).
+.44 Smith & Wesson (modelo americano).
 
-475 Nitro Express.
+.44 Smith & Wesson (modelo russo).
 
-475 No. 2 Nitro Express.
+.44 Webley (442 RIC).
 
-476 Eley.
+.44 Wesson Extra Long.
 
-476 Enfield Mk III.
+.44-40 Extra Long.
 
-476 Nitro Express.
+.44-60 Peabody «Creedmoor».
 
-50 Remington (M71 Army).
+.44-60 Sharps Necked.
 
-50-50 Maynard.
+.44-60 Winchester.
 
-50 U. S. Carbine (E. U. A.).
+.44-70 Maynard.
 
-50-70 Musket ou 50 Govt. (E. U. A.).
+.44-75 Ballard Everlasting.
 
-50-90 Sharps.
+.44-77 Sharps & Remington.
 
-50-95 C.L.M.R.
+.44-85 Wesson.
 
-50-95 Winchester.
+.44-90 Remington Special.
 
-50-100 Winchester.
+.44-90 Remington Straight.
 
-50-105 Winchester.
+.44-90 Sharps Necked.
 
-50-110 Winchester.
+.44-95 Peabody «What Cheer».
 
-50-115 Bullard.
+.44-100 Ballard.
 
-50-140 Sharps.
+.44-100 Remington «Creedmoor».
 
-50-140 Winchester Express.
+.44-100 Wesson.
 
-500 Nitro for Blackpowder Express.
+.44 Thuer.
 
-500 No. 2 Express (577/500).
+.44 Morse necked.
 
-500 Rimless Jeffery.
+.44-50 Meigs.
 
-500/450 Magnum BPE.
+.44 Dupee rimless.
 
-500/450 Magnum Nitro Express.
+.44 Devilliers.
 
-500/450 No. 1 Express.
+.440 Long Revolver CF.
 
-500/450 No. 2 Musket.
+.440 Nagant (revólver regulamentar argentino).
 
-55-100 Maynard.
+.442 Long Revolver (.442 ROOK/.442 LONG CARBINE).
 
-577 Nitro Express (23/4").
+.44 Remington Revolver (army model 1875).
 
-577 Nitro Express (3").
+.44 Merwin Hulbert.
 
-577 Snider (14.7 mm).
+.45 Smith & Wesson (Schofield).
 
-577/450 Martini-Henry.
+.45 Webley.
 
-577/500 Magnum Nitro Express.
+.45-50 Peabody Sporting.
 
-58 Berdan (carabina).
+.45-60 Winchester.
 
-58 U. S. Musket (Berdan).
+.45-75 Sharps Straight.
 
-600 Nitro Express.
+.45-75 Winchester.
 
-70-150 Winchester.
+.45-82 Winchester.
+
+.45-85 Winchester.
+
+.45-90 Winchester.
+
+.45-100 Ballard.
+
+.45-100 Remington.
+
+.45-100 Sharps Straight.
+
+.45-120 Sharps Straight (3"(elevado a 1/4)).
+
+.45-125 Winchester.
+
+.450 Adams.
+
+.450 No. 1 450 Rigby Match (2,4").
+
+.450/400 BPE (2" (elevado a 3/8)).
+
+.450/400 Magnum Nitro Express (3" (elevado a 1/4)).
+
+.450/400 Nitro for Black Powder (2" (elevado a 3/8)).
+
+.455 Colt. 455 Mk I (revólver).
+
+.455 Mk II (revólver).
+
+.455 Webley Automatic.
+
+.455 Webley Mk II, III, IV, V e VI.
+
+.45 Colt Government.
+
+.45 Gatling Gun.
+
+.45 Gardner.
+
+.45-80-500 US Springfield Long Chamber Sharpshooter.
+
+.45 Boxer-Henry Long Chamber 1869.
+
+.45 New South Wales Police Carbine.
+
+.45 Mars.
+
+.45 MP.
+
+.450 Revolver Short CF.
+
+.450 Long CF Paris-Sport.
+
+.450 Long Revolver.
+
+.450 No. 1 Bland.
+
+.450 Soper 2"(elevado a 1/2).
+
+.450 Needham.
+
+.450/.360 Purdey.
+
+.45 Brown Standard Military Target Rifle.
+
+.450 Black Powder Express.
+
+.46 Winchester.
+
+.461 Gibbs.
+
+.476 Indian Police.
+
+.476 Eley.
+
+.476 Enfield Mk III.
+
+.476 Nitro Express.
+
+.48 Morse.
+
+.490 BSA 50 Remington (M71 Army).
+
+.50-50 Maynard.
+
+.50 U. S. Carbine (E. U. A.).
+
+.50-70 Musket ou 50 Govt. (E. U. A.).
+
+.50-90 Sharps.
+
+.50-95 C.L.M.R.
+
+.50-95 Winchester.
+
+.50-100 Winchester.
+
+.50-105 Winchester.
+
+.50-110 Winchester.
+
+.50-115 Bullard.
+
+.50-140 Sharps.
+
+.50-140 Winchester Express.
+
+.500 Nitro for Blackpowder Express.
+
+.500 No. 2 Express (577/500).
+
+.500 Rimless Jeffery.
+
+.500/450 Magnum BPE.
+
+.500/450 Magnum Nitro Express.
+
+.500/450 No. 1 Express.
+
+.500/450 No. 2 Musket.
+
+.50 Gallager.
+
+.50/.58 Morse sleeved.
+
+.50 Morse.
+
+.50 Meigs.
+
+.50 Peabody.
+
+.50 Daw's Patent 1867.
+
+.50 Boxer 1867.
+
+.500-1"(elevado a 1/2).
+
+.500-2"(elevado a 1/4).
+
+.500-2"1/2.
+
+.500-3".
+
+.500-3"(elevado a 1/4).
+
+.500/.450 No.1 Carbine.
+
+.500/.450 Webley Carbine.
+
+.500/.450 No.1 Express.
+
+.50 Springfield Pistol, M1869.
+
+.500 Tranter.
+
+.52-70 Sharps.
+
+.54 Morse.
+
+.55 Morse.
+
+.55 Gatling.
+
+.55 Boys.
+
+.577 Nitro Express (2"(elevado a 3/4)).
+
+.577 Nitro Express (3").
+
+.577 Snider (14.7 mm).
+
+.577/450 Martini-Henry.
+
+.577/500 Magnum Nitro Express.
+
+.577 Selwyn 1865.
+
+.577 Daw's Patent 1867.
+
+.577-2"(elevado a 1/4).
+
+.577 2"(elevado a 1/2).
+
+.577 2"(elevado a 3/4).
+
+.577 Revolver Boxer case.
+
+.58 Berdan (carabina).
+
+.58 U. S. Musket (Berdan).
+
+.58 Chabot, Allin, Miller Conversions RF.
+
+.58 Morse.
+
+.58 US Converted Musket, 1865.
+
+.58 US Berdan System Conversion.
+
+.58 Tibbals/Roberts 1869.
+
+.58 Roberts.
+
+.600.
+
+.60 Chinese Jingal.
+
+.65 Gatling.
+
+.69 Morse.
+
+.70-150 Winchester.
+
+.75 Gatling.
+
+.75 Chinese Jingal.
+
+.80 Gatling.
+
+1" Nordenfelt-Palmcranz.
+
+20 bore/.577 Alex. Henry.
 
 III - Munições de percussão central europeias e outras com designação no sistema métrico
+
+2 x 2.85 mm.
+
+2 x 4.3 mm Mouche.
+
+2 x 4.75 mm Breloque.
+
+2.34 x 6.1 Swiss Mini Gun.
 
 2.7 mm Kolibri Auto.
 
 3 mm Kolibri.
 
-4.25 mm Liliput Auto.
+3.5 x 55 Schirnecker.
 
-5 mm Clement Auto.
+3.5 x 55 Schirnecker RR plastic case.
 
-5 mm Bergmann.
+3.5 x 55 Schirnecker brass.
 
-5 mm (revólver)
+3.5 x 55 Schirnecker RR.
 
-.6 mm Velo Dog
+3.5 x 60 Schirnecker RR.
+
+3.75 mm San Millán.
+
+.45/3.5 mm Schirnecker.
+
+4 mm M 20 CF.
+
+4 x 16 mm Lienhard.
+
+4 x 20.9 Crottet 1/2.
+
+4.25 Liliput auto.
+
+4 x 28.5 Crottet miniature.
+
+4.3 x 45.
+
+4.5 x 9 mm Hirtenberg Adaptor.
+
+4 x 6.8 mm Geco.
+
+5 x 10 R Brun-Latrige.
+
+5 x 26 Rem Mag.
+
+5 mm Bergmann 1894 (com e sem rebordo).
+
+5 mm French.
+
+5 mm Charola y Anitua (Clement auto).
 
 5.6 x 33 Rook.
 
@@ -538,9 +728,31 @@ III - Munições de percussão central europeias e outras com designação no si
 
 5.6 x 35 R Vierling.
 
-6 mm Lee Navy.
+5.2 mm Mondragon.
+
+5.2 x 34R Kronprinz.
+
+5.43 x 26.BR revolver.
+
+5.44 x 14 RF Zielmunition Hartmann A.
+
+5.56 x 57 x pl Flechette XM-645.
+
+5.59 x 15.5.
+
+5.6 x 34R Francotte Carbine.
+
+5.75 mm Velo Dog.
+
+6 mm Beaumont revolver.
+
+6 mm Merveilleux.
+
+6 mm Protector
 
 6 mm x 29.5 R Stahl.
+
+6.1 x 58 Mauser.
 
 6.5 mm Bergmann.
 
@@ -550,7 +762,7 @@ III - Munições de percussão central europeias e outras com designação no si
 
 6.5 x 48 R Sauer.
 
-6.5x 52 R.
+6.5 x 52 R.
 
 6.5 x 53 R Mannlicher.
 
@@ -562,19 +774,79 @@ III - Munições de percussão central europeias e outras com designação no si
 
 6.5 x 61 Mauser.
 
+6 x 58 Gewehrprufungskommission M1897 (também 6 x 58 Forster).
+
+6 x 58 Forster.
+
+6.3 x 21 rimless.
+
+6.5 mm Mannlicher Pistol M.1894.
+
+6.5 mm Mondragon.
+
+6.5 x 53.5 R Mannlicher.
+
+6.5 x 54.5 Krupp.
+
+6.5 mm Ronezewsky.
+
+6.6 x 70R.
+
+6.8 x 19.6 revólver.
+
+6.8 mm Schulhof pistol.
+
 7 mm Nambu.
 
 7 x 72 R.
 
 7 x 73 Vom Hofe Belted.
 
-7.5 mm Nagant (revólver sueco).
+7.5 mm Nagant (revólver regulamentar sueco).
 
-7.62 mm Nagant (revólver russo).
+7 mm Bar.
+
+7 mm Charola y Anitua.
+
+7 mm French thick rim.
+
+7 mm Galand.
+
+7 mm CF Bengala (Walking Stick).
+
+7 mm Devisme.
+
+7 mm German tiro ao alvo (Target Pistol Cartridges Nos. 46-49).
+
+7 x 15 R French Revolver CF.
+
+7.25 mm Adler.
+
+7.5 x 53.5R Rubin.
+
+7.5 x 53.5 Rimless Rubin.
+
+7.5 x 53 Swiss Schmidt Rubin M.1890.
+
+7,5 x 53,5 mm Swiss.
+
+7,5 x 54,5 mm Swiss.
+
+7.53 x 60R Hebler.
+
+7.62 mm Nagant (revólver regulamentar russo).
 
 7.63 Borchard.
 
 7.63 mm Mannlicher.
+
+7.65 mm Frommer M. 1901.
+
+7.65 x 27 mm Swiss.
+
+7.65 x 35 mm Furrer.
+
+7.65 x 38 XG.
 
 7.65 mm Mannlicher.
 
@@ -582,9 +854,35 @@ III - Munições de percussão central europeias e outras com designação no si
 
 7.7 x 58 Arisaka.
 
-7.7x 60R.
+7.7 x 60R.
 
 7.92 x 33 Kurz.
+
+7.7 mm Bittner pistol.
+
+7.8 mm Bergmann No. 5.
+
+7.8 mm x 19R Laumann.
+
+7.92 x 86 pre-Marosczeck rimless.
+
+7.92 x 95 mm.
+
+7.92 x 107 Maroszeck.
+
+8 mm German Target Pistol (No. 86).
+
+8 mm Schonberger.
+
+8 mm Gaulois pistol.
+
+8 mm Bergmann No. 1 pistol.
+
+8 mm Bergmann No. 4.
+
+8 mm Bergmann No. 7.
+
+8 mm Bergmann-Schmeisser.
 
 8 mm Lebel.
 
@@ -593,6 +891,20 @@ III - Munições de percussão central europeias e outras com designação no si
 8 mm Rast-Gasser.
 
 8 mm Roth-Steyr.
+
+8 x 72R (Sauer).
+
+8,59 Breda.
+
+8 x 87 m/1932.
+
+8 mm Protector.
+
+8 mm Raphael.
+
+8 mm Schulof.
+
+8.15 x 46R.
 
 8 x 42 R.
 
@@ -616,23 +928,43 @@ III - Munições de percussão central europeias e outras com designação no si
 
 8 x 60 R Guedes M85.
 
-8 mm Kropatchek 1886
+8 mm Kropatchek 1886.
 
 8 x 60 Mauser.
 
 8 x 60 R Mauser.
 
-8 x 63.
+8 x 63. 8 x 71 Peterlongo.
 
-8 x 71 Peterlongo.
+8.2 x 55 R Mannlicher.
 
-8 x 72 R Sauer.
+8.3 x 53.5R Rubin.
 
-8.15x 46 R.
+8.5 mm Mars.
 
-8.59 Breda.
+8 x 56 R Kropatschek Short.
 
-9 mm Borchard
+8 x 56 Mannlicher Schoenauer.
+
+8 x 60 R (Castro Guedes mod. 1885).
+
+8 x 60 R Daudeteau 1898.
+
+9 x 15 R Devisme.
+
+9 x 16 R Revólver CF.
+
+9 x 20 mm SR Browning Long.
+
+9 x 51.5R Rubin.
+
+9 x 57 R Rubin.
+
+9 mm Moutier rimless-grooveless.
+
+9 x 22 R Belgian Nagant.
+
+9 mm Borchard.
 
 9 mm Bayard Long.
 
@@ -642,17 +974,23 @@ III - Munições de percussão central europeias e outras com designação no si
 
 9 mm Steyr.
 
+9 x 26 Mars.
+
+9 x 26 R Gasser-Kropatschek.
+
 9 x 56 Mannlicher-Schoenauer.
 
 9 x 70 R Mauser.
 
 9 x 71 Peterlongo.
 
-9.1 Abadie.
+9.1 x 40 Bengala (Walking Stick).
 
-9.1x 40R.
+9.1 Abadie (revólver regulamentar português Mod. 1878 e 1886).
 
-9.3x 48R.
+9.1 x 40R.
+
+9.3 x 48R.
 
 9.3 x 53 (Suíça).
 
@@ -660,41 +998,71 @@ III - Munições de percussão central europeias e outras com designação no si
 
 9.3 x 53 R Hebler.
 
-9.3x 57R.
+9.3 x 57R.
 
 9.3 x 65 R Collath.
 
 9.3 x 70R.
 
-9.3 x 72R.
+9.3 x 58R Koeffler.
 
-9.3 x 72 R Sauer.
+9.3 x 63.5R Koeffler.
 
-9.3 x 80R.
+9.3 x 72R Sauer.
 
-9.3 x 82R.
+9.3 x 75R Nimrod.
+
+9.3 x 82R Nimrod.
+
+9.4 Revólver regulamentar holandês.
+
+9.5 x 42R.
 
 9.5 x 47R.
 
-9.5 x 60 R Mauser (Turquia).
+9,5 x 60R Mauser (revólver regulamentar turco).
+
+10 x 47R.
+
+10 mm Gaupillat.
+
+10 mm Bergmann.
+
+10 mm Mars.
 
 10.15 x 61 R Jarmann.
 
-10.15 x 63 R Mauser (Sérvia).
+10.15 x 63 R Mauser (revólver regulamentar sérvio).
 
 10.25 x 69 R Express.
 
-10.3 x 60 R (Suíça).
+10.3 x 60 R (revólver regulamentar suíço).
 
 10.3 x 65 R Baenziger.
 
-10.4 mm (Itália).
+10.4 mm (revólver regulamentar italiano).
 
-10.4 x 38 R Vetterli (Suíça).
+10.4 x 56R Swiss.
 
-10.4 x 47 R Vetterli (Itália).
+10.4 x 42R Swiss Vetterli.
 
-10.5x 47 R.
+10.4 x 38 R Martini-Galland.
+
+10.4 mm Swiss M.1878.
+
+10.4 x 47R Stahl.
+
+10.6 x 24,5 R (revólver regulamentar alemão mod. 1879 e 1883).
+
+10.6 x 25R (revólver regulamentar espanhol mod 1884).
+
+10.6 x 58 R Russian Berdan.
+
+10.6 x 48R Russian Berdan Carbine.
+
+10.7 x 57R Krag Petersson.
+
+10.75x 55 R.
 
 10.75 x 57.
 
@@ -706,9 +1074,15 @@ III - Munições de percussão central europeias e outras com designação no si
 
 10.8 x 47 Martini.
 
-11 mm (revólver francês modelo 1873).
+10.8 x 23.5 Montenegro n.º 4.
 
-11 mm (revólver alemão modelo 1879).
+11 mm (revólver regulamentar francês modelo 1873).
+
+11 mm (revólver regulamentar alemão modelo 1879).
+
+11 x 42 R.
+
+11 x 45 R.
 
 11 x 50 R Albini.
 
@@ -716,17 +1090,61 @@ III - Munições de percussão central europeias e outras com designação no si
 
 11 x 53 R Comblain.
 
+11 x 53 Gevelot.
+
 11 x 59 Vickers.
 
 11 x 59 R Gras.
 
 11 x 60 R Murata.
 
+11 mm Manceux.
+
+11 x 14 R Revólver Devisme.
+
+11 x 14,8 R Devisme.
+
+11 x 17,5 R (revólver regulamentar grego).
+
+11 x 27 R Devilliers.
+
+11 x 43 R Comblain Carbine.
+
+11 x 46 R.
+
+11 x 51 R French Gras Scolaire.
+
+11 x 51 R Beaumont.
+
+11 x 57 R Berdan Bulgarian (revólver regulamentar búlgaro).
+
+11 x 70 R Mitrailleuse.
+
+11.15 x 42 R Austrian Werndl.
+
+11.15 x 36 R Austrian Werndel Carbine.
+
+11.15 x 36 R Fruhwirth.
+
+11.15 x 37 R.
+
+11.5 x 50 R.
+
+11.15 x 52 R LK Express.
+
+11.15 x 58 R.
+
 11.15 x 58 R ou 43 Remington.
 
 11.15 x 58 R Werndl.
 
-11.15 x 60 R ou 43 Mauser.
+11.15 x 58 R Austrian Werndel, Holub and Mannlicher.
+
+11.15 x 60 R Mauser.
+
+11.15 x 65 R.
+
+11.15 x 71 R.
 
 11.2 x 60 Mauser.
 
@@ -738,26 +1156,230 @@ III - Munições de percussão central europeias e outras com designação no si
 
 11.4 x 51 R Remington.
 
-11.43 x 50 R ou 43 Remington (Egipto).
+11.43 x 50 R ou 43 Remington (regulamentar egípcio).
 
-11.43 x 55 R (Turquia).
+11.43 x 55 R (regulamentar turco).
 
-11.5 x 57 R ou 43 Espanhol Reformado mod. 1867.
+11.5 x 57 R ou 43 espanhol reformado mod. 1867.
 
 11.63 x 38 mm Belted (458 x 11/2 Barnes).
 
-11.75 mm (revólver montenegrino).
+11.75 mm (regulamentar montenegrino).
 
-12 x 44 R Remington (Noruega e Suécia).
+11.15 x 52 Bengala (Walking Stick).
+
+11.2 x 51 R Kropatschek-Hessig.
+
+11.2 x 39.6 R.
+
+11.25 mm x 44.5R.
+
+11.3 x 48 R Brazza Carbine.
+
+11.35 mm Schouboe (Rimmed and Rimless Version).
+
+11.4 x 44.5R Dutch Gendarmerie Carbine (regulamentar holandês).
+
+11.4 x 49R Romanian Peabody (regulamentar romeno).
+
+11.4 x 59R Turkish Peabody-Martini (regulamentar turco).
+
+11.43 x 41R Peabody Carbine.
+
+11.5 x 50R Austrian Werder.
+
+11.5 x 35R Werder Carbine.
+
+11.5 x 60R.
+
+11.53 Albini-Braendlin.
+
+11.6 x 50R Chilean Comblain (regulamentar chileno).
+
+11.7 x 41.5R Danish Remington (regulamentar dinamarquês).
+
+11.7 x 45.5R Danish Remington (regulamentar dinamarquês).
+
+11.7 x 51.6R Danish Remington (regulamentar dinamarquês).
+
+12 x 44 R Remington (regulamentar norueguês e sueco).
+
+12 mm Perrin Thick Rim.
+
+12 mm Raphael.
+
+12 mm Moutier.
+
+12 mm Pidault & Cordier.
+
+12.5 x 60R MB Target.
+
+12.7 x 48R.
+
+12.7 x 70R Mitrailleuse.
+
+12.8 x 45R Papal Remington.
+
+13 x 86 R De Reffye boxer case.
+
+13 mm Rochaz-Lindner.
+
+13 x 92 Mauser T-Gew.
+
+13.2 x 32R.
+
+14.5 x 33R Austrian Wanzl (regulamentar austríaco).
+
+14.5 x 41R Spanish Berdan (regulamentar espanhol).
+
+14.66 x 35R Serbian Peabody (regulamentar sérvio).
+
+14.7 x 58R Schneider.
+
+15 mm revólver.
+
+17,5 x 28 R Danish Snider (regulamentar dinamarquês).
+
+17.5 x 29R Dutch Snider (regulamentar holandês).
+
+18 x 35R Tabatiere.
 
 IV - Munições sistema Lefaucheux (de haste percutora)
 
-Qualquer calibre para armas curtas ou longas deste sistema.
+Qualquer calibre para armas curtas ou longas deste sistema ou outro com haste percutora.
 
-V - Munições com fulminante e carga de pólvora no interior do projéctil
+V - Munições com fulminante e carga de pólvora no interior do projétil
 
-Qualquer calibre para armas curtas ou longas deste sistema de patente anterior a 1891.
+Qualquer calibre para armas curtas ou longas deste sistema e que cumpra a definição de munição obsoleta.
 
-VI - Munições com cartucho combustível.
+VI - Munições com cartucho combustível
 
-Qualquer calibre para armas curtas ou longas deste sistema.
+Qualquer calibre para armas curtas ou longas deste sistema e que cumpra a definição de munição obsoleta.
+
+VII - Munições com designação em adarme (gauge)
+
+Qualquer calibre para armas curtas ou longas, com designação em adarme, utilizando cartuchos metálicos, com projétil único, específicas para armas de cano estriado, que cumpra a definição de munição obsoleta, e ainda os seguintes calibres:
+
+Gauge 1 shotshell 5,5";
+
+1.1/2" punt gun 9.7/10" case;
+
+3 Gauge/32 x 120 mm;
+
+3 Gauge/33 mm Shotshel;
+
+4 Gauge;
+
+8 Gauge;
+
+Collath #0 horizontal pinfire;
+
+13 Gauge British Eley Patent;
+
+14 Gauge;
+
+14 Gauge Shotshell 21/2 case Lancaster;
+
+14 Gauge British Eley Patent;
+
+15 Gauge Eley Wire cartridge;
+
+Collath #4 horizontal pinfire;
+
+16 Gauge British Eley Patent;
+
+16 Gauge Sporting Shrapnell Shell John's Patent;
+
+17 Gauge British Eley Patent;
+
+17 Gauge British Eley Patent;
+
+.70 Dreyse CF Shot;
+
+Collath #5 horizontal pinfire;
+
+18 Gauge British Eley Improved Patent;
+
+18 Gauge;
+
+Collath #6 horizontal pinfire;
+
+19 Gauge British Eley Patent;
+
+Collath #7 horizontal pinfire;
+
+28 Gauge shotshell 3 1/4" case Hell;
+
+30 Gauge Shotshell 21/2 case lancaster;
+
+12 mm Shotshell 21/2" unknown rim (diâmetro) 14.5 mm;
+
+13 mm Lefaucheux Shotshell;
+
+40 Gauge Japanese Shotshell;
+
+.310 Remington Skeet RF;
+
+.410 gauge short case;
+
+7 x 26 Cane thin rim.
+
+VIII - Munições experimentais e protótipos
+
+Qualquer calibre para armas curtas ou longas, que nunca tenham sido produzidas industrialmente.
+
+IX - Munições de qualquer calibre para armas curtas ou longas, cuja produção industrial tenha cessado há mais de 50 anos
+
+X - Espécimes de munições, de qualquer calibre e sistema para armas curtas ou longas, desde que o exemplar em causa tenha sido fabricado há mais de 70 anos
+
+XI - Qualquer calibre para armas curtas ou longas dos seguintes sistemas
+
+Cartuchos de percussão Needle Gun.
+
+Spencer.
+
+Sharps.
+
+Billinghurst.
+
+Crispin.
+
+Mondragon.
+
+Folded Ammo.
+
+Colt Revolving Hayes' patent.
+
+Folded Triplex.
+
+Hugues Lockless.
+
+Gyrojet.
+
+Schirnecker.
+
+Volcanic.
+
+Lipfire.
+
+Cupfire.
+
+Teatfire.
+
+Maynard.
+
+Burnside.
+
+Dardick.
+
+Burnside Rodman-Crispin.
+
+Kaltmann Expellable.
+
+Lancejet MBA Rocket.
+
+Finjet MBA Rocket.
+
+Italian AUPO.
+
+Daisy Caseless.
