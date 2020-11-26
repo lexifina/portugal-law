@@ -10,7 +10,7 @@
 
 2 - Se a coleção for guardada no domicílio devem ser asseguradas as seguintes medidas de segurança:
 
-a) Armazenamento em cofre, com um nível de segurança mínimo de grau 3, de acordo com a EN 1143-1, ou equivalente;
+a) Armazenamento em cofre, com um nível de segurança mínimo de grau 3, de acordo com a EN 11450-S1, ou equivalente;
 
 b) As portas de acesso ao exterior e ao compartimento onde se encontra o cofre devem ter classe de resistência 3, de acordo com a norma EN 1627, ou equivalente;
 
