@@ -19,3 +19,5 @@ f) Participar na implementação e execução do Plano Nacional Contra a Violên
 g) Participar na definição da estratégia nacional para o combate à violência doméstica;
 
 h) Assegurar a recolha e o tratamento dos dados estatísticos relativos à violência doméstica, no âmbito das suas competências.
+
+i) Proceder ao reconhecimento do direito, à atribuição e ao pagamento do subsídio de reestruturação familiar das vítimas de violência doméstica, da responsabilidade do sistema de segurança social, nos termos definidos no artigo 43.º-C.
