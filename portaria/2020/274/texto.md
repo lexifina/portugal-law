@@ -1,0 +1,18 @@
+Portaria n.º 274/2020
+de 27 de novembro
+Sumário: Autoriza a Secretaria-Geral do Ministério dos Negócios Estrangeiros a proceder à repartição de encargos relativos ao contrato a celebrar tendo em vista a realização de empreitada de obra pública de reabilitação parcial do Convento do Santíssimo Sacramento.
+Considerando que a Secretaria-Geral do Ministério dos Negócios Estrangeiros tem como atribuições, entre outras, gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos do MNE, bem como promover a necessária renovação desses meios, em articulação com os organismos competentes;
+Considerando que, neste âmbito, se pretende com a realização da empreitada de reabilitação parcial do Convento do Santíssimo Sacramento contribuir para a adequação do referido imóvel para a futura instalação da Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas (DGACCP);
+Considerando que o desenvolvimento da referida reabilitação deve ser realizado procurando proporcionar um espaço funcional e humanizado para todos os utilizadores e visitantes, de forma a garantir igualmente uma integração harmoniosa na sua envolvente;
+Considerando o objetivo de realização de uma construção com valor arquitetónico e características de sustentabilidade, durabilidade e flexibilidade, bem como a implementação de um eficaz sistema de manutenção e obtenção de custos controlados em termos funcionais/energéticos e de manutenção durante o seu período de vida útil;
+Do que antecede e por força da alínea b) do artigo 3.º da Lei n.º 8/2012, de 21 de fevereiro, na sua verão atual, por se tratar de uma empreitada cujo prazo de execução dos trabalhos decorrerá entre 2021 e 2022, o que dará origem a encargos orçamentais em mais de um ano económico, torna-se necessário proceder à repartição plurianual dos encargos financeiros nos termos da presente portaria de extensão de encargos.
+Assim:
+Nos termos do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, conjugado com a alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, e com o n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, todos na sua redação e vigência atuais, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros e pela Secretária de Estado do Orçamento, o seguinte:
+1.º Autorizar a Secretaria-Geral do Ministério dos Negócios Estrangeiros a proceder à repartição de encargos relativos ao contrato a celebrar tendo em vista a realização de empreitada de obra pública de reabilitação parcial do Convento do Santíssimo Sacramento, no montante total estimado de 1 869 918,70 EUR, acrescido do IVA à taxa legal em vigor de 23 %, da seguinte forma:
+2021 - 691 056,91 (euro) (seiscentos e noventa e um mil, cinquenta e seis euros e noventa e um cêntimos);
+2022 - 1 178 861,79 (euro) (um milhão, cento e setenta e oito mil, oitocentos e sessenta e um euros e setenta e nove cêntimos).
+2.º Autorizar que o eventual saldo correspondente ao montante indicado para o ano de 2021 transite para o ano económico subsequente, de acordo com a respetiva execução e hiato temporal da conclusão do procedimento pré-contratual e contratual que se venham a verificar.
+3.º Os encargos financeiros resultantes da execução da presente portaria são satisfeitos por conta de verbas inscritas ou a inscrever no orçamento de projetos da entidade Gestão Administrativa e Financeira do Ministério dos Negócios Estrangeiros.
+4.º Determinar que a presente portaria produz efeitos a partir da data da sua assinatura.
+O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva, em 19 de novembro de 2020. - A Secretária de Estado do Orçamento, Cláudia Joaquim, em 16 de novembro de 2020.
+113749527
