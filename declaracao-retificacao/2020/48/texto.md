@@ -1,0 +1,9 @@
+Declaração de Retificação n.º 48/2020
+Sumário: Retifica a Lei n.º 63/2020, de 29 de outubro, «Quinta alteração à Lei n.º 43/90, de 10 de agosto (Exercício do direito de petição)».
+Para os devidos efeitos, observado o disposto no n.º 2 do artigo 115.º do Regimento da Assembleia da República, declara-se que a Lei n.º 63/2020, de 29 de outubro, «Quinta alteração à Lei n.º 43/90, de 10 de agosto (Exercício do direito de petição)», publicada no Diário da República, 1.ª série, n.º 211, de 29 de outubro de 2020, saiu com a seguinte incorreção, que assim se retifica:
+No n.º 3 do artigo 24.º da Lei n.º 43/90, de 10 de agosto, constante do artigo 2.º da Lei n.º 63/2020, de 29 de outubro, onde se lê:
+«As petições são agendadas para Plenário no prazo máximo de 30 dias após o seu envio ao Presidente da Assembleia da República, nos termos do número anterior, descontados os períodos de funcionamento da Assembleia da República ou aqueles em que não forem convocadas reuniões plenárias por período superior a uma semana, seguindo-se a ordem de admissão das petições, com exceção dos casos em que o relatório recomendar o seu agendamento urgente para não prejudicar a atualidade do debate.»
+deve ler-se:
+«As petições são agendadas para Plenário no prazo máximo de 30 dias após o seu envio ao Presidente da Assembleia da República, nos termos do número anterior, descontados os períodos de suspensão do funcionamento da Assembleia da República ou aqueles em que não forem convocadas reuniões plenárias por período superior a uma semana, seguindo-se a ordem de admissão das petições, com exceção dos casos em que o relatório recomendar o seu agendamento urgente para não prejudicar a atualidade do debate.»
+Assembleia da República, 24 de novembro de 2020. - O Secretário-Geral, Albino de Azevedo Soares.
+113764025
