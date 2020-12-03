@@ -125,3 +125,7 @@ Lista de certificados e documentos
 47 - Certificado internacional de sistema antivegetativo.
 
 48 - Certificado de seguro ou qualquer outra garantia financeira de responsabilidade civil para o risco de poluição causada por combustível de bancas (Convenção Internacional sobre a Responsabilidade Civil por Danos resultantes da Poluição causada por Combustível de Bancas, 2001).
+
+49 - Certificado de inventário de matérias perigosas ou declaração de conformidade, consoante aplicável, nos termos do Regulamento (UE) n.º 1257/2013, do Parlamento Europeu e do Conselho, de 20 de novembro de 2013.
+
+50 - Documento de conformidade emitido ao abrigo do Regulamento (UE) n.º 2015/757, do Parlamento Europeu e do Conselho, de 29 de abril de 2015, relativo à monitorização, comunicação e verificação das emissões de dióxido de carbono provenientes do transporte marítimo, e que altera a Diretiva 2009/16/CE.
