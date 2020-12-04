@@ -1,0 +1,100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13533",
+  "numero": "165",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-12-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2021-01-20",
+        "DataArquivo": "2021-12-02",
+        "DataBaixaComissao": "2020-12-15",
+        "DataEnvioPAR": "2021-12-14",
+        "DataReaberta": "2021-01-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-01-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938314e544a6c5a5463344d533078597a4d794c5451314e6a45744f54566b4e79307a4e7a426b593249354e7a41794e4467756347526d&fich=552ee781-1c32-4561-95d7-370dcb970248.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627939684d54417a4e54677a4d533168597a45354c5451334e546b7459544d795a6930784e3256694d47526b4e545a6b597a45756347526d&fich=a1035831-ac19-4759-a32f-17eb0dd56dc1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-12-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627939694e5441355a544a6d4f4330324f5441774c5451314d445974596a5668595330785957566d5a6a5a6d4f575a6b596a67756347526d&fich=b509e2f8-6900-4506-b5aa-1aeff6f9fdb8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7444",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2020-12-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59314d546b784e7a426c4c54566b4e6d59744e475178597931684d57526c4c5451344d4749354d324d7a4e6d52685a5335775a47593d&fich=6519170e-5d6f-4d1c-a1de-480b93c36dae.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13533",
+    "PetAssunto": "Despedimento com justa causa depois de tentativa de despedimento com mútuo acordo",
+    "PetDataEntrada": "2020-12-04",
+    "PeticoesAssociadas": null,
+    "PetId": "13533",
+    "PetLeg": "XIV",
+    "PetNr": "165",
+    "PetNrAssinaturas": "3",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "O seu arquivamento, com conhecimento ao peticionário ou peticionários; A apresentação, por qualquer Deputado ou grupo parlamentar, de projeto de lei ou de resolução contendo medida legislativa ou recomendação que se mostre justificada; O conhecimento dado ao ministro competente em razão da matéria, através do Primeiro-Ministro, para eventual medida legislativa ou administrativa.",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
