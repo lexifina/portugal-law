@@ -1,0 +1,59 @@
+# Portaria n.º 783/2020
+
+**Emissor:** VICE-PRESIDÊNCIA DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES E SECRETARIAS REGIONAIS DE SAÚDE E PROTEÇÃO CIVIL E DE INCLUSÃO E SOCIAL E CIDADANIA
+
+**Publicação:** JORAM, I série, n.º 229/2020, suplemento, de 2020-12-04
+
+**Sumário:** Procede à segunda alteração à Portaria n.º 234/2018, de 20 de julho, alterada pela Portaria n.º 424/2019, de 25 de julho, que define a coordenação e composição da Rede de Cuidados Continuados Integrados da Região Autónoma da Madeira, designada abreviadamente por REDE, e estabelece as condições de instalação e funcionamento a que devem obedecer as unidades e equipas que a integram.
+
+## Texto
+
+Portaria n.º 783/2020
+de 4 de dezembro
+O XIII Governo Regional no seu programa do Governo estabelece como prioridade conceber um Modelo Regional de Cuidados Continuados Integrados, que seja uma verdadeira Rede de Suporte ao Doente, apostada nas tipologias, convalescença, média duração e reabilitação e cuidados de longa duração e manutenção, que se expanda também nas vertentes de: Cuidados Continuados Integrados de Saúde Mental e Cuidados Continuados Integrados Pediátricos.
+O contexto extraordinário e de incerteza epidemiológica, por força da progressão da pandemia COVID-19, tiveram impacto na Rede de Cuidados Continuados Integrados da RAM (REDE), determinando a imperiosa necessidade de melhorar a eficiência e a capacidade de resposta dos sistemas prestadores de cuidados de saúde, em geral e dos cuidados de longa duração, em particular, bem como tornou mais exigente o quadro de intervenções no interface entre cuidados sociais e cuidados de saúde, realçando e acentuando a necessidade de, a curto prazo, se dar início à implementação desta medida prevista no Programa do Governo Regional.
+Desde logo, como resposta às necessidades sentidas neste âmbito, o Governo Regional preparou um plano de implementação da REDE para o biénio de 2020-2021, que já contempla esta nova realidade de expansão da rede aos cuidados saúde mental e aos cuidados pediátricos, o qual foi aprovado através da Resolução n.º 773/2020, de 15 de outubro, publicada no JORAM; I série, n.º 196 de 19 de outubro, e procedeu a uma avaliação, expressa e normativa, do trajeto percorrido durante o período de relançamento da REDE que se iniciou em julho de 2018, revisitando os instrumentos e mecanismos de gestão da REDE, em vigor, Decreto Legislativo Regional n.º 9/2007/M, de 15 de março, alterado pelo Decreto Legislativo Regional n.º 30/2012/M, de 8 de novembro, regulamentado através da Portaria n.º 234/2018, de 20 de julho, alterada pela Portaria n.º 424/2019, de 25 de julho, de forma a adequá-los a esta nova realidade.
+Assim, através da presente portaria estabelece-se o enquadramento legal da expansão da REDE, aos cuidados saúde mental e aos cuidados pediátricos.
+Numa primeira fase, esta expansão apoiar-se-á no percurso nacional verificado nestas áreas, colhendo as experiências e quadro legal existente, até que se consolidem práticas e conhecimentos que permitam identificar claramente as especificidades e necessidades da RAM nestas áreas.
+Ao nível dos Cuidados Continuados Integrados de Saúde Mental, o Decreto-Lei n.º 8/2010, de 28 de janeiro, veio criar um conjunto de unidades e equipas de cuidados continuados integrados de saúde mental, que em 2015, através do Decreto-Lei n.º 136/2015, de 28 de julho, que procedeu à primeira alteração ao Decreto-Lei n.º 101/2006, de 6 de junho, e à segunda alteração ao Decreto-Lei n.º 8/2010, de 28 de janeiro, foram integradas na Rede Nacional de Cuidados Continuados Integrados, consagrando assim, de forma expressa e inequívoca a sua articulação com as unidades e equipas da REDE.
+Por sua vez, a Portaria n.º 343/2015, de 12 de outubro, posteriormente alterada pela Portaria n.º 153/2016, de 27 de maio, veio definir as condições de instalação e funcionamento das unidades de internamento e de ambulatório de cuidados continuados integrados pediátricos
+
+e os procedimentos relativos às adesões dos serviços e estabelecimentos integrados no Sistema Nacional de Saúde (SNS) e das instituições do sector social e do setor privado destinados a cuidados pediátricos que venham aderir à Rede Nacional de Cuidados Continuados Integrados (RNCCI), impulsionando a instalação e funcionamento destas unidades que haviam ficado excluídas do âmbito da aplicação da Portaria n.º 174/2014, de 10 de setembro.
+Neste contexto, através da presente portaria procede-se à alteração da Portaria n.º 234/2018, de 20 de julho, alterada pela Portaria n.º 424/2019, de 25 de julho, alargando a REDE aos Cuidados Continuados Integrados Pediátricos e integrando na sua composição o conjunto de unidades e equipas de cuidados continuados integrados de saúde mental, determinando a aplicação dos diplomas nacionais existentes nestas áreas, até que se proceda à regulamentação regional.
+No âmbito da gestão da REDE, com a extinção da Unidade de Missão para os Cuidados Continuados Integrados (UMCCI), criada pela Resolução do Conselho do Governo n.º 437/2017, de 20 de julho, pelo termo do seu prazo de duração, urge criar as condições necessárias para a existência de uma entidade que assuma a coordenação estratégia da REDE, já com esta nova dimensão, a qual deverá ter uma composição multidisciplinar e representação multissectorial, devendo os elementos que a integrem preencher critérios de formação, competência e experiência em áreas decisivas para a integração de cuidados de saúde.
+Neste enquadramento, torna-se necessário alterar a Portaria n.º 234/2018, de 20 de julho, alterada pela Portaria n.º 424/2019, de 25 de julho, de forma a efetuar alguns ajustamentos ao regime previsto naquele diploma mais consentâneos com os objetivos pretendidos.
+Assim, ao abrigo do disposto na alínea d) do artigo 69.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, com as alterações introduzidas pela Lei n.º 130/99, de 21 de agosto, e pela Lei n.º 12/2000, de 21 de junho, conjugado com o disposto no artigo 3.º do Decreto Legislativo Regional n.º 30/2012/M, de 8 de novembro, no artigo 21.º do Estatuto do Sistema Regional de Saúde, aprovado pelo Decreto Legislativo Regional n.º 4/2003/M, de 7 de abril, alterado pelo Decreto Legislativo Regional n.º 23/2008/M, de 23 de junho, na alínea g) do artigo 5.º, e no artigo 18.º do Estatuto do Sistema de Ação Social da Área de Segurança Social na Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 9/2006/M, de 18 de abril, manda o Governo Regional da Madeira, pela Vice-Presidência do Governo Regional e pelas Secretarias Regionais de Saúde e Proteção Civil e de Inclusão e Social e Cidadania, o seguinte:
+Artigo 1.º Objeto
+A presente portaria procede à segunda alteração à Portaria n.º 234/2018, de 20 de julho, alterada pela Portaria n.º 424/2019, de 25 de julho, que define a coordenação e composição da Rede de Cuidados Continuados Integrados da Região Autónoma da Madeira, adiante designada abreviadamente por REDE, e estabelece as condições de instalação e funcionamento a que devem obedecer as unidades e equipas que a integram.
+Artigo 2.º Alteração à Portaria n. .º 234/2018, de 20 de julho
+Os artigos 1.º, 2.º , 4.º e 5.º da Portaria n.º 234/2018, de 20 de julho, alterada pela Portaria n.º 424/2019, de 25 de julho, passam a ter a seguinte redação:
+
+“Artigo 1.º […]
+1 - A presente portaria define a composição e coordenação da Rede de Cuidados Continuados Integrados da Região Autónoma da Madeira, adiante designada abreviadamente por REDE.
+2 - Sem prejuízo do disposto no número seguinte e no n.º 2 do artigo 2.º, a presente portaria estabelece ainda: a) As condições de instalação e funcionamento a que devem obedecer as unidades e equipas que integram a REDE; b) Os procedimentos relativos às adesões dos serviços e estabelecimentos integrados no Sistema Regional de Saúde (SRS) e das instituições do sector social e do setor privado que adiram à REDE. c) O modelo de financiamento e fixa os preços dos cuidados prestados naquelas unidades.
+3 - As condições de instalação e funcionamento das unidades de internamento e de ambulatório de cuidados continuados integrados pediátricos, bem como os procedimentos relativos às adesões dos serviços e estabelecimentos integrados no Sistema Regional de Saúde (SRS) e das instituições do sector social e do setor privado destinados a cuidados pediátricos que adiram à REDE, e ainda o modelo de financiamento e preços dos cuidados prestados naquelas unidades, são definidos por portaria a aprovar pelos membros responsáveis pelas áreas das finanças, da saúde e da segurança social.
+4 - A presente portaria aplica-se às entidades integradas na REDE.
+Artigo 2.º […]
+1 - […].
+2 - A REDE é ainda constituída pelo conjunto de unidades e equipas de cuidados continuados integrados de saúde mental que se regem pelo disposto no Decreto-Lei n.º 8/2010, de 28 de janeiro, e respetivos diplomas que o regulamentam, sem prejuízo das adaptações e especificidades que vierem a ser aprovadas por portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde e da segurança social.
+3 - [Anterior n.º 2].
+4 - [Anterior n.º 3].
+Artigo 4.º Coordenação e estrutura da REDE
+1 - A REDE compreende a existência de um nível de coordenação estratégica para todo o território da Região Autónoma da Madeira, sem prejuízo da coordenação operacional de nível regional e local.
+2 - A coordenação estratégica da REDE é assegurada por uma entidade criada por resolução do conselho do Governo que regulamenta e define a sua composição, funcionamento e competências, podendo assumir a
+
+estrutura de Unidade de Missão, Comissão ou Coordenação.
+3 - Sem prejuízo do disposto no n.º 2 do artigo 2.º, a coordenação operacional da REDE organiza-se em dois níveis, nível regional e local, nos termos previstos nos artigos 5.º a 7.º da presente portaria.
+4 - […].
+Artigo 5.º Coordenação operacional e gestão REDE
+1 - A coordenação operacional e gestão da REDE é assegurada pela Equipa de Coordenação Regional, adiante abreviadamente designada por ECR, de constituição multidisciplinar, a designar por um período de três anos, renovável por iguais períodos, por despacho dos membros do Governo Regional responsáveis pelas áreas da saúde e da segurança social, sendo constituída por: a) […]; b) […]; c) […].
+2 - […].
+3 - […].”
+Artigo 2.º Norma transitória
+Até a aprovação da portaria a que se refere o n.º 3 do artigo 1.º com a redação dada pela presente portaria, as condições de instalação e funcionamento das unidades de internamento e de ambulatório de cuidados continuados integrados pediátrico e os procedimentos relativos às adesões dos serviços e estabelecimentos integrados no Sistema Regional de Saúde (SRS) e das instituições do sector social e do setor privado destinados a cuidados pediátricos que adiram à REDE, regem-se pelo disposto na Portaria n.º 343/2015, de 12 de outubro, alterada pela Portaria n.º 153/2016, de 27 de maio, sem prejuízo das adaptações que vierem a ser aprovadas por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas previstas naquele normativo.
+Artigo 3.º Entrada em vigor e produção de efeitos
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de dezembro de 2020.
+Vice-Presidência do Governo Regional e dos Assuntos Parlamentares, Secretaria Regional de Saúde e da Proteção Civil e Secretaria Regional de Inclusão Social e Cidadania, no Funchal, aos 29 dias do mês de novembro de 2020.
+O VICE-PRESIDENTE DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES, Pedro Miguel Amaro de Bettencourt Calado
+O SECRETÁRIO REGIONAL DE SAÚDE E PROTEÇÃO CIVIL, Pedro Miguel de Câmara Ramos
+A SECRETÁRIA REGIONAL DE INCLUSÃO SOCIAL E CIDADANIA, Augusta Ester Faria de Aguiar
