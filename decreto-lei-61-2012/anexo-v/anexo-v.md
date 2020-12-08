@@ -129,3 +129,9 @@ Lista de certificados e documentos
 49 - Certificado de inventário de matérias perigosas ou declaração de conformidade, consoante aplicável, nos termos do Regulamento (UE) n.º 1257/2013, do Parlamento Europeu e do Conselho, de 20 de novembro de 2013.
 
 50 - Documento de conformidade emitido ao abrigo do Regulamento (UE) n.º 2015/757, do Parlamento Europeu e do Conselho, de 29 de abril de 2015, relativo à monitorização, comunicação e verificação das emissões de dióxido de carbono provenientes do transporte marítimo, e que altera a Diretiva 2009/16/CE.
+
+51 - Documento de conformidade das condições de vida e de trabalho a bordo de navio ou embarcação de pesca (Convenção n.º 188).
+
+52 - Certificado ou documento equivalente da garantia financeira para o repatriamento (MLC, 2006, emendada).
+
+53 - Certificado ou documento equivalente da garantia financeira relativa à responsabilidade dos armadores (MLC, 2006, emendada).
