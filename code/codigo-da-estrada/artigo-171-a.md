@@ -2,4 +2,8 @@
 
 ### Dispensa de procedimento
 
-O disposto no artigo 170.º não se aplica às infrações cometidas pelos agentes das forças e serviços de segurança e órgãos de polícia criminal quando aquelas decorram do exercício das suas funções e no âmbito de missão superiormente autorizada ou legalmente determinada e desde que confirmada por declaração da entidade competente.
+A prática de factos tipificados como contraordenação que se encontre justificada ao abrigo do artigo 64.º não dá lugar à instauração de procedimento quando:
+
+a) Tratando-se de agentes das forças e serviços de segurança e órgãos de polícia criminal, a entidade competente declarar que os factos foram praticados no âmbito da sua missão; ou
+
+b) Tratando-se de condutores de veículos em missão urgente de prestação de socorro ou em serviço urgente de interesse público, a entidade com competência de direção, tutela ou superintendência sobre o condutor juntar os fundamentos da justificação e respetiva prova, no prazo de 15 dias úteis após notificação da autoridade ou agente de autoridade.
