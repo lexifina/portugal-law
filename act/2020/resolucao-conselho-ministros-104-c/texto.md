@@ -1,0 +1,23 @@
+Resolução do Conselho de Ministros n.º 104-C/2020
+Sumário: Autoriza a Autoridade Tributária e Aduaneira a realizar a despesa com a aquisição de modelo de licenciamento empresarial para o software e serviços de suporte da sua infraestrutura.
+A Autoridade Tributária e Aduaneira (AT) adotou no início da informatização do seu negócio uma arquitetura baseada na plataforma mainframe, remontando a sua utilização ao ano de 1986. Ao longo do tempo a estratégia dos sistemas de informação tem vindo a ser adaptada por forma a acompanhar a arquitetura dos sistemas aplicacionais tendo a plataforma mainframe acompanhado essa evolução.
+Ao longo dos últimos 30 anos, a AT contratou à International Business Machines Corporation (IBM) os serviços de manutenção (HW e SW), suporte e novo licenciamento através de diversos contratos anuais. Só em 2019, com a autorização conferida pela Resolução do Conselho de Ministros n.º 71/2018, de 4 de junho, e, na sequência do concurso público com publicidade internacional 29/CP/AT/2018, a AT contratou à IBM por via do Modelo de Licenciamento Empresarial (ELA - Enterprise Licensing Agreement) o licenciamento para todo o software IBM e encargos de suporte de software, bem como o suporte do hardware IBM, que termina a 31 de dezembro de 2020.
+O Modelo de Licenciamento Empresarial é, por definição, um contrato plurianual (três anos) e baseia-se no binómio compromisso e redução de custos através da flexibilidade e previsibilidade de encargos, para além de reduzir drasticamente o volume dos procedimentos de contratação para esta plataforma ao consolidar acordos dispersos, centralizando e simplificando o processo de aquisição e reduzindo custos administrativos inerentes a procedimentos individuais e anuais.
+Atendendo à complexidade e ao vasto âmbito de aplicação do modelo de licenciamento empresarial pretendido, para um prazo de três anos, que se prevê abranger os anos de 2021 a 2023, o valor estimado da despesa ascende ao montante de (euro) 23 246 030,99, ao qual acresce o IVA à taxa legal em vigor.
+Considerando o valor estimado da despesa a realizar e que se prefigura que os encargos orçamentais decorrentes do contrato a celebrar se repartem em mais do que um ano económico, torna-se, para o efeito, necessário obter as devidas e competentes autorizações.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 20.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve o seguinte:
+1 - Autorizar a Autoridade Tributária e Aduaneira (AT) a proceder à aquisição de um modelo de licenciamento empresarial para o software e serviços de suporte da infraestrutura existente na AT, para o período de 2021 a 2023, mediante recurso ao procedimento de concurso público com publicação de anúncio no Jornal Oficial da União Europeia, até ao montante global de (euro) 23 246 030,99, ao qual acresce o IVA à taxa legal em vigor, repartida pelos seguintes lotes:
+a) Lote 1: licenciamento, subscrição e suporte de software, no montante de (euro) 17 422 193,29;
+b) Lote 2: evolução dos equipamentos mainframe e manutenção de hardware, no montante de (euro) 5 823 837,70.
+2 - Determinar que os encargos orçamentais resultantes do procedimento referido no número anterior não podem exceder, em cada ano económico, os montantes previstos no anexo à presente resolução e da qual faz parte integrante, aos quais acresce IVA à taxa legal em vigor.
+3 - Estabelecer que as importâncias fixadas para cada ano económico podem ser acrescidas do saldo apurado no ano que lhe antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever no orçamento da AT.
+5 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área das finanças a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 4 de dezembro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+ANEXO
+(a que se refere o n.º 2)
+
+(ver documento original)
+113803415
