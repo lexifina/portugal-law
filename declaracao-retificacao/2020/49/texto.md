@@ -1,0 +1,13 @@
+Declaração de Retificação n.º 49/2020
+Sumário: Retifica a Resolução do Conselho de Ministros n.º 102/2020, de 20 de novembro, que reconhece a verificação de condições excecionais e permite o recurso ao Fundo de Emergência Municipal para a concessão de auxílios financeiros aos municípios afetados pelas depressões Elsa e Fabien.
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, na sua redação atual, conjugadas com o disposto no n.º 1 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, declara-se que a Resolução do Conselho de Ministros n.º 102/2020, de 20 de novembro, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+1 - No 1.º parágrafo do preâmbulo, onde se lê:
+«As depressões Elsa e Fabien atingiram o território português entre os dias 17 e 22 de dezembro de 2019, provocando um conjunto de danos e prejuízos significativos em infraestruturas e equipamentos de autarquias locais, afetando sobretudo os distritos de Aveiro, Braga Coimbra, Leiria, Lisboa, Porto, Viana do Castelo, Vila Real e Viseu.»
+deve ler-se:
+«As depressões Elsa e Fabien atingiram o território português entre os dias 17 e 22 de dezembro de 2019, provocando um conjunto de danos e prejuízos significativos em infraestruturas e equipamentos de autarquias locais, afetando sobretudo os distritos de Aveiro, Braga, Castelo Branco, Coimbra, Guarda, Leiria, Lisboa, Porto, Santarém, Viana do Castelo, Vila Real e Viseu.»
+2 - No n.º 1, onde se lê:
+«1 - Reconhecer como ocorrências naturais de caráter excecional as depressões Elsa e Fabien ocorridas entre os dias 17 e 22 de dezembro de 2019, afetando particularmente os distritos de Aveiro, Braga Coimbra, Leiria, Lisboa, Porto, Viana do Castelo, Vila Real e Viseu, designadamente para efeitos de recurso ao Fundo de Emergência Municipal, nos termos do n.º 2 do artigo 115.º da Lei n.º 2/2020, de 31 de março, na sua redação atual.»
+deve ler-se:
+«1 - Reconhecer como ocorrências naturais de caráter excecional as depressões Elsa e Fabien ocorridas entre os dias 17 e 22 de dezembro de 2019, afetando particularmente os distritos de Aveiro, Braga, Castelo Branco, Coimbra, Guarda, Leiria, Lisboa, Porto, Santarém, Viana do Castelo, Vila Real e Viseu, designadamente para efeitos de recurso ao Fundo de Emergência Municipal, nos termos do n.º 2 do artigo 115.º da Lei n.º 2/2020, de 31 de março, na sua redação atual.»
+Secretaria-Geral, 9 de dezembro de 2020. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+113793712
