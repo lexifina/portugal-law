@@ -1,0 +1,7 @@
+Aviso n.º 20221/2020
+Sumário: Projeto de alteração ao Regulamento dos Mercados Locais de Produtores de Sátão.
+Projeto de Alteração ao Regulamento dos Mercados Locais de Produtores de Sátão
+Paulo Manuel Lopes dos Santos, Presidente da Câmara Municipal de Sátão, torna público que nos termos do artigo 56.º da Lei n.º 75/2013, de 12 de setembro e em cumprimento do artigo 101.º do Código do Procedimento Administrativo aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro e ainda na sequência da deliberação tomada em reunião ordinária da Câmara Municipal realizada em 20 de novembro de 2020 se encontra em período de consulta pública, pelo prazo de trinta dias úteis a contar da data de publicação no Diário da República do presente Aviso, o Projeto de Alteração ao Regulamento dos Mercados Locais de Produtores de Sátão.
+Assim, poderão os interessados consultar o citado documento na Unidade Jurídica e Contencioso, nos dias úteis das 09:00 horas às 13:00 horas e das 14:00 horas às 17:00 horas ou na página do Município em www.cm-satao.pt. e apresentarem as sugestões que entenderem por convenientes, devendo estas serem formuladas por escrito e dirigidas ao Presidente da Câmara Municipal e que poderão ser entregues no Gabinete de Atendimento ao Munícipe, enviadas para a Praça Paulo VI, 3560-154 Sátão ou através de correio eletrónico para o endereço geral@cm-satao.pt.
+24 de novembro de 2020. - O Presidente da Câmara, Paulo Manuel Lopes dos Santos.
+313766131
