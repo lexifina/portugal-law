@@ -2,13 +2,13 @@
 
 ### Limites ao apoio financeiro
 
-1 - Nos termos do disposto nos n.os 6 e 7 do artigo 40.º da Lei n.º 23/2006, de 23 de Junho, nas modalidades de apoio financeiro pontual e anual são elegíveis as despesas de estrutura até 30%.
+1 - Nos termos do disposto nos n.os 6 e 7 do artigo 40.º da Lei n.º 23/2006, de 23 de junho nas modalidades de apoio financeiro pontual e anual são elegíveis as despesas de estrutura, incluindo funcionamento e recursos humanos, até 40 %
 
 2 - Sobre o orçamento global da candidatura, o IPJ financia:
 
 a) As associações juvenis, organizações equiparadas nos termos do n.º 3 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, e federações, até 70%;
 
-b) As entidades equiparadas a associações juvenis nos termos do n.º 4 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, até 60%;
+b) (Revogada.)
 
 c) Os grupos informais de jovens, até 50%.
 
@@ -24,6 +24,6 @@ c) Os grupos informais de jovens, até 50%.
 
 8 - As associações não podem beneficiar simultaneamente de apoio anual e apoio bienal no mesmo ano.
 
-9 - Na modalidade de apoio bienal são elegíveis até 30% as despesas de consumíveis, nomeadamente água, electricidade, telefone, correio, gás, bem como despesas efectuadas com contratações e remunerações de pessoal técnico.
+9 - Na modalidade de apoio bienal, as despesas de consumíveis, nomeadamente água, eletricidade, telefone, correio, gás, bem como as despesas efetuadas com contratações e remunerações de pessoal técnico, são elegíveis, até 40 %.
 
-10 - As associações beneficiárias devem garantir um limite mínimo de autofinanciamento em 30% do valor do projecto.
+10 - O apoio financeiro atribuído às associações sediadas fora do território nacional é calculado, atendendo aos valores médios, nacionais e totais, dos valores apresentados pelas associações candidatas.

@@ -2,16 +2,16 @@
 
 ### Transferências financeiras
 
-1 - A transferência dos apoios financeiros a conceder no âmbito deste Programa é feita da seguinte forma:
+1 - A disponibilização da verba concedida através dos apoios financeiros no âmbito deste Programa é feita da seguinte forma:
 
-a) Na modalidade de apoio anual e no ano seguinte ao da candidatura:
+a) Na modalidade de apoio anual:
 
-i) 60 % do valor total, numa primeira tranche, entre até 30 de Maio;
+i) 70 % do valor total, de uma única vez, entre 15 de abril e 30 de maio do ano seguinte ao da candidatura;
 
-ii) 40% do valor total numa segunda tranche até 31 de dezembro, após entrega do relatório intercalar, em formato a disponibilizar pelo IPDJ, I. P..
+ii) Os restantes 30 %, 15 dias após entrega de relatório intercalar em formato a disponibilizar pelo IPDJ, I. P.;
 
-b) Na modalidade de apoio pontual:
+b) [...]
 
-i) 100% da verba de apoio aprovada, a transferir até 20 dias depois da comunicação da aprovação do projeto.
+i) 100 %, 30 dias antes do início da atividade aprovada.
 
-2 - As associações beneficiárias devem publicitar, de forma visível, o apoio concedido pelo IPJ.
+2 - As associações beneficiárias devem publicitar, de forma visível, o apoio concedido pelo IPDJ, I. P.

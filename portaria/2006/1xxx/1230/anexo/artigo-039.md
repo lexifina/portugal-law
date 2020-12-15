@@ -6,10 +6,12 @@
 
 ### Prémio de execução
 
-1 - O IPJ atribui um prémio anual por distrito, ou região, à entidade que, do resultado da avaliação final dos projectos de candidatura apoiados, obtenha melhor execução.
+1 - O IPDJ, I. P., atribui um prémio anual por distrito, ou região NUTS II, à entidade que, do resultado da avaliação final de um dos projetos de candidatura apoiados, obtenha a melhor ponderação.
 
-2 - O valor a atribuir é definido, anualmente, pelo presidente do IPJ.
+2 - O valor do prémio a atribuir é definido, anualmente, pelo conselho diretivo do IPDJ, I. P.
 
-3 - Em caso de empate será considerado como primeiro critério de desempate o impacte do projecto no meio, através da análise das modificações esperadas e sua importância, e como segundo critério o impacte do projecto na associação, igualmente através da análise das modificações esperadas e sua importância.
+3 - (Revogado.)
 
-4 - Para efeitos de apreciação do primeiro critério é também considerada a opinião emitida pela competente direcção regional.
+4 - (Revogado.)
+
+5 - O prémio é atribuído, mediante candidatura, por um júri constituído em cada distrito ou região NUTS II, cabendo ao IPDJ, I. P., a designação do seu presidente.

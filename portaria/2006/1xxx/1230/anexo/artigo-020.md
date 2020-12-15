@@ -22,8 +22,8 @@ c) Três propostas de orçamento por equipamento a adquirir.
 
 3 - A apresentação dos documentos referidos na alínea a) dos números anteriores não é obrigatória sempre que as associações já os tenham entregue, para o mesmo ano, nos Programas PAJ ou PAE.
 
-4 - Apenas se apoia a cedência do direito de superfície quando esta seja, pelo menos, por 50 anos.
+4 - Apenas se apoia a cedência do direito de superfície quando esta seja, pelo menos, por 20 anos.
 
-5 - Os documentos referidos nos números anteriores são entregues nos serviços centrais do IPJ por depósito ou carta registada com aviso de recepção.
+5 - Os documentos referidos nos números anteriores são entregues nos serviços do IPDJ, I. P., por depósito, por carta registada com aviso de receção ou por via eletrónica.
 
-6 - Na avaliação das candidaturas apresentadas ao abrigo do disposto na alínea a) do artigo anterior dá-se prioridade às que apresentem infra-estruturas partilhadas por mais de uma associação.
+6 - Na avaliação das candidaturas apresentadas ao abrigo do disposto na alínea a) do artigo 18.º dá-se prioridade àquelas que apresentem infraestruturas partilhadas por mais de uma associação, devendo tal partilha encontrar-se formalizada por via de documento escrito.

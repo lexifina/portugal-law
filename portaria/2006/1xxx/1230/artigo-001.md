@@ -8,4 +8,6 @@ a) Programa de Apoio Juvenil (PAJ);
 
 b) Programa de Apoio Infra-Estrutural (PAI);
 
-c) Programa de Apoio Estudantil (PAE).
+c) Programa de Apoio Estudantil (PAE);
+
+d) Programa de Apoio às Associações de Caráter Juvenil (PAACJ).

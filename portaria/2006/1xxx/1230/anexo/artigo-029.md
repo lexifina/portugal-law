@@ -8,4 +8,4 @@ a) Plano de actividades para um ano económico, que discrimine os objectivos a a
 
 b) Orçamento detalhado para as actividades a decorrer no ano civil em causa.
 
-2 - Os documentos referidos nos números anteriores são entregues nos serviços centrais do IPJ por depósito ou carta registada com aviso de recepção.
+2 - Os documentos referidos nos números anteriores são entregues nos serviços do IPDJ, I. P., por depósito, por carta registada com aviso de receção ou por via eletrónica.

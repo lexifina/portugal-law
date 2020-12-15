@@ -8,7 +8,7 @@ a) Descrição dos objectivos a atingir, das actividades a realizar, da respecti
 
 b) Orçamento detalhado.
 
-2 - Os documentos referidos nos números anteriores são entregues nos serviços do IPJ por depósito ou carta registada com aviso de recepção.
+2 - Os documentos referidos nos números anteriores são entregues nos serviços do IPDJ, I. P., por depósito, carta registada com aviso de receção ou via eletrónica.
 
 3 - Na avaliação dos critérios definidos dar-se-á prioridade às candidaturas que preencham os seguintes itens:
 
@@ -18,4 +18,4 @@ b) Actividades de índole internacional;
 
 c) Actividades organizadas, conjuntamente, entre associações.
 
-4 - Salvaguardadas as entidades e organizações equiparadas nos termos dos n.os 3 e 4 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, não são apoiadas as acções pontuais que decorram da regular actividade das associações juvenis e respectivas federações.
+4 - (Revogada).

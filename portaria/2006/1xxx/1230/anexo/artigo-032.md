@@ -1,9 +1,13 @@
 # Artigo 32.º
 
-### Reorçamentação
+### Atribuição do valor de apoio e reorçamentação
 
-É permitido às associações reorçamentarem o seu projecto, após comunicação do apoio concedido, nos termos das seguintes regras e opções:
+1 - Após ser comunicado o valor do apoio inicial, as associações beneficiárias dispõem de 10 dias para apresentar uma proposta para a sua distribuição pelos projetos contidos no plano de atividades.
 
-a) Sempre que a associação desista de qualquer actividade financiada, perderá automaticamente o apoio correspondente ao valor para aquela calculado;
+2 - Sem prejuízo do disposto no número anterior, as associações beneficiárias podem apresentar proposta de reorçamentação de um projeto quando o plano de atividades tem menos de quatro projetos e até 25 % do total de projetos quando o número destes é igual ou superior a quatro.
 
-b) É permitido à associação diminuir o orçamento previsto para as actividades a apoiar até ao limite de 70% do valor do projecto, desde que não modifique os objectivos quantitativos e qualitativos apresentados em sede de candidatura.
+3 - No âmbito da reorçamentação prevista no número anterior, o orçamento previsto pelas associações beneficiárias pode ser reduzido por estas, no valor máximo de 40 % do orçamento para as despesas e no valor máximo de 20 % para as receitas, desde que não sejam alterados os objetivos quantitativos e qualitativos apresentados em sede de candidatura, os respetivos rácios e os limites financeiros de apoio previstos no presente regulamento.
+
+4 - Por cada projeto aprovado de que a associação desista, perderá automaticamente 10 % do apoio total atribuído à candidatura.
+
+5 - A candidatura é indeferida se, por motivo de reorçamentação ou desistência de projetos, o IPDJ, I. P., verificar que os objetivos quantitativos ou qualitativos fixados em sede de candidatura aprovada não são cumpridos.

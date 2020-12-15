@@ -8,7 +8,7 @@ a) Descrição dos objectivos a atingir, das actividades a realizar e respectiva
 
 b) Orçamento detalhado.
 
-2 - Na avaliação dos critérios definidos dar-se-á prioridade às candidaturas que preencham os seguintes itens:
+2 - Na avaliação dos critérios definidos, no caso das associações de estudantes do ensino superior, dar-se-á prioridade às candidaturas que preencham os seguintes itens:
 
 a) Actividades que, pela sua natureza, ocorram apenas uma vez;
 
@@ -16,4 +16,10 @@ b) Actividades de índole internacional;
 
 c) Actividades organizadas, conjuntamente, entre associações ou federações.
 
-3 - Não são apoiadas as acções pontuais que decorram da regular actividade das associações de estudantes e respectivas federações.
+3 - Não são apoiadas as ações pontuais que decorram da regular atividade das associações de estudantes do ensino superior e respetivas federações.
+
+4 - Na avaliação dos critérios definidos, no caso das associações de estudantes do ensino básico e secundário, dar-se-á prioridade às candidaturas que preencham os seguintes itens:
+
+a) Atividades regulares da associação;
+
+b) Atividades organizadas, conjuntamente, entre associações ou federações.

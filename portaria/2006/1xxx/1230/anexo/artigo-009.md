@@ -1,151 +1,227 @@
 # Artigo 9.º
 
-### Método de atribuição do apoio bienal
+### Fórmula do apoio bienal
 
-1 - O apoio bienal a conceder às associações juvenis e organizações equiparadas nos termos do n.º 3 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, obedece à seguinte fórmula e ponderação de critérios:
+1 - O apoio bienal a conceder às associações juvenis e organizações equiparadas obedece à seguinte fórmula e ponderação de critérios:
 
-a) Para as que beneficiaram de apoio financeiro no âmbito de candidatura apresentada no ano anterior:
+a) Para as que beneficiaram de apoio financeiro no âmbito de candidatura apresentada no biénio anterior:
 
-VB (valor base) = 2 x (75% do valor que a associação recebeu em candidatura do ano anterior + Equação 1)
+VB (valor base) = 50 % do valor que a associação recebeu em candidatura do biénio anterior + Equação 1 + Equação 2
 
 em que:
 
-Equação 1 = 0,25 x DN x (Número de associados jovens da associação/Número de associados jovens do total de associações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTT da associação/taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTT da associação/Taxa de população jovem do País) x FMR x FV x FD
+Equação 1 = RDN x (Número de associados jovens da associação/Número de associados jovens do total de associações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTS II da associação/Taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTS II da associação/Taxa de população jovem do País);
+
+Equação 2 = RDN2 x [(VE + QLP + QTP)/Total de pontos obtidos por todas as candidaturas)].
 
 atendendo a que:
 
-DN = dotação nacional do PAJ - apoio anual;
+O valor da dotação é aplicado em três fases:
 
-FMR = multiplicador de aplicação dos critérios descritos na lei;
+i) Valor base das associações com candidatura no biénio anterior e com apoio ao incentivo ao desenvolvimento;
 
-FV = multiplicador de aplicação de valor por dimensão da associação;
+ii) O valor remanescente da subalínea i) é distribuído de acordo com a equação 1;
 
-FD = multiplicador de distribuição geográfica.
+iii) O valor remanescente das subalíneas ii) e iii), é distribuído até se esgotar a dotação total através da aplicação da equação 2.
 
-Apura-se o valor FV por aplicação dos seguintes critérios:
+RDN = remanescente da dotação nacional do PAJ - apoio bienal;
 
-Associações até 1000 associados = 1;
+RDN2 = remanescente da aplicação da equação 1;
 
-Associações com mais de 1000 e até 5000 associados = 0,9;
+VE = valorização da entidade e do seu contexto;
 
-Associações com mais de 5000 e até 7000 associados = 0,8;
+QLP = impacto qualitativo do projeto;
 
-Associações com mais de 7000 e até 10000 associados = 0,7;
+QTP = impacto quantitativo do projeto.
 
-Associações com mais de 10000 até 20000 associados = 0,6;
+Aos valores de VE, QLP e QTP, corresponderá uma pontuação a definir anualmente por despacho do conselho diretivo do IPDJ, I. P.
 
-Associações com mais de 20000 associados = 0,5.
+Apura-se o valor VE por aplicação dos seguintes critérios:
 
-Apura-se o valor FD por aplicação dos seguintes critérios:
+Associações com intervenção junto de jovens em elevado risco de exclusão social:
 
-Associações que desenvolvam actividades com carácter regular em mais de seis distritos do País = 1,20;
+Jovens em risco de pobreza ou em situação NEET: sim ou não;
 
-Associações que desenvolvam actividades com carácter regular em mais de três e até seis distritos do País = 1,15;
+Jovens com deficiência: sim ou não;
 
-Associações que desenvolvam actividades com carácter regular em pelo menos três distritos do País = 1.
+Jovens que apresentam insucesso ou abandono escolar: sim ou não;
 
-Apura-se o valor FMR tendo em conta a ponderação dos seguintes critérios, todos eles com três intervalos. A cada intervalo corresponderá uma pontuação a definir pelo presidente do IPJ:
+Jovens pertencentes a minorias culturais e jovens de origem imigrante ou refugiados: sim ou não;
+
+Jovens com vulnerabilidade ao nível da saúde: sim ou não;
+
+Jovens residentes em zonas rurais ou zonas urbanas de intervenção prioritária: sim ou não;
+
+Jovens em risco de discriminação em razão do sexo, etnia, orientação sexual ou identidade de género: sim ou não.
+
+Associações que tenham, nos seus órgãos, entre os trabalhadores ou prestadores de serviço, Técnico/s de Juventude com a devida habilitação profissional: sim ou não.
+
+Execução do plano de atividades de candidatura do ano anterior:
+
+Cumprimento de mais de 75 % das atividades;
+
+Cumprimento em mais de 50 % e até 75 % das atividades;
+
+Cumprimento em mais de 25 % e até 50 % das atividades;
+
+Cumprimento até 25 % das atividades.
+
+Desenvolvimento do território:
+
+Sede da associação em território do interior: sim ou não.
+
+Apura-se o valor QLP, por aplicação dos seguintes critérios:
+
+Intervenção em área prioritária do Plano Nacional para a Juventude: sim ou não.
+
+Integração de parcerias com entidades públicas e/ou privadas:
+
+Parcerias formalizadas com o movimento associativo jovem no distrito sede da associação;
+
+Parcerias formalizadas com o movimento associativo jovem noutros distritos do País;
+
+Parcerias formalizadas com outras entidades privadas;
+
+Parcerias formalizadas com entidades públicas.
+
+Abrangência temporal das atividades:
+
+Projeto com atividades nos 24 meses do biénio;
+
+Projeto com atividades em 12 meses do biénio;
+
+Projeto com atividades em menos de 12 meses do biénio.
+
+Abrangência territorial das atividades:
+
+Projetos que envolvam intervenção regular num distrito;
+
+Projetos que envolvam intervenção regular em dois distritos;
+
+Projetos que envolvam intervenção regular em três ou mais distritos.
+
+Caráter inovador do projeto:
+
+Apresenta elementos internos de inovação (metodologia; avaliação; divulgação; tipo de recursos utilizados; sinergias);
+
+Apresenta elementos externos de inovação (tipo de participantes; novas atividades desenvolvidas; oferta local inexistente ou reduzida; sinergias com entidades de referência na região).
+
+Coerência e fundamentação dos elementos do projeto:
+
+Clareza e definição de objetivos gerais e específicos: sim ou não;
+
+Descrição clara e coerente de atividades e metodologia: sim ou não;
+
+Descrição e adequação do processo de Avaliação: sim ou não;
+
+Recursos e orçamento equilibrado: sim ou não.
+
+Caráter de paridade entre os participantes:
+
+Participação até 55 % de jovens do mesmo sexo;
+
+Participação de jovens do mesmo sexo em mais de 55 % e até 60 %;
+
+Participação de jovens do mesmo sexo em mais de 60 %.
+
+Apura-se o valor QTP tendo em conta a ponderação dos seguintes critérios, todos com três intervalos.
 
 Capacidade de autofinanciamento:
 
-30% de autofinanciamento;
+30 % de autofinanciamento;
 
-Mais de 30% e até 40% de autofinanciamento;
+Mais de 30 % e até 40 % de autofinanciamento;
 
-Mais de 40% de autofinanciamento;
+Mais de 40 % de autofinanciamento.
 
-Número de jovens a abranger nas actividades:
+Número de jovens a abranger nas atividades:
 
-Participação inferior a 3000 jovens no biénio;
+Participação de mais de 6000 jovens no biénio;
 
-Participação de 3000 a 6000 jovens no biénio;
+Participação de 3000 e até 6000 jovens no biénio;
 
-Participação superior a 6000 jovens no biénio;
+Participação inferior a 3000 jovens no biénio.
 
-Equilíbrio entre jovens de ambos os sexos e promoção de finalidades convergentes com a valorização da igualdade de género:
+Rácio entre despesas com recursos humanos e funcionamento e custo total do projeto:
 
-Participação até 55% de jovens de um género;
+Menos de 10 %;
 
-Participação de um género em mais de 55% e até 60%;
+De 10 % até 20 %;
 
-Participação de um género em mais de 60%;
+Mais de 20 % e até 40 %.
 
-Cumprimento das actividades incluídas no plano de actividades apresentado ao IPJ em candidatura anterior:
+b) Para as que se candidatem sem benefício do histórico e estejam inscritas no RNAJ há mais de três anos:
 
-Cumprimento em mais de 75% das actividades;
-
-Cumprimento em mais de 50% e até 75% das actividades;
-
-Cumprimento em mais de 25% e até 50% das actividades;
-
-Cumprimento em menos de 25% das actividades;
-
-Regularidade das actividades ao longo dos anos:
-
-50% das actividades nos dois anos;
-
-Mais de 50% e até 75% das actividades em dois anos;
-
-Mais de 75% das actividades nos dois anos;
-
-Rácio entre despesas com recursos humanos e funcionamento com custo total do projecto:
-
-Menos de 10%;
-
-De 10% até 20%;
-
-Mais de 20% e até 30%;
-
-Capacidade de estabelecer parcerias:
-
-Mais de nove parcerias no projecto;
-
-De uma até nove parcerias no projecto;
-
-Nenhuma parceria no projecto.
-
-Sendo que:
-
-FMR = Soma dos pontos obtidos nos critérios/100
-
-(No mínimo, considera-se sempre FMR = 0,5. A soma da pontuação máxima de todos os critérios não pode ser inferior a 100.)
-
-b) Para as que se candidatem pela primeira vez:
-
-VB (valor base) = 2 x (Equação 2)
+VB (valor base) = Equação 1 + Equação 2
 
 em que:
 
-Equação 2 = DN x (Número de associados jovens da associação/Número de associados jovens do total de associações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTT da associação/Taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTT da associação/Taxa de população jovem do País) x FMR x FV x FD
+Equação 1 = RDN x (Número de associados jovens da associação/Número de associados jovens do total de associações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTS II da associação/Taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTS II da associação/Taxa de população jovem do País) + Equação 2;
 
-sendo de apurar os factores FMR, FV e FD de acordo com os critérios previstos na alínea anterior;
+A equação 2 é apurada de acordo com os critérios previstos na alínea anterior.
 
-c) Ao valor base (VB) de cada associação juvenil ou organismo seu equiparado acresce um valor remanescente (VR) resultado da seguinte fórmula:
+O valor da dotação é aplicado em três fases:
 
-VR = (2 x DN-Somatório das equações 1 e 2 de todas as associações juvenis apoiadas)/Número de associações juvenis apoiadas)
+i) Valor base das associações com candidatura no biénio anterior e com apoio ao incentivo ao desenvolvimento;
+
+ii) O valor remanescente da subalínea i) é distribuído de acordo com a equação 1;
+
+iii) O valor remanescente das subalíneas i) e ii), é distribuído através da aplicação da equação 2.
+
+c) Para as entidades que estiverem inscritas consecutivamente no RNAJ, há menos de três anos, cumprindo integralmente as obrigações decorrentes do programa:
+
+VB (valor base) = ID Incentivo ao Desenvolvimento + Equação 1 + Equação 2
+
+em que:
+
+(ID será um valor a determinar anualmente em despacho do conselho diretivo do IPDJ, I. P., sendo que este terá um valor mínimo correspondente a duas vezes o IAS.)
+
+Equação 1 = RDN x (Número de associados jovens da associação/Número de associados jovens do total de associações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTS II da associação/Taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTS II da associação/Taxa de população jovem do País) + Equação 2;
+
+Sendo de apurar a equação 2 de acordo com os critérios previstos na alínea a) do n.º 1.
+
+O valor da dotação é aplicado em três fases:
+
+i) Valor base das associações com candidatura no biénio anterior e com apoio ao incentivo ao desenvolvimento;
+
+ii) O valor remanescente da alínea a) é distribuído de acordo com a equação 1;
+
+iii) O valor remanescente das alíneas a) e b), é distribuído através da aplicação da equação 2.
 
 2 - O apoio bienal a conceder às federações de associações juvenis obedece à seguinte fórmula e ponderação de critérios:
 
-a) Para as que beneficiaram de apoio financeiro no âmbito de candidatura apresentada no ano anterior:
+a) Para as que beneficiaram de apoio financeiro no âmbito de candidatura apresentada no biénio anterior:
 
-VB (valor base) = 2 x (75% do valor que a associação recebeu na última candidatura efectuada + Equação 3)
-
-em que:
-
-Equação 3 = 0,25 x DN x (Número de associados jovens da federação/Número de associados jovens do total de federações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTT da associação/Taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTT da associação/Taxa de população jovem do País) x FMR x FV x FD
-
-sendo de apurar os factores FMR, FV e FD de acordo com os critérios previstos na alínea a) do n.º 1;
-
-b) Para as que se candidatem pela primeira vez:
-
-VB (valor base) = 2 x (Equação 4)
+VB (valor base) = 50 % do valor que a federação recebeu na última candidatura efetuada + Equação 1 + Equação 2
 
 em que:
 
-Equação 4 = DN x (Número de associados jovens da associação/Número de associados jovens do total de associações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTT da associação/Taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTT da associação/Taxa de população jovem do País) x FMR x FV x FD
+Equação 1 = RDN x (Número de associados jovens das associações da federação/Número de associados jovens das associações do total de federações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTS II da federação/ Taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTS II da federação/Taxa de população jovem do País) + Equação 2;
 
-sendo de apurar os factores FMR, FV e FD de acordo com os critérios previstos na alínea a) do n.º 1;
+A equação 2 é apurada de acordo com os critérios previstos na alínea a) do n.º 1.
 
-c) Ao valor base (VB) de cada federação juvenil acresce um valor remanescente (VR) resultante da seguinte fórmula:
+O valor da dotação é aplicado em três fases:
 
-VR = (2 x DN - Somatório do valor base de todas as federações de associações juvenis do País)/Número de federações de associações juvenis apoiadas
+i) Valor base das federações com candidatura no biénio anterior e com apoio ao incentivo ao desenvolvimento;
+
+ii) O valor remanescente da alínea i) é distribuído de acordo com a equação 1;
+
+iii) O valor remanescente das alíneas ii) e ii), é distribuído através da aplicação da equação 2.
+
+b) Para as que se candidatem sem benefício do histórico:
+
+VB (valor base) = Equação 1 + Equação 2
+
+em que:
+
+Equação 1 = RDN x (Número de associados jovens das associações da federação/Número de associados jovens do total de associações das federações que se tenham candidatado) x (Taxa de desemprego jovem da região NUTS II da federação/ Taxa de desemprego jovem do País) x (Taxa de população jovem da região NUTS II da federação/Taxa de população jovem do País) + Equação 2;
+
+A equação 2 é apurada de acordo com os critérios previstos na alínea a) do n.º 1.
+
+O valor da dotação é aplicado em três fases:
+
+i) Valor base das federações com candidatura no biénio anterior e com apoio ao incentivo ao desenvolvimento;
+
+ii) O valor remanescente da subalínea i) é distribuído de acordo com a equação 1;
+
+iii) O valor remanescente das subalíneas i) e ii), é distribuído através da aplicação da equação 2.
