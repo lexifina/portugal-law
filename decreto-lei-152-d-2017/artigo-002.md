@@ -10,29 +10,9 @@ b) Aos óleos industriais lubrificantes de base mineral, aos óleos dos motores 
 
 c) Aos pneus colocados no mercado e respetivos resíduos;
 
-d) Aos equipamentos elétricos e eletrónicos (EEE) colocados no mercado pertencentes às seguintes categorias e respetivos resíduos:
+d) (Revogada.)
 
-i) Categoria 1: grandes eletrodomésticos;
-
-ii) Categoria 2: pequenos eletrodomésticos;
-
-iii) Categoria 3: equipamentos informáticos e de telecomunicações;
-
-iv) Categoria 4: equipamentos de consumo e painéis fotovoltaicos;
-
-v) Categoria 5: equipamentos de iluminação;
-
-vi) Categoria 6: ferramentas elétricas e eletrónicas, com exceção de ferramentas industriais fixas de grandes dimensões;
-
-vii) Categoria 7: brinquedos e equipamentos de desporto e lazer;
-
-viii) Categoria 8: dispositivos médicos ou acessórios, com exceção dos produtos implantados e infetados;
-
-ix) Categoria 9: instrumentos de monitorização e controlo;
-
-x) Categoria 10: distribuidores automáticos;
-
-e) Aos EEE colocados no mercado classificados nas seguintes categorias e respetivos resíduos:
+e) Aos equipamentos elétricos e eletrónicos (EEE) colocados no mercado classificados nas seguintes categorias e respetivos resíduos:
 
 i) Categoria 1: equipamentos de regulação da temperatura;
 
@@ -50,7 +30,7 @@ f) Às pilhas e acumuladores colocados no mercado, independentemente da sua form
 
 g) Aos veículos e veículos em fim de vida, seus componentes e materiais, independentemente do modo como o veículo tenha sido mantido ou reparado e de estar equipado com componentes fornecidos pelo fabricante ou com outros componentes, como peças sobresselentes ou de substituição cuja montagem cumpra o disposto na legislação aplicável.
 
-2 - As listas indicativas dos EEE referidos nas alíneas d) e e) do número anterior constam do anexo I ao presente decreto-lei, do qual faz parte integrante.
+2 - A lista indicativa dos EEE referidos na alínea e) do número anterior consta do anexo i ao presente decreto-lei e do qual faz parte integrante.
 
 3 - São aplicáveis a outros veículos, nos termos da definição constante do artigo seguinte, as disposições constantes do artigo 6.º, do n.º 1 do artigo 80.º, dos n.os 1, 2, 4 e 5 do artigo 81.º, dos n.os 7 e 8 do artigo 83.º, do artigo 85.º, do artigo 86.º e do artigo 87.º, com as necessárias adaptações.
 

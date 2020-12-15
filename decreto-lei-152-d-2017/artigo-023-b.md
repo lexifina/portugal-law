@@ -1,5 +1,5 @@
 # Artigo 23.º-B
 
-### Área assinalada e dedicada a bebidas em embalagens reutilizáveis ou 100 % biodegradáveis
+### Áreas dedicadas a bebidas em embalagens reutilizáveis e a produtos a granel
 
-As grandes superfícies comerciais referidas no n.º 5 do artigo anterior que sejam integradas no projeto-piloto ficam obrigadas a implementar nas suas instalações uma área devidamente assinalada e exclusivamente dedicada ao comércio de bebidas em embalagens reutilizáveis ou 100 % biodegradáveis identificadas nos termos da lei.
+As grandes superfícies comerciais devem destinar áreas devidamente assinaladas dedicadas ao comércio de bebidas em embalagens reutilizáveis e de produtos a granel.

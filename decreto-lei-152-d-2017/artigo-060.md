@@ -4,9 +4,9 @@
 
 1 - Os REEE recolhidos seletivamente devem ser sujeitos a um tratamento adequado nos termos do número seguinte, caso não seja preferível a preparação para reutilização, sendo expressamente proibida a eliminação de REEE que não tenham sido sujeitos a tratamento.
 
-2 - O tratamento adequado, com exceção da preparação para reutilização, e as operações de valorização e reciclagem devem incluir, no mínimo, a remoção de todos os fluidos e um tratamento seletivo de materiais e componentes de REEE de acordo com o disposto no anexo XI ao presente decreto-lei, do qual faz parte integrante.
+2 - O tratamento adequado, com exceção da preparação para reutilização, e as operações de valorização e reciclagem devem incluir, no mínimo, a remoção de 2 - Sem prejuízo do disposto no artigo 8.º, o tratamento adequado, com exceção da preparação para reutilização, e as operações de valorização e reciclagem devem incluir a remoção de todos os fluidos e um tratamento seletivo de materiais e componentes de REEE de acordo com o disposto no anexo xi ao presente decreto-lei e do qual faz parte integrante.
 
-3 - Os produtores, individualmente ou através de uma entidade gestora licenciada nos termos do artigo 16.º, devem implementar sistemas que utilizem as melhores técnicas disponíveis para o tratamento dos REEE.
+3 - Os produtores, através de sistemas individuais ou integrados de gestão, devem implementar sistemas que utilizem as melhores técnicas disponíveis para o tratamento dos REEE.
 
 4 - A preparação para reutilização, valorização e reciclagem de resíduos de equipamento de refrigeração e respetivas substâncias, misturas ou componentes, é feita de acordo com a legislação aplicável, designadamente, o Regulamento (CE) n.º 1005/2009, do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, relativo às substâncias que empobrecem a camada de ozono, o Regulamento (CE) n.º 842/2006, do Parlamento Europeu e do Conselho, de 17 de maio de 2006, relativo a determinados gases fluorados com efeito de estufa, e os Decretos-Leis n.os 152/2005, de 31 de agosto, e 56/2011, de 21 de abril, nas suas redações atuais.
 

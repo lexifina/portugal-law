@@ -2,30 +2,42 @@
 
 ### Entidade gestora
 
-1 - A entidade gestora é uma pessoa coletiva de direito privado, de natureza associativa ou societária.
+2 - A entidade gestora é constituída obrigatoriamente pelos produtores do produto ou embaladores no caso do fluxo específico das embalagens, cuja representatividade não deve ser inferior a 70 %, ou por entidades por eles constituídas nas quais a sua representatividade não seja inferior à referida, e não pode integrar entidades com atividade suscetível de gerar conflitos de interesses com as funções da entidade gestora, nomeadamente operadores de gestão de resíduos.
 
-2 - A entidade gestora é constituída obrigatoriamente pelos produtores do produto, ou embaladores e importadores de produtos embalados no caso do fluxo específico das embalagens, cuja representatividade não deve ser inferior a 70 %, ou por entidades por eles constituídas nas quais a sua representatividade não seja inferior à referida, e não pode integrar entidades com atividade suscetível de gerar conflitos de interesses com as funções da entidade gestora.
+3 - A entidade gestora não pode deter participação no capital social de outras entidades.
 
-3 - A entidade gestora deve constituir reservas, não acumuláveis, até ao limite estabelecido na respetiva licença, para fazer face a eventuais resultados negativos do exercício.
+4 - A entidade gestora deve constituir reservas, não acumuláveis, até ao limite estabelecido na respetiva licença, para fazer face a eventuais resultados negativos do exercício.
 
-4 - A entidade gestora pode constituir provisões, não acumuláveis, até ao limite estabelecido na respetiva licença, para fazer face a flutuações dos valores de mercado na retoma dos resíduos durante o exercício anual.
+5 - A entidade gestora pode constituir provisões, não acumuláveis, até ao limite estabelecido na respetiva licença, para fazer face a flutuações dos valores de mercado na retoma dos resíduos durante o exercício anual.
 
-5 - Os resultados líquidos positivos da entidade gestora devem ser obrigatoriamente reinvestidos ou utilizados na sua atividade ou atividades conexas, em reservas para operações futuras, sendo expressamente vedada a distribuição de resultados, dividendos ou lucros pelos seus membros, acionistas, sócios ou associados.
+6 - Os resultados líquidos positivos da entidade gestora devem ser obrigatoriamente reinvestidos ou utilizados na sua atividade, em reservas para operações futuras, sendo expressamente vedada a distribuição de resultados, dividendos ou lucros pelos seus membros, acionistas, sócios ou associados.
 
-6 - A entidade gestora está obrigada à prestação de caução, que pode ser prestada mediante garantia bancária ou seguro-caução a favor da APA, I. P., nos termos estabelecidos no n.º 7 do artigo 16.º
+7 - A entidade gestora está obrigada à prestação de caução, a fim de evitar que os custos da gestão dos resíduos recaiam sobre a sociedade ou sobre os restantes produtores, a qual pode ser prestada mediante garantia bancária ou seguro-caução a favor da APA, I. P., nos termos estabelecidos no artigo 16.º
 
-7 - Caso os resultados líquidos positivos da entidade gestora ultrapassem o limite definido para as reservas, devem os mesmos ser utilizados na diminuição da prestação financeira suportada pelos produtores do produto, embaladores, importadores de produtos embalados e fornecedores de embalagens de serviço.
+8 - A caução prevista no número anterior é constituída de acordo com o modelo aprovado e divulgado no sítio na Internet da APA, I. P.
 
-8 - Sem prejuízo de virem a ser criadas outras formas de gestão, a entidade gestora assume a responsabilidade pela gestão da fase do ciclo de vida dos produtos quando estes atingem o seu fim de vida e se tornam resíduos, garantindo:
+9 - Caso os resultados líquidos positivos da entidade gestora ultrapassem o limite definido para as reservas, devem os mesmos ser utilizados na diminuição da prestação financeira suportada pelos produtores do produto, pelos embaladores ou pelos fornecedores de embalagens de serviço.
+
+10 - A entidade gestora deve ter implementado um sistema de contabilidade de gestão, que deve permitir a separação entre fluxos quando aquela tenha licença para a gestão de mais do que um fluxo específico, por forma a assegurar a adequada prestação de contas nos termos exigidos pelas licenças.
+
+11 - A entidade gestora deve realizar um fecho de contas no final da validade da licença, bem como prestar eventuais esclarecimentos solicitados pela APA, I. P., e pela DGAE, sendo as mesmas reabertas no início da vigência da nova licença, caso aplicável, independentemente do dia do ano em que esta entre em vigor.
+
+12 - Sem prejuízo de virem a ser criadas outras formas de gestão, a entidade gestora assume a responsabilidade pela gestão da fase do ciclo de vida dos produtos quando estes atingem o seu fim de vida e se tornam resíduos, garantindo:
 
 a) A gestão financeira dos resíduos; ou
 
 b) A gestão financeira e operacional dos resíduos, ficando neste caso com a sua posse.
 
-9 - Com vista ao cumprimento de objetivos de reciclagem, os sistemas integrados devem tendencialmente evoluir no sentido de garantir a gestão financeira e operacional dos resíduos, em que a entidade gestora assume a posse dos resíduos, sendo estes obrigatoriamente encaminhados para os operadores de gestão de resíduos através de procedimentos concursais que observem os princípios da transparência, da igualdade e da concorrência, devendo esses procedimentos e respetivos resultados ser publicitados no sítio da Internet da entidade gestora, após validação dos resultados por uma entidade independente.
+13 - Com vista ao cumprimento dos objetivos e metas de gestão, os sistemas integrados devem tendencialmente evoluir no sentido de garantir a gestão financeira e operacional dos resíduos, em que a entidade gestora assume a posse dos resíduos, sendo estes obrigatoriamente encaminhados para os operadores de gestão de resíduos através de procedimentos concursais que observem os princípios da transparência, da igualdade e da concorrência, devendo ser publicitados no sítio na Internet da entidade gestora:
 
-10 - Os procedimentos concursais realizados através de uma plataforma licenciada no âmbito do Mercado Organizado de Resíduos não carecem de ser validados por uma entidade independente.
+a) O anúncio dos procedimentos concursais e dos termos dos mesmos;
 
-11 - Excecionalmente, no caso de procedimentos concursais desertos ou quando se verifique a não adjudicação, a entidade gestora pode, por razões de prossecução dos respetivos objetivos, recorrer a procedimentos de adjudicação direta.
+b) Após validação por uma entidade independente, os resultados dos procedimentos concursais, em termos de identificação das empresas concorrentes e das empresas contratadas, no prazo de 10 dias úteis após o encerramento dos mesmos.
 
-12 - A entidade gestora não pode celebrar contratos com operadores de gestão de resíduos que impeçam o livre acesso à atividade de gestão de resíduos por outros operadores.
+14 - Os procedimentos concursais realizados através de uma plataforma licenciada no âmbito do Mercado Organizado de Resíduos não carecem de ser validados por uma entidade independente.
+
+15 - Excecionalmente, no caso de procedimentos concursais desertos ou quando se verifique a não adjudicação, a entidade gestora pode, por razões de prossecução dos respetivos objetivos, recorrer a procedimentos de adjudicação direta.
+
+16 - Para efeitos de gestão operacional dos resíduos, a entidade gestora pode efetuar, direta ou indiretamente, a recolha, o transporte e a armazenagem e triagem preliminares dos resíduos provenientes da sua rede de recolha própria, na medida em que são detentores dos mesmos, em cumprimento das disposições legais aplicáveis e sem prejuízo do disposto no artigo 24.º, com vista ao seu envio para tratamento adequado.
+
+17 - A entidade gestora não pode celebrar contratos com operadores de gestão de resíduos que impeçam o livre acesso à atividade de gestão de resíduos por outros operadores.

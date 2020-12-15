@@ -27,3 +27,5 @@ b) Uma cópia do certificado de destruição, acompanhada da documentação refe
 8 - A emissão de certificados de destruição não confere ao operador de desmantelamento o direito à receção de qualquer reembolso.
 
 9 - Os certificados de destruição emitidos por outros Estados-Membros da União Europeia que contenham todas as informações requeridas no anexo XVIII ao presente decreto-lei, são válidos para efeitos de cancelamento da matrícula no território nacional.
+
+10 - Até 30 de junho de 2022, entra em funcionamento a ligação entre a plataforma eletrónica da APA, I. P., para emissão de certificados de destruição de VFV e a plataforma digital do IMT, I. P., para cancelamento de matrículas, permitindo, em tempo real, a emissão de certificados de destruição e o cancelamento de matrícula.

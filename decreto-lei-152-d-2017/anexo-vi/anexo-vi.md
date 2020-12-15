@@ -8,7 +8,7 @@ Informações para o registo de pilhas e acumuladores
 
 2 - O tipo e marcas de pilhas e acumuladores colocados no mercado anualmente, incluindo pilhas e acumuladores portáteis, baterias e acumuladores industriais e baterias e acumuladores para veículos automóveis;
 
-3 - Informações quanto à forma como o produtor assume as suas responsabilidades: individualmente ou através de um sistema integrado;
+3 - Informações quanto à forma como o produtor assume as suas responsabilidades: através de um sistema individual ou de um sistema integrado de gestão;
 
 4 - Data do pedido de registo;
 

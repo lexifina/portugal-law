@@ -2,7 +2,7 @@
 
 ### Sensibilização e informação dos utilizadores
 
-1 - Os produtores, individualmente ou através de uma entidade gestora licenciada nos termos do artigo 16.º, bem como os distribuidores e comerciantes, devem prestar aos utilizadores particulares as informações necessárias, nomeadamente nas instruções de utilização, nas embalagens, nos pontos de venda ou através de campanhas de sensibilização, sobre:
+1 - Os produtores, através de sistemas individuais ou integrados de gestão, bem como os distribuidores e comerciantes, devem prestar aos utilizadores particulares as informações necessárias, nomeadamente nas instruções de utilização, nas embalagens, nos pontos de venda ou através de campanhas de sensibilização, sobre:
 
 a) A obrigação de não depositar REEE como resíduos urbanos indiferenciados e de proceder à sua recolha seletiva;
 
@@ -16,7 +16,9 @@ e) O significado do símbolo apresentado no anexo XIII ao presente decreto-lei, 
 
 f) As funções do sistema de gestão de REEE adotado.
 
-2 - Sem prejuízo do disposto no número anterior, os SGRU, dadas as suas competências, bem como a sua proximidade com os utilizadores finais, devem, igualmente, colaborar na sensibilização e informação destes.
+g) A prevenção da deposição de lixo em espaços públicos.
+
+2 - Sem prejuízo do disposto no número anterior, os SGRU, dadas as suas competências, bem como a sua proximidade com os utilizadores finais, devem igualmente contribuir para a sensibilização destes, desenvolvendo as necessárias ações.
 
 3 - Os distribuidores, os comerciantes e os SGRU devem manter um registo que evidencie as ações desenvolvidas nos termos dos n.os 1 e 2, disponibilizando-os mediante solicitação da APA, I. P., da DGAE ou das entidades fiscalizadoras.
 

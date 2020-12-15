@@ -4,7 +4,7 @@
 
 Requisitos técnicos dos locais de armazenagem e tratamento
 
-1 - Locais para armazenagem (incluindo armazenagem preliminar) de resíduos de equipamentos elétricos e eletrónicos (REEE), de pneus usados, de baterias automóveis e de baterias industriais antes do tratamento (sem prejuízo do disposto no Decreto-Lei n.º 183/2009, de 10 de agosto, na sua redação atual):
+1 - Locais para armazenagem, incluindo armazenagem preliminar, de resíduos de equipamentos elétricos e eletrónicos (REEE) antes do tratamento, sem prejuízo do disposto no Decreto-Lei n.º 183/2009, de 10 de agosto, na sua redação atual:
 
 a) Superfícies impermeáveis para áreas adequadas, apetrechadas com sistemas de recolha de derramamentos e, quando apropriado, decantadores e purificadores-desengorduradores;
 
@@ -21,3 +21,11 @@ c) Armazenamento adequado de peças sobresselentes desmontadas;
 d) Contentores adequados para armazenamento de pilhas, condensadores com PCB/PCT e outros resíduos perigosos, como resíduos radioativos;
 
 e) Equipamento para tratamento de águas, de acordo com os regulamentos no domínio da saúde e do ambiente.
+
+3 - A armazenagem preliminar de pneus usados deve ser efetuada:
+
+a) Em filas, dispondo-se os pneus em pilhas, que devem ter no máximo 3 m de altura, 76 m de comprimento e 15 m de largura; e/ou
+
+b) Em baias, dispondo-se os pneus a granel, que devem ter no máximo 6 m de altura, 76 m de comprimento e 15 m de largura; e/ou
+
+c) Em contentores, ou equipamentos similares, adequados para a armazenagem de pneus usados.

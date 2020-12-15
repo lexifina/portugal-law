@@ -14,7 +14,7 @@ II - Requisitos específicos de fabrico e composição das embalagens
 
 a) As embalagens devem ser fabricadas de forma que o respetivo peso e volume não excedam o valor mínimo necessário para manter níveis de segurança, higiene e aceitação adequados para o produto embalado e para o consumidor.
 
-b) As embalagens devem ser concebidas, produzidas e comercializadas de forma a permitir a sua reutilização e a minimizar o impacte sobre o ambiente quando são valorizados e eliminados os resíduos de embalagens ou o remanescente das operações de gestão de resíduos de embalagens.
+b) As embalagens devem ser concebidas, produzidas e comercializadas de forma a permitir a sua reutilização ou valorização, incluindo a reciclagem, de acordo com a hierarquia dos resíduos, e a minimizar o impacto sobre o ambiente quando são eliminados os resíduos de embalagens ou o remanescente das operações de gestão de resíduos de embalagens.
 
 c) As embalagens devem ser fabricadas de modo a minimizar a presença de substâncias nocivas e outras substâncias e matérias perigosas no material das embalagens ou de qualquer dos seus componentes no que diz respeito à sua presença em emissões, cinzas ou lixiviados, aquando da incineração ou descarga em aterros sanitários, dos resíduos de embalagens ou do remanescente das operações de gestão de resíduos de embalagens.
 
@@ -34,4 +34,4 @@ b) As embalagens valorizáveis sob a forma de valorização energética devem te
 
 c) No caso de embalagens valorizáveis sob a forma de composto, os resíduos das embalagens tratados para efeitos de compostagem devem ser recolhidos separadamente e ser biodegradáveis, de forma a não entravar o processo ou atividade de compostagem no qual são introduzidos.
 
-d) No caso de embalagens biodegradáveis, os respetivos resíduos devem ter características que permitam uma decomposição física, química, térmica ou biológica de que resulte que a maioria do composto final acabe por se decompor em dióxido de carbono, biomassa e água.
+d) Os resíduos de embalagens biodegradáveis devem ter características que permitam uma decomposição física, química, térmica ou biológica de que resulte que a maioria do composto final acabe por se decompor em dióxido de carbono, biomassa e água. As embalagens de plástico oxodegradáveis não devem ser consideradas biodegradáveis.

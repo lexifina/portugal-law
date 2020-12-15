@@ -1,8 +1,6 @@
 # Anexo V
 
-### [a que se refere a alínea b) do n.º 4 do artigo 19.º]
-
-Informações para o registo de REEE
+### [a que se refere a alínea a) do n.º 6 do artigo 19.º]
 
 A. Informações a apresentar pelo produtor no ato do registo:
 
@@ -10,13 +8,13 @@ A. Informações a apresentar pelo produtor no ato do registo:
 
 2 - Código de identificação nacional, incluindo o número de identificação fiscal europeu ou nacional.
 
-3 - Categoria dos equipamentos elétricos e eletrónicos (EEE), como indicada nas alíneas d) ou e) do n.º 1 do artigo 2.º, consoante o caso.
+3 - Categoria dos equipamentos elétricos e eletrónicos (EEE), como indicada na alínea e) do n.º 1 do artigo 2.º
 
 4 - Tipo de EEE (destinado a utilizadores particulares ou a utilizadores não particulares).
 
 5 - Denominação comercial do EEE (marca).
 
-6 - Sistema de gestão: individual ou coletivo, incluindo informações sobre garantia financeira quando aplicável.
+6 - Sistema de gestão: individual ou integrado, incluindo informações sobre garantia financeira quando aplicável.
 
 7 - Técnica de venda utilizada (por exemplo, venda à distância).
 

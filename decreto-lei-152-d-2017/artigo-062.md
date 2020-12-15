@@ -4,9 +4,9 @@
 
 1 - A fim de maximizar a preparação para a reutilização, os centros de receção devem assegurar a separação dos REEE a preparar para a reutilização dos outros REEE recolhidos seletivamente, nomeadamente, concedendo o acesso, no âmbito de acordos de cooperação, a entidades devidamente licenciadas nos termos do n.º 1 do artigo anterior.
 
-2 - Os REEE encaminhados para preparação para reutilização nos termos do número anterior, que se verifique não estarem em condições de ser reutilizados, retornam ao centro de receção de origem, sob pena de recair sobre a entidade que efetua a preparação para reutilização a responsabilidade de proceder ao seu encaminhamento para tratamento adequado e de garantir a rastreabilidade da informação.
+2 - Os REEE encaminhados para preparação para reutilização nos termos do número anterior que se verifique não estarem em condições de ser reutilizados retornam ao centro de receção de origem, salvo se estiver previsto em contrato que a entidade que efetua a preparação para reutilização assume a responsabilidade de proceder ao seu encaminhamento para tratamento adequado e de garantir a rastreabilidade da informação.
 
-3 - Os requisitos previstos no n.º 3 do artigo anterior, aplicáveis especificamente à atividade de preparação para reutilização, devem respeitar os seguintes princípios:
+3 - Os requisitos previstos no n.º 1 do artigo 8.º, aplicáveis especificamente à atividade de preparação para reutilização, devem respeitar os seguintes princípios:
 
 a) Identificação como produto reutilizado;
 

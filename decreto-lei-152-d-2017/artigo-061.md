@@ -4,6 +4,24 @@
 
 1 - A atividade de tratamento de REEE, incluindo a valorização, a reciclagem e a preparação para reutilização, está sujeita a licenciamento nos termos do RGGR.
 
-2 - As instalações onde se realizam operações de armazenagem e de tratamento de REEE respeitam os requisitos técnicos definidos, respetivamente, nos n.os 1 e 2 do anexo III ao presente decreto-lei.
+2 - As instalações onde se realizam operações de tratamento, incluindo a armazenagem, de REEE devem respeitar os requisitos técnicos definidos, respetivamente, nos n.os 1 e 2 do anexo iii ao presente decreto-lei.
 
-3 - Sem prejuízo do disposto nos números anteriores, a atividade de tratamento de REEE, incluindo a valorização, a reciclagem e a preparação para reutilização, está sujeita ao cumprimento de requisitos mínimos de qualidade e eficiência, com vista, nomeadamente, à prossecução dos objetivos de valorização previstos no artigo 57.º
+3 - (Revogado.)
+
+4 - É proibido:
+
+a) O abandono de REEE;
+
+b) A alteração da forma física de REEE, nomeadamente através de compactação, corte, trituração ou fragmentação, que não tenham sido submetidos a um tratamento adequado nos termos do n.º 2 do artigo anterior;
+
+c) A aceitação de REEE para efeitos de corte, fragmentação ou outro processamento que vise alterar a sua forma física, que não tenham sido previamente submetidos a um tratamento adequado nos termos do n.º 2 do artigo anterior;
+
+d) A aceitação de REEE fisicamente alterados que não tenham sido previamente submetidos a um tratamento adequado nos termos do n.º 2 do artigo anterior;
+
+e) A comercialização, incluindo quando é usada uma técnica de venda por comunicação à distância, de peças usadas de REEE para reutilização que não sejam provenientes de operadores de desmantelamento licenciados e não sejam acompanhadas de informação sobre o número da licença do operador de proveniência;
+
+f) A receção de REEE classificados como perigosos por operadores de tratamento de resíduos que não atuem ao abrigo de um contrato com os respetivos sistemas individuais ou integrados de gestão previstos no n.º 1 do artigo 7.º;
+
+g) A receção de REEE provenientes de utilizadores particulares por operadores de tratamento de resíduos.
+
+5 - Para além do previsto no n.º 3 do artigo 58.º, as entidades gestoras devem igualmente aplicar critérios de diferenciação aos demais operadores de tratamento, de acordo com a qualidade e integridade dos REEE, prevendo em particular os casos em que os equipamentos não contenham os componentes essenciais ou contenham outros resíduos que não sejam REEE.

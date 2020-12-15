@@ -8,7 +8,7 @@
 
 1 - Os produtores de pneus devem garantir:
 
-a) A recolha de pneus usados numa proporção de, pelo menos, 96 % dos pneus usados anualmente gerados;
+a) A recolha de pneus usados numa proporção, em peso, de, pelo menos, 96 % dos pneus usados anualmente gerados;
 
 b) A valorização da totalidade dos pneus usados recolhidos seletivamente, sem prejuízo do estabelecido na alínea d) do n.º 1 do artigo 6.º do Decreto-Lei n.º 183/2009, de 10 de agosto, na sua redação atual;
 

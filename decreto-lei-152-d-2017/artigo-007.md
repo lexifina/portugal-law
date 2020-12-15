@@ -10,6 +10,8 @@
 
 ### Sistemas de gestão de fluxos específicos de resíduos
 
-1 - Para efeitos do cumprimento das obrigações estabelecidas no presente decreto-lei, os produtores dos produtos, os embaladores e os fornecedores de embalagens de serviço ficam obrigados a submeter a gestão dos respetivos resíduos a um sistema individual ou a um sistema integrado, sujeito a autorização ou licença, respetivamente, nos termos do presente decreto-lei, ou ainda através da celebração de acordos voluntários entre o produtor do produto e a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), que devem ser abertos a todos os parceiros que pretendam dar-lhe cumprimento.
+1 - Para efeitos do cumprimento das obrigações estabelecidas no presente decreto-lei, os produtores do produto, os embaladores que utilizam embalagens não reutilizáveis e os fornecedores de embalagens de serviço não reutilizáveis ficam obrigados a gerir os respetivos resíduos através de um sistema individual ou de um sistema integrado, sujeito a autorização ou licença, respetivamente, nos termos do presente decreto-lei, ou através do sistema de depósito previsto no artigo 23.º-C.
 
-2 - Com exceção das embalagens referidas no n.º 2 do artigo 22.º, só podem ser colocados e disponibilizados no mercado nacional os produtos cujos produtores, embaladores ou fornecedores de embalagens de serviço, conforme aplicável, tenham adotado um dos sistemas previstos no número anterior.
+2 - (Revogado.)
+
+3 - Para efeitos do cumprimento das obrigações estabelecidas no presente decreto-lei, os embaladores que utilizam embalagens reutilizáveis ficam obrigados a gerir, individual ou coletivamente, as embalagens que colocam no mercado e os respetivos resíduos através de um sistema de reutilização de embalagens, nos termos do presente decreto-lei.

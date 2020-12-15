@@ -11,7 +11,3 @@
 4 - Sempre que se justifique, nomeadamente por razões relacionadas com o cumprimento das metas de recolha, as entidades gestoras devem financiar os custos decorrentes do transporte até às instalações de recolha, nos termos a definir nas respetivas licenças.
 
 5 - Os produtores podem acordar com os distribuidores condições de recolha de REEE recebidos nos termos das alíneas a) e b) do n.º 4 do artigo 13.º, em função de determinados quantitativos mínimos e/ou da sua distância aos centros de receção.
-
-6 - (Revogado.)
-
-7 - (Revogado.)
