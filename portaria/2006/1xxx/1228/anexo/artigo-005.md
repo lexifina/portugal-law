@@ -1,6 +1,6 @@
 # Artigo 5.º
 
-### Procedimentos das associações de jovens e equiparadas a associações juvenis com personalidade jurídica
+### Procedimentos das associações com personalidade jurídica
 
 1 - Com o pedido de inscrição no RNAJ das associações juvenis e suas equiparadas, das associações de estudantes e das federações com personalidade jurídica é simultaneamente identificado o utilizador que representa a respectiva associação.
 
@@ -16,18 +16,8 @@
 
 7 - Sem prejuízo do previsto no número anterior, o IPJ pode solicitar outros elementos que julgue úteis à análise e procedimento do registo.
 
-8 - Para efeitos de registo, as entidades equiparadas nos termos do disposto no n.º 4 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, devem entregar, nos serviços do IPJ, por depósito, fax ou carta regista com aviso de recepção, cópia do despacho anual de reconhecimento do membro do Governo da área da juventude.
+8 - (Revogado.)
 
-9 - Para avaliação do reconhecimento e atribuição do despacho previsto no número anterior, devem aquelas entidades formular o seu pedido sob a forma de requerimento, acompanhado dos seguintes documentos:
+9 - (Revogado.)
 
-a) Explanação do histórico da entidade e actividades prosseguidas;
-
-b) Plano de actividades para o ano em causa;
-
-c) Cópia dos estatutos;
-
-d) Declaração de utilidade pública demonstrativa do reconhecido mérito e importância social, para as entidades nacionais;
-
-e) Declaração equivalente de reconhecimento, mérito e importância social, para as entidades internacionais;
-
-f) Parecer de uma ou mais entidades com as quais tenham trabalhado que ateste o mérito e importância social das actividades prosseguidas.
+10 - Para efeitos de inscrição no RNAJ, os dados pessoais suscetíveis a operações de tratamento são objeto de proteção, nos termos previstos no Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e na Lei n.º 58/2019, de 8 de agosto, bem como das demais disposições legais e regulamentares em matéria de proteção de dados pessoais.

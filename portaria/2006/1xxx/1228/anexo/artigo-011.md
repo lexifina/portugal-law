@@ -14,7 +14,9 @@ c) Um representante das associações juvenis;
 
 d) Um representante das associações de estudantes;
 
-e) Um representante das associações equiparadas a associações juvenis.
+e) Um representante das associações de caráter juvenil;
+
+f) Um representante do IPDJ, I. P.
 
 3 - À comissão compete analisar os relatórios de execução do RNAJ, no prazo de 15 dias a contar da data da sua recepção.
 

@@ -2,4 +2,4 @@
 
 ### Circulação electrónica de documentos
 
-As entidades mencionadas neste Regulamento privilegiam a divulgação e troca de documentos através de meios electrónicos.
+As entidades mencionadas no presente regulamento privilegiam a divulgação de informação, envio de documentos e as notificações efetuadas através de meios eletrónicos.
