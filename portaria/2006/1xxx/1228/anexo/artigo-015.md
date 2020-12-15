@@ -2,4 +2,4 @@
 
 ### Princípio da legalidade
 
-Compete ao IPJ assegurar o registo quanto à sua organização, inscrição e actualização do Registo, em face das disposições legais aplicáveis.
+Compete ao IPJ assegurar o registo quanto à sua organização, inscrição e actualização, em face das disposições legais aplicáveis.
