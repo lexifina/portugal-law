@@ -1,5 +1,5 @@
 # Artigo 2.º
 
-### Publicação dos estatutos
+### Publicitação dos estatutos
 
-Os estatutos das entidades previstas no artigo anterior são publicados no endereço electrónico http://www.juventude.pt, disponibilizado pelo Instituto Português da Juventude (IPJ) e determina o seu reconhecimento.
+Os estatutos das entidades previstas no artigo anterior são publicitados no portal do Instituto Português do Desporto e Juventude, I. P., abreviadamente designado por IPDJ, I. P., o que confere eficácia ao seu reconhecimento.

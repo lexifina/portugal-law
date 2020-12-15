@@ -2,4 +2,4 @@
 
 ### Circulação electrónica de documentos
 
-As entidades mencionadas nesta portaria privilegiam a divulgação e troca de documentos através de meios electrónicos.
+As entidades mencionadas na presente portaria, privilegiam a divulgação de informação, envio de documentos e as notificações efetuadas através de meios eletrónicos.
