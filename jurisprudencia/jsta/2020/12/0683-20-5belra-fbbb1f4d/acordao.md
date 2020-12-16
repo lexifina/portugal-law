@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2020-12-16, processo 0683/20.5BELRA
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0683/20.5BELRA
+
+**Data do Acordão:** 12/16/2020
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** NULIDADE DE SENTENÇA; OMISSÃO DE PRONÚNCIA; PENHORA; RESPONSÁVEL SUBSIDIÁRIO; HERDEIRO; HERANÇA INDIVISA
+
+**Nº Convencional:** JSTA000P26942
+
+**Nº do Documento:** SA2202012160683/20
+
+**Data de Entrada:** 12/02/2020
+
+**Recorrente:** HERANÇA DE A...............
+
+**Recorrido 1:** AT-AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Nos termos do preceituado no citado artº.615, nº.1, al.d), do C.P.Civil, é nula a sentença quando o juiz deixe de pronunciar-se sobre questões (que não as meras "razões" ou "argumentos") que devesse apreciar (seja por que foram alegadas pelas partes, seja por que são de conhecimento oficioso, nos termos da lei).
+
+II - No processo judicial tributário o vício de omissão de pronúncia, como causa de nulidade da sentença, está previsto no artº.125, nº.1, do C.P.P.Tributário, no penúltimo segmento da norma.
+
+III - A penhora consubstancia-se numa apreensão judicial de bens/direitos do executado e sua posterior afectação aos fins do processo de execução, revestindo a natureza de garantia real a favor do exequente e restantes credores concorrentes no processo executivo (cfr.artº.822, nº.1, do C.Civil).
+
+IV - O herdeiro do responsável subsidiário falecido, contra quem revertera a execução fiscal originariamente instaurada contra sociedade comercial, responde pela dívida exequenda até ao limite das forças da herança, nos termos do artº.29, nº.2, da L.G.T., assim havendo que distinguir, para efeitos práticos, se a herança foi aceite pura e simplesmente ou a benefício de inventário (cfr.artº.2071, do C.Civil).
+
+V - A herança, antes de operar a partilha, constitui uma universalidade de direito ("universitas iuris") e património autónomo, face à inexistência, em relação aos bens constitutivos da mesma herança indivisa, de direitos subjectivos por parte dos chamados e enquanto ainda não aceitantes.
+
+VI - A penhora de bens que integrem a herança, antes de operar a partilha, não configura a apreensão judicial de direito a bem concreto indiviso, mas antes, de penhora que só pode incidir sobre o direito do executado à herança indivisa, ou seja, sobre uma quota-ideal do património hereditário e nunca sobre algum ou alguns dos bens certos e determinados que compõem o património hereditário. É que até à partilha, os direitos dos herdeiros recaem sobre o conjunto da herança; cada herdeiro apenas tem direito a uma parte ideal da mesma e não a bens certos e determinados nesta integrados (cfr.artºs.1403, nº.2, e 1408, nº.1 e 2, do C.Civil, regime aplicável à herança jacente por força do artº.1404, do mesmo diploma). Com estes pressupostos, só depois da realização da partilha é que o herdeiro poderá ficar a ser proprietário ou comproprietário de determinado bem da herança. Daí que tal penhora deva também ter em conta as regras constantes do artº.232, do C.P.P.T. (cfr.artº.743, do C.P.Civil), norma que consagra as formalidades próprias da apreensão de bens em comunhão, em compropriedade ou que integrem um património autónomo, como é o caso da herança antes de partilhada.
+
+(sumário da exclusiva responsabilidade do relator)
