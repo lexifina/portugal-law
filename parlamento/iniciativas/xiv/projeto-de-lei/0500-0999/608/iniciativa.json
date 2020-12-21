@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "608",
+  "id": "45552",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2020-12-21",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a4532593255304e6d51744e444d77595330305a6d497a4c546b305a5441745a5449325a6a6378597a45335a5451784c6e426b5a673d3d&fich=616ce46d-430a-4fb3-94e0-e26f71c17e41.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "271",
+        "nome": "José Silvano"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5854",
+        "nome": "Isabel Pires"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5710",
+        "nome": "Duarte Alves"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "PAN",
+        "idCadastro": "5777",
+        "nome": "André Silva"
+      },
+      {
+        "GP": "PEV",
+        "idCadastro": "6933",
+        "nome": "Mariana Silva"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      },
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "BE"
+      },
+      {
+        "GP": "PCP"
+      },
+      {
+        "GP": "CDS-PP"
+      },
+      {
+        "GP": "PAN"
+      },
+      {
+        "GP": "PEV"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "45552",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a64694e44686859574d744d4451335a6930304e446c6a4c574a6b5a6a4974595459304e6d5a6d4d3255794e474e6c4c6d527659773d3d&fich=f7b48aac-047f-449c-bdf2-a646ff3e24ce.doc&Inline=true",
+    "IniNr": "608",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Título e texto substituídos a pedido do autor em 2021-01-07",
+    "IniTipo": "J",
+    "IniTitulo": "Ingresso extraordinário na carreira parlamentar de trabalhadores em cedência de interesse público, na AR, iniciada antes da entrada em vigor da Lei n.º 23/2011, de 20 de maio",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
