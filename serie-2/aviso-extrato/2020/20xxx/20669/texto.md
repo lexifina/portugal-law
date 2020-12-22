@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 20669/2020
+Sumário: Regulamento do Conselho Municipal de Agricultura.
+Regulamento do Conselho Municipal de Agricultura
+Júlia Maria de Almeida Lima e Sequeira Rodrigues, Presidente da Câmara Municipal de Mirandela, faz saber que, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, em cumprimento e para efeitos do disposto no artigo 56.º do mesmo diploma e ainda do disposto no n.º 1 dos artigos 100.º e 101.º do Código do Procedimento Administrativo, após audiência dos interessados e consulta pública, pelo prazo de 30 dias, a Câmara Municipal deliberou, em reunião realizada no dia 02 de julho de 2020 e submetida a Reunião de Assembleia Municipal, realizada em 25 de setembro de 2020, deliberou aprovar o Regulamento do Conselho Municipal de Agricultura, que se encontra disponível para consulta na página do Município em: https://www.cm-mirandela.pt/pages/574?folders_list_36_folder_id=90, entrando em vigor no dia seguinte à publicação em Diário da República.
+2 de dezembro de 2020. - A Presidente da Câmara, Júlia Maria de Almeida Lima e Sequeira Rodrigues.
+313780696
