@@ -1,0 +1,21 @@
+Aviso n.º 20863/2020
+Sumário: Terceira alteração à primeira Revisão do Plano Diretor Municipal de Cantanhede - início de procedimento.
+3.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede
+Início de procedimento
+Pedro António Vaz Cardoso, Vice-Presidente da Câmara Municipal de Cantanhede, torna público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio (RJIGT), que a Câmara Municipal deliberou, em reunião pública, de 24 de novembro de 2020, determinar o início do procedimento relativo à 3.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede, aprovado pelo Aviso n.º 14904/2015 de 21 de dezembro, publicado na 2.ª série do Diário da República n.º 248, e objeto da 1.ª correção material através do Aviso n.º 41904/2015, de 28 de março, da 1.ª alteração por adaptação ao POC-OMG através do Aviso n.º 14826/2017, de 11 de dezembro, da 2.ª correção material pelo Aviso n.º 6512/2018, de 16 de maio e da 2.ª alteração por adaptação ao PMDFCI através do Aviso n.º 13153/2019, de 20 de agosto. O processo deverá estar concluído no prazo de 9 (nove) meses.
+A alteração tem por objetivos a adaptação às regras de classificação e qualificação do solo previstas no RJIGT e na LBGPPSOTU, introduzir as normas decorrentes do POC-OMG, transpor as orientações do PROF-CL, enquadrar os processos objeto de parecer favorável da conferência decisória nos termos do RERAE, clarificar a redação do articulado de alguns artigos do regulamento e efetuar pequenos ajustes na carta de ordenamento, decorrentes da aderência da proposta do plano em vigor ao território, sem no entanto alterar o modelo estratégico de desenvolvimento em vigor.
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do mesmo diploma, é estabelecido o período de 15 (quinze) dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página oficial da Câmara Municipal de Cantanhede em www.cm-cantanhede.pt e no Departamento de Urbanismo, desta Câmara Municipal.
+Os interessados podem apresentar eventuais sugestões e ou pedidos de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente à Exma. Sra. Presidente da Câmara Municipal de Cantanhede e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações desta Câmara Municipal, enviadas por via postal para a morada - Praça Marquês de Marialva, 3060-133 Cantanhede ou por via eletrónica para geral@cm-cantanhede.pt.
+Para constar, publica-se o presente aviso que vai ser afixado nos habituais lugares de estilo, bem como publicado em 2.ª série de Diário da República e na imprensa.
+3 de dezembro de 2020. - O Vice-Presidente da Câmara Municipal, Pedro António Vaz Cardoso.
+Deliberação
+Em reunião ordinária, realizada em 24 de novembro de 2020, a Câmara Municipal deliberou por unanimidade:
+1 - Declarar a caducidade do processo da 1.ª alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede, nos termos do n.º 7 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, que aprovou o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT);
+2 - Iniciar o procedimento relativo à 3.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede, nos termos do n.º 1 do artigo 76.º do RJIGT, seguindo os procedimentos legais definidos no mesmo diploma legal;
+3 - Aprovar os termos de referência para a alteração do plano;
+4 - Determinar que a alteração do plano está sujeita a Avaliação Ambiental;
+5 - Proceder à abertura do período de participação pública, nos termos do n.º 2 do artigo 88.º da RJIGT, estabelecendo o período de quinze dias úteis para o efeito, contados a partir da publicação, no Diário da República, da presente deliberação;
+6 - Definir o prazo máximo de nove meses para a conclusão da alteração em causa;
+7 - Dar conhecimento à Comissão de Coordenação e Desenvolvimento Regional do Centro da presente deliberação e solicitar o seu acompanhamento ao abrigo do disposto n.º 2 do artigo 86.º do RJIGT.
+3 de dezembro de 2020. - O Vice-Presidente da Câmara Municipal, Pedro António Vaz Cardoso.
+613789306
