@@ -1,0 +1,7 @@
+Edital n.º 1363/2020
+Sumário: Projeto de Regulamento Municipal de Atribuição do Cartão Municipal de Bombeiro.
+Manuel Orlando Fernandes Alves, Presidente da Câmara Municipal de Montalegre, torna público, em cumprimento do disposto no n.º 1, do artigo 56.º do anexo I, da Lei n.º 75/2013, de 12 de setembro e nos termos do disposto no n.º 3, alínea c), do artigo 100.º e do n.º 1 do artigo 101.º, do Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada no dia 17 de novembro, do ano em curso, submeter a consulta pública, pelo prazo de trinta dias, contados do dia seguinte ao da presente publicação no Diário da República, o Projeto de Regulamento Municipal de Atribuição do Cartão Municipal de Bombeiro, cujo texto se encontra disponível para consulta nesta Câmara Municipal, durante as horas normais de expediente e na página do Município em http://www.cm-montalegre.pt.
+Mais torna público que, nos termos do disposto no n.º 2 do citado artigo 101.º, os interessados deverão dirigir as suas sugestões, mediante requerimento dirigido ao Presidente da Câmara Municipal, devidamente identificado, diretamente nos serviços da Câmara Municipal de Montalegre, através dos correios, para o endereço Largo do Município, n.º 1, 5470-218 Montalegre, ou para o seguinte correio eletrónico: município@cm-montalegre.pt.
+E eu, Maria Fernanda Dinis Moreira, Chefe da Divisão Administrativa da Câmara Municipal de Montalegre, o subscrevi.
+9 de novembro de 2020. - O Presidente da Câmara, Manuel Orlando Fernandes Alves.
+313794644
