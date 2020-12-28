@@ -12,4 +12,4 @@
 
 5 - As consultas e os pedidos de emissão de parecer referidos nos números anteriores são efetuados em simultâneo, pelo ICNF, I. P., através do sistema de informação previsto no artigo anterior.
 
-6 - O ICNF, I. P., notifica as CCDR através do sistema de informação das comunicações prévias efetuadas no âmbito do artigo 5.º, para efeitos de cumprimento da comunicação prévia, nos termos do artigo 22.º do regime jurídico da Reserva Ecológica Nacional, aprovado pelo Decreto-Lei n.º 166/2008, de 22 de agosto, alterado e republicado pelo Decreto-Lei n.º 239/2012, de 2 de novembro, alterado pelos Decretos-Leis n.os 96/2013, de 19 de julho, e 80/2015, de 14 de maio.
+6 - O ICNF, I. P., e os municípios notificam as CCDR através do sistema de informação das comunicações prévias efetuadas no âmbito do artigo 5.º, para efeitos de cumprimento da comunicação prévia, nos termos do artigo 22.º do regime jurídico da Reserva Ecológica Nacional, aprovado pelo Decreto-Lei n.º 166/2008, de 22 de agosto, na sua redação atual.

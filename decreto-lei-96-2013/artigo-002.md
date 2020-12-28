@@ -12,4 +12,4 @@ b) Enquadradas em operações urbanísticas sujeitas a controlo prévio e em inf
 
 c) Que isoladas ou agregadas a outras áreas arborizadas, rearborizadas ou provenientes de regeneração natural não formem povoamento florestal.
 
-3 - Às ações de arborização e rearborização previstas no presente decreto-lei, bem como as integradas nos projetos ou objeto dos procedimentos a que se referem, respetivamente, os n.os 1 e 3 do artigo 6.º, não é aplicável o Decreto-Lei n.º 139/89, de 28 de abril.
+3 - Às ações de arborização e rearborização previstas no presente decreto-lei não é aplicável o Decreto-Lei n.º 139/89, de 28 de abril.

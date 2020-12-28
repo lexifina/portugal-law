@@ -4,7 +4,7 @@
 
 1 - As infrações abaixo elencadas constituem contraordenações puníveis com coima entre 1 000,00 EUR e 3 740,98 EUR:
 
-a) A realização de ações de arborização ou rearborização, sem autorização, salvo quando dela dispensados nos termos dos artigos 5.º e 6.º, ou quando executadas fora do prazo referido no n.º 2 do artigo 4.º;
+a) A realização de ações de arborização ou rearborização sem autorização, salvo quando dela dispensados nos termos dos artigos 5.º e 6.º, ou quando executadas fora do prazo referido no n.º 3 do artigo 4.º;
 
 b) A realização de ações de arborização e de rearborização não comunicadas previamente nos termos do artigo 5.º ou, tendo sido comunicadas nos termos legais, quando executadas fora do prazo referido no n.º 3 do artigo 5.º;
 
@@ -16,7 +16,7 @@ e) O incumprimento do programa de recuperação aprovado pelo ICNF, I.P., a que 
 
 f) A falta de apresentação do programa de recuperação dentro do prazo determinado pelo ICNF, I. P.;
 
-g) A falta de comunicação do início e da conclusão da execução das ações conforme disposto no n.º 8 do artigo 3.º-A, no n.º 3 do artigo 4.º, no n.º 5 do artigo 5.º, no n.º 6 do artigo 13.º e no n.º 7 do artigo 14.º;
+g) A falta de comunicação do início e da conclusão da execução das ações conforme disposto no n.º 8 do artigo 3.º-A, no n.º 4 do artigo 4.º, no n.º 5 do artigo 5.º, no n.º 6 do artigo 13.º e no n.º 7 do artigo 14.º;
 
 h) As falsas declarações prestadas no termo de responsabilidade emitido pelo autor do projeto ou na ficha simplificada de projeto relativamente à observância das normas legais e técnicas aplicáveis;
 

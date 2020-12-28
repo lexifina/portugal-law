@@ -10,4 +10,6 @@ b) 20 % para o município respetivo;
 
 c) 10 % para o ICNF, I. P.;
 
-d) 60 % para o Estado.
+d) 25 % para o Fundo Florestal Permanente;
+
+e) 35 % para o Estado.

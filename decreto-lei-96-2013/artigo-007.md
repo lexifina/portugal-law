@@ -2,7 +2,7 @@
 
 ### Autorização e comunicação prévia
 
-1 - O pedido de autorização e a comunicação prévia a que se referem, respetivamente, os artigos 4.º e 5.º são efetuados por transmissão eletrónica, através do sistema previsto no artigo seguinte, sendo dirigidos ao conselho diretivo do ICNF, I. P., deles devendo constar:
+1 - O pedido de autorização e a comunicação prévia a que se referem, respetivamente, os artigos 4.º e 5.º são efetuados por transmissão eletrónica, através do sistema previsto no artigo seguinte, deles devendo constar:
 
 a) A identificação do requerente ou comunicante, incluindo o domicílio ou sede;
 
