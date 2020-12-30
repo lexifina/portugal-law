@@ -1,0 +1,30 @@
+Portaria n.º 304/2020
+de 29 de dezembro
+Sumário: Aprova a declaração modelo 58 para cumprimento da obrigação declarativa de comunicação à Autoridade Tributária e Aduaneira (AT) de determinados mecanismos internos ou transfronteiriços com relevância fiscal, conforme previsão da Lei n.º 26/2020, de 21 de julho, alterada pelo Decreto-Lei n.º 53/2020, de 11 de agosto, e respetivas informações gerais e instruções de preenchimento.
+A Diretiva (UE) 2018/822 do Conselho, de 25 de maio de 2018 - conhecida pelo acrónimo de língua inglesa «DAC 6», por ter sido concebida como um aprofundamento, pela quinta vez, da cooperação administrativa no domínio da fiscalidade estabelecida pela Diretiva 2011/16/UE do Conselho, de 15 de fevereiro de 2011 - prevê um regime de troca automática de informações obrigatória no domínio da fiscalidade em relação aos mecanismos transfronteiriços a comunicar.
+Transpondo a Diretiva (UE) 2018/822 e revogando o Decreto-Lei n.º 29/2008, de 25 de fevereiro, a Lei n.º 26/2020, de 21 de julho, estabelece a obrigação de comunicação à Autoridade Tributária e Aduaneira (AT) de determinados mecanismos internos ou transfronteiriços com relevância fiscal, incumbe dessa obrigação os intermediários ou os contribuintes relevantes e regula os pressupostos da respetiva obrigação de comunicação e os termos de cumprimento da mesma.
+A Lei n.º 26/2020, de 21 de julho, foi alterada e complementada pelo Decreto-Lei n.º 53/2020, de 11 de agosto, e também pelo Despacho n.º 444/2020-XXII, de 19 de novembro, do Secretário de Estado Adjunto e dos Assuntos Fiscais, essencialmente no sentido do diferimento de prazos devido à pandemia da doença COVID-19, em consonância com o permitido pela Diretiva (UE) 2020/876 do Conselho, de 24 de junho de 2020.
+Resulta do artigo 16.º, n.º 1, da Lei n.º 26/2020, de 21 de julho, que as informações relativas a mecanismos transfronteiriços recebidas pela AT são por esta comunicadas às autoridades competentes de todos os outros Estados-Membros, por meio de troca automática e em conformidade com as medidas práticas adotadas pela Comissão Europeia inerentes aos formulários normalizados e ao diretório central seguro a nível dos Estados-Membros sobre a cooperação administrativa no domínio da fiscalidade.
+O artigo 24.º da Lei n.º 26/2020, de 21 de julho, prevê a aprovação, por portaria do membro do Governo responsável pela área das finanças, do modelo de declaração para cumprimento das referidas obrigações de comunicação à AT por parte dos intermediários ou dos contribuintes relevantes, incluindo as especificações e instruções de preenchimento e os procedimentos de entrega respetivos. É esse o objeto da presente portaria.
+O modelo de declaração ora aprovado tem naturalmente de ser compatível com as exigências da referida comunicação pela AT às autoridades competentes de todos os outros Estados-Membros das informações por aquela recebidas, decorrendo tais exigências da troca automática e dos respetivos formulários normalizados adotados pela Comissão Europeia.
+No âmbito dos trabalhos do fórum de monitorização da implementação da Lei n.º 26/2020, de 21 de julho («Fórum DAC 6»), criado pelo referido Decreto-Lei n.º 53/2020, de 11 de agosto, foram considerados, nomeadamente, os contributos apresentados pela Ordem dos Advogados, pela Ordem dos Revisores Oficiais de Contas e pela Ordem dos Contabilistas Certificados, bem como pela Associação Portuguesa de Bancos, pela Associação Portuguesa de Seguradores, pela Associação Portuguesa de Consultores Fiscais e por empresas de auditoria e consultoria.
+Assim:
+Ao abrigo do disposto no artigo 24.º da Lei n.º 26/2020, de 21 de julho, alterada pelo Decreto-Lei n.º 53/2020, de 11 de agosto, manda o Governo, pelo Secretário de Estado Adjunto e dos Assuntos Fiscais, o seguinte:
+Artigo 1.º
+Objeto
+1 - É aprovada a declaração modelo 58 para cumprimento da obrigação declarativa de comunicação à Autoridade Tributária e Aduaneira (AT) de determinados mecanismos internos ou transfronteiriços com relevância fiscal, conforme previsão da Lei n.º 26/2020, de 21 de julho, alterada pelo Decreto-Lei n.º 53/2020, de 11 de agosto.
+2 - São igualmente aprovadas as informações gerais, incluindo os prazos aí especificados, e as instruções de preenchimento, inerentes ao modelo de declaração referido no número anterior.
+3 - O modelo de declaração referido no n.º 1 e as informações gerais e instruções de preenchimento referidas no número anterior constam do anexo à presente portaria, que dela faz parte integrante.
+Artigo 2.º
+Cumprimento da obrigação
+A declaração aprovada pela presente portaria é obrigatoriamente entregue por transmissão eletrónica de dados, devendo os sujeitos passivos:
+a) Efetuar o registo, caso ainda não disponham de senha de acesso, no Portal das Finanças, no endereço www.portaldasfinancas.gov.pt;
+b) Proceder à submissão da declaração de acordo com os procedimentos indicados no referido portal.
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado Adjunto e dos Assuntos Fiscais, António Mendonça Mendes, em 23 de dezembro de 2020.
+ANEXO
+
+(ver documento original)
+113840879
