@@ -1,0 +1,39 @@
+# Resolução n.º 1888/2020
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 246/2020, 3.º suplemento, de 2020-12-31
+
+**Sumário:** Aprova a minuta de contrato de compra e venda de ações a celebrar entre a Região Autónoma da Madeira, o Grupo Pestana - SGPS, S.A. e Francisco da Costa & Filhos, S.A., bem como autoriza a realização da despesa correspondente ao contrato referido no número anterior, no montante global máximo de € 7.300.000,00, valor este que compreende o valor do negócio, o valor dos ativos/passivos e a valorização dos imóveis propriedade da Sociedade de Desenvolvimento da Madeira, S.A. (SDM).
+
+## Texto
+
+Resolução n.º 1888/2020
+Considerando a decisão, que remonta à década de 80, de criar a Zona Franca da Madeira ou Centro Internacional de Negócios (“Zona Franca da Madeira”), que visou, entre outros, o objetivo prioritário de contribuir para o desenvolvimento económico e social da Madeira e reforçar a sua capacidade competitiva nos mercados exteriores;
+Considerando que, com a concessão, em 8 de abril de 1987, da atividade de gestão e exploração da Zona Franca da Madeira à Sociedade de Desenvolvimento da Madeira, S.A. (“SDM”) pelo período de 30 anos, foi dado um primeiro passo no percurso que esta sociedade traçou até ao presente, estando esta ligada, de forma intrínseca e indelével, ao cumprimento daqueles grandes desígnios prioritários;
+Considerando que, atualmente, a SDM está incumbida de gerir a Zona Franca da Madeira;
+Considerando que em face da proximidade da cessação da vigência desse contrato, em 6 de fevereiro de 2017, o Governo Regional da Madeira adjudicou à SDM um novo contrato de concessão de serviço público, com idêntico objeto e para vigorar até 31 de dezembro de 2027;
+Considerando que, segundo o entendimento propugnado pela Comissão Europeia, o Direito da União Europeia não permite que o contrato de concessão relativo à gestão e à exploração da Zona Franca da Madeira seja atribuído a um operador económico privado sem procedimento concorrencial;
+Considerando que, nesse pressuposto, o Governo Regional incumbiu uma equipa de projeto de estudar, dos pontos de vista jurídico e económico-financeiro, vários modelos de exploração passíveis de serem adotados para a prossecução da atividade de gestão e exploração da Zona Franca da Madeira ou Centro Internacional de Negócios da Madeira;
+Considerando que o Relatório da Equipa de Projeto sobre a Gestão e Exploração da Zona Franca da Madeira, apresentado em 17 de dezembro de 2019, concluiu que os modelos de exploração analisados modelo de parceria público-privada, por um lado, e modelo de internalização desta atividade, por outro lado são, do ponto de vista económico-financeiro, relativamente equivalentes, não sendo qualquer um deles, em termos de VAL para a Região, substancialmente mais vantajoso do que os demais;
+Considerando que o Conselho do Governo Regional, através da Resolução n.º 1065/2019, de 30 de dezembro, considerou ser mais consentâneo com os interesses da RAM a adoção do modelo de internalização da atividade objeto do contrato de concessão de administração e exploração da Zona Franca da Madeira;
+Considerando que, pelo exposto, é intenção do Governo Regional que a atividade de gestão e exploração da Zona Franca da Madeira possa vir a ser assegurada pela SDM, mas na qualidade de empresa pública regional de capitais exclusivamente públicos, adquirindo a Região ao atual acionista privado, após o necessário acordo deste, a respetiva participação no capital social, passando aquela sociedade a ser integralmente detida pela Região;
+Considerando que, através da mesma Resolução n.º 1065/2019, de 30 de dezembro, foi determinada (i) a realização dos estudos necessários à demonstração do interesse e viabilidade da aquisição da parte do capital social da SDM atualmente detida pelos respetivos
+
+acionistas privados, nos termos e para os efeitos previstos nos n.ºs 1 e 2 do artigo 46.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto de 2010, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 2 de janeiro, que aprova o Regime Jurídico do Setor Empresarial da Região Autónoma da Madeira, e (ii) no caso de os estudos realizados confirmarem o interesse e viabilidade da detenção da totalidade do capital social da SDM, pela Região, o desencadeamento de negociação com os atuais acionistas privados desta sociedade, com vista à aquisição da respetiva participação social;
+Considerando que, na sequência da realização dos estudos necessários à demonstração do interesse e viabilidade de aquisição da parte do capital social da SDM detida pelos respetivos acionistas privados, em cumprimento da referida Resolução do Conselho do Governo Regional e do Despacho do Vice-Presidente do Governo Regional n.º 1/2020, de 3 de janeiro, foi desenvolvido um processo negocial entre o Governo Regional da Região Autónoma da Madeira e os acionistas privados da SDM, com vista a alcançar um acordo destinado à aquisição da respetiva participação social;
+Considerando que, na sequência das negociações desenvolvidas, as partes conseguiram estabilizar um entendimento quanto à aquisição pela Região Autónoma da Madeira da participação dos acionistas privados da SDM;
+Considerando que, atualmente, o Grupo Pestana detém participações representativas de 47,73% do capital da SDM e a Francisco da Costa, S.A. detém, por sua vez, participações representativas de 3,41% do referido capital social, sendo estes os únicos acionistas privados da SDM;
+Considerando que a fixação do valor de venda das participações sociais a transmitir teve por base no estudo demonstrativo do interesse e viabilidade da operação de aquisição nos termos do artigo 46.º, n.º 1, do Regime Jurídico do Setor Empresarial da Região Autónoma da Madeira, elaborado pela Price Waterhouse Coopers em 9 de dezembro de 2020;
+Considerando, por fim, que a transmissão das participações sociais e o correspondente pagamento do preço pela Região Autónoma da Madeira ficam sujeitos à condição precedente de obtenção de visto prévio do Tribunal de Contas ou da declaração emitida por esse Tribunal de que tal visto não é exigível.
+Assim, o Conselho do Governo reunido em plenário extraordinário em 31 de dezembro de 2020, ao abrigo do artigo 11.º e da alínea f) do n.º 1 do artigo 26.º ambos do Decreto Legislativo Regional 1.A/2020/M, de 31 de janeiro, resolve:
+1. Aprovar a minuta de contrato de compra e venda de ações a celebrar entre a Região Autónoma da Madeira, o Grupo Pestana - SGPS, S.A. e Francisco da Costa & Filhos, S.A, documento que faz parte integrante da presente Resolução e que fica arquivado na Secretaria Geral da Presidência do Governo Regional.
+2. Autorizar a realização da despesa correspondente ao contrato referido no número anterior, no montante global máximo de € 7.300.000,00 (sete milhões e trezentos mil euros), valor este que compreende o valor do negócio, o valor dos ativos/passivos e a valorização dos imóveis propriedade da SDM (dois imóveis).
+3. Determinar que os encargos orçamentais relativos ao contrato de compra e venda de ações não podem exceder, em cada ano económico, os seguintes montantes:
+Ano Económico de 2022 ..................... € 3.650.000,00 (três milhões seiscentos e cinquenta mil euros);
+
+Ano Económico de 2023 ................... € 3.650.000,00 (três milhões seiscentos e cinquenta mil euros); 4. Determinar que as verbas necessárias para os anos económicos de 2022 e 2023 serão inscritas no orçamento da entidade que tutela a SDM. 5. Mandatar o Vice-Presidente do Governo Regional e dos Assuntos Parlamentares para, em representação da Região Autónoma da Madeira, outorgar o referido contrato
+
+e praticar todos os atos e diligências necessárias à concretização da presente Resolução.
+6. A presente Resolução produz efeitos à data de aprovação.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
