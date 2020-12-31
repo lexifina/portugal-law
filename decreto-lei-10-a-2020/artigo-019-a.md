@@ -12,6 +12,6 @@
 
 5 - O disposto no n.os 2 e 4 não se aplica aos trabalhadores que possam recorrer a mecanismos alternativos de prestação de trabalho, nomeadamente o teletrabalho.
 
-6 - Nos casos previstos no número anterior, na sequência do contacto com o SNS24, pode ser emitida uma declaração comprovativa da existência de uma situação de risco para a saúde pública para fundamentar a ausência do local de trabalho.
+6 - Nos casos previstos no número anterior, na sequência do contacto com o SNS24, pode ser emitida uma declaração comprovativa da existência de uma situação de risco para a saúde pública para fundamentar a ausência do local de trabalho, a ser enviada, por via eletrónica, à segurança social.
 
 7 - Para efeitos do disposto no presente artigo, a impossibilidade de realização de teletrabalho é atestada por uma declaração da entidade patronal.
