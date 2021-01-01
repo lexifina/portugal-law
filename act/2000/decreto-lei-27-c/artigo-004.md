@@ -28,4 +28,10 @@ c) [Revogada].
 
 6 - [Revogado].
 
-7 - Em caso de recusa da abertura de uma conta de serviços mínimos bancários, as instituições de crédito informam imediatamente o interessado, mediante comunicação em papel ou noutro suporte duradouro, e de forma gratuita, sobre os motivos que justificaram aquela recusa.
+7 - Em caso de recusa da abertura de uma conta de serviços mínimos bancários, as instituições de crédito informam imediatamente o interessado, mediante comunicação em papel ou noutro suporte duradouro, e de forma gratuita, sobre:
+
+a) Os motivos que justificaram a recusa;
+
+b) Os mecanismos de reação à disposição do interessado, nomeadamente a possibilidade de apresentação de reclamação à autoridade de supervisão e o recurso a meios de resolução alternativa de litígios, bem como os dados de contacto para esses efeitos.
+
+8 - O disposto no número anterior não se aplica se a prestação dessas informações for proibida pela legislação nacional ou da União, ou se for contrária a objetivos de ordem pública ou de segurança pública.
