@@ -18,4 +18,18 @@ b) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele períod
 
 6 - Aos sujeitos passivos que se reorganizem, em resultado de atos de concentração tal como definidos no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais.
 
-7 - Sem prejuízo do disposto no n.º 3, caso as unidades de participação nos fundos de investimento referidos na alínea f) do n.º 1 do artigo 37.º sejam alienadas antes de decorrido o prazo de cinco anos, ao IRC do período da alienação é adicionado o montante que tenha sido deduzido à coleta, na proporção correspondente ao período em falta, acrescido dos correspondentes juros compensatórios.
+7 - Sem prejuízo do disposto no n.º 3:
+
+a) Caso as unidades de participação nos fundos de investimento referidos na alínea f) do n.º 1 do artigo 37.º sejam alienadas antes de decorrido o prazo de cinco anos contados da data da aquisição, ao IRC do período da alienação é adicionado o montante que tenha sido deduzido à coleta, na proporção correspondente ao período em falta, acrescido dos correspondentes juros compensatórios;
+
+b) Independentemente do período de investimento previsto no respetivo regulamento de gestão, caso o fundo de investimento não venha a realizar, pelo menos, 80 % do investimento nas empresas dedicadas sobretudo a investigação e desenvolvimento a que se refere a parte final da alínea f) do n.º 1 do artigo 37.º, no prazo de cinco anos contados da data da aquisição das unidades de participação, ao IRC do período de tributação em que se verifique o incumprimento daquele prazo é adicionado o montante proporcional à parte não concretizada dos investimentos que tenha sido deduzido à coleta;
+
+c) Caso as empresas dedicadas sobretudo a investigação e desenvolvimento a que se refere a parte final da alínea f) do n.º 1 do artigo 37.º não concretizem o investimento em atividades de investigação e desenvolvimento, tendo em conta as aplicações relevantes previstas no n.º 1 do artigo 37.º, no prazo de cinco anos contados da data de aquisição dos investimentos de capital próprio e de quase-capital, ao IRC do período de tributação em que se verifique o incumprimento daquele prazo é adicionado o montante proporcional à parte não concretizada dos investimentos que tenha sido deduzido à coleta.
+
+8 - Para efeitos do número anterior:
+
+a) Os fundos de investimento devem, até ao final do quarto mês de cada período de tributação, entregar aos adquirentes das unidades de participação declaração comprovativa do investimento realizado no período anterior em empresas dedicadas sobretudo a investigação e desenvolvimento, a que se refere a parte final da alínea f) do n.º 1 do artigo 37.º, devendo igualmente informar, sendo o caso, do incumprimento do prazo previsto na alínea b) do número anterior e do montante de investimento não concretizado;
+
+b) As empresas dedicadas sobretudo a investigação e desenvolvimento devem, até ao final do quarto mês de cada período de tributação, entregar aos fundos de investimento declaração comprovativa do investimento realizado no período anterior em aplicações relevantes previstas no n.º 1 do artigo 37.º, bem como, sendo o caso, informar do incumprimento do prazo previsto na alínea c) do número anterior e do montante de investimento não concretizado, cabendo ao fundo de investimento comunicar esta informação aos respetivos adquirentes das unidades de participação para efeitos de regularização do IRC, quando aplicável;
+
+c) As declarações referidas nas alíneas anteriores devem integrar o processo de documentação fiscal, a que se refere o artigo 130.º do Código do IRC, das entidades adquirentes das unidades de participação e dos fundos de investimento.
