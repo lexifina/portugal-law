@@ -4,7 +4,7 @@
 
 1 - O valor dos rendimentos qualificados como mais-valias é o correspondente ao saldo apurado entre as mais-valias e as menos-valias realizadas no mesmo ano, determinadas nos termos dos artigos seguintes.
 
-2 - O saldo referido no número anterior, respeitante às transmissões efetuadas por residentes previstas nas alíneas a), c) e d) do n.º 1 do artigo 10.º, positivo ou negativo, é:
+2 - O saldo referido no número anterior, respeitante às transmissões efetuadas por residentes previstas nas alíneas a), c), d) e i) do n.º 1 do artigo 10.º, positivo ou negativo, é:
 
 a) Integralmente considerado nas situações previstas na alínea a) do n.º 1 do artigo 10.º, quando os imóveis tenham beneficiado de apoio não reembolsável concedido pelo Estado ou outras entidades públicas, quando o valor total do apoio concedido para aquisição ou para realização de obras seja de valor superior a 30 % do valor patrimonial tributário do imóvel para efeitos de IMI e estes sejam vendidos antes de decorridos 10 anos sobre a data da sua aquisição, da assinatura da declaração comprovativa da receção da obra ou do pagamento da última despesa relativa ao apoio não reembolsável que, nos termos legais ou regulamentares, não estejam sujeitos a ónus ou regimes especiais que limitem ou condicionem a respetiva alienação;
 
@@ -29,3 +29,5 @@ d) Tratando-se de valores mobiliários da mesma natureza e que confiram idêntic
 e) Nas permutas de partes de capital nas condições mencionadas no n.º 5 do artigo 73.º e no n.º 2 do artigo 77.º do Código do IRC, o período de detenção corresponde ao somatório dos períodos em que foram detidas as partes de capital entregues e as recebidas em troca;
 
 f) O regime da alínea anterior é aplicável, com as necessárias adaptações, à aquisição de partes sociais nos casos de fusão ou cisão a que seja aplicável o artigo 74.º do Código do IRC.
+
+7 - Para o apuramento das mais-valias ou menos-valias realizadas em operações entre um sujeito passivo e uma entidade com a qual esteja numa situação de relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, devem ser contratados, aceites e praticados termos ou condições substancialmente idênticos aos que normalmente seriam contratados, aceites e praticados entre entidades independentes em operações comparáveis, aplicando-se o regime previsto no artigo 63.º do Código do IRC, com as necessárias adaptações.

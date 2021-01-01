@@ -4,7 +4,7 @@
 
 1 - Na determinação do rendimento só são considerados proveitos e custos os relativos a bens ou valores que façam parte do ativo da empresa individual do sujeito passivo ou que estejam afetos às atividades empresariais e profissionais por ele desenvolvidas.
 
-2 - No caso de afetação de quaisquer bens do património particular do sujeito passivo à sua atividade empresarial e profissional, o valor de aquisição pelo qual esses bens são considerados corresponde ao valor de mercado à data da afetação.
+2 - No caso de afetação de quaisquer bens do património particular do sujeito passivo à sua atividade empresarial e profissional, o valor de aquisição pelo qual esses bens são considerados corresponde ao valor de mercado à data da afetação, com exceção dos bens imóveis, em que o valor de aquisição corresponde ao valor do bem à data em que este foi adquirido pelo sujeito passivo, de acordo com as regras previstas nos artigos 45.º ou 46.º, consoante o caso.
 
 3 - No caso de transferência para o património particular do sujeito passivo de bens afetos à sua atividade empresarial e profissional, o valor dos bens corresponde ao valor de mercado dos mesmos à data da transferência.
 

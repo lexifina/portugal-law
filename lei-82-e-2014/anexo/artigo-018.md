@@ -36,4 +36,4 @@ p) As mais-valias resultantes da transmissão onerosa de partes de capital ou de
 
 2 - Entende-se por estabelecimento estável qualquer instalação fixa ou representação permanente através da qual seja exercida uma das atividades previstas no artigo 3.º
 
-3 - É aplicável ao IRS o disposto nos n.os 4 e 5 do artigo 4.º e nos n.os 2 a 9 do artigo 5.º ambos do Código do IRC, com as necessárias adaptações.
+3 - É aplicável ao IRS o disposto nos n.os 4 e 5 do artigo 4.º e nos n.os 2 a 11 do artigo 5.º, ambos do Código do IRC, com as necessárias adaptações.

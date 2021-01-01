@@ -4,7 +4,7 @@
 
 1 - Constituem mais-valias os ganhos obtidos que, não sendo considerados rendimentos empresariais e profissionais, de capitais ou prediais, resultem de:
 
-a) Alienação onerosa de direitos reais sobre bens imóveis e afetação de quaisquer bens do património particular a atividade empresarial e profissional exercida em nome individual pelo seu proprietário;
+a) Alienação onerosa de direitos reais sobre bens imóveis;
 
 b) Alienação onerosa de partes sociais e de outros valores mobiliários, incluindo:
 
@@ -28,7 +28,9 @@ f) Operações relativas a warrants autónomos, quer o warrant seja objeto de ne
 
 g) Operações relativas a certificados que atribuam ao titular o direito a receber um valor de determinado ativo subjacente, com exceção das remunerações previstas na alínea r) do n.º 2 do artigo 5.º;
 
-h) Cessão onerosa de créditos, prestações acessórias e prestações suplementares.
+h) Cessão onerosa de créditos, prestações acessórias e prestações suplementares;
+
+i) Afetação de quaisquer bens do património particular, com exceção dos bens imóveis, a atividade empresarial e profissional exercida em nome individual pelo seu proprietário.
 
 2 - (Revogado.)
 
@@ -36,13 +38,13 @@ h) Cessão onerosa de créditos, prestações acessórias e prestações supleme
 
 a) Nos casos de promessa de compra e venda ou de troca, presume-se que o ganho é obtido logo que verificada a tradição ou posse dos bens ou direitos objeto do contrato;
 
-b) Nos casos de afetação de quaisquer bens do património particular a atividade empresarial e profissional exercida pelo seu proprietário, o ganho só se considera obtido no momento da ulterior alienação onerosa dos bens em causa ou da ocorrência de outro facto que determine o apuramento de resultados em condições análogas, exceto no caso de restituição ao património particular de imóvel habitacional que seja afeto à obtenção de rendimentos da categoria F, mantendo-se o diferimento da tributação do ganho enquanto o imóvel mantiver aquela afetação;
+b) Nos casos de afetação de quaisquer bens do património particular a atividade empresarial e profissional exercida pelo seu proprietário, prevista na alínea i) do n.º 1, o ganho só se considera obtido no momento da ulterior alienação onerosa dos bens em causa ou da ocorrência de outro facto que determine o apuramento de resultados em condições análogas;
 
 c) Nos contratos de permuta de bens presentes por bens futuros, a tributação apenas ocorre no momento da celebração do contrato que formaliza a aquisição do bem futuro, ou no momento da sua tradição, se anterior.
 
 4 - O ganho sujeito a IRS é constituído:
 
-a) Pela diferença entre o valor de realização e o valor de aquisição, líquidos da parte qualificada como rendimento de capitais, sendo caso disso, nos casos previstos nas alíneas a), b) e c) do n.º 1;
+a) Pela diferença entre o valor de realização e o valor de aquisição, líquidos da parte qualificada como rendimento de capitais, sendo caso disso, nas situações previstas nas alíneas a), b), c) e i) do n.º 1;
 
 b) Pela importância recebida pelo cedente, deduzida do preço por que eventualmente tenha obtido os direitos e bens objeto de cessão, no caso previsto na alínea d) do n.º 1;
 
@@ -88,17 +90,23 @@ d) Os imóveis que tenham beneficiado de apoio não reembolsável concedido pelo
 
 7 - Os ganhos previstos no n.º 5 são igualmente excluídos de tributação, desde que verificadas, cumulativamente, as seguintes condições:
 
-a) O valor de realização, deduzido da amortização de eventual empréstimo contraído para a aquisição do imóvel e, se aplicável, do reinvestimento previsto na alínea a) do n.º 5, seja utilizado para a aquisição de um contrato de seguro ou de uma adesão individual a um fundo de pensões aberto, ou ainda para contribuição para o regime público de capitalização;
+a) O valor de realização, deduzido da amortização de eventual empréstimo contraído para a aquisição do imóvel e, se aplicável, do reinvestimento previsto na alínea a) do n.º 5, seja utilizado para a aquisição de um ou mais de um dos produtos seguintes:
 
-b) O sujeito passivo ou o respetivo cônjuge, na data da transmissão do imóvel, se encontre, comprovadamente, em situação de reforma, ou tenha, pelo menos, 65 anos de idade;
+i) Contrato de seguro financeiro do ramo vida;
 
-c) A aquisição do contrato de seguro, a adesão individual a um fundo de pensões aberto ou a contribuição para o regime público de capitalização seja efetuada nos seis meses posteriores contados da data de realização;
+ii) Adesão individual a um fundo de pensões aberto; ou
 
-d) Sendo o investimento realizado por aquisição de contrato de seguro ou da adesão individual a um fundo de pensões aberto, estes visem, exclusivamente, proporcionar ao adquirente ou ao respetivo cônjuge, uma prestação regular periódica, de montante máximo anual igual a 7,5 % do valor investido;
+iii) Contribuição para o regime público de capitalização;
+
+b) O sujeito passivo ou o respetivo cônjuge ou unido de facto, na data da transmissão do imóvel, se encontre, comprovadamente, em situação de reforma ou tenha, pelo menos, 65 anos de idade;
+
+c) A aquisição do contrato de seguro financeiro do ramo vida, a adesão individual a um fundo de pensões aberto ou a contribuição para o regime público de capitalização seja efetuada nos seis meses posteriores contados da data de realização;
+
+d) Sendo o investimento realizado por aquisição de contrato de seguro financeiro do ramo vida ou da adesão individual a um fundo de pensões aberto, estes visem, exclusivamente, proporcionar ao adquirente ou ao respetivo cônjuge ou unido de facto uma prestação regular periódica durante um período igual ou superior a 10 anos, de montante máximo anual igual a 7,5 % do valor investido;
 
 e) O sujeito passivo manifeste a intenção de proceder ao reinvestimento, ainda que parcial, mencionando o respetivo montante na declaração de rendimentos respeitante ao ano da alienação.
 
-8 - Não há lugar ao benefício referido no número anterior se o reinvestimento não for efetuado no prazo referido na alínea c), ou se, em qualquer ano, o valor das prestações recebidas ultrapassar o limite fixado na alínea d), sendo esse ganho objeto de tributação no ano em que se conclua o prazo para reinvestimento, ou que seja ultrapassado o referido limite, respetivamente.
+8 - Não há lugar ao benefício referido no número anterior se o reinvestimento não for efetuado no prazo referido na alínea c), ou se, em qualquer ano, o valor das prestações recebidas ultrapassar o limite fixado na alínea d), ou se for interrompido o pagamento regular das prestações, sendo esse ganho objeto de tributação no ano em que se conclua o prazo para reinvestimento, ou que seja ultrapassado o referido limite ou no ano em que seja interrompido o pagamento regular das prestações, respetivamente.
 
 9 - No caso de reinvestimento parcial do valor de realização e verificadas as condições estabelecidas nos n.os 6 e 8, os benefícios a que se referem os n.os 5 e 7 respeitam apenas à parte proporcional dos ganhos correspondentes ao valor reinvestido.
 
@@ -120,4 +128,6 @@ b) A exigência dos elementos de prova previstos nos n.os 5 e 6 do artigo 78.º 
 
 14 - Os sujeitos passivos devem declarar a alienação onerosa das ações, bem como a data das respetivas aquisições.
 
-15 - Em caso de restituição ao património particular de imóvel habitacional que seja afeto à obtenção de rendimentos da categoria F, não há lugar à tributação de qualquer ganho, se em resultado dessa afetação o imóvel gerar rendimentos durante cinco anos consecutivos.
+15 - (Revogado.)
+
+16 - Os ganhos obtidos com a alienação onerosa de direitos reais sobre bens imóveis que tenham estado afetos à atividade empresarial e profissional do sujeito passivo são tributados de acordo com as regras da categoria B, caso a alienação ocorra antes de decorridos três anos após a transferência para o património particular do sujeito passivo.

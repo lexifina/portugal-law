@@ -12,7 +12,9 @@ c) Secção I - Alojamento, restauração e similares, salvo se a fatura já tiv
 
 d) Secção S, classe 9602 - Atividades de salões de cabeleireiro e institutos de beleza;
 
-e) Secção M, classe 75000 - atividades veterinárias.
+e) Secção M, classe 75000 - atividades veterinárias;
+
+f) Secção P, classe 85510 (Ensinos desportivo e recreativo) e Secção R, classes 93120 (Atividades dos clubes desportivos) e 93130 (atividades de ginásio - fitness).
 
 2 - O valor do incentivo, calculado nos termos do presente artigo, pode ser atribuído:
 
@@ -28,4 +30,4 @@ c) À mesma pessoa coletiva de utilidade pública que desenvolva atividades de n
 
 5 - Nas atividades previstas no n.º 1 consideram-se abrangidas as atividades equivalentes previstas na tabela a que se refere o artigo 151.º.
 
-6 - O disposto na alínea e) do n.º 1 inclui a aquisição de medicamentos de uso veterinário.
+6 - O disposto na alínea e) do n.º 1 inclui a aquisição de medicamentos de uso veterinário, concorrendo para o limite referido no n.º 1 um montante correspondente a 22,5 % do IVA suportado por qualquer membro do agregado familiar.
