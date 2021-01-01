@@ -16,6 +16,8 @@ e) Os centros de cultura organizados nos termos dos Estatutos do INATEL, com exc
 
 f) Organismos públicos de produção artística responsáveis pela promoção de projetos relevantes de serviço público, nas áreas do teatro, música, ópera e bailado.
 
+g) Outras entidades não referidas nas alíneas anteriores que desenvolvam atividades predominantemente de caráter cultural no âmbito do teatro, da ópera, do bailado, música, cinema, dança, artes performativas, artes visuais, organização de festivais e outras manifestações artísticas e da produção cinematográfica, audiovisual e literária.
+
 2 - São consideradas entidades promotoras as pessoas singulares e coletivas, públicas ou privadas, que efetuam donativos às entidades referidas no número anterior, nos termos do artigo 61.º
 
 3 - As entidades beneficiárias devem obter junto do membro do Governo responsável pela área da cultura, previamente à obtenção dos donativos, a declaração do seu enquadramento no regime do mecenato cultural e do interesse cultural das atividades ou das ações desenvolvidas, salvo se forem enquadráveis no artigo 10.º do Código do IRC ou o projeto ou a atividade a beneficiar do donativo seja, comprovadamente, objeto de apoios públicos atribuídos por organismos sob a tutela do membro do Governo responsável pela área da cultura.
@@ -35,3 +37,7 @@ c) A fundações em que o Estado, as regiões autónomas ou as autarquias locais
 7 - No caso de donativos em espécie efetuados por sujeitos passivos de IRC ou por sujeitos passivos de IRS, aplica-se o disposto no n.º 11 do artigo 62.º
 
 8 - No caso de mecenato de recursos humanos, considera-se, para efeitos do presente artigo, que o valor da cedência de um técnico especialista é o valor correspondente aos encargos despendidos pela entidade patronal com a sua remuneração, incluindo os suportados para regimes obrigatórios de segurança social, durante o período da respetiva cedência.
+
+9 - Sem prejuízo do disposto no n.º 3, no caso das entidades previstas na alínea g) do n.º 1, a declaração do seu enquadramento no regime do mecenato cultural e do interesse cultural das atividades ou das ações desenvolvidas depende de prévio reconhecimento, através de despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
+
+10 - Do despacho referido no número anterior consta necessariamente a fixação do prazo de validade de tal reconhecimento.

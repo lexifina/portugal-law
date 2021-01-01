@@ -28,6 +28,8 @@ e) Organizações não governamentais para o desenvolvimento;
 
 f) Outras entidades promotoras de iniciativas de auxílio a populações carecidas de ajuda humanitária, em consequência de catástrofes naturais ou de outras situações de calamidade internacional, reconhecidas pelo Estado Português, mediante despacho conjunto do Ministro das Finanças e do Ministro dos Negócios Estrangeiros.
 
+g) Entidades hospitalares EPE.
+
 4 - Os donativos referidos no número anterior são levados a custos em valor correspondente a 130 % do respectivo total ou a 140 % no caso de se destinarem a custear as seguintes medidas:
 
 a) Apoio à infância ou à terceira idade;
