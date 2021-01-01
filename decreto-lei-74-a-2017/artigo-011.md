@@ -6,7 +6,7 @@
 
 2 - O mutuante pode exigir ao consumidor que:
 
-a) Abra ou mantenha aberta uma conta de depósito à ordem;
+a) Abra ou mantenha aberta uma conta de depósito à ordem, caso em que o mutuante deve aceitar uma conta numa instituição que não a sua;
 
 b) Constitua um ou mais contratos de seguro adequado, relacionado com o contrato de crédito, caso em que o mutuante deve aceitar o contrato de seguro de um prestador que não seja o da sua preferência, se esse contrato salvaguardar um nível de garantia equivalente ao do contrato proposto pelo mutuante.
 

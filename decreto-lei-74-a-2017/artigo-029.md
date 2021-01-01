@@ -58,7 +58,7 @@ x) A celebração do contrato de crédito com o consumidor em violação do disp
 
 y) O incumprimento do dever de atualizar a informação financeira do consumidor e avaliar de novo a solvabilidade deste, em violação do disposto no n.º 5 do artigo 16.º;
 
-aa) A resolução ou alteração do contrato de crédito em prejuízo do consumidor, em violação do disposto no n.º 6 do artigo 16.º;
+aa) A resolução ou alteração do contrato de crédito em prejuízo do consumidor, em violação do disposto no n.º 5 do artigo 16.º;
 
 ab) O incumprimento do dever de elaborar e implementar um documento interno que descreva o método de avaliação de solvabilidade, nos termos do disposto no n.º 7 do artigo 16.º;
 
@@ -125,3 +125,5 @@ bg) O incumprimento de dever de encaminhar a resolução de litígios transfront
 bh) As violações dos regulamentos emitidos em cumprimento ou para execução das disposições do presente decreto-lei, relacionadas com os incumprimentos referidos nas alíneas anteriores.
 
 bi) O incumprimento dos deveres previstos no artigo 21.º-A.
+
+bj) A cobrança de qualquer comissão pela renegociação do contrato de crédito ou associada ao processamento de prestações de crédito, à emissão de distrate após o termo do contrato ou à emissão de declarações de dívida ou qualquer declaração emitida para o cumprimento de obrigações para acesso a apoios ou prestações sociais e serviços públicos, em violação, respetivamente, do disposto nos artigos 14.º-A e 28.º-A.
