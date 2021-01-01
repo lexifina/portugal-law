@@ -8,7 +8,7 @@
 
 a) Indicar o seu número de identificação para efeitos de IVA, ou o do seu representante fiscal na acepção do artigo 30.º do Código do IVA, emitido em território nacional;
 
-b) Indicar o número de identificação para efeitos de IVA do adquirente atribuído noutro Estado membro ou, no caso de os bens serem objecto de transmissão nos termos da alínea c) do artigo 14.º, o seu próprio número de identificação para efeitos de IVA no Estado membro de chegada da expedição ou transporte dos bens;
+b) Indicar o número de identificação para efeitos de IVA do adquirente atribuído noutro Estado-Membro ou, no caso de os bens serem objeto de transmissão nos termos da alínea c) do n.º 1 do artigo 14.º, o seu próprio número de identificação para efeitos de IVA no Estado-Membro de chegada da expedição ou transporte dos bens;
 
 c) Fizer prova de que os bens importados se destinam a ser transportados ou expedidos com destino a outro Estado membro.
 

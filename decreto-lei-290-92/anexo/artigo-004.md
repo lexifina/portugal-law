@@ -11,3 +11,5 @@ b) A aquisição de bens expedidos ou transportados a partir de um país terceir
 2 - Sem prejuízo do disposto neste diploma, são consideradas como aquisições intracomunitárias as operações que, se efectuadas no território nacional por um sujeito passivo agindo como tal, seriam consideradas transmissões, nos termos do artigo 3.º do Código do IVA.
 
 3 - Não é considerada aquisição intracomunitária a afectação de bens a que se refere a alínea a) do n.º 1 quando a transferência desses bens tiver por objecto a realização, no território nacional, de operações mencionadas no n.º 2 do artigo 7.º
+
+4 - Não é considerada aquisição intracomunitária a afetação de bens a que se refere a alínea a) do n.º 1 nas situações previstas nos n.os 1 a 3 do artigo 7.º-A, salvo quando se verifique qualquer das condições referidas no n.º 4 do artigo 7.º

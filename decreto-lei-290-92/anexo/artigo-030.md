@@ -12,4 +12,4 @@ b) Até ao dia 20 do mês seguinte ao final do trimestre civil a que respeitam a
 
 3 - As transmissões de bens isentas de imposto nos termos das alíneas d) a m) e v) do n.º 1 do artigo 14.º do Código do IVA não devem constar da declaração recapitulativa a que se refere o n.º 1, quando o adquirente dos bens seja um sujeito passivo registado para efeitos de IVA em outro Estado membro, que tenha utilizado o respectivo número de identificação para efectuar a aquisição, ainda que os bens sejam expedidos ou transportados para outro Estado membro.
 
-4 - A obrigação declarativa a que se refere o n.º 1 só se verifica relativamente aos períodos em que ocorram as operações referidas na alínea c) do n.º 1 do artigo 23.º
+4 - A obrigação declarativa a que se refere o n.º 1 só se verifica relativamente aos períodos em que ocorram as operações referidas na alínea c) do n.º 1 do artigo 23.º ou alterações das informações prestadas relativamente às transferências de bens abrangidas pelos n.os 1 a 3 do artigo 7.º-A.

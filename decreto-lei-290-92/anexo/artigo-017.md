@@ -8,7 +8,7 @@
 
 1 - Na determinação do valor tributável das aquisições intracomunitárias de bens é aplicável, em idênticas condições, o previsto no artigo 16.º do Código do IVA para as transmissões de bens.
 
-2 - Nas transmissões referidas na alínea c) do artigo 14.º e nas aquisições intracomunitárias de bens mencionadas na alínea a) do n.º 1 do artigo 4.º, o valor tributável é determinado nos termos da alínea b) do n.º 2 e do n.º 5 do artigo 16.º do Código do IVA.
+2 - Nas transmissões referidas na alínea c) do n.º 1 do artigo 14.º e nas aquisições intracomunitárias de bens mencionadas na alínea a) do n.º 1 do artigo 4.º, o valor tributável é determinado nos termos da alínea b) do n.º 2 e do n.º 5 do artigo 16.º do Código do IVA.
 
 3 - Nas aquisições intracomunitárias de bens sujeitos a impostos especiais de consumo ou a imposto sobre veículos, o valor tributável é determinado com inclusão destes impostos, ainda que não liquidados simultaneamente.
 

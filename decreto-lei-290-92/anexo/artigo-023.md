@@ -12,6 +12,6 @@ a) Proceder à liquidação do imposto que se mostre devido pelas aquisições i
 
 b) Emitir obrigatoriamente uma fatura por cada transmissão de bens efetuada nas condições previstas no artigo 7.º, bem como pela transmissão ocasional de um meio de transporte novo isenta nos termos do artigo 14.º;
 
-c) Enviar uma declaração recapitulativa das transmissões de bens isentas nos termos do artigo 14.º, bem como das operações a que se refere a alínea a) do n.º 3 do artigo 8.º
+c) Enviar uma declaração recapitulativa das transmissões de bens isentas nos termos do artigo 14.º, das operações a que se refere a alínea a) do n.º 3 do artigo 8.º e das transferências de bens abrangidas pelos n.os 1 a 3 do artigo 7.º-A.
 
 2 - (Revogado.)
