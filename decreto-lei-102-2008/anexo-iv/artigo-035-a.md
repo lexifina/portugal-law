@@ -14,4 +14,4 @@ b) A operação não se considere efetuada na União Europeia.
 
 4 - As regras previstas no presente Código são ainda aplicáveis à fatura elaborada pelo sujeito passivo adquirente dos bens ou destinatário dos serviços que tenha sede, estabelecimento estável ou, na sua falta, o domicílio em território nacional, quando as operações aqui se considerem efetuadas e a obrigação de liquidação do imposto recair sobre ele.
 
-5 - Não obstante o disposto no n.º 1, a emissão de fatura pelas operações efetuadas por sujeitos passivos que utilizem Portugal como Estado membro de identificação para efeitos do regime especial aprovado pelo Decreto-Lei n.º 158/2014, de 24 de outubro, está sujeita às regras estabelecidas no presente Código.
+5 - Não obstante o disposto no n.º 1, a emissão de fatura pelas operações efetuadas por sujeitos passivos que utilizem Portugal como Estado-Membro de identificação para efeitos dos regimes especiais do IVA, aprovados pela Lei n.º 47/2020, de 24 de agosto, está sujeita às regras estabelecidas no presente Código.

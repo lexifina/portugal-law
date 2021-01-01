@@ -34,6 +34,6 @@ b) Quando as mercadorias que compõem a unidade de venda sofram alterações da 
 
 7 - Sem prejuízo do disposto na verba 2.1. da Lista I anexa ao presente Código, às prestações de serviços por via eletrónica, nomeadamente as descritas no anexo D, aplica-se a taxa referida na alínea c) do n.º 1.
 
-8 - Quando não isentas, ao abrigo do artigo 13.º ou de outros diplomas, às importações de mercadorias que sejam objecto de pequenas remessas enviadas a particulares ou que sejam contidas nas bagagens pessoais dos viajantes, sujeitas ao direito aduaneiro forfetário previsto nas disposições preliminares da Pauta Aduaneira Comum, aplica-se a taxa referida na alínea c) do n.º 1, independentemente da sua natureza.
+8 - Às importações de bens a que seja aplicável o regime de declaração e pagamento do IVA referido nos n.os 10 e 11 do artigo 28.º, bem como, quando não isentas ao abrigo do artigo 13.º ou de outros diplomas, às importações de mercadorias que sejam objeto de pequenas remessas enviadas a particulares ou que sejam contidas nas bagagens pessoais dos viajantes, sujeitas ao direito aduaneiro forfetário previsto nas disposições preliminares da Pauta Aduaneira Comum, aplica-se a taxa referida na alínea c) do n.º 1, independentemente da sua natureza.
 
 9 - A taxa aplicável é a que vigora no momento em que o imposto se torna exigível.

@@ -28,6 +28,8 @@ i) As importações de gás, através de uma rede de gás natural ou de qualquer
 
 j) As importações de triciclos, cadeiras de rodas, com ou sem motor, automóveis ligeiros de passageiros ou mistos para uso próprio das pessoas com deficiência, de acordo com os condicionalismos previstos no Código do Imposto sobre Veículos, devendo o benefício ser requerido nos termos estabelecidos naquele Código.
 
+l) As importações de bens, quando o IVA for declarado ao abrigo do regime especial aplicável às vendas à distância de bens importados e, no momento do desalfandegamento, for indicado na declaração aduaneira de importação o número individual de identificação do fornecedor, atribuído para efeito da aplicação daquele regime.
+
 2 - Estão isentas do imposto as importações de bens efectuadas:
 
 a) No âmbito de acordos e convénios internacionais de que Portugal seja parte, nas condições e limites acordados;

@@ -4,7 +4,7 @@
 
 1 - A identificação da fatura relativa a cada crédito de cobrança duvidosa, a identificação do adquirente, o valor da fatura e o imposto liquidado, a realização de diligências de cobrança por parte do credor e o insucesso, total ou parcial, de tais diligências, bem como outros elementos que evidenciem a realização das operações em causa, devem encontrar-se documentalmente comprovados e ser certificados nos seguintes termos:
 
-a) Por revisor oficial de contas ou contabilista certificado independente, nas situações em que a regularização de imposto não exceda 10 000 (euro) por declaração periódica;
+a) Por revisor oficial de contas ou contabilista certificado independente, nas situações em que a regularização do imposto não exceda 10 000 (euro) por pedido de autorização prévia;
 
 b) Exclusivamente por revisor oficial de contas, nas restantes situações.
 

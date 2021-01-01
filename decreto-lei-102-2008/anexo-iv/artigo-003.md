@@ -31,3 +31,9 @@ g) A afectação de bens por um sujeito passivo a um sector de actividade isento
 7 - Excluem-se do regime estabelecido na alínea f) do n.º 3, nos termos definidos por portaria do Ministro das Finanças, os bens não destinados a posterior comercialização que, pelas suas características, ou pelo tamanho ou formato diferentes do produto que constitua a unidade de venda, visem, sob a forma de amostra, apresentar ou promover bens produzidos ou comercializados pelo próprio sujeito passivo, assim como as ofertas de valor unitário igual ou inferior a (euro) 50 e cujo valor global anual não exceda cinco por mil do volume de negócios do sujeito passivo no ano civil anterior, em conformidade com os usos comerciais.
 
 8 - No caso de início de actividade, a permilagem referida no número anterior aplica-se aos valores esperados, sem prejuízo de rectificação a efectuar na última declaração periódica a apresentar no ano de início de actividade, se os valores definitivos forem inferiores aos valores esperados.
+
+9 - Quando um sujeito passivo facilitar, mediante a utilização de uma interface eletrónica, a realização de vendas à distância de bens importados em remessas de valor intrínseco não superior a 150 (euro), considera-se que adquiriu e transmitiu pessoalmente esses bens.
+
+10 - Quando um sujeito passivo facilitar, mediante a utilização de uma interface eletrónica, a realização de transmissões de bens dentro da União Europeia por um sujeito passivo não estabelecido na União Europeia a uma pessoa que não seja sujeito passivo, considera-se que o sujeito passivo que facilita a transmissão adquiriu e transmitiu pessoalmente esses bens.
+
+11 - Quando um sujeito passivo adquiriu e transmitiu bens nos termos dos n.os 9 e 10, a expedição ou transporte dos bens é atribuída à transmissão de bens efetuada por este sujeito passivo.

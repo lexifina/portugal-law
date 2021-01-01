@@ -23,3 +23,21 @@ b) Até ao 15.º dia do 2.º mês seguinte aos períodos de globalização do re
 8 - A prestação e utilização da garantia prevista no n.º 4 obedece às regras a estabelecer em portaria do membro do Governo responsável pela área das finanças.
 
 9 - Em caso de incumprimento, e independentemente da instauração de processo de execução fiscal nos termos da lei, é retirada ao devedor a faculdade de utilização da garantia referida no n.º 4, durante o período de um ano, sem prejuízo da possibilidade de recorrer às garantias previstas no n.º 3.
+
+10 - Na importação de bens, com exceção de produtos sujeitos a impostos especiais de consumo, o destinatário dos bens é o responsável pelo pagamento do IVA quando, cumulativamente:
+
+a) Não seja utilizado o regime especial aplicável às vendas à distância de bens importados;
+
+b) Se tratar de remessas de valor intrínseco não superior a 150 (euro);
+
+c) A declaração aduaneira seja entregue, por conta do destinatário dos bens, pela pessoa que apresenta as mercadorias à alfândega.
+
+11 - Para efeitos do regime de declaração e pagamento do IVA na importação previsto no número anterior, a pessoa que apresenta os bens à alfândega deve:
+
+a) Enviar por transmissão eletrónica de dados, até ao dia 10 do mês seguinte ao da importação, uma declaração com o montante global do IVA cobrado aos destinatários dos bens durante o mês civil anterior;
+
+b) Proceder ao pagamento do imposto aí referido nos termos previstos na legislação aplicável ao diferimento do pagamento dos direitos aduaneiros, sem prestação de garantia;
+
+c) Conservar, pelo prazo de cinco anos a contar do final do ano em que ocorreu a importação, registos detalhados das operações abrangidas pelo regime e, quando sejam solicitados, disponibilizá-los por via eletrónica à Autoridade Tributária e Aduaneira.
+
+12 - Sem prejuízo do disposto nos n.os 10 e 11, a pessoa que apresenta os bens à alfândega é solidariamente responsável pelo pagamento do imposto com o destinatário dos bens, salvo nos casos em que os bens tenham sido reexportados, abandonados a favor do Estado ou relativamente aos mesmos tenham sido adotadas as medidas necessárias à cessão das mercadorias nos termos e prazos previstos na legislação aduaneira.

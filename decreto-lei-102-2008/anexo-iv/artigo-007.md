@@ -41,3 +41,5 @@ c) Nas importações, no momento determinado pelas disposições aplicáveis aos
 a) Se se verificar a realização, pelo sujeito passivo que procede à cessão do vale de finalidade múltipla, de operações tributáveis distintas da própria cessão, ainda que efetuadas, designadamente, a título da respetiva promoção ou distribuição, o imposto é devido e exigível no momento da sua realização, pela contraprestação que lhe seja devida a esse título;
 
 b) Se se verificar a caducidade do direito de o respetivo titular obter a transmissão de bens ou a prestação de serviços a que o vale de finalidade múltipla diz respeito, sem que o sujeito passivo que procedeu à cessão lhe restitua a contraprestação paga, o imposto relativo à prestação de serviços de colocação à disposição, a título oneroso, do referido direito é devido e exigível no momento em que o mesmo caducar.
+
+16 - Nas transmissões de bens efetuadas a um sujeito passivo nas condições previstas nos n.os 9 e 10 do artigo 3.º e nas transmissões de bens por este efetuadas nas mesmas condições, o imposto é devido e torna-se exigível na data em que o pagamento tenha sido aceite.

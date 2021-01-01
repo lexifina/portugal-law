@@ -50,6 +50,8 @@ u) As transmissões para o Banco de Portugal de ouro em barra ou em outras forma
 
 v) As transmissões de bens e as prestações de serviços destinadas às forças armadas de qualquer outro Estado que seja parte no Tratado do Atlântico Norte, que não seja o Estado membro da Comunidade Europeia para o qual os bens são expedidos ou os serviços prestados, para uso dessas forças armadas ou do elemento civil que as acompanham, ou para o aprovisionamento das respectivas messes ou cantinas, quando as referidas forças se encontrem afectas ao esforço comum de defesa.
 
+x) As transmissões de bens efetuadas ao sujeito passivo que facilitar a sua transmissão dentro da União Europeia nas situações abrangidas pelo n.º 10 do artigo 3.º
+
 2 - As isenções referidas nas alíneas d), e) e h) do número anterior, no que se refere às transmissões de bebidas, efectivam-se através do exercício do direito à dedução ou da restituição do imposto, não se considerando, para o efeito, o disposto na alínea d) do n.º 1 do artigo 21.º
 
 3 - Para efeitos do estabelecido neste Código, entende-se por bens de abastecimento:
