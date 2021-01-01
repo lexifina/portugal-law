@@ -24,4 +24,4 @@ e) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem zooté
 
 f) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.
 
-4 - Os beneficiários com compromissos na ação 7.2, 'Produção Integrada' podem, aquando da apresentação do pedido de pagamento anual, transitar para a ação 7.1, 'Agricultura Biológica', desde que se verifique o cumprimento dos critérios de elegibilidade referidos no artigo 9.º, em data anterior a 1 de janeiro do ano do pedido de pagamento, sendo aplicáveis os montantes e limites de apoio previstos no anexo IV.
+4 - (Revogado).
