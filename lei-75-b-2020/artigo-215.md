@@ -8,7 +8,7 @@ a) Os trabalhos definidos nos n.os 2, 10 e 13 do artigo 15.º do Decreto-Lei n.�
 
 b) Os trabalhos definidos no n.º 1 do artigo 15.º do Decreto-Lei n.º 124/2006, de 28 de junho, devem decorrer até 31 de maio.
 
-2 - (Revogado.)
+2 - Em 2021, as coimas a que se refere o artigo 38.º do Decreto-Lei n.º 124/2006, de 28 de junho, são aumentadas para o dobro.
 
 3 - Até 31 de maio de 2021, os municípios garantem a realização de todos os trabalhos de gestão de combustível, devendo substituir-se aos proprietários e outros produtores florestais em incumprimento, procedendo à gestão de combustível prevista na lei, mediante comunicação e, na falta de resposta em cinco dias, por aviso a afixar no local dos trabalhos.
 
