@@ -50,7 +50,7 @@ b) Os gastos ou encargos relativos a bónus e outras remunerações variáveis p
 
 17 - O disposto no presente artigo não é aplicável relativamente às despesas ou encargos de estabelecimento estável situado fora do território português e relativos à atividade exercida por seu intermédio.
 
-18 - No caso de viaturas ligeiras de passageiros híbridas plug-in, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 5 %, 10 % e 17,5 %.
+18 - No caso de viaturas ligeiras de passageiros híbridas plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 gCO(índice 2)/km, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 5 %, 10 % e 17,5 %.
 
 19 - No caso de viaturas ligeiras de passageiros movidas a GNV, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 7,5 %, 15 % e 27,5 %.
 
