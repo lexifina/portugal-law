@@ -17,3 +17,5 @@
 3 - A ação de assistência é ainda exercida quando, por motivo não imputável aos beneficiários, estes tenham uma quebra abrupta da sua atividade, caso em que há lugar, por um período máximo de 180 dias, ao pagamento de um subsídio extraordinário no valor do indexante de apoios sociais.
 
 4 - O subsídio referido no n.º 3 refere-se a situações de estado de emergência, de calamidade, de contingência, de alerta ou outros casos que tornem impossível ou muito limitado o exercício da profissão, assim consideradas em lei.
+
+5 - À ação de assistência referida nos n.os 3 e 4 não é aplicável a segunda parte do n.º 1 do artigo 72.º.
