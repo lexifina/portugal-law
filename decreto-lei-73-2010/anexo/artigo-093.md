@@ -10,7 +10,7 @@
 
 a) Motores estacionários utilizados na rega;
 
-b) Embarcações referidas nas alíneas c) e h) do n.º 1 do artigo 89.º;
+b) Embarcações referidas na alínea c) do n.º 1 do artigo 89.º;
 
 c) Equipamentos utilizados nas atividades agrícola, florestal, aquícola e na pesca com arte-xávega, aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, do ambiente, da agricultura e do mar;
 

@@ -1,6 +1,6 @@
 # Artigo 90.º
 
-### Isenção para os biocombustíveis
+### Isenção para os biocombustíveis e gases de origem renovável
 
 1 - Beneficiam de isenção total ou parcial do imposto, até ao limite máximo global de 40 000 t/ano, os biocombustíveis puros abaixo indicados, quando produzidos por pequenos produtores dedicados:
 
@@ -29,3 +29,5 @@ d) Produtos obtidos a partir da biomassa, incluindo os produtos abrangidos pelos
 9 - (Revogado.)
 
 10 - (Revogado.)
+
+11 - Beneficiam ainda de isenção total do imposto os biocombustíveis avançados, na aceção da alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 117/2010, de 25 de outubro, desde que certificados com o Título de Biocombustível (TdB), bem como os gases de origem renovável, na aceção da alínea bb) do artigo 3.º do Decreto-Lei n.º 62/2020, de 28 de agosto, desde que certificados com garantia de origem (GO).

@@ -18,7 +18,7 @@ f) Sejam utilizados em instalações sujeitas ao regime de comércio europeu de 
 
 g) Contidos nos reservatórios normais e nos contentores especiais dos veículos automóveis procedentes de outros Estados membros;
 
-h) Sejam utilizados em operações de dragagem em portos e vias navegáveis, mas com exclusão da extracção comercial de areias que não vise o desassoreamento, no que se refere aos produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49 e 2710 19 61 a 2710 19 69;
+h) (Revogada.)
 
 i) Sejam utilizados no transporte de passageiros e de mercadorias por caminhos de ferro, no que se refere aos produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49;
 
@@ -52,4 +52,4 @@ c) Os reservatórios fixados com carácter permanente pelo construtor em todos o
 
 6 - Ainda para efeitos de aplicação da alínea g) do n.º 1, consideram-se «contentores especiais» todos os contentores equipados com dispositivos especialmente adaptados para sistemas de refrigeração, ventilação, isolamento térmico ou outros sistemas semelhantes.
 
-7 - As isenções previstas nas alíneas a), c), d), e), f), h), i) e j) do n.º 1 e nas alíneas a), c) e e) do n.º 2 dependem de reconhecimento prévio da autoridade aduaneira competente.
+7 - As isenções previstas nas alíneas a), c), d), e), f), i) e j) do n.º 1 e nas alíneas a), c) e e) do n.º 2 dependem de reconhecimento prévio da autoridade aduaneira competente.

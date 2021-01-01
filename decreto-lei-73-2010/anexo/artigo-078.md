@@ -10,6 +10,8 @@
 
 4 - As taxas do imposto relativas aos produtos a seguir mencionados, desde que produzidos e declarados para consumo na Região Autónoma da Madeira, são fixadas em 25 % da taxa prevista no n.º 2 do artigo 76.º:
 
-a) O rum, tal como definido nos termos do n.º 1 do anexo ii do Regulamento (CE) n.º 110/2008, do Parlamento Europeu e do Conselho, de 15 de janeiro, na alínea a) do n.º 4 do artigo 1.º do Regulamento (CEE) n.º 1576/89, do Conselho, de 29 de maio, que possua a denominação geográfica «Rum da Madeira», referida no n.º 3 do artigo 5.º e no n.º 1 do anexo ii do referido regulamento;
+a) O rum que possua a denominação geográfica «Rum da Madeira», tal como definido, até 24 de maio de 2021, na categoria 1 dos anexos ii e iii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, e, a partir de 25 de maio de 2021, definido na categoria 1 do anexo i do Regulamento (UE) 2019/787 do Parlamento Europeu e do Conselho, de 17 de abril de 2019;
 
-b) Os licores e os «creme de», definidos, respetivamente, nas categorias 32 e 33 do anexo ii do Regulamento (CE) n.º 110/2008, do Parlamento Europeu e do Conselho, de 15 de janeiro, produzidos a partir de frutos ou plantas regionais.
+b) Os licores e os «crème de» produzidos a partir de frutos ou plantas regionais definidos, até 24 de maio de 2021, respetivamente, nas categorias 32 e 33 do anexo ii do Regulamento (CE) n.º 110/2008 do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008, e, a partir de 25 de maio de 2021, definidos, respetivamente, nas categorias 33 e 34 do anexo i do Regulamento (UE) 2019/787 do Parlamento Europeu e do Conselho, de 17 de abril de 2019.
+
+5 - São fixadas em 50 % das taxas em vigor no continente as taxas de imposto sobre o álcool relativas aos produtos mencionados no número anterior quando produzidos na Região Autónoma da Madeira e declarados para consumo no continente.
