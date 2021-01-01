@@ -22,7 +22,11 @@ a) De prédios urbanos que se encontrem devolutos há mais de um ano, ou prédio
 
 b) Prédios urbanos parcialmente devolutos, incidindo o agravamento da taxa, no caso dos prédios não constituídos em propriedade horizontal, apenas sobre a parte do valor patrimonial tributário correspondente às partes devolutas.
 
-4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeito a regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 7,5 %.
+4 - A taxa do imposto é de 7,5 % para os prédios de sujeitos passivos que:
+
+a) Tenham domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
+
+b) Sejam, nos termos previstos no n.º 8 do artigo 17.º do Código do IMT, uma entidade dominada ou controlada, direta ou indiretamente, por entidade que tenha domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.
 
 5 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos na alínea c) do n.º 1, podendo esta ser fixada por freguesia.
 
