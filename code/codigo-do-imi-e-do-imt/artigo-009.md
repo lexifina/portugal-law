@@ -24,4 +24,8 @@ e) Do 3.º ano seguinte, inclusive, àquele em que um prédio tenha passado a fi
 
 6 - Não gozam do regime previsto nas alíneas d) e e) do n.º 1 os sujeitos passivos que tenham adquirido o prédio a entidade que dele já tenha beneficiado.
 
-7 - O disposto nas alíneas d) e e) do n.º 1 não é aplicável aos sujeitos passivos que tenham domicílio fiscal em país, território ou região sujeitos a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do Ministro das Finanças.
+7 - O disposto nas alíneas d) e e) do n.º 1 não é aplicável aos sujeitos passivos que:
+
+a) Tenham domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
+
+b) Sejam, nos termos previstos no n.º 8 do artigo 17.º do Código do IMT, uma entidade dominada ou controlada, direta ou indiretamente, por entidade que tenha domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.

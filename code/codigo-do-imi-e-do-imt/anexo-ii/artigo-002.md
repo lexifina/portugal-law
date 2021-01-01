@@ -12,7 +12,13 @@ b) O arrendamento com a cláusula de que os bens arrendados se tornam propriedad
 
 c) Os arrendamentos ou subarrendamentos a longo prazo, considerando-se como tais os que devam durar mais de 30 anos, quer a duração seja estabelecida no início do contrato, quer resulte de prorrogação, durante a sua vigência, por acordo expresso dos interessados, e ainda que seja diferente o senhorio, a renda ou outras cláusulas contratuais;
 
-d) A aquisição de partes sociais ou de quotas nas sociedades em nome coletivo, em comandita simples ou por quotas, quando tais sociedades possuam bens imóveis, e quando por aquela aquisição, por amortização ou quaisquer outros factos, algum dos sócios fique a dispor de, pelo menos, 75 % do capital social, ou o número de sócios se reduza a dois casados ou unidos de facto;
+d) A aquisição de partes sociais ou de quotas nas sociedades em nome coletivo, em comandita simples, por quotas ou anónimas, quando cumulativamente:
+
+i) O valor do ativo da sociedade resulte, direta ou indiretamente, em mais de 50 % por bens imóveis situados em território nacional, atendendo ao valor de balanço ou, se superior, ao valor patrimonial tributário;
+
+ii) Tais imóveis não se encontrem diretamente afetos a uma atividade de natureza agrícola, industrial ou comercial, excluindo a compra e venda de imóveis;
+
+iii) Por aquela aquisição, por amortização ou quaisquer outros factos, algum dos sócios fique a dispor de, pelo menos, 75 % do capital social, ou o número de sócios se reduza a dois casados ou unidos de facto, devendo em qualquer dos casos as partes sociais ou quotas próprias detidas pela sociedade ser proporcionalmente imputadas aos sócios na proporção da respetiva participação no capital social;
 
 e) A aquisição de unidades de participação em fundos de investimento imobiliário fechados de subscrição particular, independentemente da localização da sociedade gestora, bem como operações de resgate, aumento ou redução do capital ou outras, das quais resulte que um dos titulares ou dois titulares casados ou unidos de facto fiquem a dispor de, pelo menos, 75 % das unidades de participação representativas do património do fundo.
 
@@ -22,7 +28,7 @@ a) Celebração de contrato-promessa de aquisição e alienação de bens imóve
 
 b) Cessão da posição contratual no exercício do direito conferido por contrato-promessa referido na alínea anterior;
 
-c) Outorga de procuração que confira poderes de alienação de bem imóvel ou de partes sociais ou unidades de participação a que se referem as alíneas d) e e) do n.º 2 em que, por renúncia ao direito de revogação ou cláusula de natureza semelhante, o representado deixe de poder revogar a procuração;
+c) Outorga de procuração que confira poderes de alienação de bem imóvel ou de partes sociais a que se refere a alínea d) do n.º 2 em que, por renúncia ao direito de revogação ou cláusula de natureza semelhante, o representado deixe de poder revogar a procuração;
 
 d) Outorga de instrumento com substabelecimento de procuração com os poderes e efeitos previstos na alínea anterior;
 
@@ -49,3 +55,5 @@ g) As transmissões de bens imóveis por fusão ou cisão das sociedades referid
 h) As transmissões de benfeitorias e as aquisições de bens imóveis por acessão.
 
 6 - O disposto na alínea c) do número anterior não é aplicável sempre que o excesso da quota-parte resultar de acto de partilha por efeito de dissolução do casamento que não tenha sido celebrado sob o regime de separação de bens.
+
+7 - O disposto na alínea d) do n.º 2 não é aplicável às sociedades previstas na alínea f) do artigo 4.º do Regime Jurídico do Registo Central do Beneficiário Efetivo, aprovado em anexo à Lei n.º 89/2017, de 21 de agosto.

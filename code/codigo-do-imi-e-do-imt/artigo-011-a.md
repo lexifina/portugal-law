@@ -19,3 +19,7 @@
 8 - Para efeitos do disposto no presente artigo, considera-se prédio ou parte de prédio urbano afeto à habitação própria e permanente do sujeito passivo ou do seu agregado familiar aquele no qual esteja fixado o respetivo domicílio fiscal.
 
 9 - Sem prejuízo do disposto no número anterior, o sujeito passivo que, a 31 de dezembro do ano a que respeita o imposto, se encontre a residir em lar de terceira idade, em instituição de saúde ou no domicílio fiscal de parentes e afins em linha reta e em linha colateral, até ao 4.º grau, pode beneficiar da isenção prevista no presente artigo, efetuando até àquela data prova, junto da Autoridade Tributária e Aduaneira, de que o prédio ou parte de prédio urbano em causa antes constituía a sua habitação própria e permanente.
+
+10 - Se o sujeito passivo for uma herança indivisa, relativamente aos prédios urbanos que estejam efetivamente afetos a habitação permanente dos herdeiros, a isenção é aplicada à quota-parte dos herdeiros que estejam identificados na matriz predial e relativamente aos quais, ou a cujos agregados familiares, se verifiquem os pressupostos da isenção.
+
+11 - Para efeitos do número anterior, na determinação do valor patrimonial tributário global pertencente ao herdeiro ou ao seu agregado familiar é incluído o valor correspondente à quota-parte do herdeiro no prédio da herança que esteja afeto à sua habitação permanente.

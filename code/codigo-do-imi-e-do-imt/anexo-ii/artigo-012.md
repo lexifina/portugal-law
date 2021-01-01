@@ -64,9 +64,11 @@ a) Pelo valor patrimonial tributário dos imóveis correspondente à quota ou pa
 
 b) No caso de aquisições sucessivas, o imposto respeitante à nova transmissão será liquidado sobre a diferença de valores determinada nos termos da alínea anterior;
 
-c) Se a sociedade ou o fundo de investimento imobiliário vierem a dissolver-se e todos ou alguns dos seus imóveis ficarem a pertencer ao sócio, sócios, participante ou participantes que já tiverem sido tributados, o imposto respeitante à nova transmissão incidirá sobre a diferença entre o valor dos bens agora adquiridos e o valor por que anteriormente o imposto foi liquidado;
+c) Se, na sequência de dissolução da sociedade ou do fundo ou através de outras transmissões a título oneroso, todos ou alguns dos imóveis da sociedade ou do fundo de investimento imobiliário ficarem a pertencer ao sócio, sócios, acionista, acionistas, participante ou participantes que já tiverem sido tributados, o imposto respeitante à nova transmissão incide sobre a diferença entre o valor dos bens agora adquiridos e o valor pelo qual o imposto foi anteriormente liquidado;
 
-d) Pelo valor patrimonial tributário dos imóveis correspondente à participação maioritária ou pelo valor total desses bens, consoante os casos, preferindo em ambas as situações o valor do relatório de avaliação para a sociedade gestora, se superior.
+d) Nos casos previstos na alínea d) do n.º 2 do artigo 2.º, só concorrem para o valor tributável os imóveis que não se encontrem diretamente afetos a uma atividade de natureza agrícola, industrial ou comercial, e os que se encontrem afetos à atividade de compra e venda de imóveis;
+
+e) Pelo valor patrimonial tributário dos imóveis correspondente à participação maioritária ou pelo valor total desses bens, consoante os casos, preferindo em ambas as situações o valor do relatório de avaliação para a sociedade gestora, se superior.
 
 20.ª O valor dos bens imóveis adquiridos ao abrigo de regimes legais de apoio financeiro à habitação, quando se trate da primeira transmissão, é o valor ou o preço fixado pelo Instituto da Habitação e da Reabilitação Urbana, I. P., nos termos estabelecidos nesses regimes.
 
@@ -78,11 +80,11 @@ a) A importância em dinheiro paga a título de preço pelo adquirente;
 
 b) O valor dos móveis dados em troca, a determinar nos termos do Código do Imposto do Selo;
 
-c) O valor actual das pensões temporárias ou das pensões ou rendas vitalícias;
+c) Se, na sequência de dissolução da sociedade ou do fundo ou através de outras transmissões a título oneroso, todos ou alguns dos imóveis da sociedade ou do fundo de investimento imobiliário ficarem a pertencer ao sócio, sócios, acionista, acionistas, participante ou participantes que já tiverem sido tributados, o imposto respeitante à nova transmissão incide sobre a diferença entre o valor dos bens agora adquiridos e o valor pelo qual o imposto foi anteriormente liquidado;
 
-d) O valor das prestações ou rendas perpétuas;
+d) Nos casos previstos na alínea d) do n.º 2 do artigo 2.º, só concorrem para o valor tributável os imóveis que não se encontrem diretamente afetos a uma atividade de natureza agrícola, industrial ou comercial, e os que se encontrem afetos à atividade de compra e venda de imóveis;
 
-e) O valor da prestação temporária no caso do direito de superfície;
+e) O valor das prestações ou rendas perpétuas;
 
 f) A importância de rendas que o adquirente tiver pago adiantadamente, enquanto arrendatário, e que não sejam abatidas ao preço;
 
