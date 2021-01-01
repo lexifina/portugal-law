@@ -1,3 +1,7 @@
+## Secção VI
+
+## Planeamento e reporte de informação
+
 # Artigo 21.º
 
 ### Outros planos de ação
