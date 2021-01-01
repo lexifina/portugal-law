@@ -12,4 +12,6 @@ b) 80% para os beneficiários isolados.
 
 3 - Para efeitos do disposto no número anterior, a remuneração de referência diária é definida por R/180, em que R é igual à soma das remunerações registadas nos primeiros seis meses civis que precedem o 2.º mês anterior ao da data do desemprego, observando-se o disposto no n.º 4 do artigo 28.º
 
-4 - O montante mensal do subsídio social de desemprego subsequente não pode ser superior ao valor do subsídio de desemprego que o beneficiário se encontrava a receber.
+4 - O montante diário do subsídio é majorado em 1/30 de 10 % da retribuição mínima garantida por cada filho que integre o agregado familiar do titular da prestação.
+
+5 - O montante mensal do subsídio social de desemprego subsequente não pode ser superior ao valor do subsídio de desemprego que o beneficiário se encontrava a receber.
