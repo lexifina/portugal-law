@@ -50,6 +50,6 @@ a) Os veículos da categoria D, quando autorizados ou licenciados para o transpo
 
 b) Os veículos das categorias C e D que efectuem transporte exclusivamente na área territorial de uma região autónoma;
 
-c) Os veículos de categoria C, com peso bruto superior a 3500 kg, em relação aos quais os sujeitos passivos do imposto exerçam a título principal a atividade de diversão itinerante, e desde que os veículos se encontrem exclusivamente afetos a essa atividade.
+c) Os veículos de categoria C, com peso bruto superior a 3500 kg, em relação aos quais os sujeitos passivos do imposto exerçam a título principal a atividade de diversão itinerante ou das artes do espetáculo, e desde que os veículos se encontrem exclusivamente afetos a essa atividade.
 
 9 - Estão isentos os veículos que, embora permaneçam em território nacional por um período superior a 183 dias, se encontrem matriculados em série normal de outro Estado membro e preencham os requisitos exigíveis para beneficiar do regime de admissão temporária previsto no artigo 34.º do Código do Imposto sobre Veículos para missões, estágios, estudos e trabalho transfronteiriço.
