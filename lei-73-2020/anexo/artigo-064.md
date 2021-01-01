@@ -1,0 +1,9 @@
+# Artigo 64.º
+
+1 - Em tudo o que não esteja previsto na presente lei e nos regulamentos adotados em sua execução, o Banco, salvo o disposto no número seguinte, rege-se pelas normas da legislação reguladora da atividade das instituições de crédito, quando aplicáveis, e pelas demais normas e princípios de direito de privado, bem como, no que se refere aos membros dos órgãos de administração, pelo Estatuto do Gestor Público.
+
+2 - No exercício de poderes públicos de autoridade, são aplicáveis ao Banco as disposições do Código do Procedimento Administrativo e quaisquer outras normas e princípios de âmbito geral respeitantes aos atos administrativos do Estado.
+
+3 - Aos procedimentos de aquisição e alienação de bens e serviços do Banco é aplicável o regime das entidades públicas empresariais.
+
+4 - O Banco está sujeito a registo comercial nos termos gerais, com as adaptações que se revelem necessárias.
