@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "615",
+  "id": "45584",
+  "fases": 18,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-01-05",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a44646a4e5468685a4755744d4455314d6930304e7a5a684c5468684f444d74595459774d7a4a6a5932517a593255304c6e426b5a673d3d&fich=d7c58ade-0552-476a-8a83-a6032ccd3ce4.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6176",
+        "nome": "Sara Madruga da Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4397",
+        "nome": "Afonso Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "42",
+        "nome": "Duarte Pacheco"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6866",
+        "nome": "Sérgio Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6178",
+        "nome": "Paulo Neves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "45584",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5449324d32517a595451744e3245784d7930305a5455344c546c6d597a63744f5445774d6d597a4f5441324d325a6b4c6d52765933673d&fich=e263d3a4-7a13-4e58-9fc7-9102f39063fd.docx&Inline=true",
+    "IniNr": "615",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Altera o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, clarificando os critérios de concessão de benefícios às entidades licenciadas na Zona Franca da Madeira",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
