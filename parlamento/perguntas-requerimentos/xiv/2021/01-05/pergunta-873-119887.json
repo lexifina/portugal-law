@@ -1,0 +1,77 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=z0cicdXsctfDc%2f9d1yARp1h7LFP%2fPGVMel8b9Bs7qvIqqHf34aeiO%2fdSKc0kDVR%2fLPbpEhs8U02z8aTDhVPvFDlF%2fdKEEctQOAVBXAtX7LLShPZo92EzlqrMf22g5W0QzGV0aCZng02VuQ2i47rX6KSQmaNsnVdROvmsS6SfIEfjwTnjcIIdg5uaB26FYEsyBxpEx535%2flU1eVLFTgnGeYJwshXN9MyVA9O79pSzvAtRnFl4FA9LHWO0i%2fC6Jes0DgOirCwusGnDpbNeLznaglZoqG5yA3uKgOEVajD%2bffRtAHBPCFjXYUZYch%2fFDjvpml8adBIDDiTp4ORyeY%2buOiAEn0WrTw1oHDEHpIHFYgc2Z%2f2WA%2bcWd1S5gBz1pfYaXvKLX4rMWQ6%2fHvxYqG7g79%2bPFDMkB%2bjM%2f8YhHh57FjA%3d&fich=RequerimentosXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "96fd1f34afbaf4a538efe509d9bf0017a1ace25d2f4cc53999570fe4dcaa1746",
+  "legislatura": "XIV",
+  "id": "119887",
+  "tipo": "Pergunta",
+  "numero": "873",
+  "data_registo": "2021-01-05",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Vacinação dos Bombeiros contra a COVID-19",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4441",
+        "nome": "Ricardo Baptista Leite"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6853",
+        "nome": "António Maló de Abreu"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5693",
+        "nome": "Rui Cristina"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5749",
+        "nome": "Sandra Pereira"
+      }
+    ],
+    "DataEnvio": "2021-01-06",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2021-01-06",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro da Saúde",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2021-02-15",
+            "docRemetida": null,
+            "entidade": "Ministro da Saúde",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a4d344e6d55354d54566b4c546b784d4451744e44466c4d6930345a6d56694c5445304d5463354d6a6b34595452694e6935775a47593d&fich=386e915d-9104-41e2-8feb-14179298a4b6.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2021-01-05",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a63314d5456685a54517a4c545a6c4d6a55744e4759795a6930355a44466d4c5459325954646a4d6d56684e6a4e6b4d5335775a47593d&fich=7515ae43-6e25-4f2f-9d1f-66a7c2ea63d1.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "119887",
+    "Legislatura": "XIV",
+    "Nr": "873",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
