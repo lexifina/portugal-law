@@ -1,0 +1,9 @@
+Declaração de Retificação n.º 1/2021
+Sumário: Retifica a Portaria n.º 269/2020, de 19 de novembro, que procede à primeira alteração à Portaria n.º 178/2020, de 28 de julho, que estabelece um sistema de incentivos à adaptação da atividade das respostas sociais ao contexto da doença COVID-19, designado Programa Adaptar Social +.
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, na sua redação atual, conjugadas com o disposto no n.º 1 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, declara-se que Portaria n.º 269/2020, de 19 de novembro, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No artigo 2.º, que altera o artigo 8.º da Portaria n.º 178/2020, de 28 de julho, no n.º 7, onde se lê:
+«7 - É reforçada a dotação do Programa Adaptar Social +, em 9 milhões de euros, com receitas próprias dos jogos sociais inscritas no orçamento da segurança social e destinadas a apoiar as candidaturas submetidas e validadas pelo ISS, I. P., ao abrigo dos Avisos anexos aos Despachos n.º 7971/2020 e 7927/2020, de 7 de agosto, publicados no Diário da República, 2.ª série, n.º 158, de 14 de agosto de 2020.»
+deve ler-se:
+«7 - É reforçada a dotação do Programa Adaptar Social +, em 9 milhões de euros, com receitas próprias dos jogos sociais inscritas no orçamento da segurança social e destinadas a apoiar as candidaturas submetidas e validadas pelo ISS, I. P., ao abrigo dos avisos anexos aos Despachos n.os 7971/2020 e 7972/2020, de 7 de agosto, publicados no Diário da República, 2.ª série, n.º 158, de 14 de agosto de 2020.»
+Secretaria-Geral, 4 de janeiro de 2021. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+113861541
