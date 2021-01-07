@@ -1,0 +1,7 @@
+Aviso n.º 413/2021
+Sumário: Projeto de regulamento do novo espaço coworking inserido na atual requalificação do antigo Quartel dos Bombeiros Municipais da Figueira da Foz - «Estação da Imagem da Figueira da Foz».
+Projeto de regulamento do novo espaço coworking inserido na atual requalificação do antigo Quartel dos Bombeiros Municipais da Figueira da Foz - Estação da Imagem da Figueira da Foz
+Torna-se público, que nos termos do artigo 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, se encontra para consulta pública, pelo prazo de 30 dias, a contar da data de publicação do presente Aviso no Diário da República, 2.ª série, o Projeto de Regulamento Municipal da Estação da Imagem da Figueira da Foz, que poderá ser consultado no Edifício dos Paços do Concelho do Município da Figueira da Foz, todos os dias úteis, durante o horário normal de expediente ou na Internet, no sítio institucional do Município em www.cm-figfoz.pt.
+Mais se informa que os interessados podem formular por escrito reclamações, observações ou sugestões sobre o projeto do Regulamento em causa, dirigidas ao Presidente da Câmara, as quais poderão ser remetidas para o endereço eletrónico do Município, municipe@cm-figfoz.pt, por correio para o endereço: Paços do Concelho do Município da Figueira da Foz, Avenida Saraiva de Carvalho, 3084-501 Figueira da Foz, ou entregues pessoalmente no Balcão de Atendimento Único do Município.
+21 de dezembro de 2020. - O Presidente da Câmara Municipal, Carlos Ângelo Ferreira Monteiro.
+313834099
