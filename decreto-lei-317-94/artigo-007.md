@@ -10,8 +10,10 @@ a) Os magistrados judiciais e do Ministério Público para fins de investigaçã
 
 b) As entidades que, no âmbito da lei processual, recebam delegação de competências para a prática de actos de inquérito ou de instrução;
 
-c) O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), para efeitos de revalidação, troca, substituição e emissão de 2.ª via de título de condução;
+c) O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), para efeitos de revalidação, troca, substituição e emissão de 2.ª via de título de condução, emissão de títulos de certificação profissional, quando lei especial o imponha, e análise dos processos administrativos para efeitos do disposto no artigo 129.º do Código da Estrada;
 
 d) (Revogada).
 
-3 - A Guarda Nacional Republicana e a Polícia de Segurança Pública podem aceder indirectamente à base de dados, no âmbito de acções de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.
+e) A Guarda Nacional Republicana e a Polícia de Segurança Pública, no âmbito de ações de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.
+
+3 - [Revogado.]

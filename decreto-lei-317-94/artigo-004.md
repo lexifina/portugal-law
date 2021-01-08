@@ -28,7 +28,7 @@ d) A residência;
 
 e) O nome.
 
-3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, e para efeitos do disposto no n.º 7 do artigo 148.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, alterado pelos Decretos-Leis n.os 44/2005, de 23 de fevereiro, 113/2008, de 1 de julho, e 113/2009, de 18 de maio e pelas Leis n.os 78/2009, de 13 de agosto, 46/2010, de 7 de setembro, 72/2013, de 3 de setembro, e 116/2015, de 28 de agosto, e pelo Decreto-Lei n.º 40/2016, de 29 de julho, são recolhidos os seguintes dados:
+3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, e para efeitos do disposto no n.º 7 do artigo 148.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, na sua redação atual, são recolhidos os seguintes dados:
 
 a) Número do auto;
 
