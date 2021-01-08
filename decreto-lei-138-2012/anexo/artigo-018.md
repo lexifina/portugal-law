@@ -28,7 +28,9 @@ g) Não ser titular de outro título de condução emitido por Estado-membro da 
 
 h) Tendo sido titular de título de condução emitido por outro Estado-membro da União Europeia ou do espaço económico europeu, que se encontre anulado por decisão de autoridade estrangeira, ter decorrido o período durante o qual lhe estava vedado o direito de conduzir imposto pelo Estado que procedeu à anulação e desde que não seja possível obter novo título nesse Estado;
 
-i) Ter residência habitual em território nacional ou condição de estudante em território nacional há, pelo menos, 185 dias.
+i) Ter residência habitual em território nacional; ou
+
+j) Ter condição de estudante em território nacional há, pelo menos, 185 dias.
 
 2 - A condição constante da alínea b) do número anterior é de observação permanente e a sua perda determina a caducidade do título de condução.
 
@@ -38,4 +40,6 @@ a) Sendo candidato à categoria A2, disponha de, pelo menos, dois anos de titula
 
 b) Sendo candidato à categoria A, disponha de, pelo menos, dois anos de titularidade da carta de condução da categoria A2, descontado o tempo que tenha estado proibido ou inibido de conduzir.
 
-4 - É cancelado o título de condução obtido com fundamento em falsas declarações ou pressupostos falsos ou afetados por erro.
+4 - A condição prevista na alínea i) do n.º 1 não é aplicável aos pedidos de emissão de segunda via de carta de condução nacional, desde que o seu titular resida no território de um Estado que não seja membro da União Europeia ou do Espaço Económico Europeu, o título de condução tenha sido obtido em território nacional e o condutor tenha nacionalidade portuguesa.
+
+5 - É cancelado o título de condução obtido com fundamento em falsas declarações ou pressupostos falsos ou afetados por erro.

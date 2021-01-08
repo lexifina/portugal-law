@@ -2,15 +2,25 @@
 
 ### Validade dos títulos de condução
 
-1 - Os títulos de condução têm o prazo de validade neles registado.
+1 - Os títulos de condução emitidos ao abrigo do presente regulamento têm a validade neles registada.
 
-2 - O termo de validade das cartas de condução das categorias AM, A1, A2, A, B1, B e BE e das licenças de condução ocorre de 15 em 15 anos após a data de habilitação na categoria, até perfazer os 60 anos.
+2 - Sem prejuízo do disposto no número anterior, as cartas de condução das categorias AM, A1, A2, A, B1, B, BE e T são válidas pelos seguintes prazos, contados a partir da data de habilitação na categoria:
 
-3 - Quando o condutor perfizer 60 anos, o prazo de validade é de cinco anos, e, a partir dos 70, de dois em dois anos.
+a) 15 anos, até o condutor perfazer 60 anos de idade;
 
-4 - Sem prejuízo do disposto no n.º 5 do artigo 20.º, o termo de validade das cartas de condução das categorias C1, C1E, C, CE, e B e BE, se exercerem a condução de ambulâncias, de veículos de bombeiros, de transporte de doentes, de transporte escolar, de transporte coletivo de crianças e de automóveis ligeiros de passageiros de aluguer, ocorre de cinco em cinco anos após a data de habilitação na categoria, até o condutor perfazer 70 anos e posteriormente de dois em dois anos.
+b) 5 anos, quando o condutor perfizer 60 anos de idade;
 
-5 - O termo e validade das cartas de condução das categorias D1, D1E, D, DE, ocorre de cinco em cinco anos após a data de habilitação na categoria, até o condutor perfazer 67 anos, não podendo ser revalidadas a partir dessa data.
+c) 2 anos, após o condutor perfazer 70 anos de idade.
+
+3 - [Revogado.]
+
+4 - Sem prejuízo do disposto no n.º 5 do artigo 20.º, as cartas de condução das categorias C1, C1E, C, CE, B e BE cujos titulares exerçam a condução de ambulâncias, de veículos de bombeiros, de transporte de doentes, de transporte escolar, de transporte coletivo de crianças e de automóveis ligeiros de passageiros de aluguer, são válidas pelos seguintes prazos, contados a partir da data de habilitação na categoria ou do averbamento do Grupo 2:
+
+a) 5 anos, até o condutor perfazer 70 anos de idade;
+
+b) 2 anos, após o condutor perfazer 70 anos de idade.
+
+5 - As cartas de condução das categorias D1, D1E, D, DE são válidas pelo prazo de 5 anos, contados a partir da data de habilitação na categoria, até o condutor perfazer 67 anos de idade, não podendo ser revalidadas a partir dessa data.
 
 6 - A validade dos títulos de condução depende ainda da manutenção pelo seu titular das condições mínimas de aptidão física, mental e psicológica.
 

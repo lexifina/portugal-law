@@ -20,7 +20,7 @@ c) Em sede de recurso interposto por examinando considerado Inapto em avaliaçã
 
 d) De candidatos ou condutores dos grupos 1 e 2 mandados submeter a avaliação psicológica pela autoridade de saúde;
 
-e) De candidatos ou condutores considerados «aptos» com restrições impostas em avaliação psicológica anterior feita pelo IMT, I.P.
+e) De candidatos ou condutores considerados 'inaptos' ou 'aptos' com restrições impostas em avaliação psicológica realizada nos termos do n.º 2.
 
 4 - É exclusivamente realizada por junta médica, constituída para o efeito na região de saúde da área de residência do recorrente e cuja composição, atribuições e funcionamento são aprovados por despacho do membro do Governo responsável pela área da saúde, a avaliação médica necessária à análise do recurso interposto do resultado de Inapto obtido em avaliação feita por médico no exercício da sua profissão.
 

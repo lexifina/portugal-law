@@ -67,3 +67,11 @@ c) Inverter o sentido de marcha em espaço reduzido, descrevendo um «U»;
 d) Arrancar em rampa com, pelo menos, 8 % de inclinação;
 
 e) Estacionar o veículo, colocando-o no descanso.
+
+7 - Durante a realização da prova prática das categorias AM, A1, A2 e A, o candidato a condutor deve usar:
+
+a) Equipamento de segurança previsto no n.º 3 do artigo 82.º do Código da Estrada;
+
+b) Calçado fechado e ajustado;
+
+c) Colete retrorrefletor.

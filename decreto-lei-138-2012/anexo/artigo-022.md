@@ -12,7 +12,7 @@
 
 1 - Para efeitos da avaliação da aptidão física, mental e psicológica, prevista na alínea b) do n.º 1 do artigo 18.º, os candidatos a condutor e os condutores são classificados num dos seguintes grupos:
 
-a) Grupo 1: candidatos ou condutores de veículos das categorias AM, A1, A2, A, B1, B e BE, de ciclomotores e de tratores agrícolas;
+a) Grupo 1: candidatos ou condutores de veículos das categorias AM, A1, A2, A, B1, B, BE e T;
 
 b) Grupo 2: candidatos ou condutores de veículos das categorias C1, C1E, C, CE, D1, D1E, D e DE, bem como os condutores das categorias B e BE que exerçam a condução de ambulâncias, de veículos de bombeiros, de transporte de doentes, de transporte escolar, de transporte coletivo de crianças e de automóveis ligeiros de passageiros de aluguer.
 

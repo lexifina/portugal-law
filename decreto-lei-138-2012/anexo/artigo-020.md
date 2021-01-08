@@ -10,9 +10,9 @@ i) 14 anos, desde que se trate de ciclomotor de duas rodas caraterizado por um m
 
 ii) 16 anos, para veículos de duas ou três rodas e quadriciclos ligeiros;
 
-b) Categoria A1 e B1: 16 anos;
+b) Categorias A1, B1 e T do tipo I: 16 anos;
 
-c) Categorias A2, B, BE, C1 e C1E: 18 anos;
+c) Categorias A2, B, BE, C1, C1E e T do tipo II e III: 18 anos;
 
 d) Categoria A:
 
@@ -26,11 +26,7 @@ f) Categorias D1 e D1E: 21 anos;
 
 g) Categorias D e DE: 24, ou 21 ou 23 anos, desde que, nestes casos, possua a carta de qualificação de motorista, obtida nos termos do Decreto-Lei n.º 126/2009, de 27 de maio.
 
-2 - Para obtenção de licença de condução são necessárias as seguintes idades mínimas, de acordo com a habilitação pretendida:
-
-a) Veículos agrícolas da categoria I: 16 anos;
-
-b) Veículos agrícolas das categorias II e III: 18 anos.
+2 - [Revogado.]
 
 3 - Sem prejuízo do disposto nos números anteriores, a aprendizagem pode iniciar-se nos seis meses que antecedem a idade mínima imposta para a categoria de veículos a que o candidato se habilita desde que cumpra os requisitos impostos em legislação própria.
 

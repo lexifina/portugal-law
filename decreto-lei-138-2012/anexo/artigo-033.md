@@ -10,7 +10,7 @@
 
 ### Admissão a exame de condução
 
-1 - Só podem ser admitidos a exame de condução os candidatos que preencham os requisitos previstos nas alíneas a), b), e), f), g), h) e i) do n.º 1 do artigo 18.º
+1 - Só podem ser admitidos a exame de condução os candidatos que preencham os requisitos previstos nas alíneas a), b) e e) a j) do n.º 1 do artigo 18.º
 
 2 - A admissão a exame de condução depende ainda de propositura por escola de condução, exceto para os veículos das categorias:
 
@@ -26,7 +26,7 @@ e) C e CE propostos por entidade reconhecida para o efeito, na qual tenham frequ
 
 f) D1, D1E, D e DE propostos por empresa de transporte público de passageiros na qual tenham frequentado com aproveitamento curso de formação adequado, ministrado de harmonia com programa aprovado pelo IMT, I. P., desde que tenham vínculo laboral com aquela empresa, ou por entidade reconhecida para o efeito, na qual tenham frequentado com aproveitamento o curso de formação a que se referem as alíneas e) e f) do n.º 1 do artigo 20.º;
 
-g) Categorias I, II e III de tratores agrícolas que tenham frequentado curso adequado em centro de formação profissional.
+g) T do tipo I, II e III, que tenham frequentado curso adequado.
 
 3 - Estão ainda dispensados da propositura a exame por escola de condução:
 
