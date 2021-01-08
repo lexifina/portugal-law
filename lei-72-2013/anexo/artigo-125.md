@@ -2,7 +2,7 @@
 
 ### Outros títulos
 
-1 - Além dos títulos referidos nos n.os 4 e 5 do artigo 121.º são ainda títulos habilitantes para a condução de veículos a motor os seguintes:
+1 - Além da carta de condução são títulos habilitantes para a condução de veículos a motor os seguintes:
 
 a) Títulos de condução emitidos pelos serviços competentes pela administração portuguesa do território de Macau;
 
@@ -10,7 +10,7 @@ b) Títulos de condução emitidas por outros Estados membros da União Europeia
 
 c) Títulos de condução emitidos por Estado estrangeiro em conformidade com o anexo n.º 9 da Convenção Internacional de Genebra, de 19 de setembro de 1949, sobre circulação rodoviária, ou com o anexo n.º 6 da Convenção Internacional de Viena, de 8 de novembro de 1968, sobre circulação rodoviária;
 
-d) Títulos de condução emitidas por Estado estrangeiro, desde que este reconheça idêntica validade aos títulos nacionais;
+d) Títulos de condução emitidos por Estado estrangeiro, desde que em condições de reciprocidade;
 
 e) Licenças internacionais de condução, desde que apresentadas com o título nacional que as suporta;
 
@@ -20,7 +20,7 @@ g) Licenças especiais de condução;
 
 h) Autorizações especiais de condução;
 
-i) Autorizações temporárias de condução.
+i) Licença de aprendizagem.
 
 2 - A emissão das licenças e das autorizações especiais de condução bem como as condições em que os títulos estrangeiros habilitam a conduzir em território nacional são fixadas no RHLC.
 
@@ -34,4 +34,4 @@ i) Autorizações temporárias de condução.
 
 7 - (Revogado.)
 
-8 - Quem infringir o disposto nos n.os 3 e 5, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1 500.
+8 - Quem infringir o disposto nos n.os 3 a 5, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1500.

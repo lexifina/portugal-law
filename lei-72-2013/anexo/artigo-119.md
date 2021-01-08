@@ -4,7 +4,7 @@
 
 1 - A matrícula de um veículo deve ser cancelada quando:
 
-a) O veículo atinja o seu fim de vida de acordo com a alínea t) do artigo 2.º do Decreto-Lei n.º 196/2003, de 23 de agosto, alterado pelos Decretos-Leis n.os 178/2006, de 5 de setembro, 64/2008, de 8 de abril, que o republicou, 98/2010, de 11 de agosto, 73/2011, de 17 de junho, e 1/2012, de 11 de janeiro;
+a) O veículo atinja o seu fim de vida de acordo com a alínea jjj) do n.º 1 do artigo 3.º do Decreto-Lei n.º 152-D/2017, de 11 de dezembro, na sua redação atual;
 
 b) O veículo fique inutilizado;
 
@@ -20,7 +20,7 @@ g) O veículo falte à inspeção referida no n.º 2 do artigo 116.º, sem que a
 
 2 - Para efeitos do disposto no número anterior, o cancelamento da matrícula deve ser requerido pelo proprietário:
 
-a) Quando o veículo fique inutilizado ou atinja o seu fim de vida mediante apresentação da documentação legalmente exigida nos termos do disposto no Decreto-Lei n.º 196/2003, de 23 de agosto;
+a) Quando o veículo fique inutilizado ou atinja o seu fim de vida mediante apresentação da documentação legalmente exigida nos termos do disposto no Decreto-Lei n.º 152-D/2017, de 11 de dezembro, na sua redação atual;
 
 b) Quando o veículo haja desaparecido, mediante apresentação de auto de participação do seu desaparecimento às autoridades policiais;
 

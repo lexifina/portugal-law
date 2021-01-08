@@ -2,13 +2,19 @@
 
 ### Carta de condução
 
-1 - A carta de condução habilita o seu titular a conduzir uma ou mais das categorias de veículos fixadas no RHLC, sem prejuízo do estabelecido nas disposições relativas à homologação de veículos.
+1 - A carta de condução habilita o seu titular a conduzir uma ou mais categorias de veículos e respetivos tipos fixadas no RHLC, sem prejuízo do estabelecido nas disposições relativas à homologação de veículos.
 
 2 - A condução de veículos afetos a determinados transportes pode ainda depender da titularidade do correspondente documento de aptidão profissional, nos termos de legislação própria.
 
-3 - Sem prejuízo do disposto no número seguinte, quem conduzir veículo de qualquer categoria para a qual a respetiva carta de condução não confira habilitação é sancionado com coima de (euro) 500 a (euro) 2500.
+3 - Quem conduzir veículos de qualquer categoria ou tipo de veículo para os quais a respetiva carta de condução não confira habilitação é sancionado:
 
-4 - Quem, sendo apenas titular de carta das categorias AM ou A1, conduzir veículo de qualquer outra categoria para a qual a respetiva carta de condução não confira habilitação é sancionado com coima de (euro) 700 a (euro) 3500.
+a) Com coima de (euro) 120 a (euro) 600, se for apenas titular de carta de condução da categoria T;
+
+b) Com coima de (euro) 700 a (euro) 3500, se for apenas titular de carta de condução da categoria AM ou A1;
+
+c) Com coima de (euro) 500 a (euro) 2500, se for apenas titular de carta de condução de uma das categorias não previstas nas alíneas anteriores.
+
+4 - [Revogado.]
 
 5 - (Revogado.)
 

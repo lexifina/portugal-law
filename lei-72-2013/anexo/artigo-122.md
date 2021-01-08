@@ -8,7 +8,7 @@
 
 3 - O regime probatório não se aplica às cartas de condução emitidas por troca por documento equivalente que habilite o seu titular a conduzir há mais de três anos, salvo se contra ele pender procedimento nos termos do número anterior.
 
-4 - Os titulares de carta de condução das categorias AM e A1 ou quadriciclos ligeiros ficam sujeitos ao regime probatório quando obtenham habilitação para conduzir outra categoria de veículos, ainda que o título inicial tenha mais de três anos de validade.
+4 - Os titulares de carta de condução das categorias T, AM e A1 ou B1 ficam sujeitos ao regime probatório quando obtenham habilitação para conduzir outra categoria de veículos, ainda que o título inicial tenha mais de três anos de validade.
 
 5 - O regime probatório cessa uma vez findos os prazos previstos nos n.os 1 ou 2 sem que o titular seja condenado pela prática de crime, contraordenação muito grave ou por duas contraordenações graves.
 

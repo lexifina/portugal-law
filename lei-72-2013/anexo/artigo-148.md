@@ -4,7 +4,7 @@
 
 1 - A prática de contraordenação grave ou muito grave, prevista e punida nos termos do Código da Estrada e legislação complementar, determina a subtração de pontos ao condutor na data do caráter definitivo da decisão condenatória ou do trânsito em julgado da sentença, nos seguintes termos:
 
-a) A prática de contraordenação grave implica a subtração de três pontos, se esta se referir a condução sob influência do álcool, excesso de velocidade dentro das zonas de coexistência ou ultrapassagem efetuada imediatamente antes e nas passagens assinaladas para a travessia de peões ou velocípedes, e de dois pontos nas demais contraordenações graves;
+a) A prática de contraordenação grave implica a subtração de três pontos, se esta se referir a condução sob influência do álcool, utilização ou manuseamento continuado de equipamento ou aparelho nos termos do n.º 1 do artigo 84.º, excesso de velocidade dentro das zonas de coexistência ou ultrapassagem efetuada imediatamente antes e nas passagens assinaladas para a travessia de peões ou velocípedes, e de dois pontos nas demais contraordenações graves;
 
 b) A prática de contraordenação muito grave implica a subtração de cinco pontos, se esta se referir a condução sob influência do álcool, condução sob influência de substâncias psicotrópicas ou excesso de velocidade dentro das zonas de coexistência, e de quatro pontos nas demais contraordenações muito graves.
 

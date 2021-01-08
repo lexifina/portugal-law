@@ -14,7 +14,7 @@ b) Fora das localidades, para prevenir um condutor da intenção de o ultrapassa
 
 4 - As características dos dispositivos emissores dos sinais sonoros são fixadas em regulamento.
 
-5 - Nos veículos de polícia e nos veículos afetos à prestação de socorro ou de serviço urgente de interesse público podem ser utilizados avisadores sonoros especiais, cujas características e condições de utilização são fixadas em regulamento.
+5 - Nos veículos de polícia e nos veículos afetos à prestação de socorro ou de serviço urgente de interesse público, bem como nos veículos utilizados na formação específica dos respetivos condutores, podem ser utilizados avisadores sonoros especiais, cujas características e condições de utilização são fixadas em regulamento.
 
 6 - Não é permitida em quaisquer outros veículos a instalação ou utilização dos avisadores referidos no número anterior nem a emissão de sinais sonoros que se possam confundir com os emitidos por aqueles dispositivos.
 
