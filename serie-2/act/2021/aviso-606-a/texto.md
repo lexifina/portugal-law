@@ -1,0 +1,8 @@
+Aviso n.º 606-A/2021
+Sumário: 5.ª alteração à 1.ª Revisão do Plano Diretor Municipal da Figueira da Foz - discussão pública.
+Carlos Ângelo Ferreira Monteiro, Presidente da Câmara Municipal da Figueira da Foz, torna público, nos termos e para os efeitos do disposto nos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, e em cumprimento da deliberação da Câmara Municipal de 4 de janeiro de 2021, que a proposta da 5.ª alteração à 1.ª Revisão do Plano Diretor Municipal da Figueira da Foz se encontra em discussão pública, durante 30 dias consecutivos, contados a partir do quinto dia subsequente à publicação do presente aviso na 2.ª série do Diário da República, nos termos da alínea a) do n.º 4 do artigo 191.º do referido diploma legal.
+A proposta de alteração ao Plano Diretor Municipal é acompanhada do respetivo relatório ambiental, do parecer final, da ata da conferência procedimental, dos demais pareceres emitidos, e da ata da reunião de concertação.
+Os documentos estarão disponíveis para consulta na Câmara Municipal, no serviço de atendimento ao munícipe da Divisão de Urbanismo, nos dias úteis das 9:00h às 16:30h, no Posto de Turismo, situado no Castelo Engenheiro Silva - Esplanada Silva Guimarães, aos sábados e domingos das 9:30h às 17:30h, e na página da Internet do município www.cm-figfoz.pt.
+Durante o referido período de discussão pública, qualquer interessado poderá apresentar as suas reclamações, observações ou sugestões, por escrito, em documento devidamente identificado, dirigido ao Presidente da Câmara Municipal da Figueira da Foz, ou ainda para o email ordenamento.territorio@cm-figfoz.pt.
+5 de janeiro de 2021. - O Presidente da Câmara Municipal da Figueira da Foz, Carlos Ângelo Ferreira Monteiro.
+613861485
