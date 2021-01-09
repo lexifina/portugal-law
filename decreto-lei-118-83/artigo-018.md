@@ -10,7 +10,9 @@ b) Passagem à situação de licença sem vencimento de longa duração;
 
 c) Cessação das condições exigidas pelo presente decreto-lei para a inscrição como beneficiário;
 
-d) Renúncia, nos termos previstos no n.º 3 do artigo 12.º
+d) Renúncia nos termos previstos no n.º 6 do artigo 12.º e no n.º 3 do artigo 12.º-A;
+
+e) Cessação do contrato individual de trabalho, sem prejuízo do disposto no n.º 5 do artigo 12.º e no n.º 1 do artigo 12.º-A.
 
 2 - As situações acima mencionadas devem ser comunicadas à ADSE logo após a verificação do evento pelos respectivos serviços ou pelos próprios, consoante se trate de pessoal no activo ou aposentado, com devolução dos respectivos cartões.
 
