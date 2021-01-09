@@ -1,0 +1,23 @@
+# Artigo 61.º
+
+### Condições de utilização das luzes
+
+1 - Desde o anoitecer ao amanhecer e, ainda, durante o dia sempre que existam condições meteorológicas ou ambientais que tornem a visibilidade insuficiente, nomeadamente em caso de nevoeiro, chuva intensa, queda de neve, nuvens de fumo ou pó, os condutores devem utilizar as seguintes luzes:
+
+a) De presença, enquanto aguardam a abertura de passagem de nível e ainda durante a paragem ou o estacionamento, em locais cuja iluminação não permita o fácil reconhecimento do veículo à distância de 100 m;
+
+b) De cruzamento, em locais cuja iluminação permita ao condutor uma visibilidade não inferior a 100 m, no cruzamento com outros veículos, pessoas ou animais, quando o veículo transite a menos de 100 m daquele que o precede, na aproximação de passagem de nível fechada ou durante a paragem ou detenção da marcha do veículo;
+
+c) De estrada, nos restantes casos;
+
+d) De nevoeiro, sempre que as condições meteorológicas ou ambientais o imponham, nos veículos que com elas devam estar equipados.
+
+2 - É proibido o uso das luzes de nevoeiro sempre que as condições meteorológicas ou ambientais o não justifiquem.
+
+3 - Sem prejuízo do disposto no n.º 1, os condutores de veículos afectos ao transporte de mercadorias perigosas devem transitar durante o dia com as luzes de cruzamento acesas.
+
+4 - Sem prejuízo do disposto no n.º 1, é obrigatório durante o dia o uso de luzes de cruzamento nos túneis sinalizados como tal e nas vias de sentido reversível.
+
+5 - Salvo o disposto no número seguinte e se sanção mais grave não for aplicável por força de disposição especial, quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
+
+6 - Quem utilizar os máximos no cruzamento com outros veículos, pessoas ou animais ou quando o veículo transite a menos de 100 m daquele que o precede ou ainda durante a paragem ou detenção da marcha do veículo é sancionado com coima de (euro) 60 a (euro) 300.

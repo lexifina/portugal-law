@@ -1,0 +1,9 @@
+# Artigo 44.º
+
+### Mudança de direcção para a esquerda
+
+1 - O condutor que pretenda mudar de direcção para a esquerda deve aproximar-se, com a necessária antecedência e o mais possível, do limite esquerdo da faixa de rodagem ou do eixo desta, consoante a via esteja afecta a um ou a ambos os sentidos de trânsito, e efectuar a manobra de modo a entrar na via que pretende tomar pelo lado destinado ao seu sentido de circulação.
+
+2 - Se tanto na via que vai abandonar como naquela em que vai entrar o trânsito se processa nos dois sentidos, o condutor deve efectuar a manobra de modo a dar a esquerda ao centro de intersecção das duas vias.
+
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

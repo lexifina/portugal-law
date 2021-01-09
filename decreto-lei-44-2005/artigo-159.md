@@ -1,0 +1,17 @@
+## Capítulo II
+
+## Apreensões
+
+# Artigo 159.º
+
+### Apreensão preventiva de títulos de condução
+
+1 - Os títulos de condução devem ser preventivamente apreendidos pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
+
+a) Suspeitem da sua contrafacção ou viciação fraudulenta;
+
+b) Tiver expirado o seu prazo de validade;
+
+c) Se encontrem em estado de conservação que torne ininteligível qualquer indicação ou averbamento.
+
+2 - Nos casos previstos nas alíneas a) e c) do n.º 1 deve, em substituição do título, ser fornecida uma guia de condução válida pelo tempo julgado necessário e renovável quando ocorra motivo justificado.

@@ -1,0 +1,11 @@
+## Subsecção II
+
+## Ultrapassagem
+
+# Artigo 36.º
+
+### Regra geral
+
+1 - A ultrapassagem deve efectuar-se pela esquerda.
+
+2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 250 a (euro) 1250.

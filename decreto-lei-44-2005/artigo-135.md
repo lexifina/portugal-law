@@ -1,0 +1,35 @@
+# Artigo 135.º
+
+### Responsabilidade pelas infracções
+
+1 - São responsáveis pelas contra-ordenações rodoviárias os agentes que pratiquem os factos constitutivos das mesmas, designados em cada diploma legal, sem prejuízo das excepções e presunções expressamente previstas naqueles diplomas.
+
+2 - As pessoas colectivas ou equiparadas são responsáveis nos termos da lei geral.
+
+3 - A responsabilidade pelas infracções previstas no Código da Estrada e legislação complementar recai no:
+
+a) Condutor do veículo, relativamente às infracções que respeitem ao exercício da condução;
+
+b) Titular do documento de identificação do veículo relativamente às infracções que respeitem às condições de admissão do veículo ao trânsito nas vias públicas, bem como pelas infracções referidas na alínea anterior quando não for possível identificar o condutor;
+
+c) Peão, relativamente às infracções que respeitem ao trânsito de peões.
+
+4 - Se o titular do documento de identificação do veículo provar que o condutor o utilizou abusivamente ou infringiu as ordens, as instruções ou os termos da autorização concedida, cessa a sua responsabilidade, sendo responsável, neste caso, o condutor.
+
+5 - Os instrutores são responsáveis pelas infracções cometidas pelos instruendos, desde que não resultem de desobediência às indicações da instrução.
+
+6 - Os examinandos respondem pelas infracções cometidas durante o exame.
+
+7 - São também responsáveis pelas infracções previstas no Código da Estrada e legislação complementar:
+
+a) Os comitentes que exijam dos condutores um esforço inadequado à prática segura da condução ou os sujeitem a horário incompatível com a necessidade de repouso, quando as infracções sejam consequência do estado de fadiga do condutor;
+
+b) Os pais ou tutores que conheçam a inabilidade ou a imprudência dos seus filhos menores ou dos seus tutelados e não obstem, podendo, a que eles pratiquem a condução;
+
+c) Os pais ou tutores de menores habilitados com licença especial de condução emitida nos termos do n.º 2 do artigo 125.º;
+
+d) Os condutores de veículos que transportem passageiros menores ou inimputáveis e permitam que estes não façam uso dos acessórios de segurança obrigatórios;
+
+e) Os que facultem a utilização de veículos a pessoas que não estejam devidamente habilitadas para conduzir, que estejam sob influência de álcool ou de substâncias psicotrópicas, ou que se encontrem sujeitos a qualquer outra forma de redução das faculdades físicas ou psíquicas necessárias ao exercício da condução.
+
+8 - O titular do documento de identificação do veículo responde subsidiariamente pelo pagamento das coimas e das custas que forem devidas pelo autor da contra-ordenação, sem prejuízo do direito de regresso contra este, salvo quando haja utilização abusiva do veículo.
