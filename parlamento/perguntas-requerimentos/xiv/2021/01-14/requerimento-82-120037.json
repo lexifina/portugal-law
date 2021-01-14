@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=z0cicdXsctfDc%2f9d1yARp1h7LFP%2fPGVMel8b9Bs7qvIqqHf34aeiO%2fdSKc0kDVR%2fLPbpEhs8U02z8aTDhVPvFDlF%2fdKEEctQOAVBXAtX7LLShPZo92EzlqrMf22g5W0QzGV0aCZng02VuQ2i47rX6KSQmaNsnVdROvmsS6SfIEfjwTnjcIIdg5uaB26FYEsyBxpEx535%2flU1eVLFTgnGeYJwshXN9MyVA9O79pSzvAtRnFl4FA9LHWO0i%2fC6Jes0DgOirCwusGnDpbNeLznaglZoqG5yA3uKgOEVajD%2bffRtAHBPCFjXYUZYch%2fFDjvpml8adBIDDiTp4ORyeY%2buOiAEn0WrTw1oHDEHpIHFYgc2Z%2f2WA%2bcWd1S5gBz1pfYaXvKLX4rMWQ6%2fHvxYqG7g79%2bPFDMkB%2bjM%2f8YhHh57FjA%3d&fich=RequerimentosXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "96fd1f34afbaf4a538efe509d9bf0017a1ace25d2f4cc53999570fe4dcaa1746",
+  "legislatura": "XIV",
+  "id": "120037",
+  "tipo": "Requerimento",
+  "numero": "82",
+  "data_registo": "2021-01-14",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Atos consulares em Nova Iorque",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1458",
+        "nome": "Carlos Alberto Gonçalves"
+      }
+    ],
+    "DataEnvio": "2021-01-15",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2021-01-15",
+        "dataProrrogacao": "2021-02-12",
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro de Estado e dos Negócios Estrangeiros",
+        "prazoProrrogacao": null,
+        "prorrogado": "S",
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2021-05-14",
+            "docRemetida": null,
+            "entidade": "Ministro de Estado e dos Negócios Estrangeiros",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a426d597a5a695a5755344c5445354d4759744e4463784f5330354e474e6d4c54466a4d474e695a4446695a6a4d78595335775a47593d&fich=0fc6bee8-190f-4719-94cf-1c0cbd1bf31a.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2021-01-14",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a45324e44566d597a4e6b4c5755305a6a63744e47466a4e433169597a557a4c544530596d59324d4751785a5441324e4335775a47593d&fich=1645fc3d-e4f7-4ac4-bc53-14bf60d1e064.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "120037",
+    "Legislatura": "XIV",
+    "Nr": "82",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
