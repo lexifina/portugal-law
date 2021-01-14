@@ -1,0 +1,8 @@
+Aviso n.º 977/2021
+Sumário: Projeto de Regulamento de Isenção de Impostos Municipais e Outros Tributos.
+Carlos Manuel Lavrador de Jesus Carreiras, Presidente da Câmara Municipal de Cascais, torna público que, ao abrigo das disposições conjugadas previstas nas alíneas b) e t) do n.º 1 do artigo 35.º e no artigo 56.º da Lei n.º 75/2013, de 12 de setembro, na redação vigente, nos termos e para os efeitos previstos nos artigos 101.º do Código do Procedimento Administrativo e artigo 13.º da Lei n.º 53-E/2006, de 29 de dezembro, na redação vigente, em reunião extraordinária de 30 de outubro de 2020, foi deliberado dar início ao período de consulta pública do projeto de Regulamento de Isenção de Impostos Municipais e outros Tributos, pelo período de trinta dias úteis, a contar da data da publicação do presente Aviso no Diário da República.
+O projeto de regulamento encontra-se disponível para consulta na página da internet da Câmara Municipal de Cascais (www.cm-cascais.pt), nas juntas de freguesia e nos Paços do Concelho sob a forma de edital e publicitado no Boletim Municipal.
+Durante o período de consulta pública, qualquer interessado poderá formular as reclamações, observações ou sugestões que entenda por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal de Cascais, podendo ser remetidas por correio convencional ou por correio eletrónico para o endereço dpco@cm-cascais.pt ou entregues no Atendimento Municipal da Câmara Municipal de Cascais, durante o período normal de expediente.
+E, para que conste, mandei publicar este Aviso no Diário da República.
+14 de dezembro de 2020. - O Presidente da Câmara, Carlos Carreiras.
+313807799
