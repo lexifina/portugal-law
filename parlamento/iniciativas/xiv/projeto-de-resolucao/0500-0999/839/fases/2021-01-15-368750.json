@@ -1,0 +1,441 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "839",
+    "id": "45594",
+    "titulo": "Pelo cumprimento da Resolução da Assembleia da República n.º 201/2019, no sentido da elaboração um estudo sobre a forma como poderão ser atribuídos os benefícios constantes na Lei n.º 3/2009, de 13 de janeiro, aos ex-militares do recrutamento local sem registos de carreira contributiva"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2021-01-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17347",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2021-01-15",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-01-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2867",
+                "nome": "João Gonçalves Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_15_10_00_00_clean_14_plenario.xml&idsegmento=2"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_15_10_00_00_clean_14_plenario.xml&idsegmento=9"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243540",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-10",
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-16",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/039/2021-01-16/4?pgs=4-5,10&org=PLC"
+              }
+            ],
+            "sumario": "Pelo cumprimento da Resolução da Assembleia da República n.º 201/2019, no sentido da elaboração de um estudo sobre a forma como poderão ser atribuídos os benefícios constantes da Lei n.º 3/2009, de 13 de janeiro, aos ex-militares do recrutamento local sem registos de carreira contributiva. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4022",
+                "nome": "João Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_15_10_00_00_clean_14_plenario.xml&idsegmento=3"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243541",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-16",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/039/2021-01-16/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Pelo cumprimento da Resolução da Assembleia da República n.º 201/2019, no sentido da elaboração de um estudo sobre a forma como poderão ser atribuídos os benefícios constantes da Lei n.º 3/2009, de 13 de janeiro, aos ex-militares do recrutamento local sem registos de carreira contributiva. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6534",
+                "nome": "Raul Miguel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_15_10_00_00_clean_14_plenario.xml&idsegmento=4"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243542",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-16",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/039/2021-01-16/6?pgs=6&org=PLC"
+              }
+            ],
+            "sumario": "Pelo cumprimento da Resolução da Assembleia da República n.º 201/2019, no sentido da elaboração de um estudo sobre a forma como poderão ser atribuídos os benefícios constantes da Lei n.º 3/2009, de 13 de janeiro, aos ex-militares do recrutamento local sem registos de carreira contributiva. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4055",
+                "nome": "Olga Silvestre"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_15_10_00_00_clean_14_plenario.xml&idsegmento=5"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243543",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-16",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/039/2021-01-16/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Pelo cumprimento da Resolução da Assembleia da República n.º 201/2019, no sentido da elaboração de um estudo sobre a forma como poderão ser atribuídos os benefícios constantes da Lei n.º 3/2009, de 13 de janeiro, aos ex-militares do recrutamento local sem registos de carreira contributiva. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_15_10_00_00_clean_14_plenario.xml&idsegmento=6"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243544",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-16",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/039/2021-01-16/8?pgs=8&org=PLC"
+              }
+            ],
+            "sumario": "Pelo cumprimento da Resolução da Assembleia da República n.º 201/2019, no sentido da elaboração de um estudo sobre a forma como poderão ser atribuídos os benefícios constantes da Lei n.º 3/2009, de 13 de janeiro, aos ex-militares do recrutamento local sem registos de carreira contributiva. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_15_10_00_00_clean_14_plenario.xml&idsegmento=7"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243545",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-16",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/039/2021-01-16/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "sumario": "Pelo cumprimento da Resolução da Assembleia da República n.º 201/2019, no sentido da elaboração de um estudo sobre a forma como poderão ser atribuídos os benefícios constantes da Lei n.º 3/2009, de 13 de janeiro, aos ex-militares do recrutamento local sem registos de carreira contributiva. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6976",
+                "nome": "Manuel dos Santos Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "13:38",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_15_10_00_00_clean_14_plenario.xml&idsegmento=8"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243546",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-16",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/039/2021-01-16/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Pelo cumprimento da Resolução da Assembleia da República n.º 201/2019, no sentido da elaboração de um estudo sobre a forma como poderão ser atribuídos os benefícios constantes da Lei n.º 3/2009, de 13 de janeiro, aos ex-militares do recrutamento local sem registos de carreira contributiva. ",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "368750",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "16884",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "4-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-01-16",
+        "pubLeg": "XIV",
+        "pubNr": "39",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/039/2021-01-16/4?pgs=4-10&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
