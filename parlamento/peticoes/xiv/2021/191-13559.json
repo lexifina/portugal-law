@@ -1,0 +1,218 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13559",
+  "numero": "191",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-01-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-03-23",
+            "entidades": null,
+            "id": "116829",
+            "tipo": null,
+            "titulo": "Audição em 2021-03-23 com Petição 191/XIV/2ª – Não ao Fecho dos Clubes Desportivos!"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-03-31",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915059",
+                "obs": null,
+                "pag": [
+                  "19-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-10",
+                "pubLeg": "XIV",
+                "pubNr": "38",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/038/2021-04-10/19?pgs=19-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-02-17",
+        "DataArquivo": "2021-04-06",
+        "DataBaixaComissao": "2021-01-19",
+        "DataEnvioPAR": "2021-04-08",
+        "DataReaberta": "2021-02-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-02-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314e474d325a5755774e7930334f474d784c54517a4e5459744f54686c4e793169596a6c6a5a4459314f57517a4f5751756347526d&fich=54c6ee07-78c1-4356-98e7-bb9cd659d39d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-02-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793877596d51784e574d77595330324e7a526a4c5451334d445574595467355953316b4d444530596d566a4f57566a5a4463756347526d&fich=0bd15c0a-674c-4705-a89a-d014bec9ecd7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-02-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b597a426b5a6a5a684d43316c4d5467344c5451334d6a41744f57526c4e7931685a6a686b4e6d4d774d474d3559574d756347526d&fich=dc0df6a0-e188-4720-9de7-af8d6c00c9ac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-02-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4d6d4d785a6d51314e7930304f47526b4c545135595449745954646b5a533032595449335a6d557a4d545532593259756347526d&fich=d2c1fd57-48dd-49a2-a7de-6a27fe3156cf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-03-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793832596a566a4e57566d4d69316c4d324e6b4c54526b4d7a59744f544d7a5979303159574d31596a6c694e546b784d4755756347526d&fich=6b5c5ef2-e3cd-4d36-933c-5ac5b9b5910e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-03-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939695a544e6c4f544d784f4330304d3259784c5451794e6a59744f44466b4e7930344e7a4e6a4d4467775a474e6a4e4749756347526d&fich=be3e9318-43f1-4266-81d7-873c080dcc4b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-03-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4e5759335a4755334e43316d4d445a694c5451304d47457459574a685953316b4f546b325a546b784e47466b5a574d756347526d&fich=f5f7de74-f06b-440a-abaa-d996e914adec.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-04-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938335954417a4e6a646b5a4331685a6d55354c5451304d546774596a6b355a53316a4f44526a4f47517a596d4535596a63756347526d&fich=7a0367dd-afe9-4418-b99e-c84c8d3ba9b7.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-04-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4d7a4669593255324f5330324e54466d4c545177596a5574595467775a53316b4d6a526a597a51334e54677a4d6a45756347526d&fich=d31bce69-651f-40b5-a80e-d24cc4758321.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-06-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784e3259775a6a59774f5330354f44517a4c545179596a6374596d51775a533033596a55784e7a4d785a4441794d6d49756347526d&fich=17f0f609-9843-42b7-bd0e-7b51731d022b.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-02-17",
+            "gp": "PSD",
+            "id": "2114",
+            "motivoCessacao": null,
+            "nome": "Emídio Guerreiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-01-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a41354f4745324d6a566c4c5745344d5445744e474d784e5330344e5467304c574d304d6a45785957466c595751784e6935775a47593d&fich=098a625e-a811-4c15-8584-c4211aaead16.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2022-04-19",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a686a4f4455784e4445784c5755794f4749744e47526d597930344d325a684c5463774e6a686d4f44453359546c694d4335775a47593d&fich=8c851411-e28b-4dfc-83fa-7068f817a9b0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13559",
+    "PetAssunto": "Não ao Fecho dos Clubes Desportivos!",
+    "PetDataEntrada": "2021-01-16",
+    "PeticoesAssociadas": null,
+    "PetId": "13559",
+    "PetLeg": "XIV",
+    "PetNr": "191",
+    "PetNrAssinaturas": "24367",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Em 13 de abril de 2022 foi perguntado ao primeiro peticionário se mantinha o interesse em que o assunto da Petição ainda fosse apreciado em Plenário e, em 19 de abril, o mesmo respondeu que a questão estava ultrapassada.",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915059",
+        "obs": null,
+        "pag": [
+          "15-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-02-20",
+        "pubLeg": "XIV",
+        "pubNr": "29",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/029/2021-02-20/15?pgs=15-16&org=PLC"
+      }
+    ]
+  }
+}
