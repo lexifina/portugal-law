@@ -1,0 +1,18 @@
+Aviso n.º 1206/2021
+Sumário: Alteração ao artigo 25.º do regulamento do Plano Diretor Municipal de Almodôvar - PDM.
+Alteração do artigo 25.º do regulamento do Plano Diretor Municipal de Almodôvar - PDM
+Início do procedimento
+António Manuel Ascenção Mestre Bota, Presidente da Câmara Municipal de Almodôvar, no uso da competência que lhe advém da alínea t), do n.º 1, do artigo 35.º da Lei n.º 75/2013, de 12 de setembro e em cumprimento com o disposto no artigo 56.º do mesmo diploma:
+Torna público, nos termos e para os efeitos do disposto nos n.os 1 e 2 do artigo 119.º, do n.º 1 do artigo 76.º e da alínea c) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Almodôvar, reunida em sessão ordinária no dia 04 de novembro de 2020, deliberou por unanimidade:
+a) Dar início ao procedimento de alteração do ponto n.º 3.3. do artigo 25.º do regulamento do Plano Diretor Municipal de Almodôvar;
+b) Estabelecer o prazo máximo de 3 meses para a respetiva elaboração;
+c) Determinar, de acordo com o disposto no n.º 1 do artigo 120.º do Decreto-Lei n.º 80/2015, de 14 de maio e no n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio, a dispensa da elaboração da Avaliação Ambiental Estratégica, em virtude de as alterações em causa não serem suscetíveis de ter efeitos significativos no ambiente;
+d) Promover, de acordo com o n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, pelo prazo de 15 dias úteis a contar do dia seguinte à publicação do anúncio da presente deliberação no Diário da República, a participação para a formulação de sugestões, bem como para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento;
+e) Dar conhecimento, ao abrigo do disposto no n.º 1 do artigo 83.º do RJIGT, da presente deliberação à CCDR - Comissão de Coordenação e Desenvolvimento Regional do Alentejo e solicitar o acompanhamento;
+É fundamento da presente proposta de alteração ao PDM de Almodôvar, a necessidade de incluir "...equipamentos de apoio à saúde e assistência a doentes, idosos ou outros e de serviços a eles associados, relativamente aos quais venha a ser reconhecido interesse municipal.", no regime de exceções do ponto 3.3. do artigo 25.º do regulamento.
+Durante o período para recolha de sugestões, dispõem os cidadãos interessados do prazo de 15 dias úteis a contar da data de publicação do presente Aviso no Diário da República, para submeter por via postal, entrega na Divisão de Obras, Serviços Urbanos e Gestão Territorial ou envio através do endereço eletrónico geral@cm-almodovar.pt, os seus contributos e sugestões, bem como apresentar informações sobre questões que entendam dever ser consideradas, mediante requerimento dirigido ao Presidente da Câmara, em que conste a identificação, o endereço dos seus autores, a qualidade em que se apresentam e que, especificamente, se relacionem com a proposta de alteração do PDM.
+O respetivo processo poderá ser consultado no sítio eletrónico do Município (http://www.cm-almodovar.pt) ou nas instalações da DOSUGT - Divisão de Obras, Serviços Urbanos e Gestão Territorial no Edifício da Câmara Municipal de Almodôvar, situado na Rua Serpa Pinto, 7700-081 Almodôvar nos dias úteis das 08:30h às 14:30h.
+Para que não se alegue desconhecimento e para os demais efeitos, se publica o presente aviso na 2.ª série do Diário da República, e outros de igual teor vão ser afixados nos locais públicos do costume e divulgados através do sítio eletrónico do Município de Almodôvar e da comunicação social.
+A presente deliberação foi tomada em minuta.
+5 de janeiro de 2021. - O Presidente da Câmara, António Manuel Ascenção Mestre Bota.
+313861014
