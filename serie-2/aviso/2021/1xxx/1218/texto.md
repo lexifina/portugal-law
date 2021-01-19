@@ -1,0 +1,23 @@
+Aviso n.º 1218/2021
+Sumário: 2.ª alteração à 1.ª revisão do Plano Diretor Municipal de Castanheira de Pera.
+Abertura de procedimento da 2.ª alteração à 1.ª revisão do Plano Diretor Municipal de Castanheira de Pera
+Torna-se público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, que a Câmara Municipal deliberou, em reunião pública, de 2 de dezembro de 2020, determinar o início do procedimento relativo à 2.ª alteração à 1.ª Revisão do Plano Municipal de Castanheira de Pera, publicado pelo Aviso n.º 11673/2015, publicado na 2.ª série do Diário da República de 13 de outubro de 2015, que deverá estar concluído no prazo de 180 dias, contados a partir da publicação da deliberação no Diário da República.
+A alteração tem por objetivo dar cumprimento ao disposto no artigo 82.º da Lei de Bases Gerais da Política Pública de Solos, de Ordenamento do Território e Urbanismo (LBGPPSOTU).
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do mesmo diploma, é estabelecido o período de 15 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página oficial da Câmara Municipal de Castanheira de Pera em www.cm-castanheiradepera.pt e na Divisão de Administração Autárquica (Sector de Planeamento, Obras Particulares e Urbanismo), desta Câmara Municipal.
+Os interessados podem apresentar eventuais sugestões e ou pedidos de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente à Presidente da Câmara Municipal de Castanheira de Pera e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações desta Câmara Municipal, enviadas por via postal para a morada Praça Visconde de Castanheira de Pera, 3280-017 Castanheira de Pera ou por via eletrónica para www.cm-castanheiradepera.pt.
+Para constar, publica-se o presente aviso que vai ser afixado nos lugares de estilo, bem como publicado em 2.ª série de Diário da República e na imprensa.
+7 de janeiro de 2021. - A Presidente da Câmara Municipal, Alda Maria das Neves Delgado Correia de Carvalho.
+Deliberação
+Vítor Manuel Henriques Silva, Coordenador Técnico da Secção Administrativa da Câmara Municipal de Castanheira de Pera, certifico para todos os efeitos legais, que na sessão ordinária da Câmara Municipal realizada no dia 2 de dezembro de 2020, foi aprovada por unanimidade e em minuta, a deliberação que a seguir se transcreve:
+«2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Castanheira de Pera - Decisão de elaboração
+Presente os termos de referência referentes ao procedimento da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Castanheira de Pera, elaborada pelo Setor de Obras Particulares, Urbanismo e Ambiente, e que visa estabelecer e fundamentar a oportunidade de alteração do mencionado Plano, que aqui se dá por reproduzido para todos os efeitos legais, fazendo parte integrante da presente deliberação.
+Propõe-se que a Câmara Municipal delibere:
+1.º Determinar o início do procedimento da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Castanheira de Pera, em cumprimento do disposto no n.º 1 do artigo 76.º conjugado com os artigos 118.º e 119.º do Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT), e nos termos do disposto na alínea a) e c) do n.º 2 do artigo 115.º do mesmo diploma;
+2.º Aprovar os termos de referência referentes à alteração do Plano Diretor Municipal de Castanheira de Pera;
+3.º Determinar que a alteração do Plano Diretor Municipal está sujeita a Avaliação Ambiental, conforme previsto no n.º 1 do artigo 120.º do Decreto-Lei n.º 80/2015, de 14 de maio e no n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, na sua atual redação;
+4.º Proceder à abertura do período de participação pública, nos termos de n.º 2 do artigo 88.º do RJIGT, estabelecendo-se o período de 15 dias úteis, contados a partir da publicação, no Diário da República, da presente deliberação;
+5.º Estabelecer o prazo máximo 180 dias para conclusão da alteração do Plano Diretor Municipal;
+6.º Dar conhecimento à Comissão de Coordenação e Desenvolvimento Regional do Centro (CCDRC) do teor da presente deliberação e solicitar o seu acompanhamento ao abrigo do disposto no n.º 2 do artigo 86.º do RJIGT.»
+Por ser verdade e para constar passei a presente certidão que por mim vai ser assinada e autenticada com o selo branco em uso nesta Câmara Municipal.
+7 de janeiro de 2021. - O Coordenador Técnico, Vítor Manuel Henriques Silva.
+613875093
