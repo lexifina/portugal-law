@@ -2,15 +2,19 @@
 
 ## Comando da Administração dos Recursos Internos
 
-# Artigo 11.º
+# Artigo 11.º-A
 
-### Direcção de Recursos Humanos
+### Departamento de Recursos Humanos
 
-À Direcção de Recursos Humanos (DRH) compete:
+1 - O Departamento de Recursos Humanos assegura a coordenação e controlo das atividades da Guarda no domínio do apoio à administração e gestão estratégica dos recursos humanos, de acordo com os planos e as diretivas superiores.
+
+2 - O Departamento de Recursos Humanos é responsável pela gestão e articulação institucional do modelo de gestão de recursos humanos, adequando o perfil de competências funcionais aos cargos organicamente estabelecidos, em estreita ligação com as estruturas operacionais e de formação.
+
+3 - Ao Departamento de Recursos Humanos compete, em especial:
 
 a) O planeamento, recrutamento, organização e gestão dos recursos humanos, em articulação com os demais serviços e com as unidades da Guarda;
 
-b) Propor as normas relativas à colocação e mobilidade dos recursos humanos e assegurar a sua aplicação uniforme em todas as unidades e subunidades da Guarda;
+b) Propor as normas relativas à colocação e mobilidade dos recursos humanos e assegurar a sua aplicação uniforme em todas as unidades e subunidades da Guarda, garantindo o necessário nível de descentralização e responsabilidade nos comandos das unidades;
 
 c) Elaborar estudos, inquéritos e outros trabalhos tendentes à definição e desenvolvimento da política de recursos humanos;
 
@@ -38,4 +42,6 @@ h) Coordenar o apoio psicossocial;
 
 i) Diagnosticar as necessidades de formação, em colaboração com os demais serviços e unidades da Guarda;
 
-j) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.
+j) Participar na elaboração da doutrina relativa às suas competências;
+
+k) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.

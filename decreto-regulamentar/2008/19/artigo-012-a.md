@@ -1,8 +1,12 @@
-# Artigo 12.º
+# Artigo 12.º-A
 
-### Direcção de Recursos Financeiros
+### Departamento de Recursos Financeiros
 
-Compete à Direcção de Recursos Financeiros (DRF):
+1 - O Departamento de Recursos Financeiros assegura as atividades da Guarda no domínio do apoio à administração estratégica dos recursos financeiros, de acordo com os planos e as diretivas superiores.
+
+2 - O Departamento de Recursos Financeiros assegura de forma permanente o apoio direto ao comandante-geral, sendo responsável pela administração e gestão financeira, pela coerência, integridade institucional e funcional do sistema de informação financeira da Guarda, garantindo a disponibilização equilibrada de recursos financeiros para as diferentes atividades.
+
+3 - Ao Departamento de Recursos Financeiros, compete, em especial:
 
 a) Preparar os projectos orçamentais da Guarda;
 

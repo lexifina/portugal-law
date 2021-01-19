@@ -4,27 +4,33 @@
 
 1 - O Comando Operacional (CO), que assegura o comando de toda a actividade operacional da Guarda, estrutura-se nas seguintes unidades orgânicas nucleares:
 
-a) Direcção de Operações;
+a) (Revogada)
 
-b) Direcção de Informações;
+b) Departamento de Operações;
 
-c) Direcção de Investigação Criminal;
+c) Direcção de Informações;
 
-d) Direcção do Serviço de Protecção da Natureza e do Ambiente;
+d) Direcção de Investigação Criminal;
 
-e) Direcção de Comunicações e Sistemas de Informação.
+e) Direcção do Serviço de Protecção da Natureza e do Ambiente;
+
+f) Direcção de Comunicações e Sistemas de Informação.
 
 2 - O Comando da Administração dos Recursos Internos (CARI), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da administração dos recursos humanos, materiais e financeiros, estrutura-se nas seguintes unidades orgânicas nucleares:
 
-a) Direcção de Recursos Humanos;
+a) (Revogada.)
 
-b) Direcção de Recursos Financeiros;
+b) (Revogada.)
 
-c) Direcção de Recursos Logísticos;
+c) Departamento de Recursos Humanos;
 
-d) Direcção de Infra-Estruturas;
+d) Departamento de Recursos Financeiros;
 
-e) Direcção de Saúde e Assistência na Doença.
+e) Direcção de Recursos Logísticos;
+
+f) Direcção de Infra-Estruturas;
+
+g) Direcção de Saúde e Assistência na Doença.
 
 3 - O Comando da Doutrina e Formação (CDF), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da doutrina e da formação do efectivo, estrutura-se nas seguintes unidades orgânicas nucleares:
 
