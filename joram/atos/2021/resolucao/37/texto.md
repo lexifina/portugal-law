@@ -1,0 +1,26 @@
+# Resolução n.º 37/2021
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 12/2021, suplemento, de 2021-01-19
+
+**Sumário:** Autoriza a celebração de um Contrato-Programa entre a Região Autónoma da Madeira e o Serviço de Saúde da Região Autónoma da Madeira, EPERAM, tendo por objeto a definição e quantificação das atividades a realizar por este Serviço e das contrapartidas financeiras a auferir em função dos resultados obtidos, para 2021.
+
+## Texto
+
+Resolução n.º 37/2021
+Considerando que compete ao Serviço de Saúde da Região Autónoma da Madeira, EPERAM (adiante designado por SESARAM, EPERAM) nos termos regulados pelos seus Estatutos, aprovados em anexo ao Decreto Legislativo Regional n.º 13/2019/M, de 22 de agosto, alterado pelos Decretos Legislativos Regionais n.ºs 1-A/2020/M, de 31 de janeiro e n.º 8/2020/M, de 13 de julho, a prestação de cuidados de saúde à população;
+Considerando que a promoção desta missão, em execução da política de saúde definida pelo Governo Regional, exige e determina que o respetivo financiamento seja suficiente e ininterrupto;
+Considerando que este financiamento é efetuado essencialmente através de contrato-programa, de acordo com o disposto no n.º 2 do artigo 6.º e no artigo 29.º, ambos do diploma atrás referido, em conjugação com o artigo 31.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro;
+Considerando que a pandemia por infeção de SARS-CoV-2 (COVID-19) decretada a 11 de março de 2020 pela Organização Mundial de Saúde teve impacto imediato na atividade programada e não programada, realizada em 2020 pelos estabelecimentos e serviços do Serviço de Saúde da Região Autónoma da Madeira, EPERAM, cujos efeitos se estima perdurarem, pelo menos, durante o primeiro semestre de 2021, com toda a imprevisibilidade que carateriza um fenómeno desta natureza e os custos de contexto que daí emergem;
+Considerando que o aludido contrato-programa se configura como um instrumento de definição e de quantificação das atividades a realizar pelo Serviço de Saúde da Região Autónoma da Madeira, EPERAM e das contrapartidas financeiras a auferir, em função dos resultados obtidos, bem como de fixação dos objetivos de convergência económico-financeira;
+Considerando o caráter de anualidade que tem caraterizado estes contratos, assume caráter de urgência imperiosa, inadiável e de interesse público a aprovação de um novo contrato-programa para o ano de 2021, por forma a garantir a prestação de cuidados de saúde, e assim cumprir o imperativo constitucional de proteção da saúde dos cidadãos, direito que carateriza e condiciona a missão do Serviço de Saúde da Região Autónoma da Madeira, EPERAM.
+O Conselho de Governo reunido em plenário em 14 de janeiro de 2021, resolve:
+1 - Autorizar, ao abrigo do disposto nos números 1 e 2 do artigo 33.º e números 1, e 8 a 10 do artigo 35.º do Decreto Legislativo Regional n.º 18/2020/M, de
+
+31 de dezembro, bem como nos números 1 e 2 do artigo 6.º dos Estatutos do Serviço de Saúde da Região Autónoma da Madeira, EPERAM, aprovados pelo Decreto Legislativo Regional n.º 13/2019/M, de 22 de agosto, alterado pelos Decretos Legislativos Regionais n.ºs 1-A/2020/M, de 31 de janeiro e n.º 8/2020/M, de 13 de julho, e no disposto na alínea k), do n.º 2 do artigo 3.º da orgânica do Instituto de Administração da Saúde, IP-RAM, aprovada pelo Decreto Legislativo Regional n.º 22/2008/M, de 23 de junho, alterado pelos Decretos Legislativos Regionais n.ºs 10/2011/M, de 27 de abril, 14/2012/M, de 9 de julho e 15/2020/M, de 16 de novembro, bem como da alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, alterada pelas Leis n.ºs 20/2012, de 14 de maio, 64/2012, de 20 de dezembro, 66B/2012, de 31 de dezembro, e 22/2015, de 17 de março, a celebração de um Contrato-Programa entre a Região Autónoma da Madeira e o Serviço de Saúde da Região Autónoma da Madeira, EPERAM, tendo por objeto a definição e quantificação das atividades a realizar por este Serviço e das contrapartidas financeiras a auferir em função dos resultados obtidos, para 2021.
+2 - Autorizar, como contrapartida pela produção contratada, a concessão ao Serviço de Saúde da Região Autónoma da Madeira, EPERAM do montante global de 263.661.328,00 Euros (duzentos e sessenta e três milhões, seiscentos e sessenta e um mil, trezentos e vinte e oito euros), respeitantes ao período de 1 de janeiro a 31 de dezembro de 2021.
+3 - Aprovar a minuta do Contrato-Programa que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência.
+4 - Mandatar o Vice-Presidente do Governo Regional e dos Assuntos Parlamentares e o Secretário Regional de Saúde e Proteção Civil, para, em representação da Região Autónoma da Madeira, outorgarem o Contrato-Programa ora aprovado.
+5 - O respetivo encargo tem cabimento orçamental no orçamento privativo do Instituto de Administração da Saúde, IP-RAM, para o ano de 2021, na classificação económica 04.04.03.AQ.CA, ao qual foi atribuído o número de compromisso 8.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
