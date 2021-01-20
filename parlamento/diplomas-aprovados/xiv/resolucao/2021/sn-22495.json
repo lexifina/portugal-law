@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=liIgqKTpZUFqE6QK2umNv2E3KMNWfuMxnpcUfARuFa6sPs9C9RXOSJIJpGUjpUeoGHRV0wwfBMNPQQpZRWhlwpAzoAVKOeVEs0c9xbMYuDm5V%2bpkNyQaRfMLPKLCwks0i5WXMxW6mg9r7NkTSg%2bkuULc82C%2fnMuEhg2R3UELkWNvhk24q7uUeBFQ14uH6v8g1krTqTN1MnBYZEb4Q84eNaEHvMguz2xCnShFyVr8wALAtvaQSQVNHI0Bn51VYit8YO3ikEDqj9BYle5zGfa26tB9%2bcYRwxXX0T1MRHA0lOKQEoIgrjAj%2bHFJtPMZ9hArk6M1czEsjM5nOR9vyt5obBWo8mQQG1VE0Tn%2fpwVLVLg%3d&fich=DiplomasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "6fa1d39620890f0cec7d61f8de276746d52efaf231b741982fe301693dd73b8e",
+  "legislatura": "XIV",
+  "id": "22495",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2021-01-20",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2021",
+    "Id": "22495",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "45106",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4749324f44566b4e3245744e474d335a5330304e4755784c5467314f574d744e44597a5a6a49785a4441354d6d4e6a4c6d527659773d3d&fich=db685d7a-4c7e-44e1-859c-463f21d092cc.doc&Inline=true",
+        "IniNr": "561",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XIV",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636939694f575978597a686a4f5331684d6a41344c5452684d57457459546b784f4330354d4759794e7a6c6d596d4d314f544d755a47396a&fich=b9f1c8c9-a208-4a1a-a918-90f279fbc593.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "916061",
+        "obs": null,
+        "pag": [
+          "5-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-01-20",
+        "pubLeg": "XIV",
+        "pubNr": "61",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/061S1/2021-01-20/5?pgs=5&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo que crie uma tarifa social de acesso a serviços de Internet",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
