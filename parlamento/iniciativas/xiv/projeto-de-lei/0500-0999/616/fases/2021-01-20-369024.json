@@ -1,0 +1,661 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "616",
+    "id": "45587",
+    "titulo": "Determina uma distância mínima entre o extremo de culturas agrícolas permanentes superintensivas e os núcleos habitacionais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-01-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16760",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-01-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "45304",
+        "leg": "XIV",
+        "nr": "530",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Criação de selo para identificação das embalagens contendo azeite com proveniência no olival tradicional"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "45585",
+        "leg": "XIV",
+        "nr": "835",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Exorta o Governo a que as culturas agrícolas permanentes superintensivas não sejam beneficiárias de apoios públicos"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "44363",
+        "leg": "XIV",
+        "nr": "196",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "5984",
+            "obs": null,
+            "pag": [
+              "45-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-01-21",
+            "pubLeg": "XIV",
+            "pubNr": "41",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o reforço dos direitos dos consumidores através da inclusão nos rótulos de azeite do tipo de sistema agrícola: tradicional, intensivo ou superintensivo"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-01-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_20_15_00_00_clean_14_plenario.xml&idsegmento=50"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_20_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46",
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-21",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-46,52-53&org=PLC"
+              }
+            ],
+            "sumario": "Criação de selo para identificação das embalagens contendo azeite com proveniência no olival tradicional; Determina uma distância mínima entre o extremo de culturas agrícolas permanentes superintensivas e os núcleos habitacionais; Exorta o Governo a que as culturas agrícolas permanentes superintensivas não sejam beneficiárias de apoios públicos; Recomenda ao Governo o reforço dos direitos dos consumidores através da inclusão nos rótulos de azeite do tipo de sistema agrícola, tradicional, intensivo ou superintensivo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_20_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-21",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Criação de selo para identificação das embalagens contendo azeite com proveniência no olival tradicional; Determina uma distância mínima entre o extremo de culturas agrícolas permanentes superintensivas e os núcleos habitacionais; Exorta o Governo a que as culturas agrícolas permanentes superintensivas não sejam beneficiárias de apoios públicos; Recomenda ao Governo o reforço dos direitos dos consumidores através da inclusão nos rótulos de azeite do tipo de sistema agrícola, tradicional, intensivo ou superintensivo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "5748",
+                "nome": "Ana Rita Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_20_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-21",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "sumario": "Criação de selo para identificação das embalagens contendo azeite com proveniência no olival tradicional; Determina uma distância mínima entre o extremo de culturas agrícolas permanentes superintensivas e os núcleos habitacionais; Exorta o Governo a que as culturas agrícolas permanentes superintensivas não sejam beneficiárias de apoios públicos; Recomenda ao Governo o reforço dos direitos dos consumidores através da inclusão nos rótulos de azeite do tipo de sistema agrícola, tradicional, intensivo ou superintensivo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5635",
+                "nome": "Norberto Patinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_20_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-21",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Criação de selo para identificação das embalagens contendo azeite com proveniência no olival tradicional; Determina uma distância mínima entre o extremo de culturas agrícolas permanentes superintensivas e os núcleos habitacionais; Exorta o Governo a que as culturas agrícolas permanentes superintensivas não sejam beneficiárias de apoios públicos; Recomenda ao Governo o reforço dos direitos dos consumidores através da inclusão nos rótulos de azeite do tipo de sistema agrícola, tradicional, intensivo ou superintensivo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6533",
+                "nome": "Ricardo Vicente"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_20_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-21",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Criação de selo para identificação das embalagens contendo azeite com proveniência no olival tradicional; Determina uma distância mínima entre o extremo de culturas agrícolas permanentes superintensivas e os núcleos habitacionais; Exorta o Governo a que as culturas agrícolas permanentes superintensivas não sejam beneficiárias de apoios públicos; Recomenda ao Governo o reforço dos direitos dos consumidores através da inclusão nos rótulos de azeite do tipo de sistema agrícola, tradicional, intensivo ou superintensivo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1706",
+                "nome": "João Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_20_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-21",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Criação de selo para identificação das embalagens contendo azeite com proveniência no olival tradicional; Determina uma distância mínima entre o extremo de culturas agrícolas permanentes superintensivas e os núcleos habitacionais; Exorta o Governo a que as culturas agrícolas permanentes superintensivas não sejam beneficiárias de apoios públicos; Recomenda ao Governo o reforço dos direitos dos consumidores através da inclusão nos rótulos de azeite do tipo de sistema agrícola, tradicional, intensivo ou superintensivo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5524",
+                "nome": "João Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "19:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_01_20_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-01-21",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Criação de selo para identificação das embalagens contendo azeite com proveniência no olival tradicional; Determina uma distância mínima entre o extremo de culturas agrícolas permanentes superintensivas e os núcleos habitacionais; Exorta o Governo a que as culturas agrícolas permanentes superintensivas não sejam beneficiárias de apoios públicos; Recomenda ao Governo o reforço dos direitos dos consumidores através da inclusão nos rótulos de azeite do tipo de sistema agrícola, tradicional, intensivo ou superintensivo",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "369024",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "916926",
+        "obs": null,
+        "pag": [
+          "45-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-01-21",
+        "pubLeg": "XIV",
+        "pubNr": "41",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/041/2021-01-21/45?pgs=45-53&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
