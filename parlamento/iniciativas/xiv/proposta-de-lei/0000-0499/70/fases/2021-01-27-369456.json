@@ -1,0 +1,68 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "70",
+    "id": "45671",
+    "titulo": "Estabelece um regime de suspensão de prazos processuais e procedimentais decorrente das medidas adotadas no âmbito da pandemia da doença COVID-19"
+  },
+  "fase": "Admissão Proposta de Alteração",
+  "codigo_fase": "260",
+  "data_registo": "2021-01-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d5455774d324d335a5459744d6a63315a4330304d324e6b4c5745324d57497459574e68596d56694d7a457a4f4441784c6e426b5a673d3d&fich=1503c7e6-275d-43cd-a61b-acabeb313801.pdf&Inline=true",
+        "anexoNome": "Proposta apresentada pelo IL"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595755774e474d314d5745744d47566a5a6930304d4451774c546c695a4445745a6a4d774d575a6d4e444d785a6d49354c6e426b5a673d3d&fich=ae04c51a-0ecf-4040-9bd1-f301ff431fb9.pdf&Inline=true",
+        "anexoNome": "Proposta apresentada pelo BE"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a54646d4f5464695a4455744f5452694d6930304d54526c4c5467334d5449745a6a4930597a646a4e545a68596a45344c6e426b5a673d3d&fich=e7f97bd5-94b2-414e-8712-f24c7c56ab18.pdf&Inline=true",
+        "anexoNome": "Proposta apresentada pelo PAN"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d4d324e5455354e324d74596d4e695a5330305932566a4c57466b596a45744e4745774e4451314d6a68684f5759784c6e426b5a673d3d&fich=fc65597c-bcbe-4cec-adb1-4a044528a9f1.pdf&Inline=true",
+        "anexoNome": "Proposta apresentada pelo CDS-PP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576593259324d6a41794f5463744f5445794f5330304e5459784c546c6c4d3259744e4451784f544d335a6a526c596d4d784c6e426b5a673d3d&fich=cf620297-9129-4561-9e3f-441937f4ebc1.pdf&Inline=true",
+        "anexoNome": "Proposta apresentada pelo PS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a49315a574a68597a4d74597a4d34596930305a6d55794c57497a5a5451745a6a5a694e4467334f5759354e6a686c4c6e426b5a673d3d&fich=225ebac3-c38b-4fe2-b3e4-f6b4879f968e.pdf&Inline=true",
+        "anexoNome": "Proposta apresentada pelo PCP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f574a694e44686d4f5445744e6d59354f533030597a63354c546b774d6a6374597a64684d6a55325a6d5a695932526a4c6e426b5a673d3d&fich=9bb48f91-6f99-4c79-9027-c7a256ffbcdc.pdf&Inline=true",
+        "anexoNome": "Proposta apresentada pelo PSD"
+      }
+    ],
+    "CodigoFase": "260",
+    "Comissao": null,
+    "DataFase": "2021-01-27",
+    "EvtId": "46",
+    "Fase": "Admissão Proposta de Alteração",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "369456",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
