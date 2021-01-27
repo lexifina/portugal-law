@@ -1,0 +1,19 @@
+Resolução da Assembleia da República n.º 9/2021
+Sumário: Recomenda ao Governo a realização de um plano de ação para uma escola renovada.
+Recomenda ao Governo a realização de um plano de ação para uma escola renovada
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Proceda a um inquérito exaustivo e rigoroso que permita levantar todas as necessidades locais e estruturar todas as possibilidades de resposta territoriais do acesso à Internet e equipamentos informáticos como computadores e tablets.
+2 - Crie condições para o recurso mais generalizado ao ensino a distância que pode ser útil aos alunos para i) rever aulas, ii) aprofundar conhecimento em tópicos em que tenham especial interesse e iii) pôr em prática novos conceitos através de exercícios interativos; as mesmas condições poderão ser aplicadas de forma sistemática à educação de adultos e a alunos de famílias itinerantes.
+3 - Permita aos professores focarem a sua atenção em tarefas de alto valor acrescentado centradas nos processos de ensino-aprendizagem e na preparação das aulas, recorrendo às novas tecnologias para as tarefas mais morosas, nomeadamente a criação de testes e exercícios e a sua correção.
+4 - Articule com o poder local e entidades parceiras a garantia de que tanto as escolas como as bibliotecas municipais têm capacidade de facultar o acesso a materiais informáticos por parte de todos os alunos, para que os mesmos tenham igualdade de oportunidades na fruição desta reforma do ensino.
+5 - Promova os dispositivos tecnológicos, apostando também em materiais digitais, mais apelativos, contribuindo, em simultâneo, para a resolução do problema de excesso de peso do material escolar que as crianças e jovens transportam diariamente, com o objetivo de qualificar o ensino e a aprendizagem.
+6 - Valorize o papel dos professores, através do planeamento e financiamento de ações de formação periódicas e obrigatórias que os mantenha constantemente atualizados quanto às melhores práticas e metodologias a aplicar nas suas aulas.
+7 - Promova o desenvolvimento de uma plataforma de âmbito nacional que possa garantir o aprofundamento da aprendizagem e o esclarecimento de dúvidas dos alunos, como forma de contribuir para uma maior igualdade de oportunidades.
+8 - Garanta, no âmbito da saúde mental, a contratação plurianual de psicólogos e outros técnicos de saúde nas escolas e agrupamentos da rede pública e privada, de forma a aumentar a eficácia das intervenções em contexto escolar assegurando-se mais facilmente a solidez da relação com os alunos através da estabilidade profissional dos prestadores de cuidados.
+9 - Promova cuidados de saúde mental de qualidade na comunidade, com capacitação crescente dos profissionais de saúde dos cuidados de saúde primários para a constituição de equipas comunitárias multidisciplinares com formação neste âmbito, que devem intervir nas populações mais frágeis bem como nas escolas, instituições particulares de solidariedade social e associações juvenis.
+10 - Realize inquéritos de saúde mental, nomeadamente de rastreio de suicídio e doença psiquiátrica aos jovens e sinalização dos mesmos aos cuidados de saúde primários.
+11 - Possibilite a realização prévia de estudos exploratórios de implementação, ou de períodos de teste em Portugal, relativamente a unidades de saúde comunitárias (USC) no domínio da saúde mental, da prevenção de comportamentos aditivos e na promoção de hábitos de vida saudáveis, para aproximar a saúde e a escola, com o objetivo de os alunos terem acesso a melhores cuidados de saúde, conciliáveis com os seus horários escolares.
+12 - Garanta que as USC são compostas por técnicos de saúde, aptos a realizar atendimentos habitualmente realizados em unidades de saúde familiar.
+Aprovada em 18 de setembro de 2020.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+113905346
