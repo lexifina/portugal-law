@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "841",
+    "id": "45596",
+    "titulo": "Recomenda ao Governo que acione a Rede Social de forma a proceder à identificação das estruturas residenciais não licenciadas, para que os seus utentes e colaboradores possam ser enquadrados no processo de vacinação contra a COVID-19"
+  },
+  "fase": "Nova Baixa Comissão para Discussão",
+  "codigo_fase": "245",
+  "data_registo": "2021-01-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "245",
+    "Comissao": [
+      {
+        "AccId": "50003",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-01-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2021-01-29",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-02-17",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Ofício referente ao texto de substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45314e444d315a6d4e694c5467784d6a59744e446c6c4e6930345a6d4d334c546b314d3252684f444e6b4e6a42684e4335775a47593d&fich=15435fcb-8126-49e6-8fc7-953da83d60a4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-02-17",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245775a6a55774d57597a4c5467784e6a55744e47497a4d4331685a44686b4c545a695a444d344e32566a5a4745784e4335775a47593d&fich=a0f501f3-8165-4b30-ad8d-6bd387ecda14.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7444",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "Numero": "7444",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-02-17",
+            "dataRemessa": "2021-02-18",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto de Substituição"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-01-29",
+    "EvtId": "127",
+    "Fase": "Nova Baixa Comissão para Discussão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 9.ª Comissão",
+    "OevId": "369619",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
