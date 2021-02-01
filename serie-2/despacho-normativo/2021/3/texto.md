@@ -1,0 +1,19 @@
+Despacho Normativo n.º 3/2021
+Sumário: Procede à segunda alteração do Despacho Normativo n.º 11/2018, de 20 de agosto.
+Considerando que o n.º 4 do Despacho Normativo n.º 11/2018, de 20 de agosto, alterado pelo Despacho Normativo n.º 9/2020, de 17 de agosto, aplica-se tanto à delegação de competências de controlo no âmbito da regulamentação das Denominações de Origem Protegidas (DOP), Indicações Geográficas Protegidas (IGP), Especialidades Tradicionais Garantidas (ETG) e Indicações Geográficas (IG) de bebidas espirituosas, não vínicas, como à delegação de competências de controlo no âmbito da regulamentação da Produção Biológica;
+Considerando que a referida regulamentação das DOP/IGP/ETG e IG de bebidas espirituosas, não vínicas, não determina, especificamente, a possibilidade do OC ser identificado na rotulagem, considera-se ser adequado que figure na rotulagem, com caráter obrigatório, o código atribuído pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) que identifica o OC que efetua o controlo, promovendo uma maior coerência e informação clara ao consumidor;
+Considerando ainda, a situação epidemiológica em Portugal causada pela doença COVID-19, nomeadamente o seu impacto ao nível da diminuição das vendas de alguns produtos com denominações registadas como DOP/IGP/ETG, e a solicitação de vários produtores quanto ao alargamento do prazo previsto no n.º 8 do referido Despacho Normativo n.º 11/2018, de 20 de agosto, com a redação dada pelo Despacho Normativo n.º 9/2020, de 17 de agosto, por forma a permitir o escoamento de rótulos ainda existentes;
+Assim, ao abrigo da subalínea ii) da alínea a) do n.º 3 do Despacho n.º 203/2021, de 22 de dezembro de 2020, da Ministra da Agricultura, publicado no Diário da República, 2.ª série, n.º 4, de 7 de janeiro de 2021, determina-se o seguinte:
+1 - Os n.os 4 e 8 do Despacho Normativo n.º 11/2018, de 20 de agosto, com a redação dada pelo Despacho Normativo n.º 9/2020, de 17 de agosto, passam a ter a seguinte redação:
+«1 - ...
+2 - ...
+3 - ...
+4 - O código atribuído pela DGADR que identifique o OC deve figurar na rotulagem dos produtos agrícolas ou dos géneros alimentícios controlados por esse OC no âmbito da respetiva delegação de competências.
+5 - ...
+6 - ...
+7 - ...
+8 - As marcas de certificação aprovadas ao abrigo do Despacho Normativo n.º 12/99, de 6 de janeiro, podem continuar a ser utilizadas até 31 de maio de 2021, desde que o OC detenha tarefas de controlo oficial delegadas nos termos da alínea b) do n.º 2, ou estivesse reconhecido nos termos do número anterior.
+9 - ...»
+2 - O presente Despacho Normativo produz efeitos a 1 de janeiro de 2021.
+25 de janeiro de 2021. - O Secretário de Estado da Agricultura e do Desenvolvimento Rural, Rui Manuel Costa Martinho.
+313916719
