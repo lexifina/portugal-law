@@ -1,0 +1,11 @@
+Aviso n.º 2065/2021
+Sumário: Abertura do período de discussão pública da alteração do Plano Diretor Municipal de Mondim de Basto.
+Teresa de Jesus Tuna Rabiço da Costa, Presidente da Câmara Municipal de Mondim de Basto, torna público que, para os efeitos previstos nos n.º 1 e 2 do artigo 89.º, do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio que, a Câmara Municipal de Mondim de Basto, reunida em sessão ordinária no dia 29 de outubro de 2020, deliberou por unanimidade, proceder à abertura do período de discussão pública no âmbito do procedimento de alteração do regulamento do Plano Diretor Municipal (PDM) de Mondim de Basto, período esse que se fixa em 30 dias úteis contados a partir do 5.º dia após a data de publicação do respetivo Aviso no Diário da República.
+Em cumprimento do disposto no n.º 1 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, será o presente Aviso publicado na 2.ª série do Diário da República, e divulgado na comunicação social, no site do Município (https://municipio.mondimdebasto.pt/), bem como, no edifício dos Paços do Concelho do município e na sede das Juntas de Freguesia.
+A proposta de alteração do Plano estará disponível para consulta no site do Município
+(https://municipio.mondimdebasto.pt/) e na Divisão de Planeamento e Ordenamento do Território da Câmara Municipal de Mondim de Basto, sito na Praça do Município, por marcação prévia através do n.º 255 389 300, entre as 9h e as 17h, de segunda a sexta-feira,
+Os interessados, no decorrer do período de Discussão Pública, deverão apresentar as suas reclamações, observações ou sugestões através do formulário de participação disponível em
+https://municipio.mondimdebasto.pt ou em suporte papel disponível na Divisão de Planeamento e Ordenamento do Território (com marcação prévia). O formulário poderá também ser remetido por correio, dirigido à Presidente da Câmara Municipal de Mondim de Basto, sito na Praça do Município, n.º 1, 4860-236 Mondim de Basto, por correio eletrónico para o endereço sig@cm-mondimdebasto.pt
+ou, ainda, entregue no Balcão Único do Município (ao cuidado da Divisão de Planeamento e Ordenamento do Território).
+9 de dezembro de 2020. - A Presidente da Câmara Municipal, Teresa de Jesus Tuna Rabiço da Costa.
+613794636
