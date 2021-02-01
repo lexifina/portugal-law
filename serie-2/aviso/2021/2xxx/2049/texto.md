@@ -1,0 +1,14 @@
+Aviso n.º 2049/2021
+Sumário: Prorrogação do prazo de elaboração da 4.ª alteração ao Plano de Urbanização da Cidade de Cantanhede.
+4.ª Alteração ao Plano de Urbanização da Cidade de Cantanhede
+Prorrogação do prazo de elaboração
+Pedro António Vaz Cardoso, Vice-Presidente da Câmara Municipal de Cantanhede, torna público, que a Câmara Municipal, deliberou, em reunião pública de 19 de janeiro de 2021, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio (RJGIT), determinar a prorrogação do prazo para a elaboração da 4.ª alteração ao Plano de Urbanização da Cidade de Cantanhede, estabelecido inicialmente pelo Aviso n.º 10280/2020, de 10 de julho, publicado na 2.ª série do Diário da República n.º 133, de 10 de julho de 2020, por mais 6 (seis) meses, com efeitos retroativos a 12 de janeiro de 2021.
+Também deliberou, em aditamento à deliberação de início de procedimento de 02 de junho de 2020, publicada pelo Aviso n.º 10280/2020, de 10 de julho, qualificar esta 4.ª alteração ao Plano de Urbanização da Cidade de Cantanhede como "não suscetível de ter efeitos significativos para o ambiente", nos termos e para os efeitos previstos no n.º 2 do artigo 78.º e n.º 2 do artigo 120.º do RJIGT, conjugados com o n.º 2 do artigo 3.º e o n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007 de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio (Regime Jurídico de Avaliação Ambiental Estratégica - RJAAE), dispensando o procedimento de avaliação ambiental estratégica.
+21 de janeiro de 2021. - O Vice-Presidente da Câmara Municipal, Pedro António Vaz Cardoso.
+Deliberação
+Pedro António Vaz Cardoso, Vice-Presidente da Câmara Municipal de Cantanhede, declara para os devidos efeitos que, a Câmara Municipal, em sua sessão pública ordinária realizada em 19 de janeiro de 2021, deliberou por unanimidade:
+1)Prorrogar o prazo de elaboração da 4.ª alteração ao Plano de Urbanização da Cidade de Cantanhede, por mais 6 (seis) meses, com efeitos retroativos a 12 de janeiro de 2021, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT);
+2)Aditar a deliberação de início de procedimento de 02 de junho de 2020, publicada pelo Aviso n.º 10280/2020, de 10 de julho, determinando que a 4.ª alteração ao Plano de Urbanização da Cidade de Cantanhede não está sujeita a Avaliação Ambiental, uma vez que as alterações ao nível do regulamento não são suscetíveis de ter efeitos significativos no ambiente, de acordo com a fundamentação aprovada, e conforme o previsto no n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 5 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio, conjugado com o artigo 120.º do RJIGT;
+A deliberação foi aprovada em minuta, quanto a esta parte, para efeitos imediatos.
+Paços do Concelho de Cantanhede, 21 de janeiro de 2021. - O Vice-Presidente da Câmara Municipal, Pedro António Vaz Cardoso.
+613914101
