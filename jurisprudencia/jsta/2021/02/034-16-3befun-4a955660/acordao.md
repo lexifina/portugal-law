@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-02-03, processo 034/16.3BEFUN
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 034/16.3BEFUN
+
+**Data do Acordão:** 02/03/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PAULA CADILHE RIBEIRO
+
+**Descritores:** TAXA DE PUBLICIDADE; PUBLICIDADE COMERCIAL; LICENÇA; REGIÃO AUTÓNOMA DA MADEIRA
+
+**Nº Convencional:** JSTA000P27089
+
+**Nº do Documento:** SA220210203034/16
+
+**Data de Entrada:** 12/31/2020
+
+**Recorrente:** REPSOL PORTUGUESA, S.A.
+
+**Recorrido 1:** MUNICÍPIO DO FUNCHAL
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - É de considerar publicidade comercial, nos termos do disposto no art. 3.º do Código da Publicidade, a mensagem que, independentemente do seu conteúdo informativo, é apresentada por uma empresa comercial relativamente à sua actividade, que exerce em concorrência e visa, ainda que indirectamente, fazer com que os consumidores dos bens e serviços por ela oferecidos a prefiram, em detrimento das suas concorrentes.
+
+II - Essa publicidade, porque estava sujeita a licenciamento da câmara municipal da área do respectivo concelho (cf. art. 1.º da Lei n.º 97/88, de 17 de Agosto, na sua redacção inicial), estava sujeita a taxa a cobrar pela mesma (cf. o regulamento municipal de taxas e licenças, art. 4.º, n.º 2, da LGT e art. 3.º do RGTAL).
+
+III- Todo o desenvolvimento legislativo regional do diploma da República (DL. 48/2011 de 1 de abril), incluindo o DLR n.º 30/2016/M de 18 de julho (que revogou, expressamente, o DLR n.º 27/2013/M de 29 de julho) aponta, claramente, a intenção de, inequívoca e expressamente, se curar de regular/prever, apenas, determinadas atividades comerciais/industriais, constantes e identificadas em pertinentes anexos, onde, no referencial último da Portaria da Secretaria Regional da Economia, Turismo e Cultura n.º 449/2016 de 20 de outubro, o respetivo anexo prevê, identificando, com precisão, 19 atividades, nenhuma delas análoga, próxima, da revenda de combustíveis.
