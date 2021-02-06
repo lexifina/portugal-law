@@ -2,7 +2,7 @@
 
 ### Duração das operações
 
-1 - As operações apoiadas no âmbito do presente capítulo podem ter uma duração máxima de 43 meses.
+1 - As operações apoiadas no âmbito do presente capítulo podem ter uma duração máxima de 45 meses.
 
 2 - Para efeitos do disposto no número anterior, considera-se início da operação:
 
