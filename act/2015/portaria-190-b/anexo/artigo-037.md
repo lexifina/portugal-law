@@ -1,3 +1,7 @@
+## Capítulo IX
+
+## Procedimento de candidatura
+
 # Artigo 37.º
 
 ### Suspensão de pagamentos, redução, revogação e recuperação dos apoios

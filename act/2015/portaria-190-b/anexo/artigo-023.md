@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Informação e comunicação
+
 # Artigo 23.º
 
 ### Informação e comunicação do Estado Membro

@@ -1,3 +1,7 @@
+## Capítulo I
+
+## Objeto, âmbito e disposições gerais
+
 # Artigo 1.º
 
 ### Objeto

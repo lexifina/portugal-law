@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Financiamento e pagamentos
+
 # Artigo 18.º
 
 ### Financiamento

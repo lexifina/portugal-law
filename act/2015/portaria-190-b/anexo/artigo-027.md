@@ -1,3 +1,7 @@
+## Capítulo VI
+
+## Entidades beneficiárias e destinatários
+
 # Artigo 27.º
 
 ### Beneficiários

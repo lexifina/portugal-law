@@ -1,3 +1,7 @@
+## Capítulo VII
+
+## Obrigações dos beneficiários
+
 # Artigo 29.º
 
 ### Obrigações dos beneficiários

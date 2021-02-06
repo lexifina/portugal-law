@@ -1,3 +1,7 @@
+## Capítulo VIII
+
+## Elegibilidades e pagamentos
+
 # Artigo 31.º
 
 ### Forma dos apoios aos beneficiários
