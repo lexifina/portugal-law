@@ -1,0 +1,584 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13568",
+  "numero": "200",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-02-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-03-17",
+            "entidades": null,
+            "id": "116811",
+            "tipo": null,
+            "titulo": "Audição em 2021-03-17 com Audição Peticionários da Petição n.º 200/XIV (2.ª)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-04-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-03-03",
+        "DataArquivo": "2021-04-07",
+        "DataBaixaComissao": "2021-02-11",
+        "DataEnvioPAR": "2021-04-07",
+        "DataReaberta": "2021-03-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-03-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793833597a6c695a6d466b4f5330314f4451354c5451314f4455744f4759324e5331694d6a566c4d57566c4f4459335a4451756347526d&fich=7c9bfad9-5849-4585-8f65-b25e1ee867d4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938334d4445794d44646b59693033597a4a6d4c54526a4e446b74596a426c4f5330344e546b305a444d30595759325a6d59756347526d&fich=701207db-7c2f-4c49-b0e9-8594d34af6ff.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7424",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-03-03",
+            "gp": "PSD",
+            "id": "6871",
+            "motivoCessacao": null,
+            "nome": "Cláudia Bento"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2021-11-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-02-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3255774e5749344d4455314c574979595441744e4745774d433034593249774c546c6b4d6a4e694e6d4d3359544d335a4335775a47593d&fich=e05b8055-b2a0-4a00-8cb0-9d23b6c7a37d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "110380",
+      "110436",
+      "110445",
+      "110452",
+      "110525",
+      "110533"
+    ],
+    "Iniciativasoriginadas": [
+      "110380",
+      "110436",
+      "110445",
+      "110452",
+      "110525",
+      "110533"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-11-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Kaftrio® para pacientes com fibrose quística em Portugal - (Ana Nascimento e outros); Recomenda ao Governo a adoção das medidas necessárias a um acesso mais célere às terapias inovadoras para os doentes de fibrose quística; Recomenda ao Governo a adoção de medidas de apoio aos doentes de fibrose quística; Maior agilização e celeridade no acesso a terapêuticas inovadoras; Acesso a inovação terapêutica para doentes com fibrose quística; Pela disponibilização atempada do tratamento mais adequado aos doentes com fibrose quística; Propõe medidas de acesso a medicamentos usados no tratamento da fibrose quística. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-11-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=20"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Kaftrio® para pacientes com fibrose quística em Portugal - (Ana Nascimento e outros); Recomenda ao Governo a adoção das medidas necessárias a um acesso mais célere às terapias inovadoras para os doentes de fibrose quística; Recomenda ao Governo a adoção de medidas de apoio aos doentes de fibrose quística; Maior agilização e celeridade no acesso a terapêuticas inovadoras; Acesso a inovação terapêutica para doentes com fibrose quística; Pela disponibilização atempada do tratamento mais adequado aos doentes com fibrose quística; Propõe medidas de acesso a medicamentos usados no tratamento da fibrose quística. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-11-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245689",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Kaftrio® para pacientes com fibrose quística em Portugal - (Ana Nascimento e outros); Recomenda ao Governo a adoção das medidas necessárias a um acesso mais célere às terapias inovadoras para os doentes de fibrose quística; Recomenda ao Governo a adoção de medidas de apoio aos doentes de fibrose quística; Maior agilização e celeridade no acesso a terapêuticas inovadoras; Acesso a inovação terapêutica para doentes com fibrose quística; Pela disponibilização atempada do tratamento mais adequado aos doentes com fibrose quística; Propõe medidas de acesso a medicamentos usados no tratamento da fibrose quística. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-11-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245690",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Kaftrio® para pacientes com fibrose quística em Portugal - (Ana Nascimento e outros); Recomenda ao Governo a adoção das medidas necessárias a um acesso mais célere às terapias inovadoras para os doentes de fibrose quística; Recomenda ao Governo a adoção de medidas de apoio aos doentes de fibrose quística; Maior agilização e celeridade no acesso a terapêuticas inovadoras; Acesso a inovação terapêutica para doentes com fibrose quística; Pela disponibilização atempada do tratamento mais adequado aos doentes com fibrose quística; Propõe medidas de acesso a medicamentos usados no tratamento da fibrose quística. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-11-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Kaftrio® para pacientes com fibrose quística em Portugal - (Ana Nascimento e outros); Recomenda ao Governo a adoção das medidas necessárias a um acesso mais célere às terapias inovadoras para os doentes de fibrose quística; Recomenda ao Governo a adoção de medidas de apoio aos doentes de fibrose quística; Maior agilização e celeridade no acesso a terapêuticas inovadoras; Acesso a inovação terapêutica para doentes com fibrose quística; Pela disponibilização atempada do tratamento mais adequado aos doentes com fibrose quística; Propõe medidas de acesso a medicamentos usados no tratamento da fibrose quística. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-11-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Kaftrio® para pacientes com fibrose quística em Portugal - (Ana Nascimento e outros); Recomenda ao Governo a adoção das medidas necessárias a um acesso mais célere às terapias inovadoras para os doentes de fibrose quística; Recomenda ao Governo a adoção de medidas de apoio aos doentes de fibrose quística; Maior agilização e celeridade no acesso a terapêuticas inovadoras; Acesso a inovação terapêutica para doentes com fibrose quística; Pela disponibilização atempada do tratamento mais adequado aos doentes com fibrose quística; Propõe medidas de acesso a medicamentos usados no tratamento da fibrose quística. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-11-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Kaftrio® para pacientes com fibrose quística em Portugal - (Ana Nascimento e outros); Recomenda ao Governo a adoção das medidas necessárias a um acesso mais célere às terapias inovadoras para os doentes de fibrose quística; Recomenda ao Governo a adoção de medidas de apoio aos doentes de fibrose quística; Maior agilização e celeridade no acesso a terapêuticas inovadoras; Acesso a inovação terapêutica para doentes com fibrose quística; Pela disponibilização atempada do tratamento mais adequado aos doentes com fibrose quística; Propõe medidas de acesso a medicamentos usados no tratamento da fibrose quística. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-11-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Kaftrio® para pacientes com fibrose quística em Portugal - (Ana Nascimento e outros); Recomenda ao Governo a adoção das medidas necessárias a um acesso mais célere às terapias inovadoras para os doentes de fibrose quística; Recomenda ao Governo a adoção de medidas de apoio aos doentes de fibrose quística; Maior agilização e celeridade no acesso a terapêuticas inovadoras; Acesso a inovação terapêutica para doentes com fibrose quística; Pela disponibilização atempada do tratamento mais adequado aos doentes com fibrose quística; Propõe medidas de acesso a medicamentos usados no tratamento da fibrose quística. ",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13568",
+    "PetAssunto": "Acesso imediato ao Kaftrio® para pacientes com Fibrose Quística em Portugal",
+    "PetDataEntrada": "2021-02-08",
+    "PeticoesAssociadas": null,
+    "PetId": "13568",
+    "PetLeg": "XIV",
+    "PetNr": "200",
+    "PetNrAssinaturas": "74142",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6144",
+        "obs": null,
+        "pag": [
+          "25-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-06",
+        "pubLeg": "XIV",
+        "pubNr": "20",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/25?pgs=25-34&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915063",
+        "obs": null,
+        "pag": [
+          "31-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-03-05",
+        "pubLeg": "XIV",
+        "pubNr": "31",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/031/2021-03-05/31?pgs=31-32&org=PLC"
+      }
+    ]
+  }
+}
