@@ -22,4 +22,6 @@
 
 8 - A comprovação de que a deficiência é congénita ou foi adquirida antes dos 55 anos, bem como se a correspondente incapacidade se situava entre os 60 % e os 80 %, ou era igual ou superior a 80 %, é da competência de entidade certificadora a definir em diploma próprio.
 
-9 - Salvo o disposto em instrumento internacional a que Portugal se encontre vinculado ou em legislação especial, a prestação não é transferível para fora do território nacional.
+9 - Podem, ainda, requerer a prestação os bombeiros, profissionais ou voluntários, as forças de segurança, as Forças Armadas, a polícia marítima, os profissionais do INEM, I. P., e os sapadores florestais com idade compreendida entre 55 anos e a idade normal de acesso à pensão de velhice, nos termos do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, cuja deficiência resulte direta e exclusivamente de acidente ocorrido entre aquelas idades, por força e no exercício de missão em operação de proteção e socorro, devidamente registada nos sistemas próprios da Autoridade Nacional de Emergência e Proteção Civil, e da qual resulte uma incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º e verificado pelos serviços competentes da segurança social.
+
+10 - Salvo o disposto em instrumento internacional a que Portugal se encontre vinculado ou em legislação especial, a prestação não é transferível para fora do território nacional.

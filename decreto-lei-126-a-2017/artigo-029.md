@@ -32,4 +32,6 @@ k) Indemnizações por responsabilidade civil de terceiro.
 
 l) Subsídio por morte, do sistema previdencial;
 
-m) Pensão de orfandade.
+m) Pensão de orfandade;
+
+n) Subsídio de apoio ao cuidador informal principal.
