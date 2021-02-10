@@ -1,0 +1,11 @@
+Aviso n.º 2596/2021
+Sumário: Prorrogação do prazo de elaboração da 2.ª Revisão do Plano Diretor Municipal de Gondomar (PDMG).
+Prorrogação do prazo de elaboração da 2.ª Revisão do Plano Diretor Municipal de Gondomar (PDMG)
+Marco Martins, Presidente da Câmara Municipal de Gondomar, torna público que a Câmara Municipal, em reunião pública de 7 de janeiro de 2021, deliberou, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, por maioria, prorrogar o prazo de elaboração da 2.ª Revisão do Plano Diretor Municipal de Gondomar (RPDM) por um período de 18 meses, igual ao previamente estabelecido no Aviso n.º 232/2019 publicado no Diário da República, 2.ª série, n.º 9, de 4 de janeiro de 2019.
+Para constar, e para os devidos efeitos legais, publica-se o presente Aviso no Diário da República, e procede-se à sua divulgação através da Comunicação Social, na Plataforma Colaborativa de Gestão Territorial e no sítio da Internet da Câmara Municipal.
+27 de janeiro de 2021. - O Presidente da Câmara Municipal, Dr. Marco Martins.
+Deliberação
+Em reunião pública, realizada em 7 de janeiro de 2021, a Câmara Municipal deliberou, por maioria, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, determinar a prorrogação do prazo de elaboração da 2.ª Revisão do Plano Diretor Municipal de Gondomar (PDMG), por um período máximo igual ao previamente estabelecido, de 18 meses, sendo que é intenção de concertar esforços para a conclusão deste procedimento no prazo estabelecido pela Lei de Bases Gerais da Politica Pública de Solos (Lei n.º 74/2017, de 16 de agosto, na sua redação atual) para a inclusão das regras de classificação e qualificação do solo, assim como a inclusão do conteúdo dos planos especiais aí previstas.
+Para constar, e para os devidos efeitos legais, comunica-se à Comissão Consultiva da 2.ª Revisão do Plano Diretor Municipal de Gondomar, o teor da presente Deliberação, através da Plataforma Colaborativa de Gestão Territorial; Procede-se à publicação e publicitação da mesma, nos termos da RJIGT, designadamente a publicitação no Diário da República.
+27 de janeiro de 2021. - O Presidente da Câmara Municipal, Dr. Marco Martins.
+613929988
