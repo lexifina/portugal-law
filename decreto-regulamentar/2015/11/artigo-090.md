@@ -1,7 +1,3 @@
-## Capítulo X
-
-## Disposições transitórias e finais
-
 # Artigo 90.º
 
 ### Organização interna

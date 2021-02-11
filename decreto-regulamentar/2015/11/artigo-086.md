@@ -16,4 +16,6 @@ b) A Unidade Militar Laboratorial de Defesa Biológica e Química (UMLDBQ);
 
 c) A Unidade Militar de Medicina Veterinária (UMMV).
 
-d) O Laboratório Militar de Produtos Químicos e Farmacêuticos.
+d) (Revogada);
+
+e) O LaboratórioNacional do Medicamento, com as suas especificidades.
