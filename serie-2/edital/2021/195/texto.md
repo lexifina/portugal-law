@@ -1,0 +1,10 @@
+Edital n.º 195/2021
+Sumário: Projeto de alteração ao Regulamento Geral de Taxas e Licenças.
+Projeto de Alteração ao Regulamento Geral de Taxas e Licenças da Freguesia de Ventosa
+(Fase de consulta Pública e Sugestões)
+Liseta Maria Monteiro de Almeida, Presidente da Freguesia de Ventosa, torna público que, de acordo com a deliberação deste órgão executivo, tomada na reunião ordinária de 30 de dezembro de 2021, e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, é submetida à consulta pública, pelo prazo de 30 dias, a contar da data da publicação do presente Edital na 2.ª série do Diário da República, o Projeto de Alteração ao Regulamento Geral de Taxas e Licenças da Freguesia de Ventosa, mais torna público que, o Projeto de Regulamento em epigrafe, encontra-se disponível para consulta na sede da Freguesia de Ventosa, sito na Rua Visconde Chanceleiros, n.º 7 em Cortegana, durante o período de funcionamento (das 9.00 horas às 17.00 horas, de segunda a sexta-feira), na página oficial da Freguesia em www.freguesiadeventosa.pt, durante o referido período.
+Assim, nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo (CPA), convidam-se todos os interessados a dirigir por escrito, as suas sugestões, à Freguesia de Ventosa, entregues presencialmente no Balcão de Atendimento, desta edilidade, entre as 09H00M e as 17H00M, ou a enviar via postal para Freguesia de Ventosa, Rua Visconde Chanceleiros, n.º 7, 2580-403 Ventosa- Alq., ou ainda, através de correio eletrónico para o endereço ventosa.freguesia@gmail.com no âmbito da consulta pública serão consideradas e apreciadas todas as sugestões que se relacionem especificamente com o presente Projeto de Postura.
+Para constar, se publica este e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+E eu, Nuno Miguel Marques Marçal, Secretario da Freguesia, o subescrevo.
+15 de janeiro de 2021. - A Presidente da Freguesia de Ventosa, Liseta Maria Monteiro de Almeida.
+313936661
