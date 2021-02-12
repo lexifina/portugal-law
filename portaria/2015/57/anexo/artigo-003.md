@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Requisitos mínimos, agricultor ativo e redução de pagamentos
+## Requisitos mínimos, agricultor ativo, redução de pagamentos e convergência
 
 # Artigo 3.º
 

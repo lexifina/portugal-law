@@ -8,7 +8,7 @@
 
 3 - O número de direitos a atribuir é igual:
 
-a) Ao número de hectares elegíveis declarados no PU, até ao máximo de 90, para os agricultores das alíneas a) e b) do n.º 1 do artigo anterior, descontados dos direitos ao pagamento já detidos, a nível de propriedade ou de arrendamento;
+a) Ao número de hectares elegíveis declarados no PU, para os agricultores identificados nas alíneas a) e b) do n.º 1 do artigo anterior, descontados dos direitos ao pagamento já detidos, a título de propriedade ou de arrendamento;
 
 b) Ao menor número entre o número de direitos constantes da decisão judicial e o número de hectares elegíveis declarados no PU, descontados dos direitos ao pagamento já detidos, a nível de propriedade ou de arrendamento, no ano da atribuição para os beneficiários referidos no n.º 10 do artigo anterior;
 
@@ -40,4 +40,10 @@ a) Ao número de hectares elegíveis detidos pelo agricultor a título de propri
 
 b) Nas áreas de baldio, exploradas por compartes titulares do baldio, ao número de direitos de utilização do baldio.
 
-11 - Nas áreas de baldio, para efeitos de atribuição dos direitos ao pagamento provenientes da reserva nacional, apenas se considera a atividade de pastoreio de prática local que cumpra um encabeçamento mínimo, constituído por espécies de ruminantes ou de equídeos, de 0,2 CN por hectare de área de baldio.
+11 - Nas áreas de baldio, para efeitos de atribuição dos direitos ao pagamento provenientes da reserva nacional, apenas se considera a atividade de pastoreio de prática local que cumpra um encabeçamento mínimo, constituído por espécies de ruminantes ou de equídeos, de 0,2 CN por hectare de área de baldio, detido na exploração durante o período de retenção, de acordo com a tabela de conversão constante do anexo iii.
+
+12 - Para efeitos do disposto no número anterior, o período de retenção é compreendido entre:
+
+a) 1 de janeiro e 30 de abril, para os bovinos, ovinos e caprinos;
+
+b) 1 de janeiro e 31 de dezembro, para os equídeos.
