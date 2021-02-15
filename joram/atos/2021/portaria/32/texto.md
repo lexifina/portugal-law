@@ -1,0 +1,23 @@
+# Portaria n.º 32/2021
+
+**Emissor:** VICE-PRESIDÊNCIA DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES E SECRETARIA REGIONAL DE SAÚDE E PROTEÇÃO CIVIL
+
+**Publicação:** JORAM, I série, n.º 29/2021, de 2021-02-15
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais relativos à prestação de serviços de manutenção e assistência técnica aos veículos multimarca da frota automóvel do SESARAM, EPERAM, para o período de 1 ano, com possibilidade de renovar-se por idênticos períodos até ao limite máximo de 3 anos de vigência, com o preço base global de EUR 465.000,00.
+
+## Texto
+
+Portaria n.º 32/2021
+de 15 de fevereiro
+Dando cumprimento ao artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, por referência ao disposto na alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, conjugado com o disposto no artigo 30.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, manda o Governo Regional, através do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares e do Secretário Regional de Saúde e Proteção Civil, o seguinte:
+1 - Os encargos orçamentais relativos à prestação de serviços de manutenção e assistência técnica aos veículos multimarca da frota automóvel do SESARAM, EPERAM, para o período de 1 (um) ano, com possibilidade de renovar-se por idênticos períodos até ao limite máximo de 3 (três) anos de vigência, com o preço base global de EUR 465.000,00 (quatrocentos e sessenta e cinco mil euros) acrescido de IVA, encontram-se escalonados na forma abaixo indicada:
+
+Ano Económico de 2021 ................. € 111.684,93; Ano Económico de 2022 ................. € 155.000,00; Ano Económico de 2023 ................. € 155.000,00; Ano Económico de 2024 ................... € 43.315,07.
+2 - A despesa emergente do contrato a celebrar está prevista na classificação económica D.02.02.19, do orçamento do Serviço de Saúde da Região Autónoma da Madeira, EPERAM para 2021.
+3 - Os encargos para os anos seguintes serão considerados nos respetivos orçamentos.
+4 - A importância fixada para cada ano económico poderá ser acrescida do saldo apurado no ano anterior.
+5 - Esta Portaria entra em vigor no dia seguinte ao da sua publicação.
+Vice-Presidência do Governo Regional e dos Assuntos Parlamentares e Secretaria Regional de Saúde e Proteção Civil, no Funchal, aos 2 dias do mês de fevereiro de 2021.
+O VICE-PRESIDENTE DO GOVERNO REGIONAL E DOS ASSUNTOS PARLAMENTARES, Pedro Miguel Amaro de Bettencourt Calado
+O SECRETÁRIO REGIONAL DE SAÚDE E PROTEÇÃO CIVIL, Pedro Miguel de Câmara Ramos
