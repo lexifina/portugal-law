@@ -24,7 +24,7 @@ e) Data de validade;
 
 f) Assinatura do diretor nacional da Polícia de Segurança Pública (PSP).
 
-3 - Pode ainda ser incluída no cartão profissional de segurança privado a menção da categoria profissional do respetivo titular, desde que prevista nos contratos coletivos de trabalho aplicáveis.
+3 - (revogado)
 
 4 - A assinatura referida na alínea c) do n.º 1 não pode conter desenhos ou elementos gráficos.
 

@@ -2,7 +2,7 @@
 
 ### Regulamento interno
 
-1 - A entidade formadora deve elaborar e disponibilizar o regulamento interno a que se refere a alínea d) do n.º 1 do artigo 46.º da Lei n.º 34/2013, de 16 de maio, que contemple as regras de funcionamento aplicáveis à sua atividade formativa, que refiram com clareza os seguintes elementos:
+1 - A entidade formadora deve elaborar e disponibilizar o regulamento interno a que se refere a alínea e) do n.º 1 do artigo 46.º da Lei n.º 34/2013, de 16 de maio, que contemple as regras de funcionamento aplicáveis à sua atividade formativa, que refiram com clareza os seguintes elementos:
 
 a) Requisitos de acesso e formas de inscrição;
 
@@ -20,4 +20,4 @@ g) Procedimento de tratamento de reclamações.
 
 2 - No caso de formação a distância, o regulamento deve ainda regular os serviços pedagógicos e as atividades desempenhadas pelos tutores, bem como o trabalho individual e em equipa dos formandos, caso se aplique.
 
-3 - A entidade formadora deve assegurar a divulgação do regulamento, nomeadamente, a sua acessibilidade no local de atendimento.
+3 - A entidade formadora deve assegurar a divulgação do regulamento, nomeadamente, através da sua disponibilização no local de atendimento, nas salas de formação averbadas e, quando exista, no sítio da Internet da entidade.

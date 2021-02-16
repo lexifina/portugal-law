@@ -12,11 +12,11 @@
 
 1 - A central de contacto permanente prevista no n.º 1 do artigo 30.º da Lei n.º 34/2013, de 16 de maio, deve garantir, no mínimo, as seguintes funções:
 
-a) Receber e tratar os pedidos de apoio do pessoal de vigilância que se encontre no exercício de funções em postos de trabalho exterior;
+a) Receber e tratar os pedidos de apoio do pessoal de vigilância e do coordenador de segurança que se encontre no exercício de funções em postos de trabalho exterior;
 
 b) Receber e tratar os alarmes pessoais emitidos pelos meios de comunicação utilizados pelo pessoal de vigilância de maneira a possibilitar sua localização;
 
-c) Transmitir instruções ao pessoal de vigilância relativas à prestação dos serviços de segurança privada;
+c) Transmitir instruções ao pessoal de vigilância e ao coordenador de segurança relativas à prestação dos serviços de segurança privada;
 
 d) Receber e encaminhar pedidos de apoio de entidades a quem sejam prestados serviços de segurança privada;
 

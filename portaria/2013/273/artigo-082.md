@@ -2,7 +2,7 @@
 
 ### Treino e provas de avaliação
 
-1 - As entidades de segurança privada detentoras de canídeos para utilização como meio complementar de segurança devem promover o treino dos mesmos, com vista à sua socialização e obediência.
+1 - As empresas de segurança privada e as entidades que organizam serviços internos de autoproteção detentoras de canídeos para utilização como meio complementar de segurança devem promover o treino dos mesmos, com vista à sua socialização e obediência.
 
 2 - O treino deve decorrer em centro de treino adequado e só pode ser ministrado por treinadores certificados nos termos do regime legal aplicável.
 
@@ -10,7 +10,7 @@
 
 4 - São submetidos a exame cinotécnico, a realizar perante júri designado pelo diretor nacional da PSP, tanto os canídeos como o pessoal de vigilância que os utiliza.
 
-5 - Os elementos das forças de segurança que devem integrar o júri são designados anualmente pelo comandante-geral da Guarda Nacional Republicana (GNR) e pelo diretor nacional da PSP.
+5 - (Revogado.)
 
 6 - O conteúdo, duração e métodos de avaliação do exame previsto no número anterior são aprovados por despacho do diretor nacional da PSP.
 

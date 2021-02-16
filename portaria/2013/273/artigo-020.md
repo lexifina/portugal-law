@@ -2,17 +2,19 @@
 
 ### Medidas de segurança em viaturas de transporte de valores
 
-1 - As viaturas de transporte de valores previstas no n.º 1 artigo anterior devem possuir as seguintes caraterísticas:
+1 - As viaturas de transporte de valores previstas na alínea a) do n.º 1 do artigo anterior devem possuir as seguintes características:
 
 a) Compartimentos independentes reservados aos vigilantes de transporte de valores e para o transporte de carga, separados por divisórias e com acesso controlado desde o interior da viatura;
 
-b) Blindagem de proteção exterior nas faces laterais das zonas da tripulação que deverá corresponder, no mínimo ao nível FB4 de acordo com a norma EN1522 ou equivalente, e BR4, na parte em vidro, de acordo com a norma EN1063, ou equivalente;
+b) Blindagem de proteção exterior nas faces laterais das zonas da tripulação que deverá corresponder, no mínimo, ao nível FB4 e, na parte em vidro, ao nível de BR4, de acordo com a norma EN 1063, ou equivalente;
 
 c) Nos restantes compartimentos, divisórias interiores, teto e piso da viatura, a blindagem deverá corresponder ao nível mínimo FB3 e BR3;
 
-d) Caso disponha de mais do que uma porta exterior, a viatura deverá possuir mecanismos de segurança que impeçam a abertura das portas em simultâneo.
+d) Sistema de ar condicionado nos compartimentos destinados à tripulação, com possibilidade de funcionamento em circuito fechado;
 
-2 - Com vista à prevenção da prática de crimes os veículos podem dispor de sistemas de posicionamento global ligados ao centro de controlo de operações da entidade de segurança privada, que possibilitem, designadamente:
+e) Nas viaturas movidas a GPL ou gasolina, o depósito de combustível deve estar protegido por material resistente à perfuração de balas disparadas por armas ligeiras de calibre convencional ou, em alternativa, o seu interior deve estar revestido de material isolante que impeça ou retarde a combustão.
+
+2 - Com vista à prevenção da prática de crimes os veículos devem dispor de sistemas de posicionamento global ligados ao centro de controlo de operações da entidade de segurança privada que possibilitem, designadamente:
 
 a) O registo e acompanhamento de itinerários das rotas;
 
@@ -42,6 +44,6 @@ a) A tripulação mínima deve integrar três elementos, com a especialidade de 
 
 b) A tripulação mínima deve integrar dois elementos, com a especialidade de vigilante de transporte de valores, um dos quais será indistintamente o condutor, desde que utilizados IBNS ponto a ponto ou IBNS no percurso pedonal de distribuição de valores.
 
-5 - As viaturas previstas no n.º 2 do artigo anterior devem cumprir as caraterísticas previstas no n.º 2, nas alíneas a), d), g) e h) do n.º 3, e serem operadas por uma tripulação mínima de 2 elementos, com a especialidade de vigilante de transporte de valores.
+5 - As viaturas previstas nas alíneas b) e c) do n.º 1 e no n.º 3 do artigo anterior devem possuir, no mínimo, os requisitos previstos no n.º 2 e nas alíneas a), d), g) e h) do n.º 3 e serem operadas por uma tripulação mínima de 2 elementos, com a especialidade de vigilante de transporte de valores.
 
-6 - No prazo de cinco anos após a entrada em vigor da presente portaria, as viaturas a que se refere a alínea a) do n.º 1 do artigo anterior devem cumprir os requisitos constantes nesta portaria.
+6 - (Revogado.)

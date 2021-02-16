@@ -12,10 +12,14 @@ a) Viatura blindada destinada a transporte de notas ou moedas de banco ou de out
 
 b) Viatura destinada ao transporte exclusivo de moeda metálica em contentores, paletes ou similares.
 
-2 - Para o transporte de fundos, valores e objetos de valor de montante inferior a (euro) 15 000, podem ser autorizadas viaturas não blindadas, de acordo com as seguintes restrições:
+c) Viatura não blindada destinada exclusivamente ao transporte de fundos, valores ou objetos de montante inferior a (euro) 15 000.
+
+2 - A viatura prevista na alínea c) do n.º 1 deve obedecer às seguintes características:
 
 a) A viatura só pode operar entre as 6 e as 22 horas, considerando-se como tal a saída e entrada nas instalações operacionais da entidade de segurança privada;
 
 b) A obrigatoriedade de utilização de IBNS no percurso pedonal entre o veículo e o local de recolha e entrega de numerário;
 
 c) A existência de compartimento independente de transporte de carga, separado por divisória fixa do compartimento da tripulação.
+
+3 - As entidades autorizadas que procedam ao transporte de valores cuja integridade não possa ser garantida nas viaturas previstas nos números anteriores devem dispor de viaturas adequadas que cumpram, no mínimo, os requisitos previstos no n.º 5 do artigo seguinte.

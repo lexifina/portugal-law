@@ -14,4 +14,4 @@
 
 4 - Os canídeos devem ser sempre conduzidos à trela que não pode exceder 2,5 m e utilizar açaime funcional.
 
-5 - As entidades de segurança privada que utilizem canídeos devem garantir que os mesmos são recolhidos em instalações adequadas.
+5 - As empresas de segurança privada e as entidades que organizam serviços internos de autoproteção que utilizem canídeos devem garantir que os mesmos são recolhidos em instalações adequadas.

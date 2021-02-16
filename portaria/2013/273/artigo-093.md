@@ -1,12 +1,12 @@
 # Artigo 93.º
 
-### Diretor ou responsável de segurança
+### Responsável pela segurança
 
-1 - O diretor de segurança, ou responsável de segurança, independentemente da designação adotada, é o responsável pela organização e gestão da segurança.
+1 - O responsável pela segurança, independentemente da designação adotada, é o responsável pela organização e gestão da segurança.
 
 2 - É admitida a criação de um departamento central de segurança único para entidades integradas no mesmo grupo, desde que cumpridos os requisitos relativos ao respetivo diretor previstos na alínea a) do n.º 2 do artigo 8.º da Lei n.º 34/2013, de 16 de maio.
 
-3 - Ao diretor de segurança compete:
+3 - Ao responsável pela segurança compete:
 
 a) A gestão integrada de todos os sistemas, operações e medidas de segurança, neles se incluindo o pessoal de segurança privada que, direta ou indiretamente, esteja contratualmente vinculado à referida entidade;
 
@@ -18,4 +18,4 @@ d) A conservação, em suporte adequado, de todas as plantas das dependências o
 
 e) Outras competências que resultem especialmente de legislação especial ou de autoridade reguladora.
 
-4 - Sem prejuízo da habilitação específica para o exercício da profissão regulada de diretor de segurança prevista na lei, o diretor ou responsável de segurança deve estar habilitado com a formação específica de diretor de segurança, ou qualificação profissional equivalente que venha a ser reconhecida nos termos do artigo 26.º da Lei n.º 34/2013, de 16 de maio.
+4 - O responsável pela segurança deve estar habilitado com a formação específica de diretor de segurança, ou qualificação profissional equivalente que venha a ser reconhecida nos termos do artigo 26.º da Lei n.º 34/2013, de 16 de maio.

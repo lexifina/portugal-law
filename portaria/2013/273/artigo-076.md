@@ -52,6 +52,10 @@ w) Relatórios, atas de reunião ou outros documentos que evidenciem atividades 
 
 x) Documentação relativa à divulgação da ação, quando aplicável.
 
-2 - O dossier técnico-pedagógico deve ser conservado pelo prazo de 5 anos.
+2 - O dossier técnico-pedagógico deve ser mantido na sala de formação no decurso da ação de formação, atualizado e disponível para as entidades fiscalizadoras.
 
-3 - O disposto nos números anteriores não prejudica a aplicação do regime geral em matéria de proteção de dados previsto na Lei n.º 67/98, de 26 de outubro.
+3 - O dossier técnico-pedagógico deve ser concluído até 10 dias após a conclusão da formação e conservado na sede da entidade, para consulta das entidades fiscalizadoras, por um período de cinco anos.
+
+4 - Não são permitidas cargas horárias superiores a sete horas diárias, bem como sessões de formação que ultrapassem as duas horas consecutivas, devendo, neste caso, ser respeitado intervalo mínimo de dez minutos.
+
+5 - O disposto nos números anteriores não prejudica a aplicação do regime jurídico de proteção de dados pessoais.

@@ -27,3 +27,5 @@ b) Adequação dos objetivos e respetivos indicadores de acompanhamento;
 c) Adequação dos recursos humanos e materiais a afetar aos projetos tendo em conta as áreas de educação e formação envolvidas;
 
 d) Definição clara das responsabilidades e tarefas estabelecidas no âmbito de parcerias ou protocolos celebrados com outras entidades.
+
+3 - A não apresentação de um plano de atividades até 31 de março do ano a que se reporta determina a obrigatoriedade de sujeição a auditoria com vista à verificação de requisitos e cumprimento do referencial de qualidade.

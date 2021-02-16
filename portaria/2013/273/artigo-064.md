@@ -8,4 +8,4 @@
 
 3 - A gravação de som está limitada à cobertura do espaço onde se localiza o sensor associado.
 
-4 - Os sistemas de gravação utilizados por este meio técnico não podem permitir a receção de áudio do local protegido, sem que antes se haja produzido um sinal de alarme, salvo se o utilizador que contrata a prestação do serviço tenha autorizado expressamente um nível de serviço que inclua a utilização do meio técnico sem um prévio sinal de alarme, e desde que ressalvados os direitos e interesses constitucionalmente protegidos e a proteção de dados prevista na Lei n.º 67/98, de 26 de outubro.
+4 - Os sistemas de gravação utilizados por este meio técnico não podem permitir a receção de áudio do local protegido, sem que antes se tenha produzido um sinal de alarme, salvo se o utilizador que contrata a prestação do serviço autorize expressamente um nível de serviço que inclua a utilização do meio técnico sem um prévio sinal de alarme, e desde que ressalvados os direitos e interesses constitucionalmente protegidos e o regime jurídico de proteção de dados pessoais.

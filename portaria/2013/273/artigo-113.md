@@ -1,9 +1,11 @@
 # Artigo 113.º
 
-### Certificado de instalação
+### Declaração de instalação
 
-1 - O projeto de instalação de um sistema de alarme deve ser elaborado de harmonia com a norma CLC/TS 50131-7 de modo a minimizar a ocorrência de falsos alarmes.
+1 - A instalação, manutenção e assistência técnica de sistemas ou dispositivos de segurança e proteção deve ser realizada mediante termo de responsabilidade, que ateste o cumprimento da legislação e das normas aplicáveis, subscrito pelo técnico responsável da entidade autorizada a prestar o serviço.
 
-2 - O instalador autorizado de material e equipamento de segurança deve emitir um certificado de instalação garantindo a conformidade com a norma CLC/TS 50131-7, nas partes aplicáveis à instalação de alarmes.
+2 - A entidade instaladora autorizada que instale sistemas ou dispositivos de segurança e proteção deve emitir declaração de instalação, subscrita pelo técnico responsável, que ateste a consonância com as normas técnicas aplicáveis CLC/TS 50131-7, EN 62676-4 ou EN 60839-11-2, previstas na presente portaria.
 
-3 - Todas as intervenções de manutenção e assistência técnica de material e equipamento de segurança devem ser anotados no livro de registos relativo ao sistema instalado.
+3 - No momento da instalação, a entidade instaladora autorizada deve proceder à entrega do manual do sistema e do livro de registos do sistema.
+
+4 - O modelo de declaração de instalação é aprovado por despacho do diretor nacional da PSP.

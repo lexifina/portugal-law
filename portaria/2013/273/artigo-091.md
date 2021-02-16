@@ -4,7 +4,7 @@
 
 1 - Nas instalações de instituições de crédito e sociedades financeiras, onde se proceda à guarda e tratamento de valores, sem prejuízo do disposto no artigo anterior, devem ser instalados dispositivos de proteção e segurança que cumpram os seguintes requisitos:
 
-a) Porta ou portas de acesso, com a classe de resistência 2, de acordo com a norma EN 1627 ou equivalente, e contactos magnéticos de média potência;
+a) Porta ou portas de acesso, com a classe de resistência 2, de acordo com a norma EN 1627 e contactos magnéticos de acordo com a parte aplicável da norma EN 50131;
 
 b) Janelas, se aplicável e tecnicamente viável, com a classe de resistência 2, de acordo com a norma EN 1627 ou equivalente, e proteção eletrónica;
 

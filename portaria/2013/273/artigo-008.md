@@ -6,7 +6,7 @@
 
 a) Sistema de videovigilância por câmaras de vídeo para captação e gravação de imagens, que permita a identificação de pessoas, com a finalidade de prevenção da prática de crimes, com cobertura do perímetro e controlo de acessos à zona onde se encontra instalada a central de alarmes, e que cumpram os requisitos mínimos fixados no Anexo I;
 
-b) Porta de acesso à central de receção e monitorização de alarmes blindada, com classe de resistência 3, de acordo com a norma EN 1627 e contactos magnéticos de potência média;
+b) Porta de acesso à central de receção e monitorização de alarmes blindada, com classe de resistência 3, de acordo com a norma EN 1627 e contactos magnéticos de acordo com a parte aplicável da norma EN 50131;
 
 c) Deteção volumétrica, no mínimo classificada de grau 3 de acordo com a norma EN 50131-1, ou equivalente, em todas as dependências anexas ou contíguas à central de receção e monitorização de alarmes, assim como no local onde se situe o gerador ou acumulador de energia;
 
@@ -16,13 +16,13 @@ e) Controlo dos sistemas de videovigilância a partir da central de receção e 
 
 2 - A central de receção e monitorização de alarmes deve ainda reunir as seguintes caraterísticas:
 
-a) As paredes que a delimitem devem ter uma categoria de resistência FB2, de acordo com a norma EN 1522 ou equivalente;
+a) As paredes que a delimitem devem ter uma categoria de resistência FB2, de acordo com a norma EN 50518 ou equivalente;
 
-b) Os vidros existentes devem ser de segurança com nível blindagem BR4, de acordo com a norma EN 1063 ou equivalente;
+b) Os vidros existentes devem ter uma categoria de resistência BR4, de acordo com a norma EN 1063 ou equivalente;
 
-c) As portas de acesso devem possuir sistema de interbloqueamento e ser de acesso condicionado e restrito, possuindo dispositivo de abertura controlado pelos operadores.
+c) As portas de acesso devem ter uma categoria de resistência FB2, de acordo com a norma EN 1522 ou equivalente, possuir sistema de interbloqueamento e ser de acesso condicionado e restrito, possuindo dispositivo de abertura controlado pelos operadores.
 
-3 - No caso de existir serviço de guarda de chaves, a mesma pode situar-se na central de receção e monitorização de alarmes, não se aplicando neste caso o disposto no n.º 4 do artigo 7.º.
+3 - No caso de existir serviço de guarda de chaves, o mesmo pode situar-se na central de receção e monitorização de alarmes, não se aplicando neste caso o disposto no n.º 4 do artigo 7.º
 
 4 - Os sistemas de segurança devem possuir redundância de comunicação.
 

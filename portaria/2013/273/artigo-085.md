@@ -6,7 +6,7 @@
 
 ### Comunicação e registo
 
-1 - A autorização a que se refere o n.º 2 do artigo 32.º da Lei n.º 34/2013, de 16 de maio, é comunicada à Direção Nacional por via eletrónica e compreende os seguintes elementos:
+1 - A autorização da entidade patronal a que se refere o n.º 2 do artigo 32.º da Lei n.º 34/2013, de 16 de maio, é comunicada à Direção Nacional por via eletrónica e compreende os seguintes elementos:
 
 a) Nome do segurança privado autorizado;
 
@@ -28,4 +28,10 @@ h) Prazo de validade da autorização.
 
 3 - A caducidade, suspensão ou cancelamento do cartão profissional determina a caducidade imediata da autorização.
 
-4 - O disposto nos números anteriores não prejudica a aplicação do regime geral em matéria de proteção de dados previsto na Lei n.º 67/98, de 26 de outubro.
+4 - A autorização da entidade contratante do serviço, a que se refere o n.º 2 do artigo 32.º da Lei n.º 34/2013, de 16 de maio, é comunicada à Direção Nacional por via eletrónica e compreende os seguintes elementos:
+
+a) Nome e NIF ou NIPC da entidade contratante;
+
+b) Duração da prestação de serviços;
+
+c) Autorização expressa para utilização de porte de arma.
