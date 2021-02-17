@@ -10,12 +10,14 @@ b) 0,8 % receita da Cinemateca Portuguesa-Museu do Cinema, I. P. (Cinemateca, I.
 
 2 - O produto da cobrança da taxa prevista no n.º 2 do artigo 10.º constitui receita própria do ICA, I. P.
 
-3 - A consignação da receita do ICA, I. P., deduzidos os seus custos de funcionamento e os compromissos assumidos em quaisquer parcerias ou acordos celebrados no âmbito das suas atribuições, é alocada tendo em atenção as seguintes prioridades, em conformidade com a declaração de prioridades e com o orçamento anual:
+3 - O produto da cobrança da taxa prevista no n.º 4 do artigo 10.º constitui receita própria do ICA, I. P.
+
+4 - Os montantes transferidos pela ANACOM nos termos do artigo 12.º-A constituem receita própria do ICA, I. P.
+
+5 - A receita disponível do ICA, I. P., deduzidos os seus custos de funcionamento e os compromissos assumidos em quaisquer parcerias ou acordos celebrados no âmbito das suas atribuições, é alocada aos diferentes programas e medidas, no respeito dos planos estratégicos plurianuais e declarações anuais de prioridades, observando em qualquer caso a seguinte repartição:
 
 a) 80 % destina-se ao apoio à arte cinematográfica;
 
-b) 20 % destina-se ao apoio à produção audiovisual e multimédia.
+b) 20 % destina-se ao apoio à produção audiovisual.
 
-4 - A percentagem prevista na alínea b) do número anterior será aumentada em cada ano civil em 5 % até ao limite máximo de 30 %, mediante a verificação do grau de execução financeira dos concursos do programa de apoio ao audiovisual e multimédia e do número de espectadores das obras apoiadas, tal como definidos em diploma regulamentar à presente lei.
-
-5 - O montante resultante da aplicação do disposto no artigo anterior constitui receita própria do ICA, I. P.
+6 - A percentagem prevista na alínea b) do número anterior será aumentada em cada ano civil em 5 % até ao limite máximo de 30 %, mediante a verificação do grau de execução financeira dos concursos do programa de apoio ao audiovisual e do número de espetadores das obras apoiadas, nos termos previstos no decreto-lei que regulamente a presente lei.

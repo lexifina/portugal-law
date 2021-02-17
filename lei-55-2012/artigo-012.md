@@ -10,17 +10,17 @@
 
 4 - Constitui contraordenação a prática dos seguintes atos:
 
-a) A entrega dos montantes apurados na cobrança das taxas previstas no artigo 10.º fora do prazo referido no artigo 3.º do Decreto-Lei n.º 9/2013, de 24 de janeiro, mas dentro dos 10 dias úteis seguintes é punida com coima de (euro) 10 000 a (euro) 44 891;
+a) A não entrega, no prazo referido no artigo 42.º do Decreto-Lei n.º 25/2018, de 24 de abril, dos montantes apurados na cobrança das taxas previstas no artigo 10.º, bem como, até ao final de janeiro do ano seguinte àquele a que dizem respeito, dos montantes previstos no n.º 7 do artigo 14.º-B, no n.º 4 do artigo 15.º, no n.º 3 do artigo 16.º e no n.º 6 do artigo 17.º, é punida nos termos dos n.os 1 e 2 do artigo 114.º do Regime Geral das Infrações Tributárias, sendo a liquidação inferior à devida dos montantes anteriormente previstos punida nos mesmos termos como falta de entrega;
 
-b) A falta, total ou parcial, da entrega dos montantes apurados na cobrança das taxas até ao último dos 10 dias referidos na alínea anterior é punida com coima igual ao dobro do quantitativo em dívida, em qualquer dos casos sempre no montante mínimo e máximo de (euro) 1500 e (euro) 44 891, respetivamente;
+b) (Revogada.)
 
-c) A não disponibilização da informação referida no artigo 4.º do Decreto-Lei n.º 9/2013, de 24 de janeiro, é punida com coima de (euro) 1000 a (euro) 2500;
+c) A falta de apresentação ou apresentação fora do prazo legal ou fixado pelo ICA, I. P., de declarações e documentos ou de prestação de informações e esclarecimentos relativos ao apuramento e liquidação dos montantes referidos no número anterior é punida nos termos do n.º 1 do artigo 117.º do Regime Geral das Infrações Tributárias;
 
-d) As omissões e inexatidões de informações referidas no artigo 4.º do Decreto-Lei n.º 9/2013, de 24 de janeiro, são punidas com coima de (euro) 1000 a (euro) 5000;
+d) As omissões ou inexatidões nas declarações, nos documentos, nas informações e nos esclarecimentos referidos na alínea anterior são punidas nos termos dos n.os 1 e 2 do artigo 119.º do Regime Geral das Infrações Tributárias;
 
-e) A falsidade das informações prestadas ao abrigo do artigo 4.º do Decreto-Lei n.º 9/2013, de 24 de janeiro, é punida com coima de (euro) 10 000.
+e) A falsificação, viciação, ocultação ou destruição de documentos e informações que devam ser disponibilizados ao ICA, I. P., ou que sejam relevantes para efeitos de fiscalização do cumprimento da presente secção ou de diploma que a regulamente, é punida nos termos do artigo 118.º do Regime Geral das Infrações Tributárias.
 
-5 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+5 - A negligência é punível, sendo aplicável o disposto nos artigos 24.º e 26.º do Regime Geral das Infrações Tributárias.
 
 6 - As coimas previstas na presente lei revertem:
 

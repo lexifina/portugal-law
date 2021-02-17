@@ -2,18 +2,32 @@
 
 ### Investimento dos operadores de serviços audiovisuais a pedido
 
-1 - A participação dos operadores de serviços audiovisuais a pedido na produção cinematográfica e audiovisual é assegurada através do investimento anual em obras cinematográficas nacionais, em montante a definir anualmente, através de diploma próprio, e em percentagem não inferior ao equivalente a 1 % das receitas provenientes das atividades de serviços audiovisuais a pedido que mantenham.
+1 - (Revogado.)
 
-2 - O investimento previsto no número anterior pode assumir as seguintes modalidades:
+2 - O investimento dos operadores de serviços audiovisuais a pedido na produção de obras cinematográficas e audiovisuais criativas de produção independente europeias, originariamente em língua portuguesa, pode assumir as seguintes modalidades:
 
-a) Participação na montagem financeira de filme, como cofinanciador, sem envolvimento na produção;
+a) Financiamento de trabalhos de escrita e desenvolvimento de projetos de obras cinematográficas e audiovisuais criativas de produção independente europeias, originariamente em língua portuguesa, não se aplicando o requisito da língua portuguesa no caso de coproduções com participação nacional ao abrigo dos tratados aplicáveis, de quaisquer dos tipos referidos na alínea a) do n.º 8 do artigo 14.º-A;
 
-b) Participação na produção do filme, como coprodutor;
+b) Participação no financiamento da produção de obras cinematográficas e audiovisuais criativas de produção independente europeias, originariamente em língua portuguesa, não se aplicando o requisito da língua portuguesa no caso de coproduções com participação nacional ao abrigo dos tratados aplicáveis, de quaisquer dos tipos referidos na alínea a) do n.º 8 do artigo 14.º-A, mediante:
 
-c) Adiantamentos à produção, sob a forma de mínimos de garantia;
+i) Aquisição de direitos de exploração em fase de projeto;
 
-d) Aquisição de direitos de distribuição de obras cinematográficas nacionais.
+ii) Coprodução;
 
-3 - A participação dos operadores de serviços audiovisuais a pedido é ainda assegurada através da criação, nas respetivas plataformas tecnológicas, de uma área dedicada às obras nacionais, onde sejam disponibilizadas todas as obras apoiadas e, bem assim, outras obras de produção nacional, mediante solicitação dos respetivos distribuidores ou dos titulares de direitos, para efeitos de aluguer ou venda das obras, em condições que atribuam aos titulares de direitos sobre as mesmas uma percentagem não inferior a 50 % das receitas obtidas.
+iii) Associação à produção, sem compropriedade;
 
-4 - Os montantes previstos no n.º 1 que, em cada ano civil, não forem afetos ao investimento são entregues, por cada operador, ao ICA, I. P., em janeiro do ano seguinte, constituindo receita própria deste organismo.
+c) Aquisição de direitos de exploração de obras cinematográficas e audiovisuais criativas de produção independente europeias, originariamente em língua portuguesa, não se aplicando o requisito da língua portuguesa no caso de coproduções com participação nacional ao abrigo dos tratados aplicáveis;
+
+d) Restauro e masterização de películas de obras apoiadas e de outras obras europeias em língua portuguesa, desde que sejam entregues à Cinemateca, I. P., duas cópias em conformidade com as normas técnicas definidas por esta entidade;
+
+e) Promoção de obras cinematográficas e audiovisuais europeias;
+
+f) Produção própria ou de empresas associadas, aquisição de obras por encomenda ou investimento em outras obras criativas europeias.
+
+3 - Pelo menos 30 % do investimento obrigatório é exercido nas modalidades a) e b) do n.º 2.
+
+4 - No caso dos operadores de serviços audiovisuais a pedido na modalidade de acesso por subscrição, as obras referidas na alínea f) do n.º 2 são obrigatoriamente obras originariamente em língua portuguesa, não se aplicando o requisito da língua portuguesa no caso de coproduções com participação nacional ao abrigo dos tratados aplicáveis.
+
+5 - A participação dos operadores de serviços audiovisuais a pedido pode ainda ser assegurada através da criação, nos respetivos catálogos, de uma área dedicada à promoção de obras europeias e em língua portuguesa, em termos a especificar no decreto-lei que regulamenta a presente lei.
+
+6 - Os montantes de investimento devidos que, no termo de cada ciclo de dois exercícios consecutivos, não forem afetos ao investimento direto nos termos do n.º 1 são entregues, por cada operador de televisão, ao ICA, I. P., em janeiro do ano seguinte, constituindo receita própria deste organismo.
