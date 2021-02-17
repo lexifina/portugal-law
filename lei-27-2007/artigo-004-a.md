@@ -2,17 +2,19 @@
 
 ### Obrigações de identificação
 
-1 - Os operadores de televisão, de distribuição e de serviços audiovisuais a pedido estão obrigados a divulgar, de forma a permitir um acesso fácil, directo e permanente:
+1 - Os operadores de televisão, de distribuição e de serviços audiovisuais a pedido, assim como os fornecedores de serviços de plataformas de partilha de vídeos, estão obrigados a divulgar, de forma a permitir um acesso fácil, direto e permanente:
 
 a) Os respectivos nomes ou denominações sociais;
 
-b) O nome do director ou responsável por cada serviço, quando aplicável;
+b) A designação de cada serviço e os nomes dos diretores ou responsáveis por cada um deles, quando aplicável;
 
 c) O endereço geográfico em que se encontram estabelecidos;
 
-d) Os seus meios de contacto, designadamente telefónicos, postais e electrónicos;
+d) Os seus meios de contacto, designadamente telefónicos, postais e eletrónicos, incluindo o sítio na Internet;
 
-e) A identificação e contactos dos organismos reguladores competentes.
+e) A identificação do Estado-Membro com jurisdição sobre o operador;
+
+f) A referência à jurisdição a que estão sujeitos e as autoridades reguladoras competentes e ou de supervisão competentes, bem como os respetivos contactos.
 
 2 - No caso dos serviços de programas televisivos é ainda obrigatório disponibilizar permanentemente, excepto durante os blocos publicitários, um elemento visual que permita a identificação de cada serviço, sendo a informação prevista no número anterior divulgada:
 
