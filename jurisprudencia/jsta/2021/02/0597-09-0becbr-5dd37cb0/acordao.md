@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-02-17, processo 0597/09.0BECBR
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0597/09.0BECBR
+
+**Data do Acordão:** 02/17/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** QUESTÃO NOVA; AQUISIÇÃO DE PREDIO PARA REVENDA; CEDÊNCIA GRATUITA DE PARCELAS DE TERRENO
+
+**Nº Convencional:** JSTA000P27205
+
+**Nº do Documento:** SA2202102170597/09
+
+**Data de Entrada:** 11/27/2020
+
+**Recorrente:** A........................., LDA
+
+**Recorrido 1:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O direito português segue o modelo do recurso de revisão ou reponderação (modelo que tem as suas raízes no Código Austríaco de 1895), que não o modelo de reexame. Daí que o Tribunal “ad quem” deva produzir um novo julgamento sobre o já decidido pelo Tribunal “a quo”, baseado nos factos alegados e nas provas produzidas perante este. Os juízes dos Tribunais Superiores, ao proferirem a sua decisão, encontram-se numa situação idêntica à do juiz da 1ª. Instância no momento de editar a sua sentença, assim valendo para o Tribunal “ad quem” as preclusões ocorridas no Tribunal “a quo”. Nesta linha, vem a nossa jurisprudência repetidamente afirmando que os recursos são meios de obter o reexame de questões já submetidas à apreciação dos Tribunais inferiores, e não para criar decisões sobre matéria nova, não submetida ao exame do Tribunal de que se recorre, visto implicar a sua apreciação a preterição de um grau de jurisdição.
+
+II - Não vale, contudo, também entre nós, em toda a sua pureza, o modelo de recurso de reponderação. Além de outras excepções (v.g. as partes podem acordar, em 2ª. Instância, a alteração ou ampliação do pedido - cfr.artº.264, do C.P.Civil, na redacção da Lei 41/2013, de 26/6), o Tribunal “ad quem” pode conhecer de questões novas, ou seja, não suscitadas no Tribunal recorrido, desde que de conhecimento oficioso e ainda não decididas com trânsito em julgado. E essas questões podem referir-se, quer à relação processual (v.g. excepções dilatórias, atento o disposto no artº.578, do C.P.Civil, na redacção da Lei 41/2013, de 26/6), quer à relação material controvertida (v.g. prescrição e duplicação de colecta - cfr.artº.175, do C.P.P. Tributário).
+
+III - A cedência gratuita de parcelas de terreno adquirido para revenda, sem prejuízo de configurar uma condicionante indispensável à obtenção do alvará de licenciamento municipal, constitui motivo de caducidade da isenção do antigo imposto de SISA, tal como do actual I.M.T. (aprovado pelo dec.lei 287/2003, de 12/11), dado configurar um "destino diferente" da revenda do imóvel adquirido (cfr.artº.16, 1º., do C.Sisa; artº.11, nº.5, do C.I.M.T.). Esta posição tem sido, de resto, uniformemente afirmada pela jurisprudência da Secção deste Tribunal a qual, embora proferida no âmbito da vigência do Código da Sisa, mantém plena actualidade.
+
+(sumário da exclusiva responsabilidade do relator)
