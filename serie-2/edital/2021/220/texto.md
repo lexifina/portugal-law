@@ -1,0 +1,10 @@
+Edital n.º 220/2021
+Sumário: Projeto de Regulamento Municipal para Atribuição de Habitações Sociais.
+Projeto de Regulamento Municipal para Atribuição de Habitações Sociais
+Gonçalo Fernando da Rocha de Jesus, Presidente da Câmara Municipal de Castelo de Paiva, no uso das competências conferidas pelas alíneas b) e t), do n.º 1, do artigo 35.º, do anexo à Lei n.º 75/2013, de 12 de setembro, em cumprimento do artigo 56.º, da citada Lei, e dos artigos 100.º e 101.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, torna público que a Câmara Municipal, em reunião ordinária de 25 de janeiro de 2021, aprovou o Projeto de Regulamento Municipal para Atribuição de Habitações Sociais e deliberou submetê-lo a discussão pública, para efeitos de recolha de contributos, concedendo para o efeito o prazo de 30 dias úteis, que se iniciam com a publicação do presente edital.
+Durante o período de discussão pública, os interessados podem apresentar os seus contributos e consultar a proposta de alteração ao regulamento na página electrónica da Câmara Municipal de Castelo de Paiva (www.cm-Castelo-paiva.pt), bem como na secção de atendimento geral, todos os dias das 9,00 horas às 17,00 horas.
+Os interessados podem apresentar os seus contributos, através de comunicação escrita que contenha nome completo, morada ou sede, número de identificação fiscal e o respectivo endereço de correio electrónico e dando consentimento para que este seja utilizado para os efeitos previstos na alínea c), do n.º 1, do artigo 112.º do CPA.
+Os interessados devem dirigir os seus contributos, relativamente ao Projeto de Regulamento, ao Presidente da Câmara, endereçados ou entregues pessoalmente no edifício sede do Município de Castelo de Paiva, Largo do Conde, Sobrado, Edifício do Paços do Concelho, 4550-102 Castelo de Paiva, enviadas através de correio electrónico para o endereço: geral@cm-castelo-paiva.pt.
+E, para constar, se passou este e outros de igual teor, que serão afixados nos locais públicos de estilo.
+2 de fevereiro de 2021. - O Presidente da Câmara, Gonçalo Rocha.
+313946405
