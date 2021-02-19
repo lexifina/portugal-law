@@ -1,0 +1,10 @@
+Aviso (extrato) n.º 3102/2021
+Sumário: Consulta pública do Regulamento do Plano Municipal de Defesa da Floresta contra Incêndios de Belmonte 2021-2030.
+Consulta Pública do Regulamento do Plano Municipal de Defesa da Floresta contra Incêndios de Belmonte 2021-2030
+António Pinto Dias Rocha, Presidente da Câmara Municipal, torna público, que a Câmara Municipal deliberou, na sua reunião ordinária de 29 de janeiro de 2021, submeter a consulta pública o Regulamento do Plano Municipal de Defesa da Floresta Contra Incêndios (PMDFCI) de Belmonte 2021-2030, pelo período de 15 dias, a contar do dia seguinte da publicação do presente edital no Diário da República, nos termos do disposto no n.º 2, do artigo 10.º, do Decreto-Lei n.º 124/2006, de 28 de junho, na sua atual redação, e nos n.º 5 a 7, do artigo 4.º do Regulamento do Plano Municipal da Defesa da Floresta Contra Incêndios, Anexo ao Despacho n.º 443-A/2018, de 9 de janeiro, alterado pelo Despacho n.º 1222-B/2018 de 2 de fevereiro emitido pelo Gabinete do Secretário de Estado das Florestas e do Desenvolvimento Rural.
+O Regulamento do PMDFCI de Belmonte foi objeto de parecer favorável da Comissão Municipal de Defesa da Floresta Contra Incêndios, na sua reunião de 04 de dezembro de 2020.
+O Regulamento do PMDFCI de Belmonte mereceu parecer vinculativo positivo do Instituto de Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), conforme oficio n.º S-001247/2021/2021/DGFR, de 13 de janeiro de 2021.
+Durante o período da consulta pública, o Regulamento do PMDFCI encontra-se disponível na página eletrónica de internet do Município de Belmonte (www.cm-belmonte.pt).
+Os interessados poderão apresentar as suas observações, sugestões ou pedidos de esclarecimentos, até ao termo do período referido, mediante requerimento devidamente identificado, dirigido ao Presidente da Câmara Municipal, por correio eletrónico para geral@cmbelmonte.pt ou gtf@cm-belmonte.pt.
+29 de janeiro de 2021. - O Presidente da Câmara Municipal de Belmonte, António Pinto Dias Rocha.
+313937577
