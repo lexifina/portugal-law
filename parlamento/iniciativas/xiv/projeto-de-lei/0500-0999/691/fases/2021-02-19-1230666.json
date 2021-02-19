@@ -1,0 +1,121 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "691",
+    "id": "110342",
+    "titulo": "Reforça a proteção da pessoa segurada, proibindo práticas discriminatórias, melhorando o acesso ao crédito e contratos de seguros por pessoas que tenham superado riscos agravados de saúde, consagrando o “direito ao esquecimento”"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2021-02-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "50225",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-02-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-05-12",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e474d354e6a466a595330345a4755794c545269597a4574595746694f5330774e54517a4d6d5a694d475930595759756347526d&fich=64c961ca-8de2-4bc1-aab9-05432fb0f4af.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-05-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a596a45794d544d795a4330324f4441794c54517a4d6a45744f5749774e79316d4d4445774d6d4668597a45794d5449756347526d&fich=3b12132d-6802-4321-9b07-f0102aac1212.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7344",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "7344",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CDS-PP",
+            "id": "2419",
+            "motivoCessacao": null,
+            "nome": "Cecília Meireles"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-02-19",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão 1.ª e 9.ª Comissões",
+    "OevId": "1230666",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "928041",
+        "obs": null,
+        "pag": [
+          "3-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-05-13",
+        "pubLeg": "XIV",
+        "pubNr": "132",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/132/2021-05-13/3?pgs=3-15&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
