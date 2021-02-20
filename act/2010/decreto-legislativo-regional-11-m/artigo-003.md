@@ -2,6 +2,6 @@
 
 ### Competência
 
-1 - O SRPC, IP-RAM é a entidade competente para assegurar o cumprimento do regime jurídico da segurança contra incêndios em edifícios na Região.
+1 - O SRPC, IP-RAM é a entidade competente para assegurar o cumprimento do regime jurídico da segurança contra incêndios em edifícios na Região, com exceção dos edifícios e recintos, que são classificados na 1.ª categoria de risco, cuja competência é dos municípios.
 
-2 - Mediante acordo prévio e protocolo a celebrar para o efeito, o SRPC, IP-RAM pode, no que se refere a utilizações-tipo de edifícios e recintos da 1.ª e 2.ª categoria de risco, delegar competências nos serviços municipais de protecção civil que disponham de técnicos habilitados.
+2 - Ao SRPC, IP-RAM incumbe a credenciação de entidades para a emissão de pareceres e para a realização de vistorias e de inspeções das condições de SCIE, nos termos previstos no presente diploma e nas suas portarias complementares.

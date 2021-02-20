@@ -2,12 +2,12 @@
 
 ### Perigosidade atípica
 
-1 - Na Região, quando justificada e comprovadamente, as disposições do regulamento técnico, a que se refere o artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, sejam desadequadas face à topografia acidentada do terreno, à aplicação de tecnologias inovadoras no âmbito das disposições construtivas ou dos sistemas e equipamentos de segurança, às grandes dimensões em altimetria e planimetria ou às suas características de funcionamento e exploração, tais edifícios e recintos ou as suas fracções são classificados de perigosidade atípica, e ficam sujeitos a soluções de SCIE que, cumulativamente:
+1 - Na Região, quando, justificada e comprovadamente, as disposições do regulamento técnico referido no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, sejam desadequadas face ao relevo acidentado do terreno, às grandes dimensões em altimetria ou planimetria ou às suas características de funcionamento ou de exploração ou construtivas, tais edifícios e recintos ou as suas frações são classificados de perigosidade atípica e ficam sujeitos a soluções de SCIE que, cumulativamente:
 
-a) Sejam devidamente fundamentadas pelo autor do projecto, com base em análises de risco, associadas a práticas já experimentadas, métodos de ensaio ou modelos de cálculo;
+a) Sejam devidamente fundamentadas pelo autor do projeto, com base em métodos de análise de risco que venham a ser reconhecidos pela ANEPC ou em métodos de ensaio ou em modelos de cálculo, ou com base em novas tecnologias ou em tecnologias não previstas na presente legislação, cujo desempenho ao nível da SCIE seja devidamente justificado, no âmbito das disposições construtivas ou dos sistemas e equipamentos de segurança;
 
-b) Sejam explicitamente referidas como não conformes nos termos de responsabilidade do coordenador e autores do projecto;
+b) Sejam explicitamente referidas como não conformes no termo de responsabilidade do autor do projeto;
 
-c) Sejam aprovadas pela entidade fiscalizadora competente.
+c) Sejam aprovadas pelo SRPC, IP-RAM, ou pelos órgãos executivos dos municípios quanto a edifícios, suas frações, ou recintos, das utilizações tipo da 1.ª categoria de risco.
 
-2 - A responsabilidade pela elaboração dos projectos de SCIE e dos planos de segurança internos referentes a edifícios e recintos classificados de perigosidade atípica, tem de ser assumida exclusivamente por um arquitecto, reconhecido pela Ordem dos Arquitectos (OA), ou por um engenheiro, reconhecido pela Ordem dos Engenheiros (OE), ou por um engenheiro técnico, reconhecido pela Associação Nacional dos Engenheiros Técnicos (ANET), com certificação de especialização nos termos previstos no artigo 16.º do Decreto-Lei n.º 220/2008, de 12 de Novembro.
+2 - (Revogado.)

@@ -8,8 +8,8 @@ a) Laboratório Regional de Engenharia Civil;
 
 b) Associação de Municípios da Região Autónoma da Madeira;
 
-c) Delegação Regional da Ordem dos Arquitectos;
+c) Secção Regional da Madeira da Ordem dos Arquitetos;
 
-d) Secção Regional da Ordem dos Engenheiros;
+d) Secção Regional da Madeira da Ordem dos Engenheiros;
 
-e) Secção Regional da Madeira da Associação Nacional dos Engenheiros Técnicos.
+e) Secção Regional da Madeira da Ordem dos Engenheiros Técnicos.

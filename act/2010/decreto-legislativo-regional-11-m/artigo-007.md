@@ -2,4 +2,8 @@
 
 ### Utilização dos edifícios
 
-Quando haja lugar a vistorias, nos termos do artigo 18.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, referentes às 2.ª, 3.ª e 4.ª categorias de risco, estas devem integrar um representante da entidade fiscalizadora competente.
+1 - O pedido de autorização de utilização de edifícios ou suas frações autónomas e recintos, referido no artigo 63.º do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 37/2006/M, de 18 de agosto, na sua atual redação, deve ser instruído com termo de responsabilidade subscrito pelo diretor de obra ou pelo diretor de fiscalização de obra, no qual deve declarar que se encontram cumpridas as condições de SCIE.
+
+2 - Quando haja lugar a vistorias, nos termos dos artigos 64.º e 65.º do regime jurídico da urbanização e edificação referido no número anterior ou em virtude de legislação especial em matéria de autorização de funcionamento, deve ser garantido o cumprimento das condições de SCIE e dos respetivos projetos ou fichas de segurança, sem prejuízo de outras situações previstas em legislação específica que preveja ou determine a realização de vistorias.
+
+3 - As vistorias referidas no número anterior, referentes às 2.ª, 3.ª e 4.ª categorias de risco, devem integrar um representante do SRPC, IP-RAM, ou de uma entidade por ele credenciada.

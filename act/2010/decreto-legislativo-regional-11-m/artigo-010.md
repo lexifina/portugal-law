@@ -6,6 +6,8 @@ O produto das coimas é repartido da seguinte forma:
 
 a) 10 % para a entidade fiscalizadora;
 
-b) 30 % para o SRPC, IP-RAM;
+b) 30 % para o SRPC, IP-RAM quanto às 2.ª, 3.ª e 4.ª categorias de risco;
 
-c) 60 % para a Região.
+c) 90 % para o respetivo município quanto à 1.ª categoria de risco;
+
+d) 60 % para a Região quanto às 2.ª, 3.ª e 4.ª categorias de risco.
