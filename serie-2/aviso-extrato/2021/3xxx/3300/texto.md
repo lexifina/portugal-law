@@ -1,0 +1,16 @@
+Aviso (extrato) n.º 3300/2021
+Sumário: Revisão do Plano Diretor Municipal de Gouveia.
+Decisão de Inicio do Procedimento da Revisão do Plano Diretor Municipal de Gouveia
+Torna-se público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, que a Câmara Municipal deliberou, em reunião pública, de 28 de dezembro de 2020, determinar o inicio do procedimento relativo à Revisão do Plano Diretor Municipal de Gouveia, publicado pela Resolução do Conselho de Ministros n.º 108/95 na 1.ª série do Diário da República, de 18 de outubro de 1995, que deverá estar concluído no prazo de 18 meses.
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do mesmo diploma, é estabelecido o período de 30 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página oficial da Câmara Municipal de Gouveia em http://www.cm-gouveia.pt e nos Serviços da Divisão de Planeamento, Urbanismo e Desenvolvimento Municipal da Autarquia.
+Os interessados podem apresentar eventuais sugestões e ou pedidos de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas ao Presidente da Câmara Municipal para o endereço Avenida 25 de abril, 6290-554 Gouveia ou remetidas através do endereço eletrónico: geral@cm-gouveia.pt.
+Para constar, publica-se o presente aviso que vai ser afixado nos lugares de estilo, bem como publicado em 2.ª série de Diário da República e na imprensa.
+12 de janeiro de 2021. - O Presidente da Câmara, Luís Manuel Tadeu Marques.
+Deliberação
+Em reunião ordinária, realizada em 28 de dezembro de 2020, a Câmara Municipal de Gouveia deliberou por unanimidade:
+1 - Dar início formal, nos termos do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, ao procedimento da 1.ª Revisão do Plano Diretor Municipal de Gouveia, fixando a prazo da sua elaboração em 18 meses, prazo considerado adequado e suficiente, de acordo com a planificação apresentada pela equipa projetista, em sede do respetivo procedimento de concurso;
+2 - Aprovar os respetivos termos de referência, desenvolvidos no ponto 4 da informação técnica que se encontra anexa à presente Ata e dela fica a fazer parte integrante, que sustenta justificadamente os objetivos e respetivos termos de referência estratégicos, programáticos e regulamentares que deverão balizar a execução do plano;
+3 - Estabelecer um prazo de 30 dias para a participação pública prévia, tendo em vista a formulação de sugestões e a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de revisão do Plano;
+4 - Enviar à Assembleia Municipal, para conhecimento, a deliberação que vier a ser tomada relativa ao REOT - Relatório do Estado do Ordenamento do Território do Concelho de Gouveia, bem como o documento do respetivo Relatório já submetido a período de discussão pública, nos termos do artigo 189.º do RJIGT, do qual não resultaram alterações relevantes, cuja matéria exigisse correções substantivas de cariz estrutural à proposta inicial submetida a auscultação pública.
+12 de janeiro de 2021. - O Presidente da Câmara, Luís Manuel Tadeu Marques.
+613957462
