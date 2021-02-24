@@ -1,0 +1,13 @@
+Aviso (extrato) n.º 3379/2021
+Sumário: Prorrogação do prazo do procedimento de revisão do Plano Diretor Municipal de Braga.
+Prorrogação de prazo do processo de revisão do PDM de Braga
+Ricardo Bruno Antunes Machado Rio, Presidente da Câmara Municipal de Braga, torna público que a Câmara Municipal de Braga deliberou, em 25 de janeiro de 2021, a prorrogação do prazo do procedimento de revisão do PDM de Braga, Aviso n.º 4132/2018 de 27/03/2018 e Declaração de Retificação n.º 404/2018 de 28/05/2018, por 24 meses a contar de 9 de janeiro de 2021, ao abrigo do disposto no n.º 6 do artigo n.º 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de Maio.
+Para constar, publicita-se o presente Aviso no Diário da República, na plataforma colaborativa de gestão territorial, no sítio da internet da Câmara Municipal, bem como nos locais de estilo.
+8 de fevereiro de 2021. - O Presidente da Câmara Municipal, Ricardo Bruno Antunes Machado Rio.
+Prorrogação do prazo do procedimento de revisão do PDM de Braga
+Deliberação
+Glória Fernandes Pereira, Assistente Técnica do Gabinete de Apoio aos Órgãos Autárquicos da Câmara Municipal de Braga:
+Certifico, no uso de competências subdelegadas pelo Sr. Diretor Municipal de Gestão, em 13 de março de 2020, que da ata da reunião ordinária e pública da Câmara Municipal de Braga, realizada no dia 25 de janeiro de dois mil e vinte e um, com a presença de todos os membros, consta ter sido aprovada a seguinte deliberação: "Proposta de Deliberação para Prorrogação do Prazo de Procedimento de Revisão do Plano Diretor Municipal de Braga: do Sr. Vereador Miguel Bandeira, com as áreas de responsabilidade do Planeamento Ordenamento e Mobilidade, submetendo à consideração do Executivo Municipal proposta de prorrogação de conclusão da revisão do Plano Diretor Municipal de Braga por 24 meses a contar de 9 de janeiro, nos termos e com os fundamentos constantes da proposta que se anexa". "Deliberado aprovar por maioria, com votos a favor do Sr. Presidente da Câmara, dos Srs. Vereadores da Coligação Juntos por Braga (PPD/PSD.CDS.PP-PPM), Altino Bernardo Lemos Bessa, Maria do Sameiro Macedo Araújo, Olga Maria Esteves Araújo Pereira, Miguel Sopas de Melo Bandeira, Lídia Brás Dias e João Vasconcelos Barros Rodrigues e dos Srs. Vereadores do PS Artur Jorge Oliveira Feio, Liliana Angélica Costa Matos Pereira e Maria Helena Fernandes Teixeira. Absteve-se a Sra. Vereadora da CDU Bárbara Seco de Barros".
+O Referido é verdade.
+Braga e Paços do Município, 8 de fevereiro de 2021. - Glória Fernandes Pereira.
+613972317
