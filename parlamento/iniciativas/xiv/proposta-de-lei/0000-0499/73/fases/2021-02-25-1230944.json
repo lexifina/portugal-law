@@ -1,0 +1,243 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "73",
+    "id": "110293",
+    "titulo": "Habilita o acesso a dados por parte de entidades públicas para a confirmação de requisitos de acesso ao «Programa Apoiar»"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2021-02-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2021-02-25",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1230944",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "916967",
+        "obs": null,
+        "pag": [
+          "46-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-02-26",
+        "pubLeg": "XIV",
+        "pubNr": "47",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/047/2021-02-26/46?pgs=46-49&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "Proposta de alteração do CDS-PP – emenda do artigo 1.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PEV</I>, <I> IL</I><BR>Contra:<I>BE</I><BR>Abstenção:<I>PAN</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "90119",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "Proposta de alteração do PCP – emenda da alínea a) do n.º 1 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>IL</I><BR>Ausência: <I>CH</I>",
+        "id": "90120",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "Alínea b) do n.º 1 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>PSD</I>, <I> IL</I><BR>Ausência: <I>CH</I>",
+        "id": "90121",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "Proposta de alteração do CDS-PP – emenda do corpo do n.º 1 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PEV</I>, <I> IL</I><BR>Contra:<I>BE</I><BR>Abstenção:<I>PAN</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "90122",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "N.º 2 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>CDS-PP</I>, <I> IL</I><BR>Ausência: <I>CH</I>",
+        "id": "90123",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "Proposta de alteração do CDS-PP – aditamento de um novo n.º 3 ao artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> IL</I><BR>Abstenção:<I>BE</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "90124",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "Proposta de alteração do CDS-PP – aditamento de um novo n.º 4 ao artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>BE</I><BR>Ausência: <I>CH</I>",
+        "id": "90125",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "Proposta de alteração do CDS-PP – aditamento de um novo n.º 5 ao artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PEV</I>, <I> IL</I><BR>Abstenção:<I>BE</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "90126",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "N.º 3 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>IL</I><BR>Ausência: <I>CH</I>",
+        "id": "90127",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "N.º 4 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>BE</I><BR>Ausência: <I>CH</I>",
+        "id": "90128",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "N.º 5 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>IL</I><BR>Ausência: <I>CH</I>",
+        "id": "90129",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "N.º 6 do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>IL</I><BR>Ausência: <I>CH</I>",
+        "id": "90130",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-02-25",
+        "descricao": "Artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>CDS-PP</I>, <I> IL</I><BR>Ausência: <I>CH</I>",
+        "id": "90131",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "47",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
