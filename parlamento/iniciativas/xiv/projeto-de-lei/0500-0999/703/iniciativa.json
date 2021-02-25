@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "703",
+  "id": "110378",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-02-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4749324d6a466a4d444d744f5755344f533030595459794c574532596a59745932566a5a4755344e546730596d5a6b4c6e426b5a673d3d&fich=8b621c03-9e89-4a62-a6b6-cecde8584bfd.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "BE",
+        "idCadastro": "5952",
+        "nome": "Maria Manuel Rola"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3926",
+        "nome": "Pedro Filipe Soares"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4557",
+        "nome": "Mariana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4194",
+        "nome": "Jorge Costa"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5549",
+        "nome": "Alexandra Vieira"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4450",
+        "nome": "Beatriz Gomes Dias"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6024",
+        "nome": "Fabíola Cardoso"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5854",
+        "nome": "Isabel Pires"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4022",
+        "nome": "João Vasconcelos"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3998",
+        "nome": "José Manuel Pureza"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3951",
+        "nome": "José Maria Cardoso"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5949",
+        "nome": "Luís Monteiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4162",
+        "nome": "Moisés Ferreira"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3928",
+        "nome": "Nelson Peralta"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6533",
+        "nome": "Ricardo Vicente"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4196",
+        "nome": "Sandra Cunha"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4161",
+        "nome": "Catarina Martins"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "BE"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "110378",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d557a4d3249345a6a55744e6a51354e433030596d4e694c574934596d49744e7a45344e4751344e7a4a6d5a445a694c6d527659773d3d&fich=6e33b8f5-6494-4bcb-b8bb-7184d872fd6b.doc&Inline=true",
+    "IniNr": "703",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (9ª alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e 4.ª alteração à Lei n.º 92/95, de 12 de setembro)",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
