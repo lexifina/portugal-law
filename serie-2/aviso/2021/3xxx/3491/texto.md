@@ -1,0 +1,7 @@
+Aviso n.º 3491/2021
+Sumário: Projeto de Regulamento Municipal de Atribuição de Bolsas de Estudo.
+Projeto de Regulamento Municipal de Atribuição de Bolsas de Estudo
+Manuel Orlando Fernandes Alves, Presidente da Câmara Municipal de Montalegre, torna público, em cumprimento do disposto no n.º 1, do artigo 56.º do anexo I, da Lei n.º 75/2013, de 12 de setembro e nos termos do disposto no n.º 3, alínea c), do artigo 100.º e do n.º 1 do artigo 101.º, do Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada no dia 04 de fevereiro, do ano em curso, submeter a consulta pública, pelo prazo de trinta dias, contados do dia seguinte ao da publicação no Diário da República, o Projeto de Regulamento Municipal de Atribuição de Bolsa de Estudo, cujo texto se encontra disponível para consulta nesta Câmara Municipal, durante as horas normais de expediente e na página do Município em http://www.cm-montalegre.pt.
+Mais torna público que, nos termos do disposto no n.º 2 do citado artigo 101.º, os interessados deverão dirigir as suas sugestões, mediante requerimento dirigido ao Presidente da Câmara Municipal, devidamente identificado, diretamente nos serviços da Câmara Municipal de Montalegre, através dos correios, para o endereço Largo do Município, n.º 1, 5470-218 Montalegre, ou para o seguinte correio eletrónico: município@cm-montalegre.pt.
+8 de fevereiro de 2021. - O Presidente da Câmara Municipal de Montalegre, Manuel Orlando Fernandes Alves.
+313968973
