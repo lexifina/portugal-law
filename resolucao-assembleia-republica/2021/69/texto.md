@@ -1,0 +1,23 @@
+Resolução da Assembleia da República n.º 69/2021
+Sumário: Recomenda ao Governo a adoção de medidas para a erradicação da mutilação genital feminina.
+Recomenda ao Governo a adoção de medidas para a erradicação da mutilação genital feminina
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Desenvolva uma campanha nacional informativa sobre os direitos humanos em geral e direitos das mulheres e crianças em particular, com ênfase nas questões da Mutilação Genital Feminina/Corte (MGF/C), e de sensibilização para a necessidade da sua erradicação e para a importância da sua denúncia enquanto crime público, promovendo ações junto de escolas, aeroportos, e centros de saúde que se prolonguem ao longo do ano, em consonância com as recomendações das Nações Unidas.
+2 - Envolva as faixas etárias mais jovens nestas campanhas, nomeadamente aqueles que pertencem a comunidades praticantes da MGF/C, promovendo a sua participação enquanto agentes ativos de mudança na sua comunidade e na sociedade.
+3 - Garanta a utilização de todos os meios de comunicação e divulgação possíveis, adequando a informação e mensagens às necessidades culturais e linguísticas das comunidades onde estas práticas se mantêm.
+4 - Garanta, em sinergia com as instituições públicas atuantes na matéria, organizações não governamentais (ONG) e entidades académicas, a construção de evidência científica sobre as causas, consequências e custos associados à prática da MGF/C, envolvendo a perspetiva destas comunidades, a partir dos estudos já existentes.
+5 - Publique, anualmente, os relatórios de análise de dados relativos à MGF/C em Portugal, bem como as propostas desenvolvidas e implementadas para a redução e erradicação deste fenómeno a nível nacional.
+6 - Integre na sistematização destes dados a recolha dos elementos existentes no âmbito de outras áreas de intervenção, como as áreas da justiça e das forças policiais.
+7 - Garanta a elaboração e o desenvolvimento de linhas orientadoras permanentemente atualizadas de prevenção e combate à prática da MGF/C, alinhadas com os instrumentos e políticas internacionais, através da articulação entre os vários ministérios, promovendo o envolvimento ativo do Governo na eliminação desta prática.
+8 - Garanta a formação adequada de todos os profissionais dos diversos setores ministeriais que lidam com questões de violência contra as mulheres, sobre as dinâmicas destes fenómenos, nomeadamente sobre a MGF/C.
+9 - Garanta a formação obrigatória e adequada dos profissionais de saúde nesta área, a formação específica das forças de polícia que permita a identificação e atuação adequada na intervenção com as vítimas de violência de género, nomeadamente de MGF/C, e a preparação das autoridades judiciárias nas dinâmicas que caracterizam todas as formas de violência contra as mulheres, garantindo a maior eficácia da investigação dos crimes e instrução do processo.
+10 - Promova, em articulação com os agrupamentos de centros de saúde, as autarquias locais e as ONG, a elaboração e implementação de planos de ação locais e de protocolos de atuação entre as diversas organizações locais, públicas e da sociedade civil, com vista a alargar o projeto «Práticas Saudáveis: Fim à Mutilação Genital Feminina», desenvolvido na Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., a todas as administrações regionais de saúde.
+11 - Implemente a obrigatoriedade de registo de dados de MGF/C em todas as unidades de saúde, garantindo também a possibilidade de registo por parte dos profissionais de saúde do setor privado.
+12 - Garanta respostas de acompanhamento médico e psicológico especializado a todas as pessoas que tenham sido alvo ou estado em risco de MGF/C.
+13 - Crie redes locais integradas de combate e prevenção da MGF/C, envolvendo líderes e mediadores das comunidades que a praticam, desenvolvendo iniciativas públicas em estreita articulação com as ONG e restantes organizações da sociedade civil.
+14 - Crie uma rede de profissionais especializados, nomeadamente intérpretes e técnicos habilitados para o contacto e acompanhamento destas vítimas, em situações como diligências judiciais.
+15 - Intensifique a colaboração entre o sistema de justiça e as organizações da sociedade civil que trabalham as questões de MGF/C em Portugal, atendendo às especificidades culturais deste tipo de crime e à sensibilidade exigível aos profissionais no contacto com as vítimas.
+16 - Garanta procedimentos eficazes e céleres de referenciação e encaminhamento das vítimas de MGF/C para os diversos serviços de apoio.
+Aprovada em 3 de fevereiro de 2021.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+113996164
