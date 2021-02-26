@@ -11,3 +11,7 @@
 4 - [Revogado].
 
 5 - A revalorização obtém-se por aplicação às remunerações anuais consideradas para o cálculo da remuneração de referência do coeficiente correspondente a cada um dos anos.
+
+6 - Sempre que da aplicação do disposto nos números anteriores resulte uma atualização negativa dos coeficientes de revalorização das remunerações consideradas para a determinação da remuneração de referência, é suspensa a atualização anual e mantêm-se em vigor os coeficientes de revalorização aplicáveis no ano anterior.
+
+7 - A revalorização das remunerações nos anos seguintes àqueles em que se verifique o disposto no número anterior é deduzida dos efeitos da desvalorização ocorrida, até que esta seja compensada.

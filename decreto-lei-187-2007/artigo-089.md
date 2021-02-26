@@ -13,3 +13,5 @@ b) O prazo, não inferior a 10 dias, para o requerente se pronunciar e fazer pro
 c) A consequência de indeferimento do pedido, caso o requerente não proceda à comprovação em falta até ao termo do prazo fixado.
 
 3 - Quando os elementos remetidos pelo beneficiário não permitam a verificação das condições de atribuição das pensões, há lugar ao indeferimento do pedido devidamente fundamentado.
+
+4 - A notificação a que se refere o n.º 2 pode ser efetuada através do sistema de notificações eletrónicas da segurança social sempre que o requerimento tenha sido entregue através da segurança social direta.
