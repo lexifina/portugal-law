@@ -1,0 +1,8 @@
+Aviso n.º 3630/2021
+Sumário: Alteração do Regulamento de Atribuição de Tarifário Social.
+Alteração do Regulamento de atribuição de tarifário social
+Pedro Daniel Machado Gomes, Presidente da Câmara Municipal de Lousada, faz saber que, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, em cumprimento e para efeitos do disposto no artigo 56.º da mesma Lei, e ainda nos termos do n.º 1 do artigo 101.º do Código do Procedimento Administrativo (CPA) aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, inicia com a presente publicação o período de discussão pública da proposta de alteração do regulamento de atribuição de tarifário social para os serviços de abastecimento de água (AA), saneamento (AR) e RSU.
+A referida proposta encontra -se disponível para consulta no sítio eletrónico do Município e no Balcão Único, de segunda-feira a sexta-feira durante o horário de expediente (das 9:00 às 17:30 horas). No âmbito da participação pública, e nos termos do disposto no artigo 101.º do CPA, os interessados devem dirigir, por escrito, as suas sugestões à Câmara Municipal de Lousada - Praça Dr. Francisco Sá carneiro 4620-695 Lousada ou entregues pessoalmente no período normal de expediente (das 9h00 às 12h00 e das 14h00 às 16:00), na Frente de Atendimento ou via digital através do endereço eletrónico cm-lousada@cm-lousada.pt, no prazo de 30 (trinta) dias, a contar da data da publicação do projeto do regulamento.
+Para constar se mandou passar o presente aviso e outros de igual teor que vão ser afixados nos locais de estilo e no site do Município.
+11 de fevereiro de 2021. - O Presidente da Câmara, Pedro Daniel Machado Gomes, Dr.
+313977397
