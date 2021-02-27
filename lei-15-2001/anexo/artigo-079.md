@@ -1,6 +1,6 @@
 # Artigo 79.º
 
-### Requisitos da decisão que aplica a coima
+### Requisitos da decisão que aplica a coima e respetiva notificação
 
 1 - A decisão que aplica a coima contém:
 
@@ -16,6 +16,6 @@ e) A indicação do destino das mercadorias apreendidas;
 
 f) A condenação em custas.
 
-2 - A notificação da decisão que aplicou a coima contém, além dos termos da decisão e do montante das custas, a advertência expressa de que, no prazo de 20 dias, o infractor deve efectuar o pagamento ou recorrer judicialmente, sob pena de se proceder à sua cobrança coerciva.
+2 - A notificação da decisão que aplicou a coima contém, além dos termos da decisão e do montante das custas, a advertência expressa de que, no prazo de 30 dias, o infrator deve efetuar o pagamento ou recorrer judicialmente, sob pena de se proceder à sua cobrança coerciva.
 
 3 - A notificação referida no número anterior é sempre da competência do serviço tributário referido no artigo 67.º

@@ -22,14 +22,20 @@ b) Quando tenha havido desvio do fim pressuposto no regime aduaneiro aplicado à
 
 c) Quando forem utilizadas ou modificadas ilicitamente mercadorias em regime de domiciliação antes do desembaraço aduaneiro ou as armazenar em locais diversos daqueles para os quais foi autorizada a descarga, de modo a impedir ou dificultar a acção aduaneira, sem prejuízo da suspensão do regime prevista nas leis aduaneiras;
 
-d) Quando, através de diversos formulários de despacho, se proceder à importação de componentes separados de um determinado artefacto que, após montagem no País, formem um produto novo, desde que efectuado com a finalidade de iludir a percepção da prestação tributária devida pela importação do artefacto acabado ou se destine a subtrair o importador aos efeitos das normas sobre contingentação de mercadorias.
+d) Quando, através de diversos formulários de despacho, se proceder à importação de componentes separados de um determinado artefacto que, após montagem no País, formem um produto novo, desde que efectuado com a finalidade de iludir a percepção da prestação tributária devida pela importação do artefacto acabado ou se destine a subtrair o importador aos efeitos das normas sobre contingentação
 
-4 - (Revogado).
+de mercadorias.
+
+4 – (Revogado pela Lei n.º 22-A/2007, de 29 de Junho).
 
 5 - A mesma coima é aplicável a infracções praticadas no âmbito dos regimes especiais de admissão ou importação, com quaisquer isenções, de bens destinados a fins sociais, culturais ou filantrópicos, quando forem afectos ou cedidos a terceiros, ao comércio ou a outros fins, em violação do respectivo regime.
 
-6 - A mesma coima é, ainda, aplicável a quem, à entrada ou saída do território nacional, violar o dever legal de declaração de montante de dinheiro líquido, como tal definido na legislação comunitária e nacional, igual ou superior a (euro) 10000, transportado por si e por viagem.
+6 - Incorre ainda na prática de descaminho, punível com coima de (euro) 1 000 a (euro) 165 000, quem, à entrada ou saída do território nacional, não cumprir o dever legal de declaração de montante de dinheiro líquido, como tal definido na legislação comunitária e nacional, igual ou superior a (euro) 10 000, transportado por si e por viagem.
 
-7 - Considera-se que esse dever não foi cumprido quando a informação constante do formulário não esteja correcta ou esteja incompleta, salvo quando os elementos incorrectos ou em falta possam ser supridos ou mandados suprir ao declarante, no acto de controlo, e as inexactidões ou omissões não sejam culposas.
+7 - A mesma coima é aplicável a quem violar a obrigação de comunicar à Autoridade Tributária e Aduaneira as informações prévias legalmente exigíveis, à chegada ou à partida das mercadorias, em cumprimento de medidas restritivas internacionais, se outra infração mais grave lhe não couber.
 
-8 - A tentativa é punível.
+8 - Considera-se que esse dever não foi cumprido quando a informação constante do formulário não esteja correcta ou esteja incompleta, salvo quando os elementos incorrectos ou em falta possam ser supridos ou mandados suprir ao declarante, no acto de controlo, e as inexactidões ou omissões não sejam culposas.
+
+9 - À violação do dever de declaração de dinheiro líquido não é possível a aplicação da redução de coima prevista no artigo 30.º, devendo ser sempre instaurado processo de contraordenação que garanta, em qualquer caso, a suscetibilidade de apreensão do dinheiro, prevista no n.º 5 do artigo 73.º
+
+10 - A tentativa é punível.

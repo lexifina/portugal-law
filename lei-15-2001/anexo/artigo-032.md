@@ -1,13 +1,9 @@
 # Artigo 32.º
 
-### Dispensa e atenuação especial das coimas
+### Atenuação especial das coimas
 
-1 - Para além dos casos especialmente previstos na lei, pode não ser aplicada coima, desde que se verifiquem cumulativamente as seguintes circunstâncias:
+1 - A coima pode ser especialmente atenuada a pedido do infrator, no prazo concedido para a defesa, caso este reconheça a sua responsabilidade e, no mesmo prazo, regularize a situação tributária.
 
-a) A prática da infracção não ocasione prejuízo efectivo à receita tributária;
+2 - Quando houver lugar à atenuação especial da coima, os limites máximo e mínimo da coima são reduzidos para metade, não podendo resultar um valor inferior ao que resultaria da aplicação do artigo 30.º, nem ser inferior a 25 (euro).
 
-b) Estar regularizada a falta cometida;
-
-c) A falta revelar um diminuto grau de culpa.
-
-2 - Independentemente do disposto no n.º 1, a coima pode ser especialmente atenuada no caso de o infractor reconhecer a sua responsabilidade e regularizar a situação tributária até à decisão do processo.
+3 - Quando a reduzida gravidade da infração e da culpa do agente o justifique, pode a entidade competente limitar-se a proferir uma admoestação.

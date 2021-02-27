@@ -6,4 +6,4 @@
 
 2 - Se o fundamento exclusivo do recurso for matéria de direito, é directamente interposto para a Secção de Contencioso Tributário do Supremo Tribunal Administrativo.
 
-3 - O recurso é interposto no prazo de 20 dias a contar da notificação do despacho, da audiência do julgamento ou, caso o arguido não tenha comparecido, da notificação da sentença.
+3 - O recurso é interposto no prazo de 30 dias a contar da notificação do despacho, da audiência do julgamento ou, caso o arguido não tenha comparecido, da notificação da sentença.
