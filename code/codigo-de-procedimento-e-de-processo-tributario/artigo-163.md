@@ -10,7 +10,7 @@ b) Assinatura da entidade emissora ou promotora da execução, por chancela nos 
 
 c) Data em que foi emitido;
 
-d) Nome e domicílio do ou dos devedores;
+d) Nome e número de contribuinte do ou dos devedores;
 
 e) Natureza e proveniência da dívida e indicação do seu montante.
 

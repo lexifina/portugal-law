@@ -8,7 +8,7 @@
 
 1 - As dívidas exigíveis em processo executivo podem ser pagas em prestações mensais e iguais, mediante requerimento a dirigir, até à marcação da venda, ao órgão da execução fiscal.
 
-2 - O disposto no número anterior não é aplicável às dívidas de recursos próprios comunitários e às dívidas resultantes da falta de entrega, dentro dos respectivos prazos legais, de imposto retido na fonte ou legalmente repercutido a terceiros, salvo em caso de falecimento do executado.
+2 - O disposto no número anterior não é aplicável às dívidas resultantes da falta de entrega, dentro dos respetivos prazos legais, de imposto retido na fonte ou legalmente repercutido a terceiros, salvo em caso de falecimento do executado.
 
 3 - É excepcionalmente admitida a possibilidade de pagamento em prestações das dívidas referidas no número anterior, sem prejuízo da responsabilidade contra-ordenacional ou criminal que ao caso couber, quando:
 
@@ -16,9 +16,7 @@ a) O pagamento em prestações se inclua em plano de recuperação no âmbito de
 
 b) Se demonstre a dificuldade financeira excecional e previsíveis consequências económicas gravosas, não podendo o número das prestações mensais exceder 24 e o valor de qualquer delas ser inferior a 1 unidade de conta no momento da autorização.
 
-4 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações em caso algum exceder 36 e o valor de qualquer delas ser inferior a 1 unidade de conta no momento
-
-da autorização.
+4 - O pagamento em prestações é autorizado desde que se verifique que o executado pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações em caso algum exceder 36 e o valor de qualquer delas ser inferior a um quarto da unidade de conta no momento da autorização, exceto se demonstrada a falsidade da situação económica que fundamenta o pedido.
 
 5 - Nos casos em que se demonstre notória dificuldade financeira e previsíveis consequências económicas para os devedores, poderá ser alargado o número de prestações mensais até 5 anos, se a dívida exequenda exceder 500 unidades de conta no momento da autorização, não podendo então
 

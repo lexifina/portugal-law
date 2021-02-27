@@ -27,3 +27,5 @@
 12 - A administração fiscal disponibiliza no seu serviço na Internet os documentos electrónicos de notificação e citação a cada sujeito passivo.
 
 13 - As notificações por transmissão eletrónica de dados previstas no n.º 9 podem conter apenas um resumo da fundamentação dos atos notificados, desde que remetam expressamente para uma fundamentação completa disponível a cada sujeito passivo na área reservada do Portal das Finanças.
+
+14 - Sem prejuízo do disposto nos n.os 8 e 9, as notificações a entidades bancárias, relativas a pedidos de informação financeira ou outros atos e diligências no âmbito do processo de execução fiscal, podem ser realizadas através da plataforma informática de registos e transmissão de ofícios protocolada entre o Banco de Portugal e as autoridades públicas ou outras entidades requerentes.

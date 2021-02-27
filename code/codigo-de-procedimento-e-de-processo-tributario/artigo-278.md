@@ -27,3 +27,7 @@ f) Falta de fundamentação da decisão relativa à apensação.
 6 - A reclamação referida no n.º 3 suspende os efeitos do ato reclamado e segue as regras dos processos urgentes.
 
 7 - Considera-se haver má fé, para efeitos de tributação em sanção pecuniária por esse motivo, a apresentação do pedido referido no n.º 3 do presente artigo sem qualquer fundamento razoável.
+
+8 - Com a remessa para o tribunal tributário de 1.ª instância, a execução fica suspensa até à decisão do pleito, desde que a reclamação tenha por objeto matéria que afete a totalidade da tramitação da execução.
+
+9 - Quando a reclamação incida apenas sobre parte do processo de execução fiscal, o processo suspende-se apenas quanto a esta parte.

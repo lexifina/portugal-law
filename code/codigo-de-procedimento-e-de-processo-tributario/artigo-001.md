@@ -14,7 +14,7 @@
 
 ### Âmbito
 
-O presente Código aplica-se, sem prejuízo do disposto no direito comunitário, noutras normas de direito internacional que vigorem directamente na ordem interna, na lei geral tributária ou em legislação especial, incluindo as normas que regulam a liquidação e cobrança dos tributos parafiscais:
+O presente Código aplica-se, sem prejuízo do disposto no direito da União Europeia, noutras normas de direito internacional que vigorem diretamente na ordem interna, na lei geral tributária ou em legislação especial, incluindo as normas que regulam a liquidação e cobrança dos tributos parafiscais:
 
 a) Ao procedimento tributário;
 

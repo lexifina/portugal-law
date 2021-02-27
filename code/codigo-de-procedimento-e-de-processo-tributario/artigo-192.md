@@ -2,7 +2,7 @@
 
 ### Citações pessoal e edital
 
-1 - As citações pessoais são efectuadas nos termos do Código de Processo Civil, sem prejuízo, no que respeita à citação por transmissão electrónica de dados, do disposto nos n.os 4 e 5 do artigo anterior.
+1 - As citações pessoais são efetivadas nos termos do Código de Processo Civil, em tudo o que não for especialmente regulado no presente Código.
 
 2 - No caso de a citação pessoal ser efectuada mediante carta registada com aviso de recepção e este vier devolvido ou não vier assinado o respectivo aviso por o destinatário ter recusado a sua assinatura ou não ter procedido, no prazo legal, ao levantamento da carta no estabelecimento postal e não se comprovar que o contribuinte comunicou a alteração do seu domicílio ou sede fiscal, nos termos do artigo 43.º, é repetida a citação, enviando-se nova carta registada com aviso de recepção ao citando, advertindo-o da cominação prevista no número seguinte.
 
