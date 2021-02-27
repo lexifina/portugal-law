@@ -10,7 +10,7 @@
 
 ### Competência material e territorial
 
-1 - São competentes para a prática dos atos de inspeção tributária, nos termos da lei, os seguintes serviços da Autoridade Tributária e Aduaneira:
+1 - São competentes para o procedimento de inspeção tributária, nos termos da lei, os seguintes serviços da Autoridade Tributária e Aduaneira:
 
 a) A Unidade dos Grandes Contribuintes, relativamente aos sujeitos passivos que de acordo com os critérios definidos sejam considerados como grandes contribuintes;
 
@@ -19,3 +19,5 @@ b) As direções de serviços de inspeção tributária que nos termos da orgân
 c) As unidades orgânicas desconcentradas, relativamente aos sujeitos passivos e demais obrigados tributários com domicílio ou sede fiscal na sua área territorial.
 
 2 - (Revogado.)
+
+3 - A competência prevista na alínea c) do n.º 1, pode ainda ser exercida por qualquer outra unidade orgânica desconcentrada mediante despacho do diretor-geral da Autoridade Tributária e Aduaneira, com possibilidade de delegação, sem possibilidade de subdelegação.

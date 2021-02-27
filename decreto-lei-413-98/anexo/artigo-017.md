@@ -2,4 +2,4 @@
 
 ### Extensão da competência
 
-Os actos de inspecção podem estender-se a áreas territoriais diversas das previstas no artigo anterior ou ser efectuados por outro serviço, mediante decisão fundamentada da entidade que os tiver ordenado.
+Os atos de inspeção podem estender-se a áreas territoriais diversas das previstas no artigo anterior ou ser efetuados por outro serviço, mediante decisão fundamentada do diretor de finanças competente.

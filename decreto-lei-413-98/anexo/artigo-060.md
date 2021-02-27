@@ -16,4 +16,4 @@
 
 3 - A entidade inspeccionada pode pronunciar-se por escrito ou oralmente, sendo neste caso as suas declarações reduzidas a termo.
 
-4 - No prazo de 10 dias após a prestação das declarações referidas no número anterior, será elaborado o relatório definitivo.
+4 - Revogado.
