@@ -14,8 +14,8 @@
 
 ### Âmbito de aplicação
 
-1 - A presente lei regula as relações jurídico-tributárias, sem prejuízo do disposto no direito comunitário e noutras normas de direito internacional que vigorem directamente na ordem interna ou em legislação especial.
+1 - A presente lei regula as relações jurídico-tributárias, sem prejuízo do disposto no direito da União Europeia e noutras normas de direito internacional que vigorem diretamente na ordem interna ou em legislação especial.
 
 2 - Para efeitos da presente lei, consideram-se relações jurídico-tributárias as estabelecidas entre a administração tributária, agindo como tal, e as pessoas singulares e colectivas e outras entidades legalmente equiparadas a estas.
 
-3 - Integram a administração tributária, para efeitos do número anterior, a Direcção-Geral dos Impostos, a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, a Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros, as demais entidades públicas legalmente incumbidas da liquidação e cobrança dos tributos, o Ministro das Finanças ou outro membro do Governo competente, quando exerçam competências administrativas no domínio tributário, e os órgãos igualmente competentes dos Governos Regionais e autarquias locais.
+3 - Integram a administração tributária, para efeitos do número anterior, a Autoridade Tributária e Aduaneira, as demais entidades públicas legalmente incumbidas da liquidação e cobrança dos tributos, o Ministro das Finanças ou outro membro do Governo competente, quando exerçam competências administrativas no domínio tributário, e os órgãos igualmente competentes dos Governos Regionais e das autarquias locais.
