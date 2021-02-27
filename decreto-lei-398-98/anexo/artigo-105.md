@@ -2,4 +2,4 @@
 
 ### Alçadas
 
-A alçada dos tribunais tributários corresponde àquela que se encontra estabelecida para os tribunais judiciais de 1.ª instância.
+A alçada dos tribunais tributários corresponde àquela que se encontra estabelecida no Estatuto dos Tribunais Administrativos e Fiscais.
