@@ -1,0 +1,27 @@
+## Secção II
+
+## Da petição
+
+# Artigo 102.º
+
+### Impugnação judicial. Prazo de apresentação
+
+1 - A impugnação será apresentada no prazo de três meses contados a partir dos factos seguintes:
+
+a) Termo do prazo para pagamento voluntário das prestações tributárias legalmente notificadas ao contribuinte;
+
+b) Notificação dos restantes atos tributários, mesmo quando não deem origem a qualquer liquidação;
+
+c) Citação dos responsáveis subsidiários em processo de execução fiscal;
+
+d) Formação da presunção de indeferimento tácito;
+
+e) Notificação dos restantes atos que possam ser objeto de impugnação autónoma nos termos deste Código;
+
+f) Conhecimento dos atos lesivos dos interesses legalmente protegidos não abrangidos nas alíneas anteriores.
+
+2 - (Revogado.)
+
+3 - Se o fundamento for a nulidade, a impugnação pode ser deduzida a todo o tempo.
+
+4 - O disposto neste artigo não prejudica outros prazos especiais fixados neste Código ou noutras leis tributárias.

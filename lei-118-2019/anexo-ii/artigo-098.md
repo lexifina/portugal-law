@@ -1,0 +1,23 @@
+## Secção II
+
+## Das nulidades do processo judicial tributário
+
+# Artigo 98.º
+
+### Nulidades insanáveis
+
+1 - São nulidades insanáveis em processo judicial tributário:
+
+a) A ineptidão da petição inicial;
+
+b) A falta de informações oficiais referentes a questões de conhecimento oficioso no processo;
+
+c) A falta de notificação do despacho que admitir o recurso aos interessados, se estes não alegarem.
+
+2 - As nulidades referidas no número anterior podem ser oficiosamente conhecidas ou deduzidas a todo o tempo até ao trânsito em julgado da decisão final.
+
+3 - As nulidades dos atos têm por efeito a anulação dos termos subsequentes do processo que deles dependam absolutamente, devendo sempre aproveitar-se as peças úteis ao apuramento dos factos.
+
+4 - Em caso de erro na forma do processo, este será convolado na forma do processo adequada, nos termos da lei.
+
+5 - Sem prejuízo dos demais casos de regularização da petição, esta pode ser corrigida a convite do tribunal em caso de errada identificação do autor do ato impugnado, salvo se o erro for manifestamente indesculpável.
