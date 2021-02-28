@@ -2,7 +2,7 @@
 
 ### Âmbito
 
-1 - São abrangidas pelas presentes disposições as operações que se encontrem em curso à data de produção de efeitos do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua atual redação, e que ainda não tenham concluído fisicamente as atividades nelas previstas, de acordo com o respetivo cronograma aprovado, e até à cessação desta situação excecional, nos termos legalmente previstos.
+1 - São abrangidas pelas presentes disposições as operações que se encontrem em curso à data da determinação da suspensão das atividades financiadas pelo FSE, pelas autoridades competentes, decorrente de declaração de estado de emergência, e que ainda não tenham concluído fisicamente as atividades nelas previstas, de acordo com o respetivo cronograma aprovado, e até à cessação dessa situação excecional, nos termos legalmente previstos.
 
 2 - São ainda abrangidas as operações fisicamente concluídas que se encontrem no período de verificação das condições associadas aos indicadores de resultado contratualizados.
 
