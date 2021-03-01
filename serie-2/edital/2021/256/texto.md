@@ -1,0 +1,8 @@
+Edital n.º 256/2021
+Sumário: Regulamento de Apoio à Esterilização, Identificação e Vacinação de Animais de Companhia.
+Regulamento de Apoio à Esterilização, Identificação e Vacinação de Animais de Companhia
+António José Fernandes Barbosa, Presidente da Câmara Municipal de Monção, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, torna público que a Assembleia Municipal de Monção, na sua sessão ordinária de 23 de dezembro de 2020, no uso da competência prevista na alínea g) do n.º 1 do artigo 25.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, aprovou o Regulamento de Apoio à Esterilização, Identificação e Vacinação de Animais de Companhia, sob proposta da Câmara Municipal de Monção aprovada na reunião ordinária de 28 de outubro de 2020, no uso da competência que lhe confere a alínea k) do n.º 1 do artigo 33.º do Anexo I da Lei n.º 75/2013, de 12 de setembro.
+Mais torna público que o projeto de Regulamento de Apoio à Esterilização, Identificação e Vacinação de Animais de Companhia foi objeto de consulta pública pelo período de 30 dias, previsto no artigo 101.º do Código do Procedimento Administrativo, e publicado na 2.ª série do Diário da República de 4 de setembro de 2020.
+O referido Regulamento entrará em vigor 5 dias após a publicação do presente edital no Diário da República. Para conhecimento geral publica-se este edital e outros de igual teor, que vão ser afixados no edifício do Loreto e nos habituais locais de estilo do concelho de Monção, no Diário da República e no sítio da Internet do Município de Monção.
+12 de fevereiro de 2021. - O Presidente da Câmara Municipal, António José Fernandes Barbosa.
+313985634
