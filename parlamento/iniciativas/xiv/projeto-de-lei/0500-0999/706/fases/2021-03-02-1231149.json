@@ -1,0 +1,202 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "706",
+    "id": "110386",
+    "titulo": "Delimita as circunstâncias em que deve ser removido ou impossibilitado o acesso em ambiente digital a  conteúdos protegidos, bem como  os procedimentos e meios para alcançar tal resultado"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2021-03-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "50304",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-03-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-06-02",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo  - Associação Portuguesa de Defesa de Obras Audiovisuais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793831596a5a695a5759355a4330355a6d566d4c54526b5a4467744f5468694d79316d4d6d59324d7a5133593259334e3255756347526d&fich=5b6bef9d-9fef-4dd8-98b3-f2f6347cf77e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - ANSOL - Associação Nacional para o Software Livre",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d4459355954646c5a4330344f544d344c54526a5a4449744f57566b4f5330334e6d5a684e54466d5a4745314d5749756347526d&fich=5069a7ed-8938-4cd2-9ed9-76fa51fda51b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - APRITEL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d4746695a57566c4f4330774f446c684c5451795a574d744f5467774e4331684e5459794e545535596a67794d4751756347526d&fich=70abeee8-089a-42ec-9804-a562559b820d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Sociedade Portuguesa de Autores ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e544e684e6a64684f43316c5a6a6c6d4c5451304e7a41744f4451304f43316b5957526c4d7a51334f475268597a4d756347526d&fich=053a67a8-ef9f-4470-8448-dade3478dac3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-16",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo AUDIOGEST em representação de Várias Entidades",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e6a45795a6a4d345a5330304e7a6b7a4c54526b4f445574596d566a4e6930345a546c6b5a545a6b5957517759544d756347526d&fich=f612f38e-4793-4d85-bec6-8e9de6dad0a3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Associação Portuguesa de Marketing Directo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d4756684e4467344e4330774f445a6a4c5451345a575174595441784d7930784f47566b5a4445314e5755785a57457555455247&fich=20ea4884-086c-48ed-a013-18edd155e1ea.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a595441334e44593359533035596a41354c5451345a6a5174596a63354e79316b4d4459784d7a6b334e7a566a4d5467756347526d&fich=3a07467a-9b09-48f4-b797-d06139775c18.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-29",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d54677a4e5759324f43316a4f57466b4c5451774d3259745954566b4d7930314e7a426b595752694f4749784e4445756347526d&fich=a1835f68-c9ad-403f-a5d3-570dadb8b141.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-22",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Inspeção-Geral das Atividades Culturais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e544e68597a4a6b4e533035596d51314c54517959574d74596a426c4e533032595441334e6d526d4d44457a4d7a55756347526d&fich=753ac2d5-9bd5-42ac-b0e5-6a076df01335.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-16",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e6a4a6d4e475a6b4e43316c597a4e694c5452695a4751744f4451314f4330304d6a646a5a545a6a4d6d526b4e5451756347526d&fich=e62f4fd4-ec3b-4bdd-8458-427ce6c2dd54.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793968596d5a695a6a41774d6930324e6d45784c54526d5a6a41744f575579597930774e7a63795a6d4530595446694f444d756347526d&fich=abfbf002-66a1-4ff0-9e2c-0772fa4a1b83.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Facebook",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832596a67334d44466a5979316b4d7a4d774c5451795a445574596a41344d69316c4e544d315a5441345a6a6c6d4e6d51756347526d&fich=6b8701cc-d330-42d5-b082-e535e08f9f6d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-05-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Google Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d6d49345a6d4a694d79316c595451334c545268596a4d744f445a6c595331684e4451775954646b5a47466c5a6a45756347526d&fich=72b8fbb3-ea47-4ab3-86ea-a440a7ddaef1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer Associação D3 - Defesa dos Direitos Digitais ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a57526c4e6a4d334e4330334e4449344c54526d4e574d7459544e6a5a43316b5a47497a4d6a426a4e6a4a69596a59756347526d&fich=5ede6374-7428-4f5c-a3cd-ddb320c62bb6.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7264",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "7264",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2021-03-29"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2021-04-08"
+          },
+          {
+            "link": "",
+            "nome": "Inspeção Geral das Atividades Culturais em 2021-03-22"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2021-03-03"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2021-03-03"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2021-03-03"
+          },
+          {
+            "link": "",
+            "nome": "Inspeção Geral das Atividades Culturais em 2021-03-03"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "6176",
+            "motivoCessacao": null,
+            "nome": "Sara Madruga da Costa"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-03-02",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1231149",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
