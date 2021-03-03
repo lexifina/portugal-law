@@ -1,0 +1,133 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "42",
+    "id": "45732",
+    "titulo": "Decreto-Lei n.º 6-E/2021, de 15 de janeiro, estabelece mecanismos de apoio no âmbito do estado de emergência"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2021-03-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2021-03-03",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1231263",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "917019",
+        "obs": null,
+        "pag": [
+          "65-67"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-03-04",
+        "pubLeg": "XIV",
+        "pubNr": "48",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/048/2021-03-04/65?pgs=65-67&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-03-03",
+        "descricao": "Proposta de alteração do PCP – aditamento do artigo 3.º-A",
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> CH</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>",
+        "id": "90226",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "48",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2021-03-03",
+        "descricao": "Proposta de alteração do BE – aditamento do artigo 3.º-A\n• N.ºs 1 e 2",
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> CH</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PSD</I>, <I> IL</I>",
+        "id": "90227",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "48",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2021-03-03",
+        "descricao": "Proposta de alteração do BE – aditamento do artigo 3.º-A\n• N.ºs 3 e 4",
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> CH</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I><BR>Abstenção:<I>IL</I>",
+        "id": "90228",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "48",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2021-03-03",
+        "descricao": "Proposta de alteração do BE – aditamento do artigo 3.º-B\n",
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> CH</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> IL</I>",
+        "id": "90229",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "48",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2021-03-03",
+        "descricao": "Proposta de alteração do BE – aditamento do artigo 3.º-C",
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I><BR>Contra:<I>PS</I>, <I> PSD</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "90230",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "48",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2021-03-03",
+        "descricao": "Proposta de alteração do BE – aditamento do artigo 3.º-D",
+        "detalhe": "A Favor: <I>PSD</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> CH</I>, <I> IL</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I>, <I> Cristina Rodrigues (Ninsc)</I>",
+        "id": "90231",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "48",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
