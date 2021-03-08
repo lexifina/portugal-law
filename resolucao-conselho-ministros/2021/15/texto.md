@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 15/2021
+Sumário: Atribui uma indemnização compensatória à Lusa - Agência de Notícias de Portugal, S. A., e à Parque Escolar, E. P. E.
+O Orçamento do Estado para 2021, aprovado pela Lei n.º 75-B/2020, de 31 de dezembro, contempla dotações a atribuir a empresas que prestam serviço público.
+Nesta conformidade, a referida distribuição tem em conta os regimes legais, bem como os compromissos concretos assumidos pelo Estado nas áreas da cultura e de educação, relativos à prestação de serviço público, referente ao 1.º semestre de 2021.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do artigo 43.º do Decreto-Lei n.º 84/2019, de 28 de junho, do Decreto-Lei n.º 167/2008, de 26 de agosto, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Atribuir à Lusa - Agência de Notícias de Portugal, S. A., a título de indemnização compensatória, pelo cumprimento das obrigações do serviço noticioso e informativo de interesse público, durante o 1.º semestre de 2021 ou até a entrada em vigor do Contrato de Prestação de Serviço Noticioso e Informativo de Interesse Público a celebrar com o Estado no corrente ano, um valor mensal de (euro) 1 346 260,92, até ao montante máximo de (euro) 8 077 565,50, com o IVA incluído à taxa legal em vigor, e autorizar a realização da respetiva despesa pela Direção-Geral do Tesouro e Finanças.
+2 - Atribuir à Parque Escolar, E. P. E., como contrapartida pela prestação de serviços de interesse público a cargo daquela entidade pública empresarial no âmbito do Programa de Modernização das infraestruturas escolares, durante o 1.º semestre de 2021 ou até à entrada em vigor da Adenda a celebrar com o Estado no corrente ano, um valor mensal de (euro) 10 191 579,65, até ao limite máximo de (euro) 61 149 478,50, com o IVA incluído à taxa legal em vigor e autorizar a realização da respetiva despesa pelos Estabelecimentos de Educação e Ensino Básico e Secundário.
+3 - Determinar que os encargos financeiros decorrentes dos n.os 1 e 2 são satisfeitos, respetivamente, por verbas inscritas no capítulo 60 do Ministério das Finanças e no orçamento dos Estabelecimentos de Educação e Ensino Básico e Secundário.
+4 - Determinar que as transferências a que se referem os n.os 1 e 2 pressupõem a observância das condições de prestação do serviço público que as justificam.
+5 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 25 de fevereiro de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+114038218
