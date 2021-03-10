@@ -1,0 +1,177 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13587",
+  "numero": "218",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-03-10",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-06-02",
+            "entidades": null,
+            "id": "127107",
+            "tipo": null,
+            "titulo": "Audição em 2021-06-02 com Sindicato Nacional do Ensino Superior - SNESup"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-06-09",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915084",
+                "obs": null,
+                "pag": [
+                  "10-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-18",
+                "pubLeg": "XIV",
+                "pubNr": "51",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/051/2021-06-18/10?pgs=10-13&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-04-06",
+        "DataArquivo": "2021-06-09",
+        "DataBaixaComissao": "2021-03-17",
+        "DataEnvioPAR": "2021-06-17",
+        "DataReaberta": "2021-04-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4e546c694d6d466d4e53316d4e7a4e684c5452684d7a63744f44466c596930304d44686d4e6a5133593251304f4463756347526d&fich=d59b2af5-f73a-4a37-81eb-408f647cd487.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4d445a6b4e5749314f4330345a6a49304c54526a59325174595755775a5330305a474e6d596a45304e6a63784e7a63756347526d&fich=e06d5b58-8f24-4ccd-ae0e-4dcfb1467177.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938304e6a457a596a45345a4330774d6a6b354c545135597a4974596d49334e7931684d324d794d4749324f4445334d6a6b756347526d&fich=4613b18d-0299-49c2-bb77-a3c20b681729.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794d6a5578596d49335a4330795a444d334c5451305a6d49744f544978597930304d5463794f475a694e3245784e4459756347526d&fich=2251bb7d-2d37-44fb-921c-41728fb7a146.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793968595451784d6a63344d5330344e446b354c5451345a5755744f5751784e533169596d4530597a68684f5759315a5455756347526d&fich=aa412781-8499-48ee-9d15-bba4c8a9f5e5.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-06-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938304e4467304d4455324e6930305932466d4c5451774d6a59744f4749775a5330304d6a5534597a51344f4759314f4759756347526d&fich=44840566-4caf-4026-8b0e-4258c488f58f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-05-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4d7a6b314d54686d4d6931695a444a6b4c5452685a6d45744f4751774e43316c4e4759324f4459784f4459784d6d55756347526d&fich=e39518f2-bd2d-4afa-8d04-e4f68618612e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-04-06",
+            "gp": "PS",
+            "id": "6685",
+            "motivoCessacao": null,
+            "nome": "Eduardo Barroco de Melo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-03-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324a6d4e4449334d7a646d4c575a684e6a49744e444e6c4d5330354f5755324c54566b4e6d453159324e6b4d574d354d6935775a47593d&fich=bf42737f-fa62-43e1-99e6-5d6a5ccd1c92.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13587",
+    "PetAssunto": "Para que a Fundação para a Ciência e a Tecnologia (FCT) respeite e cumpra as leis nos concursos de projetos de IC&DT e Estímulo ao Emprego Científico Individual - 4.ª Edição ",
+    "PetDataEntrada": "2021-03-10",
+    "PeticoesAssociadas": null,
+    "PetId": "13587",
+    "PetLeg": "XIV",
+    "PetNr": "218",
+    "PetNrAssinaturas": "915",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
