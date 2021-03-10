@@ -1,3 +1,51 @@
+## Secção II
+
+## Pessoal de chefia tributária
+
+## Subsecção I
+
+## Recrutamento, nomeação e provimento
+
+## Subsecção II
+
+## Suspensão e cessação da comissão de serviço
+
+## Subsecção III
+
+## Substituição
+
+## Subsecção IV
+
+## Direitos e regalias do pessoal de chefia tributária
+
+## Subsecção V
+
+## Formação
+
+## Secção III
+
+## Do pessoal de carreiras do regime geral e de carreiras específicas da administração regional integrados na DRAF
+
+## Secção IV
+
+## Do pessoal de administração tributária - GAT
+
+## Subsecção I
+
+## Área funcional e estrutura
+
+## Subsecção II
+
+## Recrutamento para as categorias de ingresso
+
+## Subsecção III
+
+## Recrutamento para as categorias de acesso, mudança de nível e progressão
+
+## Subsecção IV
+
+## Regulamentação dos concursos e cursos
+
 ## Secção V
 
 ## De transferências e deslocações
