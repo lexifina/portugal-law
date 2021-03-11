@@ -1,0 +1,177 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13588",
+  "numero": "219",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-03-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-05-26",
+            "entidades": null,
+            "id": "117068",
+            "tipo": null,
+            "titulo": "Audição em 2021-05-26 com Peticionário da petição n.º 219/XIV/2.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-06-16",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915085",
+                "obs": null,
+                "pag": [
+                  "14-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-18",
+                "pubLeg": "XIV",
+                "pubNr": "51",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/051/2021-06-18/14?pgs=14-17&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-04-13",
+        "DataArquivo": "2021-06-16",
+        "DataBaixaComissao": "2021-03-17",
+        "DataEnvioPAR": "2021-06-17",
+        "DataReaberta": "2021-04-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-04-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938795a546377597a49784f5330315a544d344c5451305a6a6b745954646b4f5330774e545a6c59325a694f47466b4d5445756347526d&fich=2e70c219-5e38-44f9-a7d9-056ecfb8ad11.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938775a6a49785a545a6b4d5330305a474d334c5451334e475574595467784e7930344d6a46694d6a45324f545934596a63756347526d&fich=0f21e6d1-4dc7-474e-a817-821b216968b7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4f444269596a566c4f533031596a466c4c54526c4e7a63744f574a6d5a69316b4f44686c5a6d4a6b4f4467794e4463756347526d&fich=f80bb5e9-5b1e-4e77-9bff-d88efbd88247.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-06-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d6d55784e7a55354f4330794f5451354c54526c4d3249744f47457a4e4331685a5449314e7a59774d324a6b4e4441756347526d&fich=52e17598-2949-4e3b-8a34-ae257603bd40.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-04-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a4d444a6b596d4978596930304e6a566a4c5451795a6a6774596d5a6c4f43316d4d7a59304d4752695a6a686d4e3249756347526d&fich=c02dbb1b-465c-42f8-bfe8-f3640dbf8f7b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-05-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784f44677a4e6a6b314e5330324e7a63794c5451795a4463744f57457a4d4330784e6d566b4d7a5a685a6a646c5a4749756347526d&fich=18836955-6772-42d7-9a30-16ed36af7edb.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-04-13",
+            "gp": "PS",
+            "id": "5933",
+            "motivoCessacao": null,
+            "nome": "Carla Sousa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-04-09",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324a6b4e6d49344d5746684c5756685a5759744e4755314f5330354e7a526d4c5745784e6a646b596a59314d6a686b4d4335775a47593d&fich=bd6b81aa-eaef-4e59-974f-a167db6528d0.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-03-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a526a4d445a6d4d444d7a4c544d794e5441744e44417a5a6930354e44686b4c5449795954557a5a6d49334d5759784f4335775a47593d&fich=4c06f033-3250-403f-948d-22a53fb71f18.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13588",
+    "PetAssunto": "Professores portugueses, contratados, da Escola Portuguesa de Moçambique, solicitam a possibilidade de concorrerem na 1.ª prioridade no concurso em Portugal",
+    "PetDataEntrada": "2021-03-11",
+    "PeticoesAssociadas": null,
+    "PetId": "13588",
+    "PetLeg": "XIV",
+    "PetNr": "219",
+    "PetNrAssinaturas": "183",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
