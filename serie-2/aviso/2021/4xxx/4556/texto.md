@@ -1,0 +1,11 @@
+Aviso n.º 4556/2021
+Sumário: Abertura do período de discussão pública do Plano de Urbanização da Zona Industrial e Empresarial de Campo.
+Plano de Urbanização da Zona Industrial e Empresarial de Campo (PUZIEC) - Abertura do período de Discussão Pública
+José Manuel Ribeiro, Presidente da Câmara Municipal de Valongo, torna público que a Câmara Municipal deliberou, em reunião pública, de 18 de fevereiro de 2021, por unanimidade, aprovar a proposta do Plano de Urbanização da Zona Industrial e Empresarial de Campo (PUZIEC) e a abertura de um período de Discussão Pública de 20 dias, a ser anunciado com a antecedência mínima de cinco dias, nos termos do n.º 1 e n.º 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14/05, na sua versão atual.
+Durante o período de discussão pública, que se iniciará 5 dias após a publicação desta decisão municipal no Diário da República, poderão os interessados apresentar os seus contributos e sugestões sobre quaisquer questões que possam ser consideradas no âmbito do presente procedimento de elaboração, por escrito, dirigidas ao Presidente da Câmara Municipal, que podem ser entregues nos serviços de atendimento ao público da Câmara Municipal de Valongo, nos dias úteis das 09:00 h às 17:30 h, ou via postal, a serem remetidos para a Avenida 5 de Outubro, n.º 160, 4440-503 Valongo, ou, ainda, por correio eletrónico para gabmunicipe@cm-valongo.pt.
+A proposta do Plano de Urbanização da Zona Industrial e Empresarial de Campo (PUZIEC) está disponível para consulta na página do Município em www.cmvalongo.pt e nos serviços de atendimento ao público da Câmara Municipal de Valongo, sita na Avenida 5 de Outubro, n.º 160, 4440-503 Valongo.
+24 de fevereiro de 2021. - O Presidente da Câmara Municipal, José Manuel Ribeiro.
+Deliberação
+A Câmara Municipal deliberou, em reunião pública, de 18 de fevereiro de 2021, por unanimidade, aprovar a proposta do Plano de Urbanização da Zona Industrial e Empresarial de Campo (PUZIEC) e a abertura de um período de Discussão Pública de 20 dias, a ser anunciado com a antecedência mínima de cinco dias, nos termos do n.º 1 e n.º 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14/05, na sua versão atual.
+24 de fevereiro de 2021. - O Presidente da Câmara Municipal, José Manuel Ribeiro.
+614017822
