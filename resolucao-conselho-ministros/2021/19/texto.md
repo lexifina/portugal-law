@@ -1,0 +1,35 @@
+Resolução do Conselho de Ministros n.º 19/2021
+Sumário: Estabelece uma estratégia de levantamento de medidas de confinamento no âmbito do combate à pandemia da doença COVID-19.
+Ao longo do último ano, a situação epidemiológica verificada em Portugal tem vindo a exigir a adoção de várias medidas extraordinárias. Algumas destas medidas envolvem necessariamente a restrição de direitos e liberdades, em especial no que respeita aos direitos de circulação e às liberdades económicas.
+Nas últimas semanas o esforço dos portugueses permitiu a redução sustentada no número de novos casos diários de infetados com a doença COVID-19, verificando-se, de igual modo, uma redução do número de internados em hospitais e da taxa de ocupação das unidades de cuidados intensivos, tendo sido ultrapassados os critérios identificados pelos peritos como fundamentais para o controlo da pandemia.
+Atento o exposto, considera o Governo, ouvida a comunidade científica e atendendo à situação atual, que este é o momento para iniciar um processo de levantamento de medidas restritivas - embora respeitando a necessidade de o fazer de forma lenta e gradual e sem prejuízo de continuar a ser fundamental manter como prioridade o combate à pandemia - que habilite a retoma gradual de atividades, designadamente a atividade económica e da nossa vida em sociedade.
+No entanto, como já afirmado, é fundamental que o levantamento das medidas seja lento e gradual e que os efeitos das medidas na evolução da pandemia sejam sistematicamente avaliados, de forma a ser possível manter a doença controlada; só assim será possível controlar o aumento inevitável de novos casos de infeção a que este levantamento de medidas, ainda que lento e gradual, conduzirá.
+Nestes termos, é aprovada, pela presente resolução do Conselho de Ministros, uma estratégia de levantamento de medidas de confinamento no âmbito do combate à pandemia da doença COVID-19, sendo também fixado um calendário para as fases de desconfinamento, o qual pode ser alterado em função da evolução da situação epidemiológica.
+Deste modo, são definidos períodos de 15 dias entre cada fase de desconfinamento para permitir que sejam avaliados os impactos das medidas na evolução da pandemia. Por outro lado, são igualmente fixados critérios epidemiológicos orientadores da definição da evolução da estratégia, designadamente a incidência cumulativa a 14 dias por 100 000 habitantes e a tendência de crescimento ou decréscimo do número de novos casos. Por fim, é ainda estabelecido que devem considerar-se como critérios adicionais a existência de capacidade de resposta assistencial do Serviço Nacional de Saúde, designadamente em termos de acompanhamento, internamento e resposta de cuidados intensivos, e as capacidades adequadas de testagem e rastreio.
+Note-se, por fim, que estas medidas não prejudicam a adoção de condições específicas de funcionamento, designadamente regras de lotação, de utilização de equipamentos de proteção individual, distanciamento físico, de higienização regular dos espaços, das mãos e a etiqueta respiratória, bem como o cumprimento do dever de recolhimento domiciliário e de distanciamento físico.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar uma estratégia gradual de levantamento de medidas de confinamento no âmbito do combate à pandemia da doença COVID-19, constante do anexo i da presente resolução e da qual faz parte integrante.
+2 - Definir que a estratégia de levantamento de medidas de confinamento considera um período de 15 dias entre cada fase de desconfinamento para que sejam avaliados os impactos das medidas na evolução da pandemia, bem como os critérios epidemiológicos.
+3 - Considerar critérios epidemiológicos de definição de controlo da pandemia tendo em conta a evolução da avaliação do risco de transmissibilidade do vírus e do nível de incidência, com base na matriz de risco constante do anexo ii da presente resolução e da qual faz parte integrante, designadamente:
+a) A incidência cumulativa a 14 dias por 100 000 habitantes superior a 120/100 000;
+b) A incidência cumulativa a 14 dias por 100 000 habitantes superior a 240/100 000;
+c) O número de novos casos com tendência crescente (Rt (maior que) 1);
+d) O número de novos casos com tendência decrescente (Rt (menor que) 1).
+4 - Considerar ainda a existência de capacidade de resposta assistencial do Serviço Nacional de Saúde, designadamente em termos de:
+a) Acompanhamento, internamento e resposta de cuidados intensivos;
+b) Capacidades adequadas de testagem e rastreio.
+5 - Determinar que, em função dos critérios definidos nos n.os 3 e 4, o calendário previsto no anexo i da presente resolução, relativamente às diferentes fases de desconfinamento, pode ser alterado.
+6 - Definir que as medidas previstas no anexo i da presente resolução podem ser ajustadas no sentido de se aplicarem a nível local, tendo em conta a incidência.
+7 - Estabelecer que todas as medidas são acompanhadas de condições específicas de funcionamento, incluindo regras de lotação, de utilização de equipamentos de proteção individual, de agendamento e distanciamento físico, as quais acrescem às condições gerais para levantamento das medidas de confinamento, designadamente a higienização regular dos espaços, a higienização das mãos e a etiqueta respiratória, bem como a prática do dever de recolhimento domiciliário e de distanciamento físico, conforme determinado, designadamente, pelas orientações específicas da Direção-Geral da Saúde.
+8 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
+Presidência do Conselho de Ministros, 11 de março de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+ANEXO I
+(a que se referem os n.os 1, 5 e 6)
+
+(ver documento original)
+ANEXO II
+(a que se refere o n.º 3)
+
+(ver documento original)
+114066999
