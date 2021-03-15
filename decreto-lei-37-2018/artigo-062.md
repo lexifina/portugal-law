@@ -14,6 +14,6 @@
 
 4 - As outras entidades referidas nas alíneas a) e b) do artigo 26.º, que pretendam candidatar-se a apoio para promoção de soluções habitacionais destinadas a pessoas e agregados elegíveis ao abrigo do 1.º Direito, entregam igualmente os seus pedidos ao IHRU, I. P., com fundamentação do enquadramento das soluções pretendidas face ao diagnóstico global das carências habitacionais que tenham sido identificadas no território da localização dessas soluções.
 
-5 - As entidades referidas nas alíneas a), b) e c) do artigo 26.º, que pretendam candidatar-se a apoio para promoção de soluções habitacionais no âmbito da Bolsa Nacional de Alojamento Urgente e Temporário, destinadas a pessoas e agregados elegíveis ao abrigo do artigo 10.º, entregam os seus pedidos diretamente ao IHRU, I. P., não estando estas candidaturas sujeitas ao disposto no artigo 30.º
+5 - As entidades referidas nas alíneas a), b) e c) do artigo 26.º, que pretendam candidatar-se a apoio para promoção de soluções habitacionais no âmbito da Bolsa Nacional de Alojamento Urgente e Temporário, destinadas a pessoas e agregados elegíveis ao abrigo do artigo 10.º, independentemente da sua consideração numa Estratégia Local de Habitação ou na falta desta, entregam os seus pedidos diretamente ao IHRU, I. P., não estando estas candidaturas sujeitas ao disposto no artigo 30.º
 
 6 - Nos casos de soluções habitacionais em que os empréstimos ao abrigo do 1.º Direito são a conceder por uma instituição de crédito, essa informação deve constar do correspondente processo de candidatura.
