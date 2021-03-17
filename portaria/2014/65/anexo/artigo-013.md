@@ -12,4 +12,4 @@ a) Valor de produtividade constante na tabela de referência fixada pelo Gabinet
 
 b) Valor médio de produtividade obtido nos últimos três anos ou, em alternativa, nos últimos cinco anos, excluídos o valor mais elevado e o valor mais baixo, caso o agricultor tenha histórico de produtividade, devendo o tomador de seguros ou o segurado estar na posse e disponibilizar os documentos comprovativos da produtividade histórica obtida.
 
-4 - Se o preço declarado for igual ou superior a 20 % relativamente ao valor constante da tabela de referência mencionada na alínea a) do número anterior, o tomador de seguros ou o segurado devem estar na posse e disponibilizar, sempre que solicitado, documentos comprovativos do preço declarado.
+4 - Se o preço declarado for igual ou superior a 20 % relativamente ao valor constante da tabela de referência, fixada pelo Gabinete de Planeamento, Políticas e Administração Geral (GPP) e divulgada no respetivo portal em www.gpp.pt e no portal do IFAP, I. P., em www.ifap.pt, o tomador de seguros ou o segurado devem estar na posse e disponibilizar, sempre que solicitado, documentos comprovativos do preço declarado.

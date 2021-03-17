@@ -44,7 +44,7 @@ o) «Resseguro»: Mecanismo através do qual as empresas de seguros partilham pa
 
 p) «Segurado»: Pessoa ou entidade que é titular dos bens que constituem o objeto do seguro, ou que tem interesse em segurá-los, e que se encontra identificada nas condições particulares da apólice uniforme do seguro;
 
-q) «Seguro de colheitas»: Mecanismo que visa assegurar uma indemnização ao agricultor cujos rendimentos sejam afetados por fenómenos climáticos adversos, que destruam mais de 30 % da produção anual média do agricultor nos três anos anteriores ou da sua produção média em três dos cinco anos anteriores excluindo o valor mais alto e o valor mais baixo;
+q) 'Seguro de colheitas': mecanismo que visa assegurar uma indemnização ao agricultor cujos rendimentos sejam afetados por fenómenos climáticos adversos, que destruam mais de 20 % da produção anual média do agricultor nos três anos anteriores ou da sua produção média em três dos cinco anos anteriores, excluindo o valor mais alto e o valor mais baixo;
 
 r) «Seguro de colheitas horizontal»: Vertente do seguro de colheitas que visa abranger todas as culturas constantes do artigo 17.º em todo o território do continente;
 

@@ -10,7 +10,7 @@
 
 2 - As culturas abrangidas pelo seguro de colheita horizontal e respetivas limitações decorrentes da densidade, da área de cultivo e da idade da plantação, quando existam, são as seguintes:
 
-a) Cereais: trigo, centeio, cevada, aveia, triticale, milho, arroz, alpista e sorgo, podendo no seguro de colheitas de cereais ser expressamente incluída uma verba para palhas até 30 % do valor do respetivo cereal;
+a) Cereais: trigo, centeio, cevada, aveia, triticale, milho (cereal), arroz, alpista e sorgo, podendo no seguro de colheitas de cereais ser expressamente incluída uma verba para palhas até 30 % do valor do respetivo cereal;
 
 b) Leguminosas para grão: feijão, fava, grão-de-bico, ervilha, soja, tremoço, tremocilha e similares;
 
@@ -18,9 +18,9 @@ c) Oleaginosas arvenses: cártamo, girassol e colza;
 
 d) Hortícolas a céu aberto:
 
-i) Culturas hortícolas sensíveis às baixas temperaturas: cebola, cenoura, alface, feijão -verde, tomate, pimento, melão, meloa, melancia, alho, beterraba hortícola, abóbora, alho-francês, aipo, batata-doce, beringela, chicória de folhas, courgette, couve-brócolo, couve-chinesa, couve-flor, espargo, espinafre, agrião, ervilha, fava, morango, pepino e quiabo;
+i) Culturas hortícolas sensíveis às baixas temperaturas: cebola, cenoura, alface, feijão-verde, tomate, pimento, melão, meloa, melancia, beterraba hortícola, abóbora, alho-francês, aipo, batata-doce, beringela, chicória de folhas, courgette, couve-brócolo, couve-chinesa, couve-flor, espargo, espinafre, agrião, ervilha, fava, morango, pepino e quiabo;
 
-ii) Culturas hortícolas resistentes às baixas temperaturas: couves (galega, tronchuda, penca, portuguesa, repolho, roxa, coração-de-boi, lombardo e de bruxelas), nabo, rutabaga, rábano e rabanete;
+ii) Culturas hortícolas resistentes às baixas temperaturas: couves (galega, tronchuda, penca, portuguesa, repolho, roxa, coração-de-boi, lombardo e de bruxelas), alho, nabo, rutabaga, rábano e rabanete;
 
 e) Linho, lúpulo e algodão;
 
@@ -85,3 +85,5 @@ aa) Viveiros vitícolas, frutícolas, florestais e de plantas ornamentais em reg
 ab) Plantas aromáticas e medicinais;
 
 ac) Romanzeira.
+
+ad) Milho para silagem.

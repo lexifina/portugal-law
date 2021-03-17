@@ -8,7 +8,7 @@ a) Culturas em regime de forçagem conduzidas no interior de estufas ou abrigos 
 
 b) Citrinos, aveleira, alfarrobeira, abacateiro, tamarilho;
 
-c) Milho, arroz, sorgo, oleaginosas arvenses;
+c) Milho (cereal), milho para silagem, arroz, sorgo, oleaginosas arvenses;
 
 d) Couves (galega, tronchuda, penca, portuguesa, repolho, roxa, coração-de-boi, lombardo e de bruxelas), nabo, rutabaga, rábano e rabanete.
 

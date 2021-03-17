@@ -6,9 +6,9 @@
 
 ### Índice de sinistralidade
 
-1 - Há lugar à atribuição de compensação de sinistralidade quando as indemnizações pagas decorrentes de sinistros forem superiores a 85 % dos prémios processados.
+1 - Há lugar à atribuição de compensação de sinistralidade quando as indemnizações pagas decorrentes de sinistros forem superiores a 150 % dos prémios processados no conjunto das regiões A, B e C e superiores a 85 % dos prémios processados no conjunto das regiões D e E, definidas no n.º 2 do anexo do Despacho n.º 4585/2018, de 27 de abril.
 
-2 - A percentagem referida no número anterior é referente à globalidade dos contratos de seguro celebrados ao abrigo do presente Regulamento e do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, independentemente da cultura e região, desde que:
+2 - As percentagens referidas no número anterior são referentes à globalidade dos contratos de seguro celebrados nas regiões que lhes estão associadas, ao abrigo do presente Regulamento e do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, independentemente da cultura, desde que:
 
 a) As empresas de seguros tenham aderido ao mecanismo de compensação de sinistralidade para ambos os regimes;
 
