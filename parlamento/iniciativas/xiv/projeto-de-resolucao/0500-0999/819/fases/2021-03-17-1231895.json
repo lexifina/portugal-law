@@ -1,0 +1,105 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "819",
+    "id": "45562",
+    "titulo": "Afetação ao sector cultural e criativo nacional de valor não inferior a 2% das verbas europeias do Mecanismo de Recuperação e Resiliência que cabem a Portugal"
+  },
+  "fase": "Envio à Comissão para fixação da Redação final",
+  "codigo_fase": "348",
+  "data_registo": "2021-03-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "348",
+    "Comissao": [
+      {
+        "AccId": "50486",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-03-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-03-30",
+            "TipoDocumento": "Redação final",
+            "TituloDocumento": "Fixação da Redação Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d446b334d444e6a4d7a5174596a51354e4330305a6a6b324c546b79596a6b745a6d4e6b5a444d794f44566a4f546b354c6e426b5a673d3d&fich=09703c34-b494-4f96-92b9-fcdd3285c999.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-29",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Email GP PSD a solicitar alteração",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a46685954526a4d6a51745a546b354e793030595445794c574a6a4d474d745a4452694e7a51775a6d5269597a67354c6e426b5a673d3d&fich=c1aa4c24-e997-4a12-bc0c-d4b740fdbc89.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-03-31",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Email da 12CCC para DAPLEN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f546b784f5464684f5755745a544a6c4e4330304e5467354c57466a4f4745745a574978596a4a6b4d32526d4d6d4e6b4c6e426b5a673d3d&fich=99197a9e-e2e4-4589-ac8a-eb1b2d3df2cd.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7484",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Cultura e Comunicação",
+        "Numero": "7484",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-03-30",
+            "dataRemessa": "2021-03-31",
+            "numeroOficio": null,
+            "observacoes": "Fixação da Redação Final com alterações",
+            "tipoRemessa": "Redação Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-03-17",
+    "EvtId": "133",
+    "Fase": "Envio à Comissão para fixação da Redação final",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1231895",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
