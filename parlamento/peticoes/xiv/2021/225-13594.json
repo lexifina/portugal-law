@@ -1,0 +1,691 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13594",
+  "numero": "225",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-03-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-12-13",
+            "entidades": null,
+            "id": "127838",
+            "tipo": null,
+            "titulo": "Audição em 2022-12-13 com Associação dos Profissionais da Guarda – APG/GNR"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-01-11",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915131",
+                "obs": null,
+                "pag": [
+                  "15-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-21",
+                "pubLeg": "XV",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/058/2023-01-21/15?pgs=15-18&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2023-01-11",
+              "descricao": null,
+              "detalhe": null,
+              "id": "103922",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "53",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-04-20",
+        "DataArquivo": "2023-01-11",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2023-01-13",
+        "DataReaberta": "2022-04-20",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-01-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279387a59546b304e474e685a4330785a6a45324c5451304f5451744f44566c4f43316859324579597a5a684d444d31597a51756347526d&fich=3a944cad-1f16-4494-85e8-aca2c6a035c4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-01-11",
+            "dataNomeacao": "2022-04-20",
+            "gp": "PSD",
+            "id": "5759",
+            "motivoCessacao": null,
+            "nome": "Lina Lopes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-03-31",
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2021-03-26",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2021-03-31",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-03-31",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a5751794d546c6c4d5749744d7a5a6d597930304e7a426a4c546b325a4441744d6a55314e6a6c6a4d474669596a41324c6e426b5a673d3d&fich=ed219e1b-36fc-470c-96d0-25569c0abb06.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7264",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-03-31",
+            "gp": "PSD",
+            "id": "5759",
+            "motivoCessacao": null,
+            "nome": "Lina Lopes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-04-13",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-03-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a67354d444178596d45304c5755304e3249744e44526c4f5331694d6a45784c545a6d4e6d526d4e5459354e4445785a5335775a47593d&fich=89001ba4-e47b-44e9-b211-6f6df569411e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152556",
+      "152662",
+      "152734"
+    ],
+    "Iniciativasoriginadas": [
+      "152556",
+      "152662",
+      "152734"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=46"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334116",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49",
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/49?pgs=49,58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=47"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50",
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/50?pgs=50,56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334118",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334121",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_13_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-14",
+                "pubLeg": "XV",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração-base; Reduz a contribuição para a ADSE, SAD e ADM para 3% e fixa a incidência das mesmas nos 12 meses correspondentes à remuneração mensal alterando o Decreto-Lei n.º 118/83, de 25 de fevereiro, e o Decreto-Lei n.º 158/2005, de 20 de setembro; — Reduz as contribuições para os subsistemas de saúde SAD e ADM; Estipula que o desconto para o sistema complementar de assistência na doença da Guarda Nacional Republicana e da Polícia de Segurança Pública incide sobre 12 meses de remuneração base (sexta alteração ao Decreto-Lei n.º 158/2005, de 20 de setembro)",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13594",
+    "PetAssunto": "Solicitam que os descontos para o Serviço de Assistência na Doença da GNR incidam sobre 12 meses de remuneração base",
+    "PetDataEntrada": "2021-03-18",
+    "PeticoesAssociadas": null,
+    "PetId": "13594",
+    "PetLeg": "XIV",
+    "PetNr": "225",
+    "PetNrAssinaturas": "10280",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16399",
+        "obs": null,
+        "pag": [
+          "49-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-14",
+        "pubLeg": "XV",
+        "pubNr": "113",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/113/2023-04-14/49?pgs=49-59&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
