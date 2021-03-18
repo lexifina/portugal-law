@@ -1,0 +1,802 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13592",
+  "numero": "223",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-03-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-05-11",
+            "entidades": null,
+            "id": "117036",
+            "tipo": null,
+            "titulo": "Audição em 2021-05-11 com Petição n.º 223"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-05-24",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915080",
+                "obs": null,
+                "pag": [
+                  "22-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-05-29",
+                "pubLeg": "XIV",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/047/2021-05-29/22?pgs=22-24&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-04-06",
+        "DataArquivo": "2021-05-25",
+        "DataBaixaComissao": "2021-03-24",
+        "DataEnvioPAR": "2021-05-26",
+        "DataReaberta": "2021-04-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324f574d345a54633559693078596a52684c5451795a4441744f5446684e43307a5932566c5a6a59785a444e6c4d6d45756347526d&fich=69c8e79b-1b4a-42d0-91a4-3ceef61d3e2a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387859574d304f5468684d6930354d4455794c54526959575174595441344e4330354d7a51354f44457a4f446c6b4f4451756347526d&fich=1ac498a2-9052-4bad-a084-934981389d84.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a596d557a4d5463314d6930774f5751334c54526d4f574d744f474a684e433032595451304e57513059324e6b4d5463756347526d&fich=cbe31752-09d7-4f9c-8ba4-6a445d4ccd17.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c595759304e544e6a4e7930354f4441344c54517a59574d74596a41354f5330784d6d59324e6d466a4e6d45334d5751756347526d&fich=eaf453c7-9808-43ac-b099-12f66ac6a71d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334d6a466b4d7a466d4d693032596a59334c545130596d4974596a41784d4330345a6a55794e444e6b59324530597a67756347526d&fich=721d31f2-6b67-44bb-b010-8f5243dca4c8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784e3251794d444a694e69316b59544a684c5452684f445974596a646b4f5331684e446b34595445794e574a6c4e4455756347526d&fich=17d202b6-da2a-4a86-b7d9-a498a125be45.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684f5463774f54426a4d4330775a6a56684c54517959544574596a63784d5330345a5468684f47497a4f575a6c4e4749756347526d&fich=a97090c0-0f5a-42a1-b711-8e8a8b39fe4b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939685a5749314e6d4a6a5a53307a4f44457a4c5451795a44517459546732596930775a6a513059546334595745354e6a49756347526d&fich=aeb56bce-3813-42d4-a86b-0f44a78aa962.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4d4749795a6d59784e53316a5954526b4c5451774f445174596a41305a4330794e574d334e6d51334e47497a4e7a59756347526d&fich=f0b2ff15-ca4d-4084-b04d-25c76d74b376.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334d324d304d7a67774d6930304e574a6d4c54526b4e324574596d52695979316a5a545530596a41354d7a6733595467756347526d&fich=73c43802-45bf-4d7a-bdbc-ce54b09387a8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4d445a6a4f546731597931684e6d4d7a4c54517a4e446374595445794f4330314e574d784d54566a5a6a426b4e7a4d756347526d&fich=d06c985c-a6c3-4347-a128-55c115cf0d73.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939685a574a6b4e6d4d785a5330344f574a6d4c545133597a4d744f44646c4e4330774f57557a5954526c4e4455304f5449756347526d&fich=aebd6c1e-89bf-47c3-87e4-09e3a4e45492.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314e7a55345932526a5a6930324e6d45344c5452694e4749744f446b7a4e6930775a6a4933593249314f445a6b4e6d49756347526d&fich=5758cdcf-66a8-4b4b-8936-0f27cb586d6b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344e7a686b5a44597a5a6930794e6a6b304c54526b4f5459744f444533597930794e6d45354d4468684d6d51354d546b756347526d&fich=878dd63f-2694-4d96-817c-26a908a2d919.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b5a474e684e5755355a53316a4e6d557a4c5451354f445574596a4d344f4330775a546c6d4d54497a4e5446685a6d45756347526d&fich=ddca5e9e-c6e3-4985-b388-0e9f12351afa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334f575a6b4d6d51304d7930794d4449324c54526b4e6d497459546733596930345a5451784e574d7a4f4451774d6a55756347526d&fich=79fd2d43-2026-4d6b-a87b-8e415c384025.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784d5456694d4755305a4330304e4755344c54517a4f4451744f4449324d7931684e47557a4d6a63774d545935596a41756347526d&fich=115b0e4d-44e8-4384-8263-a4e3270169b0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344e6a49334e3249304e5330784e7a59324c5451314d6a51745957526c4e6930344d47466a4d544d345a44566d4e4451756347526d&fich=86277b45-1766-4524-ade6-80ac138d5f44.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-05-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a595446695a6a6b304e53307a59574d784c5451344f4745744f47466c4d4330795a6a417a4d4467305a575a6d4e4749756347526d&fich=ca1bf945-3ac1-488a-8ae0-2f03084eff4b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-04-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d6a4d775932457a597930325a4746694c5452684d6d4d744f546b7a5a69316a4f44466d4e475579597a67304d4755756347526d&fich=5230ca3c-6dab-4a2c-993f-c81f4e2c840e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774f4467304e325a6d4e5330794d574a6c4c54526d596d5174596a63785969316c5a6a59325a4451774f446b785a4455756347526d&fich=08847ff5-21be-4fbd-b71b-ef66d40891d5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4d6a466b4d4455354d43316d4e3249304c54513359575174595752694e6930354d7a466d4d544131597a41794f5449756347526d&fich=321d0590-f7b4-47ad-adb6-931f105c0292.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d5a5459785a444a694f4331695a4463314c54526a4d5463744f444a6d596930314d54513459324935596a67354f5759756347526d&fich=fe61d2b8-bd75-4c17-82fb-5148cb9b899f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938785a6a67304e4459314e5330354e5467324c54526d4e6a45744f445a6d4e4331694d5759304d7a6b304f574d325a6d51756347526d&fich=1f844655-9586-4f61-86f4-b1f43949c6fd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4d47497a4f5755795a433033595759774c5451304d6a6374596a566b4e693035596d4a6c4d6d4e695a4467785a5467756347526d&fich=f0b39e2d-7af0-4427-b5d6-9bbe2cbd81e8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d4d6a45334f474d334d43316b4e4463354c5451784d3255744f54557a5a6931684f44637a4e6a55344e7a566d595463756347526d&fich=f2178c70-d479-413e-953f-a87365875fa7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b4f4451314e474e6b4d4330794e7a42694c5451784e3259744f4746694d6930304d6a59334d5749344f574d774e6d55756347526d&fich=d8454cd0-270b-417f-8ab2-42671b89c06e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938795a5464695a446b31595330324d3255344c5451304f575574596a457a5a6931694e4467304d7a55324d5459335a4751756347526d&fich=2e7bd95a-63e8-449e-b13f-b484356167dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d47466d4d7a686d4f4330784d6a41354c54526d4e3255745954566d5979316a4d5459774d3245774d574e6b4d6a51756347526d&fich=50af38f8-1209-4f7e-a5fc-c1603a01cd24.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-04-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a595749784d325a6b5979316d5a544d314c5451344d6a67744f54426c5953316c5a4441794f54526a4d5449324d6a41756347526d&fich=cab13fdc-fe35-4828-90ea-ed0294c12620.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-04-06",
+            "gp": "PSD",
+            "id": "6529",
+            "motivoCessacao": null,
+            "nome": "Cláudia André"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2022-06-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-03-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d784d446b335a6a4d324c5755354f4449744e44517a4e6930344e3259344c574e6b596a52684f5459774e7a566c4f5335775a47593d&fich=c1097f36-e982-4436-87f8-cdb4a96075e9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121469",
+      "121518",
+      "121525",
+      "121557",
+      "121566",
+      "121520",
+      "121530",
+      "121469"
+    ],
+    "Iniciativasoriginadas": [
+      "121469",
+      "121518",
+      "121525",
+      "121557",
+      "121566",
+      "121520",
+      "121530"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Inclusão dos 0-3 anos no sistema educativo – alteração da Lei de Bases do Sistema Educativo (Associação de Profissionais de Educação de Infância); Cria o programa rede de creches públicas; Novo regime jurídico da lecionação e da organização da disciplina e área curricular de Cidadania e Desenvolvimento (CD) nos estabelecimentos dos ensinos básico e secundário; Cria um sistema de educação para a infância que garanta a inclusão das crianças dos 0 aos 3 anos no sistema educativo, alterando a Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro; Propõe a criação de uma rede pública de creches como forma de garantir os direitos das crianças; Alteração à Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo – inclusão da educação na primeira infância no sistema educativo e criação de uma rede pública de educação na primeira infância; Recomenda ao Governo a alteração da designação de Ministério da Educação para Ministério do Ensino; Recomenda ao Governo que crie um mecanismo de comparticipação dos custos de inscrição e frequência para as crianças que ingressem em estabelecimento de natureza privada em virtude de ausência de oferta pública e inicie o processo de criação de uma rede pública de creches.",
+            "Teor": "Apresentação do Projeto-Lei nº 75/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/30?pgs=30-32&org=PLC"
+              }
+            ],
+            "Sumario": "Inclusão dos 0-3 anos no sistema educativo – alteração da Lei de Bases do Sistema Educativo (Associação de Profissionais de Educação de Infância); Cria o programa rede de creches públicas; Novo regime jurídico da lecionação e da organização da disciplina e área curricular de Cidadania e Desenvolvimento (CD) nos estabelecimentos dos ensinos básico e secundário; Cria um sistema de educação para a infância que garanta a inclusão das crianças dos 0 aos 3 anos no sistema educativo, alterando a Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro; Propõe a criação de uma rede pública de creches como forma de garantir os direitos das crianças; Alteração à Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo – inclusão da educação na primeira infância no sistema educativo e criação de uma rede pública de educação na primeira infância; Recomenda ao Governo a alteração da designação de Ministério da Educação para Ministério do Ensino; Recomenda ao Governo que crie um mecanismo de comparticipação dos custos de inscrição e frequência para as crianças que ingressem em estabelecimento de natureza privada em virtude de ausência de oferta pública e inicie o processo de criação de uma rede pública de creches.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Inclusão dos 0-3 anos no sistema educativo – alteração da Lei de Bases do Sistema Educativo (Associação de Profissionais de Educação de Infância); Cria o programa rede de creches públicas; Novo regime jurídico da lecionação e da organização da disciplina e área curricular de Cidadania e Desenvolvimento (CD) nos estabelecimentos dos ensinos básico e secundário; Cria um sistema de educação para a infância que garanta a inclusão das crianças dos 0 aos 3 anos no sistema educativo, alterando a Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro; Propõe a criação de uma rede pública de creches como forma de garantir os direitos das crianças; Alteração à Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo – inclusão da educação na primeira infância no sistema educativo e criação de uma rede pública de educação na primeira infância; Recomenda ao Governo a alteração da designação de Ministério da Educação para Ministério do Ensino; Recomenda ao Governo que crie um mecanismo de comparticipação dos custos de inscrição e frequência para as crianças que ingressem em estabelecimento de natureza privada em virtude de ausência de oferta pública e inicie o processo de criação de uma rede pública de creches.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=39"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/33?pgs=33-34,39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Inclusão dos 0-3 anos no sistema educativo – alteração da Lei de Bases do Sistema Educativo (Associação de Profissionais de Educação de Infância); Cria o programa rede de creches públicas; Novo regime jurídico da lecionação e da organização da disciplina e área curricular de Cidadania e Desenvolvimento (CD) nos estabelecimentos dos ensinos básico e secundário; Cria um sistema de educação para a infância que garanta a inclusão das crianças dos 0 aos 3 anos no sistema educativo, alterando a Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro; Propõe a criação de uma rede pública de creches como forma de garantir os direitos das crianças; Alteração à Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo – inclusão da educação na primeira infância no sistema educativo e criação de uma rede pública de educação na primeira infância; Recomenda ao Governo a alteração da designação de Ministério da Educação para Ministério do Ensino; Recomenda ao Governo que crie um mecanismo de comparticipação dos custos de inscrição e frequência para as crianças que ingressem em estabelecimento de natureza privada em virtude de ausência de oferta pública e inicie o processo de criação de uma rede pública de creches.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Inclusão dos 0-3 anos no sistema educativo – alteração da Lei de Bases do Sistema Educativo (Associação de Profissionais de Educação de Infância); Cria o programa rede de creches públicas; Novo regime jurídico da lecionação e da organização da disciplina e área curricular de Cidadania e Desenvolvimento (CD) nos estabelecimentos dos ensinos básico e secundário; Cria um sistema de educação para a infância que garanta a inclusão das crianças dos 0 aos 3 anos no sistema educativo, alterando a Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro; Propõe a criação de uma rede pública de creches como forma de garantir os direitos das crianças; Alteração à Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo – inclusão da educação na primeira infância no sistema educativo e criação de uma rede pública de educação na primeira infância; Recomenda ao Governo a alteração da designação de Ministério da Educação para Ministério do Ensino; Recomenda ao Governo que crie um mecanismo de comparticipação dos custos de inscrição e frequência para as crianças que ingressem em estabelecimento de natureza privada em virtude de ausência de oferta pública e inicie o processo de criação de uma rede pública de creches.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Inclusão dos 0-3 anos no sistema educativo – alteração da Lei de Bases do Sistema Educativo (Associação de Profissionais de Educação de Infância); Cria o programa rede de creches públicas; Novo regime jurídico da lecionação e da organização da disciplina e área curricular de Cidadania e Desenvolvimento (CD) nos estabelecimentos dos ensinos básico e secundário; Cria um sistema de educação para a infância que garanta a inclusão das crianças dos 0 aos 3 anos no sistema educativo, alterando a Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro; Propõe a criação de uma rede pública de creches como forma de garantir os direitos das crianças; Alteração à Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo – inclusão da educação na primeira infância no sistema educativo e criação de uma rede pública de educação na primeira infância; Recomenda ao Governo a alteração da designação de Ministério da Educação para Ministério do Ensino; Recomenda ao Governo que crie um mecanismo de comparticipação dos custos de inscrição e frequência para as crianças que ingressem em estabelecimento de natureza privada em virtude de ausência de oferta pública e inicie o processo de criação de uma rede pública de creches.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268935",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Inclusão dos 0-3 anos no sistema educativo – alteração da Lei de Bases do Sistema Educativo (Associação de Profissionais de Educação de Infância); Cria o programa rede de creches públicas; Novo regime jurídico da lecionação e da organização da disciplina e área curricular de Cidadania e Desenvolvimento (CD) nos estabelecimentos dos ensinos básico e secundário; Cria um sistema de educação para a infância que garanta a inclusão das crianças dos 0 aos 3 anos no sistema educativo, alterando a Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro; Propõe a criação de uma rede pública de creches como forma de garantir os direitos das crianças; Alteração à Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo – inclusão da educação na primeira infância no sistema educativo e criação de uma rede pública de educação na primeira infância; Recomenda ao Governo a alteração da designação de Ministério da Educação para Ministério do Ensino; Recomenda ao Governo que crie um mecanismo de comparticipação dos custos de inscrição e frequência para as crianças que ingressem em estabelecimento de natureza privada em virtude de ausência de oferta pública e inicie o processo de criação de uma rede pública de creches.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_24_10_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268936",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/37?pgs=37-39&org=PLC"
+              }
+            ],
+            "Sumario": "Inclusão dos 0-3 anos no sistema educativo – alteração da Lei de Bases do Sistema Educativo (Associação de Profissionais de Educação de Infância); Cria o programa rede de creches públicas; Novo regime jurídico da lecionação e da organização da disciplina e área curricular de Cidadania e Desenvolvimento (CD) nos estabelecimentos dos ensinos básico e secundário; Cria um sistema de educação para a infância que garanta a inclusão das crianças dos 0 aos 3 anos no sistema educativo, alterando a Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro; Propõe a criação de uma rede pública de creches como forma de garantir os direitos das crianças; Alteração à Lei n.º 46/86, de 14 de outubro, na sua redação atual, que aprova a Lei de Bases do Sistema Educativo – inclusão da educação na primeira infância no sistema educativo e criação de uma rede pública de educação na primeira infância; Recomenda ao Governo a alteração da designação de Ministério da Educação para Ministério do Ensino; Recomenda ao Governo que crie um mecanismo de comparticipação dos custos de inscrição e frequência para as crianças que ingressem em estabelecimento de natureza privada em virtude de ausência de oferta pública e inicie o processo de criação de uma rede pública de creches.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "Sumario": "Projeto-Resolução nº 79",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13592",
+    "PetAssunto": "Inclusão dos 0-3 anos no sistema educativo - Alteração da Lei de Bases do Sistema Educativo",
+    "PetDataEntrada": "2021-03-18",
+    "PeticoesAssociadas": null,
+    "PetId": "13592",
+    "PetLeg": "XIV",
+    "PetNr": "223",
+    "PetNrAssinaturas": "14067",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16212",
+        "obs": null,
+        "pag": [
+          "30-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-25",
+        "pubLeg": "XV",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/028/2022-06-25/30?pgs=30-40&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915075",
+        "obs": null,
+        "pag": [
+          "24-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-10",
+        "pubLeg": "XIV",
+        "pubNr": "38",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/038/2021-04-10/24?pgs=24-25&org=PLC"
+      }
+    ]
+  }
+}
