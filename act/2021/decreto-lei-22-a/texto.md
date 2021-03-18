@@ -1,0 +1,135 @@
+Decreto-Lei n.º 22-A/2021
+de 17 de março
+Sumário: Prorroga prazos e estabelece medidas excecionais e temporárias no âmbito da pandemia da doença COVID-19.
+Desde março de 2020 que, no âmbito da pandemia da doença COVID-19, o Governo tem vindo a adotar uma série de medidas em matéria de combate àquela pandemia, seja numa perspetiva epidemiológica seja numa ótica de apoio social e económico às famílias e às empresas.
+A evolução da situação epidemiológica tem ditado a necessidade quer de aprovação de novas medidas quer de introdução de ajustamentos a algumas das medidas já aprovadas neste contexto de pandemia, por forma a dar a melhor resposta possível às necessidades sentidas.
+Nessa medida, face ao agravamento da situação epidemiológica registado no início deste ano e considerando as dificuldades dos cidadãos em renovar ou obter documentos relevantes para o exercício de direitos, decorrentes do encerramento de instalações, importa prorrogar a obrigatoriedade de aceitação pelas autoridades públicas da exibição de documentos cujo prazo de validade se encontre expirado.
+Com efeito, considera-se assim oportuno estender, até 31 de dezembro de 2021, a admissibilidade de determinados documentos, como atestados médicos de avaliação de incapacidade que expirem em 2021, cartões de cidadão, certidões e certificados emitidos pelos serviços de registos e da identificação civil, documentos e vistos relativos à permanência em território nacional, licenças e autorizações, bem como cartões de beneficiário familiar de ADSE.
+Neste âmbito, remete-se a matéria relativa à validade das cartas de condução para o Regulamento (UE) 2021/267 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2021, que estabelece medidas específicas e temporárias, em face da persistência da crise de COVID-19, relativas à renovação ou prorrogação de determinados certificados, licenças e autorizações e ao adiamento de determinados controlos periódicos e formação contínua em determinados domínios da legislação em matéria de transportes e à prorrogação de determinados prazos referidos no Regulamento (UE) 2020/698.
+No que concerne aos certificados provisórios de matrícula, aprova-se igualmente uma medida excecional e temporária que considera os certificados cuja validade tenha expirado a partir de 25 de janeiro de 2021 automaticamente revalidados por 60 dias.
+De igual modo, reconhecendo-se as especiais dificuldades criadas pelo ambiente pandémico, limitativas da realização de um conjunto de atos, nomeadamente casamentos, no quadro de um contexto normativo particular, de caráter excecional e temporário, estabelecem-se, através do presente decreto-lei, medidas excecionais e temporárias relativas aos processos preliminares de casamento e aos assentos de casamento já lavrados.
+Ao mesmo tempo, em virtude dos constrangimentos causados pela pandemia da doença COVID-19 no setor da restauração, que, durante o atual período de suspensão de atividade, apenas pode funcionar para efeitos de confeção destinada a consumo fora do estabelecimento através de entrega ao domicílio, à porta do estabelecimento ou ao postigo, decide-se prorrogar o período de que os prestadores de serviços de restauração e de bebidas dispõem para se adaptarem às disposições da Lei n.º 76/2019, de 2 de setembro, que determina a não utilização e não disponibilização de louça de plástico de utilização única nas atividades do setor de restauração e/ou bebidas e no comércio a retalho.
+Do mesmo modo, prorroga-se a vigência do regime excecional e temporário relativo aos contratos de seguro, aprovado pelo Decreto-Lei n.º 20-F/2020, de 12 de maio, na sua redação atual.
+Também no âmbito das empresas, atendendo às dificuldades sentidas pelos empregadores em cumprir o prazo de 15 de abril para aprovação e afixação do mapa de férias, decide-se prorrogar aquele prazo até 15 de maio de 2021, independentemente do vínculo laboral, da modalidade ou da natureza da relação jurídica em causa.
+Procurando diminuir os encargos que recaem sobre as empresas e outras pessoas coletivas, dispensa-se, em 2021, a confirmação anual da informação constante do Registo Central do Beneficiário Efetivo, independentemente da data em que tenha sido efetuada a declaração de beneficiário efetivo e desde que não tenha ocorrido qualquer facto que determine a alteração da informação aí constante.
+Na mesma senda, e não obstante a possibilidade de realização de assembleias gerais através de meios telemáticos nos termos legais, é também prevista a possibilidade de as assembleias gerais das sociedades comerciais, das cooperativas e das associações, que devam ter lugar por imposição legal ou estatutária, poderem ser realizadas até 30 de junho de 2021 ou, no caso das cooperativas e das associações com mais de 100 cooperantes ou associados, até 30 de setembro.
+No setor dos transportes, atendendo à elevada quebra de procura no transporte em táxi associada à pandemia, bem como ao tempo decorrido desde a primeira declaração de estado de emergência, a 18 de março de 2020, importa prever que não se aplica, até 31 de dezembro de 2021, nem o período máximo previsto no n.º 1 do artigo 18.º do Decreto-Lei n.º 251/98, de 11 de agosto, na sua atual redação, na suspensão comunicada a partir do dia 18 de março de 2020, nem a presunção de abandono do exercício, a qual se verifica, em condições normais, decorridos 365 dias consecutivos desde a emissão do último recibo e que determina a caducidade do direito à licença.
+No plano de ação social, procede-se à prorrogação do período de estadia em estruturas de acolhimento que termine antes de 30 de junho de 2021, de modo a permitir uma adequada resposta quer das casas de abrigo quer das situações de acolhimento de emergência que integram a rede nacional de apoio às vítimas de violência doméstica.
+Bem assim, subsistindo a necessidade de apoiar as respostas sociais residenciais no que respeita a muitas das medidas de prevenção de combate à pandemia, prevê-se a prorrogação da duração dos protocolos para a realização de testes de rastreio celebrados com entidades terceiras.
+No mesmo âmbito, aproveita-se ainda para classificar como despesa de ação social a despesa a realizar no âmbito da realização de testes de rastreio a profissionais afetos a estruturas residenciais para idosos e respostas residenciais dedicadas a pessoas com deficiência, bem como a pessoal docente e não docente das respostas sociais de creche e pré-escolar do setor social e solidário.
+No que respeita ao ensino superior, atendendo à suspensão das atividades presenciais que não pudessem ser substituídas por meios digitais, determina-se que os prazos decorridos durante a vigência dessa suspensão, bem como os prazos de suspensão determinados por autoridade pública nacional ou estrangeira e que se apliquem a entidades de acolhimento de bolseiros, não são contabilizados, até ao limite de dois meses, para efeito da duração máxima das bolsas de investigação cujo término previsto tenha ocorrido ou venha a ocorrer durante o primeiro trimestre de 2021.
+Por fim, atendendo às especiais dificuldades criadas pelo ambiente pandémico no âmbito dos trabalhos de gestão de combustível, decide-se proceder à prorrogação do prazo, até 15 de maio de 2021, para que os particulares, produtores florestais e entidades gestoras de terrenos e infraestruturas realizem os trabalhos de gestão de combustível. Bem assim, determina-se a prorrogação do prazo, até 31 de maio de 2021, para aprovação ou atualização dos planos municipais de defesa da floresta contra incêndios.
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente decreto-lei:
+a) Procede à vigésima oitava alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo coronavírus - COVID 19;
+b) Procede à segunda alteração ao Decreto-Lei n.º 20-F/2020, de 12 de maio, alterado pelo Decreto-Lei n.º 78-A/2020, de 29 de setembro, que estabelece um regime excecional e temporário relativo aos contratos de seguro;
+c) Procede à terceira alteração ao Decreto-Lei n.º 20-H/2020, de 14 de maio, alterado pelos Decretos-Leis n.os 39-A/2020, de 16 de julho, e 62-A/2020, de 3 de setembro, que estabelece medidas excecionais de organização e funcionamento das atividades educativas e formativas, no âmbito da pandemia da doença COVID-19;
+d) Prorroga prazos relativos a medidas excecionais e temporárias estabelecidas no âmbito da pandemia da doença COVID-19.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março
+Os artigos 5.º, 16.º e 35.º-N do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, passam a ter a seguinte redação:
+«Artigo 5.º
+[...]
+1 - [...]
+2 - [...]
+3 - [...]
+4 - [...]
+5 - [...]
+6 - [...]
+7 - [...]
+8 - [...]
+9 - [...]
+10 - [...]
+11 - [...]
+12 - O disposto no número anterior é aplicável aos atestados médicos de avaliação de incapacidade cuja validade tenha expirado em 2019 ou 2020, ou expire em 2021, desde que acompanhados de comprovativo de requerimento de junta médica de avaliação de incapacidade ou, quando aplicável, de junta médica de recurso para a correspondente reavaliação, com data anterior à data de validade.
+Artigo 16.º
+[...]
+1 - [...]
+2 - O cartão de cidadão, certidões e certificados emitidos pelos serviços de registos e da identificação civil, documentos e vistos relativos à permanência em território nacional, bem como as licenças e autorizações, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 31 de dezembro de 2021.
+3 - Os documentos referidos nos números anteriores continuam a ser aceites nos mesmos termos após 31 de dezembro de 2021, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
+4 - O cartão de beneficiário familiar de ADSE cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores é aceite até 31 de dezembro de 2021.
+5 - [...]
+6 - [...]
+7 - A validade das cartas de condução é determinada nos termos do Regulamento (UE) 2021/267 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2021.
+Artigo 35.º-N
+[...]
+1 - É prorrogada, até 1 de julho de 2021, a obrigação de os prestadores de serviços de restauração e de bebidas se adaptarem às disposições da Lei n.º 76/2019, de 2 de setembro, prevista no n.º 1 do artigo 10.º daquela lei.
+2 - [...]»
+Artigo 3.º
+Alteração ao Decreto-Lei n.º 20-F/2020, de 12 de maio
+É alterado o artigo 7.º do Decreto-Lei n.º 20-F/2020, de 12 de maio, na sua redação atual, que passa a ter a seguinte redação:
+«Artigo 7.º
+[...]
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de setembro de 2021, sem prejuízo do período de produção dos efeitos contratuais que decorram da aplicação do disposto nos artigos 2.º e 3.º»
+Artigo 4.º
+Alteração ao Decreto-Lei n.º 20-H/2020, de 14 de maio
+É alterado o artigo 6.º-A do Decreto-Lei n.º 20-H/2020, de 14 de maio, na sua redação atual, que passa a ter a seguinte redação:
+«Artigo 6.º-A
+[...]
+1 - Os prazos decorridos durante a vigência da suspensão das atividades presenciais que não pudessem ser substituídas por meios digitais, nas instituições do ensino superior, determinada pelo Decreto n.º 3-A/2021, de 14 de janeiro, na sua redação atual, bem como os prazos de suspensão determinados por autoridade pública nacional ou estrangeira e que se apliquem a entidades de acolhimento de bolseiros, não são contabilizados, até ao limite de dois meses, para efeito da duração máxima das bolsas de investigação prevista no artigo 3.º do Estatuto do Bolseiro de Investigação, aprovado em anexo à Lei n.º 40/2004, de 18 de agosto, na sua redação atual, mediante requerimento fundamentado no grave prejuízo da suspensão, submetido pelo bolseiro de doutoramento, com conhecimento do respetivo orientador, à entidade financiadora.
+2 - O disposto no número anterior produz efeitos para as bolsas de investigação cujo término previsto tenha ocorrido ou venha a ocorrer durante o primeiro trimestre de 2021.
+3 - A assunção de encargos decorrentes do n.º 1 fica condicionada à existência de dotação orçamental.»
+Artigo 5.º
+Revalidação dos processos preliminares de casamento e organização de novos processos
+1 - Os processos preliminares de casamento que precederam casamentos celebrados entre 9 de março de 2020 e a data de entrada em vigor do presente decreto-lei em que não tenha sido observado o prazo de seis meses previsto no n.º 1 do artigo 145.º do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho, na sua redação atual, consideram-se automaticamente revalidados, não havendo lugar a pagamento de emolumentos.
+2 - Nos casos em que, a partir da data de entrada em vigor do presente decreto-lei, se mostre necessário requerer a organização de um novo processo preliminar de casamento por força da caducidade do processo anterior, resultante do decurso do prazo para a celebração do casamento, é dispensada a apresentação dos documentos que integrem o processo anterior, desde que se mantenham válidos ou sejam legalmente aceites, não havendo lugar ao pagamento de emolumentos.
+3 - Os requerimentos para revalidação do processo preliminar de casamento ou para instauração de novo processo preliminar de casamento, decorrentes do decurso do prazo para a celebração do casamento, podem ser apresentados por correio eletrónico para o endereço institucional da conservatória do registo civil que organizou o processo preliminar de casamento, sem prejuízo dos meios habituais de apresentação previstos na lei.
+Artigo 6.º
+Retificação oficiosa de assentos de casamento
+Os assentos de casamento dos quais conste a menção do regime imperativo da separação de bens, por força do disposto na alínea a) do n.º 1 do artigo 1720.º do Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966, na sua redação atual, decorrente da caducidade do processo preliminar de casamento ocorrida até à data de entrada em vigor do presente decreto-lei, são oficiosamente retificados, não havendo lugar ao pagamento de emolumentos.
+Artigo 7.º
+Certificados provisórios de matrícula
+Os certificados provisórios de matrícula a que se refere o artigo 6.º do Decreto-Lei n.º 178-A/2005, de 28 de outubro, na sua redação atual, cuja validade tenha expirado a partir de 25 de janeiro de 2021 consideram-se automaticamente revalidados por 60 dias.
+Artigo 8.º
+Confirmação anual da informação do Registo Central de Beneficiário Efetivo
+A confirmação anual da informação constante do Registo Central de Beneficiário Efetivo (RCBE), a que se refere o artigo 15.º do Regime Jurídico do Registo Central do Beneficiário Efetivo, aprovado pela Lei n.º 89/2017, de 21 de agosto, na sua redação atual, é dispensada em 2021, independentemente da data da declaração inicial, desde que não tenha ocorrido facto que determine a alteração da informação constante do RCBE.
+Artigo 9.º
+Suspensão e abandono do exercício da atividade de transporte em táxi
+1 - À suspensão do exercício da atividade de transporte em táxi comunicada a partir do dia 18 de março de 2020 não se aplica, até 31 de dezembro de 2021, o período máximo previsto no n.º 1 do artigo 18.º do Decreto-Lei n.º 251/98, de 11 de agosto, na sua redação atual.
+2 - Na situação prevista no número anterior, fica suspensa, até 31 de dezembro de 2021, a aplicação do disposto no n.º 5 do artigo 18.º do Decreto-Lei n.º 251/98, de 11 de agosto, na sua redação atual.
+Artigo 10.º
+Plano de avaliação das diferenças remuneratórias
+A notificação para a apresentação de um plano de avaliação das diferenças remuneratórias prevista no n.º 1 do artigo 5.º da Lei n.º 60/2018, de 21 de agosto, é feita pelo serviço com competência inspetiva do ministério responsável pela área laboral até 31 de julho de 2021.
+Artigo 11.º
+Apoio a medidas de prevenção nas respostas sociais e unidades prestadoras de apoio social
+1 - Sem prejuízo da aplicação da Lei n.º 4/2007, de 16 de janeiro, na sua redação atual, que aprova as bases gerais do sistema da segurança social, constitui despesa do subsistema de ação social, independentemente da natureza jurídica das instituições destinatárias:
+a) A despesa objeto de protocolos para a realização de testes de rastreio a profissionais afetos a estruturas residenciais para idosos e respostas residenciais dedicadas a pessoas com deficiência, nos termos do disposto na alínea a) do n.º 1 do artigo 32.º do Decreto n.º 3-A/2021, de 14 de janeiro, na sua redação atual; e
+b) A despesa a realizar pelo Instituto da Segurança Social, I. P., com a aquisição de serviços de realização de testes rápidos de antigénio, destinados à testagem de pessoal docente e não docente das respostas sociais de apoio à infância.
+2 - Os protocolos a que se refere a alínea a) do número anterior, quando celebrados com entidades com as quais foram celebrados protocolos no âmbito do n.º 2 do artigo 7.º do Decreto-Lei n.º 37/2020, de 15 de julho, na redação atual, substituem esses protocolos de modo que não se verifique interrupção na respetiva cobertura, sendo que, existindo verba não executada nos primeiros, a mesma é contemplada a título de adiantamento nos novos protocolos.
+3 - Os protocolos a que se refere a alínea a) do n.º 1 vigoram até 30 de junho de 2021.
+Artigo 12.º
+Repristinação
+São repristinados os artigos 18.º, 30.º-A, 32.º-A e 35.º-C do Decreto-Lei n.º 10-A/2020, de 13 de março, que passam a ter a seguinte redação:
+«Artigo 18.º
+Prazos de realização de assembleias gerais
+1 - Não obstante a possibilidade de realização de assembleias gerais através de meios telemáticos nos termos legais, as assembleias gerais das sociedades comerciais, das associações ou das cooperativas, que devam ter lugar por imposição legal ou estatutária, podem ser realizadas até 30 de junho de 2021.
+2 - Sem prejuízo do disposto no número anterior, no caso das cooperativas e das associações com mais de 100 cooperantes ou associados, as assembleias gerais que devam ter lugar por imposição estatutária podem ser realizadas até 30 de setembro de 2021.
+Artigo 30.º-A
+Acolhimento de vítimas de violência doméstica
+O período de acolhimento de vítimas de violência doméstica cuja prorrogação, prevista nos artigos 28.º e 39.º do Decreto Regulamentar n.º 2/2018, de 24 de janeiro, na sua redação atual, termine antes de 30 de junho de 2021 considera-se automática e excecionalmente prorrogado até esta data.
+Artigo 32.º-A
+Marcação de férias
+A aprovação e afixação do mapa de férias até ao dia 15 de abril, nos termos do n.º 9 do artigo 241.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, e por remissão da alínea i) do n.º 1 do artigo 4.º, do n.º 1 do artigo 122.º e do artigo 126.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, respetivamente, pode ter lugar até 15 de maio.
+Artigo 35.º-C
+Prorrogação de prazos para os trabalhos de gestão de combustível
+1 - Até 15 de maio de 2021, os proprietários, arrendatários, usufrutuários ou entidades que, a qualquer título, detenham terrenos confinantes a edifícios inseridos em espaços rurais garantem a realização dos trabalhos de gestão de combustível.
+2 - Até 15 de maio de 2021, nos aglomerados populacionais inseridos ou confinantes com espaços florestais, e previamente definidos nos planos municipais de defesa da floresta contra incêndios (PMDFCI), é obrigatória a gestão de combustível numa faixa exterior de proteção de largura mínima não inferior a 100 m, podendo, face à perigosidade de incêndio rural de escala municipal, outra amplitude ser definida nos respetivos PMDFCI.
+3 - Até 15 de maio de 2021, as entidades gestoras ou, na sua inexistência ou não cumprimento da obrigação, as câmaras municipais garantem a realização dos trabalhos de gestão de combustível nos parques de campismo, nos parques e polígonos industriais, nas plataformas de logística e nos aterros sanitários inseridos ou confinantes com espaços florestais previamente definidos no PMDFCI, bem como a manutenção de uma faixa envolvente com uma largura mínima não inferior a 100 m.
+4 - Os PMDFCI devem estar aprovados ou atualizados até 31 de maio de 2021.»
+Artigo 13.º
+Norma revogatória
+São revogados os artigos 11.º e 35.º-J do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.
+Artigo 14.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 11 de março de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Antero Luís - Mário Belo Morgado - Alexandra Ludomila Ribeiro Fernandes Leitão - Manuel Frederico Tojal de Valsassina Heitor - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes.
+Promulgado em 16 de março de 2021.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 17 de março de 2021.
+O Primeiro-Ministro, António Luís Santos da Costa.
+114080232
