@@ -1,0 +1,11 @@
+Edital n.º 333/2021
+Sumário: Consulta pública do Projeto de Regulamento Municipal de Estacionamento Público.
+Projeto de Regulamento Municipal de Estacionamento Público
+Consulta pública
+Vítor Manuel de Almeida Figueiredo, Presidente da Câmara Municipal do Concelho de São Pedro do Sul:
+Torna público que, foi deliberado na reunião ordinária pública da Câmara Municipal, realizada no dia 29 de janeiro de 2021, aprovar e proceder à consulta pública do projeto de Regulamento Municipal de Estacionamento Público, nos termos do artigo 6.º da Constituição da República Portuguesa; do n.º 1 e n.º 2 do artigo 3.º e do n.º 1 e n.º 2 do artigo 4.º do Dl n.º 107/2018, de 29 de novembro, ex vi Lei n.º 50/2018, de 16 de agosto, artigo 1.º; artigo 4.º; artigo 5.º, n.º 3 e artigo 27.º; dos artigos 169.º e 185.º-A do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, na sua atual redação dada pelo Dl n.º 107/2018, de 29 de novembro; artigo 17.º do Dl 146/2014, de 9 de outubro, na sua atual redação dada pelo Dl n.º 107/2018, de 29 de novembro; e do n.º 1 do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua atual redação, pelo prazo de 30 dias, a contar da data da publicação do presente Edital no Diário da República.
+Nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua atual redação, convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao Presidente da Câmara Municipal, eventuais sugestões e/ou reclamações, dentro do período atrás referido, para a Câmara Municipal, Largo da Câmara, 3660-436 S. Pedro do Sul, ou através do endereço eletrónico geral@cm-spsul.pt.
+Mais faz saber que os exemplares do projeto de Regulamento Municipal de Estacionamento Público, podem ser consultados na Secção de Obras e Urbanismo da Câmara Municipal de São Pedro do Sul, durante o horário normal de funcionamento e no site da Câmara Municipal de São Pedro do Sul, em www.cm-spsul.pt.
+Para constar se redigiu este Edital e outros de igual teor, que vão ser afixados nos locais do costume.
+25 de fevereiro de 2021. - O Presidente, Vítor Manuel de Almeida Figueiredo.
+314041028
