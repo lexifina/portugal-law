@@ -4,7 +4,7 @@
 
 Constituem objetivos do SAAS:
 
-a) Informar, aconselhar e encaminhar para respostas, serviços ou prestações sociais adequados a cada situação;
+a) Informar, aconselhar e encaminhar para respostas, serviços ou prestações sociais adequadas a cada situação, em articulação com os competentes serviços e organismos da administração pública;
 
 b) Apoiar em situações de vulnerabilidade social;
 

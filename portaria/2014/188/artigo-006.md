@@ -18,7 +18,7 @@ c) Avaliação e diagnóstico social, com a participação dos próprios;
 
 d) (Revogada.)
 
-e) Atribuição de prestações de carácter eventual com a finalidade de colmatar situações de emergência social e de comprovada carência económica.
+e) Atribuição de prestações de carácter eventual com a finalidade de colmatar situações de emergência social e de comprovada carência económica, tomando como referencial o previsto no Decreto-Lei n.º 120/2018, de 27 de dezembro, no respeito pela autonomia do poder local;
 
 f) Planeamento e organização da intervenção social;
 
@@ -30,4 +30,4 @@ h) Coordenação e avaliação da execução das ações contratualizadas.
 
 4 - (Revogado.)
 
-5 - Sempre que se justifique uma intervenção complementar, devem ser acionadas, em parceria, outras entidades ou sectores da comunidade vocacionadas para a prestação dos apoios mais adequados, designadamente da saúde, educação, justiça, emprego e formação profissional.
+5 - Sempre que se justifique uma intervenção complementar, devem ser acionadas, em parceria, outras entidades ou setores da comunidade vocacionadas para a prestação dos apoios mais adequados, designadamente da segurança social, saúde, educação, justiça, migrações, emprego e formação profissional.
