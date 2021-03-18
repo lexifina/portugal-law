@@ -1,9 +1,11 @@
 # Artigo 35.º-C
 
-### Suspensão e prorrogação de prazos para os trabalhos de gestão de combustível
+### Prorrogação de prazos para os trabalhos de gestão de combustível
 
-1 - Até 30 de junho de 2020, os municípios garantem a realização de todos os trabalhos de gestão de combustível nos termos previstos na lei, devendo substituir-se aos proprietários e outros produtores florestais em incumprimento.
+1 - Até 15 de maio de 2021, os proprietários, arrendatários, usufrutuários ou entidades que, a qualquer título, detenham terrenos confinantes a edifícios inseridos em espaços rurais garantem a realização dos trabalhos de gestão de combustível.
 
-2 - Quando o termo do prazo das autorizações para cortes ou arranques de sobreiros e azinheiras, em povoamentos ou isolados, cartas de caçador e zonas de caça tenha ocorrido no período da declaração do estado de emergência, esse prazo é prorrogado até 30 de setembro de 2020.
+2 - Até 15 de maio de 2021, nos aglomerados populacionais inseridos ou confinantes com espaços florestais, e previamente definidos nos planos municipais de defesa da floresta contra incêndios (PMDFCI), é obrigatória a gestão de combustível numa faixa exterior de proteção de largura mínima não inferior a 100 m, podendo, face à perigosidade de incêndio rural de escala municipal, outra amplitude ser definida nos respetivos PMDFCI.
 
-3 - Quando o termo dos prazos previstos no processo de constituição das zonas de intervenção florestal tenha ocorrido no período da declaração do estado de emergência, esses prazos são prorrogados até 30 de setembro de 2020.
+3 - Até 15 de maio de 2021, as entidades gestoras ou, na sua inexistência ou não cumprimento da obrigação, as câmaras municipais garantem a realização dos trabalhos de gestão de combustível nos parques de campismo, nos parques e polígonos industriais, nas plataformas de logística e nos aterros sanitários inseridos ou confinantes com espaços florestais previamente definidos no PMDFCI, bem como a manutenção de uma faixa envolvente com uma largura mínima não inferior a 100 m.
+
+4 - Os PMDFCI devem estar aprovados ou atualizados até 31 de maio de 2021.
