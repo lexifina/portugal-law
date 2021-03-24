@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=z0cicdXsctfDc%2f9d1yARp1h7LFP%2fPGVMel8b9Bs7qvIqqHf34aeiO%2fdSKc0kDVR%2fLPbpEhs8U02z8aTDhVPvFDlF%2fdKEEctQOAVBXAtX7LLShPZo92EzlqrMf22g5W0QzGV0aCZng02VuQ2i47rX6KSQmaNsnVdROvmsS6SfIEfjwTnjcIIdg5uaB26FYEsyBxpEx535%2flU1eVLFTgnGeYJwshXN9MyVA9O79pSzvAtRnFl4FA9LHWO0i%2fC6Jes0DgOirCwusGnDpbNeLznaglZoqG5yA3uKgOEVajD%2bffRtAHBPCFjXYUZYch%2fFDjvpml8adBIDDiTp4ORyeY%2buOiAEn0WrTw1oHDEHpIHFYgc2Z%2f2WA%2bcWd1S5gBz1pfYaXvKLX4rMWQ6%2fHvxYqG7g79%2bPFDMkB%2bjM%2f8YhHh57FjA%3d&fich=RequerimentosXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "96fd1f34afbaf4a538efe509d9bf0017a1ace25d2f4cc53999570fe4dcaa1746",
+  "legislatura": "XIV",
+  "id": "120968",
+  "tipo": "Pergunta",
+  "numero": "1680",
+  "data_registo": "2021-03-24",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Constatação de atrasos na aplicação da Lei n.º 28/2018",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "4022",
+        "nome": "João Vasconcelos"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3926",
+        "nome": "Pedro Filipe Soares"
+      }
+    ],
+    "DataEnvio": "2021-03-25",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2021-03-25",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro da Defesa Nacional",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2021-04-28",
+            "docRemetida": null,
+            "entidade": "Ministro da Defesa Nacional",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c3251774f5449314e474d784c5445774f4463744e4449784e7931694f5467774c544e6d4e6d5579596a566b4e5749344f4335775a47593d&fich=d09254c1-1087-4217-b980-3f6e2b5d5b88.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2021-03-24",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c3249794e5441794d7a45304c5751344d6a41744e446c6a4d693035595755324c5751794e6d5577596a49794f544e6b4e4335775a47593d&fich=b2502314-d820-49c2-9ae6-d26e0b2293d4.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "120968",
+    "Legislatura": "XIV",
+    "Nr": "1680",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
