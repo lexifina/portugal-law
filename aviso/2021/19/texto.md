@@ -1,0 +1,6 @@
+Aviso n.º 19/2021
+Sumário: Cumprimento das formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e os Estados Unidos Mexicanos Relativo à Cooperação em Matéria de Redução da Procura e Luta contra o Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas.
+Por ordem superior se torna público que, em 4 de junho de 2015 e em 28 de junho de 2018, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros de Portugal e pela Secretaria de Relações Exteriores do México, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e os Estados Unidos Mexicanos Relativo à Cooperação em Matéria de Redução da Procura e Luta contra o Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, assinado na Cidade do México, a 16 de outubro de 2013.
+O referido Acordo foi aprovado pela Resolução da Assembleia da República n.º 55/2015, de 27 de março, e ratificada pelo Decreto do Presidente da República n.º 33/2015, de 27 de março, ambos publicados no Diário da República, 1.ª série, n.º 105, de 1 de junho de 2015. Nos termos do artigo 15.º do referido Acordo, este entrou em vigor a 28 de julho de 2018.
+Direção-Geral de Política Externa, 17 de março de 2021. - A Subdiretora-Geral, Ana Filomena Rocha.
+114077399
