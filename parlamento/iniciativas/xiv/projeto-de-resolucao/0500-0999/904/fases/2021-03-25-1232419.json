@@ -1,0 +1,921 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "904",
+    "id": "45710",
+    "titulo": "Recomenda ao Governo português que crie um mecanismo financeiro de apoio à eficiência energética de edifícios e de combate à pobreza energética"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2021-03-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17264",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2021-03-25",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "45670",
+        "leg": "XIV",
+        "nr": "878",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que melhore o Programa «Edifícios Mais Sustentáveis» e o direcione para o combate à pobreza energética"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "45684",
+        "leg": "XIV",
+        "nr": "889",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a adoção de medidas de combate à pobreza energética"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110375",
+        "leg": "XIV",
+        "nr": "1012",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Pela concretização de um programa para o combate à pobreza energética "
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110446",
+        "leg": "XIV",
+        "nr": "1061",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que reforce os incentivos à melhoria da eficiência energética das habitações e ao combate à pobreza energética"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110477",
+        "leg": "XIV",
+        "nr": "1084",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo medidas de combate à pobreza energética"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110496",
+        "leg": "XIV",
+        "nr": "1097",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6025",
+            "obs": null,
+            "pag": [
+              "100-101"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-09",
+            "pubLeg": "XIV",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o Reforço Financeiro e Técnico do Programa “Edifícios mais Sustentáveis” e a Atribuição de \"Créditos Energéticos\" às Famílias mais Vulneráveis como forma de combate à Pobreza Energética"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-03-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "100-101"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-09",
+                "pubLeg": "XIV",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/054/2021-04-09/100?pgs=100-101&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que melhore o Programa «Edifícios Mais Sustentáveis» e o direcione para o combate à pobreza energética; Recomenda ao Governo a adoção de medidas de combate à pobreza energética; Recomenda ao Governo português que crie um mecanismo financeiro de apoio à eficiência energética de edifícios e de combate à pobreza energética; Pela concretização de um programa para o combate à pobreza energética; Recomenda ao Governo que reforce os incentivos à melhoria da eficiência energética das habitações e ao combate à pobreza energética; Recomenda ao Governo medidas de combate à pobreza energética; Recomenda ao Governo o reforço financeiro e técnico do Programa Edifícios mais sustentáveis e a atribuição de créditos energéticos às famílias mais vulneráveis como forma de combate à pobreza energética.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1232419",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "927375",
+        "obs": null,
+        "pag": [
+          "84-85"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-03-26",
+        "pubLeg": "XIV",
+        "pubNr": "52",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/84?pgs=84-85&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-03-25",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>BE</I>, <I> PCP</I>, <I> CH</I>, <I> IL</I>",
+        "id": "90416",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "52",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
