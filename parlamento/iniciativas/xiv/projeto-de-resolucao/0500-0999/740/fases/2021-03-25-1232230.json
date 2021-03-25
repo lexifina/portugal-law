@@ -1,0 +1,977 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "740",
+    "id": "45428",
+    "titulo": "Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por acção do covid-19"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2021-03-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16852",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2021-03-25",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "110326",
+        "leg": "XIV",
+        "nr": "684",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL)\n\n"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "110348",
+        "leg": "XIV",
+        "nr": "693",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "45454",
+        "leg": "XIV",
+        "nr": "753",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Pela tomada de medidas de proteção ao comércio local e à restauração, durante o estado de emergência"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110341",
+        "leg": "XIV",
+        "nr": "990",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6008",
+            "obs": null,
+            "pag": [
+              "34-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-03-26",
+            "pubLeg": "XIV",
+            "pubNr": "52",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "A reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-03-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4126",
+                "nome": "Luís Moreira Testa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=35"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34",
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34,41-42&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6550",
+                "nome": "João Cotrim de Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3951",
+                "nome": "José Maria Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=41"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39",
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/38?pgs=38-39,40-41&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "21:10",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_25_14_30_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-26",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Altera as regras de enquadramento do Programa de Apoio à Economia Local (PAEL); Assegura a alteração das regras de incumprimento e cessação do Plano de Ajustamento Financeiro no âmbito do Programa de Apoio à Economia Local, procedendo à terceira alteração da Lei n.º 43/2012, de 28 de agosto; Pelo apoio aos guias de informação turística açorianos que se encontram em cenário de verdadeira periclitância social e económica por ação da COVID-19; Pela tomada de medidas de proteção ao comércio local e à restauração durante o estado de emergência e Reabertura dos cabeleireiros e barbeiros a partir do próximo dia 22 de fevereiro, estabelecendo um conjunto de medidas que previnam o contágio por COVID-19.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1232230",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "927889",
+        "obs": null,
+        "pag": [
+          "34-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-03-26",
+        "pubLeg": "XIV",
+        "pubNr": "52",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/052/2021-03-26/34?pgs=34-42&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
