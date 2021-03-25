@@ -1,0 +1,189 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "38",
+    "id": "45588",
+    "titulo": "Decreto-Lei n.º 102-D/2020, de 10 de dezembro - «Aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as Diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852»"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2021-03-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "50570",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2021-04-27",
+            "id": "116963",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2021-05-04",
+            "id": "117010",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-03-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7464",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Ambiente, Energia e Ordenamento do Território",
+        "Numero": "7464",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2021-04-28"
+          },
+          {
+            "link": "",
+            "nome": "ZERO - Associação Sistema Terrestre Sustentável em 2021-04-28"
+          },
+          {
+            "link": "",
+            "nome": "Smart Waste Portugal  em 2021-04-29"
+          },
+          {
+            "link": "",
+            "nome": "Novo Verde, Entidade Gestora de Resíduos de Embalagens em 2021-04-29"
+          },
+          {
+            "link": "",
+            "nome": "Sociedade Ponto Verde em 2021-04-29"
+          },
+          {
+            "link": "",
+            "nome": "Environment Global Facilities em 2021-04-29"
+          },
+          {
+            "link": "",
+            "nome": "Valorsul em 2021-04-30"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2021-04-16"
+          },
+          {
+            "link": "",
+            "nome": "ZERO - Associação Sistema Terrestre Sustentável em 2021-04-16"
+          },
+          {
+            "link": "",
+            "nome": "Smart Waste Portugal  em 2021-04-16"
+          },
+          {
+            "link": "",
+            "nome": "Novo Verde, Entidade Gestora de Resíduos de Embalagens em 2021-04-16"
+          },
+          {
+            "link": "",
+            "nome": "Sociedade Ponto Verde em 2021-04-16"
+          },
+          {
+            "link": "",
+            "nome": "Environment Global Facilities em 2021-04-16"
+          },
+          {
+            "link": "",
+            "nome": "Valorsul em 2021-04-16"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-06-02",
+            "dataRemessa": "2021-06-02",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2021-06-01",
+            "descricao": "Aprovado por unanimidade a ratificação das votações Indiciarias efetuadas pelo Grupo de Trabalho (artigo a artigo)",
+            "detalhe": null,
+            "id": "91109",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "82",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2021-03-25",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1232361",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929057",
+        "obs": null,
+        "pag": [
+          "9-239"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-04",
+        "pubLeg": "XIV",
+        "pubNr": "48",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/048/2021-06-04/9?pgs=9-239&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
