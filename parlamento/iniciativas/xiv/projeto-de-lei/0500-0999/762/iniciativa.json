@@ -1,0 +1,159 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "762",
+  "id": "110586",
+  "fases": 18,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-03-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d44457a4d47466a4d6a55744f54686b5a4330304f444d334c546b324d3255744d574a6c4d3255785a54517a4f474d344c6e426b5a673d3d&fich=0130ac25-98dd-4837-963e-1be3e1e438c8.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "BE",
+        "idCadastro": "5549",
+        "nome": "Alexandra Vieira"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3926",
+        "nome": "Pedro Filipe Soares"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4557",
+        "nome": "Mariana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4194",
+        "nome": "Jorge Costa"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4450",
+        "nome": "Beatriz Gomes Dias"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6024",
+        "nome": "Fabíola Cardoso"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5854",
+        "nome": "Isabel Pires"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4022",
+        "nome": "João Vasconcelos"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3998",
+        "nome": "José Manuel Pureza"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3951",
+        "nome": "José Maria Cardoso"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5949",
+        "nome": "Luís Monteiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5952",
+        "nome": "Maria Manuel Rola"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4162",
+        "nome": "Moisés Ferreira"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "3928",
+        "nome": "Nelson Peralta"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6533",
+        "nome": "Ricardo Vicente"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4196",
+        "nome": "Sandra Cunha"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4161",
+        "nome": "Catarina Martins"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "BE"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "110586",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d5a6b4e6a6c6a4e7a6b744d44646b5a69303059544d784c546b33597a4574597a526a5a6d45334d325a6d5a6d59784c6d527659773d3d&fich=ffd69c79-07df-4a31-97c1-c4cfa73ffff1.doc&Inline=true",
+    "IniNr": "762",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Programa de vinculação dos docentes de técnicas especiais do ensino artístico especializado nas áreas das artes visuais e dos audiovisuais",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Alteração dos intervalos a concurso dos docentes, nomeadamente o ponto 8 do artigo 9.º do Decreto-Lei n.º 132/2012, de 27 de junho",
+        "dcl": null,
+        "descTipo": null,
+        "id": "13490",
+        "legislatura": "XIV",
+        "numero": "123",
+        "sessao": "1",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
