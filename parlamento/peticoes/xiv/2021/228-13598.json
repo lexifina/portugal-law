@@ -1,0 +1,169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13598",
+  "numero": "228",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-03-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-06-17",
+            "entidades": null,
+            "id": "127176",
+            "tipo": null,
+            "titulo": "Audição em 2021-06-17 com Andreia Pais"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-07-07",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915077",
+                "obs": null,
+                "pag": [
+                  "13-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-07-10",
+                "pubLeg": "XIV",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/055/2021-07-10/13?pgs=13-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-04-27",
+        "DataArquivo": "2021-07-07",
+        "DataBaixaComissao": "2021-04-08",
+        "DataEnvioPAR": "2021-07-09",
+        "DataReaberta": "2021-04-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-04-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457851304646543151765247396a6457316c626e52766331426c64476c6a59573876596a4a6b4f4745314e544d744e4467324d6930305a574a6a4c574a6b4d6a6374593246694e5459314e54557a5a54526d4c6e426b5a673d3d&fich=b2d8a553-4862-4ebc-bd27-cab565553e4f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-07-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457851304646543151765247396a6457316c626e52766331426c64476c6a595738764e444a6d4d4751314e7a6b745a6a5a6d4e6930304f4464684c546733595755744e44466a596a457a4d7a526c5932526b4c6e426b5a673d3d&fich=42f0d579-f6f6-487a-87ae-41cb1334ecdd.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7464",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Ambiente, Energia e Ordenamento do Território",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-04-27",
+            "gp": "PSD",
+            "id": "5693",
+            "motivoCessacao": null,
+            "nome": "Rui Cristina"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-04-12",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325932597a63314f57566b4c5451354e5749744e445a6d4e6931684d5449324c5445784f4749334f574a6d4d6d4a6b596935775a47593d&fich=f6c759ed-495b-46f6-a126-118b79bf2bdb.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13598",
+    "PetAssunto": "Parar a destruição das alagoas, de Lagoa",
+    "PetDataEntrada": "2021-03-27",
+    "PeticoesAssociadas": null,
+    "PetId": "13598",
+    "PetLeg": "XIV",
+    "PetNr": "228",
+    "PetNrAssinaturas": "4558",
+    "PetNrAssinaturasInicial": "4472",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915078",
+        "obs": null,
+        "pag": [
+          "32-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-30",
+        "pubLeg": "XIV",
+        "pubNr": "41",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/041/2021-04-30/32?pgs=32-34&org=PLC"
+      }
+    ]
+  }
+}
