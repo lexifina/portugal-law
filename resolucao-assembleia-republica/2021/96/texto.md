@@ -1,0 +1,11 @@
+Resolução da Assembleia da República n.º 96/2021
+Sumário: Recomenda ao Governo que adote as medidas necessárias com vista ao reforço da recolha seletiva em Portugal.
+Recomenda ao Governo que adote as medidas necessárias com vista ao reforço da recolha seletiva em Portugal
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Adote as medidas necessárias com vista ao reforço da recolha seletiva em Portugal, desde logo pela implementação de metodologias de recolha que privilegiem o princípio do poluidor-pagador, como as metodologias pay-as-you-throw (PAYT), contribuindo para o aumento dos níveis de reciclagem do País e o alcance das metas estabelecidas e na prossecução de uma economia mais circular.
+2 - Reformule os mecanismos existentes para disponibilizar financiamento direcionado aos municípios para reformulação e modernização dos sistemas de gestão de resíduos, nomeadamente através do Programa Operacional Sustentabilidade e Eficiência no Uso de Recursos ou de outros fundos, com vista à sua substituição por sistemas que reforcem o princípio do poluidor-pagador, imputando o custo ao produtor de resíduos indiferenciados, beneficiando quem mais recicla.
+3 - Tenha em conta, na alteração em curso do regime geral de gestão de resíduos, a possibilidade de consagrar que, sempre que possível e tecnicamente viável, o custo inerente à recolha e tratamento de resíduos domésticos indiferenciados (resíduos urbanos) seja imputado individualmente ao produtor.
+4 - Determine que a Entidade Reguladora de Serviços de Água e Resíduos, com a colaboração da Agência Portuguesa do Ambiente, caracterize e acompanhe, de forma periódica, a implementação do PAYT ou de outros modelos, tendo em vista o princípio do poluidor-pagador, identificando os municípios onde esta solução já está implementada ou em processo de implementação, as dificuldades associadas e os resultados obtidos, nomeadamente as taxas de recolha seletiva obtidas, capitação média por habitante, custos da operação e os benefícios para os cidadãos, e promovendo a sua publicitação e partilha junto dos municípios.
+Aprovada em 18 de fevereiro de 2021.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+114081448
