@@ -1,0 +1,2391 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1039",
+    "id": "110413",
+    "titulo": "Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2021-03-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16873",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2021-03-31",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "110417",
+        "leg": "XIV",
+        "nr": "712",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "110432",
+        "leg": "XIV",
+        "nr": "717",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Estabelece a prorrogação e alargamento das moratórias bancárias "
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "45773",
+        "leg": "XIV",
+        "nr": "949",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110307",
+        "leg": "XIV",
+        "nr": "970",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que proceda à alteração das regras dos programas “Apoiar + simples” e “Apoiar rendas”"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110320",
+        "leg": "XIV",
+        "nr": "979",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Medidas de apoio à recuperação da economia "
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110412",
+        "leg": "XIV",
+        "nr": "1038",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110414",
+        "leg": "XIV",
+        "nr": "1040",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110415",
+        "leg": "XIV",
+        "nr": "1041",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID 19"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110427",
+        "leg": "XIV",
+        "nr": "1051",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6043",
+            "obs": null,
+            "pag": [
+              "62-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que alargue o Programa Apoiar  às empresas e aos empresário em nome individual que ficaram excluídos das medidas desse programa"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-03-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=74"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63",
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/63?pgs=63,72&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6549",
+                "nome": "Bebiana Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=78"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6550",
+                "nome": "João Cotrim de Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/67?pgs=67&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=80"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4012",
+                "nome": "Fernando Anastácio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5710",
+                "nome": "Duarte Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/70?pgs=70&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5835",
+                "nome": "Ricardo Leão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Adaptação das regras de acesso à medida APOIAR para empresas que continuem a trabalhar;  Recomenda ao Governo português que permita o acesso aos Programas «APOIAR+SIMPLES» e «APOIAR RENDAS» aos empresários em nome individual sem trabalhadores a cargo; Estabelece a medida excecional e temporária da admissibilidade da suspensão de contratos de fornecimento de serviços essenciais no contexto das respostas à crise epidémica de COVID-19; Estabelece a prorrogação e o alargamento das moratórias bancárias; Medidas de apoio à recuperação da economia; Pela mobilização de apoios aos lojistas dos centros comerciais no contexto do combate à epidemia de COVID-19; Pela revisão do regime de funcionamento de atividades económicas de bens e serviços no contexto do combate à epidemia de COVID-19; Pela melhoria das medidas de apoio às micro, pequenas e médias empresas na resposta aos impactos da epidemia de COVID-19; Estabelece a rede de contacto e apoio a microempresários e a empresários em nome individual para acesso às medidas de resposta à epidemia por COVID-19; Recomenda ao Governo que alargue o Programa APOIAR às empresas e aos empresários em nome individual que ficaram excluídos das medidas desse programa",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1232560",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "928193",
+        "obs": null,
+        "pag": [
+          "62-72"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-01",
+        "pubLeg": "XIV",
+        "pubNr": "53",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/62?pgs=62-72&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
