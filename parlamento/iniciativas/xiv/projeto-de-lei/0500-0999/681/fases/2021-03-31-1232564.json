@@ -1,0 +1,928 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "681",
+    "id": "110316",
+    "titulo": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-03-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16877",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-03-31",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "110378",
+        "leg": "XIV",
+        "nr": "703",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (9ª alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e 4.ª alteração à Lei n.º 92/95, de 12 de setembro)"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "110508",
+        "leg": "XIV",
+        "nr": "735",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça "
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "110511",
+        "leg": "XIV",
+        "nr": "737",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Procede à quarta alteração à Lei n.º 92/95 de 12 de Setembro restringindo práticas exclusivamente desportivas que provoquem morte a animais"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "45136",
+        "leg": "XIV",
+        "nr": "583",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6044",
+            "obs": null,
+            "pag": [
+              "72-81"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-01",
+            "pubLeg": "XIV",
+            "pubNr": "53",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela inclusão da protecção prioritária dos animais no plano nacional de proteção civil"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-03-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=86"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73",
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-73,80-81&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5952",
+                "nome": "Maria Manuel Rola"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=87"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74",
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/73?pgs=73-74,79-80&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "6933",
+                "nome": "Mariana Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=88"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=89"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Ninsc",
+                "idCadastro": "6547",
+                "nome": "Cristina Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=90"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=96"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76",
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/75?pgs=75-76,80&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "416",
+                "nome": "Pedro do Carmo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6119",
+                "nome": "Emília Cerqueira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5524",
+                "nome": "João Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:05",
+            "horaTermo": "20:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_31_14_00_00_clean_14_plenario.xml&idsegmento=94"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-01",
+                "pubLeg": "XIV",
+                "pubNr": "53",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/79?pgs=79&org=PLC"
+              }
+            ],
+            "sumario": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro; Proíbe a prática de tiro a animais criados em cativeiro e libertados para servirem de alvo em campos de treino de caça e eventos de tiro (nona alteração ao Decreto-Lei n.º 202/2004, de 18 de agosto, e quarta alteração à Lei n.º 92/95, de 12 de setembro); Proíbe a utilização de animais vivos para a prática desportiva do tiro com arma de caça; Procede à quarta alteração à Lei n.º 92/95, de 12 de setembro, restringindo práticas exclusivamente desportivas que provoquem morte a animais; Pela inclusão da proteção prioritária dos animais no plano nacional de proteção civil",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1232564",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "928197",
+        "obs": null,
+        "pag": [
+          "72-81"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-01",
+        "pubLeg": "XIV",
+        "pubNr": "53",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/053/2021-04-01/72?pgs=72-81&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
