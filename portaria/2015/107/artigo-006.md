@@ -43,3 +43,5 @@ b) Obrigarem-se a que o montante dos suprimentos ou empréstimos de sócios ou a
 7 - A condição referida na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.
 
 8 - As condições previstas na alínea f) do n.º 1 e na alínea a) do n.º 2 podem ser demonstradas até à data de aceitação da concessão do apoio, quando o candidato não tenha desenvolvido qualquer atividade.
+
+9 - A condição referida na alínea b) do n.º 2 não é aplicável às candidaturas com investimentos em explorações agrícolas abrangidas por medidas extraordinárias adotadas no âmbito de catástrofes naturais, nem aos apoios 'Next Generation'.
