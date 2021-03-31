@@ -68,9 +68,9 @@ c) A avaliação dos resultados nas PME participantes, com base nos indicadores 
 
 d) Ações de divulgação e disseminação de resultados;
 
-e) Custos com pessoal da entidade promotora afetos às atividades descritas nas alíneas anteriores, até ao limite de 5% dos outros custos elegíveis do projeto conjunto.
+e) Custos com pessoal da entidade promotora afetos às atividades descritas nas alíneas anteriores, até ao limite fixado em cada aviso para apresentação de candidaturas, o qual não poderá ser superior ao limite máximo de 7 % dos outros custos elegíveis do projeto conjunto.
 
-3- As despesas referidas no n.º 2 não podem representar mais de 15% dos custos elegíveis totais da modalidade candidatura projeto conjunto.
+3 - As despesas referidas no n.º 2 não podem representar mais de 20 % dos custos elegíveis totais da modalidade candidatura projeto conjunto, sem prejuízo de poder ser fixado, em sede de aviso para apresentação de candidaturas e sempre que se justifique, um limite máximo inferior.
 
 4- As despesas referidas no n.º 1 apenas são elegíveis se preencherem as seguintes condições:
 

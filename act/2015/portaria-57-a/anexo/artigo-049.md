@@ -11,3 +11,5 @@ a) 500.000 euros no caso de projetos individuais;
 b) 180.000 euros valor médio máximo por empresa beneficiária, no caso de projetos conjuntos.
 
 3- No que respeita aos incentivos a conceder aos projetos no âmbito dos vales internacionalização e inovação, os incentivos revestem a forma não reembolsável e tem como limite máximo 15.000 euros por projeto.
+
+4 - O limite de incentivo fixado na alínea b) do anterior n.º 2 não é aplicável às empresas beneficiárias, no caso dos projetos conjuntos financiados pelo Fundo Social Europeu (FSE).
