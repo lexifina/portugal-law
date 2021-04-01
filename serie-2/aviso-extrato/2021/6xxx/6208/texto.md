@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 6208/2021
+Sumário: Projeto de regulamento do campo de férias municipal - consulta pública.
+Projeto de Regulamento do Campo de Férias Municipal_Consulta Pública
+Luís Carlos Piteira Dias, Presidente da Câmara Municipal de Vendas Novas, torna a público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, em sua reunião ordinária realizada dia 17 de março de 2021, deliberou aprovar o projeto de Regulamento do Campo de Férias Municipal, no sentido de submeter o mesma à apreciação pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data de publicação do presente aviso, para cumprimento do disposto artigo 101.º do Código do Procedimento Administrativo.
+O documento encontra-se disponível para consulta na Junta de Freguesia da Landeira no Centro de Atendimento ao Público da Câmara Municipal de Vendas Novas, todos os dias úteis das 9.00 às 12.30 e das 14.00 às 17.30 horas, bem como no sítio do Município de Vendas Novas na Internet (www.cm-vendasnovas.pt) As sugestões deverão ser formuladas por escrito, presencialmente, por correio ou por via eletrónica através do endereço de e-mail do Município de Vendas Novas e enviadas à Câmara Municipal, dirigidas ao seu Presidente, até às 17,30 horas do último dia do prazo acima referido.
+18 de março de 2021. - O Presidente da Câmara Municipal, Luís Carlos Piteira Dias.
+314082274
