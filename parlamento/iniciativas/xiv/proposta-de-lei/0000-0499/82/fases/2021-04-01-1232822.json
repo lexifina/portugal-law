@@ -1,0 +1,130 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "82",
+    "id": "110619",
+    "titulo": "Autoriza o Governo a legislar sobre o regime jurídico do ensino individual e do ensino doméstico"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2021-04-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "50647",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-04-01",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-04-19",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - ANPED",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d774d6a51354d6a49774c5756694e7a67744e474d305a693035596a67334c546b324e5455334d6a59774d475a6d4e6935775a47593d&fich=30249220-eb78-4c4f-9b87-965572600ff6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-19",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Ofício - ANPED",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259304f544d794d5459334c54686d596a6b744e474578596931684f4449334c575a6b5a54557859324e6d4e3245344d4335775a47593d&fich=f4932167-8fb9-4a1b-a827-fde51ccf7a80.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-20",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "ANPED - Análise do Decreto-Lei previsto na Proposta-Lei 82/XIV/2",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6a5a5449344e4746684c546731595449744e4745324d4331694e6a4d774c5451324e3251785a6a6b794e4751334d6935775a47593d&fich=2ce284aa-85a2-4a60-b630-467d1f924d72.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d304f4441794d32566a4c544a6c4f4467744e44526c4f433169596a63774c544d324d7a466c597a51774f544d77596935775a47593d&fich=c48023ec-2e88-44e8-bb70-3631ec40930b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-21",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a68694e6a4a694d4755774c574668595459744e47517a4d7930354e44597a4c57526a596d45325954646c4d474d355a4335775a47593d&fich=8b62b0e0-aaa6-4d33-9463-dcba6a7e0c9d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7404",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "Numero": "7404",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-04-01",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1232822",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "927305",
+        "obs": null,
+        "pag": [
+          "51-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-20",
+        "pubLeg": "XIV",
+        "pubNr": "118",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/118/2021-04-20/51?pgs=51-61&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
