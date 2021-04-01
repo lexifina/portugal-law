@@ -8,7 +8,7 @@ a) Da entrada em vigor de leis ou regulamentos;
 
 b) Da entrada em vigor de outros programas e planos territoriais com que devam ser compatíveis ou conformes;
 
-c) Do disposto no n.º 7 do artigo 72.º
+c) Do disposto no n.º 9 do artigo 72.º
 
 2 - A alteração por adaptação dos programas e dos planos territoriais não pode envolver uma decisão autónoma de planeamento e limita-se a transpor o conteúdo do ato legislativo ou regulamentar ou do programa ou plano territorial que determinou a alteração.
 

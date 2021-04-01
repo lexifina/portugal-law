@@ -20,8 +20,12 @@ c) Demonstração da viabilidade económico-financeira da proposta, incluindo a 
 
 6 - A reclassificação do solo que se destine exclusivamente à execução de infraestruturas e de equipamentos de utilização coletiva obedece aos critérios previstos nos n.os 1 e 3 e processa-se através de procedimentos de elaboração, de revisão ou de alteração de planos territoriais, nos quais é fixado o respetivo prazo de execução.
 
-7 - A alteração por adaptação, do plano diretor municipal ou do plano diretor intermunicipal, só deve ser realizada findo o prazo previsto no n.º 5 e desde que executadas as operações urbanísticas previstas no plano, seguindo o procedimento referido no artigo 121.º
+7 - A reclassificação do solo, na contiguidade de solo urbano, que se destine à instalação de atividades de natureza industrial, de armazenagem ou logística e aos respetivos serviços de apoio, pode ser realizada através da elaboração, revisão ou alteração de plano territorial, de acordo com os critérios estabelecidos nos n.os 1 a 3, sendo o respetivo prazo de execução definido no plano territorial objeto de elaboração, alteração ou revisão.
 
-8 - Findo o prazo previsto para a execução do plano, a não realização das operações urbanísticas previstas determina, automaticamente, a caducidade total ou parcial da classificação do solo como urbano, sem prejuízo das faculdades urbanísticas adquiridas mediante título urbanístico, nos termos da lei.
+8 - A reclassificação do solo a que se refere o número anterior fica sujeita à delimitação de uma unidade de execução e à garantia da provisão de infraestruturas e de serviços associados, mediante contratualização dos encargos urbanísticos e inscrição no programa de execução, nos planos de atividades e nos orçamentos municipais.
 
-9 - Nas situações previstas no número anterior a câmara municipal deve, no prazo de 60 dias, iniciar procedimento de alteração ou de revisão do plano, de forma a garantir a coerência do modelo territorial.
+9 - A alteração por adaptação, do plano diretor municipal ou do plano diretor intermunicipal, só deve ser realizada findo o prazo previsto no n.º 5 e desde que executadas as operações urbanísticas previstas no plano, seguindo o procedimento referido no artigo 121.º
+
+10 - Findo o prazo previsto para a execução do plano, a não realização das operações urbanísticas previstas determina, automaticamente, a caducidade total ou parcial da classificação do solo como urbano, sem prejuízo das faculdades urbanísticas adquiridas mediante título urbanístico, nos termos da lei.
+
+11 - Nas situações previstas no número anterior a câmara municipal deve, no prazo de 60 dias, iniciar procedimento de alteração ou de revisão do plano, de forma a garantir a coerência do modelo territorial.

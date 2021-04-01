@@ -4,9 +4,9 @@
 
 1 - A não atualização do plano territorial, no prazo fixado nos termos do n.º 1 do artigo anterior, determina a suspensão das normas do plano territorial, intermunicipal ou municipal que deviam ter sido alteradas, não podendo, na área abrangida, haver lugar à prática de quaisquer atos ou operações que impliquem a ocupação, uso e transformação do solo.
 
-2 - Para efeitos do disposto no número anterior, a comissão de coordenação e desenvolvimento regional territorialmente competente deve emitir uma declaração da suspensão, a qual deve ser publicitada no Diário da República e na plataforma colaborativa de gestão territorial, no prazo de 10 dias a contar da data da suspensão.
+2 - Após audição da câmara municipal, a realizar até ao 20.º dia útil anterior ao termo do prazo de atualização do plano territorial, a comissão de coordenação e desenvolvimento regional territorialmente competente deve, no dia seguinte ao termo do prazo de atualização emitir uma declaração identificando as normas objeto da suspensão prevista no número anterior, a qual deve ser publicitada no Diário da República e na plataforma colaborativa de gestão territorial, no prazo de 10 dias.
 
-3 - A suspensão prevista nos números anteriores vigora da data da publicação da declaração de suspensão até à atualização dos planos territoriais.
+3 - A suspensão prevista no n.º 1 vigora desde o fim do prazo de atualização do plano territorial até à atualização do mesmo.
 
 4 - A falta de iniciativa, por parte da entidade intermunicipal, da associação de municípios ou do município, tendente a desencadear o procedimento de atualização do plano territorial, bem como o atraso da mesma atualização por facto imputável às referidas entidades, determina a suspensão do respetivo direito de candidatura a apoios financeiros comunitários e nacionais, até à data da conclusão do processo de atualização, bem como a não celebração de contratos-programa.
 
