@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Disposições transitórias e finais
-
 # Artigo 17.º
 
 ### Regulamentação
