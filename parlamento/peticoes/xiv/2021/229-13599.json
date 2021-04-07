@@ -1,0 +1,779 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13599",
+  "numero": "229",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-04-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-07-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-04-28",
+        "DataArquivo": "2021-07-21",
+        "DataBaixaComissao": "2021-04-15",
+        "DataEnvioPAR": "2021-07-21",
+        "DataReaberta": "2021-04-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-06-23",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938774d4445774d6a4d314e43316b59574a6a4c5451354d544d744f54686d4d6931694f5456684f4746684e6d55334f5751756347526d&fich=00102354-dabc-4913-98f2-b95a8aa6e79d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-05-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938784d324a6d5957526c4f43316a5a6d51354c545179596d4574596a45344d6930334e5463324e7a6c6a4e4446684d6d51756347526d&fich=13bfade8-cfd9-42ba-b182-757679c41a2d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-07-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396a596a526a595463355a4330304e6a55354c5451304d445174595459775a5330304e5759774e32526c4f546735595463756347526d&fich=cb4ca79d-4659-4404-a60e-45f07de989a7.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-06-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938314e54497a5a6a63305a5330324e3251314c54517a4f544d744f546b7a4e53316d5a54646b4f544e6a5a4455354f5759756347526d&fich=5523f74e-67d5-4393-9935-fe7d93cd599f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-06-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793877596a686b59545a6b595330784f4455354c5451784e4463744f54466b5a53316a596a426c4e6a64694e5755774d6d49756347526d&fich=0b8da6da-1859-4147-91de-cb0e67b5e02b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-06-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938784f4446684f574a684d7930354d7a51304c5451794d5455744f5755774e6930354f57566c5a6a4d355a6d4e685a6a49756347526d&fich=181a9ba3-9344-4215-9e06-99eef39fcaf2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938304d5752694f44466a4e53316c4f54646a4c5451335954497459574e685a43316a4d546b335a6a45784d6a5a6c4d7a51756347526d&fich=41db81c5-e97c-47a2-acad-c197f1126e34.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938325a6a4533596a677a4e79316c5a6d55344c54526a4d474574596a517a4d6930354f5755335a6a5a694d6d49314d6a41756347526d&fich=6f17b837-efe8-4c0a-b432-99e7f6b2b520.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7424",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-04-28",
+            "gp": "PCP",
+            "id": "4197",
+            "motivoCessacao": null,
+            "nome": "Paula Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2022-11-30",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-04-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a46694d44466d4e474a6c4c546b334e5449744e4751324e6931694e4749784c5468685a574d324e545a6c597a6b77597935775a47593d&fich=1b01f4be-9752-4d66-b4b1-8aec656ec90c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121354",
+      "121615",
+      "151963",
+      "152074"
+    ],
+    "Iniciativasoriginadas": [
+      "121354",
+      "121615",
+      "151963",
+      "152074"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33",
+                  "34-34",
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/32?pgs=32-33,34,40&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": "Insurge-se contra a qualificação por parte do CH da sua intervenção em defesa do direito à saúde das pessoas trans como 'uma trapalhada'"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": "Acusa a deputada Inês de Sousa Real de estar a querer impor uma agenda ideológica"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/35?pgs=35-37&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Acesso imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal; Recomenda ao Governo que ponha fim à discriminação de pessoas trans nos rastreios oncológicos para o cancro de mama, colorretal e de colo do útero; Acesso a terapêuticas inovadoras para o cancro da mama; Recomenda ao Governo que garanta o acesso ao Lynparza® aos doentes elegíveis com cancro da mama em Portugal; Pelo incentivo à criação de medidas de recuperação de rastreios do cancro da mama e à aprovação do financiamento de terapêutica por Lynparza® (olaparib).",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13599",
+    "PetAssunto": "Acesso Imediato ao Lynparza® para os doentes elegíveis com cancro da mama em Portugal",
+    "PetDataEntrada": "2021-04-07",
+    "PeticoesAssociadas": null,
+    "PetId": "13599",
+    "PetLeg": "XIV",
+    "PetNr": "229",
+    "PetNrAssinaturas": "11011",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16268",
+        "obs": null,
+        "pag": [
+          "30-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-11-30",
+        "pubLeg": "XV",
+        "pubNr": "61",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/30?pgs=30-40&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915150",
+        "obs": null,
+        "pag": [
+          "14-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-02",
+        "pubLeg": "XV",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/048/2022-12-02/14?pgs=14-15&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915156",
+        "obs": "Relatório final da Comissão de Saúde",
+        "pag": [
+          "10-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-17",
+        "pubLeg": "XV",
+        "pubNr": "52",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/052/2022-12-17/10?pgs=10-14&org=PLC"
+      }
+    ]
+  }
+}
