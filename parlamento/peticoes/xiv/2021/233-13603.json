@@ -1,0 +1,141 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13603",
+  "numero": "233",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-04-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-05-11",
+            "entidades": null,
+            "id": "117038",
+            "tipo": null,
+            "titulo": "Audição em 2021-05-11 com Sindicato Nacional da Carreira de Chefes da PSP"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-09-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-04-29",
+        "DataArquivo": "2021-09-14",
+        "DataBaixaComissao": "2021-04-15",
+        "DataEnvioPAR": "2021-09-15",
+        "DataReaberta": "2021-04-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-04-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a6a4d794e6a566d4d6a67744f5749325a4330304d7a557a4c546b3259325174595449304d5467344e6d526a4d7a63324c6e426b5a673d3d&fich=f3265f28-9b6d-4353-96cd-a241886dc376.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-05-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e7a4a6d4f445a6c4d6d4d744e54466b4e533030593249354c574a6c4f5759745a5442685a4755314f4463784d6a686d4c6e426b5a673d3d&fich=72f86e2c-51d5-4cb9-be9f-e0ade587128f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-09-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765932517a59324978595751744e5752694e5330304e4451314c5467795a6a49744d546b3259546b344e44526b597a59784c6e426b5a673d3d&fich=cd3cb1ad-5db5-4445-82f2-196a9844dc61.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-06-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a6a557a4f5755774f546b744d475934596930304d7a637a4c57466a4d6d49744f574e69597a59774d44646d4d44457a4c6e426b5a673d3d&fich=f539e099-0f8b-4373-ac2b-9cbc6007f013.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7264",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-04-29",
+            "gp": "PS",
+            "id": "1944",
+            "motivoCessacao": null,
+            "nome": "Susana Amador"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-04-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324d7959546b7a4e6d517a4c574d345a4751744e4751795a693169597a67334c5451324e4449354e444d314d3249305a5335775a47593d&fich=c2a936d3-c8dd-4d2f-bc87-464294353b4e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13603",
+    "PetAssunto": "Pela abertura de vagas suficientes para a promoção na carreira de Chefes da Polícia de Segurança Pública",
+    "PetDataEntrada": "2021-04-08",
+    "PeticoesAssociadas": null,
+    "PetId": "13603",
+    "PetLeg": "XIV",
+    "PetNr": "233",
+    "PetNrAssinaturas": "4948",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
