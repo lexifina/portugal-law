@@ -1,0 +1,121 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "694",
+    "id": "110349",
+    "titulo": "Assegura a suspensão de vigência das alterações que limitam os direitos de candidatura dos pequenos partidos e dos grupos de cidadãos eleitores, aprovadas pela Lei Orgânica n.º 1-A/2020, de 21 de agosto, durante o ano de 2021, e procede à décima primeira alteração à Lei Orgânica n.º 1/2001, de 14 de agosto"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2021-04-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "50689",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-04-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-04-21",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição CACDLG - Leis Eleitorais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684f5467335a4463325a4330354e6a56694c545178595745745957457a4d7930304d446c6a5a4446694e324d35595749756347526d&fich=a987d76d-965b-41aa-aa33-409cd1b7c9ab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1- Proposta de Alteração PS - Grupo de Cidadãos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d44686b5a6a5a6a4e5330774d32497a4c5451775a544974596a597a5a4330795932557a4d4745314d474a6a5a5751756347526d&fich=e08df6c5-03b3-40e2-b63d-2ce30a50bced.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2- Proposta de Alteração - PS - outras matérias eleitorais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d475a694d6a67315a4330324d5451324c54513459324d74595751335979316a595463795a6a45344d5459304f4463756347526d&fich=60fb285d-6146-48cc-ad7c-ca72f1816487.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração - PS (correções e aditamento)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c59325977596d4e6d4e6930315a6d51314c5451324d475174596d5a6d5979316d4e5451345a4759304e44637a5a4749756347526d&fich=ecf0bcf6-5fd5-460d-bffc-f548df4473db.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Proposta de alteração - PS / PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d7a4d34596a5a684e4330305a6a4e6b4c54526c5a6d4d744f5455355a5331694f5445304d6d566b4d444934596a67756347526d&fich=4338b6a4-4f3d-4efc-959e-b9142ed028b8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Proposta de Alteração - PSD (aditamento)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a6a5a6d4d7a45324d43316a595755774c5451324e4445744f5463354f53316b4f44646c4e6a646c4e6a51355a6a55756347526d&fich=2f6f3160-cae0-4641-9799-d87e67e649f5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-04-21",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e6a49354e6a49774d79303459546c6d4c5451334e546374596d497759793032595749354d44686b4e44466d596a63755a47396a65413d3d&fich=e6296203-8a9f-4757-bb0c-6ab908d41fb7.docx&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7264",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "7264",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-04-08",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1233232",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
