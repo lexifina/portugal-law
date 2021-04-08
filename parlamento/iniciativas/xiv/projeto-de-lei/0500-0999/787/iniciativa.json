@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "787",
+  "id": "110649",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-04-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6d56684d6d45334f5745744e6d526959533030596a4e6b4c546c6c4e7a41744d575977593245334e7a466a4d4467794c6e426b5a673d3d&fich=fea2a79a-6dba-4b3d-9e70-1f0ca771c082.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "5705",
+        "nome": "Ana Mesquita"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4197",
+        "nome": "Paula Santos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2234",
+        "nome": "João Oliveira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5706",
+        "nome": "Alma Rivera"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4623",
+        "nome": "Diana Ferreira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5524",
+        "nome": "João Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "210",
+        "nome": "Jerónimo de Sousa"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5710",
+        "nome": "Duarte Alves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "110649",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f545a6b4d546b304d325574597a526b4e5330304f4459774c54686a4f5451744e4751795932526b4d574e6d4e4468694c6d527659773d3d&fich=96d1943e-c4d5-4860-8c94-4d2cdd1cf48b.doc&Inline=true",
+    "IniNr": "787",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição de texto de iniciativa em 2021-04-20.",
+    "IniTipo": "J",
+    "IniTitulo": "Regime Jurídico da Partilha de Dados Informáticos",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
