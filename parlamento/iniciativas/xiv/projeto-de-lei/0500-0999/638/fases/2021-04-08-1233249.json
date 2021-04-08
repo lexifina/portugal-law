@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "638",
+    "id": "45625",
+    "titulo": "Alteração do Estatuto dos Deputados em matéria de suspensão do mandato (14.ª alteração ao Estatuto dos Deputados, aprovado pela Lei n.º 7/93, de 1 de março)"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2021-04-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "50699",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-04-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-06-30",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição do PSD e do CDS-PP - PJL 613/XIV/2ª (PSD) e 638/XIV/2ª (CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259305954426c5a4745334c545269593251744e4759334f4330344d4745334c54466d5a47566d4d4441345a6d49345a6935775a47593d&fich=f4a0eda7-4bcd-4f78-80a7-1fdef008fb8f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-19",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da Discussão e votação na Especialidade dos PJL 613/XIV/1ª (PSD), 636/XIV/1ª (PAN) e 638/XIV/1ª (CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251314d6a597a4d6d466d4c544d35595463744e44686b4e4331684f44646b4c5755305a44646c596d59354f546b334d7935775a47593d&fich=d52632af-39a7-48d4-a87d-e4d7ebf99973.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final sobre os PJL 395/XIV/1ª (PAN), 613/XIV/1ª (PSD), 636/XIV/1ª (PAN) e 638/XIV/1ª (CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4530513152465243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55315a6d4d334e6d59344c5467784e3251744e47566a4d793035596a6b354c5451354e446468595751794e6a4a68595335775a47593d&fich=55fc76f8-817d-4ec3-9b99-4947aad262aa.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Transparência e Estatuto dos Deputados",
+        "Numero": "7524",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-04-08",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1233249",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929223",
+        "obs": "Relatório da discussão e votação na generalidade e especialidade e texto final",
+        "pag": [
+          "14-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-07-19",
+        "pubLeg": "XIV",
+        "pubNr": "170",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/170/2021-07-19/14?pgs=14-17&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
