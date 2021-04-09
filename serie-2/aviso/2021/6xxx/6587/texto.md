@@ -1,0 +1,10 @@
+Aviso n.º 6587/2021
+Sumário: Declaração de extinção do procedimento da segunda revisão do Plano Diretor Municipal de Oliveira de Azeméis.
+Declaração de extinção do procedimento da Segunda Revisão do Plano Diretor Municipal de Oliveira de Azeméis iniciado por deliberação de 18 de abril de 2019 da Câmara Municipal
+Joaquim Jorge Ferreira, Presidente da Câmara Municipal de Oliveira de Azeméis, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro na redação atual, em cumprimento e para os efeitos do disposto no artigo 56.º do Anexo I da citada Lei, torna público, que a Câmara Municipal de Oliveira de Azeméis, em reunião pública realizada em 18 de fevereiro de 2021 deliberou declarar a extinção do procedimento da Segunda Revisão do Plano Diretor Municipal de Oliveira de Azeméis, iniciado por deliberação camarária de 18 de abril de 2019 e publicitada através do Aviso n.º 8564/2019, uma vez que se torna impossível concluir o mesmo nos 26 meses definidos (13 meses iniciais, prorrogados por mais 13 meses).
+O presente Aviso será identicamente publicado na comunicação social, na plataforma colaborativa de gestão territorial, no sítio do Município de Oliveira de Azeméis, e afixado nos locais de estilo.
+18 de março de 2021. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, Eng.
+Deliberação
+A Câmara Municipal de Oliveira de Azeméis, ao abrigo do disposto no artigo 95.º do Código do Procedimento Administrativo, na sua reunião pública de 18 de fevereiro de 2021, deliberou por unanimidade declarar a extinção do procedimento da Segunda Revisão do Plano Diretor Municipal de Oliveira de Azeméis, iniciado por deliberação tomada em reunião do dia 18 de abril de 2019 e publicitada através do Aviso n.º 8564/2019, uma vez que se torna impossível concluir o mesmo nos 26 meses definidos (13 meses iniciais, prorrogados por mais 13 meses).
+18 de março de 2021. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, Eng.
+614100263
