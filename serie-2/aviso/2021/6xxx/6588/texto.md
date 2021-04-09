@@ -1,0 +1,18 @@
+Aviso n.º 6588/2021
+Sumário: 2.ª revisão do Plano Diretor Municipal de Oliveira de Azeméis.
+2.ª Revisão do Plano Diretor Municipal de Oliveira de Azeméis
+(Início de procedimento e participação preventiva)
+Joaquim Jorge Ferreira, Presidente da Câmara Municipal de Oliveira de Azeméis, torna público, nos termos e para os efeitos do disposto na alínea c) do n.º 4 do artigo 191.º, em articulação com o artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Oliveira de Azeméis, em reunião pública realizada em 18 de fevereiro de 2021 deliberou desencadear o início do procedimento da Segunda Revisão do Plano Diretor Municipal de Oliveira de Azeméis, com vista à sua recondução às novas regras de classificação e qualificação do solo, em cumprimento do disposto no artigo 199.º do supra citado decreto-lei.
+Mais deliberou estabelecer um prazo de 24 meses para a conclusão deste procedimento.
+A Câmara Municipal deliberou ainda estabelecer um período de participação preventiva, por trinta (30) dias úteis, com início no quinto dia útil após a data da publicação deste Aviso no Diário da República, durante o qual poderão os interessados formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de revisão do Plano Diretor Municipal.
+A formulação de sugestões, bem como, a apresentação de informações deverão ser feitas por escrito, em modelo a disponibilizar nos locais de consulta, ou outro documento devidamente identificado, dirigido ao Senhor Presidente Câmara Municipal de Oliveira de Azeméis, que contenha a identificação e o contacto do participante e o conteúdo da sua participação. As exposições devem ser enviadas para a morada postal: Largo da República, 3720-240 Oliveira de Azeméis, para o endereço eletrónico geral@cm-oaz.pt; via fax: 256674694, ou ainda procedendo à sua entrega na Loja do Munícipe.
+Os documentos do procedimento de revisão podem ser consultados no sítio institucional do Município em www.cm-oaz.pt e no Núcleo de Competências de Planeamento e Projeto, sito na Rua Bento Carqueja, n.º 41, todos os dias úteis no horário de expediente.
+O presente Aviso será identicamente publicado na comunicação social, na plataforma colaborativa de gestão territorial, no sítio do Município de Oliveira de Azeméis, e afixado nos locais de estilo.
+18 de março de 2021. - O Presidente da Câmara Municipal, Engenheiro Joaquim Jorge Ferreira.
+Deliberação
+A Câmara Municipal, na sua reunião pública de 18 de fevereiro de 2021, deliberou por unanimidade o seguinte:
+A) O início do procedimento da segunda revisão do Plano Diretor Municipal de Oliveira de Azeméis por um período de 24 meses;
+B) A abertura do período de participação preventiva, por 30 dias úteis, com início no quinto dia útil após a data da publicitação da deliberação municipal no Diário da República, nos termos do n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio;
+C) As sugestões a apresentar no período de participação preventiva devem ser apresentadas por escrito, em modelo a disponibilizar nos locais de consulta, ou outro documento devidamente identificado dirigido ao Presidente da Câmara Municipal que contenha a identificação e o contacto do participante e o conteúdo da sua participação. As exposições devem ser enviadas para a morada postal: Largo da República, 3720-240 Oliveira de Azeméis; para o endereço eletrónico geral@cm-oaz.pt; via fax: 256674694, ou mediante entrega na Loja do Munícipe.
+18 de março de 2021. - O Presidente da Câmara Municipal, Engenheiro Joaquim Jorge Ferreira.
+614114382
