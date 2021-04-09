@@ -12,10 +12,12 @@
 
 5 - A pedido de qualquer das partes, o serviço competente do ministério responsável pela área laboral participa na negociação a que se refere o número anterior, com vista a promover a regularidade da sua instrução substantiva e procedimental, a conciliação dos interesses das partes, bem como o respeito dos direitos dos trabalhadores, sendo aplicável o disposto no artigo 362.º
 
-6 - Na falta de representantes dos trabalhadores abrangidos pela transmissão, estes podem designar, de entre eles, no prazo de cinco dias úteis a contar da receção da informação referida nos n.os 1 ou 2, uma comissão representativa com o máximo de três ou cinco membros consoante a transmissão abranja até cinco ou mais trabalhadores.
+6 - O pedido a que se refere o número anterior deve ser acompanhado dos elementos de informação referidos no n.º 1.
 
-7 - Para efeitos dos números anteriores, consideram-se representantes dos trabalhadores as comissões de trabalhadores, as associações sindicais, as comissões intersindicais, as comissões sindicais, os delegados sindicais existentes nas respetivas empresas ou a comissão representativa, pela indicada ordem de precedência.
+7 - Na falta de representantes dos trabalhadores abrangidos pela transmissão, estes podem designar, de entre eles, no prazo de cinco dias úteis a contar da receção da informação referida nos n.os 1 ou 2, uma comissão representativa com o máximo de três ou cinco membros consoante a transmissão abranja até cinco ou mais trabalhadores.
 
-8 - O transmitente deve informar imediatamente os trabalhadores abrangidos pela transmissão do conteúdo do acordo ou do termo da consulta a que se refere o n.º 4, caso não tenha havido intervenção da comissão representativa.
+8 - Para efeitos dos números anteriores, consideram-se representantes dos trabalhadores as comissões de trabalhadores, as associações sindicais, as comissões intersindicais, as comissões sindicais, os delegados sindicais existentes nas respetivas empresas ou a comissão representativa, pela indicada ordem de precedência.
 
-9 - Constitui contraordenação grave a violação do disposto nos n.os 1, 2, 3, 4 ou 8.
+9 - O transmitente deve informar imediatamente os trabalhadores abrangidos pela transmissão do conteúdo do acordo ou do termo da consulta a que se refere o n.º 4, caso não tenha havido intervenção da comissão representativa.
+
+10 - Constitui contraordenação grave a violação do disposto nos n.os 1, 2, 3, 4 ou 9.

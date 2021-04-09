@@ -32,12 +32,16 @@ b) Havendo transmissão de uma unidade económica, de todos os elementos que a c
 
 9 - O disposto no número anterior aplica-se no caso de média ou grande empresa e, a pedido do serviço com competência inspetiva do ministério responsável pela área laboral, no caso de micro ou pequena empresa.
 
-10 - Constitui contraordenação muito grave:
+10 - O disposto no presente artigo é aplicável a todas as situações de transmissão de empresa ou estabelecimento por adjudicação de contratação de serviços que se concretize por concurso público ou por outro meio de seleção, no setor público e privado, nomeadamente à adjudicação de fornecimento de serviços de vigilância, alimentação, limpeza ou transportes, produzindo efeitos no momento da adjudicação.
+
+11 - Constitui contraordenação muito grave:
 
 a) A conduta do empregador com base em alegada transmissão da sua posição nos contratos de trabalho com fundamento em transmissão da titularidade de empresa, ou estabelecimento ou de parte de empresa ou estabelecimento que constitua uma unidade económica, ou em transmissão, cessão ou reversão da sua exploração, quando a mesma não tenha ocorrido;
 
 b) A conduta do transmitente ou do adquirente que não reconheça ter havido transmissão da posição daquele nos contratos de trabalho dos respetivos trabalhadores quando se verifique a transmissão da titularidade de empresa, ou estabelecimento ou de parte de empresa ou estabelecimento que constitua uma unidade económica, ou a transmissão, cessão ou reversão da sua exploração.
 
-11 - A decisão condenatória pela prática de contraordenação referida na alínea a) ou na alínea b) do número anterior deve declarar, respetivamente, que a posição do empregador nos contratos de trabalho dos trabalhadores não se transmitiu, ou que a mesma se transmitiu.
+12 - A decisão condenatória pela prática de contraordenação referida na alínea a) ou na alínea b) do número anterior deve declarar, respetivamente, que a posição do empregador nos contratos de trabalho dos trabalhadores não se transmitiu, ou que a mesma se transmitiu.
 
-12 - Constitui contraordenação grave a violação do disposto nos n.os 7, 8 ou 9.
+13 - Constitui contraordenação grave a violação do disposto nos n.os 7, 8 ou 9.
+
+14 - Aos trabalhadores das empresas ou estabelecimentos transmitidos ao abrigo do presente artigo aplica-se o disposto na alínea m) do n.º 1 do artigo 3.º e no artigo 498.º
