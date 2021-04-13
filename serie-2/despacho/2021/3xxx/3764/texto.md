@@ -1,0 +1,14 @@
+Despacho n.º 3764/2021
+Sumário: Alteração do regulamento de avaliação da atividade desenvolvida durante o período experimental da Faculdade de Direito da Universidade do Porto.
+Alteração do artigo 5.º do Regulamento de Avaliação da Atividade Desenvolvida durante o Período Experimental da Faculdade de Direito
+O Conselho Científico da Faculdade de Direito da Universidade do Porto, em reunião ordinária de 4 de setembro de 2020, deliberou alterar a redação do artigo 5.º do Regulamento de avaliação da atividade desenvolvida durante o período experimental para efeitos de manutenção da contratação por tempo indeterminado da Faculdade de Direito da Universidade do Porto, publicado no Diário da República, 2.ª série, n.º 10/2012, por Despacho n.º 415/2012, de 13 de janeiro.
+Foram previamente ouvidos os interessados, a Comissão de Trabalhadores da Universidade do Porto e as Organizações Sindicais em observância do disposto nos artigos 98.º e seguintes do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e 110.º, n.º 3, do Regime Jurídico das Instituições do Ensino Superior, aprovado pela Lei n.º 62/2007, de 10 de setembro.
+Assim, nos termos do disposto no artigo no artigo 12.º, alínea a), do Regulamento de avaliação da atividade desenvolvida durante o período experimental para efeitos da manutenção da contratação por tempo indeterminado dos Professores da U.Porto, Regulamento n.º 93/2011, publicado no Diário da República, 2.ª série, n.º 26 de 7 de fevereiro de 2011, e do disposto no artigo 38.º, n.º 1, alínea o) dos Estatutos da Universidade do Porto, aprovados pelo Despacho Normativo n.º 8/2015, de 18 de maio, republicados no Diário da República, 2.ª série, n.º 100, de 25 de maio, conjugados com o artigo 92.º, n.º 1, alínea p) do Regime Jurídico das Instituições do Ensino Superior, homologo a alteração ao Regulamento de avaliação da atividade desenvolvida durante o período experimental para efeitos de manutenção da contratação por tempo indeterminado da Faculdade de Direito da Universidade do Porto, em anexo ao presente despacho e que dele faz parte integrante.
+O presente despacho produz efeitos no dia seguinte ao da respetiva publicação no Diário da República.
+ANEXO
+Alteração ao Regulamento de avaliação da atividade desenvolvida durante o período experimental para efeitos de manutenção da contratação por tempo indeterminado da Faculdade de Direito da Universidade do Porto
+«Artigo 5.º
+Período Experimental a decorrer
+Para efeito deste Regulamento, uma pontuação igual ou superior a 200 pontos, em média dos cinco anos, ou em período inferior para aqueles professores cujo período experimental já se tenha iniciado aquando da entrada em vigor deste regulamento, é suficiente para a passagem do contrato a tempo indeterminado.»
+8 de março de 2021. - O Reitor, António Manuel de Sousa Pereira.
+314075802
