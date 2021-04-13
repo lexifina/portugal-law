@@ -1,0 +1,10 @@
+Aviso n.º 6716/2021
+Sumário: Alteração do Plano Diretor Municipal de Paços de Ferreira. Discussão pública.
+Alteração do Plano Diretor Municipal de Paços de Ferreira
+Discussão pública
+Humberto Fernando Leão Pacheco de Brito, Presidente da Câmara Municipal de Paços de Ferreira, torna público que, para efeitos do disposto no artigo 89.º do Decreto-Lei n.º 80/2015 de 14 de maio, Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), em cumprimento da deliberação tomada em reunião da Câmara Municipal realizada em 20 de outubro de 2020, foi aprovada, por maioria, a alteração do Plano Diretor Municipal (PDM) de Paços de Ferreira, numa área de 0,21 hectares na freguesia de Frazão Arreigada.
+Assim, e nos termos do n.º 1 e n.º 2 do artigo 89.º do RJIGT, procede-se à abertura do período de discussão pública da alteração ao Plano Diretor Municipal de Paços de Ferreira, pelo prazo de 30 (trinta) dias úteis, contados a partir do 5.º dia útil da publicação do presente edital no Diário da República, e poderão os interessados, apresentar os seus contributos (reclamações, observações, sugestões e pedidos de esclarecimento) por escrito, dirigidos ao Presidente da Câmara Municipal de Paços de Ferreira, no Gabinete do Munícipe, localizado no edifício dos Paços do Concelho, sito na Praça da República, n.º 46, 4590-527 Paços de Ferreira, ou através de correio eletrónico para geral@cm-pacosdeferreira.pt.
+O processo poderá ser consultado nos dias úteis, das 09h00 às 17h00, no Gabinete do Munícipe, sito na morada suprarreferida e na página da internet do município (www.cm-pacosdeferreira.pt).
+Para constar e para os devidos efeitos, publica-se o presente aviso e outros de igual teor, que vão ser afixados nos Paços do Concelho, e divulgados na comunicação social, na plataforma colaborativa de gestão territorial, bem como na página da internet do Município de Paços de Ferreira.
+19 de fevereiro de 2021. - O Presidente da Câmara Municipal de Paços de Ferreira, Humberto Fernando Leão Pacheco de Brito.
+614103658
