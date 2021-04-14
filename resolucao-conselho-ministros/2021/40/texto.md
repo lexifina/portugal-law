@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 40/2021
+Sumário: Autoriza a renovação do protocolo relativo à prestação de cuidados em ambulatório a doentes com VIH/sida no Hospital de Cascais.
+A Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., e a Lusíadas - Parcerias Cascais, S. A., celebraram, em 22 de fevereiro de 2008, um contrato para a gestão do Hospital de Cascais. Contudo, a valência de infecciologia não foi integrada no perfil assistencial previsto no contrato de gestão.
+Considerando a necessidade de assegurar, após a data de produção de efeitos do Contrato de Gestão do Hospital de Cascais, o tratamento dos doentes que eram assistidos pelo Centro Hospitalar de Cascais, foi celebrado, em 8 de outubro de 2008, um protocolo para a prestação de cuidados em ambulatório a doentes com VIH/sida, que iniciou a sua produção de efeitos em 1 de janeiro de 2009.
+Após a verificação da necessidade de adequação da sua continuidade, bem como a aferição da respetiva despesa anual, atento o número de doentes em ambulatório previsto para o respetivo ano, o protocolo VIH/sida tem sido objeto de sucessivas renovações contratuais. Em 3 de setembro de 2018 foi celebrado um aditamento ao contrato de gestão, nos termos do Despacho n.º 7941-A/2018, publicado no Diário da República, 2.ª série, n.º 157, de 16 de agosto de 2018, e na Resolução do Conselho de Ministros n.º 110/2018, de 30 de agosto.
+Importa notar que a renovação, por mais um ano, do protocolo VIH/sida, que assegura a manutenção da prestação de cuidados em ambulatório a doentes com VIH/sida seguidos no Hospital de Cascais, é essencial para a continuidade destes tratamentos, sendo que a interrupção da terapêutica resultaria na degradação do estado de saúde dos doentes.
+Atenta a imprescindível continuidade na prestação de cuidados em ambulatório, entende o Governo autorizar a renovação do protocolo VIH/sida pelo período de um ano, bem como a assunção dos respetivos encargos.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do artigo 44.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a renovação do protocolo celebrado entre a Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P. (ARSLVT, I. P.), e a Lusíadas - Parcerias Cascais, S. A., em 8 de outubro de 2008, pelo período de um ano, de forma a assegurar a prestação de cuidados em ambulatório a doentes com VIH/sida, no Hospital de Cascais, durante o ano de 2021 (protocolo VIH/sida).
+2 - Autorizar a realização da despesa inerente à renovação do protocolo VIH/sida no montante máximo total estimado de (euro) 10 610 426.
+3 - Estabelecer que os encargos orçamentais referidos no número anterior devem ser executados durante o ano de 2021.
+4 - Determinar que os encargos decorrentes da presente resolução são suportados por verbas adequadas inscritas no orçamento da ARSLVT, I. P., para o ano de 2021.
+5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da saúde a competência para a prática de todos os atos a realizar no âmbito da renovação do protocolo VIH/sida.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 25 de março de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+114142279
