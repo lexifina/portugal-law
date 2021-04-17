@@ -22,7 +22,7 @@ h) Podem creditar experiência profissional devidamente comprovada, até ao limi
 
 2 - O conjunto dos créditos atribuídos ao abrigo das alíneas d) a h) do número anterior não pode exceder dois terços do total dos créditos do ciclo de estudos.
 
-3 - Nos ciclos de estudos conducentes aos graus de mestre e de doutor, os limites à creditação fixados pelos números anteriores referem-se, respetivamente, ao curso de mestrado mencionado na alínea a) do n.º 1 do artigo 20.º e ao curso de doutoramento mencionado no n.º 3 do artigo 31.º
+3 -(Revogado).
 
 4 - São nulas as creditações:
 
