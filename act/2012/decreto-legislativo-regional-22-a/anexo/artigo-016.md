@@ -2,7 +2,7 @@
 
 ### Contrato de trabalho por tempo indeterminado
 
-1 - A celebração de contrato por tempo indeterminado com pessoal docente colocado nos quadros de escola ou no quadro regional de educação moral e religiosa católica é sempre feita por conveniência urgente de serviço, sendo devidos os respetivos abonos a partir da sua celebração.
+1 - A celebração de contrato por tempo indeterminado com pessoal docente colocado nos quadros de escola, nos quadros de ilha ou no quadro regional de Educação Moral e Religiosa Católica deve ser sempre feita por conveniência urgente de serviço, sendo devidos os respetivos abonos a partir da sua celebração.
 
 2 - Os docentes colocados sem habilitação profissional cumprem um período experimental, com a duração da realização da profissionalização em serviço.
 
@@ -22,6 +22,6 @@ c) Impossibilidade de, no respetivo ano escolar e nos dois anos escolares subseq
 
 7 - O disposto no número anterior pode não ser aplicado em virtude de motivos devidamente fundamentados, reconhecidos como tal por despacho do diretor regional competente em matéria de educação.
 
-8 - A celebração do contrato por tempo indeterminado dos docentes dos quadros de escola está sujeita à forma escrita e do contrato deve constar a assinatura do docente e do presidente ou diretor do órgão executivo da unidade orgânica onde obtiver colocação.
+8 - A celebração do contrato por tempo indeterminado dos docentes dos quadros de escola, de ilha e regional de Educação Moral e Religiosa Católica está sujeita à forma escrita e do contrato devem constar a assinatura do docente e do presidente ou diretor do órgão executivo da unidade orgânica onde obtiver colocação.
 
 9 - Consideram-se nulos os contratos que não obedeçam ao estabelecido no presente Regulamento.

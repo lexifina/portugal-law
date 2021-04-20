@@ -12,4 +12,4 @@
 
 5 - A falta de comunicação feita nos termos referidos no número anterior é considerada, para todos os efeitos legais, como não aceitação.
 
-6 - A não aceitação de colocação determina o impedimento do docente de prestar serviço em qualquer estabelecimento de educação ou de ensino da rede pública dos Açores, nesse ano escolar e nos dois anos escolares subsequentes, assim como a impossibilidade de se candidatar aos procedimentos concursais que, para esses anos escolares, forem abertos, determinando, ainda, a cessação do vínculo contratual com o sistema educativo regional no caso dos docentes titulares de lugar de quadro.
+6 - A não aceitação de colocação determina o impedimento do docente prestar serviço em qualquer estabelecimento de educação ou de ensino da rede pública dos Açores, nesse ano escolar e no ano escolar subsequente, assim como a impossibilidade de se candidatar aos procedimentos concursais que, para esses anos escolares, forem abertos, determinando, ainda, a cessação do vínculo contratual com o sistema educativo regional no caso dos docentes titulares de lugar de quadro.

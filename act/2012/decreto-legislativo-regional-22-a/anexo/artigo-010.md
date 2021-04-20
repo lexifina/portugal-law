@@ -4,9 +4,9 @@
 
 1 - A graduação profissional do docente, a que se refere o n.º 2 do artigo anterior, corresponde à soma da classificação profissional obtida no curso que o habilita para a docência no grupo de recrutamento a que é opositor e com o qual se candidata, calculada de acordo com a legislação em vigor à data da sua conclusão, com as parcelas N x 1 valor e n x 0,5 valores, em que:
 
-a) N é o quociente, arredondado por excesso à milésima mais próxima, da divisão por trezentos e sessenta e cinco dias do número de dias de serviço docente oficial ou equiparado avaliado com a menção qualitativa mínima de Regular, contado a partir do dia 1 de setembro do ano civil em que o docente concluiu o curso que lhe confere habilitação profissional para a docência no grupo de recrutamento a que é opositor e com o qual se candidata, até ao termo do ano escolar imediatamente anterior ao da data de abertura do concurso;
+a) N é o quociente, arredondado por excesso à milésima mais próxima, da divisão por 365 dias do número de dias de serviço docente oficial ou equiparado avaliado com a menção qualitativa mínima de Regular, contado a partir do dia 1 do mês seguinte à data em que o docente concluiu o curso que lhe confere a habilitação profissional para a docência no grupo de recrutamento a que é opositor e com a qual se candidata, até ao termo do ano escolar imediatamente anterior ao da data de abertura do concurso;
 
-b) n é o quociente, arredondado por excesso à milésima mais próxima, da divisão por trezentos e sessenta e cinco dias do número de dias de serviço docente oficial ou equiparado, prestado com a menção qualitativa mínima de Regular, anteriormente à conclusão do curso que lhe confere habilitação profissional para a docência no grupo de recrutamento a que é opositor e com o qual se candidata, até ao termo do ano escolar imediatamente anterior ao da data de abertura do concurso.
+b) n é o quociente, arredondado por excesso à milésima mais próxima, da divisão por 365 dias do número de dias de serviço docente oficial ou equiparado, prestado com a menção qualitativa mínima de Regular, até ao último dia do mês em que o docente concluiu o curso que lhe confere habilitação profissional para a docência no grupo de recrutamento a que é opositor e com a qual se candidata, até ao termo do ano escolar imediatamente anterior ao da data de abertura do concurso.
 
 2 - Dentro de cada uma das prioridades referidas no artigo 9.º os candidatos são ordenados por ordem decrescente da sua graduação profissional.
 
@@ -28,7 +28,7 @@ c) Candidatos com mais idade.
 
 8 - Sem prejuízo do disposto no n.º 1, para os candidatos aos grupos de recrutamento de Educação Especial releva, para efeitos do cálculo da graduação profissional, consoante opção dos mesmos, o curso de formação inicial para a docência ou o curso de qualificação especializada.
 
-9 - Para efeitos de colocação em regime de contrato a termo resolutivo, com exceção dos remuneratórios, considera-se horário anual aquele que corresponde ao intervalo entre, pelo menos, o último dia estabelecido pelo calendário escolar para o início das atividades letivas e 31 de agosto do mesmo ano escolar.
+9 - Para efeitos de colocação em regime de contrato a termo resolutivo, com exceção dos remuneratórios, considera-se horário anual aquele que corresponde ao intervalo entre, pelo menos, o último dia estabelecido pelo calendário escolar para o início das atividades letivas e 31 de agosto do mesmo ano escolar, ainda que em regime de substituição temporária cujo contrato venha a vigorar até essa data.
 
 10 - Para efeitos de contagem do tempo de serviço docente a que se referem as alíneas a) e b) do n.º 1, os anos escolares integrados no decurso do período avaliativo a decorrer consideram-se avaliados com a menção obtida no processo de avaliação imediatamente anterior.
 
