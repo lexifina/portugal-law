@@ -1,5 +1,5 @@
 # Artigo 52.º
 
-### Comissões vitivinícolas regionais
+### Entidades gestoras de denominações de origem e indicações geográficas
 
-Ficam isentas de IRC, excepto quanto aos rendimentos de capitais tal como definidos para efeitos de IRS, as comissões vitivinícolas regionais, reguladas nos termos do Decreto-Lei n.º 212/2004, de 23 de Agosto, e legislação complementar.
+Ficam isentas de IRC, exceto quanto aos rendimentos de capitais tal como definidos para efeitos de IRS, as entidades gestoras de denominações de origem e indicações geográficas dos vinhos, vinagres, bebidas espirituosas de origem vínica e produtos vitivinícolas aromatizados reconhecidas nos termos da legislação aplicável.»

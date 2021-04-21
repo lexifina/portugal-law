@@ -2,7 +2,7 @@
 
 ### Regime aplicável às entidades licenciadas na Zona Franca da Madeira a partir de 1 de janeiro de 2015
 
-1 - Os rendimentos das entidades licenciadas para operar na Zona Franca da Madeira a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2020 são tributados em IRC, até 31 de dezembro de 2027, à taxa de 5 %, nos seguintes termos:
+1 - Os rendimentos das entidades licenciadas para operar na Zona Franca da Madeira a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2021 são tributados em IRC, até 31 de dezembro de 2027, à taxa de 5 %, nos seguintes termos:
 
 a) As entidades licenciadas no âmbito da zona franca industrial relativamente aos rendimentos derivados do exercício das atividades de natureza industrial, previstas no n.º 1 e qualificadas nos termos dos n.os 2 e 3 do artigo 4.º do Decreto Regulamentar n.º 53/82, de 23 de agosto, e, bem assim, das atividades acessórias ou complementares daquela;
 
@@ -18,11 +18,11 @@ b) Criação de seis ou mais postos de trabalho, nos seis primeiros meses de ati
 
 3 - As entidades referidas no n.º 1 ficam sujeitas a um dos seguintes limites máximos anuais aplicáveis aos benefícios fiscais previstos no presente regime:
 
-a) 20,1 % do valor acrescentado bruto obtido anualmente, ou
+a) 20,1 % do valor acrescentado bruto gerado anualmente na Região Autónoma da Madeira; ou
 
-b) 30,1 % dos custos anuais de mão de obra incorridos, ou
+b) 30,1 % dos custos anuais de mão-de-obra suportados na Região Autónoma da Madeira; ou
 
-c) 15,1 % do volume anual de negócios.
+c) 15,1 % do volume anual de negócios realizado na Região Autónoma da Madeira.
 
 4 - As entidades referidas nos números anteriores ficam sujeitas à limitação do benefício a conceder, através da aplicação de plafonds máximos à matéria coletável a que é aplicável a taxa reduzida prevista, nos termos seguintes:
 
@@ -38,7 +38,19 @@ e) 54,68 milhões de euros pela criação de 51 a 100 postos de trabalho;
 
 f) 205,50 milhões de euros pela criação de mais de 100 postos de trabalho.
 
-5 - Os limites máximos da matéria coletável previstos no número anterior são determinados em função do número de postos de trabalho que as entidades beneficiárias mantêm em cada exercício.
+5 - Os limites máximos da matéria coletável previstos no número anterior são determinados em função do número de postos de trabalho que as entidades beneficiárias mantêm em cada exercício, tendo por referência o seguinte:
+
+a) O número de postos de trabalho é determinado por referência ao número de pessoas que aufiram rendimentos de trabalho dependente, pagos ou colocados à disposição pela entidade licenciada, desde que residam, para efeitos fiscais, na Região Autónoma da Madeira ou, não residindo, nela exerçam a sua atividade ou sejam trabalhadores ou tripulantes de navios ou embarcações de recreio registados no Registo Internacional de Navios da Madeira (MAR);
+
+b) Os trabalhadores a tempo indeterminado, parcial ou intermitente são considerados proporcionalmente ao praticado a tempo inteiro numa situação comparável, medido em número de unidades de trabalho-ano (UTA);
+
+c) São excluídos do cômputo do número de postos de trabalho:
+
+i) Os trabalhadores cedidos por empresas de trabalho temporário, no que respeita às respetivas entidades utilizadoras;
+
+ii) Os trabalhadores em regime de cedência ocasional, no que respeita à entidade cessionária;
+
+iii) Os trabalhadores em regime de pluralidade de empregadores, quando o empregador que representa os demais no âmbito da relação de trabalho não se encontre licenciado na Zona Franca da Madeira.
 
 6 - As entidades referidas no n.º 1 licenciadas para operar na zona franca industrial beneficiam ainda de uma dedução de 50 % à coleta do IRC desde que preencham, pelo menos, duas das seguintes condições:
 
@@ -52,7 +64,7 @@ d) Contribuam para a melhoria das condições ambientais;
 
 e) Criem, pelo menos, 15 postos de trabalho, que devem ser mantidos durante um período mínimo de cinco anos.
 
-7 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2020, podem, designadamente, exercer as seguintes atividades económicas relacionadas com:
+7 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2021, podem, designadamente, exercer as seguintes atividades económicas relacionadas com:
 
 a) Indústrias transformadoras (NACE Rev. 2, secção C);
 
@@ -103,3 +115,7 @@ b) Não gozam da isenção prevista no número anterior os sócios ou acionistas
 15 - Os benefícios previstos no presente regime não são cumuláveis com outros benefícios da mesma natureza previstos no âmbito de quaisquer regimes locais, regionais ou nacionais.
 
 16 - As entidades que estejam licenciadas ao abrigo do regime previsto no artigo anterior podem beneficiar do novo regime a partir de 1 de janeiro de 2015, desde que preencham os requisitos previstos neste regime.
+
+17 - Para efeitos do n.º 3, consideram-se gerados, suportados ou realizados na Região Autónoma da Madeira os rendimentos e ganhos, bem como os gastos e perdas, imputáveis à atividade realizada pela entidade licenciada através de uma estrutura empresarial adequada localizada na Região Autónoma da Madeira.
+
+18 - O disposto no n.º 5 é aplicável, com as devidas adaptações, à criação de postos de trabalho prevista nos n.os 2 e 6 do presente artigo.
