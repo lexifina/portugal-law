@@ -1,0 +1,7 @@
+Aviso n.º 7137/2021
+Sumário: Projeto do Regulamento para Avaliação e Financiamento Plurianual dos Centros Académicos Clínicos.
+Helena Margarida Nunes Pereira, Presidente do Conselho Diretivo em cumprimento e nos termos do n.º 1 do artigo 101.º do Código do Procedimento Administrativo (CPA) aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, inicia com a presente publicação o período de apreciação pública do Projeto de Regulamento para Avaliação e Financiamento Plurianual dos Centros Académicos Clínicos elaborado em cumprimento do disposto no n.º 7 do artigo 22.º do Decreto-Lei n.º 61/2018 de 3 de agosto e ao abrigo das alíneas a), c) e e), todas do n.º 2 do artigo 3.º do Decreto-Lei n.º 55/2013, de 17 de abril, conjugadas com a alínea h) do n.º 1 do artigo 21.º e alínea b) do n.º 2 do artigo 41.º, ambas da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual.
+O projeto do regulamento encontra-se disponível para consulta no portal da Fundação para a Ciência e a Tecnologia, I. P., em https://www.fct.pt/apoios/convitecientistas/consultaspublicas.phtml.pt.
+No âmbito da participação pública e nos termos do disposto no artigo 101.º do CPA, os interessados podem dirigir, preferencialmente, por via digital através do endereço eletrónico CAC@fct.pt, as suas sugestões à Fundação para a Ciência e a Tecnologia, I. P., no prazo de 30 (trinta) dias úteis, a contar da data da publicação do presente Aviso.
+13 de abril de 2021. - A Presidente do Conselho Diretivo da FCT, I. P., Helena Margarida Nunes Pereira.
+314149131
