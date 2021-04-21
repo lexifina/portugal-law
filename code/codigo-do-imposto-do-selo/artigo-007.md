@@ -26,7 +26,7 @@ j) Os mútuos constituídos no âmbito do regime legal do crédito à habitaçã
 
 l) Os juros cobrados por empréstimos para aquisição, construção, reconstrução ou melhoramento de habitação própria;
 
-m) O reporte de valores mobiliários ou direitos equiparados realizado em bolsa de valores;
+m) O reporte de valores mobiliários ou direitos equiparados realizado em mercado regulamentado ou em sistema de negociação multilateral ou organizado, bem como o reporte e a garantia financeira realizados pelas instituições financeiras, designadamente por instituições de crédito e sociedades financeiras, com interposição de contrapartes centrais;
 
 n) O crédito concedido por meio de conta poupança-ordenado, na parte em que não exceda, em cada mês, o montante do salário mensalmente creditado na conta;
 
