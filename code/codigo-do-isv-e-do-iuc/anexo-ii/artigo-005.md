@@ -46,7 +46,7 @@ b) Através da Internet, se a informação relativa à incapacidade estiver conf
 
 8 - Estão isentos de 50% do imposto os seguintes veículos:
 
-a) Os veículos da categoria D, quando autorizados ou licenciados para o transporte de grandes objectos;
+a) (Revogada);
 
 b) Os veículos das categorias C e D que efectuem transporte exclusivamente na área territorial de uma região autónoma;
 
