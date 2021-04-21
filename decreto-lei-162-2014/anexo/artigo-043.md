@@ -6,7 +6,7 @@
 
 ### Limites máximos aplicáveis aos auxílios estatais com finalidade regional
 
-1 - Em conformidade com o mapa nacional de auxílios estatais com finalidade regional para o período de 1 de julho de 2014 a 31 de dezembro de 2020, aprovado pela Comissão Europeia em 11 de junho de 2014, os limites máximos aplicáveis aos benefícios fiscais concedidos às empresas no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo e do RFAI são os seguintes:
+1 - Em conformidade com o mapa nacional de auxílios estatais com finalidade regional para o período de 1 de junho de 2014 a 31 de dezembro de 2021, aprovado pela Comissão Europeia em 11 de junho de 2014 e prorrogado em 2 de julho de 2020, os limites máximos aplicáveis aos benefícios fiscais concedidos às empresas no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo e do RFAI são os seguintes:
 
 (ver documento original)
 
