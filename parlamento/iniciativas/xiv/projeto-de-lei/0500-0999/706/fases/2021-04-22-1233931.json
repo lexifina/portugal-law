@@ -1,0 +1,154 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "706",
+    "id": "110386",
+    "titulo": "Delimita as circunstâncias em que deve ser removido ou impossibilitado o acesso em ambiente digital a  conteúdos protegidos, bem como  os procedimentos e meios para alcançar tal resultado"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2021-04-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "50843",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2021-05-25",
+            "id": "117089",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-04-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-05-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a444d324f5451324e7930794d3255334c5452685a545574596d4e6c4e7930775a6a466d4e575579597a63794d5455756347526d&fich=fd369467-23e7-4ae5-bce7-0f1f5e2c7215.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d7a6735595463775a433077596a67334c5451774e7a63744f574d79597930794d4459345a57466c596d4a6c595751756347526d&fich=a389a70d-0b87-4077-9c2c-2068eaebbead.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-09-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e545177593251324d4330774d6a64694c5452685a545974596d59305969316a4d44417a4e574a6859574e6b4d7a41756347526d&fich=e540cd60-027b-4ae6-bf4b-c0035baacd30.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d6d51784e6d49314d693034596d45794c5451784f574d744f44497a5953316a4d4755774d444a684f44517a4d6a55756347526d&fich=72d16b52-8ba2-419c-823a-c0e002a84325.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Proposta de Alteração PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d6a686c4e47557759533031595755774c5451304e444d744f474d774d53316c5a5759355a574a6959544669596d4d756347526d&fich=f28e4e0a-5ae0-4443-8c01-eef9ebba1bbc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 -Proposta de Alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e5451324d5449304d4330784d5449354c5451324e5749744f54466b4d5330335a6a6b315a4755324d6d526c5a546b756347526d&fich=55461240-1129-465b-91d1-7f95de62dee9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Proposta de Alteração GP PS (Substitui integralmente as anteriores)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e574e694e6d526b4d5331694e7a68694c5451354d6d51744f54426b4e6931694d6a42694d4455784d3249344e6d55756347526d&fich=85cb6dd1-b78b-492d-90d6-b20b0513b86e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "7 - Proposta de Alteração GP CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a475669596d4a6c5a43316b4e6a46694c5451315a544174596a466b4f5330334f544a695a5468684d546333596a63756347526d&fich=3debbbed-d61b-45e0-b1d9-792be8a177b7.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7264",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "7264",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-04-22",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1233931",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929859",
+        "obs": "Relatório da discussão e votação na especialidade, incluindo propostas de alteração do CDS-PP,  PS e PSD e texto final da comissão",
+        "pag": [
+          "23-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-20",
+        "pubLeg": "XIV",
+        "pubNr": "22",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/03/022/2021-10-20/23?pgs=23-53&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
