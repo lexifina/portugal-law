@@ -1,0 +1,581 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "678",
+    "id": "110312",
+    "titulo": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores\n"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-04-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16961",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-04-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "110639",
+        "leg": "XIV",
+        "nr": "781",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6037",
+            "obs": null,
+            "pag": [
+              "11-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-04-23",
+            "pubLeg": "XIV",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/11?pgs=11-17&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-04-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=11"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=20"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12",
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/11?pgs=11-12,16-17&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4012",
+                "nome": "Fernando Anastácio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=12"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/12?pgs=12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6550",
+                "nome": "João Cotrim de Figueiredo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=13"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/13?pgs=13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=14"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/13?pgs=13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5710",
+                "nome": "Duarte Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=15"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=16"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=17"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=18"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6834",
+                "nome": "Vera Braz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "19:04",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_04_22_15_00_00_clean_14_plenario.xml&idsegmento=19"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-04-23",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/16?pgs=16&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o quadro legal complementar de prevenção e combate à atividade financeira não autorizada e defesa dos consumidores; Aprova um regime de prevenção da atividade financeira não autorizada com vista à tutela dos direitos dos consumidores.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1233758",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "928170",
+        "obs": null,
+        "pag": [
+          "11-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-23",
+        "pubLeg": "XIV",
+        "pubNr": "58",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/058/2021-04-23/11?pgs=11-17&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
