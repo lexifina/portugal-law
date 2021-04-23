@@ -2,9 +2,9 @@
 
 ### Critérios de elegibilidade das operações
 
-1 - Podem beneficiar dos apoios à ação 3.2, «Investimento na exploração agrícola», os projetos de investimento que se enquadrem nos objetivos previstos nas alíneas a) e c) do artigo 2.º e tenham um custo total elegível, apurado em sede de análise, superior a 25.000 euros.
+1 - Podem beneficiar dos apoios à operação 3.2.1, 'Investimento na exploração agrícola', os projetos de investimento que se enquadrem nos objetivos previstos nas alíneas a) e c) do artigo 2.º e tenham um custo total elegível, apurado em sede de análise, superior a 25.000 euros.
 
-2 - Podem beneficiar dos apoios à ação 3.3, «Investimento na transformação e comercialização de produtos agrícolas», os projetos de investimento que se enquadrem nos objetivos previstos nas alíneas b) e c) do artigo 2.º e que reúnam as seguintes condições:
+2 - Podem beneficiar dos apoios à operação 3.3.1, 'Investimento na transformação e comercialização de produtos agrícolas', os projetos de investimento que se enquadrem nos objetivos previstos nas alíneas b) e c) do artigo 2.º e que reúnam as seguintes condições:
 
 a) Incidam sobre a conservação, preparação e comercialização ou transformação de produtos agrícolas, cujo produto final resultante seja um produto agrícola;
 
@@ -32,7 +32,7 @@ e) Apresentem coerência técnica, económica e financeira;
 
 f) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento.
 
-4 - O método de cálculo dos indicadores de viabilidade económica e financeira, incluindo o VAL, quantifica o máximo de 30 % dos custos inerentes às seguintes componentes:
+4 - Os anúncios dos períodos de apresentação das candidaturas podem estabelecer que o critério de elegibilidade previsto na alínea d) do número anterior não é aplicável, no caso de projetos que respeitem exclusivamente às seguintes componentes:
 
 a) Intervenção de natureza ambiental;
 
@@ -40,4 +40,8 @@ b) Operações para a melhoria da fertilidade ou da estrutura do solo;
 
 c) Eficiência energética;
 
-d) Infraestruturas dedicadas a armazenamento de matérias-primas para alimentação animal.
+d) Infraestruturas dedicadas a armazenamento de matérias-primas para alimentação animal;
+
+e) Charcas.
+
+5 - Sem prejuízo do disposto no número anterior, no caso dos apoios previstos na presente portaria e inseridos no âmbito do artigo 58.º-A do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, na redação introduzida pelo Regulamento (UE) 2020/2220, do Parlamento Europeu e do Conselho, de 23 de dezembro de 2020, adiante designados por apoios 'Next Generation', os anúncios dos períodos de apresentação das candidaturas podem estabelecer que o critério de elegibilidade previsto na alínea d) do n.º 3 não é aplicável.

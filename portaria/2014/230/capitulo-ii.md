@@ -1,3 +1,3 @@
 # Capítulo II
 
-Ação 3.2 «Investimento na exploração agrícola» e ação 3.3 «Investimento na transformação e comercialização de produtos agrícolas»
+Operação 3.2.1 'Investimento na exploração agrícola' e operação 3.3.1 'Investimento na transformação e comercialização de produtos agrícolas'

@@ -2,6 +2,8 @@
 
 ### Reduções e exclusões
 
+Reduções e exclusões
+
 (a que se refere o n.º 2 do artigo 23.º)
 
 1 - O incumprimento das obrigações previstas no artigo 11.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:

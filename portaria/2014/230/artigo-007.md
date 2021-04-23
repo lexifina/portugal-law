@@ -2,7 +2,7 @@
 
 ### Critérios de elegibilidade das operações de investimento em regadio
 
-1 - Sem prejuízo do disposto no artigo 46.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e o Conselho, de 17 de dezembro de 2013, podem beneficiar dos apoios à ação 3.2, «Investimento na exploração agrícola», os projetos de investimento em regadio que, além dos requisitos referidos no artigo anterior, preencham as seguintes condições:
+1 - Sem prejuízo do disposto no artigo 46.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e o Conselho, de 17 de dezembro de 2013, podem beneficiar dos apoios à operação 3.2.1, 'Investimento na exploração agrícola', os projetos de investimento em regadio que, além dos requisitos referidos no artigo anterior, preencham as seguintes condições:
 
 a) Existência de plano de gestão de bacia hidrográfica notificado pelas autoridades nacionais à Comissão Europeia para toda a área abrangida pelo investimento;
 

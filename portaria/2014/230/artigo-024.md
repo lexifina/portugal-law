@@ -6,7 +6,7 @@
 
 ### Investimentos excluídos
 
-Não são abrangidos pelos apoios previstos na presente portaria os seguintes investimentos no âmbito da ação 3.3, «Investimento na transformação e comercialização de produtos agrícolas»:
+Não são abrangidos pelos apoios previstos na presente portaria os seguintes investimentos no âmbito da operação 3.3.1, 'Investimento na transformação e comercialização de produtos agrícolas':
 
 a) Relativos à transformação e comercialização de produtos agrícolas provenientes de países terceiros;
 

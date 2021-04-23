@@ -14,11 +14,11 @@ d) Terem a situação regularizada em matéria de reposições no âmbito do fin
 
 e) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;
 
-f) Deterem um sistema de contabilidade organizada ou, no caso da ação 3.2 «Investimento na exploração agrícola», um sistema de contabilidade simplificada, nos termos da legislação em vigor.
+f) Deterem um sistema de contabilidade organizada ou, no caso da operação 3.2.1, 'Investimento na exploração agrícola', um sistema de contabilidade simplificada, nos termos da legislação em vigor;
 
-g) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar, no caso do apoio à ação 3.2, «Investimento na exploração agrícola».
+g) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar, no caso do apoio à operação 3.2.1, 'Investimento na exploração agrícola'.
 
-2 - Os candidatos aos apoios à ação 3.3, «Investimento na transformação e comercialização de produtos agrícolas», devem ainda reunir as seguintes condições:
+2 - Os candidatos aos apoios à operação 3.3.1, 'Investimento na transformação e comercialização de produtos agrícolas', devem ainda reunir as seguintes condições:
 
 a) Possuírem situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré-projeto igual ou superior a 20 %, devendo o indicador utilizado ter por base o exercício anterior ao ano da apresentação da candidatura;
 

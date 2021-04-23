@@ -2,16 +2,12 @@
 
 ### Níveis de apoio
 
-(a que se refere o n.º 2 do artigo 12.º)
+(a que se refere o n.º 5 do artigo 12.º)
 
-Ação n.º 3.2 - Investimento na exploração agrícola
-
-(ver documento original)
-
-Sempre que o investimento elegível ultrapasse 500.000 euros, será aplicada a todo o investimento elegível a taxa média ponderada resultante.
-
-Ação n.º 3.3 - Investimento transformação e comercialização de produtos agrícolas
+Operação 3.2.1 - Investimento na exploração agrícola
 
 (ver documento original)
 
-Sempre que o investimento elegível ultrapasse 1.000.000 euros, será aplicada a todo o investimento elegível a taxa média ponderada resultante.
+Operação 3.3.1 - Investimento transformação e comercialização de produtos agrícolas
+
+(ver documento original)

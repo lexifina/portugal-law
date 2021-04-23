@@ -12,4 +12,6 @@ c) «Produtos agrícolas», os produtos abrangidos pelo anexo I do Tratado de Fu
 
 d) «Titular de uma exploração agrícola», o detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas e gestor do respetivo aparelho produtivo.
 
-e) «Membro de agrupamento ou organização de produtores reconhecido», a pessoa singular ou coletiva associada da entidade reconhecida como agrupamento ou organização de produtores ou, ainda, no caso do setor leiteiro, os associados de cooperativas associadas da entidade reconhecida.
+e) 'Membro de agrupamento ou organização de produtores reconhecido', a pessoa singular ou coletiva associada da entidade reconhecida como agrupamento ou organização de produtores ou associada de associada da entidade reconhecida;
+
+f) 'Charca', reservatório de água realizado essencialmente por escavação do terreno, com o objetivo de promover maior regularidade dos recursos hídricos disponíveis na exploração agrícola.
