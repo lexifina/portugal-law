@@ -1,0 +1,6 @@
+Edital n.º 466/2021
+Sumário: Consulta pública do Projeto de Regulamento da Casa Municipal da Cultura de Seia.
+Carlos Filipe Camelo Miranda de Figueiredo, presidente da Câmara Municipal de Seia, torna público que nos termos e para os efeitos do n.º 1, do artigo 101.º, do Código do Procedimento Administrativo, aprovado pela Lei n.º 4/2015, de 7 de janeiro, a Câmara Municipal de Seia deliberou, na sua reunião ordinária realizada no dia 12 de março de 2021, aprovar e submeter, o Projeto de Regulamento da Casa Municipal da Cultura de Seia, a consulta pública para recolha de sugestões a efetuar por escrito ao Presidente da Câmara Municipal, Largo Dr. António Borges Pires, 6270-494 Seia, ou para o endereço eletrónico cm-seia@cm-seia.pt, no prazo de 30 dias a contar da publicação do presente Edital, na 2,ª série do Diário da República, nos termos da mencionada disposição legal.
+Mais se informa que o projeto de regulamento se encontra disponível para consulta no sítio da internet do Município (www.cm-seia.pt) e na Divisão Sociocultural da Câmara Municipal de Seia, todos os dias úteis, no horário normal de atendimento ao público (das 09h00 até às 12h30 e das 14h00 às 17h30).
+8 de abril de 2021. - O Presidente da Câmara Municipal, Carlos Filipe Camelo Miranda de Figueiredo.
+314136236
