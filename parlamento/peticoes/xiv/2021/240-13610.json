@@ -1,0 +1,207 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13610",
+  "numero": "240",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-04-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2022-06-29",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2022-06-29",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-06-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e68627938345a444178597a4a6c4f5331685a6a646b4c545132596a6b74595441324e7930304e324a694d575178596a41314e6d59756347526d&fich=8d01c2e9-af7d-46b9-a067-47bb1d1b056f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8329",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2022-06-01",
+            "gp": "PS",
+            "id": "6661",
+            "motivoCessacao": null,
+            "nome": "Carlos Brás"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-06-02",
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2021-05-04",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2021-06-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-06-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764e545a685a446c684d7a4d745a6a6b324e533030595749354c5749324d545974597a6c694e5456694d54426d597a46694c6e426b5a673d3d&fich=56ad9a33-f965-4ab9-b616-c9b55b10fc1b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-06-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764d3251344e6d45314d4759744d54597a4d4330304f5452694c57457a4e4459744e4745775a6d5a6a4e3255334e6a49794c6e426b5a673d3d&fich=3d86a50f-1630-494b-a346-4a0ffc7e7622.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-06-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764e446b3059324a6b596a4d74596d466c4d5330304f574d774c5745785a4463744d6a5a68596a4934597a45334d6d56694c6e426b5a673d3d&fich=494cbdb3-bae1-49c0-a1d7-26ab28c172eb.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7344",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-03-28",
+            "dataNomeacao": "2021-06-02",
+            "gp": "PS",
+            "id": "6661",
+            "motivoCessacao": "Fim da XIV Legislatura",
+            "nome": "Carlos Brás"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-05-05",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4978597a457a4f44497a4c54566c4d4441744e446c6c4d433035595459324c57566b4f474a684d574d7a4f474d774d5335775a47593d&fich=21c13823-5e00-49e0-9a66-ed8ba1c38c01.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13610",
+    "PetAssunto": "Reconhecimento da Morada Única Digital pela AT, dispensando a nomeação de representante fiscal até 30 Junho 2021 (ou extensão do prazo até que este serviço esteja disponível) ",
+    "PetDataEntrada": "2021-04-28",
+    "PeticoesAssociadas": null,
+    "PetId": "13610",
+    "PetLeg": "XIV",
+    "PetNr": "240",
+    "PetNrAssinaturas": "1243",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915083",
+        "obs": null,
+        "pag": [
+          "252-253"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-04",
+        "pubLeg": "XIV",
+        "pubNr": "48",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/048/2021-06-04/252?pgs=252-253&org=PLC"
+      }
+    ]
+  }
+}
