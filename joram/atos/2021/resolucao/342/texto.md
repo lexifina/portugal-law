@@ -1,0 +1,23 @@
+# Resolução n.º 342/2021
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 77/2021, de 2021-04-29
+
+**Sumário:** Autoriza o arredondamento do valor aumento do capital em espécie autorizado pela Resolução n.º 235/2021, de 9 de abril, de um milhão seiscentos e sessenta e um mil cento e doze euros para um milhão seiscentos e sessenta e um mil cento e dez euros, em virtude do valor de cada ação ser de € 5,00, resultando o aumento de capital na realização de 332.222 ações, ficando a Região a deter 93,30% do capital e o Instituto de Desenvolvimento Empresarial, IP-RAM a deter 6,70%.
+
+## Texto
+
+Resolução n.º 342/2021
+Considerando que a MPE - Madeira Parques Empresariais, Sociedade Gestora, S.A. (MPE. S.A.), é uma empresa pública de capitais exclusivamente públicos, criada pelo Decreto Legislativo Regional n.º 28/2001/M, de 28 de agosto, com as alterações introduzidas pelos Decretos Legislativos Regionais n.ºs 12/2002/M, 6/2015/M e 12/2018/M, e 12/2020/M de 17 de julho, 13, 6 e 10 de agosto, respetivamente, concessionária do serviço público de criação, instalação, gestão, exploração, promoção e manutenção dos parques empresariais identificados no seu Anexo I, por Contrato de Concessão celebrado com a Região Autónoma da Madeira, em 27 de março de 2006;
+Considerando que a Região Autónoma da Madeira é acionista da MPE, S.A., sendo titular de 92,84% do seu capital social, no valor nominal de vinte e dois milhões quatrocentos e vinte e nove mil, novecentos e cinco euros;
+Considerando que pela Resolução do Conselho do Governo Regional n.º 235/2021, publicada no JORAM, I série, n.º 64 (2º Suplemento) de 9 de abril, foi autorizada, nos termos do artigo 11.º e do n.º 1 do artigo 31.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, a transmissão à MPE. S.A. dos prédios nela identificados, através de um aumento de capital em espécie;
+Considerando que na sequência da referida Resolução foi realizada, em 12 de abril de 2021, uma Assembleia Geral da MPE. S.A., na qual foi deliberado um aumento do seu capital social por entrada em espécie, realizada somente pela acionista Região Autónoma da Madeira, no valor de um milhão seiscentos e sessenta e um mil cento e doze euros, passando a Região Autónoma da Madeira a deter 93,30% das ações e o Instituto de Desenvolvimento Empresarial, IP-RAM a deter 6,70%;
+Considerando que o valor nominal de cada ação do capital social da MPE, S.A., é de € 5,00, torna-se necessário proceder ao arredondamento do valor da entrada de capital em espécie para um milhão seiscentos e sessenta e um mil cento e dez euros;
+Considerando que se torna necessário alterar os Estatutos da MPE - Madeira Parques Empresariais, Sociedade Gestora S.A., por forma a que fique prevista a possibilidade de realização de prestações suplementares por parte dos acionistas e que foi favorável o parecer emitido nos termos do disposto na alínea a) do n.º 6 do artigo 67.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, que aprovou o Orçamento da Região Autónoma da Madeira para 2021.
+O Conselho de Governo reunido em plenário em 29 de abril de 2021, resolve:
+1. Autorizar o arredondamento do valor aumento do capital em espécie autorizado pela Resolução n.º 235/2021, publicada no JORAM, Iª série n.º 64, de 9 de abril, de um milhão seiscentos e sessenta e um mil cento e doze euros para um milhão seiscentos e sessenta e um mil cento e dez euros, em virtude do valor de cada ação ser de € 5,00, resultando o aumento de capital na realização de 332.222 ações, ficando a Região Autónoma da Madeira a deter 93,30% do capital e o Instituto de Desenvolvimento Empresarial, IP-RAM a deter 6,70%.
+
+2. Autorizar a alteração dos Estatutos da MPE - Madeira Parques Empresariais, Sociedade Gestora, S.A, sendo-lhes aditado um artigo 13.º B, para a realização de Prestações Suplementares.
+3. Mandatar o Adjunto do Gabinete do Secretário Regional de Economia, o Licenciado José Jorge dos Santos Figueira Faria, para, em nome e representação da Região Autónoma da Madeira, participar na Assembleia Geral de sócios da Sociedade MPE - Madeira Parques Empresariais, Sociedade Gestora, S.A., que terá lugar na sua sede social, sita à Rua do Bispo, n.º 16, 2.º andar, Sala 24, 9000-073 Funchal, no próximo dia 30 de abril, pelas 09:00 horas, ficando autorizado, nos termos do n.º 3 do artigo 54.º do Código das Sociedades Comerciais, a deliberar nos termos e condições que tiver por convenientes, sobre os pontos da ordem de trabalhos que se anexa, a qual faz parte integrante da presente Resolução e fica arquivada na Secretaria - Geral da Presidência.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
