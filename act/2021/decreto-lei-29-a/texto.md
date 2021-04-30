@@ -1,0 +1,54 @@
+Decreto-Lei n.º 29-A/2021
+de 29 de abril
+Sumário: Cria um regime excecional e temporário de registo diário de trabalhadores de explorações agrícolas e do setor da construção.
+Ao longo do último ano, a situação epidemiológica verificada em Portugal, em resultado da pandemia provocada pela doença COVID-19, tem vindo a exigir a adoção de várias medidas extraordinárias, com o intuito de prevenção, contenção e mitigação da transmissão da infeção.
+Neste contexto, tendo em vista reforçar o controlo do cumprimento das regras em matéria de segurança e saúde no trabalho, o Governo entendeu ser necessário estabelecer regras de minimização de riscos no âmbito das relações laborais com vista à prevenção da transmissão da infeção por SARS-CoV-2 e da doença COVID-19, designadamente através da organização de um registo diário de todos os trabalhadores, que desempenhem atividade em exploração agrícola ou em estaleiros temporários ou móveis de construção civil com 10 ou mais trabalhadores.
+Com efeito, considerando o maior risco de incidência de casos de COVID-19, bem como a elevada mobilidade de trabalhadores naqueles setores de atividade, justifica-se o reforço de medidas e regras especiais para reduzir o risco de contágio desta doença.
+Deste modo, entende o Governo ser necessário adotar a obrigatoriedade da organização de um registo diário de todos os trabalhadores que desempenhem atividade em explorações agrícolas e estaleiros temporários ou móveis de construção civil, promovendo-se neste sentido a quarta alteração do Decreto-Lei n.º 79-A/2020, de 1 de outubro, na sua redação atual, que estabelece um regime excecional e transitório de reorganização do trabalho e de minimização de riscos de transmissão da infeção da doença COVID-19 no âmbito das relações laborais.
+Foram ouvidas as entidades representativas dos setores.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente decreto-lei procede à quarta alteração ao Decreto-Lei n.º 79-A/2020, de 1 de outubro, alterado pelos Decretos-Leis n.os 94-A/2020, de 3 de novembro, 99/2020, de 22 de novembro, e 106-A/2020, de 30 de dezembro, que estabelece um regime excecional e transitório de reorganização do trabalho e de minimização de riscos de transmissão da infeção da doença COVID-19 no âmbito das relações laborais.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 79-A/2020, de 1 de outubro
+Os artigos 2.º, 5.º e 7.º do Decreto-Lei n.º 79-A/2020, de 1 de outubro, na sua redação atual, passam a ter a seguinte redação:
+«Artigo 2.º
+[...]
+1 - [...].
+2 - [...].
+3 - [...].
+4 - [...].
+5 - O disposto no artigo 5.º-C é aplicável às empresas que empreguem 10 ou mais trabalhadores em explorações agrícolas e estaleiros temporários ou móveis da construção civil, em todo o território nacional continental.
+Artigo 5.º
+[...]
+A empresa utilizadora ou beneficiária final dos serviços prestados é responsável por assegurar o cumprimento do disposto nos artigos 3.º, 4.º, 5.º-A, 5.º-B e 5.º-C, com as necessárias adaptações, aos trabalhadores temporários e prestadores de serviços que estejam a prestar atividade para essas entidades.
+Artigo 7.º
+[...]
+1 - Constitui contraordenação muito grave a violação do disposto nos artigos 3.º a 5.º e constitui contraordenação grave a violação do disposto nos n.os 1 e 2 do artigo 5.º-A e o incumprimento por parte do empregador da decisão referida no n.º 4 do mesmo artigo e, ainda, a violação do disposto nos artigos 5.º-B e 5.º-C.
+2 - [...].
+3 - [...].»
+Artigo 3.º
+Aditamento ao Decreto-Lei n.º 79-A/2020, de 1 de outubro
+É aditado ao Decreto-Lei n.º 79-A/2020, de 1 de outubro, na sua redação atual, o artigo 5.º-C, com a seguinte redação:
+«Artigo 5.º-C
+Registo diário de trabalhadores em explorações agrícolas e estaleiros temporários ou móveis da construção civil
+1 - O empregador com 10 ou mais trabalhadores em explorações agrícolas e estaleiros temporários ou móveis da construção civil está obrigado a organizar um registo diário de todos os trabalhadores ao serviço, tendo em vista reforçar o controlo do cumprimento das regras em matéria de segurança e saúde no trabalho e de controlo epidemiológico, incluindo o cumprimento das medidas de confinamento obrigatório.
+2 - O registo diário referido no número anterior deve conter as seguintes informações:
+a) A identificação completa e a residência;
+b) O número de identificação fiscal;
+c) O número de identificação da segurança social;
+d) O contacto telefónico.
+3 - O empregador, a empresa utilizadora ou beneficiária final dos serviços prestados, conforme aplicável, devem facultar acesso imediato ao registo referido nos números anteriores sempre que solicitado pela Autoridade para as Condições do Trabalho ou outra autoridade competente.
+4 - Sempre que no exercício da respetiva atividade a Autoridade para as Condições do Trabalho identificar a presença de trabalhadores em locais de trabalho em situação de incumprimento de medidas de confinamento obrigatório, deve comunicá-lo às autoridades competentes.»
+Artigo 4.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 29 de abril de 2021. - António Luís Santos da Costa - Gabriel Gameiro Rodrigues Bastos - Marta Alexandra Fartura Braga Temido de Almeida Simões.
+Promulgado em 29 de abril de 2021.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 29 de abril de 2021.
+O Primeiro-Ministro, António Luís Santos da Costa.
+114196411
