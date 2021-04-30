@@ -1,0 +1,19 @@
+Aviso n.º 8092/2021
+Sumário: Procedimento de alteração do Plano de Pormenor da Zona Desportiva/Escolar de Odemira.
+Alteração do Plano de Pormenor da Zona Desportiva/Escolar de Odemira
+José Alberto Candeias Guerreiro, Presidente da Câmara Municipal, faz saber que a Câmara Municipal de Odemira deliberou na reunião realizada no dia quatro de março de 2021, iniciar o processo de alteração do Plano de Pormenor da Zona Desportiva/Escolar de Odemira, para os efeitos do disposto no artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial.
+Assim, para os efeitos do disposto no n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial, torna público que, de acordo com a referida deliberação, estima-se que o processo de alteração deverá ocorrer num período de seis meses.
+De acordo com o n.º 2 do artigo 88.º do RJIGT, publicita-se a abertura do período de participação preventiva, por um prazo de 15 dias úteis a contar 5 dias após a publicação do presente aviso no Diário da República. Durante este período os interessados poderão, por escrito e de acordo com formulário disponível na Câmara Municipal e no seu sítio da internet, formular sugestões ou observações, apresentar ou obter informações ou esclarecimentos sobre questões que possam ser consideradas no âmbito da elaboração do referido Plano. As participações deverão ser entregues em mão, por correio eletrónico para geral@cm-odemira.pt ou por correio para o Município de Odemira, Praça da República, 7630-139 Odemira.
+Durante aquele período os interessados poderão ainda consultar, no Balcão único do Município de Odemira e no sítio da internet http://www.cm-odemira.pt, os termos de referência do Plano e respetivos anexos. Os referidos documentos, e em particular os termos de referência do Plano, acompanharam a deliberação da Câmara e consistem na fundamentação da estratégia de intervenção e base programática, estabelecendo o enquadramento legal e territorial, definindo a oportunidade de elaboração, os objetivos e os conteúdos do Plano, e identificando as fases e prazos a observar no processo, a constituição da equipa de trabalho e as entidades que o acompanham.
+9 de abril de 2021. - O Presidente da Câmara, José Alberto Candeias Guerreiro, Eng.
+Cópia de parte da ata da reunião ordinária da Câmara Municipal, realizada no dia quatro de março do ano de dois mil e vinte e um:
+"1 - Assunto n.º 0116/2021 - Plano de Pormenor da Zona Desportiva/Escolar de Odemira: proposta de alteração
+Foi presente a informação técnica n.º 1745, datada de 20 de maio de 2020, proveniente do Setor de Ordenamento do Território, da Divisão de Licenciamento e Gestão Territorial, relativa ao Plano de Pormenor da Zona Desportiva/Escolar de Odemira, onde se propõe:
+1 - Determinar dar início ao procedimento de alteração do Plano de Pormenor da Zona Desportiva/Escolar de Odemira, que deverá estar concluído no prazo de seis meses, e aprovar os respetivos Termos de Referência, ao abrigo do disposto no artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT).
+2 - Dispensar a alteração do Plano de Pormenor de avaliação ambiental ao abrigo do disposto no artigo 78.º do RJIGT.
+3 - Determinar a abertura de um período para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração, com a duração de 15 dias, ao abrigo do disposto no artigo 88.º do RJIGT.
+Determinar que o processo de alteração ao Plano de Pormenor da Zona Desportiva/Escolar de Odemira seja desenvolvido internamente pelos técnicos do Município de Odemira.
+Apreciado o assunto, a Câmara Municipal deliberou, por unanimidade, aprovar nos termos propostos.
+Está conforme o original.
+Gabinete de Apoio ao Presidente do Município de Odemira, ao oitavo dia do mês de abril do ano de dois mil e vinte e um.
+614144003
