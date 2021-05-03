@@ -1,0 +1,11 @@
+Aviso n.º 8202/2021
+Sumário: Plano de Pormenor da Frente Norte da Avenida Luísa Todi. Abertura do período de discussão pública.
+Plano de Pormenor da Frente Norte da Avenida Luísa Todi
+Abertura do Período de Discussão Pública
+Maria das Dores Meira, Presidente da Câmara Municipal de Setúbal, do Concelho de Setúbal, torna público que, a Câmara Municipal de Setúbal na sua reunião de 17 de março de 2021, através da Deliberação n.º 80/2021, aprovada por unanimidade, determinou proceder à abertura do período de discussão pública do Plano de Pormenor da Frente Norte da Avenida Luísa Todi.
+E para constar, se publica o presente aviso na 2.ª série do Diário da República, nos termos do artigo 89.º do RJIGT, e respetiva divulgação através da Plataforma Colaborativa de Gestão Territorial (PCGT), comunicação social, no sítio na Internet do Município de Setúbal, bem como, a afixação de Edital de idêntico teor nos Paços do Município e nas sedes das Juntas de Freguesia do Concelho de Setúbal.
+Mais se informa que, o período de discussão pública é de 20 dias úteis, a contar do sexto dia útil após a publicação do respetivo aviso no Diário da República e que os interessados podem consultar a Proposta de Plano, a ata da Conferência Procedimental e demais pareceres emitidos e os resultados da concertação no sítio na Internet da Câmara Municipal de Setúbal e em formato papel no Atendimento da Divisão Técnica-Administrativa do Departamento de Urbanismo, sito no Edifício Ciprestes.
+Os interessados poderão apresentar as suas reclamações, observações ou sugestões até ao final do referido período, através de formulário digital disponibilizado na referida página da Internet, bem como, através de documento analógico, disponibilizado no local acima referido para consulta da proposta de plano. Para uma correta identificação e ponderação das questões apresentadas, no formulário devem constar os dados de identificação do interessado, devendo ser preferencialmente anexa ao mesmo, planta de localização devidamente assinalada.
+Prevê-se a realização de uma sessão de apresentação pública da proposta de plano, condicionada à avaliação da evolução da pandemia e às regras sanitárias decretadas pelo Governo e Autoridades de Saúde que à data estiverem em vigor.
+25 de março de 2021. - A Presidente da Câmara Municipal de Setúbal, Maria das Dores Meira.
+614177093
