@@ -1,0 +1,54 @@
+Resolução do Conselho de Ministros n.º 46-B/2021
+Sumário: Cria a Estrutura de Missão «Recuperar Portugal».
+As consequências decorrentes da propagação do vírus SARS-CoV-2 e da pandemia da doença COVID-19 têm vindo a ter um forte impacto a nível económico e social, exigindo, quer na União Europeia quer em Portugal, a necessidade de uma adaptação estratégica e operacional, no sentido de uma resposta de estabilização de curto prazo e de promoção da recuperação e resiliência, a médio e longo prazo.
+Em julho de 2020, o Conselho Europeu chegou a acordo sobre um pacote financeiro ambicioso, em resposta aos novos desafios decorrentes da pandemia da doença COVID-19 e à necessidade de implementar políticas económicas e sociais de recuperação e promoção da resiliência dos Estados-Membros.
+No âmbito deste pacote financeiro foi criado um Instrumento de Recuperação e Resiliência que permite a cada país implementar um conjunto de reformas e investimentos para atenuar o impacto económico da crise causada pela pandemia da doença COVID-19.
+O Decreto-Lei n.º 29-B/2021, de 4 de maio, estabelece o modelo de governação dos fundos europeus atribuídos a Portugal no âmbito do Instrumento de Recuperação e Resiliência da União Europeia do NextGenerationEU, bem como a estrutura orgânica relativa ao acompanhamento e implementação do Plano de Recuperação e Resiliência (PRR) português, nos termos do Regulamento (UE) 2021/241, do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021.
+O referido decreto-lei prevê uma entidade responsável pela coordenação técnica e gestão do PRR, com a natureza de estrutura de missão, a qual, nos termos do artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, é criada por resolução do Conselho de Ministros.
+Deste modo, a presente resolução do Conselho de Ministros procede à criação da Estrutura de Missão «Recuperar Portugal», cujo objetivo é promover a gestão e monitorização da execução e da concretização dos objetivos operacionais do PRR português, que se enquadra no NextGenerationEU, para o período de 2020-2026.
+Assim:
+Nos termos do n.º 1 do artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, do artigo 6.º do Decreto-Lei n.º 29-B/2021, de 4 de maio, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Criar a Estrutura de Missão «Recuperar Portugal», adiante designada por «Recuperar Portugal», enquanto entidade responsável pela coordenação técnica e pela coordenação de gestão da execução do Plano de Recuperação e Resiliência (PRR).
+2 - Determinar que a «Recuperar Portugal» fica na dependência do membro do Governo responsável pela área do planeamento, com possibilidade de delegação.
+3 - Fixar como objetivos da «Recuperar Portugal»:
+a) Negociar e monitorizar a execução do PRR, assegurando o cumprimento da regulamentação comunitária do Mecanismo de Recuperação e Resiliência (MRR), designadamente o Regulamento (UE) 2021/241, do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, e o cumprimento integral e atempado dos objetivos estratégicos e operacionais, assim como dos investimentos e reformas que compõem os diversos pilares do PRR;
+b) Acompanhar a execução das reformas e investimentos do PRR, assegurando a consecução dos seus objetivos estratégicos e promovendo a monitorização e a concretização dos objetivos operacionais através de marcos e de metas, contratualizando com os respetivos beneficiários as correspondentes condições;
+c) Fornecer apoio técnico às equipas das áreas governativas coordenadoras das reformas e investimentos do PRR e aos beneficiários diretos e intermediários, nomeadamente através da disponibilização de orientações técnicas que assegurem uma mais eficaz e eficiente execução dos investimentos e reformas do PRR;
+d) Assegurar, em articulação com a Agência de Desenvolvimento e Coesão, I. P. (Agência, I. P.), e com o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério das Finanças (GPEARI), a interação e os contactos com a Comissão Europeia durante o período de execução do PRR;
+e) Preparar e submeter à Comissão Europeia os pedidos de desembolso dos financiamentos do PRR semestrais, recolhendo, junto das entidades competentes, as informações necessárias;
+f) Promover a avaliação dos resultados do PRR, articulando com o GPEARI a que seja relativa aos aspetos macroeconómicos;
+g) Promover a divulgação das realizações e resultados do PRR a nível nacional e europeu, bem como responder às necessidades de informação:
+i) Da Comissão Europeia;
+ii) Da Comissão Interministerial, da Comissão Nacional de Acompanhamento e da Comissão de Auditoria e Controlo, previstas no artigo 3.º do Decreto-Lei n.º 29-B/2021, de 4 de maio;
+iii) De outras entidades relevantes, nomeadamente da Assembleia da República;
+h) Implementar um sistema de gestão e controlo interno, suportado em modelos adequados de monitorização e informação, que previna e detete irregularidades e permita a adoção das medidas corretivas oportunas e adequadas;
+i) Adotar medidas antifraude eficazes e proporcionais, tendo em conta os riscos identificados;
+j) Praticar todos os atos necessários à prossecução da missão que lhe é conferida e à concretização dos objetivos fixados, bem como o exercício das competências que lhe venham a ser delegadas.
+4 - Determinar que a «Recuperar Portugal» é dirigida por um presidente, um vice-presidente e quatro coordenadores de equipas de projeto.
+5 - Determinar que o presidente tem um estatuto remuneratório equivalente ao vencimento mensal de presidente de empresa do grupo B, de acordo com a tabela de remunerações dos gestores públicos aplicável, nos termos da Resolução do Conselho de Ministros n.º 16/2012, de 14 de fevereiro, acrescida das respetivas despesas de representação.
+6 - Determinar que o vice-presidente tem um estatuto remuneratório equivalente a 90 % do vencimento mensal do presidente, de acordo com a tabela de remunerações dos gestores públicos aplicável, nos termos da Resolução do Conselho de Ministros n.º 16/2012, de 14 de fevereiro, acrescida das respetivas despesas de representação.
+7 - Estabelecer que dos quatro coordenadores referidos no n.º 4:
+a) Três coordenadores têm funções de monitorização da execução das três dimensões estruturantes do PRR, as quais são a resiliência, a transição climática e a transição digital;
+b) Um coordenador correspondente à equipa segregada de controlo interno.
+8 - Determinar que os coordenadores são designados por despacho do membro do Governo referido no n.º 2, sob proposta do presidente, ouvidos os membros do Governo responsáveis em razão da matéria.
+9 - Determinar que os coordenadores das equipas de projeto são equiparados, para efeitos remuneratórios e de competências, a cargo de direção superior de 2.º grau.
+10 - Estabelecer que a «Recuperar Portugal» integra até 60 elementos, entre os quais os previstos no n.º 4.
+11 - Estabelecer que os membros da «Recuperar Portugal» dispõem das competências e formação adequada ao desempenho das suas competências e obrigações previstas na regulamentação comunitária.
+12 - Determinar que a «Recuperar Portugal» funciona sob a responsabilidade do presidente e exerce as competências que por este lhe sejam atribuídas, de entre as quais as previstas no artigo 6.º do Decreto-Lei n.º 29-B/2021, de 4 de maio.
+13 - Prever que, para a operacionalização da sua missão, a «Recuperar Portugal» pode recrutar ao abrigo dos seguintes regimes, nos termos da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e demais legislação aplicável:
+a) Mobilidade;
+b) Contrato de trabalho a termo resolutivo certo ou incerto;
+c) Cedência de interesse público;
+d) Comissão de serviço.
+14 - Determinar que a remuneração dos técnicos superiores é fixada até ao nível 70 da tabela remuneratória única dos trabalhadores que exercem funções públicas, aprovada pela Portaria n.º 1553-C/2008, de 31 de dezembro, consoante a experiência e conhecimento dos respetivos elementos, considerando que a remuneração de, pelo menos, 35 % dos técnicos superiores se situa até ao nível 30 e que a remuneração de até 45 % dos técnicos superiores se situa até ao nível 40.
+15 - Estipular que o exercício de funções no âmbito da «Recuperar Portugal» não conduz à constituição de vínculos de emprego público por tempo indeterminado, nem acarreta o preenchimento de postos de trabalho dos mapas de pessoal de qualquer serviço ou organismo da Administração Pública, e caduca automática e necessariamente na data de extinção da «Recuperar Portugal».
+16 - Determinar que o presidente e demais elementos da «Recuperar Portugal» estão sujeitos aos deveres que impendem sobre os membros dos gabinetes, nos termos do Decreto-Lei n.º 11/2012, de 20 de janeiro, sem prejuízo da sua sujeição a outros deveres decorrentes do regime contratual aplicável.
+17 - Estabelecer que os elementos da «Recuperar Portugal»:
+a) Exercem funções com isenção de horário de trabalho, sem qualquer suplemento remuneratório;
+b) Têm direito a ajudas de custo e de deslocação, nos termos previstos nas disposições legais em vigor para os trabalhadores em funções públicas, sempre que se desloquem em missão de serviço público.
+18 - Determinar que os encargos orçamentais decorrentes da criação e o apoio logístico e administrativo decorrentes da criação e funcionamento da «Recuperar Portugal» são suportados pela Agência, I. P., sendo para o efeito dotada dos respetivos recursos financeiros provenientes de verbas do Orçamento do Estado.
+19 - Determinar que a «Recuperar Portugal» apresenta um relatório final da atividade desenvolvida e dos resultados alcançados no término do seu mandato.
+20 - Estabelecer que o mandato da «Recuperar Portugal» tem duração até 31 de dezembro de 2026.
+21 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 18 de março de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+114205012
