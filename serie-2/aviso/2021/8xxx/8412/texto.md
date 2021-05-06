@@ -1,0 +1,18 @@
+Aviso n.º 8412/2021
+Sumário: 2.ª revisão do Plano Diretor Municipal de Macedo de Cavaleiros,
+2.ª Revisão do Plano Diretor Municipal de Macedo de Cavaleiros
+Benjamim do Nascimento Pereira Rodrigues, Presidente da Câmara Municipal de Macedo de Cavaleiros, na sequência do despacho proferido a 07 de abril de 2021, torna público o seguinte: para cumprimento do disposto no Decreto-Lei n.º 80/2015, de 14 de maio - Regime Jurídico dos Instrumentos de Gestão Territorial -, por força do disposto no n.º 3 do artigo 119.º, em conjugação com o artigo 76.º, decidiu:
+i) Aprovar a oportunidade e os Termos de Referência da 2.ª Revisão do Plano Diretor Municipal de Macedo de Cavaleiros.
+ii) Ao abrigo das disposições conjugadas dos artigos 115.º, 119.º, 124.º e 199.º do diploma acima referido, definir o prazo de 24 meses para a sua conclusão.
+iii) Nos termos do artigo 120.º do diploma referenciado e com fundamento nos Termos de Referência aprovados, não sujeitar esta revisão ao procedimento de Avaliação Ambiental Estratégica, por se considerar que esta não é suscetível de provocar efeitos significativos no ambiente.
+iv) Nos termos do disposto no n.º 2 do artigo 88.º do diploma referenciado, que os interessados poderão, no prazo de 15 dias, contados a partir da data de publicação no Diário da República, formular sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de revisão do Plano Diretor Municipal. Estas deverão ser apresentadas por uma das seguintes formas: (i) por escrito e dirigidas ao Presidente da Câmara Municipal para a morada: Rua Comendador Emílio Augusto Pires, n.º 14 - Edifício SideUP, 5340-257 Macedo de Cavaleiros, (ii) entregues pessoalmente na Unidade de Planeamento e Projetos ou (iii) através do endereço eletrónico: geral@cm-macedodecavaleiros.pt utilizando para tal o impresso disponível nos locais assinalados.
+12 de abril de 2021. - O Presidente da Câmara Municipal de Macedo de Cavaleiros, Benjamim do Nascimento Pereira Rodrigues.
+Deliberação
+2.ª Revisão do Plano Diretor Municipal de Macedo de Cavaleiros
+Benjamim do Nascimento Pereira Rodrigues, Presidente da Câmara Municipal de Macedo de Cavaleiros, ao abrigo do disposto no artigo 35.º, n.º 3 do Anexo I à Lei n.º 75/2013, de 12 de setembro, na sua redação atual, por despacho datado de 07 de abril de 2021, remetendo-o a ratificação na próxima reunião pública da Câmara Municipal, decidiu:
+1 - Ao abrigo das disposições conjugadas dos artigos 115.º, 119.º, 124.º e 199.º do Decreto-Lei n.º 80/2015, de 14 de maio - Regime Jurídico dos Instrumentos de Gestão Territorial -, dar início ao procedimento da 2.ª revisão do Plano Diretor Municipal de Macedo de Cavaleiros, definindo um prazo de 24 meses para a sua conclusão.
+2 - Nos termos do n.º 3 do artigo 119.º, em conjugação com o definido no artigo 76.º do diploma referenciado, aprovar a oportunidade e os Termos de Referência da revisão do Plano Diretor Municipal.
+3 - Conforme definido no artigo 120.º do diploma referenciado e com os fundamentos constantes nos Termos de Referência, não sujeitar a revisão do Plano Diretor Municipal ao procedimento de Avaliação Ambiental Estratégica.
+4 - Como disposto no n.º 2 do artigo 88.º do diploma referenciado, definir o prazo de 15 dias, contados a partir da data de publicação no Diário da República, para formular sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de revisão do Plano Diretor Municipal.
+12 de abril de 2021. - O Presidente da Câmara Municipal de Macedo de Cavaleiros, Benjamim do Nascimento Pereira Rodrigues.
+614164692
