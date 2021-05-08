@@ -62,10 +62,4 @@ bb) Os fundamentos para a resolução do contrato;
 
 cc) As condições de resgate da concessão.
 
-dd) Um plano de eficiência energética da exploração, visando a minimização de consumos, a integração de tecnologias de produção renovável de eletricidade e medidas de mitigação de emissões de gases com efeito de estufa;
-
-ee) A avaliação de impacte social, para analisar perspetivas das comunidades locais, antecipar pontos de conflito, clarificar benefícios públicos e identificar estratégias de envolvimento e de colaboração;
-
-ff) Um plano de comunicação que sistematize orientações de divulgação de informação e os instrumentos a utilizar.
-
 2 - O procedimento de aprovação do contrato de concessão de exploração segue o disposto nos n.os 4 e 5 do artigo 15.º, salvo no que respeita aos prazos aí estabelecidos, que são acrescidos em 10 dias.

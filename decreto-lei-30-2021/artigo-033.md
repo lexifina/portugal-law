@@ -16,11 +16,9 @@ d) Um representante de associações locais ou regionais de promoção do desenv
 
 e) Um representante de associações locais ou regionais de promoção do desenvolvimento social, se existirem.
 
-f) Um representante de associações locais ou regionais de promoção do desenvolvimento cultural, se existirem.
+3 - A DGEG e a autoridade de avaliação de impacte ambiental, se tiver havido lugar a este procedimento, disponibilizam à comissão de acompanhamento os elementos informativos disponíveis e relevantes para que esta possa estar informada sobre o modo como se desenvolve a atividade de exploração.
 
-3 - A DGEG e a autoridade de avaliação de impacte ambiental, se tiver havido lugar a este procedimento, disponibilizam à comissão de acompanhamento os elementos informativos disponíveis e relevantes sobre o modo como se desenvolvem as atividades de revelação de depósitos minerais e a atividade de exploração.
-
-4 - O concessionário reúne, pelo menos, duas vezes por ano com a comissão de acompanhamento para prestação de informação e recolha de contributos e sugestões que esta pretenda apresentar.
+4 - O concessionário reúne, pelo menos, uma vez por ano no mês de junho com a comissão de acompanhamento para prestação de informação e recolha de contributos e sugestões que esta pretenda apresentar.
 
 5 - A DGEG pode determinar, a pedido do concessionário ou da comissão de acompanhamento, a realização de outras reuniões sempre que considere o pedido justificado.
 
@@ -32,6 +30,6 @@ f) Um representante de associações locais ou regionais de promoção do desenv
 
 9 - Os serviços a adquirir nos termos dos números anteriores têm as valências técnicas e são prestados pelas entidades privadas indicadas pela comissão de acompanhamento, e incluem a fiscalização do cumprimento das normas legais e das técnicas aplicáveis, a comunicação de eventuais infrações detetadas, a formulação de recomendações a submeter à apreciação das entidades competentes e a prestação de informação, não substituindo o exercício das competências legalmente atribuídas às entidades públicas.
 
-10 - A determinação da constituição da comissão de acompanhamento e, quando for o caso, da aquisição dos serviços de acompanhamento e fiscalização deve constar dos contratos de atribuição de direitos privativos ou das peças do procedimento, quando haja lugar a procedimento concursal.
+10 - A determinação da constituição da comissão de acompanhamento e, quando for o caso, da aquisição dos serviços de acompanhamento e fiscalização deve constar, sempre que possível, dos contratos de atribuição de direitos privativos ou das peças do procedimento quando haja lugar a procedimento concursal, sem prejuízo de poder ser tomada a todo o tempo pela DGEG.
 
 11 - O disposto no presente artigo é aplicável aos detentores de direitos privativos de prospeção e pesquisa e de exploração experimental.

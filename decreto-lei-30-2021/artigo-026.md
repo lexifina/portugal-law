@@ -44,23 +44,17 @@ a) Condicionamento da eventual futura exploração do recurso à sua transforma�
 
 b) Obrigação de integração dos resíduos de exploração experimental em cadeias de valorização existentes;
 
-c) Plano de eficiência energética da exploração, visando a minimização de consumos, a integração de tecnologias de produção renovável de eletricidade e medidas de mitigação de emissões de gases com efeito de estufa;
+c) Condições de reversão de bens e direitos para o Estado ou municípios em cujo território se venha a localizar a área da exploração experimental;
 
-d) Condições de reversão de bens e direitos para o Estado ou municípios em cujo território se venha a localizar a área da exploração experimental;
+d) Condições mínimas a garantir no plano de encerramento da exploração experimental para minimização dos impactes ambientais, sociais e económicos;
 
-e) Condições mínimas a garantir no plano de encerramento da exploração experimental para minimização dos impactes ambientais, sociais e económicos;
+e) Obrigações mínimas no âmbito da responsabilidade social;
 
-f) Obrigações mínimas no âmbito da responsabilidade social;
+f) Salvaguarda de direitos de outros titulares de explorações de recursos geológicos;
 
-g) Salvaguarda de direitos de outros titulares de explorações de recursos geológicos;
+g) Medidas específicas para o conhecimento, conservação ou valorização de recursos geológicos ou património geológico;
 
-h) Medidas específicas para o conhecimento, conservação ou valorização de recursos geológicos ou património geológico;
-
-i) A obrigação de efetuar estudos complementares.
-
-j) Avaliação de impacte social, para analisar perspetivas das comunidades locais, antecipar pontos de conflitos, clarificar benefícios públicos e identificar estratégias de envolvimento e de colaboração;
-
-k) Plano de comunicação que sistematize orientações de divulgação de informação e os instrumentos a utilizar.
+h) A obrigação de efetuar estudos complementares.
 
 3 - O procedimento de aprovação e de execução do contrato de exploração experimental obedece ao previsto na secção i do capítulo iii.
 

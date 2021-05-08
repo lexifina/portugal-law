@@ -32,13 +32,13 @@ iv) Por razões de interesse público.
 
 7 - Não ocorrendo rejeição liminar nem indeferimento, nos termos previstos no número anterior, presume-se que o requerimento se encontra corretamente instruído.
 
-8 - Sem prejuízo do disposto na lei quanto às servidões militares, quando o pedido incida sobre áreas abrangidas por servidões ou restrições de utilidade pública, ou por condicionantes territoriais e ambientais, a DGEG promove a consulta das entidades competentes e dos municípios, que dispõem do prazo de 20 dias para se pronunciar.
+8 - Sem prejuízo do disposto na lei quanto às servidões militares, quando o pedido incida sobre áreas abrangidas por servidões ou restrições de utilidade pública, a DGEG promove a consulta das entidades competentes, que dispõem do prazo de 20 dias para se pronunciarem.
 
-9 - Sempre que os pareceres das entidades a que se refere o número anterior sejam desfavoráveis, com fundamento na desconformidade com normas legais ou regulamentares, a DGEG pode identificar e propor alterações à área objeto do pedido, desde que tais alterações não colidam com as restrições em causa.
+9 - Sempre que os pareceres das entidades a que se refere o número anterior sejam desfavoráveis, com fundamento na desconformidade com normas legais ou regulamentares, a DGEG altera, oficiosamente, a área objeto do pedido.
 
 10 - Nos casos previstos no número anterior, a DGEG comunica ao requerente, no prazo de 10 dias, a alteração à área apresentada, podendo este, no prazo de 20 dias, aceitar a alteração proposta ou desistir do pedido.
 
-11 - Concluídos os procedimentos referidos nos números anteriores, a DGEG publicita no seu sítio na Internet e diligencia para que seja publicitada no sítio na Internet dos municípios, e, nas juntas de freguesia abrangidas, através de edital, a abertura do período de discussão pública e o respetivo prazo de duração, não inferior a 20 dias, a promover na plataforma Participa.pt, na qual são disponibilizados os elementos fundamentais do pedido, designadamente a área abrangida, os recursos a investigar e a entidade proponente.
+11 - Concluídos os procedimentos referidos nos números anteriores, a DGEG publicita no seu sítio na Internet a abertura do período de discussão pública e o respetivo prazo de duração, a promover na plataforma Participa.pt, na qual são disponibilizados os elementos fundamentais do pedido, designadamente a área abrangida, os recursos a investigar e a entidade proponente.
 
 12 - Terminado o prazo da participação pública, a área abrangida pelo pedido deixa de constituir área disponível para novos pedidos de atribuição de direitos de revelação ou de aproveitamento.
 
