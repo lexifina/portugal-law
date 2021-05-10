@@ -1,0 +1,174 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "92",
+    "id": "110777",
+    "titulo": "Altera o Código de Processo Civil, as normas regulamentares do regime da propriedade horizontal, o regime dos procedimentos para cumprimento de obrigações pecuniárias emergentes de contratos de valor não superior à alçada do tribunal de 1.ª Instância e o Código do Registo Predial"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2021-05-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "50985",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-05-10",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-06-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Ordem dos Notários ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694f544d304d6d5a6c596931695a4455304c54526a4e544574596a49344e6930334d3249315a444d344d47526d4e6d49756347526d&fich=b9342feb-bd54-4c51-b286-73b5d380df6b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-08-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a444d794f445577597930784f57557a4c5451344f544d74596a59355969316b4e545a6d5a4759344e57566a5a6d45756347526d&fich=cd32850c-19e3-4893-b69b-d56fdf85ecfa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a574a6d4d574d33595330774f5455784c5451795a446b7459545269595330355a6a6777597a4d7a595749795a4467756347526d&fich=febf1c7a-0951-42d9-a4ba-9f80c33ab2d8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-02",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a6d497a5a5445324d433031597a6b7a4c5451784d5459745954686b4e5330784e5749315a6d49354e4759314d4451756347526d&fich=ffb3e160-5c93-4116-a8d5-15b5fb94f504.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-02",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a4456685a6a41304d6930304e4445354c54526c4e54677459574e694d43307a4d6a55345a6a41305a47466b596a63756347526d&fich=3d5af042-4419-4e58-acb0-3258f04dadb7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e544a6c595468684e43316c595451324c545132596d4d744f54526c4d43307a4f54646a5957597a4e4749315a446b756347526d&fich=f52ea8a4-ea46-46bc-94e0-397caf34b5d9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Associação Sindical dos Juizes Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e6a5a6b4e444d785a4330354e6a4d314c54526b4e7a63744f5459785969316a5a444d334d32597a5a5445304d4749756347526d&fich=666d431d-9635-4d77-961b-cd373f3e140b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-12",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Conselho Superior  dos Tribunais Administrativos  e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e4467344d7a4a6a4e53316c5a6a466c4c54517a59544174595751354f5330785a6a417959325131596a63354f4755756347526d&fich=648832c5-ef1e-43a0-ad99-1f02cd5b798e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7264",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "7264",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2021-06-14"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2021-06-08"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2021-06-02"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2021-07-12"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2021-05-12"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2021-05-12"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2021-05-12"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2021-05-12"
+          },
+          {
+            "link": "",
+            "nome": "Bastonário da Ordem dos Solicitadores e dos Agentes de Execução em 2021-06-02"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "6531",
+            "motivoCessacao": null,
+            "nome": "Mónica Quintela"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-05-10",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1234687",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
