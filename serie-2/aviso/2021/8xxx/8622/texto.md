@@ -1,0 +1,9 @@
+Aviso n.º 8622/2021
+Sumário: Projeto de Regulamento de Funcionamento do Conselho Municipal de Proteção ao Sénior de Santa Comba Dão.
+Projeto de Regulamento de Funcionamento do Conselho Municipal de Proteção ao Sénior de Santa Comba Dão
+Leonel José Antunes Gouveia, Presidente da Câmara Municipal de Santa Comba Dão, torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de Setembro, na sua redação atual, que a Câmara Municipal, na sua reunião ordinária realizada no dia 27 de abril de 2021, deliberou, por unanimidade, submeter o projeto de regulamento de funcionamento do Conselho Municipal de Proteção ao Sénior de Santa Comba Dão a consulta pública, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015 de 07 de janeiro, para recolha de sugestões pelo prazo de 30 dias úteis a contar da data da publicação do presente aviso no Diário da República.
+Os eventuais interessados poderão dirigir, por escrito, as suas sugestões, dentro do período atrás referido, para Presidente da Câmara Municipal de Santa Comba Dão, Largo do Município, n.º 13, 3440-337 Santa Comba Dão ou para o e-mail geral@cm-santacombadao.pt.
+O referido projeto de Regulamento encontra-se à disposição do público, para consulta, nos serviços administrativos da Câmara Municipal, edifício da Casa dos Arcos - R. Santa Columba, 3440-361 Santa Comba Dão, durante as horas normais de expediente (9h00 às 16h00) e ainda no sítio www.cm-santacombadao.pt.
+Para conhecimento geral se torna público o presente aviso e outros de igual teor que vão ser afixados nos lugares públicos de estilo e ainda no sitio www.cm-santacombadao.pt.
+28 de abril de 2021. - O Presidente da Câmara Municipal, Leonel José Antunes Gouveia.
+314191713
