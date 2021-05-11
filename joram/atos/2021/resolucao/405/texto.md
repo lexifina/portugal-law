@@ -1,0 +1,30 @@
+# Resolução n.º 405/2021
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 84/2021, de 2021-05-11
+
+**Sumário:** Procede à incorporação da iniciativa REACT-EU (Recovery Assistance for Cohesion and Territories of Europe), adotada pelo Regulamento (UE) 2020/2221, de 23 de dezembro de 2020, que altera o Regulamento (UE) n.º 1303/2013 de 17 de dezembro, no que respeita aos recursos adicionais e às disposições de execução a fim de prestar assistência à promoção da recuperação da crise no contexto da pandemia de COVID-19 e respetivas consequências sociais e à preparação de uma recuperação ecológica, digital e resiliente da economia (REACT-EU), enquanto instrumento de reforço da Política de Coesão criada pela Comissão Europeia para acelerar a resposta, no sentido da recuperação da crise provocada pela pandemia do novo coronavírus (COVID-19).
+
+## Texto
+
+Resolução n.º 405/2021
+Para o período de programação 2014-2020 (Portugal 2020) e dando cumprimento ao Acordo de Parceria celebrado entre Portugal e a Comissão Europeia, foi aprovado por Decisão da Comissão C (2014) 10193, de 18 de dezembro, o Programa Operacional da Região Autónoma da Madeira, também designado por Programa “Madeira 14-20”.
+No âmbito do disposto no n.º 1 do artigo 123.º e do n.º 1 do artigo 125.º, ambos do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, para cada Programa Operacional é designada uma Autoridade de Gestão (AG) responsável pela gestão desse programa.
+Nos termos do disposto no n.º 1 do artigo 3.º do Decreto Legislativo Regional n.º 12/2014/M, de 4 de novembro, a Autoridade de Gestão do Programa Madeira 14-20 é o Instituto de Desenvolvimento Regional, IP-RAM (IDR, IP RAM), que se encontra na tutela da Vice-Presidência do Governo Regional.
+O Conselho do Governo Regional reunido em plenário em 6 de maio de 2021, resolve:
+Na vigência do Programa Madeira 14-20, procede-se à incorporação da iniciativa REACT-EU (Recovery Assistance for Cohesion and Territories of Europe), adotada pelo Regulamento (UE) 2020/2221, de 23 de dezembro de 2020, que altera o Regulamento (UE) n.º 1303/2013 de 17 de dezembro, no que respeita aos recursos adicionais e às disposições de execução a fim de prestar assistência à promoção da recuperação da crise no contexto da pandemia de COVID-19 e respetivas consequências sociais e à preparação de uma recuperação ecológica, digital e resiliente da economia (REACT-EU), enquanto instrumento de reforço da Política de Coesão criada pela Comissão Europeia para acelerar a resposta no sentido da recuperação provocada pela crise provocada pela pandemia do novo coronavírus (COVID-19).
+Deste modo, em termos globais, os recursos adicionais provenientes do REACT- os recursos adicionais provenientes do REACT-EU num total de 79 M€, que serão alocados à Região em duas tranches. Assim, e de acordo com o n.º 4 do Artigo 92.º - B do Regulamento (UE) 2020/2221, de 23 de dezembro de 2020, que altera o Regulamento (UE) n.º 1303/2013, nesta primeira reprogramação será alocada a primeira tranche de 64 M€ e posteriormente mediante a revisão, que utilizará os dados estatísticos mais recentes disponíveis em 19 de outubro de 2021, será distribuída a segunda parcela dos recursos da REACT-EU, relativa a 2022.
+Esta dotação visa responder, de forma adequada e proporcional, aos principais desafios colocados pela pandemia COVID-19, através do apoio dos Fundos
+
+Europeus Estruturais e de Investimento (FEEI), e comporta os seguintes objetivos específicos:
+- Saúde, englobando um conjunto de intervenções relacionadas com a mitigação e combate direto do COVID 19;
+- Manutenção e Criação de Emprego, onde se pretende responder às consequências gravosas da evolução da pandemia no mercado regional de emprego;
+- Apoio ao tecido empresarial, consubstanciado através de apoios orientados para o apoio ao fundo de maneio e tesouraria das empresas, ao apoio à transição digital e conetividade nas empresas e à formação de ativos;
+- Eficiência Energética em infraestruturas públicas, com o objetivo de promover a melhoria contínua do desempenho e eficiência energética das instalações, contribuindo assim para enfrentar os desafios do país e da RAM em matéria de transição climática.
+Nesse contexto, a Autoridade de Gestão submeteu no passado dia 30 de abril de 2021, a proposta de modificação do texto do referido programa ao respetivo Comité de Acompanhamento, nos termos do disposto na alínea e) do n.º 2 do artigo 110.º do Regulamento (UE) n.º 1303/2013, bem como na alínea e) do n.º 2, do artigo 4.º do Regulamento Interno do Comité de Acompanhamento do Programa Madeira 14-20, tendo a mesma sido aprovada.
+Assim e considerando que em harmonia com o estatuído no artigo 8.º do Decreto-Lei n.º 137/2014, de 12 de setembro, a CIC Portugal 2020 é o órgão de coordenação política dos FEEI.
+Na Região Autónoma da Madeira, as competências da CIC Portugal 2020, são assumidas pelo Conselho do Governo, enquanto organismo de coordenação política do Programa Madeira 14-20, em conformidade com o disposto no número 1 do artigo 2.º do Decreto Legislativo Regional n.º 12/2014/M, de 4 de novembro, com a alteração do Decreto Legislativo Regional n.º 16/2016/M, de 21 de março, que define para a Região o modelo de governação do referido Programa.
+Acresce que nos termos da alínea c) do n.º 2 do artigo 2.º do Decreto Legislativo Regional n.º 12/2014/M, alterado pelo Decreto Legislativo Regional n.º 16/2016/M, de 21 de março compete ao Conselho de Governo “apreciar as propostas de revisão e reprogramação do Madeira 14-20”, sob proposta da Vice-Presidência do Governo Regional, membro deste órgão com a tutela do IDR, IP-RAM.
+Nestes termos, o Conselho do Governo aprova a proposta de reprogramação do Programa Operacional da Região Autónoma da Madeira 2014-2020, conforme Nota Justificativa da Proposta de Reprogramação do “Madeira 14-20”, a qual fica arquivada na Secretaria Geral da Presidência.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
