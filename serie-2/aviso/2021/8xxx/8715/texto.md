@@ -1,0 +1,18 @@
+Aviso n.º 8715/2021
+Sumário: Discussão pública da alteração do Plano de Pormenor - Plano de Intervenção no Espaço Rural - Escarpão e do Relatório de Avaliação Ambiental.
+Discussão Pública da Alteração do Plano de Pormenor - Plano de Intervenção no Espaço Rural - Escarpão e do Relatório de Avaliação Ambiental
+José Carlos Martins Rolo, Presidente da Câmara Municipal de Albufeira: Torna público, no cumprimento do disposto no n.º 1 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Albufeira, em reunião pública de 06 de abril de 2021, determinou o início do procedimento de discussão pública da proposta de Alteração do Plano de Pormenor - Plano de Intervenção No Espaço Rural - Escarpão e do Relatório de Avaliação Ambiental.
+Nos termos da referida legislação, o período de discussão pública e de consulta pública terá início 5 dias úteis após a data de publicação do presente Aviso no Diário da República, decorrendo durante os 30 dias úteis subsequentes.
+Os documentos referentes à proposta de Alteração do Plano de Pormenor - Plano de Intervenção no Espaço Rural - Escarpão bem como o Relatório de Avaliação Ambiental estarão disponíveis em www.cm-albufeira.pt e patentes para consulta durante o horário de expediente no Gabinete de Apoio ao Munícipe do Município de Albufeira e na Junta de Freguesia de Paderne.
+No decurso do período de discussão pública, os interessados poderão formular, reclamações, observações ou sugestões sobre quaisquer questões no âmbito da referida proposta de plano, por escrito, devendo, para o efeito, utilizar a ficha de participação disponibilizada, com o signatário devidamente identificado e dirigido ao Exmo. Sr. Presidente da Câmara Municipal de Albufeira, entregue no Gabinete de Apoio ao Munícipe do Município de Albufeira, remetido por correio eletrónico para geral@cm-albufeira.pt ou endereçado para Município de Albufeira, Paços do Concelho, Rua do Município, 8200-863 Albufeira.
+14 de abril de 2021. - O Presidente da Câmara Municipal de Albufeira, Dr. José Carlos Martins Rolo.
+Deliberação
+Apreciado em Reunião de Câmara de 06/04/2021.
+Foi deliberado por unanimidade:
+1) Manifestar concordância com o Relatório de Ponderação da Conferência Procedimental e com a presente proposta de alteração ao Plano de Pormenor - PIER do Escarpão;
+2) Determinar a abertura do procedimento de discussão pública, da referida proposta, nos termos do artigo 89.º do RJIGT, e em simultâneo a abertura da consulta pública do Relatório Ambiental, nos termos do n.º 6 e n.º 7 do artigo 6.º do Decreto-Lei n.º 232/2007 de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011 de 4 de maio, nos seguintes moldes:
+a) Determinar que o referido período de discussão pública tenha a duração de 30 dias, anunciado com a antecedência de 5 dias (nos termos previstos no n.º 2 do artigo 89.º do RJIGT em conjugação com o previsto no n.º 7 do artigo 7.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio;
+b) Determinar a necessária divulgação através de Aviso a publicar no Diário da República e a divulgar através da comunicação social, em pelo menos duas edições sucessivas, do sítio na internet do Município de Albufeira e no Boletim Municipal, nos termos do previsto no n.º 1 do artigo 89.º, da alínea a) do n.º 4 do artigo 191.º e do n.º 3 do artigo 192.º do RJIGT, em conjugação com o previsto no n.º 7 do artigo 7.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio;
+3) Aprovar a Minuta de Aviso e de Ficha de Participação apresentadas.
+Albufeira, 14 de abril de 2021. - Presidente da Câmara, Dr. José Carlos Martins Rolo.
+614174541
