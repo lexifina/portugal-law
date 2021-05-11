@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 8717/2021
+Sumário: Consulta pública da proposta do Regulamento para a Atribuição de Prémios de Excelência e Mérito Escolar António Cabral.
+Consulta pública da proposta do Regulamento para a Atribuição de Prémios de Excelência e Mérito Escolar António Cabral
+Nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo e do disposto no artigo 241.º da Constituição da República Portuguesa, torna-se público que a Câmara Municipal de Alijó, em reunião de dezasseis de abril de dois mil e vinte e um, deliberou submeter a consulta pública, pelo prazo de 30 dias úteis, a contar da data de publicação do presente Aviso em 2.ª série do Diário da República, a Proposta do Regulamento para a Atribuição de Prémios de Excelência e Mérito Escolar António Cabral, estando o texto disponível no sitio eletrónico do Município em www.cm-alijo.pt ou presencialmente na Unidade Orgânica Flexível de Cultura, Educação e Desporto, Gabinete da Educação, mediante marcação. Os interessados poderão dirigir por escrito as suas sugestões endereçadas ao Presidente da Câmara Municipal de Alijó, Rua General Alves Pedrosa, n.º 13, 5070 -051 Alijó ou remeter por correio eletrónico para o endereço geral@cm-alijo.pt no período acima mencionado.
+20 de abril de 2021. - O Presidente da Câmara, José Rodrigues Paredes.
+314170459
