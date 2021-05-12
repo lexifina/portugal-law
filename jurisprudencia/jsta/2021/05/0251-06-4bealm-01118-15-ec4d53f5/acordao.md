@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-05-12, processo 0251/06.4BEALM 01118/15
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0251/06.4BEALM 01118/15
+
+**Data do Acordão:** 05/12/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FRANCISCO ROTHES
+
+**Descritores:** RECLAMAÇÃO PARA A CONFERÊNCIA; PRESCRIÇÃO; NULIDADE
+
+**Nº Convencional:** JSTA000P27640
+
+**Nº do Documento:** SA2202105120251/06
+
+**Data de Entrada:** 09/23/2015
+
+**Recorrente:** A............
+
+**Recorrido 1:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O direito de requerer que recaia acórdão sobre uma decisão do relator, como acto processual sujeito a prazo peremptório, só caduca se não for exercido dentro do prazo ou, independentemente de justo impedimento, nos três dias úteis seguintes, sendo que neste último caso a apresentação do requerimento dá lugar a pagamento de multa (cf. arts. 139.º, n.ºs 4 e 5, e 149.º, n.º 1, do CPC, subsidiariamente aplicável).
+
+II - Para aferir da tempestividade desse requerimento há que averiguar o modo como o mesmo foi remetido a juízo.
+
+III - Se, em sede de impugnação judicial, o despacho por que o relator julgou extinta a instância por inutilidade superveniente foi proferido com base na informação – que, ulteriormente, se revelou errada – de que a liquidação fora anulada, deve aquele despacho ser revogado pela conferência em sede de reclamação deduzida pela Fazenda Pública ao abrigo do art. 652.º, n.º 3, do CPC.
+
+IV - A legalidade do despacho que ordenou a “reactivação” da execução fiscal em que está a ser cobrada a dívida que teve origem na liquidação impugnada – depois de ter sido anteriormente proferido despacho a julgá-la extinta – não pode ser sindicada na impugnação judicial da liquidação, antes devendo sê-lo na execução fiscal, mediante reclamação judicial (cf. art. 276.º e segs.).
+
+V - Só pode conhecer-se da prescrição da obrigação tributária em impugnação judicial – como eventual causa de inutilidade superveniente da lide – se o processo disponibilizar (sem necessidade de averiguação) todos os elementos factuais necessários.
+
+VI - A nulidade da decisão judicial por contradição entre os fundamentos e a decisão (cf. art. 125.º, n.º 1, do CPPT) não se confunde com o erro de julgamento, designadamente quanto à interpretação e aplicação do direito, antes constitui um vício de lógica na estrutura formal da sentença, que não ocorre se os fundamentos, tal como expostos e independentemente da sua validade material, não podem conduzir a outra decisão senão aquela que foi proferida.
