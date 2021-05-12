@@ -1,10 +1,16 @@
 # TABELA V
 
+3,4-metilenodioxifenil-2-propanona.
+
+(alfa)-fenilacetoacetamida (APAA).
+
+(alfa)-fenilacetoacetato de metilo (MAPA).
+
+(alfa)-fenilacetoacetonitrilo.
+
 Ácido lisérgico.
 
-Ácido PMK glicídico - ácido 3,4-MDP-2-P-metilglicídico alfa-fenilacetoacetonitrilo.
-
-APAA - alfa-fenilacetoacetamida
+Ácido PMK glicídico (ácido 3,4-MDP-2-P-metilglicídico).
 
 Efedrina.
 
@@ -16,15 +22,13 @@ Fenil-1 propanona-2.
 
 Isosafrole.
 
-3,4 - Metilenodioxifenil - 2 - propanona.
-
-N-ácido acetilantranílico.
+N-ácido-acetilantranílico.
 
 Norefedrina.
 
 Piperonal.
 
-PMK-glicidato - 3,4-MDP-2-P-metilglicidato.
+PMK-glicidato (3,4-MDP-2-P-metilglicidato).
 
 Pseudo-efedrina.
 

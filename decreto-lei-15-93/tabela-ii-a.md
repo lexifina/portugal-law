@@ -1,132 +1,150 @@
 # TABELA II-A
 
-AB-CHMINACA (N-(1-amino-3-metil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1H-indazole-3-carboxamida)
-
-AB-PINACA (N-[(2S)-1-Amino-3-metil-1-oxobutan-2-il]-1-pentil-1H-indazole-3-carboxamida)
-
-ADB-CHMINACA - (N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1H-indazo-3-carboxamida)
-
-ADB-FUBINACA - N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(4-fluorobenzil)-1H-indazo-3-carboxamida
-
-AH-7921- - 3,4- - dicloro- - N- - [[1- (dimetilamino) ciclo-hexil] metil]benzamida.
-
-AM- - 2201
-
-5 (2-aminopropil)indole
-
-1-benzilpiperazina (1-benzil-1,4-diazacilohexano, N-benzilpiperazina ou, de forma menos precisa, benzilpiperazina ou BZP).
+1-benzilpiperazina (1-benzil-1,4-diazacilohexano ou N-benzilpiperazina ou, de forma menos precisa, benzilpiperazina ou BZP).
 
 2C-B (4-bromo-2,5-dimetoxifenetilamina).
 
-25B-NBOMe (2C-B-NBOMe) - 2-(4-bromo-2,5-dimetoxifenil)-N-[(2-metoxifenil)metil]etanamina
+25B-NBOMe ou 2C-B-NBOMe (2-(4-bromo-2,5-dimetoxifenil)-N-[(2-metoxifenil)metil]etanamina).
+
+25C-NBOMe ou 2C-C-NBOMe (2-(4-cloro-2,5-dimetoxifenil)-N-[(2-metoxifenil)metil]etanamina2C-T-2 (2,5-dimetoxi-4-etiltiofenetilamina)).
+
+25I-NBOMe (4-iodo-2,5-dimetoxi-N-(2-metoxibenzil)fenetilamina).
 
 2C-I (2,5-dimetoxi-4-iodofenetilamina).
 
-25C - NBOMe (2C-C-NBOMe) - 2-(4-cloro-2,5-dimetoxifenil)-N-[(2-metoxifenil)metil]etanamina2C-T-2 (2,5-dimetoxi-4-etiltiofenetilamina).
-
 2C-T-7 (2,5-dimetoxi-4-propiltiofenetilamina).
 
-CUMYL-4CN-BINACA - (1-(4-cianobutil)-N-(2-fenilpropan-2-il)-1H-indazole-3-carboxamida)
+4-CMC (4-clorometcatinona ou clefedrona) (1-(4-clorofenil)-2-(metilamino)propan-1-ona).
 
-Bufotenina - 5-hidroxi-N-N-dimetiltripptamina.
+4-fluoroanfetamina ou 4-FA (1-(4-fluorofenil)propan-2-amina).
 
-Catinona - (-)-(alfa)-aminopropiofenona.
+4-MEC (2-(etilamino)-1-(4-metilfenil)propan-1-ona).
 
-DET - N-N-dietiltriptamina.
+4-Metilaminorex ((mais ou menos)-cis-2-amino-4-metil-5-fenil-2-oxazolina).
 
-DMA - (mais ou menos)-2,5-dimetoxi-a-metilfeniletilamina.
+4-MTA (p-metiltioanfetamina ou 4-metiltioanfetamina).
 
-DMHP - 3-(1,2-dimetil-heptil)-1-hiroxi-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo-(b,d) pirano.
+4F-MDMB-BINACA (2-(1-(4-fluorobutil)-1H-indazol-3-carboxamido)-3,3-dimetilbutanoato de metilo).
 
-DMT - N-N-dimetiltriptamina.
+5F-ADB ou 5F-MDMB-PINACA (2-{[1- (5-fluoropentil)-1H-indazole-3-carbonil]amino}-3,3-di-metilbutanoato).
 
-DOB - 2,5 dimetoxi-4-bromoanfetamina.
+5F-AMB-PINACA ou 5F-AMB ou 5F-MMB-PINACA (N-{[1-(5-fluoropentil)-1H-indazol-3-il]carbonil}valinato de metilo).
 
-DOET - (mais ou menos)-2,5-dimetoxi-4(alfa)-etil-metilfeniletilamina.
+5F-APINACA ou 5F-AKB-48 (N- (adamantan-1-il)-1- (5-fluoropentil-1H-indazole-3-carboxamida).
 
-DOM, STP - 2-amino-1-(2,5-dimetoxi-4-metil)fenil-propano.
+5F-MDMB-PICA ou 5F-MDMB-2201 (2[[1(5fluoropentil)indol-3-carbonil]amino]-3,3-dimetilbutanoato de metilo).
 
-DPT - dipropiltriptamina.
+5F-PB-22 (1-(5-fluoropentil)-1H-indole-3-carboxilato de quinolin-8-ilo).
 
-Epilona - N-etilnorpentilona
+(alfa)-PVP (1-fenil-2-(pirrolidin-1-il)-pentan-1-one (alfa)-pirrolidinovalerofenona).
 
-Eticiclidina, PCE - N-etil-1-fenilciclo-hexilamina.
+Alfa-PHP (ou (alfa)-PHP ou (alfa)-pirrolidino-hexanofenona) (1-fenil-2-(pirrolidin-1-il)hexan-1-ona).
 
-Etilona (1-(2H-1,3-benzodioxol-5-il)-2- (etilamino)propan-1-ona)
+AB-CHMINACA (N-(1-amino-3-metil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1H-indazole-3-carboxamida).
 
-Etriptamina - 3-(2-aminobutil)indol.
+AB-FUBINACA (N-(1-amino-3-metil-1-oxobutan-2-il)-1-(4-fluorobenzil)-1H-indazol-3-carboxamida).
 
-Fenciclidina, PCP - 1-(1-fenilciclo-hexi) piperidina.
+AB-PINACA (N-[(2S)-1-Amino-3-metil-1-oxobutan-2-il]-1-pentil-1H-indazole-3-carboxamida).
 
-5F-ADB (5F-MDMB-PINACA; 2-{[1- (5-fluoropentil)-1H-indazole-3-carbonil]amino}-3,3-dimetilbutanoato)
+ADB-CHMINACA (N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1H-indazo-3-carboxamida).
 
-4-fluoroanfetamina (4-FA; 1-(4-fluorofenil)propan-2-amina)
+ADB-FUBINACA (N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(4-fluorobenzil)-1H-indazo-3-carboxamida).
 
-5F-APINACA ou 5F-AKB-48 (N- (adamantan-1-il)-1- (5-fluoropentil-1H-indazole-3-carboxamida)
+AH-7921 (3,4-dicloro-N-{[1-(dimetilamino)ciclo-hexil]metil}benzamida).
 
-5F-PB-22 (1-(5-fluoropentil)-1H-indole-3-carboxilato de quinolin-8-ilo)
+AM-22015 ((2-aminopropil)índole).
 
-FUB-AMB (MMB-FUBINACA, AMB-FUBINACA) - Metil 2-(1-(4-fluorobenzil)-1H-indazo-3-carboxamida)-3-metilbutanoato
+CUMYL-4CN-BINACA (1-(4-cianobutil)-N-(2-fenilpropan-2-il)-1H-indazole-3-carboxamida).
 
-GHB [(gama)-ácido hidroxibutírico].
+Bufotenina (5-hidroxi-N-N-dimetiltripptamina).
 
-25I-NBOMe - 4-iodo - 2,5 - dimetoxi - N - (2 - metoxibenzil) fenetilamina.
+Catinona ((-)-(alfa)-aminopropiofenona).
 
-JWH-018.
+DET (N-N-dietiltriptamina).
 
-Lisergida, LSD, LSD-25-(mais ou menos)-N-N-dietilisergamida; dietilamida do ácido dextro-lisérgico.
+DMA ((mais ou menos)-2,5-dimetoxi-a-metilfeniletilamina).
 
-MDMA - 3,4-metilenadioxianfetamina.
+DMHP (3-(1,2-dimetil-heptil)-1-hiroxi-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo-(b,d) pirano).
 
-MDMB-CHMICA - Metil 2-[[1-(ciclo-hexilmetil)-1H-indol-3-carbonil]amino]-3,3-dimetilbutanoato (MDMB-CHMICA)
+DMT (N-N-dimetiltriptamina).
 
-MDPV - 3,4 - metilenodioxipirovalerona.
+DOB ou 2,5 dimetoxi-4-bromoanfetamina.
 
-4 - MEC (2-(etilamino)-1-(4-metilfenil)propan-1-ona)
+DOC ou 2,5-dimetoxi-4-cloroanfetamina (1-(4-cloro-2,5-dimetoxifenil)propan-2-amina).
 
-Mefedrona - 4-metilmetcatinona.
+DOET ((mais ou menos)-2,5-dimetoxi-4(alfa)-etil-metilfeniletilamina).
 
-Mescalina - 3,4,5-trimetoxifenetilamina.
+DOM ou STP (2-amino-1-(2,5-dimetoxi-4-metil)fenil-propano).
 
-Metcatinona - 2-(metilamino)-1-fenilpropan-1-ona.
+DPT (dipropiltriptamina).
 
-4 - Metilaminorex - (mais ou menos)-cis-2-amino-4-metil-5-fenil-2-oxazolina.
+Epilona (N-etilnorpentilona)
+
+Eticiclidina ou PCE (N-etil-1-fenilciclo-hexilamina).
+
+Etilona (1-(2H-1,3-benzodioxol-5-il)-2-(etilamino)propan-1-ona).
+
+Etriptamina (3-(2-aminobutil)indol).
+
+Fenciclidina ou PCP (1-(1-fenilciclo-hexi) piperidina).
+
+FUB-AMB ou MMB-FUBINACA ou AMB-FUBINACA) (Metil 2-(1-(4-fluorobenzil)-1H-indazo-3-carboxamida)-3-metilbutanoato)
+
+GHB ((gama)-ácido hidroxibutírico).
+
+JWH-018 ((naftaleno-1-il)(1-pentil-1H-indol-3-il)metanona)
+
+Lisergida ou LSD ou LSD-25 ((mais ou menos)-N-N-dietilisergamida; dietilamida do ácido dextro-lisérgico).
+
+MDMA (3,4-metilenadioxianfetamina).
+
+MDMB-CHMICA (Metil 2-[[1-(ciclo-hexilmetil)-1H-indol-3-carbonil]amino]-3,3-dimetilbutanoato).
+
+MDPV (3,4-metilenodioxipirovalerona).
+
+Mefedrona (4-metilmetcatinona).
+
+Mescalina (3,4,5-trimetoxifenetilamina).
+
+Metcatinona (2-(metilamino)-1-fenilpropan-1-ona).
 
 Metilona (beta-ceto-MDMA).
 
-Metoxetamina - 2 - (3 - metoxifenil) - 2 - (etilamino) ciclo - hexanona.
+Metoxetamina (2-(3-metoxifenil)-2-(etilamino)ciclo-hexanona).
 
-MMDA - (mais ou menos)-5-metoxi-3,4-metilenodioxi-(alfa) metilfeniletilamina.
+MMDA ((mais ou menos)-5-metoxi-3,4-metilenodioxi-(alfa) metilfeniletilamina).
 
-MPA ou metiopropamina (N-metil-1-(tiofen-2-il) propan-2-amina)
+MPA ou Metiopropamina (N-metil-1-(tiofen-2-il)-propan-2-amina).
 
-MT-45 - 1-ciclo-hexil-4-(1,2-difeniletil)piperazina (MT-45).Para-hexilo - 3-hexilo-1-hidroxi-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo (b,d) pirano.
+MT-45 (1-ciclo-hexil-4-(1,2-difeniletil)piperazina).
 
-Pentedrona ou (alfa)-metilaminovalerofenona (2-(metilamino)-1-fenilpentan-1-ona)
+N-etil-hexedrona (2(etilamino)-1-fenil-hexan-1-ona).
 
-PMA - 4 (alfa)-metoxi-metilfeniletilamina.
+Para-hexilo (3-hexilo-1-hidroxi-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo-(b,d)-pirano).
 
-PMMA - [parametoximetilanfetamina ou N-metil-1-(4-metixifenil)-2-aminopropano].
+Pentedrona ou (alfa)-metilaminovalerofenona (2-(metilamino)-1-fenilpentan-1-ona).
 
-Psilocibina - fosfatodiidrogenado de 3-(2-dimetila-minoetil)-4-indolilo.
+PMA (4 (alfa)-metoxi-metilfeniletilamina).
 
-Psilocina - 3-(-2-dimetilaminoetil)-4-(hidroxi-indol).
+PMMA ou Parametoximetilanfetamina (N-metil-1-(4-metixifenil)-2-aminopropano).
 
-(alfa)-PVP - 1-fenil-2-(pirrolidin-1-il)-pentan-1-one (alfa)-pirrolidinovalerofenona,)Roliciclidina, PHP, PCPY - 1-(1-fenilciclohexil) pirrolidina.
+Psilocibina (fosfatodiidrogenado de 3-(2-dimetila-minoetil)-4-indolilo).
 
-Tenanfetamina-MDA - (mais ou menos)-3,4 N-metilenodioxi, (alfa)-dimetilfeniletilamina.
+Psilocina (3-(-2-dimetilaminoetil)-4-(hidroxi-indol)).
 
-Tenociclidina, TCP - 1-[1-(2-tienil) ciclo-hexil] piperidina.
+Roliciclidina ou PHP ou PCPY (1-(1-fenilciclohexil) pirrolidina).
 
-TMA - (mais ou menos)-3,4,5-trimetoxi-(alfa)-metilfeniletilamina.
+Tenanfetamina ou MDA ((mais ou menos)-3,4 N-metilenodioxi, (alfa)-dimetilfeniletilamina).
+
+Tenociclidina ou TCP (1-[1-(2-tienil) ciclo-hexil] piperidina).
+
+TMA ((mais ou menos)-3,4,5-trimetoxi-(alfa)-metilfeniletilamina).
 
 TMA-2 (2,4,5-trimetoxianfetamina).
 
-UR-144 ((1-Pentil-1H-indol-3-il)(2,2,3,3-tetrametilciclopropil)metanona)
+UR-144 ((1-Pentil-1H-indol-3-il)(2,2,3,3-tetrametilciclopropil)metanona).
 
-4 - MTA (p-metiltioanfetamina ou 4-metiltioanfetamina).
-
-XLR-11 [1-(5-fluoropentil)-1H-indol-3-il](2,2,3,3-tetrametilciclopropil)metanona
+XLR-11 ([1-(5-fluoropentil)-1H-indol-3-il](2,2,3,3-tetrametilciclopropil)metanona).
 
 Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.
 

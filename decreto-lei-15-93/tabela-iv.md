@@ -1,131 +1,135 @@
 # TABELA IV
 
-Alobarbital - ácido 5,5 dialilbarbitúrico.
+Alobarbital (ácido 5,5-dialilbarbitúrico).
 
-Alprazolam - 8 -cloro -1 -metil -6 -fenil -4 H -s -triazol[4,3 -(alfa)] [1,4] benzodiazepina.
+Alprazolam (8-cloro-1-metil-6-fenil-4H-s-triazol[4,3-(alfa)][1,4]benzodiazepina).
 
-Amfepramona - 2 -(dietilamino) propiofenona.
+Amfepramona (2-(dietilamino)propiofenona).
 
-Aminorex - 2 -amino -5 -fenil -2 -oxazolina.
+Aminorex (2-amino-5-fenil-2-oxazolina).
 
-Barbital - ácido 5,5 -dietilbarbitúrico.
+Barbital (ácido 5,5-dietilbarbitúrico).
 
-Benzefetamina - N -benzil -N, -dimetilfenetilamina.
+Benzefetamina (N-benzil-N-dimetilfenetilamina).
 
-Bromazepam - 7 -bromo -1,3 -di -hidro -5 -(2 -piridinil)-2 H -1,4 -benzodiazepina -2 -ona.
+Bromazepam (7-bromo-1,3-dihidro-5-(2-piridinil)-2H-1,4-benzodiazepina-2-ona).
 
-Brotizolam - 2 -bromo -4 -(0 -clorofenil) -9 -metil -6H--tieno[3,2 -f] -s -triazolo[4,3 -a][1,4]diazepina.
+Brotizolam (2-bromo-4-(0-clorofenil)-9-metil-6H-tieno[3,2-f]-s-triazolo[4,3-][1,4]diazepina).
 
-Butobarbital - ácido 5, butil -5 -etilbarbitúrico.
+Butobarbital (ácido 5-butil-5-etilbarbitúrico).
 
-Camazepam - dimetilcarbamato (éster) do 7 -cloro -1,3 -di -hidro -3 -hidroxi -1 -metil -5 -fenil -2H -1,4 -benzodiazepina-2 -ona.
+Camazepam (dimetilcarbamato (éster) do 7-cloro-1,3-dihidro-3-hidroxi-1-metil-5-fenil-2H-1,4-benzodiazepina-2-ona).
 
-Cetazolam - 11 -cloro -8, 12b -di-hidro-2,8-dimetil-12b-fenil -4H -[1,3] oxazino [3,2 -d] [1,4] benzodiazepina -4,7(6h) -diona.
+Cetazolam (11-cloro-8,12b-dihidro-2,8-dimetil-12b-fenil-4H-[1,3]oxazino[3,2-d][1,4] benzodiazepina-4,7(6h)-diona.
 
-Clobazam - 7-cloro-1-metil-5-fenil-1H -1,5-benzodiazepina-2,4 (3H, 5H) -diona.
+Clobazam (7-cloro-1-metil-5-fenil-1H-1,5-benzodiazepina-2,4(3H,5H)-diona).
 
-Clobenzorex - (+) -N -(o-clorobenzil)-(alfa)-metilfenetilamina.
+Clobenzorex ((+)-N-(o-clorobenzil)-(alfa)-metilfenetilamina).
 
-Clonazepam - 7-nitro-5-(2-clorofenil)-3H -1,4-benzodiazepina-2 (1H) -ona.
+Clonazepam (7-nitro-5-(2-clorofenil)-3H-1,4-benzodiazepina-2(1H)-ona).
 
-Clorazepato - ácido 7-cloro-2,3-di-hidro-2,2-di-hidroxi-5 -fenil -1H -1,4 -benzodiazepina -3 -carboxílico.
+Clorazepato (ácido 7-cloro-2,3-dihidro-2,2-dihidroxi-5-fenil-1H-1,4-benzodiazepina-3-carboxílico).
 
-Clordiazepóxido - 7 -cloro -2 -metilamino -5 -fenil--3H -1,4 benzodiazepina -4 -óxido.
+Clordiazepóxido (7-cloro-2-metilamino-5-fenil-3H-1,4-benzodiazepina-4-óxido).
 
-Clordesmetildiazepan - 7 -cloro -5 -(2 -clorofenil) -1,3--di -hidro -2H -1,4 -benzodiazepina -2 -ona.
+Clordesmetildiazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
 
-Clotiazepam - 5 -(2 -clorofenil) -7 -etil -1,3 -di -hidro -1--metil -2H -tieno [2,3 -e] -1,4 -diazepina -2 -ona.
+Clotiazepam (5-(2-clorofenil)-7-etil-1,3-dihidro-1-metil-2H-tieno[2,3-e]-1,4-diazepina-2-ona.
 
-Cloxazolam - 10 -cloro -11b -(2 -clorofenil) -2,3,7,11b--tetra-hidrooxa-zolo [3,2-d] [1,4] benzodiazepina -6 (5H)--ona.
+Cloxazolam (10-cloro-11b-(2-clorofenil)-2,3,7,11b-tetra-hidrooxa-zolo[3,2-d][1,4]benzodiaze-pina-6(5H)-ona.
 
-Delorazepam - 7 -cloro-5-(2-clorofenil)-1,3-di-hidro--2H -1,4 -benzodiazepina -2 -ona.
+Delorazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
 
-Diazepam - 7-cloro-1,3-di-hidro-1-1-metil-5-fenil-2H--1,4 -benzodiazepina -2 -ona.
+Diazepam (7-cloro-1,3-dihidro-1-1-metil-5-fenil-2H-1,4-benzodiazepina-2-ona).
 
-Estazolam - 8 -cloro-6-fenil-4H -s-triazolo [4,3 -(alfa)][1,4] benzodiazepina.
+Estazolam (8-cloro-6-fenil-4H-s-triazolo[4,3-(alfa)][1,4]benzodiazepina).
 
-Etclorvinol - etil -2 -cloroviniletinil -carbinol.
+Etclorvinol (etil-2-cloroviniletinil-carbinol).
 
-Etilanfetamina - (mais ou menos) -N -etil -(alfa)-metilfeniletilamina.
+Etilanfetamina ((mais ou menos)-N-etil-(alfa)-metilfeniletilamina).
 
-Etil -loflazepato - 7 -cloro -5 -(2 -fluorofenil) -2,3 -di--hidro-2-oxo-1H -1,4-benzodiazepina-3-carboxilato de etilo.
+Etiloflazepato (7-cloro-5-(2-fluorofenil)-2,3-dihidro-2-oxo-1H-1,4-benzodiazepina-3-carboxilato de etilo).
 
-Etinamato - carbamato -1 -etinilciclo -hexanol.
+Etinamato (carbamato-1-etinilciclo-hexanol).
 
-Fenazepam - 7-bromo-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona
+Etizolam (4-(2-clorofenil)-2-etil-9-metil-6H-tieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepina).
 
-Fencanfamina - (mais ou menos) -3 -N -etilfenil-(2,2,1) biciclo 2 -heptanamina.
+Fenazepam (7-bromo-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
 
-Fenobarbital - ácido -5 -etil -5 -fenilbarbitúrico.
+Fencanfamina ((mais ou menos)-3-N-etilfenil-(2,2,1)biciclo2-heptanamina).
 
-Fenproporex - (mais ou menos) -3 -[(alfa) -metilfenitilamina]propionitrilo.
+Fenobarbital (ácido-5-etil-5-fenilbarbitúrico).
 
-Fludiazepam - 7-cloro-5-(2-fluorofenil)-1,3-di-hidro--1 -metil -2H -1,4 -benzodiazepina -2 -ona.
+Fenproporex ((mais ou menos)-3-[(alfa)-metilfenitilamina]propionitrilo).
 
-Flurazepam - 7 -cloro -1 -[2 -(dietilamino) etil] -5 -(2--fluorofenil) -1,3 -di -hidro -2H -1,4 -benzodiazepina -2 -ona.
+Flualprazolam (8-cloro-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina).
 
-Halazepam - 7-cloro-1,3-di-hidro-5-fenil-1-(2,2,2-trifluoretil)-2H -1,4 -benzodiazepina -2 -ona.
+Fludiazepam (7-cloro-5-(2-fluorofenil)-1,3-dihidro-1-metil-2H-1,4-benzodiazepina-2-ona).
 
-Haloxazolam - 10 -bromo -11b -(2 -fluorofenil)--2,3,7,11b -tetra-hidrooxazol [3,2-d] [1,4] benzodiazepina -6(5H) -ona.
+Flurazepam (7-cloro-1-[2-(dietilamino)etil]-5-(2-fluorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
 
-Loprazolam - 6 -2(clorofenil)-2,4-di-hidro-2-[(4-metil--1-piperazinil) metileno]-8-nitro-1H -imidazo-[1,2-a] [1,4]benzodiazepina -1 -ona.
+Halazepam (7-cloro-1,3-dihidro-5-fenil-1-(2,2,2-trifluoretil)-2H-1,4-benzodiazepina-2-ona).
 
-Lorazepam - 7 -cloro -5 (2 -clorofenil) -1,3 -di -hidro -3 -hidroxi -2H -1,4 -benzodiazepina -2 -ona.
+Haloxazolam (10-bromo-11b-(2-fluorofenil)-2,3,7,11b-tetrahidrooxazol[3,2-d][1,4] benzodiazepina-6(5H)-ona).
 
-Lormetazepam - 7 -cloro-5-(2-clorofenil)-1,3-di-hidro--3 -hidroxi -1 -metil -2H -1,4 -benzodiazepina -2 -ona.
+Loprazolam (6-2(clorofenil)-2,4-dihidro-2-[(4-metil-1-piperazinil)metileno]-8-nitro-1H-imidazo-[1,2-a][1,4]benzodiazepina-1-ona).
 
-Mazindol - 5 -(p -clorofenil)-2,5-di-hidro-3N -imidazol(2,1 -a) -isoindol -5 -ol.
+Lorazepam (7-cloro-5(2-clorofenil)-1,3-dihidro-3-hidroxi-2H-1,4-benzodiazepina-2-ona).
 
-Medazepam - 7 -cloro-2,3-di-hidro-1-metil-5-fenil-1H--1,4 -benzodiazepina.
+Lormetazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-3-hidroxi-1-metil-2H-1,4-benzodiazepina-2-ona).
 
-Mefenorex - (mais ou menos) -N -(3 -cloropropil) -a--metilfenetilamina.
+Mazindol (5-(p-clorofenil)-2,5-dihidro-3N-imidazol(2,1-a)-isoindol-5-ol).
 
-Meprobamato - dicarbamato -2-metil-2-propil-1,3-propanediol.
+Medazepam (7-cloro-2,3-dihidro-1-metil-5-fenil-1H-1,4-benzodiazepina).
 
-Mesocarbe - 3 -[(alfa) -metilfenetil] -N -(fenilcarbamoil)sidnona imina.
+Mefenorex ((mais ou menos)-N-(3-cloropropil)-a-metilfenetilamina).
 
-Metilfenobarbital - ácido -5-etil-1-metil-5-fenilbarbitúrico.
+Meprobamato (dicarbamato-2-metil-2-propil-1,3-propanediol).
 
-Metiprilona - 3,3 -dietil -5 -metil -2,4 -biperidinediona.
+Mesocarbe (3-[(alfa)-metilfenetil]-N-(fenilcarbamoil)sidnonaimina).
 
-Midazolam - 8 -cloro -6 -(o -fluorofenil) -1 -metil -4H--imidazol [1,5 -(alfa)] [1,4] benzodiazepina.
+Metilfenobarbital (ácido-5-etil-1-metil-5-fenilbarbitúrico).
 
-Nimetazepam - 1,3 -di -hidro -1 -metil -7 -nitro -5 -fenil--2H -1,4 -benzodiazepina -2 -ona.
+Metiprilona (3,3-dietil-5-metil-2,4-biperidinediona).
 
-Nitrazepam - 1,3 -di-hidro-7-nitro-5-fenil-2H -1,4-benzodizepina-2 -ona.
+Midazolam (8-cloro-6-(o-fluorofenil)-1-metil-4H-imidazol[1,5-(alfa)][1,4] benzodiazepina).
 
-Nordazepam - 7-cloro-1,3-di-hidro-5-fenil-1 (2H)-1,4--benzodiazepina -2 -ona.
+Nimetazepam (1,3-dihidro-1-metil-7-nitro-5-fenil-2H-1,4-benzodiazepina-2-ona).
 
-Oxazepam - 7-cloro-1,3-di-hidro-3-hidroxi-5-fenil-2H--1,4 -benzodiazepina -2 -ona.
+Nitrazepam (1,3-di-hidro-7-nitro-5-fenil-2H-1,4-benzodizepina-2-ona).
 
-Oxazolam - 10 -cloro -2,3,7,11b -tetra -hidro -2 -metil--11b -feniloxazolo [3,2-d] [1,4] benzodiazepina -6 (5H)-ona.
+Nordazepam (7-cloro-1,3-dihidro-5-fenil-1(2H)-1,4-benzodiazepina-2-ona).
 
-Pemolina - 2 -amino -5 -fenil -2 -oxazolina -4 ona (ou:2 -imino -5 -fenil -4 -oxazolidinoma).
+Oxazepam (7-cloro-1,3-dihidro-3-hidroxi-5-fenil-2H-1,4-benzodiazepina-2-ona).
 
-Pinazepam - 7-cloro-1,3-di-hidro-5-fenil-1-(2-propinil)-2H -1,4 -benzodiazepina -2 -ona.
+Oxazolam (10-cloro-2,3,7,11b-tetrahidro-2-metil-11b-feniloxazolo[3,2-d][1,4] benzodiazepina-6(5H)-ona).
 
-Pipradol - 1,1 -difenil -2 -piperidinometanol.
+Pemolina (2-amino-5-fenil-2-oxazolina-4ona ou 2-imino-5-fenil-4-oxazolidinoma).
 
-Pirovalerona - (mais ou menos) -1 -(4 -metilfenil) -2(1 -pirrolidinil) 1 -pentanona.
+Pinazepam (7-cloro-1,3-dihidro-5-fenil-1-(2-propinil)-2H-1,4-benzodiazepina-2-ona).
 
-Prazepam - 7-cloro-1-(ciclopropilmetil)-1,3-di-hidro--5 -fenil -2H -1,4 -benzodiazepina -2 -ona.
+Pipradol (1,1-difenil-2-piperidinometanol).
 
-Propil -hexedrina - (mais ou menos) -1 -ciclo -hexil -2--metil -aminopropano.
+Pirovalerona ((mais ou menos)-1-(4-metilfenil)-2(1-pirrolidinil)1-pentanona).
 
-Quazepan - 7 -cloro -5 -(2 -fluorofenil) -1,3 -di -hidro--1 -(2,2,2 -trifluoroetil) -2H -1,4 -benzodia zepina -2 -tiona.
+Prazepam (7-cloro-1-(ciclopropilmetil)-1,3-dihidro-5-fenil-2H-1,4-benzodiazepina-2-ona).
 
-Secbutabarbital - ácido secbutil -5 -etilbarbitúrico.
+Propilhexedrina ((mais ou menos)-1-ciclo-hexil-2-metilaminopropano).
 
-SPA, Lefetamina - (-)-1-dimetilamino-1,2-difeniletano.
+Quazepan (7-cloro-5-(2-fluorofenil)-1,3-dihidro-1-(2,2,2-trifluoroetil)-2H-1,4-benzodiaze-pina -2-tiona).
 
-Temazepam - 7-cloro-1,3-di-hidro-3-hidroxi-1-metil--5 -fenil -2H -1,4 -benzodiazepina -2 -ona.
+Secbutabarbital (ácido secbutil-5-etilbarbitúrico).
 
-Tetrazepam - 7 -cloro -5 -(1 -ciclo -hexano -1 -il) -1,3 -di--hidro -1 -metil -2H -1,4 -benzodiazepina -2 -ona.
+SPA ou Lefetamina ((-)-1-dimetilamino-1,2-difeniletano).
 
-Triazolam - 8 -cloro -6 -(2 -clorofenil) -1 -metil--4H -[1,2,4] triazol [4,3 -(alfa)] [1,4] benzodiazepina.
+Temazepam (7-cloro-1,3-dihidro-3-hidroxi-1-metil-5-fenil-2H-1,4-benzodiazepina-2-ona).
 
-Vinilbital - ácido 5 -(1 -metilbutil) -5 vinilbarbitúrico.
+Tetrazepam (7-cloro-5-(1-ciclohexano-1-il)-1,3-dihidro-1-metil-2H-1,4-benzodiazepina-2-ona).
 
-Zolpidem - {N, N, 6 -trimetil -2 -(ró) -tolilimidazol[1,2 -(alfa)] piridina -3 -acetamida}.
+Triazolam (8-cloro-6-(2-clorofenil)-1-metil-4H-[1,2,4]triazol[4,3-(alfa)][1,4] benzodiazepina).
+
+Vinilbital (ácido-5-(1-metilbutil)-5-vinilbarbitúrico).
+
+Zolpidem (N,N,6-trimetil-2-(ró)-tolilimidazol[1,2-(alfa)]piridina-3-acetamida).
 
 Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.
