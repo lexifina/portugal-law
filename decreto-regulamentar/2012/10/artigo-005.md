@@ -12,4 +12,6 @@ c) O Departamento Geral de Administração;
 
 d) O Departamento de Assuntos Jurídicos;
 
-e) O Instituto Diplomático.
+e) O Instituto Diplomático;
+
+f) O Centro de Competências de Apoio à Política Externa.

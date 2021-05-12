@@ -2,7 +2,7 @@
 
 ### Missão e atribuições
 
-1 - A SG tem por missão assegurar as funções de apoio político-diplomático, técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios do desenvolvimento das linhas estratégicas da política externa portuguesa, da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, do apoio jurídico e contencioso, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação e ainda acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar atividades administrativas dos demais serviços do MNE.
+1 - A SG tem por missão assegurar as funções de apoio político diplomático, técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios do desenvolvimento das linhas estratégicas da política externa portuguesa, da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, do apoio jurídico e contencioso, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação, acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar atividades administrativas dos demais serviços do MNE, e ainda, assegurar a prestação de apoio técnico especializado à intervenção em matéria de política externa das diferentes áreas governativas, de forma a garantir, através dos serviços e organismos tutelados pela área governativa dos negócios estrangeiros, a unidade da ação externa do Estado.
 
 2 - A preparação e execução pela Secretaria-Geral das actividades administrativas dos serviços da administração indirecta do MNE, são regulamentados em diploma próprio.
 
@@ -44,4 +44,24 @@ q) Assegurar, directamente ou através dos seus serviços integrados, as activid
 
 r) Coordenar a actividade do MNE em áreas que não relevam directamente da actividade político-diplomática;
 
-s) Assegurar o normal funcionamento do MNE nas áreas que não sejam da competência específica de outros serviços.
+s) Assegurar o normal funcionamento do MNE nas áreas que não sejam da competência específica de outros serviços;
+
+t) Promover o apoio técnico especializado, em estreita colaboração com as áreas governativas relevantes em cada matéria, designadamente, nas seguintes áreas:
+
+i) Grandes questões globais internacionais, tais como as relativas ao clima, ambiente, oceanos, água e energia, assim como à evolução da situação geopolítica e do multilateralismo, à ação das organizações internacionais e às novas diplomacias, como a diplomacia cultural e a diplomacia digital;
+
+ii) Segurança marítima e Direito do mar;
+
+iii) Mercado interno europeu e comércio;
+
+iv) Avaliação e monitorização de situações de segurança com impacto sobre portugueses no estrangeiro;
+
+v) Investigação e análise estratégica;
+
+vi) Formação em assuntos europeus e relações internacionais;
+
+vii) Direito internacional e negociação;
+
+viii) Contencioso do Estado no estrangeiro e cooperação judiciária internacional;
+
+ix) Organização, comunicação e diplomacia pública.
