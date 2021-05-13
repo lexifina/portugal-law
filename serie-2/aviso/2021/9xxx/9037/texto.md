@@ -1,0 +1,10 @@
+Aviso n.º 9037/2021
+Sumário: Prorrogação do prazo de elaboração do procedimento de revisão do Plano Diretor Municipal de Vale de Cambra.
+Prorrogação do prazo de elaboração do procedimento de revisão do Plano Diretor Municipal de Vale de Cambra
+António Alberto Almeida de Matos Gomes, Vereador em Regime de Tempo Inteiro na Câmara Municipal de Vale de Cambra:
+Torna público que, nos termos e para os efeitos do n.º 6 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão do Território, na redação do Decreto-Lei n.º 80/2015, de 14 de maio na sua atual redação (RJIGT), sob proposta da Câmara Municipal, a Assembleia Municipal deliberou retificar a sua deliberação de 29/06/2020, nos termos e com os fundamentos das informações técnicas, substituindo o período de "6 meses" por um período de "21 meses", correspondente a igual período considerado para o procedimento de Revisão do Plano Diretor Municipal, tendo em conta o n.º 1 do artigo 35.º-D aditado pelo DL n.º 20/20, de 1 de maio, que estabelece a prorrogação do prazo até essa data.
+27 de abril de 2021. - O Vereador, António Alberto Almeida de Matos Gomes.
+Deliberação
+Manuel Miguel Pinheiro Paiva, Presidente da Assembleia Municipal de Vale de Cambra, declara, para os devidos e legais efeitos, que foi extraída da ata da sessão ordinária de vinte e seis de novembro do ano de dois mil e vinte (a fls. 80, verso a 81 verso), aprovada em sessão ordinária de vinte e quatro de fevereiro do ano de dois mil e vinte e um, a deliberação que a seguir se transcreve: "A Assembleia Municipal deliberou por maioria de 24 votos a favor e uma abstenção retificar a sua deliberação de 29-06-2020, nos termos e com os fundamentos das informações técnicas substituindo o período de 6 meses, por um período de 21 meses, correspondente a igual período considerado para o processo de Revisão do PDM." Por ser verdade e me ter sido solicitada, passo a presente certidão, que dato, assino e autentico, com o carimbo em uso por esta Assembleia Municipal.
+27 de abril de 2021. - O Presidente da Assembleia Municipal, Manuel Miguel Pinheiro Paiva, Dr.
+614204843
