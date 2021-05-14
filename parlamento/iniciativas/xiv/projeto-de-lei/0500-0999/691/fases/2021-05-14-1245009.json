@@ -1,0 +1,271 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "691",
+    "id": "110342",
+    "titulo": "Reforça a proteção da pessoa segurada, proibindo práticas discriminatórias, melhorando o acesso ao crédito e contratos de seguros por pessoas que tenham superado riscos agravados de saúde, consagrando o “direito ao esquecimento”"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2021-05-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "51029",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2021-06-01",
+            "id": "127124",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2021-06-23",
+            "id": "127186",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2021-06-23",
+            "id": "127185",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-05-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-06-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Associação Portuguesa de Seguradores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4f4463784d5455304f43316a5a546c6c4c5451774e7a45744f546c695969307a5a4749774d6d49775a6a52694f4749756347526d&fich=38711548-ce9e-4071-99bb-3db02b0f4b8b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Associação Portuguesa de Bancos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e574d79597a4e6c4e4330794f4449784c5451795a544d7459544978597930314d7a677a5a6a5a6b4d7a4d774f546b756347526d&fich=85c2c3e4-2821-42e3-a21c-5383f6d33099.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4f4464694d47466a596930304e4755314c54526d4e6d4d744f545a6c4e5330315a44646d596d51794d47566c5a4449756347526d&fich=387b0acb-44e5-4f6c-96e5-5d7fbd20eed2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Banco de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d4755774d6a67325a6930354d57526a4c545135596d49744f4751334d4330774f544d334d4746685a4451334d7a55756347526d&fich=80e0286f-91dc-49bb-8d70-09370aad4735.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer -  Autoridade de Supervisão de Seguros e Fundos de Pensões ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e7a526b4f4441344d4330354e6d4d794c545132596a59744f475a6b4d693077595449784e6d55324d7a59325a6a6b756347526d&fich=074d8080-96c2-46b6-8fd2-0a216e6366f9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-08-26",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Ordem dos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e7a426c5a4445314e43316c5a5445354c5451355a6d51744f4451784e69316d4e324d32595467314e47457a596d55756347526d&fich=370ed154-ee19-49fd-8416-f7c6a854a3be.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-09-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Instituto Nacional de Reabilitação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d7a4a684f5759344e43307a4f5459314c545135595445744f544e6c596930325a4459304e4459334e6a4e684d4749756347526d&fich=032a9f84-3965-49a1-93eb-6d6446763a0b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do CAD - Centro Antidiscriminação VIH e Sida e da Liga Portuguesa Contra o Cancro ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e574a6d5a5759314e6930314d4749774c54513459544d74596d457a5a4330784e6a45785a5745314e5441314d5445756347526d&fich=b5bfef56-50b0-48a3-ba3d-1611ea550511.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e5745355a44593359533035595449784c54526b597a4d74596a59325a43307a4e6d45354d545a694e325933597a67756347526d&fich=f5a9d67a-9a21-4dc3-b66d-36a916b7f7c8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354e7a49354d6a5a684e69316b4e6a686d4c5452685a6a557459544a6d4e5330354d4468684d5745794e7a63784d6d4d756347526d&fich=972926a6-d68f-4af5-a2f5-908a1a27712c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-20",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a597a526b4e324e6d5a6930785a47597a4c545178596d4d74595745305a4330345a545a6c4e5456684d6a6b784f5759756347526d&fich=3c4d7cff-1df3-41bc-aa4d-8e6e55a2919f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-20",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a6d466b5a4468695a4330355a6d4d314c54517a4d3259744f545a6d4f43316a4e3255794f4455325a47526b4d4751756347526d&fich=3fadd8bd-9fc5-433f-96f8-c7e2856ddd0d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-21",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a6a5978597a45314f5331695a546b354c54526b596a4574596d45304d43316b4d7a4e684d5751314e4751354e446b756347526d&fich=af61c159-be99-4db1-ba40-d33a1d54d949.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7344",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "7344",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "APS - Associação Portuguesa de Seguradores em 2021-06-04"
+          },
+          {
+            "link": "",
+            "nome": "APB - Associação Portuguesa de Bancos em 2021-06-08"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Médicos em 2021-08-26"
+          },
+          {
+            "link": "",
+            "nome": "Autoridade de Supervisão de Seguros e Fundos de Pensões em 2021-06-14"
+          },
+          {
+            "link": "",
+            "nome": "Banco de Portugal em 2021-06-11"
+          },
+          {
+            "link": "",
+            "nome": "Instituto Nacional de Reabilitação em 2021-09-16"
+          },
+          {
+            "link": "",
+            "nome": "Liga Portuguesa Contra o Cancro em 2021-10-07"
+          },
+          {
+            "link": "",
+            "nome": "Associação de Doentes com Lupus em 2021-07-22"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2021-06-09"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "APS - Associação Portuguesa de Seguradores em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "APB - Associação Portuguesa de Bancos em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Médicos em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Autoridade de Supervisão de Seguros e Fundos de Pensões em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Banco de Portugal em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Instituto Nacional de Reabilitação em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "ABRAÇO - Associação de Apoio a Pessoas com VIH/SIDA em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Liga Portuguesa Contra o Cancro em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Associação Protectora dos Diabéticos de Portugal - APDP em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Associação de Doentes com Lupus em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "DGS - Direção-Geral da Saúde em 2021-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Nacional de Saúde (CNS)     em 2021-05-26"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-10-20",
+            "dataRemessa": "2021-10-21",
+            "numeroOficio": "Email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-05-14",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1245009",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
