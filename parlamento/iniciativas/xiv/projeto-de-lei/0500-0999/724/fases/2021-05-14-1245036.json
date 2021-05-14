@@ -1,0 +1,132 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "724",
+    "id": "110461",
+    "titulo": "Regime extraordinário de apoio à manutenção de habitação e espaços comerciais no período de mitigação e recuperação do SARS Cov-2  (6.ª alteração à Lei n.º 4-C/2020, de 6 de abril)"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2021-05-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "51039",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-05-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-06-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325957597a4e6d45324f43316c5a544a684c5451784e47517459545a6c4d6930774e6d5a6c5a6a6c6d4e3245314d544d756347526d&fich=6af36a68-ee2a-414d-a6e2-06fef9f7a513.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d3246685a5759314f5330305a44426a4c54526d4d7a6b74596a64684f5330784d6d51304e3245784f44566a593249756347526d&fich=13aaef59-4d0c-4f39-b7a9-12d47a185ccb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4f5749794f444d314d793078597a67314c54517a596d49744f44466d4e4330334e4745355a6a6c685a6d5132593255756347526d&fich=d9b28353-1c85-43bb-81f4-74a9f9afd6ce.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-18",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d6a4a6c5a6d493059693169596d51334c5451354d4749744f4749304f5330315a5459324e4464695a475978595449756347526d&fich=222efb4b-bbd7-490b-8b49-5e6647bdf1a2.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7364",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "Numero": "7364",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-06-18",
+            "dataRemessa": "2021-06-18",
+            "numeroOficio": null,
+            "observacoes": "Remetido por e-mail, em conjunto com relatório de votações, a 18.06.2021",
+            "tipoRemessa": "Texto de Substituição"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-05-14",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1245036",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929001",
+        "obs": "Relatório da discussão e votação na especialidade, incluindo proposta de alteração apresentada pelo PS, e texto de substituição da Comissão",
+        "pag": [
+          "3-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-18",
+        "pubLeg": "XIV",
+        "pubNr": "154",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/154/2021-06-18/3?pgs=3-15&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
