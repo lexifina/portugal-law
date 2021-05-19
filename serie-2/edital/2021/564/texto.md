@@ -1,0 +1,18 @@
+Edital n.º 564/2021
+Sumário: Revogação do procedimento administrativo com vista à elaboração do Regulamento do Orçamento Participativo do Município de Leiria.
+Gonçalo Nuno Bértolo Gordalina Lopes, na qualidade de Presidente da Câmara Municipal de Leiria, no uso da competência prevista na alínea t) do n.º 1 do artigo 35.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, na sua redação atual, e ao abrigo do disposto no n.º 1 do artigo 56.º do mesmo diploma legal, torna pública a deliberação tomada pela Câmara Municipal, no dia 30 de março de 2021, que abaixo se transcreve:
+"Ponto 4 - Revogação do procedimento administrativo com vista à elaboração do Regulamento do Orçamento Participativo do Município de Leiria
+DLB n.º 273/21:
+Considerando que:
+i) A Câmara Municipal, na sua reunião de 19 de janeiro de 2021 deliberou o início do procedimento administrativo para a elaboração do Regulamento do Orçamento Participativo do Município de Leiria;
+ii) A Câmara Municipal, na sua reunião de 17 de fevereiro de 2021 deliberou submeter o Projeto de Regulamento do Orçamento Participativo do Município de Leiria, nos termos e para efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, a consulta pública destinada à recolha de sugestões, pelo prazo de 30 dias úteis, contados da sua publicação na 2.ª série do Diário da República e publicitar o referido projeto de regulamento na Internet, no sítio institucional do Município de Leiria em www.cm-leiria.pt;
+iii) O projeto de regulamento foi publicado na 2.ª série do Diário da República através do Aviso n.º 4764/2021, de 16 de março de 2021;
+iv) Após a sua publicação foram suscitadas questões sobre a estrutura dos órgãos nele previstos, as quais carecem de uma melhor ponderação por parte da Câmara Municipal, porquanto conduzem a uma profunda reestruturação deste projeto de regulamento, o qual não deve manter-se tal qual em consulta pública, sob pena de se frustrarem as expectativas de todos quanto possam exercer o seu direito de participação;
+v) O artigo 165.º do Código de Procedimento Administrativo estabelece que poderá haver revogação de um ato administrativo que determina a cessação dos efeitos de outro ato, por razões de mérito, conveniência ou oportunidade;
+vi) Nos termos do n.º 2 do artigo 169.º do Código de Procedimento Administrativo, são competentes para a revogação dos atos administrativos os seus autores e os respetivos superiores hierárquicos;
+Assim, com os fundamentos de facto e direito vertidos nos considerandos supra, pela Senhora Vereadora Dr.ª Catarina Louro é proposta a revogação do procedimento administrativo com vista à elaboração do Regulamento do Orçamento Participativo do Município de Leiria, ou seja, das deliberações tomadas pela Câmara Municipal em suas reuniões de 19 de janeiro de 2021 e de 17 de fevereiro de 2021.
+A Câmara Municipal, depois de analisar o assunto, nos termos e com os fundamentos constantes dos considerandos acima referidos, ao abrigo do disposto nos artigos 165.º e 169.º, ambos do Código de Procedimento Administrativo, deliberou por unanimidade, revogar as deliberações por si tomadas em suas reuniões de 19 de janeiro de 2021 e de 17 de fevereiro de 2021, relativas, respetivamente ao início do procedimento administrativo para a elaboração do Regulamento do Orçamento Participativo do Município de Leiria e à submissão do mesmo a consulta pública.
+A presente deliberação foi aprovada em minuta.»
+Para constar se lavrou o presente edital que vai ser afixado no Edifícios dos Paços do Concelho e publicado na 2.ª série do Diário da República e no sítio institucional do Município de Leiria.
+22 de abril de 2021. - O Presidente da Câmara Municipal de Leiria, Gonçalo Lopes.
+314206666
