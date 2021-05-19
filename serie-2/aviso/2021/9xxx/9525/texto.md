@@ -1,0 +1,16 @@
+Aviso n.º 9525/2021
+Sumário: Elaboração do Plano de Pormenor Ocidental de Porto Salvo - fase II - alteração do limite da área de intervenção- período de participação preventiva.
+Elaboração do Plano de Pormenor Ocidental de Porto Salvo - Fase II
+Alteração do limite da área de intervenção
+Período de Participação Preventiva
+Isaltino Morais, Presidente da Câmara Municipal de Oeiras, torna público que a Câmara Municipal de Oeiras, na sua reunião de 24 de março de 2021, deliberou aprovar a alteração do limite da área de intervenção do Plano de Pormenor Ocidental de Porto Salvo - Fase II, com enquadramento no artigo 76.º do DL n.º 80/2015 de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial), bem como o ajustamento dos respetivos Termos de Referência e fixando um prazo de 18 meses para a conclusão do Plano de Pormenor.
+A CMO deliberou ainda estabelecer um período de participação preventiva, de 30 (trinta) dias úteis, contados a partir do quinto dia útil seguinte à data da publicação do presente Aviso no Diário da República, para a formulação de observações e sugestões por escrito de todos os interessados, sobre quaisquer questões que possam ser consideradas no âmbito do processo de elaboração do Plano de Pormenor Ocidental de Porto Salvo - Fase II, nos termos do disposto no artigo 88.º, n.º 2.
+Durante este prazo os interessados poderão participar por escrito, através do correio eletrónico elaboracaoppops-II@cm-oeiras.pt ou por via postal, dirigidos ao Presidente da Câmara Municipal de Oeiras, Largo Marquês de Pombal, 2784-501 Oeiras (sob a referência em epígrafe). Os interessados poderão consultar os elementos disponíveis na página da internet da CMO (www.cm-oeiras.pt), bem como solicitar esclarecimentos via telefónica, por Skype ou por e-mail (Plano de Contingência em vigor no Município de Oeiras a partir de 17 de março de 2020), na Divisão de Ordenamento do Território, mediante marcação prévia a efetuar pelo contacto 214408304, todos os dias úteis, entre as 10h00 e as 12h e entre as 14h00 e as 16h00 ou pelo correio eletrónico elaboracaoppops-II@cm-oeiras.pt.
+E, para que conste, mandei publicar este Aviso no Diário da República e outros de igual teor, que serão afixados nos locais de estilo e publicitados no Boletim Municipal, na comunicação social, na página da internet da Câmara Municipal de Oeiras e na Plataforma Colaborativa de Gestão Territorial (www.dgterritorio.pt).
+21 de abril de 2021. - O Presidente da Câmara Municipal de Oeiras, Isaltino Morais.
+Deliberação
+Através da Proposta n.º 207/2021, a Câmara Municipal de Oeiras deliberou, na reunião de Câmara de 24 de março:
+Aprovar a alteração do limite da área de intervenção do Plano de Pormenor Ocidental de Porto Salvo - Fase II (PPOPS-II), ao abrigo das disposições do artigo 76.º do RJIGT, bem como o ajustamento aos Termos de Referência e a fixação de 18 meses para a realização do PPOPS-II.
+Estabelecer um prazo de 30 dias úteis para a formulação de observações e sugestões por escrito sobre quaisquer questões que possam ser consideradas no âmbito do processo de elaboração do Plano de Pormenor Ocidental de Porto Salvo-Fase II, nos termos do disposto nos artigos 76.º, n.º 1 e 88.º, n.º 2, do RIGT.
+21 de abril de 2021. - O Presidente da Câmara Municipal de Oeiras, Isaltino Morais.
+614204908
