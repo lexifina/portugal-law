@@ -1,0 +1,794 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13620",
+  "numero": "250",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-05-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-10-07",
+            "entidades": null,
+            "id": "127344",
+            "tipo": null,
+            "titulo": "Audição em 2021-10-07 com Bruno Alves"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-11-09",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915109",
+                "obs": null,
+                "pag": [
+                  "17-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-13",
+                "pubLeg": "XIV",
+                "pubNr": "13",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/03/013/2021-11-13/17?pgs=17-20&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-06-23",
+        "DataArquivo": "2021-11-09",
+        "DataBaixaComissao": "2021-05-28",
+        "DataEnvioPAR": "2021-11-09",
+        "DataReaberta": "2021-06-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-06-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764d4451324e5451325a546b745a6a426b597930305932526d4c5467334e7a51744f44466a596d45354e5746694e324d314c6e426b5a673d3d&fich=046546e9-f0dc-4cdf-8774-81cba95ab7c5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-06-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764d6d59775954426c5a4751744e6d55784e433030596a46684c574a68595755744d6a55784d3259354e47557a4e7a6b314c6e426b5a673d3d&fich=2f0a0edd-6e14-4b1a-baae-2513f94e3795.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-06-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a59573876593249305a474d334e4745745a5441784d4330304d7a6c694c57466d5a5459744d57597a4e7a52684f5749324e3259314c6e426b5a673d3d&fich=cb4dc74a-e010-439b-afe6-1f374a9b67f5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-06-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764e5464695a6a55785a6d45744d5456695a6930304d6a646c4c574978597a6b7459544a6a5a444a6c5a6a59344e4451314c6e426b5a673d3d&fich=57bf51fa-15bf-427e-b1c9-a2cd2ef68445.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738765a5459314f5459784d546b7459574a684d7930304f57466c4c574a6c4d7a67744f5445774d474d79597a41354e444d794c6e426b5a673d3d&fich=e6596119-aba3-49ae-be38-9100c2c09432.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-09-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a59573876597a51304e574533595751744e7a4d784d4330304d4745334c54686a4e4749744f4464694f57566d4e7a63314f47566a4c6e426b5a673d3d&fich=c445a7ad-7310-40a7-8c4b-87b9ef7758ec.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-11-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764f5449304e6d5a694d6a63744d7a526a5a693030595755784c5745355a5459744d5467334e4456685a444e694f444d304c6e426b5a673d3d&fich=9246fb27-34cf-4ae1-a9e6-18745ad3b834.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-07-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764d575a695a6a566b595759744f4455774d4330304f4441354c57466c4e7a67744d474d35596d466a5a5441314d4459774c6e426b5a673d3d&fich=1fbf5daf-8500-4809-ae78-0c9bace05060.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a59573876596d55344d6d55784d474d745a4452694f5330304e44597a4c574a684f474d744f4745324f544133597a426c4e7a526d4c6e426b5a673d3d&fich=be82e10c-d4b9-4463-ba8c-8a6907c0e74f.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7504",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-06-23",
+            "gp": "PSD",
+            "id": "6595",
+            "motivoCessacao": null,
+            "nome": "Márcia Passos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-01-04",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-06-04",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59325a574d345a4755794c544a694d5745744e446c6d4d4330344d5442684c5459775932526a4f5451304d6d55324e5335775a47593d&fich=66ec8de2-2b1a-49f0-810a-60cdc9442e65.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "131671",
+      "152099",
+      "152202"
+    ],
+    "Iniciativasoriginadas": [
+      "131671",
+      "152099",
+      "152202"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=31"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25",
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/24?pgs=24-25,33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=32"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26",
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/25?pgs=25-26,34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": "Sobre a condução dos trabalhos"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": "Sobre a condução dos trabalhos"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_04_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-05",
+                "pubLeg": "XV",
+                "pubNr": "72",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas (José Bruno Teixeira Alves e outros); Procede à equiparação entre os enfermeiros vinculados por contrato individual de trabalho (CIT) e enfermeiros vinculados com contrato de funções públicas (CTFP) para efeitos de remunerações e posições remuneratórias; Integração de trabalhadores com contrato individual de trabalho nas respetivas carreiras da Administração Pública; Igualdade entre trabalhadores com contrato individual de trabalho e com contrato de trabalho em funções públicas na área da saúde.",
+            "Teor": "As Deputadas Joana Barata Lopes (PSD) e Eurídice Pereira (PS)"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13620",
+    "PetAssunto": "Os enfermeiros com contrato individual de trabalho (CIT) solicitam igualdade em relação aos que têm contrato de funções públicas",
+    "PetDataEntrada": "2021-05-20",
+    "PeticoesAssociadas": null,
+    "PetId": "13620",
+    "PetLeg": "XIV",
+    "PetNr": "250",
+    "PetNrAssinaturas": "9069",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16280",
+        "obs": null,
+        "pag": [
+          "24-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-01-05",
+        "pubLeg": "XV",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/072/2023-01-05/24?pgs=24-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915091",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-26",
+        "pubLeg": "XIV",
+        "pubNr": "52",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/052/2021-06-26?org=PLC"
+      }
+    ]
+  }
+}
