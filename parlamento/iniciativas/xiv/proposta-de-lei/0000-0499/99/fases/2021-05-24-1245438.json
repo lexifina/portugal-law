@@ -1,0 +1,159 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "99",
+    "id": "110842",
+    "titulo": "Transpõe a Diretiva (UE) 2019/1, que visa atribuir às autoridades da concorrência dos Estados-Membros competência para aplicarem a lei de forma mais eficaz e garantir o bom funcionamento do mercado interno"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2021-05-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "51094",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-05-24",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-06-18",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e47517a4d574e6b595330354d6d526b4c5451344e6a49744f5463774e69316a4d6d5932596d4a6d4e6a646b4d6d4d756347526d&fich=64d31cda-92dd-4862-9706-c2f6bbf67d2c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANACOM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d6a4e6d4e4751774d6931685a6d4d354c545177597a59744f544d354d53307a4e6a46685a6a6c6c4e324e6b595459756347526d&fich=e23f4d02-afc9-40c6-9391-361af9e7cda6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a47466a5a544d314e53316d596a55324c545269596d49744f4449794e69316c596a49325a4759774d6d45314e544d756347526d&fich=1dace355-fb56-4bbb-8226-eb26df02a553.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Autoridade da Concorrência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a5755774d474d795969307a5932566d4c5451794d6a45744f44686c596930784f575179597a6b794f4755324e6d4d756347526d&fich=1ee00c2b-3cef-4221-88eb-19d2c928e66c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f4452694f44686c5969316d595745774c5451354e446774595467774d69316b4e6a41325a6a67335a444d32596a41756347526d&fich=084b88eb-faa0-4948-a802-d606f87d36b0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - 6.ª CEIOPH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793835595455345a6a526a4e6931694e6d4d314c54526c4f5451744f5755344e5330334e325a6d4f5451344f446b794e5441756347526d&fich=9a58f4c6-b6c5-4e94-9e85-77ff94889250.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Declaração de Voto - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a4446685a5746694e43307a5a54597a4c54526c5a6d45744f574a6c59793030597a67304e6d4933596a466c596d55756347526d&fich=0d1aeab4-3e63-4efa-9bec-4c846b7b1ebe.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7364",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "Numero": "7364",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "2665",
+            "motivoCessacao": null,
+            "nome": "Jorge Paulo Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-07-07",
+            "dataRemessa": "2021-07-07",
+            "numeroOficio": null,
+            "observacoes": "Parecer e Nota Técnica enviados por e-mail da 7/7/2021",
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-05-24",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1245438",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929187",
+        "obs": null,
+        "pag": [
+          "43-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-07-07",
+        "pubLeg": "XIV",
+        "pubNr": "164",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/164/2021-07-07/43?pgs=43-59&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
