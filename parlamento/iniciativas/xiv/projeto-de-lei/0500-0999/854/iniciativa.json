@@ -1,0 +1,68 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "854",
+  "id": "110852",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-05-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a6a5a684d6a4d774e6a45744d4463305a4330304d5745334c5467774e7a49744e6a45774d5751784f545a6a4d6a426a4c6e426b5a673d3d&fich=f6a23061-074d-41a7-8072-6101d196c20c.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PAN",
+        "idCadastro": "5777",
+        "nome": "André Silva"
+      },
+      {
+        "GP": "PAN",
+        "idCadastro": "6549",
+        "nome": "Bebiana Cunha"
+      },
+      {
+        "GP": "PAN",
+        "idCadastro": "6864",
+        "nome": "Inês de Sousa Real"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PAN"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "110852",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a446335597a557a596a63744e446b324f5330304e6d46694c5467784f5451744f4755345a47526d4d7a426a596a41354c6d52765933673d&fich=d79c53b7-4969-46ab-8194-8e8ddf30cb09.docx&Inline=true",
+    "IniNr": "854",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
