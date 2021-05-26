@@ -1,0 +1,9 @@
+Aviso n.º 9979-B/2021
+Sumário: Discussão pública da 1.ª revisão do Plano Diretor Municipal de Felgueiras.
+Discussão pública da 1.ª Revisão do Plano Diretor Municipal de Felgueiras
+Nuno Alexandre Martins da Fonseca, Presidente da Câmara Municipal de Felgueiras, torna público, de acordo com o n.º 1 do artigo 89.º e alínea a), n.º 4 do artigo 191.º, do Regime Jurídico dos Instrumentos de Gestão do Território (RJIGT) DL n.º 80/2015, de 14 de maio, na redação atual, e dos n.os 1 e 2 do artigo 56.º, da Lei n.º 75/2013, de 12 de setembro, na redação atual, que a Câmara Municipal de Felgueiras, em reunião pública realizada no dia 20 de maio de 2021, deliberou, por maioria, aprovar a proposta da 1.ª Revisão do Plano Diretor Municipal de Felgueiras e sujeitar a mesma a um período de discussão pública.
+Torna-se ainda público que o período de discussão pública terá início 5 dias após a publicação deste Aviso no Diário da República, 2.ª série, e decorrerá durante 30 dias consecutivos para consulta pública, no âmbito do qual podem ser apresentadas observações, sugestões, reclamações, ou pedidos de esclarecimento.
+Durante este período a proposta da 1.ª Revisão do Plano Diretor Municipal de Felgueiras, incluindo o respetivo relatório ambiental, o parecer final, a ata da comissão consultiva, os demais pareceres emitidos e os resultados da concertação, podem ser consultados no site institucional do Município de Felgueiras (www.cm-felgueiras.pt) e no Edifício dos Paços do Concelho, nos Serviços de Ordenamento do Território.
+Todas as questões ou sugestões e reclamações deverão ser reduzidas a escrito e dirigidas ao Exmo. Sr. Presidente da Câmara Municipal de Felgueiras, por carta registada com aviso de receção com a devida identificação e contacto do interessado, ou através da plataforma disponível no site institucional do Município de Felgueiras (www.cm-felgueiras.pt).
+20 de maio de 2021. - O Presidente da Câmara, Nuno Alexandre Martins da Fonseca.
+614268964
