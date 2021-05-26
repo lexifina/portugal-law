@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-05-26, processo 0518/20.9BELLE
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0518/20.9BELLE
+
+**Data do Acordão:** 05/26/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** PRESCRIÇÃO; CITAÇÃO; EFEITO DURADOURO; FISCALIZAÇÃO CONCRETA DA CONSTITUCIONALIDADE; PRINCÍPIO DA LEGALIDADE; PRINCÍPIO DA SEGURANÇA JURÍDICA
+
+**Nº Convencional:** JSTA000P27755
+
+**Nº do Documento:** SA2202105260518/20
+
+**Data de Entrada:** 04/23/2021
+
+**Recorrente:** A............
+
+**Recorrido 1:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O decurso do prazo de prescrição extingue o direito do Estado à cobrança do imposto. O instituto da prescrição, tal como o da caducidade, tem na sua base o interesse da certeza e segurança jurídicas, encontrando aquele igualmente fundamento na negligência do credor. O prazo de prescrição das obrigações tributárias em geral é actualmente de oito anos (cfr.artº.48, da L.G.Tributária), sendo anteriormente de dez anos (cfr.artº.34, do C.P. Tributário).
+
+II - Nas leis tributárias prevêem-se factos a que é atribuído efeito interruptivo da obrigação tributária, pelo que não há que fazer apelo às normas do C.Civil, no que concerne a determinar os factos interruptivos. Porém, os efeitos da interrupção da prescrição não estão completamente regulados, assim devendo aplicar-se, quanto a estes, subsidiariamente o regime do Código Civil.
+
+III - Com estes pressupostos, é legal a aplicação do regime consagrado no artº.327, nº.1, do C.Civil (normativo aplicável "ex vi" do artº.2, al.d), da L.G.T.), face ao acto interruptivo que se consubstancia na citação em processo de execução fiscal, o qual ostenta um efeito duradouro derivado do novo prazo de prescrição não começar a correr enquanto não transitar em julgado a decisão que puser termo ao processo, sendo que no processo de execução fiscal também a declaração em falhas, prevista no artº.272, do C.P.P.T., se deve equiparar à dita decisão que põe termo ao processo.
+
+IV - O que pode e deve ser objecto de fiscalização concreta da constitucionalidade, por parte dos Tribunais, são normas e não quaisquer decisões, sejam elas de natureza judicial ou administrativa, nem tão pouco eventuais interpretações que de tais normas possam ser efectuadas por aquelas decisões (cfr. artºs.204 e 280, nº.1, da C.R.Portuguesa).
+
+V - Ao princípio da legalidade a universalidade da doutrina assinala dois corolários: o princípio da preeminência de lei e o princípio da reserva de lei parlamentar (cfr.artº.8, da L.G.T.).
+
+VI - O princípio constitucional da segurança jurídica e da protecção da confiança, expresso na não violação de direitos adquiridos ou frustração de expectativas legítimas, sem fundamento bastante, deve ser apreciado, em sede de tutela constitucional, enquanto emanação do princípio do Estado de Direito democrático (cfr.artºs.2 e 9, al.b), da C.R.Portuguesa). Como postulados deste princípio vemos surgir as noções de fiabilidade, de clareza, de racionalidade e de transparência face a todos os actos de poder, legislativo, executivo ou judicial. Em relação a eles o cidadão/ente colectivo deve ver garantida a segurança nas suas disposições pessoais e dos efeitos jurídicos dos seus próprios actos. Enquanto refracção deste princípio e em sede de actos normativos, vemos surgir a proibição de normas retroactivas e restritivas de direitos ou interesses juridicamente protegidos, com especial incidência no âmbito das leis fiscais (cfr.artº.103, nº.3, da C.R.Portuguesa).
+
+(sumário da exclusiva responsabilidade do relator)
