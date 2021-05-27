@@ -1,0 +1,204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13625",
+  "numero": "255",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-05-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-06-23",
+            "entidades": null,
+            "id": "127170",
+            "tipo": null,
+            "titulo": "Audição em 2021-06-23 com Fogo Preso - Movimento de Apoio à Sobrevivência da Pirotecnia Portuguesa"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-11-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915102",
+                "obs": null,
+                "pag": [
+                  "12-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-05",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/03/011/2021-11-05/12?pgs=12-49&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-06-16",
+        "DataArquivo": "2021-11-03",
+        "DataBaixaComissao": "2021-06-08",
+        "DataEnvioPAR": "2021-11-03",
+        "DataReaberta": "2021-06-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-06-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a59345a57526d5a6a46694c574d784e6a6b744e47566b4f533168595451784c5755334e7a51775a474e6c4f5445344e4335775a47593d&fich=68edff1b-c169-4ed9-aa41-e7740dce9184.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-06-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c32497a4e4751334e57566c4c5759794f5441744e4755344e6930344e7a526b4c5755324d5467354e446c6b4d7a686b596935775a47593d&fich=b34d75ee-f290-4e86-874d-e618949d38db.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a5930597a526a4e7a637a4c574d324f5455744e4467324e5331694d7a5a694c5463784d5463794f546b774d6d4930596935775a47593d&fich=64c4c773-c695-4865-b36b-711729902b4b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c3255784d6a41774f444a6d4c574d335a4449744e44497a597930355a574d784c54646b4e3255795932526d5a446b354e7935775a47593d&fich=e120082f-c7d2-423c-9ec1-7d7e2cdfd997.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-11-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c3245305957526a5a544d784c5463784f4749744e4464684d7931694d546c6b4c544e6c4e475a6c4e7a63314e6d5533595335775a47593d&fich=a4adce31-718b-47a3-b19d-3e4fe7756e7a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-09-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c32526d5a5455775932566d4c575979597a6b744e4445324e4331684d444a6d4c54426a4d57466d597a55795a546b7a4d4335775a47593d&fich=dfe50cef-f2c9-4164-a02f-0c1afc52e930.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-10-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c32557a4f444577597a59314c544e684d546b744e4445784f5331684e6a63314c5467775a44686a595745785a574d78597935775a47593d&fich=e3810c65-3a19-4119-a675-80d8caa1ec1c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7484",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Cultura e Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2021-06-16",
+            "gp": "PS",
+            "id": "6980",
+            "motivoCessacao": null,
+            "nome": "Maria da Graça Reis"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-06-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3249314d6d45344e544a684c54686b4e3249744e44417a5a6931694d5467794c5745334e7a51304e7a526a5a446b324d6935775a47593d&fich=b52a852a-8d7b-403f-b182-a774474cd962.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152116",
+      "152113"
+    ],
+    "Iniciativasoriginadas": [
+      "152116",
+      "152113"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13625",
+    "PetAssunto": "Fogo Preso - Movimento de Apoio à Sobrevivência da Pirotecnia Portuguesa",
+    "PetDataEntrada": "2021-05-27",
+    "PeticoesAssociadas": null,
+    "PetId": "13625",
+    "PetLeg": "XIV",
+    "PetNr": "255",
+    "PetNrAssinaturas": "10667",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915087",
+        "obs": null,
+        "pag": [
+          "18-19"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-18",
+        "pubLeg": "XIV",
+        "pubNr": "51",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/051/2021-06-18/18?pgs=18-19&org=PLC"
+      }
+    ]
+  }
+}
