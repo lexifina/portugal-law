@@ -1,0 +1,178 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "776",
+    "id": "110627",
+    "titulo": "Estabelece as condições de proibição de acampamento e aparcamento de veículo (alteração do artigo 50.º-A do Código da Estrada, aprovado pelo Decreto-Lei 114/94, de 3 de maio e republicado, em anexo à Lei 72/2013, de 3 de setembro)"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2021-05-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "61126",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2021-07-14",
+            "id": "127253",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-05-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-07-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - ACAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314f544e6b4d6a6c6c4f43307a5a6a55784c5451784f4745744f4455344e5330314e54553359546332596a64684d3255756347526d&fich=593d29e8-3f51-418a-8585-5557a76b7a3e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-29",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ACP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e44566b5a5749355a533031596a4d774c5451325a474d744f4445774e69316a595441344e5759785a445a68597a55756347526d&fich=a45deb9e-5b30-46dc-8106-ca085f1d6ac5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - AHRESP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a47526d4f54466b4e4330335957557a4c5451334d5459744f574e6c4e793032596a4d314e32466b597a41334d5751756347526d&fich=3ddf91d4-7ae3-4716-9ce7-6b357adc071d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANSR",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d574a6b5a4752685a4330345a5755304c5451775a5745744f574d324d53316d4e6a6b345a444935596d51784d446b756347526d&fich=51bdddad-8ee4-40ea-9c61-f698d29bd109.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - APA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d6a52684d57597a4d79316a4d54646c4c5451795a446774596d5131597930305a5449304d7a5a694d3255774d5449756347526d&fich=c24a1f33-c17e-42d8-bd5c-4e2436b3e012.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Associação Arriba",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344e6d51324e4463344e79316a4f4751334c5451774f44417459544a6a4d5330324e6d59794e7a55335a6a68694d6a45756347526d&fich=86d64787-c8d7-4080-a2c1-66f2757f8b21.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Associação Rota Vicentina",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d6a5a68597a59775953316b5a444a684c545269597a45744f57593359793034593251345a546b325932466c597a59756347526d&fich=226ac60a-dd2a-4bc1-9f7c-8cd8e96caec6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - FCMP e APCAA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e4463344d7a67334d533034596a6b344c54517a4d3245745954686c5a43316b4e7a646a5954686c5932517a4d6a59756347526d&fich=f4783871-8b98-433a-a8ed-d77ca8ecd326.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-06-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - FPA e CPA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833595455354e4449794d7930304d6a49304c54526b596a59744f474a6b4e6930344e324a6c597a677959544e694f5449756347526d&fich=7a594223-4224-4db6-8bd6-87bec82a3b92.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Secretária de Estado do Turismo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794d7a6b334f44637a4e69316c4d5749794c5451784e444574596d59794e69316a5a5463354f47566d4e3255324e7a59756347526d&fich=23978736-e1b2-4141-bf26-ce798ef7e676.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-21",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d44686d4d324d314d53307a5a445a6a4c54517a4f5745744f446334595330785a4445354e546b315a6a49785a6a49756347526d&fich=a08f3c51-3d6c-439a-878a-1d19595f21f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-21",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e574d325954426b4f4330335a4759354c54526b5a4445744f5468694d79307a596d4d7a4e4451334e5445305a4751756347526d&fich=f5c6a0d8-7df9-4dd1-98b3-3bc3447514dd.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7364",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "Numero": "7364",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-05-28",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1255732",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929297",
+        "obs": "Relatório da discussão e votação na generalidade e especialidade, tendo em anexo as propostas de alteração apresentadas pelo PAN, PSD, PS e PCP e texto de substituição da comissão",
+        "pag": [
+          "114-134"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-07-21",
+        "pubLeg": "XIV",
+        "pubNr": "172",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/172/2021-07-21/114?pgs=114-134&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
