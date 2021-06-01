@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Estrutura orgânica da SDEA, EPER
-
 ## Secção I
 
 ## Conselho Estratégico
