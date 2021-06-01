@@ -1,0 +1,512 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "649",
+    "id": "45654",
+    "titulo": "Reconhece e regulamenta o estatuto profissional da animação sociocultural"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-06-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17161",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-06-01",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "120867",
+        "leg": "XIV",
+        "nr": "1308",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6084",
+            "obs": null,
+            "pag": [
+              "49-57"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-06-02",
+            "pubLeg": "XIV",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/49?pgs=49-57&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6084",
+            "obs": null,
+            "pag": [
+              "49-57"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-06-02",
+            "pubLeg": "XIV",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/49?pgs=49-57&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo o reconhecimento e a regulamentação da profissão de Animador Sociocultural"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-06-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=54"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50",
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/49?pgs=49-50,56-57&org=PLC"
+              }
+            ],
+            "sumario": "Reconhece e regulamenta o estatuto profissional da animação sociocultural; Recomenda ao Governo o reconhecimento e a regulamentação da profissão de animador sociocultural",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=55"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51",
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/50?pgs=50-51,55-56&org=PLC"
+              }
+            ],
+            "sumario": "Reconhece e regulamenta o estatuto profissional da animação sociocultural; Recomenda ao Governo o reconhecimento e a regulamentação da profissão de animador sociocultural",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4429",
+                "nome": "Pedro Morais Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Reconhece e regulamenta o estatuto profissional da animação sociocultural; Recomenda ao Governo o reconhecimento e a regulamentação da profissão de animador sociocultural",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6549",
+                "nome": "Bebiana Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Reconhece e regulamenta o estatuto profissional da animação sociocultural; Recomenda ao Governo o reconhecimento e a regulamentação da profissão de animador sociocultural",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7018",
+                "nome": "Mara Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Reconhece e regulamenta o estatuto profissional da animação sociocultural; Recomenda ao Governo o reconhecimento e a regulamentação da profissão de animador sociocultural",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6885",
+                "nome": "Ofélia Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Reconhece e regulamenta o estatuto profissional da animação sociocultural; Recomenda ao Governo o reconhecimento e a regulamentação da profissão de animador sociocultural",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:33",
+            "horaTermo": "18:59",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_01_14_30_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-02",
+                "pubLeg": "XIV",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Reconhece e regulamenta o estatuto profissional da animação sociocultural; Recomenda ao Governo o reconhecimento e a regulamentação da profissão de animador sociocultural",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1255883",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIV",
+        "nr": "110",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Estatuto profissional da carreira de animador sociocultural"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929073",
+        "obs": null,
+        "pag": [
+          "49-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-02",
+        "pubLeg": "XIV",
+        "pubNr": "73",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/073/2021-06-02/49?pgs=49-57&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
