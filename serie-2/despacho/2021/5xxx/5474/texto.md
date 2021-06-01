@@ -1,0 +1,18 @@
+Despacho n.º 5474/2021
+Sumário: Estabelece orientações para a Fundação para a Ciência e a Tecnologia, I. P., aprovar um regulamento de atribuição de bolsas de investigação excecionais.
+A crise pandémica criada pela doença COVID-19 gerou impactos em múltiplas dimensões da nossa vida enquanto sociedade. Tendo em consideração os impactos que a suspensão de atividades presenciais em instituições de ensino superior e científicas, bem como os demais constrangimentos ocorridos durante o período de estado de emergência, provocou nas atividades de investigação que se encontravam em curso, foram em devido tempo aprovadas medidas para salvaguardar os direitos dos bolseiros de investigação, nomeadamente:
+a) Prorrogação por dois meses do prazo máximo de todas as bolsas de investigação em execução em 2020, deliberada pelo Conselho Diretivo da FCT em março e abril de 2020 e reiterada em comunicação remetida aos bolseiros de investigação que solicitaram declaração para efeitos de renovação de bolsa;
+b) Prorrogação das bolsas de investigação cujo término previsto tenha ocorrido durante o primeiro trimestre de 2021.
+Deste modo, foi possível garantir que a generalidade dos bolseiros de investigação não foi prejudicada pelos constrangimentos gerados pelo período excecional vivido desde março de 2020.
+Porém, admite-se que possam existir situações particulares em que as prorrogações já decididas não são suficientes para suprir os impactos provocados pela crise pandémica e que não é possível concluir os planos de trabalhos dentro dos prazos adicionais que foram fixados. Desse modo, importa criar um mecanismo transitório e excecional que permita garantir a continuidade do apoio às atividades de investigação nessas situações, quando justificado.
+Dados os prazos fixados no Estatuto do Bolseiro de Investigação para a atribuição das bolsas, e por uma questão de igualdade entre todos os bolseiros que foram afetados durante a pandemia, este processo deve ser especialmente ponderado e conduzido por critérios que permitam fazer uma análise casuística, mas justa face a situações comparáveis.
+Neste contexto, determino o seguinte:
+1 - Até ao dia 15 de junho de 2021, a FCT - Fundação para a Ciência e a Tecnologia, I. P., deve aprovar um regulamento de atribuição de bolsas excecionais de mitigação de impactos da COVID-19 nas atividades de investigação.
+2 - O regulamento deve prever:
+a) A atribuição de uma bolsa excecional, de igual montante à bolsa em execução, de duração variável, aos bolseiros de investigação financiados diretamente pela FCT cujos planos de trabalhos tenham sido gravemente e comprovadamente prejudicados pela suspensão das atividades presenciais e outras limitações inerentes à crise pandémica;
+b) A análise dos requerimentos por parte de uma comissão, constituída por um representante da FCT, um representante da Associação de Bolseiros de Investigação Científica e um representante do Conselho dos Laboratórios Associados;
+c) A atribuição à comissão das competências de i) definir os termos de referência para avaliar o grave prejuízo provocado nas atividades de investigação, ii) emitir parecer sobre a fundamentação dos requerimentos apresentados e iii), em caso de parecer favorável, apresentar proposta de duração da bolsa a atribuir;
+d) A abertura de um período de apresentação de requerimentos de 10 úteis após aprovação do regulamento.
+3 - A FCT deve avaliar os termos em que os mesmos objetivos que norteiam o presente despacho possam ser prosseguidos nas situações de bolsas indiretamente financiadas por esta.
+25 de maio de 2021. - O Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor.
+314271799
