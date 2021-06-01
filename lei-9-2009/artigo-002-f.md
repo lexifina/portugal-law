@@ -22,4 +22,4 @@ c) A atividade profissional poder ser objetivamente separada das outras atividad
 
 7 - Os profissionais que beneficiem de um acesso parcial devem fazer-lhe menção, no âmbito das suas atividades profissionais, em todos os contratos, correspondência, publicações, publicidade e, de um modo geral, em toda a atividade externa em território nacional, bem como informar os beneficiários do serviço e prestar-lhes, em tempo útil, todas as informações que sejam solicitadas.
 
-8 - O presente artigo não se aplica aos profissionais que beneficiem do reconhecimento automático das suas qualificações profissionais, nos termos das secções ii, iii e iii-A do capítulo iii.
+8 - O presente artigo não se aplica aos profissionais que beneficiem do reconhecimento automático das suas qualificações profissionais, nos termos das secções ii, iii e iv do capítulo iii.

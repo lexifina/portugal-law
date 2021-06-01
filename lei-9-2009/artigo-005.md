@@ -28,9 +28,9 @@ c) As diferenças apresentadas sejam justificadas por razões imperiosas de inte
 
 d) A autoridade competente não disponha de outros meios para obter estas informações.
 
-4 - Fora dos casos previstos no artigo seguinte, a mera apresentação da declaração permite o acesso e exercício da profissão em todo o território nacional, independentemente de ser apresentada perante autoridade nacional, regional ou local, e tem validade indeterminada no tempo, exceto no caso de profissão do setor da segurança referida na alínea e) do número anterior, em que deve ser renovada anualmente para prestações de serviços posteriores.
+4 - Fora dos casos previstos no artigo seguinte, a mera apresentação da declaração permite o acesso e exercício da profissão em todo o território nacional, independentemente de ser apresentada perante autoridade nacional, regional ou local, e tem validade indeterminada no tempo, exceto no caso de profissão do sector da segurança referida na alínea d) do n.º 1, em que deve ser renovada anualmente para prestações de serviços posteriores.
 
-5 - Nos termos dos n.os 2 e 3 do artigo 51.º, a autoridade competente deve solicitar à autoridade competente do Estado membro de origem certificado que ateste que o prestador de serviços se encontra legalmente estabelecido nesse Estado membro para efeitos do exercício da profissão em questão e que não está, no momento da emissão do certificado, impedido, ainda que temporariamente, de a exercer, nomeadamente através do Sistema de Informação do Mercado Interno (IMI).
+5 - Nos termos do n.º 2 do artigo 51.º, a autoridade competente deve solicitar à autoridade competente do Estado-Membro de origem certificado que ateste que o prestador de serviços se encontra legalmente estabelecido nesse Estado-Membro para efeitos do exercício da profissão em questão e que não está, no momento da emissão do certificado, impedido, ainda que temporariamente, de a exercer, nomeadamente através do Sistema de Informação do Mercado Interno (IMI).
 
 6 - O membro do Governo responsável pela área do emprego aprova, mediante portaria, o modelo de declaração prévia a que se refere o n.º 1, o qual deve estar disponível nos centros de assistência e no balcão único eletrónico dos serviços em português, castelhano e inglês.
 

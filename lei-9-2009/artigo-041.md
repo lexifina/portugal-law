@@ -16,7 +16,9 @@ b) No decurso ou no termo da formação teórica e prática, 180 dias de estági
 
 3 - (Revogado.)
 
-4 - A formação de farmacêutico garante que o requerente adquiriu, com o nível adequado, os conhecimentos e as competências seguintes:
+4 - A formação a que se refere o n.º 2 compreende, pelo menos, o programa constante do n.º 6.1 do anexo ii.
+
+5 - A formação de farmacêutico garante que o requerente adquiriu, com o nível adequado, os conhecimentos e as competências seguintes:
 
 a) Conhecimento dos medicamentos e das substâncias utilizadas no respectivo fabrico;
 

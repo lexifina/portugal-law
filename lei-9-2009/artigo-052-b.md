@@ -24,6 +24,6 @@ g) Meios eletrónicos de pagamento disponíveis através da Plataforma de Pagame
 
 4 - As informações referidas no n.º 1 devem ser prestadas de forma clara e exaustiva aos utilizadores, ser de fácil acesso de modo remoto e por via eletrónica, e manter-se atualizadas.
 
-5 - As autoridades competentes devem responder, no prazo de 10 dias, aos pedidos de informações solicitados pelos utilizadores do balcão único eletrónico.
+5 - As autoridades competentes devem responder, no prazo de duas semanas, aos pedidos de informação solicitados pelos utilizadores do balcão único eletrónico.
 
-6 - Para efeitos do disposto no n.º 1 é utilizado o «Portal do Cidadão».
+6 - Para efeitos do disposto no n.º 1, é utilizado o 'Portal ePortugal'.

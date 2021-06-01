@@ -22,11 +22,11 @@ f) Se o exercício da profissão depender da verificação da capacidade finance
 
 g) No caso do reconhecimento com base na coordenação das condições mínimas de formação, a autoridade competente pode solicitar ao requerente que, além do título de formação, apresente certificado da autoridade competente do Estado membro de origem confirmativo de que o título corresponde ao disposto na secção iii do presente capítulo.
 
-2 - Os documentos referidos nas alíneas d) a f) do número anterior devem, no momento da sua apresentação, ter sido emitidos há não mais de 90 dias.
+2 - Os documentos referidos nas alíneas d) a f) do número anterior devem, no momento da sua apresentação, ter sido emitidos, no máximo, há três meses.
 
-3 - A autoridade competente comunica ao requerente a recepção do requerimento e, sendo caso disso, solicita documentos em falta, no prazo de 30 dias.
+3 - A autoridade competente comunica ao requerente a receção do requerimento e, sendo caso disso, solicita documentos em falta, no prazo de um mês.
 
-4 - O pedido de autorização para o exercício de uma profissão regulamentada deve ser decidido no prazo de 90 dias, prorrogável por mais 30 dias nos casos abrangidos pelas secções i e ii do presente capítulo.
+4 - O pedido de autorização para o exercício de uma profissão regulamentada deve ser decidido no prazo de três meses, prorrogável por mais um mês nos casos abrangidos pelas secções i e ii do presente capítulo.
 
 5 - A decisão ou falta de decisão no prazo previsto é susceptível de recurso judicial de direito interno.
 

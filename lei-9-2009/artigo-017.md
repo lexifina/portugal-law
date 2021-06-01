@@ -26,6 +26,6 @@
 
 8 - Para serem reconhecidos nos termos do n.º 1, os títulos de formação de arquitecto referidos no ponto 7 do anexo ii dizem respeito a formação não iniciada antes do ano académico de referência indicado no mesmo anexo.
 
-9 - O exercício das profissões de médico, enfermeiro responsável por cuidados gerais, dentista, parteira, farmacêutico e médico veterinário depende de título de formação referido, respetivamente, nos pontos 1.1, 1.2, 1.4, 2.2, 3.2, 3.3, 4.2, 5.2 e 6.2 do anexo ii, que comprove que o requerente adquiriu os conhecimentos, as aptidões e as competências indicadas, consoante os casos, no n.º 4 do artigo 21.º, nos n.os 8 e 9 do artigo 28.º, no n.º 4 do artigo 31.º, no n.º 4 do artigo 35.º, no n.º 5 do artigo 37.º e no n.º 4 do artigo 41.º
+9 - O exercício das profissões de médico, enfermeiro responsável por cuidados gerais, médico dentista, parteira, farmacêutico e médico veterinário depende de título de formação referido, respetivamente, nos n.os 1.1, 1.2, 1.4, 2.2, 3.2, 3.3, 4.2, 5.2 e 6.2 do anexo ii, que comprove que o requerente adquiriu os conhecimentos, as aptidões e as competências indicadas, consoante os casos, no n.º 4 do artigo 21.º, nos n.os 8 e 9 do artigo 28.º, no n.º 4 do artigo 31.º, no n.º 4 do artigo 35.º, no n.º 5 do artigo 37.º e no n.º 5 do artigo 41.º
 
 10 - (Revogado.)

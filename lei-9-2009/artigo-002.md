@@ -2,7 +2,7 @@
 
 ### Definições
 
-Para efeitos da presente lei, entende-se por:
+1- Para efeitos da presente lei, entende-se por:
 
 a) «Aprendizagem ao longo da vida» qualquer forma de educação geral, de ensino e formação profissionais, de aprendizagem não formal e informal seguida ao longo da vida, que permita melhorar os conhecimentos, aptidões e competências, incluindo a deontologia profissional;
 
@@ -16,7 +16,7 @@ e) «Dirigente de empresa» a pessoa que exerça ou tenha exercido, em empresa d
 
 i) Dirigente de empresa ou de sucursal;
 
-ii) Substituto do dirigente de empresa, se esta função implicar uma responsabilidade equivalente à do dirigente;
+ii) Adjunto do empresário ou do dirigente de empresa, se esta função implicar uma responsabilidade equivalente à do empresário ou do dirigente representado;
 
 iii) Quadro superior com funções comerciais ou técnicas, responsável por um ou mais departamentos da empresa;
 
@@ -53,3 +53,9 @@ t) «Teste de formação comum» prova de aptidão normalizada, disponível em t
 u) «Título de formação» o diploma, certificado ou outro título emitido por uma autoridade competente de um Estado membro, que ateste formação profissional preponderantemente adquirida no âmbito da União Europeia e também qualquer título de formação emitido fora deste âmbito, desde que o seu titular tenha, na profissão, uma experiência profissional devidamente certificada de, pelo menos, três anos no território do Estado membro que inicialmente reconheceu o título;
 
 v) «Trabalhador independente» o profissional liberal ou outra pessoa que exerça a sua actividade profissional por conta própria, não estando vinculada a qualquer entidade por um contrato de trabalho.
+
+2 - É igualmente considerada profissão regulamentada, quando não for aplicável a definição constante da alínea m) do número anterior, a exercida pelos membros das associações ou organizações a que se refere o anexo iv da presente lei, da qual faz parte integrante.
+
+3 - Para efeitos de inclusão na lista a que se refere o anexo iv, as autoridades competentes podem conceder o reconhecimento a associações ou organizações que tenham como objetivo fomentar e manter um nível elevado numa área profissional, concedendo títulos aos seus membros, submetendo-os a normas de conduta profissional por elas estabelecidas e conferindo-lhes o direito ao uso de um título ou designação abreviados, ou ao benefício de um estatuto correspondente ao título de formação.
+
+4 - Sempre que uma autoridade competente conceda o reconhecimento previsto no número anterior, deve informar a Comissão Europeia desse facto.

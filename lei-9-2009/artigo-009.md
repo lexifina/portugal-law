@@ -2,7 +2,7 @@
 
 ### Níveis de qualificações profissionais e títulos comprovativos
 
-1 - Para efeitos de reconhecimento nos termos da presente secção, em especial do disposto no artigo 10.º e no n.º 5 do artigo 11.º, as qualificações profissionais e os títulos que as comprovam são agrupados segundo os seguintes níveis:
+1 - Para efeitos de reconhecimento nos termos da presente secção, em especial do disposto no artigo 10.º e no n.º 6 do artigo 11.º, as qualificações profissionais e os títulos que as comprovam são agrupados segundo os seguintes níveis:
 
 a) Declaração de competência ou certificado emitido pela autoridade do Estado membro de origem para tal competente, tendo em consideração, em alternativa:
 
