@@ -1,0 +1,399 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "38",
+    "id": "45588",
+    "titulo": "Decreto-Lei n.º 102-D/2020, de 10 de dezembro - «Aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as Diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852»"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2021-06-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17368",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2021-06-02",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "45548",
+        "leg": "XIV",
+        "nr": "36",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6061",
+            "obs": null,
+            "pag": [
+              "43-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-06-03",
+            "pubLeg": "XIV",
+            "pubNr": "74",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/074/2021-06-03/43?pgs=43-46&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6066",
+            "obs": null,
+            "pag": [
+              "34-34"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-06-11",
+            "pubLeg": "XIV",
+            "pubNr": "76",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/076/2021-06-11/34?pgs=34&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "A",
+        "titulo": "Decreto-lei n.º 102-D/2020, de 10 de dezembro, que aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-06-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3928",
+                "nome": "Nelson Peralta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_02_15_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-03",
+                "pubLeg": "XIV",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/074/2021-06-03/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei n.º 102-D/2020, de 10 de dezembro, que aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852\t",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "6933",
+                "nome": "Mariana Silva"
+              },
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-11",
+                "pubLeg": "XIV",
+                "pubNr": "76",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/076/2021-06-11/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei n.º 102-D/2020, de 10 de dezembro, que aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4304",
+                "nome": "Bruno Coimbra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_02_15_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-03",
+                "pubLeg": "XIV",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/074/2021-06-03/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei n.º 102-D/2020, de 10 de dezembro, que aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852\t",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_02_15_00_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-03",
+                "pubLeg": "XIV",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/074/2021-06-03/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei n.º 102-D/2020, de 10 de dezembro, que aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852\t",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6785",
+                "nome": "João Miguel Nicolau"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_02_15_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-03",
+                "pubLeg": "XIV",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/074/2021-06-03/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei n.º 102-D/2020, de 10 de dezembro, que aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852\t",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1256010",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "928335",
+        "obs": null,
+        "pag": [
+          "42-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-03",
+        "pubLeg": "XIV",
+        "pubNr": "74",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/074/2021-06-03/42?pgs=42&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-06-02",
+        "descricao": "Texto Final apresentado pela Comissão de Ambiente, Energia e Ordenamento do Território relativo às Apreciações Parlamentares n.ºs 36/XIV/2.ª (PSD) e 38/XIV/2.ª (BE)",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> CH</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> IL</I>",
+        "id": "91112",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "74",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
