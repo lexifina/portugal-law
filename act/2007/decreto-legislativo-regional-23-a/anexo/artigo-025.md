@@ -14,7 +14,7 @@ i) Data de início da actividade;
 
 ii) Todas as ocorrências que impliquem alterações aos elementos constantes do processo de licenciamento;
 
-iii) Documentos comprovativos das alterações e renovações do contrato de seguro de responsabilidade civil;
+iii) Documentos comprovativos das alterações do contrato de seguro de responsabilidade civil;
 
 b) À direcção regional com competências na área das pescas, até ao final de cada semestre do ano civil: quantidades e peso das espécies marinhas capturadas por cada embarcação utilizada;
 

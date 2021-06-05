@@ -2,7 +2,7 @@
 
 ### Modelo de licenças
 
-1 - A licença é o documento que permite o exercício da actividade e que identifica o operador, dela devendo constar a modalidade de exercício, a zona onde a actividade vai ser exercida, o número da apólice do seguro efectuado e a identificação dos cais ou locais de embarque e das embarcações a utilizar e, se for o caso, a indicação das espécies alvo a capturar.
+1 - A licença é o documento que permite o exercício da atividade e que identifica o operador, dela devendo constar a modalidade de exercício, a zona onde a atividade será exercida e a identificação dos cais ou locais de embarque e das embarcações a utilizar e, se for o caso, a indicação das espécies alvo a capturar.
 
 2 - As alterações que ocorrerem relativamente aos elementos constantes da licença devem nela ser averbadas pela entidade licenciadora, mediante a apresentação pelo operador dos respectivos elementos justificativos, designadamente o referido na alínea c) do n.º 2 do artigo 9.º, no caso de se tratar de averbamentos de novas embarcações.
 
