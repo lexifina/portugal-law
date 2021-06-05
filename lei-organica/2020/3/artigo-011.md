@@ -2,4 +2,4 @@
 
 ### Direito subsidiário
 
-Em tudo o que não esteja especialmente regulado na presente lei aplicam-se, com as necessárias adaptações, as normas relativas às modalidades de voto antecipado em mobilidade e de voto antecipado por doentes internados e por presos previstas na lei eleitoral ou reguladora do ato referendário aplicável.
+Em tudo o que não esteja especialmente regulado na presente lei aplicam-se, com as necessárias adaptações, as normas relativas às modalidades de voto antecipado por doentes internados e por presos previstas na Lei Eleitoral.

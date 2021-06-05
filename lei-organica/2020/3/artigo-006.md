@@ -6,8 +6,10 @@
 
 2 - O presidente de câmara municipal pode fazer-se substituir, para o efeito das diligências previstas no número anterior, por qualquer vereador do município ou funcionário municipal devidamente credenciado.
 
-3 - Em função do número de eleitores inscritos podem ser constituídas várias equipas para a entrega e recolha dos boletins de voto antecipado.
+3 - Para efeitos dos números anteriores, na eleição dos órgãos das autarquias locais, o presidente da câmara ou os vereadores em sua substituição são sempre substituídos por funcionários municipais, sem prejuízo do disposto no n.º 6.
 
-4 - As operações de votação devem respeitar todas as recomendações fixadas para o efeito pela DGS, em articulação com os serviços da administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, podendo fazer-se representar as autoridades de saúde.
+4 - Em função do número de eleitores inscritos podem ser constituídas várias equipas para a entrega e recolha dos boletins de voto antecipado, nesta modalidade, nos termos da presente lei.
 
-5 - Em casos excecionais decorrentes de impedimento de exercício de funções devido a confinamento dos próprios funcionários, pode recorrer-se ao mapa de pessoal de outra autarquia ou de serviços da administração central do Estado para constituição das equipas, após articulação entre a Secretaria-Geral do Ministério da Administração Interna, as autarquias e os serviços envolvidos.
+5 - As operações de votação devem respeitar todas as recomendações fixadas para o efeito pela DGS, no continente, e pelos serviços regionais de saúde, nas regiões autónomas, podendo fazer-se representar as autoridades de saúde.
+
+6 - Em casos excecionais decorrentes de impedimento de exercício de funções devido a confinamento dos próprios funcionários, pode recorrer-se ao mapa de pessoal de outra autarquia ou de serviços da administração central do Estado para constituição das equipas, após articulação entre a Secretaria-Geral do Ministério da Administração Interna, as autarquias e os serviços envolvidos.

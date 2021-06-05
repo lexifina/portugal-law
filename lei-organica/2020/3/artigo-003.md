@@ -1,11 +1,15 @@
 # Artigo 3.º
 
-### Voto antecipado para eleitores sujeitos a confinamento obrigatório
+### Voto antecipado para eleitores sujeitos a confinamento obrigatório e eleitores internados em estruturas residenciais
 
-1 - Os eleitores que, por força da pandemia da doença COVID-19, estejam em confinamento obrigatório, no respetivo domicílio ou noutro local definido ou autorizado pelas autoridades de saúde que não em estabelecimento hospitalar, podem votar antecipadamente, nos termos da presente lei, desde que se encontrem recenseados no concelho da morada do local de confinamento ou em concelho limítrofe.
+1 - Podem votar antecipadamente, nos termos da presente lei, desde que se encontrem recenseados no concelho da morada do local de confinamento ou da morada da instituição, os eleitores que:
 
-2 - Para o exercício desta modalidade de voto antecipado:
+a) Por força da pandemia da doença COVID-19, estão sujeitos a confinamento obrigatório, no respetivo domicílio ou noutro local definido ou autorizado pelas autoridades de saúde, que não em estabelecimento hospitalar;
 
-a) A medida de confinamento obrigatório deve ter sido decretada pelas autoridades competentes do Serviço Nacional de Saúde, até ao décimo dia anterior ao sufrágio e por um período que inviabilize a deslocação à assembleia de voto; e
+b) Residem em estruturas residenciais e instituições similares, que não em estabelecimento hospitalar, e não se devam ausentar das mesmas em virtude da pandemia da doença COVID-19.
 
-b) O domicílio registado no sistema de registo dos doentes com COVID-19 gerido pela Direção-Geral da Saúde (DGS) deve situar-se na área geográfica do concelho onde o eleitor se encontra inscrito no recenseamento eleitoral ou em concelho limítrofe.
+2 - No caso dos eleitores sujeitos a confinamento obrigatório, para o exercício desta modalidade de voto antecipado:
+
+a) A medida deve ter sido decretada pelas autoridades competentes do Serviço Nacional de Saúde, no continente, ou dos serviços regionais de saúde, nas regiões autónomas, até ao oitavo dia anterior ao do sufrágio e por um período que inviabilize a deslocação à assembleia de voto;
+
+b) O domicílio registado no sistema de registo dos doentes com COVID-19 gerido pela Direção-Geral da Saúde (DGS), no continente, ou pelas direções regionais de saúde (DRS), nas regiões autónomas, tem de situar-se na área geográfica do concelho onde o eleitor se encontra inscrito no recenseamento eleitoral.
