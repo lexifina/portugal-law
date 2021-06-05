@@ -1,9 +1,5 @@
 # Artigo 113.º
 
-### Votos antecipados
+### Votação dos elementos da mesa e dos delegados
 
-1 - Após terem votado os elementos da mesa, o presidente procede à abertura e lançamento na urna dos votos antecipados, quando existam.
-
-2 - Para o efeito do disposto no número anterior, a mesa verifica se o eleitor se encontra devidamente inscrito e procede à correspondente descarga no caderno de recenseamento, mediante rubrica na coluna a isso destinada e na linha correspondente ao nome do eleitor.
-
-3 - Feita a descarga, o presidente abre o sobrescrito azul referido no artigo 118.º e retira dele o sobrescrito branco, também ali mencionado, que introduz na urna, contendo o boletim de voto.
+Não havendo nenhuma irregularidade, votam imediatamente o presidente e restantes membros da mesa, bem como os delegados dos partidos, desde que se encontrem inscritos no caderno de recenseamento da assembleia de voto.

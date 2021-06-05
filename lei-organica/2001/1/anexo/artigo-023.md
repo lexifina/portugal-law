@@ -18,15 +18,15 @@ a) A denominação não pode conter mais de seis palavras, nem integrar as denom
 
 b) A denominação dos grupos de cidadãos eleitores não pode basear-se exclusivamente em nome de pessoa singular;
 
-c) A denominação dos grupos de cidadãos eleitores apenas pode integrar um nome de pessoa singular se este for o do primeiro candidato ao respetivo órgão, salvo no caso dos grupos de cidadãos eleitores simultaneamente candidatos aos órgãos câmara municipal e assembleia municipal, conforme previsto no n.º 5 do artigo 19.º;
+c) A denominação dos grupos de cidadãos eleitores apenas pode integrar um nome de pessoa singular se este for o do primeiro candidato ao respetivo órgão, salvo no caso dos grupos de cidadãos eleitores simultaneamente candidatos à câmara municipal e à assembleia municipal, referidos no n.º 4 do artigo 19.º, em que a denominação pode ser comum àqueles dois órgãos;
 
 d) O símbolo não pode confundir-se ou ter relação gráfica ou fonética com símbolos institucionais, heráldica ou emblemas nacionais ou locais, com símbolos de partidos políticos ou coligações com existência legal ou de outros grupos de cidadãos eleitores, nem com imagens ou símbolos religiosos;
 
-e) Os símbolos e as siglas de diferentes grupos de cidadãos eleitores candidatos na área geográfica do mesmo concelho devem ser distintos;
-
-f) É vedada a utilização das palavras «partido» e «coligação» na denominação dos grupos de cidadãos eleitores.e) Os símbolos e as siglas de diferentes grupos de cidadãos eleitores candidatos na área geográfica do mesmo concelho devem ser distintos;
+e) Os símbolos e as siglas de diferentes grupos de cidadãos eleitores candidatos na área geográfica do mesmo concelho devem ser distintos, salvo nos casos do n.º 5 do artigo 19.º;
 
 f) É vedada a utilização das palavras «partido» e «coligação» na denominação dos grupos de cidadãos eleitores.
+
+g) É admissível que os grupos de cidadãos eleitores possam ter denominações semelhantes que não respeitem a nome de pessoa singular, desde que não constem do boletim de voto do mesmo órgão a eleger.
 
 5 - Cada lista é instruída com os seguintes documentos:
 
@@ -40,7 +40,7 @@ c) Certidão de inscrição no recenseamento eleitoral de cada um dos candidatos
 
 7 - A prova da capacidade eleitoral activa pode ser feita globalmente, para cada lista de candidatos e de proponentes, na sequência de solicitação dirigida aos presidentes das comissões recenseadoras.
 
-8 - Na declaração de propositura por grupos de cidadãos eleitores, nos casos em que a presente lei o admitir, os proponentes são ordenados, à exceção do primeiro e sempre que possível, por ordem alfabética.
+8 -(Revogado).
 
 9 - As listas, para além dos candidatos efectivos, devem indicar os candidatos suplentes em número não inferior a um terço, arredondado por excesso.
 

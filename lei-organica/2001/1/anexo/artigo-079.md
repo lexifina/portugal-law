@@ -2,4 +2,4 @@
 
 ### Alvará de nomeação
 
-Até cinco dias antes da eleição, o presidente da câmara municipal lavra alvará de designação dos membros das mesas das assembleias de voto e participa as nomeações às juntas de freguesia respectivas.
+Até ao 12.º dia anterior ao da eleição, o presidente da câmara municipal lavra o alvará de designação dos membros das mesas das assembleias de voto e participa as nomeações às juntas de freguesia respetivas.

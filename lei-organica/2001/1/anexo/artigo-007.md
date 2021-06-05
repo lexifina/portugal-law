@@ -26,4 +26,4 @@ a) A órgãos representativos de autarquias locais territorialmente integradas e
 
 b) A mais de uma assembleia de freguesia integradas no mesmo município;
 
-c) À câmara municipal e à assembleia municipal do mesmo município.
+c) (Revogada).
