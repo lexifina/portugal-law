@@ -2,7 +2,7 @@
 
 ### IRC
 
-1 - Às taxas nacionais do imposto sobre o rendimento das pessoas colectivas, em vigor em cada ano, é aplicada uma redução de 30%.
+1 - Às taxas nacionais do imposto sobre o rendimento das pessoas coletivas, em vigor em cada ano, é aplicada uma redução de 30 %.
 
 2 - A diminuição na taxa nacional aplica-se ao IRC:
 

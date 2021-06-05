@@ -6,7 +6,7 @@
 
 ### IRS
 
-1 - Às taxas nacionais do imposto sobre o rendimento das pessoas singulares, em vigor em cada ano, é aplicada uma redução de 15%.
+1 - Às taxas nacionais do imposto sobre o rendimento das pessoas singulares, em vigor em cada ano, é aplicada uma redução de 30 %.
 
 2 - A diminuição na taxa nacional aplica-se ao IRS:
 
