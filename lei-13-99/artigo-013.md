@@ -14,6 +14,8 @@ c) Inscreve o eleitor no posto correspondente à sede da circunscrição de rece
 
 d) Possibilita a emissão, pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, dos cadernos eleitorais em formato eletrónico e a sua impressão ao nível local pelas comissões recenseadoras e, supletivamente, pelas câmaras municipais.
 
+e) Possibilita a emissão pela Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna de certidão de eleitor eletrónica.
+
 3 - Através do módulo SIGREweb, o SIGRE assegura às comissões recenseadoras:
 
 a) Acesso online à BDRE, para a manutenção com actualidade da informação relevante para a definição da área geográfica dos postos de recenseamento, necessária para o registo automático referido no n.º 2;

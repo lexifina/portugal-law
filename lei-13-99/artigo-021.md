@@ -14,7 +14,7 @@ b) Facultar o acesso dos eleitores aos seus dados, nos termos do disposto no art
 
 c) Proceder à impressão e emissão final dos cadernos de recenseamento e eleitorais, com base nos dados comunicados pela BDRE;
 
-d) Emitir as certidões de eleitor;
+d) Emitir as certidões de eleitor cuja emissão lhes é requerida;
 
 e) Definir as áreas geográficas dos postos de recenseamento, nos termos do artigo 25.º;
 
