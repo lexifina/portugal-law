@@ -8,14 +8,14 @@
 
 3. Deverá ainda constar do processo de candidatura uma declaração do candidato, ilidível a todo o tempo, da qual conste que não está abrangido pelas inelegibilidades fixadas pelo artigo 5.º e de que aceita a candidatura.
 
-4 - Os proponentes deverão fazer prova de inscrição no recenseamento, indicando, também, o número, data e entidade emitente do respectivo bilhete de identidade ou passaporte.
+4 - Os proponentes devem fazer prova de inscrição no recenseamento, indicando, também, o número de identificação civil.
 
-5. Para efeitos do disposto no n.º 1, devem entender-se por mais elementos de identificação os seguintes:
+5 - Para efeitos do disposto no n.º 1, devem entender-se por mais elementos de identificação os seguintes: idade, número de identificação civil, filiação, profissão, naturalidade e residência.
 
-Idade, número, arquivo de identificação e data do bilhete de identidade, filiação, profissão, naturalidade e residência.
-
-6. Para os efeitos dos n.os 2 e 4, a prova de inscrição no recenseamento eleitoral será feita por meio de documento passado pela câmara municipal ou, em Lisboa e Porto, pela administração de bairro, no prazo de cinco dias, a contar da recepção do respectivo requerimento.
+6 - Para os efeitos dos n.os 2 e 4, a prova de inscrição no recenseamento eleitoral é feita por meio de documento passado pela junta de freguesia ou emitida nos termos do n.º 9.
 
 7. O proponente deverá apresentar o requerimento da certidão referida no n.º 6, em duplicado, indicando expressamente o nome do candidato proposto, devendo o duplicado ser arquivado.
 
 8. Em caso de extravio da certidão devidamente comprovado, poderá ser passada 2.ª via, onde se fará expressamente menção desse facto.
+
+9 - A declaração a que se refere o n.º 1 pode ser subscrita em papel e/ou por meio eletrónico através do Portal do Eleitor, sendo que, neste último caso, a inscrição no recenseamento é comprovada eletronicamente.
