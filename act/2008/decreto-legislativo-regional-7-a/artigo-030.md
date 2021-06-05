@@ -10,7 +10,7 @@ b) Promover o acesso da generalidade dos cidadãos, em condições financeiras e
 
 c) Assegurar o cumprimento das exigências de prestação de serviços de carácter universal relativamente a actividades económicas cujo acesso se encontre legalmente vedado a empresas privadas e a outras entidades da mesma natureza;
 
-d) Garantir o fornecimento de serviços ou a gestão de actividades cuja rendibilidade não se encontra assegurada, em especial devido aos investimentos necessários ao desenvolvimento de infra-estruturas ou redes de distribuição ou, ainda, devido à necessidade de realizar actividades comprovadamente deficitárias;
+d) Garantir o fornecimento de serviços ou a gestão de atividades cuja rendibilidade não se encontra assegurada, em especial devido aos investimentos necessários para aquisição de equipamentos e para o desenvolvimento de infraestruturas ou redes de distribuição ou, ainda, devido à necessidade de realizar atividades comprovadamente deficitárias;
 
 e) Zelar pela eficácia da gestão das redes de serviços públicos, procurando, designadamente, que a produção, o transporte e distribuição, a construção de infra-estruturas e a prestação do conjunto de tais serviços se procedam de forma articulada, tendo em atenção as modificações organizacionais impostas por inovações técnicas ou tecnológicas;
 
