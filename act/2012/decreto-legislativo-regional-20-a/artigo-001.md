@@ -2,7 +2,7 @@
 
 ### Objeto
 
-1 - O valor da caução a prestar nos termos e para os efeitos do artigo 53.º do Decreto Legislativo Regional n.º 12/2007/A, de 5 de junho, é, até 31 de dezembro de 2013, reduzido para 25 %.
+1 - O valor da caução a prestar nos termos e para efeitos do artigo 53.º do Decreto Legislativo Regional n.º 12/2007/A, de 5 de junho, é, até 31 de dezembro de 2021, reduzido para 25 %.
 
 2 - Durante o período referido no número anterior, fica suspensa a obrigatoriedade de prestação de caução pelos titulares de licenças de exploração no que se refere a parcelas licenciadas mas com exploração não iniciada.
 
