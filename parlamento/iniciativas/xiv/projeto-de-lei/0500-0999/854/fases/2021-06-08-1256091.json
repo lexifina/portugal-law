@@ -1,0 +1,469 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "854",
+    "id": "110852",
+    "titulo": "Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17173",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-06-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "110778",
+        "leg": "XIV",
+        "nr": "93",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6076",
+            "obs": null,
+            "pag": [
+              "38-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-06-09",
+            "pubLeg": "XIV",
+            "pubNr": "75",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/38?pgs=38-47&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Altera procedimentos relacionados com a emissão, a entrega e a utilização do cartão do cidadão"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-06-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_08_15_00_00_clean_14_plenario.xml&idsegmento=39"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_08_15_00_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra da Modernização do Estado e da Administração Pública",
+              "governo": "XXII GOVERNO CONSTITUCIONAL",
+              "nome": "Alexandra Leitão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40",
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/39?pgs=39-40,46-47&org=PLC"
+              }
+            ],
+            "sumario": "Altera procedimentos relacionados com a emissão, a entrega e a utilização do cartão de cidadão e Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6549",
+                "nome": "Bebiana Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_08_15_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Altera procedimentos relacionados com a emissão, a entrega e a utilização do cartão de cidadão e Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_08_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Altera procedimentos relacionados com a emissão, a entrega e a utilização do cartão de cidadão e Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6682",
+                "nome": "Romualda Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_08_15_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Altera procedimentos relacionados com a emissão, a entrega e a utilização do cartão de cidadão e Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_08_15_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/43?pgs=43&org=PLC"
+              }
+            ],
+            "sumario": "Altera procedimentos relacionados com a emissão, a entrega e a utilização do cartão de cidadão e Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_08_15_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Altera procedimentos relacionados com a emissão, a entrega e a utilização do cartão de cidadão e Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril. ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6595",
+                "nome": "Márcia Passos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:24",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_06_08_15_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "244291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/44?pgs=44-46&org=PLC"
+              }
+            ],
+            "sumario": "Altera procedimentos relacionados com a emissão, a entrega e a utilização do cartão de cidadão e Concretiza o direito ao cartão de cidadão para as pessoas em situação de sem abrigo, procedendo à alteração da Lei n.º 7/2007, de 5 de fevereiro, e do Decreto-Lei n.º 135/99, de 22 de abril. ",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1256091",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929081",
+        "obs": null,
+        "pag": [
+          "38-47"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-06-09",
+        "pubLeg": "XIV",
+        "pubNr": "75",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/075/2021-06-09/38?pgs=38-47&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
