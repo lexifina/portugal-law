@@ -1,0 +1,7 @@
+Aviso n.º 10828/2021
+Sumário: Projeto de alteração ao Regulamento dos Serviços de Abastecimento Público de Água e de Saneamento de Águas Residuais Urbanas, área de intervenção da Inframoura - Empresa de Infraestruturas de Vilamoura, E. M.
+Projeto de Alteração ao Regulamento dos Serviços de Abastecimento Público de Água e de Saneamento de Águas Residuais Urbanas
+Área de Intervenção da Inframoura - Empresa de Infraestruturas de Vilamoura, E. M.
+Vítor Manuel Gonçalves Aleixo, Presidente da Câmara Municipal de Loulé, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 100.º e no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião ordinária realizada no dia 17 de março de 2021 e reunião extraordinária da Assembleia Municipal de 03 de maio de 2021, submeter a audiência dos interessados e a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente aviso do Projeto de Alteração ao Regulamento dos Serviços de Abastecimento Público de Água e de Saneamento de Águas Residuais Urbanas, Área de Intervenção da Inframoura - Empresa de Infraestruturas de Vilamoura, E. M., que se encontra disponível para consulta na página do Município em www.cm-loule.pt interessados podem dirigir as suas sugestões à Câmara Municipal de Loulé, ou através de correio eletrónico para gap@cm-loule.pt, dentro do prazo referido.
+19 de maio de 2021. - O Presidente da Câmara Municipal de Loulé, Vítor Manuel Gonçalves Aleixo.
+314254237
