@@ -1,0 +1,7 @@
+Aviso n.º 30/2021
+Sumário: Cumprimento das formalidades internas para a aprovação do Protocolo Adicional ao Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, que cria o Prémio Monteiro Lobato de Literatura para a Infância e Juventude.
+Por ordem superior se torna público que, a 14 de agosto de 2019 e a 24 de maio de 2021, foram rececionadas notas, respetivamente, pelo Ministério das Relações Exteriores do Brasil e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as respetivas formalidades internas de aprovação do Protocolo Adicional ao Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, que cria o Prémio Monteiro Lobato de Literatura para a Infância e Juventude, assinado em Salvador, em 5 de maio de 2017.
+O referido Protocolo foi aprovado pela Resolução da Assembleia da República n.º 18/2019, de 21 de dezembro de 2018, e ratificado pelo Decreto do Presidente da República n.º 9/2019, de 6 de fevereiro de 2019, ambos publicados no Diário da República, 1.ª série, n.º 26, de 6 de fevereiro de 2019.
+Nos termos do seu artigo 10.º, este Protocolo entrará em vigor, por tempo indeterminado, trinta dias após a receção da segunda notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos necessários para tanto, ou seja, a 23 de junho de 2021.
+Direção-Geral de Política Externa, 2 de junho de 2021. - A Subdiretora-Geral, Ana Filomena Rocha.
+114293709
