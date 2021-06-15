@@ -68,13 +68,25 @@ ee) O incumprimento da obrigação prevista no n.º 3 do artigo 59.º;
 
 ff) O incumprimento de ordens ou mandados legítimos do ICP-ANACOM regularmente comunicados aos seus destinatários.
 
-2 - São contraordenações leves as previstas nas alíneas q) e ee) do número anterior.
+2 - Constituem, ainda, contraordenações no âmbito do Regulamento (UE) n.º 2018/644, do Parlamento Europeu e do Conselho, de 18 de abril de 2018:
 
-3 - São contraordenações graves as previstas nas alíneas b), c), d), f), h), j), k), l), m), n), p), r), s), t), w), x), y), z), aa), bb) e dd) do n.º 1.
+a) A violação dos deveres de informação previstos nos n.os 1 a 3 e 7 do artigo 4.º do referido regulamento;
 
-4 - São contraordenações muito graves as previstas nas alíneas a), e), g), i), o), u), v), cc) e ff) do n.º 1.
+b) O não cumprimento dos requisitos de informação que sejam impostos nos termos do n.º 5 do artigo 4.º do referido regulamento;
 
-5 - As contraordenações leves são puníveis com as seguintes coimas:
+c) A violação do dever estabelecido no n.º 1 do artigo 5.º do referido regulamento;
+
+d) A violação do dever estabelecido no n.º 6 do artigo 6.º do referido regulamento;
+
+e) A violação do dever de disponibilização de informações estabelecido no artigo 7.º do referido regulamento.
+
+3 - São contraordenações leves as previstas nas alíneas q) e ee) do n.º 1.
+
+4 - São contraordenações graves as previstas nas alíneas b), c), d), f), h), j), k), l), m), n), p), r), s), t), w), x), y), z), aa), bb) e dd) do n.º 1 e nas alíneas a), b), c), d) e e) do n.º 2.
+
+5 - São contraordenações muito graves as previstas nas alíneas a), e), g), i), o), u), v), cc) e ff) do n.º 1.
+
+6 - As contraordenações leves são puníveis com as seguintes coimas:
 
 a) Se praticadas por pessoa singular, de (euro) 100 a (euro) 2500;
 
@@ -86,7 +98,7 @@ d) Se praticadas por média empresa, de (euro) 1000 a (euro) 20 000;
 
 e) Se praticadas por grande empresa, de (euro) 2500 a (euro) 50 000.
 
-6 - As contraordenações graves são puníveis com as seguintes coimas:
+7 - As contraordenações graves são puníveis com as seguintes coimas:
 
 a) Se praticadas por pessoa singular, de (euro) 250 a (euro) 7500;
 
@@ -98,7 +110,7 @@ d) Se praticadas por média empresa, de (euro) 2500 a (euro) 50 000;
 
 e) Se praticadas por grande empresa, de (euro) 5000 a (euro) 500 000.
 
-7 - As contraordenações muito graves são puníveis com as seguintes coimas:
+8 - As contraordenações muito graves são puníveis com as seguintes coimas:
 
 a) Se praticadas por pessoa singular, de (euro) 500 a (euro) 20 000;
 
@@ -110,8 +122,8 @@ d) Se praticadas por média empresa, de (euro) 5000 a (euro) 450 000;
 
 e) Se praticadas por grande empresa, de (euro) 10 000 a (euro) 1 000 000.
 
-8 - Sempre que a contraordenação resulte da omissão do cumprimento de um dever jurídico ou de uma ordem emanada do ICP-ANACOM, a aplicação das sanções ou o seu cumprimento não dispensam o infrator do cumprimento do dever ou da ordem, se este ainda for possível.
+9 - Sempre que a contraordenação resulte da omissão do cumprimento de um dever jurídico ou de uma ordem emanada do ICP-ANACOM, a aplicação das sanções ou o seu cumprimento não dispensam o infrator do cumprimento do dever ou da ordem, se este ainda for possível.
 
-9 - Nos casos referidos no número anterior, o infrator pode ser sujeito pelo ICP-ANACOM à injunção de cumprir o dever ou a ordem em causa, cujo incumprimento no prazo fixado pode determinar a aplicação de uma sanção pecuniária compulsória, nos termos do artigo 52.º
+10 - Nos casos referidos no número anterior, o infrator pode ser sujeito pelo ICP-ANACOM à injunção de cumprir o dever ou a ordem em causa, cujo incumprimento no prazo fixado pode determinar a aplicação de uma sanção pecuniária compulsória, nos termos do artigo 52.º
 
-10 - Nas contraordenações previstas na presente lei, são puníveis a tentativa e a negligência.
+11 - Nas contraordenações previstas na presente lei, são puníveis a tentativa e a negligência.
