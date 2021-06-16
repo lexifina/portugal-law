@@ -1,0 +1,820 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13632",
+  "numero": "262",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-06-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-09-28",
+            "entidades": null,
+            "id": "127321",
+            "tipo": null,
+            "titulo": "Audição em 2021-09-28 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-10-12",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915099",
+                "obs": null,
+                "pag": [
+                  "8-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-14",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/03/007/2021-10-14/8?pgs=8-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2021-07-07",
+        "DataArquivo": "2021-10-12",
+        "DataBaixaComissao": "2021-07-01",
+        "DataEnvioPAR": "2021-10-14",
+        "DataReaberta": "2021-07-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-07-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d597a526d4e5445784f5330784d3249794c54526d4d3259744f546b334d6930784d54566b4e5451324f47517a4f5441756347526d&fich=fc4f5119-13b2-4f3f-9972-115d5468d390.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d54466b4e4455315a43316b4f4751774c545130596a63744f444a6c4d7930314e44417a4d4463334e545532596a6b756347526d&fich=511d455d-d8d0-44b7-82e3-5403077556b9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794e546b354d5749774e4330304e474e6a4c5451794d545174596d46684e7930304f474a6d5a5749785a44677a4d6a6b756347526d&fich=25991b04-44cc-4214-baa7-48bfeb1d8329.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324d446c694d54526a596930354f4449334c54526d4d7a63744f574d785979316c4e3259334d7a6c6d4f544d344d6a67756347526d&fich=609b14cb-9827-4f37-9c1c-e7f739f93828.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4e6a426a4e6a67305a69316a4e6a55314c5452694f574d744f574e6a5a433078596d4a6d4f5451314d44566a4e4467756347526d&fich=e60c684f-c655-4b9c-9ccd-1bbf94505c48.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a595463304d6a646d4d5330774d574d344c5451334d574d74596a566b4d79307a4d54526c4e44673059544531597a51756347526d&fich=3a7427f1-01c8-471c-b5d3-314e484a15c4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4d6a4e684d446b314d5330314d544e684c5451334d474d74596a6b324e5330304d545a6d597a6c6a4e6a49315a5441756347526d&fich=e23a0951-513a-470c-b965-416fc9c625e0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b5a475a6d4e474a694d79316a4f4449324c5451344f54557459546c6a4d69316d5954526c5a6a51325954686d4e5467756347526d&fich=ddff4bb3-c826-4895-a9c2-fa4ef46a8f58.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938315a6a51794d445a6a4d79316859324a6d4c54513559575974596a4a6b4e4330305a6a4a6b596a45774f444a6a4f4459756347526d&fich=5f4206c3-acbf-49af-b2d4-4f2db1082c86.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784d54633259324e694d79307a5a6a51324c5451324f44637459544e684d53316b4d5451304e6d55314e4451775a544d756347526d&fich=1176ccb3-3f46-4687-a3a1-d1446e5440e3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d5a6d45314e325933597930304f54426c4c54526c5a6a6b744f44426b4d4330354d5759354f4445305a6a46694f5451756347526d&fich=ffa57f7c-490e-4ef9-80d0-91f9814f1b94.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-09-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938345a6d45345a5759794d7930304d5459354c545133597a677459575a6b5953316d4e6a51345a4464695954426a4f4449756347526d&fich=8fa8ef23-4169-47c8-afda-f648d7ba0c82.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-09-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939685a6d45785a4452694e4331694d6a49774c545134597a6b7459546c6d4d4330784e6a4d315a6d55305a444a6b4e4449756347526d&fich=afa1d4b4-b220-48c9-a9f0-1635fe4d2d42.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-09-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314e7a6b7a4d444933596930354d6d59314c5451795a4755744f57566a5a5330784e7a41334f5759775a44686d5a4451756347526d&fich=5793027b-92f5-42de-9ece-17079f0d8fd4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-09-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344d57457a4e7a4e6d4d53316d4e54557a4c5451304f446b74596a686a596930794d574e6c4e7a526c4e6a41344f544d756347526d&fich=81a373f1-f553-4489-b8cb-21ce74e60893.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-09-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793834597a59334e6a59335a5330785a474e694c54526c4f474974596a49344e4331694e444177597a49784e4455314f4751756347526d&fich=8c67667e-1dcb-4e8b-b284-b400c214558d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-10-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793878596d49784d475a6a4d7930784d5755324c54526b5a6a51744f444a695a53316c5a4451314d7a46684f4745774e324d756347526d&fich=1bb10fc3-11e6-4df4-82be-ed4531a8a07c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-07-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938355a4759345a444d305a6931694e6d51344c54526a5a4745744f4751774d5330355a4449344d6a4d345a544d314f4455756347526d&fich=9df8d34f-b6d8-4cda-8d01-9d28238e3585.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344d7a4e684d32457a4f5330304f444d794c545130597a59745954426c4d69316b4d545a6b4d444e6c595755354e6a49756347526d&fich=833a3a39-4832-44c6-a0e2-d16d03eae962.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a4d6a426a595755304e433077596d566a4c5451774e3249744f5451325a4330334e7a5a6c5a4464695a475a684e5455756347526d&fich=320cae44-0bec-407b-946d-776ed7bdfa55.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938355a4441335a6a46684d69316d597a51774c54526b4d446b7459546332595330334f5745335a4451784e4449344e4463756347526d&fich=9d07f1a2-fc40-4d09-a76a-79a7d4142847.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-07-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938794d7a41795a544a694d43316d4d5759334c5451355a446b744f4451354d6931694d7a497a4d474a6b5a6a686d4d7a4d756347526d&fich=2302e2b0-f1f7-49d9-8492-b3230bdf8f33.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-09-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c597a49304e6a55794e693035596d52694c5451784d325174595451794d79307a5a57466d4f574a6b4d325a6b4d6a63756347526d&fich=ec246526-9bdb-413d-a423-3eaf9bd3fd27.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-09-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396a4d6a59304d6a51354f4330784e44526a4c545130596d5174596d466b4d53316a4d5449344d5463335a574a6d59574d756347526d&fich=c2642498-144c-44bd-bad1-c128177ebfac.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2021-10-12",
+            "dataNomeacao": "2021-07-07",
+            "gp": "BE",
+            "id": "5549",
+            "motivoCessacao": null,
+            "nome": "Alexandra Vieira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2022-11-30",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-07-02",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59334d3245785a6a46694c5755774e6d4d744e4445314d7931684e44526c4c5445794d44466a5a5749774d32566b595335775a47593d&fich=673a1f1b-e06c-4153-a44e-1201ceb03eda.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "151943",
+      "152066",
+      "152084"
+    ],
+    "Iniciativasoriginadas": [
+      "151943",
+      "152066",
+      "152084"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": "Esclarece que o Regimento o obriga a advertir o orador quando este se desvia manifestamente do tema em apreciação, o que foi, defende, o caso da intervenção do deputado"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": "Diz que os deputados são livres de se exprimirem e expressa que não admite que possa ser advertido por usar da palavra como entende"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=66"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54",
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/53?pgs=53-54,59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/58?pgs=58&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-11-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_30_15_00_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-11-30",
+                "pubLeg": "XV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa; Determina a universalidade da gratuidade dos manuais escolares para todos os alunos do ensino obrigatório; Pela igualdade na disponibilização dos manuais escolares; Extensão da medida de disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória que frequentem o ensino privado e cooperativo.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13632",
+    "PetAssunto": "Pela defesa da gratuitidade dos manuais escolares em todos os tipos de ensino nos moldes da Constituição da República Portuguesa",
+    "PetDataEntrada": "2021-06-16",
+    "PeticoesAssociadas": null,
+    "PetId": "13632",
+    "PetLeg": "XIV",
+    "PetNr": "262",
+    "PetNrAssinaturas": "11144",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16270",
+        "obs": null,
+        "pag": [
+          "50-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-11-30",
+        "pubLeg": "XV",
+        "pubNr": "61",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/061/2022-11-30/50?pgs=50-60&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915079",
+        "obs": null,
+        "pag": [
+          "15-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-07-10",
+        "pubLeg": "XIV",
+        "pubNr": "55",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/055/2021-07-10/15?pgs=15&org=PLC"
+      }
+    ]
+  }
+}
