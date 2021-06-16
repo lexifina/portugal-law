@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 11118/2021
+Sumário: Regulamento das Zonas de Estacionamento de Duração Limitada e Parques de Estacionamento do Município de Lagos.
+Regulamento das Zonas de Estacionamento de Duração Limitada e Parques de Estacionamento do Município de Lagos
+Paulo Jorge Correia dos Reis, Vice-Presidente da Câmara Municipal de Lagos, torna público, nos termos e para os efeitos do disposto nos artigos 98.º, 100.º e 101.º do Código do Procedimento Administrativo, com a redação aprovada pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada no dia 12 de maio de 2021, determinar o início de elaboração do novo Regulamento das Zonas de Estacionamento de Duração Limitada e Parques de Estacionamento do Município de Lagos, nomear o Senhor Vice-Presidente da Câmara como responsável pela direção do procedimento, aprovar a minuta do regulamento e submeter o processo para consulta pública, pelo prazo de 30 dias úteis, contados do dia seguinte ao da publicação do presente Aviso na 2.ª série do Diário da República.
+Mais se torna igualmente público que a referida minuta se encontra disponível para consulta na Câmara Municipal de Lagos - Edifício Paços do Concelho Séc. XXI, durante as horas normais de expediente e na página do Município em "https://www.cm-lagos.pt", acedendo-se aos separadores "Balcão Virtual" e "Participação Pública".
+As participações devem ser dirigidas por escrito ao Presidente da Câmara do Município de Lagos, para o endereço "Edifício Paços do Concelho Séc. XXI - Praça do Município, 8600-293 Lagos", ou através de correio eletrónico para "expediente.geral@cm-lagos.pt", dentro do prazo referido.
+25 de maio de 2021. - O Vice-Presidente, Paulo Jorge Correia dos Reis.
+314273037
