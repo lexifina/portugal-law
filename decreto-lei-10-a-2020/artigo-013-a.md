@@ -2,15 +2,15 @@
 
 ### Transportes
 
-1 - As entidades públicas ou privadas responsáveis por transporte coletivo de passageiros devem assegurar, cumulativamente:
+1 - O transporte coletivo de passageiros, o transporte em táxi e o transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica devem assegurar, cumulativamente:
 
-a) Lotação máxima de 2/3 da sua capacidade para o transporte terrestre, fluvial e marítimo;
+a) O respeito pelo limite de lotação a definir em resolução do Conselho de Ministros;
 
 b) [Revogada.]
 
-c) A limpeza diária, a desinfeção semanal e a higienização mensal dos veículos, instalações e equipamentos utilizados pelos passageiros e outros utilizadores, de acordo com as recomendações das autoridades de saúde.
+c) A renovação do ar interior das viaturas, a limpeza diária, a desinfeção semanal e a higienização mensal dos veículos, instalações e equipamentos utilizados pelos passageiros e outros utilizadores, de acordo com as recomendações das autoridades de saúde.
 
-2 - No transporte em táxi e no transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica, os bancos dianteiros devem ser utilizados apenas pelo motorista, não podendo a ocupação máxima dos veículos pelos passageiros ultrapassar as recomendações sobre lotação máxima, a definir em portaria dos membros do Governo responsáveis pelas áreas dos transportes e do ambiente, devendo ainda ser acautelada a renovação do ar interior das viaturas e a limpeza das superfícies.
+2 - (Revogado.)
 
 3 - Sem prejuízo do disposto nos números anteriores, podem ser adotadas outras medidas adicionais que sejam adequadas e necessárias no sentido de preservar a saúde pública, designadamente a não disponibilização da venda de títulos de transporte a bordo, a instalação de separações físicas entre os condutores e os passageiros e a disponibilização de gel ou solução cutânea desinfetante.
 
