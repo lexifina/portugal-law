@@ -1,0 +1,831 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13701",
+  "numero": "331",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-06-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2022-04-22",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-04-22",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938784e544534597a49344d69316a597a41314c5451344d325574596d52684e5330324d5449325a444178597a59354f5445756347526d&fich=1518c282-cc05-483e-bda5-6126d01c6991.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-10-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-05-31",
+        "DataArquivo": "2022-10-25",
+        "DataBaixaComissao": "2022-04-22",
+        "DataEnvioPAR": "2022-10-26",
+        "DataReaberta": "2022-05-31",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-05-31",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5547563061574e68627938784e6a453259574e6c4d4330774d4755314c545177597a63744f4749334e53316a4e7a566a4d4756685a6a4d304e4459756347526d&fich=1616ace0-00e5-40c7-8b75-c75c0eaf3446.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-27",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5547563061574e68627938315a6d517a5a6d5130597930334f4451784c54526a597a55744f5746684f53316c596a6b334e544a694d5451784f5441756347526d&fich=5fd3fd4c-7841-4cc5-9aa9-eb9752b14190.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-27",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5547563061574e68627938774d446c694f57526d4d4330315a6d51314c54526a4e6a49744f546b774f533033596a466d4f54686b5a44566d4d4749756347526d&fich=009b9df0-5fd5-4c62-9909-7b1f98dd5f0b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-10-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5547563061574e686279396c4d47526c4d6a67314e79307a4e3252694c54526d595463744f444e6b4e5330304e6a637a4e324934596d55324f5451756347526d&fich=e0de2857-37db-4fa7-83d5-46737b8be694.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8327",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Defesa Nacional",
+        "NotasAdmissibilidade": null,
+        "Numero": "3",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2022-09-07",
+            "gp": "PSD",
+            "id": "2665",
+            "motivoCessacao": null,
+            "nome": "Jorge Paulo Oliveira"
+          },
+          {
+            "dataCessacao": "2022-09-07",
+            "dataNomeacao": "2022-05-31",
+            "gp": "PSD",
+            "id": "5759",
+            "motivoCessacao": null,
+            "nome": "Lina Lopes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2021-12-15",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7264",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-03-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-12-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c32526d4d44686d4e32526a4c5441354d5749744e4749774f433168596d45334c544d345a4756695a47566a4e474d7a5a5335775a47593d&fich=df08f7dc-091b-4b08-aba7-38debdec4c3e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152583",
+      "152319",
+      "152436",
+      "152462",
+      "152549",
+      "152549"
+    ],
+    "Iniciativasoriginadas": [
+      "152583",
+      "152319",
+      "152436",
+      "152462",
+      "152549"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=44"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40",
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/39?pgs=39-40,47&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": "Apresenta o Projeto de Lei n.º 617/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": "Apresenta os Projetos de Resolução n.ºs 399 e 457/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 446/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 509/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=48"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43",
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/42?pgs=42-43,44&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": "Responde aos pedidos de esclarecimento dos Deputados Joana Mortágua (BE) e João Dias (PCP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": "Ao Deputado Manuel dos Santos Afonso (PS)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": "Ao Deputado Manuel dos Santos Afonso (PS)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_24_10_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-25",
+                "pubLeg": "XV",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão e alteração do sistema remuneratório dos Militares (Luís Manuel Marques Bugalhão e outros), Procede ao aumento do valor do capital de risco do seguro de vida não contributivo dos militares em missões humanitárias e de paz fora do território nacional, Recomenda ao Governo que emita orientações para garantir a efetiva, uniforme e coerente aplicação do direito à contabilização das avaliações de serviço a todos os ex-militares após ingresso na Administração Pública, Pela valorização remuneratória e social dos militares das Forças Armadas, Revisão do regime remuneratório dos militares das Forças Armadas, Recomenda ao Governo a revisão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato e de voluntariado dos três ramos das Forças Armadas.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13701",
+    "PetAssunto": "Revisão e alteração do sistema remuneratório dos Militares!",
+    "PetDataEntrada": "2021-06-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13701",
+    "PetLeg": "XIV",
+    "PetNr": "331",
+    "PetNrAssinaturas": "7728",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16355",
+        "obs": null,
+        "pag": [
+          "39-48"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-25",
+        "pubLeg": "XV",
+        "pubNr": "106",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/106/2023-03-25/39?pgs=39-48&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915116",
+        "obs": null,
+        "pag": [
+          "13-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-11",
+        "pubLeg": "XV",
+        "pubNr": "15",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/015/2022-06-11/13?pgs=13&org=PLC"
+      }
+    ]
+  }
+}
