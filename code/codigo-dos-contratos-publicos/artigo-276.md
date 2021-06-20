@@ -6,7 +6,7 @@
 
 2 - Deve ainda ser publicado no Jornal Oficial da União Europeia um anúncio da intenção referida no n.º 1, conforme modelo constante do anexo II do Regulamento de Execução (UE) n.º 2015/1986, da Comissão, de 11 de novembro de 2015.
 
-3 - Aos anúncios previstos nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos n.os 4 e 7 do artigo 131.º
+3 - Aos anúncios referidos nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos n.os 5 a 7 do artigo 131.º
 
 4 - Os anúncios previstos nos n.os 1 e 2 não têm de ser publicados quando:
 
