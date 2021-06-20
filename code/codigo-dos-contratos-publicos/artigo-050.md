@@ -1,6 +1,6 @@
 # Artigo 50.º
 
-### Esclarecimentos, retificação e alteração das peças procedimentais
+### Esclarecimentos, retificação e alteração das peças do procedimento
 
 1 - No primeiro terço do prazo fixado para a apresentação das propostas, os interessados podem solicitar os esclarecimentos necessários à boa compreensão e interpretação das peças do procedimento e, no mesmo prazo, devem apresentar uma lista na qual identifiquem, expressa e inequivocamente, os erros e as omissões das peças do procedimento por si detetados.
 
@@ -14,9 +14,9 @@ c) Condições técnicas de execução do objeto do contrato a celebrar que o in
 
 d) Erros e omissões do projeto de execução que não se incluam nas alíneas anteriores.
 
-3 - A lista a apresentar ao órgão competente para a decisão de contratar deve identificar, expressa e inequivocamente, os erros ou omissões do caderno de encargos detetados, com exceção dos referidos na alínea d) do número anterior e daqueles que por eles apenas pudessem ser detetados na fase de execução do contrato, atuando com a diligência objetivamente exigível em face das circunstâncias concretas.
+3 - A lista a apresentar ao órgão competente para a decisão de contratar deve identificar, expressa e inequivocamente, os erros ou omissões detetados, com exceção dos referidos na alínea d) do número anterior e daqueles que por eles apenas pudessem ser detetados na fase de execução do contrato, atuando com a diligência objetivamente exigível em face das circunstâncias concretas.
 
-4 - O incumprimento do dever a que se referem os números anteriores tem as consequências previstas nos n.os 3 e 4 do artigo 378.º
+4 - O incumprimento do dever de identificar erros e omissões a que se referem os números anteriores tem a consequência prevista no n.º 3 do artigo 378.º
 
 5 - Até ao termo do segundo terço do prazo fixado para a apresentação das propostas, ou até ao prazo fixado no convite ou no programa de concurso:
 
