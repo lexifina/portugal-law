@@ -6,6 +6,6 @@
 
 2 - Durante a pendência da ação, a entidade demandada e os contrainteressados podem requerer ao juiz o levantamento do efeito suspensivo previsto no número anterior.
 
-3 - O autor dispõe de 7 dias para responder, seguindo-se, sem mais articulados e no prazo máximo de 10 dias, a decisão do incidente pelo juiz.
+3 - O autor dispõe de cinco dias para responder ao pedido de levantamento, seguindo-se, sem mais articulados e no prazo máximo de sete dias após a realização das diligências instrutórias absolutamente indispensáveis, a decisão do incidente pelo juiz.
 
-4 - O efeito suspensivo é levantado quando, ponderados todos os interesses suscetíveis de serem lesados, o diferimento da execução do ato seja gravemente prejudicial para o interesse público ou gerador de consequências lesivas claramente desproporcionadas para outros interesses envolvidos.
+4 - O efeito suspensivo é levantado quando, devidamente ponderados todos os interesses públicos e privados em presença, os prejuízos que resultariam da sua manutenção se mostrem superiores aos que podem resultar do seu levantamento.
