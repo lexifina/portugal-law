@@ -8,7 +8,7 @@ a) No prazo fixado no programa do procedimento;
 
 b) No prazo fixado pelo órgão competente para a decisão de contratar, no caso previsto no n.º 8 do artigo 81.º;
 
-c) Redigidos em língua portuguesa, ou acompanhados de tradução devidamente legalizada no caso de estarem, pela sua natureza ou origem, redigidos numa outra língua.
+c) Redigidos em língua portuguesa, ou acompanhados de tradução devidamente legalizada no caso de estarem, pela sua natureza ou origem, redigidos numa outra língua, salvo se o programa do procedimento dispuser diferentemente e estabelecer a suficiência da redação dos documentos em língua estrangeira sem necessidade de tradução.
 
 2 - Sempre que se verifique um facto que determine a caducidade da adjudicação nos termos do n.º 1, o órgão competente para a decisão de contratar deve notificar o adjudicatário relativamente ao qual o facto ocorreu, fixando-lhe um prazo, não superior a 5 dias, para que se pronuncie, por escrito, ao abrigo do direito de audiência prévia.
 

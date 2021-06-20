@@ -2,22 +2,24 @@
 
 ### Limites
 
-1 - A modificação de qualquer contrato público, com os fundamentos previstos no artigo anterior, encontra-se sujeita aos seguintes limites:
+1 - A modificação não pode nunca traduzir-se na alteração da natureza global do contrato, considerando as prestações principais que constituem o seu objeto.
 
-a) Não pode conduzir à alteração substancial do objeto do contrato;
+2 - A modificação fundada em razões de interesse público não pode ter lugar quando implicar uma modificação substancial do contrato ou configurar uma forma de impedir, restringir ou falsear a concorrência, designadamente por:
 
-b) Não pode configurar uma forma de impedir, restringir ou falsear a concorrência;
+a) Introduzir alterações que, se inicialmente previstas no caderno de encargos, teriam ocasionado no procedimento pré-contratual, de forma objetivamente demonstrável, a alteração da qualificação dos candidatos, a alteração da ordenação das propostas avaliadas, a não exclusão ou a apresentação de outras candidaturas ou propostas;
 
-c) Não é permitida quando sejam introduzidas alterações que, se fizessem parte do caderno de encargos, teriam ocasionado, de forma objetivamente demonstrável, a alteração da ordenação das propostas avaliadas ou a admissão de outras propostas;
+b) Alterar o equilíbrio económico do contrato a favor do cocontratante de modo a que este seja colocado numa situação mais favorável do que a resultante do equilíbrio inicialmente estabelecido;
 
-d) O aumento total de preço originado pelas eventuais modificações não pode ultrapassar 25 % do preço contratual inicial, no caso da alínea a) do artigo anterior, e 10 % do preço contratual inicial, no caso da alínea b) do artigo anterior;
+c) Alargar consideravelmente o âmbito do contrato.
 
-e) Não pode alterar o equilíbrio económico do contrato a favor do cocontratante em termos de este ser colocado em situação mais favorável do que a resultante do equilíbrio inicialmente estabelecido.
+3 - Os limites previstos no número anterior não se aplicam a:
 
-2 - Não estão sujeitas às alíneas b) e c) do número anterior as modificações que resultem da natureza duradoura do vínculo contratual, desde que o decurso do tempo as justifique.
+a) Modificações de valor inferior aos limiares referidos nos n.os 2, 3 ou 4 do artigo 474.º, consoante o caso, e inferior a 10 % ou, em contratos de empreitada de obras públicas, a 15 % do preço contratual inicial;
 
-3 - A modificação dos contratos especialmente regulados no título ii da parte iii fica sujeita aos limites aí previstos.
+b) Modificações que decorram de circunstâncias que uma entidade adjudicante diligente não pudesse ter previsto, desde que a natureza duradoura do vínculo contratual e o decurso do tempo as justifique, e desde que o seu valor não ultrapasse 50 % do preço contratual inicial.
 
-4 - Nos contratos com objeto passível de ato administrativo e demais contratos sobre o exercício de poderes públicos, o fundamento previsto na alínea a) do artigo anterior não pode conduzir à modificação do contrato por decisão judicial ou arbitral, quando esta interfira com o resultado do exercício da margem de livre decisão administrativa subjacente ao mesmo ou implique a formulação de valorações próprias do exercício da função administrativa.
+4 - Em caso de modificações sucessivas, o valor a considerar para efeitos do número anterior é, no caso da alínea a), o do acumulado das modificações e, no caso da alínea b), o de cada modificação.
 
-5 - As modificações que não respeitem os limites estabelecidos no presente Código determinam a adoção de um novo procedimento de formação de contrato, caso a entidade adjudicante mantenha a decisão de contratar.
+5 - O disposto no presente artigo não prejudica, em relação às modificações que tenham por objeto a realização de prestações complementares, o regime especial do artigo 370.º
+
+6 - As modificações que não respeitem os limites estabelecidos no presente Código determinam a adoção de um novo procedimento de formação de contrato, caso a entidade adjudicante mantenha a decisão de contratar.

@@ -8,6 +8,6 @@ a) O somatório dos valores dos vários procedimentos, caso a formação de todo
 
 b) O somatório dos preços contratuais relativos a todos os contratos já celebrados e do valor de todos os procedimentos ainda em curso, quando a formação desses contratos ocorra ao longo do período de um ano, desde que a entidade adjudicante, aquando do lançamento do primeiro procedimento, devesse ter previsto a necessidade de lançamento dos procedimentos subsequentes.
 
-2 - As entidades adjudicantes ficam dispensadas do disposto no número anterior relativamente a procedimentos de bens e serviços cujo valor seja inferior a (euro) 80 000, ou a empreitadas de obras públicas cujo valor seja inferior a (euro) 1 000 000, desde que o valor do conjunto dos procedimentos não exceda 20 % deste limite.
+2 - As entidades adjudicantes ficam dispensadas do disposto no número anterior relativamente a procedimentos para a formação de contratos cujo valor seja inferior a (euro) 80 000, no caso de bens e serviços, ou a (euro) 1 000 000, no caso de empreitadas de obras públicas, e desde que o valor conjunto desses procedimentos não exceda 20 % do somatório calculado nos termos do número anterior.
 
 3 - (Revogado.)

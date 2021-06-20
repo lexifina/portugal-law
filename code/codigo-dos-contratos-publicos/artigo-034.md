@@ -29,3 +29,5 @@ b) No caso de contratos de empreitada ou concessão de obras públicas ou conces
 7 - Os anúncios de pré-informação relativos aos contratos referidos na alínea b) do n.º 1 são enviados imediatamente após a aprovação do plano de actividades em que se inserem.
 
 8 - O cálculo dos preços contratuais estimados referidos nos n.os 1 a 3 deve ser efetuado de acordo com as regras previstas no artigo 5.º da Diretiva n.º 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.
+
+9 - O anúncio de pré-informação não pode ser publicado num perfil de adquirente antes do envio ao Serviço das Publicações da União Europeia do anúncio da sua publicação sob essa forma, devendo constar expressamente do primeiro anúncio a data de envio do segundo.

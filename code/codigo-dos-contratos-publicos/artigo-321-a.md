@@ -6,7 +6,11 @@
 
 2 - O contraente público notifica o cocontratante para proceder à liquidação ou apresentar motivo justificativo para o não pagamento, devendo neste caso indicar o prazo, não superior a 30 dias, no qual se propõe liquidar a dívida ao subcontratado.
 
-3 - O contraente público efetua diretamente os pagamentos ao subcontratado caso o cocontratante não se oponha nos termos do número anterior, ou não liquide os valores devidos no prazo por si indicado.
+3 - O contraente público efetua diretamente os pagamentos ao subcontratado caso, na situação concreta:
+
+a) O quadro normativo especificamente aplicável à execução do contrato não proíba a realização de pagamentos a terceiros; e
+
+b) O cocontratante não se oponha justificadamente nos termos do número anterior, ou não liquide os valores devidos no prazo por si indicado.
 
 4 - O contraente público deve exercer o direito à compensação entre os valores pagos aos subcontratados e os valores por si devidos ao cocontratante.
 

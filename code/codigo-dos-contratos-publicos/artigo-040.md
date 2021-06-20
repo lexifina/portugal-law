@@ -22,7 +22,7 @@ f) No diálogo concorrencial, o anúncio, o programa do procedimento, a memória
 
 g) Na parceria para a inovação, o anúncio, o programa do procedimento, o convite à apresentação de propostas e o caderno de encargos.
 
-2 - As peças do procedimento referidas no número anterior, incluindo a minuta do anúncio, são aprovadas pelo órgão competente para a decisão de contratar.
+2 - As peças do procedimento referidas no número anterior, com exceção da minuta do anúncio, são aprovadas pelo órgão competente para a decisão de contratar.
 
 3 - Nos concursos de concepção, os termos de referência constituem a única peça do procedimento, sendo aprovados pelo órgão competente para a decisão de seleccionar um ou vários trabalhos de concepção.
 

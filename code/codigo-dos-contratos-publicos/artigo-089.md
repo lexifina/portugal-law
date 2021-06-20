@@ -4,7 +4,7 @@
 
 1 - Sem prejuízo do disposto no n.º 5, o valor da caução é, no máximo, de 5 % do preço contratual, devendo ser fixado em função da complexidade e expressão financeira do respetivo contrato.
 
-2 - Quando o preço total resultante da proposta adjudicada seja considerado anormalmente baixo, o valor da caução a prestar pelo adjudicatário é, no máximo, de 10 % do preço contratual.
+2 - Sem prejuízo do disposto no n.º 5, quando o preço total resultante da proposta adjudicada seja considerado anormalmente baixo por aplicação do disposto no n.º 1 do artigo 71.º, o valor da caução a prestar pelo adjudicatário é, no máximo, de 10 % do preço contratual.
 
 3 - Quando, em contratos que não impliquem o pagamento de um preço pela entidade adjudicante, for exigida a prestação de caução, o valor desta não pode ser superior a 2 % do montante correspondente à utilidade económica imediata do contrato para a entidade adjudicante.
 

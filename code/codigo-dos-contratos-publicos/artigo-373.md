@@ -8,9 +8,9 @@ a) Tratando-se de trabalhos da mesma espécie de outros previstos no contrato e 
 
 b) Tratando-se de trabalhos de espécie diferente ou da mesma espécie de outros previstos no contrato mas a executar em condições diferentes, deve o empreiteiro apresentar uma proposta de preço e de prazo de execução.
 
-2 - Nos casos previstos na alínea b) do número anterior, o empreiteiro deve apresentar ao dono da obra uma proposta de preço e de prazo de execução dos trabalhos a mais, no prazo de 10 dias a contar da data da recepção da ordem de execução dos mesmos.
+2 - Nos casos previstos na alínea b) do número anterior, o empreiteiro deve apresentar ao dono da obra uma proposta de preço e de prazo de execução dos trabalhos complementares, no prazo de 15 dias a contar da data da receção do pedido para a sua apresentação, o qual deve ser acompanhado dos elementos de projeto necessários à sua completa definição e execução.
 
-3 - O dono da obra dispõe de 10 dias para se pronunciar sobre a proposta do empreiteiro, podendo, em caso de não aceitação da mesma, apresentar uma contra-proposta.
+3 - O dono da obra dispõe de 15 dias para se pronunciar sobre a proposta do empreiteiro, podendo, em caso de não aceitação da mesma, apresentar uma contraproposta.
 
 4 - Se o dono da obra não efectuar nenhuma comunicação ao empreiteiro dentro do prazo previsto no número anterior, considera-se que a proposta deste foi aceite.
 

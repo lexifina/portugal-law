@@ -32,7 +32,7 @@ i) Quais os aspectos da execução do contrato a celebrar que a entidade adjudic
 
 ii) Se a negociação decorrerá, parcial ou totalmente, por via electrónica e os respectivos termos;
 
-b) O critério de adjudicação e os eventuais factores e subfactores que o densificam, não sendo, porém, necessário um modelo de avaliação das propostas.
+b) A modalidade do critério de adjudicação e os eventuais fatores e subfatores que o densificam, não sendo, porém, necessário um modelo ou uma grelha de avaliação das propostas.
 
 3 - (Revogado.)
 

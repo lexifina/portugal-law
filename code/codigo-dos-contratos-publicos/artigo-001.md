@@ -22,6 +22,6 @@
 
 4 - (Revogado.)
 
-5 - A parte iii do presente Código contém o regime substantivo aplicável à execução, modificação e extinção das relações contratuais administrativas.
+5 - A parte iii do presente Código contém o regime substantivo aplicável à execução, modificação e extinção dos contratos administrativos, nos termos do artigo 280.º
 
 6 - (Revogado.)

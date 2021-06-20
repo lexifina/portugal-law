@@ -16,24 +16,10 @@ c) Não impeça, restrinja ou falseie a concorrência garantida pelo disposto no
 
 4 - Exceptuam-se do disposto no número anterior as cláusulas contratuais de efeito normativo, cuja eficácia depende de publicidade conferida segundo as formalidades aplicáveis aos regulamentos do contraente público.
 
-5 - São ineficazes os contratos celebrados:
+5 - (Revogado).
 
-a) Na sequência de um procedimento de formação de contrato sem publicação prévia de anúncio do respetivo procedimento no Jornal Oficial da União Europeia, quando exigível;
+6 - (Revogado).
 
-b) Antes de decorrido, quando aplicável, o prazo de suspensão previsto no n.º 3 do artigo 95.º ou na alínea a) do n.º 1 do artigo 104.º, conforme o caso.
+7 - (Revogado).
 
-6 - A ineficácia de um contrato com fundamento na alínea a) do número anterior não se verifica quando, cumulativamente:
-
-a) O procedimento de formação do contrato tenha sido escolhido em função de um critério material previsto nos artigos 24.º a 27.º;
-
-b) Tenha sido publicado o anúncio voluntário de transparência previsto no artigo 78.º-A;
-
-c) A outorga do contrato não tenha ocorrido antes de decorridos 10 dias após a data da referida publicação.
-
-7 - A ineficácia prevista no n.º 1 pode ser afastada com os fundamentos previstos no n.º 4 do artigo 283.º, devendo a decisão judicial ou arbitral obrigatoriamente determinar uma das seguintes sanções alternativas:
-
-a) Redução da duração do contrato; ou
-
-b) Sanção pecuniária de montante inferior ou igual ao preço contratual.
-
-8 - A decisão referida no número anterior não pode afastar a ineficácia com base na ponderação do interesse económico diretamente relacionado com o contrato em causa, quando tal interesse assente, designadamente, nos custos resultantes de atraso na execução do contrato, de abertura de um novo procedimento de formação do contrato, de mudança do cocontratante ou de obrigações legais resultantes da ineficácia.
+8 - (Revogado).

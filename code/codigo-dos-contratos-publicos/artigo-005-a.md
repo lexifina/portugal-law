@@ -28,6 +28,6 @@ a) O contrato estabelece uma cooperação entre as entidades adjudicantes, no â
 
 b) A cooperação é regida exclusivamente por considerações de interesse público; e
 
-c) As entidades adjudicantes não exercem no mercado livre mais de 20 % das atividades abrangidas pelo contrato de cooperação.
+c) As entidades adjudicantes não exercem no mercado livre 20 % ou mais das atividades abrangidas pelo contrato de cooperação.
 
 6 - Para efeitos do apuramento das percentagens previstas na alínea b) do n.º 1 e na alínea c) do número anterior, deve ser tido em conta o volume médio total de negócios, ou uma medida alternativa adequada, baseada na atividade, tais como os custos suportados pela pessoa coletiva em causa no que diz respeito a serviços, fornecimentos ou obras, nos três anos anteriores ou, quando não tenha três anos de atividade concluídos, a projeção de atividades a desenvolver.

@@ -10,7 +10,7 @@
 
 2 - Quando o contrato a celebrar não implique o pagamento de um preço pela entidade adjudicante, a decisão de contratar cabe ao órgão desta que for competente para o efeito nos termos da respectiva lei orgânica ou dos seus estatutos.
 
-3 - Quando o valor do contrato for igual ou superior a (euro) 5 000 000, a fundamentação prevista no n.º 1 deve basear-se numa avaliação de custo/benefício e deve conter, nomeadamente e quando aplicável:
+3 - Quando o valor do contrato for igual ou superior a (euro) 5 000 000 ou, no caso de parceria para a inovação, a (euro) 2 500 000, a fundamentação prevista no n.º 1 deve basear-se numa avaliação de custo-benefício e deve conter, quando aplicável:
 
 a) A identificação do tipo de beneficiários do contrato a celebrar;
 
@@ -26,7 +26,7 @@ f) O impacto previsível para a melhoria da organização;
 
 g) O impacto previsível no desenvolvimento ou na reconversão do país ou da região coberta pelo investimento.
 
-4 - Quando o tipo de procedimento utilizado seja a parceria para a inovação, o limiar referido no número anterior é de (euro) 2 500 000.
+4 - O disposto no número anterior não é aplicável aos procedimentos de formação de contratos que se destinem à execução de projetos financiados ou cofinanciados por fundos europeus, à promoção da habitação pública ou de custos controlados, ou que tenham por objeto a conservação, manutenção e reabilitação de imóveis, infraestruturas e equipamentos ou a aquisição de bens ou serviços essenciais de uso corrente.
 
 5 - As peças do procedimento devem identificar todos os pareceres prévios, licenciamentos e autorizações necessárias que possam condicionar o procedimento e a execução do contrato.
 
