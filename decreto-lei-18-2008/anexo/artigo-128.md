@@ -10,6 +10,6 @@
 
 2 - À decisão de adjudicação prevista no número anterior está subjacente a decisão de contratar e a decisão de escolha do ajuste direto nos termos do disposto na alínea d) do artigo 19.º e na alínea d) do n.º 1 do artigo 20.º
 
-3 - O procedimento de ajuste direto regulado na presente secção está dispensado de quaisquer outras formalidades previstas no presente Código, incluindo as relativas à celebração do contrato e à publicitação prevista no artigo 465.º
+3 - O procedimento de ajuste direto regulado na presente secção está dispensado de quaisquer outras formalidades previstas no presente Código, incluindo as relativas à celebração do contrato, à publicitação prevista no artigo 465.º e à designação do gestor do contrato previsto no artigo 290.º-A, assim como do regime de faturação eletrónica.
 
 4 - O regime previsto no presente artigo é aplicável, nos limites previstos no n.º 1, às aquisições de bens e serviços realizadas através de plataformas de intermediação online.

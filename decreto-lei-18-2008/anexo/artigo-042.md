@@ -18,9 +18,25 @@ a) A aplicação de medidas de promoção da igualdade de género e da igualdade
 
 b) O aumento da participação das mulheres no mercado de trabalho;
 
-c) A conciliação da vida profissional com a vida familiar e pessoal dos trabalhadores afetos à execução do contrato;
+c) A conciliação da vida profissional com a vida familiar e pessoal de todos os trabalhadores afetos à execução do contrato;
 
-d) A inclusão de pessoas com deficiência no mercado de trabalho.
+d) A inclusão de pessoas com deficiência no mercado de trabalho;
+
+e) A valorização da economia local e regional;
+
+f) A promoção da economia circular e dos circuitos curtos de distribuição;
+
+g) A promoção da sustentabilidade ambiental;
+
+h) A valorização de processos, produtos ou materiais inovadores;
+
+i) A contribuição para a promoção da inovação ou de emprego científico ou qualificado;
+
+j) A promoção de atividades culturais e a dinamização de património cultural;
+
+k) A valorização da contratação coletiva;
+
+l) O combate ao trabalho precário.
 
 7 - (Revogado.)
 
@@ -30,4 +46,6 @@ d) A inclusão de pessoas com deficiência no mercado de trabalho.
 
 10 - (Revogado.)
 
-11 - Para efeitos do disposto nos n.os 3 e 5, consideram-se aspetos submetidos à concorrência todos aqueles que são objeto de avaliação de acordo com o critério de adjudicação, e aspetos não submetidos à concorrência todos aqueles que, sendo apreciados, não são objeto de avaliação e classificação.
+11 - Para efeito do disposto nos n.os 3 e 5, consideram-se aspetos submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação, e aspetos não submetidos à concorrência todos os demais.
+
+12 - A inclusão no caderno de encargos das condições elencadas no n.º 6 pode contemplar, nomeadamente, a fixação de quantidades mínimas de fornecimento de bens ou de prestação de serviços destinadas à promoção desses objetivos.

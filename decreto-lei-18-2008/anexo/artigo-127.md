@@ -2,7 +2,7 @@
 
 ### Publicitação e eficácia do contrato
 
-1 - A celebração de quaisquer contratos na sequência de consulta prévia ou ajuste direto deve ser publicitada, pela entidade adjudicante, no portal dos contratos públicos através de uma ficha conforme modelo constante do anexo iii ao presente Código, do qual faz parte integrante.
+1 - A celebração de quaisquer contratos na sequência de consulta prévia ou ajuste direto deve ser publicitada, pela entidade adjudicante, no portal dos contratos públicos através de uma ficha conforme modelo constante de portaria dos membros do Governo responsáveis pelas áreas das finanças e das obras públicas.
 
 2 - (Revogado.)
 

@@ -10,7 +10,7 @@
 
 2 - Pode não ser exigida prestação de caução:
 
-a) Quando o preço contratual for inferior a (euro) 200 000;
+a) Quando o preço contratual for inferior a (euro) 500 000;
 
 b) Quando se trate de contratos em que o adjudicatário seja uma entidade prevista nos artigos 2.º ou 7.º; ou
 

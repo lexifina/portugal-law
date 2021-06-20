@@ -18,6 +18,6 @@ b) Contratos de serviços subsidiados diretamente em mais de 50 % do respetivo p
 
 2 - As entidades adjudicantes que concedem os subsídios referidos no número anterior são responsáveis por assegurar o cumprimento das normas do presente Código, quando não forem elas próprias a celebrar os contratos subsidiados ou quando celebrarem esses contratos em nome e por conta de outras entidades.
 
-3 - Fica excecionada do disposto no n.º 1 a formação de contratos celebrados por entidades não previstas no artigo 2.º e no artigo 7.º, que sejam financiados com recurso a subsídios sujeitos a reembolso integral.
+3 - A formação de contratos celebrados por entidades não previstas no artigo 2.º e no artigo 7.º, que sejam financiados com recurso a subsídios sujeitos a reembolso de pelo menos 85 % do seu valor, fica excecionada do disposto no n.º 1.
 
 4 - Sem prejuízo do disposto no número anterior, à formação dos contratos aí previstos aplicam-se os princípios gerais da contratação pública, em especial, da concorrência, da imparcialidade, da igualdade, da boa administração, da transparência, da legalidade, da proporcionalidade, da boa-fé e da publicidade.

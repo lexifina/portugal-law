@@ -2,7 +2,7 @@
 
 ### Direito aplicável
 
-1 - A parte iii aplica-se aos contratos sujeitos à parte ii que configurem relações jurídicas contratuais administrativas, entendidas, para efeitos do presente Código e sem prejuízo do disposto em lei especial, como o acordo de vontades, independentemente da sua forma ou designação, em que pelo menos uma das partes seja um contraente público e que se integre em qualquer uma das seguintes categorias:
+1 - A parte iii aplica-se aos contratos administrativos, entendendo-se como tal aqueles em que pelo menos uma das partes seja um contraente público e que se integrem em qualquer uma das seguintes categorias:
 
 a) Contratos que, por força do presente Código, da lei ou da vontade das partes, sejam qualificados como contratos administrativos ou submetidos a um regime substantivo de direito público;
 
@@ -12,8 +12,8 @@ c) Contratos que confiram ao cocontratante direitos especiais sobre coisas públ
 
 d) Contratos que a lei submeta, ou que admita que sejam submetidos, a um procedimento de formação regulado por normas de direito público e em que a prestação do cocontratante possa condicionar ou substituir, de forma relevante, a realização das atribuições do contraente público.
 
-2 - As demais relações contratuais administrativas, incluindo as estabelecidas entre contraentes públicos, são regidas pela legislação especialmente aplicável, sem prejuízo da aplicação subsidiária do regime da parte iii, quando os tipos dos contratos não afastem as razões justificativas da disciplina em causa.
+2 - Sem prejuízo do disposto no número seguinte, as disposições do presente título só se aplicam quando o tipo contratual em questão não afaste, pela sua natureza, as razões justificativas da disciplina em causa.
 
-3 - As disposições do presente título que têm por objetivo a defesa dos princípios gerais da contratação pública e dos princípios da concorrência e da igualdade de tratamento e não-discriminação, e em concreto as disposições relativas aos regimes de invalidade, limites à modificação objetiva, cessão da posição contratual e subcontratação são aplicáveis, com as devidas adaptações, aos contratos sujeitos à parte II, ainda que estes não configurem relações jurídicas contratuais administrativas.
+3 - As disposições do presente título relativas à invalidade, limites à modificação objetiva, cessão da posição contratual e subcontratação são aplicáveis, com as devidas adaptações e sem prejuízo do disposto em lei especial, a todos os contratos públicos, independentemente da sua qualificação como contratos administrativos nos termos do n.º 1.
 
-4 - Em tudo quanto não estiver regulado no presente Código, na demais legislação administrativa ou em lei especial, e não seja suficientemente disciplinado por aplicação dos princípios gerais de direito administrativo, é subsidiariamente aplicável às relações jurídicas contratuais administrativas, com as necessárias adaptações, o direito civil.
+4 - Em tudo quanto não estiver regulado no presente Código ou em lei especial, ou não resultar da aplicação dos princípios gerais de direito administrativo, é subsidiariamente aplicável à execução dos contratos administrativos, com as necessárias adaptações, o direito civil.

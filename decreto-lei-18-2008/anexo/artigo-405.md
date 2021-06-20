@@ -18,9 +18,11 @@ d) Se o empreiteiro não der início à execução dos trabalhos a mais decorrid
 
 e) Se houver suspensão da execução dos trabalhos pelo dono da obra por facto imputável ao empreiteiro ou se este suspender a execução dos trabalhos sem fundamento e fora dos casos previstos no n.º 1 do artigo 366.º, desde que da suspensão advenham graves prejuízos para o interesse público;
 
-f) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º;
+f) Se ocorrerem desvios ao plano de trabalhos e o empreiteiro não apresentar um plano de trabalhos modificado nos termos do disposto no n.º 2 do artigo 404.º;
 
-g) Se não foram corrigidos os defeitos detectados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º
+g) Se ocorrerem desvios ao plano de trabalhos nos termos do disposto no n.º 3 do artigo 404.º, sem prejuízo do disposto na alínea anterior;
+
+h) Se não foram corrigidos os defeitos detectados no período de garantia da obra ou se não for repetida a execução da obra com defeito ou substituídos os equipamentos defeituosos, nos termos do disposto no artigo 397.º
 
 2 - Em caso de resolução, o dono da obra deve informar a Inspecção-Geral das Obras Públicas, Transportes e Comunicações e o Instituto da Construção e do Imobiliário, I. P., e, no caso previsto na alínea a) do número anterior, a Autoridade para as Condições de Trabalho.
 

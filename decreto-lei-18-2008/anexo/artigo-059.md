@@ -4,7 +4,7 @@
 
 1 - São variantes as propostas que, relativamente a um ou mais aspectos da execução do contrato a celebrar, contenham atributos que digam respeito a condições contratuais alternativas nos termos expressamente admitidos pelo caderno de encargos.
 
-2 - Nos casos previstos no número anterior, é sempre permitida a apresentação de propostas variantes, salvo quando o programa do procedimento não o permita expressamente, sendo que a apresentação de propostas variantes implica a apresentação de proposta base.
+2 - Nos casos em que o programa do procedimento permita a apresentação de propostas variantes, os concorrentes são obrigados a apresentar proposta base.
 
 3 - Quando respeitem a aspectos da execução do contrato a celebrar que se encontrem submetidos à concorrência pelo caderno de encargos para efeitos da apresentação de propostas base, as alternativas referidas no n.º 1 só podem ser admitidas fora dos limites daquela concorrência.
 

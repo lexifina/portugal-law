@@ -6,7 +6,7 @@
 
 2 - Quando tenha sido publicado o anúncio de pré-informação previsto no artigo 34.º e o mesmo contemple as prestações objeto do contrato a celebrar, o prazo mínimo referido no número anterior é de 10 dias, desde que:
 
-a) O anúncio de pré-informação tenha sido enviado para publicação com uma antecedência mínima de 52 dias e máxima de 12 meses em relação à data do envio do anúncio previsto no número anterior; e
+a) O anúncio de pré-informação tenha sido enviado para publicação com uma antecedência mínima de 35 dias e máxima de 12 meses em relação à data do envio do anúncio previsto no número anterior; e
 
 b) O anúncio de pré-informação tenha incluído todas as informações, disponíveis à data da sua publicação, exigidas nos termos do anexo v, parte B, secção i da Diretiva n.º 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro.
 

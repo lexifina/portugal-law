@@ -4,7 +4,7 @@
 
 Constitui contra-ordenação punível com coima de (euro) 2000 a (euro) 3700 ou de (euro) 7500 a (euro) 44 800, consoante seja aplicada a pessoa singular ou a pessoa colectiva:
 
-a) A participação de candidato ou de concorrente que se encontre em alguma das situações previstas no artigo 55.º no momento da apresentação da respectiva candidatura ou proposta, da adjudicação ou da celebração do contrato;
+a) A participação de candidato ou de concorrente que se encontre em alguma das situações previstas no artigo 55.º, no n.º 6 do artigo 113.º ou no n.º 2 do artigo 114.º no momento da apresentação da respetiva candidatura ou proposta, da adjudicação ou da celebração do contrato;
 
 b) A não apresentação pelo adjudicatário, no prazo fixado para o efeito, de quaisquer documentos de habilitação exigidos no presente Código ou pelo órgão competente para a decisão de contratar;
 

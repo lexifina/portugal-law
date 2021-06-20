@@ -6,7 +6,7 @@
 
 ### Modelo de avaliação das propostas
 
-1 - Caso a determinação da proposta economicamente mais vantajosa se faça pela relação qualidade-preço, ou a avaliação do preço ou custo se decomponha em mais do que um fator de avaliação, o modelo de avaliação das propostas tem de observar o disposto nos números seguintes.
+1 - Nos casos previstos na alínea a) do n.º 1 do artigo 74.º, deve ser elaborado um modelo de avaliação das propostas que explicite claramente os fatores e os eventuais subfatores relativos aos aspetos da execução do contrato a celebrar submetidos à concorrência pelo caderno de encargos.
 
 2 - A pontuação global de cada proposta, expressa numericamente, corresponde ao resultado da soma das pontuações parciais obtidas em cada factor ou subfactor elementar, multiplicadas pelos valores dos respectivos coeficientes de ponderação.
 

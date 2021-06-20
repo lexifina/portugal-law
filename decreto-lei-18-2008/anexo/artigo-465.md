@@ -6,6 +6,6 @@
 
 ### Publicitação dos contratos
 
-1 - A informação relativa à formação e à execução dos contratos públicos sujeitos à parte ii é obrigatoriamente publicitada no portal dos contratos públicos, através de uma ficha conforme modelo constante do anexo iii ao presente Código.
+1 - A informação relativa à formação e à execução dos contratos públicos é obrigatoriamente publicitada no portal dos contratos públicos, através de fichas conforme modelo constante de portaria dos membros do Governo responsáveis pelas áreas das finanças e das obras públicas.
 
 2 - (Revogado.)

@@ -28,13 +28,13 @@ l) O prazo para a apresentação das propostas;
 
 m) O prazo da obrigação de manutenção das propostas, quando superior ao previsto no artigo 65.º;
 
-n) O modelo de avaliação das propostas, nos termos do artigo 139.º;
+n) A modalidade do critério de adjudicação, bem como, se necessário, o modelo ou a grelha de avaliação das propostas, nos termos dos n.os 2 e 3 do artigo 74.º, respetivamente;
 
 o) O modo de prestação da caução ou os termos em que não seja exigida essa prestação de acordo com o disposto no n.º 4 do artigo 88.º;
 
 p) O valor da caução, quando esta for exigida;
 
-q) A possibilidade de adoção de um ajuste direto, nos termos do disposto na alínea a) do n.º 1 do artigo 25.º ou na alínea a) do n.º 1 do artigo 27.º, ou da consulta prévia, nos termos do artigo 27.º-A;
+q) A possibilidade de adoção de um ajuste direto, nos termos do disposto na alínea a) do n.º 1 do artigo 25.º ou na alínea a) do n.º 1 do artigo 27.º, quando for o caso;
 
 r) A indicação de que se trata de um contrato reservado, nos termos dos artigos 54.º-A ou 250.º-D, se for o caso.
 

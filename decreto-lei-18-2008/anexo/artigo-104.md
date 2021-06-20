@@ -27,3 +27,5 @@ d) Só tenha sido apresentada uma proposta.
 a) No caso de assinatura presencial do contrato, a data, a hora e o local em que ocorrerá a respetiva outorga, com a antecedência mínima de cinco dias;
 
 b) No caso de assinatura por meios eletrónicos, o prazo para a outorga e remessa do contrato, não podendo em caso algum esse prazo ser inferior a três dias.
+
+4 - Sem prejuízo do disposto nos números anteriores, nos procedimentos pré-contratuais que tenham sido adotados segundo critério de urgência, ou em qualquer outro tipo de procedimento, desde que por motivos de urgência imperiosa resultante de acontecimentos imprevisíveis pela entidade adjudicante, ainda que posteriores à decisão de contratar, caso seja necessário dar imediata execução ao contrato, a redução a escrito pode ocorrer em momento posterior ao do início das prestações contratuais, devendo o contrato ser outorgado no prazo máximo de 30 dias após essa data.

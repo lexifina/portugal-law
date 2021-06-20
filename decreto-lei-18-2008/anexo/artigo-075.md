@@ -2,7 +2,7 @@
 
 ### Factores e subfactores
 
-1 - Os fatores e os eventuais subfatores que densificam o critério de adjudicação da proposta economicamente mais vantajosa devem estar ligados ao objeto do contrato a celebrar, abrangendo todos, e apenas, os aspetos da execução do contrato a celebrar submetidos à concorrência pelo caderno de encargos.
+1 - Os fatores e eventuais subfatores que densificam o critério de adjudicação e o critério de desempate devem estar ligados ao objeto do contrato a celebrar.
 
 2 - Os fatores e os eventuais subfatores podem ser, em função dos objetivos e das necessidades da entidade adjudicante, designadamente os seguintes:
 
@@ -12,7 +12,17 @@ b) Organização, qualificações e experiência do pessoal encarregado da execu
 
 c) Serviço e assistência técnica pós-venda e condições de entrega, designadamente a data de entrega, o processo de entrega, o prazo de entrega ou de execução e o tempo de prestação de assistência;
 
-d) Sustentabilidade ambiental ou social do modo de execução do contrato, designadamente no que respeita ao tempo de transporte e de disponibilização do produto ou serviço, em especial no caso de produtos perecíveis, e a denominação de origem ou indicação geográfica, no caso de produtos certificados.
+d) Sustentabilidade ambiental ou social do modo de execução do contrato, designadamente no que respeita ao tempo de transporte e de disponibilização do produto ou serviço, em especial no caso de produtos perecíveis, à denominação de origem ou indicação geográfica, no caso de produtos certificados, à eficiência energética, em especial no fornecimento de energia, e à utilização de produtos de origem local ou regional, de produção biológica, bem como de produtos provenientes de detentores do Estatuto de Agricultura Familiar;
+
+e) Circularidade, designadamente a utilização de produtos e serviços circulares, a opção por circuitos curtos de distribuição, a eficiência no uso de materiais e a redução de impactos ambientais;
+
+f) Grau de inovação de processos, produtos ou materiais utilizados na execução do contrato;
+
+g) Promoção da inovação ou de emprego científico ou qualificado na execução do contrato;
+
+h) Promoção de atividades culturais e dinamização de património cultural;
+
+i) Promoção do cumprimento do disposto no Código do Trabalho e convenções coletivas de trabalho, quando aplicáveis.
 
 3 - Sem prejuízo do disposto na alínea b) do número anterior, os fatores e subfatores não podem dizer respeito, direta ou indiretamente, a situações, qualidades, características ou outros elementos de facto relativos aos concorrentes.
 
