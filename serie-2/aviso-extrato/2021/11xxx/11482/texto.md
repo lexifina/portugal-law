@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 11482/2021
+Sumário: Proposta do Regulamento do Cemitério de Fermentelos.
+Carlos Miguel Nolasco de Lemos, Presidente da Freguesia de Fermentelos, torna público no uso das competências previstas nos artigos 100.º e 101.º do Código de Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que o órgão executivo da freguesia deliberou na sua reunião de 3 de maio de 2021, submeter a consulta pública pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente anúncio na 2.ª série do Diário da República, o Projeto de Regulamento do Cemitério de Fermentelos, cujo texto pode ser consultado nas instalações da Freguesia de Fermentelos bem como através do site oficial desta Autarquia.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do artigo 101.º do Código do Procedimento Administrativo, endereçados ao Presidente da Freguesia de Fermentelos, entregues nas instalações sitas na Rua do Miradouro n.º 13, Sala 1, 3750-455 Fermentelos, ou ainda através do e-mail jffermentelos.secretaria@gmail.com.
+28 de maio de 2021. - O Presidente da Freguesia de Fermentelos, Carlos Miguel Nolasco de Lemos.
+314284597
