@@ -41,3 +41,19 @@ r) Dar parecer e participar na regulamentação e no processo de licenciamento n
 s) Executar as demais tarefas que lhe sejam superiormente determinadas.
 
 2 - O CCCTII é dirigido por um coordenador, designado nos termos do artigo 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de Maio, republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de Outubro.
+
+## Subsecção VII
+
+## Direcção Regional dos Equipamentos e Transportes Terrestres
+
+## Subsecção VIII
+
+## Laboratório Regional de Engenharia Civil
+
+## Secção III
+
+## Serviços executivos periféricos
+
+## Capítulo III
+
+## Pessoal

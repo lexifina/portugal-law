@@ -1,3 +1,31 @@
+## Subsecção II
+
+## Conselho Regional de Obras Públicas
+
+## Secção II
+
+## Serviços executivos
+
+## Subsecção I
+
+## Serviço de Apoio Jurídico e Notariado Privativo
+
+## Subsecção II
+
+## Serviço de Planeamento e Controlo Financeiro
+
+## Subsecção III
+
+## Centro de Informação e Documentação (Biblioteca, Arquivo e Documentação)
+
+## Subsecção IV
+
+## Gabinete de Recursos Humanos
+
+## Subsecção V
+
+## Gabinete de Relações Públicas
+
 ## Subsecção VI
 
 ## Direcção Regional da Ciência, Tecnologia e Comunicações
