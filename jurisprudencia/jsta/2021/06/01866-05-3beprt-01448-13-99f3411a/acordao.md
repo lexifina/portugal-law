@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-06-23, processo 01866/05.3BEPRT 01448/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01866/05.3BEPRT 01448/13
+
+**Data do Acordão:** 06/23/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** CADUCIDADE DO DIREITO À LIQUIDAÇÃO; IRC; LIQUIDAÇÃO OFICIOSA
+
+**Nº Convencional:** JSTA000P27905
+
+**Nº do Documento:** SA22021062301866/05
+
+**Data de Entrada:** 05/21/2021
+
+**Recorrente:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A.................., LDA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O regime da caducidade do direito à liquidação de impostos, matéria que não é de conhecimento oficioso, encontra actualmente consagração genérica no artº.45, da L.G.Tributária, aprovada pelo dec.lei 398/98, de 17/12, norma que vem consagrar um prazo de caducidade de quatro anos (cfr.anterior artº.33, nº.1, do C.P.Tributário, o qual consagrava o prazo de cinco anos). Face à redacção do aludido artº.45, da L.G.Tributária, é claro que, quer o exercício do direito à liquidação, quer a notificação do seu conteúdo ao contribuinte, e não apenas aquele primeiro acto, têm que ocorrer dentro do mencionado prazo de quatro anos contados do facto tributário, sob pena de operar a caducidade de tal direito. O prazo de caducidade em análise justifica-se por razões objectivas de segurança jurídica, tendo o propósito último de gerar a definição da situação do obrigado tributário num prazo razoável, cujo decurso conduz à preclusão do direito do Estado de promover a liquidação dos impostos que lhe sejam eventualmente devidos.
+
+II - No caso dos autos, estamos face a liquidação oficiosa de I.R.C. (cfr.artº.83, nº.1, al.b), do C.I.R.C., na redacção em vigor no ano de 2000), tributo que é, unanimemente, considerado como um imposto periódico, pelo que o prazo de caducidade do direito à liquidação se conta a partir do termo do ano em que se verificou o facto tributário (cfr.artº.45, nº.4, da L.G.Tributária). Tendo em conta que se trata da liquidação relativa ao ano fiscal de 2000, o prazo inicia-se em 31/12/2000, tendo o seu termo final em 31/12/2004.
+
+III - O C.I.R.C. prevê que, em face do incumprimento pelo sujeito passivo da obrigação de apresentar declaração de rendimentos e nela proceder à autoliquidação do imposto, a A. Fiscal proceda à liquidação oficiosa com base na matéria colectável do exercício mais próximo que se encontre determinada (cfr.artº.83, nº.1, al.b), do C.I.R.C., na redacção em vigor no ano de 2000, a que corresponde o actual artº.90, nº.1, al.b), do mesmo diploma).
+
+IV - O prazo fixado para essa liquidação oficiosa é meramente ordenador e dirigido aos serviços da Fazenda Pública, destinando-se a prevenir a eventual caducidade do direito de liquidar. Tal prazo não reveste a natureza de um prazo de caducidade, como resulta da possibilidade, consignada no artº.83, nº.10, do C.I.R.C. (actual artº.90, nº.12), de a A. Fiscal corrigir essa liquidação dentro do prazo normal de caducidade previsto no artº.45, da L.G.T., cobrando ou anulando, então, as diferenças apuradas.
+
+V - No sentido acabado de explanar vai, de resto, a jurisprudência uniforme deste Tribunal.
+
+(sumário da exclusiva responsabilidade do relator)
