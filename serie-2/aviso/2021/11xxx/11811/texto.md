@@ -1,0 +1,6 @@
+Aviso n.º 11811/2021
+Sumário: Projeto de Regulamento do Serviço de Gestão de Resíduos Urbanos e Higiene Pública da Inframoura Empresa de Infraestruturas da Vilamoura, E. M.
+Projeto de Regulamento do Serviço de Gestão de Resíduos Urbanos e Higiene Pública da Inframoura - Empresa de Infraestruturas de Vilamoura, E. M.
+Vítor Manuel Gonçalves Aleixo, Presidente da Câmara Municipal de Loulé, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 100.º e no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião ordinária realizada no dia 17 de março de 2021 e reunião extraordinária da Assembleia Municipal de 03 de maio de 2021, submeter a audiência dos interessados e a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente aviso do Projeto Regulamento do Serviço de Gestão de Resíduos Urbanos e Higiene Pública da Inframoura - Empresa de Infraestruturas de Vilamoura, E. M., que se encontra disponível para consulta na página do Município em www.cm-loule.pts interessados podem dirigir as suas sugestões à Câmara Municipal de Loulé, ou através de correio eletrónico para gap@cm-loule.pt, dentro do prazo referido.
+19 de maio de 2021. - O Presidente da Câmara Municipal de Loulé, Vítor Manuel Gonçalves Aleixo.
+314309982
