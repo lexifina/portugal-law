@@ -18,13 +18,19 @@ v) (Revogada.)
 
 vi) Melhorar a capacitação institucional dos parceiros sociais com assento na CPCS.
 
-b) No âmbito do POR Norte, inserção de inativos e de desempregados no mercado de trabalho;
+b) No âmbito do POR Norte:
+
+i) Promover a inserção de inativos e de desempregados no mercado de trabalho;
+
+ii) Reforçar o apoio ao mercado de trabalho e à manutenção do nível de emprego, com vista a apoiar a retoma da atividade das empresas e o regresso dos trabalhadores ao horário normal de trabalho;
 
 c) No âmbito do POR Centro:
 
 i) Integrar de forma sustentada desempregados no mercado de trabalho;
 
-ii) Promover o desenvolvimento de competências pessoais, sociais e profissionais em especial de desempregados e desempregados com desvantagens necessitando de apoio particular para acesso ao mercado de trabalho e desenvolver iniciativas para a inovação e a experimentação social que facilitem a dinamização de estratégias de inclusão social.
+ii) Promover o desenvolvimento de competências pessoais, sociais e profissionais em especial de desempregados e desempregados com desvantagens necessitando de apoio particular para acesso ao mercado de trabalho e desenvolver iniciativas para a inovação e a experimentação social que facilitem a dinamização de estratégias de inclusão social.;
+
+iii) Reforçar o apoio ao mercado de trabalho e à manutenção do nível de emprego, com vista a apoiar a retoma da atividade das empresas e o regresso dos trabalhadores ao horário normal de trabalho;
 
 d) No âmbito do POR Lisboa:
 
@@ -40,7 +46,9 @@ e) No âmbito do POR Alentejo:
 
 i) Integrar de forma sustentada desempregados no mercado de trabalho;
 
-ii) Promover o desenvolvimento de competências pessoais, sociais e profissionais em especial de desempregados e desempregados com desvantagens necessitando de apoio particular para acesso ao mercado de trabalho e desenvolver iniciativas para a inovação e a experimentação social que facilitem a dinamização de estratégias de inclusão social.
+ii) Promover o desenvolvimento de competências pessoais, sociais e profissionais em especial de desempregados e desempregados com desvantagens necessitando de apoio particular para acesso ao mercado de trabalho e desenvolver iniciativas para a inovação e a experimentação social que facilitem a dinamização de estratégias de inclusão social;
+
+iii) Reforçar o apoio ao mercado de trabalho e à manutenção do nível de emprego, com vista a apoiar a retoma da atividade das empresas e o regresso dos trabalhadores ao horário normal de trabalho;
 
 f) No âmbito do POR Algarve:
 

@@ -25,3 +25,5 @@ i) (Revogada.)
 j) (Revogada.)
 
 k) Reforço da capacitação institucional dos parceiros sociais com assento na Comissão Permanente de Concertação Social (CPCS), prevista na PI 8vii do eixo prioritário 1 do PO ISE.
+
+l) Incentivo extraordinário à normalização da atividade empresarial.

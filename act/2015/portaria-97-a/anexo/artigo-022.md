@@ -47,3 +47,5 @@ k) Participantes com emprego, 6 meses depois de terminada a sua participação;
 l) Participantes que trabalham por conta própria, 6 meses depois de terminada a sua participação.
 
 3 - Os resultados a contratualizar com os beneficiários no âmbito das tipologias de operações previstas nos POR devem ainda considerar o contributo das operações candidatas para o indicador de resultado "Participantes empregados, 6 meses depois de terminada a participação em ações de trabalho socialmente necessário".
+
+4 - Os resultados a contratualizar com os beneficiários no âmbito da tipologia de operações 'Incentivo extraordinário à normalização da atividade empresarial' devem considerar o contributo das operações candidatas para o indicador de resultado 'CVR X - Empresas que mantêm o nível de emprego no final do apoio (n.º)'.

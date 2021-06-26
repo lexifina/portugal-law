@@ -28,7 +28,9 @@ b) No âmbito do POR Norte:
 
 i) PI 8i, "Acesso ao emprego pelos candidatos a emprego e os inativos, incluindo desempregados de longa duração e pessoas afastadas do mercado de trabalho, igualmente através de iniciativas locais de emprego e de apoio à mobilidade dos trabalhadores", do eixo prioritário 6 "Emprego e mobilidade dos trabalhadores";
 
-ii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades iguais e a participação ativa e melhorar a empregabilidade", do eixo prioritário 7 "Inclusão social e pobreza".
+ii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades iguais e a participação ativa e melhorar a empregabilidade", do eixo prioritário 7 "Inclusão social e pobreza";
+
+iii) PI 8v, 'Adaptação dos trabalhadores, das empresas e dos empresários à mudança', do eixo prioritário 6 'Emprego e mobilidade dos trabalhadores';
 
 c) No âmbito do POR Centro:
 
@@ -42,13 +44,15 @@ i) PI 8i, "Acesso ao emprego pelos candidatos a emprego e os inativos, incluindo
 
 ii) PI 8iv, "Igualdade entre homens e mulheres em todos os domínios, incluindo no acesso ao emprego, na progressão na carreira, na conciliação da vida profissional e privada e na promoção da igualdade de remuneração para trabalho igual", do eixo prioritário 5, "Promover a sustentabilidade e a qualidade do emprego e apoiar a mobilidade dos trabalhadores";
 
-iii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades iguais e a participação ativa e melhorar a empregabilidade", do eixo prioritário 6 "Promover a inclusão social e combater a pobreza e a discriminação".
+iii) PI 8v, 'Adaptação dos trabalhadores, das empresas e dos empresários à mudança', do eixo prioritário 'Promover e dinamizar a empregabilidade' (EMPREGAR E CONVERGIR);
 
 e) No âmbito do POR Alentejo:
 
 i) PI 8i, "Acesso ao emprego pelos candidatos a emprego e os inativos, incluindo desempregados de longa duração e pessoas afastadas do mercado de trabalho, igualmente através de iniciativas locais de emprego e de apoio à mobilidade dos trabalhadores", do eixo prioritário 5 "Emprego e valorização económica de recursos endógenos";
 
-ii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades iguais e a participação ativa e melhorar a empregabilidade", do eixo prioritário 6 "Coesão social e inclusão".
+ii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades iguais e a participação ativa e melhorar a empregabilidade", do eixo prioritário 6 "Coesão social e inclusão";
+
+iii) PI 8v, 'Adaptação dos trabalhadores, das empresas e dos empresários à mudança', do eixo prioritário 5 'Promover a sustentabilidade e a qualidade do emprego e apoiar a mobilidade dos trabalhadores';
 
 f) No âmbito do POR Algarve:
 
