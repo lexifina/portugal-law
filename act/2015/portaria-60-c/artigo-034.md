@@ -12,8 +12,12 @@ b) Ratio de participantes que concluíram ações de formação contínua dirigi
 
 c) Taxa de cobertura de crianças no pré-escolar associada aos contratos de desenvolvimento, para as ações previstas na alínea k) do n.º 1 do artigo 30.º, quando apoiadas pelos POR Lisboa e Algarve;
 
-d) Ratio de escolas abrangidas por projetos específicos de combate ao insucesso e ao abandono que progrediram, aproximando-se ou superando o valor esperado, para as ações previstas na alínea h) do n.º 1 do artigo 30.º, quando apoiadas pelos PO Regionais Norte, Centro, Alentejo, Lisboa e Algarve.
+d) Ratio de escolas abrangidas por projetos específicos de combate ao insucesso e ao abandono que progrediram, aproximando-se ou superando o valor esperado, para as ações previstas na alínea h) do n.º 1 do artigo 30.º, quando apoiadas pelos PO Regionais Norte, Centro, Alentejo, Lisboa e Algarve;
+
+e) Número médio de alunos por computador
 
 3 - Os avisos para apresentação de candidaturas, por concurso ou por convite, nas ações referidas no número anterior, podem definir os indicadores de resultado a contratualizar com os beneficiários que desenvolvam os indicadores de resultado ali enunciados, ou outros que tenham um contributo indireto para o seu alcance, tendo em conta as tipologias de operações e ações em causa.
 
 4 - O grau de cumprimento e de incumprimento dos resultados contratados, decorrentes do disposto nos números anteriores, para além de ponderado no âmbito do processo de seleção das operações é tido em consideração para efeitos de redução ou revogação do financiamento, bem como no processo de avaliação de candidaturas subsequentes do mesmo beneficiário.
+
+5 - Sempre que exista mais do que uma meta contratualizada, o grau de cumprimento dessas metas por operação é apurado através da média simples dos níveis de cumprimento verificados nos indicadores em causa face às metas contratualizadas.
