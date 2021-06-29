@@ -1,0 +1,176 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "890",
+    "id": "120966",
+    "titulo": "Protege a liberdade de expressão online "
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2021-06-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "61354",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-06-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-07-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e57466c5a574a6c5a53316a4f574a6d4c54513259546b74596a56685a6930794d32597a4d544135597a51324d5749756347526d&fich=45aeebee-c9bf-46a9-b5af-23f3109c461b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-22",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Conselho Superior  dos Tribunais Administrativos  e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354e574a6b5a6a646d5a433079596a4a6c4c5451314e3249744f54426a4d6930774f444d30596a4d775a574d315a4455756347526d&fich=95bdf7fd-2b2e-457b-90c2-0834b30ec5d5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Entidade Reguladora para a Comunicação Social",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314e6a41355a54457a4d4330354e7a646d4c54526c4e6a6b74596a55784e4330325a4759794e47566d4e47457a596a59756347526d&fich=5609e130-977f-4e69-b514-6df24ef4a3b6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Centro Nacional de Cibersegurança",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a57497a4e4451785969316c4e6d55314c5452695a6a4574596d4d794d533031595751305a6d45304e445a68596d59756347526d&fich=feb3441b-e6e5-4bf1-bc21-5ad4fa446abf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d3249354e7a46694e5330794f5455354c54526a4d7a67744f474e6b5a53316b4e7a51315a575a6c597a51315a6a45756347526d&fich=53b971b5-2959-4c38-8cde-d745efec45f1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-07-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer + Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d6d5979595749354e7930794e7a45354c54526c4e7a51744f5451324d793033596a45355a4455344d7a497a4e444d756347526d&fich=32f2ab97-2719-4e74-9463-7b19d5832343.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-09-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a54526a4d6a6c6a4e5330334e444d774c5452685954417459574d304d69316b4f4446694e324a6c5a54686c4d3251756347526d&fich=6e4c29c5-7430-4aa0-ac42-d81b7bee8e3d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7264",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "7264",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Entidade Reguladora para a Comunicação Social em 2021-07-15"
+          },
+          {
+            "link": "",
+            "nome": "Centro Nacional de Cibersegurança - CNCS em 2021-07-15"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2021-06-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2021-06-30"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2021-06-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2021-06-30"
+          },
+          {
+            "link": "",
+            "nome": "Entidade Reguladora para a Comunicação Social em 2021-06-30"
+          },
+          {
+            "link": "",
+            "nome": "Centro Nacional de Cibersegurança - CNCS em 2021-06-30"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-06-29",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1256917",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929227",
+        "obs": null,
+        "pag": [
+          "43-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-07-19",
+        "pubLeg": "XIV",
+        "pubNr": "170",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/170/2021-07-19/43?pgs=43-60&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
