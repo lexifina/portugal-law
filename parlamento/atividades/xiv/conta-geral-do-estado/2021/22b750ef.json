@@ -1,0 +1,559 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MSw62GXLjFgk%2fxADoxHwZLXe6gFy62Ozrr1tJA5XVSNk%2fvxYrQL2xsBChRr2JkFNBjIClFH2ZYjvcBsv8cPvjZD8zLz2yqlrTOiqMOqRi5C9IJA7TFYKiwTBAuxVhlMJp2CS8awPcWmLSeoZVW454%2f0d1DPjUzZ9luROj%2b00vdKD4RdkoDn8Yfx%2fA4vL7GGCAfLzXewecVQzXyfRODNFsaz1AwfcRQODaL6lMIp%2bTZRaHUsMWqnHi8G0Ft%2b4SIeecWD6dqRfRr%2f5pPy56X1nGVOLdwimUxaWe3NdoaXjyaGWq6m3qY9iZUcDZGTXtWoY77gGRfm%2froDNfqryP6o3cgzHd6%2bKGaNfMPGzgj%2fnlwDcwASN%2fmg1ZY0QOxK0OJf8&fich=AtividadesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "b462056a98b76a62a0cdc9c1dd11350b9914ff627d67e4ce7f68f9ff7eac5457",
+  "legislatura": "XIV",
+  "tipo": "Conta Geral do Estado",
+  "numero": null,
+  "data_registo": "2021-06-30",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Conta Geral do Estado de 2020",
+    "Audicoes": [
+      "127501",
+      "127536",
+      "127542"
+    ],
+    "Comissao": "Comissão de Orçamento e Finanças",
+    "DataAgendamentoDebate": "2022-07-21",
+    "DataEntrada": "2021-06-30",
+    "DataParecerUTAO": null,
+    "DataPedidoParecer": null,
+    "DescTipo": "Conta Geral do Estado",
+    "Documentos": null,
+    "EntidadesExternas": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIV",
+    "Links": [
+      {
+        "DataDocumento": "2021-06-30 00:00:00.0",
+        "TipoDocumento": "Link",
+        "TituloDocumento": "Conta Geral do Estado",
+        "URL": "https://www.parlamento.pt/sites/COM/XIVLeg/5COF/Paginas/cge.aspx?t=51306446494449774d6a417651306446&Path=6148523063446f764c324679626d56304c334e706447567a4c31684a566b786c5a793944543030764e554e5052693942636e463161585a765132397461584e7a59573876513064464c304e48525341794d4449774c304e4852513d3d"
+      },
+      {
+        "DataDocumento": "2021-12-15 00:00:00.0",
+        "TipoDocumento": "Link",
+        "TituloDocumento": "Parecer Tribunal de Contas",
+        "URL": "https://www.parlamento.pt/sites/COM/XIVLeg/5COF/Paginas/cge.aspx?t=51306446494449774d6a417656484a70596e5675595777675a475567513239756447467a&Path=6148523063446f764c324679626d56304c334e706447567a4c31684a566b786c5a793944543030764e554e5052693942636e463161585a765132397461584e7a59573876513064464c304e48525341794d4449774c31527961574a31626d46734947526c49454e76626e526863773d3d"
+      },
+      {
+        "DataDocumento": "2022-01-13 00:00:00.0",
+        "TipoDocumento": "Link",
+        "TituloDocumento": "Parecer Conselho Económico e Social",
+        "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a566b786c5a793944543030764e554e5052693942636e463161585a765132397461584e7a59573876513064464c304e48525355794d4449774d6a4176554746795a574e6c636955794d454e48525355794d4449774d6a416c4d6a41744a544977646d567963384f6a627955794d475a70626d46734a5449775958427962335a685a47456c4d6a426c625355794d4642735a5737446f584a70627935775a47593d&fich=Parecer+CGE+2020+-+vers%c3%a3o+final+aprovada+em+Plen%c3%a1rio.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2022-03-28 00:00:00.0",
+        "TipoDocumento": "Link",
+        "TituloDocumento": "Relatório UTAO",
+        "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a566b786c5a793944543030764e554e5052693942636e463161585a765132397461584e7a59573876513064464c304e48525355794d4449774d6a417656565242547931535a5777744d4455744d6a41794d693144523055744d6a41794d4335775a47593d&fich=UTAO-Rel-05-2022-CGE-2020.pdf&Inline=true"
+      }
+    ],
+    "LinkTexto": null,
+    "MembrosGoverno": null,
+    "Observacoes": null,
+    "ParecerComissao": [
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-15 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764f57526a4d5745354f4463744d544d324d7930304e5463314c574977597a4d744d6a597a4f4452694d7a457a4d6a646a4c6e426b5a673d3d&fich=9dc1a987-1363-4575-b0c3-26384b31327c.pdf&Inline=true"
+          }
+        ],
+        "Id": "8325",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "1",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7274",
+            "motivoCessacao": null,
+            "nome": "Hugo Carneiro"
+          }
+        ],
+        "Sigla": "CACDLG"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-14 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938334f47597a5a4759334e7930784d6d59344c54526c4e546b744f575a694d79316c4d5745795a6a4534597a513459544d756347526d&fich=78f3df77-12f8-4e59-9fb3-e1a2f18c48a3.pdf&Inline=true"
+          }
+        ],
+        "Id": "8326",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "Numero": "2",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "6866",
+            "motivoCessacao": null,
+            "nome": "Sérgio Marques"
+          }
+        ],
+        "Sigla": "CNECP"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-14 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e4463784d445a694d4749744e5463324e4330305a6a67344c574532596a4174596a51344e6a52684d546b304d57566a4c6e426b5a673d3d&fich=47106b0b-5764-4f88-a6b0-b4864a1941ec.pdf&Inline=true"
+          }
+        ],
+        "Id": "8327",
+        "Nome": "Comissão de Defesa Nacional",
+        "Numero": "3",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6884",
+            "motivoCessacao": null,
+            "nome": "Jorge Botelho"
+          }
+        ],
+        "Sigla": "CDN"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-14 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e454e425253394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764d3255344d574d3359544174595745354d7930304d5451784c574a684e7a49744d6a4d344e6a426a4e32466c4d7a426c4c6e426b5a673d3d&fich=3e81c7a0-aa93-4141-ba72-23860c7ae30e.pdf&Inline=true"
+          }
+        ],
+        "Id": "8328",
+        "Nome": "Comissão de Assuntos Europeus",
+        "Numero": "4",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6661",
+            "motivoCessacao": null,
+            "nome": "Carlos Brás"
+          }
+        ],
+        "Sigla": "CAE"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-07-13 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Relatório",
+            "tituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e546b314e544e684d3255744e446b324d6930304d3249304c5745784d4449744d574a695a5459774e6d59794d475a684c6e426b5a673d3d&fich=59553a3e-4962-43b4-a102-1bbe606f20fa.pdf&Inline=true"
+          }
+        ],
+        "Id": "8329",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "5",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1468",
+            "motivoCessacao": null,
+            "nome": "Sérgio Ávila"
+          }
+        ],
+        "Sigla": "COF"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-15 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d76595452684d7a4a6d5a4463744d4467335a5330304f474a6a4c546b314d6a6b744d6a49775a4451344d6d5a6c4d544a6c4c6e426b5a673d3d&fich=a4a32fd7-087e-48bc-9529-220d482fe12e.pdf&Inline=true"
+          }
+        ],
+        "Id": "8330",
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "Numero": "6",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7350",
+            "motivoCessacao": null,
+            "nome": "Fátima Correia Pinto"
+          }
+        ],
+        "Sigla": "CEOPPH"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-14 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938324e44566d597a46684e7930334f475a6a4c54517a597a5974596a686d4d53316a4d6a59794f444d334e6d466b5a5751756347526d&fich=645fc1a7-78fc-43c6-b8f1-c2628376aded.pdf&Inline=true"
+          }
+        ],
+        "Id": "8331",
+        "Nome": "Comissão de Agricultura e Pescas",
+        "Numero": "7",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7403",
+            "motivoCessacao": null,
+            "nome": "Hugo Maravilha"
+          }
+        ],
+        "Sigla": "CAPes"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-14 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764f545a6b5a6d5a694f5467744d4745794d6930304d5749314c5467795a4745745a5445354d5463325a6a49354e574e694c6e426b5a673d3d&fich=96dffb98-0a22-41b5-82da-e19176f295cb.pdf&Inline=true"
+          }
+        ],
+        "Id": "8332",
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "8",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "IL",
+            "id": "6875",
+            "motivoCessacao": null,
+            "nome": "Carla Castro"
+          }
+        ],
+        "Sigla": "CEC"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-15 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938354d3251334f57526b4d43316b5a544a684c5452694f574d744f574d305a6930775a6a566c597a5530595463774f4463756347526d&fich=93d79dd0-de2a-4b9c-9c4f-0f5ec54a7087.pdf&Inline=true"
+          }
+        ],
+        "Id": "8333",
+        "Nome": "Comissão de Saúde",
+        "Numero": "9",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "2227",
+            "motivoCessacao": null,
+            "nome": "Jorge Seguro Sanches"
+          }
+        ],
+        "Sigla": "CS"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-15 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764f445a6d4d44457a596a59745a6a49774f5330304d475a6d4c546b354d4745744d7a646b4d32526b5a54457a4d474d314c6e426b5a673d3d&fich=86f013b6-f209-40ff-990a-37d3dde130c5.pdf&Inline=true"
+          }
+        ],
+        "Id": "8334",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "10",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6886",
+            "motivoCessacao": null,
+            "nome": "Cristina Sousa"
+          }
+        ],
+        "Sigla": "CTSSI"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-15 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764e6d55784f57517a4d4759745a47526c595330304e6a4d7a4c57457a5a574d74597a4131596d526a4e7a45784f5455314c6e426b5a673d3d&fich=6e19d30f-ddea-4633-a3ec-c05bdc711955.pdf&Inline=true"
+          }
+        ],
+        "Id": "8335",
+        "Nome": "Comissão de Ambiente e Energia",
+        "Numero": "11",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "3935",
+            "motivoCessacao": null,
+            "nome": "Hugo Pires"
+          }
+        ],
+        "Sigla": "CAENE"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-14 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a52573530615752685a47567a525868305a584a7559584d764d3259794d54426a4e444974596d4a694e4330304e7a41344c5749794e475974596d59334f446b314d7a637a4d44526a4c6e426b5a673d3d&fich=3f210c42-bbb4-4708-b24f-bf789537304c.pdf&Inline=true"
+          }
+        ],
+        "Id": "8336",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "Numero": "12",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6848",
+            "motivoCessacao": null,
+            "nome": "António Pedro Faria"
+          }
+        ],
+        "Sigla": "CCCJD"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-21 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938354d574d7a597a59324f4330334d7a6b324c54517a4d3249744f544e6d4e5330324d4455794e47466a4e54417a595467756347526d&fich=91c3c668-7396-433b-93f5-60524ac503a8.pdf&Inline=true"
+          }
+        ],
+        "Id": "8337",
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "Numero": "13",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7352",
+            "motivoCessacao": null,
+            "nome": "Guilherme Almeida"
+          }
+        ],
+        "Sigla": "CAPOTPL"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2022-06-15 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d545244564556454c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938314e7a5a6c4f545a694d6930304d444d304c5451774f54597459544d334d5330345a6d4d304d7a6b354d3259305a6a6b756347526d&fich=576e96b2-4034-4096-a371-8fc43993f4f9.pdf&Inline=true"
+          }
+        ],
+        "Id": "8338",
+        "Nome": "Comissão de Transparência e Estatuto dos Deputados",
+        "Numero": "14",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "Sigla": "CTED"
+      }
+    ],
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915427",
+        "obs": "Parecer do Tribunal de Contas",
+        "pag": [
+          "2-499"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-12-17",
+        "pubLeg": "XIV",
+        "pubNr": "57",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/03/057/2021-12-17/2?pgs=2-499&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915431",
+        "obs": "Relatório da Comissão de Orçamento e Finanças e pareceres das comissões parlamentares, da Unidade Técnica de Apoio Orçamental (UTAO) e do Conselho Económico e Social (CES)",
+        "pag": [
+          "2-343"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-16",
+        "pubLeg": "XV",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/022/2022-07-16/2?pgs=2-343&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "99",
+        "obs": null,
+        "pag": [
+          "38-48"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-22",
+        "pubLeg": "XV",
+        "pubNr": "35",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/035/2022-07-22/38?pgs=38-48&org=PLC"
+      }
+    ],
+    "Relatores": null,
+    "Sessao": "2",
+    "TextoRelatorio": null,
+    "TextosAprovados": [
+      "33654",
+      "33666"
+    ],
+    "Tipo": "CGE",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2022-07-21",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>IL</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>, <I> PAN</I>, <I> L</I>",
+        "id": "93258",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926445",
+            "obs": null,
+            "pag": [
+              "58-58"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-07-22",
+            "pubLeg": "XV",
+            "pubNr": "35",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/035/2022-07-22/58?pgs=58&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "35",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ],
+    "VotacaoRelatorio": null
+  }
+}
