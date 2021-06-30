@@ -15,3 +15,5 @@ c) Percentagem dos doutoramentos apoiados concluídos nos prazos previstos, nas 
 3 - Os avisos para apresentação de candidaturas, por concurso ou por convite, podem definir outros indicadores de resultado a contratualizar com os beneficiários, que desenvolvam os indicadores enunciados no número anterior ou que tenham um contributo indireto para o seu alcance, tendo em conta as tipologias de operações e ações em causa.
 
 4 - O grau de cumprimento e de incumprimento dos resultados contratados, decorrentes do disposto nos números anteriores, para além de ponderado no âmbito do processo de seleção das operações é tido em consideração para efeitos de redução ou revogação do financiamento, bem como no processo de avaliação de candidaturas subsequentes do mesmo beneficiário.
+
+5 - Sempre que exista mais do que uma meta contratualizada, o grau de cumprimento dessas metas por operação é apurado através da média simples dos níveis de cumprimento verificados nos indicadores em causa face às metas contratualizadas.

@@ -14,6 +14,8 @@ d) (Revogada.)
 
 e) As linhas de crédito para estudantes do ensino superior, em frequência de Cursos Técnicos Superiores Profissionais, licenciatura, mestrado e de doutoramento.
 
+f) Skills 4 pós-COVID - Competências para o futuro no Ensino Superior.
+
 2 - São elegíveis no âmbito dos programas operacionais regionais do continente das regiões menos desenvolvidas as seguintes ações, cuja legislação de referência se encontra acessível no Portal do Portugal 2020:
 
 a) As bolsas de mobilidade instituídas pelo Programa +Superior;

@@ -18,7 +18,7 @@ f) Os estabelecimentos de ensino público, do ensino particular e cooperativo, a
 
 g) Os estabelecimentos públicos de ensino e organismos do Ministério da Educação e Ciência, a rede de centros de gestão direta e participada do IEFP, I. P. e outras pessoas coletivas de direito público e de direito privado, com ou sem fins lucrativos, nas ações previstas na alínea g) do n.º 1 do artigo 30.º, exceto nas ações previstas na alínea seguinte;
 
-h) A Direção-Geral da Educação, enquanto beneficiário responsável pela execução de políticas públicas nacionais, nos termos do artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, para as ações enquadradas nos planos de ação estratégica de promoção do sucesso escolar, devidamente inseridos no Programa Nacional de Promoção do Sucesso Escolar, no quadro da tipologia de operação prevista na alínea g) do n.º 1 do artigo 30.º;
+h) (Revogada.)
 
 i) (Revogada.)
 
@@ -26,6 +26,6 @@ j) As entidades proprietárias dos estabelecimentos de ensino particular e coope
 
 k) Instituições e organismos de direito público, nas ações previstas na alínea j) do n.º 1 do artigo 30.º;
 
-l) Pessoas coletivas de direito público da administração central e local, pessoas coletivas que integrem o âmbito das Organizações da Economia Social, entidades ou consórcios gestores de títulos de impacto social, nas ações previstas na alínea l) do n.º 1 do artigo 30.º
+l) A Secretaria-Geral da Educação e Ciência e as pessoas coletivas de direito público da administração local, nomeadamente os municípios, para a tipologia de operação prevista na alínea m) do n.º 1 do artigo 30.º
 
 2 - Os beneficiários das ações previstas no número anterior podem submeter candidaturas em parceria, nos termos previstos no artigo 7.º da Portaria n.º 60-A/2015, de 2 de março, alterada pelas Portarias n.os 242/2015, de 13 de agosto, e 122/2016, de 4 de maio, com exceção das operações em que intervenham na qualidade de organismos responsáveis pela execução de políticas públicas, na aceção do artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro.

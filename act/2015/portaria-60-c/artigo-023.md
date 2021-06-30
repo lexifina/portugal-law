@@ -13,3 +13,5 @@ c) As Instituições de Ensino Superior Politécnico, bem como as unidades orgâ
 d) (Revogada.)
 
 e) A FCT, enquanto beneficiária responsável pela execução das respetivas medidas de política pública, na aceção prevista no artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, nas ações previstas na alínea c) do n.º 2 do artigo 21.º
+
+f) Instituições do ensino superior que realizam formação nas regiões menos desenvolvidas do Continente, nas ações previstas na alínea f) do n.º 1 do artigo 21.º

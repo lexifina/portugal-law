@@ -26,7 +26,9 @@ j) Apoios ao pré-escolar;
 
 k) (Revogada.)
 
-l) Ações de inovação social para experimentação e teste de novas respostas na área educativa, em particular as desenvolvidas no âmbito da iniciativa Portugal Inovação Social.
+l) Ações de inovação social para experimentação e teste de novas respostas na área educativa, em particular as desenvolvidas no âmbito da iniciativa Portugal Inovação Social;
+
+m) Escola Digital - Reforço da rede de equipamentos tecnológicos e da conectividade.
 
 2 - No âmbito das ações previstas na alínea a) do n.º 1 são elegíveis as seguintes operações:
 
@@ -112,6 +114,8 @@ b) Promoção da transição para a vida pós-escolar;
 
 c) Disponibilização de produtos e tecnologias de apoio.
 
-10 - (Revogado.)
+10 - (Revogado.).
 
-11 - Em sede de divulgação dos avisos para apresentação de candidaturas podem ser fixados critérios e condições específicas que delimitem as condições de acesso às tipologias de operações previstas nos números anteriores.
+11 - A duração máxima das operações previstas na alínea d) do n.º 1 é de 48 meses.
+
+12- Em sede de divulgação dos avisos para apresentação de candidaturas podem ser fixados critérios e condições específicas que delimitem as condições de acesso às tipologias de operações previstas nos números anteriores.

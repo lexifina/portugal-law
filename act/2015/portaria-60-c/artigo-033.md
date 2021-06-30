@@ -26,7 +26,7 @@ g) Despesas com aquisição de bens e serviços técnicos especializados;
 
 h) Encargos com publicação, divulgação e disseminação de resultados e boas práticas;
 
-i) Aquisição de equipamentos na área das Tecnologias de Informação e Comunicação, desde que enquadrado em objetivos pedagógicos e educacionais, referentes a novos cursos ou a novas metodologias;
+i) Aquisição de equipamentos na área das Tecnologias de Informação e Comunicação, desde que enquadrado em objetivos pedagógicos e educacionais, referentes a novos cursos ou a novas metodologia e complementares aos apoiados ao abrigo da alínea m) do n.º 1 do artigo 30.º do presente regulamento;
 
 j) Encargos com a contratação de animadores culturais.
 
@@ -95,3 +95,5 @@ d) Encargos com aquisição de produtos e tecnologias de apoio à aprendizagem p
 11 - (Revogado.)
 
 12 - No âmbito das ações previstas na alínea i) do n.º 1 do artigo 30.º são elegíveis, com as necessárias adaptações, em função da natureza transnacional dos projetos, as despesas previstas no n.º 8 do presente artigo.
+
+13 - No âmbito das ações previstas na alínea m) do n.º 1 do artigo 30.º são elegíveis os encargos com a aquisição e disponibilização às escolas de equipamentos de suporte à digitalização da educação, nomeadamente computadores, com a respetiva conectividade e o software necessário à utilização em contexto educativo, seja em casa, seja na escola.

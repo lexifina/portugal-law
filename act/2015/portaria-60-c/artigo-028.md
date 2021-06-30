@@ -34,4 +34,6 @@ n) Apoiar projetos de divulgação, de forma apelativa e criativa, do conhecimen
 
 o) Aumentar a taxa de cobertura da educação pré-escolar;
 
-p) Desenvolver ações de inovação social para experimentação e teste de novas respostas para os principais desafios do sistema, nomeadamente o abandono escolar precoce e o insucesso escolar.
+p) Desenvolver ações de inovação social para experimentação e teste de novas respostas para os principais desafios do sistema, nomeadamente o abandono escolar precoce e o insucesso escolar;
+
+q) Promover a transição digital das escolas.
