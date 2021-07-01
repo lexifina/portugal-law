@@ -1,0 +1,7 @@
+Aviso n.º 12293/2021
+Sumário: Projeto de Regulamento Municipal de Gestão de Atividades nas Praias Marítimas.
+Joaquim Manuel dos Santos Baptista, Presidente da Câmara Municipal da Murtosa, torna público que, nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, durante o período de 30 dias úteis, a contar da data da publicação do presente aviso na 2.ª série do Diário da República, é submetido a consulta pública, o projeto de Regulamento de Gestão de Atividades nas Praias Marítimas do Município da Murtosa, aprovado por deliberação da Câmara Municipal de 04 de junho de 2021.
+Durante esse período, poderão os interessados, consultar o referido projeto de Regulamento, no Balcão de Atendimento Integrado da Câmara Municipal da Murtosa, nas Juntas de Freguesia do concelho e na internet, no sítio institucional do município (www.cm-murtosa.pt).
+Os interessados deverão enviar as suas sugestões por escrito, dentro do período acima mencionado, dirigidas ao Presidente da Câmara Municipal e remetidas por correio registado para a Câmara Municipal, sita na Praça do Município 1, 3870-101 Murtosa, ou entregue em mão, durante o horário normal de expediente, de segunda a sexta-feira, das 9h00 às 12h30 e das 13h30 às 16h30, ou por correio eletrónico para geral@cm-murtosa.pt.
+15 de junho de 2021. - O Presidente da Câmara Municipal da Murtosa, Joaquim Manuel dos Santos Baptista.
+314322958
