@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=z0cicdXsctfDc%2f9d1yARp1h7LFP%2fPGVMel8b9Bs7qvIqqHf34aeiO%2fdSKc0kDVR%2fLPbpEhs8U02z8aTDhVPvFDlF%2fdKEEctQOAVBXAtX7LLShPZo92EzlqrMf22g5W0QzGV0aCZng02VuQ2i47rX6KSQmaNsnVdROvmsS6SfIEfjwTnjcIIdg5uaB26FYEsyBxpEx535%2flU1eVLFTgnGeYJwshXN9MyVA9O79pSzvAtRnFl4FA9LHWO0i%2fC6Jes0DgOirCwusGnDpbNeLznaglZoqG5yA3uKgOEVajD%2bffRtAHBPCFjXYUZYch%2fFDjvpml8adBIDDiTp4ORyeY%2buOiAEn0WrTw1oHDEHpIHFYgc2Z%2f2WA%2bcWd1S5gBz1pfYaXvKLX4rMWQ6%2fHvxYqG7g79%2bPFDMkB%2bjM%2f8YhHh57FjA%3d&fich=RequerimentosXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "96fd1f34afbaf4a538efe509d9bf0017a1ace25d2f4cc53999570fe4dcaa1746",
+  "legislatura": "XIV",
+  "id": "121777",
+  "tipo": "Pergunta",
+  "numero": "2447",
+  "data_registo": "2021-07-01",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Combater a precariedade dos sapadores florestais",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "6533",
+        "nome": "Ricardo Vicente"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      }
+    ],
+    "DataEnvio": "2021-07-01",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2021-07-01",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministra do Trabalho Solidariedade e Segurança Social",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2021-07-21",
+            "docRemetida": null,
+            "entidade": "Ministra do Trabalho Solidariedade e Segurança Social",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c32557a4e446b7a4d7a566a4c544979595451744e4755325a4330354e4451354c5755774e6a686b595749335a446b304f4335775a47593d&fich=e349335c-22a4-4e6d-9449-e068dab7d948.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2021-07-01",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a59795a5467774d544a6c4c5441794e4441744e4459354d4330344e54686d4c5441314d574a6a4f5451324e57517a5a6935775a47593d&fich=62e8012e-0240-4690-858f-051bc9465d3f.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "121777",
+    "Legislatura": "XIV",
+    "Nr": "2447",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
