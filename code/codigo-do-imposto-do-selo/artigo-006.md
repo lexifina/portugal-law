@@ -8,7 +8,7 @@ a) O Estado, as Regiões Autónomas, as autarquias locais e as suas associaçõe
 
 b) As instituições de segurança social;
 
-c) As pessoas colectivas de utilidade pública administrativa e de mera utilidade pública;
+c) As pessoas coletivas com estatuto de utilidade pública;
 
 d) As instituições particulares de solidariedade social e entidades a estas legalmente equiparadas;
 
