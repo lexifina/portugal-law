@@ -192,9 +192,7 @@ Os brinquedos devem respeitar as medidas aplicáveis aprovadas ao abrigo do cap�
 
 APÊNDICE A
 
-Lista das substâncias classificadas como CMR e das suas formas de utilização autorizadas
-
-em conformidade com os n.os 4, 5 e 6 da parte III
+Lista das substâncias classificadas como CMR e das suas formas de utilização autorizadas em conformidade com os n.os 4, 5 e 6 da parte III
 
 (ver documento original)
 
@@ -280,12 +278,6 @@ A partir de 1 de Junho de 2015, o disposto no n.º 3 do artigo 46.º da Directiv
 
 APÊNDICE C
 
-Valores limite específicos para os produtos químicos utilizados em brinquedos que se destinam a
-
-serem usados por crianças com menos de 36 meses ou noutros brinquedos destinados a serem
-
-colocados na boca, definidos nos termos do n.º 2 do artigo 46.º da Diretiva n.º 2009/48/CE, do
-
-Parlamento Europeu e do Conselho, de 18 de junho.
+Valores-limite específicos para os produtos químicos utilizados em brinquedos que se destinam a serem usados por crianças com menos de 36 meses ou noutros brinquedos destinados a serem colocados na boca, definidos nos termos do n.º 2 do artigo 46.º da Diretiva 2009/48/CE, do Parlamento Europeu e do Conselho, de 18 de junho.
 
 (ver documento original)
