@@ -12,7 +12,7 @@ c) Participar em órgãos consultivos, nos termos do presente diploma;
 
 d) Beneficiar de direito de antena nos serviços públicos de rádio e televisão através das respectivas associações representativas de âmbito nacional;
 
-e) Beneficiar de todos os direitos e regalias atribuídos por lei às pessoas colectivas de utilidade pública;
+e) (Revogada).
 
 f) Beneficiar de isenção de imposto do selo;
 
