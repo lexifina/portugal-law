@@ -8,7 +8,7 @@ a) Estar a correr prazo para interposição de reclamação graciosa, recurso hi
 
 b) Estar pendente qualquer dos meios graciosos ou judiciais referidos na alínea anterior ou estar a dívida a ser paga em prestações, desde que a dívida exequenda se mostre garantida nos termos do artigo 169.º
 
-2 - Quando a importância do crédito for insuficiente para o pagamento da totalidade das dívidas e acrescido, o crédito é aplicado sucessivamente no pagamento dos juros de mora, de outros encargos legais e do capital da dívida, aplicando-se o disposto no n.º 3 do artigo 262.º
+2 - Quando a importância do crédito for insuficiente para o pagamento da totalidade das dívidas e acrescido, o crédito é aplicado sucessivamente no pagamento dos juros de mora, de outros encargos legais e do capital da dívida, aplicando-se o disposto no n.º 3 do artigo 262.º, sem prejuízo do disposto na parte final do n.º 2 do mesmo artigo.
 
 3 - A compensação efectua-se pela seguinte ordem de preferência:
 
@@ -18,7 +18,7 @@ b) Com dívidas da mesma proveniência e, se respeitarem a impostos periódicos,
 
 c) Com dívidas provenientes de tributos retidos na fonte ou legalmente repercutidos a terceiros e não entregues;
 
-d) Com dívidas provenientes de outros tributos, com excepção dos que constituam recursos próprios comunitários, que apenas serão compensados entre si.
+d) Com dívidas provenientes de outros tributos.
 
 4 - As certidões de dívida podem ser emitidas por via electrónica, sendo autenticadas pela assinatura electrónica avançada da entidade emitente, nos termos do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
 
