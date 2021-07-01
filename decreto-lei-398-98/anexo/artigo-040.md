@@ -16,7 +16,7 @@
 
 3 - Os contribuintes ou terceiros que efectuem o pagamento devem indicar os tributos e períodos de tributação a que se referem.
 
-4 - Em caso de o montante a pagar ser inferior ao devido, o pagamento é sucessivamente imputado pela seguinte ordem a:
+4 - Sem prejuízo do disposto no n.º 5, em caso de o montante a pagar ser inferior ao devido, o pagamento é sucessivamente imputado pela seguinte ordem a:
 
 a) Juros moratórios;
 
@@ -25,3 +25,11 @@ b) Outros encargos legais;
 c) Dívida tributária, incluindo juros compensatórios;
 
 d) Coimas.
+
+5 - Tratando-se de dívidas de recursos próprios tradicionais da União Europeia, o pagamento é sucessivamente imputado pela seguinte ordem a:
+
+a) Dívida tributária, incluindo juros compensatórios;
+
+b) Juros moratórios;
+
+c) Outros encargos legais.

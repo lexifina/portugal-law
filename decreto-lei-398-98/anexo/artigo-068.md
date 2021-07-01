@@ -30,7 +30,7 @@ b) Dos elementos necessários nos termos do Decreto-Lei n.º 61/2013, de 10 maio
 
 12 - O pedido de informação vinculativa é arquivado se estiver pendente ou vier a ser apresentada reclamação, recurso ou impugnação judicial que implique os factos objecto do pedido de informação.
 
-13 - Antes da prestação da informação vinculativa e quando o entender conveniente, a administração tributária procede à audição do requerente, ficando suspensos os prazos previstos nos n.os 2 e 4.
+13 - Antes da prestação da informação vinculativa, quando o entender conveniente, ou quando o requerente assim o solicitar no pedido, a administração tributária procede à sua audição, ficando suspensos os prazos previstos nos n.os 2 e 4.
 
 14 - A administração tributária, em relação ao objecto do pedido, não pode posteriormente proceder em sentido diverso da informação prestada, salvo em cumprimento de decisão judicial.
 
@@ -53,3 +53,7 @@ b) À existência de uma especial complexidade técnica que impossibilite a pres
 c) Ao enquadramento jurídico-tributário dos factos constantes da resposta ao pedido de informação vinculativa.
 
 21 - Os sujeitos passivos que tenham requerido a prestação de informações vinculativas ficam obrigados a comunicar à Autoridade Tributária e Aduaneira qualquer alteração aos elementos transmitidos no pedido inicial que seja relevante para efeitos da troca obrigatória e automática de informações ao abrigo da cooperação administrativa.
+
+22 - Sem prejuízo da dispensa ou da redução especial da taxa de urgência no caso de os sujeitos passivos requerentes preencherem os critérios de insuficiência económica definidos para a concessão da proteção jurídica ao abrigo do regime de acesso ao direito e aos tribunais, pela prestação urgente de uma informação vinculativa é devida uma taxa entre 12,5 unidades de conta e 125 unidades de conta, no caso de pessoas singulares que aufiram um rendimento máximo anual até ao limite superior do quarto escalão da tabela de Imposto Sobre o Rendimento das Pessoas Singulares e de micro, pequenas e médias empresas, de acordo com os critérios definidos no artigo 2.º do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a fixar em função da complexidade da matéria, aplicando-se nos restantes casos o disposto no n.º 7.
+
+23 - Para efeitos da instrução do pedido de informação vinculativa a efetuar nos termos do número anterior, o sujeito passivo deve juntar o documento comprovativo da sua certificação como micro, pequena ou média empresa ou facultar à Autoridade Tributária e Aduaneira a autorização necessária para proceder à verificação da sua qualidade, requisitos ou rendimentos.
