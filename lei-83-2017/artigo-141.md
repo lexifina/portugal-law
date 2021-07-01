@@ -1,9 +1,9 @@
 ## Subsecção III
 
-## Cooperação com as Autoridades Europeias de Supervisão e com o Banco Central Europeu
+## Cooperação com o Banco Central Europeu e com a Autoridade Bancária Europeia
 
 # Artigo 141.º
 
-### Cooperação com as Autoridades Europeias de Supervisão
+### Cooperação com a Autoridade Bancária Europeia
 
-As autoridades de supervisão das entidades financeiras cooperam com as Autoridades Europeias de Supervisão, designadamente facultando-lhes todas as informações necessárias ao cumprimento das obrigações que a estas incumbem, nos termos do disposto na Diretiva 2015/849/UE do Parlamento Europeu e do Conselho, de 20 de maio de 2015, e nos regulamentos que as instituem.
+As autoridades de supervisão das entidades financeiras cooperam com a Autoridade Bancária Europeia, designadamente facultando-lhe todas as informações necessárias ao cumprimento das suas atribuições, nos termos do disposto na legislação da União Europeia relativa à prevenção do branqueamento de capitais e financiamento do terrorismo e da legislação aplicável a essa autoridade.

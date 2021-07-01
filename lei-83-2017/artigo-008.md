@@ -38,7 +38,7 @@ g) Avaliar as principais tendências e ameaças de branqueamento de capitais e d
 
 a) Dos relatórios, e respetivas atualizações, que venham a ser disponibilizados pela Comissão Europeia sobre a identificação, análise e avaliação dos riscos de branqueamento de capitais e de financiamento do terrorismo relacionados com atividades transfronteiriças a que se encontra exposto o mercado interno da União Europeia;
 
-b) Dos pareceres, e respetivas atualizações, que venham a ser disponibilizados pelo Comité Conjunto das Autoridades Europeias de Supervisão sobre os riscos de branqueamento de capitais e de financiamento do terrorismo a que se encontra exposto o setor financeiro da União Europeia.
+b) Dos pareceres, e respetivas atualizações, que venham a ser disponibilizados pela Autoridade Bancária Europeia sobre os riscos de branqueamento de capitais e de financiamento do terrorismo a que se encontra exposto o setor financeiro da União Europeia.
 
 5 - As autoridades setoriais, na medida do legalmente admissível:
 
@@ -50,7 +50,7 @@ c) Consideram a informação a que se refere a alínea anterior na planificaçã
 
 d) Disponibilizam prontamente às entidades obrigadas, de acordo com as respetivas áreas de competência e pelo modo mais expedito e adequado, quaisquer informações que facilitem as avaliações de risco a conduzir por aquelas entidades.
 
-6 - As entidades para o efeito competentes disponibilizam à Comissão Europeia, às Autoridades Europeias de Supervisão e aos demais Estados-Membros:
+6 - As entidades competentes disponibilizam à Comissão Europeia, à Autoridade Bancária Europeia e aos demais Estados-Membros:
 
 a) Os resultados de cada exercício de avaliação e atualização a que se refere o n.º 2;
 

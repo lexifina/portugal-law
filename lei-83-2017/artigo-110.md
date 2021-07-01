@@ -6,6 +6,6 @@
 
 2 - A revogação da autorização ou habilitação compete à autoridade que a concedeu.
 
-3 - A decisão de revogação deve ser fundamentada, notificada ao visado e, no caso das instituições de crédito e das instituições financeiras, comunicada às respetivas Autoridades Europeias de Supervisão e autoridades de supervisão dos Estados-Membros da União Europeia onde a instituição tenha sucursais, filiais ou preste serviços.
+3 - A decisão de revogação é fundamentada, notificada ao visado e, no caso das instituições de crédito e das instituições financeiras, comunicada à Autoridade Bancária Europeia e às autoridades de supervisão dos Estados-Membros da União Europeia onde a instituição tenha sucursais, filiais ou preste serviços.
 
 4 - A autoridade competente confere à decisão de revogação a publicidade conveniente e toma as providências necessárias para o imediato encerramento de todos os estabelecimentos.

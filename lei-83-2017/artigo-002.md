@@ -18,7 +18,7 @@ iv) Promoção imobiliária;
 
 c) «Auditores», os revisores oficiais de contas, as sociedades de revisores oficiais de contas, os auditores de Estados-Membros da União Europeia e os auditores de países terceiros registados na CMVM;
 
-d) «Autoridades Europeias de Supervisão», a Autoridade Bancária Europeia, criada pelo Regulamento (UE) 1093/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma, criada pelo Regulamento (UE) 1094/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, e a Autoridade Europeia dos Valores Mobiliários e dos Mercados, criada pelo Regulamento (UE) 1095/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010;
+d) 'Autoridade Bancária Europeia', Autoridade Europeia de Supervisão criada pelo Regulamento (UE) 1093/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010;
 
 e) «Autoridades policiais», os órgãos de polícia criminal competentes para a investigação dos crimes de branqueamento e de financiamento do terrorismo, nos termos da lei, bem como para a investigação dos respetivos crimes subjacentes;
 
