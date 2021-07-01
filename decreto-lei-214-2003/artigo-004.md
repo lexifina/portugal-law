@@ -32,6 +32,8 @@ b) 'Mistura de méis não UE';
 
 c) 'Mistura de méis UE e não UE'.
 
-9 - As indicações a que se referem os n.os 7 e 8 são consideradas menções obrigatórias de rotulagem, nos termos da legislação em vigor.
+9 - O disposto no número anterior não se aplica nos casos em que o mel seja embalado em território nacional sendo originário de um ou vários Estados-Membros ou países terceiros, aplicando-se, nesses casos, o disposto no n.º 7.
 
-10 - O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção da alínea f) do n.º 2 do artigo 2.º do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, dos produtos referidos no anexo I.
+10 - As indicações a que se referem os n.os 7, 8 e 9 são consideradas menções obrigatórias de rotulagem.
+
+11 - O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção da alínea f) do n.º 2 do artigo 2.º do Regulamento (UE) n.º 1169/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, dos produtos referidos no anexo I.
