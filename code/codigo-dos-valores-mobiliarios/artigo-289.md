@@ -64,6 +64,8 @@ j) Às centrais de valores mobiliários, exceto nos termos previstos no artigo 7
 
 k) Às entidades habilitadas por lei especial a exercer atividades de intermediação financeira.
 
+l) Aos prestadores de serviços de financiamento colaborativo.
+
 4 - (Revogado.)
 
 5 - (Revogado.)
