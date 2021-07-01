@@ -18,7 +18,7 @@ f) A receção de óleos usados classificados com os códigos da LER atribuídos
 
 g) A combustão de pneus sem recuperação energética, nomeadamente a queima a céu aberto, em violação da proibição prevista na alínea a) do n.º 4 do artigo 54.º;
 
-h) A transferência de REEE para tratamento fora do território nacional em violação do disposto no n.º 1 do artigo 63.º;
+h) A transferência de REEE para tratamento fora do território nacional em violação do disposto no artigo n.º 1 do artigo 63.º;
 
 i) O exercício de operações de tratamento de VFV sem obtenção de licença ou sem a observância dos requisitos técnicos mínimos nos termos do n.º 2 do artigo 87.º;
 
@@ -26,9 +26,9 @@ j) O incumprimento da alínea f) do n.º 4 do artigo 61.º;
 
 k) A receção de resíduos de pilhas e acumuladores classificados como perigosos em incumprimento da proibição prevista na alínea a) do n.º 2 do artigo 76.º;
 
-l) A receção de VFV em incumprimento da proibição prevista na alínea f) do n.º 9 do artigo 87.º.
+l) A receção de VFV em incumprimento da proibição prevista na alínea f) do n.º 9 do artigo 87.º
 
-2 - Constitui contraordenação ambiental grave, punível nos termos da Lei Quadro das Contraordenações Ambientais, a prática dos seguintes atos:
+2 - Constitui contraordenação ambiental grave, punível nos termos da Lei-Quadro das Contraordenações Ambientais, a prática dos seguintes atos:
 
 a) A recolha ou o transporte de óleos usados sem observância dos procedimentos de amostragem, nos termos do n.º 3 do artigo 6.º;
 
@@ -44,7 +44,7 @@ f) A celebração de contratos com operadores de gestão de resíduos que impeç
 
 g) O incumprimento pelos comerciantes de EEE das obrigações estabelecidas no n.º 4 do artigo 13.º;
 
-h) O incumprimento pelos comerciantes de pilhas e acumuladores portáteis da obrigação de aceitar os respetivos resíduos, nos termos dos n.os 8 e 9 do artigo 13.º
+h) O incumprimento pelos comerciantes de pilhas e acumuladores portáteis da obrigação de aceitar dos respetivos resíduos, nos termos dos n.os 8 e 9 do artigo 13.º;
 
 i) O incumprimento pelos comerciantes de baterias industriais e de baterias e acumuladores para veículos automóveis da obrigação de aceitar os respetivos resíduos, nos termos dos n.os 10 e 11 do artigo 13.º;
 
@@ -72,13 +72,13 @@ t) O incumprimento dos termos e critérios do sistema de depósito previstos no 
 
 u) A violação da proibição prevista no n.º 4 do artigo 25.º;
 
-v) O incumprimento da obrigação de satisfazer os requisitos de fabrico e composição de embalagens, nos termos dos n.os 1 e 2 do artigo 26.º;
+v) A inobservância por parte dos produtores detentores de óleos usados das obrigações relativas à armazenagem e integração no circuito de gestão dos óleos usados, nos termos do n.º 2 do artigo 46.º e do artigo 48.º;
 
 w) A inobservância por parte dos produtores detentores de óleos usados das obrigações relativas à armazenagem e integração no circuito de gestão dos óleos usados, nos termos do n.º 2 do artigo 46.º e do artigo 48.º;
 
 x) A inobservância por parte dos operadores de tratamento de óleos usados das especificações técnicas e dos procedimentos de amostragem nos termos do n.º 2 do artigo 49.º;
 
-y) A operação de tratamento de óleos usados ou de resíduos resultantes dessas operações sem a respetiva licença, nos termos do disposto na alínea c) do n.º 3 do artigo 49.º;
+y) A operação de gestão de óleos usados ou de resíduos resultantes dessas operações sem a respetiva autorização, nos termos do disposto na alínea c) do n.º 3 do artigo 49.º;
 
 z) A gestão de óleos usados suscetível de provocar emissões atmosféricas que ultrapassem os valores limite aplicáveis, nos termos da alínea d) n.º 3 do artigo 49.º;
 
@@ -172,9 +172,9 @@ rrr) O incumprimento por parte dos operadores de desmantelamento da realização
 
 sss) O incumprimento de alguma das proibições referidas nas alíneas a) a e) do n.º 9 do artigo 87.º;
 
-ttt) O incumprimento das proibições referidas nos n.os 1 e 2 do artigo 88.º
+ttt) O incumprimento das proibições referidas nos n.os 1 a 4 do artigo 88.º.
 
-3 - Constitui contraordenação ambiental leve, punível nos termos da Lei Quadro das Contraordenações Ambientais, a prática dos seguintes atos:
+3 - Constitui contraordenação ambiental leve, punível nos termos da Lei-Quadro das Contraordenações Ambientais, a prática dos seguintes atos:
 
 a) O incumprimento das obrigações relativas ao sistema de contabilidade de gestão, nos termos do n.º 10 do artigo 11.º;
 
@@ -230,10 +230,10 @@ z) O incumprimento por parte dos operadores de tratamento das obrigações de in
 
 aa) O incumprimento por parte dos produtores de veículos das obrigações de informação previstas no n.º 4 do artigo 83.º
 
-4 - A negligência é punível nos termos do disposto na Lei Quadro das Contraordenações Ambientais.
+4 - A negligência é punível nos termos do disposto na Lei-Quadro das Contraordenações Ambientais.
 
 5 - O produto das coimas previstas no presente artigo é repartido de acordo com o disposto no artigo 73.º da Lei Quadro das Contraordenações Ambientais.
 
-6 - A condenação pela prática das infrações muito graves e graves previstas nos n.os 1 e 2 pode ser objeto de publicidade quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável, nos termos do disposto na Lei Quadro das Contraordenações Ambientais.
+6 - A condenação pela prática das infrações muito graves e graves previstas nos n.os 1 e 2 pode ser objeto de publicidade quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável, nos termos do disposto na Lei-Quadro das Contraordenações Ambientais.
 
-7 - A condenação pela prática da infração prevista na segunda parte da alínea h) do n.º 2, relativa ao incumprimento do n.º 8 do artigo 18.º, pode, em função da culpa do agente, implicar a cassação da licença da entidade gestora.
+7 - A condenação pela prática da infração prevista na alínea p) do n.º 2, relativa ao incumprimento do n.º 8 do artigo 18.º, pode, em função da culpa do agente, implicar a cassação da licença da entidade gestora.

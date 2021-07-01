@@ -8,7 +8,7 @@ a) «Acessório», artigo, enquanto equipamento elétrico e eletrónico, que, em
 
 b) «Acordo de financiamento», qualquer acordo ou mecanismo relativo ao empréstimo, locação ou venda diferida que se reporte a qualquer equipamento, independentemente de os termos desse acordo ou disposição preverem a transferência da propriedade desse equipamento ou a possibilidade de tal transferência;
 
-c) «Aparelho» qualquer equipamento elétrico ou eletrónico definido nos termos da alínea u), que seja alimentado por pilhas ou acumuladores ou suscetível de o ser;
+c) 'Aparelho' qualquer equipamento elétrico ou eletrónico definido nos termos da alínea x), que seja alimentado por pilhas ou acumuladores ou suscetível de o ser;
 
 d) «Armazenagem preliminar», a deposição controlada de resíduos em instalações onde os resíduos são descarregados, nomeadamente, em pontos de retoma ou pontos de recolha, a fim de serem preparados para posterior transporte para efeitos de tratamento;
 
@@ -42,7 +42,7 @@ n) «Dispositivo médico implantável ativo», qualquer dispositivo médico ativ
 
 o) «Dispositivo médico para diagnóstico in vitro», qualquer dispositivo médico que consista num reagente, produto reagente, calibrador, material de controlo, conjunto, instrumento, aparelho, equipamento ou sistema, utilizado isolada ou conjuntamente, destinado pelo fabricante a ser utilizado in vitro para a análise de amostras provenientes do corpo humano, incluindo sangue e tecidos doados, exclusiva ou principalmente com o objetivo de obter dados relativos ao estado fisiológico ou patológico, anomalias congénitas, determinação da segurança e compatibilidade com potenciais recetores, ou ao controlo de medidas terapêuticas, bem como os recipientes de amostras, que suportam ou não o vácuo, especificamente destinados pelo seu fabricante a conter e preservar diretamente amostras provenientes do corpo humano com vista a um estudo de diagnóstico in vitro;
 
-p) «Distribuidor», pessoa singular ou coletiva que exerce a atividade de venda ou revenda em quantidade de bens novos ou usados a outros operadores económicos, sendo que um distribuidor pode ser considerado simultaneamente produtor do produto, se atuar como tal na aceção constante da alínea nn);
+p) 'Distribuidor' pessoa singular ou coletiva que exerce a atividade de venda ou revenda em quantidade de bens novos ou usados a outros operadores económicos, sendo que um distribuidor pode ser considerado simultaneamente produtor do produto, se atuar como tal na aceção constante da alínea rr);
 
 q) «Embalador», aquele que embale ou faça embalar os seus produtos, ou proceda à importação ou aquisição intracomunitária de produtos embalados, e que é responsável pela sua colocação no mercado, sendo considerado o produtor do produto para efeitos do cumprimento das obrigações previstas no presente decreto-lei;
 
@@ -128,7 +128,7 @@ uu) (Revogada.)
 
 vv) (Revogada.)
 
-ww) (Revogada.)
+ww) 'Reutilização de componentes de VFV' qualquer operação através da qual os componentes de VFV sejam utilizados para o mesmo fim para que foram concebidos;
 
 xx) «Remoção», o tratamento manual, mecânico, químico ou metalúrgico mediante o qual substâncias, misturas e componentes perigosos ficam confinados num fluxo identificável ou parte identificável de um fluxo no processo de tratamento, sendo que uma substância, mistura ou componente é identificável caso possa ser controlada para verificar que o tratamento é seguro em termos ambientais;
 

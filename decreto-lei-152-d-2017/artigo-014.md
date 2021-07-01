@@ -14,7 +14,7 @@
 
 6 - A não apresentação da declaração prevista no número anterior determina, quando aplicável, a obrigatoriedade de liquidação dos valores de prestação financeira em causa.
 
-7 - Sem prejuízo do disposto no n.º 10, os produtores e distribuidores discriminam ao longo da cadeia, nas transações entre operadores económicos, num item específico a consagrar na respetiva fatura, o valor correspondente à prestação financeira fixada a favor da entidade gestora.
+7 - Sem prejuízo do disposto nos n.os 9 e 10, os produtores e distribuidores discriminam ao longo da cadeia, nas transações entre operadores económicos, num item específico a consagrar na respetiva fatura, o valor correspondente à prestação financeira fixada a favor da entidade gestora
 
 8 - No caso específico do fluxo de pneus e pneus usados, a obrigação prevista no número anterior aplica-se também nas transações com o consumidor final.
 

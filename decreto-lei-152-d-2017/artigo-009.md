@@ -68,7 +68,7 @@ h) Estratégia no âmbito da prevenção da produção de resíduos;
 
 i) Circuito económico concebido para o tratamento, evidenciando os termos da relação entre o produtor o embalador ou o fornecedor de embalagens de serviço, conforme aplicável, e os operadores económicos envolvidos.
 
-15 - A APA, I. P., e a DGAE emitem parecer conjunto sobre o requerimento previsto no n.º 9, dirigido aos membros do Governo responsáveis pelas áreas da economia e do ambiente, no prazo máximo de 120 dias consecutivos, mediante parecer prévio das Regiões Autónomas.
+15 - A APA, I. P., e a DGAE emitem parecer conjunto sobre o requerimento previsto no n.º 13, dirigido aos membros do Governo responsáveis pelas áreas da economia e do ambiente, no prazo máximo de 120 dias consecutivos, mediante parecer prévio das regiões autónomas.
 
 16 - No caso de se tratar de requerimento para renovação de licença, o prazo previsto no número anterior é de 90 dias consecutivos.
 
