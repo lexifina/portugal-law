@@ -14,6 +14,8 @@
 
 4 - Não sendo apresentadas propostas nos termos fixados nos números anteriores, é aberto de novo leilão electrónico, que decorre durante 15 dias, adjudicando-se o bem à proposta de valor mais elevado.
 
-5 - O órgão de execução fiscal pode determinar a venda em outra modalidade prevista no Código de Processo Civil.
+5 - Sem prejuízo do disposto no n.º 2 do artigo 235.º e no n.º 7 do artigo 244.º, qualquer que seja a modalidade de venda ou as tentativas de venda já realizadas, a venda não pode ser adjudicada por um montante inferior a 20 % do valor determinado nos termos do artigo 250.º
 
-6 - Os procedimentos e especificações da realização da venda por leilão electrónico são definidos por portaria do Ministro das Finanças.
+6 - O órgão de execução fiscal pode determinar a venda em outra modalidade prevista no Código de Processo Civil.
+
+7 - Os procedimentos e especificações da realização da venda por leilão electrónico são definidos por portaria do Ministro das Finanças.

@@ -13,3 +13,5 @@
 5 - A penhora do bem imóvel referido no n.º 2 não releva para efeitos do disposto no artigo 217.º, enquanto se mantiver o impedimento à realização da venda previsto no número anterior, e não impede a prossecução da penhora e venda dos demais bens do executado.
 
 6 - O impedimento legal à realização da venda de imóvel afeto a habitação própria e permanente previsto no n.º 2 pode cessar a qualquer momento, a requerimento do executado.
+
+7 - Pode ser suspensa, mediante decisão fundamentada do órgão de execução fiscal, a realização da venda, sempre que for do interesse da execução, nomeadamente quando o valor dos créditos reclamados pelos credores referidos nos artigos 240.º e 242.º for manifestamente superior ao da dívida exequenda e acrescido, podendo a execução prosseguir em outros bens.
