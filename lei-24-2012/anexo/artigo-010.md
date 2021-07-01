@@ -10,4 +10,4 @@ b) Quanto às fundações cuja atividade consista predominantemente na prestaç�
 
 2 - Para efeitos de enquadramento da atividade da fundação numa das duas alíneas do número anterior deve atender-se à componente que tenha maior expressão nas contas da fundação, sendo aplicável, em caso de igualdade dos respetivos valores, o regime que for mais favorável para a fundação.
 
-3 - O incumprimento durante dois anos consecutivos ou interpolados do disposto no n.º 1 determina a caducidade do estatuto de utilidade pública que lhes tenha sido atribuído.
+3 - (Revogado).
