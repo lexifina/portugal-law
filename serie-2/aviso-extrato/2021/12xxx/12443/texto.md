@@ -1,0 +1,13 @@
+Aviso (extrato) n.º 12443/2021
+Sumário: Declaração de não caducidade do procedimento de elaboração do Plano de Urbanização das Sete Fontes.
+Declaração de não caducidade do procedimento de elaboração do Plano de Urbanização das Sete Fontes
+Ricardo Bruno Antunes Machado Rio, Presidente da Câmara Municipal de Braga, torna público que a Câmara Municipal de Braga deliberou, em 8 de fevereiro de 2021, a não caducidade, com efeitos retroativos à data em que tal caducidade operou, do procedimento de elaboração do Plano de Urbanização das Sete Fontes publicado pelo Aviso (extrato) n.º 7127/2019, no Diário da República n.º 78/2019, Série II de 22 de abril de 2019 e prorrogado pelo Aviso (extrato) n.º 6193/2020, publicado no Diário da República n.º 73/2020, Série II de 14 abril de 2020.
+Para constar, publicita-se o presente Aviso no Diário da República, na plataforma colaborativa de gestão territorial, no sítio da internet da Câmara Municipal, bem como nos locais de estilo.
+8 de fevereiro de 2021. - O Presidente da Câmara Municipal, Ricardo Bruno Antunes Machado Rio.
+Declaração de não caducidade do procedimento de alteração do Plano Diretor Municipal de Braga em Sete Fontes
+Deliberação
+Ana Maria Araújo Silva, Coordenadora Técnica do Gabinete de Apoio aos Órgãos Autárquicos da Câmara Municipal de Braga:
+Certifico, no uso de competências subdelegadas pelo Sr. Diretor Municipal de Gestão, em 13 de março de 2020, que da ata da reunião ordinária e pública da Câmara Municipal de Braga, realizada no dia 8 de fevereiro de dois mil e vinte e um, com a presença de todos os membros, consta ter sido aprovada a seguinte deliberação: "declaração de não caducidade dos procedimentos de alteração do Plano Diretor Municipal de Braga em sete fontes e de elaboração do Plano de Urbanização das sete fontes: Do Sr. Vereador Miguel Bandeira submetendo à consideração do Executivo Municipal proposta de declaração de não caducidade dos procedimentos de alteração do Plano Diretor Municipal de Braga em Sete Fontes e elaboração do Plano de Urbanização das Sete Fontes, nos seguintes: - declaração de não caducidade dos procedimentos de alteração do Plano Diretor Municipal de Braga em Sete Fontes e elaboração do Plano de Urbanização das Sete Fontes, com efeitos retroativos à data em que tal caducidade operou; - Fixação do prazo necessário à conclusão do procedimento até ao fim da primeira semana do mês de abril próximo. Tudo conforme proposta em anexo e documentos que fazem parte integrante da mesma. "Deliberado aprovar por unanimidade".
+O referido é verdade
+Braga e Paços do Município, 8 de fevereiro de 2021. - A Coordenadora Técnica do Gabinete de Apoio aos Órgãos Autárquicos da Câmara Municipal de Braga, Ana Maria Araújo Silva.
+614331973
