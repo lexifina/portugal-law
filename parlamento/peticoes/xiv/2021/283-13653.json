@@ -1,0 +1,172 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13653",
+  "numero": "283",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-07-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-07-13",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-05-31",
+        "DataArquivo": "2022-07-13",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2022-07-13",
+        "DataReaberta": "2022-05-31",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-06-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a45324e6a45304e3251774c54566a5a5463744e4451774e5330344e5745314c5451785a5467794f474d334d544e6a4d5335775a47593d&fich=166147d0-5ce7-4405-85a5-41e828c713c1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-06-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a6b304f444e6c4d7a63324c5467314e5451744e47466a5a4331695954566b4c546c6a5954426c4d324a694d4464684f4335775a47593d&fich=9483e376-8554-4acd-ba5d-9ca0e3bb07a8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a55345a6a49774e6a526b4c574a6a597a63744e4749334e693035596d4d354c5749344e324e6a5a4459334e7a41354e7935775a47593d&fich=58f2064d-bcc7-4b76-9bc9-b87ccd677097.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-07-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3246684d5449334e7a55794c544a694e4451744e47526a5a5331684e4755774c54426b4d6d4e6c5a5441304d4451304e4335775a47593d&fich=aa127752-2b44-4dce-a4e0-0d2cee040444.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-07-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a6379593245784d7a5a6d4c5449334e6a4d744e4751354e4331694d4451334c5745314d546c694f544d314f444d7a5a5335775a47593d&fich=72ca136f-2763-4d94-b047-a519b935833e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a55774f5746694e44526d4c5467354d7a63744e44646d4f5330344d546b344c5464694e5449794d47566c596a63344e6935775a47593d&fich=509ab44f-8937-47f9-8198-7b5220eeb786.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8337",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-07-13",
+            "dataNomeacao": "2022-05-31",
+            "gp": "PS",
+            "id": "6661",
+            "motivoCessacao": "Entrega do relatório",
+            "nome": "Carlos Brás"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2021-08-13",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7504",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-09-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51324d546c6d4e324a6a4c544669597a41744e445a694f4331694e7a566c4c5745334f4756694d4759775a6d4a685a5335775a47593d&fich=4619f7bc-1bc0-46b8-b75e-a78eb0f0fbae.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13653",
+    "PetAssunto": "Contratação Enfermeiros Centro Hospitalar Tâmega e Sousa (CHTS)",
+    "PetDataEntrada": "2021-07-06",
+    "PeticoesAssociadas": null,
+    "PetId": "13653",
+    "PetLeg": "XIV",
+    "PetNr": "283",
+    "PetNrAssinaturas": "475",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
