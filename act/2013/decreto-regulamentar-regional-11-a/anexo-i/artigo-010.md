@@ -6,10 +6,6 @@
 
 ## Órgãos Consultivos
 
-## Subsecção I
-
-## Conselho Regional da Agricultura, Florestas e Desenvolvimento Rural
-
 ## Subsecção II
 
 ## Conselho Regional do Ambiente e do Desenvolvimento Sustentável
