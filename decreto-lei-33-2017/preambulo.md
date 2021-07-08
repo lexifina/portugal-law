@@ -1,0 +1,21 @@
+Decreto-Lei n.º 33/2017
+
+de 23 de março
+
+O Regulamento (CE) n.º 1774/2002, do Parlamento Europeu e do Conselho, de 3 de outubro de 2002, implementado pelo Decreto-Lei n.º 244/2003, de 7 de outubro, alterado pelo Decreto-Lei n.º 122/2006, de 27 de junho, parcialmente revogado pelo Decreto-Lei n.º 19/2011, de 7 de fevereiro, alterado, por sua vez, pelo Decreto-Lei n.º 38/2012, de 16 de fevereiro, estabeleceu as regras sanitárias relativas aos subprodutos animais não destinados ao consumo humano, bem como as condições de recolha dos animais que morram nos estabelecimentos onde são detidos - estabelecimentos pecuários - , designadamente explorações pecuárias, entrepostos pecuários e centros de agrupamento, para posterior tratamento e eliminação. Para dar cumprimento ao previsto nesse diploma, foi criado o sistema de recolha de cadáveres (SIRCA) de animais que morram na exploração.
+
+O Regulamento (CE) n.º 1774/2002, do Parlamento Europeu e do Conselho, de 3 de outubro de 2002, foi revogado pelo Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009 e é hoje, neste diploma, que se contêm as regras sanitárias relativas aos subprodutos animais não destinados ao consumo humano bem como a disciplina da obrigação de recolha dos cadáveres dos animais que morram nos estabelecimentos em que estão detidos. Não obstante as diversas alterações a que a legislação nacional foi sujeita, nela se mantêm ainda as referências ao Regulamento (CE) n.º 1774/2002, do Parlamento Europeu e do Conselho, de 3 de outubro de 2002. Torna-se assim necessário proceder à adequação e atualização da legislação nacional ao quadro normativo comunitário em vigor, tendo já em conta o Regulamento (UE) n.º 2016/429, do Parlamento Europeu e do Conselho, de 9 de março de 2016 (designado «Lei da Saúde Animal»), a cujos conceitos deve a legislação nacional desde já adequar-se.
+
+O SIRCA, além de assegurar um encaminhamento adequado dos cadáveres dos animais que morram nos estabelecimentos onde são detidos, constitui também o procedimento que assegura o cumprimento das obrigações estatuídas no Regulamento (CE) n.º 999/2001, do Parlamento Europeu e do Conselho, de 22 de maio de 2001, que estabelece regras para a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis (EET), o qual obriga a testar alguns animais que morram na exploração, no âmbito do Plano de Vigilância das EET.
+
+O SIRCA garante assim os fins ambientais, a salvaguarda da saúde pública e a prevenção do risco de disseminação de doenças subjacente à regulamentação europeia que o impõe.
+
+Tendo em vista suportar os encargos do SIRCA, foi desde logo criada uma taxa especificamente destinada ao financiamento deste sistema, constante no Decreto-Lei n.º 244/2003, de 7 de outubro, e posteriormente, no Decreto-Lei n.º 19/2011, de 7 de fevereiro, por sua vez alterado pelo Decreto-Lei n.º 38/2012, de 16 de fevereiro. Esta taxa, tal como ficou configurada nestes diplomas, requer uma revisão que clarifique o procedimento de liquidação, cobrança e entrega do respetivo montante.
+
+Tendo em consideração o disposto no artigo 19.º do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, executado pelo Regulamento (UE) n.º 142/2011, da Comissão, de 25 de fevereiro de 2011, no presente decreto-lei contempla-se também a possibilidade de serem estabelecidas por despacho do membro do Governo responsável pela agricultura, as zonas de montanha e áreas remotas onde o acesso não seja praticamente possível e nas quais se pode aplicar a derrogação da proibição do enterramento ou queima dos subprodutos animais, no próprio local da exploração.
+
+Por fim, o presente decreto-lei assegura também o cumprimento do Regulamento (CE) n.º 1069/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, alterado pelo Regulamento (UE) n.º 1385/2013, do Conselho, de 17 de dezembro de 2013, e do Regulamento (UE) n.º 142/2011, da Comissão, de 25 de fevereiro de 2011, com a última alteração do Regulamento (UE) n.º 2015/9, da Comissão, de 6 de janeiro de 2015, estabelecendo o regime sancionatório aplicável às infrações das normas neles constantes.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
