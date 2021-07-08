@@ -1,0 +1,9 @@
+Declaração n.º 13/2021
+Sumário: Composição do Conselho Nacional de Ética para as Ciências da Vida.
+Composição do Conselho Nacional de Ética para as Ciências da Vida
+Declara-se, nos termos e para os efeitos previstos nos n.os 1 e 2 do artigo 4.º da Lei n.º 24/2009, de 29 de maio, alterada pelas Leis n.os 19/2015, de 6 de março, e 2/2020, de 31 de março, que foram eleitos ou designados para o Conselho Nacional de Ética para as Ciências da Vida os seguintes membros:
+a) Miguel Oliveira da Silva, Isabel Margarida de Figueiredo Silvestre, Luís António Proença Duarte Madeira, André Gonçalo Dias Pereira, Maria do Céu Patrão Neves e Carlos Maurício Barbosa, eleitos pela Assembleia da República;
+b) José Miguel Ribeiro de Castro Guimarães, designado pela Ordem dos Médicos, Serafim Figueiral Rebelo, designado pela Ordem dos Enfermeiros, Miguel Bernardo Ricou da Costa Macedo, designado pela Ordem dos Psicólogos Portugueses, Maria Francisca Trigueiros Acciaioli de Avillez Corsino Caldeira, designada pela Ordem dos Biólogos, Ana Paula Machado, designado pela Ordem dos Farmacêuticos, Sandra Cristina Horta da Silva Poeira, designada pela Ordem dos Advogados, José Manuel Pereira de Almeida, designada pelo Conselho de Reitores das Universidades Portuguesas, Jorge Soares, designado pela Academia das Ciências de Lisboa, Rui Manuel Lopes Nunes, designado pelo Conselho Médico-Legal do Instituto Nacional de Medicina Legal, João Ramalho de Sousa Santos, designado pela Fundação para a Ciência e Tecnologia, I. P.;
+c) Rosalvo Almeida, Boaventura de Sousa Santos, Paula Pinto de Freitas, Inês Fernandes Godinho e Inês Santos Estevinho Fronteira, designados pela Resolução do Conselho de Ministros n.º 87/2021, de 2 de julho.
+Assembleia da República, 2 de julho de 2021. - O Secretário-Geral, Albino de Azevedo Soares.
+114376961
