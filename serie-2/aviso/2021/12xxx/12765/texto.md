@@ -1,0 +1,8 @@
+Aviso n.º 12765/2021
+Sumário: Projeto de Regulamento sobre a Posse, Circulação, Detenção e Alojamento de Animais do Município de Moura.
+Projeto de Regulamento sobre a Posse, Circulação, Detenção e Alojamento de Animais do Município de Moura
+Álvaro José Pato Azedo, Presidente da Câmara Municipal de Moura, torna público, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, alterado pela Lei n.º 72/2020, de 16 de novembro, que esta Câmara Municipal em sua reunião ordinária do dia 16 de junho de 2021, deliberou, por unanimidade, submeter a consulta pública pelo prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República, o Projeto de Regulamento sobre a Posse, Circulação, Detenção e Alojamento de Animais do Município de Moura.
+Durante este período poderão ao interessados consultar o mencionado "Projeto de Regulamento sobre a Posse, Circulação, Detenção e Alojamento de Animais do Município de Moura" no Gabinete de Apoio à Presidência, durante o horário de expediente, das 9h00 às 12h30 e das 14h00 às 16h30,o qual ficará igualmente disponível na internet (www.cm-moura.pt).
+Os interessados, no decurso desse prazo, poderão dirigir por escrito as suas sugestões ou observações, que entendam por convenientes, as quais deverão ser dirigidas ao Presidente da Câmara Municipal de Moura, Praça Sacadura Cabral, 7860-207 Moura, ou entregues pessoalmente na Receção que se localiza no rés-do-chão do edifício sede desta Câmara Municipal, ou para o endereço de correio eletrónico cmmoura@cm-moura.pt.
+21 de junho de 2021. - O Presidente da Câmara, Álvaro José Pato Azedo.
+314341685
