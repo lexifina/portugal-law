@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=liIgqKTpZUFqE6QK2umNv2E3KMNWfuMxnpcUfARuFa6sPs9C9RXOSJIJpGUjpUeoGHRV0wwfBMNPQQpZRWhlwpAzoAVKOeVEs0c9xbMYuDm5V%2bpkNyQaRfMLPKLCwks0i5WXMxW6mg9r7NkTSg%2bkuULc82C%2fnMuEhg2R3UELkWNvhk24q7uUeBFQ14uH6v8g1krTqTN1MnBYZEb4Q84eNaEHvMguz2xCnShFyVr8wALAtvaQSQVNHI0Bn51VYit8YO3ikEDqj9BYle5zGfa26tB9%2bcYRwxXX0T1MRHA0lOKQEoIgrjAj%2bHFJtPMZ9hArk6M1czEsjM5nOR9vyt5obBWo8mQQG1VE0Tn%2fpwVLVLg%3d&fich=DiplomasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "6fa1d39620890f0cec7d61f8de276746d52efaf231b741982fe301693dd73b8e",
+  "legislatura": "XIV",
+  "id": "23029",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2021-07-08",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2021",
+    "Id": "23029",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "110785",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f54566c59324e6b4f4467745a546b794f433030596a46684c5468694e6a6b745a6d4d324e5749784d474e6a5a474a6b4c6d52765933673d&fich=95eccd88-e928-4b1a-8b69-fc65b10ccdbd.docx&Inline=true",
+        "IniNr": "23",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "S",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XIV",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e52686369396a4d4759334f544d304d433030596d5a6d4c5451334e4751744f446c694d69316c4e7a457a4d5442685a47497a4f5755756347526d&fich=c0f79340-4bff-474d-89b2-e71310adb39e.pdf&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "916406",
+        "obs": null,
+        "pag": [
+          "8-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-07-08",
+        "pubLeg": "XIV",
+        "pubNr": "165",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/02/165S1/2021-07-08/8?pgs=8-10&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Aprova o Acordo entre a República Portuguesa e a Comunidade dos Países de Língua Portuguesa que revê em matéria fiscal o Acordo entre o Governo Português e  a Comunidade dos Países de Língua Portuguesa referente ao estabelecimento da sede da comunidade em Portugal, assinado em Lisboa, em 3 de julho de 1998",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
