@@ -1,0 +1,19 @@
+Aviso n.º 12763/2021
+Sumário: Prorrogação do prazo de elaboração da segunda revisão do Plano Diretor Municipal (PDM).
+Prorrogação do prazo de elaboração da segunda revisão do Plano Diretor Municipal (PDM)
+Dr. Alberto Monteiro Pereira, Presidente da Câmara Municipal de Mesão Frio, torna público que a Câmara Municipal deliberou, na reunião ordinária pública realizada no dia 4 de junho de 2021, determinar a prorrogação do prazo de elaboração da 2.ª revisão do Plano Diretor Municipal de Mesão Frio pelo período máximo igual ao previamente estabelecido (12 meses), publicado no Diário da República, 2.ª série, n.º 173, de 4 de setembro de 2020, através do Aviso n.º 13124/2020, como estabelece o n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, designado Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT).
+Para os devidos e legais efeitos considera-se cumprida a respetiva divulgação, através do presente Aviso.
+21 de junho de 2021. - O Presidente da Câmara Municipal, Dr. Alberto Monteiro Pereira.
+1. 2.ª Revisão do Plano Diretor Municipal - prorrogação do prazo de execução:
+Sobre este assunto, subscrita pelo senhor Presidente da Câmara, foi presente a seguinte Proposta:
+I - Introdução
+A Lei de Bases da Política Pública de Solos, de Ordenamento do Território e Urbanismo (Lei n.º 31/2014, de 30 de maio) e o novo Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º 80/2015, de 14 de maio) introduziram alterações profundas ao sistema de planeamento e ao regime do uso do solo, que obrigaram todos os planos diretores a procederem às necessárias adaptações para estarem em conformidade com as atuais normas legislativas, tendo ainda o n.º 2 do artigo 199.º deste último diploma fixado o prazo até Julho de 2020 para a entrada em vigor dos planos já revistos.
+Como a situação pandémica e a falta de capacidade dos serviços públicos não têm permitido a realização dos trabalhos em tempo útil, esse prazo tem vindo a ser prorrogado e foi fixado, pelo Decreto-Lei n.º 25/2021, de 29 de março, em 31 de dezembro de 2022. Também os estudos de revisão do PDM deste concelho não estão a cumprir os prazos definidos no programa de trabalhos porque tem ocorrido o sucessivo atraso na emissão dos pareceres pelas Entidades competentes. A título de exemplo podemos indicar que segundo o programa definido, no presente mês estava a decorrer a discussão pública da proposta de revisão para posterior aprovação pela Assembleia Municipal e nesta data a APA- Agencia Portuguesa do Ambiente ainda não emitiu o seu parecer sobre a 3.ª proposta que lhe foi apresentada para a Reserva Ecológica, trabalhos que estavam previstos no programa serem efetuados em agosto e setembro de 2020.
+II - Proposta
+Assim, há necessidade de reprogramar os trabalhos e prorrogar o prazo de execução da revisão, porque as Entidades que têm de participar neste processo não têm conseguido cumprir, no tempo programado, propondo-se que esta Câmara delibere:
+a) Prorrogar o prazo de elaboração da 2.ª revisão do Plano Diretor Municipal pelo período máximo igual ao previamente estabelecido (12 meses), que é o máximo permitido pelo n.º 6 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial;
+b) Comunicar à Comissão de Coordenação e Desenvolvimento Regional do Norte o teor da presente deliberação, para efeitos do disposto no artigo 11.º da Portaria n.º 277/2015 de 10 de setembro;
+c) Proceder à publicação e publicitação da presente deliberação, nos termos do n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial, que são a publicação no Diário da República e a divulgação na comunicação social, na plataforma colaborativa da DGTerritório e no sítio da Internet desta Câmara Municipal.
+Deliberação: Aprovada, por unanimidade.
+Mesão Frio, 21 de junho de 2021. - O Presidente da Câmara Municipal, Dr. Alberto Monteiro Pereira.
+614350732
