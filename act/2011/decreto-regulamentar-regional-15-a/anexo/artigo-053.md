@@ -1,3 +1,15 @@
+## Secção V
+
+## Direcção Regional do Turismo
+
+## Secção VI
+
+## Inspecção Regional do Turismo
+
+## Secção VII
+
+## Direcção Regional dos Transportes Aéreos e Marítimos
+
 ## Secção VIII
 
 ## Serviços desconcentrados
