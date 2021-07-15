@@ -1,0 +1,5 @@
+Aviso n.º 13369/2021
+Sumário: Discussão pública do projeto de Regulamento de Avaliação do Período Experimental dos Professores da Faculdade de Ciências da Universidade do Porto.
+Por força do artigo 101.º do Código do Procedimento Administrativo e do artigo 110.º, n.º 3, da Lei n.º 62/2007, de 10 de setembro é submetido a discussão pública, para recolha de sugestões, o Projeto de Regulamento de avaliação da atividade desenvolvida durante o período experimental para efeitos de manutenção da contratação por tempo indeterminado de professores da Faculdade de Ciências. Os interessados devem dirigir as sugestões à Diretora da Faculdade de Ciências da Universidade do Porto, por escrito, para o endereço eletrónico rh.audicao@fc.up.pt, no prazo de 30 dias úteis a contar da publicação do presente aviso e projeto de regulamento. O projeto de regulamento poderá ser consultado na página institucional da Faculdade de Ciências da Universidade do Porto, através do link https://sigarra.up.pt/fcup/pt/web_page.inicial.
+2 de julho de 2021. - A Diretora, Prof.ª Doutora Ana Cristina Moreira Freire.
+314376426
