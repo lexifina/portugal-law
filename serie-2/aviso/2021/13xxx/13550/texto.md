@@ -1,0 +1,14 @@
+Aviso n.º 13550/2021
+Sumário: Reinício do procedimento de elaboração do Plano de Pormenor de Reabilitação Urbana da cidade de Estremoz.
+Reinício do procedimento de elaboração do Plano de Pormenor de Reabilitação Urbana da cidade de Estremoz
+Francisco João Ameixa Ramos, Presidente da Câmara Municipal de Estremoz, torna público, nos termos do disposto no n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, que em reunião ordinária de 26 de maio de 2021, a Câmara Municipal de Estremoz deliberou, por unanimidade, reiniciar o procedimento de elaboração do Plano de Pormenor de Reabilitação Urbana da cidade de Estremoz, tendo reaprovado os Termos de Referência que fundamentam a sua oportunidade e fixado um prazo de 12 meses para a conclusão do referido procedimento.
+Mais torna público que, nos termos do n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, os interessados dispõem de 15 dias, contados a partir da data da publicação do presente aviso na 2.ª série do Diário da República, para a formulação de sugestões e para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração. As participações deverão ser apresentadas por escrito e dirigidas ao Presidente da Câmara Municipal de Estremoz para o endereço Rossio Marquês de Pombal 7100-513 Estremoz, ou remetidas através do endereço eletrónico (cgap@cm-estremoz.pt).
+31 de maio de 2021. - O Presidente da Câmara, Francisco João Ameixa Ramos.
+Deliberação
+Na sua reunião ordinária de 26 de maio de 2021, a Câmara Municipal de Estremoz deliberou o seguinte:
+1 - Reiniciar o procedimento de elaboração do Plano de Pormenor de Reabilitação Urbana da cidade de Estremoz, nos termos do n.º 1 do artigo 76.º do Regime Jurídico dos Instrumento de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, aproveitando-se os documentos, estudos e relatórios produzidos no procedimento anterior, nomeadamente os Termos de Referência, aprovados através da sua Deliberação de 29/08/2018;
+2 - Fixar um prazo de 12 meses para a conclusão do procedimento supra mencionado;
+3 - Estabelecer um prazo de 15 dias para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, ao abrigo do n.º 2 do artigo 88.º do RJIGT;
+4 - Proceder à publicação da presente deliberação na 2.ª série do Diário da República e à sua divulgação através da comunicação social, da plataforma colaborativa de gestão territorial e da página da internet do Município de Estremoz, de acordo com a alínea c) do n.º 4 do artigo 191.º, conjugado com o disposto no n.º 1 do artigo 76.º, ambos do RJIGT.
+31 de maio de 2021. - O Presidente da Câmara, Francisco João Ameixa Ramos.
+614304302
