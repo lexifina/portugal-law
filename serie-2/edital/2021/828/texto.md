@@ -1,0 +1,7 @@
+Edital n.º 828/2021
+Sumário: Abertura do período de consulta pública do projeto de alteração ao Regulamento dos Mercados Municipais do Concelho de Soure.
+Mário Jorge da Costa Rodrigues Nunes, Presidente da Câmara Municipal de Soure, torna público, nos termos e para os efeitos do disposto no artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, no artigo 101.º do Código do Procedimento Administrativo e ao abrigo da alínea k), do n.º 1, do artigo 33.º da referida Lei n.º 75/2013, que a Câmara Municipal de Soure deliberou, na sua reunião de 28 de junho de 2021, submeter a consulta pública, pelo prazo de 30 dias úteis a contar da publicação deste Edital no Diário da República, o projeto de alteração ao Regulamento dos Mercados Municipais do Concelho de Soure.
+Durante o referido período, os interessados poderão consultar o projeto de Regulamento no Edifício da Câmara Municipal de Soure, durante o respetivo horário de funcionamento e permanentemente na página eletrónica do Município de Soure (www.cm-soure.pt).
+As sugestões deverão ser formuladas por escrito, dirigidas ao Presidente da Câmara Municipal de Soure, podendo ser apresentadas presencialmente, ou remetidas por via postal para a morada Praça da República, 3130-218 Soure, ou ainda por correio eletrónico para o endereço geral@cm-soure.pt, dentro do prazo supra referido.
+2 de julho de 2021. - O Presidente da Câmara, Mário Jorge da Costa Rodrigues Nunes.
+314374222
