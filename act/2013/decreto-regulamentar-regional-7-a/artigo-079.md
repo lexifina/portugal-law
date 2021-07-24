@@ -1,3 +1,23 @@
+## Subsecção III
+
+## Direção Regional do Orçamento e Tesouro
+
+## Subsecção IV
+
+## Direção Regional do Planeamento e Fundos Estruturais
+
+## Subsecção V
+
+## Direção Regional de Organização e Administração Pública
+
+## Subsecção VI
+
+## Serviço Regional de Estatística dos Açores
+
+## Subsecção VII
+
+## Direção Regional de Apoio ao Investimento e à Competitividade
+
 ## Subsecção VIII
 
 ## Direção Regional do Emprego e Qualificação Profissional
