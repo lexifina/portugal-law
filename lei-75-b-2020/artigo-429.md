@@ -1,0 +1,33 @@
+# Artigo 429.º
+
+### Alteração ao Decreto-Lei n.º 96/2014, de 25 de junho
+
+A base xxii do anexo ao Decreto-Lei n.º 96/2014, de 25 de junho, que estabelece o regime jurídico da concessão da exploração e da gestão, em regime de serviço público, dos sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos, atribuída a entidades de capitais exclusiva ou maioritariamente privados, passa a ter a seguinte redação:
+
+«Base XXII
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Aprovar o plano de investimentos das concessionárias, ouvidas a autoridade nacional de resíduos e a entidade reguladora do setor;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+2 - ...
+
+3 - ...
+
+4 - ...»
