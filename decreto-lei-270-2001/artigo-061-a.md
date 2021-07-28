@@ -2,12 +2,8 @@
 
 ### Afectação do produto das coimas
 
-1 - O montante das importâncias cobradas em resultado da aplicação das coimas previstas nos n.os 1, 2 e 3 do artigo 59.º é repartida da seguinte forma:
+1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas nos n.os 1 a 3 do artigo 59.º do presente diploma é repartido nos termos do RJCE.
 
-a) 60 % para os cofres do Estado;
+2 - A afetação do produto das coimas aplicadas pela prática das contraordenações ambientais previstas nos n.os 5 a 7 do artigo 59.º é feita nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual.
 
-b) 10 % para a entidade que levantou o auto de notícia;
-
-c) 30 % para a entidade que instruiu o processo de contra-ordenação e aplicou a respectiva coima.
-
-2 - Exceptuam-se do disposto no número anterior as coimas aplicadas pelas câmaras municipais, cuja receita reverte na sua totalidade para o respectivo município.
+3 - Exceptuam-se do disposto no número anterior as coimas aplicadas pelas câmaras municipais, cuja receita reverte na sua totalidade para o respectivo município.

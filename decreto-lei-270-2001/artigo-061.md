@@ -6,6 +6,6 @@
 
 2 - Instaurado o processo por iniciativa de qualquer das entidades mencionadas no número anterior, deverá esse facto ser de imediato comunicado à entidade licenciadora.
 
-3 - A aplicação das coimas previstas no presente diploma é da competência do presidente da Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP), do respectivo presidente da câmara municipal, do presidente da ASAE, do presidente da entidade competente para a aprovação do PARP ou do inspector-geral do Ambiente e do Ordenamento do Território.
+3 - A aplicação das coimas previstas no presente diploma é da competência do respetivo presidente da câmara municipal, do inspetor-geral da ASAE, do presidente da entidade competente para a aprovação do PARP ou do inspetor-geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.
 
 4 - (Revogado.)
