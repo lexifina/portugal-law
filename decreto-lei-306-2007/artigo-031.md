@@ -2,7 +2,7 @@
 
 ### Contra-ordenações
 
-1 - Constitui contra-ordenação punível com coima de (euro) 750 a (euro) 3740, quando os factos sejam praticados por pessoa singular, e de (euro) 2500 a (euro) 44 890, quando praticados por pessoa colectiva:
+1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
 a) O não estabelecimento de um PCQA, nos termos previstos no n.º 3 do artigo 8.º;
 
@@ -62,7 +62,7 @@ bb) A falta de cooperação dos laboratórios com a ERSAR para o esclarecimento 
 
 cc) A recusa, durante ações de fiscalização, do acesso a qualquer ponto dos sistemas de abastecimento ou às instalações pela ERSAR e pela ASAE, nos termos previstos no n.º 5 do artigo 29.º
 
-2 - Constitui contraordenação punível com coima de (euro) 650 a (euro) 3 000, quando os factos sejam praticados por pessoa singular, e de (euro) 1 750 a (euro) 35 000, quando praticados por pessoa coletiva:
+2 - Constitui contraordenação económica grave, punível nos termos do RJCE:
 
 a) A omissão da realização de controlos suplementares, nos termos previstos no n.º 4 do artigo 8.º;
 
@@ -126,7 +126,7 @@ dd) O não cumprimento dos requisitos estabelecidos nos anexos III e IV ao prese
 
 ee) A falta de implementação das medidas determinadas pela autoridade de saúde, decorrentes das ações de vigilância sanitária, nos termos previstos nos n.os 5 e 6 do artigo 30.º
 
-3 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 2 500, quando os factos sejam praticados por pessoa singular, e de (euro) 1 000 a (euro) 20 000, quando praticados por pessoa coletiva:
+3 - Constitui contraordenação económica leve, punível nos termos do RJCE:
 
 a) A falta de colocação de placas informativas de água não controlada ou de água imprópria para consumo humano, nos termos previstos no n.º 6 do artigo 16.º;
 
@@ -138,8 +138,8 @@ d) A não utilização do Módulo da Qualidade da Água do Portal ERSAR, nos ter
 
 e) A omissão de fornecimento de informação sobre a caracterização e funcionamento dos sistemas de abastecimento de água e as alterações sofridas à autoridade de saúde, nos termos previstos no n.º 3 do artigo 30.º
 
-4 - Os limites mínimos e máximos previstos no número anterior são reduzidos para metade, quando praticados no âmbito de sistemas de abastecimento particulares.
+4 - (Revogado.)
 
-5 - A negligência e a tentativa são puníveis nos termos do regime geral das contraordenações, sendo reduzidos para metade os montantes máximos e mínimos das coimas aplicáveis.
+5 - A negligência e a tentativa são puníveis nos termos do RJCE.
 
 6- Sempre que a contra-ordenação consista na omissão de um dever, o pagamento da coima não dispensa o infractor do seu cumprimento se este ainda for possível.

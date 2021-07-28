@@ -2,7 +2,7 @@
 
 ### Sanções acessórias
 
-1 - Às contra-ordenações previstas no artigo anterior podem, em simultâneo com a coima e nos termos da lei geral, ser aplicadas as seguintes sanções acessórias, caso a gravidade da infração e a culpa do infrator o justifiquem::
+1 - Às contraordenações económicas previstas no artigo anterior podem, em simultâneo com a coima e nos termos do RJCE, ser aplicadas as seguintes sanções acessórias, caso a gravidade da infração e a culpa do infrator o justifiquem:
 
 a) [Revogada];
 
