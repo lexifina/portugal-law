@@ -1,0 +1,19 @@
+Resolução da Assembleia da República n.º 214/2021
+Sumário: Recomenda ao Governo a simplificação do acesso ao título de reconhecimento do Estatuto da Agricultura Familiar e medidas de apoio aos seus titulares.
+Recomenda ao Governo a simplificação do acesso ao título de reconhecimento do Estatuto da Agricultura Familiar e medidas de apoio aos seus titulares
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Altere, até 31 de dezembro de 2021, os requisitos para atribuição do título de reconhecimento do Estatuto da Agricultura Familiar, previstos no artigo 5.º do Decreto-Lei n.º 64/2018, de 7 de agosto, passando a considerar:
+a) No que se refere à alínea b) do n.º 1, um rendimento coletável inferior ou igual ao valor enquadrável no 4.º escalão do imposto do rendimento de pessoas singulares, tendo como referência a componente relacionada com a atividade agrícola;
+b) No que se refere à alínea c) do n.º 1, um limite superior de 10 000 euros de montante de apoio decorrente das ajudas da Política Agrícola Comum, dirigido apenas às ajudas integradas nos regimes de apoio aos pagamentos diretos;
+c) A possibilidade de atribuição do título de reconhecimento do Estatuto quer ao titular da exploração agrícola familiar quer ao seu cônjuge, no caso de o detentor do título de propriedade da exploração não coincidir com o cônjuge que exerce a atividade agrícola.
+2 - Assegure, em cada serviço descentralizado dos ministérios que tutelam as áreas da agricultura, das florestas e do desenvolvimento rural, balcões de apoio aos agricultores na elaboração dos requerimentos para atribuição do título de reconhecimento do Estatuto da Agricultura Familiar, compatibilizando a informação já recolhida no âmbito das submissões apresentadas a medidas do Programa de Desenvolvimento Rural 2014-2020 (PDR 2020) ou pelo Instituto de Financiamento da Agricultura e Pescas, I. P., bem como de atendimento e apoio aos agricultores titulares do Estatuto.
+3 - Contrate para o Ministério da Agricultura os técnicos necessários à recuperação dos serviços de extensão rural e para apoio dirigido aos titulares do Estatuto.
+4 - Estabeleça, até 31 de dezembro de 2021, um regime específico de contratação pública, que inclua critérios de seleção assentes na qualidade alimentar e no interesse socioeconómico das regiões, para fornecimento de proximidade de bens agroalimentares a serviços públicos e entidades prestadoras de serviços públicos, a que os agricultores possam aceder ao abrigo do Estatuto da Agricultura Familiar, de modo a permitir escoar a produção de forma adequada e a garantir rendimentos justos a estes produtores.
+5 - Adapte, até 31 de dezembro de 2021, as condições de reconhecimento de organizações de produtores e respetivas associações, de modo a que os critérios estabelecidos no anexo iv da Portaria n.º 298/2019, de 9 de setembro, venham a considerar a realidade da produção familiar e respetivos rendimentos.
+6 - Estabeleça, envolvendo as autarquias locais, o quadro de garantia de que os titulares do Estatuto têm acesso aos mercados locais de forma gratuita e com regras, designadamente fiscais, simplificadas.
+7 - Crie e operacionalize, com efeitos a partir de 1 de janeiro de 2022, uma linha de financiamento a fundo perdido para apoio a pequenos investimentos na produção agrícola e pecuária dirigida aos detentores do Estatuto, dotando-a dos meios financeiros adequados.
+8 - Preveja a criação de um seguro coletivo à produção adaptado à agricultura familiar, do qual os titulares do Estatuto beneficiem.
+9 - Apresente, até 1 de janeiro de 2022, por cada área governativa, o conjunto de medidas de apoio no âmbito da agricultura familiar e o respetivo programa de implementação, considerando as verbas necessárias no Orçamento do Estado para 2022.
+Aprovada em 25 de junho de 2021.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+114420376
