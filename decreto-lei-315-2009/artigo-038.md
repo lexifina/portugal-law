@@ -6,7 +6,7 @@
 
 ### Contra-ordenações
 
-1 - Constituem contraordenações puníveis com coima de (euro) 750 a (euro) 5000, no caso de pessoa singular, e de (euro) 1500 a (euro) 60 000, no caso de pessoa coletiva:
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
 a) A falta de licença, de identificação ou registo a que se referem os artigos 5.º a 7.º;
 
@@ -44,4 +44,4 @@ q) A falta de entrega à DGAV do título profissional de treinador de cães peri
 
 r) A não observância de deveres de cuidado ou vigilância que der azo a que um animal ofenda o corpo ou a saúde de outra pessoa causando-lhe ofensas à integridade física que não sejam consideradas graves.
 
-2 - A tentativa e a negligência são punidas, sendo os limites mínimos e máximos das coimas reduzidos a metade.
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.
