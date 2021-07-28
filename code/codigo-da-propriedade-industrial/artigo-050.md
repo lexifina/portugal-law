@@ -6,6 +6,10 @@
 
 ## Invenções
 
+## Subcapítulo I
+
+## Patentes
+
 ## Secção I
 
 ## Disposições gerais

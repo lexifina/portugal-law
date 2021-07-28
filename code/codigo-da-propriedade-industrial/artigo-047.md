@@ -1,3 +1,7 @@
+## Subcapítulo II
+
+## Recurso arbitral
+
 # Artigo 47.º
 
 ### Tribunal arbitral
