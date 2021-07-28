@@ -4,11 +4,11 @@
 
 # Artigo 75.º
 
-### Sanções
+### Contraordenações
 
-1 - Sem prejuízo da punição pela prática de crime de falsas declarações, constitui contraordenação punível com coima de (euro) 500 a (euro) 3 500 tratando-se de pessoa singular, ou de (euro) 4 400 a (euro) 44 000, tratando-se de pessoa coletiva, a emissão pelo industrial de uma declaração de cumprimento de condições técnicas padronizadas objeto do pedido ao abrigo da alínea c) do n.º 4 do artigo 8.º que não corresponda à verdade.
+1 - Sem prejuízo da punição pela prática de crime de falsas declarações, constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a emissão pelo industrial de uma declaração de cumprimento de condições técnicas padronizadas objeto do pedido ao abrigo da alínea c) do n.º 4 do artigo 8.º que não corresponda à verdade.
 
-2 - Constitui contraordenação punível com coima de (euro) 250 a (euro) 2500, tratando-se de uma pessoa singular, ou de (euro) 2500 a (euro) 44 000, tratando-se de pessoa coletivas:
+2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a prática dos seguintes atos:
 
 a) A execução de projeto de instalação de estabelecimento industrial de tipo 1, sem que tenha sido emitido o título digital de instalação referido no artigo 24.º;
 
@@ -44,6 +44,6 @@ p) A infração ao disposto no artigo 51.º;
 
 q) A infração ao disposto no n.º 4 do artigo 71.º
 
-3 - No caso das infrações referidas nas alíneas a), c), d), e), f), h), i) e j) do número anterior, os valores mínimos das coimas referidas no corpo do mesmo número são agravados para o dobro.
+3 - (Revogado.)
 
-4 - A negligência é punível com coima de valor reduzido a metade.
+4 - A negligência é punível nos termos do RJCE.
