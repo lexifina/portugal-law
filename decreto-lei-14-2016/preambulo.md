@@ -1,0 +1,31 @@
+Decreto-Lei n.º 14/2016
+
+de 9 de março
+
+O presente decreto-lei visa promover a simplificação e a atualização da legislação nacional no que respeita às regras aplicáveis à comercialização de batata para consumo humano e à produção, controlo, certificação e comercialização de batata-semente.
+
+Sendo necessário proceder à transposição de diversas diretivas de execução da Comissão da União Europeia, relativas à batata semente, aproveita-se a oportunidade para proceder a uma consolidação da legislação em matéria de produção e comercialização de batata. Deste modo, prosseguem-se os desígnios do XXI Governo Constitucional de modernização administrativa e simplificação legislativa, aliando soluções que promovem a redução de encargos administrativos para o cidadão e facilitam a imediata do regime jurídico que lhe é aplicável.
+
+Assim, no que diz respeito à batata para consumo humano, promove-se a revogação do Decreto-Lei n.º 175/2015, de 25 de agosto, que estabelece as definições, as denominações, os requisitos de qualidade, as regras de rotulagem e as formas de acondicionamento a que deve obedecer a batata para consumo humano da espécie Solanum tuberosum L., e dos seus híbridos, destinada a ser comercializada e consumida no estado fresco, com exclusão das batatas de conservação destinadas à transformação industrial, assim como o respetivo regime sancionatório.
+
+Por outro lado, no que se refere à comercialização de batata-semente, importa sublinhar que o regime jurídico no plano europeu foi objeto de regulamentação em 1966 e, desde então, sofreu inúmeras alterações, incluindo um processo de codificação através da Diretiva n.º 2002/56/CE, do Conselho, de 13 de junho, também já alterada. Com efeito, o rápido e contínuo processo de desenvolvimento técnico e científico no sistema de produção de batata de semente não só determinou o aumento do comércio desta batata no mercado interno, como impôs a fixação de requisitos de produção mais rigorosos, o que foi promovido através de diversas diretivas europeias.
+
+Assim, em 2013, foi adotada a Diretiva de Execução n.º 2013/63/UE, da Comissão, de 17 de dezembro de 2013, que altera os anexos I e II da Diretiva n.º 2002/56/CE, do Conselho de 13 de junho de 2002, no que diz respeito às condições mínimas a que devem obedecer as batatas de semente e os lotes de batatas de semente. Complementarmente, foram adotadas as Diretivas de Execução n.os 2014/20/UE, da Comissão, de 6 de fevereiro de 2014, que determina as classes da União de batatas de semente de base e de semente certificada e as condições e designações aplicáveis a essas classes, e 2014/21/UE, da Comissão, de 6 de fevereiro de 2014, que determina as condições mínimas e as classes da União de batatas de semente de pré-base.
+
+No ordenamento jurídico português, foi sendo promovida a devida transposição dos atos europeus, a saber, e mais recentemente, pelo Decreto-Lei n.º 216/2001, de 3 de agosto, alterado pelo Decreto-Lei n.º 21/2004, de 22 de janeiro. Todavia, importa dar corpo às mais recentes alterações introduzidas no plano europeu, em particular as decorrentes da Diretiva n.º 2002/56/CE, do Conselho, de 13 de junho de 2002, com a última redação dada pela Diretiva de Execução n.º 2013/63/UE, da Comissão, de 17 de dezembro de 2013, e das Diretivas de Execução n.os 2014/20/UE e 2014/21/UE, ambas da Comissão, de 6 de fevereiro de 2014, relativas à comercialização de batatas de semente.
+
+Considerando o propósito do XXI Governo Constitucional em matéria legislativa, a regulação necessária no ordenamento interno não pode traduzir-se na manutenção ou no aumento dos custos administrativos para os agricultores. Para tanto, o Governo realizou um estudo de impacto económico relativamente ao procedimento de início de atividade de produção de batata-semente em Portugal. Na decorrência deste estudo, promove-se, pelo presente decreto-lei, uma maior desconcentração das competências das entidades administrativas, por forma a aproximar a Administração do cidadão, aumentando-se a esfera de atuação das Direções Regionais da Agricultura e Pescas (DRAP) e evitando-se a duplicação de ação entre a Direção-Geral de Agricultura e Veterinária (DGAV) e as DRAP territorialmente competentes.
+
+Constituiu, ainda, preocupação do Governo garantir que as comunicações estabelecidas entre os agricultores e as autoridades competentes têm lugar uma única vez, evitando-se, por um lado, a necessidade de apresentação de documentos que já se encontram na posse da Administração Pública e, por outro lado, a obrigação de efetuar a mesma comunicação a diversas entidades da Administração Pública. Assim, prevê-se através do presente decreto-lei que os agricultores comunicarão o facto relevante perante uma única entidade pública, que, por sua vez, transmitirá às demais entidades públicas com competência na matéria todos os factos que lhe sejam comunicados.
+
+Foi, ainda, estabelecido um regime de mera comunicação prévia, em substituição do sistema de licenciamento atualmente em vigor. De acordo com o regime fixado no presente decreto-lei, basta que o agricultor comunique a sua intenção de início da atividade para que possa, efetivamente, iniciar a atividade de imediato, eliminando-se, assim, o complexo sistema de licenciamento, que impunha o controlo prévio do cumprimento dos requisitos estabelecidos para o início de atividade. O regime aprovado pelo presente decreto-lei traduzir-se-á numa poupança estimada de 188.280 horas em termos de produtividade, assim se promovendo o dinamismo, a simplificação e a modernização do setor agrícola da produção e comercialização de batata-semente.
+
+Procura-se do mesmo modo privilegiar o uso dos meios eletrónicos de relacionamento com a Administração Pública, prosseguindo os objetivos de desmaterialização da atividade administrativa, embora se tenha em conta as especificidades próprias do meio e, por essa razão, se permita o recurso alternativo a outras formas de comunicação e cooperação com a Administração.
+
+Foram ouvidos os órgãos de governo próprios das Regiões Autónomas.
+
+Foi promovida a audição ao Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
