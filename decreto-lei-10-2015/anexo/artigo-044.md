@@ -18,6 +18,6 @@
 
 8 - A informação sobre a alteração significativa das atividades exercidas no estabelecimento, bem como o resultado da vistoria da DGAV referida no n.º 5, são comunicados automaticamente à DGAE, através do «Balcão do empreendedor».
 
-9 - A exploração de estabelecimento ou armazém que deva permanecer encerrado nos termos dos números anteriores constitui contraordenação muito grave.
+9 - A exploração de estabelecimento ou armazém que deva permanecer encerrado nos termos dos números anteriores constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
 10 - Para a reabertura do estabelecimento ou armazém deve o empresário dar cumprimento ao disposto no n.º 1 do artigo 5.º

@@ -12,4 +12,4 @@
 
 5 - Cada responsável técnico não pode ter a seu cargo mais de três instalações onde se exerça a atividade funerária, incluindo a sede social ou locais destinados à realização de velórios, as quais se devem localizar dentro do mesmo distrito.
 
-6 - A violação do disposto no n.º 1, a gestão e supervisão da atividade funerária por profissional não qualificado nos termos dos n.os 2 a 4, e a violação do disposto no n.º 5 constitui contraordenação grave.
+6 - A violação do disposto no n.º 1, a gestão e supervisão da atividade funerária por profissional não qualificado nos termos dos n.os 2 a 4, e a violação do disposto no n.º 5 constitui contraordenação económica grave, punível nos termos do RJCE.

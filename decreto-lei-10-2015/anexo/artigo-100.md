@@ -8,4 +8,4 @@ a) Com observância dos limites de irradiância efetiva estabelecidos na norma h
 
 b) Cujo método de referência é o previsto na norma harmonizada EN 60335-2-27.
 
-2 - A violação do disposto no número anterior constitui contraordenação muito grave.
+2 - A violação do disposto no número anterior constitui contraordenação económica muito grave, punível nos termos do RJCE.

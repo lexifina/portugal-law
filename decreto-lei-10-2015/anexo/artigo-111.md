@@ -24,6 +24,6 @@ c) Garantir as medidas de primeiros socorros apropriadas em caso de acidente com
 
 d) Garantir as medidas adequadas de prevenção dos riscos ambientais para a saúde pública decorrentes das atividades funerárias.
 
-3 - A violação do disposto nas alíneas a), c) a e) do n.º 1 e no número anterior constitui contraordenação muito grave.
+3 - A violação do disposto nas alíneas a), c) a e) do n.º 1 e no número anterior constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-4 - A violação do disposto na alínea b) do n.º 1 constitui contraordenação leve.
+4 - A violação do disposto na alínea b) do n.º 1 constitui contraordenação económica leve, punível nos termos do RJCE.

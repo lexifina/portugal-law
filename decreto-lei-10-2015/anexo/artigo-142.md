@@ -16,4 +16,4 @@
 
 3 - As medidas cautelares aplicadas nos termos do presente artigo vigoram enquanto se mantiverem as razões que, nos termos do n.º 1, constituíram fundamento para a sua adoção e até à decisão final no respetivo processo contraordenacional, sem prejuízo da possibilidade, a todo o tempo, da sua alteração, substituição ou revogação nos termos gerais.
 
-4 - Da medida cautelar adotada ao abrigo do presente artigo cabe sempre recurso para o tribunal judicial territorialmente competente, nos termos previstos no regime jurídico do ilícito de mera ordenação social aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
+4 - Da medida cautelar adotada ao abrigo do presente artigo cabe sempre recurso para o tribunal judicial territorialmente competente, nos termos previstos no RJCE.

@@ -12,4 +12,4 @@
 
 5 - Os profissionais que prestam serviço no centro de bronzeamento estão abrangidos pelo regime previsto na Lei n.º 102/2009, de 10 de setembro, alterada pelas Leis n.os 42/2012, de 28 de agosto e 3/2014, de 28 de janeiro, relativa à promoção da segurança e da saúde no trabalho.
 
-6 - A contratação de responsável técnico e de profissionais sem as qualificações exigidas pelos n.os 1, 3 e 4 constitui contraordenação grave.
+6 - A contratação de responsável técnico e de profissionais sem as qualificações exigidas pelos n.os 1, 3 e 4 constitui contraordenação económica grave, punível nos termos do RJCE.

@@ -16,4 +16,4 @@ e) Declaração a que se refere o artigo anterior.
 
 2 - O centro deve possuir um arquivo organizado das fichas dos utilizadores pelo período de cinco anos.
 
-3 - A violação do disposto no presente artigo constitui contraordenação leve.
+3 - A violação do disposto no presente artigo constitui contraordenação económica leve, punível nos termos do RJCE.

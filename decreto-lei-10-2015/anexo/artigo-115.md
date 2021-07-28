@@ -20,4 +20,4 @@ f) Aos deveres constantes do artigo 120.º
 
 3 - As instalações referidas no número anterior devem ser exclusivamente afetas à atividade funerária e às atividades conexas.
 
-4 - A violação do disposto no presente artigo constitui contraordenação muito grave.
+4 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.

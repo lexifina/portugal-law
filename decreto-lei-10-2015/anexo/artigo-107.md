@@ -10,4 +10,4 @@
 
 4 - Os seguros, garantias financeiras ou instrumentos equivalentes celebrados noutro Estado-membro da União Europeia ou do Espaço Económico Europeu são reconhecidos nos termos do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
-5 - A violação do disposto no presente artigo constitui contraordenação muito grave.
+5 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.

@@ -8,6 +8,6 @@
 
 3 - A prova desta avaliação técnica obrigatória deve estar acessível ao utilizador do aparelho e pode ser solicitada a qualquer momento pela autoridade de fiscalização do mercado.
 
-4 - A violação do disposto no n.º 1 constitui contraordenação grave.
+4 - A violação do disposto no n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-5 - A violação do disposto na primeira parte do n.º 3 constitui contraordenação leve.
+5 - A violação do disposto na primeira parte do n.º 3 constitui contraordenação económica leve, punível nos termos do RJCE.

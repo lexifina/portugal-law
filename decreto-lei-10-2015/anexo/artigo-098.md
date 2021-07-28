@@ -22,4 +22,4 @@ h) Identificação completa do fabricante;
 
 i) Identificação completa das entidades responsáveis pela manutenção e reparação dos aparelhos.
 
-2 - A violação do disposto no número anterior constitui contraordenação grave.
+2 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.

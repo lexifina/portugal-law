@@ -26,4 +26,4 @@ f) Restringir o exercício da atividade em determinadas zonas e locais, ou para 
 
 3 - A atribuição de direito de uso de espaço público deve ser realizada com periodicidade regular, e ser aplicado a todos os lugares novos ou deixados vagos, podendo ficar sujeitos ao pagamento de uma taxa a fixar pelo município em regulamento, não podendo ser objeto de renovação automática, nem devendo prever condições mais vantajosas para o vendedor ambulante cuja atribuição de lugar tenha caducado nem para quaisquer pessoas que com este mantenham vínculos de parentesco ou afinidade, bem como vínculos laborais ou, tratando-se de pessoa coletiva, vínculos de natureza societária.
 
-4 - A venda ambulante em violação do disposto no presente artigo constitui contraordenação grave.
+4 - A venda ambulante em violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.

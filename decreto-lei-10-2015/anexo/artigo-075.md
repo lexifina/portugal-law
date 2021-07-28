@@ -30,6 +30,6 @@ g) Veículos automóveis e motociclos, em modo ambulante.
 
 4 - Os municípios podem proibir, nos seus regulamentos, o comércio não sedentário de outros produtos além dos referidos no n.º 2, sempre que devidamente fundamentado por razões de interesse público.
 
-5 - A violação do disposto no n.º 1 constitui contraordenação leve.
+5 - A violação do disposto no n.º 1 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-6 - A violação do disposto nos n.os 2 e 3 constitui contraordenação grave, sem prejuízo de outros tipos de responsabilidade, nos termos da legislação especial aplicável.
+6 - A violação do disposto nos n.os 2 e 3 constitui contraordenação económica grave, punível nos termos do RJCE, sem prejuízo de outros tipos de responsabilidade, nos termos da legislação especial aplicável.

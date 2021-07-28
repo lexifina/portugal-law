@@ -52,4 +52,4 @@ n) Atividade funerária.
 
 7 - A falta de apresentação de mera comunicação prévia nos termos dos números anteriores constitui contraordenação leve.
 
-8 - A falta de comunicação de encerramento ou cessação da atividade constitui contraordenação leve.
+8 - A falta de comunicação de encerramento ou cessação da atividade constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).

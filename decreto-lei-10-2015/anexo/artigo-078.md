@@ -16,4 +16,4 @@ e) Possuam, na proximidade, parques ou zonas de estacionamento adequados à sua 
 
 2 - Os recintos com espaços de venda destinados à comercialização de géneros alimentícios ou de animais devem igualmente cumprir os requisitos impostos pela legislação específica aplicável a cada uma destas categorias de produtos, no que concerne às infraestruturas.
 
-3 - A violação do disposto no n.º 1 constitui contraordenação grave.
+3 - A violação do disposto no n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.

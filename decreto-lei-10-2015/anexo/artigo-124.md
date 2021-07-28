@@ -12,4 +12,4 @@ c) Cumprir e fazer cumprir as demais regras legais e regulamentares aplicáveis 
 
 d) Facultar às autoridades fiscalizadoras competentes o acesso ao estabelecimento e o exame de documentos, livros e registos diretamente relacionados com a respetiva atividade.
 
-2 - A violação dos deveres referidos no número anterior constitui contraordenação grave.
+2 - A violação dos deveres referidos no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.

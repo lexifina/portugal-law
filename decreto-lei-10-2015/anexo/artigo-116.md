@@ -8,4 +8,4 @@ a) Encerramento das instalações;
 
 b) Designação e mudança de responsável técnico.
 
-2 - A violação do disposto no número anterior constitui contraordenação leve.
+2 - A violação do disposto no número anterior constitui contraordenação económica leve, punível nos termos do RJCE.

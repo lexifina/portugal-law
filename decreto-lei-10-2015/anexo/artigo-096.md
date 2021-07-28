@@ -6,4 +6,4 @@
 
 2 - Os aparelhos mencionados no número anterior devem ser objeto de especial e permanente vigilância pelo pessoal técnico do centro.
 
-3 - A violação do disposto no presente artigo constitui contraordenação grave.
+3 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.

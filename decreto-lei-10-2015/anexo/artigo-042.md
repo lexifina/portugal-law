@@ -8,4 +8,4 @@
 
 3 - No caso previsto no número anterior, a DGAE e a DGAV têm acesso à informação através de encaminhamento automático pelo «Balcão do empreendedor».
 
-4 - A violação do disposto nos n.os 1 e 2 constitui contraordenação leve.
+4 - A violação do disposto nos n.os 1 e 2 constitui contraordenação económica leve, punível nos termos do RJCE.

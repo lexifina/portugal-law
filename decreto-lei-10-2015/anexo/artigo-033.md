@@ -20,4 +20,4 @@ b) Impressão em braille, no ato da compra e numa etiqueta por produto, da infor
 
 7 - Deve ser disponibilizada junto da DGC, bem como das entidades públicas e privadas de defesa do consumidor e das associações de pessoas com deficiências e incapacidades visuais, uma lista atualizada dos estabelecimentos selecionados.
 
-8 - A violação do disposto nos números anteriores constitui contraordenação grave.
+8 - A violação do disposto nos números anteriores constitui contraordenação económica grave, punível nos termos do RJCE.

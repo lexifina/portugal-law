@@ -10,4 +10,4 @@
 
 4 - Para efeitos do disposto no n.º 2 entende-se por «Irradiância efetiva» a irradiância da radiação eletromagnética ponderada de acordo com a ação do espetro especificada.
 
-5 - A violação do disposto nos n.os 1 e 2 constitui contraordenação grave.
+5 - A violação do disposto nos n.os 1 e 2 constitui contraordenação económica grave, punível nos termos do RJCE.

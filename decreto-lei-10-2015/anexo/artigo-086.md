@@ -16,6 +16,6 @@
 
 7 - Todos os reservatórios devem ostentar em local visível uma etiqueta amarela com a indicação, em cor preta, da data da próxima inspeção, colocada pelo organismo de controlo e inspeção que proceda à referida operação, nos termos da legislação aplicável.
 
-8 - A violação do disposto nos n.os 1, 4, 5 e 6 constitui contraordenação muito grave.
+8 - A violação do disposto nos n.os 1, 4, 5 e 6 constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-9 - A violação do disposto nos n.os 2, 3 e 7 constitui contraordenação leve.
+9 - A violação do disposto nos n.os 2, 3 e 7 constitui contraordenação económica leve, punível nos termos do RJCE.

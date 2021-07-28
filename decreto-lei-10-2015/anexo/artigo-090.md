@@ -8,4 +8,4 @@
 
 3 - As instalações devem dispor de um instrumento de medição de concentração de gás, dotado de sistema de alarme e devidamente calibrado.
 
-4 - A violação do disposto no presente artigo constitui contraordenação grave.
+4 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.

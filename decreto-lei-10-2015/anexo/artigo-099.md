@@ -14,4 +14,4 @@
 
 4 - Os avisos e indicações dos aparelhos de bronzeamento devem ser apostos de forma visível e permanente de modo a estarem sempre legíveis.
 
-5 - A violação do disposto no presente artigo constitui contraordenação grave.
+5 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.

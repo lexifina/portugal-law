@@ -8,4 +8,4 @@
 
 3 - A escolha de entidades habilitadas a exercer a atividade funerária por estabelecimento hospitalar ou estrutura residencial para pessoas idosas só é permitida, nos termos previstos no Decreto-Lei n.º 248/83, de 9 de junho, alterado pelo Decreto-Lei n.º 206/2001, de 27 de Julho, nos casos em que não exista qualquer familiar ou outra pessoa conhecida que assuma a responsabilidade pela contratação do funeral.
 
-4 - A violação do disposto no presente artigo constitui contraordenação muito grave.
+4 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.

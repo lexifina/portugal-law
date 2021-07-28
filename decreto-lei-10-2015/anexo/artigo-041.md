@@ -16,7 +16,7 @@
 
 7 - A DGAV informa o município da realização das vistorias e dos seus resultados e a Autoridade de Segurança Alimentar e Económica (ASAE) das vistorias que determinem o encerramento imediato de estabelecimentos ou armazéns.
 
-8 - A exploração de estabelecimento ou armazém que deva permanecer encerrado nos termos dos números anteriores constitui contraordenação muito grave.
+8 - A exploração de estabelecimento ou armazém que deva permanecer encerrado nos termos dos números anteriores constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
 9 - A informação sobre a alteração significativa das atividades exercidas no estabelecimento, bem como o resultado da vistoria da DGAV referida no n.º 5, são comunicados automaticamente à DGAE, através do «Balcão do empreendedor».
 

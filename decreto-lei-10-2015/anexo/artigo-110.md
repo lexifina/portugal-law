@@ -12,4 +12,4 @@
 
 5 - A atividade funerária e as atividades conexas devem ser exercidas em instalações destinadas exclusivamente para essa finalidade e dotadas das condições adequadas.
 
-6 - A violação do disposto nos n.os 4 e 5 constitui contraordenação grave.
+6 - A violação do disposto nos n.os 4 e 5 constitui contraordenação económica grave, punível nos termos do RJCE.
