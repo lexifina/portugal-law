@@ -2,7 +2,7 @@
 
 ### (Falta de exposição de bens e de indicação de preços)
 
-1 - Será punida com coima até 500000$00:
+1 - Constitui contraordenação económica grave, punível nos termos do RJCE, a prática dos seguintes atos:
 
 a) A falta de exposição, no estabelecimento do comerciante retalhista, de bens cuja exibição corresponda aos usos do comércio, esteja legalmente determinada ou seja imposta por entidade competente;
 
@@ -16,4 +16,4 @@ e) (Revogada).
 
 f) A falta de tabelas relativas às condições de venda nos termos legalmente exigidos.
 
-2 - A negligência é punível.
+2 - A negligência é punível nos termos do RJCE.
