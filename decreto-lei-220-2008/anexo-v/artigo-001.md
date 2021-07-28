@@ -1,0 +1,13 @@
+## Anexo V
+
+## Fichas de segurança, a que se refere o n.º 2 do artigo 17.º
+
+# Artigo 1.º
+
+### Elaboração das fichas de segurança
+
+1 - As fichas de segurança referidas no n.º 2 do artigo 17.º do presente decreto-lei, aplicáveis às utilizações-tipo dos edifícios e recintos da 1.ª categoria de risco, devem ser elaboradas com base em modelos a definir exclusivamente pelos serviços centrais da ANPC.
+
+2 - Compete à ANPC proceder a todas as actualizações das fichas de segurança referidas no número anterior que venham eventualmente a ser consideradas necessárias.
+
+3 - As câmaras municipais devem ser notificadas, oportunamente, quer das versões iniciais quer das futuras actualizações das fichas de segurança.

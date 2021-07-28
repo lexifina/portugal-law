@@ -1,0 +1,51 @@
+# Artigo 2.º
+
+### Definições
+
+a) 'Altura da utilização-tipo' a diferença de cota entre o plano de referência e o pavimento do último piso acima do solo, suscetível de ocupação por essa utilização-tipo, de acordo com as seguintes condições:
+
+i) Se o último piso coberto for exclusivamente destinado a instalações e equipamentos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, tal piso não entra no cômputo da altura da utilização-tipo;
+
+ii) Se o piso for destinado a arrecadações cuja utilização implique apenas visitas episódicas de pessoas, tal piso não entra no cômputo da altura da utilização-tipo;
+
+iii) Se os dois últimos pisos forem ocupados por locais de risco em duplex, poderá considerar-se a cota altimétrica da entrada como o piso mais desfavorável;
+
+iv) À mesma utilização-tipo, num mesmo edifício, constituída por corpos de alturas diferentes são aplicáveis as disposições correspondentes ao corpo de maior altura, excetuando-se os casos em que os corpos de menor altura forem independentes dos restantes;
+
+b) 'Área bruta de um piso ou fração' a superfície total de um dado piso ou fração, delimitada pelo perímetro exterior das paredes exteriores e eixos das paredes interiores separadoras dessa fração, relativamente às restantes;
+
+c) «Área útil de um piso ou fração» a soma da área útil de todos os compartimentos interiores de um dado piso ou fração, excluindo-se vestíbulos, circulações interiores, escadas e rampas comuns, instalações sanitárias, roupeiros, arrumos, armários nas paredes e outros compartimentos de função similar, e mede-se pelo perímetro interior das paredes que delimitam aqueles compartimentos, descontando encalços até 30 cm, paredes interiores, divisórias e condutas;
+
+d) 'Carga de incêndio' a energia calorífica suscetível de ser libertada pela combustão completa da totalidade de elementos contidos num espaço, incluindo o revestimento das paredes, divisórias, pavimentos e tetos, devendo, para efeitos de cálculo da densidade de carga de incêndio modificada, excluir-se o revestimento das paredes, pavimentos e tetos;
+
+e) «Carga de incêndio modificada» a carga de incêndio afetada de coeficientes referentes ao grau de perigosidade e ao índice de ativação dos combustíveis, determinada com base nos critérios referidos no n.º 5 do artigo 12.º;
+
+f) «Categorias de risco» a classificação em quatro níveis de risco de incêndio de qualquer utilização-tipo de um edifício e recinto, atendendo a diversos fatores de risco, como a sua altura, o efetivo, o efetivo em locais de risco, a densidade de carga de incêndio modificada e a existência de pisos abaixo do plano de referência, nos termos previstos no artigo 12.º;
+
+g) «Densidade de carga de incêndio» a carga de incêndio por unidade de área útil de um dado espaço;
+
+h) «Densidade de carga de incêndio modificada» a densidade de carga de incêndio afetada de coeficientes referentes ao grau de perigosidade e ao índice de ativação dos combustíveis, determinada com base nos critérios referidos no n.º 4 do artigo 12.º;
+
+i) «Edifício» toda e qualquer edificação destinada à utilização humana que disponha, na totalidade ou em parte, de um espaço interior utilizável, abrangendo as realidades referidas no n.º 1 do artigo 8.º;
+
+j) 'Edifícios independentes' os edifícios dotados de estruturas independentes, sem comunicação interior entre eles ou, quando exista, a mesma seja efetuada exclusivamente através de câmara corta-fogo, e que cumpram as disposições de segurança contra incêndios em edifícios (SCIE), relativamente à resistência ao fogo dos elementos de construção que os isolam entre si, bem como as partes de um mesmo edifício com estrutura comum, sem comunicação interior entre elas ou, quando exista, a mesma seja efetuada exclusivamente através de câmara corta-fogo e cumpram as disposições de SCIE, relativamente à resistência ao fogo dos elementos de construção que as isolam entre si e nenhuma das partes dependa da outra para cumprir as condições regulamentares de evacuação;
+
+k) «Efetivo» o número máximo estimado de pessoas que pode ocupar em simultâneo um dado espaço de um edifício ou recinto;
+
+l) «Efetivo de público» o número máximo estimado de pessoas que pode ocupar em simultâneo um dado espaço de edifício ou recinto que recebe público, excluindo o número de funcionários e quaisquer outras pessoas afetas ao seu funcionamento;
+
+m) «Espaços» as áreas interiores e exteriores dos edifícios ou recintos;
+
+n) «Imóveis classificados» os monumentos classificados nos termos da Lei n.º 107/2001, de 8 de setembro;
+
+o) 'Inspeção' o ato de verificação da manutenção das condições de SCIE aprovadas ou licenciadas e da implementação das medidas de autoproteção, a realizar pela ANEPC ou por entidade por esta credenciada, pelos serviços do município competentes ou por outra entidade com competência fiscalizadora;
+
+p) «Local de risco» a classificação de qualquer área de um edifício ou recinto, em função da natureza do risco de incêndio, em conformidade com o disposto no artigo 10.º;
+
+q) 'Plano de referência' o plano de nível, à cota de pavimento do acesso destinado às viaturas de socorro, medida na perpendicular a um vão de saída direta para o exterior do edifício, sendo que, no caso de existir mais de um plano de referência, é considerado o plano mais favorável para as operações dos bombeiros;
+
+r) «Recintos» os espaços delimitados destinados a diversos usos, desde os estacionamentos, aos estabelecimentos que recebem público, aos industriais, oficinas e armazéns, podendo dispor de construções de carácter permanente, temporário ou itinerante;
+
+s) «Uso dominante de uma utilização-tipo» é aquele que de entre os diversos usos dos seus espaços, define a finalidade que permite atribuir a classificação de determinada utilização-tipo (UT I a UT XII);
+
+t) «Utilização-tipo» a classificação dada pelo uso dominante de qualquer edifício ou recinto, ou de cada uma das suas partes, em conformidade com o disposto no artigo 8.º

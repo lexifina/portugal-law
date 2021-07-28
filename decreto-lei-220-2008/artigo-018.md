@@ -1,0 +1,9 @@
+# Artigo 18.º
+
+### Utilização dos edifícios
+
+1 - O pedido de autorização de utilização de edifícios ou suas frações autónomas e recintos, referido no artigo 63.º do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, deve ser instruído com termo de responsabilidade subscrito pelo diretor de obra ou pelo diretor de fiscalização de obra, no qual deve declarar que se encontram cumpridas as condições de SCIE.
+
+2 - Quando haja lugar a vistorias, nos termos dos artigos 64.º e 65.º do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, ou em virtude de legislação especial em matéria de autorização de funcionamento, nas mesmas deve ser apreciado o cumprimento das condições de SCIE e dos respetivos projetos ou fichas de segurança, sem prejuízo de outras situações previstas na legislação específica que preveja ou determine a realização de vistoria.
+
+3 - As vistorias referidas no número anterior, referentes às 2.ª, 3.ª e 4.ª categorias de risco, integram um representante da ANEPC ou de uma entidade por ela credenciada.
