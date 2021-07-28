@@ -18,4 +18,4 @@ d) Do presidente do conselho diretivo do INFARMED, I. P., no caso de processos i
 
 e) Do presidente do conselho de administração da ANACOM, no caso de processos instruídos pela ANACOM.
 
-4 - Sempre que a gravidade da infração o justifique, pode a entidade competente nos termos do número anterior, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, designadamente das previstas no regime aplicável às contraordenações ambientais.
+4 - Sempre que a gravidade da infração o justifique, pode a entidade competente nos termos do número anterior, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, designadamente das previstas no regime aplicável às contraordenações ambientais ou às económicas.
