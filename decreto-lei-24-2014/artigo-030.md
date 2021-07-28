@@ -10,8 +10,4 @@
 
 2 - A decisão de aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-3 - O produto das coimas aplicadas reverte em:
-
-a) 60 % para o Estado;
-
-b) 40 % para a entidade que proceder à instrução do processo e à aplicação da respetiva coima.
+3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
