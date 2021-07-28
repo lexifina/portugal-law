@@ -1,0 +1,144 @@
+# Decreto Legislativo Regional n.º 17/2021/M
+
+**Emissor:** ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DA MADEIRA
+
+**Publicação:** JORAM, I série, n.º 134/2021, de 2021-07-28
+
+**Sumário:** Aplica à Região Autónoma da Madeira o regime de execução do acolhimento residencial, previsto no Decreto-Lei n.º 164/2019, de 25 de outubro. Decreto Legislativo Regional n.º 18/2021/M Confirma, define e caracteriza o «Rum da Madeira» e estabelece as regras relativas à sua produção e comercialização.
+
+## Texto
+
+Decreto Legislativo Regional n.º 17/2021/M
+de 28 de julho
+Aplica à Região Autónoma da Madeira o regime de execução do acolhimento residencial, previsto no DecretoLei n.º 164/2019, de 25 de outubro
+O Decreto-Lei n.º 164/2019, de 25 de outubro, estabeleceu o regime de execução do acolhimento residencial, medida de promoção dos direitos e de proteção das crianças e jovens em perigo, prevista na Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, na sua atual redação.
+Não obstante, dispõe no seu artigo 33.º, que a aplicação do regime aí previsto às Regiões Autónomas é efetuada mediante ato normativo regional, a aprovar pelos órgãos próprios.
+Neste sentido, urge definir a forma de concretização, nesta Região Autónoma, da medida de acolhimento residencial.
+Assim: A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º, no n.º 1 do artigo 228.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º, na alínea m) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.ºs 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:
+Artigo 1.º Objeto
+O presente diploma aplica à Região Autónoma da Madeira o regime de execução do acolhimento residencial, previsto no Decreto-Lei n.º 164/2019, de 25 de outubro, com as adaptações constantes do presente diploma.
+Artigo 2.º Adaptações orgânicas
+As referências feitas no Decreto-Lei n.º 164/2019, de 25 de outubro, ao Instituto da Segurança Social, I. P., e, bem assim, aos respetivos centros distritais, consideram-se efetuadas ao Instituto de Segurança Social da Madeira, IPRAM (ISSM, IP-RAM).
+Artigo 3.º Gestão do processo
+A gestão do processo em que foi aplicada a medida de acolhimento residencial compete ao ISSM, IP-RAM ou à Comissão de Proteção de Crianças e Jovens, atentas as suas atribuições e competências.
+Artigo 4.º Comissão de Acompanhamento e Avaliação das Medidas de
+Promoção e proteção em regime de colocação
+As medidas recomendadas e propostas pela Comissão de Acompanhamento e Avaliação das Medidas de Promoção e Proteção em Regime de Colocação, a que se refere o artigo 30.º do Decreto-Lei n.º 164/2019, de 25 de
+
+outubro, são aplicadas à Região Autónoma da Madeira, com as devidas adaptações.
+Artigo 5.º Regulamentação
+Os termos, condições e procedimentos do processo de execução do acolhimento residencial, bem como os termos e as condições de atuação das instituições, no âmbito de execução da medida de acolhimento residencial, são aprovados por despacho do membro do membro do Governo Regional responsável pela área da segurança social.
+Artigo 6.º Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de junho de 2021.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, José Manuel de Sousa Rodrigues
+Assinado em 15 de julho de 2021.
+Publique-se.
+O REPRESENTANTE DA REPÚBLICA PARA A REGIÃO AUTÓNOMA DA MADEIRA, Ireneu Cabral Barreto
+Decreto Legislativo Regional n.º 18/2021/M
+de 28 de julho
+Confirma, define e caracteriza o «Rum da Madeira» e estabelece as regras relativas à sua produção e comercialização
+O Regulamento (UE) 2019/787, do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativo à definição, designação, apresentação e rotulagem das bebidas espirituosas, à utilização das denominações das bebidas espirituosas na apresentação e rotulagem de outros géneros alimentícios e à proteção das indicações geográficas das bebidas espirituosas, à utilização de álcool etílico e de destilados de origem agrícola na produção de bebidas alcoólicas, retificado pela Retificação do Regulamento (UE) 2019/787, do Parlamento Europeu e do Conselho, de 17 de abril de 2019, publicada a 6 de dezembro de 2019 na série L316 I do JOUE, revogou o Regulamento (CE) n.º 110/2008, do Parlamento Europeu e do Conselho, de 15 de janeiro de 2008.
+O Regulamento (UE) 2019/787, tendo em conta a experiência recente e a inovação tecnológica, os desenvolvimentos do mercado e a evolução das expetativas do consumidor, veio atualizar as regras aplicáveis à definição, designação, apresentação e rotulagem das bebidas espirituosas, bem como rever a forma como as indicações geográficas das bebidas espirituosas são registadas e protegidas, no sentido de preservar a reputação que as bebidas espirituosas da União alcançaram na União e no mercado mundial, e, ao mesmo tempo, ter em conta as práticas tradicionais utilizadas na sua produção, assim como a
+
+exigência cada vez maior de proteção e informação do
+consumidor. As indicações geográficas das bebidas espirituosas
+registadas no anexo iii ao Regulamento (CE) n.º 110/2008 e, por conseguinte, protegidas ao abrigo desse regulamento, ficam automaticamente protegidas como indicações geográficas ao abrigo do Regulamento (UE) 2019/787.
+No entanto, atendendo que no Regulamento (UE) 2019/787 e no âmbito da classificação das bebidas espirituosas em categorias, de acordo com regras gerais previstas no seu artigo 7.º e com regras específicas previstas no anexo i, foram incluídos, entre outros, esclarecimentos sobre a categoria rum, especificando os requisitos que as indicações geográficas registadas ao abrigo deste regulamento devem cumprir para poderem completar a sua denominação legal com o termo «tradicional», nomeadamente, que o rum em causa não seja edulcorado, de acordo com o estabelecido no terceiro travessão da subalínea i), da alínea g), do n.º 1, do seu anexo i.
+Mais, o Regulamento (UE) 2019/787 estabelece, na subalínea ii), da alínea g), do n.º 1, do seu anexo i, que o termo «agrícola» só pode ser utilizado no caso das indicações geográficas de um departamento francês ou da Região Autónoma da Madeira e desde que o rum em causa cumpra os requisitos estabelecidos na subalínea i), nomeadamente, não ser edulcorado.
+Considerando que o Decreto Legislativo Regional n.º 5/2011/M, de 15 de março, que confirma a indicação geográfica «Rum da Madeira» e regula a sua produção e comércio, prevê a possibilidade deste produto ser edulcorado, o que é contrário às disposições impostas por este novo regulamento, encontrando-se por este motivo desajustado em face do novo contexto jurídico-legal do setor das bebidas espirituosas.
+Considerando que o «Rum da Madeira» é uma bebida espirituosa que ostenta uma indicação geográfica registada e que, como tal, beneficia de uma série de proteções e reconhecimentos, nomeadamente a possibilidade de utilizar na sua rotulagem, em exclusividade com as indicações geográficas de um departamento francês, o termo «agrícola» que importa salvaguardar.
+Considerando que o artigo 51.º do Regulamento (UE) 2019/787 estabelece que este regulamento é aplicável a partir de 25 de maio de 2021 pelo que a Comissão Europeia notificou o Estado Português para, que até essa data, sejam tomadas medidas no sentido de garantir que as especificações de «Rum da Madeira» estejam conformes com o disposto neste regulamento.
+É, ainda, imprescindível adequar as regras e requisitos da produção e comercialização do «Rum da Madeira» ao referido enquadramento jurídico-legal e, ao mesmo tempo, criar condições, do ponto de vista normativo, de acordo com o solicitado pelos operadores económicos do setor da produção e comercialização do «Rum da Madeira», para aumentar a atratividade deste setor de atividade, impulsionar a qualidade e genuinidade do «Rum da Madeira» e despertar o interesse do consumidor, cada vez mais avisado e exigente, para este produto regional.
+Assim, é imperioso aprovar um novo quadro normativo que confirme a Indicação Geográfica «Rum da Madeira» e regule a produção e o comércio deste produto em conformidade com a legislação comunitária em vigor.
+Foram ouvidos os operadores económicos do setor da produção e comercialização do «Rum da Madeira» que se encontram registados no Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM.
+Assim: A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º, e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, conjugada com a alínea c) do n.º 1 do artigo 37.º, da alínea g) do artigo 40.º e do n.º 1
+
+do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.ºs 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:
+Artigo 1.º Âmbito
+O presente diploma confirma, define e caracteriza o «Rum da Madeira» e estabelece as regras relativas à sua produção e comercialização.
+Artigo 2.º Definição
+Para efeitos do disposto no presente diploma, entende-se por «Rum da Madeira» ou «Rum Agrícola da Madeira» a bebida espirituosa produzida na área geográfica referida no artigo 4.º do presente diploma, exclusivamente, por fermentação alcoólica e destilação do sumo de cana-deaçúcar oriunda da mesma região.
+Artigo 3.º Indicação Geográfica
+1 - É confirmada a indicação geográfica (IG) «Rum da Madeira», a qual só pode ser usada para a identificação do rum produzido na área geográfica definida no artigo seguinte e que satisfaça os requisitos estabelecidos no presente diploma e demais legislação e regulamentação aplicável.
+2 - Não é permitida a utilização em outras bebidas espirituosas de nomes, marcas, termos, expressões ou símbolos suscetíveis de, pela similitude gráfica ou fonética com a IG «Rum da Madeira», induzirem o consumidor em erro, mesmo que precedidos dos termos «tipo», «género», «estilo» ou outros análogos, ainda que acompanhadas da indicação do seu verdadeiro local de origem.
+3 - A proibição estabelecida no número anterior é igualmente aplicável a todos os produtos quando a sua utilização procure, sem justo motivo, tirar partido indevido do caráter distintivo ou do prestígio de que goza a IG a que se aplica este diploma ou possa prejudicá-la.
+Artigo 4.º Delimitação da Região
+A área geográfica da IG «Rum da Madeira», conforme representação cartográfica constante do anexo i ao presente diploma, abrange as ilhas da Madeira e do Porto Santo.
+Artigo 5.º Cana-de-açúcar
+A cana-de-açúcar utilizada na produção de «Rum da Madeira» deve ser produzida, exclusivamente, na região estabelecida no artigo 4.º, devendo possuir um teor sacarimétrico médio de pelo menos 15º Brix.
+Artigo 6.º Destilação
+O equipamento e os processos utilizados na destilação devem ser os mais adequados à obtenção de um produto que apresente as características organoléticas tradicionais específicas do rum.
+
+Artigo 7.º Características
+1 - O «Rum da Madeira» natural é caracterizado pela ausência de cor ou por possuir um tom amarelado.
+2 - O «Rum da Madeira» envelhecido, em conformidade com o disposto no artigo 14.º do presente diploma, caracteriza-se por possuir uma cor entre o amarelado e o topázio.
+3 - Sem prejuízo da demais legislação e regulamentação aplicável em vigor sobre a matéria, o «Rum da Madeira» deve apresentar as características constantes do Anexo ii ao presente diploma, bem como outros requisitos que venham a ser definidos em regulamento interno do Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM (IVBAM, IP-RAM).
+Artigo 8.º Contas correntes
+1 - Todo o «Rum da Madeira» produzido nos termos constantes do presente diploma será objeto de contas correntes gerais e específicas, de acordo com o disposto nos procedimentos internos a instituir pelo IVBAM, IP-RAM, as quais ficarão sob controlo deste organismo.
+2 - As indústrias destiladoras, durante o período de laboração, ficam obrigadas a manter registos diários relativos aos movimentos de matériasprimas, produtos intermédios e finais laborados.
+3 - Os produtores/engarrafadores do «Rum da Madeira» deverão manter uma comunicação permanente e regular com o IVBAM, IP-RAM, de acordo com impressos ou formulários a estabelecer por este organismo, respeitantes aos movimentos de entradas e saídas de matérias-primas ou produtos acabados.
+Artigo 9.º Instalações
+1 - A destilação, beneficiação, envelhecimento e demais operações destinadas à produção do «Rum da Madeira», bem como o engarrafamento, devem ser realizadas no interior da região definida no artigo 4.º do presente diploma, em instalações inscritas no IVBAM, IP-RAM, devendo ainda cumprir com os demais requisitos previstos na lei para o efeito.
+2 - Os locais destinados às operações de fermentação, destilação e armazenamento deverão estar devidamente separados de outros locais onde se laboram outros produtos.
+3 - Todas as instalações deverão ser mantidas em boas condições de higiene e segurança.
+4 - Todos os recipientes necessários à produção, armazenagem e envelhecimento de «Rum da Madeira» deverão possuir numeração distinta, devendo estar identificadas as suas capacidades, em caracteres nítidos, legíveis e indeléveis, bem como possuir escalas de nível graduadas ou outras formas de medição.
+
+Artigo 10.º Indicações obrigatórias
+1 - A rotulagem do «Rum da Madeira» deve ser previamente aprovada pelo IVBAM, IP-RAM, que atesta a conformidade da mesma com a legislação e regulamentação aplicável, nomeadamente, no que diz respeito à utilização de uma marca registada e às indicações obrigatórias.
+2 - Sem prejuízo da observância de outras normas em vigor sobre rotulagem, é obrigatório constar da rotulagem a IG «Rum da Madeira» ou «Rum Agrícola da Madeira», podendo ser complementadas com uma ou mais menções tradicionais estabelecidas no artigo seguinte.
+Artigo 11.º Menções tradicionais
+Na rotulagem do «Rum da Madeira» e em complemento das indicações obrigatórias estabelecidas no presente diploma e demais legislação e regulamentação aplicável, podem ser utilizadas as seguintes designações:
+a) «Aguardente de cana», «aguardente de cana-deaçúcar» ou «aguardente de cana sacarina» menções reservadas ao «Rum da Madeira» produzido em conformidade com o presente diploma;
+b) «Velho», «rum velho» ou «aguardente velha» - menções reservadas ao «Rum da Madeira» que cumpre com o disposto no n.º 2 do artigo 7.º do presente diploma;
+c) Para o «Rum da Madeira», com uma das seguintes menções «velho», «rum velho» ou «aguardente velha», é obrigatória a indicação do ano de produção, nos termos do n.º 1 do artigo 12.º, ou da idade, nos termos do n.º 1 do artigo 13.º
+Artigo 12.º Rum com indicação do ano de produção
+1 - O ano de produção pode constar da rotulagem do «Rum da Madeira» desde que efetivamente tenha sido na sua totalidade produzido no ano em questão e na condição de ter sido envelhecido em cascos de madeira de carvalho, logo após a produção até ao engarrafamento, em conformidade com o disposto no artigo 14.º do presente diploma.
+2 - O rum com indicação do ano de produção deve, ainda, apresentar características organoléticas destacadas em conformidade com a idade em causa, definidas em regulamento interno da Câmara de Provadores do IVBAM, IP-RAM.
+3 - O ano de engarrafamento deve constar da rotulagem do rum com indicação do ano de produção.
+Artigo 13.º Rum com indicação de idade
+1 - As indicações «3 anos», «6 anos» ou «Reserva», «9 anos», «12 anos» ou «Reserva Velha», «15 anos» ou «Reserva Especial», «18 anos» ou «Reserva Superior», «21 anos» ou «Grande Reserva» e «25 anos» ou outra indicação de idade superior aprovada pelo IVBAM, IP-RAM associadas ou não à menção «Grande Reserva
+
+Premium», podem constar da rotulagem do «Rum da Madeira», desde que o seu envelhecimento seja efetuado em cascos de madeira de carvalho, durante um período mínimo correspondente à idade em causa, em conformidade com o disposto nos n.ºs 2 e 3 do artigo 14.º do presente diploma.
+2 - O rum com indicação de idade deve possuir características organoléticas em conformidade com os padrões de qualidade típicos da idade em causa, definidas em regulamento interno da Câmara de Provadores do IVBAM, IP-RAM.
+Artigo 14.º Envelhecimento
+1 - O envelhecimento de «Rum da Madeira» só pode ser efetuado em cascos de madeira de carvalho, por um período não inferior a 3 anos.
+2 - Os produtores/engarrafadores devem comunicar previamente ao IVBAM, IP-RAM a data em que pretendem iniciar o envelhecimento do «Rum da Madeira».
+3 - O «Rum da Madeira» sujeito a envelhecimento deve constar de conta corrente específica, de acordo com o disposto nos procedimentos internos a instituir pelo IVBAM, IP-RAM.
+4 - Na rotulagem do «Rum da Madeira» só é permitida qualquer menção relativa ao envelhecimento quando a mesma respeite as disposições estabelecidas no presente artigo, sendo apenas permitidas as menções estabelecidas nos artigos 11.º, 12.º e 13.º do presente diploma.
+Artigo 15.º Práticas autorizadas
+De acordo com a legislação e regulamentação aplicável, nomeadamente, no que diz respeito aos requisitos técnicos, o «Rum da Madeira» pode:
+a) Conter caramelo, só como meio para adaptar a cor; b) Ser sujeito à adição de água, desde que essa adição
+não altere a natureza do produto.
+Artigo 16.º Produção, engarrafamento e comercialização
+1 - Todas as pessoas singulares ou coletivas que se dediquem à produção e comercialização de «Rum da Madeira», excluída a distribuição dos produtos engarrafados, quer por grossistas, quer por retalhistas, estão obrigadas a inscrever-se em registo apropriado no IVBAM, IP-RAM.
+2 - Durante a produção e sempre que entender necessário, o IVBAM, IP-RAM pode proceder à recolha de amostras para controlo de qualidade, a fim de verificar se o produto satisfaz os requisitos legalmente estabelecidos.
+3 - A comercialização do «Rum da Madeira», qualquer que seja o seu destino, só poderá ser efetuada após o respetivo exame analítico e organolético pelo IVBAM, IP-RAM, em face do qual se comprove que o mesmo satisfaz as características e qualidade
+
+exigidas em regulamento interno da Câmara de Provadores do IVBAM, IP-RAM e demais legislação e regulamentação aplicável.
+4 - Para a realização dos controlos a que se referem os n.ºs 2 e 3, devem ser entregues ao IVBAM, IP-RAM, o número de garrafas necessário à apreciação do produto, representativas do lote a constituir ou efetivamente constituído.
+5 - O engarrafamento de «Rum da Madeira» deve ser efetuado em recipientes cuja capacidade esteja em conformidade com o disposto na legislação em vigor sobre as quantidades nominais aplicáveis a produtos pré-embalados.
+6 - A venda de «Rum da Madeira» a granel apenas é permitida mediante autorização prévia do IVBAM, IP-RAM.
+Artigo 17.º Disposições transitórias
+Com a entrada em vigor do presente decreto legislativo regional, as rotulagens já existentes que contrariem as disposições nele consagradas só poderão ser utilizadas durante um prazo máximo de um ano, ressalvando-se as que tenham sido apostas em runs comprovadamente engarrafados em data anterior à entrada em vigor do presente diploma.
+Artigo 18.º Infrações
+1 - As infrações ao disposto no presente diploma ficam sujeitas às sanções consagradas na legislação em vigor, designadamente no Decreto-Lei n.º 28/84, de 20 de janeiro, na sua redação atual.
+2 - A competência para a instrução e decisão dos processos de contraordenação cabe ao IVBAM, IP-RAM.
+Artigo 19.º Revogação
+É revogado o Decreto Legislativo Regional n.º 5/2011/M, de 15 de março.
+Artigo 20.º Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de junho de 2021.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA, José Manuel de Sousa Rodrigues.
+Assinado em 15 de julho de 2021.
+Publique-se.
+O REPRESENTANTE DA REPÚBLICA PARA A REGIÃO AUTÓNOMA DA MADEIRA, Ireneu Cabral Barreto
+
+ANEXO I (a que se refere o artigo 4.º)
+Representação cartográfica da área geográfica da IG «Rum da Madeira»
+
+ANEXO II (a que se refere o n.º 3 do artigo 7.º)
+Características do «Rum da Madeira»
+Características organoléticas: Aspeto - límpido; Cor - de incolor a topázio; Aroma - sui generis; Sabor - sui generis e alcoólico.
+Extrato seco total (g/l): (igual ou menor que) 5 (rum natural); (igual ou menor que) 20 (rum envelhecido) (1).
+(1) A título excecional para o «Rum da Madeira» envelhecido que apresente qualidade destacada, é aceite um teor de extrato seco total superior, de acordo com parecer positivo emitido pela Câmara de Provadores e após autorização expressa do Conselho Diretivo do IVBAM, IP-RAM.
