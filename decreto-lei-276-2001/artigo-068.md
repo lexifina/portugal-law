@@ -6,7 +6,7 @@
 
 ### Contraordenações
 
-1 - Constituem contraordenações puníveis pelo diretor-geral de Alimentação e Veterinária com coima cujo montante mínimo é de (euro) 200 e o máximo de (euro) 3740:
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
 a) A falta da mera comunicação prévia ou da permissão administrativa previstas no n.º 1 do artigo 3.º;
 
@@ -32,7 +32,7 @@ k) A recusa de transporte de animais que se encontrem nas condições estabeleci
 
 l) A exposição de animais em contrariedade com o disposto no n.º 3 do artigo 55.º
 
-2 - Constituem contraordenações puníveis pelo diretor-geral de Alimentação e Veterinária com coima cujo montante mínimo é de (euro) 500 e o máximo de (euro) 3 740:
+2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:
 
 a) A violação do disposto nos n.os 3 e 4 do artigo 2.º;
 
@@ -50,12 +50,10 @@ g) Os espectáculos ou outras manifestações similares que envolvam lutas entre
 
 h) A publicidade ou venda de animais selvagens em contrariedade com o disposto nos n.os 1 e 2 do artigo 55.º
 
-3 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-4 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
+4 - (Revogado.)
 
-5 - As coimas aplicadas às pessoas colectivas poderão elevar-se até ao montante máximo de (euro) 44890.
+5 - (Revogado.)
 
 6 - Sem prejuízo dos montantes máximos fixados, a coima deverá, sempre que possível, exceder o benefício económico que o agente retirou da prática do acto ilícito.
-
-7 - Sem prejuízo dos montantes máximos fixados, a coima deverá, sempre que possível, exceder o benefício económico que o agente retirou da prática do ato ilícito.

@@ -2,12 +2,4 @@
 
 ### Afectação do produto das coimas
 
-A afetação do produto das coimas faz-se da seguinte forma:
-
-a) 10 /prct. para a autoridade autuante;
-
-b) 30 /prct. para a autoridade instrutória;
-
-c) (Revogada.)
-
-d) 60 /prct. para o Estado.
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
