@@ -2,7 +2,7 @@
 
 ### Contraordenações
 
-1 - Constituem contraordenações, punidas com coima de (euro) 250,00 a (euro) 3 500,00, caso se trate de pessoa singular, e de (euro) 2 500,00 a (euro) 40 000,00, caso se trate de pessoa coletiva:
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
 a) O incumprimento do disposto nos n.os 2 e 3 do artigo 4.º;
 
@@ -24,10 +24,12 @@ i) O incumprimento, pelo operador económico, dos deveres previstos no artigo 14
 
 j) O incumprimento, pela pessoa, singular ou coletiva, responsável pela conceção e fabrico do ascensor, do dever previsto no n.º 2 do artigo 17.º
 
+k) A violação das regras e condições de aposição da marcação CE, previstas no n.º 1 do artigo 20.º, e de outras marcações previstas nos n.os 3 e 4 do mesmo artigo.
+
 2 - A violação do disposto no artigo 19.º rege-se pelo disposto no artigo 6.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro.
 
-3 - Constitui contraordenação punível com coima no valor de (euro) 1 000,00 a (euro) 3 740,00, quando cometida por pessoas singulares, e de (euro) 2 500,00 a (euro) 44 890,00, quando cometida por pessoas coletivas, a infração das regras e condições de aposição da marcação CE, previstas no n.º 1 do artigo 20.º, e de outras marcações previstas nos n.os 3 e 4 do mesmo artigo.
+3 - (Revogado.)
 
-4 - A negligência é punível, sendo os limites mínimo e máximo da coima aplicável reduzidos para metade.
+4 - (Revogado.)
 
-5 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
+5 - A tentativa e a negligência são puníveis nos termos do RJCE.
