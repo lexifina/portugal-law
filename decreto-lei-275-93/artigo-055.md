@@ -2,7 +2,7 @@
 
 ### Sanções acessórias
 
-1 - Conjuntamente com as coimas previstas, podem ser aplicadas, de acordo com a natureza, a gravidade ou a frequência das contra-ordenações, as seguintes sanções acessórias, nos termos da lei geral:
+1 - Conjuntamente com as coimas, podem ser aplicadas, de acordo com a natureza, a gravidade ou a frequência das contraordenações, as seguintes sanções acessórias, nos termos do RJCE:
 
 a) Apreensão de todo o material utilizado, no caso da alínea i) do n.º 1 do artigo anterior;
 

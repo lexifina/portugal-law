@@ -6,7 +6,7 @@
 
 ### Contra-ordenações
 
-1 - Constituem contra-ordenações puníveis com coima de (euro) 9975,94 (2000000$00) a (euro) 99759,40 (20000000$00):
+1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
 a) A comercialização de direito real de habitação periódica não validamente constituído;
 
@@ -34,7 +34,7 @@ m) A não prestação das cauções previstas no artigo 52.º;
 
 n) O incumprimento do disposto no n.º 5 do artigo 60.º
 
-2 - Constituem contra-ordenações puníveis com coima de (euro) 4987,98 (1000000$00) a (euro) 49879,79 (10000000$00):
+2 - Constitui contraordenação económica grave, punível nos termos do RJCE:
 
 a) A infracção ao disposto no n.º 3 do artigo 4.º;
 
@@ -60,4 +60,4 @@ k) A infracção ao disposto no n.º 2 do artigo 50.º;
 
 l) A infracção ao disposto nos n.os 1 a 4 do artigo 50.º-A.
 
-3 - A negligência e a tentativa são puníveis.
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.

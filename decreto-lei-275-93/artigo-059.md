@@ -2,10 +2,4 @@
 
 ### Destino das coimas
 
-O produto das coimas reverte em:
-
-a) 60 % para o Estado;
-
-b) 40 % para a Autoridade de Segurança Alimentar e Económica;
-
-c) [Revogada]
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
