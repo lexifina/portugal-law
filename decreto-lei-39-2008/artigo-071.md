@@ -4,10 +4,4 @@
 
 1 - O produto das coimas aplicadas pelas câmaras municipais constitui receita dos respectivos municípios.
 
-2 - O produto das coimas aplicadas pela ASAE reverte:
-
-a) 60 % para o Estado;
-
-b) 40 % para a ASAE;
-
-c) [Revogada].
+2 - O produto das coimas aplicadas pela ASAE é repartido nos termos do RJCE.
