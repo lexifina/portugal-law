@@ -10,7 +10,7 @@ a) Verificar se o mesmo ostenta a marcação CE de acordo com os requisitos esta
 
 b) Verificar se o mesmo vem acompanhado dos documentos exigidos pelo presente decreto-lei e das instruções e informações de segurança, redigidas em língua portuguesa em linguagem clara;
 
-c) Verificar se o fabricante e o importador cumpriram os requisitos previstos, respetivamente, nas alíneas b) e j) a p) do n.º 1 do artigo 11.º e nas alíneas f) e g) do n.º 2 do artigo anterior;
+c) Verificar se o fabricante e o importador cumpriram os requisitos previstos, respetivamente, nas alíneas b) e j) e p) do n.º 1 do artigo 11.º e nas alíneas f) e g) do n.º 2 do artigo anterior;
 
 d) Abster-se de disponibilizar o equipamento de rádio até que seja resposta a conformidade, quando considere ou tenha motivos para crer que o mesmo não está conforme com os requisitos essenciais previstos no artigo 4.º;
 
@@ -25,9 +25,5 @@ h) Se um equipamento de rádio represente um risco, informar imediatamente as au
 i) Facultar, em língua facilmente compreensível pelas autoridades de fiscalização do mercado, mediante pedido fundamentado destas, toda a informação e documentação necessárias para demonstrar a conformidade do equipamento de rádio, em papel ou, preferencialmente, em suporte eletrónico;
 
 j) Cooperar com as autoridades de fiscalização do mercado, a pedido destas, em todas as ações de eliminação dos riscos decorrentes de equipamentos de rádio que tenham disponibilizado no mercado.
-
-k) Assegurar que, quando disponibiliza equipamentos de rádio a que se refere o n.º 4 do artigo 4.º, tais equipamentos contêm as informações previstas na alínea u) do n.º 1 do artigo 11.º exibidas num rótulo nos termos da alínea v) do n.º 1 do artigo 11.º;
-
-l) Assegurar que, quando disponibiliza a consumidores e a outros utilizadores finais equipamentos de rádio referidos no n.º 4 do artigo 4.º, a informação sobre se o equipamento inclui ou não um dispositivo de carregamento é indicada de forma gráfica, mediante um pictograma nos termos da alínea w) do n.º 1 do artigo 11.º
 
 3 - O distribuidor é considerado fabricante para efeitos do presente decreto-lei, ficando sujeito aos deveres previstos no artigo 11.º, sempre que coloque no mercado equipamentos de rádio em seu nome ou ao abrigo de uma marca sua, ou altere os equipamentos de rádio já colocados no mercado de tal modo que a conformidade com o presente decreto-lei possa ser afetada.

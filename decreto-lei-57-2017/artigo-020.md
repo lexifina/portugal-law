@@ -2,7 +2,7 @@
 
 ### Regras e condições para a aposição da marcação CE e do número de identificação do organismo notificado
 
-1 - A marcação CE deve ser sempre aposta de modo visível e legível na embalagem, bem como nos equipamentos de rádio ou na respetiva placa de identificação de modo visível, legível e indelével, ou, não sendo possível ou não podendo ser garantido devido à natureza do aparelho, apenas na embalagem.
+1 - A marcação CE deve ser aposta nos equipamentos de rádio ou na respetiva placa de identificação de modo visível, legível e indelével, ou, não sendo possível ou não podendo ser garantido devido à natureza do aparelho, na embalagem e nos documentos que o acompanham.
 
 2 - A marcação CE deve ser aposta antes de o equipamento de rádio ser colocado no mercado.
 

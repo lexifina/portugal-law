@@ -4,7 +4,7 @@
 
 1 - O fabricante pode designar, por escrito, um mandatário, a quem compete praticar os atos definidos no mandato.
 
-2 - Os deveres previstos nas alíneas a) a d) do n.º 1 do artigo anterior não podem ser objeto de mandato.
+2 - Os deveres previstos nas alíneas a) a e) do n.º 1 do artigo anterior não podem ser objeto de mandato.
 
 3 - Sem prejuízo de habilitar para outros atos, o mandato deve permitir a prática pelo mandatário dos seguintes atos:
 
