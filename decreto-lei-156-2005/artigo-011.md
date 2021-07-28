@@ -50,6 +50,6 @@ b) À ASAE, quando a fiscalização e a instrução dos processos é efetuada pe
 
 3 - Compete à ASAE a fiscalização, a instrução dos processos e a aplicação de coimas e sanções acessórias relativas às contraordenações previstas no n.º 1 do artigo 9.º quando praticadas em estabelecimentos de fornecimento de bens e de prestação de serviços não mencionados no anexo ao presente decreto-lei e quando não exista entidade de controlo de mercado competente e entidade reguladora do setor.
 
-4 - A receita das coimas reverte em 60 % para o Estado, em 30 % para a entidade que instrui o processo contraordenacional e em 10 % para a entidade que aplica a coima quando esta não coincida com a entidade que faz a instrução.
+4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-5 - Coincidindo na mesma entidade a instrução e a aplicação das coimas, a distribuição da receita é de 60 % para o Estado e de 40 % para a entidade que instrui o processo.
+5 - (Revogado.)
