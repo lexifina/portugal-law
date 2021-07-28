@@ -1,3 +1,5 @@
+Decreto-Lei n.º 220/2008
+
 de 12 de Novembro
 
 A legislação sobre segurança contra incêndio em edifícios encontra-se actualmente dispersa por um número excessivo de diplomas avulsos, dificilmente harmonizáveis entre si e geradores de dificuldades na compreensão integrada que reclamam. Esta situação coloca em sério risco não apenas a eficácia jurídica das normas contidas em tal legislação, mas também o seu valor pedagógico.
