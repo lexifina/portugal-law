@@ -18,4 +18,4 @@ e) Publicidade da decisão condenatória.
 
 3 - A sanção acessória prevista na alínea e) do n.º 1 pode ser feita através da publicação no Boletim da Propriedade Industrial, da divulgação em qualquer meio de comunicação que se considere adequado ou da afixação no próprio estabelecimento ou local do exercício da atividade do agente.
 
-4 - Os pressupostos da aplicação das sanções acessórias previstas no presente artigo são os estabelecidos no Decreto-Lei n.º 28/84, de 20 de janeiro, na sua redação atual, e no regime geral das contraordenações.
+4 - Os pressupostos da aplicação das sanções acessórias previstas no presente artigo são os estabelecidos no Decreto-Lei n.º 28/84, de 20 de janeiro, na sua redação atual, e no RJCE.

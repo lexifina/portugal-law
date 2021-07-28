@@ -2,7 +2,7 @@
 
 ### Violação de segredo comercial protegido
 
-É punido com coima de (euro) 5 000 a (euro) 100 000, caso se trate de pessoa coletiva, e de (euro) 1 000 a (euro) 30 000, caso se trate de pessoa singular, quem, sem o consentimento do titular do direito:
+É punido por contraordenação económica muito grave, nos termos do RJCE, quem, sem o consentimento do titular do direito:
 
 a) Obtiver segredo comercial que esteja legalmente sob o controlo do seu titular, por ato que resulte do acesso ou apropriação não autorizados de qualquer suporte que contenha esse segredo, ou a partir do qual seja possível inferi-lo, ou por meio de conduta contrária às práticas comerciais honestas;
 

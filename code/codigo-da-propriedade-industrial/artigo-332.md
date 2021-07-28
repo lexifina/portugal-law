@@ -2,7 +2,7 @@
 
 ### Invocação ou uso ilegal de recompensa
 
-É punido com coima de (euro) 3 000 a (euro) 30 000, caso se trate de pessoa coletiva, e de (euro) 750 a (euro) 7 500, caso se trate de pessoa singular, quem, sem consentimento do titular do direito:
+É punido por contraordenação económica grave, nos termos do RJCE, quem, sem o consentimento do titular do direito:
 
 a) Invocar ou fizer menção de uma recompensa registada em nome de outrem;
 
