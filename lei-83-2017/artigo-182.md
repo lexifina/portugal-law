@@ -28,4 +28,4 @@ iii) Dos capítulos VIII e IX do Decreto-Lei n.º 31/2011, de 4 de março;
 
 iv) Do regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro;
 
-e) No caso dos procedimentos contraordenacionais em que a competência instrutória cabe a outras autoridades setoriais, as disposições constantes do regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro.
+e) No caso dos procedimentos contraordenacionais em que a competência instrutória cabe a outras autoridades setoriais, as disposições constantes do Regime Jurídico das Contraordenações Económicas.
