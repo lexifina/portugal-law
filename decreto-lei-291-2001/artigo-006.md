@@ -1,0 +1,5 @@
+# Artigo 6.º
+
+### Requisitos da rotulagem
+
+Sem prejuízo da aplicação da legislação relativa à rotulagem, o rótulo da embalagem destinada a comercializar os géneros alimentícios misturados com brindes deve, ainda, informar o consumidor, em língua portuguesa, com caracteres facilmente legíveis, visíveis e indeléveis, em evidência e redigido em termos correctos, das características dos brindes que se encontram no seu interior, não podendo ser apresentadas ou descritas por palavras, imagens ou outra forma susceptível de criar uma impressão errada no consumidor, e deve, igualmente, apresentar o seguinte aviso: 'Contém um brinde. Recomendada a vigilância por adultos'.
