@@ -1,0 +1,21 @@
+# Anexo V
+
+### Marcação do material de embalagem de madeira
+
+1 - Deve ser utilizada uma das seguintes marcas, a apor no material de embalagem, atestando o tratamento a que foi sujeito:
+
+(ver documento original)
+
+2 - Marca aprovada na versão anterior da NIMF n.º 15 que pode ser utilizada até que seja efetuada substituição dos «carimbos»/«ferros»:
+
+(ver documento original)
+
+3 - Preenchimento da marca:
+
+0000 - número de registo oficial do operador económico atribuído pelos serviços oficiais;
+
+YY - tipo de tratamento:
+
+4 - A marcação, a tinta ou a fogo, deve estar de acordo com um dos modelos indicados no n.º 1, ser legível, permanente e intransmissível e colocada em local visível, de preferência em pelo menos duas faces opostas do material sujeito a marcação.
+
+5 - Não devem ser utilizadas as cores vermelha e laranja na marcação.
