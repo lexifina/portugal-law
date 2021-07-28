@@ -2,4 +2,4 @@
 
 ### (Regime das contra-ordenações)
 
-Às contraordenações previstas no presente Código é subsidiariamente aplicável, em tudo quanto não se encontre especialmente regulado, o disposto no regime geral das contraordenações.
+Às contraordenações económicas previstas no presente Código é subsidiariamente aplicável, em tudo quanto não se encontre especialmente regulado, o disposto no Regime Jurídico das Contraordenações Económicas (RJCE).

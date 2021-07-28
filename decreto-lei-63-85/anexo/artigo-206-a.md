@@ -4,7 +4,7 @@
 
 1 - São competentes para levantar o respetivo auto e efetuar a apreensão referidos nos n.os 2 e 3 as entidades que, nos termos do n.º 2 do artigo 201.º, têm competência para proceder à apreensão, nos casos de flagrante delito, pela prática dos crimes previstos neste Código.
 
-2 - A entidade que levantar o auto deve dar imediato conhecimento desse facto à Inspeção-Geral das Atividades Culturais (IGAC), a qual, nos casos em que tal seja admissível, notifica o infrator para o pagamento voluntário da coima prevista nos n.os 6 e 7.
+2 - A entidade que levantar o auto deve dar imediato conhecimento desse facto à Inspeção-Geral das Atividades Culturais (IGAC), a qual, nos casos em que tal seja admissível, notifica o infrator para o pagamento voluntário da coima nos termos do RJCE, sem prejuízo das especificidades previstas nos n.os 6 e 7.
 
 3 - Em caso de reincidência, incluindo os casos em que não é respeitada a advertência prevista no número seguinte, são apreendidos os fonogramas, videogramas bem como os respetivos suportes, invólucros materiais, máquinas, aparelhos, equipamentos e demais instrumentos sobre os quais haja suspeita de terem sido utilizados ou que se destinem à prática de infração.
 
