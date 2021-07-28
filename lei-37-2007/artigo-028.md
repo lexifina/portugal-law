@@ -8,10 +8,4 @@
 
 3 - Cabe ao inspetor-geral da Autoridade de Segurança Alimentar e Económica, ao diretor-geral do Consumidor e ao conselho regulador da Entidade Reguladora para a Comunicação Social, conforme ao caso aplicável, a aplicação das respetivas coimas e sanções acessórias, que delas dão conhecimento à Direção-Geral da Saúde.
 
-4 - O produto das coimas é distribuído da seguinte forma:
-
-a) 60 % para o Estado;
-
-b) 40 % para a entidade que instruiu o processo e aplicou a coima;
-
-c) (Revogada).
+4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas na presente lei é repartido nos termos do RJCE.

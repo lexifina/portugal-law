@@ -6,22 +6,22 @@
 
 ### Contra-ordenações
 
-1 - Constituem contra-ordenações as infracções ao disposto nos artigos 4.º a 6.º, no n.º 2 do artigo 7.º e nos artigos 8.º a 19.°, as quais são punidas com as seguintes coimas:
+1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
-a) De (euro) 50 a (euro) 750, para o fumador que fume nos locais a que aludem as alíneas a) a bb) do n.º 1 e o n.º 2 do artigo 4.º ou fora das áreas ao ar livre ou das áreas para fumadores previstas nos n.os 1 a 5 e 7 a 10 do artigo 5.º;
+a) No caso de fumadores, fumar nos locais previstos nas alíneas a) a bb) do n.º 1 e no n.º 2 do artigo 4.º ou fora das áreas ao ar livre ou das áreas para fumadores, previstas nos n.os 1 a 5 e 7 a 10 do artigo 5.º;
 
-b) De (euro) 50 a (euro) 1000, para os proprietários dos estabelecimentos privados, pessoas colectivas, sociedades ainda que irregularmente constituídas, ou associações sem personalidade jurídica, bem como para os órgãos directivos ou dirigentes máximos dos organismos, estabelecimentos ou serviços da Administração Pública que violem o disposto no n.º 2 do artigo 7.º;
+b) No caso dos proprietários dos estabelecimentos privados, pessoas coletivas, sociedades, ainda que irregularmente constituídas, ou associações sem personalidade jurídica, bem como para os órgãos diretivos ou dirigentes máximos dos organismos, estabelecimentos ou serviços da Administração Pública, a violação do disposto no n.º 2 do artigo 7.º
 
-c) De (euro) 2 500 a (euro) 10 000, para entidades referidas na alínea anterior que violem o disposto nos n.os 1, 2, 4, 5, 6, 7, 8, 9 e 10 do artigo 5.º e no artigo 6.º;
+2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a prática dos seguintes atos:
 
-d) De (euro) 10 000 a (euro) 30 000, para as infrações aos n.os 1 a 7 e 10 do artigo 9.º-A, aos n.os 2 e 4 do artigo 10.º, aos n.os 1 a 3 do artigo 14.º-B, aos n.os 3, 4, 6 e 8 do artigo 14.º-C, ao artigo 14.º-F e aos n.os 1, 2 e 4 do artigo 14.º-H, sendo o valor reduzido para (euro) 1 500 e (euro) 3 000, respetivamente, se o infrator for pessoa singular;
+a) No caso dos proprietários dos estabelecimentos privados, pessoas coletivas, sociedades, ainda que irregularmente constituídas, ou associações sem personalidade jurídica, bem como para os órgãos diretivos ou dirigentes máximos dos organismos, estabelecimentos ou serviços da Administração Pública, a violação do disposto nos n.os 1, 2 e 4 a 10 do artigo 5.º e no artigo 6.º;
 
-e) De (euro) 30 000 a (euro) 250 000, para as infrações ao n.º 1 do artigo 8.º, aos n.os 1, 2, 3 e 6 do artigo 9.º, aos n.os 1, 4 e 5 do artigo 10.º-A, aos n.os 1 a 8 do artigo 11.º, aos artigos 11.º-A, 11.º-B, 11.º-C, 12.º e 13.º, aos n.os 1 a 6, 8, 10 e 14 do artigo 13.º-A, aos n.os 1 e 4 do artigo 13.º-B, aos artigos 14.º e 14.º-A, aos n.os 1 e 2 do artigo 14.º-C, ao artigo 14.º-D, ao artigo 14.º-E, ao artigo 14.º-G, aos n.os 1, 2, 3, 5 e 6 do artigo 15.º, e aos artigos 16.º, 17.º, 18.º e 19.º, sendo o valor reduzido para (euro) 2000 e (euro) 3750, respetivamente, se o infrator for pessoa singular.
+b) A violação dos n.os 1 a 7 e 10 do artigo 9.º-A, dos n.os 2 e 4 do artigo 10.º, dos n.os 1 a 3 do artigo 14.º-B, dos n.os 3, 4, 6 e 8 do artigo 14.º-C, do artigo 14.º-F e dos n.os 1, 2 e 4 do artigo 14.º-H.
 
-2 - A negligência é punível, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.
+3 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do n.º 1 do artigo 8.º, dos n.os 1, 2, 3 e 6 do artigo 9.º, dos n.os 1, 4 e 5 do artigo 10.º-A, dos n.os 1 a 8 do artigo 11.º, dos artigos 11.º-A, 11.º-B, 11.º-C, 12.º e 13.º, dos n.os 1 a 6, 8, 10 e 14 do artigo 13.º-A, dos n.os 1 e 4 do artigo 13.º-B, dos artigos 14.º e 14.º-A, dos n.os 1 e 2 do artigo 14.º-C, do artigo 14.º-D, do artigo 14.º-E, do artigo 14.º-G, dos n.os 1, 2, 3, 5 e 6 do artigo 15.º e dos artigos 16.º, 17.º, 18.º e 19.º
 
-3 - Nos casos previstos na alínea e) do n.º 1, a tentativa é punível, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.
+4 - A negligência e, nas contraordenações económicas muito graves, também a tentativa, são puníveis nos termos do RJCE.
 
-4 - Quando a infracção implicar forma de publicidade oculta ou dissimulada, é aplicável a punição prevista nas normas gerais sobre a actividade publicitária.
+5 - Quando a infracção implicar forma de publicidade oculta ou dissimulada, é aplicável a punição prevista nas normas gerais sobre a actividade publicitária.
 
-5 - Às contraordenações previstas na presente lei, e em tudo quanto nela se não encontre especialmente regulado, é aplicável o regime geral das contraordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro.
+6 - Às contraordenações económicas previstas na presente lei, e em tudo quanto nela se não encontre especialmente regulado, é aplicável o RJCE.
