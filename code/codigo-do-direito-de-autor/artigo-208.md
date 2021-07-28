@@ -2,10 +2,4 @@
 
 ### (Destino do produto das coimas)
 
-O produto das coimas reverte:
-
-a) Em 60 % para o Estado;
-
-b) Em 30 % para a IGAC;
-
-c) Em 10 % para a entidade que levanta o auto de notícia.
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
