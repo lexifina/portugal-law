@@ -1,8 +1,8 @@
 # Artigo 15.º
 
-### Tipificação das contra-ordenações
+### Contraordenações
 
-1 - Constitui contra-ordenação, punível com coima, cujo montante mínimo é de 50000$00 ou 250000$00 e o máximo de 750000$00 ou 9000000$00, consoante o agente seja pessoa singular ou colectiva:
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
 a) A falta, inexactidão ou deficiência das indicações na rotulagem da carne de bovino;
 
@@ -20,4 +20,4 @@ g) A falta, inexactidão ou deficiência nos registos, assim como o incumpriment
 
 h) O incumprimento quanto às regras para a formação de lotes.
 
-2 - A tentativa e a negligência são puníveis.
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.

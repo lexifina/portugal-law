@@ -1,15 +1,9 @@
 # Artigo 18.º
 
-### Instrução dos processos de contra-ordenação
+### Instrução e decisão
 
-1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar.
+1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.
 
-2 - A entidade que levantar o auto de notícia instruirá igualmente o competente processo de contra-ordenação.
+2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-3 - A afectação do produto das coimas cobradas far-se-á da seguinte forma:
-
-a) 20% para a entidade que levantou o auto e instruiu o processo;
-
-b) 20% para a entidade que aplicou a coima;
-
-c) 60% para os cofres do Estado.
+3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.

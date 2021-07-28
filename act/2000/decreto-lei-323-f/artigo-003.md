@@ -10,8 +10,6 @@
 
 ## Disposições gerais
 
-## Anexo
-
 # Artigo 3.º
 
 ### Menções obrigatórias no rótulo
