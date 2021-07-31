@@ -8,7 +8,7 @@
 
 1 - Consideram-se afectos à concessão, para além dos bens que integram o seu estabelecimento, todos os bens, móveis ou imóveis, corpóreos ou incorpóreos, assim como todos os direitos ligados directa ou indirectamente à implantação e exploração do sistema.
 
-2 - A concessionária é obrigada a manter em bom estado de funcionamento, de conservação e de segurança, a expensas suas, todos os bens e direitos afectos à concessão.
+2 - A concessionária é obrigada a manter em bom estado de funcionamento, de conservação e de segurança, a expensas suas, todos os bens e direitos afetos à concessão, podendo, para esse efeito, estabelecer acordos com entidades terceiras.
 
 3 - A concessionária elaborará e manterá actualizado um inventário de todos os bens afectos à concessão, que deverá ser enviado bienalmente ao concedente até ao final do mês de Janeiro, devidamente certificado por auditor por este aceite.
 

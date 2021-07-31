@@ -2,7 +2,7 @@
 
 ### Servidões de implantação de catenária
 
-1 - Compete à concessionária constituir as servidões ou direitos de uso ou de passagem necessários à instalação das catenárias do sistema de metro, bastando para esse efeito a notificação escrita por parte da concessionária ao dono ou titular do prédio serviente ou afectado.
+1 - Compete à concessionária constituir as servidões ou direitos de uso ou de passagem necessários à instalação das catenárias do sistema, bastando para esse efeito a notificação escrita por parte da concessionária ao dono ou titular do prédio serviente ou afetado.
 
 2 - As servidões e direitos referidos no n.º 1 compreendem:
 
@@ -24,4 +24,4 @@ e) A passagem ou a ocupação temporária de terrenos ou de outros bens para ins
 
 6 - Caso seja necessário para a identificação dos donos ou titulares dos prédios a afectar pelas servidões ou direitos, deve a concessionária enviar plantas das áreas de implantação dessas servidões ou direitos às respectivas repartições de finanças e conservatórias do registo predial, solicitando a informação da identificação dos donos ou titulares dos prédios, que deve ser fornecida por aquelas entidades no prazo máximo de 30 dias.
 
-7 - Se, apesar de realizadas as diligências referidas no n.º 6 da presente base, não for possível à concessionária identificar os donos ou titulares dos prédios a afectar pela imposição de servidões ou direitos, designadamente pela falta de resposta dentro do prazo fixado, é suficiente, para notificação dos donos ou titulares desconhecidos a publicação, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., na 2.ª série do Diário da República das plantas do traçado do sistema de metro em escala adequada e que permita a clara identificação dos prédios servientes ou afectados.
+7 - Se, apesar de realizadas as diligências referidas no número anterior, não for possível à concessionária identificar os donos ou titulares dos prédios a afetar pela imposição de servidões ou direitos, designadamente pela falta de resposta dentro do prazo fixado, é suficiente, para notificação dos donos ou titulares desconhecidos, a publicação, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., na 2.ª série do Diário da República, das plantas do traçado do sistema em escala adequada e que permita a clara identificação dos prédios servientes ou afetados.

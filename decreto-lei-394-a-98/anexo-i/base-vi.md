@@ -4,7 +4,7 @@
 
 1 - A rede do sistema é composta pelos seguintes troços:
 
-a) Hospital de São João-Trindade-João de Deus;
+a) Hospital de São João-Trindade-Santo Ovídio;
 
 b) Antas-Campanhã -Trindade-Senhora da Hora-Matosinhos;
 
@@ -18,7 +18,7 @@ f) Ligação ao concelho da Trofa, através da extensão entre ISMAI-Trofa;
 
 g) Ligação ao concelho de Gondomar, através da extensão entre Dragão-Venda Nova, e ligação ao centro urbano de Gondomar;
 
-h) Prolongamento da ligação no concelho de Gaia, através da extensão entre São João de Deus e Laborim;
+h) Prolongamento da ligação no concelho de Gaia, através da extensão entre Santo Ovídio e Vila d'Este;
 
 i) Reforço de ligações circulares nos concelhos de Matosinhos e do Porto.
 
@@ -34,7 +34,7 @@ d) Servir zonas densamente ocupadas e pólos geradores de viagens maximizando a 
 
 e) Contribuir para a estruturação da rede do metro contemplando uma estrutura fundamentalmente radial com elementos circulares que promovam e facilitem a sua articulação e funcionamento em rede.
 
-3 - A concessionária deve desenvolver ainda os estudos relativos a futuras extensões da rede do metro, designadamente:
+3 - A concessionária deve desenvolver ainda os estudos relativos a futuras extensões da rede do metro e de outros sistemas de mobilidade em canal dedicado, designadamente:
 
 a) Hospital de São João-Maia;
 
@@ -42,7 +42,7 @@ b) Desenvolvimento a sul do rio Douro;
 
 c) Zonas ocidental e oriental de Vila Nova de Gaia.
 
-4 - O sistema de metro tem as seguintes características gerais:
+4 - O sistema tem as seguintes características gerais:
 
 a) O serviço será efectuado de forma regular e contínua, de acordo com os horários preestabelecidos e anunciados junto do público, só podendo ser interrompido em caso de força maior, designadamente por avaria grave, insurreição, sedição, cataclismo, catástrofe natural ou em caso de ordem das autoridades;
 

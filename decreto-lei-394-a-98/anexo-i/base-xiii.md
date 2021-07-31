@@ -10,7 +10,7 @@
 
 2 - Sem prejuízo do disposto no número seguinte, o financiamento das actividades respeitantes à construção dos acessos ao sistema dos interfaces e das obras de requalificação urbana será assegurado pelos municípios da área metropolitana do Porto.
 
-3 - A concessionária deve suportar os custos relativos às obras de inserção urbana necessárias para a salvaguarda das condições de segurança e de operacionalidade do sistema, bem como as necessárias para o restabelecimento dos serviços, onde se inclui a circulação viária e pedonal das zonas afectadas pela plataforma, paragens e interfaces do metro e para a reposição das condições anteriormente existentes nas zonas adjacentes à plataforma de metro afectadas directamente pela sua construção.
+3 - A concessionária deve suportar os custos relativos às obras de inserção urbana necessárias para a salvaguarda das condições de segurança e de operacionalidade do sistema, bem como as necessárias para o restabelecimento dos serviços, onde se inclui a circulação viária e pedonal das zonas afetadas pela plataforma, paragens e interfaces do sistema e para a reposição das condições anteriormente existentes nas zonas adjacentes à plataforma afetadas diretamente pela sua construção.
 
 4 - As formas de financiamento referidas no n.º 1, assim como o seu montante serão inscritos num orçamento plurianual que contemplará as despesas relativas à actividade global da concessionária.
 

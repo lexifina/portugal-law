@@ -1,6 +1,6 @@
 # Base XI
 
-### Servidões e expropriações
+### Expropriações e servidões
 
 1 - Compete à concessionária, como entidade expropriante, actuando em nome do Estado, realizar as expropriações e constituir as servidões necessárias à construção do sistema, nos termos do presente decreto-lei e do Código das Expropriações.
 
