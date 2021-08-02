@@ -1,0 +1,59 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Proposta de Lei",
+  "numero": "108",
+  "id": "121067",
+  "fases": 14,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-08-02",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2021-09-14",
+    "DataInicioleg": "2020-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6a67794e544d79595463744d324d7a4d5330304e474e6c4c546b354d5451744e5445304f4459325a6a55795a4441314c6e426b5a673d3d&fich=282532a7-3c31-44ce-9914-514866f52d05.pdf&Inline=true",
+        "anexoNome": "A.I.G"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Assembleia Legislativa da Região Autónoma da Madeira",
+      "sigla": "M"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "121067",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a574d3259546b334d324d744d6a49334e4330304e446b344c546c6b596a4d744e4445344f4441345a4751304f544e694c6d52765933673d&fich=ec6a973c-2274-4498-9db3-418808dd493b.docx&Inline=true",
+    "IniNr": "108",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Alargamento da carreira especial de enfermagem às Estruturas Residenciais para Pessoas Idosas - alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas",
+        "dcl": null,
+        "descTipo": null,
+        "id": "13816",
+        "legislatura": "XV",
+        "numero": "82",
+        "sessao": "1",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
