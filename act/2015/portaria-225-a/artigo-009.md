@@ -1,13 +1,19 @@
 # Artigo 9.º
 
-### Composição do conselho diretivo
+### Composição e funcionamento da direção
 
-1 - O conselho diretivo é constituído pelo responsável máximo de cada um dos membros do consórcio, que exercem a função por inerência, e por um terceiro elemento por eles cooptado.
+1 - A direção é constituída por sete elementos, nos termos seguintes:
 
-2 - Os membros do conselho diretivo elegem o respetivo presidente.
+a) Os responsáveis máximos de cada uma das entidades referidas nas alíneas a) a d) e f) do artigo 1.º, que exercem a função por inerência;
 
-3 - O mandato do membro cooptado tem uma duração de três anos.
+b) Um representante dos ACES referidos na alínea e) do artigo 1.º, indicado por estes e designado pelo conselho diretivo da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.;
 
-4 - O conselho diretivo reúne ordinariamente uma vez por mês.
+c) Um elemento cooptado pelas entidades referidas nas alíneas a) e b) do artigo 1.º, na qualidade de membros fundadores do consórcio.
 
-5 - As decisões do conselho diretivo são tomadas por unanimidade.
+2 - Os membros da direção elegem o respetivo presidente de entre os responsáveis máximos das entidades referidas nas alíneas a) e b) do artigo 1.º
+
+3 - O mandato do membro representante dos ACES referidos na alínea e) do artigo 1.º tem a duração de um ano, renovável por mais três mandatos consecutivos.
+
+4 - O mandato do membro cooptado tem a duração de três anos, não renovável.
+
+5 - A direção reúne ordinariamente uma vez por mês.

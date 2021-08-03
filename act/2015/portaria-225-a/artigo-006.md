@@ -2,26 +2,22 @@
 
 ### Objetivos
 
-O consórcio visa prosseguir os seguintes objetivos:
+1 - O consórcio tem como principais objetivos o avanço e a aplicação do conhecimento e da evidência científica para a melhoria da saúde, visando, especialmente:
 
-a) Aproveitamento efetivo de sinergias nas várias áreas de atuação e potenciação da partilha de recursos humanos altamente diferenciados;
+a) O aproveitamento efetivo de sinergias nas várias áreas de atuação e potenciação da partilha de recursos humanos altamente qualificados e especializados, estimulando a racionalização e maximização da utilização dos recursos humanos, financeiros e tecnológicos postos à disposição dos seus membros;
 
-b) Introdução de programas inovadores e parcerias estratégicas que possibilitem avanços qualitativos na participação da comunidade e contribuam para a obtenção de financiamentos externos;
+b) A introdução de programas inovadores e parcerias estratégicas que possibilitem avanços qualitativos nas atividades assistencial, de ensino e de investigação clínica e de translação e contribuam para a diversificação e alargamento das fontes de financiamentos dessas atividades;
 
-c) Racionalização e maximização da utilização dos recursos humanos, financeiros e tecnológicos postos à disposição dos seus membros;
+c) A promoção de uma cultura comum focada na excelência científica e clínica num contexto internacional, tanto ao nível dos recursos humanos quanto ao nível dos recursos materiais, assegurando a combinação da investigação básica, translacional e de serviços clínicos e a educação em saúde que são necessários para alcançar melhorias significativas dos cuidados de saúde;
 
-d) Desenvolvimento de ações colaborativas que promovam cuidados de saúde de qualidade com base nas contribuições das ciências médicas básicas e clínicas e dos serviços de ação médica do centro hospitalar;
+d) O estabelecimento do foco da atividade na promoção da qualidade dos cuidados de saúde prestados às populações com base numa resposta adequada às suas diferentes necessidades.
 
-e) Desenvolvimento de ações colaborativas que contribuam para o desenvolvimento de cuidados integrados inovadores com base numa crescente articulação entre cuidados primários, hospitalares e continuados;
+2 - Para a prossecução dos objetivos referidos no número anterior, o consórcio atua no sentido de promover:
 
-f) Desenvolvimento de projetos colaborativos de investigação com reforço da cooperação nacional e internacional, desenvolvendo ao máximo as oportunidades oferecidas pela participação de ambas as partes no iNOVA4Health e ou em outras iniciativas semelhantes que se venham a criar;
+a) A modernização e formação da educação em saúde, na dimensão graduada, pós-graduada e de educação continuada, aproveitando as sinergias que possam ser criadas com a educação e treino de futuros profissionais das instituições de saúde que integram o consórcio;
 
-g) Modernização e qualificação da educação médica, na dimensão pós-graduada e de educação médica continuada, aproveitando as sinergias que possam ser criadas com a formação e treino que vierem a ser desenvolvidos de futuros profissionais do novo Hospital de Lisboa Oriental;
+b) O desenvolvimento de ações integradas que promovam cuidados de saúde de qualidade com base nas contribuições das ciências da saúde básicas e clínicas e dos serviços de ação médica das unidades prestadoras de cuidados de saúde;
 
-h) Promoção de uma cultura comum focada na excelência académica e clínica num contexto internacional e de redes transeuropeias;
+c) O desenvolvimento de ações que contribuam para o desenvolvimento de cuidados integrados inovadores com base numa crescente articulação entre cuidados de saúde primários, hospitalares, continuados e paliativos;
 
-i) Estabelecer o foco da atividade na promoção da qualidade dos cuidados prestados às populações com base numa resposta adequada às suas diferentes necessidades;
-
-j) Aprofundar o investimento nas áreas estratégicas;
-
-k) Desenvolver ao máximo o potencial disponível, tanto ao nível dos recursos humanos como materiais, assegurando a combinação da investigação básica, translacional e de serviços com cuidados clínicos e educação médica que é necessária para alcançar melhorias significativas dos cuidados de saúde.
+d) O desenvolvimento de projetos colaborativos de investigação com reforço da cooperação nacional e internacional, desenvolvendo ao máximo as oportunidades oferecidas pela participação dos seus membros em redes de investigação nacionais e internacionais.

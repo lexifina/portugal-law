@@ -1,5 +1,5 @@
 # Artigo 8.º
 
-### Conselho diretivo
+### Direção
 
-O consórcio é dirigido pelo conselho diretivo.
+O consórcio é dirigido pela direção.

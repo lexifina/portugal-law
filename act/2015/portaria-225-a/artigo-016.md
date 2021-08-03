@@ -16,4 +16,4 @@ e) Aprovar os recursos humanos, financeiros e materiais a afetar anualmente por 
 
 f) Aprovar a forma de proceder à afetação das receitas resultantes da atividade do consórcio.
 
-2 - Os responsáveis máximos dos membros do consórcio remetem, anualmente, à tutela respetiva, os documentos a que se referem as alíneas a), b), c) e d) do número anterior.
+2 - Os responsáveis máximos dos membros do consórcio remetem, anualmente, aos membros do Governo responsáveis pela área da ciência, tecnologia e ensino superior ou da saúde, consoante o caso, os documentos a que se referem as alíneas a) a d) do número anterior.

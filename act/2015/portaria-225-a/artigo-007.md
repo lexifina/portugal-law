@@ -4,6 +4,8 @@
 
 São órgãos do consórcio:
 
-a) O conselho diretivo;
+a) A direção;
 
-b) O conselho estratégico.
+b) O conselho científico e estratégico;
+
+c) O conselho de cooperação.

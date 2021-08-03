@@ -1,5 +1,5 @@
 # Artigo 11.º
 
-### Conselho estratégico
+### Conselho científico e estratégico
 
-O conselho estratégico é o órgão consultivo do consórcio.
+O conselho científico e estratégico é o órgão consultivo do consórcio, que emite parecer sobre as linhas gerais e opções de política global a prosseguir.

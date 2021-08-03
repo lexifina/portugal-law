@@ -2,4 +2,4 @@
 
 ### Denominação
 
-O consórcio adota a denominação de Centro Médico Universitário de Lisboa.
+O consórcio adota a denominação de Centro Clínico Académico de Lisboa, abreviadamente designado por CCAL.

@@ -6,4 +6,4 @@
 
 2 - Salvo acordo específico em contrário, quando um resultado desenvolvido no âmbito do consórcio constituir um bem ou direito indivisível, considera-se este resultado pertença do membro utilizador final, que assumirá a responsabilidade pela sua eficiente utilização e permitirá a sua demonstração pública, nos termos e condições a estabelecer entre os parceiros envolvidos.
 
-3 - Em qualquer caso, a titularidade dos bens ou direitos adquiridos ou desenvolvidos no âmbito da atividade do consórcio não pode pertencer a entidades que são sejam membros do consórcio.
+3 - Em qualquer caso, a titularidade dos bens ou direitos adquiridos ou desenvolvidos no âmbito da atividade do consórcio não pode pertencer a entidades que não sejam membros do consórcio.

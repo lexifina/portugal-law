@@ -1,21 +1,25 @@
 # Artigo 12.º
 
-### Composição do conselho estratégico
+### Composição e funcionamento do conselho científico e estratégico
 
-1 - O conselho estratégico é constituído por seis personalidades de elevado mérito e reconhecida experiência profissional, designadas:
+1 - O conselho científico e estratégico é constituído por nove personalidades de elevado mérito e reconhecida experiência profissional, designadas:
 
-a) Um pelo membro do Governo responsável pela área da saúde;
+a) Uma pelo membro do Governo responsável pela área da ciência, tecnologia e ensino superior;
 
-b) Um pelo reitor da Universidade Nova de Lisboa;
+b) Uma pelo membro do Governo responsável pela área da saúde;
 
-c) Um pelo presidente da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.;
+c) Uma pelo reitor da Universidade Nova de Lisboa;
 
-d) Um por designação dos órgãos diretivos de cada um dos membros do consórcio;
+d) Uma pelo presidente do conselho diretivo da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.;
 
-e) Um por deliberação conjunta dos órgãos diretivos dos membros do consórcio.
+e) Uma por designação dos órgãos diretivos de cada uma das entidades referidas nas alíneas a) e b) do artigo 1.º, na qualidade de membros fundadores do consórcio;
 
-2 - Os membros do conselho estratégico elegem o respetivo presidente.
+f) Três por designação do conselho de cooperação.
 
-3 - O mandato dos membros do conselho estratégico tem uma duração de três anos, sendo renovável por mais dois mandatos consecutivos.
+2 - Os membros do conselho científico e estratégico elegem o respetivo presidente.
 
-4 - O conselho estratégico reúne ordinariamente quatro vezes por ano.
+3 - O presidente do conselho científico e estratégico tem assento nas reuniões da direção, sem direito a voto.
+
+4 - O mandato dos membros do conselho científico e estratégico tem a duração de três anos, renovável por mais dois mandatos consecutivos.
+
+5 - O conselho científico e estratégico reúne ordinariamente quatro vezes por ano e extraordinariamente quando solicitado pela direção.

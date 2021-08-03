@@ -1,12 +1,12 @@
 # Artigo 13.º
 
-### Competências do conselho estratégico
+### Competências do conselho científico e estratégico
 
-Compete ao conselho estratégico:
+Compete ao conselho científico e estratégico:
 
 a) Emitir parecer sobre a proposta de orçamento anual;
 
-b) Emitir parecer sobre o plano de orientação do consórcio nos domínios científico, pedagógico e financeiro;
+b) Emitir parecer sobre o plano de orientação do consórcio nos domínios assistencial, científico, pedagógico e financeiro;
 
 c) Emitir parecer sobre as propostas de planos anual e plurianual de atividades;
 
