@@ -22,7 +22,7 @@ ii) Sumativos;
 
 b) Compreende, em função da natureza de cada uma das ofertas educativas e formativas:
 
-i) Provas de Monitorização da Aprendizagem (adiante designadas por provas ModA);
+i) Provas de aferição;
 
 ii) Provas finais do ensino básico;
 

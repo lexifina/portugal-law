@@ -2,7 +2,7 @@
 
 ### Aprovação e conclusão
 
-1 - A conclusão do ensino básico geral e dos cursos artísticos especializados do ensino básico está dependente da realização de provas finais do ensino básico às disciplinas sujeitas a avaliação externa.
+1 - A conclusão do ensino básico geral e dos cursos artísticos especializados do ensino básico está dependente da realização de provas finais às disciplinas sujeitas a avaliação externa.
 
 2 - A conclusão do ensino secundário está dependente:
 
