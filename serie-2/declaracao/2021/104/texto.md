@@ -1,0 +1,7 @@
+Declaração n.º 104/2021
+Sumário: Suspensão parcial das normas do Regulamento do Plano de Pormenor das Terras da Verdelago, Castro Marim.
+Suspensão parcial das normas do Regulamento do Plano de Pormenor das Terras da Verdelago, Castro Marim
+O Presidente da Comissão de Coordenação e Desenvolvimento Regional do Algarve, ao abrigo do disposto no n.º 4 e n.º 5 do artigo 46.º e do n.º 1 do artigo 78.º da Lei n.º 31/2014, de 30 de maio, conjugado com o disposto no n.º 2 e n.º 3 do artigo 29.º do Decreto-Lei n.º 80/2015, de 14 de maio, após audição da Câmara Municipal de Castro Marim, tendo verificado que foi ultrapassado o prazo limite de 13 de julho de 2021 para transposição do plano especial para o plano territorial municipal, sem que tenha sido comunicada a declaração de alteração por adaptação do Plano de Pormenor das Terras da Verdelago, declara, a suspensão das seguintes normas do regulamento do Plano de Pormenor das Terras da Verdelago, na área de intervenção do Plano de Ordenamento da Orla Costeira Vilamoura-Vila Real de Santo António: Artigos 22.º, 23.º, 24.º, 25.º, 26.º e 27.º
+A declaração de suspensão das normas do plano de pormenor acima referidas vigora desde o dia 14 de julho de 2021, dia seguinte ao fim do prazo para atualização do plano territorial estabelecido pelo n.º 1 do artigo 78.º da Lei n.º 31/2014, de 30 de maio, na redação conferida pelo Decreto-Lei n.º 3/2021, de 7 de janeiro, até à atualização do mesmo.
+14/07/2021. - O Presidente, José Apolinário.
+614424523
