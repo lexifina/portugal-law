@@ -1,0 +1,21 @@
+Aviso n.º 14679/2021
+Sumário: Alteração ao Plano de Pormenor da Zona E54 do Plano de Urbanização da Póvoa de Varzim - discussão pública.
+Alteração ao Plano de Pormenor da Zona E54 do Plano de Urbanização da Póvoa de Varzim
+Discussão pública
+Aires Henrique do Couto Pereira, Presidente da Câmara Municipal da Póvoa de Varzim, torna público, para efeitos do disposto nos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, e em cumprimento da deliberação da Câmara Municipal de 20 de Julho de 2021, que, a partir do 5.º dia útil a seguir à publicação deste aviso no Diário da República, e durante 90 dias, se encontra aberto um período de discussão pública da proposta de Alteração do Plano de Pormenor da Zona E54 do Plano de Urbanização da Póvoa de Varzim.
+A referida proposta, acompanhada do parecer emitido em sede de conferência procedimental, estarão disponíveis para consulta nas instalações do Posto de Turismo da Póvoa de Varzim, sito na Praça do Marquês de Pombal, nesta cidade, de segunda-feira a sexta-feira, entre as 9h30 e as 13h00 e entre as 14h30 e as 18h00.
+A proposta e os demais elementos acima referidos serão também disponibilizados para consulta no site da Câmara Municipal na Internet.
+Durante o período de discussão pública, qualquer reclamação, observação, sugestão ou pedido de esclarecimento deve ser enviado por correio eletrónico para geral@cm-pvarzim.pt ou remetido por correio registado, endereçado ao Presidente da Câmara Municipal da Póvoa de Varzim - "Alteração ao Plano de Pormenor da Zona E54 do Plano de Urbanização da Póvoa de Varzim" - Praça do Almada, 4490-438 Póvoa de Varzim.
+Para constar se publica o presente aviso no Diário da República e na comunicação social sendo ainda afixados nos lugares de estilo outros de igual teor.
+2021-07-23. - O Presidente da Câmara, Aires Henrique do Couto Pereira.
+Deliberação
+Jorge Manuel de Guimarães Caimoto, Técnico Superior e trabalhador do Município da Póvoa de Varzim designado para lavrar as atas das reuniões do órgão executivo, certifica que a Câmara Municipal, na sua reunião ordinária realizada no dia vinte de julho de dois mil e vinte e um, tomou a deliberação cujo teor integral se transcreve:
+8 - Alteração do Plano de Pormenor da Zona E54 do Plano de Urbanização da Póvoa de Varzim - Discussão Pública
+É presente informação prestada pela Divisão de Planeamento, cujo teor se transcreve:
+"1 - A Câmara Municipal deliberou, na sua reunião ordinária realizada no dia oito de janeiro de dois mil e dezanove, dar início ao procedimento de Alteração do Plano de Pormenor da Zona E54 do Plano de Urbanização da Póvoa de Varzim.
+2 - De acordo com o disposto no n.º 3 do artigo 86.º do Decreto-Lei n.º 80/2015, de 14 de maio, concluída a elaboração da proposta de Alteração ao Plano de Pormenor da Zona E54 do Plano de Urbanização da Póvoa de Varzim, foi realizada uma conferência procedimental, no dia 28 de junho, para efeitos de emissão do parecer final previsto no artigo 85.º daquele diploma.
+3 - Tendo por base o parecer emitido pela Comissão de Coordenação e Desenvolvimento Regional - Norte (CCDR-N), e uma vez que foram retificados (e refletidos nas peças gráficas e escritas) os aspetos mencionados na informação, estão reunidas as condições para se proceder à abertura do período de discussão pública, de acordo com o disposto no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, podendo a Câmara Municipal dar sequência ao processo de aprovação, através da abertura do procedimento de discussão pública.
+4 - Assim, nos termos e para efeitos do disposto nos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal pode proceder à abertura de um período de discussão pública, de 60 dias, através de aviso a publicar no Diário da República e a divulgar na comunicação social, na plataforma colaborativa de gestão territorial e na página da Internet da Câmara Municipal, conforme proposta de minuta de Aviso que se anexa e que faz parte integrante desta informação.
+Em concordância com a informação, a Câmara deliberou, por unanimidade, aprovar o procedimento proposto pela Divisão de Planeamento, fixando o período de discussão pública em 90 (noventa) dias.
+22 de julho de 2021. - O Técnico Superior, Jorge Manuel de Guimarães Caimoto.
+614442676
