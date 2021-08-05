@@ -1,0 +1,10 @@
+Aviso n.º 14677/2021
+Sumário: Alteração ao Código Regulamentar do Município do Porto - consulta pública.
+José Eugénio de Barros Duarte, Diretor Municipal de Urbanismo, no uso da competência conferida pela Ordem de Serviço I/343222/18/CMP, torna público que a Câmara Municipal do Porto, na reunião pública de 14 de junho de 2021, deliberou, nos termos do disposto no artigo 101.º do Código de Procedimento Administrativo (CPA) aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, submeter a consulta pública, pelo período de trinta (30) dias úteis, a proposta de alteração ao Código Regulamentar do Município do Porto (CRMP).
+Assim, no prazo de 30 dias úteis, a contar da data da publicação do presente Aviso na 2.ª série do Diário da República, todos os interessados poderão apresentar a sua pronúncia relativamente à proposta de alteração ao CRMP e apresentar os seus contributos.
+O processo da alteração do CRMP, com o número de identificação NUP/54557/2021/CMP, encontra-se disponível para consulta de todos os interessados, em formato digital, por marcação prévia, através da Linha Porto (220100220), entre as 09h00 e as 17h00, de segunda a sexta-feira, no Gabinete do Munícipe, sito na Praça General Humberto Delgado 266.
+Esta proposta de alteração pode também ser consultada na página eletrónica da Câmara Municipal do Porto (www.cm-porto.pt).
+Quaisquer questões, pronúncias ou sugestões devem ser submetidas através do menu Fale Connosco (Sugestão» Âmbito: Cidadania e Associativismo; Assunto: Discussão Pública - Código Regulamentar do Município do Porto) disponível no Portal do Munícipe (portaldomunicipe.cm-porto.pt).
+Nas situações em que se demonstrar a impossibilidade da sua realização digitalmente, poderão ser apresentadas por escrito, no Gabinete do Munícipe, sito na Praça General Humberto Delgado, n.º 266, 4000-286 Porto, com prévio agendamento através do Serviço de Atendimento Telefónico 220 100 220, disponível de segunda a sexta-feira, das 9h00 as 17h00.
+29 de julho de 2021. - O Diretor Municipal de Urbanismo, Eng.º José Eugénio de Barros Duarte.
+314456487
