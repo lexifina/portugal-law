@@ -16,7 +16,7 @@ c) Presidir ao Conselho Superior Militar;
 
 d) Dirigir a actividade interministerial de execução da política de defesa nacional e das Forças Armadas, por delegação do Primeiro-Ministro;
 
-e) Aprovar o conceito estratégico militar elaborado pelo Conselho de Chefes de Estado-Maior, de acordo com o conceito estratégico de defesa nacional referido no artigo 7.º;
+e) Aprovar o conceito estratégico militar elaborado pelo Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior, de acordo com o conceito estratégico de defesa nacional referido no artigo 7.º;
 
 f) Coordenar e orientar as acções necessárias para garantir o cumprimento de compromissos militares resultantes de acordos internacionais, nomeadamente a participação de destacamentos das Forças Armadas em operações militares no exterior do território nacional;
 
@@ -28,9 +28,9 @@ i) Propor ao Conselho de Ministros, conjuntamente com o Primeiro-Ministro, a nom
 
 j) Propor ao Conselho de Ministros, em conjunto com o Primeiro-Ministro, a aprovação do conceito estratégico de defesa nacional e assegurar a respectiva execução;
 
-l) Propor ao Conselho Superior de Defesa Nacional a confirmação do conceito estratégico militar e a aprovação, sob projeto do Conselho de Chefes de Estado-Maior, das missões específicas das Forças Armadas e do sistema de forças necessário ao seu cumprimento;
+l) Propor ao Conselho Superior de Defesa Nacional a confirmação do conceito estratégico militar e a aprovação, sob projeto do Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior, das missões específicas das Forças Armadas e do sistema de forças necessário ao seu cumprimento;
 
-m) Aprovar o dispositivo do sistema de forças proposto pelo Conselho de Chefes de Estado-Maior;
+m) Aprovar o dispositivo do sistema de forças proposto pelo Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior;
 
 n) Aprovar e fazer publicar as normas indispensáveis à execução das leis da defesa nacional e das Forças Armadas que não sejam da competência do Conselho de Ministros;
 
@@ -53,5 +53,7 @@ v) Nomear e exonerar os titulares dos órgãos submetidos ao seu poder de direc�
 x) Aprovar as promoções a oficial general, bem com as promoções dos oficiais generais, após deliberação do Conselho de Chefes de Estado-Maior;
 
 z) Coordenar e orientar as acções necessárias para garantir a colaboração das Forças Armadas com as forças e serviços de segurança.
+
+aa) Orientar a ação dos adidos de defesa.
 
 4 - O Ministro da Defesa Nacional coordena o Conselho Nacional de Planeamento Civil de Emergência.
