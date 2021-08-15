@@ -15,3 +15,5 @@
 4 - Os critérios previstos no n.º 4 do artigo 15.º devem incentivar a conceção e o fabrico de EEE que apresentem um desempenho diferenciado positivo em termos de sustentabilidade.
 
 5 - Os fabricantes nacionais de EEE devem evidenciar à APA, I. P., e à DGAE, até 30 de abril de cada ano, as medidas tomadas no ano anterior para cumprimento do disposto no n.º 3, com o devido respeito pelo segredo comercial, industrial ou relativo à propriedade científica, e de acordo com o modelo a ser publicitado nos respetivos sítios na Internet.
+
+6 - Os fabricantes internacionais de EEE devem evidenciar à APA, I. P., e à DGAE, através de formulário, a definir por portaria do Governo, as medidas tomadas no ano anterior para cumprimento do disposto no n.º 3, sem prejuízo dos direitos de propriedade intelectual e industrial.

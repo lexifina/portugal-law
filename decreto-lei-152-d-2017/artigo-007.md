@@ -15,3 +15,7 @@
 2 - (Revogado.)
 
 3 - Para efeitos do cumprimento das obrigações estabelecidas no presente decreto-lei, os embaladores que utilizam embalagens reutilizáveis ficam obrigados a gerir, individual ou coletivamente, as embalagens que colocam no mercado e os respetivos resíduos através de um sistema de reutilização de embalagens, nos termos do presente decreto-lei.
+
+4 - O Governo ouve os municípios e elabora um estudo com vista a definir um mecanismo de compensação dos sistemas municipais e multimunicipais de gestão de resíduos pelos resíduos de embalagens depositados nos respetivos equipamentos de recolha seletiva que não caibam no âmbito da sua responsabilidade.
+
+5 - Até 31 de dezembro de 2022, o Governo apresenta à Assembleia da República um relatório do estudo referido no número anterior.

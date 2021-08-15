@@ -41,3 +41,7 @@ d) Ser claramente identificado na embalagem e ou no suporte utilizado para a ind
 15 - A APA, I. P., pode promover ou determinar a realização de auditorias com o objetivo de verificar a qualidade e a veracidade das informações transmitidas nos termos do número anterior.
 
 16 - Em linha com as melhores práticas a nível internacional e no sentido de melhorar o desempenho ambiental dos sistemas de reutilização de embalagens, os produtores de um mesmo setor devem privilegiar embalagens normalizadas.
+
+17 - Até 2030, 30 % das embalagens colocadas anualmente no mercado, independentemente do material em que são produzidas, são reutilizáveis.
+
+18 - O Governo regulamenta a estatuição prevista no número anterior, até 2025, garantindo a sua aplicação às empresas a partir de um determinado número de embalagens colocadas no mercado e com escalões crescentes para a sua aplicação.

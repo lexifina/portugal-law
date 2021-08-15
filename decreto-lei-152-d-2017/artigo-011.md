@@ -4,7 +4,7 @@
 
 2 - A entidade gestora é constituída obrigatoriamente pelos produtores do produto ou embaladores no caso do fluxo específico das embalagens, cuja representatividade não deve ser inferior a 70 %, ou por entidades por eles constituídas nas quais a sua representatividade não seja inferior à referida, e não pode integrar entidades com atividade suscetível de gerar conflitos de interesses com as funções da entidade gestora, nomeadamente operadores de gestão de resíduos.
 
-3 - A entidade gestora não pode deter participação no capital social de outras entidades.
+3 - A entidade gestora não pode deter participação no capital social de outras entidades, devendo, caso detenha participações desta natureza, extingui-las no prazo de 180 dias a contar da entrada em vigor do presente diploma.
 
 4 - A entidade gestora deve constituir reservas, não acumuláveis, até ao limite estabelecido na respetiva licença, para fazer face a eventuais resultados negativos do exercício.
 
@@ -16,7 +16,11 @@
 
 8 - A caução prevista no número anterior é constituída de acordo com o modelo aprovado e divulgado no sítio na Internet da APA, I. P.
 
-9 - Caso os resultados líquidos positivos da entidade gestora ultrapassem o limite definido para as reservas, devem os mesmos ser utilizados na diminuição da prestação financeira suportada pelos produtores do produto, pelos embaladores ou pelos fornecedores de embalagens de serviço.
+9 - Caso os resultados líquidos positivos da entidade gestora ultrapassem o limite definido para as reservas, devem os mesmos ser utilizados:
+
+a) Na diminuição da prestação financeira suportada pelos produtores do produto, embaladores ou fornecedores de embalagens de serviço, nos casos em que se encontre assegurado o cumprimento das metas previstas na respetiva licença;
+
+b) Em ações especificamente direcionadas ao cumprimento das metas previstas na respetiva licença, nos casos em que não se encontre assegurado, devendo apresentar à APA, I. P., e à DGAE o respetivo plano de ações para aprovação.
 
 10 - A entidade gestora deve ter implementado um sistema de contabilidade de gestão, que deve permitir a separação entre fluxos quando aquela tenha licença para a gestão de mais do que um fluxo específico, por forma a assegurar a adequada prestação de contas nos termos exigidos pelas licenças.
 
@@ -28,7 +32,7 @@ a) A gestão financeira dos resíduos; ou
 
 b) A gestão financeira e operacional dos resíduos, ficando neste caso com a sua posse.
 
-13 - Com vista ao cumprimento dos objetivos e metas de gestão, os sistemas integrados devem tendencialmente evoluir no sentido de garantir a gestão financeira e operacional dos resíduos, em que a entidade gestora assume a posse dos resíduos, sendo estes obrigatoriamente encaminhados para os operadores de gestão de resíduos através de procedimentos concursais que observem os princípios da transparência, da igualdade e da concorrência, devendo ser publicitados no sítio na Internet da entidade gestora:
+13 - Com vista ao cumprimento dos objetivos e metas de gestão, os sistemas integrados devem tendencialmente evoluir no sentido de garantir a gestão financeira e operacional dos resíduos, em que a entidade gestora assume a informação e monitorização do circuito da gestão dos resíduos, sendo estes obrigatoriamente encaminhados para os operadores de gestão de resíduos através de procedimentos concursais que observem os princípios da transparência, da igualdade e da concorrência, com inclusão e evidência obrigatórias de critérios e vantagens ambientais e económicas, devendo ser publicitados no sítio na Internet da entidade gestora:
 
 a) O anúncio dos procedimentos concursais e dos termos dos mesmos;
 
@@ -38,6 +42,8 @@ b) Após validação por uma entidade independente, os resultados dos procedimen
 
 15 - Excecionalmente, no caso de procedimentos concursais desertos ou quando se verifique a não adjudicação, a entidade gestora pode, por razões de prossecução dos respetivos objetivos, recorrer a procedimentos de adjudicação direta.
 
-16 - Para efeitos de gestão operacional dos resíduos, a entidade gestora pode efetuar, direta ou indiretamente, a recolha, o transporte e a armazenagem e triagem preliminares dos resíduos provenientes da sua rede de recolha própria, na medida em que são detentores dos mesmos, em cumprimento das disposições legais aplicáveis e sem prejuízo do disposto no artigo 24.º, com vista ao seu envio para tratamento adequado.
+16 - Os critérios mínimos a observar pelos procedimentos concursais previstos no n.º 13 são estabelecidos pela APA, I. P., e pela DGAE, para cada fluxo específico, ouvidas as entidades gestoras, as associações representativas dos operadores de gestão de resíduos e demais entidades que se entenda relevante consultar.
 
-17 - A entidade gestora não pode celebrar contratos com operadores de gestão de resíduos que impeçam o livre acesso à atividade de gestão de resíduos por outros operadores.
+17 - Para efeitos de gestão operacional dos resíduos, a entidade gestora pode efetuar, direta ou indiretamente, a recolha, o transporte e a armazenagem e triagem preliminares dos resíduos provenientes da sua rede de recolha própria, na medida em que são detentores dos mesmos, em cumprimento das disposições legais aplicáveis e sem prejuízo do disposto no artigo 24.º, com vista ao seu envio para tratamento adequado.
+
+18 - A entidade gestora não pode celebrar contratos com operadores de gestão de resíduos que impeçam o livre acesso à atividade de gestão de resíduos por outros operadores.

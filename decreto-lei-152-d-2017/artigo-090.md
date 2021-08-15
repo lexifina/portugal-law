@@ -40,7 +40,7 @@ d) O exercício da atividade de tratamento de resíduos por parte de operadores 
 
 e) O incumprimento pelos produtores de produtos ou pelos fornecedores de embalagens de serviço, do pagamento dos valores de prestação financeira a que se refere o n.º 2 do artigo 10.º;
 
-f) A celebração de contratos com operadores de gestão de resíduos que impeçam o livre acesso à atividade de gestão de resíduos por parte de outros operadores, em violação do disposto no n.º 17 do artigo 11.º;
+f) A celebração de contratos com operadores de gestão de resíduos que impeçam o livre acesso à atividade de gestão de resíduos por parte de outros operadores, em violação do disposto no n.º 18 do artigo 11.º;
 
 g) O incumprimento pelos comerciantes de EEE das obrigações estabelecidas no n.º 4 do artigo 13.º;
 
@@ -172,7 +172,7 @@ rrr) O incumprimento por parte dos operadores de desmantelamento da realização
 
 sss) O incumprimento de alguma das proibições referidas nas alíneas a) a e) do n.º 9 do artigo 87.º;
 
-ttt) O incumprimento das proibições referidas nos n.os 1 a 4 do artigo 88.º.
+ttt) O incumprimento das proibições referidas nos n.os 1 a 4 do artigo 88.º
 
 3 - Constitui contraordenação ambiental leve, punível nos termos da Lei-Quadro das Contraordenações Ambientais, a prática dos seguintes atos:
 
