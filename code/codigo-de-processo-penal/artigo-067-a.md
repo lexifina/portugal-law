@@ -14,6 +14,8 @@ i) A pessoa singular que sofreu um dano, nomeadamente um atentado à sua integri
 
 ii) Os familiares de uma pessoa cuja morte tenha sido diretamente causada por um crime e que tenham sofrido um dano em consequência dessa morte;
 
+iii) A criança ou jovem até aos 18 anos que sofreu um dano causado por ação ou omissão no âmbito da prática de um crime, incluindo os que sofreram maus tratos relacionados com a exposição a contextos de violência doméstica;
+
 b) 'Vítima especialmente vulnerável', a vítima cuja especial fragilidade resulte, nomeadamente, da sua idade, do seu estado de saúde ou de deficiência, bem como do facto de o tipo, o grau e a duração da vitimização haver resultado em lesões com consequências graves no seu equilíbrio psicológico ou nas condições da sua integração social;
 
 c) 'Familiares', o cônjuge da vítima ou a pessoa que convivesse com a vítima em condições análogas às dos cônjuges, os seus parentes em linha reta, os irmãos e as pessoas economicamente dependentes da vítima;
