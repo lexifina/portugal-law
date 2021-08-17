@@ -19,3 +19,7 @@
 4 - Em situações excepcionais e devidamente fundamentadas pode ser atribuído o estatuto de vítima pelo organismo da Administração Pública responsável pela área da cidadania e da igualdade de género, valendo este para os efeitos previstos na presente lei, com excepção dos relativos aos procedimentos policiais e judiciários.
 
 5 - A vítima e as autoridades competentes estão obrigadas a um dever especial de cooperação, devendo agir sob os ditames da boa fé.
+
+6 - Sempre que existam filhos menores, a atribuição de estatuto de vítima à criança e à pessoa adulta é comunicada imediatamente pelas autoridades judiciárias ou pelos órgãos de polícia criminal à comissão de proteção de crianças e jovens e ao tribunal de família e menores territorialmente competentes.
+
+7 - Sempre que a comunicação referida no número anterior tenha por destinatário o tribunal de família e menores territorialmente competente, deve ser acompanhada de cópia do respetivo auto de notícia ou da apresentação de denúncia, incluindo cópia da documentação relativa a diligências complementares entretanto efetuadas.

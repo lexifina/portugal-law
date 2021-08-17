@@ -8,10 +8,12 @@
 
 3 - Às vítimas especialmente vulneráveis deve ser assegurado o direito a beneficiarem, por decisão judicial, de condições de depoimento, por qualquer meio compatível, que as protejam dos efeitos do depoimento prestado em audiência pública.
 
-4 - O juiz ou, durante a fase de inquérito, o Ministério Público, devem determinar, sempre que tal se mostre imprescindível à proteção da vítima e obtido o seu consentimento, que lhe seja assegurado apoio psicossocial e proteção por teleassistência, por período não superior a seis meses, prorrogável se circunstâncias associadas à proteção da vítima o justificarem.
+4 - O juiz, ou, durante a fase de inquérito, o Ministério Público, deve determinar, sempre que tal se mostre imprescindível à proteção da vítima e obtido o seu consentimento, que lhe seja assegurado apoio psicossocial e proteção por teleassistência, por período não superior a seis meses, prorrogável se as circunstâncias associadas à proteção da vítima o justificarem.
 
 5 - A vítima pode requerer que a sua morada seja ocultada nas notificações das autoridades competentes que tenham o suspeito ou o arguido como destinatário.
 
-6 - O organismo da Administração Pública responsável pela área da cidadania e da igualdade de género pode recorrer a regimes de parceria para instalar, assegurar e manter em funcionamento sistemas técnicos de teleassistência.
+6 - Por regulamentação do Governo é definido o organismo da Administração Pública responsável pelos sistemas técnicos de teleassistência, que pode recorrer a regimes de parceria para os instalar, assegurar e manter em funcionamento.
 
-7 - O disposto nos números anteriores não prejudica a aplicação das demais soluções constantes do regime especial de protecção de testemunhas, nomeadamente no que se refere à protecção dos familiares da vítima.
+7 - A proteção por teleassistência considera-se automaticamente extinta decorrido um período equivalente ao prazo inicialmente determinado, acrescido de duas prorrogações, quando não tenha ocorrido a comunicação fundamentada da decisão de extinção ou prorrogação ao organismo referido no número anterior.
+
+8 - O disposto nos números anteriores não prejudica a aplicação das demais soluções constantes do regime especial de protecção de testemunhas, nomeadamente no que se refere à protecção dos familiares da vítima.

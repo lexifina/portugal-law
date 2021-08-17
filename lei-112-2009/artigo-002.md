@@ -4,7 +4,7 @@
 
 Para efeitos de aplicação da presente lei, considera-se:
 
-a) 'Vítima' a pessoa singular que sofreu um dano, nomeadamente um atentado à sua integridade física ou psíquica, um dano emocional ou moral, ou uma perda material, diretamente causada por ação ou omissão, no âmbito do crime de violência doméstica previsto no artigo 152.º do Código Penal;
+a) «Vítima» a pessoa singular que sofreu um dano, nomeadamente um atentado à sua integridade física ou psíquica, um dano emocional ou moral, ou uma perda material, diretamente causada por ação ou omissão, no âmbito do crime de violência doméstica previsto no artigo 152.º do Código Penal, incluindo as crianças ou os jovens até aos 18 anos que sofreram maus tratos relacionados com exposição a contextos de violência doméstica;
 
 b) «Vítima especialmente vulnerável» a vítima cuja especial fragilidade resulte, nomeadamente, da sua diminuta ou avançada idade, do seu estado de saúde ou do facto de o tipo, o grau e a duração da vitimização haver resultado em lesões com consequências graves no seu equilíbrio psicológico ou nas condições da sua integração social;
 
