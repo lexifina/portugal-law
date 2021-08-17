@@ -27,3 +27,7 @@ d) Em caso de processo sumaríssimo, após o requerimento do Ministério Públic
 6 - As decisões a que se refere o presente artigo são tomadas pelo Plenário, precedendo audição do Deputado e parecer da comissão competente.
 
 7 - O prazo de prescrição do procedimento criminal suspende-se a partir da entrada, na Assembleia da República, do pedido de autorização formulado pelo juiz competente, nos termos e para os efeitos decorrentes da alínea a) do n.º 1 do artigo 120.º do Código Penal, mantendo-se a suspensão daquele prazo caso a Assembleia delibere pelo não levantamento da imunidade e enquanto ao visado assistir tal prerrogativa.
+
+8 - Quaisquer pedidos de elementos relativos a Deputados, apresentados de modo devidamente fundamentado por parte da competente autoridade judiciária, são dirigidos ao Presidente da Assembleia da República e não caducam com o fim da legislatura, processando-se a sua disponibilização nos termos do n.º 3 do artigo 27.º-A.
+
+9 - Com respeito pelo disposto nos números anteriores, os Deputados que sejam ouvidos em condição diversa da de arguido têm a prerrogativa de depor por escrito, nos termos da lei do processo.

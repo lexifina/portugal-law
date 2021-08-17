@@ -12,7 +12,7 @@ a) Adiamento do serviço militar, do serviço cívico ou da mobilização civil;
 
 b) Livre trânsito, considerado como livre circulação em locais públicos de acesso condicionado, mediante exibição do cartão especial de identificação;
 
-c) Passaporte diplomático por legislatura, renovado em cada sessão legislativa;
+c) Passaporte diplomático, por legislatura;
 
 d) Cartão de Deputado, cujo modelo e emissão são fixados por despacho do Presidente da Assembleia da República;
 
@@ -30,4 +30,4 @@ h) Prioridade nas reservas de passagem nas empresas públicas de navegação aé
 
 6 - O passaporte diplomático e o cartão de identificação devem ser devolvidos, de imediato, ao Presidente da Assembleia da República quando se verifique a cessação ou a suspensão do mandato de Deputado.
 
-7 - Para efeitos de detenção, manifesto, uso e porte de armas e suas munições, são aplicáveis aos Deputados as disposições constantes do artigo 5.º da Lei n.º 5/2006, de 23 de Fevereiro.
+7 - Para efeitos de detenção, manifesto, uso e porte de armas e suas munições, são aplicáveis aos Deputados as disposições constantes do regime jurídico das armas e suas munições.

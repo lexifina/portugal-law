@@ -14,6 +14,6 @@ d) Assegurar o indispensável contacto com os eleitores.
 
 e) Respeitar a dignidade da Assembleia da República e dos Deputados;
 
-f) Observar o Regimento da Assembleia da República.
+f) Observar as disposições do presente Estatuto e demais legislação conexa, do Regimento da Assembleia da República e demais deliberações desta que lhes sejam aplicáveis, bem como contribuir para as boas práticas parlamentares em conformidade com o Código de Conduta.
 
 2 - O exercício de quaisquer outras actividades, quando legalmente admissível, não pode pôr em causa o regular cumprimento dos deveres previstos no número anterior.

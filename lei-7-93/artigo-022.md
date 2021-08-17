@@ -1,5 +1,7 @@
 # Artigo 22.º
 
-### Dever de declaração
+### Dever de declaração de ausência de incompatibilidades e impedimentos
 
-Os Deputados formulam e depositam na comissão parlamentar referida no artigo 27.º-A declaração de inexistência de incompatibilidade ou impedimento nos 60 dias posteriores à tomada de posse.
+1 - Da declaração única de rendimentos, património e interesses deve constar a declaração de inexistência de incompatibilidade ou impedimento.
+
+2 - A declaração referida no número anterior deve constar de um campo autónomo da declaração única de rendimentos, património e interesses, referida no artigo 26.º

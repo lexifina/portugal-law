@@ -12,7 +12,7 @@
 
 a) Gabinete próprio e individualizado na sede da Assembleia da República;
 
-b) Assistente individual, a recrutar nos termos da lei;
+b) (Revogada.)
 
 c) Caixa de correio electrónico dedicada;
 
@@ -22,9 +22,9 @@ d) Página individual no portal da Assembleia da República na Internet.
 
 4 - Os serviços da administração central ou dela dependentes devem facultar aos Deputados condições para o exercício do mandato, nomeadamente fornecendo os elementos, informações e publicações oficiais solicitados e facultando, sempre que possível, instalações para reuniões de trabalho, desde que tal não afecte o funcionamento dos próprios serviços.
 
-5 - Os governos civis, quando solicitados pelos Deputados, devem disponibilizar instalações adequadas que lhes permitam um contacto directo com a comunicação social e com os cidadãos dos seus círculos.
+5 - Os serviços públicos da administração central e regional, quando solicitados pelos Deputados e possuam condições para o efeito, devem disponibilizar instalações adequadas que lhes permitam um contacto direto com a comunicação social e com os cidadãos dos seus círculos.
 
-6 - No exercício das suas funções, os Deputados têm direito a utilizar gratuitamente serviços postais e sistemas de telecomunicações, bem como à utilização da rede informática parlamentar e de outras redes electrónicas de informação.
+6 - No exercício das suas funções, os Deputados têm direito à utilização da rede informática parlamentar e de outras redes eletrónicas de informação, devendo os serviços da Assembleia da República assegurar as condições de acesso aos mesmos.
 
 7 - É assegurada a utilização pelos Deputados de linhas verdes, sistemas automatizados de informação e outras formas de divulgação das suas actividades parlamentares e de contacto com os eleitores, a nível central e nos círculos eleitorais.
 

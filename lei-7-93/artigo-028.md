@@ -1,6 +1,6 @@
 ## Capítulo V
 
-## Disposições finais e transitórias
+## Antigos Deputados e Deputados Honorários
 
 # Artigo 28.º
 

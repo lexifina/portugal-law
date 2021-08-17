@@ -1,14 +1,14 @@
 # Artigo 27.º-A
 
-### Comissão parlamentar competente em matéria de aplicação do Estatuto dos Deputados
+### Comissão Parlamentar de Transparência e Estatuto dos Deputados
 
-A comissão parlamentar competente para apreciar as questões relativas à aplicação do Estatuto dos Deputados, ou quaisquer outras atinentes ao exercício do mandato de Deputado, tem, em plenitude, as seguintes atribuições:
+1 - A Comissão Parlamentar de Transparência e Estatuto dos Deputados é uma comissão autónoma em relação às demais comissões parlamentares permanentes e tem, em plenitude, as seguintes competências:
 
 a) Verificar os casos de incompatibilidade, incapacidade e impedimento dos Deputados e, em caso de violação da lei ou do Regimento, instruir os correspondentes processos e emitir o respectivo parecer;
 
 b) Receber e registar declarações suscitando eventuais conflitos de interesses;
 
-c) Apreciar, quando tal for solicitado pelos declarantes, ou a pedido do Presidente da Assembleia, os conflitos de interesses suscitados, emitindo sobre eles o respectivo parecer;
+c) Apreciar, quando tal for solicitado pelos declarantes ou a pedido do Presidente da Assembleia da República, os conflitos de interesses suscitados, emitindo sobre eles o respetivo parecer;
 
 d) Apreciar a eventual existência de conflitos de interesses que não tenham sido objecto de declaração, emitindo igualmente sobre eles o respectivo parecer;
 
@@ -22,6 +22,8 @@ h) Emitir parecer sobre a suspensão e perda do mandato de Deputado;
 
 i) Instruir os processos de impugnação da elegibilidade e da perda de mandato;
 
-j) Proceder a inquéritos a factos ocorridos no âmbito da Assembleia que comprometam a honra ou a dignidade de qualquer Deputado, a pedido deste ou mediante determinação da Assembleia da República;
+j) Proceder a inquéritos a factos ocorridos no âmbito da Assembleia da República que comprometam a honra ou a dignidade de qualquer Deputado, bem como a eventuais irregularidades graves praticadas com violação dos deveres dos Deputados, oficiosamente, a pedido do Deputado ou mediante determinação do Presidente da Assembleia da República;
+
+k) Emitir declarações genéricas e recomendações que promovam as boas práticas parlamentares;
 
 l) Apreciar quaisquer outras questões relativas ao mandato dos Deputados.

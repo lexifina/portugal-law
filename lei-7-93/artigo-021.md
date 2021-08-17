@@ -4,34 +4,34 @@
 
 1 - Os Deputados carecem de autorização da Assembleia para serem jurados, peritos ou testemunhas.
 
-2 - Os Deputados carecem de autorização da Assembleia para servirem de árbitros em processos de que seja parte o Estado ou qualquer outra pessoa colectiva de direito público.
+2 - (Revogado).
 
 3 - A autorização a que se refere o n.º 1 deve ser solicitada pelo juiz competente, ou pelo instrutor do processo, em documento dirigido ao Presidente da Assembleia da República, e a decisão será precedida de audição do Deputado.
 
-4 - Os Deputados podem exercer outras actividades desde que não excluídas pelo disposto nos números seguintes, devendo comunicá-las, quanto à sua natureza e identificação, ao Tribunal Constitucional.
+4 - Os Deputados podem exercer atividades e praticar atos que não estejam excluídos pelo disposto nos números seguintes em matéria de impedimentos, devendo comunicá-los, quanto à sua natureza e identificação, através do preenchimento e atualização da declaração única de rendimentos, património e interesses.
 
-5 - Sem prejuízo do disposto nos regimes de incompatibilidades e impedimentos previstos em lei especial, designadamente para o exercício de cargos ou actividades profissionais, são ainda impeditivas do exercício do mandato de Deputado à Assembleia da República:
+5 - Sem prejuízo do disposto nos regimes de impedimentos previstos em lei especial, designadamente para o exercício de cargos ou atividades profissionais, é impeditivo do exercício do mandato de Deputado à Assembleia da República servir de perito, consultor ou árbitro em qualquer processo em que seja parte o Estado ou quaisquer outros entes públicos.
 
-a) A titularidade de membro de órgão de pessoa colectiva pública e, bem assim, de órgão de sociedades de capitais maioritária ou exclusivamente públicos ou de concessionários de serviços públicos, com excepção de órgão consultivo, científico ou pedagógico ou que se integre na administração institucional autónoma;
+6 - É igualmente vedado aos Deputados, sem prejuízo do disposto em lei especial:
 
-b) Servir de perito ou árbitro a título remunerado em qualquer processo em que sejam parte o Estado e demais pessoas colectivas de direito público;
+a) Participar em procedimentos de contratação pública, nos termos previstos no regime de exercício de funções por titulares de cargos políticos e altos cargos públicos;
 
-c) Cargos de nomeação governamental, cuja aceitação não seja autorizada pela comissão parlamentar competente em razão da matéria.
+b) Prestar serviços, exercer funções como consultor, emitir pareceres ou exercer o patrocínio judiciário nos processos, em qualquer foro, a favor ou contra o Estado ou quaisquer outros entes públicos;
 
-6 - É igualmente vedado aos deputados, em regime de acumulação, sem prejuízo do disposto em lei especial:
+c) Integrar ou prestar quaisquer serviços a sociedades civis ou comerciais que desenvolvam qualquer uma das atividades referidas na alínea anterior;
 
-a) No exercício de actividades de comércio ou indústria, directa ou indirectamente, com o cônjuge não separado de pessoas e bens, por si ou entidade em que detenha participação relevante e designadamente superior a 10% do capital social, celebrar contratos com o Estado e outras pessoas colectivas de direito público, participar em concursos de fornecimento de bens, de serviços, empreitadas ou concessões, abertos pelo Estado e demais pessoas colectivas de direito público, e, bem assim, por sociedades de capitais maioritária ou exclusivamente públicos ou por concessionários de serviços públicos;
-
-b) Exercer o mandato judicial como autores nas acções cíveis, em qualquer foro, contra o Estado;
-
-c) Patrocinar Estados estrangeiros;
-
-d) Membro de corpos sociais das empresas públicas, das empresas de capitais públicos ou maioritariamente participadas pelo Estado e de instituto público autónomo não abrangidos pela alínea o) do n.º 1 do artigo 20.º;
+d) Patrocinar ou desempenhar funções ao serviço de Estados estrangeiros;
 
 e) Beneficiar, pessoal e indevidamente, de actos ou tomar parte em contratos em cujo processo de formação intervenham órgãos ou serviços colocados sob sua directa influência;
 
 f) Figurar ou de qualquer forma participar em actos de publicidade comercial.
 
-7 - Verificado qualquer impedimento ou incompatibilidade pela comissão parlamentar referida no artigo 27.º-A e aprovado o respectivo parecer pelo Plenário, é o Deputado notificado para, no prazo de 30 dias, pôr termo a tal situação.
+g) Prestar serviços ou manter relações de trabalho subordinado com instituições, empresas ou sociedades de crédito, seguradoras e financeiras;
 
-8 - Sem prejuízo da responsabilidade que ao caso couber, a infracção ao disposto nos n.os 4, 5 e 6, com aplicação do disposto no número anterior, determina advertência e suspensão do mandato enquanto durar o vício, por período nunca inferior a 50 dias, e, bem assim, a obrigatoriedade de reposição da quantia correspondente à totalidade da remuneração que o titular aufira pelo exercício de funções públicas, desde o momento e enquanto ocorrer a situação de impedimento.
+h) Prestar serviços ou manter relações de trabalho subordinado com instituições, empresas ou sociedades concessionárias de serviços públicos ou que sejam parte em parceria público-privada com o Estado.
+
+7 - Não se consideram incluídos na alínea b) do número anterior os processos penais, cíveis, executivos, de família e menores, comerciais ou laborais em que o Ministério Público intervém sem assegurar a representação direta de qualquer entidade pública.
+
+8 - De forma a assegurar o cumprimento do disposto no n.º 6, são aplicáveis as disposições do regime de exercício de funções por titulares de cargos políticos e altos cargos públicos que consagram o direito à liquidação da quota, à exoneração de sócio ou à suspensão da sua participação social durante o exercício do cargo.
+
+9 - O disposto na alínea g) do n.º 6 não se aplica à continuação da atividade profissional já exercida pelo Deputado no momento do início de funções.

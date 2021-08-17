@@ -1,6 +1,6 @@
 ## Capítulo VI
 
-## Disposições finais e tansitórias
+## Disposições finais e transitórias
 
 # Artigo 30.º
 
