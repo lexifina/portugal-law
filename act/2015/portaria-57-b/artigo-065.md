@@ -1,3 +1,7 @@
+## Secção 9
+
+## Promoção de estratégias de baixo teor de carbono para todos os tipos de territórios, nomeadamente as zonas urbanas, incluindo a promoção da mobilidade urbana multimodal sustentável.
+
 # Artigo 65.º
 
 ### Objetivos Específicos

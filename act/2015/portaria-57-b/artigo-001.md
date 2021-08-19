@@ -1,7 +1,3 @@
-## Anexo
-
-## REGULAMENTO ESPECÍFICO DO DOMÍNIO DA SUSTENTABILIDADE E EFICIÊNCIA NO USO DE RECURSOS
-
 ## Capítulo I
 
 ## Disposições Gerais
