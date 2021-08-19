@@ -18,6 +18,6 @@ a) Comparticipação financeira destinada a viagens aéreas e apoios complementa
 
 b) Majoração dos apoios complementares em 20 %;
 
-c) Comparticipação financeira pela utilização de atletas formados nos Açores nos termos dos artigos 42.º e 43.º, aplicando-se os índices para o último nível competitivo constantes da tabela do anexo iii do presente diploma.
+c) Comparticipação financeira pela utilização de atletas formados na Região Autónoma dos Açores, nos termos dos artigos 42.º e 43.º, aplicando-se os índices competitivos constantes da portaria a que se refere o n.º 2 do artigo 42.º
 
 4 - O número limite de equipas a apoiar será de 10 equipas.
