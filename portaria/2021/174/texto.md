@@ -1,0 +1,63 @@
+Portaria n.º 174/2021
+de 20 de agosto
+Sumário: Aprova o programa de formação da residência farmacêutica, da área de farmácia hospitalar.
+A integração nas carreiras farmacêuticas, cujo estatuto legal consta do Decreto-Lei n.º 108/2017 e do Decreto-Lei n.º 109/2017, ambos os diplomas de 30 de agosto, que estabelecem o regime, respetivamente, da carreira farmacêutica nas entidades públicas empresariais, integradas no Serviço Nacional de Saúde e da carreira especial farmacêutica, pressupõe a posse do título definitivo de farmacêutico, concedido pela Ordem dos Farmacêuticos, bem como o título de especialista na correspondente área de exercício profissional, obtido nos termos de legislação própria, que veio a constar do Decreto-Lei n.º 6/2020, de 24 de fevereiro, diploma que define o regime jurídico da residência farmacêutica, enquanto percurso formativo pós-graduado do farmacêutico, tendo em vista a sua especialização para o exercício autónomo e tecnicamente diferenciado na correspondente área de exercício profissional.
+No que respeita ao programa formativo, resulta do mencionado diploma que, para cada área de exercício profissional, o mesmo é aprovado por portaria do membro do Governo responsável pela área da saúde, sob proposta da Ordem dos Farmacêuticos e parecer da Comissão Nacional da Residência Farmacêutica.
+Assim:
+Mediante proposta da Ordem dos Farmacêuticos e parecer da Comissão Nacional da Residência Farmacêutica, ao abrigo e nos termos do disposto no artigo 10.º do Decreto-Lei n.º 6/2020, de 24 de fevereiro, e da alínea j) do n.º 1 do Despacho n.º 11199/2020, de 6 de novembro, publicado no Diário da República, 2.ª série, n.º 222, de 13 de novembro de 2020, alterado pelo Despacho n.º 1752/2021, publicado no Diário da República, 2.ª série, n.º 32, de 16 de fevereiro, manda o Governo, pelo Secretário de Estado Adjunto e da Saúde, o seguinte:
+Artigo 1.º
+Objeto
+É aprovado o programa de formação da residência farmacêutica, da área de farmácia hospitalar, constante do anexo à presente portaria, da qual faz parte integrante.
+Artigo 2.º
+Formação
+A aplicação e desenvolvimento do programa formativo compete aos órgãos e agentes responsáveis pela formação na residência farmacêutica, os quais devem assegurar a maior uniformidade a nível nacional.
+Artigo 3.º
+Entrada em vigor e produção de efeitos
+A presente portaria entra em vigor no dia útil seguinte ao da respetiva publicação.
+O Secretário de Estado Adjunto e da Saúde, António Lacerda Sales, em 17 de agosto de 2021.
+ANEXO
+Programa especialidade: farmácia hospitalar
+Considerações gerais:
+O presente programa de residência para obtenção do título de especialista em farmácia hospitalar, que se encontra alinhado com as normas emitidas pela Associação Europeia de Farmacêuticos Hospitalares, tem como objetivo habilitar os correspondentes profissionais ao exercício das funções inerentes ao farmacêutico especialista em farmácia hospitalar, garantindo o adequado cuidado dos doentes no âmbito em que se inserem. As competências que se pretende que os farmacêuticos residentes adquiram, dividem-se em quatro vertentes: competências relacionadas com o doente, competências relacionadas com o medicamento e produtos de saúde, competências de gestão e competências profissionais.
+A obtenção destas competências ao longo da residência farmacêutica resulta da frequência de cada área de formação ou estágios, que constituem a base do presente programa e que representam as áreas funcionais da farmácia hospitalar e atividades relacionadas.
+Duração e sequência das valências de formação:
+A residência farmacêutica em farmácia hospitalar tem a duração de 48 meses (4 anos).
+A frequência de estágios opcionais não pode ultrapassar 12,5 % do tempo total da formação, ou seja, num total de 48 meses, os estágios opcionais não podem ultrapassar os 6 meses.
+A sequência dos estágios, sua caracterização em obrigatórios e opcionais, sua duração, local de formação e respetivos objetivos de desempenho e de conhecimentos resultam do programa que a seguir se apresenta.
+Residência farmacêutica - área de farmácia hospitalar
+
+(ver documento original)
+Dos estágios:
+A descrição do desempenho em cada área de formação ou estágio, e respetiva avaliação de desempenho e de conhecimentos, é a descrita de seguida:
+Avaliação contínua:
+Conforme definido no n.º 2 do artigo 36.º (avaliação contínua) do Decreto-Lei n.º 6/2020, de 24 de fevereiro, a avaliação de desempenho e a avaliação de conhecimentos são da responsabilidade do orientador de formação ou do responsável de formação, consoante o caso, com base nos parâmetros referidos no n.º 1 do mesmo artigo.
+Avaliação de desempenho:
+Deverá incidir sobre os seguintes parâmetros:
+Capacidade de execução técnica;
+Empenho na promoção científica e valorização profissional;
+Exercício e responsabilidade profissional individual;
+Relações humanas no trabalho.
+Esta avaliação representa 40 % da classificação da área de formação ou estágio.
+Avaliação de conhecimentos, a ocorrer no final de cada área de formação ou estágio:
+Realiza-se através de uma prova que pode consistir, designadamente, em exame escrito, ou na apreciação e discussão de um relatório de atividades ou de outro tipo de trabalho (n.º 5 do mesmo artigo).
+Esta avaliação representa 60 % da classificação da área de formação ou estágio.
+A classificação de cada área de formação é feita em termos de Apto ou Não apto, considerando-se Apto o farmacêutico residente que tenha obtido uma classificação igual ou superior a 10 valores, numa escala entre 0 e 20 valores, arredondada às centésimas (n.º 6 do mesmo artigo).
+A avaliação final de saída:
+Reflete o resultado de todo o processo formativo e incide sobre a integração de conhecimentos teóricos e práticos adquiridos pelo farmacêutico residente durante o programa de residência farmacêutica, sendo classificado numa escala entre 0 e 20 valores, arredondada às centésimas. A avaliação final integra ainda o resultado obtido numa prova pública e eliminatória que compreende a discussão curricular e a apreciação do relatório global do programa de residência farmacêutica, que deve ainda compreender uma atividade de investigação desenvolvida neste período [n.os 1 e 2 do artigo 37.º (avaliação contínua) do Decreto-Lei n.º 6/2020, de 24 de fevereiro]. A classificação final de saída traduz-se numa valorização de 1 a 20, arredondada às centésimas, e resulta:
+50 % da classificação da prova pública de saída a que o candidato é submetido pela Comissão da residência farmacêutica. Se a classificação obtida na prova pública de saída for inferior a 10 valores, numa escala entre 0 e 20 valores, arredondada às centésimas, a ponderação será de 100 % dado o carácter eliminatório da prova;
+50 % da classificação resulta da média ponderada da área de formação ou estágios realizados durante a residência farmacêutica, em que cada estágio obrigatório representa até 20 % do valor final (para a duração máxima de estágio) e os estágios opcionais representam o remanescente (na proporção da sua duração). Apenas se a classificação obtida na prova pública de saída for igual ou superior a 10 valores numa escala entre 0 e 20 valores, arredondada às centésimas.
+Nos momentos de avaliação pretende-se aferir a aquisição das competências descritas na matriz abaixo mapeada.
+Sendo que o objetivo das áreas de formação ou estágios é a aquisição de um conjunto de competências, mapeia-se em seguida a relação entre as áreas de formação ou estágios e as competências a adquirir:
+Competências relacionadas com o doente
+
+(ver documento original)
+Competências relacionadas com os medicamentos
+
+(ver documento original)
+Competências relacionadas com a gestão
+
+(ver documento original)
+Competências profissionais
+
+(ver documento original)
+114503799
