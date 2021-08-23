@@ -1,0 +1,6 @@
+Aviso n.º 15830/2021
+Sumário: Regulamento Municipal de Edificação e Urbanização do Município de Mafra - projeto de alteração.
+Hélder António Guerra de Sousa Silva, Presidente da Câmara Municipal de Mafra, torna público que a Câmara Municipal deliberou, nos termos do artigo 101.º, n.os 1 e 2 do Código do Procedimento Administrativo, na sua redação atual submeter à consulta pública o "Projeto de Alteração ao Regulamento Municipal de Edificação e Urbanização do Município Mafra", por 30 (trinta) dias seguidos, para recolha de sugestões, atendendo à natureza das questões reguladas no referido projeto de alteração, devendo os interessados, no mencionado prazo, dirigir, por escrito, as suas sugestões à Câmara Municipal, por escrito, em requerimento dirigido ao Presidente da Câmara Municipal.
+Mais torna público que, durante o referido período, os interessados poderão consultar o respetivo o "Projeto de Alteração ao Regulamento Municipal de Edificação e Urbanização do Município Mafra", na Secção de Atendimento, sita no piso 0 do Edifício dos Paços do Município, em Mafra, durante o horário normal de atendimento (de segunda a sexta-feira, das 09:00 às 17:00 horas) ou através da Internet, no endereço eletrónico deste Município (https://www.cm-mafra.pt/).
+27 de julho de 2021. - O Presidente da Câmara Municipal, Hélder António Guerra de Sousa Silva.
+314454656
