@@ -1,0 +1,16 @@
+Aviso n.º 15906/2021
+Sumário: Início da elaboração da 2.ª alteração ao Plano de Urbanização de Ançã.
+2.ª Alteração ao Plano de Urbanização de Ançã (PUA)
+Abertura de procedimento
+Pedro António Vaz Cardoso, Vice-Presidente da Câmara Municipal de Cantanhede, torna público que a Câmara Municipal, em reunião ordinária realizada a 03 de agosto de 2021, deliberou, por unanimidade, aprovar o início da elaboração da 2.ª Alteração ao Plano de Urbanização de Ançã (PUA), aprovado através do Aviso n.º 28564/2008, no DR n.º 232, 2.ª série, de 28 de novembro de 2008 e alterado por adaptação à Reserva Agrícola Nacional e Reserva Ecológica Nacional, através do Aviso n.º 7899/2018, de 12 de junho, prevendo-se que o processo de elaboração do plano não ultrapasse 12 (doze) meses.
+Convidam-se todos os interessados a formular as observações e sugestões que entendam por convenientes, pelo prazo de 15 (quinze) dias, contados a partir do dia da publicação do presente Aviso na 2.ª série do Diário da República, nos termos do n.º 1 do artigo 76.º conjugado com o n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico de Instrumentos de Gestão Territorial - RJIGT), as quais devem ser apresentadas por escrito em impresso próprio, ou em ofício devidamente identificado, dirigido à Presidente da Câmara Municipal de Cantanhede, e entregue no Departamento de Obras e Urbanismo - Secção de Obras Particulares e Loteamentos, durante as horas normais de expediente (das 9 horas às 13 horas e das 14 horas às 16 horas), ou através do e-mail geral@cm-cantanhede.pt. O processo estará disponível para consulta através da Internet no endereço www.cm-cantanhede.pt.
+Informa-se ainda, que a alteração irá incidir apenas a nível regulamentar, por forma a ajustar as regras deste instrumento à realidade e desafios colocados diariamente ao processo de gestão urbanística, e permitir uma resposta adequada do território às exigências que decorrem da evolução das condições ambientais, culturais e socioeconómicas, bem como à adequação das normas em consonância com os demais instrumentos de gestão territorial municipal.
+O presente Aviso vai ser afixado nos lugares públicos do costume.
+6 de agosto de 2021. - O Vice-Presidente da Câmara Municipal de Cantanhede, Pedro António Vaz Cardoso, Dr.
+Deliberação
+Pedro António Vaz Cardoso, Vice-Presidente da Câmara Municipal de Cantanhede, declara para os devidos efeitos que, a Câmara Municipal, em sua sessão ordinária realizada em 03 de agosto de 2021, deliberou:
+1) Aprovar o início da elaboração da 2.ª Alteração ao Plano de Urbanização de Ançã, aprovado através do Aviso n.º 28564/2008, no DR n.º 232, 2.ª série, de 28 de novembro de 2008 e alterado por adaptação à Reserva Agrícola Nacional e Reserva Ecológica Nacional, através do Aviso n.º 7899/2018, de 12 de junho, a incidir sobre o Regulamento, sendo estipulado o prazo de 12 meses para a elaboração do referido processo de alteração;
+2) Dar início ao procedimento de audiência prévia dos interessados, nos termos do Decreto-Lei n.º 80/2015, de 14 de maio.
+A deliberação foi aprovada em minuta, quanto a esta parte, para efeitos imediatos.
+6 de agosto de 2021. - O Vice-Presidente da Câmara Municipal, Pedro António Vaz Cardoso, Dr.
+614490539
