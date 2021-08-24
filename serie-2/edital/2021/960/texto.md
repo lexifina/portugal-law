@@ -1,0 +1,14 @@
+Edital n.º 960/2021
+Sumário: Abertura do procedimento de revisão do Plano Diretor Municipal de Castro Marim.
+Abertura do procedimento de revisão do PDM de Castro Marim
+Dr. Francisco Augusto Caimoto Amaral, Presidente da Câmara Municipal de Castro Marim:
+Torna público, para os efeitos previstos no artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, conferida pelo Decreto-Lei n.º 25/2021, de 29 de março, que a Câmara Municipal de Castro Marim deliberou, por unanimidade, na sua reunião ordinária de 14 de julho de 2021, aprovar a proposta de abertura do procedimento de revisão do PDM de Castro Marim que se afigura necessária quer pelo decurso do prazo legal de dez anos, quer pela constatação, através da análise da situação e de dados concretos recolhidos no decurso da avaliação da execução, da desatualização das propostas atuais, em face das necessidades presentes e daquelas que se conseguem perspetivar no futuro, quer ainda pela necessidade de adequação da classificação dos solos ao disposto no decreto-lei acima referido. Os termos de referência que se apresentam procuram detalhar e concretizar a oportunidade da revisão do PDM e, ainda, definir os objetivos estratégicos e a base programática para o procedimento que agora se inicia. Foi ainda determinado que o prazo máximo de elaboração da revisão se estima em vinte e quatro (24) meses. Mais se anuncia que nos termos do n.º 2 do artigo 88.º e a contar da data de publicação no Diário da República é fixado um período de 30 dias úteis para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração. Para constar se torna público o presente Edital que vai ser publicado no Diário da República, 2.ª série, mandado publicitar na página da Internet do Município e ainda nos lugares de estilo do edifício da Câmara Municipal e sedes das Juntas de Freguesia.
+23 de julho de 2021. - O Presidente da Câmara, Dr. Francisco Amaral.
+Deliberação da Câmara Municipal de Castro Marim
+Em reunião ordinária realizada em 14 julho de 2021, a Câmara Municipal deliberou por unanimidade sobre a proposta n.º 128/2021/CM de 9 de julho de 2021:
+1 - Aprovar o relatório de avaliação de execução do PDM;
+2 - Determinar o início do procedimento de revisão do PDM de Castro Marim;
+3 - Aprovar os termos de referência em anexo, os quais definem os objetivos estratégicos e a base programática da revisão do PDM;
+4 - Determinar que o prazo máximo de elaboração da revisão se estima em 24 meses e que o período de participação preventiva, nos termos do n.º 2 do artigo 88.º do RJIGT é de 30 dias, contados desde a data da publicação no Diário da República.
+23 de julho de 2021. - O Presidente da Câmara, Dr. Francisco Amaral.
+614439339
