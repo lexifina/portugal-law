@@ -19,3 +19,5 @@ f) Alterem as regras respeitantes à distribuição do risco;
 g) Modifiquem os critérios de repartição do ónus da prova ou restrinjam a utilização de meios probatórios legalmente admitidos;
 
 h) Excluam ou limitem de antemão a possibilidade de requerer tutela judicial para situações litigiosas que surjam entre os contratantes ou prevejam modalidades de arbitragem que não assegurem as garantias de procedimento estabelecidas na lei.
+
+i) Se encontrem redigidas com um tamanho de letra inferior a 11 ou a 2,5 milímetros, e com um espaçamento entre linhas inferior a 1,15
