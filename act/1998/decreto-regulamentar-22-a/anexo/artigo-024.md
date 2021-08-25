@@ -86,6 +86,8 @@ C14c - Proibição de ultrapassar para motociclos e ciclomotores: indicação de
 
 C15 - estacionamento proibido: indicação da proibição permanente de estacionar quaisquer veículos;
 
+C15a - pictograma de autocaravana acrescido de painéis adicionais para identificação de proibição de utilização fora dos estacionamentos exclusivos de autocaravanas e respetivas restrições horárias, bem como das áreas de serviço para autocaravanas;
+
 C16 - paragem e estacionamento proibidos: indicação da proibição permanente de parar ou estacionar quaisquer veículos;
 
 C17 - proibição de sinais sonoros: indicação da proibição de utilizar sinais sonoros;

@@ -52,6 +52,8 @@ H14c - Parque misto para campismo e caravanismo: indicação da existência de l
 
 H14d - Área de serviço para autocaravanas: indicação da existência de um espaço destinado exclusivamente a autocaravanas equipado de acordo com a legislação que define os respetivos requisitos;
 
+H14e - pictograma de autocaravana acrescido de painéis adicionais para identificação dos estacionamentos exclusivos de autocaravanas, das áreas de serviço para autocaravanas;
+
 H15 - telefone de emergência: indicação da existência de um telefone de emergência, situado à distância, em metros, indicada no sinal;
 
 H16a - Pousada: indicação da existência de uma pousada;
