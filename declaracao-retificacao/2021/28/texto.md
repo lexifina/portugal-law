@@ -1,0 +1,9 @@
+Declaração de Retificação n.º 28/2021
+Sumário: Retifica o Decreto-Lei n.º 63/2021, de 28 de julho, da Economia e Transição Digital, que procede à criação do Fundo de Capitalização de Empresas.
+Nos termos das disposições da alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 20/2021, de 15 de março, conjugadas com o disposto no n.º 1 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, e artigos 5.º e 6.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho, declara-se que o Decreto-Lei n.º 63/2021, de 28 de julho, publicado no Diário da República, 1.ª série n.º 145, de 28 de julho de 2021, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No n.º 2 do artigo 18.º do Regime Jurídico do Fundo de Capitalização e Resiliência, a que se refere o n.º 3 do artigo 2.º, onde se lê:
+«2 - Em caso algum o Fundo apoia sociedades comerciais em condições que desrespeitem o disposto na regulamentação europeia em matéria de auxílios de Estado, designadamente aquelas que a 31 de dezembro de 2019 não tivessem capitais próprios positivos, ou em sociedades comerciais que se considerem inviáveis no futuro, devendo este conceito ser aferido nos termos da portaria estabelecida no n.º 3 do artigo 15.º»
+deve ler-se:
+«2 - Em caso algum o Fundo apoia sociedades comerciais em condições que desrespeitem o disposto na regulamentação europeia em matéria de auxílios de Estado, designadamente aquelas que a 31 de dezembro de 2019 não tivessem capitais próprios positivos, ou em sociedades comerciais que se considerem inviáveis no futuro, devendo este conceito ser aferido nos termos do despacho estabelecido no artigo 16.º»
+Secretaria-Geral, 20 de agosto de 2021. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+114512902
