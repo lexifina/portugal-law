@@ -18,7 +18,7 @@ e) Tendo passado à situação de reserva ou de reforma, aguarde a publicação 
 
 f) Esteja sustada a transição para a situação de reserva, nos termos do artigo 159.º;
 
-g) Seja deficiente das Forças Armadas e tenha, nos termos da lei, optado pela prestação de serviço no ativo;
+g) Seja considerado deficiente militar e tenha, nos termos da lei, optado pela prestação de serviço no ativo;
 
 h) Seja considerado prisioneiro de guerra ou desaparecido;
 
