@@ -1,0 +1,21 @@
+Aviso n.º 16186/2021
+Sumário: 2.ª revisão do Plano Diretor Municipal de Penedono.
+2.ª Revisão do Plano Diretor Municipal de Penedono (PDMP)
+António Carlos Saraiva Esteves de Carvalho, Presidente da Câmara Municipal de Penedono, torna-se público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, que a Câmara Municipal deliberou, em reunião realizada no dia 19 de julho de 2021, aprovar o início do procedimento relativo à 2.ª revisão do Plano Diretor Municipal de Penedono, publicado pelo Regulamento n.º 286/2011, publicado na 2.ª série do Diário da República de 6 de maio de 2011, que deverá estar concluído no prazo de 3 anos.
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do mesmo diploma, é estabelecido o período de 15 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página oficial da Câmara Municipal de Penedono em www.cm-penedono.pt, ou presencialmente, na Divisão Técnica de Obras e Urbanismo, desta Câmara Municipal.
+Os interessados podem apresentar eventuais sugestões e ou pedidos de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Exmo. Sr. Presidente da Câmara Municipal de Penedono e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações desta Câmara Municipal, enviadas por via postal para a morada Largo da Devesa 3630 - 253 Penedono ou por via eletrónica para geral@cm-penedono.pt.
+Para constar, publica-se o presente aviso que vai ser afixado nos lugares de estilo, bem como publicado em 2.ª série de Diário da República e na imprensa.
+5 de agosto de 2021. - O Presidente da Câmara Municipal, António Carlos Saraiva Esteves de Carvalho.
+2.ª Revisão do Plano Diretor Municipal de Penedono (PDMP)
+Deliberação
+Em reunião realizada em 19 de julho de 2021 a Câmara Municipal deliberou por unanimidade:
+a) Determinar, nos termos do disposto no n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º 80/2015, de 14 de maio), que seja iniciado um procedimento da 2.ª revisão do Plano Diretor Municipal de Penedono;
+b) Estabelecer, nos termos da mesma disposição legal, o prazo de 3 anos para a respetiva revisão do plano;
+c) Considerando a fundamentação constante da informação técnica relativa ao relatório do estado de ordenamento do território no concelho, em anexo, de acordo com o artigo 77.º do Regime Jurídico dos Instrumentos de Gestão Territorial, a 2.ª revisão do Plano Diretor Municipal de Penedono deverá assentar em duas vertentes principais:
+Adaptar do seu conteúdo ao novo quadro legal (lei de bases da política pública de solos, de ordenamento do território e de urbanismo, regime jurídico dos instrumentos de gestão territorial e adaptação ao atual sistema de classificação e qualificação do solo);
+Dar oportunidade a uma atualização/reconfiguração do seu programa de ações, como documento onde se fazem refletir as componentes espacializadas das intervenções que consubstanciam a estratégia municipal de desenvolvimento, sendo que a formulação das suas opções e objetivos deve procurar potencializar as tendências positivas emergentes e atenuação/superação das fragilidades detetadas.
+d) Estabelecer, nos termos do disposto no n.º 2 do artigo 88.º Decreto-Lei n.º 80/2015, de 14 de maio, um prazo de 15 dias, a contar do dia seguinte ao da publicação do anúncio da presente deliberação no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento.
+e) Comunicar à Comissão de Coordenação de Desenvolvimento Regional do Norte, nos termos do disposto no n.º 1 do artigo 3.º da Portaria n.º 277/2015, de 10 de setembro, o teor da presente deliberação, acompanhada do Relatório do Estado do Ordenamento do Território e solicitar uma reunião preparatória;
+f) Proceder, nos termos do disposto no n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial, à publicação da presente deliberação.
+21 de julho de 2021. - O Presidente da Câmara Municipal, António Carlos Saraiva Esteves de Carvalho.
+614487226
