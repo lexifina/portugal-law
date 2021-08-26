@@ -1,0 +1,137 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13657",
+  "numero": "287",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-08-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2021-09-29",
+        "DataArquivo": "2021-12-02",
+        "DataBaixaComissao": "2021-09-13",
+        "DataEnvioPAR": "2021-12-15",
+        "DataReaberta": "2021-09-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-09-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396a4e7a41794d32457a4d6931694d3255334c5451314e57597459574d794e793035593245335a6d59784d7a67354e6a51756347526d&fich=c7023a32-b3e7-455f-ac27-9ca7ff138964.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-10-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396a4d5441784d4452694e69316b595455774c5452684e6d4d74596a46684f5331684e57457759324d794e6a597a4d4463756347526d&fich=c10104b6-da50-4a6c-b1a9-a5a0cc266307.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938344d5463784f574532596930784e6a566c4c54526a4d6a49744f5759334f43316b4e6d51354e5752684e5467325a474d756347526d&fich=81719a6b-165e-4c22-9f78-d6d95da586dc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396c5954466b4d6a566c4d6930354f446c694c54526a4e6a5974596a45304d7930314d6a566d4d574d324d7a64684e5745756347526d&fich=ea1d25e2-989b-4c66-b143-525f1c637a5a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938335a444d325a54597a4d79316c593256684c545132595451745954637a4e533035596d51305a6a566c4e6a49315a6a51756347526d&fich=7d36e633-ecea-46a4-a735-9bd4f5e625f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396d4f445934597a52695a4330794d7a686c4c5452694d445574596d45324d69316c5a54566b4d4445794f54686a4d7a45756347526d&fich=f868c4bd-238e-4b05-ba62-ee5d01298c31.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938324d4451784d6a686c4e693032596a59794c54526a596a4d745954466a4f5330774d4745344d6a45774f44566a4e5451756347526d&fich=604128e6-6b62-4cb3-a1c9-00a821085c54.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396b596a466b4d5749334d4331695a574e6a4c5451795a445174596a45354e4330794d4751355a44466c4e5459304d6a4d756347526d&fich=db1d1b70-becc-42d4-b194-20d9d1e56423.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-12-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938334d7a526c4d44526d5a4330314d4451354c54526c4e7a4974596d45794e43316d5932526d4e6a4e69595746684e4441756347526d&fich=734e04fd-5049-4e72-ba24-fcdf63baaa40.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-12-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938344f44466c4d7a52694d43316c4e3255774c54517859546374596d517a597931684d324d775a4463784f4463774f5455756347526d&fich=881e34b0-e7e0-41a7-bd3c-a3c0d7187095.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7444",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-09-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a566d596d553359324d314c5745355a6a59744e47517a4e5331694e5745324c544d345a4459304d7a6b774e6a45334d5335775a47593d&fich=5fbe7cc5-a9f6-4d35-b5a6-38d643906171.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13657",
+    "PetAssunto": "Pela revisão da Lei de Terceirização ou \"outsourcing\"",
+    "PetDataEntrada": "2021-08-26",
+    "PeticoesAssociadas": null,
+    "PetId": "13657",
+    "PetLeg": "XIV",
+    "PetNr": "287",
+    "PetNrAssinaturas": "9",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
