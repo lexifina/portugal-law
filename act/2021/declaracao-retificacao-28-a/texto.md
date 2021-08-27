@@ -1,0 +1,9 @@
+Declaração de Retificação n.º 28-A/2021
+Sumário: Retifica a Resolução do Conselho de Ministros n.º 114-A/2021, de 20 de agosto, que declara a situação de contingência no âmbito da pandemia da doença COVID-19.
+Nos termos das disposições da alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 20/2021, de 15 de março, conjugadas com o disposto no n.º 1 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, e artigos 5.º e 6.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho, declara-se que a Resolução do Conselho de Ministros n.º 114-A/2021, de 20 de agosto, publicada no Diário da República, 1.ª série, n.º 162, suplemento, de 20 de agosto de 2021, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No n.º 3 do artigo 24.º do regime anexo à Resolução do Conselho de Ministros n.º 114-A/2021, de 20 de agosto, onde se lê:
+«3 - Aos serviços abrangidos pelo presente artigo aplica-se o disposto no n.º 4 do artigo 11.º e o disposto na Resolução do Conselho de Ministros n.º 88/2020, de 14 de outubro, em tudo o que não contrariar o presente regime e, no que se refere às lojas de cidadão, ainda o disposto em despacho do membro do Governo responsável pela área da modernização do Estado e da Administração Pública.»
+deve ler-se:
+«3 - Aos serviços abrangidos pelo presente artigo aplica-se o disposto na alínea a) do n.º 2 e no n.º 4 do artigo 11.º, bem como o disposto na Resolução do Conselho de Ministros n.º 88/2020, de 14 de outubro, em tudo o que não contrariar o presente regime e, no que se refere às lojas de cidadão, ainda o disposto em despacho do membro do Governo responsável pela área da modernização do Estado e da Administração Pública.»
+Secretaria-Geral, 27 de agosto de 2021. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+114529832
