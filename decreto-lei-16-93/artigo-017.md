@@ -6,7 +6,7 @@
 
 ### Comunicação do património arquivístico
 
-1 - É garantido o acesso à documentação conservada em arquivos públicos, salvas as limitações decorrentes dos imperativos de conservação das espécies, aplicando-se as restrições decorrentes da legislação geral e especial de acesso aos documentos administrativo.
+1 - É garantido o acesso à documentação conservada em arquivos públicos, salvas as limitações decorrentes dos imperativos de conservação das espécies, aplicando-se as restrições decorrentes da legislação geral e especial de acesso aos documentos administrativos.
 
 2 - São acessíveis os documentos que integrem dados nominativos:
 
