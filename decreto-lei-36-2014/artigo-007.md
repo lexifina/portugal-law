@@ -32,7 +32,7 @@ c) Do cumprimento dos limites definidos no ato de acreditação dos ciclos de es
 
 8 - A Direção-Geral do Ensino Superior procede à divulgação do número de vagas fixado.
 
-9- As vagas a que se refere o presente artigo não são transferíveis entre regimes de acesso e ingresso, ciclos de estudos ou instituições.
+9- (Revogado.)
 
 10 - O prazo de apresentação das candidaturas é fixado anualmente pelo órgão legal e estatutariamente competente da instituição de ensino superior, devendo ser adequado a que o início da atividade letiva do estudante colocado ocorra em momento semelhante aos estudantes colocados através das demais vias de ingresso.
 
