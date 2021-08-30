@@ -1,0 +1,13 @@
+Edital n.º 983/2021
+Sumário: Projeto do Regulamento Geral do Ciclo de Estudos Conducente ao Grau de Mestre da Faculdade de Farmácia da Universidade de Lisboa.
+Projeto de Regulamento Geral do Ciclo de Estudos conducente ao Grau de Mestre da Faculdade de Farmácia da Universidade de Lisboa
+Para os efeitos previstos nos artigos 99.º e 101.º do Código de Procedimento Administrativo publica-se a nota justificativa da consulta pública do Regulamento Geral do Ciclo de Estudos conducente ao Grau de Mestre.
+O Despacho Reitoral n.º 8631/2020, de 31 de julho de 2020, publicado no Diário da República de 8 de setembro de 2020, aprovou o Regulamento de Estudos de Pós-Graduação da Universidade de Lisboa, obrigando os órgãos competentes das Escolas a aprovar normas regulamentares relativas aos cursos de pós-graduação conferentes e não conferentes de grau.
+Assim, torna-se necessário atualizar o Regulamento Geral do Ciclo de Estudos conducente ao Grau de Mestre da Faculdade de Farmácia da Universidade de Lisboa (FFUL), em conformidade com as disposições do referido Regulamento de Estudos de Pós-Graduação da Universidade de Lisboa e da Declaração de Retificação n.º 648/2020 de 25 de setembro.
+O Conselho Científico, na reunião de 25 de junho de 2021, aprovou, depois de ouvir o Conselho Pedagógico, o projeto de Regulamento Geral do Ciclo de Estudos conducente ao Grau de Mestre da Faculdade de Farmácia da Universidade de Lisboa devendo as sugestões serem enviadas para o e-mail: prescc@ff.ulisboa.pt.
+Nos termos previstos na alínea c) do n.º 3 do artigo 100.º e para os efeitos do artigo 101.º do CPA, o Regulamento Geral do Ciclo de Estudos conducente ao Grau de Mestre da Faculdade de Farmácia da Universidade de Lisboa é submetido à consulta pública, para recolha de sugestões.
+Dando cumprimento ao disposto no artigo 99.º do CPA o qual impõe a introdução de uma nota justificativa aos regulamentos, estabelece que a mesma deve incluir uma ponderação dos custos e benefícios das medidas projetadas: o presento regulamento tem como objetivo a atualização do mesmo face às disposições legais e procede também a otimização do processo, nomeadamente tendo em conta a finalidade pretendida, cumprindo os critérios de eficiência e de qualidade. Os benefícios teóricos deste regulamento são muito superiores aos seus custos teóricos.
+Assim, o Conselho Científico reapreciou e alterou o regulamento geral do ciclo de estudos conducente ao grau de mestre da Faculdade de Farmácia da Universidade de Lisboa, aprovado na reunião do Conselho Científico de 25 de junho de 2020.
+Para constar se publica o presente edital, o qual foi disponibilizado na internet, no sítio institucional da escola.
+29/7/2021. - O Diretor Executivo, Alfredo Ferreira Moita.
+314457175
