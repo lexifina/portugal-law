@@ -1,0 +1,7 @@
+Aviso n.º 16742/2021
+Sumário: Licença para operação de loteamento, sito no Plano de Urbanização da UP5/ATR1 - Estrumal - Portimão, requerida por Novo Banco, S. A.
+Licença para operação de loteamento, sito no Plano de Urbanização da UP5/ATR1 - Estrumal - Portimão, requerida por Novo Banco, S. A.
+De acordo com o despacho de 17 de agosto de 2021, do Sr.º Vereador João Gambôa, decorrerá um período de consulta pública, pelo prazo de 30 dias, contados da data desta publicação, no Diário da República, durante o qual poderão os interessados apresentar por escrito, quaisquer reclamações, sugestões ou informações, dirigidas à Sra. Presidente da Câmara Municipal de Portimão, relativamente às questões que possam ser consideradas no âmbito da respetiva operação de loteamento, conforme determina o n.º 2 do artigo 27.º e o artigo 122.º, do Decreto-Lei n.º 555/99, de 16 de dezembro, com a nova redação dada pelo Decreto-Lei n.º 136/2014, de 9 de setembro, e de acordo com o disposto no artigo 159.º do Decreto-Lei n.º 4/2015, de 7 de janeiro.
+A alteração à licença para operação de loteamento pode ser consultada na secretaria do Departamento de Obras e Gestão Urbanística, Ambiente Urbano, Trânsito e Manutenção, sito no Parque das Feiras e Exposições, Caldeira do Moinho - Portimão, de 2.ª feira a 6.ª feira das 9.00 h às 13.00 h e das 14.00 h às 17.00 h.
+24 de agosto de 2021. - O Vereador, João Gambôa.
+314519107
