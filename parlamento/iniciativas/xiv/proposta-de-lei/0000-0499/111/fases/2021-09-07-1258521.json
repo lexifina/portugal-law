@@ -1,0 +1,217 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "111",
+    "id": "121083",
+    "titulo": "Regula a utilização de sistemas de vigilância por câmaras de vídeo pelas forças e serviços de segurança"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2021-09-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "61591",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-09-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-10-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d475935593259354d4330775a6d51334c5451794e4759744f544d774e53307a5a544e6c4e54526b5a6a597a4f4463756347526d&fich=10f9cf90-0fd7-424f-9305-3e3e54df6387.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-01",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a544a6a4f546b784e69316b4f54566a4c5451354f5459744f4459795a4330795a475a684e544930593251794e544d756347526d&fich=ce2c9916-d95c-4996-862d-2dfa524cd253.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d545a684d5467785a433033596d5a694c54526c5a575974595759784d79316a597a4a6a4d4445795a6a4d77595745756347526d&fich=816a181d-7bfb-4eef-af13-cc2c012f30aa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Info. CSM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d6a51774e5745794f43316b4d474d324c5451774e7a45744f4455354e79307a4d324577596a5a6b5a4441304e5445756347526d&fich=d2405a28-d0c6-4071-8597-33a0b6dd0451.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer  - Comando Geral da GNR e Direção Nacional da PSP ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d444a684e6d55314f5330304e6d4d774c54526d4e324d744f47466a4d79316b4f5441784f475a6c596d5132596a4d756347526d&fich=a02a6e59-46c0-4f7c-8ac3-d9018febd6b3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-28",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793834595451354d7a497a4f53316b596d55344c5451784d6a67744f5459314e7930344e57466a4d7a6c6b596a4d344d4749756347526d&fich=8a493239-dbe8-4128-9657-85ac39db380b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304f445a6b596a42684d6930794f5445314c5451774e5445744f4445324d43316a596d55324d6a686d5a6d4e6d4e4459756347526d&fich=486db0a2-2915-4051-8160-cbe628ffcf46.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7264",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "7264",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2021-10-01"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2021-11-08"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2021-10-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2021-10-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2021-10-28"
+          },
+          {
+            "link": "",
+            "nome": "Comando-Geral da Guarda Nacional Republicana em 2021-10-14"
+          },
+          {
+            "link": "",
+            "nome": "Direção Nacional da Polícia de Segurança Pública em 2021-10-14"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Serviço de Estrangeiros e Fronteiras em 2021-09-15"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2021-09-15"
+          },
+          {
+            "link": "",
+            "nome": "IMT - Instituto da Mobilidade e dos Transportes, I.P. em 2021-09-15"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2021-09-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2021-09-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2021-09-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2021-09-15"
+          },
+          {
+            "link": "",
+            "nome": "Comando-Geral da Guarda Nacional Republicana em 2021-09-15"
+          },
+          {
+            "link": "",
+            "nome": "Direção Nacional da Polícia de Segurança Pública em 2021-09-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4170",
+            "motivoCessacao": null,
+            "nome": "Duarte Marques"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-09-07",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1258521",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929704",
+        "obs": null,
+        "pag": [
+          "96-114"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-06",
+        "pubLeg": "XIV",
+        "pubNr": "12",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/03/012/2021-10-06/96?pgs=96-114&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
