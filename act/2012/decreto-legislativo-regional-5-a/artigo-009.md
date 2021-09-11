@@ -10,10 +10,10 @@
 
 4 - Fica condicionada à emissão da licença de exploração:
 
-a) A exploração de estabelecimentos industriais abrangidos pelo disposto no artigo 17.º do Decreto Legislativo Regional n.º 30/2010/A, de 15 de novembro;
+a) A exploração de estabelecimentos industriais abrangidos pelas subalíneas i) a v) da alínea a) do n.º 1 do artigo 8.º;
 
-b) A exploração de estabelecimentos industriais abrangidos pelo disposto no Decreto Legislativo Regional n.º 20/2007/A, de 23 de agosto, alterado pelo Decreto Legislativo Regional n.º 10/2008/A, de 12 de maio;
+b) A exploração de estabelecimentos industriais com atividades agroalimentares que utilizem matéria-prima de origem animal não transformada, atividades que envolvam a manipulação de subprodutos de origem animal ou atividades de fabrico de alimentos para animais que careçam de atribuição de número de controlo veterinário ou de número de identificação individual, nos termos da legislação aplicável.
 
-c) Operações de gestão de resíduos, nomeadamente, as previstas no Decreto Legislativo Regional n.º 29/2011/A, de 16 de novembro, quando estejam em causa resíduos perigosos, de acordo com a lista europeia de resíduos;
+c) (Revogada.)
 
-d) A exploração de qualquer estabelecimento industrial onde se exerça uma atividade agroalimentar que utilize matéria-prima de origem animal.
+d) (Revogada.)
