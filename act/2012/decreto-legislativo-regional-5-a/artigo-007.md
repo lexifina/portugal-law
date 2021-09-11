@@ -4,7 +4,7 @@
 
 1 - O pedido de licença de instalação ou alteração deve ser remetido aos serviços da administração regional com competência em matéria de indústria, devidamente instruído nos termos previstos no presente diploma e em diploma regulamentar.
 
-2 - Para efeitos de licenciamento, os estabelecimentos industriais integram-se numa tipologia a definir de acordo com a sua dimensão, estando isentos de licenciamento prévio, os estabelecimentos de menor dimensão e os cuja atividade exercida não se revista de especial perigosidade para o ambiente, pessoas e bens.
+2 - (Revogado.)
 
 3 - No caso do estabelecimento estar sujeito aos regimes específicos a seguir mencionados, o pedido de licenciamento só se considera devidamente instruído se for acompanhado da documentação necessária:
 
@@ -26,4 +26,4 @@ d) Quaisquer outros elementos que venham a ser previstos em diplomas legais apli
 
 8 - A licença de instalação ou de alteração de estabelecimento industrial é emitida pela direção regional com competência em matéria de indústria e integra, obrigatoriamente, as condições e exigências impostas pelas entidades consultadas, ou quaisquer outras que a entidade licenciadora entenda convenientes.
 
-9 - A licença de instalação ou de alteração de estabelecimento industrial tem a duração de um ano, a contar da data da sua emissão, podendo ser renovada por períodos de um ano, até ao máximo de 3 renovações, podendo ser prorrogado este prazo por razões não imputáveis ao empresário.
+9 - A licença de instalação ou de alteração de estabelecimento industrial tem a duração de dois anos, a contar da data da sua emissão, podendo ser renovada por períodos de um ano, até ao máximo de três renovações, podendo ser prorrogado este prazo por razões não imputáveis ao empresário.
