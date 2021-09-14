@@ -2,36 +2,30 @@
 
 ### Apresentação de iniciativas
 
-1 - A Bolsa de Iniciativas funciona, em contínuo, na plataforma eletrónica da RRN em www.rederural.pt.
+1 - A Bolsa de Iniciativas funciona na plataforma eletrónica da RRN em www.rederural.pt.
 
-2 - A apresentação de iniciativas é efetuada através do preenchimento e submissão de formulário disponível na plataforma eletrónica da RRN, em www.rederural.pt, considerando-se a iniciativa apresentada na data em que este se encontre devidamente submetido.
+2 - Todos os parceiros de uma iniciativa têm de ser membros da RRN (https://www.rederural.gov.pt/membros-da-rede).
 
-3 - A iniciativa deve incluir os seguintes elementos:
+3 - A apresentação de iniciativas é efetuada através do preenchimento e submissão de formulário disponível na plataforma eletrónica da RRN, em www.rederural.pt, considerando-se a iniciativa apresentada na data em que este se encontre devidamente submetido.
 
-a) Designação da parceria para criação do Grupo Operacional;
+4 - A iniciativa deve incluir os seguintes elementos:
 
-b) Identificação da iniciativa;
+a) Designação da iniciativa;
 
-c) Identificação da prioridade onde se insere a iniciativa e respetivos domínios temáticos previstos no anexo I à presente portaria da qual faz parte integrante;
+b) Identificação dos parceiros da iniciativa;
 
-d) Identificação dos parceiros, membros da RRN, que se propõem integrar o Grupo Operacional, e o parceiro coordenador do mesmo.
+c) Identificação do coordenador da iniciativa, e os seus contactos;
 
-4 - A iniciativa deve ainda incluir, de forma sintética, elementos para a elaboração do respetivo plano de ação, nomeadamente os seguintes:
+d) Para a constituição de Grupo Operacional, identificar a prioridade onde se insere a iniciativa e respetivos domínios temáticos previstos no anexo i à presente portaria da qual faz parte integrante;
 
-a) Identificação do problema ou oportunidade que a iniciativa se propõe abordar;
+e) Para a constituição de parceria para o PRR, identificar a iniciativa emblemática onde se insere e respetivas linhas de ação da Terra Futura, conforme a Resolução do Conselho de Ministros n.º 86/2020, que aprova a Agenda de Inovação para a Agricultura 2020-2030.
 
-b) Descrição relativa à situação de partida, no que diz respeito ao problema ou oportunidade objeto da iniciativa;
+5 - A iniciativa deve ainda incluir, de forma sintética:
 
-c) Objetivos visados;
+a) Fundamentação da iniciativa, com a identificação do problema ou oportunidade que se propõe abordar;
 
-d) Identificação das principais fases de desenvolvimento do plano de ação explicitando a respetiva duração e o contributo de cada parceiro;
+b) Descrição da iniciativa a desenvolver, com a indicação dos objetivos, método de abordagem e principais fases de desenvolvimento do plano de ação;
 
-e) Descrição sintética do método de abordagem a utilizar para a resolução do problema ou aproveitamento da oportunidade;
+c) Atividades a desenvolver e responsabilidades de cada parceiro.
 
-f) Identificação da tipologia de resultados a atingir;
-
-g) Identificação dos potenciais destinatários;
-
-h) Descrição dos processos de demonstração, divulgação e disseminação previstos.
-
-5 - A submissão da iniciativa implica a aceitação da sua publicitação na Bolsa de Iniciativas.
+6 - A submissão da iniciativa implica a aceitação da sua publicitação na Bolsa de Iniciativas.

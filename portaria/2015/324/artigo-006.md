@@ -8,12 +8,8 @@
 
 a) Data de registo da iniciativa;
 
-b) Existência de sobreposição com outras iniciativas e respetiva identificação;
+b) Os elementos previstos no n.º 4 do artigo 4.º;
 
-c) Os elementos previstos no n.º 3 do artigo 4.º;
+c) Os elementos previstos nas alíneas a) e b) do n.º 5 do artigo 4.º
 
-d) Os elementos previstos nas alíneas a), c), f) e g) do n.º 4 do artigo 4.º;
-
-e) Alterações efetuadas à iniciativa.
-
-3 - A iniciativa permanece na Bolsa de Iniciativas pelo período de um ano, com exceção das situações em que o Grupo Operacional comunique à Unidade Central da ETA da RRN o interesse na sua continuação.
+3 - A iniciativa permanece na Bolsa de Iniciativas pelo período de um ano, com exceção das situações em que o coordenador da iniciativa comunique à ETA da RRN o interesse na sua continuação.
