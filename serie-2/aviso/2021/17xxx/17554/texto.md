@@ -1,0 +1,8 @@
+Aviso n.º 17554/2021
+Sumário: Proposta do Regulamento para Atribuição de Lotes, sitos na Área de Acolhimento Empresarial (AAE) de Mêda.
+Anselmo Antunes de Sousa, Presidente da Câmara Municipal de Mêda, torna público que, em reunião ordinária da Câmara Municipal de Mêda, realizada no dia 24 de julho de 2020, foi deliberado aprovar e submeter a consulta pública, a Proposta de Regulamento para Atribuição de Lotes, Sitos na Área de Acolhimento Empresarial (AAE) de Mêda, nos termos do artigo 101.º do Código do Procedimento Administrativo, durante o prazo de 30 dias a contar da data da publicação do presente Aviso na 2.ª série do Diário da República.
+Mais Torna Público, que a referida Proposta de Regulamento, se encontra patente para consulta nos Serviços Urbanos e Ambiente, desta Câmara Municipal, nos dias úteis das 09H00 às 16H30, estando o texto disponível e afixado através de Edital nos locais de estilo e no sítio eletrónico oficial do Município em www.cm-meda.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, endereçadas ao Presidente da Câmara Municipal de Meda, e entregues presencialmente nos Serviços Urbanos e Ambiente, sitos no Largo do Município em Meda, por correio para a morada Largo do Município - 6430-197 Mêda, ou ainda através do seguinte email: geral@cm-meda.pt.
+Em todas as comunicações deve ser indicado o procedimento a que mesma se reporta.
+6 de setembro de 2021. - O Presidente da Câmara, Anselmo Antunes de Sousa.
+314548543
