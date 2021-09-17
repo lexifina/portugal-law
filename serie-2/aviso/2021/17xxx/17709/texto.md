@@ -1,0 +1,8 @@
+Aviso n.º 17709/2021
+Sumário: Consulta pública do Projeto de Regulamento de Fundo Social da Junta de Freguesia de Campo de Ourique.
+Pedro Miguel Tadeu Costa, Presidente da Junta de Freguesia de Campo de Ourique, torna público, no uso das competências previstas nos artigos 100.º e 101.º do Código de Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que o órgão executivo da freguesia, em cumprimento do n.º 1 do artigo 16.º da Lei n.º 75/2013, de 12 de setembro, deliberou, no dia 6 de setembro de 2021, iniciar um procedimento regulamentar relativo à criação do Regulamento de Fundo Social da Junta de Freguesia de Campo de Ourique.
+Mais se deliberou submeter o projeto de Regulamento a consulta pública pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente anúncio na 2.ª série do Diário da República.
+O texto do Projeto de Regulamento Geral de Taxas e Preços da Freguesia de Campo de Ourique texto poderá ser consultado no site oficial da Junta de Freguesia (www.jf-campodeourique.pt).
+Qualquer interessado poderá apresentar por escrito, durante o período de consulta pública, sugestões que possam ser consideradas relevantes no âmbito do presente procedimento (cf. n.º 2 do artigo 101.º do Código do Procedimento Administrativo), as quais deverão ser endereçadas ao Presidente da Junta de Freguesia de Campo de Ourique e entregues na Rua Azedo Gneco, 84, 2.º Esq., 1350-039 Lisboa, ou através do endereço eletrónico geral@jf-campodeourique.pt.
+7 de setembro de 2021. - O Presidente da Junta de Freguesia de Campo de Ourique, Pedro Miguel Tadeu Costa.
+314551101
