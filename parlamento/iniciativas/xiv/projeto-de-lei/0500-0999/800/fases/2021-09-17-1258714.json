@@ -1,0 +1,150 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "800",
+    "id": "110680",
+    "titulo": "Reconhecimento e proteção do Barranquenho e da sua identidade cultural"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2021-09-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "61621",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-09-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-10-20",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos recebidos",
+            "URL": "https://www.parlamento.pt/sites/COM/XIVLeg/12CCC/Paginas/Contributos-Iniciativas.aspx?t=4d693743716942545a584e7a77364e764945786c5a326c7a6247463061585a684c3142796232706c6447397a4947526c4945786c615342754c734b36494463774f46395953565a664d734b714947556762693743756941344d44426657456c57587a4c4371673d3d&Path=6148523063446f764c324679626d56304c334e706447567a4c31684a566b786c5a793944543030764d544a4451304d7651584a7864576c3262304e7662576c7a633246764c304e76626e527961574a316447397a4a5449775a47556c4d6a424a626d6c6a6157463061585a68637955794d45786c5a326c7a6247463061585a68637938794c734b7149464e6c633350446f3238675447566e61584e7359585270646d457655484a76616d563062334d675a475567544756704947347577726f674e7a41345831684a566c387977716f675a5342754c734b36494467774d46395953565a664d734b71"
+          },
+          {
+            "DataDocumento": "2021-11-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54526d597a637a4e5755744e7a426c4d7930304f4468684c546868597a63744e5449344f4751354e47517a4e6a67304c6e426b5a673d3d&fich=94fc735e-70e3-488a-8ac7-5288d94d3684.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e57497a5a54497a4e5451744d6d52684d43303059545a684c546c684d5441745a6a6b334d54566d5a6a4a6d597a59794c6e426b5a673d3d&fich=5b3e2354-2da0-4a6a-9a10-f9715ff2fc62.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-12",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Proposta de texto de substituição PS e PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a6378597a68684e6a41745a546c6b597930304e7a566a4c5746684d4459745a5445304f5459774d44566c4e7a59344c6e426b5a673d3d&fich=371c8a60-e9dc-475c-aa06-e1496005e768.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-17",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Relatório da  votação na especialidade + Texto de substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f474e6c4e445979596a41744e474e6959693030597a5a6a4c5467324d5463745a5459324d7a4a694e4755354e32466d4c6e426b5a673d3d&fich=8ce462b0-4cbb-4c6c-8617-e6632b4e97af.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-17",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Quadro de votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4449794f574d774e6d55744e6d526b4e7930305a44566d4c546778595451745a4451785a444e6b4f44633459544a6d4c6e426b5a673d3d&fich=0229c06e-6dd7-4d5f-81a4-d41d3d878a2f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-17",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link áudio",
+            "URL": "http://media.parlamento.pt/site/XIVLEG/SL3/COM/12_CCC/CCC_20211117_2_VC.mp3"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7484",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Cultura e Comunicação",
+        "Numero": "7484",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-11-17",
+            "dataRemessa": "2021-11-19",
+            "numeroOficio": "106/ CCC/2021",
+            "observacoes": "PJL 708+800",
+            "tipoRemessa": "Texto de Substituição"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-09-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1258714",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "950616",
+        "obs": null,
+        "pag": [
+          "3-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-19",
+        "pubLeg": "XIV",
+        "pubNr": "41",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/03/041/2021-11-19/3?pgs=3-17&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
