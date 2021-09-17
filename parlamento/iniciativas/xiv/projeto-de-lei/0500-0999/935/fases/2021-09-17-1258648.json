@@ -1,0 +1,871 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "935",
+    "id": "121100",
+    "titulo": "Pela estabilidade nos contratos de arrendamento (78.ª alteração ao Código Civil)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-09-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17408",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-09-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121028",
+        "leg": "XIV",
+        "nr": "909",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Alteração ao Regime do Arrendamento Urbano"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121094",
+        "leg": "XIV",
+        "nr": "930",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121098",
+        "leg": "XIV",
+        "nr": "933",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Reforça a proteção do direito à habitação das pessoas idosas (8.ª alteração ao NRAU e 1.ª alteração à Lei 13/2019, de 12 de fevereiro)"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121099",
+        "leg": "XIV",
+        "nr": "934",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6106",
+            "obs": null,
+            "pag": [
+              "33-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-09-18",
+            "pubLeg": "XIV",
+            "pubNr": "3",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Reconhecimento de contratos de arrendamento (8.ª alteração ao Novo Regime do Arrendamento Urbano)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-09-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=39"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-09-18",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-34,40-41&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao regime do arrendamento urbano, Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19; Reforça a proteção do direito à habitação das pessoas idosas (Oitava alteração ao NRAU e primeira alteração à Lei n.º 13/2019, de 12 de fevereiro); Reconhecimento de contratos de arrendamento (Oitava alteração ao Novo Regime do Arrendamento Urbano); Pela estabilidade nos contratos de arrendamento (Septuagésima oitava alteração ao Código Civil)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-09-18",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao regime do arrendamento urbano, Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19; Reforça a proteção do direito à habitação das pessoas idosas (Oitava alteração ao NRAU e primeira alteração à Lei n.º 13/2019, de 12 de fevereiro); Reconhecimento de contratos de arrendamento (Oitava alteração ao Novo Regime do Arrendamento Urbano); Pela estabilidade nos contratos de arrendamento (Septuagésima oitava alteração ao Código Civil)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5952",
+                "nome": "Maria Manuel Rola"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=41"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36",
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-09-18",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/35?pgs=35-36,40&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao regime do arrendamento urbano, Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19; Reforça a proteção do direito à habitação das pessoas idosas (Oitava alteração ao NRAU e primeira alteração à Lei n.º 13/2019, de 12 de fevereiro); Reconhecimento de contratos de arrendamento (Oitava alteração ao Novo Regime do Arrendamento Urbano); Pela estabilidade nos contratos de arrendamento (Septuagésima oitava alteração ao Código Civil)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4429",
+                "nome": "Pedro Morais Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-09-18",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao regime do arrendamento urbano, Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19; Reforça a proteção do direito à habitação das pessoas idosas (Oitava alteração ao NRAU e primeira alteração à Lei n.º 13/2019, de 12 de fevereiro); Reconhecimento de contratos de arrendamento (Oitava alteração ao Novo Regime do Arrendamento Urbano); Pela estabilidade nos contratos de arrendamento (Septuagésima oitava alteração ao Código Civil)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6893",
+                "nome": "Maria Begonha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-09-18",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao regime do arrendamento urbano, Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19; Reforça a proteção do direito à habitação das pessoas idosas (Oitava alteração ao NRAU e primeira alteração à Lei n.º 13/2019, de 12 de fevereiro); Reconhecimento de contratos de arrendamento (Oitava alteração ao Novo Regime do Arrendamento Urbano); Pela estabilidade nos contratos de arrendamento (Septuagésima oitava alteração ao Código Civil)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6595",
+                "nome": "Márcia Passos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-09-18",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao regime do arrendamento urbano, Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19; Reforça a proteção do direito à habitação das pessoas idosas (Oitava alteração ao NRAU e primeira alteração à Lei n.º 13/2019, de 12 de fevereiro); Reconhecimento de contratos de arrendamento (Oitava alteração ao Novo Regime do Arrendamento Urbano); Pela estabilidade nos contratos de arrendamento (Septuagésima oitava alteração ao Código Civil)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6858",
+                "nome": "Diogo Pacheco de Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-09-18",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao regime do arrendamento urbano, Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19; Reforça a proteção do direito à habitação das pessoas idosas (Oitava alteração ao NRAU e primeira alteração à Lei n.º 13/2019, de 12 de fevereiro); Reconhecimento de contratos de arrendamento (Oitava alteração ao Novo Regime do Arrendamento Urbano); Pela estabilidade nos contratos de arrendamento (Septuagésima oitava alteração ao Código Civil)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6858",
+                "nome": "Diogo Pacheco de Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:01",
+            "horaTermo": "13:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_09_17_10_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-09-18",
+                "pubLeg": "XIV",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Alteração ao regime do arrendamento urbano, Altera o regime de arrendamento urbano e o regime excecional para as situações de mora no pagamento da renda no âmbito da pandemia COVID-19; Reforça a proteção do direito à habitação das pessoas idosas (Oitava alteração ao NRAU e primeira alteração à Lei n.º 13/2019, de 12 de fevereiro); Reconhecimento de contratos de arrendamento (Oitava alteração ao Novo Regime do Arrendamento Urbano); Pela estabilidade nos contratos de arrendamento (Septuagésima oitava alteração ao Código Civil)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1258648",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929420",
+        "obs": null,
+        "pag": [
+          "33-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-09-18",
+        "pubLeg": "XIV",
+        "pubNr": "3",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/003/2021-09-18/33?pgs=33-41&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
