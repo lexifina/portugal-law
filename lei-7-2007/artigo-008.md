@@ -6,7 +6,7 @@
 
 a) Os referidos no n.º 1 do artigo anterior, com excepção da alínea i);
 
-b) Morada;
+b) (Revogado.)
 
 c) Data de emissão;
 

@@ -22,4 +22,4 @@ g) Execução dos pedidos de activação e de revogação dos certificados digit
 
 h) Comunicação às autoridades policiais competentes do número de documento do cartão de cidadão cancelado por perda, furto ou roubo.
 
-3 - A recolha e o tratamento dos dados necessários às operações referidas no número anterior, com excepção da prevista na alínea c), só podem ser efectuados por entidades ou serviços do Estado e da Administração Pública, respectivos trabalhadores.
+3 - A recolha e o tratamento dos dados necessários às operações referidas no número anterior, com exceção da prevista na alínea c), só podem ser efetuados por entidades ou serviços do Estado e da Administração Pública e respetivo pessoal qualificado.

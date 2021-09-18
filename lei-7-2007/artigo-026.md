@@ -2,7 +2,7 @@
 
 ### Substituição do cartão de cidadão
 
-1 - O pedido de substituição do cartão de cidadão é efectuado junto de qualquer serviço de recepção nos seguintes casos e situações:
+1 - O pedido de renovação do cartão de cidadão é efetuado nos seguintes casos e situações:
 
 a) Decurso do prazo de validade;
 
