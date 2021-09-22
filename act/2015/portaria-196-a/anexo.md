@@ -150,7 +150,7 @@ Há lugar a uma redução de 10 % na comparticipação familiar mensal quando o 
 
 11.1.2 - O valor da comparticipação familiar mensal determina-se pela aplicação de uma percentagem ao rendimento per capita mensal do agregado familiar, definida pela instituição no respetivo regulamento interno, e quando o mesmo for omisso, aplicam-se supletivamente as seguintes percentagens:
 
-11.1.3 - Nas respostas sociais Creche e Creche Familiar, o pagamento devido aos agregados familiares que se enquadram no 1.º escalão de rendimento da comparticipação familiar e no 2.º escalão, para o segundo ou mais filhos, é suportado pelo Instituto da Segurança Social, I. P.
+11.1.3 - Nas respostas sociais Creche e Creche Familiar o pagamento devido pelos agregados familiares que se enquadram nos 1.º e 2.º escalões de rendimentos da comparticipação familiar é suportado pelo Instituto da Segurança Social, I. P., nos termos definidos através de portaria específica.
 
 (ver documento original)
 
