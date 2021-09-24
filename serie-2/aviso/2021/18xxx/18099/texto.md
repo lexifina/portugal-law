@@ -1,0 +1,12 @@
+Aviso n.º 18099/2021
+Sumário: Revogação do Plano de Pormenor do Parque Empresarial de Barrancos.
+João António Serranito Nunes, Presidente da Câmara Municipal de Barrancos, torna público, nos termos e para os efeitos da alínea a) do n.º 1 do artigo 35.º do Regime Jurídico das Autarquias Locais, na sua atual redação, que a Assembleia Municipal de Barrancos deliberou, por maioria dos presentes, em sessão ordinária realizada no dia 26 de dezembro de 2020, precedendo proposta da Câmara Municipal de Barrancos, aprovada em reunião ordinária de 27 de novembro de 2020 (deliberação n.º 156/CM/2020), aprovar a revogação total do Plano de Pormenor do Parque Empresarial de Barrancos, publicado através da Declaração n.º 226/2007, no Diário da República, 2.ª série, n.º 172, de 6 de setembro, alterado pelo Aviso n.º 13757/2011, publicado no Diário da República, 2.ª série, n.º 128, de 6 de junho.
+Para constar e devidos efeitos se publica o presente aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+7 de setembro de 2021. - O Presidente da Câmara Municipal de Barrancos, Dr. João António Serranito Nunes.
+Deliberação
+Francisco José Pelicano Rúbio, Técnico Superior da Secção de Recursos Humanos e Administração Geral da Unidade Administrativa e Financeira da Câmara Municipal de Barrancos:
+Deliberação n.º 37/AM/2020 - Apreciação e aprovação proposta da revogação do Plano de Pormenor do Parque Empresarial de Barrancos: Submetida à votação, com base na Informação n.º 122/2020/UOSU, de 20 de novembro, e sob proposta da Câmara Municipal, aprovada pela deliberação n.º 156/CM/2020, de 27 de novembro, a Assembleia Municipal de Barrancos deliberou, por maioria, com os votos a favor dos membros do PS e CDS-PP. PPD/PSD, aprovar, ao abrigo dos n.º 1 e 3 do artigo 127.º do RJIGT, conjugado com o n.º 1 do artigo 90.º, n.º 1 do mesmo diploma, e ainda nos termos das alíneas a) e k) do n.º 1 do artigo 33.º da Lei n.º 75/2013, de 12 de setembro, que aprova o Regime Jurídico das Autarquias Locais, revogar o Plano de Pormenor do Parque Empresarial de Barrancos e, subsequentemente, que esta deliberação seja objeto de publicitação no Diário da República, nos termos da alínea j) do n.º 4 do artigo 191.º em articulação com o n.º 3 do artigo 127.º do RJIGT,
+[...]
+Para constar passo a presente certidão que assino e autentico com o selo branco de uso neste Município.
+9 de abril de 2021. - O Técnico Superior, Francisco José Pelicano Rúbio.
+614551094
