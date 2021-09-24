@@ -6,8 +6,8 @@
 
 ### Registo e arquivo de documentos
 
-1 - O responsável pela carreira de tiro elabora mensalmente um registo nominal dos atiradores que frequentam as instalações, as armas utilizadas e, quando exigível, o número de disparos efectuados, bem como de todas as ocorrências que contrariem as normas previstas na lei e no presente regulamento, devendo o mesmo ser remetido por via electrónica à Direcção Nacional da PSP.
+1 - Os responsáveis pelos complexos, carreiras e campos de tiro ficam obrigados a inserir na plataforma eletrónica disponibilizada pela PSP um registo nominal dos atiradores que frequentam as instalações, as armas utilizadas e o número de disparos efetuados, bem como de todas as ocorrências que contrariem as normas previstas na lei e no presente regulamento.
 
-2 - Cabe ao responsável pela carreira de tiro, após cada sessão de tiro, preencher e carimbar o livro de registo de munições do respectivo atirador, quando exigível.
+2 - (Revogado.)
 
-3 - A pessoa, singular ou colectiva, titular dos alvarás e restantes licenças deve possuir nas instalações do complexo, carreiras e campos de tiro um processo, devidamente organizado, de onde constem todos os elementos relevantes que sejam condição do exercício da respectiva actividade.
+3 - A pessoa, singular ou coletiva, titular dos alvarás e restantes licenças deve possuir nas instalações do complexo, carreiras e campos de tiro um processo, devidamente organizado, de onde constem todos os elementos relevantes que sejam condição do exercício da respetiva atividade.

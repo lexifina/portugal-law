@@ -6,4 +6,4 @@
 
 ### Configuração
 
-As pistas de tiro das carreiras de tiro interiores para tiro dinâmico têm as mesmas características das pistas de tiro das carreiras de tiro exteriores para tiro dinâmico.
+As boxes de tiro das carreiras de tiro interiores para tiro dinâmico têm as mesmas caraterísticas das boxes de tiro das carreiras de tiro exteriores para tiro dinâmico, com exceção da altura média que não pode ser inferior a 2 m, devido à cobertura.
