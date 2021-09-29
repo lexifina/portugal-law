@@ -1,0 +1,142 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "114",
+    "id": "121135",
+    "titulo": "Transpõe a Diretiva (UE) 2019/790, relativa aos direitos de autor e direitos conexos no mercado único digital"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2021-09-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "61665",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-09-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2021-11-21",
+        "DatainicioApreciacaoPublica": "2021-10-22",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-10-11",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5445304e7a5a684f574d745a6d4e6b5a5330305a6a637a4c5467354e5455745a6a59774e324a6a4e57557a4e6d466d4c6e426b5a673d3d&fich=51476a9c-fcde-4f73-8955-f607bc5e36af.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-10-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer conjunto PPL 113 e PPL 114",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a6c6a5954686a4f444d744e6a42684f5330304d4445354c5467774d6a59745a6d5a684e7a4e6b593255795a4463774c6e426b5a673d3d&fich=39ca8c83-60a9-4019-8026-ffa73dce2d70.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7484",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Cultura e Comunicação",
+        "Numero": "7484",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2021-10-19",
+            "dataRemessa": "2021-10-19",
+            "numeroOficio": null,
+            "observacoes": "Parecer conjunto PPL 113 e PPL 114",
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2021-10-19",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> CDS-PP</I>",
+            "id": "91915",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "110",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2021-09-29",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1258962",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929849",
+        "obs": null,
+        "pag": [
+          "38-64"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-19",
+        "pubLeg": "XIV",
+        "pubNr": "21",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/03/021/2021-10-19/38?pgs=38-64&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
