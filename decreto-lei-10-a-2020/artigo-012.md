@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Suspensão de atividade letivas e não letivas
+
 ## Capítulo V
 
 ## Limitação de acesso a espaços frequentados pelo público
@@ -6,7 +10,7 @@
 
 ### Restrições de acesso a estabelecimentos
 
-1 - É suspenso o acesso ao público dos estabelecimentos de restauração ou de bebidas que disponham de espaços destinados a dança ou onde habitualmente se dance.
+1 - (Revogado.)
 
 2 - A afetação dos espaços acessíveis ao público dos demais estabelecimentos de restauração ou de bebidas e de estabelecimentos comerciais ou de serviços deve observar as regras de ocupação que vierem a ser definidas por portaria do membro do Governo responsável pela área da economia.
 

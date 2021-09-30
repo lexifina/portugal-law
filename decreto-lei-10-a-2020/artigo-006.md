@@ -6,14 +6,14 @@
 
 2 - Para efeitos do número anterior, consideram-se serviços essenciais das autarquias locais aqueles que, sendo prestados diretamente ou através de entidades por si detidas, decorram da Lei n.º 23/96, de 26 de julho, na sua redação atual, bem como as atividades essenciais da área da proteção civil, e na área social e da saúde, nomeadamente de apoio domiciliário a populações vulneráveis, pessoas idosas e pessoas com deficiência.
 
-3 - Até 31 de agosto de 2021, o membro do Governo responsável pela área da saúde pode, com faculdade de delegação, autorizar a constituição de novo vínculo de emprego a termo resolutivo incerto, para exercício de funções diretamente relacionadas com a pandemia da doença COVID-19, órgão, organismo, serviço e demais entidades, incluindo o setor público empresarial do Ministério da Saúde, sempre que essa contratação se mostre indispensável para fazer face a aumento excecional e temporário da atividade no âmbito da pandemia da doença COVID-19, incluindo para assegurar a execução do Plano de Vacinação COVID-19, com profissionais de saúde com contrato de trabalho a termo resolutivo certo ou incerto celebrado ao abrigo do regime excecional previsto no presente decreto-lei em execução a 30 de junho de 2021, ainda que para diferente entidade do Ministério da Saúde, enquanto aquela situação se mantiver, com dispensa do cumprimento de quaisquer outras formalidades.
+3 - (Revogado.)
 
-4 - A Administração Central do Sistema de Saúde, I. P., comunica mensalmente à Direção-Geral do Orçamento, para conhecimento, informação sobre os contratos a que se refere o número anterior.
+4 - (Revogado.)
 
-5 - O disposto no n.º 3 é aplicável, com as necessárias adaptações, à contratação de profissionais de saúde para a DGRSP, o INMLCF, I. P., o HFAR, o LMPQF e o IASFA, I. P., e respetivas renovações de contratos.
+5 - (Revogado.)
 
-6 - Os contratos a termo referidos no número anterior são autorizados, pelos membros do Governo responsáveis pelas áreas das finanças e, consoante o caso, da defesa nacional ou da justiça.
+6 - (Revogado.)
 
-7 - O disposto no artigo 22.º-A do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro, na sua redação atual, é aplicável a todos os profissionais em exercício de funções nos órgãos, organismos, serviços e demais entidades, incluindo o setor público empresarial, do Ministério da Saúde.
+7 - (Revogado.)
 
 8 - O regime constante do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, é aplicável sem sujeição aos limites de idade previstos no Estatuto da Aposentação, na sua redação atual.
