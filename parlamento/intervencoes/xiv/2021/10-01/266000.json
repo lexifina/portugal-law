@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=7vz42dekG7SvX%2bJCoI606%2bawj%2fX5VzWets1lObKDepdveONV1z3zBA3cO9lc957K5%2f9HlKJqmHedDhhMyhl2cw4SOzV7qsNm8CFmvLpT5RkqF9HjBDt%2f%2bX0OUM0cdjJwLTwyvrlp3ZMoTcIPfZTsIPJ7MWFPt2X%2bh0DQWsRjX6GyToHZHEfJiay2rPW9JT8dDQem39OFpKzbLyK%2b8DJ08rsf17Fviv%2fFFPxcpMyDb5w1tqdx45uTH13%2bLlwBj4kkTVZgL8HxkUlx96u3wzpvXKLMn7R8Tg9xl9SNSUxzXHSzTSYcy2rAL7Kr%2fWg%2fgF7nS%2fbFNRkzS6x92aIVDj1xOsuRFXDbkBrM5JpdPMk4cxk%3d&fich=IntervencoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "ac2343fce06e15e6ec675fd3460ca65b42c7cb3b7c35721a49abc1fc32427acb",
+  "legislatura": "XIV",
+  "id": "266000",
+  "tipo": "Intervenção",
+  "orador": "Carlos Brás (PS)",
+  "data_registo": "2021-10-01",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "116780",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "116780",
+        "tipo": "DEB",
+        "titulo": "Outros Debates - Debate com a participação do Governo, relativamente ao estado da União Europeia (nos termos da alínea c) do n.º 1 do artigo 4.º da Lei relativa ao Acompanhamento, Apreciação e Pronúncia, pela\nAssembleia da República, no âmbito do Processo de Construção da União Europeia)."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Debate com a participação do Governo, relativamente ao estado da União Europeia, conforme previsto na alínea c) do n.º 1 do artigo 4.º da Lei relativa ao Acompanhamento, Apreciação e Pronúncia pela Assembleia da República no âmbito do Processo de Construção da União Europeia.",
+        "duracao": "00:02:08:976",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_01_10_00_00_clean_14_plenario.xml&idsegmento=4"
+      }
+    ],
+    "DataReuniaoPlenaria": "2021-10-01",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "6661",
+      "nome": "Carlos Brás"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "266000",
+    "IdDebate": "6076",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "266000",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-02",
+        "pubLeg": "XIV",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/006/2021-10-02?org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "3",
+    "Sumario": "Debate com a participação do Governo, relativamente ao estado da União Europeia (nos termos da alínea c) do n.º 1 do artigo 4.º da Lei relativa ao Acompanhamento, Apreciação e Pronúncia, pela Assembleia da República, no âmbito do Processo de Construção da União Europeia).",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
