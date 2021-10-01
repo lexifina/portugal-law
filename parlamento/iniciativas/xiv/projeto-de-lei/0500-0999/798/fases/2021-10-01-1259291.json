@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "798",
+    "id": "110677",
+    "titulo": "Criminalização do enriquecimento injustificado (52.ª alteração ao Código Penal aprovado pelo Decreto-Lei n.º 48/95, de 15 de março e 7.ª alteração à Lei n.º 34/87, de 16 de julho)\n"
+  },
+  "fase": "Requerimento de adiamento de Votação (Generalidade)",
+  "codigo_fase": "195",
+  "data_registo": "2021-10-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "195",
+    "Comissao": null,
+    "DataFase": "2021-10-01",
+    "EvtId": "123",
+    "Fase": "Requerimento de adiamento de Votação (Generalidade)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1259291",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929839",
+        "obs": null,
+        "pag": [
+          "52-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-02",
+        "pubLeg": "XIV",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/006/2021-10-02/52?pgs=52&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-10-01",
+        "descricao": "Requerimento, apresentado pela Comissão de Transparência e Estatuto dos Deputados, a solicitar nova apreciação na generalidade por mais 90 dias, dos Projetos de Lei n.º s 798/XIV/2.ª (PCP); 805/XIV/2.ª (BE);  816/XIV/2.ª (PS); 843/XIV/2ª (PAN); 860/XIV/2.ª (PEV);  867/XIV/2.ª (CDS-PP);  874/XIV/2.ª (IL);  877/XIV/2.ª (PSD); e  881/XIV/2.ª (NiCR)\n ",
+        "detalhe": null,
+        "id": "91774",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "6",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
