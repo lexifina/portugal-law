@@ -1,0 +1,12 @@
+Aviso n.º 18659/2021
+Sumário: 5.ª alteração do Plano Diretor Municipal de Leiria - abertura de discussão pública.
+5.ª Alteração ao Plano Diretor Municipal
+Discussão Pública
+Anabela Graça, na qualidade de Vice-Presidente da Câmara Municipal de Leiria, nos termos e para efeitos do disposto nos n.os 1 e 2 do artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na sua atual redação dada pelo Decreto-Lei n.º 25/2021, de 29 de março, torna pública que a Câmara Municipal deliberou, por unanimidade na sua reunião de 14 de setembro de 2021, determinar a abertura de um período de discussão pública, pelo período de 30 dias, a contar do 5.º dia a seguir à publicação do presente aviso no Diário da República, relativa à 5.ª alteração ao Plano Diretor Municipal.
+Os interessados poderão, durante este período, proceder à formulação de sugestões bem como à apresentação de reclamações e observações, no sitio da internet, através de um link para o efeito, ou mediante requerimento dirigido ao Presidente da Câmara, devidamente identificado, a apresentar diretamente nos serviços da Câmara Municipal de Leiria, a enviar por meio de correio registado para a morada - Largo da República 2414-006 Leiria, ou remeter por via do correio eletrónico para o endereço cmleiria@cm-leiria.pt.
+Os interessados poderão consultar toda a informação referente ao assunto na Divisão de Planeamento, Ordenamento e Estratégia Territorial da Câmara Municipal de Leiria, localizada no Largo do Município, todos os dias úteis entre as 09:00 horas e as 16:30 horas ou na página eletrónica oficial do Município de Leiria na Internet com o site: https://www.cm-leiria.pt/areas-de-atividade/ordenamento-do-territorio-e-urbanismo/urbanismo-e-planeamento/plano-diretor-municipal/alteracoes-ao-pdm/pdm-5-alteracao.
+16 de setembro de 2021. - A Vice-Presidente da Câmara Municipal, Dr.ª Anabela Graça.
+Deliberação
+Anabela Graça, Vice-Presidente da Câmara Municipal de Leiria, torna público que a Câmara Municipal de Leiria, na sua reunião pública de 14 de setembro de 2021, deliberou por unanimidade, proceder à abertura de um período de Discussão Pública, nos termos do disposto nos n.os 1 e 2 do Regime Jurídico dos Instrumentos de Gestão Territorial, na sua redação atual dada pelo Decreto-Lei n.º 25/2021, de 29 de março, com duração 30 dias, contados a partir do 5.º dia útil a seguir à publicação do respetivo Aviso no Diário da República.
+Leiria, 16 de setembro de 2021. - A Vice-Presidente da Câmara Municipal de Leiria, Anabela Graça.
+614582328
