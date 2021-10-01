@@ -1,0 +1,8 @@
+Aviso n.º 18673/2021
+Sumário: Plano de Pormenor do Cruzamento de Almograve.
+Plano de Pormenor do Cruzamento de Almograve
+José Alberto Candeias Guerreiro, Presidente da Câmara Municipal de Odemira, torna público em cumprimento do disposto nos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015 de 14 de maio, na atual redação, o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), que por deliberação da Câmara Municipal de Odemira em reunião pública do Executivo Municipal de 16 de setembro de 2021, deliberou, por unanimidade, promover a Discussão Pública da proposta do «Plano de pormenor do Cruzamento de Almograve».
+A discussão pública encontra-se aberta por um período de 20 dias úteis, contados a partir do 5.º dia posterior ao da publicação do presente aviso na 2.ª série do Diário da República.
+Mais se informa que nos termos do n.º 1 do artigo 89.º, conjugado com o n.º 1 do artigo 192.º do RJIGT, que a proposta de Plano, a ata da conferência procedimental, e os demais pareceres emitidos no âmbito da concertação com as entidades, encontram-se disponíveis para consulta, pelos interessados, no Balcão Único do Município de Odemira, na Junta de Freguesia de Longueira-Almograve, todos os dias úteis durante as horas normais de expediente e, no sítio da internet www.cm-odemira.pt, podendo ser objeto de observações, reclamações e sugestões a apresentar por escrito em impresso próprio disponível nos locais da consulta, por correio eletrónico para geral@cm-odemira.pt ou por carta registada, dirigida ao Presidente da Câmara Municipal, para a Praça da República, 7630-139 Odemira.
+17 de setembro de 2021. - O Presidente da Câmara, Eng.º José Alberto Guerreiro.
+614582311
