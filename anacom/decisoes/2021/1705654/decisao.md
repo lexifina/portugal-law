@@ -1,0 +1,17 @@
+# Recuperação de direitos de utilização de números atribuídos à VOIP-IT
+
+Decisão de 2021-10-01 · publicado em 2021-10-07
+
+Por decisão de 1 de outubro de 2021, o Diretor-Geral de Regulação, no uso da competência delegada pelo Conselho de Administração da ANACOM, nos termos previstos na alínea i) do n.º 6 da Deliberação n.º 753/2021, publicada a 16 de julhohttps://www.anacom.pt/render.jsp?contentId=1678761 na 2.ª Série (Parte E) do Diário da República, determinou a recuperação, à VOIP-IT, Unipessoal dos direitos de utilização dos números 30550xxxx, com efeitos a 13 de julho de 2021.
+
+Foi ainda determinado dispensar a audiência prévia dos interessados, ao abrigo e nos termos da alínea f) do n.º 1 do artigo 124.º do Código do Procedimento Administrativo.
+
+Decisão de 01.10.2021
+
+(PDF 24 KB)
+
+## Documentos
+
+- [Decisão de 01.10.2021](https://www.anacom.pt/streaming/Decisao1outubro2021_VoipIT.pdf?contentId=1705651&field=ATTACHED_FILE)
+
+Fonte: https://www.anacom.pt/render.jsp?contentId=1705654
