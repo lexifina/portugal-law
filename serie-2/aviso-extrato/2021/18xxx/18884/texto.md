@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 18884/2021
+Sumário: Consulta pública da proposta do Regulamento de Concessão e Exploração dos Quiosques da Freguesia de Pedrouços.
+Nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo e do artigo 241.º da Constituição da República Portuguesa, torna-se público que a Freguesia de Pedrouços, em reunião do Executivo de 26 de agosto de 2021, deliberou submeter a consulta pública, pelo prazo de 30 dias úteis, a contar da data de publicação do presente Aviso na 2.ª série do Diário da República a Proposta de Regulamento de Concessão e Exploração dos Quiosques da Freguesia de Pedrouços, estando o texto disponível no sítio eletrónico da Freguesia ou presencialmente nos serviços de atendimento da Freguesia de Pedrouços, no período de 9h às 12h e das 14h às 17h.
+Os interessados poderão dirigir por escrito as suas sugestões endereçadas ao Presidente da Junta de Freguesia, sita na Avenida Nossa Senhora da Natividade, 250, 4425-671 Pedrouços, Maia ou remeter por correio eletrónico para o endereço mail@jf-pedroucos.pt, no período acima identificado.
+21 de setembro de 2021. - O Presidente da Junta de Freguesia de Pedrouços, Joaquim de Freitas Araújo.
+314590703
