@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-10-06, processo 0351/14.7BECBR
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0351/14.7BECBR
+
+**Data do Acordão:** 10/06/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FRANCISCO ROTHES
+
+**Descritores:** OPOSIÇÃO À EXECUÇÃO FISCAL; FALTA DE REQUISITOS ESSENCIAIS DO TÍTULO EXECUTIVO; ILEGALIDADE CONCRETA; PRESTAÇÕES COMPLEMENTARES DE SEGURANÇA SOCIAL; REPOSIÇÃO DE QUANTIAS; PRESCRIÇÃO
+
+**Nº Convencional:** JSTA000P28213
+
+**Nº do Documento:** SA2202110060351/14
+
+**Data de Entrada:** 05/18/2021
+
+**Recorrente:** A........
+
+**Recorrido 1:** INSTITUTO DE GESTÃO FINANCEIRA DA SEGURANÇA SOCIAL, I.P. - SECÇÃO PROCESSOS COIMBRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A falta de requisitos essenciais do título executivo, que, quando não puder ser suprida por prova documental, constitui nulidade insanável do processo de execução fiscal – art. 165.º, n.º 1, alínea b), do CPPT –, não constitui fundamento de oposição, não sendo enquadrável na alínea i) do n.º 1 do art. 204.º do mesmo Código.
+
+II - A ilegalidade em concreto do acto que deu origem à dívida exequenda só é admitida como fundamento de oposição à execução fiscal nas raras situações em que «a lei não assegure meio judicial de impugnação ou recurso contra o acto de liquidação» [cf. alínea h) do art. 204.º, n.º 1, do CPPT], ou seja, quando a dívida exequenda não tenha origem em acto tributário ou administrativo prévio.
+
+III - O prazo de prescrição da obrigação de restituição das quantias indevidamente recebidas a título de prestações da Segurança Social está previsto no art. 13.º do Decreto-Lei n.º 133/88, de 20 de Abril, e era de 10 anos até 16 de Maio de 2018, data em que passou a ser de 5 anos, por força da alteração que lhe foi introduzida pelo n.º 1 do art. 149.º do Decreto-Lei n.º 33/2018, de 15 de Maio, contando-se o novo prazo a partir da entrada em vigor deste diploma, mas atendendo-se ao tempo até então decorrido do prazo anterior, nos termos do n.º 2 do referido art. 149.º ainda do mesmo diploma.
+
+IV - A contagem desse prazo inicia-se com a interpelação para restituir (cf. art. 13.º do Decreto-Lei n.º 133/88, de 20 de Abril) e interrompe-se, com efeitos duradouros, com a citação do devedor (cf. art. 327.º, n.º 1, do CC).
