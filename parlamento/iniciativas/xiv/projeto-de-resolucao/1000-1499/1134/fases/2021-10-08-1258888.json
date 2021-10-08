@@ -1,0 +1,1177 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1134",
+    "id": "110555",
+    "titulo": "Recomenda ao Governo a construção de um novo Centro de Saúde na Quinta do Conde, Sesimbra"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2021-10-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17607",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2021-10-08",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110449",
+        "leg": "XIV",
+        "nr": "1064",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Construção de um novo Centro de Saúde na Quinta do Conde, em Sesimbra"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110534",
+        "leg": "XIV",
+        "nr": "1120",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110547",
+        "leg": "XIV",
+        "nr": "1127",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Construção de um novo Centro de Saúde e Serviço de Urgência Básica na Quinta do Conde"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110699",
+        "leg": "XIV",
+        "nr": "1212",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a construção de um novo Centro de Saúde na Quinta do Conde, concelho de Sesimbra"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "110727",
+        "leg": "XIV",
+        "nr": "1231",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6117",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-09",
+            "pubLeg": "XIV",
+            "pubNr": "9",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Construção de um novo Centro de Saúde na freguesia da Quinta do Conde, no concelho de Sesimbra"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-10-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4162",
+                "nome": "Moisés Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=27"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Construção de um novo centro de saúde na Quinta do Conde, em Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde e serviço de urgência básica na Quinta do Conde; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde na freguesia da Quinta do Conde, no concelho de Sesimbra",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6909",
+                "nome": "Fernanda Velez"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=28"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/29?pgs=29-30,35-36&org=PLC"
+              }
+            ],
+            "sumario": "Construção de um novo centro de saúde na Quinta do Conde, em Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde e serviço de urgência básica na Quinta do Conde; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde na freguesia da Quinta do Conde, no concelho de Sesimbra",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Ninsc",
+                "idCadastro": "6547",
+                "nome": "Cristina Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Construção de um novo centro de saúde na Quinta do Conde, em Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde e serviço de urgência básica na Quinta do Conde; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde na freguesia da Quinta do Conde, no concelho de Sesimbra",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "7115",
+                "nome": "Miguel Arrobas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=30"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/30?pgs=30-31,36&org=PLC"
+              }
+            ],
+            "sumario": "Construção de um novo centro de saúde na Quinta do Conde, em Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde e serviço de urgência básica na Quinta do Conde; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde na freguesia da Quinta do Conde, no concelho de Sesimbra",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Construção de um novo centro de saúde na Quinta do Conde, em Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde e serviço de urgência básica na Quinta do Conde; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde na freguesia da Quinta do Conde, no concelho de Sesimbra",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Construção de um novo centro de saúde na Quinta do Conde, em Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde e serviço de urgência básica na Quinta do Conde; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde na freguesia da Quinta do Conde, no concelho de Sesimbra",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6048",
+                "nome": "Ivan Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/33?pgs=33-35&org=PLC"
+              }
+            ],
+            "sumario": "Construção de um novo centro de saúde na Quinta do Conde, em Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde e serviço de urgência básica na Quinta do Conde; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde na freguesia da Quinta do Conde, no concelho de Sesimbra",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6549",
+                "nome": "Bebiana Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_08_10_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-09",
+                "pubLeg": "XIV",
+                "pubNr": "9",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Construção de um novo centro de saúde na Quinta do Conde, em Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde e serviço de urgência básica na Quinta do Conde; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, Sesimbra; Recomenda ao Governo a construção de um novo centro de saúde na Quinta do Conde, concelho de Sesimbra; Construção de um novo centro de saúde na freguesia da Quinta do Conde, no concelho de Sesimbra",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1258888",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIV",
+        "nr": "41",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Construção de um novo Centro de Saúde na freguesia da Quinta do Conde, concelho de Sesimbra, com um serviço de urgência básica"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929604",
+        "obs": null,
+        "pag": [
+          "27-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-09",
+        "pubLeg": "XIV",
+        "pubNr": "9",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/27?pgs=27-36&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
