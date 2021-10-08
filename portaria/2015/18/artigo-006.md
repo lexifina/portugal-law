@@ -6,7 +6,7 @@
 
 a) Tenham por objeto a cobertura de perdas resultantes de um acontecimento climático adverso, de uma doença dos animais ou das plantas, de uma praga ou de um acidente ambiental, como tal reconhecido oficialmente, ou de uma medida adotada em conformidade com a Diretiva 2000/29/CE, do Conselho, de 8 de maio, para erradicar ou circunscrever uma doença das plantas ou praga;
 
-b) Prevejam um prejuízo mínimo indemnizável superior a 30% da respetiva produção anual média do agricultor nos três anos anteriores ou da sua produção média em três dos cinco anos anteriores, excluindo o valor mais alto e o valor mais baixo;
+b) Prevejam um prejuízo mínimo indemnizável superior a 20 % da respetiva produção anual média do agricultor, calculada nos termos das alíneas a) ou b) do n.º 3 do artigo 13.º da Portaria n.º 65/2014, na sua redação atual.
 
 c) Incluam todas as parcelas de cada cultura segura de que o candidato seja titular, desde que inseridas na mesma unidade de produção.
 

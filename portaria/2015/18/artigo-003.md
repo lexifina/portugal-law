@@ -8,7 +8,7 @@ a) 'Agricultor ativo', a pessoa singular ou coletiva, de natureza pública ou pr
 
 b) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;
 
-c) «Acontecimento climático adverso», condições climáticas que podem ser equiparadas a catástrofes naturais, como a geada, as tempestades, o granizo, o gelo, chuvas fortes ou secas graves, que destruam mais de 30% da produção anual média de um dado agricultor, calculados com base no período anterior de três anos, ou da sua produção média trienal baseada no período anterior de cinco anos, com exclusão dos valores mais alto e mais baixo;
+c) «Acontecimento climático adverso», condições climáticas que podem ser equiparadas a catástrofes naturais, como a geada, as tempestades, o granizo, o gelo, chuvas fortes ou secas graves;
 
 d) «Acidente ambiental», uma ocorrência específica de poluição, contaminação ou degradação da qualidade do ambiente, que está relacionada com um acontecimento específico e de âmbito geográfico limitado, não abrangendo os riscos ambientais gerais não relacionados com um acontecimento específico, como as alterações climáticas ou a poluição atmosférica;
 
