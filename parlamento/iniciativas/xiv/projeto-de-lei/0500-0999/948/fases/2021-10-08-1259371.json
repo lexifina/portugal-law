@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "948",
+    "id": "121124",
+    "titulo": "Alarga e garante a atribuição da licença parental inicial igualitária em termos de género, às famílias monoparentais e por via da adoção, alarga a licença inicial exclusiva do pai e a dispensa para amamentação, aleitação e acompanhamento da criança, (vigésima primeira alteração à Lei n.º 7/2009 de 12 de fevereiro, quinta alteração ao Decreto-Lei n.º 89/2009, de 9 de abril e sexta alteração ao Decreto-Lei n.º 91/2009 de 9 de abril)"
+  },
+  "fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+  "codigo_fase": "237",
+  "data_registo": "2021-10-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6a4e6c4d5455334f4467745a545a694d5330304f4459314c57497a5a6a51744f44566a4d475a6b4e57466c597a6b314c6e426b5a673d3d&fich=63e15788-e6b1-4865-b3f4-85c0fd5aec95.pdf&Inline=true",
+        "anexoNome": "Requerimento apresentado pelo BE"
+      }
+    ],
+    "CodigoFase": "237",
+    "Comissao": null,
+    "DataFase": "2021-10-08",
+    "EvtId": "122",
+    "Fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1259371",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929498",
+        "obs": null,
+        "pag": [
+          "40-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-09",
+        "pubLeg": "XIV",
+        "pubNr": "9",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/009/2021-10-09/40?pgs=40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-10-08",
+        "descricao": "Requerimento, apresentado pelo CDS-PP, de baixa à Comissão de Trabalho e Segurança Social sem votação, pelo prazo de 60 dias, do Projeto de Lei n.º 622/XIV/2.ª (CDS-PP)",
+        "detalhe": null,
+        "id": "91825",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
