@@ -6,7 +6,7 @@
 
 ### Função do relator
 
-1 - O juiz a quem o processo for distribuído fica a ser o relator, incumbindo-lhe deferir todos os termos do recurso até final, designadamente:
+1 - Ao relator incumbe deferir todos os termos do recurso até final, designadamente:
 
 a) Corrigir o efeito atribuído ao recurso e o respetivo modo de subida, ou convidar as partes a aperfeiçoar as conclusões das respetivas alegações, nos termos do n.º 3 do artigo 639.º;
 

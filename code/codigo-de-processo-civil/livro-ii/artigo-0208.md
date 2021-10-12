@@ -2,4 +2,4 @@
 
 ### Periodicidade da distribuição
 
-A distribuição é efetuada duas vezes por dia, de forma automática.
+A distribuição é efetuada uma vez por dia, de forma eletrónica.
