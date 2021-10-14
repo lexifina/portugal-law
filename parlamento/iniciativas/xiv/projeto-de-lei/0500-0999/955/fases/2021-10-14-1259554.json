@@ -1,0 +1,422 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "955",
+    "id": "121143",
+    "titulo": "Repõe o valor do trabalho suplementar e o descanso compensatório, aprofundando a recuperação de rendimentos e contribuindo para a criação de emprego, procedendo no setor público e privado"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-10-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17663",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-10-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "44017",
+        "leg": "XIV",
+        "nr": "44",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6121",
+            "obs": null,
+            "pag": [
+              "27-34"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-15",
+            "pubLeg": "XIV",
+            "pubNr": "11",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/011/2021-10-15/27?pgs=27-34&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Repõe os valores de pagamento do trabalho suplementar, para todos os trabalhadores (16.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho e da 11.ª alteração à Lei n.º 35/2014, de 20 de junho, que aprova a Lei Geral do Trabalho em Funções Públicas)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-10-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_14_15_00_00_clean_14_plenario.xml&idsegmento=30"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_14_15_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245379",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/011/2021-10-15/27?pgs=27-28,34&org=PLC"
+              }
+            ],
+            "sumario": "Repõe os valores de pagamento do trabalho suplementar para todos os trabalhadores (décima sexta alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho, e décima primeira alteração à Lei n.º 35/2014, de 20 de junho, que aprova a Lei Geral do Trabalho em Funções Públicas; Repõe o valor do trabalho suplementar e o direito ao descanso compensatório, aprofundando a recuperação de rendimentos e contribuindo para a criação de emprego, procedendo no setor público e privado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_14_15_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245380",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/011/2021-10-15/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Repõe os valores de pagamento do trabalho suplementar para todos os trabalhadores (décima sexta alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho, e décima primeira alteração à Lei n.º 35/2014, de 20 de junho, que aprova a Lei Geral do Trabalho em Funções Públicas; Repõe o valor do trabalho suplementar e o direito ao descanso compensatório, aprofundando a recuperação de rendimentos e contribuindo para a criação de emprego, procedendo no setor público e privado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6896",
+                "nome": "Nelson Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_14_15_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/011/2021-10-15/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Repõe os valores de pagamento do trabalho suplementar para todos os trabalhadores (décima sexta alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho, e décima primeira alteração à Lei n.º 35/2014, de 20 de junho, que aprova a Lei Geral do Trabalho em Funções Públicas; Repõe o valor do trabalho suplementar e o direito ao descanso compensatório, aprofundando a recuperação de rendimentos e contribuindo para a criação de emprego, procedendo no setor público e privado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4147",
+                "nome": "Carla Barros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_14_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/011/2021-10-15/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Repõe os valores de pagamento do trabalho suplementar para todos os trabalhadores (décima sexta alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho, e décima primeira alteração à Lei n.º 35/2014, de 20 de junho, que aprova a Lei Geral do Trabalho em Funções Públicas; Repõe o valor do trabalho suplementar e o direito ao descanso compensatório, aprofundando a recuperação de rendimentos e contribuindo para a criação de emprego, procedendo no setor público e privado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4429",
+                "nome": "Pedro Morais Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_14_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245383",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/011/2021-10-15/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Repõe os valores de pagamento do trabalho suplementar para todos os trabalhadores (décima sexta alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho, e décima primeira alteração à Lei n.º 35/2014, de 20 de junho, que aprova a Lei Geral do Trabalho em Funções Públicas; Repõe o valor do trabalho suplementar e o direito ao descanso compensatório, aprofundando a recuperação de rendimentos e contribuindo para a criação de emprego, procedendo no setor público e privado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7212",
+                "nome": "Fernando José"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_14_15_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-15",
+                "pubLeg": "XIV",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/011/2021-10-15/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Repõe os valores de pagamento do trabalho suplementar para todos os trabalhadores (décima sexta alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho, e décima primeira alteração à Lei n.º 35/2014, de 20 de junho, que aprova a Lei Geral do Trabalho em Funções Públicas; Repõe o valor do trabalho suplementar e o direito ao descanso compensatório, aprofundando a recuperação de rendimentos e contribuindo para a criação de emprego, procedendo no setor público e privado",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1259554",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929634",
+        "obs": null,
+        "pag": [
+          "27-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-15",
+        "pubLeg": "XIV",
+        "pubNr": "11",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/011/2021-10-15/27?pgs=27-34&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
