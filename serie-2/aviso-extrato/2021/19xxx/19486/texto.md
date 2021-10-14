@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 19486/2021
+Sumário: Consulta pública do projeto de Regulamento para os Cargos de Direção Intermédia de 3.º Grau do Município de Vila Verde.
+António Fernando Nogueira Cerqueira Vilela, Presidente da Câmara Municipal de Vila Verde, torna público, nos termos do disposto na alínea t), do n.º 1 do artigo 35.º, conjugado com o artigo 56.º, ambos do Anexo I, da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, em reunião ordinária realizada em 22 de setembro de 2021, deliberou, por unanimidade, submeter a consulta pública, nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, o "Projeto de Regulamento para os Cargos de Direção Intermédia de 3.º Grau do Município de Vila Verde".
+Mais torna público, que o Projeto do citado Regulamento se encontra em consulta pública pelo prazo de trinta dias úteis, a contar da data da publicação do presente aviso no Diário da República, podendo o mesmo ser consultado, em versão integral, na página da internet do Município (www.cm-vilaverde.pt) e no Balcão Único de Atendimento do Município de Vila Verde, durante o horário normal de expediente.
+Por último, torna público que as eventuais observações ou sugestões tidas por convenientes devem ser formuladas por escrito até ao final do mencionado período, em requerimento dirigente ao Presidente da Câmara Municipal de Vila Verde.
+24 de setembro de 2021. - O Presidente da Câmara Municipal, Dr. António Fernando Nogueira Cerqueira Vilela.
+314613967
