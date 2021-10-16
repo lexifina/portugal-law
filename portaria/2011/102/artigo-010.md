@@ -6,7 +6,7 @@
 
 2 - Da importância prevista no número anterior poderá ser destinada a um fundo especial para jackpots a percentagem que venha a ser definida legalmente.
 
-3 - Da importância para prémios 10 % destinam-se à constituição e manutenção de um fundo que garante o valor mínimo de (euro) 1 000 000 para o 1.º prémio e assegura, quando necessário, o direito ao pagamento dos prémios da categoria especial de prémios, denominada «Número da Sorte».
+3 - Da importância para prémios, 10 % destinam-se à constituição e manutenção de um fundo que garanta o valor mínimo de 1 000 000,00 (euro) para o primeiro prémio, assegure, quando necessário, o direito ao pagamento dos prémios da categoria especial de prémios, denominada 'Número da Sorte' e, ainda, quando o Departamento de Jogos o determine, seja utilizado para incrementar o valor do primeiro prémio ou de outras categorias de prémios a concurso.
 
 4 - A importância destinada a prémios, depois de deduzidos os montantes referidos nos números anteriores, é dividida em seis partes, na forma seguinte:
 
