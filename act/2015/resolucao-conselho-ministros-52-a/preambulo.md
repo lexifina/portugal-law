@@ -62,7 +62,9 @@ i) Prestação de apoio técnico às autoridades de gestão dos PO financiadores
 
 j) Elaboração da estratégia e do programa de comunicação do IFFRU 2020, a propor ao Comité de Investimento, e respetiva execução, em articulação com as instituições representadas neste Comité e com as entidades gestoras dos fundos retalhistas regionais;
 
-k) Prestação de apoio técnico às entidades gestoras dos fundos retalhistas regionais.
+k) Prestação de apoio técnico às entidades gestoras dos fundos retalhistas regionais;
+
+l) Prestação de apoio técnico para definição e implementação de novas formas de financiamento para a habitação, reabilitação e regeneração urbana.
 
 3 - Determinar que a Estrutura de Gestão do IFRRU 2020 integra uma comissão diretiva, composta por um presidente e dois vogais executivos, e um secretariado técnico, integrando este um máximo de oito elementos, sendo um deles coordenador de projeto e os demais técnicos superiores, assistentes técnicos e assistentes operacionais.
 
