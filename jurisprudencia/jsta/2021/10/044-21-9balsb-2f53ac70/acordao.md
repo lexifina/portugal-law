@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-10-20, processo 044/21.9BALSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 044/21.9BALSB
+
+**Data do Acordão:** 10/20/2021
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** JOSÉ GOMES CORREIA
+
+**Descritores:** DECISÃO ARBITRAL; RECURSO PARA UNIFORMIZAÇÃO DE JURISPRUDÊNCIA; REQUISITOS; ADMISSIBILIDADE
+
+**Nº Convencional:** JSTA000P28334
+
+**Nº do Documento:** SAP20211020044/21
+
+**Data de Entrada:** 03/25/2021
+
+**Recorrente:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** Z..............., S.G.P.S., S.E.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - De conformidade com o disposto no nº 2 do art. 25º do RJAT a decisão arbitral sobre o mérito da pretensão deduzida que ponha termo ao processo arbitral é susceptível de recurso para o Supremo Tribunal Administrativo quando esteja em oposição, quanto à mesma questão fundamental de direito, com acórdão proferido pelo Tribunal Central Administrativo ou pelo Supremo Tribunal Administrativo.
+
+II - A este recurso é aplicável, com as necessárias adaptações, o regime do recurso para uniformização de jurisprudência regulado no artigo 152º do Código de Processo nos Tribunais Administrativos, sendo requisito para a sua admissibilidade a existência de contradição sobre a mesma questão fundamental de direito entre a decisão recorrida e o acórdão fundamento.
+
+III - Quando em ambas as decisões em confronto a diversa solução jurídica a que chegaram decorre da diversidade dos factos apurados e não de qualquer diversa solução jurídica, não se mostram reunidos os requisitos do recurso para uniformização de jurisprudência previsto nos arts. 25º, nº 2 do RJAT - e no 152º do Código de Processo nos Tribunais Administrativos, pelo que inviabilizada está a possibilidade de tomar conhecimento do mérito do recurso.
+
+IV - O que ocorre no caso concreto em que se trata do pedido de uniformização de jurisprudência, no qual, por força dos diferenciados quadros jurídicos aplicáveis, as questões jurídicas que os acórdãos em confronto enfrentaram manifestamente não são idênticos, porquanto (i) no acórdão fundamento, foi examinada uma situação atinente a um acto de liquidação adicional de IRC de 2007 e respectivos juros compensatórios, que foram originados numa acção inspectiva mas em cujo RI foi vazada a fundamentação dos juros compensatórios, contendo, mesmo na parte não anulada, a descrição dos factos imputados ao sujeito passivo e que sustentaram as correcções e conduziram ao retardamento da liquidação, bem como a sua qualificação como um comportamento ilícito, não faltando sequer a referência ao seu enquadramento legal como um ilícito contra-ordenacional considerando-se, por isso, que não padecia de falta de fundamentação a liquidação dos juros compensatórios; e (ii) no acórdão arbitral recorrido, a entidade decidente limitou-se a demonstrar a legalidade do acto de liquidação, daí extrapolando os fundamentos para a liquidação de juros compensatórios, sem externar as razões de facto e de direito que justificavam que estes últimos fossem devidos, sendo manifesto que o RI não inclui quaisquer factos que fundamentem a actuação culposa do contribuinte não permitindo afirmar a existência de um nexo de causalidade entre a actuação do sujeito passivo e o atraso na liquidação, escusando-se a AT de apreciar nem demonstrar o dolo ou a negligência na actuação imputada àquele.
