@@ -1,0 +1,14 @@
+Aviso n.º 19752/2021
+Sumário: Prorrogação do prazo de elaboração da segunda alteração do Plano de Urbanização da Zona Industrial de Loureiro.
+Prorrogação do prazo de elaboração da segunda alteração do Plano de Urbanização da Zona Industrial de Loureiro
+Joaquim Jorge Ferreira, Presidente da Câmara Municipal de Oliveira de Azeméis, torna público, nos termos do n.º 6 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal, na reunião ordinária pública realizada em 23/09/2021, deliberou aprovar a prorrogação do prazo de elaboração da segunda alteração do Plano de Urbanização da Zona Industrial de Loureiro, estabelecido inicialmente pelo Aviso n.º 3006/2021, publicado na 2.ª série do Diário da República, n.º 34, de 18 de fevereiro de 2021, pelo período máximo legalmente admitido, isto é, por mais 6 meses, a contar da data do fim do prazo anteriormente estabelecido, acrescido do período correspondente à vigência da suspensão decorrente das medidas de resposta à COVID-19, pelo que, a deliberação produz efeitos a contar de 4 de outubro de 2021.
+Os interessados poderão consultar a referida deliberação no sítio da internet do Município em www.cm-oaz.pt, bem como, no serviço de Planeamento e Projetos, no edifício Bento Carqueja, sito na Rua Bento Carqueja, n.º 41.
+O presente Aviso será identicamente publicado na comunicação social, na plataforma colaborativa de gestão territorial, no sítio da internet do Município de Oliveira de Azeméis e afixado nos locais de estilo.
+30 de setembro de 2021. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, eng.
+Deliberação
+A Câmara Municipal, na sua reunião ordinária pública realizada em 23 de setembro de 2021, deliberou por unanimidade o seguinte:
+A) Aprovar a prorrogação do prazo de elaboração da segunda alteração do Plano de Urbanização da Zona Industrial de Loureiro, pelo período máximo legalmente admitido, isto é, por mais 6 meses, a contar da data do fim do prazo anteriormente estabelecido acrescido do período correspondente à vigência da suspensão, pelo que, a deliberação produz efeitos a contar de 4 de outubro de 2021, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio;
+B) Proceder à publicação desta deliberação no Diário da República e à sua divulgação através da comunicação social, da plataforma colaborativa de gestão territorial e no sítio da internet da Câmara Municipal de Oliveira de Azeméis, conforme o disposto no n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio;
+C) Dar conhecimento da deliberação que recair sobre a presente proposta à Comissão de Coordenação e Desenvolvimento Regional do Norte.
+30 de setembro de 2021. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, eng.
+614625306
