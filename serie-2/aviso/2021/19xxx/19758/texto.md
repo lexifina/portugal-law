@@ -1,0 +1,32 @@
+Aviso n.º 19758/2021
+Sumário: Alteração do Plano de Pormenor da Zona Industrial da Serrada Grande/GERIPARQUE.
+Torna-se público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, na atual redação, que a Câmara Municipal deliberou, por maioria absoluta, em reunião pública, de 9 de setembro de 2021, determinar o início do procedimento relativo à alteração do Plano de Pormenor da Zona Industrial da Serrada Grande/Geriparque (PPZISG/G), publicado no Diário da República através do edital n.º 1274/2010, de 28 de dezembro e posteriormente republicado no Diário da República, sob o Edital n.º 404/2011, de 2 de maio, o qual deverá estar concluído no prazo de 12 meses.
+A alteração tem por objetivos:
+Constituição de um lote destinado a Indústria/Logística/Serviços/Comércio, resultante do emparcelamento dos lotes 70, 71, 72, 58, 59, 37, 38, 39, 62 e 63 (com consequente alteração do uso previsto para os lotes 58 e 59);
+Alteração do traçado ao longo de um troço da Rua C que serve, atualmente os lotes 58, 59, 37, 38, 39 (abrangidos pelo emparcelamento) e 40, 41, 60 e 61;
+Alteração do uso previsto nos lotes 58 e 59 e, eventualmente, em dois lotes do conjunto formado pelos n.os 40, 41, 60 e 61.
+Mais deliberou a Câmara Municipal de Torres Novas celebrar um contrato para planeamento para a elaboração da alteração do Plano de Pormenor da Zona Industrial da Serrada Grande/Geriparque, aprovar a minuta de contrato e determinar um período de discussão pública, relativa ao contrato e à deliberação, pelo prazo de 10 dias.
+Para a participação pública relativa ao procedimento de alteração do PPZISG/G, nos termos do n.º 2 do artigo 88.º do mesmo diploma, é estabelecido o período de 15 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar os termos de referência e a minuta de proposta de contrato na página da internet oficial do Município de Torres Novas, em http://www.cm-torresnovas.pt ou no Serviço de Sistemas de Informação Geográfica e Planeamento Urbanístico da Divisão de Administração Urbanística da Câmara Municipal de Torres Novas, durante as horas normais de expediente e mediante marcação prévia.
+A formulação de sugestões e a apresentação de informações ou pedidos de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, devem ser feitas por escrito, dentro do período atrás referido, e dirigidas ao Exmo. Senhor Presidente da Câmara Municipal de Torres Novas, utilizando impresso próprio, que poderá ser obtido na Câmara Municipal ou na página da internet http://www.cm-torresnovas.pt, e apresentadas presencialmente nas instalações desta Câmara Municipal ou enviadas por correio postal para a morada rua General António César de Vasconcelos Correia, 2350-421 Torres Novas ou por correio eletrónico para planeamentourbanistico@cm-torresnovas.pt.
+6 de outubro de 2021. - O Presidente da Câmara Municipal, Pedro Paulo Ramos Ferreira.
+Deliberação
+Reunião ordinária pública da Câmara Municipal celebrada em nove de setembro de dois mil e vinte um
+Proposta de alteração do Plano de Pormenor da Zona Industrial da Serrada Grande/Geriparque (PPZISG/G)
+Acerca do assunto supracitado, foram presentes as informações n.os I/38547/2021, I/38443/2021 e I/38456/2021 (Anexo 24).
+Após análise, a Câmara deliberou, por maioria absoluta, com cinco votos a favor (Sr. Presidente, Srs. Vereadores Luís Silva, Elvira Sequeira, Joaquim Cabral, Carlos Ramos), um voto contra (Sra. Vereadora Helena Pinto) e uma abstenção (Sr. Vereador João Quaresma):
+1 - Aprovar a abertura de procedimento de alteração do Plano de Pormenor da Zona Industrial da Serrada Grande/Geriparque e a aprovação dos respetivos Termos de Referência;
+2 - Aprovar a não qualificação da alteração do Plano de Pormenor para Avaliação Ambiental Estratégica, conforme Termos de Referência;
+3 - Determinar a abertura de um período de participação pública inicial pelo prazo de 15 dias, para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração;
+4 - Determinar a fixação do prazo de 12 meses para a conclusão do procedimento de alteração do Plano de Pormenor da Zona Industrial da Serrada Grande/Geriparque, prorrogável nos termos do n.º 6 do artigo 76.º do RJIGT;
+5 - Aprovar a proposta de Contrato para Planeamento (minuta), considerando os Termos de Referência;
+6 - Determinar a abertura de um período de discussão pública, relativa ao Contrato e à deliberação, pelo prazo de 10 dias.
+Esta deliberação foi aprovada em minuta, para efeitos imediatos.
+O Sr. Vereador João Quaresma apresentou a seguinte declaração de voto:
+"A GERIPARQUE - Parque de Negócios de Torres Novas, S. A., é uma sociedade anónima que se dedica à promoção imobiliária e desenvolvimento de projetos de edifícios, na qual o Município de Torres Novas tem participação social. São proprietários de um vasto conjunto de terrenos junto à zona industrial de Torres Novas há largos anos, sem que nunca tenham tido qualquer intervenção no terreno, isto é, no mínimo realizar qualquer uma das obras de loteamento do denominado Geriparque, infraestruturando e adequando o local para a instalação de empresas.
+Ainda assim, fazendo negócios pontuais, como foi o caso de venda de lotes, melhor dizendo parcelas de terreno, para o alargamento da base logística do LIDL.
+Há agora necessidade de regularizar esta e outras situações com a consequente alteração do plano de pormenor do local.
+Uma vez mais, assunto pertinente e de importância, deixado para a ultima reunião de câmara do mandato, o que não tem justificação".
+A Sra. Vereadora Helena Pinto apresentou a seguinte declaração de voto:
+"Mais uma vez estamos perante um assunto complexo onde não se explica a falta de execução do Plano de Pormenor, nem as condições em que serão feitas as alterações agora propostas. Não se fala da Declaração de Impacte Ambiental para esta área que já existe, não se anexa a certidão de plano emitida em 2012, de modo a ser percetível tudo o que este Plano envolve e as alterações em concreto. O BE só pode votar contra, pelo facto de estarmos a debater este assunto na última reunião do mandato e pela ausência de informação."
+24 de setembro de 2021. - O Presidente da Câmara Municipal de Torres Novas, Pedro Paulo Ramos Ferreira. - A Secretária, Ana Maria Sobral Carvalho Martins.
+614631235
