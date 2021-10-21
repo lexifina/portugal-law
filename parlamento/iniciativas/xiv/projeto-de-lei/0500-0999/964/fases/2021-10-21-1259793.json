@@ -1,0 +1,479 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "964",
+    "id": "121152",
+    "titulo": "Estabelece o reforço e avaliação da implementação e execução do Programa de Apoio à Redução do Tarifário dos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTRANSP)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17691",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-10-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "43953",
+        "leg": "XIV",
+        "nr": "9",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6128",
+            "obs": null,
+            "pag": [
+              "27-36"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-10-22",
+            "pubLeg": "XIV",
+            "pubNr": "14",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/27?pgs=27-36&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece o regime de financiamento permanente do Programa de Apoio à Redução Tarifária nos transportes públicos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-10-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-22",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/27?pgs=27-28,36&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de financiamento permanente do Programa de Apoio à Redução Tarifária nos Transportes Públicos; Estabelece o reforço e a avaliação da implementação e execução do Programa de Apoio à Redução do Tarifário nos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTransP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6896",
+                "nome": "Nelson Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245445",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29",
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-22",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/29?pgs=29,35&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de financiamento permanente do Programa de Apoio à Redução Tarifária nos Transportes Públicos; Estabelece o reforço e a avaliação da implementação e execução do Programa de Apoio à Redução do Tarifário nos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTransP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245446",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-22",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de financiamento permanente do Programa de Apoio à Redução Tarifária nos Transportes Públicos; Estabelece o reforço e a avaliação da implementação e execução do Programa de Apoio à Redução do Tarifário nos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTransP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245448",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-22",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de financiamento permanente do Programa de Apoio à Redução Tarifária nos Transportes Públicos; Estabelece o reforço e a avaliação da implementação e execução do Programa de Apoio à Redução do Tarifário nos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTransP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6050",
+                "nome": "André Pinotes Batista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245449",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-22",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de financiamento permanente do Programa de Apoio à Redução Tarifária nos Transportes Públicos; Estabelece o reforço e a avaliação da implementação e execução do Programa de Apoio à Redução do Tarifário nos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTransP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "6933",
+                "nome": "Mariana Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-22",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de financiamento permanente do Programa de Apoio à Redução Tarifária nos Transportes Públicos; Estabelece o reforço e a avaliação da implementação e execução do Programa de Apoio à Redução do Tarifário nos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTransP).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6545",
+                "nome": "Jorge Salgueiro Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:03",
+            "horaTermo": "18:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_10_21_15_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-10-22",
+                "pubLeg": "XIV",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime de financiamento permanente do Programa de Apoio à Redução Tarifária nos Transportes Públicos; Estabelece o reforço e a avaliação da implementação e execução do Programa de Apoio à Redução do Tarifário nos Transportes Públicos (PART) e do Programa de Apoio à Densificação e Reforço da Oferta de Transporte Público (PROTransP).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1259793",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929791",
+        "obs": null,
+        "pag": [
+          "27-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-22",
+        "pubLeg": "XIV",
+        "pubNr": "14",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/014/2021-10-22/27?pgs=27-36&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
