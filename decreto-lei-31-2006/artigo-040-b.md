@@ -18,6 +18,8 @@ f) O incumprimento, pelos intervenientes referidos no n.º 1 do artigo 24.º, da
 
 g) O incumprimento, pelos intervenientes do SPN que exercem as atividades referidas nas alíneas a) a d) do n.º 1 do artigo 12.º, das obrigações de prestação de informação à ENMC, E.P.E., nos termos do artigo 24.º-C.
 
+h) A violação do disposto na portaria prevista no n.º 4 do artigo 8.º
+
 2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
 
 3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
