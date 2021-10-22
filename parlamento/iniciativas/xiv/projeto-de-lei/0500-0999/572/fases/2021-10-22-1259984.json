@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "572",
+    "id": "45419",
+    "titulo": "Determina as circunstâncias em que é permitida a inseminação post mortem e altera a Lei n.º 32/2006, de 26 de julho relativa à procriação medicamente assistida"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2021-10-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2021-10-22",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1259984",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "960707",
+        "obs": null,
+        "pag": [
+          "53-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-10-23",
+        "pubLeg": "XIV",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/015/2021-10-23/53?pgs=53-55&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-10-22",
+        "descricao": "Votação da proposta de alteração do PS, BE, PCP, PEV e PAN: Emenda ao n.º 5 do artigo 23.º da Lei n.º 32/2006, de 26 de julho (constante do artigo 2.º do Decreto); Emenda ao n.º 1 do artigo 22.º-A da Lei n.º 32/2006, de 26 de julho (aditado pelo artigo 3.º do Decreto); Emenda ao n.º 2 do artigo 22.º-A da Lei n.º 32/2006, de 26 de julho (aditado pelo artigo 3.º do Decreto); Emenda ao n.º 3 do artigo 22.º-A da Lei n.º 32/2006, de 26 de julho (aditado pelo artigo 3.º do Decreto); Emenda ao n.º 1 do artigo 2033.º do Código Civil (constante do artigo 4.º do Decreto); Aditamento do n.º 2 do artigo 2046.º do Código Civil (constante do artigo 4.º do Decreto); Emenda ao n.º 1 do artigo 5.º do Decreto; e Emenda à alínea a) do n.º 2 do artigo 5.º do Decreto",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> PAN</I>, <I> PEV</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>, <I> CH</I><BR>Abstenção:<I>5-PS</I>, <I> Bruno Aragão (PS)</I>, <I> Fernando Anastácio (PS)</I>, <I> Filipe Neto Brandão (PS)</I>, <I> Porfírio Silva (PS)</I>, <I> Rosário Gambôa (PS)</I>",
+        "id": "92010",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "15",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
