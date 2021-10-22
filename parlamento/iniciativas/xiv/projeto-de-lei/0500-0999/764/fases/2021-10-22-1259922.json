@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "764",
+    "id": "110594",
+    "titulo": "Determina a obrigatoriedade da instalação de sistema de deteção de incêndio em explorações pecuárias das classes 1 e 2, em regime intensivo, procedendo à quinta alteração ao Decreto-lei n.º 220/2008, de 12 de Novembro"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2021-10-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "61906",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2021-10-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2021-11-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Liga dos Bombeiros Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a596d59345a6a6c6b4d43316d4d545a684c545132596d55744f54426c5953316c5a4449785a44526b5a545a6d4f4751756347526d&fich=3bf8f9d0-f16a-46be-90ea-ed21d4de6f8d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Empty Cages - Associação Portuguesa e Espanhola de Direito do Animal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a544d354f5759774d533030597a63314c545177595441744f5446684d69316d596d55775a5463774d4463794d6a55756347526d&fich=1e399f01-4c75-40a0-91a2-fbe0e7007225.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - GP PAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b595756685a574a695a5330314d6a4a6c4c5451784e6a5574595467334d433079596a673459544d315a5755794e5467755a47396a65413d3d&fich=daeaebbe-522e-4165-a870-2b88a35ee258.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e444177596d55324d4331694d4751334c5451314e546774596a4a6b5979316a5a54526d5a446c694e7a41354e6a59755a47396a65413d3d&fich=d400be60-b0d7-4558-b2dc-ce4fd9b70966.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Confederação dos Agricultores de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a6d566b4f5456684f43316d4e6a63794c54517a4f54517459544e68595330784e5751315a475a694e574534596a41756347526d&fich=8fed95a8-f672-4394-a3aa-15d5dfb5a8b0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Animal Save and Care Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830596a41774d6d49354f4330325a5442684c5451355a474574596a466d4e533035593245784d5468684e324d314d4455756347526d&fich=4b002b98-6e0a-49da-b1f5-9ca118a7c505.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - FILPORC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d4451794e7a646c4f533034596a63324c5451335a6d59744f5751774d5330784d7a5a684d5441304f445930597a41756347526d&fich=604277e9-8b76-47ff-9d01-136a104864c0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2021-11-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - DGAV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6444515530765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833596a41324d44466b4d6930304d7a686d4c54526c5a474974596a6c694f5330314d7a426d4e6a41794d32526a596d4d756347526d&fich=7b0601d2-438f-4edb-b9b9-530f6023dcbc.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "7384",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Agricultura e Mar",
+        "Numero": "7384",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "CAP - Confederação dos Agricultores de Portugal em 2021-11-19"
+          },
+          {
+            "link": "",
+            "nome": "LBP - Liga dos Bombeiros Portugueses em 2021-11-17"
+          },
+          {
+            "link": "",
+            "nome": "Empty Cages - Associação Portuguesa e Espanhola de Direito do Animal em 2021-11-16"
+          },
+          {
+            "link": "",
+            "nome": "FILPORC — Associação Interprofissional da Fileira da Carne de Porco em 2021-11-21"
+          },
+          {
+            "link": "",
+            "nome": "Animal Save e Care Portugal em 2021-11-19"
+          },
+          {
+            "link": "",
+            "nome": "Direção Geral de Alimentação e Veterinária (DGAV) em 2021-11-23"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "CNA - Confederação Nacional da Agricultura em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "CONFAGRI - Confederação Nacional das Cooperativas Agrícolas de Portugal em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "CAP - Confederação dos Agricultores de Portugal em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "FENAPECUÁRIA - Federação Nacional das Cooperativas de Produtores Pecuários, FCRL em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "AJAP - Associação dos Jovens Agricultores de Portugal em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "LBP - Liga dos Bombeiros Portugueses em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "ANBP - Associação Nacional dos Bombeiros Profissionais em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Engenheiros (OE) em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "Associação Animal em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "ANPC - Autoridade Nacional de Proteção Civil em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "Associação dos Avicultores de Portugal em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "Empty Cages - Associação Portuguesa e Espanhola de Direito do Animal em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "FILPORC — Associação Interprofissional da Fileira da Carne de Porco em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "Animal Save e Care Portugal em 2021-11-12"
+          },
+          {
+            "link": "",
+            "nome": "Direção Geral de Alimentação e Veterinária (DGAV) em 2021-11-12"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2021-10-22",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1259922",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
