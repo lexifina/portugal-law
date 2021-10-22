@@ -1,0 +1,6 @@
+Aviso n.º 20037/2021
+Sumário: Projeto de elaboração do Regulamento Municipal de Ocupação de Tempos Livres - Pombal.
+Pedro Filipe Silva Murtinho, Vice-Presidente da Câmara Municipal de Pombal, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Regime Jurídico das Autarquias Locais (RJAL), aprovado em anexo (Anexo I) à Lei n.º 75/2013, de 12 de setembro, em conjugação com o disposto no artigo 56.º da Lei n.º 169/99, de 18 de setembro, para os efeitos do disposto no artigo 101.º do Código de Procedimento Administrativo, torna público que o órgão Câmara Municipal deliberou, em reunião realizada no dia 24 de setembro de 2021, submeter a consulta pública, pelo período de trinta dias, a contar da data da presente publicação no Diário da República, o Projeto de Elaboração do Regulamento Municipal de Ocupação de Tempos Livres - Pombal, cujo texto se encontra disponível no site institucional do Município de Pombal www.cm-pombal.pt.
+Mais torna público que, nos termos do disposto no n.º 2 do citado preceito legal, os interessados deverão dirigir as suas sugestões, por escrito, ao Presidente da Câmara Municipal para o endereço Largo do Cardal, 3100-440 Pombal, ou através de correio eletrónico para sonia.casaleiro@cm-pombal.pt.
+7 de outubro de 2021. - O Vice-Presidente da Câmara Municipal, Pedro Filipe Silva Murtinho.
+314637213
