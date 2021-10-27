@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-10-27, processo 01301/13.3BELRS 01035/17
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01301/13.3BELRS 01035/17
+
+**Data do Acordão:** 10/27/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; TAXA DE CONSERVAÇÃO DE ESGOTOS; VIOLAÇÃO; DIREITO DE AUDIÇÃO; PRINCÍPIO DA EQUIVALÊNCIA
+
+**Nº Convencional:** JSTA000P28412
+
+**Nº do Documento:** SA22021102701301/13
+
+**Data de Entrada:** 09/27/2017
+
+**Recorrente:** A............ SA
+
+**Recorrido 1:** CÂMARA MUNICIPAL DE LISBOA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A audiência dos interessados destina-se a permitir a sua participação nas decisões que lhes digam respeito, contribuindo para um cabal esclarecimento dos factos e uma mais adequada e justa decisão, sendo que a omissão dessa diligência constitui preterição de uma formalidade legal conducente à anulabilidade da decisão, a menos que seja manifesto que esta só podia, em abstracto, ter o conteúdo que teve em concreto e que, por isso se impunha, o seu aproveitamento pela aplicação do princípio geral do aproveitamento do acto administrativo.
+
+II - Na situação dos autos, a liquidação da taxa acaba por redundar na prática de um acto estritamente vinculado, na medida em que se reconduz a uma simples operação aritmética, ou seja, a liquidação da taxa não comporta qualquer definição do direito do particular, dado que, tem por base elementos que já estão definidos e que servem se suporte à aludida liquidação, ou seja, não questionando o sujeito passivo a aplicação da fracção do IMI nem o VPT dos prédios, a sua audição seria absolutamente insusceptível de alterar o valor da taxa, impondo-se a manutenção do acto de liquidação na ordem jurídica pela aplicação do princípio do aproveitamento do acto administrativo, pois que trata-se de um acto estritamente vinculado que se conforma com os tais elementos já definidos e aos preceitos legais que definem o modo pelo qual deve ser calculada a taxa devida.
+
+III - É jurisprudência consolidada deste Supremo Tribunal que a tarifa de conservação de esgotos, por ter natureza sinalagmática, é de qualificar como uma verdadeira taxa, e não como um imposto.
+
+IV - Existe equivalência jurídica das contraprestações que definem o sinalagma característico da taxa, porquanto são os proprietários dos prédios (sujeitos passivos da taxa) que retiram vantagem directa da disponibilidade da rede geral de esgotos em bom estado de conservação, independentemente da frequência do seu uso e o critério adoptado para a quantificação do montante da taxa (fracção do IMI, o qual é calculado a partir do VPT de cada prédio) mostra-se adequado à observância do princípio da equivalência jurídica, na sua declinação como princípio da proporcionalidade e ao princípio da justa repartição dos encargos públicos, sendo que não está demonstrada a violação do princípio da proporcionalidade por ausência de prova de que o montante global da receita resultante da aplicação da taxa aos munícipes seja manifestamente superior aos encargos globais suportados pelo município com a disponibilização e manutenção dos sistemas de drenagem pública de águas residuais, ou que o valor concreto da taxa liquidada seja superior à expressão económica do benefício actual ou potencial auferido pelo sujeito passivo com o serviço público prestado pelo município.
