@@ -1,0 +1,68 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "1001",
+  "id": "121221",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-10-27",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2022-03-28",
+    "DataInicioleg": "2021-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4459324e47497a4d3249744e54686a4d7930305a4445354c5467324f4445744e474d305a574d324d6d5a6d4d6a46684c6e426b5a673d3d&fich=d664b33b-58c3-4d19-8681-4c4ec62ff21a.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PAN",
+        "idCadastro": "6549",
+        "nome": "Bebiana Cunha"
+      },
+      {
+        "GP": "PAN",
+        "idCadastro": "6864",
+        "nome": "Inês de Sousa Real"
+      },
+      {
+        "GP": "PAN",
+        "idCadastro": "6896",
+        "nome": "Nelson Silva"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PAN"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "121221",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a474d344d574e6a5a574d744f546b334f4330304e444a6c4c5749325a6d45744e444a6c5a544d314e574a6a5a5751784c6d52765933673d&fich=dc81ccec-9978-442e-b6fa-42ee355bced1.docx&Inline=true",
+    "IniNr": "1001",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Alarga a tutela criminal a todos os animais vertebrados, procedendo à quinquagésima quarta alteração do Código Penal",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
