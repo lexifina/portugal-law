@@ -1,0 +1,9 @@
+Declaração de Retificação n.º 36/2021
+Sumário: Retifica a Resolução do Conselho de Ministros n.º 137/2021, de 12 de outubro, que desafeta do domínio público militar e transfere para a titularidade da Região Autónoma da Madeira o imóvel designado por «M1.08.F01.11 - Blocos habitacionais junto ao Farol de S. Jorge».
+Nos termos das disposições da alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 20/2021, de 15 de março, conjugadas com o disposto no n.º 1 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, e dos artigos 5.º e 6.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho, declara-se que a Resolução do Conselho de Ministros n.º 137/2021, de 12 de outubro, publicada no Diário da República, 1.ª série, n.º 198, de 12 de outubro de 2021, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No n.º 1, onde se lê:
+«1 - Desafetar do domínio público militar o imóvel designado por 'M1.08.F01.11 - Blocos habitacionais junto ao Farol de S. Jorge', inscrito na matriz predial urbana sob os artigos 1580 e 1581, da freguesia de S. Jorge, concelho de Santana, distrito do Funchal, na Região Autónoma da Madeira, integrando-o no domínio privado do Estado, com vista à transferência de titularidade para a Região Autónoma da Madeira.»
+deve ler-se:
+«1 - Desafetar do domínio público militar o imóvel designado por 'M1.08.F01.11 - Blocos habitacionais junto ao Farol de S. Jorge', inscrito na matriz predial urbana sob o artigo 1580, da freguesia de S. Jorge, concelho de Santana, distrito do Funchal, na Região Autónoma da Madeira, integrando-o no domínio privado do Estado, com vista à transferência de titularidade para a Região Autónoma da Madeira.»
+Secretaria-Geral, 22 de outubro de 2021. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+114673786
