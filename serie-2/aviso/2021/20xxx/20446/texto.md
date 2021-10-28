@@ -1,0 +1,13 @@
+Aviso n.º 20446/2021
+Sumário: 1.ª alteração ao Regulamento do Serviço de Abastecimento Público de Água, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2017.
+1.ª Alteração ao Regulamento do Serviço de Abastecimento Público de Água
+Paulo Manuel Lopes dos Santos, Presidente da Câmara Municipal de Sátão, torna público, ao abrigo e para os efeitos do artigo 139.º do Decreto Lei n.º 4/2015, de 7 de janeiro, que a Assembleia Municipal de Sátão, em sessão ordinária realizada a 27 de abril de 2021, sob proposta da Câmara Municipal, decidida em reunião extraordinária realizada a 20 de abril de 2021, deliberou, por unanimidade e ao abrigo das competências que lhe são cometidas em matéria regulamentar, previstas no artigo 112.º e 241.º da Constituição da Republica Portuguesa, alínea g) do n.º 1 do artigo 25.º, conjugada com a alínea k) do n.º 1 do artigo 33.º, do Anexo I à Lei n.º 75/2013, de 12 de setembro (na redação atual) aprovar a seguinte alteração ao Regulamento do Serviço de Abastecimento Público de Água, publicado no Diário da República, 2.ª série, n.º 26 de 6 de fevereiro de 2017.
+12 de outubro de 2021. - O Presidente da Câmara Municipal de Sátão, Paulo Manuel Lopes dos Santos.
+Artigo 61.º
+Tarifa variável
+1 - ...
+2 - ...
+3 - ...
+4 - A tarifa variável do serviço de abastecimento aplicável a utilizadores não domésticos é de valor igual ao 3.º escalão da tarifa variável do serviço aplicável aos utilizadores domésticos;
+5 - ...
+314644844
