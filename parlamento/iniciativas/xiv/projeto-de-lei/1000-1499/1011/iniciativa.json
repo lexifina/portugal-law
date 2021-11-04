@@ -1,0 +1,268 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "1011",
+  "id": "121245",
+  "fases": 22,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-11-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2022-03-28",
+    "DataInicioleg": "2021-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d6d45324e7a6c6b5a5745744f4467324e69303059544a684c5749354f4455744d5745325a5755344e446b335a5441304c6e426b5a673d3d&fich=2a679dea-8866-4a2a-b985-1a6ee8497e04.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1212",
+        "nome": "Ana Catarina Mendonça Mendes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5932",
+        "nome": "Constança Urbano de Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6158",
+        "nome": "João Azevedo Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6919",
+        "nome": "Maria Joaquina Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7036",
+        "nome": "Francisco Pereira Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7020",
+        "nome": "Dora Brandão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7018",
+        "nome": "Mara Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6867",
+        "nome": "Rosário Gambôa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5837",
+        "nome": "Alexandra Tavares de Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6861",
+        "nome": "Telma Guerreiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6977",
+        "nome": "Sílvia Torres"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "523",
+        "nome": "Francisco Rocha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6878",
+        "nome": "Nuno Fazenda"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4210",
+        "nome": "José Rui Cruz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6129",
+        "nome": "Lúcia Araújo Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6834",
+        "nome": "Vera Braz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7015",
+        "nome": "Cristina Mendes da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6886",
+        "nome": "Cristina Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5587",
+        "nome": "Jorge Gomes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5678",
+        "nome": "Ana Passos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6980",
+        "nome": "Maria da Graça Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7212",
+        "nome": "Fernando José"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5635",
+        "nome": "Norberto Patinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3936",
+        "nome": "Palmira Maciel"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "197",
+        "nome": "Luís Capoulas Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6962",
+        "nome": "Susana Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4199",
+        "nome": "Anabela Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6048",
+        "nome": "Ivan Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6706",
+        "nome": "Miguel Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6865",
+        "nome": "Olavo Câmara"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6914",
+        "nome": "Joana Bento"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6877",
+        "nome": "Martina Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "419",
+        "nome": "Joaquim Barreto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6050",
+        "nome": "André Pinotes Batista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4209",
+        "nome": "Elza Pais"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2225",
+        "nome": "Hortense Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1944",
+        "nome": "Susana Amador"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6049",
+        "nome": "Sofia Araújo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6899",
+        "nome": "Marta Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7273",
+        "nome": "Pedro Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7286",
+        "nome": "Paulo Porto"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "121245",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576595755324e54426b4e325574593255784d7930305a5749304c57497a4e7a6b74595455334e474a6a4e7a4577595456694c6d52765933673d&fich=ae650d7e-ce13-4eb4-b379-a574bc710a5b.docx&Inline=true",
+    "IniNr": "1011",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Prorrogação para o ano de 2022 do regime excecional e temporário do exercício de direito de voto antecipado para os eleitores que estejam em confinamento obrigatório no âmbito da pandemia da doença COVID-19, e eleitores residentes em estruturas residenciais e estruturas similares, procedendo à 3.ª alteração à Lei Orgânica n.º 3/2020, de 11 de novembro. ",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
