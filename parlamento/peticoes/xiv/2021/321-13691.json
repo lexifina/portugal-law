@@ -1,0 +1,716 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13691",
+  "numero": "321",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-11-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-06-07",
+            "entidades": null,
+            "id": "127499",
+            "tipo": null,
+            "titulo": "Audição em 2022-06-07 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-06-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": "2022-06-29",
+              "descricao": null,
+              "detalhe": null,
+              "id": "93134",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "12",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": null,
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2022-06-29",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-04-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4e7a646c4e7a526c5979316c4f5751784c5452694d4445744f5463305a6931684f574978596a466c4e6a4d344e7a67756347526d&fich=f77e74ec-e9d1-4b01-974f-a9b1b1e63878.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-06-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314e474d355a6a6b344f43316a4f475a684c545268593251744f5455784e53316b4e57526a4d544533595442694d6a4d756347526d&fich=54c9f988-c8fa-4acd-9515-d5dc117a0b23.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8332",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-06-29",
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4363",
+            "motivoCessacao": null,
+            "nome": "Agostinho Santa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2021-11-23",
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2021-11-16",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2021-11-23",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684e4745324e7a6b3159793078597a55304c5451354e4467744f546c6c4d7930345a57466b5a6d56694e7a49354f5463756347526d&fich=a4a6795c-1c54-4948-99e3-8eadfeb72997.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938354f444e6d4d324d344d7931684f4459304c5451304f446b744f475a6c5969307a4f57466d4d54466d4e544d785a4749756347526d&fich=983f3c83-a864-4489-8feb-39af11f531db.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344d3245304e6a466a595330324d7a55304c545131596a59744f4442684d4330344d54457a5a6a59784e6a64694e7a55756347526d&fich=83a461ca-6354-45b6-80a0-8113f6167b75.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938324e5459334d7a67344d5330304f5759794c5451325a474d744f5745314d53316b5a4756685a4455774e6a45304d6a45756347526d&fich=65673881-49f2-46dc-9a51-ddead5061421.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396b5a4751334e6d5a6b4f533030597a45314c5452684e6d5174596a51334d4330344d32566b5a5755794d444579597a67756347526d&fich=ddd76fd9-4c15-4a6d-b470-83edee2012c8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939695a6d597a597a426d4e53307a595759794c5451795a4449744f54553559793169596d55355a6a593459544d32596a45756347526d&fich=bff3c0f5-3af2-42d2-959c-bbe9f68a36b1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793968596a6378593251324e53316a595445314c5451355a6d45744f4759775979307859324d354d6a4d334f445269596a45756347526d&fich=ab71cd65-ca15-49fa-8f0c-1cc923784bb1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4d6a51354d6d457a4d53307a597a64684c54526b4e6a6774595449325a6930304e6a4d324d54686a5a5455345a5441756347526d&fich=e2492a31-3c7a-4d68-a26f-463618ce58e0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938345a44646a5a6d557a597930324e7a56684c5451784e544d74596d497759793079596a686d4f5468685a6a49785a6a45756347526d&fich=8d7cfe3c-675a-4153-bb0c-2b8f98af21f1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d597a67354f444d345a43316a5a446b324c5451795a475574596d526d4f5331694f575978596a646c4e544579596a49756347526d&fich=fc89838d-cd96-42de-bdf9-b9f1b7e512b2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334e6a4a6c5957597a4f4330314e4445774c5451355a4449744f444d775a43307a4e5751325a574d784d6a6b304d6d51756347526d&fich=762eaf38-5410-49d2-830d-35d6ec12942d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938784e6d4a694f54686c4e6930314f446b304c54526a4e575174596a51355953316d5a6d4a6d595463305a6d4d30596a49756347526d&fich=16bb98e6-5894-4c5d-b49a-ffbfa74fc4b2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344d32457a5a545934595330344e6d4a6c4c54526c4e6d4d744f4755305a69316c4d324932595449314e4449324d5749756347526d&fich=83a3e68a-86be-4e6c-8e4f-e3b6a254261b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938335a6a59304e6a457a595330785a5455794c54517a597a4d744f4745774f53316d4d7a51355954466c5a5468684e7a63756347526d&fich=7f64613a-1e52-43c3-8a09-f349a1ee8a77.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-11-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a5a6a67324e6d4d794d6930334e5759324c5451784d325574596a4a6c4f5330314e5452694e546c684d7a4d354d5449756347526d&fich=3f866c22-75f6-413e-b2e9-554b59a33912.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2021-11-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938304e5451304d6a63334d53316b4d3259344c5451325a5745744f574d7a5a4330794d4751354d446733593259334e6a51756347526d&fich=45442771-d3f8-46ea-9c3d-20d9087cf764.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-12-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344e57526d4d6a4d355a6930304e6a497a4c5452684d4467744f544d304d7930304f54686d4d7a67344d6a686d4d6d55756347526d&fich=85df239f-4623-4a08-9343-498f38828f2e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-12-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939684e7a41785a6a5a6d5979316d4d7a59324c5451314f5459744f44466d5a43316c5a6a557a595463774f44557a4f544d756347526d&fich=a701f6fc-f366-4596-81fd-ef53a7085393.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-12-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396d5957566b59544d335979316c4e4752684c5451794d474974596d566d4d79303159324a695a47466d4e7a55315a6d59756347526d&fich=faeda37c-e4da-420b-bef3-5cbbdaf755ff.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-12-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938304e4459784d7a64694d43316c4e44466a4c54526c4f475974596d56694d79307a597a59354f57557a596d526c5a4445756347526d&fich=446137b0-e41c-4e8f-beb3-3c699e3bded1.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-01-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2021-11-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a566b4d4749315a54677a4c5759345a4449744e474a695a6931694e4751794c54466c4f474e6d4e6a566c5a47526c4e7935775a47593d&fich=5d0b5e83-f8d2-4bbf-b4d2-1e8cf65edde7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152272",
+      "152163",
+      "152236",
+      "152237",
+      "152236",
+      "152237"
+    ],
+    "Iniciativasoriginadas": [
+      "152272",
+      "152163",
+      "152236",
+      "152237"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_19_15_00_00_clean_14_plenario.xml&idsegmento=81"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291992",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-20",
+                "pubLeg": "XV",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/82?pgs=82-84&org=PLC"
+              }
+            ],
+            "Sumario": "Tempo de serviço igual, situação igual e escalão igual; Proibição de discriminações entre docentes, por efeito de alterações ao Estatuto da Carreira Docente em matéria de reposicionamento na carreira com efeitos remuneratórios; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira; Promover a escola pública e o respeito pelos direitos dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_19_15_00_00_clean_14_plenario.xml&idsegmento=82"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291993",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-20",
+                "pubLeg": "XV",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/84?pgs=84&org=PLC"
+              }
+            ],
+            "Sumario": "Tempo de serviço igual, situação igual e escalão igual; Proibição de discriminações entre docentes, por efeito de alterações ao Estatuto da Carreira Docente em matéria de reposicionamento na carreira com efeitos remuneratórios; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira; Promover a escola pública e o respeito pelos direitos dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_19_15_00_00_clean_14_plenario.xml&idsegmento=83"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291994",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-20",
+                "pubLeg": "XV",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/84?pgs=84-85&org=PLC"
+              }
+            ],
+            "Sumario": "Tempo de serviço igual, situação igual e escalão igual; Proibição de discriminações entre docentes, por efeito de alterações ao Estatuto da Carreira Docente em matéria de reposicionamento na carreira com efeitos remuneratórios; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira; Promover a escola pública e o respeito pelos direitos dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_19_15_00_00_clean_14_plenario.xml&idsegmento=84"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-86"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-20",
+                "pubLeg": "XV",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/85?pgs=85-86&org=PLC"
+              }
+            ],
+            "Sumario": "Tempo de serviço igual, situação igual e escalão igual; Proibição de discriminações entre docentes, por efeito de alterações ao Estatuto da Carreira Docente em matéria de reposicionamento na carreira com efeitos remuneratórios; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira; Promover a escola pública e o respeito pelos direitos dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_19_15_00_00_clean_14_plenario.xml&idsegmento=85"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "86-87"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-20",
+                "pubLeg": "XV",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/86?pgs=86-87&org=PLC"
+              }
+            ],
+            "Sumario": "Tempo de serviço igual, situação igual e escalão igual; Proibição de discriminações entre docentes, por efeito de alterações ao Estatuto da Carreira Docente em matéria de reposicionamento na carreira com efeitos remuneratórios; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira; Promover a escola pública e o respeito pelos direitos dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_19_15_00_00_clean_14_plenario.xml&idsegmento=86"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291997",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-20",
+                "pubLeg": "XV",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/87?pgs=87-88&org=PLC"
+              }
+            ],
+            "Sumario": "Tempo de serviço igual, situação igual e escalão igual; Proibição de discriminações entre docentes, por efeito de alterações ao Estatuto da Carreira Docente em matéria de reposicionamento na carreira com efeitos remuneratórios; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira; Promover a escola pública e o respeito pelos direitos dos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_19_15_00_00_clean_14_plenario.xml&idsegmento=87"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291998",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-20",
+                "pubLeg": "XV",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/89?pgs=89&org=PLC"
+              }
+            ],
+            "Sumario": "Tempo de serviço igual, situação igual e escalão igual; Proibição de discriminações entre docentes, por efeito de alterações ao Estatuto da Carreira Docente em matéria de reposicionamento na carreira com efeitos remuneratórios; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira; Promover a escola pública e o respeito pelos direitos dos professores.",
+            "Teor": "Formulou um pedido de esclarecimento ao deputado Agostinho Santa (PS)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_19_15_00_00_clean_14_plenario.xml&idsegmento=88"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-01-20",
+                "pubLeg": "XV",
+                "pubNr": "79",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/89?pgs=89-90&org=PLC"
+              }
+            ],
+            "Sumario": "Tempo de serviço igual, situação igual e escalão igual; Proibição de discriminações entre docentes, por efeito de alterações ao Estatuto da Carreira Docente em matéria de reposicionamento na carreira com efeitos remuneratórios; Recomenda a adoção de medidas para efetivar o direito de todos os docentes ao posicionamento no escalão remuneratório que corresponda ao tempo de serviço efetivamente prestado; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira; Promover a escola pública e o respeito pelos direitos dos professores.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13691",
+    "PetAssunto": "Tempo de serviço igual, situação igual e escalão igual",
+    "PetDataEntrada": "2021-11-04",
+    "PeticoesAssociadas": null,
+    "PetId": "13691",
+    "PetLeg": "XIV",
+    "PetNr": "321",
+    "PetNrAssinaturas": "8769",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16314",
+        "obs": null,
+        "pag": [
+          "82-90"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-01-20",
+        "pubLeg": "XV",
+        "pubNr": "79",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/079/2023-01-20/82?pgs=82-90&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915107",
+        "obs": null,
+        "pag": [
+          "196-197"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-27",
+        "pubLeg": "XIV",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/03/015/2021-11-27/196?pgs=196-197&org=PLC"
+      }
+    ]
+  }
+}
