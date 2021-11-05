@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "745",
+    "id": "110535",
+    "titulo": "Altera o regime jurídico-laboral de teletrabalho, garantindo maior proteção do trabalhador (19.ª alteração ao Código do Trabalho e 1ª alteração da Lei n.º 98/2009, de 4 de setembro, que regulamenta o regime de reparação de acidentes de trabalho e de doenças profissionais)"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2021-11-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2021-11-05",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1260444",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929933",
+        "obs": null,
+        "pag": [
+          "56-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-06",
+        "pubLeg": "XIV",
+        "pubNr": "20",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/56?pgs=56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-11-05",
+        "descricao": "Texto de Substituição apresentado pela Comissão de Trabalho e Segurança Social relativo aos Projetos de Lei n.ºs 535/XIV/2.ª (PAN),  745/XIV/2.ª (BE),  790/XIV/2.ª (NiCR), 791/XIV/2.ª (NiCR), 797/XIV/2.ª (CDS-PP),  808/XIV/2.ª (PS), 811/XIV/2.ª (PAN) e 812/XIV/2.ª (PSD) - Votação da assunção pelo Plenário das votações indiciárias realizadas na especialidade em sede de Comissão",
+        "detalhe": null,
+        "id": "92070",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "20",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
