@@ -1,0 +1,29 @@
+Portaria n.º 235-A/2021
+de 4 de novembro
+Sumário: Procede à terceira alteração à Portaria n.º 246-A/2016, de 8 de setembro, relativa às condições e procedimentos do regime de reembolso e marcação, respetivamente, do «gasóleo profissional».
+O regime de «gasóleo profissional», introduzido em Portugal pela Lei n.º 24/2016, de 22 de agosto, e regulamentado pela Portaria n.º 246-A/2016, de 8 de setembro, na sua redação atual, mantém-se na ordem jurídica como um instrumento preponderante para a competitividade das empresas nacionais de transporte de mercadorias.
+Por efeito da Portaria n.º 269/2018, de 26 de setembro, a qual procedeu à segunda alteração da Portaria n.º 246-A/2016, de 8 de setembro, procederam-se a alguns ajustamentos ao regime de «gasóleo profissional», nomeadamente ao aumento do limite máximo de abastecimento elegível, até um montante anual de 35.000 litros por viatura abrangida, dando resposta aos desafios que se colocam a este setor de atividade.
+Neste contexto, com particular relevância face ao momento extraordinário de aumento de preços dos combustíveis que tem vindo a colocar-se como um desafio central para as empresas de transporte e para a sua competitividade no plano nacional e internacional, numa fase de recuperação económica da situação pandémica, impõe-se proceder a um novo ajustamento do limite máximo de abastecimento elegível, até um montante anual de 40.000 litros por viatura abrangida, aproximando-se dos valores praticados em Espanha e até ao limite máximo estabelecido nos termos do disposto no n.º 5 do artigo 93.º-A do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho.
+Por sua vez, no plano operacional, o regime de «gasóleo profissional» prevê a utilização exclusiva de gasóleo marcado nos depósitos localizados em instalações de consumo próprio autorizados das empresas abrangidas e destinados ao abastecimento dos seus veículos elegíveis.
+O n.º 2 do artigo 13.º da Portaria n.º 39/2021, de 22 de fevereiro, prorrogou até 31 de dezembro de 2021 o regime transitório aplicável aos abastecimentos realizados em ou para instalações de consumo próprio, previsto no n.º 2 do artigo 14.º-B da Portaria n.º 246-A/2016, de 8 de dezembro, na sua redação atual.
+Tendo em consideração as dificuldades acrescidas, decorrentes do contexto pandémico, encontradas na execução de tarefas inerentes à implementação desta medida, considera-se necessário prorrogar o referido regime transitório.
+Assim, manda o Governo, pela Ministra da Modernização do Estado e da Administração Pública e pelos Secretários de Estado Adjunto e dos Assuntos Fiscais e Adjunto e da Energia, ao abrigo do artigo 93.º-A do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria procede à terceira alteração da Portaria n.º 246-A/2016, de 8 de setembro, que estabelece as condições e os procedimentos do regime de reembolso parcial de impostos sobre combustíveis para empresas de transportes de mercadorias, previsto no artigo 93.º-A do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho.
+Artigo 2.º
+Alteração da Portaria n.º 246-A/2016
+O artigo 6.º da Portaria n.º 246-A/2016, de 8 de setembro, na sua redação atual, passa a ter a seguinte redação:
+«Artigo 6.º
+[...]
+1 - O presente regime apenas é aplicável aos abastecimentos até ao limite máximo de 40.000 litros por viatura abrangida nos termos do artigo anterior e por ano civil.
+2 - [...]»
+Artigo 3.º
+Prorrogação do regime transitório aplicável aos abastecimentos realizados em ou para instalações de consumo próprio
+É prorrogado até 31 de dezembro de 2022 o regime transitório aplicável aos abastecimentos realizados em ou para instalações de consumo próprio, previsto no n.º 2 do artigo 14.º-B da Portaria n.º 246-A/2016, de 8 de setembro, na sua redação atual.
+Artigo 4.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 4 de novembro de 2021.
+A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão. - O Secretário de Estado Adjunto e dos Assuntos Fiscais, António Mendonça Mendes. - O Secretário de Estado Adjunto e da Energia, João Saldanha de Azevedo Galamba.
+114707846
