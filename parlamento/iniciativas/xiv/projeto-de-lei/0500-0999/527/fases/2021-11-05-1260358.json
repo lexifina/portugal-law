@@ -1,0 +1,711 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "527",
+    "id": "45293",
+    "titulo": "Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2021-11-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17724",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2021-11-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121220",
+        "leg": "XIV",
+        "nr": "1000",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6143",
+            "obs": null,
+            "pag": [
+              "18-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-06",
+            "pubLeg": "XIV",
+            "pubNr": "20",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/18?pgs=18-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6143",
+            "obs": null,
+            "pag": [
+              "18-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-06",
+            "pubLeg": "XIV",
+            "pubNr": "20",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/18?pgs=18-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6143",
+            "obs": null,
+            "pag": [
+              "18-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-06",
+            "pubLeg": "XIV",
+            "pubNr": "20",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/18?pgs=18-25&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121239",
+        "leg": "XIV",
+        "nr": "1007",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6143",
+            "obs": null,
+            "pag": [
+              "18-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-06",
+            "pubLeg": "XIV",
+            "pubNr": "20",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/18?pgs=18-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6143",
+            "obs": null,
+            "pag": [
+              "18-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-06",
+            "pubLeg": "XIV",
+            "pubNr": "20",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/18?pgs=18-25&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "6143",
+            "obs": null,
+            "pag": [
+              "18-25"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-06",
+            "pubLeg": "XIV",
+            "pubNr": "20",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/18?pgs=18-25&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (1.ª alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto)\n"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-11-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6549",
+                "nome": "Bebiana Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=20"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5952",
+                "nome": "Maria Manuel Rola"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=21"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19",
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/19?pgs=19,25&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=22"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20",
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/20?pgs=20,24-25&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Ninsc",
+                "idCadastro": "6547",
+                "nome": "Cristina Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=24"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1706",
+                "nome": "João Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=25"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3936",
+                "nome": "Palmira Maciel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=26"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5524",
+                "nome": "João Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=27"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "6933",
+                "nome": "Mariana Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=28"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:30",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_11_05_10_00_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "245686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-06",
+                "pubLeg": "XIV",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/24?pgs=24&org=PLC"
+              }
+            ],
+            "sumario": "Pela defesa e proteção dos cavalos - (Teresa Mafalda de Aguiar Frazão e Gonçalves de Campos e outros); Alteração ao Código Penal, agravando a pena prevista para quem infligir maus tratos a animais de companhia; Adequação do sistema de identificação dos equídeos, procedendo à primeira alteração ao Decreto–Lei n.º 123/2013, de 28 de agosto; Melhora o sistema de identificação da aptidão funcional dos equídeos e introduz a possibilidade de serem registados como animais de companhia (Primeira alteração ao Decreto-Lei n.º 123/2013, de 28 de agosto).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1260358",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIV",
+        "nr": "20",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Pela defesa e proteção dos cavalos"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "929989",
+        "obs": null,
+        "pag": [
+          "18-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-06",
+        "pubLeg": "XIV",
+        "pubNr": "20",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/020/2021-11-06/18?pgs=18-25&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
