@@ -1,0 +1,201 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13693",
+  "numero": "323",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-11-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-04-19",
+            "entidades": null,
+            "id": "128200",
+            "tipo": null,
+            "titulo": "Audição em 2023-04-19 com 1ºs Subscritores da Petição 323/XIV-1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": "2023-06-21",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915165",
+                "obs": null,
+                "pag": [
+                  "13-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-24",
+                "pubLeg": "XV",
+                "pubNr": "90",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/090/2023-06-24/13?pgs=13-19&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2023-06-21",
+              "descricao": null,
+              "detalhe": null,
+              "id": "115253",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "46",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-05-31",
+        "DataArquivo": "2023-06-21",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2023-06-23",
+        "DataReaberta": "2022-05-31",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e686279396c4e6a64694d7a51784d6930794d5467354c5451304d6d5574596a6b304e4330794e6a55794d324d344d44426d5a4445756347526d&fich=e67b3412-2189-442e-b944-26523c800fd1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-06-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e68627938304d3245304e544a6d4d7930344e6a63354c5451334d4463744f444d334e4330334d544d7a59325268596a41304e7a59756347526d&fich=43a452f3-8679-4707-8374-7133cdab0476.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8335",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Ambiente e Energia",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-09-12",
+            "dataNomeacao": "2022-05-31",
+            "gp": "PS",
+            "id": "6202",
+            "motivoCessacao": "Cessou funções de Deputada",
+            "nome": "Cláudia Avelar Santos"
+          },
+          {
+            "dataCessacao": "2023-06-21",
+            "dataNomeacao": "2023-03-24",
+            "gp": "PS",
+            "id": "7034",
+            "motivoCessacao": "Apresentação do Relatório Final",
+            "nome": "Raquel Ferreira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2021-11-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7464",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Ambiente, Energia e Ordenamento do Território",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-11-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3251334f545977597a45314c544e684d5751744e4451794f4331684e6a6c694c5451784d6a5177596a56684d5451794f5335775a47593d&fich=d7960c15-3a1d-4428-a69b-41240b5a1429.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13693",
+    "PetAssunto": "Regras justas para a radiologia veterinária",
+    "PetDataEntrada": "2021-11-06",
+    "PeticoesAssociadas": null,
+    "PetId": "13693",
+    "PetLeg": "XIV",
+    "PetNr": "323",
+    "PetNrAssinaturas": "3631",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
