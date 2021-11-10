@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-11-10, processo 01260/11.7BEPRT
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01260/11.7BEPRT
+
+**Data do Acordão:** 11/10/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOSÉ GOMES CORREIA
+
+**Descritores:** IRS; MAIS VALIAS; TRANSMISSÃO DA PROPRIEDADE PLENA; NUA-PROPRIEDADE; APLICAÇÃO DA LEI NO TEMPO; EXPROPRIAÇÃO POR UTILIDADE PÚBLICA; AQUISIÇÃO ORIGINÁRIA
+
+**Nº Convencional:** JSTA000P28491
+
+**Nº do Documento:** SA22021111001260/11
+
+**Data de Entrada:** 07/08/2021
+
+**Recorrente:** A…………….
+
+**Recorrido 1:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - De acordo com o artº 5º, nº 1 do DL nº 442-A/88, de 30 de Novembro: “ Os ganhos que não eram sujeitos ao imposto de mais-valias, criado pelo código aprovado pelo Decreto-Lei nº 46 373, de 9 de Junho de 1965, bem como os derivados da alienação a título oneroso de prédios rústicos afectos ao exercício de uma actividade agrícola ou da afectação destes a uma actividade comercial ou industrial, exercida pelo respectivo proprietário, só ficam sujeitos ao IRS se a aquisição dos bens ou direitos a que respeitam tiver sido efectuada depois da entrada em vigor deste Código”.
+
+II - Para a determinação dos ganhos sujeitos a IRS, considera-se valor de aquisição, no caso de bens ou direitos adquiridos a título gratuito aquele que haja sido considerado para efeitos de liquidação do imposto sobre sucessões e doações.
+
+III - Ainda de acordo com o artº 3º, parágrafo 1º do CISISSD –“Só se considera transmissão, para efeitos deste imposto, a transferência real e efectiva dos bens; e, assim, não se verificará a transmissão nas disposições sob condição suspensiva, sem se realizar a condição, nas doações por morte e nas doações entre casados, enquanto não falecer o doador ou, no último caso, o donatário não alienar os bens, e nas sucessões ou doações de propriedade separada do usufruto, sem este acabar ou sem a propriedade ser alienada”.
+
+IV - Deste modo, apesar de adquirida parte da nua propriedade do imóvel anteriormente à entrada em vigor do CIRS, há lugar a tributação de mais-valias (no caso da venda do bem na vigência do CIRS) se o usufruto se extinguiu após esta entrada em vigor, tendo-se consolidado a propriedade plena em 1997.
+
+V - É que quando entrou em vigor o CIRS, o impugnante apenas era titular do direito real de gozo da nua propriedade ou propriedade de raiz e não da propriedade plena dos prédios, pelo que não se pode concluir que a alienação dos bens efetuada em 2005,se reporta a bens adquiridos antes da entrada em vigor do CIRS, estando os ganhos obtidos com a alienação dos prédios, na parte relativa ao valor do usufruto, sujeitos a tributação.
+
+VI - A expropriação por utilidade pública e uma forma de aquisição originária.
+
+VII - Assim, não é subsumível ao conceito de transmissão, relevante para efeitos do artigo 10.° do Código do IRS em virtude de a sua tipicidade evidenciar o carácter selectivo da tributação das mais-valias, dando o elenco exaustivo ou taxativo dos factos geradores de imposto, não sendo tributáveis outras mais-valias que não sejam as previstas no elenco deste normativo.
+
+VIII- Dessa norma de incidência real das mais-valias tributáveis na categoria G do IRS, não consta a indemnização por expropriação de utilidade pública, nem a expropriação pode ser reconduzida à alienação onerosa de direitos reais sobre bens imóveis, prevista na alínea a) do n.° 1, do artigo 10.° do Código do IRS.
