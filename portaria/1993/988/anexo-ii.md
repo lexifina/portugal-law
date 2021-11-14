@@ -1,155 +1,153 @@
 # Anexo II
 
-### Lista indicativa e não exaustiva dos equipamentos de protecção individual
+### Lista não exaustiva dos tipos de equipamento de proteção individual (EPI) com base nos riscos contra os quais oferecem proteção
 
-Protecção da cabeça:
+Equipamento para proteção da cabeça
 
-Capacetes de protecção para a indústria (capacetes para minas, estaleiros de obras públicas, indústrias diversas);
+Capacetes e/ou bonés/cogulas/acessórios para a cabeça contra:
 
-Coberturas de cabeça ligeiras para protecção do couro cabeludo (bonés, barretes, coifas, com ou sem viseira);
+Impactos resultantes de queda ou ejeção de objetos;
 
-Coberturas de protecção da cabeça (barretes, bonés, chapéu de oleado, etc., em tecido, em tecido revestido, etc.).
+Colisão com um obstáculo;
 
-Protecção do ouvido:
+Riscos mecânicos (perfuração, abrasão);
 
-Tampões para os ouvidos, moldáveis ou não;
+Compressão estática (esmagamento lateral);
 
-Capacetes envolventes;
+Riscos térmicos (fogo, calor, frio, sólidos quentes, incluindo metal fundido);
 
-Protectores auriculares adaptáveis aos capacetes de protecção para a indústria;
+Choques elétricos e trabalhos sob tensão;
 
-Precintas com receptor para circuito de indução de baixa frequência;
+Riscos químicos;
 
-Protectores contra o ruído equipados com aparelhos de intercomunicação.
+Radiações não ionizantes (UV, IV, radiação solar ou de soldadura).
 
-Protecção dos olhos e da face:
+Coifas e redes para o cabelo contra o risco de enleamento.
 
-Óculos com aros;
+Equipamento para proteção dos ouvidos
 
-Óculos isolantes com uma ocular (óculos isolantes com duas oculares);
+Abafadores (incluindo, p. ex., abafadores colocados em capacetes, com atenuação ativa do ruído, com entrada de áudio elétrica).
 
-Óculos de protecção contra raios X, raios laser, radiações ultravioleta, infravermelho, visível;
+Tampões auditivos (incluindo, por exemplo, tampões auditivos com dependência de nível, tampões auditivos adaptados a cada indivíduo).
 
-Escudos faciais;
+Equipamento para proteção dos olhos e da face
 
-Máscaras e capacetes para soldadura por arco (máscaras para segurar com as mãos, com precintas ou adaptáveis sobre capacetes de protecção).
+Óculos, viseiras e máscaras de proteção da face (se for caso disso, lentes graduadas) contra:
 
-Protecção das vias respiratórias:
+Riscos mecânicos;
 
-Aparelhos filtrantes antipoeiras, antigás e contra poeiras radioactivas;
+Riscos térmicos;
 
-Aparelhos isolantes com aprovisionamento de ar;
+Radiações não ionizantes (UV, IV, radiação solar ou de soldadura);
 
-Aparelhos respiratórios com uma máscara de soldadura amovível;
+Radiações ionizantes;
 
-Aparelhos e material para mergulhadores;
+Aerossóis sólidos e líquidos de agentes químicos e biológicos.
 
-Escafandros para mergulhadores.
+Equipamento para proteção respiratória
 
-Protecção das mãos e dos braços:
+Dispositivos filtrantes contra:
 
-Luvas:
+Partículas;
 
-Contra agressões mecânicas (perfuração, cortes, vibrações, etc.);
+Gases;
 
-Contra agressões químicas;
+Partículas e gases;
 
-Para electricistas e antitérmicas;
+Aerossóis sólidos e/ou líquidos.
 
-Muflas;
+Dispositivos isolantes, incluindo com aprovisionamento de ar.
 
-Dedaleiras;
+Dispositivos de autossalvamento.
 
-Mangas protectoras;
+Equipamento de mergulho.
 
-Punhos de couro;
+Equipamento para proteção das mãos e dos braços
 
-Mitenes;
+Luvas (incluindo mitenes e proteção dos braços) contra:
 
-Manicas.
+Riscos mecânicos;
 
-Protecção dos pés e das pernas:
+Riscos térmicos (calor, chamas e frio);
 
-Sapatos de salto raso, botinas, botins, botas de segurança;
+Choques elétricos e trabalhos sob tensão (antiestático, condutor, isolante);
 
-Sapatos que se desapertem ou se desatem rapidamente;
+Riscos químicos;
 
-Sapatos com biqueira de protecção;
+Agentes biológicos;
 
-Sapatos e cobre-sapatos com sola anticalor;
+Radiações ionizantes e contaminação radioativa;
 
-Sapatos, botas e cobre-botas de protecção contra o calor;
+Radiações não ionizantes (UV, IV, radiação solar ou de soldadura);
 
-Sapatos, botas e cobre-botas de protecção contra o frio;
+Risco de vibração.
 
-Sapatos, botas e cobre-botas de protecção contra as vibrações;
+Proteções para dedos.
 
-Sapatos, botas e cobre-botas de protecção antiestáticos;
+Equipamento para proteção dos pés e das pernas e proteção antiderrapante
 
-Sapatos, botas e cobre-botas de protecção isolantes;
+Calçado (p. ex., sapatos, incluindo, em certas circunstâncias, tamancos, e botas com possível biqueira de aço) contra:
 
-Botas de protecção contra as correntes das serras de traçar;
+Riscos mecânicos;
 
-Tamancos;
+Risco de escorregamento;
 
-Joelheiras;
+Riscos térmicos (calor, chamas e frio);
 
-Protectores amovíveis do peito do pé;
+Choques elétricos e trabalhos sob tensão (antiestático, condutor, isolante);
 
-Polainas;
+Riscos químicos;
 
-Solas amovíveis (anticalor, antiperfuração ou antitranspiração);
+Risco de vibração;
 
-Grampos amovíveis para o gelo, a geada, neve, solos escorregadios.
+Riscos biológicos.
 
-Protecção da pele:
+Protetores amovíveis do peito do pé contra riscos mecânicos.
 
-Cremes de protecção/pomadas.
+Joelheiras contra riscos mecânicos.
 
-Protecção do tronco e do abdómen:
+Polainas contra riscos mecânicos, térmicos e químicos e agentes biológicos.
 
-Coletes, casacos e aventais de protecção contra agressões mecânicas (perfuração, cortes, projecção de metais em fusão, etc.);
+Acessórios (p. ex., bicos e ganchos para calçado).
 
-Coletes, casacos e aventais de protecção contra agressões químicas;
+Proteção da pele - Cremes protetores (1)
 
-Coletes munidos de dispositivos de aquecimento;
+Podem ser utilizados cremes protetores contra:
 
-Coletes de salvação;
+Radiações não ionizantes (UV, IV, radiação solar ou de soldadura);
 
-Aventais de protecção contra raios X;
+Radiações ionizantes;
 
-Cintos de segurança do tronco.
+Produtos químicos;
 
-Protecção do corpo inteiro:
+Agentes biológicos;
 
-Equipamentos de protecção contra quedas:
+Riscos térmicos (calor, chamas e frio).
 
-Equipamentos ditos «antiquedas» (equipamentos completos, incluindo todos os acessórios necessários para a sua utilização);
+Equipamento para proteção do corpo/outra proteção da pele
 
-Equipamentos com travão «absorvente de energia cinética» (equipamentos completos, incluindo todos os acessórios necessários para a sua utilização);
+Equipamento de proteção individual para proteção contra quedas em altura, como sistemas antiqueda retráteis, arneses de corpo inteiro, arneses para trabalhos em suspensão/de assento, cintos de manutenção e retenção, linhas de manutenção na posição de trabalho, amortecedores de energia, trava-quedas guiados, incluindo linhas de ancoragem, cordas de regulação, sistemas de ancoragem, que não sejam concebidos para serem fixados de modo permanente e que não exijam uma ação de fixação antes de serem utilizados, conectores, linhas e cabos, arneses de salvamento.
 
-Dispositivos de preensão do corpo (cintos de segurança);
+Vestuário de proteção, incluindo do corpo inteiro (ou seja, fatos de proteção, fatos-macaco) e parcial (ou seja, polainas, calças, casacos, coletes, aventais, joelheiras, carapuços, cogulas), contra:
 
-Vestuário de protecção:
+Riscos mecânicos;
 
-Vestuário de trabalho, dito «segurança» (duas peças e fato-macaco);
+Riscos térmicos (calor, chamas e frio);
 
-Vestuário de protecção contra agressões mecânicas (perfuração, cortes, etc.);
+Produtos químicos;
 
-Vestuário de protecção contra agressões químicas;
+Agentes biológicos;
 
-Vestuário de protecção contra projecções de metais em fusão e raios infravermelhos;
+Radiações ionizantes e contaminação radioativa;
 
-Vestuário de protecção contra o calor;
+Radiações não ionizantes (UV, IV, radiação solar ou de soldadura);
 
-Vestuário de protecção contra o frio;
+Choques elétricos e trabalhos sob tensão (antiestático, condutor, isolante);
 
-Vestuário de protecção contra a contaminação radioactiva;
+Enredamento e entalamento.
 
-Vestuário antipoeiras;
+Coletes salva-vidas para prevenção do afogamento e dispositivos de flutuação.
 
-Vestuário antigás;
+EPI para sinalização visual da presença do utiliza.
 
-Vestuário e acessórios (braçadeiras, luvas, etc.), fluorescentes de sinalização, retro-reflectores;
-
-Coberturas de protecção.
+(1) Em certas circunstâncias, e em função da avaliação dos riscos, podem ser utilizados cremes protetores juntamente com outros EPI com o objetivo de proteger a pele de riscos conexos. Os cremes protetores são considerados EPI uma vez que este tipo de equipamento pode, em determinadas circunstâncias, ser entendido como «complementar ou acessório», na aceção do n.º 1 do artigo 3.º do Decreto-Lei n.º 348/93, de 1 de outubro. No entanto, estes cremes protetores não são considerados EPI de acordo com a definição do artigo 3.º, n.º 1, do Regulamento (UE) 2016/425.
