@@ -1,0 +1,5 @@
+Aviso n.º 21525/2021
+Sumário: Projeto de Regulamento de Atribuição de Distinções Honoríficas do Município de Almeida.
+António José Monteiro Machado, Presidente da Câmara Municipal de Almeida, torna público que, de acordo com a deliberação tomada em reunião ordinária da Câmara do dia 02 de novembro de 2021, e nos termos e em cumprimento do disposto no artigo 56.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, conjugado com o artigo 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, é submetido a consulta pública, durante o prazo de 30 dias úteis a contar da data da publicação do presente Aviso no Diário da República, 2.ª série, o Projeto de Regulamento de Atribuição de Distinções Honoríficas do Município de Almeida, encontrando-se o mesmo disponível para consulta na página eletrónica do Município em http://www.cm-almeida.pt
+9 de novembro de 2021. - O Presidente da Câmara Municipal, Eng.º António José Monteiro Machado.
+314717752
