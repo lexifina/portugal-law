@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=z0cicdXsctfDc%2f9d1yARp1h7LFP%2fPGVMel8b9Bs7qvIqqHf34aeiO%2fdSKc0kDVR%2fLPbpEhs8U02z8aTDhVPvFDlF%2fdKEEctQOAVBXAtX7LLShPZo92EzlqrMf22g5W0QzGV0aCZng02VuQ2i47rX6KSQmaNsnVdROvmsS6SfIEfjwTnjcIIdg5uaB26FYEsyBxpEx535%2flU1eVLFTgnGeYJwshXN9MyVA9O79pSzvAtRnFl4FA9LHWO0i%2fC6Jes0DgOirCwusGnDpbNeLznaglZoqG5yA3uKgOEVajD%2bffRtAHBPCFjXYUZYch%2fFDjvpml8adBIDDiTp4ORyeY%2buOiAEn0WrTw1oHDEHpIHFYgc2Z%2f2WA%2bcWd1S5gBz1pfYaXvKLX4rMWQ6%2fHvxYqG7g79%2bPFDMkB%2bjM%2f8YhHh57FjA%3d&fich=RequerimentosXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "96fd1f34afbaf4a538efe509d9bf0017a1ace25d2f4cc53999570fe4dcaa1746",
+  "legislatura": "XIV",
+  "id": "122483",
+  "tipo": "Pergunta",
+  "numero": "270",
+  "data_registo": "2021-11-16",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Controlo da espécie invasora jacinto-de-água na Bacia Hidrográfica do Vouga",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5706",
+        "nome": "Alma Rivera"
+      }
+    ],
+    "DataEnvio": "2021-11-17",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2021-11-17",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro do Ambiente e  Ação Climática",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2022-02-02",
+            "docRemetida": null,
+            "entidade": "Ministro do Ambiente e  Ação Climática",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d314e4d4c3246694e6a51334e7a64694c5442695a546b744e446b315979316959324a6d4c5446694d7a597a4e5449344e5449774d5335775a47593d&fich=ab64777b-0be9-495c-bcbf-1b3635285201.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2021-11-16",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d314e4d4c7a49334d44566b4f54557a4c5751784d4749744e4755324d693034596a4d7a4c5759324d6a5a6a4d6a553559574668595335775a47593d&fich=2705d953-d10b-4e62-8b33-f626c259aaaa.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "122483",
+    "Legislatura": "XIV",
+    "Nr": "270",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Pergunta"
+  }
+}
