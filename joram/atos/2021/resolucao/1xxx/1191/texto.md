@@ -1,0 +1,32 @@
+# Resolução n.º 1191/2021
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 207/2021, 2.º suplemento, de 2021-11-16
+
+**Sumário:** Autoriza a primeira alteração ao contrato-programa de desenvolvimento desportivo (CPDD) n.º 9/2021, de 27 de abril, celebrado com a A.S.R.A.M. - Associação de Surf da Região Autónoma da Madeira, autorizado pela Resolução n. 271/2021, de 15 de abril, publicada no Jornal Oficial, I série, n.º 69, de 19 de abril.
+
+## Texto
+
+Resolução n.º 1191/2021
+Considerando que através da Resolução n.º 271/2021, de 15 de abril, publicada no JORAM, I série, n.º 69, de 19 de abril, foi aprovada a celebração de um contrato-programa de desenvolvimento desportivo entre a Região Autónoma da Madeira, através da Direção Regional de Desporto e a A.S.R.A.M. - Associação de Surf da Região Autónoma da Madeira, para a comparticipação financeira tendo em vista a divulgação, promoção e organização de atividades desportivas, particularmente no que respeita à competição desportiva regional, a iniciativas promovidas em conjunto com as escolas/desporto escolar, ao praticante de elevado potencial, à formação de recursos humanos e ao funcionamento administrativo, técnico e desportivo da referida associação, na época desportiva 2020/2021
+Considerando o previsto no n.º 2 do artigo 20.º e do n.º 9 do artigo 26.º da Portaria n.º 797/2020, de 15 de dezembro, alterada e republicada pela Portaria n.º 657/2021, de 30 de setembro, Plano Regional de Apoio ao Desporto, para a época 2020/2021, terão de ser alteradas as cláusulas 4.º e 5.ª do contrato-programa.
+O Conselho do Governo reunido em plenário em 11 de novembro de 2021, resolve:
+1. Ao abrigo do disposto nos artigos 35.º e 38.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, que aprovou o Orçamento da Região Autónoma da Madeira (ORAM) para o ano 2021, conjugado com o artigo 2.º, o artigo 3.º, alínea a) do n.º 1 do artigo 4.º e n.º 1 do artigo 5.º do Decreto Legislativo Regional n.º 12/2005/M, de 26 de julho, que aprovou o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, alterado pelo Decreto Legislativo Regional n.º 4/2007/M, de 11 de janeiro, diploma que também estabelece as bases do sistema desportivo da Região Autónoma da Madeira, pelo Decreto Legislativo Regional n.º 29/2008/M, de 12 de agosto, e pelo Decreto Legislativo Regional n.º 14/2014/M, de 21 de novembro, n.º 1 do artigo 57.º do Decreto Legislativo Regional n.º 4/2007/M, de 11 de janeiro, conjugado com a Resolução n.º 779/2021, de 26 de agosto, que procedeu à sexta alteração à Resolução n.º 810/2012, de 6 de setembro, que aprova o regulamento de apoio ao desporto na Região Autónoma da Madeira, a Portaria n.º 797/2020, de 15 de dezembro, que aprova o plano regional de apoio ao desporto, para a época desportiva 2020/2021, alterada e republicada pela Portaria n.º 657/2021, de 30 de setembro, a alínea h) do n.º 2 do artigo 4.º do Decreto
+
+Regulamentar Regional n.º 15/2020/M, de 2 de março, que aprovou a orgânica da Direção Regional de Desporto, e alínea j) do n.º 1 do Despacho n.º 139/2020, de 10 de março, publicado no JORAM, II série, n.º 69, de 8 de abril, autorizar a primeira alteração ao contrato-programa de desenvolvimento desportivo (CPDD) n.º 9/2021, de 27 de abril, celebrado com a A.S.R.A.M. - Associação de Surf da Região Autónoma da Madeira, autorizado pela Resolução n. 271/2021, de 15 de abril, publicada no JORAM, I série, n.º 69, de 19 de abril.
+2. Alterar as cláusulas 4.ª e 5.ª do CPDD, passando a ter a seguinte redação:
+“Cláusula 4.ª (Comparticipação financeira)
+1. Para a prossecução do objeto estabelecido na cláusula 1.ª e dos objetivos definidos na cláusula 2.ª, a DRD concede uma comparticipação financeira à Associação até ao limite máximo de 21 279,73 € (vinte e um mil, duzentos e setenta a nove euros e setenta a três cêntimos), distribuído da seguinte forma:
+Apoio à Atividade - 7 485,13 € Iniciativas Desporto Escolar - 2 813,14 € Praticante de Elevado Potencial - 10 889,30 € Formação de Recursos Humanos -92,16 € TOTAL -21 279,73 €
+2. A comparticipação financeira referida no número anterior será processada nos termos do artigo 3.º do Plano Regional de Apoio ao Desporto para a época desportiva 2020/2021, aprovado pela Portaria n.º 797/2020, de 15 de dezembro, alterada e republicada pela Portaria n.º 657/2021, de 30 de setembro.
+3. De acordo com o disposto nos n.ºs 1 e 2 do artigo 20.º e nos n.ºs 8 e 9 do artigo 26.º da Portaria n.º 797/2020, de 15 de dezembro, na alteração à mesma, a comparticipação financeira, prevista no n.º 1 desta cláusula, pode ser distribuída de outra forma, desde que não exceda o montante máximo do apoio previsto neste CPDD, procedendo-se para o efeito à respetiva alteração do cabimento e de todos os inerentes documentos financeiros, de acordo com a classificação da despesa dos valores efetivamente apurados, ficando neste caso, dispensada a alteração a este CPDD, bem como a aprovação através de Resolução de Conselho do Governo Regional.
+4. (…)
+Cláusula 5.ª (Dotação orçamental)
+As verbas que asseguram a execução deste CPDD são inscritas no Orçamento da DRD, com os números de compromisso 11 de novembro”.
+3. A alteração ao CPDD a celebrar tem início na data da sua assinatura e termina a 31 de dezembro de 2021.
+4. Aprovar a minuta de alteração do CPDD, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+5. Mandatar o Secretário Regional de Educação, Ciência e Tecnologia para, em representação da Região Autónoma da Madeira, homologar a alteração ao contrato-programa, que será outorgado pelas partes.
+6. A despesa resultante do CPDD a celebrar tem cabimento na classificação orgânica 45.9.50.05.00, na rubrica D.04.07.01.RA.K0, do projeto 50695 - Promoção e desenvolvimento das modalidades desportivas amadoras e na rubrica D.04.07.01.RA.K0 do projeto 50701 - Apoio aos diversos setores da atividade desportiva, do orçamento da Direção Regional de Desporto .
+7. A presente despesa tem os números de compromisso CY52106314 e CY52115907.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
