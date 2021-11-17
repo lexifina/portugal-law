@@ -1,0 +1,36 @@
+Decreto-Lei n.º 98/2021
+de 16 de novembro
+Sumário: Unifica os procedimentos para produção de eletricidade a partir da conversão de energia solar por centros eletroprodutores fotovoltaicos flutuantes a instalar em albufeiras.
+O combate às alterações climáticas constitui um dos principais desafios estratégicos assumidos pelo XXII Governo Constitucional, para cujo cumprimento a descarbonização da economia e da sociedade, o apoio às iniciativas da transição energética e o reforço da aposta nas energias de fonte renovável, para a consequente redução da dependência energética e uso eficiente de recursos, assumem inequívoca relevância.
+Nesse sentido, cumpre acelerar a produção de eletricidade a partir de fontes de energia renovável mediante, entre outras medidas de ação, a promoção do desenvolvimento de nova capacidade renovável através da adoção de um sistema de leilão de atribuição de capacidade de injeção na Rede Elétrica de Serviço Público (RESP) nos termos do Plano Nacional Energia e Clima 2030, aprovado pela Resolução do Conselho de Ministros n.º 53/2020, de 10 de julho. Para o efeito, o regime jurídico aplicável às atividades de produção, armazenamento, transporte, distribuição e comercialização de eletricidade, aprovado pelo Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, prevê a possibilidade de atribuição de reserva de capacidade de injeção na RESP mediante a realização de prévio procedimento concorrencial, que pode revestir a modalidade de leilão eletrónico, e cujos termos podem acelerar a realização de investimento em nova capacidade renovável e assegurar a prioridade aos projetos com menores custos e com maiores garantias de execução.
+Considerando o sucesso dos leilões específicos para o solar fotovoltaico realizados nos anos de 2019 e de 2020, cujos resultados permitiram bater o recorde mundial dos mais baixos preços de energia solar registados com significativos benefícios para os consumidores, o Governo pretende proceder ao lançamento de novo procedimento concorrencial para a atribuição de reserva de capacidade de injeção na RESP para eletricidade a partir da conversão de energia solar em centros eletroprodutores fotovoltaicos flutuantes a instalar no domínio público hídrico mediante o aproveitamento dos planos de água das albufeiras de águas públicas.
+Nos termos do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual, a atribuição da licença de produção dos centros eletroprodutores a instalar em espaço hídrico sob a soberania ou jurisdição nacional depende, entre outros requisitos, dos respetivos títulos de utilização privativa, cujos procedimentos de atribuição podem assumir natureza concorrencial nos termos dos respetivos regimes jurídicos e à semelhança do disposto para a atribuição do título de reserva de capacidade de injeção na RESP.
+Nesse sentido, e para o exclusivo efeito do pretendido procedimento concorrencial, importa proceder à unificação dos procedimentos para a atribuição simultânea dos respetivos títulos, com vista, por um lado, à celeridade e procedência prática dos processos iniciados para o exercício da atividade de produção de eletricidade e, por outro, à salvaguarda dos objetivos ambientais subjacentes ao quadro normativo aplicável à utilização do domínio público hídrico, constituído pela Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, na sua redação atual, e diplomas complementares.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente decreto-lei unifica os procedimentos de natureza concorrencial para a atribuição dos títulos de reserva de capacidade de injeção na Rede Elétrica de Serviço Público (RESP) para eletricidade a partir da conversão de energia solar por centros eletroprodutores fotovoltaicos flutuantes a instalar em albufeiras e dos títulos de utilização privativa dos recursos do domínio público hídrico necessários.
+Artigo 2.º
+Unificação de procedimentos
+1 - A atribuição do título de reserva de capacidade de injeção na RESP para eletricidade a partir da conversão de energia solar por centros eletroprodutores fotovoltaicos flutuantes a instalar em albufeiras e a atribuição do título de utilização privativa dos recursos do domínio público hídrico necessários para o efeito são objeto de um único procedimento concorrencial em conformidade com a legislação e os planos de gestão aplicáveis aos referidos recursos do domínio público hídrico, de forma a garantir a sua preservação e os respetivos objetivos ambientais.
+2 - Os membros do Governo responsáveis pelas áreas da energia e do ambiente determinam a abertura do procedimento concorrencial referido no número anterior e aprovam as respetivas peças.
+3 - No âmbito do procedimento concorrencial referido no n.º 1, são entidades adjudicantes as entidades competentes para atribuição dos títulos de utilização privativa dos recursos do domínio público hídrico e a Direção-Geral de Energia e Geologia, nos termos estabelecidos nas peças do procedimento.
+4 - A emissão dos títulos de utilização privativa dos recursos do domínio público hídrico referidos no n.º 1 ocorre após a aprovação dos projetos, sem prejuízo do disposto no número seguinte.
+5 - Nos casos em que os projetos estejam, nos termos da legislação aplicável, sujeitos ao procedimento de avaliação de impacte ambiental ou ao procedimento de análise de incidências ambientais, a emissão dos títulos de utilização privativa dos recursos do domínio público hídrico referidos no n.º 1 ocorre após a emissão das respetivas decisões favoráveis ou condicionalmente favoráveis.
+Artigo 3.º
+Albufeiras
+O procedimento concorrencial referido no n.º 1 do artigo anterior abrange as albufeiras referidas no anexo ao presente decreto-lei e do qual faz parte integrante, nas condições nele estabelecidas.
+Artigo 4.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 28 de outubro de 2021. - Mariana Guimarães Vieira da Silva - Inês dos Santos Costa.
+Promulgado em 5 de novembro de 2021.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 9 de novembro de 2021.
+O Primeiro-Ministro, António Luís Santos da Costa.
+ANEXO
+(a que se refere o artigo 3.º)
+(ver documento original)
+114719145
