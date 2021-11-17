@@ -1,0 +1,15 @@
+Aviso n.º 21663/2021
+Sumário: Revisão do Plano Diretor Municipal de Mértola - início do procedimento.
+Revisão do Plano Diretor Municipal
+Mário José Santos Tomé, Presidente da Câmara Municipal de Mértola, torna público, em cumprimento do preceituado nos n.os 1 e 2 do artigo 76.º conjugado com o n.º 3 do artigo 119.º, ambos do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de setembro, na redação dada pelo Decreto-Lei n.º 80/2015 de 14 de maio, e com as alterações introduzidas pelo Decreto-Lei n.º 25/2021 de 29 de março, adiante designado por RJIGT, que a Câmara Municipal de Mértola, em reunião de 18 de agosto de 2021, deliberou por unanimidade, dar inicio ao procedimento de Revisão do Plano Diretor Municipal de Mértola, ratificado pela Resolução de Conselho de Ministros n.º 162/95, publicada na 1.ª série-B do Diário da República n.º 221, de 6 de dezembro de 1995, que deverá estar concluído no prazo de 12 meses.
+Mais torna público, que nos termos do n.º 2 do artigo 88.º do RJIGT, foi deliberado estabelecer um período de 15 dias úteis, para participação pública, contados a partir do dia seguinte à publicação do presente aviso e respetiva deliberação no Diário da República, podendo os interessados formular sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento. Estas deverão ser apresentadas por escrito e dentro do prazo atrás referido, dirigidas ao Sr. Presidente da Câmara Municipal de Mértola, por via postal, entregues presencialmente na DPETAJ - Divisão de Planeamento Estratégico e Territorial e Apoio Jurídico, desta Câmara Municipal, sita no Largo do Rossio do Carmo, n.º 2, 7750-326 Mértola ou através de endereço eletrónico para geral@cm-mertola.pt.
+Os interessados poderão consultar a referida deliberação e os documentos que a integram, no sitio eletrónico do Município (http://www.cm-mertola.pt) ou na instalações da DPETAJ.
+Para constar, publica-se o presente aviso que vai ser afixado nos lugares de estilo, bem como publicado na 2.ª série do Diário da República e na imprensa.
+5 de novembro de 2021. - O Presidente da Câmara Municipal, Mário José Santos Tomé.
+Deliberação
+A Câmara Municipal de Mértola, em reunião realizada em 18 de agosto de 2021, após votação nominal, deliberou por unanimidade:
+Dar início ao processo de revisão do Plano Diretor Municipal de Mértola, nos termos do consagrado nos n.os 1 e 2 do artigo 76.º do RJIGT;
+Estabelecer o prazo de 12 meses para elaboração do plano, prorrogáveis por uma única vez por um período máximo igual ao previamente definido, de acordo com o previsto nos n.os 6 e 7 do já citado artigo 76.º;
+Fixar um prazo de 15 dias úteis de período de participação, nos termos do n.º 1 do artigo 76.º conjugado com o n.º 2 do artigo 88.º, para formalização de sugestões, bem como para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do processo de revisão do Plano Diretor Municipal de Mértola.
+5 de novembro de 2021. - O Presidente da Câmara Municipal, Mário José Santos Tomé.
+614723632
