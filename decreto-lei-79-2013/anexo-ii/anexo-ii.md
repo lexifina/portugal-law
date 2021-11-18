@@ -172,7 +172,7 @@ c) 21 de julho de 2024, no respeitante aos instrumentos industriais de monitoriz
 
 Caduca a 31 de março de 2022.
 
-42 - Mercúrio em conectores elétricos rotativos utilizados em sistemas de imagiologia de ultrassom intravascular capazes de funcionar a alta frequência (maior que) 50 MHz). Caduca em 30 de junho de 2019.
+42 - Mercúrio em conectores elétricos rotativos utilizados em sistemas de imagiologia de ultrassom intravascular capazes de funcionar a alta frequência (maior que) 50 MHz). Caduca em 30 de junho de 2026.
 
 43 - Ânodos de Cádmio em células Hersch para sensores de oxigénio utilizados em instrumentos industriais de monitorização e controlo, se for necessária uma sensibilidade inferior a 10 ppm.
 
