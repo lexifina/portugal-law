@@ -1,0 +1,75 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "886",
+    "id": "120955",
+    "titulo": "Cessação de vigência do regime excecional de medidas de flexibilização da execução das penas e das medidas de graça no âmbito da prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, constante da Lei n.º 9/2020, de 10 de abril"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2021-11-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2021-11-19",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1261049",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "940241",
+        "obs": null,
+        "pag": [
+          "58-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-20",
+        "pubLeg": "XIV",
+        "pubNr": "26",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/026/2021-11-20/58?pgs=58-59&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-11-19",
+        "descricao": "Texto Final apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo ao Projeto de Lei n.º 886/XIV/2.ª (CDS-PP) ",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PEV</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I><BR>Contra:<I>4-PS</I>, <I> Bruno Aragão (PS)</I>, <I> Cláudia Santos (PS)</I>, <I> Isabel Alves Moreira (PS)</I>, <I> José Magalhães (PS)</I><BR>Abstenção:<I>1-PS</I>, <I> BE</I>, <I> PAN</I>, <I> Filipe Neto Brandão (PS)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Ausência: <I>CH</I>",
+        "id": "92290",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "26",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
