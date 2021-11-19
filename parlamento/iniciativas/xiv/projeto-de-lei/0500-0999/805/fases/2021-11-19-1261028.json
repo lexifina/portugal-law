@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "805",
+    "id": "110702",
+    "titulo": "Cria o crime de enriquecimento injustificado e ocultação de riqueza  (2.ª alteração ao regime do exercício de funções por titulares de cargos políticos e altos cargos públicos)\n"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2021-11-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2021-11-19",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1261028",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "940227",
+        "obs": null,
+        "pag": [
+          "57-58"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-20",
+        "pubLeg": "XIV",
+        "pubNr": "26",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/026/2021-11-20/57?pgs=57-58&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-11-19",
+        "descricao": "Texto de Substituição, apresentado pela Comissão de Transparência e Estatuto dos Deputados relativo aos Projetos de Lei n.ºs 805/XIV/2.ª (BE); 816/XIV/2.ª (PS); 843/XIV/2.ª (PAN); 860/XIV/2.ª (PEV) e 874/XIV/2.ª (IL) - Votação do n.º 1 do artigo 18.º A da Lei n.º 52/2019 de 31 de julho, aditado pelo artigo 4.º do texto de substituição, requerida pelo PSD",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>PSD</I><BR>Ausência: <I>CH</I>",
+        "id": "92264",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "26",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-11-19",
+        "descricao": "Texto de Substituição, apresentado pela Comissão de Transparência e Estatuto dos Deputados relativo aos Projetos de Lei n.ºs 805/XIV/2.ª (BE); 816/XIV/2.ª (PS); 843/XIV/2.ª (PAN); 860/XIV/2.ª (PEV) e 874/XIV/2.ª (IL) - Votação da subalínea ii) da alínea c) do n.º 2 do artigo 18.º A da Lei n.º 52/2019 de 31 de julho, aditado pelo artigo 4.º do texto de substituição, requerida pelo PSD",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> IL</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PSD</I><BR>Ausência: <I>CH</I>",
+        "id": "92265",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "26",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "CH"
+        ],
+        "data": "2021-11-19",
+        "descricao": "Texto de Substituição, apresentado pela Comissão de Transparência e Estatuto dos Deputados relativo aos Projetos de Lei n.ºs 805/XIV/2.ª (BE); 816/XIV/2.ª (PS); 843/XIV/2.ª (PAN); 860/XIV/2.ª (PEV) e 874/XIV/2.ª (IL) - Votação da assunção pelo Plenário das votações indiciárias realizadas na especialidade em sede de Comissão",
+        "detalhe": "Ausência: <I>CH</I>",
+        "id": "92266",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "26",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
