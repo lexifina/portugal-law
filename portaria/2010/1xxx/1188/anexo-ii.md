@@ -28,10 +28,4 @@ Captação FR2
 
 Pólo de captação de Fonte da Senhora - Passil
 
-Captação CBR1
-
-(ver documento original)
-
-Captação FR3
-
-(ver documento original)
+(Revogado.)

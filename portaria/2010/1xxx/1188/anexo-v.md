@@ -14,6 +14,6 @@ Pólo de captação do Samouco
 
 (ver documento original)
 
-Pólo de captação de Fonte da Senhora - Passil
+Polo de captação de Fonte da Senhora - Passil
 
-(ver documento original)
+(Revogado.)
