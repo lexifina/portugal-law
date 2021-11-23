@@ -1,0 +1,246 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13694",
+  "numero": "324",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-11-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-09-22",
+            "entidades": null,
+            "id": "127657",
+            "tipo": null,
+            "titulo": "Audição em 2022-09-22 com Peticionários da Petição n.º 324/XIV/3ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-12-16",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-07-05",
+        "DataArquivo": "2022-12-20",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2022-12-22",
+        "DataReaberta": "2022-07-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-07-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a646d4e6a4d7959544e6a4c545178597a63744e4441795a4331695a5467344c5449314e5449784f5467795a574d324d5335775a47593d&fich=7f632a3c-41c7-402d-be88-25521982ec61.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-22",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a49304d4759304e544e6c4c546b794d4751744e4756685a4330344d4459304c5449324d6a45354e325979596d49314d7935775a47593d&fich=240f453e-920d-4ead-8064-262197f2bb53.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-22",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a597a4f54566b597a45344c57526a4d4467744e44526c5a4330354d5455304c546b314e5745784e54646a4d6a45795a5335775a47593d&fich=6395dc18-dc08-44ed-9154-955a157c212e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-07-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a526b4e4751314d4455304c5759335a4751744e475932596930354e5451354c5467344f4759304d4445335a4455784d4335775a47593d&fich=4d4d5054-f7dd-4f6b-9549-888f4017d510.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-07-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a526a597a4e694d4455324c5455344f444d744e4441334d6931684e5442684c544d794e7a67334e6a646a4e6d526a4f4335775a47593d&fich=4cc3b056-5883-4072-a50a-3278767c6dc8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a686a5a44466a4f575a6d4c546c6a5a4441744e4467334d5330344f4451324c57526a4d545178597a4131593252695a6935775a47593d&fich=8cd1c9ff-9cd0-4871-8846-dc141c05cdbf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3245315a57497a597a646b4c5452694d7a63744e446b335a4330354e4449354c5446684d47557959545a694e6a4d795a5335775a47593d&fich=a5eb3c7d-4b37-497d-9429-1a0e2a6b632e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a67305a446b30595759344c546b344d6d55744e444d314f4330355a544a694c574d344e4455315a6a59794f44417a4e7935775a47593d&fich=84d94af8-982e-4358-9e2b-c8455f628037.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-12-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3256684d6a4a6a4f475a6a4c5463324f546b744e4759344f5331694d4451314c574d794e474935595463324f5745334f5335775a47593d&fich=ea22c8fc-7699-4f89-b045-c24b9a769a79.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-07-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c32526b5a6d526d5a54566b4c57526c4d7a6b744e4455334d6930344d32457a4c545a684f4455354f545a6b4d6a56685a5335775a47593d&fich=ddfdfe5d-de39-4572-83a3-6a85996d25ae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a4a6d596a4e68595467324c57566b595745744e474e6a4e5330355a5751774c544d7a4d6a4e6d4e3249785a6a41784e7935775a47593d&fich=2fb3aa86-edaa-4cc5-9ed0-3323f7b1f017.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8337",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-12-20",
+            "dataNomeacao": "2022-07-05",
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": "Entrega do Relatório",
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2021-11-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7504",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2021-11-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3255345a474e694e324a6b4c5445774f4463744e47466a597931684d4756684c54593459325932596d45354d6a49344e5335775a47593d&fich=e8dcb7bd-1087-4acc-a0ea-68cf6ba92285.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13694",
+    "PetAssunto": "Não a Grandes Projetos Hoteleiros para a Aldeia do Meco ( NOVA PETIÇÃO )",
+    "PetDataEntrada": "2021-11-23",
+    "PeticoesAssociadas": null,
+    "PetId": "13694",
+    "PetLeg": "XIV",
+    "PetNr": "324",
+    "PetNrAssinaturas": "4055",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915137",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-15",
+        "pubLeg": "XV",
+        "pubNr": "21",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/021/2022-07-15/13?pgs=13-14&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915177",
+        "obs": "Relatório Final da Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local",
+        "pag": [
+          "16-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-23",
+        "pubLeg": "XV",
+        "pubNr": "53",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/053/2022-12-23/16?pgs=16-20&org=PLC"
+      }
+    ]
+  }
+}
