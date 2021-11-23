@@ -1,0 +1,221 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13696",
+  "numero": "326",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2021-11-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-12-13",
+            "entidades": null,
+            "id": "127829",
+            "tipo": null,
+            "titulo": "Audição em 2022-12-13 com Julian Henrique Dias Rodrigues"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-12-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": "2022-12-14",
+              "descricao": null,
+              "detalhe": null,
+              "id": "103786",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "48",
+              "tipoReuniao": "Ordinária",
+              "unanime": "N"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-04-20",
+        "DataArquivo": "2022-12-14",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2022-12-21",
+        "DataReaberta": "2022-04-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-04-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e6862793832593259774d444d335a53316a4d446b354c5451334d7a4574595449345a5331684d5441794e7a5133597a51314e4759756347526d&fich=6cf0037e-c099-4731-a28e-a102747c454f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938304e32526c4e6a41304e5330355a6d55784c545133597a51744f544d314e7930795a474a684e6a49354d4456685a5451756347526d&fich=47de6045-9fe1-47c4-9357-2dba62905ae4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-05-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279387a4d7a4e684d54566d4d5330334e3249314c54526a5a4749744f545a685a533031596a4d774d7a67355a6d526a5a5755756347526d&fich=333a15f1-77b5-4cdb-96ae-5b30389fdcee.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-12-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627939694d4459314d446c694e7931684d6a42684c5451334f4749744f5463784e5330335a4467324d44466d5a544e68596a41756347526d&fich=b06509b7-a20a-478b-9715-7d8601fe3ab0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-05-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279387a5a6a55785a6a49344f5330785a44686a4c5451324d7a597459574a6859693078595456694d7a6c694e5445794e5751756347526d&fich=3f51f289-1d8c-4636-abab-1a5b39b5125d.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-12-14",
+            "dataNomeacao": "2022-04-20",
+            "gp": "PS",
+            "id": "6543",
+            "motivoCessacao": "Relatório aprovado",
+            "nome": "Alexandra Leitão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2021-11-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7264",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2022-02-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a466a5a4751784d7a41354c54686d4e6a63744e446c694e5331694e7a67344c545977596d49314d6d4d355a575a6c4d6935775a47593d&fich=1cdd1309-8f67-49b5-b788-60bb52c9efe2.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2021-12-07",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a51325a54426c4f4451334c546b774d6a41744e475134595330344e6a4e684c546c6c4f575a685a4455325a445132597935775a47593d&fich=46e0e847-9020-4d8a-863a-9e9fad56d46c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13696",
+    "PetAssunto": "Inconstitucionalidade e Ilegalidade do artigo 14.º da Lei da Nacionalidade (Lei n.º 37/81, de 03 de outubro)",
+    "PetDataEntrada": "2021-11-23",
+    "PeticoesAssociadas": null,
+    "PetId": "13696",
+    "PetLeg": "XIV",
+    "PetNr": "326",
+    "PetNrAssinaturas": "2780",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915118",
+        "obs": null,
+        "pag": [
+          "8-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-02",
+        "pubLeg": "XV",
+        "pubNr": "18",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/018/2022-07-02/8?pgs=8-14&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915178",
+        "obs": "Relatório final da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "pag": [
+          "20-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-23",
+        "pubLeg": "XV",
+        "pubNr": "53",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/053/2022-12-23/20?pgs=20-24&org=PLC"
+      }
+    ]
+  }
+}
