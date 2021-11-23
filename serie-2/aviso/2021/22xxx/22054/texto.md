@@ -1,0 +1,15 @@
+Aviso n.º 22054/2021
+Sumário: Abertura do período de discussão pública da alteração ao Plano Diretor Municipal de Oliveira do Bairro.
+Abertura do período de Discussão Pública da Alteração ao Plano Diretor Municipal de Oliveira do Bairro
+Duarte de Almeida Novo, Presidente da Câmara Municipal de Oliveira do Bairro, torna público, que a Câmara Municipal na sua reunião ordinária pública, realizada a 27 de outubro de 2021 deliberou, nos termos e para os efeitos do disposto nos n.os 1 e 2 do artigo 89.º, do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na sua redação atual dada pelo Decreto-Lei n.º 80/2015, de 14 de maio, determinar a abertura de um período de Discussão Pública, pelo período de 30 dias, a contar do 5.º dia a seguir à publicação do presente Aviso no Diário da República, relativo à Proposta de Alteração do Plano Diretor Municipal e da respetiva Avaliação Ambiental Estratégica, aprovada, por maioria dos votos.
+Qualquer sugestão, informação ou observação deverá ser apresentada por escrito até ao termo do referido período, dirigida ao Presidente da Câmara Municipal de Oliveira do Bairro, mediante o preenchimento de modelo de requerimento disponível no Balcão de Atendimento Integrado (BAI) ou no sítio da internet da Câmara Municipal em www.cm-olb.pt, podendo o mesmo ser entregue no BAI, ou remetido por via de correio eletrónico para o endereço cmolb@cm-olb.pt.
+Os interessados poderão consultar os documentos aprovados, na página da Internet (http://www.cm-olb.pt) ou nos serviços da Câmara Municipal, durante as horas normais de expediente.
+4 de novembro de 2021. - O Presidente da Câmara Municipal de Oliveira do Bairro, Duarte de Almeida Novo.
+Deliberação
+Reunião ordinária pública de 27 de outubro de 2021
+A Câmara Municipal deliberou por maioria, com a abstenção dos Vereadores José Soares, Clara Oliveira e Paulo Figueiredo, o seguinte:
+1.º Aprovar a Proposta de Alteração do PDM de Oliveira do Bairro, nos exatos termos exarados na Informação Técnica n.º 189.2021|DPGU, datada de 21 de outubro de 2021, que aqui se dá por integralmente reproduzida para todos os efeitos legais;
+2.º Proceder à abertura de um período de discussão pública da alteração ao PDM de Oliveira do Bairro e da respetiva Avaliação Ambiental Estratégica pelo prazo de 30 (trinta) dias úteis, a iniciar a partir do 5.º dia útil após a publicação de Aviso no Diário da República, nos termos e para os efeitos do n.º 2 do artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial, visando a formulação de sugestões sobre quaisquer questões no âmbito do respetivo procedimento de alteração, podendo a proposta de alteração e demais documentos que compõem o processo, ser consultados na Divisão de Planeamento e Gestão Urbanística da Câmara Municipal de Oliveira do Bairro e no site www.cm-olb.pt;
+3.º Enviar para publicação no Diário da República, 2.ª série, a deliberação da Câmara Municipal, e proceder à divulgação através da comunicação social e página da internet do Município.
+27 de outubro de 2021. - O Presidente da Câmara Municipal, Duarte de Almeida Novo.
+614730509
