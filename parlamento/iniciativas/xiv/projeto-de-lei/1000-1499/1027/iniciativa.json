@@ -1,0 +1,248 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "tipo": "Projeto de Lei",
+  "numero": "1027",
+  "id": "121309",
+  "fases": 15,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2021-11-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2022-03-28",
+    "DataInicioleg": "2021-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5836",
+        "nome": "Paulo Marques"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6977",
+        "nome": "Sílvia Torres"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6899",
+        "nome": "Marta Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1944",
+        "nome": "Susana Amador"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "523",
+        "nome": "Francisco Rocha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7015",
+        "nome": "Cristina Mendes da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6865",
+        "nome": "Olavo Câmara"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6886",
+        "nome": "Cristina Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5837",
+        "nome": "Alexandra Tavares de Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6048",
+        "nome": "Ivan Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5678",
+        "nome": "Ana Passos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7212",
+        "nome": "Fernando José"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2273",
+        "nome": "Rita Borges Madeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7250",
+        "nome": "Clarisse Campos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3936",
+        "nome": "Palmira Maciel"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6049",
+        "nome": "Sofia Araújo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6861",
+        "nome": "Telma Guerreiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6877",
+        "nome": "Martina Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6706",
+        "nome": "Miguel Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5635",
+        "nome": "Norberto Patinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "197",
+        "nome": "Luís Capoulas Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6129",
+        "nome": "Lúcia Araújo Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7020",
+        "nome": "Dora Brandão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6980",
+        "nome": "Maria da Graça Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4210",
+        "nome": "José Rui Cruz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4199",
+        "nome": "Anabela Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6878",
+        "nome": "Nuno Fazenda"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6050",
+        "nome": "André Pinotes Batista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6710",
+        "nome": "Sofia Andrade"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7273",
+        "nome": "Pedro Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5587",
+        "nome": "Jorge Gomes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6867",
+        "nome": "Rosário Gambôa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6682",
+        "nome": "Romualda Fernandes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "419",
+        "nome": "Joaquim Barreto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6834",
+        "nome": "Vera Braz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6919",
+        "nome": "Maria Joaquina Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7036",
+        "nome": "Francisco Pereira Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7286",
+        "nome": "Paulo Porto"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "121309",
+    "IniLeg": "XIV",
+    "IniLinkTexto": "",
+    "IniNr": "1027",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Alarga até 30 de junho de 2022 o prazo para a realização por meios de comunicação à distância das reuniões dos órgãos das autarquias locais e das entidades intermunicipais, procedendo à décima primeira alteração à Lei n.º 1-A/2020, de 19 de março, que aprova medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARSCoV-2 e da doença COVID-19",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
