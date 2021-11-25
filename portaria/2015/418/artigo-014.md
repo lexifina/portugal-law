@@ -20,4 +20,4 @@
 
 9 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.
 
-10 - O disposto nos n.os 2 e 3 não é aplicável às despesas gerais de encargos com instalações, nomeadamente despesas de funcionamento classificadas como custos indiretos, as quais decorrem das despesas com pessoal apresentadas no pedido de pagamento.
+10 - O disposto nos n.os 2 e 3 não é aplicável às despesas de funcionamento classificadas como outros custos diretos, as quais decorrem das despesas com pessoal, apresentadas no pedido de pagamento.

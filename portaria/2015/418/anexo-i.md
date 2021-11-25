@@ -2,17 +2,17 @@
 
 ### Despesas elegíveis do apoio «Custos de funcionamento e animação»
 
-(a que se refere o n.º 1 do artigo 7.º e o n.º 4 do artigo 9.º)
+(a que se referem o n.º 1 do artigo 7.º e o n.º 4 do artigo 9.º)
 
 Despesas elegíveis:
 
 Os custos operacionais ligados à implementação, gestão, acompanhamento, animação e avaliação da estratégia de desenvolvimento local, desde que demonstrada a sua necessidade estrutural em face das despesas similares que foram já cofinanciadas no anterior período de programação.
 
-A) Custos diretos com pessoal
+A) Custos diretos com pessoal:
 
 1 - Remunerações e outras prestações de natureza salarial, encargos sociais e outras despesas associadas em condições a definir em Orientação Técnica Específica;
 
-B) Outros custos diretos
+B) Outros custos diretos:
 
 2 - Despesas de formação de pessoal;
 

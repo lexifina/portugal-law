@@ -13,3 +13,5 @@
 5 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.
 
 6 - Em resultado da aplicação do n.º 9 do artigo 66.º do Decreto-Lei n.º 137/2014, de 12 de setembro, e consequente distribuição da reserva de desempenho, a Autoridade de Gestão pode, tendo em vista a adequação à nova dotação da EDL, reforçar o valor aprovado no âmbito da decisão proferida, devendo esta alteração ser comunicada nos termos dos números anteriores.
+
+7 - Em resultado da distribuição da dotação do regime de transição a que se refere o Regulamento n.º (UE) 2020/2220, do Parlamento Europeu e do Conselho, de 23 de dezembro de 2020, a Autoridade de Gestão pode, tendo em vista a adequação à nova dotação da EDL, reforçar o valor aprovado no âmbito da decisão proferida, devendo esta alteração ser comunicada nos termos dos n.os 1 a 5 do presente artigo.
