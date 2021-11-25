@@ -1,0 +1,7 @@
+Aviso n.º 63/2021
+Sumário: Comunica-se terem sido cumpridos os respetivos requisitos do direito interno de entrada em vigor do Protocolo Adicional ao Tratado entre a República Portuguesa e a República de Cabo Verde no Domínio da Fiscalização Conjunta de Espaços Marítimos sob Soberania ou Jurisdição da República de Cabo Verde.
+Por ordem superior se torna público que, em 2 de fevereiro de 2018 e 9 de agosto de 2021, foram recebidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério dos Negócios Estrangeiros, Cooperação e Integração Regional de Cabo Verde, em que se comunica terem sido cumpridos os respetivos requisitos do direito interno de entrada em vigor do Protocolo Adicional ao Tratado entre a República Portuguesa e a República de Cabo Verde no Domínio da Fiscalização Conjunta de Espaços Marítimos sob Soberania ou Jurisdição da República de Cabo Verde, assinado em Lisboa a 17 de dezembro de 2014.
+O referido Acordo foi aprovado pela Resolução da Assembleia da República n.º 100/2018 e ratificado pelo Decreto do Presidente da República n.º 26/2018, ambos publicados no Diário da República, 1.ª série, n.º 70, de 10 de abril de 2018.
+Nos termos do seu artigo 9.º, o Protocolo Adicional ao Tratado entrou em vigor em 9 de agosto de 2021.
+Direção-Geral de Política Externa, 18 de novembro de 2021. - A Subdiretora-Geral, Ana Filomena Rocha.
+114749642
