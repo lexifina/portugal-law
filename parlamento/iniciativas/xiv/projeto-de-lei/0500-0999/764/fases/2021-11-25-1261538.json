@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "764",
+    "id": "110594",
+    "titulo": "Determina a obrigatoriedade da instalação de sistema de deteção de incêndio em explorações pecuárias das classes 1 e 2, em regime intensivo, procedendo à quinta alteração ao Decreto-lei n.º 220/2008, de 12 de Novembro"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2021-11-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4755785954526c4e6d45744d6d52694e7930304e5449324c57466d5a4749744e6d557a4f57466c5a574e6b4e6d4d774c6e426b5a673d3d&fich=de1a4e6a-2db7-4526-afdb-6e39aeecd6c0.pdf&Inline=true",
+        "anexoNome": "Proposta de Alteração apresentada pelo PAN"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2021-11-25",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1261538",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-11-26",
+        "descricao": "Requerimento, apresentado pelo PAN, de avocação pelo Plenário da votação na especialidade do Projeto de Lei n.º 764/XIV/2.ª (PAN)",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PAN</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>13-PS</I>, <I> PSD</I>, <I> PCP</I>, <I> PEV</I>, <I> CH</I>, <I> IL</I>, <I> Joana Bento (PS)</I>, <I> João Miguel Nicolau (PS)</I>, <I> Martina Jesus (PS)</I>, <I> Mara Coelho (PS)</I>, <I> Clarisse Campos (PS)</I>, <I> Pedro Do Carmo (PS)</I>, <I> Telma Guerreiro (PS)</I>, <I> Joaquim Barreto (PS)</I>, <I> Luís Moreira Testa (PS)</I>, <I> António Gameiro (PS)</I>, <I> Ascenso Simões (PS)</I>, <I> Francisco Rocha (PS)</I>, <I> João Azevedo Castro (PS)</I><BR>Abstenção:<I>CDS-PP</I>",
+        "id": "92623",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926236",
+            "obs": null,
+            "pag": [
+              "64-64"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-27",
+            "pubLeg": "XIV",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/64?pgs=64&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
