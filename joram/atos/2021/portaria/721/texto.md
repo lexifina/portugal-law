@@ -1,0 +1,27 @@
+# Portaria n.º 721/2021
+
+**Emissor:** SECRETARIAS REGIONAIS DE ECONOMIA E DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 214/2021, suplemento, de 2021-11-25
+
+**Sumário:** Procede a alteração e distribuição dos encargos orçamentais previstos na Portaria n.º 110/2021, de 17 de março, que autoriza a distribuição dos encargos orçamentais relativos ao Contrato-Programa de 2021 (Projetos 51791 e 51794) a celebrar entre a Região Autónoma da Madeira, com a APRAM - Administração dos Portos da Região Autónoma da Madeira, S.A., tendo em vista a comparticipação de despesas de investimento desta sociedade, com início no ano de 2021 relativos no valor global de € 1 382 681,04. Portaria n.º 722/2021 Procede a alteração e distribuição dos encargos orçamentais previstos na Portaria n.º 100/2021, 16 de março, relativos Contrato-Programa de 2021 (Projeto 52339) celebrado com a APRAM - Administração dos Portos da Região Autónoma da Madeira, S.A., no valor global de € 575 396,43.
+
+## Texto
+
+Portaria n.º 721/2021
+de 25 de novembro
+Dando cumprimento ao disposto no n.º 1 do artigo 30.º e no n.º 1 do artigo 33.º, ambos do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, que aprovou o Orçamento da RAM para 2021, conjugados com o disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, aplicável por força do disposto na alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, revogado pelo Decreto-Lei n.º 40/2011, de 22 de março e repristinado pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, manda o Governo da Região Autónoma da Madeira, através da Secretaria Regional das Finanças e da Secretaria Regional da Economia, o seguinte:
+1. Alterar e redistribuir os encargos orçamentais previstos na Portaria n.º 110/2021, publicada no JORAM, I Série, n.º 49, de 17 de março, relativos Contrato-Programa de 2021 (Projetos 51791 e 51794) no valor global de € 1 382 681,04 (um milhão trezentos e oitenta e dois mil seiscentos e oitenta e um euros e quatro cêntimos), ao qual acresce IVA à taxa legal em vigor, se legalmente devido, na forma abaixo indicada: a) Ano Económico de 2021 - € 210 600,49 (duzentos e dez mil e seiscentos euros e quarenta e nove cêntimos); b) Ano Económico de 2022 - € 1 172 080,55 (um milhão cento e setenta e dois mil e oitenta euros e cinquenta e cinco cêntimos).
+2. A despesa emergente do contrato a celebrar relativa ao corrente ano económico tem cabimento no orçamento da Vice-Presidência do Governo Regional da Madeira, na Classificação Orgânica 43.9.50.01.03; Classificação Funcional 045; Classificação Económica D.08.04.03.00.00; Programa 052, Medida 026, Projetos 51791 e 51794, Fonte de Financiamento 392, Compromisso n.º CY52105371, e em 2022 por verbas adequadas a inscrever no orçamento do mesmo organismo.
+3. Esta Portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretaria Regional de Economia e Secretaria Regional das Finanças, assinada em 19 de novembro de 2021.
+O SECRETÁRIO REGIONAL DE ECONOMIA, Rui Miguel da Silva Barreto
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
+Portaria n.º 722/2021
+de 25 de novembro
+Dando cumprimento ao disposto no n.º 1 do artigo 30.º e no n.º 1 do artigo 33.º, ambos do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, que aprovou o Orçamento da RAM para 2021, conjugados com o disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, aplicável por força do disposto na alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, revogado pelo Decreto-Lei n.º 40/2011, de 22 de março e repristinado pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, manda o Governo da Região Autónoma da Madeira, através da Secretaria Regional das Finanças e da Secretaria Regional da Economia, o seguinte:
+1. Alterar e redistribuir os encargos orçamentais previstos na Portaria n.º 100/2021, publicada no JORAM, I Série, n.º 48, de 16 de março, relativos Contrato-Programa de 2021 (Projeto 52339) celebrado com a APRAM - Administração dos Portos da Região Autónoma da Madeira, S.A. no valor global de € 575 396,43 (quinhentos e setenta e cinco mil trezentos e noventa e seis euros e quarenta e três cêntimos), ao qual acresce IVA à taxa legal em vigor, se legalmente devido, na forma abaixo indicada: a) Ano económico de 2020 – € 325 396,43 (trezentos e vinte e cinco mil, trezentos e noventa e seis euros e quarenta e três cêntimos); b) Ano Económico de 2021 - € 189 785,00 (cento e oitenta e nove mil setecentos e oitenta e cinco euros c) Ano Económico de 2022 - € 60 215,00 (sessenta mil duzentos e quinze euros).
+2. A despesa emergente do contrato a celebrar relativa ao ano de 2021 tem cabimento no orçamento da Vice-Presidência do Governo Regional da Madeira, na Classificação Orgânica 43.9.50.01.03; Classificação Funcional 045; Classificação Económica D.08.04.03.00.00; Programa 057, Medida 034, Área Funcional 045, Projetos 52339, Fontes de Financiamento 392, 712 e 381, Compromissos n.º CY52103359 e CY52104616 e em 2022, por verbas adequadas a inscrever no orçamento do mesmo organismo.
+3. Esta Portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Secretaria Regional de Economia e Secretaria Regional das Finanças, assinada em 22 de novembro de 2021. O SECRETÁRIO REGIONAL DE ECONOMIA, Rui Miguel da Silva Barreto O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
