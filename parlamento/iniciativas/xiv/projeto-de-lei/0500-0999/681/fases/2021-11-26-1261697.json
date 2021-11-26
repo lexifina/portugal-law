@@ -1,0 +1,127 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "681",
+    "id": "110316",
+    "titulo": "Determina a proibição da prática do tiro ao voo de aves libertadas de cativeiro com o único propósito de servirem de alvo e a criação de um regime contraordenacional, procedendo à quarta alteração à Lei n.º 92/95, de 12 de setembro"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2021-11-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2021-11-26",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1261697",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "950431",
+        "obs": null,
+        "pag": [
+          "52-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-27",
+        "pubLeg": "XIV",
+        "pubNr": "29",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/52?pgs=52-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-11-26",
+        "descricao": "Proposta, apresentada pelo PAN, de alteração ao artigo 1.º;\nProposta, apresentada pelo PAN, de alteração ao artigo 2.º;\nProposta, apresentada pelo PAN, de alteração ao artigo 3.º.\n",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>15-PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> CH</I>, <I> IL</I>, <I> João Gouveia (PS)</I>, <I> João Miguel Nicolau (PS)</I>, <I> Vera Braz (PS)</I>, <I> Martina Jesus (PS)</I>, <I> Dora Brandão (PS)</I>, <I> Pedro Do Carmo (PS)</I>, <I> Joaquim Barreto (PS)</I>, <I> Cristina Jesus (PS)</I>, <I> Norberto Patinho (PS)</I>, <I> Marcos Perestrello (PS)</I>, <I> Luís Moreira Testa (PS)</I>, <I> António Gameiro (PS)</I>, <I> Hugo Costa (PS)</I>, <I> João Azevedo Castro (PS)</I>, <I> Olavo Câmara (PS)</I>",
+        "id": "92619",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926218",
+            "obs": null,
+            "pag": [
+              "52-53"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-27",
+            "pubLeg": "XIV",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/52?pgs=52-53&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2021-11-26",
+        "descricao": "Artigo 4.º;\nArtigo 5.º.\n",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>9-PS</I>, <I> PSD</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> CH</I>, <I> IL</I>, <I> Martina Jesus (PS)</I>, <I> Pedro Do Carmo (PS)</I>, <I> Joaquim Barreto (PS)</I>, <I> Norberto Patinho (PS)</I>, <I> Marcos Perestrello (PS)</I>, <I> Luís Moreira Testa (PS)</I>, <I> António Gameiro (PS)</I>, <I> João Azevedo Castro (PS)</I>, <I> Olavo Câmara (PS)</I>",
+        "id": "92620",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926219",
+            "obs": null,
+            "pag": [
+              "54-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-27",
+            "pubLeg": "XIV",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/54?pgs=54-56&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
