@@ -1,0 +1,19 @@
+Aviso n.º 22304/2021
+Sumário: Início de procedimento da quarta revisão do Plano de Urbanização de Évora, por um prazo de 35 meses.
+Início de procedimento da 4.ª revisão do Plano de Urbanização de Évora
+O Presidente da Câmara Municipal de Évora, Carlos Manuel Rodrigues Pinto de Sá, torna público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal deliberou, em reunião pública, de 27 de outubro de 2021, determinar o início da 4.ª Revisão do Plano de Urbanização de Évora, por um prazo de 35 meses.
+Para a participação pública preventiva, avisam-se todos os interessados que, nos termos do n.º 2 do artigo 88.º do referido diploma, é estabelecido o período de 25 dias úteis, contados a partir da publicação da deliberação no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página da Câmara Municipal de Évora em https://www.cm-evora.pt/municipe/areas-de-acao/ordenamento-territorio-eurbanismo/planosmunicipais/plano-de-urbanizacao-de-evora/ e nas instalações da Divisão de Ordenamento e Reabilitação Urbana (DORU), sitas no Parque Industrial e Tecnológico de Évora, Rua da Agricultura, n.º 14-26, 7005-340 Évora.
+Durante a fase de participação pública preventiva, os interessados podem formular sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do presente procedimento.
+Os interessados devem apresentar as suas observações ou sugestões por escrito e dentro do período atrás referido, dirigidas ao presidente da Câmara Municipal de Évora e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações dos serviços técnicos municipais, sitos no Parque Industrial e Tecnológico de Évora, Rua da Agricultura, n.º 14-26, 7005-340 Évora, enviadas por via postal para a Praça do Sertório, 7004-506 Évora ou por via eletrónica para cme.doru@cm-evora.pt.
+17 de novembro de 2021. - O Presidente da Câmara Municipal, Carlos Manuel Rodrigues Pinto de Sá.
+Deliberação
+Em reunião ordinária realizada no dia 27 de outubro, a Câmara Municipal de Évora, deliberou o seguinte:
+1 - Determinar dar início ao procedimento da 4.ª Revisão do Plano de Urbanização de Évora nos termos do n.º 3 do artigo 115.º e do n.º 1 e n.º 2 do artigo 124.º do Regime Jurídico dos Instrumentos de Gestão Territorial, DL n.º 80/2015, de 14 de maio, na sua versão atual e de acordo com o disposto no artigo 76.º e artigo 119.º do mesmo diploma legal.
+2 - Aprovar os Termos de Referência, relatório apresentado em anexo, e aprovar os objetivos para a 4.ª Revisão do Plano de Urbanização de Évora, integrados no mesmo relatório.
+3 - Determinar que a área de intervenção da 4.ª Revisão do Plano abrange a União de freguesias de Évora e União de freguesias de Bacelo e Senhora da Saúde, União de freguesias de Malagueira e Horta das Figueiras e Freguesia dos Canaviais, de acordo com o conteúdo dos Termos de Referência.
+4 - Determinar 35 meses como prazo de elaboração da Revisão do PUE.
+5 - Sujeitar a 4.ª Revisão do Plano de Urbanização de Évora a Avaliação Ambiental Estratégica, nos termos do n.º 1 e n.º 2 do artigo 78.º do RJIGT, DL n.º 80/2015, de 14 de maio, na sua versão atual.
+6 - Determinar a abertura de um período de vinte e cinco (25) dias de participação pública, de acordo com o disposto no n.º 2 do artigo 88.º do RJIGT, DL n.º 80/2015, de 14 de maio, na sua versão atual.
+7 - Dar conhecimento do teor da presente deliberação à Comissão de Coordenação e Desenvolvimento Regional do Alentejo (CCDRA) e solicitar o acompanhamento do processo de Revisão do PUE, nos termos do n.º 2 artigo 86.º do RJIGT, DL n.º 80/2015, de 14 de maio.
+17 de novembro de 2021. - O Presidente da Câmara Municipal, Carlos Manuel Rodrigues Pinto de Sá.
+614749975
