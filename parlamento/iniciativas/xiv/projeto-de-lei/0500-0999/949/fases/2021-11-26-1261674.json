@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "949",
+    "id": "121126",
+    "titulo": "Pelo alargamento do período de faltas justificadas por falecimento de cônjuge, parente ou afim ou perda gestacional (17.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro)"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2021-11-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2021-11-26",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1261674",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "950422",
+        "obs": null,
+        "pag": [
+          "50-51"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-27",
+        "pubLeg": "XIV",
+        "pubNr": "29",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/50?pgs=50-51&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-11-26",
+        "descricao": "Texto Final apresentado pela Comissão de Trabalho e Segurança Social relativo aos Projetos de Lei n.ºs 767/XIV/2.ª (NiCR); 926/XIV/2.ª (PAN); 927/XIV/2.ª (BE); 949/XIV/3.ª (NiJKM); 993/XIV/3.ª (PS); 1018/XIV/3.ª (PSD) ; 1023/XIV/3.ª (PCP); 1024/XIV/3.ª (IL) e 1025/XIV/3.ª (CH)",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> PEV</I>, <I> CH</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Abstenção:<I>IL</I>",
+        "id": "92595",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
