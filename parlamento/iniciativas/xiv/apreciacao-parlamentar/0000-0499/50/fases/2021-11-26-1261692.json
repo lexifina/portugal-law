@@ -1,0 +1,480 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "50",
+    "id": "120891",
+    "titulo": "Decreto-Lei nº 30/2021, de 7 de maio, que “Procede à regulamentação da lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais”"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2021-11-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17951",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2021-11-26",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "110771",
+        "leg": "XIV",
+        "nr": "48",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16174",
+            "obs": null,
+            "pag": [
+              "72-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-27",
+            "pubLeg": "XIV",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/72?pgs=72-82&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16174",
+            "obs": null,
+            "pag": [
+              "72-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-27",
+            "pubLeg": "XIV",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/72?pgs=72-82&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "A",
+        "titulo": "Decreto-Lei nº 30/2021, de 7 de maio, que “Procede à regulamentação da Lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais”"
+      },
+      {
+        "autor": "PCP, PEV",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "120888",
+        "leg": "XIV",
+        "nr": "49",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16174",
+            "obs": null,
+            "pag": [
+              "72-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-27",
+            "pubLeg": "XIV",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/72?pgs=72-82&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16174",
+            "obs": null,
+            "pag": [
+              "72-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-27",
+            "pubLeg": "XIV",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/72?pgs=72-82&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 30/2021, de 7 de maio que procede à regulamentação da Lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais\n"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2021-11-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "6933",
+                "nome": "Mariana Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "14:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-27",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/72?pgs=72&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 30/2021, de 7 de maio, que procede à regulamentação da Lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "14:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267006",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-27",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 30/2021, de 7 de maio, que procede à regulamentação da Lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6878",
+                "nome": "Nuno Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "14:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-27",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/73?pgs=73&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 30/2021, de 7 de maio, que procede à regulamentação da Lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3928",
+                "nome": "Nelson Peralta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "14:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-27",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/74?pgs=74&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 30/2021, de 7 de maio, que procede à regulamentação da Lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5710",
+                "nome": "Duarte Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "14:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-27",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 30/2021, de 7 de maio, que procede à regulamentação da Lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": null,
+                "nome": null
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "14:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-11-27",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 30/2021, de 7 de maio, que procede à regulamentação da Lei n.º 54/2015, de 22 de junho, no que respeita aos depósitos minerais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1261692",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "950417",
+        "obs": null,
+        "pag": [
+          "49-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-11-27",
+        "pubLeg": "XIV",
+        "pubNr": "29",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/49?pgs=49&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-11-26",
+        "descricao": "Texto Final apresentado pela Comissão de Ambiente, Energia e Ordenamento do Território relativo às Apreciações Parlamentares n.ºs 48/XIV/2.ª (BE), 49/XIV/2.ª (PCP e PEV) e 50/XIV/2.ª (PSD)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> BE</I>, <I> PCP</I>, <I> PAN</I>, <I> PEV</I>, <I> Cristina Rodrigues (Ninsc)</I>, <I> Joacine Katar Moreira (Ninsc)</I><BR>Contra:<I>PS</I>, <I> CDS-PP</I>, <I> IL</I><BR>Abstenção:<I>CH</I>",
+        "id": "92613",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
