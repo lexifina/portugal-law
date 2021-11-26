@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "1027",
+    "id": "121309",
+    "titulo": "Alarga até 30 de junho de 2022 o prazo para a realização por meios de comunicação à distância das reuniões dos órgãos das autarquias locais e das entidades intermunicipais, procedendo à décima primeira alteração à Lei n.º 1-A/2020, de 19 de março, que aprova medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARSCoV-2 e da doença COVID-19"
+  },
+  "fase": "Requerimento dispensa do prazo previsto Artº 157 RAR",
+  "codigo_fase": "345",
+  "data_registo": "2021-11-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "345",
+    "Comissao": null,
+    "DataFase": "2021-11-26",
+    "EvtId": "135",
+    "Fase": "Requerimento dispensa do prazo previsto Artº 157 RAR",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1261686",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2021-11-26",
+        "descricao": "Requerimento oral, apresentado pelo PS, solicitando a dispensa de redação final e do prazo para apresentação de reclamações contra inexatidões relativamente ao Projeto de Lei n.º 1027/XIV/3.ª (PS)",
+        "detalhe": null,
+        "id": "92608",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "916192",
+            "obs": null,
+            "pag": [
+              "32-32"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2021-11-27",
+            "pubLeg": "XIV",
+            "pubNr": "29",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/03/029/2021-11-27/32?pgs=32&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "29",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
