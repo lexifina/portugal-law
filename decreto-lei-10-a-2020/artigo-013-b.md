@@ -2,17 +2,17 @@
 
 ### Uso de máscaras e viseiras
 
-1 - É obrigatório o uso de máscaras ou viseiras para o acesso ou permanência no interior dos seguintes locais:
+1 - É obrigatório o uso de máscaras ou viseiras para o acesso ou permanência nos seguintes locais:
 
-a) Espaços e estabelecimentos comerciais, incluindo centros comerciais, com área superior a 400 m2;
+a) Espaços, equipamentos e estabelecimentos comerciais e de prestação de serviços, independentemente da respetiva área;
 
-b) Lojas de Cidadão;
+b) Edifícios públicos ou de uso público onde se prestem serviços ou ocorram atos que envolvam público;
 
 c) Estabelecimentos de educação, de ensino e das creches, salvo nos espaços de recreio ao ar livre;
 
 d) Salas de espetáculos, de exibição de filmes cinematográficos, salas de congressos, recintos de eventos de natureza corporativa, recintos improvisados para eventos, designadamente culturais, ou similares;
 
-e) Recintos para eventos e celebrações desportivas;
+e) Recintos para eventos de qualquer natureza e celebrações desportivas, designadamente em estádios;
 
 f) Estabelecimentos e serviços de saúde;
 
@@ -20,13 +20,13 @@ g) Estruturas residenciais ou de acolhimento ou serviços de apoio domiciliário
 
 h) Locais em que tal seja determinado em normas da Direção-Geral da Saúde.
 
-2 - É obrigatório o uso de máscaras ou viseiras pelos trabalhadores dos bares, discotecas, restaurantes e similares, bem como dos estabelecimentos comerciais e de prestação de serviços em que necessariamente ocorra contacto físico com o cliente.
+2 - (Revogado.)
 
-3 - A obrigatoriedade referida nos números anteriores é dispensada quando, em função da natureza das atividades, o seu uso seja impraticável.
+3 - A obrigatoriedade referida no n.º 1 é dispensada quando, em função da natureza das atividades, o seu uso seja impraticável, devendo tal dispensa limitar-se ao estritamente necessário, ou quando tal seja determinado pela DGS.
 
 4 - É obrigatório o uso de máscaras ou viseiras na utilização de transportes coletivos de passageiros, incluindo o transporte aéreo, bem como no transporte de passageiros em táxi ou TVDE.
 
-5 - Para efeitos do disposto no número anterior, a utilização de transportes coletivos de passageiros inicia-se nos termos do n.º 2 do artigo 2.º da Lei n.º 28/2006, de 4 de julho, na sua redação atual, sendo este preceito aplicável ao transporte aéreo, com as necessárias adaptações.
+5 - Sem prejuízo da aplicabilidade do disposto na alínea a) do n.º 1 quanto aos edifícios em que se localizem as portas de entrada ou os cais de embarque, acesso ou saída, para efeitos do disposto no número anterior a utilização de transportes coletivos de passageiros inicia-se nos termos do n.º 2 do artigo 2.º da Lei n.º 28/2006, de 4 de julho, na sua redação atual, sendo este preceito aplicável ao transporte aéreo, com as necessárias adaptações.
 
 6 - A obrigação de uso de máscara ou viseira nos termos do presente artigo apenas é aplicável às pessoas com idade superior a 10 anos, exceto nos estabelecimentos de educação e ensino, em que a obrigação do uso de máscara por alunos apenas se aplica a partir do 2.º ciclo do ensino básico, independentemente da idade.
 
