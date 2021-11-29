@@ -1,0 +1,19 @@
+Portaria n.º 271/2021
+de 29 de novembro
+Sumário: Aprova a reversão constituída pelos lotes n.os 53-O, 19-P e 18-F, que fazem parte integrante do prédio rústico denominado «Herdade dos Machados», no concelho de Moura.
+Através da Portaria n.º 740/75, de 13 de dezembro, e ao abrigo dos artigos 1.º e 8.º do Decreto-Lei n.º 406-A/75, de 29 de julho, foi expropriado a Ermelinda Neves Bernardino Santos Jorge o prédio rústico denominado «Herdade dos Machados», com a área de 6101,0825 ha, inscrito na matriz cadastral sob o artigo 1, secção I, a artigo 8, secção J, da freguesia de Santo Agostinho, concelho de Moura.
+Na sequência do pedido de reversão apresentado por Maria Isabel Martinez Fernandez, que também usa e é conhecida por Maria Isabel Martinez Fernandez Neves, Sandra Martinez Tristão Neves, Nuno Bernardo Martinez Tristão Neves, Ana Maria Neves Tavares da Costa e Jorge Manuel Neves Tavares da Costa, os três primeiros, herdeiros de Nuno Tristão Neves Reis, que também usou e foi conhecido por Nuno Tristão Neves, herdeiro do sujeito passivo da expropriação, a quarta e o quinto, herdeiros de Arnalda Neves Tavares da Costa, também herdeira do sujeito passivo da expropriação, Ermelinda Neves Bernardino Santos Jorge, ao abrigo do n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de setembro, com a redação conferida pela Lei n.º 92/2015, de 12 de agosto, foi aberto e instruído o respetivo processo administrativo, no decurso do qual se fez prova de que o Estado Português arrendou a Fernando Francisco Patrício Grosso os lotes n.os 53-O, com a área de 10,4073 ha, 19-P, com a área de 40,1100 ha, e 18-F, com a área de 3,1750 ha.
+Considerando que o referido arrendatário declarou que não pretende exercer os direitos conferidos pelo Decreto-Lei n.º 349/91, de 19 de setembro, e se provou que o seu direito como arrendatário está salvaguardado, encontram-se reunidos os requisitos legais para a reversão, ao abrigo do n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de setembro, com a redação conferida pela Lei n.º 92/2015, de 12 de agosto.
+Assim:
+Manda o Governo, pelo Primeiro-Ministro e pela Ministra da Agricultura, ao abrigo do disposto no n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de setembro, com a redação conferida pela Lei n.º 92/2015, de 12 de agosto, o seguinte:
+Artigo 1.º
+Objeto
+É aprovada a reversão a favor de Maria Isabel Martinez Fernandez, que também usa e é conhecida por Maria Isabel Martinez Fernandez Neves, Sandra Martinez Tristão Neves, Nuno Bernardo Martinez Tristão Neves, Ana Maria Neves Tavares da Costa e Jorge Manuel Neves Tavares da Costa, os três primeiros, herdeiros de Nuno Tristão Neves Reis, que também usou e foi conhecido por Nuno Tristão Neves, herdeiro do sujeito passivo da expropriação, a quarta e o quinto, herdeiros de Arnalda Neves Tavares da Costa, também herdeira do sujeito passivo da expropriação, Ermelinda Neves Bernardino Santos Jorge, a área total de 53,6923 ha, constituída pelos lotes n.os 53-O, 19-P e 18-F, que fazem parte integrante do prédio rústico denominado «Herdade dos Machados», com a área de 6.101,0825 hectares, inscrito na matriz cadastral sob o artigo 1, secção I, a artigo 8, secção J, da freguesia de Santo Agostinho, atual União de Freguesias de Moura (St. Agostinho e S. João Baptista) e Santo Amador, concelho de Moura.
+Artigo 2.º
+Norma revogatória
+É revogada a Portaria n.º 740/75, de 13 de dezembro, na parte em que expropria a referida área.
+Artigo 3.º
+Produção de efeitos
+A presente portaria produz efeitos a partir da data da sua assinatura.
+O Primeiro-Ministro, António Luís Santos da Costa, em 22 de novembro de 2021. - A Ministra da Agricultura, Maria do Céu de Oliveira Antunes, em 19 de novembro de 2021.
+114767227
