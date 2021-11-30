@@ -1,0 +1,6 @@
+Aviso n.º 22576/2021
+Sumário: Discussão pública do projeto do novo Regulamento da Loja Social do Município de Tabuaço.
+Torna-se público, nos termos e para os efeitos do estatuído no artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, alterado pela Lei n.º 72/2020, de 16 de novembro, que durante o período de 30 dias a contar da data de publicação do presente aviso na 2.ª série do Diário da República, é submetido a discussão pública o projeto do novo Regulamento da Loja Social do Município de Tabuaço.
+Mais se torna público que durante o período supramencionado os interessados podem consultar o aludido projeto de Regulamento no site do Município, através do endereço www.cm-tabuaco.pt, e no Gabinete de Ação Social, sito na rua Sá de Albergaria, em Tabuaço, nos dias úteis e durante o período compreendido entre as 09:00 e as 12:30 horas e das 14:00 às 17:30 horas, bem como apresentar, por escrito, dentro do prazo indicado, as sugestões que tiverem por convenientes, para o endereço de correio eletrónico cm-tabuaco@cm-tabuaco.pt Paços do Município de Tabuaço, 30 de junho de 2021.
+23 de novembro de 2021. - O Presidente da Câmara, Carlos André Teles Paulo de Carvalho.
+314759265
