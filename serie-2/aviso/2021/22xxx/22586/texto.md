@@ -1,0 +1,8 @@
+Aviso n.º 22586/2021
+Sumário: Regulamento de Apoio à Natalidade e à Família da Freguesia de Porto de Mós - São João Baptista e São Pedro.
+Consulta pública do Projeto de Regulamento de Apoio à Natalidade e à Família da Freguesia de Porto de Mós - São João Baptista e São Pedro
+Manuel Freitas Barroso, Presidente da Junta de Freguesia da Porto de Mós - São João Baptista e São Pedro, torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 101.º do Código de Procedimento Administrativo, aprovado pelo anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Junta de Freguesia deliberou, na sua reunião realizada em 16 de novembro de 2021, aprovar o Regulamento de Apoio à Natalidade e à Família da Freguesia de Porto de Mós - São João Baptista e São Pedro e submeter o mesmo a consulta pública, pelo prazo de trinta dias a contar da data da publicação do presente edital no Diário da República.
+Mais torna público, que aquele projeto de regulamento encontra-se disponível para consulta, nos serviços da Junta de Freguesia, situados na Rua D. Fuas Roupinho, n.º 11 - Porto de Mós - 2480-335 Porto de Mós, durante as horas normais de expediente (9:00-2:30 e 14:00-17:30), bem como no sítio eletrónico desta Freguesia, em www.freguesiadeportodemos.pt.
+As eventuais sugestões deverão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido ao Presidente da Junta de Freguesia de Porto de Mós - São João Baptista e São Pedro, Rua D. Fuas Roupinho, n.º 11 - Porto de Mós - 2480-335 Porto de Mós, utilizando para o efeito o impresso próprio que pode ser obtido na Junta de Freguesia ou na mencionada página da internet.
+17 de novembro de 2021. - O Presidente da Junta de Freguesia, Manuel Freitas Barroso.
+314753295
