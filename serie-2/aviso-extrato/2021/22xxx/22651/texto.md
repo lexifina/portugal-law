@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 22651/2021
+Sumário: Abertura do período de consulta pública do projeto do Regulamento do Orçamento Participativo do Município de Idanha-a-Nova.
+Nos termos do disposto no artigo 100.º e 101.º do Código do Procedimento Administrativo e do disposto no artigo 241 da Constituição da Republica Portuguesa, torna-se público que a Câmara Municipal, em reunião de vinte e sete de agosto de dois mil e vinte e um, deliberou submeter a consulta pública, pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso em 2.ª série do Diário da República o Projeto de Regulamento do Orçamento Participativo do Município de Idanha-a-Nova.
+Mais se torna público que o Projeto de Regulamento do Orçamento Participativo do Município de Idanha-a-Nova se encontra disponível para consulta na Divisão Financeira e Patrimonial do Município de Idanha-a-Nova, durante o horário normal de expediente e no site do Município de Idanha-a-Nova. As sugestões devem ser dirigidas por escrito ao Presidente da Câmara Municipal e remetidas por correio para o Largo do Municipio, 6060-163 Idanha-a-Nova, por correio eletrónico para o endereço geral@cm-idanhanova.pt ou entregues pessoalmente no Serviço de Atendimento ao Munícipe do Município de Idanha-a-Nova.
+28 de outubro de 2021. - A Vice-Presidente da Câmara Municipal, Dr.ª Idalina Jorge Gonçalves da Costa.
+314716707
