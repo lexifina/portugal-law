@@ -2,7 +2,7 @@
 
 ### Definição e revisão dos preços máximos de aquisição de medicamentos pelos estabelecimentos e serviços do Serviço Nacional de Saúde
 
-1 - Os medicamentos sujeitos a receita médica, mesmo que disponham de preço de venda ao público autorizado, não comparticipados, ficam sujeitos a um preço máximo para efeitos de aquisição pelos estabelecimentos e serviços do Serviço Nacional de Saúde (SNS) a estabelecer na revisão anual de preços nos termos dos números seguintes.
+1 - Ficam sujeitos a revisão anual dos preços máximos de aquisição todos os medicamentos sujeitos a receita médica utilizados ou dispensados no mercado hospitalar, nos termos dos números seguintes.
 
 2 - O preço de venda ao armazenista (PVA) revisto dos medicamentos a que se refere o n.º 1 obedece aos seguintes critérios:
 
@@ -17,3 +17,5 @@ b) No caso dos medicamentos genéricos, o preço deve ser, no mínimo, 30 % infe
 5 - A revisão prevista na alínea a) do n.º 2 observa ainda, com as necessárias adaptações, o disposto no artigo 16.º da presente portaria.
 
 6 - [Revogado.]
+
+7 - O disposto no presente artigo é aplicável ainda aos medicamentos que, por força da inclusão em regime excecional de comparticipação, sejam utilizados ou dispensados em meio hospitalar.
