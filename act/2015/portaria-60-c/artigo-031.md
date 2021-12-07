@@ -28,4 +28,6 @@ k) Instituições e organismos de direito público, nas ações previstas na al�
 
 l) A Secretaria-Geral da Educação e Ciência e as pessoas coletivas de direito público da administração local, nomeadamente os municípios, para a tipologia de operação prevista na alínea m) do n.º 1 do artigo 30.º
 
+m) Direção-Geral da Educação, enquanto beneficiário responsável pela execução de políticas públicas nacionais, nos termos do artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, para as ações específicas enquadradas no plano integrado para a recuperação das aprendizagens, aprovado pela Resolução do Conselho de Ministros n.º 90/2021, de 7 de julho, que lhe compete implementar, para a tipologia de operação prevista na alínea j) do n.º 8 do artigo 30.º
+
 2 - Os beneficiários das ações previstas no número anterior podem submeter candidaturas em parceria, nos termos previstos no artigo 7.º da Portaria n.º 60-A/2015, de 2 de março, alterada pelas Portarias n.os 242/2015, de 13 de agosto, e 122/2016, de 4 de maio, com exceção das operações em que intervenham na qualidade de organismos responsáveis pela execução de políticas públicas, na aceção do artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro.

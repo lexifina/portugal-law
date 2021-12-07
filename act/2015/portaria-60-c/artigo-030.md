@@ -106,6 +106,8 @@ ii) Criação de redes regionais de coordenação da oferta formativa ou de pact
 
 i) Desenvolvimento de projetos de inovação educativa e ou formativa, designadamente os que visem a igualdade de oportunidades e a criatividade.
 
+j) Desenvolvimento de atividades, de projetos e de outras iniciativas no âmbito do plano integrado para a recuperação das aprendizagens.
+
 9 - No âmbito das operações previstas na alínea h) do n.º 1 são elegíveis ações de apoio aos alunos com Necessidades Educativas Especiais (NEE), designadamente:
 
 a) Produção e adaptação de materiais escolares em formatos acessíveis ou desenho universal;
