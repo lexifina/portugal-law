@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2021-12-09, processo 0301/21.4BELRA
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0301/21.4BELRA
+
+**Data do Acordão:** 12/09/2021
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOSÉ GOMES CORREIA
+
+**Descritores:** OMISSÃO DE PRONÚNCIA; DEVER DE CONFIDENCIALIDADE; DIREITO À INFORMAÇÃO
+
+**Nº Convencional:** JSTA000P28656
+
+**Nº do Documento:** SA2202112090301/21
+
+**Data de Entrada:** 07/22/2021
+
+**Recorrente:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A................
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A nulidade por omissão de pronúncia, prevista no art. 125.º, n.º 1, do Código de Procedimento e de Processo Tributário (CPPT) (Que segue o disposto no art. 615.º do CPC) se verifica quando o tribunal (a norma refere o juiz, mas é aplicável aos acórdãos dos tribunais superiores), em violação do seu dever de cognição, consagrado no n.º 2 do art. 608.º do CPC, aplicável ex vi da alínea e) do art. 2.º do CPPT, deixe de pronunciar-se sobre questões que deva apreciar, ou seja sobre «todas as questões que as partes tenham submetido à sua apreciação, exceptuadas aquelas cuja decisão esteja prejudicada pela solução dada a outras».
+
+II - Como a jurisprudência tem vindo a afirmar reiteradamente, não há omissão de pronúncia sobre questões colocadas quando o seu conhecimento é expressamente recusado pelo tribunal ou quando este se abstém de conhecer de uma questão mas indica as razões pelas quais não conhece dela.
+
+III - Por esse prisma, sendo a tese da Recorrente a de que a decisão sumária de que reclama incorreu em erro de julgamento ao enquadrar as questões que lhe foram colocadas e nessa medida solicita a intervenção da conferência para corrigir esse seu enquadramento, tal erro não é qualificável como nulidade da decisão sumária, por falta de pronúncia (até porque o Reclamante não identifica qualquer nulidade), mas sim erro de julgamento decorrente da remissão da fundamentação para acórdão proferido noutro processo.
+
+IV – É que, no regime do art° 652° n° 1 c) e n° 3 ex vi 656° CPC a reclamação para a conferência da decisão sumária proferida apenas pelo relator faz retroagir o conhecimento em conferência do mérito da apelação ao momento anterior àquela decisão sumária, conhecimento limitado às questões especificadas pelo recorrente nas conclusões de recurso, sem prejuízo de o recorrente, ora reclamante, restringir na reclamação o objecto recursório anteriormente definido nos termos do art° 635° n° 4 CPC.
+
+V - Com a introdução, em 2013, de uma nova excepção ao dever de confidencialidade - constante da alínea e) do n.º 2 do artigo 64.º da LGT - forçoso se torna concluir que o legislador não só configura as duas informações ali previstas (NIF e domicílio fiscal) enquanto “dados pessoais”, como apenas parece aceitar a transmissão das mesmas nas circunstâncias estritas ali expressamente previstas.
+
+VI - O direito à informação a que se reportam aqueles normativos não é um direito absoluto e não pode, sem mais, prevalecer sobre a tutela outorgada, também constitucionalmente, à reserva da intimidade da vida privada.
