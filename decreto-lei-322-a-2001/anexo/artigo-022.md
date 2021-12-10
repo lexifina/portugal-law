@@ -44,7 +44,7 @@
 
 4 - Averbamento a inscrição - (euro) 80;
 
-4.1 - Pelo registo da cessação de funções de membros de órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, bem como de cessação de funções de administrador judicial e de administrador judicial provisório da insolvência - (euro) 100;
+4.1 - Pelo registo da cessação de funções de membros de órgãos sociais, de representantes, de liquidatários, de administradores de insolvência, revisor oficial de contas, bem como de cessação de funções de administrador judicial e de administrador judicial provisório da insolvência - (euro) 100;
 
 4.2 - (Revogado.)
 
