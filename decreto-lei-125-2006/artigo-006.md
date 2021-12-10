@@ -8,7 +8,7 @@ a) Opção por firma constituída por expressão de fantasia previamente criada 
 
 b) Não se optando por nenhuma das possibilidades previstas na alínea anterior, indicação de firma constante de certificado de admissibilidade de firma previamente obtido;
 
-c) Opção por pacto ou acto constitutivo de modelo aprovado pelo director-geral dos Registos e do Notariado ou por envio do pacto ou do acto constitutivo por eles elaborado;
+c) Opção por pacto ou ato constitutivo de modelo aprovado pelo presidente do conselho diretivo do IRN, I. P., ou por envio do pacto ou do ato constitutivo por si elaborado;
 
 d) Preenchimento electrónico dos elementos necessários à apresentação da declaração de início de actividade para efeitos fiscais;
 
@@ -28,6 +28,10 @@ b) Autorizações especiais que sejam necessárias para a constituição da soci
 
 c) No caso de se tratar de sociedade cujo capital seja realizado com recurso a entradas em espécie, sem que para a transmissão dos bens com que os sócios entram para a sociedade seja exigida forma mais solene do que a forma escrita, o relatório do revisor oficial de contas referido no artigo 28.º do Código das Sociedades Comerciais, tendo sido cumprido o estipulado no n.º 5 dessa disposição.
 
+d) Declaração de aceitação dos gerentes ou administradores das sociedades por quotas ou anónimas, respetivamente, e declaração da qual conste não terem conhecimento de circunstâncias suscetíveis de os inibir para a ocupação do cargo, quando não constem do pacto ou do ato constitutivo a que se refere a alínea c) do n.º 1.
+
 5 - Uma vez iniciado o procedimento ou aprovada a firma nos termos da parte final da alínea a) do n.º 1, o pedido online deve ser submetido pelos interessados no prazo máximo de vinte e quatro horas.
 
-6 - Todos os documentos entregues através de sítio na Internet, desde que tenham sido correctamente digitalizados e sejam integralmente apreensíveis, têm o mesmo valor probatório dos originais.
+6 - Sem prejuízo da competência para certificação de fotocópias atribuída por lei a outras entidades, para efeitos de constituição online de sociedades os respetivos gerentes, administradores e secretários podem, quando os promovam, certificar a conformidade dos documentos eletrónicos por si entregues, através do sítio na Internet, com os documentos originais em suporte de papel.
+
+7 - Os interessados podem formular, através do sítio na Internet, pedidos de registo relativos a factos posteriores à constituição da sociedade, devendo enviar os documentos que comprovem os factos a registar.
