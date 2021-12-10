@@ -18,7 +18,11 @@ c) Nome do cônjuge e regime de bens;
 
 d) Residência habitual ou domicílio profissional;
 
-e) Número de identificação fiscal.
+e) Número do documento de identificação;
+
+f) Número de identificação fiscal.
+
+g) Endereço eletrónico, quando facultado.
 
 3 - Relativamente aos apresentantes dos pedidos de registo, são recolhidos os seguintes dados pessoais:
 
