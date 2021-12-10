@@ -14,7 +14,7 @@ b) Pela assembleia geral, se os estatutos o determinarem.
 
 4 - Em caso de falta definitiva ou de impedimento temporário de administradores, compete ao conselho geral e de supervisão providenciar quanto à substituição, sem prejuízo da possibilidade de designação de administradores suplentes, nos termos previstos no n.º 5 do artigo 390.º, e, no caso da alínea b) do n.º 1, da necessidade de ratificação daquela decisão de substituição pela assembleia geral seguinte.
 
-5 - Os administradores não podem fazer-se representar no exercício do seu cargo, sendo-lhes aplicável, todavia, o disposto no n.º 7 do artigo 391.º e no n.º 5 do artigo 410.º
+5 - Os administradores não podem fazer-se representar no exercício do seu cargo, sendo-lhes aplicável, todavia, o disposto no n.º 8 do artigo 391.º e no n.º 5 do artigo 410.º
 
 6 - Os administradores podem não ser accionistas, mas não podem ser:
 
