@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=liIgqKTpZUFqE6QK2umNv2E3KMNWfuMxnpcUfARuFa6sPs9C9RXOSJIJpGUjpUeoGHRV0wwfBMNPQQpZRWhlwpAzoAVKOeVEs0c9xbMYuDm5V%2bpkNyQaRfMLPKLCwks0i5WXMxW6mg9r7NkTSg%2bkuULc82C%2fnMuEhg2R3UELkWNvhk24q7uUeBFQ14uH6v8g1krTqTN1MnBYZEb4Q84eNaEHvMguz2xCnShFyVr8wALAtvaQSQVNHI0Bn51VYit8YO3ikEDqj9BYle5zGfa26tB9%2bcYRwxXX0T1MRHA0lOKQEoIgrjAj%2bHFJtPMZ9hArk6M1czEsjM5nOR9vyt5obBWo8mQQG1VE0Tn%2fpwVLVLg%3d&fich=DiplomasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "6fa1d39620890f0cec7d61f8de276746d52efaf231b741982fe301693dd73b8e",
+  "legislatura": "XIV",
+  "id": "23321",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2021-12-14",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2021",
+    "Id": "23321",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "121238",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d574d324e546c6a4e6a45745a6d5a69595330305a6a45354c5749335a6d55744d6d51305a44646b5a54526d4d6a6c684c6d52765933673d&fich=1c659c61-ffba-4f19-b7fe-2d4d7de4f29a.docx&Inline=true",
+        "IniNr": "33",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "S",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XIV",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938314d7a6335596a68694f43316b5a6a686b4c5451344e3259744f474a6a4e5330794d546332597a45794d574d35596a45755a47396a&fich=5379b8b8-df8d-487f-8bc5-2176c121c9b1.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "916819",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-12-14",
+        "pubLeg": "XIV",
+        "pubNr": "56",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/14/03/056/2021-12-14/2?pgs=2&org=PLC"
+      }
+    ],
+    "Sessao": "3",
+    "Tipo": "Resolução",
+    "Titulo": "Aprova a alteração ao Acordo relativo à Transferência e Mutualização das Contribuições para o Fundo Único de Resolução entre os Estados-Membros da União Económica e Monetária, feito em Bruxelas, em 27 de janeiro de 2021 e 8 de fevereiro de 2021",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
