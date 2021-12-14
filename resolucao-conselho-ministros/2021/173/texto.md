@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 173/2021
+Sumário: Autoriza a Polícia de Segurança Pública a realizar despesa relativa à aquisição de bens alimentares e prestação de serviços de apoio às messes e bares.
+A Polícia de Segurança Pública (PSP) é uma força de segurança uniformizada e armada com natureza de serviço público e dotada de autonomia administrativa que tem por missão assegurar a legalidade democrática, garantir a segurança interna e os direitos dos cidadãos, nos termos da Constituição e da lei.
+No âmbito das Grandes Opções do Plano para 2017, aprovadas pela Lei n.º 41/2016, de 28 de dezembro, previu-se a libertação do maior número possível de elementos das forças de segurança para trabalho operacional através do desenvolvimento de novos modelos de aquisição de algumas tipologias de bens e ou serviços, nomeadamente a externalização dos serviços de refeitórios e messes na PSP e a consequente libertação de polícias para atividade operacional.
+Neste contexto e, em simultâneo, sendo igualmente imprescindível assegurar o regular fornecimento das refeições na Unidade Especial de Polícia e nos estabelecimentos de ensino, salientando os cursos de formação de Oficiais, no Instituto Superior de Ciências Policiais e Segurança Interna, e os de formação de Agentes, bem como os de formação de Chefes e de Agentes Coordenadores, na Escola Prática de Polícia, por força do disposto no Decreto-Lei n.º 271/77, de 2 de julho, importa, assim, continuar a salvaguardar, mediante a abertura de procedimentos pré-contratuais, a aquisição dos respetivos bens e serviços.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os 1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea c) do n.º 1 do artigo 16.º, da alínea a) do n.º 1 do artigo 20.º, do n.º 1 do artigo 36.º, do n.º 1 do artigo 109.º e dos artigos 130.º e 131.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, dos artigos 44.º e 46.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Polícia de Segurança Pública (PSP) a realizar a despesa com a aquisição de bens alimentares e prestação de serviços de apoio para as messes e bares, para os anos de 2022 a 2024, no valor de (euro) 9 717 313,00, ao qual acresce o IVA à taxa legal em vigor.
+2 - Determinar que os encargos orçamentais resultantes da despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) 2022 - (euro) 3 239 104,34;
+b) 2023 - (euro) 3 239 104,33;
+c) 2024 - (euro) 3 239 104,33.
+3 - Estabelecer que as importâncias fixadas para os anos económicos de 2023 a 2024 podem ser acrescidas do saldo apurado no ano que lhe antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever no orçamento da PSP.
+5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela administração interna a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 2 de dezembro de 2021. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra de Estado e da Presidência.
+114801935
