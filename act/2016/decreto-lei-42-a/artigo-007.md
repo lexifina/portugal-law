@@ -6,17 +6,17 @@
 
 2 - O plano anual referido no número anterior integra um programa de avisos para apresentação de candidaturas a algumas ou a todas as tipologias de apoios a que se refere o artigo seguinte.
 
-3 - O programa de avisos para apresentação de candidaturas previsto no número anterior deve prever, designadamente:
+3 - O programa de apoios e avisos para apresentação de candidaturas previsto no número anterior deve prever, designadamente:
 
-a) O procedimento de apresentação e os critérios de seleção de projetos, bem como a tipologia de apoios e beneficiários elegíveis;
+a) A tipologia de apoios e beneficiários elegíveis;
 
-b) Os prazos, termos e condições do financiamento;
+b) (Revogada.)
 
-c) As modalidades de financiamento, incluindo taxas de comparticipação;
+c) (Revogada.)
 
-d) A forma de disponibilização dos financiamentos aprovados e as respetivas regras de pagamento;
+d) (Revogada.)
 
-e) As condições que determinam a restituição dos montantes financiados, quando aplicável;
+e) (Revogada.)
 
 f) O montante total anual disponível para cada tipologia de apoios integrados no programa de avisos para apresentação de candidaturas.
 
@@ -27,3 +27,9 @@ a) A publicação de avisos para candidaturas quando se verifiquem casos de for�
 b) O apoio do Fundo a intervenções urgentes ou de especial relevância, quando o membro do Governo responsável pela área do ambiente declare, mediante despacho, determinada intervenção como urgente ou de especial relevância;
 
 c) A atribuição de apoios pelo Fundo para efeitos da salvaguarda da sustentabilidade dos serviços urbanos de águas, nos termos da lei e da regulamentação aplicáveis.
+
+d) As transferências legalmente previstas.
+
+5 - Nos termos do número anterior, o plano anual de atribuição de apoios fixa o valor máximo para cada ano económico.
+
+6 - A proposta de plano anual de atribuição de apoios e utilização das receitas é precedida de consulta à Associação Nacional de Municípios Portugueses, a qual se deve pronunciar no prazo máximo de 10 dias.

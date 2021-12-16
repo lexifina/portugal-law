@@ -2,34 +2,48 @@
 
 ### Finalidade e objetivos
 
-1 - O Fundo tem por finalidade apoiar políticas ambientais para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento dos objetivos e compromissos nacionais e internacionais, designadamente os relativos às alterações climáticas, aos recursos hídricos, aos resíduos e à conservação da natureza e biodiversidade, financiando entidades, atividades ou projetos que cumpram os seguintes objetivos:
+1 - O Fundo tem por finalidade apoiar políticas ambientais e de ação climática para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento dos objetivos e compromissos nacionais e internacionais, designadamente os relativos às alterações climáticas, às energias de fontes renováveis e à eficiência energética, aos recursos hídricos, aos resíduos, à conservação da natureza e biodiversidade, ao bem-estar dos animais de companhia, à floresta e gestão florestal, ao ordenamento e gestão da paisagem, financiando entidades, atividades ou projetos que se enquadrem nas seguintes áreas de atuação:
 
-a) Mitigação das alterações climáticas, através de ações que contribuam para a redução de emissões de gases com efeito de estufa (GEE) e, desta forma, para o cumprimento das metas, designadamente no domínio das energias renováveis e da eficiência energética nos setores residencial e produtivo no caso de pequenas e médias empresas, e no domínio dos transportes;
+a) Mitigação das alterações climáticas, através de ações que contribuam para a redução de gases com efeito de estufa (GEE) e, desta forma, para o cumprimento das metas, designadamente no domínio das emissões de GEE, das energias renováveis e da eficiência energética;
 
-b) Adaptação às alterações climáticas, dando especial relevo a ações na zona costeira e nas demais áreas dos recursos hídricos;
+b) Adaptação às alterações climáticas, dando especial relevo a ações de aumento da resiliência e redução das vulnerabilidades do território às alterações climáticas;
 
-c) Cooperação na área das alterações climáticas, nomeadamente para cumprimento de compromissos internacionais;
+c) Sequestro e utilização de carbono;
 
-d) Sequestro de carbono;
+d) Mercados de carbono;
 
-e) Recurso ao mercado de carbono para cumprimento de metas internacionais;
+e) Uso eficiente da água e proteção dos recursos hídricos;
 
-f) Fomento da participação de entidades no mercado de carbono;
+f) Sustentabilidade dos serviços de águas;
 
-g) Uso eficiente da água e proteção dos recursos hídricos;
+g) Proteção do ambiente, proteção radiológica e gestão de riscos e danos ambientais;
 
-h) Sustentabilidade dos serviços de águas;
+h) Gestão de resíduos;
 
-i) Prevenção e reparação de danos ambientais;
+i) Transição para uma economia circular;
 
-j) Cumprimento dos objetivos e metas nacionais e comunitárias de gestão de resíduos urbanos;
+j) Proteção e conservação da natureza e da biodiversidade;
 
-k) Transição para uma economia circular;
+k) Promoção do bem-estar dos animais de companhia;
 
-l) Proteção e conservação da natureza e da biodiversidade;
+l) Promoção da bioeconomia sustentável;
 
-m) Capacitação e sensibilização em matéria ambiental;
+m) Floresta e gestão florestal sustentável;
 
-n) Investigação e desenvolvimento em matéria ambiental.
+n) Valorização do ordenamento do território e da paisagem;
 
-2 - O Fundo pode estabelecer mecanismos de articulação com outras entidades públicas e privadas, designadamente com outros fundos públicos ou privados nacionais, europeus ou internacionais, relacionados com o desenvolvimento de políticas ambientais para a prossecução dos objetivos do desenvolvimento sustentável.
+o) Transportes e mobilidade sustentável;
+
+p) Eficiência energética, energias de fontes renováveis, autoconsumo e comunidades de energia renovável, combate à pobreza energética e transição justa;
+
+q) Promoção do equilíbrio e sustentabilidade sistémica do setor energético e da política energética nacional;
+
+r) Monitorização da qualidade do ambiente;
+
+s) Capacitação e sensibilização em matéria de ambiente e ação climática;
+
+t) Projetos de investigação, desenvolvimento e inovação, desde o processo de investigação fundamental até à transferência para o mercado e eventual introdução no mercado nas áreas definidas no presente artigo;
+
+u) Cooperação na área do ambiente e da ação climática, nomeadamente para cumprimento de compromissos internacionais.
+
+2 - O Fundo pode estabelecer mecanismos de articulação com outras entidades públicas e privadas, designadamente com outros fundos públicos ou privados nacionais, europeus ou internacionais, relacionados com o desenvolvimento de políticas ambientais e de ação climática para a prossecução dos objetivos do desenvolvimento sustentável.
