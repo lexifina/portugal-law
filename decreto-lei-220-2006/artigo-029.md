@@ -9,3 +9,5 @@
 3 - O montante mensal do subsídio de desemprego não pode, em qualquer caso, ser superior ao valor líquido da remuneração de referência que serviu de base de cálculo ao subsídio de desemprego.
 
 4 - O valor líquido da remuneração de referência referido nos números anteriores obtém-se pela dedução, ao valor ilíquido daquela remuneração, da taxa contributiva que seria imputável ao beneficiário e da taxa de retenção do IRS.
+
+5 - Nas situações em que as remunerações que serviram de base ao cálculo do subsídio de desemprego correspondam, pelo menos, ao valor da remuneração mínima mensal garantida, o montante mensal do subsídio de desemprego é majorado de forma a atingir o valor mínimo correspondente a 1,15 IAS, sem prejuízo dos limites dos montantes do subsídio de desemprego previstos no presente decreto-lei.
