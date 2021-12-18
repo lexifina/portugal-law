@@ -4,7 +4,7 @@
 
 1 - A formação do diretor de segurança é ministrada em estabelecimentos de ensino superior oficialmente reconhecidos, cujo curso de diretor de segurança tenha sido aprovado por despacho do membro do Governo responsável pela área da administração interna.
 
-2 - Os estabelecimentos de ensino superior oficialmente reconhecidos que pretendam ministrar o curso de diretor de segurança devem apresentar o seu pedido de acreditação, acompanhado dos seguintes documentos:
+2 - Os estabelecimentos de ensino superior, oficialmente reconhecidos, que pretendam ministrar o curso de diretor de segurança devem formular o seu pedido de acreditação, nos mesmos termos exigidos às entidades formadoras, de acordo com os preceitos previstos na Lei n.º 34/2013, de 16 de maio, com as necessárias adaptações, acompanhado dos seguintes documentos:
 
 a) Regulamento do curso;
 
@@ -14,7 +14,7 @@ c) Identificação dos docentes e formadores.
 
 3 - Os processos de acreditação são instruídos pela Direção Nacional da Polícia de Segurança Pública, no prazo de 30 dias.
 
-4 - O programa do curso a ministrar tem a duração mínima de 200 horas e deve ter por base as seguintes matérias:
+4 - O programa do curso de formação inicial de qualificação a ministrar tem a duração mínima de 200 horas e deve ter por base as seguintes matérias:
 
 a) Regime jurídico do exercício da atividade de segurança privada;
 
@@ -32,7 +32,7 @@ g) Medidas de segurança e sistemas de segurança.
 
 h) Segurança contra incêndios;
 
-i) Segurança da informação e proteção de dados pessoais;
+i) Segurança da informação, cibersegurança e proteção de dados;
 
 j) Gestão e direção de atividades de segurança privada
 
@@ -48,4 +48,8 @@ o) Colaboração com a segurança pública;
 
 p) Deontologia profissional.
 
-5 - Pode igualmente ser reconhecida a formação, com aproveitamento, ministrada em estabelecimento de ensino superior oficialmente reconhecido, em curso superior ou de pós-graduação na área da segurança, desde que inclua as matérias e as mesmas tenham a duração mínima previstas no número anterior.
+5 - A frequência do curso de diretor de segurança implica a conclusão do 12.º ano de escolaridade ou equivalente.
+
+6 - Pode igualmente ser reconhecida a formação, com aproveitamento, ministrada em estabelecimento de ensino superior oficialmente reconhecido, em curso superior na área da segurança, desde que inclua as matérias previstas no n.º 4.
+
+7 - O programa do curso de atualização a ministrar tem a duração mínima de 60 horas e deve ter por base as matérias previstas nas alíneas a), d), e), i), k), n) e o) do n.º 4.

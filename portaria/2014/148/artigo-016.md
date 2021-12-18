@@ -32,4 +32,8 @@ m) Dotar o formando de conhecimentos de identificação de marcas, símbolos e o
 
 n) Dotar o formando de conhecimentos em defesa pessoal.
 
-2 - As unidades de formação de curta duração que integram o módulo de formação específico de assistente de portos e aeroportos - segurança aeroportuária constam do anexo X à presente portaria, da qual faz parte integrante.
+2 - O módulo de formação específico de assistente de portos e aeroportos - segurança aeroportuária compreende:
+
+a) A formação legalmente exigida para o pessoal que executa ou é responsável pela execução do rastreio, do controlo de acesso ou de outros controlos de segurança aeroportuária previstos no Regulamento (CE) n.º 300/2008, do Parlamento Europeu e do Conselho, de 11 de março de 2008, alterado pelo Regulamento (UE) n.º 18/2010, de 8 de janeiro de 2010, bem como o Regulamento de Execução (UE) 2015/1998 da Comissão, de 5 de novembro de 2015, alterado pelo Regulamento de Execução (UE) 2020/111 da Comissão, de 13 de janeiro de 2020, e no Programa Nacional de Formação e Treino de Segurança da Aviação Civil previsto no Regulamento n.º 765/2021, de 17 de agosto, da Autoridade Nacional da Aviação Civil.
+
+b) A unidade de formação de curta duração que consta do Anexo X à presente portaria, da qual faz parte integrante.

@@ -6,17 +6,17 @@
 
 a) Dotar o formando de conhecimentos relativos às funções de segurança-porteiro;
 
-b) Dotar o formando de conhecimentos relativos ao regime legal e sistemas de segurança aplicáveis a estabelecimentos de restauração e bebidas com espaços de dança;
+b) Dotar o formando de conhecimentos relativos ao regime legal e sistemas de segurança aplicáveis a estabelecimentos de restauração ou bebidas que disponham de espaços ou salas destinados a dança ou onde habitualmente se dance;
 
 c) Dotar o formando de conhecimentos técnicos de segurança física e eletrónica;
 
 d) Promover a aquisição de competências em procedimento de segurança de pessoas e bens e prevenção da prática de crimes;
 
-e) Promover a aquisição de competências em vigilância humana e eletrónica e operação de centrais de receção e monitorização de alarmes e televigilância;
+e) (Revogada.)
 
-f) Promover a aquisição de competências em procedimentos de emergência e de alarme;
+f) Promover a aquisição de competências em procedimentos de emergência de evacuação dos estabelecimentos;
 
-g) Promover a aquisição de competências em procedimentos de resposta a alarmes;
+g) Promover a aquisição de competências em vigilância humana e eletrónica e monitorização no posto de segurança;
 
 h) Promover a aquisição de competências na realização de revistas pessoais de prevenção e segurança;
 

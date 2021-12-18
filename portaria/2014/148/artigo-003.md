@@ -9,3 +9,5 @@
 3 - Para cada módulo de formação específica prevista na presente portaria é exigida uma autorização de formação de especialidade.
 
 4 - As autorizações de formação de especialidade abrangem os módulos de formação específica e o respetivo módulo de formação de atualização.
+
+5 - O curso de diretor de segurança ministrado por estabelecimentos de ensino superior, oficialmente reconhecidos, carece de uma autorização idêntica à que é exigida às entidades formadoras, nos termos previstos na Lei n.º 34/2013, de 16 de maio, com as necessárias adaptações, abrangendo o curso inicial e o curso de atualização.
