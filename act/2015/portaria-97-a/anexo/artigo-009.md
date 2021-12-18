@@ -24,6 +24,8 @@ f) Contratos Locais de Desenvolvimento Social, para apoio a ações previstas no
 
 g) Modelos de apoio à vida independente, no âmbito das ações previstas na alínea c) do artigo 175.º, que podem ter a duração máxima de 42 meses.
 
+h) Instrumentos específicos de proteção das vítimas e de acompanhamento dos agressores na violência doméstica, no âmbito das ações previstas nas alíneas a) e c) do n.º 2 do artigo 166.º, que podem ter duração máxima de 48 meses.
+
 5 - No momento da submissão da candidatura, o beneficiário submete eletronicamente o termo de responsabilidade, devidamente autenticado nos termos previstos no artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
 
 6 - A apresentação de candidaturas pode ser feita por convite, em casos excecionais, devidamente justificados, mediante aprovação da Comissão Interministerial de Coordenação (CIC Portugal 2020) ou da CIC especializada da Inclusão Social e Emprego por delegação daquela.
