@@ -1,0 +1,22 @@
+Resolução do Conselho de Ministros n.º 180/2021
+Sumário: Autoriza o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., a realizar a despesa com a renovação de contrato de licenciamento de software.
+O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), tem por missão, entre outras, a gestão dos recursos financeiros e das infraestruturas e recursos tecnológicos do Ministério da Justiça.
+É sua atribuição assegurar a apresentação de propostas de conceção, execução e manutenção dos recursos tecnológicos e dos sistemas de informação da justiça, garantindo a sua gestão e administração, bem como assegurar a adequação dos sistemas de informação às necessidades de gestão e operacionalidade dos órgãos, serviços e organismos da área da justiça, e assegurar procedimentos de contratação pública não abrangidos pela unidade ministerial de compras, em articulação com os demais serviços e organismos do Ministério da Justiça.
+Neste pressuposto, o IGFEJ, I. P., pretende celebrar um contrato para renovação do software Microsoft existente nas áreas consideradas críticas para o desempenho dos sistemas de informação de suporte às diferentes atividades do Ministério da Justiça, assim como proceder à aquisição adicional de novas licenças.
+Considerando que se torna necessária a renovação do licenciamento Microsoft nas áreas consideradas críticas para o desempenho dos sistemas de informação de suporte às diferentes atividades do Ministério da Justiça, assim como a aquisição adicional de novos serviços para agilizar a disponibilização de soluções que consigam responder de forma mais célere às alterações e constantes solicitações do negócio.
+Considerando que o contrato de aquisição de serviços e bens a celebrar terá o valor total de (euro) 21 630 000, ao qual acresce o IVA à taxa legal em vigor, e terá um prazo de execução de 1095 dias, abrangendo o período compreendido entre 2021 e 2024, torna-se necessário proceder à repartição plurianual do encargo financeiro resultante do contrato a celebrar.
+A Agência para a Modernização Administrativa, I. P., emitiu, nos termos da legislação em vigor, parecer favorável à presente aquisição de bens e serviços.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os 1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 20.º, do n.º 1 do artigo 36.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), a realizar a despesa decorrente da celebração de um contrato de prestação de serviços e bens com vista à renovação do licenciamento do software Microsoft, bem como à aquisição adicional de novos serviços, no montante máximo de (euro) 21 630 000, a que acresce o IVA à taxa legal em vigor, com recurso ao procedimento de concurso público, com publicação de anúncio no Jornal Oficial da União Europeia.
+2 - Determinar que os encargos financeiros resultantes da despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) 2021 - (euro) 600 833,34;
+b) 2022 - (euro) 7 210 000;
+c) 2023 - (euro) 7 210 000;
+d) 2024 - (euro) 6 609 166,66.
+3 - Estabelecer que os montantes fixados no número anterior, para cada ano económico, podem ser acrescidos do saldo apurado no ano que lhe antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas inscritas e a inscrever no orçamento do IGFEJ, I. P., em cada um dos anos económicos indicados.
+5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da justiça a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 9 de dezembro de 2021. - Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+114818687
