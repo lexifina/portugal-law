@@ -12,7 +12,7 @@
 
 1 - Sem prejuízo do disposto no número seguinte, as autoridades públicas aceitam, para todos os efeitos legais, a exibição de documentos suscetíveis de renovação cujo prazo de validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores.
 
-2 - O cartão de cidadão, certidões e certificados emitidos pelos serviços de registos e da identificação civil, documentos e vistos relativos à permanência em território nacional, bem como as licenças e autorizações, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 31 de dezembro de 2021.
+2 - O cartão de cidadão, certidões e certificados emitidos pelos serviços de registos e da identificação civil, bem como as licenças e autorizações, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 31 de dezembro de 2021.
 
 3 - Os documentos referidos nos números anteriores continuam a ser aceites nos mesmos termos após 31 de dezembro de 2021, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
 
@@ -23,3 +23,7 @@
 6 - O disposto no n.º 2 não é aplicável às licenças de pesca lúdica mensais e anuais que estivessem válidas na data a que se refere o n.º 1, considerando-se as mesmas prorrogadas pelo período equivalente ao da respetiva interdição de exercício da pesca lúdica.
 
 7 - A validade das cartas de condução é determinada nos termos do Regulamento (UE) 2021/267 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2021.
+
+8 - Os documentos e vistos relativos à permanência em território nacional, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 31 de março de 2022.
+
+9 - Os documentos referidos no número anterior continuam a ser aceites nos mesmos termos após 31 de março de 2022, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
