@@ -18,7 +18,7 @@ a) Previsto no artigo 299.º, no n.º 1 do artigo 318.º, nos artigos 319.º, 32
 
 b) De furto de veículos ou de falsificação de documentos a eles respeitantes ou de elementos identificadores de veículos;
 
-c) De falsificação de moeda, títulos de crédito, valores selados, selos e equiparados ou da respectiva passagem;
+c) De falsificação de moeda, títulos de crédito, valores selados, selos e equipamentos ou da respetiva passagem, e de contrafação de cartões ou outros dispositivos de pagamento e uso de cartões ou outros dispositivos de pagamento contrafeitos, previstos nos artigos 3.º-A e 3.º-B da Lei n.º 109/2009, de 15 de setembro;
 
 d) De burla, insolvência dolosa, administração danosa do sector público ou cooperativo, falsificação, corrupção, peculato ou de participação económica em negócio;
 

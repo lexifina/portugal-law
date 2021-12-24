@@ -32,7 +32,7 @@ c) Contra a identidade cultural e integridade pessoal, previstos no título iii 
 
 d) Contra a segurança do Estado previstos no capítulo i do título v do livro ii do Código Penal;
 
-e) Falsificação de moeda ou títulos equiparados a moeda prevista nos artigos 262.º, 264.º, na parte em que remete para o artigo 262.º, e 267.º, na parte em que remete para os artigos 262.º e 264.º, do Código Penal;
+e) Falsificação de moeda ou títulos equiparados a moeda prevista nos artigos 262.º, 264.º, na parte em que remete para o artigo 262.º, e 267.º, na parte em que remete para os artigos 262.º e 264.º do Código Penal, bem como contrafação de cartões ou outros dispositivos de pagamento e uso de cartões ou outros dispositivos de pagamento contrafeitos, previstos no artigo 3.º-A e no n.º 3 do artigo 3.º-B da Lei n.º 109/2009, de 15 de setembro;
 
 f) Abrangidos por convenção sobre segurança da navegação aérea ou marítima.
 

@@ -10,7 +10,7 @@ b) Houver fortes indícios de prática de crime doloso que corresponda a crimina
 
 c) Houver fortes indícios de prática de crime doloso de terrorismo ou que corresponda a criminalidade altamente organizada punível com pena de prisão de máximo superior a 3 anos;
 
-d) Houver fortes indícios de prática de crime doloso de ofensa à integridade física qualificada, furto qualificado, dano qualificado, burla informática e nas comunicações, receptação, falsificação ou contrafacção de documento, atentado à segurança de transporte rodoviário, puníveis com pena de prisão de máximo superior a 3 anos;
+d) Houver fortes indícios de prática de crime doloso de ofensa à integridade física qualificada, furto qualificado, dano qualificado, burla informática e nas comunicações, abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento, recetação, falsificação ou contrafação de documento, atentado à segurança de transporte rodoviário, puníveis com pena de prisão de máximo superior a 3 anos;
 
 e) Houver fortes indícios da prática de crime doloso de detenção de arma proibida, detenção de armas e outros dispositivos, produtos ou substâncias em locais proibidos ou crime cometido com arma, nos termos do regime jurídico das armas e suas munições, puníveis com pena de prisão de máximo superior a 3 anos;
 
