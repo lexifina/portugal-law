@@ -6,6 +6,6 @@
 
 2 - Não são puníveis as obras de escassa relevância urbanística, assim classificadas por lei.
 
-3 - As pessoas colectivas e entidades equiparadas são responsáveis, nos termos gerais, pelo crime previsto no n.º 1 do presente artigo.
+3 - (Revogado.)
 
 4 - Pode o tribunal ordenar, na decisão de condenação, a demolição da obra ou a restituição do solo ao estado anterior, à custa do autor do facto.

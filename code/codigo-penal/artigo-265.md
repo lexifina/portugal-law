@@ -18,4 +18,4 @@ a) No caso de alínea a) do número anterior, com prisão até 1 ano ou multa at
 
 b) No caso da alínea b) do número anterior, com pena de multa até 90 dias.
 
-3 - No caso da alínea a) do n.º 1, a tentativa é punível.
+3 - (Revogado.)

@@ -6,9 +6,9 @@
 
 a) Lenocínio, abuso sexual de crianças ou de menores dependentes, ou pornografia de menores;
 
-b) Burla informática e nas comunicações, extorsão, abuso de cartão de garantia ou de crédito, contrafação de moeda ou de títulos equiparados, depreciação do valor de moeda metálica ou de títulos equiparados, passagem de moeda falsa de concerto com o falsificador ou de títulos equiparados, passagem de moeda falsa ou de títulos equiparados, ou aquisição de moeda falsa para ser posta em circulação ou de títulos equiparados;
+b) Burla informática e nas comunicações, extorsão, abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento, contrafação de moeda ou de títulos equiparados, depreciação do valor de moeda metálica ou de títulos equiparados, passagem de moeda falsa de concerto com o falsificador ou de títulos equiparados, passagem de moeda falsa ou de títulos equiparados, ou aquisição de moeda falsa para ser posta em circulação ou de títulos equiparados;
 
-c) Falsidade informática, dano relativo a programas ou outros dados informáticos, sabotagem informática, acesso ilegítimo, interceção ilegítima ou reprodução ilegítima de programa protegido;
+c) Falsidade informática, contrafação de cartões ou outros dispositivos de pagamento, uso de cartões ou outros dispositivos de pagamento contrafeitos, aquisição de cartões ou outros dispositivos de pagamento contrafeitos, atos preparatórios da contrafação, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, dano relativo a programas ou outros dados informáticos, sabotagem informática, acesso ilegítimo, interceção ilegítima ou reprodução ilegítima de programa protegido;
 
 d) Associação criminosa;
 
