@@ -1,0 +1,5 @@
+# Anexo
+
+### (a que se refere o artigo 2.º)
+
+NOVO REGULAMENTO DA CAIXA DE PREVIDÊNCIA DOS ADVOGADOS E SOLICITADORES
