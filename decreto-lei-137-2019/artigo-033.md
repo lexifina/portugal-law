@@ -22,7 +22,7 @@ ii) De devassa por meio da informática;
 
 iii) De burla informática e nas comunicações;
 
-iv) Relativos à interferência e manipulação ilegítima de meios de pagamento eletrónicos e virtuais;
+iv) Relativos à interferência, utilização ou manipulação ilegítima de meios de pagamento eletrónicos e virtuais;
 
 v) De espionagem, quando cometido na forma de um qualquer programa informático concebido para executar ações nocivas que constituam uma ameaça avançada e permanente;
 
