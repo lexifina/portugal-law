@@ -1,0 +1,205 @@
+Regulamento n.º 1027/2021
+Sumário: Aprova o Regulamento Interno de Organização e Tempo de Trabalho do Centro Científico e Cultural de Macau, I. P.
+Regulamento Interno de Organização e Tempo de Trabalho do Centro Científico e Cultural de Macau, I. P.
+Considerando que a Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela Lei n.º 35/2014, de 20 de junho, na redação em vigor, determina, nos respetivos artigos 74.º e 75.º, n.º 1, que compete ao empregador público, dentro dos limites decorrentes do vínculo de emprego público e das normas que o regem, fixar os termos em que deve ser prestado o trabalho, através de regulamento interno, contendo normas de organização e disciplina do trabalho;
+Considerando que se verificou a necessidade de proceder à revisão do Regulamento Interno de Organização e Tempo de Trabalho do Centro Científico e Cultural de Macau, I. P., por forma a permitir a sua adequada conformação com os dispositivos legais ora aplicáveis;
+Considerando que foram ouvidos os trabalhadores do Centro Científico e Cultural de Macau, I. P., e estruturas sindicais com representatividade no âmbito da Administração Pública, nos termos da regulação ínsita no artigo 75.º, n.º 2, da LTFP, tendo sido ponderados os contributos apresentados pelos mesmos;
+Nestes termos, ao abrigo dos artigos 74.º e 75.º da LTFP, do artigo 212.º do Código do Trabalho, por remissão do artigo 101.º da LTFP, e no uso da competência que me foi conferida pelo disposto na alínea c) do n.º 2 do artigo 7.º da Lei n.º 2/2004, de 15 de janeiro, na sua atual redação, aprovo o Regulamento Interno de Organização e Tempo de Trabalho do Centro Científico e Cultural de Macau, I. P., em anexo ao presente despacho e do qual faz parte integrante.
+3 de novembro de 2021. - A Presidente do Centro Científico e Cultural de Macau, I. P., Cármen Isabel de Oliveira Amado Mendes.
+Regulamento Interno de Organização e Tempo de Trabalho do Centro Científico e Cultural de Macau, I. P.
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Objeto e âmbito de aplicação
+1 - O presente Regulamento estabelece os períodos de funcionamento e de atendimento dos serviços do Centro Científico e Cultural de Macau, I. P., abreviadamente designado por CCCM, bem como os regimes de prestação de trabalho e os horários dos respetivos trabalhadores, nos termos do artigo 75.º da Lei Geral Trabalho em Funções Públicas (LTFP), aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+2 - É aplicável aos trabalhadores com vínculo de emprego público a LTFP, bem como o regime do Código do Trabalho em matéria de organização e tempo de trabalho, com as necessárias adaptações e sem prejuízo do disposto no presente Regulamento.
+Artigo 2.º
+Tempo de trabalho
+1 - Considera-se tempo de trabalho qualquer período durante o qual o trabalhador está a desempenhar a atividade ou permanece adstrito à realização da prestação.
+2 - Além das situações previstas no número anterior e no Código do Trabalho, são consideradas tempo de trabalho as interrupções na prestação de trabalho durante o período de presença obrigatória autorizadas pelo superior hierárquico em casos excecionais e devidamente fundamentados.
+Artigo 3.º
+Período de funcionamento dos serviços
+1 - Entende-se por período de funcionamento o período diário durante o qual o CCCM exerce a sua atividade.
+2 - O período normal de funcionamento dos serviços do CCCM decorre entre as 8h30 m e as 18h00 m, de 2.ª a 6.ª feira, sem prejuízo do disposto no n.º 3 do presente artigo e no n.º 3 do artigo 4.º
+3 - O período de funcionamento a que se refere o número anterior consta do Anexo I ao presente Regulamento, o qual é afixado de forma visível na entrada das instalações do CCCM.
+4 - O período normal de funcionamento pode ser antecipado ou prolongado sempre que o funcionamento assim o exija.
+Artigo 4.º
+Período de atendimento dos serviços
+1 - Entende-se por período de atendimento o intervalo de tempo diário durante o qual os serviços do CCCM estão abertos para atender o público.
+2 - O período de atendimento divide-se em:
+a) Período da manhã - das 9h00 às 13h00;
+b) Período da tarde - das 14h00 às 17h00.
+3 - Excetuam-se do disposto no número anterior, atentas as especificidades de funcionamento, o Museu e Sala de Leitura da Biblioteca, cujo período de abertura ao público é, respetivamente, de terça-feira a domingo das 10h00 às 18h00 horas e de segunda a sexta-feira das 10h00 às 13h00 e das 14h00 às 17h00.
+4 - Os períodos de atendimento ao público a que se referem os números anteriores constam do Anexo II ao presente Regulamento, o qual é afixado de forma visível na entrada das instalações do CCCM.
+5 - O período de atendimento pode ser reduzido por despacho da/o Presidente, em circunstâncias especiais.
+Artigo 5.º
+Período normal de trabalho e sua organização
+1 - O período normal de trabalho semanal é de trinta e cinco horas, distribuídas por um período normal de trabalho diário de sete horas, de segunda a sexta-feira, sem prejuízo do necessário para assegurar a abertura do Museu ao público e dos de diferente duração previstos na lei.
+2 - Salvo no caso de jornada contínua, os trabalhadores não podem prestar mais de cinco horas consecutivas de trabalho e mais do que dez horas de trabalho diário, incluindo o trabalho suplementar.
+3 - A regra de aferição do cumprimento do período normal de trabalho e diária, sem prejuízo do horário flexível.
+Artigo 6.º
+Intervalo de descanso
+Sem prejuízo do disposto noutras disposições legais, o período normal de trabalho diário é interrompido por um intervalo para refeição ou descanso não inferior a uma nem superior a duas horas, exceto quanta se trate de jornada contínua ou regime previsto em norma especial.
+CAPÍTULO II
+Dos horários de trabalho
+Artigo 7.º
+Horário de trabalho
+Por horário de trabalho entende-se a determinação das horas do início e termo do período normal de trabalho diário ou dos respetivos limites, bem como dos intervalos de descanso.
+Artigo 8.º
+Modalidades de horário de trabalho
+1 - São previstas as seguintes modalidades de horário de trabalho:
+a) Horário flexível;
+b) Horário rígido;
+c) Horário desfasado;
+d) Jornada contínua;
+e) Meia jornada.
+2 - A modalidade de horário de trabalho normalmente praticado no CCCM é a de horário flexível.
+3 - A adoção das modalidades de horário de trabalho referidas no n.º 1 do presente artigo, bem como de outras previstas na lei ou Instrumento de Regulamentação Coletiva de Trabalho (IRCT) aplicável, pode ser autorizada por despacho da/o Presidente ou de quem ela/e delegar, mediante parecer do responsável da unidade orgânica.
+Artigo 9.º
+Horário flexível
+1 - Entende-se por horário flexível aquele que permite ao trabalhador gerir os seus tempos de trabalho, escolhendo as horas de entrada e saída desde que respeitados os períodos de presença obrigatória, designados por plataformas fixas e de acordo com o estabelecido neste artigo.
+2 - A adoção da modalidade de horário flexível e a sua prática não podem, em caso algum, afetar o regular e eficaz funcionamento do serviço não estando os trabalhadores dispensados do cumprimento das obrigações que lhes forem determinadas, tendo que, designadamente:
+a) Cumprir as tarefas programadas e em curso, dentro dos prazos superiormente fixados;
+b) Assegurar a realização e a continuidade de tarefas urgentes, de contactos ou de reuniões de trabalho, mesmo que tal se prolongue para além dos períodos de presença obrigatória correspondentes às plataformas fixas;
+c) Assegurar a realização do trabalho suplementar diário que lhes seja determinado pelo superior hierárquico, nos termos previstos nos artigos 120.º da LTFP;
+d) Certificar que a flexibilidade dos horários não origina, em caso algum, a inexistência de pessoal que assegure o normal funcionamento dos serviços.
+3 - A adoção de horário flexível está sujeita à observância das seguintes regras:
+a) A prestação de trabalho pode ser efetuada entre as 8h30 e as 18h00, com dois períodos de presença obrigatória (plataformas fixas), das 10h00 às 12h00 das 14h30 e as 16h30 de acordo com o Anexo III ao presente Regulamento;
+b) Com exceção dos tempos de trabalho correspondentes às plataformas fixas que são de caráter obrigatório, o período remanescente do período normal de trabalho diário pode ser gerido pelos trabalhadores no que respeita as escolhas das horas de entrada e de saída, dentro dos limites fixados para a modalidade de horário flexível, sem prejuízo do regular e eficaz funcionamento das diferentes unidades orgânicas;
+c) A duração máxima do trabalho diário é de dez horas;
+d) O intervalo de descanso não pode ser inferior a uma hora nem superior a duas horas, devendo verificar-se no período compreendido entre as duas plataformas obrigatórias, sujeito a registo de controlo da assiduidade e pontualidade;
+e) Os registos de saída e de entrada para o intervalo de descanso referido no número anterior são obrigatórios e quando efetuados por período inferior a uma hora implicam sempre o desconto de uma hora;
+f) São permitidas duas pausas durante a jornada de trabalho, até quinze minutos cada, uma no período da manhã e outra no período da tarde.
+4 - A ausência, ainda que parcial, a um período de presença obrigatório, determina a sua justificação através de controlo da assiduidade e pontualidade, sem prejuízo da observância do regime geral da justificação de faltas.
+5 - O cumprimento da duração do trabalho tem por referência uma aferição mensal.
+6 - No final do período mensal, há lugar a:
+a) Marcação de falta por cada período de débito igual ou superior à duração média do trabalho;
+b) Acumulação dos débitos até perfazer o período referido no n.º 8 do presente artigo, sempre que se verifique um débito inferior à duração média diária de trabalho;
+c) Atribuição de créditos de horas, até ao máximo de período igual à duração média diária do trabalho;
+d) Dedução dos débitos referidos na alínea b) aos créditos apurados no final do período de referência, caso existam.
+7 - Relativamente aos trabalhadores portadores de deficiência, o debito de horas apurado no final de cada um dos períodos de aferição pode ser transportado para o período imediatamente seguinte e nele compensado, desde que não ultrapasse o limite de dez horas para o período do mês.
+8 - Para efeitos do disposto no n.º 6 do presente artigo a duração média diária do trabalho é de sete horas.
+9 - A marcação das faltas previstas na alínea a) do n.º 6 é reportada ao último dia ou dias do período de aferição a que o débito respeita.
+10 - A atribuição de créditos prevista na alínea c) do n.º 6 é efetuada no mês seguinte àquele que conferiu ao trabalhador o direito à atribuição dos mesmos, tendo aquele direito a gozá-los, desde que respeitados os períodos de presença obrigatória.
+Artigo 10.º
+Horário rígido
+Horário rígido é a modalidade de horário de trabalho em que o cumprimento da duração semanal do trabalho se reparte por dois períodos diários, com horas de entrada e de saída fixas, separados por um intervalo de descanso, nos seguintes termos:
+a) Período da manhã - das 9h00 às 13h00;
+b) Período da tarde - das 14h00 horas às 17h00.
+Artigo 11.º
+Horário desfasado
+1 - O horário desfasado, mantendo inalterado o período normal de trabalho diário, permite estabelecer horas fixas diferentes de entrada e de saída, serviço a serviço, ou para determinado grupo ou grupos de pessoal.
+2 - É permitida a prática de horário desfasado nos setores em que, pela natureza das suas funções, seja necessária uma assistência permanente a outros serviços, com períodos de funcionamento mais prolongados.
+3 - A determinação das horas de entrada e saída é efetuada por acordo entre os trabalhadores e o dirigente ou superior hierárquico da respetiva unidade orgânica prevalecendo, em caso de desacordo, o horário fixado por este.
+Artigo 12.º
+Jornada contínua
+1 - A jornada contínua consiste na prestação ininterrupta de trabalho, excetuado um único período de descanso não superior a trinta minutos que, para todos os efeitos, se considera como tempo de trabalho, e está sujeita a registo de controlo da assiduidade e pontualidade.
+2 - A jornada contínua deve ocupar, predominantemente, um dos períodos do dia e determinar uma redução do período normal de trabalho diário nunca superior a uma hora.
+3 - A prestação de trabalho na modalidade de jornada contínua carece de autorização prévia da/o Presidente, ou de quem ela/e delegar.
+4 - A jornada contínua pode ser autorizada nos seguintes casos:
+a) Trabalhador progenitor com filhos até à idade de 12 anos ou, independentemente da idade, com deficiência ou doença crónica;
+b) Trabalhador adotante, nas mesmas condições dos trabalhadores progenitores;
+c) Trabalhador que, substituindo-se aos progenitores, tenha a seu cargo neto com idade inferior a 12 anos;
+d) Trabalhador adotante, ou tutor, ou pessoa a quem foi deferida a confiança judicial ou administrativa do menor, bem como o cônjuge ou a pessoa em união de facto com qualquer daqueles ou com progenitor, desde que viva em comunhão de mesa e habitação com o menor;
+e) Trabalhador-estudante;
+f) No interesse do trabalhador, sempre que outras circunstâncias relevantes devidamente fundamentadas o justifiquem;
+g) No interesse do serviço, quando devidamente fundamentado.
+Artigo 13.º
+Meia jornada
+1 - A meia jornada consiste na prestação de trabalho num período reduzido em metade do período normal de trabalho definido no n.º 1 do artigo 5.º do presente Regulamento, sem prejuízo da contagem integral do tempo de serviço para efeito de antiguidade.
+2 - A prestação de trabalho na modalidade de meia jornada não pode ter duração inferior a um ano e tem de ser requerida por escrito pelo trabalhador.
+3 - A opção pela modalidade de meia jornada implica a fixação do pagamento de remuneração correspondente a 60 % do montante total auferido em regime de prestação de trabalho de trinta e cinco horas semanais.
+4 - Podem beneficiar da modalidade de meia jornada os trabalhadores que reúnam um dos seguintes requisitos:
+a) Tenham 55 anos ou mais à data em que for requerida a modalidade de meia jornada e tenham netos com idade inferior a 12 anos;
+b) Tenham filhos menores de 12 anos ou, independentemente da idade, com deficiência ou doença crónica;
+5 - A autorização para a adoção da modalidade de horário de trabalho em regime de meia jornada cabe à/ao Presidente ou a quem ela/e delegar.
+6 - O indeferimento do pedido a que se refere o número anterior deve ser claramente fundamentado por escrito, indicando as razões que sustentam a recusa da concessão do horário de trabalho na modalidade de meia jornada.
+Artigo 14.º
+Isenção de horário de trabalho
+1 - Gozam de isenção de horário os trabalhadores titulares de cargos dirigentes e os que chefiem equipas multidisciplinares.
+2 - Podem ainda gozar de isenção de horário outros trabalhadores, mediante acordo escrito entre o dirigente máximo e o respetivo trabalhador, desde que tal isenção seja admitida por lei ou por IRCT.
+3 - Os trabalhadores com isenção de horário de trabalho não estão dispensados do dever geral de assiduidade nem do cumprimento da duração semanal de trabalho legalmente estabelecida.
+4 - A isenção de horário compreende a modalidade de observância dos períodos normais de trabalho acordados, prevista na alínea c) do n.º 1 do artigo 118.º da LTFP.
+Artigo 15.º
+Horários específicos
+Podem ser fixados horários de trabalho específicos que se encontrem previstos na lei ou em IRCT aplicáveis por despacho da(o) Presidente ou de quem ela(e) delegar, mediante requerimento dos trabalhadores interessados ou por conveniência de serviço devidamente fundamentada, nomeadamente nas seguintes situações:
+a) Proteção da parentalidade;
+b) Trabalhadores-estudantes;
+c) Trabalhador com deficiência ou doença cr6nica;
+d) No interesse do trabalhador, depois de ouvido o respetivo superior hierárquico, sempre que circunstâncias relevantes e devidamente fundamentadas o justifiquem.
+Artigo 16.º
+Trabalho a tempo parcial
+1 - Considera-se trabalho a tempo parcial o que corresponda a um período normal de trabalho semanal inferior ao praticado a tempo completo em situação comparável.
+2 - O trabalho a tempo parcial pode ser prestado apenas em alguns dias por semana, por mês ou por ano, devendo o número de dias de trabalho ser estabelecido por acordo.
+3 - Ao trabalho a tempo parcial e aplicável o regime previsto no Código do Trabalho, nos termos do artigo 68.º da LTFP.
+Artigo 17.º
+Teletrabalho
+1 - Considera-se teletrabalho a prestação laboral realizada com subordinação jurídica habitualmente fora do CCCM através do recurso a tecnologias de informação e de comunicação.
+2 - A prestação de trabalho em regime de teletrabalho é precedida de contrato escrito, do qual deverá constar, entre outras formalidades estabelecidas na lei, as funções a desempenhar, com menção expressa do regime de teletrabalho.
+3 - Os trabalhadores em regime de teletrabalho encontram-se, com as necessárias adaptações, sujeitos ao cumprimento das normas constantes do presente Regulamento, nomeadamente, no que diz respeito ao cumprimento da duração semanal de trabalho.
+4 - Ao teletrabalho é aplicável o regime previsto no Código do Trabalho, nos termos do artigo 68.º da LTFP.
+CAPÍTULO III
+Controlo da assiduidade e da pontualidade
+Artigo 18.º
+Controlo da assiduidade e da pontualidade
+1 - A assiduidade e a pontualidade são objeto de aferição através de registo em meio adequado para o efeito, no início e termo de cada período de trabalho.
+2 - Em caso de não registo, este pode ser efetuado pelo trabalhador até 24 horas após a ocorrência e validado pelo superior hierárquico.
+3 - Os trabalhadores devem:
+a) Registar em meio próprio de controlo da assiduidade as entradas e as saídas em qualquer dos períodos diários de prestação de trabalho, seja qual for o momento em que ocorram;
+b) Comparecer ao serviço e cumprir os horários estabelecidos, não podendo ausentar-se, salvo nos termos e pelo tempo autorizado pelo superior hierárquico competente;
+c) Utilizar o meio de registo segundo as informações da unidade orgânica responsável pela gestão do controlo de assiduidade.
+Artigo 19.º
+Registo e controlo da assiduidade e da pontualidade
+1 - O período de aferição da assiduidade é mensal, devendo as ausências ao serviço ser justificadas através dos meios disponibilizados para o efeito nos termos legalmente aplicáveis.
+2 - Com exceção do disposto no n.º 2 do artigo anterior, as faltas de registo da assiduidade consideram-se ausências ao serviço, devendo ser justificadas nos termos da legislação aplicável.
+3 - A contabilização dos tempos de trabalho prestados e efetuada mensalmente pela unidade orgânica responsável pelo controlo da assiduidade, com base nos registos obtidos da assiduidade e nas justificações apresentadas, devidamente validadas.
+4 - Compete ao pessoal dirigente ou com funções de coordenação proceder ao controlo da assiduidade dos trabalhadores sob a sua dependência hierárquica, com recurso ao sistema de controlo da assiduidade.
+5 - No caso de se verificarem reclamações aos resultados da aferição referida no número anterior, devem as mesmas ser apresentadas ate ao quinto dia útil a contar do dia em que o trabalhador tem conhecimento da validação efetuada pelo respetivo dirigente.
+Artigo 20.º
+Ausências e justificações
+1 - Falta é a ausência do trabalhador no local de trabalho e durante o período em que devia desempenhar a atividade a que está adstrito.
+2 - As faltas justificadas, quando previsíveis, são obrigatoriamente comunicadas ao superior hierárquico com a antecedência mínima de cinco dias.
+3 - Quando imprevisíveis, as faltas justificadas são obrigatoriamente comunicadas ao superior hierárquico logo que possível.
+4 - Durante o período de presença obrigatória, os trabalhadores que necessitem de se ausentar do serviço, nas situações previstas na lei ou quando invocam justificação atendível devem solicitar previamente a autorização do respetivo superior hierárquico, registando a saída no sistema de controlo da assiduidade.
+5 - As ausências legalmente consideradas como tempo de trabalho, designadamente, a prestação de serviço externo, a frequência de ações de formação ou a participação em seminários, colóquios e outros eventos de idêntica natureza, realizados no território nacional ou no estrangeiro devem ser registadas pelo trabalhador e validadas pelo superior hierárquico no sistema de verificação da pontualidade e da assiduidade, com indicação dos elementos necessários a contagem daquele tempo.
+6 - Em casos excecionais e devidamente fundamentados são também consideradas como tempo de trabalho a interrupção ocasional do período de trabalho diário inerente à satisfação de necessidades pessoais inadiáveis do trabalhador ou resultante de consentimento do superior hierárquico, devendo as mesmas ser registadas pelo trabalhador e validadas pelo superior hierárquico no sistema de verificação da pontualidade e da assiduidade, com indicação dos elementos necessários à contagem daquele tempo.
+7 - Sempre que se verifiquem atrasos no registo de entrada alheios à vontade dos trabalhadores é permitida a compensação do atraso em todos os tipos de horário, ate ao limite de 60 minutos mensais.
+Artigo 21.º
+Gestão do controlo da assiduidade
+Compete, em especial, à unidade orgânica responsável pela gestão do controlo da assiduidade:
+a) Organizar e assegurar os meios para o controlo da assiduidade dos trabalhadores em funções no respetivo serviço;
+b) Esclarecer as eventuais dúvidas dos trabalhadores.
+Artigo 22.º
+Direito à informação
+É assegurado a todos os trabalhadores o direito à informação relativamente à respetiva assiduidade abrangendo, designadamente, os períodos de ausência e as desconformidades no registo, bem como as férias e faltas.
+CAPÍTULO IV
+Disposições finais
+Artigo 23.º
+Violação do cumprimento das normas estabelecidas
+1 - O uso fraudulento do sistema de controlo da assiduidade e de pontualidade, bem como o desrespeito pelo cumprimento do presente Regulamento, constitui infração disciplinar em relação ao seu autor e ao eventual beneficiário,
+2 - Incumbe ao pessoal dirigente ou com funções de coordenação, sem prejuízo da intervenção da unidade orgânica responsável pela gestão do sistema de controlo da assiduidade, zelar pelo respeito e cumprimento do disposto no presente Regulamento e das normas internas de funcionamento e atendimento.
+Artigo 24.º
+Disposições finais
+1 - O presente Regulamento deve ser revisto quando se verificar a alteração da legislação em matéria de assiduidade e de pontualidade que o torne incompatível com as novas disposições e pode ser alterado sempre que a/o Presidente o entender necessário, observado o direito de participação legalmente consagrado.
+2 - As dúvidas ou casos omissos que venham a surgir na aplicação do presente Regulamento são resolvidos por despacho da/o Presidente.
+3 - Em tudo o que não estiver expressamente previsto no presente Regulamento aplicam-se as disposições constantes da LTFP, demais legislação conexa e instrumentos de regulamentação coletiva aplicáveis.
+Artigo 25.º
+Entrada em vigor
+O presente Regulamento entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação.
+ANEXO I
+(a que se refere o artigo 3.º)
+O período de funcionamento do CCCM, de acordo com o artigo 3.º do Regulamento Interno de Organização e Tempo de Trabalho, é o que medeia entre as 8h30 m e as 18h00.
+ANEXO II
+(a que se refere o artigo 4.º)
+O período de atendimento ao público do CCCM, de acordo com o artigo 4.º do Regulamento Interno de Organização e Tempo de Trabalho, é o seguinte:
+Das 9h00 às 13h00 e das 14h00 às 17h00;
+Museu: das 10h00 às 18h00;
+Sala de Leitura da Biblioteca: das 10h00 às 13h00 e das 14h00 às 17h00.
+ANEXO III
+[a que se refere a alínea a) do n.º 3 do artigo 9.º]
+Das 08h30 m às 10h00 - margem móvel para a entrada - 1h30 m;
+Das 10h00 às 12h00 - período de presença obrigatória - 2h00;
+Das 12h00 às 14h30 - margem móvel para almoço - 2h30 m, com obrigatoriedade de utilização mínima de 1h00 e máxima de 2h00;
+Das 14h30 m às 16h30m - período de presença obrigatória - 2h00;
+Das 16h30 m às 18h00 - margem móvel para saída - 1h30 m.
+314812327
