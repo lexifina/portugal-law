@@ -1,0 +1,6 @@
+Edital n.º 1497/2021
+Sumário: Consulta pública no projeto do Regulamento de Atribuição de Bolsas de Estudo a Alunos do Ensino Superior do Município de Beja de Famílias Carenciadas ou Numerosas.
+Consulta Pública no Projeto de Regulamento
+Faz-se público que, em cumprimento do que dispõe o artigo 101.º do Código do Procedimento Administrativo, foi deliberado pela Câmara Municipal de Beja, em 15 de setembro de 2021, submeter a consulta pública por 30 dias, para recolha de sugestões, o Projeto de Segunda Alteração ao Regulamento de Atribuição de Bolsas de Estudo a Alunos do Ensino Superior do Município de Beja de Famílias Carenciadas ou Numerosas, pelo que, se solicita a todos os interessados, que dirijam as suas sugestões, ao Presidente da Câmara Municipal de Beja, ao cuidado do Gabinete Jurídico deste município, no prazo de 30 dias, a contar da data de publicação do presente edital, na Internet, no sitio institucional do Município de Beja, incluindo no respetivo boletim municipal eletrónico, sendo certo que o referido projeto regulamentar estará disponível para consulta pública, no supra mencionado Gabinete Jurídico Municipal, sito no edifício, sede do Município de Beja, na Praça de República, em Beja, no horário de expediente normal dos serviços públicos municipais.
+13 de dezembro de 2021. - O Presidente da Câmara, Paulo Jorge Lúcio Arsénio.
+314818046
