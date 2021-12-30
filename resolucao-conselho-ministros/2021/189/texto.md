@@ -1,0 +1,19 @@
+Resolução do Conselho de Ministros n.º 189/2021
+Sumário: Autoriza a realização da despesa inerente à celebração do acordo de cooperação com a Fundação Aurélio Amaro Diniz para a prestação de cuidados de saúde.
+A Lei de Bases da Saúde, aprovada por Lei n.º 95/2019, de 4 de setembro, na sua redação atual, consagrou na sua Base 25 a complementaridade do setor privado e da economia social na prestação de cuidados de saúde, integrando, na rede nacional de prestadores, as entidades do setor privado, do setor social e os profissionais em regime de trabalho independente que acordem com o Serviço Nacional de Saúde a prestação de atividade de promoção, prevenção e tratamento na área da saúde.
+No âmbito dos modelos de contratualização previstos no Decreto-Lei n.º 138/2013, de 9 de outubro, e na sequência da Resolução do Conselho de Ministros n.º 168/2019, de 30 de setembro, foi celebrado um acordo de cooperação, em 2019, para o triénio de 2019 a 2021, entre a Administração Regional de Saúde do Centro, I. P. (ARS Centro, I. P.), e a Fundação Aurélio Amaro Diniz para a viabilização da prestação de serviços e cuidados de saúde à população.
+Ora, justifica-se agora uma renovação deste modelo para o próximo triénio de 2022 a 2024, cuja necessidade resulta demonstrada em estudo desenvolvido pela ARS Centro, I. P., nos termos do disposto no artigo 6.º do Decreto-Lei n.º 138/2013, de 9 de outubro, que concluiu pela importância da manutenção da contratualização das linhas de atividade programada e de atividade urgente, que reforça o modelo de complementaridade já existente na região centro e representa uma melhoria do ponto vista assistencial, contribuindo para uma melhor resposta na prestação de cuidados de saúde à população, mais avaliando a economia, eficácia e eficiência do acordo, bem como a sua sustentabilidade financeira.
+Face ao exposto, torna-se necessário autorizar a realização da despesa e a repartição dos respetivos encargos por anos económicos relativamente ao novo acordo de cooperação a celebrar entre a ARS Centro, I. P., e a Fundação Aurélio Amaro Diniz.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Administração Regional de Saúde do Centro, I. P. (ARS Centro, I. P.), a realizar a despesa relativa à celebração do acordo de cooperação com a Fundação Aurélio Amaro Diniz para a prestação de cuidados de saúde, para o triénio de 2022 a 2024, nos termos do Decreto-Lei n.º 138/2013, de 9 de outubro, no montante máximo de (euro) 5 700 000.
+2 - Determinar que os encargos com a despesa referida no número anterior não podem exceder em cada ano económico os seguintes montantes:
+a) 2022 - (euro) 1 900 000;
+b) 2023 - (euro) 1 900 000;
+c) 2024 - (euro) 1 900 000.
+3 - Determinar que o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que lhe antecede.
+4 - Estabelecer que os encargos decorrentes da presente resolução são suportados por verbas adequadas inscritas e a inscrever no orçamento da ARS Centro, I. P.
+5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da saúde, a competência para a prática de todos os atos subsequentes a realizar no âmbito do procedimento de contratualização referido no n.º 1.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 23 de dezembro de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+114855469
