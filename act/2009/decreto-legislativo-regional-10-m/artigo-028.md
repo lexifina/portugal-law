@@ -10,4 +10,4 @@
 
 4 - Sempre que o excesso de carga se verifique no decurso de um transporte em regime de carga completa, a infracção é imputável ao expedidor e ao transportador, em comparticipação.
 
-5 - Nenhum condutor se pode escusar a levar o veículo à pesagem nas balanças ao serviço das entidades fiscalizadoras, que se encontrem num raio de 5 km do local onde se verifique a intervenção das mesmas, sendo punível tal conduta com a coima referida no n.º 2 deste artigo, sem prejuízo da responsabilidade criminal a que houver lugar.
+5 - Nenhum condutor se pode escusar a levar o veículo à pesagem nas balanças ao serviço das entidades fiscalizadoras, que se encontrem num raio de 1 km do local onde se verifique a intervenção das mesmas, sendo punível tal conduta com a coima referida no n.º 2 deste artigo, sem prejuízo da responsabilidade criminal a que houver lugar.
