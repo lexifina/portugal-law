@@ -20,7 +20,7 @@ f) O Chefe do Estado-Maior-General das Forças Armadas;
 
 g) Dois deputados designados pela Assembleia da República por maioria de dois terços dos deputados presentes, desde que superior à maioria absoluta dos deputados em efectividade de funções;
 
-h) Os comandantes-gerais da Guarda Nacional Republicana e da Polícia Marítima, os diretores nacionais da Polícia de Segurança Pública, da Polícia Judiciária e do Serviço de Estrangeiros e Fronteiras e os diretores do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança;
+h) Os comandantes-gerais da Guarda Nacional Republicana e da Polícia Marítima, os diretores nacionais da Polícia de Segurança Pública e da Polícia Judiciária e os diretores do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança;
 
 i) A Autoridade Marítima Nacional;
 

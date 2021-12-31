@@ -26,7 +26,7 @@ i) Programar e implementar ações destinadas à formação contínua dos trabal
 
 3 - O PUC-CPI funciona na dependência e sob coordenação da/o Secretária/o-Geral do Sistema de Segurança Interna.
 
-4 - O PUC-CPI tem um Gabinete de Gestão constituído por elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária e do Serviço de Estrangeiros e Fronteiras, designadas/os Coordenadoras/es de Gabinete.
+4 - O PUC-CPI tem um Gabinete de Gestão constituído por elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública e da Polícia Judiciária, designadas/os coordenadoras/es de gabinete.
 
 5 - As/Os Coordenadoras/es de Gabinete, cargos de direção intermédia de 1.º grau, são nomeados por despacho dos membros do Governo responsáveis pelas áreas da administração interna e da justiça, sob proposta da/o Secretária/o-Geral do Sistema de Segurança Interna, e exercem funções em comissão de serviço pelo período de três anos.
 

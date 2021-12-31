@@ -16,7 +16,7 @@ b) A Polícia de Segurança Pública;
 
 c) A Polícia Judiciária;
 
-d) O Serviço de Estrangeiros e Fronteiras;
+d) (Revogada;)
 
 e) O Serviço de Informações de Segurança.
 
