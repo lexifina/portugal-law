@@ -1,11 +1,15 @@
 # Artigo 167.º
 
-### Regime no caso de trabalhador anteriormente vinculado ao empregador
+### Duração e cessação do acordo de teletrabalho
 
-1 - No caso de trabalhador anteriormente vinculado ao empregador, a duração inicial do contrato para prestação subordinada de teletrabalho não pode exceder três anos, ou o prazo estabelecido em instrumento de regulamentação colectiva de trabalho.
+1 - O acordo de teletrabalho pode ser celebrado com duração determinada ou indeterminada.
 
-2 - Qualquer das partes pode denunciar o contrato referido no número anterior durante os primeiros 30 dias da sua execução.
+2 - Sendo o acordo de teletrabalho celebrado com duração determinada, este não pode exceder seis meses, renovando-se automaticamente por iguais períodos, se nenhuma das partes declarar por escrito, até 15 dias antes do seu término, que não pretende a renovação.
 
-3 - Cessando o contrato para prestação subordinada de teletrabalho, o trabalhador retoma a prestação de trabalho, nos termos acordados ou nos previstos em instrumento de regulamentação colectiva de trabalho.
+3 - Sendo o acordo de duração indeterminada, qualquer das partes pode fazê-lo cessar mediante comunicação escrita, que produzirá efeitos no 60.º dia posterior àquela.
 
-4 - Constitui contra-ordenação grave a violação do disposto no número anterior.
+4 - Qualquer das partes pode denunciar o acordo durante os primeiros 30 dias da sua execução.
+
+5 - Cessando o acordo de teletrabalho no âmbito de um contrato de trabalho de duração indeterminada, ou cujo termo não tenha sido atingido, o trabalhador retoma a atividade em regime presencial, sem prejuízo da sua categoria, antiguidade e quaisquer outros direitos reconhecidos aos trabalhadores em regime presencial com funções e duração do trabalho idênticas.
+
+6 - Constitui contra-ordenação grave a violação do disposto no número anterior.

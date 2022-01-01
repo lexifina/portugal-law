@@ -28,6 +28,8 @@ i) Duração máxima do trabalho dos trabalhadores nocturnos;
 
 j) Forma de cumprimento e garantias da retribuição, bem como pagamento de trabalho suplementar;
 
+k) Teletrabalho;
+
 l) Capítulo sobre prevenção e reparação de acidentes de trabalho e doenças profissionais e legislação que o regulamenta;
 
 m) Transmissão de empresa ou estabelecimento;

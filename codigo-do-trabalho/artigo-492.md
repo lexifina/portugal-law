@@ -38,6 +38,8 @@ g) A definição de serviços necessários à segurança e manutenção de equip
 
 h) Os efeitos decorrentes da convenção em caso de caducidade, relativamente aos trabalhadores abrangidos por aquela, até à entrada em vigor de outro instrumento de regulamentação colectiva de trabalho.
 
+i) As condições de prestação de trabalho em regime de teletrabalho.
+
 3 - A convenção colectiva deve prever a constituição e regular o funcionamento de comissão paritária com competência para interpretar e integrar as suas cláusulas.
 
 4 - A convenção colectiva pode prever que o trabalhador, para efeito da escolha prevista no artigo 497.º, pague um montante nela estabelecido às associações sindicais envolvidas, a título de comparticipação nos encargos da negociação.
