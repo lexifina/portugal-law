@@ -35,3 +35,5 @@ e) Frutos secos e olival - 60 árvores por hectare;
 f) Vinha - 2.000 cepas por ha, exceto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1.000 cepas por hectare.
 
 4 - Os beneficiários do apoio previsto no presente capítulo devem ainda concluir, no prazo de um ano após o início do compromisso «conversão para a agricultura biológica», ação de formação específica homologada pelo Ministério da Agricultura e do Mar nos termos da Portaria n.º 354/2013, de 9 de dezembro, salvo se já tiverem concluído a mesma em data anterior à da apresentação da candidatura.
+
+5 - Em derrogação do disposto no número anterior, excecionalmente, para os compromissos iniciados em 2021, os beneficiários dispõem até à data de submissão do PU de 2022, para concluir as ações de formação específica.
