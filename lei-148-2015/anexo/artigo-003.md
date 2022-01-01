@@ -4,26 +4,26 @@
 
 Para efeitos do presente regime jurídico e do Regulamento (UE) n.º 537/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, são qualificadas como entidade de interesse público as seguintes entidades:
 
-a) Os emitentes de valores mobiliários admitidos à negociação num mercado regulamentado;
+a) Os emitentes de valores mobiliários admitidos à negociação num mercado regulamentado situado ou a funcionar em Portugal;
 
 b) As instituições de crédito;
 
-c) As empresas de investimento, salvo as sociedades de consultoria para investimento;
+c) (Revogada.)
 
-d) Os organismos de investimento coletivo sob forma contratual e societária, previstos no regime geral dos organismos de investimento coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro;
+d) (Revogada.)
 
-e) As sociedades de capital de risco, as sociedades de investimento em capital de risco e os fundos de capital de risco, previstos no Regime Jurídico do Capital de Risco, Empreendedorismo Social e Investimento Especializado, aprovado pela Lei n.º 18/2015, de 4 de março;
+e) (Revogada.)
 
-f) As sociedades de investimento alternativo especializado e os fundos de investimento alternativo especializado, previstos no Regime Jurídico do Capital de Risco, Empreendedorismo Social e Investimento Especializado, aprovado pela Lei n.º 18/2015, de 4 de março;
+f) (Revogada.)
 
-g) As sociedades de titularização de créditos e os fundos de titularização de créditos;
+g) (Revogada.)
 
 h) As empresas de seguros e de resseguros;
 
-i) As sociedades gestoras de participações sociais, quando as participações detidas, direta ou indiretamente, lhes confiram a maioria dos direitos de voto nas instituições de crédito referidas na alínea b);
+i) As entidades cuja atividade principal consiste na aquisição de participações sociais com maioria de direitos de voto em instituições de crédito;
 
-j) As sociedades gestoras de participações sociais no sector dos seguros e as sociedades gestoras de participação de seguros mistas;
+j) As sociedades gestoras de participações no setor dos seguros e as sociedades gestoras de participação de seguros mistas;
 
-k) Os fundos de pensões;
+k) Os fundos de pensões que financiam um regime especial de segurança social, nos termos dos artigos 53.º e 103.º da Lei n.º 4/2007, de 16 de janeiro;
 
-l) As empresas públicas que, durante dois anos consecutivos, apresentem um volume de negócios superior a (euro) 50 000 000, ou um ativo líquido total superior a (euro) 300 000 000.
+l) (Revogada).
