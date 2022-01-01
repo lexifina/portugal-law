@@ -1,12 +1,12 @@
 # Artigo 20.º
 
-### Suplemento por serviço nas forças de segurança
+### Suplemento por serviço e risco nas forças de segurança
 
 1 - O suplemento por serviço nas forças de segurança é um acréscimo remuneratório mensal atribuído aos militares da Guarda em efectividade de serviço com fundamento no regime especial da prestação de serviço, no ónus e restrições específicas das funções de segurança, no risco, penosidade e disponibilidade permanente, composto da seguinte forma:
 
 a) Uma componente variável, fixada em 14,5% sobre a remuneração base;
 
-b) Uma componente fixa, no valor de (euro) 31,04.
+b) Uma componente fixa, no valor de (euro) 100.
 
 2 - O valor do suplemento por serviço nas forças de segurança é aumentado, na componente variável, na percentagem de 14,5% para 20%, nos termos e com a seguinte calendarização:
 
