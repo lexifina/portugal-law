@@ -30,6 +30,8 @@ c) Seja instaurado processo de inquérito criminal sem que seja feita a liquida�
 
 d) A administração tributária tenha necessidade de recorrer aos instrumentos de assistência mútua e cooperação administrativa internacional, mantendo-se a suspensão pelo prazo de 12 meses.
 
+e) Seja requerida a regularização da situação tributária pela entidade inspecionada, mantendo-se a suspensão até à data da reunião a que se refere o artigo 58.º-A, ou, caso haja lugar à assinatura de documento de regularização no âmbito do procedimento de inspeção, até ao termo do prazo previsto no n.º 4 do artigo 58.º-A.
+
 6 - Caso se verifique alguma das situações referidas no número anterior, deve o sujeito passivo ser notificado do início da data de suspensão.
 
 7 - O decurso do prazo do procedimento de inspeção determina o fim dos atos externos de inspeção, não afetando, porém, o direito à liquidação dos tributos.

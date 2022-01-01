@@ -29,3 +29,5 @@ f) Ao esclarecimento, pelos técnicos oficiais de contas e revisores oficiais de
 g) À adopção, nos termos do presente diploma, das medidas cautelares adequadas à aquisição e conservação da prova;
 
 h) À requisição às autoridades policiais e administrativas da colaboração necessária ao exercício das suas funções, no caso de ilegítima oposição do contribuinte à realização da inspecção.
+
+3 - Sem prejuízo do disposto nos artigos 58.º e 58.º-A, para garantia da eficácia da ação inspetiva, o sujeito passivo ou obrigado tributário estão inibidos da apresentação de declarações tributárias relativas a factos compreendidos no âmbito e extensão de procedimento de inspeção credenciado por ordem de serviço, desde o início do procedimento inspetivo até à sua conclusão.
