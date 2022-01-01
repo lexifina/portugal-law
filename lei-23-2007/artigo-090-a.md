@@ -14,7 +14,7 @@ b) Sejam portadores de vistos Schengen válidos;
 
 c) Regularizem a estada em Portugal dentro do prazo de 90 dias a contar da data da primeira entrada em território nacional;
 
-d) Preencham os requisitos estabelecidos na alínea d) do artigo 3.º
+d) Preencham os requisitos estabelecidos na alínea d) do n.º 1 do artigo 3.º
 
 2 - É renovada a autorização de residência por períodos de dois anos, nos termos da presente lei, desde que o requerente comprove manter qualquer um dos requisitos da alínea d) do artigo 3.º
 

@@ -12,7 +12,7 @@ c) «Atividade profissional de caráter temporário» aquela que tem caráter sa
 
 d) «Atividade de investimento» qualquer atividade exercida pessoalmente ou através de uma sociedade que conduza, em regra, à concretização de, pelo menos, uma das seguintes situações em território nacional e por um período mínimo de cinco anos:
 
-i) Transferência de capitais no montante igual ou superior a 1 milhão de euros;
+i) Transferência de capitais no montante igual ou superior a 1,5 milhões de euros;
 
 ii) Criação de, pelo menos, 10 postos de trabalho;
 
@@ -20,13 +20,13 @@ iii) Aquisição de bens imóveis de valor igual ou superior a (euro) 500 000;
 
 iv) Aquisição de bens imóveis, cuja construção tenha sido concluída há, pelo menos, 30 anos ou localizados em área de reabilitação urbana e realização de obras de reabilitação dos bens imóveis adquiridos, no montante global igual ou superior a (euro) 350 000;
 
-v) Transferência de capitais no montante igual ou superior a (euro) 350 000, que seja aplicado em atividades de investigação desenvolvidas por instituições públicas ou privadas de investigação científica, integradas no sistema científico e tecnológico nacional;
+v) Transferência de capitais no montante igual ou superior a (euro) 500 000, que seja aplicado em atividades de investigação desenvolvidas por instituições públicas ou privadas de investigação científica, integradas no sistema científico e tecnológico nacional;
 
 vi) Transferência de capitais no montante igual ou superior a (euro) 250 000 euros, que seja aplicado em investimento ou apoio à produção artística, recuperação ou manutenção do património cultural nacional, através de serviços da administração direta central e periférica, institutos públicos, entidades que integram o setor público empresarial, fundações públicas, fundações privadas com estatuto de utilidade pública, entidades intermunicipais, entidades que integram o setor empresarial local, entidades associativas municipais e associações públicas culturais, que prossigam atribuições na área da produção artística, recuperação ou manutenção do património cultural nacional;
 
-vii) Transferência de capitais no montante igual ou superior a (euro) 350 000, destinados à aquisição de unidades de participação em fundos de investimento ou fundos de capitais de risco vocacionados para a capitalização de empresas, que sejam constituídos ao abrigo da legislação portuguesa, cuja maturidade, no momento do investimento, seja de, pelo menos, cinco anos e, pelo menos, 60 % do valor dos investimentos seja concretizado em sociedades comerciais sediadas em território nacional;
+vii) Transferência de capitais no montante igual ou superior a (euro) 500 000, destinados à aquisição de unidades de participação em fundos de investimento ou fundos de capitais de risco vocacionados para a capitalização de empresas, que sejam constituídos ao abrigo da legislação portuguesa, cuja maturidade, no momento do investimento, seja de, pelo menos, cinco anos e, pelo menos, 60 % do valor dos investimentos seja concretizado em sociedades comerciais sediadas em território nacional;
 
-viii) Transferência de capitais no montante igual ou superior a (euro) 350 000, destinados à constituição de uma sociedade comercial com sede em território nacional, conjugada com a criação de cinco postos de trabalho permanentes, ou para reforço de capital social de uma sociedade comercial com sede em território nacional, já constituída, com a criação ou manutenção de postos de trabalho, com um mínimo de cinco permanentes, e por um período mínimo de três anos.
+viii) Transferência de capitais no montante igual ou superior a (euro) 500 000, destinados à constituição de uma sociedade comercial com sede em território nacional, conjugada com a criação de cinco postos de trabalho permanentes, ou para reforço de capital social de uma sociedade comercial com sede em território nacional, já constituída, com a criação ou manutenção de postos de trabalho, com um mínimo de cinco permanentes, e por um período mínimo de três anos;
 
 e) «Cartão azul UE» o título de residência que habilita um nacional de um país terceiro a residir e a exercer, em território nacional, uma atividade profissional subordinada altamente qualificada;
 
@@ -123,3 +123,5 @@ uu) «Estabelecimento de formação profissional» um estabelecimento público o
 2 - O montante ou requisito quantitativo mínimo das atividades de investimento previstas nas subalíneas ii) a vi) da alínea d) do número anterior podem ser inferiores em 20 %, quando as atividades sejam efetuadas em territórios de baixa densidade.
 
 3 - Para efeitos do disposto no número anterior, consideram-se territórios de baixa densidade os de nível iii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS III) com menos de 100 habitantes por Km2 ou um produto interno bruto (PIB) per capita inferior a 75 % da média nacional.
+
+4 - Os imóveis adquiridos nos termos previstos nas subalíneas iii) e iv) da alínea d) do n.º 1 que se destinem a habitação, apenas permitem o acesso ao presente regime caso se situem nas Regiões Autónomas dos Açores e da Madeira ou nos territórios do interior, identificados no anexo à Portaria n.º 208/2017, de 13 de julho.
