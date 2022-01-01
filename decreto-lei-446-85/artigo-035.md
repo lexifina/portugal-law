@@ -1,7 +1,3 @@
-## Capítulo VII
-
-## Disposições finais e transitórias
-
 # Artigo 35.º
 
 ### Serviço de registo

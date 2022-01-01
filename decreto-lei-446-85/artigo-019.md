@@ -21,3 +21,5 @@ g) Estabeleçam um foro competente que envolva graves inconvenientes para uma da
 h) Consagrem, a favor de quem as predisponha, a faculdade de modificar as prestações, sem compensação correspondente às alterações de valor verificadas;
 
 i) Limitem, sem justificação, a faculdade de interpelar.
+
+j) Estabeleçam, a favor de quem as predisponha, comissões remuneratórias excessivas ou que sejam discriminatórias em função da nacionalidade ou do local do estabelecimento da contraparte, sem prejuízo da legislação especificamente aplicável no âmbito dos serviços financeiros.
