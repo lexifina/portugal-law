@@ -1,3 +1,11 @@
+## Capítulo IV
+
+## Incumprimentos
+
+## Capítulo VI
+
+## Fiscalização e regime contra-ordenacional
+
 # Artigo 31.º
 
 ### Contra-ordenações
