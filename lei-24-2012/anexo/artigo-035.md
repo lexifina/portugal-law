@@ -10,7 +10,7 @@ b) Pela verificação de qualquer outra causa extintiva prevista no ato de insti
 
 c) Com o encerramento do processo de insolvência, se não for admissível a continuidade da fundação.
 
-2 - As fundações podem ser extintas pela entidade competente para o reconhecimento:
+2 - As fundações podem ser extintas pela entidade competente para o reconhecimento, ouvido o Conselho Consultivo:
 
 a) Quando o seu fim se tenha esgotado ou se haja tornado impossível;
 

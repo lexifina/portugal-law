@@ -30,7 +30,7 @@ k) Indicação dos endereços das delegações, se estiverem previstas;
 
 l) Indicação dos nomes das pessoas que integram ou vão integrar os órgãos da fundação.
 
-3 - Salvo no caso das fundações com o propósito de criação de estabelecimentos de ensino superior, às quais podem ser exigidas garantias patrimoniais reforçadas, presume-se que existe dotação patrimonial suficiente nos termos da alínea c) do número anterior quando o património da fundação seja igual ou superior ao valor fixado na portaria referida no n.º 2 do artigo 9.º
+3 - Salvo no caso das fundações com o propósito de criação de estabelecimentos de ensino superior, às quais podem ser exigidas garantias patrimoniais reforçadas, presume-se que existe dotação patrimonial suficiente nos termos da alínea c) do número anterior quando o património da fundação seja igual ou superior ao valor fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e do reconhecimento de fundações.
 
 4 - Se a dotação inicial da fundação incluir bens imóveis, devem ser apresentados, ainda, os seguintes documentos:
 

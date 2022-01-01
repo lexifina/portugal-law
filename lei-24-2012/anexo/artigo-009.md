@@ -8,7 +8,7 @@ a) Comunicar aos serviços da Presidência do Conselho de Ministros a composiç�
 
 b) Remeter aos serviços da Presidência do Conselho de Ministros cópia dos relatórios anuais de contas e de atividades, até 30 dias após a sua aprovação;
 
-c) Submeter as contas a uma auditoria externa;
+c) Submeter anualmente as suas demonstrações financeiras a certificação legal das contas;
 
 d) Disponibilizar permanentemente na sua página da Internet a seguinte informação:
 
@@ -28,7 +28,7 @@ vii) Relatórios de gestão e contas e pareceres do órgão de fiscalização re
 
 viii) Relatórios de atividades respeitantes ao mesmo período;
 
-ix) Relatório anual de auditoria externa, quando obrigatório.
+ix) Certificação legal das contas e relatório do revisor oficial de contas, quando obrigatório.
 
 2 - No caso de fundações privadas com estatuto de utilidade pública e de fundações públicas, são ainda disponibilizadas permanentemente na sua página da Internet as seguintes informações:
 
@@ -36,7 +36,7 @@ a) Descrição do património inicial e, quando for caso disso, do património a
 
 b) Montante discriminado dos apoios financeiros recebidos nos últimos três anos da administração direta e indireta do Estado, Regiões Autónomas, autarquias locais, outras pessoas coletivas da administração autónoma e demais pessoas coletivas públicas.
 
-3 - Excetuam-se do disposto na alínea c) e nas subalíneas i), iv), v), vii), viii) e ix) da alínea d) do n.º 1 e do número anterior as fundações cujos rendimentos anuais sejam inferiores ao valor fixado por portaria dos membros do Governo responsáveis pelas finanças e pelo reconhecimento de fundações.
+3 - Excetuam-se do disposto na alínea c) do n.º 1 as fundações que não preencham os critérios referidos nos n.os 1 e 2 do artigo 12.º do Decreto-Lei n.º 36-A/2011, de 9 de março.
 
 4 - O relatório anual de atividades e de contas deve conter informação clara e suficiente sobre os tipos e os montantes globais dos benefícios concedidos a terceiros e dos donativos ou dos subsídios recebidos, bem como sobre a gestão do património da fundação.
 
