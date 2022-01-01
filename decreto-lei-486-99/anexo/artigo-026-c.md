@@ -36,4 +36,4 @@ c) A forma como a remuneração com base em ações contribui para a estratégia
 
 5 - A política de remuneração inclui uma descrição do processo decisório seguido para a sua determinação, revisão e aplicação, nomeadamente as medidas para evitar ou gerir os conflitos de interesses e, se aplicável, o papel da comissão de remunerações ou de outras comissões envolvidas.
 
-6 - Sempre que a política de remuneração é revista, são descritas e explicadas todas as alterações relevantes introduzidas e de que forma essas alterações refletem as votações e as opiniões expressas pelos acionistas sobre a política de remuneração, bem como os relatórios previstos no artigo 245.º-C emitidos sobre a referida política, desde a última votação sobre a mesma na assembleia geral.
+6 - Sempre que a política de remuneração é revista, são descritas e explicadas todas as alterações relevantes introduzidas e de que forma essas alterações refletem as votações e as opiniões expressas pelos acionistas sobre a política de remuneração, bem como os relatórios previstos no artigo 26.º-G emitidos sobre a referida política, desde a última votação sobre a mesma.

@@ -2,12 +2,12 @@
 
 ### Recusa de aprovação de prospecto e de registo
 
-1 - O registo da oferta é recusado apenas quando:
+1 - A aprovação do prospeto e o registo da oferta são recusados apenas quando:
 
 a) Algum dos documentos que instruem o pedido for falso ou desconforme com os requisitos legais ou regulamentares;
 
 b) A oferta for ilegal ou envolver fraude à lei.
 
-2 - A aprovação do prospecto é recusada apenas quando se verificar a situação prevista na alínea a) do número anterior.
+2 - (Revogado.)
 
 3 - Antes da recusa, a CMVM deve notificar o oferente para suprir, em prazo razoável, os vícios sanáveis.

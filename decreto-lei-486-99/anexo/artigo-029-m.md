@@ -10,6 +10,6 @@ b) Emitentes que emitam apenas valores mobiliários representativos de dívida a
 
 c) Emitentes que emitam apenas valores mobiliários representativos de dívida cujo valor nominal unitário seja, pelo menos, de 50 000 (euro) ou de valor equivalente na data de emissão, que já tenham sido admitidos à negociação num mercado regulamentado antes de 31 de dezembro de 2010, durante o período correspondente ao prazo remanescente dos referidos valores mobiliários.
 
-2 - O disposto nas alíneas b) e d) do n.º 1 e no n.º 2 do artigo 29.º-K não se aplica ao Estado e suas autoridades regionais e locais.
+2 - O disposto nas alíneas b) e d) do n.º 1 e no n.º 3 do artigo 29.º-K não se aplica ao Estado e suas autoridades regionais e locais.
 
 3 - A presente secção não é aplicável a valores mobiliários representativos de dívida emitidos por prazo inferior a um ano, salvo disposição em contrário prevista em legislação especial.

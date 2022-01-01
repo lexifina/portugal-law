@@ -20,10 +20,10 @@
 
 7 - (Revogado.)
 
-8 - São previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014 designadamente:
-
-a) Os deveres de informação específicos no âmbito da execução de ordens, da gestão de carteiras e de transações com passivos contingentes, sem prejuízo do disposto no número seguinte;
-
-b) O dever de envio de extrato periódico relativo aos bens pertencentes ao património do cliente.
+8 - (Revogado.)
 
 9 - No âmbito da prestação do serviço de gestão de carteiras a cliente não profissional, ou no âmbito da prestação de outros serviços tal seja informado ao cliente não profissional, o intermediário financeiro efetua uma avaliação periódica do caráter adequado da operação ou serviço e entrega ao cliente um relatório atualizado sobre o modo como a operação ou serviço corresponde às preferências, objetivos e outras características do cliente.
+
+10 - O cumprimento do dever previsto no n.º 1 não é exigível quando o intermediário financeiro preste serviços a investidores profissionais, exceto quando estes o solicitem por escrito em suporte duradouro.
+
+11 - O intermediário financeiro conserva um registo das comunicações efetuadas nos termos do número anterior.

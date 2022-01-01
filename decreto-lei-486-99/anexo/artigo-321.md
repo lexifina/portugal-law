@@ -14,7 +14,7 @@
 
 ### Contratos com investidores
 
-1 - Os contratos relativos aos serviços previstos nas alíneas a) a d) do n.º 1 do artigo 290.º, e nas alíneas a) e b) do artigo 291.º e celebrados com investidores profissionais ou não profissionais revestem a forma escrita e só estes podem invocar a nulidade resultante da inobservância de forma, devendo cumprir as exigências previstas em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+1 - Os contratos de intermediação financeira revestem forma escrita, nos termos da legislação da União Europeia, e a nulidade por inobservância de forma dos contratos celebrados com investidores não profissionais só pode ser invocada por estes.
 
 2 - Os contratos de intermediação financeira podem ser celebrados com base em cláusulas gerais.
 

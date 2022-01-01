@@ -14,7 +14,7 @@ d) Investidores profissionais referidos nas alíneas a) a f) do n.º 1 do artigo
 
 e) Fundos de garantia e sistemas de indemnização dos investidores e respectivas entidades gestoras;
 
-f) Auditores registados na CMVM;
+f) Auditores;
 
 g) As entidades com objeto específico de titularização, sociedades gestoras de fundos de titularização de créditos, cedentes, mutuantes iniciais, patrocinadores, gestores de créditos, entidades independentes e terceiros na titularização de créditos e outros ativos;
 
@@ -40,6 +40,12 @@ q) Consultores em matéria de votação;
 
 r) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
 
+s) Membros de órgãos, trabalhadores ou agentes das entidades previstas nas alíneas anteriores, quando atuem no âmbito das respetivas funções.
+
 2 - As pessoas ou entidades que exerçam atividades de caráter transnacional ficam sujeitas à supervisão da CMVM sempre que essas atividades tenham alguma conexão relevante com mercados regulamentados, sistemas de negociação multilateral ou organizado, operações ou instrumentos financeiros sujeitos à lei portuguesa.
 
-3 - As entidades sujeitas à supervisão da CMVM devem prestar-lhe toda a colaboração solicitada.
+3 - São supervisionados as pessoas e entidades referidas no presente artigo e em leis que atribuam essa qualidade, mesmo que a licitude da sua atividade dependa de registo ou outro ato da CMVM e este tenha sido cancelado ou de outra forma extinto, mesmo que parcialmente, e continuem a sua atividade, nomeadamente no caso de liquidação, insolvência ou resolução.
+
+4 - O número anterior aplica-se, nomeadamente, em relação aos poderes de supervisão e aos deveres de informação à CMVM, salvo norma em contrário.
+
+5 - As entidades sujeitas à supervisão da CMVM devem prestar-lhe toda a colaboração solicitada.

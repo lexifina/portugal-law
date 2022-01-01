@@ -46,21 +46,23 @@ iv) Negoceiem por conta própria ao executarem ordens de clientes;
 
 e) Às pessoas que prestam, exclusivamente ou em cumulação com a atividade descrita na alínea b), serviços investimento relativos à gestão de sistemas de participação de trabalhadores;
 
-f) Aos operadores sujeitos a obrigações de conformidade nos termos da Diretiva 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro, que negoceiem por conta própria licenças de emissão e que não executem ordens de clientes nem prestem ou exerçam outros serviços ou atividades de investimento e não desenvolvam negociação algorítmica de alta frequência;
+f) Aos operadores sujeitos a obrigações de conformidade nos termos da legislação da União Europeia, que negoceiem por conta própria licenças de emissão e que não executem ordens de clientes nem prestem ou exerçam outros serviços ou atividades de investimento e não desenvolvam negociação algorítmica de alta frequência;
 
 g) Às pessoas, incluindo criadores de mercado, que negoceiem por conta própria instrumentos financeiros derivados de mercadorias ou licenças de emissão e seus derivados, exceto se negociarem por conta própria ao executarem ordens de clientes, ou que prestem outros serviços de investimento relativamente àqueles instrumentos apenas a clientes ou fornecedores da sua atividade principal e que cumpram os seguintes requisitos;
 
-i) Os serviços ou atividades são efetuados enquanto atividade acessória da sua atividade principal ao nível do grupo a que pertencem, tanto numa base individual como agregada, conforme definido em regulamentação e atos delegados da Diretiva n.º 2014/65/UE2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, não sendo essa atividade principal a prestação de serviços de investimento ou de atividades bancárias previstas no Regime Geral das Instituições de Crédito e das Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, ou a criação de mercado em derivados de mercadorias;
+i) Os serviços ou atividades são efetuados enquanto atividade acessória da sua atividade principal no grupo a que pertencem, tanto numa base individual como agregada, conforme definido em legislação da União Europeia, não sendo essa atividade principal a prestação de serviços de investimento ou de atividades bancárias, ou a criação de mercado em derivados de mercadorias;
 
-ii) Não exerçam uma atividade de negociação algorítmica de alta frequência;
+ii) A atividade principal do grupo não consiste na prestação de serviços de investimento, de atividades bancárias ou na criação de mercado em derivados de mercadorias;
 
-iii) No caso de entidades com sede em Portugal, comuniquem anualmente à CMVM que beneficiam desta exceção;
+iii) Não exerçam uma atividade de negociação algorítmica de alta frequência;
 
-h) Aos operadores de redes de transporte conforme definidos no n.º 4 do artigo 2.º, da Diretiva 2009/72/CE ou no n.º 4 do artigo 2.º, da Diretiva 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de julho, quando atuem ao abrigo das funções aí previstas ou nos Regulamentos (CE) n.º 714/2009 e n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, ou de códigos ou orientações relativos às redes adotados em aplicação desses regulamentos, incluindo pessoas que atuem como prestadores de serviços em seu nome no cumprimento dessas funções, e qualquer operador ou administrador de um mecanismo de compensação de fluxos de energia ou de uma rede ou sistema de oleodutos para manter o equilíbrio entre a oferta e a procura de energia no desempenho dessas tarefas, desde que os serviços ou atividades apenas tenham por objeto derivados de mercadorias a fim de desempenhar aquelas funções e não correspondam a operações efetuadas em mercado secundário, incluindo uma plataforma de negociação de direitos de transporte de natureza financeira;
+iv) No caso de entidades com sede em Portugal, informem, mediante pedido, a CMVM do fundamento para considerar que os serviços ou atividades prestados são considerados auxiliares da sua atividade principal;
+
+h) Aos operadores de redes de transporte conforme definidos na legislação da União Europeia sobre o mercado interno da eletricidade e do gás natural, ou de códigos ou orientações relativos às redes adotados em aplicação dessa legislação, incluindo pessoas que atuem como prestadores de serviços em seu nome no cumprimento dessas funções, e qualquer operador ou administrador de um mecanismo de compensação de fluxos de energia ou de uma rede ou sistema de oleodutos para manter o equilíbrio entre a oferta e a procura de energia no desempenho dessas tarefas, desde que os serviços ou atividades apenas tenham por objeto derivados de mercadorias a fim de desempenhar aquelas funções e não correspondam a operações efetuadas em mercado secundário, incluindo uma plataforma de negociação de direitos de transporte de natureza financeira;
 
 i) Às pessoas que exercem, a título principal, algum dos serviços enumerados nas alíneas c), d) e g) do artigo 291.º, desde que não atuem no âmbito de um grupo cuja atividade principal consista na prestação de serviços de investimento ou de natureza bancária;
 
-j) Às centrais de valores mobiliários, exceto nos termos previstos no artigo 73.º do Regulamento (UE) n.º 909/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.
+j) Às centrais de valores mobiliários, nos limites em que tal é permitido pela legislação da União Europeia;
 
 k) Às entidades habilitadas por lei especial a exercer atividades de intermediação financeira.
 
@@ -82,4 +84,4 @@ b) Os serviços prestados a clientes ou fornecedores como atividade auxiliar.
 
 9 - Os membros ou participantes de mercado regulamentado ou sistema de negociação multilateral que não sejam intermediários financeiros estão sujeitos aos deveres previstos na Secção IV-A do Capítulo I do presente título.
 
-10 - A CMVM pode definir, através de regulamento, o conteúdo e o modo como deve ser prestada a comunicação prevista na subalínea iii) da alínea g) do n.º 3 e a informação prevista no n.º 7 do presente artigo.
+10 - A CMVM pode regulamentar o conteúdo e a forma da informação prevista na subalínea iv) da alínea g) do n.º 3 e no n.º 7.

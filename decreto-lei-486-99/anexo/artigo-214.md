@@ -2,7 +2,7 @@
 
 ### Poderes da CMVM
 
-1 - A CMVM pode:
+1 - Sem prejuízo do disposto na legislação da União Europeia, a CMVM pode:
 
 a) Ordenar à entidade gestora de mercado regulamentado ou de sistemas de negociação multilateral ou organizado que proceda à suspensão de instrumentos financeiros da negociação, quando a situação do emitente implique que a negociação seja prejudicial para os interesses dos investidores ou a entidade gestora não o tenha feito em tempo oportuno;
 
@@ -16,4 +16,4 @@ c) Estender a suspensão ou a exclusão a todos os mercados regulamentados e sis
 
 4 - (Revogado).
 
-5 - A CMVM pode ordenar à entidade gestora de mercado regulamentado ou de sistema de negociação multilateral que proceda à suspensão ou exclusão de instrumentos financeiros da negociação quando tal seja solicitado pelo Banco de Portugal nos casos previstos na lei.
+5 - A CMVM pode ordenar à entidade gestora de mercado regulamentado ou de sistemas de negociação multilateral ou organizado que proceda à admissão, readmissão, suspensão ou exclusão de instrumentos financeiros da negociação quando tal seja solicitado pelo Banco de Portugal, nos casos previstos na lei.

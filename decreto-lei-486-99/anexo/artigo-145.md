@@ -1,6 +1,10 @@
-## Subsecção II
+## Secção V
 
-## Prospecto de oferta internacional
+## Prospecto
+
+## Subsecção I
+
+## Exigibilidade, formato e conteúdo
 
 # Artigo 145.º
 

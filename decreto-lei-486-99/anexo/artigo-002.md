@@ -18,11 +18,11 @@ i) Valores mobiliários, divisas, taxas de juro ou de rendibilidades, licenças 
 
 ii) Mercadorias, variáveis climáticas, tarifas de fretes, taxas de inflação ou quaisquer outras estatísticas económicas oficiais, com liquidação financeira ainda que por opção de uma das partes;
 
-iii) Mercadorias, que possam ser objeto de liquidação física, desde que sejam transacionados em mercado regulamentado ou em sistemas de negociação multilateral ou organizado, com exceção dos produtos energéticos grossistas negociados em sistema de negociação organizado que só possam ser liquidados mediante entrega física, conforme definido em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, ou, não se destinando a finalidade comercial, tenham características análogas às de outros instrumentos financeiros derivados nos termos da referida regulamentação e atos delegados;
+iii) Mercadorias, que possam ser objeto de liquidação física, desde que sejam transacionados em mercado regulamentado ou em sistemas de negociação multilateral ou organizado, com exceção dos produtos energéticos grossistas negociados em sistema de negociação organizado que só possam ser liquidados mediante entrega física, nos termos da legislação da União Europeia, ou, não se destinando a finalidade comercial, tenham características análogas às de outros instrumentos financeiros derivados;
 
-f) Quaisquer outros contratos derivados, nomeadamente os relativos a qualquer dos elementos indicados em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, desde que tenham características análogas às de outros instrumentos financeiros derivados nos termos definidos na referida regulamentação e atos delegados;
+f) Quaisquer outros contratos derivados, desde que tenham características análogas às de outros instrumentos financeiros derivados;
 
-g) Licenças de emissão, nos termos e para os efeitos do Regulamento (UE) n.º 596/2014, do Parlamento e do Conselho, de 16 de abril de 2014, do Regulamento (UE) n.º 1031/2010, da Comissão, de 12 de novembro de 2010 e da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
+g) Licenças de emissão;
 
 h) As formas organizadas de negociação de instrumentos financeiros referidos nas alíneas anteriores, a liquidação e a compensação de operações àqueles respeitantes e as actividades de intermediação financeira;
 
@@ -32,7 +32,7 @@ i) O regime de supervisão e sancionatório relativo aos instrumentos e às acti
 
 3 - (Revogado).
 
-4 - A proibição de manipulação de mercado e as disposições dos títulos vii e viii do presente Código aplicam-se igualmente aos índices de referência e aos contratos de mercadorias à vista, nos termos previstos no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativo ao abuso de mercado.
+4 - A proibição de manipulação de mercado e as disposições dos títulos VII e VIII do presente Código aplicam-se igualmente aos índices de referência e aos contratos de mercadorias à vista.
 
 5 - (Revogado).
 

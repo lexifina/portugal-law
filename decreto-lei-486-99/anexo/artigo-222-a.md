@@ -2,7 +2,7 @@
 
 ### Variação mínima de ofertas de preços
 
-1 - A entidade gestora de mercado regulamentado aplica as regras relativas à variação mínima de preços de ofertas (tick sizes) definidas em regulamentação e atos delegados da Diretiva 2014/65/EU, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativamente a ações, certificados de depósito, fundos de índices cotados, certificados e outros instrumentos financeiros similares, bem como em relação a qualquer outro instrumento financeiro para o qual seja desenvolvida regulamentação.
+1 - A entidade gestora de mercado regulamentado aplica as regras relativas à variação mínima de preços de ofertas (tick sizes) definidas na legislação da União Europeia, relativamente a ações, certificados de depósito, fundos de índices cotados, certificados e outros instrumentos financeiros similares, bem como em relação a qualquer outro instrumento financeiro para o qual seja desenvolvida regulamentação.
 
 2 - Os regimes de variação de ofertas de preço a que se refere o número anterior:
 

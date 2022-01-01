@@ -2,26 +2,32 @@
 
 ### Decisão
 
-1 - A aprovação do prospecto, o registo ou a sua recusa devem ser comunicados ao oferente:
+1 - O registo ou a sua recusa são comunicados ao oferente de oferta pública de aquisição no prazo de oito dias.
 
-a) No prazo de 8 dias, em oferta pública de aquisição;
+2 - (Revogado.)
 
-b) No prazo de 10 dias, em ofertas públicas de distribuição, salvo se respeitantes a emitentes que não tenham previamente realizado qualquer oferta pública de distribuição ou admissão à negociação em mercado regulamentado, caso em que o prazo é de 20 dias.
-
-2 - Os prazos referidos no número anterior contam-se a partir da recepção do pedido ou das informações complementares solicitadas ao oferente ou a terceiros.
-
-3 - A necessidade de prestação de informações complementares é comunicada, em termos fundamentados, ao oferente no prazo correspondente referido no n.º 1.
+3 - A necessidade de prestação de informações complementares é comunicada, em termos fundamentados, ao oferente no prazo referido no n.º 1.
 
 4 - A ausência de decisão no prazo referido no n.º 1 implica o indeferimento tácito do pedido.
 
-5 - A aprovação do prospecto é o acto que implica a verificação da sua conformidade com as exigências de completude, veracidade, actualidade, clareza, objectividade e licitude da informação.
+5 - Quando o oferente imponha condições para o lançamento de oferta pública de aquisição é aplicável o disposto no artigo 364.º-A, com as seguintes especificidades:
 
-6 - O registo de oferta pública de aquisição implica a aprovação do respectivo prospecto e baseia-se em critérios de legalidade.
+a) O procedimento de registo extingue-se três meses após submissão do requerimento de registo da oferta previsto na alínea b) do n.º 2 do artigo 175.º, exceto se, em circunstâncias devidamente justificadas pelo interesse legítimo do oferente, e considerando o funcionamento regular do mercado, os interesses da sociedade visada e dos investidores, a CMVM prorrogue aquele prazo, por uma ou mais vezes;
 
-7 - A aprovação do prospecto e o registo não envolvem qualquer garantia quanto ao conteúdo da informação, à situação económica ou financeira do oferente, do emitente ou do garante, à viabilidade da oferta ou à qualidade dos valores mobiliários.
+b) O procedimento de registo extingue-se assim que uma condição de lançamento se der por não verificada;
 
-8 - As decisões da CMVM de aprovação de prospecto e de concessão de registo de oferta pública de aquisição são divulgadas através do seu sistema de difusão de informação.
+c) A extinção do procedimento prevista na alínea anterior é imediatamente divulgada ao público pela CMVM.
 
-9 - A decisão da CMVM de aprovação de prospeto de oferta pública de distribuição, bem como de aprovação de adenda ou de retificação, é notificada à Autoridade Europeia dos Valores Mobiliários e dos Mercados na mesma data em que a decisão é notificada, conforme os casos, ao oferente, ao emitente ou à pessoa que solicita a admissão à negociação num mercado regulamentado.
+6 - Se a condição de lançamento disser respeito a uma questão prejudicial, nos termos do artigo 38.º do Código do Procedimento Administrativo, aplica-se o disposto no número anterior, sendo o prazo a que se refere a alínea a) de seis meses, prorrogável nos termos daquela alínea.
 
-10 - A notificação referida no número anterior é acompanhada de uma cópia do prospeto, adenda ou retificação, conforme o caso.
+7 - O registo de oferta pública de aquisição implica a aprovação do respectivo prospecto e baseia-se em critérios de legalidade.
+
+8 - A aprovação do prospecto é o acto que implica a verificação da sua conformidade com as exigências de completude, veracidade, actualidade, clareza, objectividade e licitude da informação.
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - A aprovação do prospecto e o registo não envolvem qualquer garantia quanto ao conteúdo da informação, à situação económica ou financeira do oferente, do emitente ou do garante, à viabilidade da oferta ou à qualidade dos valores mobiliários.
+
+12 - Após aprovação, a versão final do prospeto, já com a indicação da data de aprovação e do número de registo, quando aplicável, é imediatamente enviada à CMVM e por esta divulgada através do sistema de difusão de informação referido no artigo 367.º

@@ -12,7 +12,7 @@ c) De adopção pelas entidades registadoras dos meios adequados à segurança d
 
 d) De realização de registo individualizado de valores mobiliários escriturais ou de valores mobiliários titulados integrados em sistema centralizado, de registo inicial ou de administração de sistema de registo centralizado, sem as menções devidas ou sem base documental bastante;
 
-e) De bloqueio exigido por lei ou pelo titular dos valores mobiliários;
+e) De bloqueio;
 
 f) De menção nos títulos da sua integração em sistema centralizado, de registo inicial ou de administração de sistema de registo centralizado, ou da sua exclusão sem a atualização devida.
 

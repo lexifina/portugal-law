@@ -6,9 +6,9 @@
 
 ### Aquisição potestativa
 
-1 - Quem, na sequência do lançamento de oferta pública de aquisição geral em que seja visada sociedade aberta que tenha como lei pessoal a lei portuguesa, atinja ou ultrapasse, directamente ou nos termos do n.º 1 do artigo 20.º, 90% dos direitos de voto correspondentes ao capital social até ao apuramento dos resultados da oferta e 90% dos direitos de voto abrangidos pela oferta pode, nos três meses subsequentes, adquirir as acções remanescentes mediante contrapartida justa, em dinheiro, calculada nos termos do artigo 188.º
+1 - Quem, na sequência do lançamento de oferta pública de aquisição geral em que seja visada sociedade emitente de ações admitidas à negociação em mercado regulamentado em Portugal, referida no n.º 1 do artigo 13.º-B, atinja ou ultrapasse, diretamente ou nos termos do n.º 1 do artigo 20.º, 90 % dos direitos de voto correspondentes ao capital social até ao apuramento dos resultados da oferta pode, nos três meses subsequentes, adquirir as ações remanescentes mediante contrapartida em dinheiro.
 
-2 - Se o oferente, em resultado da aceitação de oferta pública de aquisição geral e voluntária, adquirir pelo menos 90% das acções representativas de capital social com direitos de voto abrangidas pela oferta, presume-se que a contrapartida da oferta corresponde a uma contrapartida justa da aquisição das acções remanescentes.
+2 - A contrapartida mínima a pagar nos termos do número anterior é a da oferta pública de aquisição geral ou, se mais elevado, o maior preço pago pelo oferente ou por qualquer das pessoas que, em relação a ele, estejam em alguma das situações previstas no n.º 1 do artigo 20.º pela aquisição de valores mobiliários da mesma categoria, ou que o oferente ou alguma daquelas pessoas se obrigou a pagar, entre o apuramento de resultados da oferta e o registo da aquisição potestativa pela CMVM.
 
 3 - O sócio dominante que tome a decisão de aquisição potestativa deve publicar de imediato anúncio preliminar e enviá-lo à CMVM para efeitos de registo.
 

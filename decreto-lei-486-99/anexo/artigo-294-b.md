@@ -8,7 +8,7 @@
 
 a) Por pessoas singulares, estabelecidas em Portugal, não integradas na estrutura organizativa do intermediário financeiro;
 
-b) Por sociedades comerciais, com sede estatutária em Portugal, que não se encontrem em relação de domínio ou de grupo com o intermediário financeiro.
+b) Por sociedades comerciais, com sede estatutária em Portugal.
 
 3 - O agente vinculado deve ser idóneo e possuir qualificação e aptidão profissional adequadas e, caso preste informações ou consultoria para investimento sobre instrumentos financeiros, deve cumprir com os requisitos previstos no artigo 305.º-G.
 

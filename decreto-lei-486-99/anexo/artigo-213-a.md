@@ -10,6 +10,6 @@
 
 4 - A entidade gestora dispõe dos sistemas e procedimentos necessários para:
 
-a) Proceder à notificação à CMVM, no caso de interrupção da negociação de um instrumento financeiro para o qual seja o mercado significativo em termos de liquidez, conforme definido em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014; e
+a) Proceder à notificação à CMVM, no caso de interrupção da negociação de um instrumento financeiro para o qual seja o mercado significativo em termos de liquidez, conforme definido na legislação da União Europeia; e
 
 b) Permitir à CMVM coordenar uma resposta à escala de todo o mercado e determinar se é adequado suspender a negociação noutras plataformas de negociação em que o instrumento financeiro seja negociado, até que a negociação seja retomada no mercado de origem.

@@ -38,12 +38,12 @@ p) Composição e descrição do modo de funcionamento dos órgãos sociais do e
 
 q) Uma descrição da política de diversidade aplicada pela sociedade relativamente aos seus órgãos de administração e de fiscalização, designadamente, em termos de idade, sexo, habilitações e antecedentes profissionais, os objetivos dessa política de diversidade, a forma como foi aplicada e os resultados no período de referência.
 
-2 - Caso a política referida na alínea q) do número anterior não seja aplicada, o relatório detalhado sobre a estrutura e as práticas de governo societário contém uma explicação para esse facto.
+2 - Caso a política referida na alínea r) do número anterior não seja aplicada, o relatório detalhado sobre a estrutura e as práticas de governo societário contém uma explicação para esse facto.
 
-3 - O dever previsto na alínea q) do n.º 1 não se aplica aos emitentes que sejam pequenas e médias empresas, nos termos da lei em matéria de contabilidade.
+3 - O dever previsto na alínea r) do n.º 1 não se aplica aos emitentes que sejam pequenas e médias empresas, nos termos da lei em matéria de contabilidade.
 
 4 - O órgão de administração de sociedades emitentes de ações admitidas à negociação em mercado regulamentado sujeitas a lei pessoal portuguesa apresenta anualmente à assembleia geral um relatório explicativo das matérias a que se refere o n.º 1.
 
-5 - As sociedades emitentes de outros valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal, que não os referidos no n.º 1, divulgam anualmente a informação referida nas alíneas c), d), f), h), i) e l) do n.º 1, salvo se as respetivas ações forem negociadas num sistema de negociação multilateral, caso em que divulgam todas as informações referidas no n.º 1.
+5 - As sociedades emitentes de outros valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal, que não os referidos no n.º 1, divulgam anualmente a informação referida nas alíneas c), d), f), h), i) e m) do n.º 1, salvo se as respetivas ações forem negociadas num sistema de negociação multilateral, caso em que divulgam todas as informações referidas no n.º 1.
 
 6 - O relatório detalhado sobre a estrutura e as práticas de governo societário não contém remissões, exceto para o relatório anual de gestão.

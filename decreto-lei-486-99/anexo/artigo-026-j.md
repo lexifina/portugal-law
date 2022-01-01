@@ -25,5 +25,3 @@ f) Se o acordo com o gestor de ativos não incluir um ou mais dos elementos prev
 3 - As informações referidas no presente artigo são disponibilizadas gratuitamente no sítio na Internet do investidor institucional e atualizadas anualmente, salvo se não se verificarem alterações substanciais.
 
 4 - As empresas de seguros ou resseguros podem incluir as informações referidas no presente artigo no seu relatório sobre a solvência e a situação financeira, previsto na legislação do setor segurador.
-
-5 - Para efeitos do presente artigo e do artigo 26.º-M, o conceito de investidores institucionais abrange os organismos de investimento coletivo.

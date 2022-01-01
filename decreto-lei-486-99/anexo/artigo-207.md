@@ -22,7 +22,7 @@ b) A CMVM não se opuser por considerar que as condições técnicas para a liqu
 
 6 - A CMVM pode exigir à entidade gestora os dados relativos ao livro de ofertas e o acesso ao mesmo, de modo a poder acompanhar a negociação.
 
-7 - Sem prejuízo dos títulos III, IV ou V do Regulamento (UE) n.º 648/2012, do Parlamento Europeu e do Conselho, de 4 de julho de 2012, e no artigo 267.º, os intermediários financeiros estabelecidos em Portugal ou noutro Estado membro têm o direito de acesso direto ou indireto aos sistemas de contraparte central, de compensação e de liquidação estabelecidos ou a funcionar em Portugal para efeitos da conclusão ou organização da conclusão de operações em instrumentos financeiros.
+7 - Sem prejuízo do disposto na legislação da União Europeia e no artigo 267.º, os intermediários financeiros estabelecidos em Portugal ou noutro Estado-Membro têm o direito de acesso direto ou indireto aos sistemas de contraparte central, de compensação e de liquidação estabelecidos ou a funcionar em Portugal para efeitos da conclusão ou organização da conclusão de operações em instrumentos financeiros.
 
 8 - O acesso direto ou indireto pelos intermediários financeiros a esses sistemas está sujeito aos critérios de não discriminação, transparência e objetividade aplicáveis aos membros ou participantes de plataformas de negociação nos termos do artigo 209.º
 

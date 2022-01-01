@@ -6,23 +6,25 @@
 
 ### Âmbito
 
-1 - São responsáveis pelos danos causados pela desconformidade do conteúdo do prospecto com o disposto no artigo 135.º, salvo se provarem que agiram sem culpa:
+1 - São responsáveis pelos danos causados pela desconformidade do conteúdo do prospeto com o disposto no artigo 7.º e nas demais exigências legais, salvo se provarem que agiram sem culpa:
 
 a) O oferente;
 
-b) Os titulares do órgão de administração do oferente;
+b) O emitente;
 
-c) O emitente;
+c) O garante, quando aplicável;
 
-d) Os titulares do órgão de administração do emitente;
+d) Os titulares do órgão de administração do oferente e do emitente, conforme aplicável, em funções à data de aprovação do prospeto;
 
-e) Os promotores, no caso de oferta de subscrição para a constituição de sociedade;
+e) (Revogada.)
 
-f) Os titulares do órgão de fiscalização, as sociedades de revisores oficiais de contas, os revisores oficiais de contas e outras pessoas que tenham certificado ou, de qualquer outro modo, apreciado os documentos de prestação de contas em que o prospecto se baseia;
+f) Os titulares do órgão de fiscalização do oferente e do emitente, conforme aplicável, em funções à data de aprovação do prospeto;
 
-g) Os intermediários financeiros encarregados da assistência à oferta;
+g) (Revogada.)
 
-h) As demais pessoas que aceitem ser nomeadas no prospecto como responsáveis por qualquer informação, previsão ou estudo que nele se inclua.
+h) O revisor oficial de contas do oferente em funções à data de aprovação do prospeto;
+
+i) As demais pessoas que aceitem ser nomeadas no prospeto como responsáveis por qualquer informação, previsão, parecer ou estudo que nele se inclua.
 
 2 - A culpa é apreciada de acordo com elevados padrões de diligência profissional.
 

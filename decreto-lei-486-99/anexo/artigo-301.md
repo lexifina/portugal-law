@@ -1,14 +1,14 @@
 # Artigo 301.º
 
-### Registo de consultores para investimento autónomos e comunicação de colaboradores de intermediários financeiros
+### Autorização de consultores para investimento autónomos e comunicação de colaboradores de intermediários financeiros
 
-1 - O exercício da atividade dos consultores para investimento autónomos, previsto na alínea b) do n.º 4 do artigo 294.º, depende de registo na CMVM.
+1 - O exercício da atividade dos consultores para investimento autónomos previsto na alínea b) do n.º 4 do artigo 294.º depende de autorização da CMVM.
 
-2 - O registo exigido no número anterior só é concedido a pessoas singulares idóneas que demonstrem possuir qualificação e aptidão profissional, de acordo com elevados padrões de exigência, adequadas ao exercício da atividade e meios materiais suficientes, incluindo um seguro de responsabilidade civil.
+2 - O registo exigido no número anterior é concedido a pessoas singulares idóneas que demonstrem possuir qualificação e aptidão profissional, de acordo com elevados padrões de exigência, adequadas ao exercício da atividade e meios materiais suficientes nos termos a fixar em regulamento da CMVM.
 
 3 - Para efeitos da respetiva apreciação, entre outras circunstâncias atendíveis, considera-se indiciador de falta de idoneidade o facto de um consultor para investimento autónomo ter sido:
 
-a) Condenado em processo-crime, nomeadamente pela prática de crimes contra o património, burla, abuso de confiança, corrupção, infidelidade, branqueamento de capitais, financiamento do terrorismo ou crimes previstos no Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, ou no Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro;
+a) Condenado em processo-crime, nomeadamente pela prática de crimes contra o património, burla, abuso de confiança, corrupção, infidelidade, branqueamento, financiamento do terrorismo ou crimes previstos no presente Código ou no Código das Sociedades Comerciais;
 
 b) Declarado insolvente;
 
@@ -20,10 +20,10 @@ e) Ter sido sancionado com pena de suspensão ou de expulsão de associação pr
 
 f) Ter prestado declarações falsas ou inexatas sobre factos relevantes no âmbito de procedimento de apreciação de idoneidade.
 
-4 - Os intermediários financeiros que exercem a atividade de consultoria para investimento comunicam à CMVM a identidade dos seus colaboradores.
+4 - Os intermediários financeiros que exercem a atividade de consultoria para investimento mantêm um registo interno da identidade dos seus colaboradores.
 
 5 - A CMVM publica no seu sítio na Internet a identidade dos consultores para investimento autónomos registados, incluindo indicação sobre se atuam como consultores para investimento independente ou não.
 
-6 - As condições mínimas do seguro de responsabilidade civil previsto no n.º 2 são fixadas por norma regulamentar da Autoridade de Supervisão de Seguros e Fundos de Pensões, ouvida a CMVM.
+6 - (Revogado.)
 
-7 - Sem prejuízo do disposto no n.º 8 do artigo 294.º, apenas as pessoas registadas ou comunicadas junto da CMVM como consultores para investimento independentes podem utilizar as designações «consultor para investimento independente» ou «consultoria para investimento independente», não podendo prestar outros serviços de consultoria para investimento.
+7 - Os requisitos materiais aplicáveis aos consultores para investimento autónomos são estabelecidos através de regulamento da CMVM.

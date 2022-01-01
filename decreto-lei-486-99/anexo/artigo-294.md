@@ -26,7 +26,7 @@ b) Não detenham fundos ou valores mobiliários pertencentes a clientes.
 
 7 - Na prestação de serviços de consultoria para investimento independente, o intermediário financeiro:
 
-a) Avalia uma gama suficientemente diversificada de instrumentos financeiros disponíveis no mercado quanto ao tipo e aos emitentes ou distribuidores, de modo a garantir que os objetivos de investimento do cliente são adequadamente satisfeitos, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
+a) Avalia uma gama suficientemente diversificada de instrumentos financeiros disponíveis no mercado quanto ao tipo e aos emitentes ou distribuidores, de modo a garantir que os objetivos de investimento do cliente são adequadamente satisfeitos, nos termos da legislação da União Europeia;
 
 b) Não pode limitar-se a instrumentos financeiros emitidos ou comercializados:
 
@@ -34,4 +34,4 @@ i) Pelo próprio intermediário ou por entidade com a qual esteja em relação d
 
 ii) Por outras entidades com as quais o intermediário financeiro tem estreitas relações jurídicas ou económicas, tais como relações contratuais, suscetíveis de colocar em risco a independência do serviço de consultoria prestado.
 
-8 - Os intermediários financeiros exercem a atividade de consultoria para investimento independente de forma segregada de outros serviços de consultoria prestados, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+8 - Os intermediários financeiros exercem a atividade de consultoria para investimento independente de forma segregada de outros serviços de consultoria prestados, nos termos da legislação da União Europeia.

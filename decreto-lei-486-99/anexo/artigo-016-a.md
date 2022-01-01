@@ -2,7 +2,7 @@
 
 ### Isenção de dever de comunicação
 
-1 - Os deveres de comunicação previstos nos n.os 1, 2 e 5 do artigo anterior não se aplicam a:
+1 - Os deveres de comunicação previstos nos n.os 1 e 5 do artigo anterior não se aplicam a:
 
 a) Participações resultantes de transações envolvendo membros do Sistema Europeu de Bancos Centrais, atuando na qualidade de autoridades monetárias, no âmbito de uma garantia, de um acordo de recompra ou de um acordo similar de liquidez autorizado por razões de política monetária ou no âmbito de um sistema de pagamentos, desde que as transações se realizem dentro de um período de tempo curto e desde que não sejam exercidos os direitos de voto inerentes às ações em causa;
 
@@ -16,15 +16,15 @@ i) Não intervenha na gestão do emitente em causa, nem o influencie a adquirir 
 
 ii) Comunique à CMVM, no prazo previsto no n.º 1 do artigo 16.º, que atua ou pretende atuar como criador de mercado relativamente ao emitente em causa.
 
-e) Ações detidas por intermediário financeiro na sua carteira de negociação, na aceção do ponto 86 do n.º 1 do artigo 4.º do Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013, desde que:
+e) Ações detidas por intermediário financeiro na sua carteira de negociação, na aceção da legislação da União Europeia relativa aos requisitos prudenciais para as instituições de crédito e para as empresas de investimento, desde que:
 
 i) Os direitos de voto detidos na carteira de negociação não excedam 5 % dos direitos de voto correspondentes ao capital social; e
 
 ii) Os direitos de voto inerentes às ações detidas na carteira de negociação não sejam exercidos nem de outro modo utilizados para intervir na gestão do emitente.
 
-f) Ações adquiridas para efeitos de estabilização ao abrigo do Regulamento (CE) n.º 2273/2003, da Comissão, de 22 de dezembro de 2003, no que diz respeito às derrogações para os programas de recompra e para as operações de estabilização de instrumentos financeiros, desde que os direitos de voto inerentes a essas ações não sejam exercidos nem de outro modo utilizados para intervir na gestão do emitente.
+f) Ações adquiridas para efeitos de estabilização ao abrigo da legislação da União Europeia, no que diz respeito às derrogações para os programas de recompra e para as operações de estabilização de instrumentos financeiros, desde que os direitos de voto inerentes a essas ações não sejam exercidos nem de outro modo utilizados para intervir na gestão do emitente.
 
-2 - A participação referida nas alíneas d) e e) do número anterior é calculada de acordo com o disposto nos artigos 2.º e 3.º do Regulamento Delegado (UE) n.º 2015/761, da Comissão, de 17 de dezembro de 2014.
+2 - A participação referida nas alíneas d) e e) do número anterior é calculada de acordo com legislação da União Europeia sobre participações qualificadas.
 
 3 - O intermediário financeiro que atue como criador de mercado nos termos da alínea d) do n.º 1 está obrigado a:
 
@@ -36,4 +36,4 @@ c) Apresentar à CMVM, a pedido desta, o contrato de criação de mercado quando
 
 4 - Os direitos de voto que beneficiem das isenções previstas no n.º 1 não podem ser exercidos, salvo no caso previsto na alínea c) do mesmo número.
 
-5 - As isenções previstas no n.º 1, com exceção da alínea f) do mesmo número, aplicam-se, com as necessárias adaptações, aos instrumentos financeiros referidos nas alíneas e) e i) do n.º 1 do artigo 20.º, bem como nos termos previstos no artigo 6.º do Regulamento Delegado (UE) n.º 2015/761, da Comissão, de 17 de dezembro de 2014.
+5 - As isenções previstas no n.º 1, com exceção da alínea f) do mesmo número, aplicam-se, com as necessárias adaptações, aos instrumentos financeiros referidos nas alíneas e) e i) do n.º 1 do artigo 20.º

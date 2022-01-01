@@ -14,7 +14,7 @@
 
 ### Direito aplicável
 
-1 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 145.º, as disposições deste título e os regulamentos que as complementam aplicam-se às ofertas públicas dirigidas especificamente a pessoas com residência ou estabelecimento em Portugal, seja qual for a lei pessoal do oferente ou do emitente e o direito aplicável aos valores mobiliários que são objecto da oferta.
+1 - Sem prejuízo do disposto na legislação da União Europeia, as disposições deste título e os regulamentos que as complementam aplicam-se às ofertas públicas dirigidas especificamente a pessoas com residência ou estabelecimento em Portugal, seja qual for a lei pessoal do oferente ou do emitente e o direito aplicável aos valores mobiliários que são objeto da oferta.
 
 2 - Às ofertas públicas de aquisição previstas no artigo 145.º-A:
 

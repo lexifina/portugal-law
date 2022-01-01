@@ -18,12 +18,14 @@ e) Substituir-se às entidades gestoras de mercados regulamentados, de sistemas 
 
 f) Substituir-se às entidades supervisionadas no cumprimento de deveres de informação;
 
-g) Divulgar publicamente o facto de um emitente não estar a observar os seus deveres;
+g) Divulgar publicamente o facto de um emitente, oferente ou pessoa que solicita a admissão à negociação num mercado regulamentado, não estar a observar os seus deveres;
 
 h) Determinar que uma entidade reduza ou não aumente a sua posição ou exposição a instrumentos financeiros derivados de mercadorias;
 
-i) Proibir ou limitar a comercialização, distribuição ou venda de instrumentos financeiros ou um determinado tipo de atividade ou prática financeira, nos termos previstos no Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados, ou em virtude da violação dos deveres relativos à produção ou distribuição de instrumentos financeiros, sem prejuízo do exercício dos poderes de intervenção previstos nos termos do Regulamento (UE) n.º 236/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012.
+i) Proibir ou limitar a comercialização, distribuição ou venda de instrumentos financeiros ou um determinado tipo de atividade ou prática financeira, nos termos previstos na legislação da União Europeia relativa aos mercados de instrumentos financeiros, e exercer os demais poderes de intervenção previstos na lei e na legislação da União Europeia relativa às vendas a descoberto.
 
 3 - Nas situações previstas no n.º 1 e nas alíneas a), b) e c) do n.º 2, as pessoas singulares ou colectivas em causa ficam sujeitas ao dever de não revelar a clientes ou a terceiros o teor ou a ocorrência do acto praticado.
 
-4 - Nos recursos das decisões tomadas pela CMVM, no exercício dos poderes de supervisão, presume-se, até prova em contrário, que a suspensão da eficácia determina grave lesão do interesse público.
+4 - Nos recursos das decisões tomadas pela CMVM, no exercício dos poderes de supervisão, presume-se, até prova em contrário, que o diferimento da execução é gravemente prejudicial para o interesse público.
+
+5 - Nas situações da alínea b) do n.º 2, e sem prejuízo da possibilidade de emissão de ordem para o efeito, aplica-se, com as devidas adaptações, o artigo 409.º, quando a notificação das pessoas obedeceu ao n.º 1 do artigo 411.º

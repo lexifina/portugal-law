@@ -1,7 +1,3 @@
-## Secção III
-
-## Informação relativa a instrumentos financeiros admitidos à negociação
-
 # Artigo 244.º
 
 ### Regras gerais

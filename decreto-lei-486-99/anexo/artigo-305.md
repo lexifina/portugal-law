@@ -8,7 +8,7 @@
 
 1 - O intermediário financeiro:
 
-a) Mantém a sua organização empresarial equipada com os meios humanos, materiais e técnicos necessários para prestar os seus serviços em condições adequadas de qualidade, profissionalismo, regularidade, continuidade e de eficiência e por forma a evitar procedimentos errados, devendo designadamente cumprir com os requisitos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
+a) Mantém a sua organização empresarial equipada com os meios humanos, materiais e técnicos necessários para prestar os seus serviços em condições adequadas de qualidade, profissionalismo, regularidade, continuidade e de eficiência e por forma a evitar procedimentos errados, devendo designadamente cumprir com os requisitos previstos na legislação da União Europeia;
 
 b) Dispõe de procedimentos de controlo interno adequados, incluindo regras relativas às transações pessoais dos seus colaboradores ou à detenção ou gestão de investimentos em instrumentos financeiros para investimento por conta própria;
 
@@ -28,7 +28,7 @@ i) (Revogada.)
 
 j) (Revogada.)
 
-k) Adota sistemas e procedimentos de deteção e comunicação de ordens ou operações que sejam suspeitas de constituírem abuso de mercado, em conformidade com o disposto no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+k) Adota sistemas e procedimentos de deteção e comunicação de ordens ou operações que sejam suspeitas de constituírem abuso de mercado.
 
 2 - O intermediário financeiro assegura que os colaboradores que prestem serviços de intermediação financeira possuem conhecimentos e competências adequadas ao cumprimento dos seus deveres.
 

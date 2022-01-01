@@ -8,7 +8,7 @@
 
 1 - Só podem ser admitidos à negociação valores mobiliários cujo conteúdo e forma de representação sejam conformes ao direito que lhes é aplicável e que tenham sido, em tudo o mais, emitidos de harmonia com a lei pessoal do emitente.
 
-2 - São definidas em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, as características dos diferentes tipos de instrumentos financeiros que devem ser tidas em consideração pela entidade gestora do mercado regulamentado ao avaliar se o mesmo foi emitido em termos que permitam a sua admissão à negociação.
+2 - As características dos diferentes tipos de instrumentos financeiros que devem ser tidas em consideração pela entidade gestora do mercado regulamentado ao avaliar se o mesmo foi emitido em termos que permitam a sua admissão à negociação são definidas na legislação da União Europeia.
 
 3 - O emitente deve satisfazer os seguintes requisitos:
 
@@ -20,7 +20,7 @@ b) Comprovar que possui situação económica e financeira compatível com a nat
 
 a) Os meios a utilizar pelo emitente para a prestação da informação ao público;
 
-b) A identificação do participante em sistema de liquidação aceite pela entidade gestora através do qual se assegure o pagamento dos direitos patrimoniais inerentes aos valores mobiliários a admitir e de outras prestações devidas.
+b) Sempre que possível, a identificação do participante em sistema de liquidação aceite pela entidade gestora através do qual se assegure o pagamento dos direitos patrimoniais inerentes aos valores mobiliários a admitir e de outras prestações devidas.
 
 5 - O emitente tem o dever de, no prazo de 90 dias após a sua emissão, solicitar a admissão das acções que pertençam à categoria das já admitidas.
 

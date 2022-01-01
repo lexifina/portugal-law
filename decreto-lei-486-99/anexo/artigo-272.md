@@ -12,7 +12,7 @@ c) A que se aplique o direito português por força de cláusula expressa do res
 
 d) Tenham adoptado regras compatíveis com este Código, os regulamentos da CMVM e do Banco de Portugal.
 
-2 - Do registo constam os seguintes elementos actualizados:
+2 - Para efeitos do registo são entregues à CMVM os seguintes elementos:
 
 a) O acordo celebrado entre os participantes;
 

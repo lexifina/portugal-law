@@ -34,12 +34,12 @@ a) Consideram-se instruções directas as dadas pela sociedade dominante ou outr
 
 b) Consideram-se instruções indirectas as que, em geral ou particular, independentemente da sua forma, são transmitidas pela sociedade dominante ou qualquer entidade por esta dominada, e limitam a margem de discricionariedade da entidade gestora, intermediário financeiro e sociedade associada de fundos de pensões relativamente ao exercício dos direitos de voto de modo a servir interesses empresariais específicos da sociedade dominante ou de outra entidade por esta dominada.
 
-7 - Logo que, nos termos do n.º 1, considere não provada a independência da entidade gestora ou do intermediário financeiro que envolva uma participação qualificada em sociedade aberta, e sem prejuízo das consequências sancionatórias que ao caso caibam, a CMVM informa o mercado e notifica deste facto o presidente da mesa da assembleia geral, o órgão de administração e o órgão de fiscalização da sociedade participada.
+7 - Logo que, nos termos do n.º 1, considere não provada a independência da entidade gestora ou do intermediário financeiro que envolva uma participação qualificada em sociedade emitente de ações admitidas à negociação em mercado regulamentado referida no n.º 1 do artigo 13.º-B, e sem prejuízo das consequências sancionatórias que ao caso caibam, a CMVM informa o mercado e notifica deste facto o presidente da mesa da assembleia geral, o órgão de administração e o órgão de fiscalização da sociedade participada.
 
 8 - A declaração da CMVM implica a imediata imputação de todos os direitos de voto inerentes às acções que integrem o fundo de investimento, o fundo de pensões, o fundo de capital de risco ou a carteira, enquanto não seja demonstrada a independência da entidade gestora ou do intermediário financeiro, com as respectivas consequências, devendo ainda ser comunicada aos participantes ou aos clientes da entidade gestora ou do intermediário financeiro.
 
 9 - A adopção das medidas referidas no n.º 7 é precedida de consulta prévia:
 
-a) Ao Banco de Portugal ou ao Instituto de Seguros de Portugal, sempre que a participação qualificada se refira a sociedades abertas sujeitas à supervisão de uma destas autoridades;
+a) Ao Banco de Portugal ou à Autoridade de Supervisão de Seguros e Fundos de Pensões, sempre que a participação qualificada se refira a sociedade emitente de ações admitidas à negociação em mercado regulamentado referida no n.º 1 do artigo 13.º-B sujeita à supervisão de uma destas autoridades;
 
 b) Ao Instituto de Seguros de Portugal, sempre que a participação qualificada se refira a direitos de voto inerentes a acções integrantes de fundos de pensões.

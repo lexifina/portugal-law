@@ -2,7 +2,7 @@
 
 ### Gestão de riscos
 
-1 - O intermediário financeiro deve adotar políticas e procedimentos para identificar e gerir os riscos relacionados com as suas atividades, procedimentos e sistemas, considerando o nível de risco tolerado, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+1 - O intermediário financeiro adota políticas e procedimentos para identificar e gerir os riscos relacionados com as suas atividades, procedimentos e sistemas, considerando o nível de risco tolerado.
 
 2 - (Revogado);
 

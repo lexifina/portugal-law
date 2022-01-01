@@ -16,7 +16,7 @@
 
 5 - O intermediário financeiro mantém:
 
-a) Registos de todos os serviços, atividades e transações por si prestados ou efetuados, que sejam suficientes para permitir a verificação do cumprimento dos seus deveres legais previstos no presente Código e legislação complementar e das suas obrigações perante os investidores, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e no artigo 25.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados;
+a) Registos de todos os serviços, atividades e transações por si prestados ou efetuados, que sejam suficientes para permitir a verificação do cumprimento dos seus deveres legais previstos no presente Código e legislação complementar e das suas obrigações perante os investidores, nos termos da legislação da União Europeia;
 
 b) Um registo diário e sequencial das operações por si realizadas, por conta própria e por conta de cada um dos clientes, com indicação dos movimentos de instrumentos financeiros e de dinheiro;
 
@@ -36,10 +36,10 @@ e) A quantidade ou o montante;
 
 f) O saldo inicial e após cada movimento.
 
-7 - As ordens e decisões de negociar são registadas nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+7 - As ordens e decisões de negociar são registadas nos termos previstos na legislação da União Europeia.
 
 8 - (Revogado).
 
-9 - Os elementos que devem ser registados pelo intermediário financeiro após a execução ou receção da confirmação da execução de uma ordem constam da regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+9 - Os elementos que devem ser registados pelo intermediário financeiro após a execução ou receção da confirmação da execução de uma ordem constam da legislação da União Europeia.
 
 10 - O intermediário financeiro deve adotar medidas adequadas no que respeita aos sistemas eletrónicos necessários para permitir o registo rápido e adequado de cada movimento da carteira ou ordem.

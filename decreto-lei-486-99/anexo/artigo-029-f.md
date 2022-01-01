@@ -6,7 +6,7 @@
 
 ### Regime linguístico
 
-1 - Para efeitos do presente artigo, são informações reguladas, divulgadas pelos emitentes de valores mobiliários nos idiomas aqui previstos, as referidas nos artigos 13.º-A, 17.º, 29.º-G a 29.º-K, 29.º-Q e 29.º-R e outras informações previstas em legislação da União Europeia que não estejam sujeitas a regime linguístico obrigatório específico.
+1 - Para efeitos do presente artigo, são informações reguladas, divulgadas pelos emitentes de valores mobiliários nos idiomas aqui previstos, as referidas nos artigos 29.º-G a 29.º-K e outras informações previstas em legislação da União Europeia que não estejam sujeitas a regime linguístico obrigatório específico.
 
 2 - Os emitentes que tenham Portugal como Estado-Membro competente e cujos valores mobiliários estejam admitidos à negociação exclusivamente em mercado regulamentado situado ou a funcionar em Portugal divulgam as informações reguladas:
 

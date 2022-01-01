@@ -6,7 +6,7 @@
 
 a) O exercício das funções de câmara de compensação, da atividade de contraparte central e das funções de sistema de liquidação fora dos casos e termos previstos em lei ou regulamento, em particular o exercício por entidade não autorizada para o efeito;
 
-b) O funcionamento de câmara de compensação, de contraparte central ou de sistema de liquidação sem registo das regras na CMVM, sem a divulgação ao público das regras ou com violação de regras registadas;
+b) O funcionamento de câmara de compensação, de contraparte central ou de sistema de liquidação sem comunicação das respetivas regras à CMVM, sem a divulgação ao público das regras ou com violação de regras comunicadas;
 
 c) A realização de operações sobre os instrumentos financeiros referidos nas alíneas e) e f) do n.º 1 do artigo 2.º sem a interposição de contraparte central;
 

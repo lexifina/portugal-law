@@ -4,9 +4,9 @@
 
 1 - Podem ser objecto de negociação organizada:
 
-a) Valores mobiliários fungíveis, livremente transmissíveis, integralmente liberados e que não estejam sujeitos a penhor ou a qualquer outra situação jurídica que os onere, salvo se respeitados os requisitos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
+a) Valores mobiliários fungíveis, livremente transmissíveis, integralmente liberados e que não estejam sujeitos a penhor ou a qualquer outra situação jurídica que os onere, salvo se o contrário for permitido pela legislação da União Europeia;
 
-b) Outros instrumentos financeiros, nomeadamente instrumentos financeiros derivados, cuja configuração permita a formação ordenada de preços, nos termos definidos em regulamentação e atos delegados referidos na alínea anterior.
+b) Outros instrumentos financeiros, nomeadamente instrumentos financeiros derivados, cuja configuração permita a formação ordenada de preços, nos termos definidos na legislação da União Europeia.
 
 2 - São fungíveis, para efeitos de negociação organizada, os valores mobiliários que pertençam à mesma categoria, obedeçam à mesma forma de representação, estejam objectivamente sujeitos ao mesmo regime fiscal e dos quais não tenham sido destacados direitos diferenciados.
 

@@ -8,7 +8,7 @@
 
 1 - A notícia dos crimes contra o mercado de valores mobiliários ou de outros instrumentos financeiros adquire-se por conhecimento próprio da CMVM, por intermédio dos órgãos de polícia criminal ou mediante denúncia.
 
-2 - Os intermediários financeiros e demais entidades sujeitas à supervisão da CMVM com sede estatutária, administração central ou sucursal em Portugal e as autoridades judiciárias, entidades policiais ou funcionários que, no exercício da sua atividade profissional ou função, tenham conhecimento de factos que possam vir a ser qualificados como crime contra o mercado de valores mobiliários ou de outros instrumentos financeiros informam imediatamente o conselho de administração da CMVM.
+2 - Os intermediários financeiros e demais entidades sujeitas à supervisão da CMVM, as autoridades judiciárias, as entidades policiais ou os funcionários que, no exercício da sua atividade profissional ou função, tenham conhecimento de factos que possam vir a ser qualificados como crime contra o mercado de valores mobiliários ou de outros instrumentos financeiros informam imediatamente a CMVM.
 
 3 - A denúncia descrita no número anterior pode ser apresentada por qualquer meio idóneo para o efeito, sendo confirmada por escrito, a pedido da CMVM, sempre que este não seja o meio adoptado inicialmente.
 

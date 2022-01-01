@@ -4,7 +4,7 @@
 
 1 - É internalização sistemática a negociação, por intermediário financeiro, de instrumentos financeiros por conta própria em execução de ordens de clientes fora de mercado regulamentado, de sistemas de negociação multilateral ou organizado, de modo organizado, frequente, sistemático e de modo substancial, sem operar um sistema multilateral.
 
-2 - São definidos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, os limites aplicáveis e prazos de avaliação relevantes para efeitos de determinar quando um intermediário financeiro:
+2 - São definidos na legislação da União Europeia os limites aplicáveis e prazos de avaliação relevantes para efeitos de determinar quando um intermediário financeiro:
 
 a) Negoceia de modo frequente e sistemático, calculado com base no número de transações executadas no mercado de balcão num instrumento financeiro quando negoceie por conta própria em execução de ordens de clientes; e
 
