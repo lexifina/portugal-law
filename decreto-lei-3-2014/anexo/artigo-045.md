@@ -14,7 +14,7 @@
 
 a) A categoria de comissário da PSP corresponde à de comissário prisional da carreira de chefe da guarda prisional;
 
-b) A categoria de subcomissário da PSP corresponde à de chefe principal da carreira de chefe da guarda prisional;
+b) A categoria de chefe principal da PSP corresponde à de chefe principal da carreira de chefe da guarda prisional;
 
 c) A categoria de chefe da PSP corresponde à de chefe da carreira de chefe da guarda prisional;
 
