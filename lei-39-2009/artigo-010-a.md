@@ -22,6 +22,6 @@ b) Nos recintos desportivos com lotação máxima inferior a 15 000 espetadores 
 
 8 - O gestor de segurança deve encontrar-se identificado através de sobreveste, cujo modelo é definido em portaria a aprovar pelo membro do Governo responsável pela área da administração interna.
 
-9 - A falta de designação do gestor de segurança implica, enquanto a situação se mantiver, a impossibilidade de serem realizados espetáculos desportivos no recinto desportivo.
+9 - A falta de designação do gestor de segurança ou a designação de gestor de segurança sem as habilitações previstas no n.º 2 implica, enquanto a situação se mantiver, a impossibilidade de serem realizados espetáculos desportivos no recinto desportivo.
 
 10 - A sanção prevista no número anterior é aplicada pela APCVD.

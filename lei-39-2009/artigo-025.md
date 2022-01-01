@@ -9,3 +9,7 @@
 3 - As forças de segurança destacadas para o espectáculo desportivo, sempre que tal se mostre necessário, podem proceder a revistas aos espectadores, por forma a evitar a existência no recinto de objectos ou substâncias proibidos ou susceptíveis de possibilitar actos de violência.
 
 4 - A revista é obrigatória no que diz respeito aos adeptos que pretendam aceder às zonas com condições especiais de acesso e permanência de adeptos.
+
+5 - O assistente de recinto desportivo e as forças de segurança destacadas para o espetáculo desportivo podem verificar a correspondência da identidade do espetador com a que consta no título de ingresso, designadamente consultando o documento de identificação civil do espetador.
+
+6 - A verificação prevista no número anterior deve recorrer a uma amostra adequada e proporcional dos espetadores, selecionados de forma não discriminatória.

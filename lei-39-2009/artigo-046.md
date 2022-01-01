@@ -47,3 +47,5 @@ c) Ocorrência de distúrbios que provoquem, de forma injustificada, o atraso no
 6 - A sanção de interdição de exercício da atividade e de interdição de acesso a recinto desportivo é aplicada a dirigentes ou representantes das sociedades desportivas ou clubes que pratiquem ou incitem à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos.
 
 7 - A reincidência na mesma época desportiva das infrações previstas nos n.os 2 a 4 é obrigatoriamente punida com as sanções previstas nas alíneas a) ou b) do n.º 1.
+
+8 - O Governo regulamenta, sob parecer da Comissão Nacional de Proteção de Dados, a partilha de dados pessoais relativos a indivíduos suspeitos de praticar atos violentos, entre as forças de segurança, o PNID, as autoridades judiciárias e administrativas e os organizadores e promotores, para efeitos de aplicação de sanções disciplinares por estes últimos.

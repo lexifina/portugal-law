@@ -4,7 +4,7 @@
 
 1 - Quem for condenado pelos crimes previstos nos artigos 29.º a 34.º é punido na interdição de acesso a recintos desportivos por um período de 1 a 5 anos, se pena acessória mais grave não couber por força de outra disposição legal.
 
-2 - Nos casos em que o infrator seja titular de cartão de acesso a zona com condições especiais de acesso e permanência de adeptos, a pena acessória prevista no n.º 1 é acompanhada da apreensão do mesmo, por igual período.
+2 -(Revogado.)
 
 3 - A aplicação da pena acessória referida no n.º 1 pode incluir a obrigação de apresentação e permanência junto de uma autoridade judiciária ou de órgão de polícia criminal em dias e horas preestabelecidos, podendo ser estabelecida a coincidência horária com a realização de competições desportivas, nacionais e internacionais, da modalidade em cujo contexto tenha ocorrido o crime objeto da pena principal e que envolvam o clube, associação ou sociedade desportiva a que o agente se encontre de alguma forma associado, tomando sempre em conta as exigências profissionais e o domicílio do agente.
 

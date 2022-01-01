@@ -4,9 +4,9 @@
 
 1 - Nos recintos onde se realizem espetáculos desportivos integrados nas competições desportivas de natureza profissional ou de natureza não profissional considerados de risco elevado, são criadas zonas com condições especiais de acesso e permanência de adeptos.
 
-2 - O acesso e a permanência nas zonas referidas, em cada espetáculo desportivo, são reservados apenas aos adeptos detentores de título de ingresso válido e do cartão de acesso a zona com condições especiais de acesso e permanência de adeptos.
+2 - O acesso e a permanência nas zonas referidas no número anterior, em cada espetáculo desportivo, são reservados apenas aos adeptos detentores de título de ingresso válido.
 
-3 - O título de ingresso referido no número anterior é adquirido exclusivamente por via eletrónica junto do promotor, devendo a aquisição ser feita a título individual e com correspondência a um cartão de acesso a zona com condições especiais de acesso e permanência de adeptos.
+3 - O título de ingresso referido no número anterior é adquirido exclusivamente por via eletrónica junto do promotor, sendo a aquisição feita a título individual e efetuada a correspondência com um documento de identificação com fotografia, fazendo constar em cada título o nome do titular.
 
 4 - As zonas com condições especiais de acesso e permanência de adeptos devem ter entrada exclusiva, não permitindo fisicamente a passagem dos espetadores para outras zonas e setores, e garantir o acesso a instalações sanitárias e serviços de bar.
 
@@ -26,4 +26,10 @@
 
 12 - O incumprimento do disposto nos n.os 1, 4, 5, 6 e 10 implica, para o promotor do espetáculo desportivo, enquanto as situações se mantiverem, a realização de espetáculos desportivos à porta fechada, sanção a aplicar pela APCVD.
 
-13 - Ao acesso e à permanência nas zonas com condições especiais de acesso e permanência de adeptos aplicam-se as regras previstas nos n.os 1 a 5 do artigo 22.º e nos n.os 1 a 3 do artigo 23.º
+13 - O incumprimento do disposto no n.º 7 implica, para o clube ou a sociedade desportiva visitante, enquanto a situação se mantiver, a impossibilidade de o clube ou a sociedade desportiva receber títulos de ingresso para espetáculos desportivos em que seja visitante, sanção a aplicar pela APCVD.
+
+14 - Ao acesso e à permanência nas zonas com condições especiais de acesso e permanência de adeptos aplicam-se as regras previstas nos n.os 1 a 5 do artigo 22.º e nos n.os 1 a 3 do artigo 23.º.
+
+15 - É vedada a aquisição de títulos de ingresso para as zonas referidas no n.º 1 a menores de 16 anos, exceto quando acompanhados por um adulto.
+
+16 - A idade dos menores é atestada pela apresentação de documento comprovativo da idade invocada.

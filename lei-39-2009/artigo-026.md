@@ -24,6 +24,8 @@ g) Especificação sumária dos factos impeditivos do acesso dos espectadores ao
 
 h) (Revogada.)
 
+i) A identificação a que se refere o n.º 3 do artigo 16.º-A, nos casos nele previstos.
+
 4 - O organizador da competição desportiva pode acordar com o promotor do espectáculo desportivo a emissão dos títulos de ingresso.
 
 5 - O número de títulos de ingresso emitidos nos termos do presente artigo não pode ser superior à lotação do respectivo recinto desportivo.
