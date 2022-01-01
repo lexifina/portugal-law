@@ -16,7 +16,7 @@ a) Elaborar o regulamento do fundo;
 
 b) (Revogada);
 
-c) Executar as decisões de indemnização a suportar pelo fundo de garantia.
+c) Executar as decisões de indemnização e a atividade acessória e complementar referida no n.º 3 do artigo 35.º a suportar pelo fundo de garantia;
 
 d) Decidir sobre a liquidação do fundo de garantia, nos termos do respectivo regulamento.
 
@@ -29,5 +29,7 @@ b) O processo de reclamação e decisão;
 c) O limite máximo das indemnizações.
 
 d) As receitas dos fundos.
+
+e) A percentagem de aplicação do património do fundo de garantia destinado à prossecução das finalidades acessórias e complementares referidas no n.º 3 do artigo 35.º
 
 5 - A sociedade gestora do fundo e os titulares dos respectivos órgãos estão sujeitos a registo na CMVM.

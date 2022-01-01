@@ -2,7 +2,7 @@
 
 ### Actividades de intermediação
 
-1 - Constitui contra-ordenação muito grave a realização de actos ou o exercício de actividades de intermediação sem a autorização ou sem o registo devidos ou fora do âmbito que resulta da autorização ou do registo.
+1 - Constitui contraordenação muito grave a realização de atos ou o exercício de atividades de intermediação sem a autorização, sem o registo ou outros factos permissivos devidos ou fora do âmbito que resulta da autorização, do registo ou desses factos.
 
 2 - Constitui contra-ordenação muito grave a violação por entidades autorizadas a exercer actividades de intermediação financeira de qualquer dos seguintes deveres:
 

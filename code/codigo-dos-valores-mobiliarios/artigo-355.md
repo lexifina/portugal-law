@@ -4,17 +4,19 @@
 
 1 - Quando seja necessário para o exercício das respetivas funções, a CMVM pode trocar informações sobre factos e elementos sujeitos a segredo com as seguintes entidades, que ficam igualmente sujeitas ao dever de segredo:
 
-a) Banco de Portugal e Autoridade de Supervisão de Seguros e Fundos de Pensões;
+a) Banco de Portugal, Autoridade de Supervisão de Seguros e Fundos de Pensões, Conselho Nacional de Supervisores Financeiros e autoridade macroprudencial nacional;
 
 b) Entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral ou organizado;
 
 c) Entidades gestoras de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários, de registo inicial ou de administração de sistema de registo centralizado e contrapartes centrais;
 
-d) Autoridades intervenientes em processos de falência, de recuperação de empresa ou de saneamento das entidades referidas nas alíneas a) e b) do n.º 1 do artigo 359.º;
+d) Autoridade nacional de resolução e autoridades intervenientes em processos de falência, de recuperação de empresa ou de saneamento das entidades referidas nas alíneas a) e b) do n.º 1 do artigo 359.º;
 
 e) Entidades gestoras de fundos de garantia e de sistemas de indemnização dos investidores;
 
-f) Auditores e autoridades com competência para a sua supervisão.
+f) Auditores e autoridades com competência para a sua supervisão;
+
+g) Comissões parlamentares de inquérito da Assembleia da República, no estritamente necessário ao cumprimento do seu objeto.
 
 2 - A CMVM pode também trocar informações, ainda que sujeitas a segredo, com as seguintes entidades:
 

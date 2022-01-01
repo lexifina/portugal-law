@@ -10,13 +10,13 @@ b) Quando distribui instrumentos financeiros produzidos por entidades que não s
 
 2 - O intermediário financeiro adota e aplica políticas e procedimentos internos adequados de aprovação da distribuição de instrumentos financeiros, antes do início da sua distribuição ou em caso de alterações relevantes dos mesmos, de modo a assegurar que:
 
-a) Os produtos e serviços que pretende distribuir são compatíveis com as necessidades, características e objetivos do mercado-alvo identificado; e
+a) Os produtos e serviços que pretende distribuir são compatíveis com as necessidades, características e objetivos, incluindo eventuais objetivos relacionados com a sustentabilidade, do mercado-alvo identificado;
 
 b) A estratégia de distribuição pretendida é adequada a esse mercado-alvo.
 
 3 - O intermediário financeiro deve:
 
-a) Identificar e avaliar adequadamente as circunstâncias e as necessidades dos clientes que pretende contactar, de forma a garantir que os interesses dos clientes não sejam comprometidos em resultado de pressões comerciais ou de financiamento, devendo no âmbito desse processo identificar os grupos de clientes a cujas necessidades, características e objetivos o instrumento ou o serviço não são adequados;
+a) Identificar e avaliar adequadamente as circunstâncias e as necessidades dos clientes que pretende contactar, de forma a garantir que os interesses dos clientes não sejam comprometidos em resultado de pressões comerciais ou de financiamento, bem como identificar os grupos de clientes a cujas necessidades, características e objetivos o instrumento ou o serviço não são adequados, exceto quando os instrumentos financeiros integrem fatores de sustentabilidade;
 
 b) Obter dos produtores de instrumentos financeiros as informações necessárias para compreender e conhecer os produtos que tenciona distribuir, a fim de garantir que estes produtos são distribuídos de acordo com as necessidades, características e objetivos do mercado-alvo identificado;
 
@@ -28,7 +28,7 @@ ii) Caso a informação relevante não esteja disponível publicamente, o interm
 
 iii) Utilizar as informações obtidas dos produtores e as informações sobre os seus próprios clientes para identificar o mercado-alvo e a estratégia de distribuição, sendo que quando o intermediário financeiro atuar também como produtor só é exigida uma avaliação do mercado-alvo.
 
-4 - A informação aceitável disponível publicamente consiste em informação clara, fiável e produzida de modo a satisfazer os requisitos legais e regulamentares, nomeadamente os requisitos de divulgação previstos na Diretiva 2003/71/CE, do Parlamento Europeu e do Conselho, de 4 de novembro de 2003, ou na Diretiva 2004/109/CE, do Parlamento Europeu e do Conselho, de 15 de dezembro de 2004.
+4 - A informação divulgada cumpre os requisitos legais e regulamentares, nomeadamente os requisitos de divulgação previstos na legislação da União Europeia sobre prospetos e sobre transparência no que se refere às informações respeitantes aos emitentes cujos valores mobiliários estão admitidos à negociação num mercado regulamentado.
 
 5 - O intermediário financeiro, ao decidir quanto ao conjunto de instrumentos financeiros e serviços que distribui e aos respetivos mercados-alvo:
 

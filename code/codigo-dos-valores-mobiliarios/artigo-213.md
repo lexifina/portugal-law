@@ -24,13 +24,13 @@ b) Não tenham sido sanadas as faltas que justificaram a suspensão.
 
 6 - A entidade gestora de mercado regulamentado torna pública a decisão de suspensão ou de exclusão da negociação de um instrumento financeiro e qualquer derivado relativo ou indexado ao mesmo e comunica à CMVM a informação relevante, sem prejuízo da possibilidade de comunicar diretamente ao emitente e à entidade gestora de outros mercados onde os instrumentos financeiros são negociados ou constituam o ativo subjacente de instrumentos financeiros derivados.
 
-7 - A CMVM exige que outras plataformas de negociação e internalizadores sistemáticos estabelecidos ou a funcionar em Portugal suspendam ou excluam igualmente da negociação os instrumentos financeiros cuja negociação tenha sido suspensa ou excluída nos termos dos números anteriores, sempre que a suspensão ou exclusão da negociação tenha tido como fundamento uma suspeita de abuso de mercado, oferta pública de aquisição ou não divulgação de informação privilegiada, exceto se tal medida for suscetível de causar prejuízos significativos aos interesses dos investidores e ao funcionamento regular do mercado, conforme definido em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+7 - As outras plataformas de negociação e internalizadores sistemáticos estabelecidos ou a funcionar em Portugal, mediante ordem da CMVM, suspendem ou excluem igualmente da negociação os instrumentos financeiros cuja negociação tenha sido suspensa ou excluída nos termos dos números anteriores, sempre que a suspensão ou exclusão da negociação tenha tido como fundamento uma suspeita de abuso de mercado, oferta pública de aquisição ou não divulgação de informação privilegiada, exceto se tal medida for suscetível de causar prejuízos significativos aos interesses dos investidores e ao funcionamento regular do mercado, conforme definido na legislação da União Europeia.
 
 8 - A CMVM divulga de imediato ao público a decisão referida no número anterior e comunica a mesma à Autoridade Europeia dos Valores Mobiliários e dos Mercados e demais autoridades competentes, incluindo uma justificação caso decida não exigir a suspensão ou exclusão da negociação do instrumento financeiro ou de derivados relativos ou indexados ao mesmo.
 
 9 - O disposto nos n.os 4 a 8 é aplicável à decisão de levantamento da suspensão da negociação.
 
-10 - São definidos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, os casos em que a relação entre um derivado indexado a um instrumento financeiro suspenso ou excluído da negociação implica que esse derivado seja igualmente suspenso ou excluído da negociação.
+10 - São definidos na legislação da União Europeia os casos em que a relação entre um derivado indexado a um instrumento financeiro suspenso ou excluído da negociação implica que esse derivado seja igualmente suspenso ou excluído da negociação.
 
 11 - Relativamente às operações referidas no n.º 2 do artigo 207.º:
 

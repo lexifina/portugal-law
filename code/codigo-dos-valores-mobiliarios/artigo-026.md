@@ -2,7 +2,7 @@
 
 ### Anulação da deliberação de aumento de capital social
 
-1 - A anulação de uma deliberação de aumento de capital social de sociedade aberta determina a amortização das novas acções, se estas tiverem sido objecto de admissão à negociação em mercado regulamentado.
+1 - A anulação de uma deliberação de aumento de capital social de sociedade emitente de ações admitidas à negociação em mercado regulamentado determina a amortização das novas ações, se estas tiverem sido objeto de admissão à negociação em mercado regulamentado.
 
 2 - Como contrapartida da amortização é devido montante correspondente ao valor real das acções, determinado, a expensas da sociedade, por perito qualificado e independente designado pela CMVM.
 

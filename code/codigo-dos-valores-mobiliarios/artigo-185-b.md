@@ -2,12 +2,16 @@
 
 ### Direitos dos oferentes anteriores
 
-1 - O lançamento de oferta concorrente e a revisão de qualquer oferta em concorrência conferem a qualquer oferente o direito de proceder à revisão dos termos da sua oferta, independentemente de o ter ou não feito ao abrigo do artigo 184.º
+1 - Com o lançamento de oferta nos termos da alínea a) do n.º 1 do artigo anterior:
 
-2 - Caso pretenda exercer o direito referido no número anterior, o oferente comunica a sua decisão à CMVM e publica um anúncio no prazo de quatro dias úteis a contar do lançamento da oferta concorrente ou da revisão da oferta, considerando-se para todos os efeitos, na falta dessa publicação, que mantém os termos da sua oferta.
+a) Qualquer das demais ofertas anunciadas pode ser revogada, devendo a decisão ser publicada até ao final do quinto dia útil anterior ao termo do prazo da oferta anteriormente registada;
 
-3 - À revisão da oferta em concorrência é aplicável o disposto no n.º 5 do artigo 185.º
+b) Qualquer dos oferentes pode rever a sua oferta, desde que publique a sua decisão até ao final do segundo dia útil anterior ao termo da oferta.
 
-4 - O lançamento de oferta concorrente constitui fundamento de revogação de ofertas voluntárias nos termos do artigo 128.º
+2 - Caso o interesse dos investidores o justifique, a CMVM pode, mediante pedido fundamentado de qualquer dos oferentes, prorrogar o prazo das ofertas para permitir a revisão da contrapartida.
 
-5 - A decisão de revogação é publicada logo que seja tomada, devendo sê-lo até quatro dias a contar do lançamento da oferta concorrente.
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)

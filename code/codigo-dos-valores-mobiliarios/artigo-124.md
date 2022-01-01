@@ -6,7 +6,7 @@
 
 ### Conteúdo da oferta
 
-1 - O conteúdo da oferta só pode ser modificado nos casos previstos nos artigos 128.º, 172.º e 184.º
+1 - (Revogado.)
 
 2 - O preço da oferta é único, salvo a possibilidade de preços diversos consoante as categorias de valores mobiliários ou de destinatários, fixados em termos objectivos e em função de interesses legítimos do oferente.
 

@@ -10,7 +10,7 @@ b) A regulação do mercado de instrumentos financeiros, das ofertas públicas r
 
 c) (Revogada.)
 
-d) A supervisão dos índices de referência de quaisquer instrumentos financeiros.
+d) (Revogada.)
 
 2 - No exercício e no âmbito das suas atribuições a CMVM coopera com outras autoridades nacionais e estrangeiras que exerçam funções de supervisão e de regulação do sistema financeiro e com organizações internacionais de que seja membro.
 

@@ -1,9 +1,9 @@
 # Artigo 129.º
 
-### Modificação da oferta
+### Modificação e revisão da oferta
 
-1 - A modificação da oferta constitui fundamento de prorrogação do respectivo prazo, decidida pela CMVM por sua iniciativa ou a requerimento do oferente.
+1 - A modificação da oferta, nos termos do artigo 128.º, ou a sua revisão, nos termos do artigo 128.º-A, constitui fundamento de prorrogação do respetivo prazo, decidida pela CMVM por sua iniciativa ou a requerimento do oferente.
 
-2 - As declarações de aceitação da oferta anteriores à modificação consideram-se eficazes para a oferta modificada.
+2 - As declarações de aceitação da oferta anteriores à modificação ou revisão consideram-se eficazes para a oferta modificada.
 
-3 - A modificação deve ser divulgada imediatamente, através de meios iguais aos utilizados para a divulgação do prospeto ou, no caso de este não ser exigível, de meio de divulgação fixado pela CMVM, através de regulamento.
+3 - A modificação ou a revisão são divulgadas imediatamente, através de meios iguais aos utilizados para a divulgação do prospeto ou documento exigível de acordo com a legislação da União Europeia.

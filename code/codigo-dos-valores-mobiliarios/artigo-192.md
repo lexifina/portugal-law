@@ -19,3 +19,5 @@ b) Em relação a cada uma das acções referidas no número anterior, à medida
 4 - São anuláveis as deliberações dos sócios que, sem os votos inibidos, não teriam sido aprovadas.
 
 5 - Os dividendos que tenham sido objecto de inibição revertem para a sociedade.
+
+6 - O incumprimento do dever de lançamento de oferta pública de aquisição determina a impossibilidade de alienação das ações em oferta pública de aquisição que venha a ser lançada por quem, em virtude da inibição a que se refere o presente artigo, venha a preencher os pressupostos dos n.os 1 ou 2 do artigo 187.º

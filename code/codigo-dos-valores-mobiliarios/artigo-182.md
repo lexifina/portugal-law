@@ -28,6 +28,6 @@ b) As deliberações da assembleia geral prevista na alínea b) do número anter
 
 5 - O oferente é responsável pelos danos causados por decisão de lançamento de oferta pública de aquisição tomada com o objectivo principal de colocar a sociedade visada na situação prevista neste artigo.
 
-6 - O regime previsto neste artigo não é aplicável a ofertas públicas de aquisição dirigidas por sociedades oferentes que não estejam sujeitas às mesmas regras ou que sejam dominadas por sociedade que não se sujeite às mesmas regras.
+6 - O regime previsto neste artigo não é aplicável a ofertas públicas de aquisição dirigidas por pessoas que não estejam sujeitas às mesmas regras ou que sejam dominadas por pessoa que não esteja sujeita às mesmas regras.
 
 7 - Nas sociedades que adoptem o modelo referido na alínea c) do n.º 1 do artigo 278.º do Código das Sociedades Comerciais, os n.os 1 a 6 aplicam-se, com as necessárias adaptações, ao conselho de administração executivo e ao conselho geral e de supervisão.

@@ -2,7 +2,7 @@
 
 ### Regulamentação do sistema centralizado de valores mobiliários
 
-1 - Sem prejuízo do disposto no Regulamento (UE) n.º 909/2014, do Parlamento Europeu e do Conselho, de 23 de julho de 2014, a CMVM elabora os regulamentos necessários à concretização e ao desenvolvimento das disposições relativas aos valores mobiliários escriturais e titulados integrados em sistema centralizado, ouvidas as entidades gestoras, nomeadamente quanto aos seguintes aspetos:
+1 - A CMVM elabora os regulamentos necessários à concretização e ao desenvolvimento das disposições relativas aos valores mobiliários escriturais e titulados integrados em sistema centralizado, ouvidas as entidades gestoras, nomeadamente quanto aos seguintes aspetos:
 
 a) Sistema de contas e regras a que deve obedecer;
 

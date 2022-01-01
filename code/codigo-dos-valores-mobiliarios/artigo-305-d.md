@@ -4,7 +4,7 @@
 
 1 - Sem prejuízo das funções do órgão de fiscalização, os titulares do órgão de administração do intermediário financeiro são responsáveis por:
 
-a) Garantir o cumprimento dos deveres previstos no presente Código e respetiva legislação complementar, conforme previsto em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
+a) Garantir o cumprimento dos deveres previstos no presente Código, respetiva regulamentação e legislação complementares e na legislação da União Europeia;
 
 b) Definir, aprovar e controlar:
 
@@ -18,7 +18,7 @@ iii) A política de remuneração dos colaboradores envolvidos na prestação de
 
 a) A adequação e a execução dos objetivos estratégicos do intermediário financeiro na prestação de atividades de intermediação financeira, a eficácia dos mecanismos de governo e a adequação das políticas relacionadas com a prestação de serviços aos clientes, tomando as medidas apropriadas para corrigir eventuais deficiências;
 
-b) A eficácia das políticas, procedimentos e normas internas adotados para cumprimento dos deveres referidos nos artigos 305.º-A a 305.º-C e tomar as medidas adequadas para corrigir eventuais deficiências detetadas e prevenir a sua ocorrência futura, conforme previsto em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+b) A eficácia das políticas, procedimentos e normas internas adotados para cumprimento dos deveres referidos nos artigos 305.º-A a 305.º-C e tomar as medidas adequadas para corrigir eventuais deficiências detetadas e prevenir a sua ocorrência futura.
 
 3 - (Revogado.)
 

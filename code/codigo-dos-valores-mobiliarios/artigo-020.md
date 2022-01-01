@@ -6,7 +6,7 @@
 
 a) Detidos por terceiros em nome próprio, mas por conta do participante;
 
-b) Detidos por sociedade que com o participante se encontre em relação de domínio ou de grupo;
+b) Detidos por sociedade dominada pelo participante ou a este subordinada, no contexto de uma relação de domínio ou de grupo;
 
 c) Detidos por titulares do direito de voto com os quais o participante tenha celebrado acordo para o seu exercício, salvo se, pelo mesmo acordo, estiver vinculado a seguir instruções de terceiro;
 
@@ -18,7 +18,7 @@ i) Que lhe confira o direito incondicional ou a opção de adquirir, por força 
 
 ii) Com liquidação física, não abrangido pela subalínea anterior, mas indexado às ações nessa subalínea mencionadas e com efeito económico similar à detenção de ações ou de instrumentos referidos nessa mesma subalínea;
 
-f) Inerentes a acções detidas em garantia pelo participante ou por este administradas ou depositadas junto dele, se os direitos de voto lhe tiverem sido atribuídos;
+f) Inerentes a ações detidas em garantia pelo participante ou por este administradas ou registadas ou depositadas junto dele, se os direitos de voto puderem ser exercidos pelo participante segundo o seu critério na ausência de instruções específicas do respetivo titular;
 
 g) Detidos por titulares do direito de voto que tenham conferido ao participante poderes discricionários para o seu exercício;
 
@@ -36,12 +36,12 @@ j) Imputáveis a qualquer das pessoas referidas numa das alíneas anteriores por
 
 5 - A presunção referida no número anterior pode ser ilidida perante a CMVM, mediante prova de que a relação estabelecida com o participante é independente da influência, efectiva ou potencial, sobre a sociedade participada.
 
-6 - Para efeitos das alíneas e) e i) do n.º 1 são ainda considerados instrumentos financeiros os previstos na lista elaborada pela Autoridade Europeia dos Valores Mobiliários e dos Mercados nos termos do segundo parágrafo do n.º 1-B do artigo 13.º da Diretiva n.º 2004/109/CE, do Parlamento Europeu e Conselho, de 15 de dezembro de 2004, designadamente quaisquer acordos, com liquidação física ou financeira, com efeitos económicos similares à detenção de ações ou instrumentos referidos na alínea e) do n.º 1.
+6 - Para efeitos das alíneas e) e i) do n.º 1 são ainda considerados instrumentos financeiros os previstos na lista elaborada pela Autoridade Europeia dos Valores Mobiliários e dos Mercados, designadamente quaisquer acordos, com liquidação física ou financeira, com efeitos económicos similares à detenção de ações ou instrumentos referidos na alínea e) do n.º 1.
 
 7 - O número de direitos de voto imputáveis, nos termos das alíneas e) e i) do n.º 1, em virtude da detenção de instrumentos financeiros, é calculado da seguinte forma:
 
-a) Com base no número total de ações subjacentes do instrumento financeiro, exceto no caso dos instrumentos referidos na alínea seguinte;
+a) Com base no número total de direitos de voto inerentes às ações subjacentes do instrumento financeiro, exceto no caso dos instrumentos referidos na alínea seguinte;
 
-b) No caso de instrumentos com exclusiva liquidação financeira, numa base de correspondência ajustada ao delta (delta adjusted), multiplicando o número total de ações subjacentes pelo delta do instrumento, nos termos previstos no artigo 5.º do Regulamento Delegado (UE) n.º 2015/761, da Comissão, de 17 de dezembro de 2014, sendo apenas consideradas as posições longas, que não devem ser compensadas com posições curtas relativas ao mesmo emitente do ativo subjacente;
+b) No caso de instrumentos com exclusiva liquidação financeira, numa base de correspondência ajustada ao delta (delta adjusted), multiplicando o número total de direitos de voto inerentes às ações subjacentes pelo delta do instrumento, nos termos previstos na legislação da União Europeia, sendo apenas consideradas as posições longas, que não devem ser compensadas com posições curtas relativas ao mesmo emitente do ativo subjacente;
 
-c) No caso de instrumentos financeiros indexados a um cabaz de ações ou a um índice, nos termos do artigo 4.º do Regulamento Delegado (UE) n.º 2015/761, da Comissão, de 17 de dezembro de 2014.
+c) No caso de instrumentos financeiros indexados a um cabaz de ações ou a um índice, nos termos da legislação da União Europeia.

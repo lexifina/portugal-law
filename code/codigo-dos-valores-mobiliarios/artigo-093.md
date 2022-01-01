@@ -8,4 +8,4 @@ a) A conversão de valores mobiliários escriturais em titulados ou destes em es
 
 b) Os elementos necessários para o exercício dos direitos patrimoniais inerentes aos valores mobiliários registados e para o controlo desse exercício pelo emitente;
 
-c) Informações relativas à identidade dos acionistas, nos termos dos artigos 29.º-B a 29.º-E.
+c) Informações relativas à identidade dos acionistas, nos termos dos artigos 21.º-E a 21.º-H.

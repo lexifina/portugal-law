@@ -10,6 +10,6 @@ b) Não demonstrar que possui as aptidões e os meios indispensáveis para garan
 
 c) Tiver prestado falsas declarações;
 
-d) Não sanar insuficiências e irregularidades do processo no prazo fixado pela CMVM.
+d) (Revogada.)
 
 2 - A recusa de registo pode ser total ou parcial.

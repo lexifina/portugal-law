@@ -24,14 +24,10 @@ d) Publicação ou divulgação de informação não acompanhada de relatório o
 
 e) (Revogada).
 
+f) A falta de divulgação ou comunicação da informação devida pelos consultores em matéria de votação;
+
+g) A falta de prestação de informação ao acionista quanto ao registo e contabilização dos seus votos.
+
 4 - Constitui contra-ordenação menos grave a divulgação de informação não redigida em português ou não acompanhada de tradução para português, quando exigível.
 
-5 - Constitui contra-ordenação menos grave a divulgação de mensagem publicitária que não satisfaça algum dos seguintes requisitos:
-
-a) Identificação inequívoca como tal;
-
-b) Aprovação pela CMVM, quando exigida;
-
-c) Referência ao prospecto;
-
-d) Divulgação prévia de prospecto preliminar, em caso de recolha de intenções de investimento.
+5 - (Revogado.)

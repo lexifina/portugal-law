@@ -18,6 +18,8 @@ a) Por iniciativa do titular, em qualquer caso;
 
 b) Por iniciativa de intermediário financeiro, quanto aos valores mobiliários em relação aos quais lhe tenha sido dada ou transmitida ordem de venda em mercado registado.
 
+c) Por iniciativa do emitente, quanto à totalidade dos valores mobiliários de uma mesma categoria, desde que tal faculdade esteja prevista nos termos e condições da emissão.
+
 3 - O bloqueio consiste num registo em conta, com indicação do seu fundamento, do prazo de vigência e da quantidade de valores mobiliários abrangidos.
 
 4 - Durante o prazo de vigência do bloqueio, a entidade registadora fica proibida de transferir os valores mobiliários bloqueados.

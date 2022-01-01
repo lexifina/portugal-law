@@ -2,14 +2,28 @@
 
 ### Processo das ofertas concorrentes
 
-1 - A oferta concorrente deve ser lançada até ao 5.º dia anterior àquele em que termine o prazo da oferta inicial.
+1 - Uma vez concedido o registo a uma oferta pública de aquisição, qualquer outra oferta pública voluntária de aquisição de valores mobiliários da mesma categoria deve ser registada:
 
-2 - É proibida a publicação de anúncio preliminar em momento que não permita o cumprimento do prazo referido no número anterior.
+a) Até ao final do quinto dia útil anterior ao termo do prazo da oferta anteriormente registada; ou
 
-3 - Com o lançamento tempestivo de oferta concorrente, o prazo das ofertas deve ser coincidente, devendo cada OPA concorrente respeitar o prazo mínimo previsto no n.º 1 do artigo 183.º
+b) Apenas depois do apuramento do resultado da oferta anteriormente registada, se o prazo previsto na alínea anterior não se revelar possível.
 
-4 - O pedido de registo de oferta concorrente é indeferido pela CMVM se esta entidade concluir, em função da data da apresentação do pedido de registo da oferta e do exame deste último, pela impossibilidade de decisão em tempo que permita o lançamento tempestivo da oferta, de acordo com o estabelecido no n.º 1.
+2 - Se a oferta for registada nos termos da alínea a) do número anterior:
 
-5 - Quando o anúncio preliminar da oferta concorrente seja publicado após o registo da oferta inicial ou de ofertas concorrentes anteriores, são reduzidos para oito dias e quatro dias, respectivamente, os prazos fixados na alínea b) do n.º 2 do artigo 175.º e no n.º 1 do artigo 181.º
+a) O último dia do prazo das ofertas deve ser coincidente, devendo cada uma delas respeitar o prazo mínimo previsto no n.º 1 do artigo 183.º;
 
-6 - Em caso de ofertas concorrentes, as aceitações podem ser revogadas até ao último dia do período de aceitações.
+b) As aceitações podem ser revogadas até ao último dia do prazo das ofertas;
+
+c) Os destinatários que tenham aceitado a oferta que não reúne condições para a respetiva liquidação podem, nos dois dias úteis seguintes ao apuramento de resultados, declarar a sua aceitação em relação a uma oferta que tenha reunido condições para o efeito.
+
+3 - Se a oferta for registada nos termos da alínea b) do n.º 1, o oferente deve, até ao quinto dia útil anterior ao termo do prazo da oferta anteriormente registada, informar o mercado sobre:
+
+a) Os termos definitivos da sua oferta; e
+
+b) O estado do processo de verificação dos factos de que depende o seu lançamento, bem como estimativa quanto à sua obtenção.
+
+4 - É proibida a publicação de anúncio preliminar de oferta pública voluntária de aquisição de valores mobiliários da mesma categoria de oferta pública de aquisição registada depois do final do quinto dia útil anterior ao termo do prazo desta oferta.
+
+5 - Quando o anúncio preliminar de oferta seja publicado após o registo de oferta anterior, são reduzidos para oito e para quatro dias, respetivamente, os prazos fixados na alínea b) do n.º 2 do artigo 175.º e no n.º 1 do artigo 181.º
+
+6 - O oferente é responsável pelos danos causados por decisão de lançamento de oferta pública de aquisição tomada com o objetivo principal de frustrar a oferta já registada.

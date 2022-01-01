@@ -10,11 +10,11 @@
 
 a) Pelo emitente;
 
-b) Por titulares de, pelo menos, 10% dos valores mobiliários emitidos, pertencentes à mesma categoria, se o emitente já for uma sociedade aberta;
+b) Por titulares de, pelo menos, 10 % dos valores mobiliários emitidos, pertencentes à mesma categoria, se o emitente já tiver valores mobiliários admitidos à negociação em mercado regulamentado;
 
 c) Pelo Instituto de Gestão do Crédito Público, se se tratar de obrigações emitidas pelo Estado Português.
 
-2 - A entidade gestora do mercado regulamentado envia à CMVM cópia do pedido de admissão com os documentos necessários para a aprovação do prospecto.
+2 - Sem prejuízo do disposto no número anterior, a cópia do pedido de admissão, com os documentos necessários para a aprovação do prospeto, deve igualmente ser remetida à CMVM.
 
 3 - O pedido de admissão à negociação pode ser apresentado antes de se encontrarem reunidos todos os requisitos exigidos, desde que o emitente indique como, e em que prazos, vão ser preenchidos.
 

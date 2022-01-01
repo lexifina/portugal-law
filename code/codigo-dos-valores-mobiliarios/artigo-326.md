@@ -2,7 +2,7 @@
 
 ### Aceitação e recusa
 
-1 - O intermediário financeiro deve recusar uma ordem quando:
+1 - O intermediário financeiro recusa uma ordem quando:
 
 a) O ordenador não lhe forneça todos os elementos necessários à sua boa execução;
 
@@ -13,6 +13,8 @@ c) O intermediário financeiro não esteja em condições de fornecer ao ordenad
 d) O ordenador não preste a caução exigida por lei para a realização da operação;
 
 e) Não seja permitido ao ordenador a aceitação de oferta pública.
+
+f) For ilícita ou impossível quanto ao seu objeto.
 
 2 - O intermediário financeiro pode recusar-se a aceitar uma ordem quando o ordenador:
 

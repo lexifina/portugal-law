@@ -18,4 +18,6 @@
 
 8 - A CMVM tem legitimidade para recorrer autonomamente das decisões proferidas no processo de impugnação que admitem recurso, bem como para responder a recursos interpostos.
 
-9 - Não é aplicável aos processos de contra-ordenação instaurados e decididos nos termos deste Código a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.
+9 - Sem prejuízo do disposto no artigo 73.º do Regime Geral das Contraordenações, a CMVM pode recorrer de decisões que revoguem, alterem ou declarem nula a decisão da CMVM.
+
+10 - Não é aplicável aos processos de contra-ordenação instaurados e decididos nos termos deste Código a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.

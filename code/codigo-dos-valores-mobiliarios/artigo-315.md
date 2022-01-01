@@ -6,13 +6,13 @@
 
 ### Informação à CMVM
 
-1 - Os intermediários financeiros e entidades gestoras de uma plataforma de negociação reportam à CMVM as operações realizadas, nos termos previstos no artigo 26.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados.
+1 - Os intermediários financeiros e entidades gestoras de uma plataforma de negociação reportam à CMVM as operações realizadas, nos termos previstos na legislação da União Europeia.
 
 2 - (Revogado.)
 
 3 - (Revogado.)
 
-4 - As entidades gestoras de uma plataforma de negociação e os internalizadores sistemáticos comunicam à CMVM os dados de referência identificadores para efeitos do reporte previsto no n.º 1, nos termos previstos no artigo 27.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados.
+4 - As entidades gestoras de uma plataforma de negociação e os internalizadores sistemáticos comunicam à CMVM os dados de referência identificadores para efeitos do reporte previsto no n.º 1, nos termos previstos na legislação da União Europeia.
 
 5 - (Revogado.)
 

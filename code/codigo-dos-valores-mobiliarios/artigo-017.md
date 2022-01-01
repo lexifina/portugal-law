@@ -2,7 +2,7 @@
 
 ### Divulgação
 
-1 - A sociedade participada deve divulgar, pelos meios referidos no n.º 4 do artigo 244.º, toda a informação recebida nos termos do artigo 16.º, o mais rapidamente possível e no prazo de três dias de negociação após recepção da comunicação.
+1 - A sociedade participada divulga, pelos meios referidos no n.º 4 do artigo 13.º-B, toda a informação recebida nos termos do artigo 16.º, o mais rapidamente possível e no prazo de três dias de negociação após receção da comunicação prevista no artigo 16.º
 
 2 - A sociedade participada e os titulares dos seus órgãos sociais, bem como as entidades gestoras de mercados regulamentados em que estejam admitidos à negociação acções ou outros valores mobiliários que confiram o direito à sua subscrição ou aquisição por aquela emitidos, devem informar a CMVM quando tiverem conhecimento ou fundados indícios de incumprimento dos deveres de informação previstos no artigo 16.º
 

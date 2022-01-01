@@ -2,14 +2,14 @@
 
 ### Oferta pública
 
-1 - Considera-se pública a oferta relativa a valores mobiliários dirigida, no todo ou em parte, a destinatários indeterminados.
+1 - São públicas:
 
-2 - A indeterminação dos destinatários não é prejudicada pela circunstância de a oferta se realizar através de múltiplas comunicações padronizadas, ainda que endereçadas a destinatários individualmente identificados.
+a) As ofertas de valores mobiliários ao público que exigem a prévia divulgação de prospeto ou documento exigível de acordo com a legislação da União Europeia;
 
-3 - Considera-se também pública:
+b) As ofertas de aquisição a que se refere o artigo 173.º
 
-a) A oferta dirigida à generalidade dos accionistas de sociedade aberta, ainda que o respectivo capital social esteja representado por acções nominativas;
+2 - (Revogado.)
 
-b) A oferta que, no todo ou em parte, seja precedida ou acompanhada de prospecção ou de recolha de intenções de investimento junto de destinatários indeterminados ou de promoção publicitária;
+3 - (Revogado.)
 
-c) A oferta dirigida a, pelo menos, 150 pessoas que sejam investidores não qualificados, por Estado membro.
+4 - Sem prejuízo das demais isenções previstas na legislação europeia, o presente título não se aplica a ofertas de valores mobiliários ao público cujo valor total na União Europeia seja inferior a 8 000 000 (euro), calculado em função das ofertas realizadas ao longo de um período de 12 meses.

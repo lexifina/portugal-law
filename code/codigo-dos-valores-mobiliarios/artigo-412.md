@@ -16,6 +16,8 @@ a) Até à sua revogação pela CMVM ou por decisão judicial;
 
 b) Até ao início do cumprimento de sanção acessória de efeito equivalente às medidas previstas no número anterior.
 
+c) Até que sobre a mesma tenham decorrido cinco anos.
+
 3 - A determinação de suspensão preventiva pode ser publicada pela CMVM.
 
 4 - Quando, nos termos do n.º 1, seja determinada a suspensão total das actividades ou das funções exercidas pelo arguido e este venha a ser condenado, no mesmo processo, em sanção acessória que consista em interdição ou inibição do exercício das mesmas actividades ou funções, será descontado por inteiro no cumprimento da sanção acessória o tempo de duração da suspensão preventiva.

@@ -2,7 +2,7 @@
 
 ### Conflitos de interesses
 
-1 - O intermediário financeiro deve cumprir com os deveres previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, designadamente:
+1 - O intermediário financeiro deve, designadamente:
 
 a) Adotar uma política em matéria de conflitos de interesses;
 

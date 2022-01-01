@@ -2,7 +2,7 @@
 
 ### Prazo e suporte de conservação
 
-1 - Sem prejuízo de exigências legais ou regulamentares mais rigorosas, os intermediários financeiros conservam em arquivo os documentos e registos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, incluindo os relativos a:
+1 - Sem prejuízo de exigências legais ou regulamentares mais rigorosas, os intermediários financeiros conservam em arquivo os documentos e registos previstos na legislação da União Europeia, incluindo os relativos a:
 
 a) Operações sobre instrumentos financeiros, incluindo ordens recebidas, pelo prazo de cinco anos após a realização da operação;
 
@@ -16,7 +16,7 @@ c) Quaisquer remunerações, comissões ou benefícios não monetários pagos ou
 
 4 - A pedido das autoridades competentes ou dos seus clientes, os intermediários financeiros devem emitir certificados dos registos respeitantes às operações em que intervieram.
 
-5 - Os registos devem cumprir os requisitos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e ser conservados num suporte que permita o armazenamento de informação de forma acessível para futura referência pela CMVM e de modo que:
+5 - Os registos são conservados num suporte que permita o armazenamento de informação de forma acessível para futura referência pela CMVM e de modo que:
 
 a) Seja possível reconstituir cada uma das fases essenciais do tratamento de todas as operações;
 
@@ -24,7 +24,7 @@ b) Quaisquer correcções ou outras alterações, bem como o conteúdo dos regis
 
 c) Não seja possível manipular ou alterar, por qualquer forma, os registos.
 
-6 - O intermediário financeiro deve fixar em suporte fonográfico as ordens recebidas, transmitidas ou executadas telefonicamente, por conta própria ou de terceiros e, no caso de as ordens serem comunicadas através de meios eletrónicos, proceder ao registo das mesmas, conforme previsto em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+6 - O intermediário financeiro fixa em suporte fonográfico as ordens recebidas, transmitidas ou executadas telefonicamente, por conta própria ou de terceiros, e, no caso de as ordens serem comunicadas através de meios eletrónicos, procede ao registo das mesmas, conforme previsto na legislação da União Europeia.
 
 7 - Para efeitos do disposto no número anterior:
 

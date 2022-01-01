@@ -2,7 +2,7 @@
 
 ### Instrução do pedido
 
-1 - O pedido de registo ou de aprovação de prospecto é instruído com os seguintes documentos:
+1 - O pedido de registo ou de aprovação de prospeto é instruído com os seguintes documentos, sem prejuízo de outros exigidos por lei:
 
 a) Cópia da deliberação de lançamento tomada pelos órgãos competentes do oferente e das decisões administrativas exigíveis;
 
@@ -14,15 +14,15 @@ d) Certidão actualizada do registo comercial do emitente;
 
 e) Certidão actualizada do registo comercial do oferente;
 
-f) Cópia dos relatórios de gestão e contas, dos pareceres dos órgãos de fiscalização e da certificação legal de contas do emitente respeitante aos períodos exigíveis nos termos do Regulamento (CE) n.º 809/2004, da Comissão, de 29 de Abril;
+f) Cópia dos relatórios de gestão e contas, dos pareceres dos órgãos de fiscalização e da certificação legal de contas do emitente respeitante aos períodos exigíveis nos termos da legislação da União Europeia aplicável;
 
 g) Relatório ou parecer de auditor elaborado nos termos dos artigos 8.º e 9.º;
 
-h) Código de identificação dos valores mobiliários que são objecto da oferta;
+h) (Revogada.)
 
-i) Cópia do contrato celebrado com o intermediário financeiro encarregado da assistência;
+i) Cópia do contrato celebrado com o intermediário financeiro encarregado da assistência, se existir;
 
-j) Cópia do contrato de colocação e do contrato de consórcio de colocação, se existir;
+j) Cópia do contrato de colocação e do contrato de consórcio de colocação, se existirem;
 
 l) Cópia do contrato de fomento de mercado, do contrato de estabilização e do contrato de opção de distribuição de lote suplementar, se existirem;
 
@@ -30,7 +30,7 @@ m) Projecto de prospecto;
 
 n) Informação financeira pró-forma, quando exigível;
 
-o) Projecto de anúncio de lançamento, quando exigível;
+o) (Revogada.)
 
 p) Relatórios periciais, quando exigíveis.
 

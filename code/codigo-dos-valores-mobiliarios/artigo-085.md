@@ -18,8 +18,8 @@ c) Pelos emitentes, em relação a elementos constantes das contas de valores mo
 
 3 - Se os valores mobiliários estiverem integrados em sistema centralizado, os pedidos de informação pelos emitentes podem ser dirigidos à entidade gestora desse sistema, que os transmite a cada uma das entidades registadoras.
 
-4 - A entidade registadora deve tomar a iniciativa de enviar a cada um dos titulares de valores mobiliários registados:
+4 - A entidade registadora envia a cada um dos titulares de valores mobiliários registados:
 
-a) O extrato previsto na alínea b) do n.º 8 do artigo 323.º;
+a) O extrato periódico relativo aos bens pertencentes ao património do cliente;
 
 b) Os elementos necessários para o atempado cumprimento das obrigações fiscais.

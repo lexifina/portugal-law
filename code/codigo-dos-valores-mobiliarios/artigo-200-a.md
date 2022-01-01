@@ -22,7 +22,7 @@ c) Que um sistema de negociação organizado estabeleça conexões com outro sis
 
 a) A execução de ordens de clientes contra a carteira própria da entidade gestora no caso de instrumentos de dívida emitidos por um emitente soberano para os quais não exista um mercado líquido;
 
-b) A execução de transações simultâneas por conta própria (matched principal trading) em sistema de negociação organizado, desde que tal seja expressamente autorizado pelo cliente e não se trate de um instrumento financeiro derivado que tenha sido objeto de declaração de obrigação de compensação centralizada nos termos do artigo 5.º do Regulamento (UE) n.º 648/2012, do Parlamento Europeu e do Conselho, de 4 de julho de 2012.
+b) A execução de transações simultâneas por conta própria (matched principal trading) em sistema de negociação organizado, desde que tal seja expressamente autorizado pelo cliente e não se trate de um instrumento financeiro derivado que tenha sido objeto de declaração de obrigação de compensação centralizada nos termos da legislação da União Europeia.
 
 7 - A entidade gestora do sistema de negociação organizado deve adotar mecanismos que assegurem o cumprimento do disposto no número anterior.
 

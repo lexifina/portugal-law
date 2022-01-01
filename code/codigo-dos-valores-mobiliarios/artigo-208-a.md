@@ -2,7 +2,7 @@
 
 ### Requisitos dos sistemas de negociação
 
-1 - A entidade gestora de mercado regulamentado adota sistemas, procedimentos e mecanismos eficazes para garantir, de acordo com os requisitos especificados em regulamentação e atos delegados da Diretiva 2014/65/EU, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que os sistemas de negociação do mercado:
+1 - A entidade gestora de mercado regulamentado adota sistemas, procedimentos e mecanismos eficazes para garantir, de acordo com a legislação da União Europeia, que os sistemas de negociação do mercado:
 
 a) São resistentes, têm capacidade suficiente para lidar com um número elevado e anormal de ofertas ou mensagens e são capazes de assegurar a negociação ordenada;
 
@@ -22,7 +22,7 @@ b) Adotar sistemas que limitem o rácio de ofertas não executadas face às tran
 
 c) Limitar e fazer cumprir o regime de variação mínima de preços de ofertas aplicável no mercado.
 
-5 - O rácio referido na alínea b) do número anterior obedece aos requisitos definidos em regulamentação e atos delegados da Diretiva 2014/65/EU, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+5 - O rácio referido na alínea b) do número anterior obedece aos requisitos definidos na legislação da União Europeia.
 
 6 - A entidade gestora assegura a identificação de ofertas geradas através de negociação algorítmica, os diferentes algoritmos utilizados para a submissão das ofertas e as pessoas relevantes que submetam uma oferta, através de sinalização dos membros responsáveis pelas mesmas.
 
