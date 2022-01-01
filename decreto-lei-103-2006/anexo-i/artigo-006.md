@@ -61,3 +61,7 @@ c) Regulação baixa - as entidades que disponibilizem serviços de programas te
 9 - Na categoria de comunicações móveis integram-se na subcategoria de regulação alta os operadores de comunicações móveis que forneçam conteúdos de comunicação social.
 
 10 - Na categoria de sítios informativos submetidos a tratamento editorial integram-se na subcategoria de regulação alta as entidades que forneçam conteúdos de comunicação social, referidas no n.º 7 do artigo 5.º
+
+11 - Na categoria de serviços audiovisuais a pedido integram-se na subcategoria de regulação baixa todos os operadores de serviços audiovisuais a pedido.
+
+12 - Na categoria de plataformas de partilha de vídeos integram-se na subcategoria de regulação baixa todos os fornecedores de plataformas de partilha de vídeos.
