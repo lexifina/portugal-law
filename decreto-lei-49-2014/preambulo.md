@@ -1,5 +1,3 @@
-Decreto-Lei n.º 49/2014
-
 de 27 de março
 
 Com a publicação da Lei n.º 62/2013, de 26 agosto, que aprova a Lei da Organização do Sistema Judiciário (LOSJ), fixaram-se as disposições enquadradoras da reforma do sistema Judiciário.
