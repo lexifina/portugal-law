@@ -1,0 +1,17 @@
+Aviso n.º 298/2022
+Sumário: Reabertura do procedimento de elaboração da revisão do Plano Diretor Municipal de Albufeira.
+Reabertura do procedimento de elaboração da revisão do Plano Diretor Municipal de Albufeira
+José Carlos Martins Rolo, Presidente da Câmara Municipal de Albufeira:
+Torna público que na reunião de câmara ordinária pública de 06 de dezembro de 2021 foi deliberado, ao abrigo do disposto no n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, reabrir o procedimento de elaboração da Revisão do Plano Diretor Municipal de Albufeira com base nos respetivos termos de referência, estabelecendo um prazo de elaboração de 36 meses.
+Nos termos do previsto no n.º 2 do artigo 88.º do referido decreto-lei, foi determinado dar início a um período de participação de 30 dias, após a publicação do presente Aviso, destinado à receção de sugestões e informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração.
+Para o efeito os interessados deverão utilizar a ficha de participação disponibilizada e apresentar as referidas sugestões e informações, dirigidas ao Exmo. Sr. Presidente da Câmara Municipal de Albufeira, por escrito endereçadas para Município de Albufeira, Paços do Concelho, Rua do Município, 8200-863 Albufeira, por correio eletrónico para geral@cm-albufeira.pt, ou no Gabinete de Apoio ao Munícipe do Município de Albufeira.
+A documentação está disponível em www.cm-albufeira.pt e patente para consulta durante o horário de expediente no Gabinete de Apoio ao Munícipe do Município de Albufeira e na Juntas de Freguesia de Albufeira e Olhos de Água, Guia, Ferreiras e Paderne.
+9 de dezembro de 2021. - O Presidente da Câmara Municipal de Albufeira, Dr. José Carlos Martins Rolo.
+Apreciado em Reunião de Câmara de 06/12/2021.
+Foi deliberado por unanimidade:
+"a) Aprovar a reabertura do procedimento de revisão do Plano Diretor Municipal de Albufeira, fixando um prazo de 3 anos para a conclusão do procedimento de revisão, no sentido de adequar este procedimento às sucessivas alterações legislativas ocorridas, aceitando como válidas as etapas realizadas no anterior procedimento de revisão do PDM e, atento ao princípio do aproveitamento dos atos administrativos praticados, utilizar o conjunto de conteúdos documentais e materiais já produzidos no procedimento anterior, por se considerar o interesse público da sua utilização, os meios técnicos e humanos disponíveis e os prazos legalmente definidos para efeitos de tramitação deste procedimento de revisão do PDM;
+b) Determinar a abertura do período de participação prévia da reabertura do procedimento de revisão do Plano Diretor Municipal de Albufeira, por um período de 15 dias úteis, que terá início após a publicação do Aviso no Diário da República, nos termos do n.º 3 do artigo 119.º, conjugado como o n.º 1 do artigo 76.º e com o n.º 2 do artigo 88.º, todos do RJIGT;
+c) Publicitar a deliberação no Diário da República e proceder à sua divulgação na comunicação social e no sítio eletrónico do Município, nos termos do n.º 3 do artigo 119.º, conjugado como o n.º 1 do artigo 76.º e a alínea c) do n.º 4 do artigo 191.º, todos do RJIGT;
+d) Dar conhecimento do teor da deliberação à Assembleia Municipal de Albufeira, às Juntas de Freguesia e à Comissão de Coordenação e Desenvolvimento Regional do Algarve (CCDR Algarve)."
+Albufeira, 09 de dezembro de 2021. - Presidente da Câmara, Dr. José Carlos Martins Rolo.
+614810456
