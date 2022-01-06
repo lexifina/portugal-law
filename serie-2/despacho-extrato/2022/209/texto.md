@@ -1,0 +1,6 @@
+Despacho (extrato) n.º 209/2022
+Sumário: Consulta pública da alteração do Regulamento do Curso de Mestrado em Gerontologia Social da Escola Superior de Educação e Comunicação.
+Regulamento do Curso de Mestrado em Gerontologia Social (alteração)
+Por despacho do Diretor da Escola Superior de Educação e Comunicação da Universidade do Algarve, torna-se público que, nos termos do disposto nos artigos 97.º a 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º da Lei n.º 62/2007 de 10 de setembro, que aprova o Regime Jurídico das Instituições de Ensino Superior (RJIES), submete-se a consulta pública a alteração do Regulamento do Curso de Mestrado em Gerontologia Social da Escola Superior de Educação e Comunicação (ESEC) da Universidade do Algarve, com vista à recolha de contributos e sugestões, procedendo-se, para o efeito, à publicação do aviso na 2.ª série do Diário da República e à divulgação no sítio da internet: https://www.ualg.pt/content/documentos-ualg, devendo os interessados apresentar as sugestões ou comentários por escrito, no prazo de 30 dias a contar da data da referida publicação, ao Diretor da ESEC, utilizando o endereço eletrónico: diretoresec@ualg.pt.
+22 de dezembro de 2021. - O Diretor, António Carlos Camilo Correia de Lacerda.
+314844371
