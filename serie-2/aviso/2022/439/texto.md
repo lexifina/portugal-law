@@ -1,0 +1,12 @@
+Aviso n.º 439/2022
+Sumário: Alteração do Plano Diretor Municipal de Odemira no âmbito do regime extraordinário de regularização de atividades económicas.
+Abertura de discussão pública
+Alteração do Plano Diretor Municipal de Odemira no âmbito do Regime Extraordinário de Regularização de Atividades Económicas
+Helder António Guerreiro, Presidente da Câmara Municipal, torna público que, ao abrigo do disposto no n.º 1, do artigo 89.º, do Decreto-Lei n.º 80/2015 de 14 de maio, na sua atual redação, a Câmara Municipal de Odemira deliberou, na sua sessão ordinária de cinco de dezembro de 2019, a abertura do período de discussão pública, pelo prazo de 15 dias úteis, da proposta de alteração do Plano Diretor Municipal no âmbito da adequação ao Regime Excecional de Regularização das Atividades Económicas, das seguintes empresas: "Álvaro Machado Viana & Filha", "Sociedade de Exploração Agro-Pecuária Rações Santiago" e "Sociedade de exploração agro-pecuária Água do Sobreiro, Lda.".
+Os procedimentos foram objeto de Declaração de Interesse Público Municipal por parte da Assembleia Municipal por deliberação respetivamente de 22 de setembro de 2017, 28 de abril de 2017 e 26 de julho de 2017.
+A alteração ao PDM de Odemira corresponde ao que foi deliberado em sede de Conferência Decisória realizada nos termos dos artigos 9.º, 10.º e 11.º do Decreto-Lei n.º 165/2014 de 5 de novembro, cujas atas estão juntas aos demais elementos do procedimento de alteração.
+Dos três processos RERAE em curso, dois obtiveram parecer favorável condicionado em sede de conferência decisória (Álvaro Machado Viana & Filha e Sociedade de Exploração Agro-Pecuária Rações Santiago), e um encontra-se em apreciação pela entidade licenciadora da área da pecuária (Sociedade de exploração agro-pecuária Água do Sobreiro, Lda.).
+Mais torna público que os elementos do procedimento encontram-se disponíveis para consulta, pelos interessados, no Balcão Único do Município de Odemira, na Juntas de Freguesia do concelho, todos os dias úteis durante as horas normais de expediente e, no sítio da internet www.cm-odemira.pt, podendo ser objeto de sugestões, reclamações e informações a apresentar por escrito em impresso próprio disponível no local da consulta ou por carta registada, dirigida ao Presidente da Câmara Municipal, para a Praça da República, 7630-139 Odemira.
+Para constar, o presente vai ser fixado nos lugares de estilo, procedendo-se à sua publicação no Diário da República.
+17 de novembro de 2021. - O Presidente da Câmara, Eng.º Helder Guerreiro.
+614758341
