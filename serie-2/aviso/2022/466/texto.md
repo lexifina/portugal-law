@@ -1,0 +1,28 @@
+Aviso n.º 466/2022
+Sumário: Alteração ao Plano Diretor Municipal de Vila Viçosa.
+Alteração do PDM no sentido de adaptação adequação as disposições do RJIGT Inácio José Ludovico Esperança, Presidente da Câmara Municipal de Vila Viçosa, torna público para efeitos do disposto no artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal deliberou, na sua reunião de dois de dezembro de 2021, proceder a alteração do PDM de Vila Viçosa no prazo de 5 dias, no sentido de adaptação/adequação às disposições do RJIGT, bem como proceder à alteração da tipologia de solo, nomeadamente no prédio urbano denominado Lugar das Janelas artigo matricial n.º 1623, da freguesia de Bencatel, com a reclassificação da área de solo de Espaço Rústico (espaço agrícola condicionado, espaço silvopastoril e em espaço florestal) para Espaço Rústico - Espaço de Atividades Industriais e ainda nos prédios rústicos numa área denominada como - Herdade da Lagoa, artigo matricial n.º 460 (Trás os Montes) e artigo matricial n.º 535 (Pinheiro e Saldanha), da freguesia de N.ª S.ª da Conceição e S. Bartolomeu, com a reclassificação da área de solo de Espaço Rústico - Espaço Florestal para Espaço Rústico - Área de Exploração. Proceder à criação de um corredor rodoviário, com uma faixa de 200 m, para implementação de uma variante à EN 254 a Bencatel, de forma a retirar os veículos pesados na localidade.
+A participação pública decorrerá durante um período de 15 dias úteis, contados a partir da data da publicação deste aviso no Diário da República, no qual os interessados poderão formular sugestões ou apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração da alteração do plano, encontrando-se o processo disponível para consulta na Divisão de Urbanismo e Ambiente, nas horas normais de expediente.
+A participação poderá ainda ser feita através do e-mail - geral@cm-vilavicosa.pt
+9 de dezembro de 2021. - O Presidente da Câmara Municipal, Inácio José Ludovico Esperança, Dr.
+Deliberação
+Inácio José Ludovico Esperança, Presidente da Câmara Municipal de Vila Viçosa, torna público, que na Reunião Ordinária da Câmara Municipal de Vila Viçosa, realizada no dia dois de dezembro de dois mil e vinte e um, foi tomada a deliberação do seguinte teor:
+26.º Ponto - Alteração ao PDM de Vila Viçosa.
+Foi presente uma proposta designada como Proposta A, subscrita pelo Presidente da Câmara Municipal, Inácio José Ludovico Esperança e pelos Vereadores Tiago Passão Salgueiro e Mónica Cristina Alegrias Lobo, a qual se dá como inteiramente reproduzida, e fica apensa aos documentos da presente minuta da ata na qual se propõem:
+Proceder à alteração do PDM de Vila Viçosa, no sentido de acrescentar ao já deliberado anteriormente e plasmado no Aviso n.º 40/2021, a criação de um corredor rodoviário, com uma faixa de 200 m para implementação de uma variante à Estrada Nacional 254 a Bencatel, de forma a retirar os veículos pesados do interior da localidade.
+Deste modo na sequência do atrás descrito, pretende-se criar um corredor rodoviário com uma extensão aproximada de 3,4 km, numa largura de 200 m, para a construção da variante de Bencatel conforme o traçado proposto na planta de localização em anexo à Informação n.º 5/2021 da DUA, de 29 de novembro.
+Para além do atrás referido pretende-se também criar, condições de segurança nas proximidades do PK3+000 da atual Estrada Nacional 254, o que não existe atualmente, devido à proximidade reduzida de zonas de extração.
+Mais se informa, que os terrenos em causa - corredor rodoviário -, ficam localizados em solos rústicos, nomeadamente, espaço silvopastoril, espaço agrícola preferencial, espaço agrícola condicionado e espaço de exploração de recursos geológicos - área de deposição comum.
+Desta forma, propõe-se que as zonas - corredor rodoviário - a intervencionar, passem a zona de espaços canais.
+Estes espaços correspondem a corredores de infraestruturas, devendo estar representados na Planta de Ordenamento.
+Face ao exposto, o Presidente da Câmara Municipal, Inácio José Ludovico Esperança e pelos Vereadores Tiago Passão Salgueiro e Mónica Cristina Alegrias Lobo, propõem que a Câmara Municipal delibere ainda que o procedimento a seguir seja:
+1 - Alterar o PDM com a reclassificação da área em causa para espaço canal;
+2 - O Plano será constituído por um regulamento, um relatório de alteração, plantas de ordenamento e de condicionantes;
+3 - O prazo de execução para esta alteração seja de 5 - cinco - dias;
+4 - Publicar o - Aviso - para participação pública, nos termos RJIGT, a qual decorrerá num período de quinze dias úteis, contados a partir da data de publicação do Aviso no Diário da República.
+Foi ainda apresentada, pelo Vereador Vitor Manuel Ventura Mila, uma proposta alternativa designada como Proposta B, cujo documento se anexa, e se transcreve na íntegra:
+Que os Serviços Municipais ou Equipa Projetista, no prazo de 5 dias referido na informação dos serviços, incluam também a criação do troço/estrada alternativa, a construir ao Km 3, pelo Sr. António Alves, de acordo com compromisso já assumido e aprovado em Reunião de Câmara, para o solucionamento a curto prazo do corte de trânsito na EN254. O Vereador da CDU, Vitor Mila.
+As propostas deram entrada na mesa por unanimidade.
+Colocadas as propostas em votação alternativa, obteve a Proposta A, quatro votos, do Presidente da Câmara Municipal Inácio Esperança e dos Vereadores Tiago Salgueiro, Mónica Lobo e Anabela Consolado, e a Proposta B obteve um voto do Vereador Vítor Mila.
+Assim, foi aprovada a Proposta A com quatro votos.
+Vila Viçosa, 9 de dezembro de 2021. - O Presidente da Câmara Municipal, Inácio José Loduvico Esperança.
+614839114
