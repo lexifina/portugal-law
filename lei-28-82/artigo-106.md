@@ -1,11 +1,19 @@
 ## Subcapítulo VI
 
-## Processos relativos a declarações de rendimentos e património dos titulares de cargos públicos
+## Processos relativos a titulares de cargos públicos
 
 # Artigo 106.º
 
-### Registo e arquivo das declarações
+### Competências sancionatórias relativas a titulares de cargos públicos
 
-1 - O procedimento a adoptar no registo e arquivo das declarações de rendimentos e património de titulares de cargos públicos será definido em regulamento interno do Tribunal Constitucional.
+1 - Compete ao Tribunal Constitucional aplicar as sanções sem natureza penal previstas nos artigos 11.º, 17.º e 18.º do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos relativamente aos titulares de cargos políticos e equiparados indicados nos artigos 2.º e 4.º do referido regime, bem como aos antigos titulares de cargos políticos, quando aplicável, com exceção:
 
-2 - É vedada a transcrição em suporte informático do conteúdo das declarações, sem prejuízo de o Tribunal Constitucional poder organizar um ficheiro informatizado contendo os seguintes dados: identificação, cargo e número do processo individual do declarante, datas do início ou da cessação de funções, datas da comunicação daqueles factos pelas secretarias administrativas competentes e, eventualmente, da notificação a que há lugar em caso de não apresentação de declaração no prazo inicial e, bem assim, da apresentação atempada da declaração e ainda a referência identificativa das decisões proferidas no caso de falta dessa apresentação.
+a) Do Presidente da República, do Presidente da Assembleia da República e do Primeiro-Ministro;
+
+b) Do Provedor de Justiça;
+
+c) Da perda de mandato de Deputados à Assembleia da República e às Assembleias Legislativas das Regiões Autónomas, cuja aplicação compete às respetivas assembleias, sem prejuízo dos recursos destas decisões para o Tribunal Constitucional;
+
+d) Dos membros dos órgãos executivos do poder local e das áreas metropolitanas e entidades intermunicipais, cuja competência para aplicação de sanções se rege pelas normas estatutárias específicas e pelo regime jurídico da tutela administrativa.
+
+2 - Compete aos tribunais administrativos aplicar as sanções sem natureza penal previstas nos artigos 11.º, 17.º e 18.º do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos relativamente aos titulares de cargos políticos referidos nas alíneas i) e j) do n.º 1 do artigo 2.º e aos titulares de altos cargos públicos e equiparados identificados no artigo 3.º, ambos do referido regime, bem como aos respetivos antigos titulares nos casos nele previstos.

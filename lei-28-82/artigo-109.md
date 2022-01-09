@@ -1,9 +1,7 @@
 # Artigo 109.º
 
-### Não apresentação da declaração
+### Processo relativo a outras violações do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos
 
-1 - Continuando a verificar-se a falta de entrega da declaração após a notificação por não apresentação no prazo inicial, e decorrido o subsequente prazo, o secretário do Tribunal Constitucional extrairá certidão do facto, a qual deverá conter a menção de todos os elementos e circunstâncias necessários à comprovação da falta e apresentá-la-á ao Presidente, com vista à sua remessa ao representante do Ministério Público junto do Tribunal, para os fins convenientes.
+1 - O disposto no artigo 107.º é aplicável, com as necessárias adaptações, ao processo de aplicação das sanções a titulares de cargos políticos e equiparados previstas no artigo 11.º do regime do exercício de funções por titulares de cargos políticos.
 
-2 - Ocorrendo dúvida, mesmo após a notificação referida no número anterior, sobre a existência, no caso, do dever de declaração, o Presidente submeterá a questão ao Tribunal, que decidirá em sessão plenária.
-
-3 - O acórdão do Tribunal faz caso julgado sobre a existência, nesse caso concreto, do dever de apresentação da declaração.
+2 - O Tribunal, se considerar fundada a existência de dúvida sobre a ocorrência de uma situação de incompatibilidade ou impedimento, pode limitar-se a ordenar a sua cessação, fixando prazo para o efeito.
