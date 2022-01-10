@@ -17,3 +17,5 @@ e) A capacidade máxima;
 f) A data de emissão.
 
 2 - [Revogado].
+
+3 - A inexistência do título previsto no número anterior não prejudica a continuação da exploração da resposta social, habilitada com o documento referido no n.º 3 do artigo 15.º-B.

@@ -1,6 +1,6 @@
-## Capítulo IX
+## Capítulo VIII
 
-## Disposições finais e transitórias
+## Regime sancionatório
 
 # Artigo 39.º-A
 
