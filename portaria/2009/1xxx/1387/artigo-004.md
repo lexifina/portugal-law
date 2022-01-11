@@ -2,7 +2,7 @@
 
 ### Competências da comissão directiva
 
-Compete à comissão directiva assegurar a gestão do Fundo de Salvaguarda, devendo designadamente:
+1 - Compete à comissão diretiva assegurar a gestão do Fundo de Salvaguarda, devendo designadamente:
 
 a) Submeter a aprovação do membro do Governo responsável pela área da cultura os critérios de apreciação e hierarquização dos financiamentos a conceder pelo Fundo de Salvaguarda;
 
@@ -10,15 +10,15 @@ b) Estabelecer, em nome do Fundo de Salvaguarda, as relações institucionais qu
 
 c) Solicitar aos órgãos, organismos e serviços do Ministério da Cultura a colaboração necessária para a prossecução das suas competências;
 
-d) Solicitar ao Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P. (IGESPAR, I. P.), e demais organismos e serviços competentes do Ministério da Cultura as informações necessárias à boa execução do Programa de Recuperação do Património Classificado, aprovado pela Resolução do Conselho de Ministros n.º 70/2009, de 21 de Agosto, nomeadamente sobre os imóveis que devem ser alvo de obras ou intervenções;
+d) (Revogada.)
 
-e) Representar o Ministério da Cultura junto dos doadores que façam ou pretendam fazer doações ou donativos em espécie na forma de prestação de facto ao abrigo do Programa de Recuperação do Património Classificado;
+e) (Revogada.)
 
-f) Assegurar, em nome do Ministério da Cultura, a execução e gestão do Programa de Recuperação do Património Classificado;
+f) (Revogada.)
 
-g) Decidir sobre a realização das obras ou intervenções em bens imóveis classificados, ou em vias de classificação, asseguradas, total ou parcialmente, através de doações ou donativos em espécie na forma de prestação de facto ao abrigo do Programa de Recuperação do Património Classificado;
+g) (Revogada.)
 
-h) Acompanhar, avaliar e controlar a execução dos projectos financiados pelo Fundo de Salvaguarda, sem prejuízo do disposto no n.º 6 do artigo 12.º;
+h) Acompanhar, avaliar e controlar a execução dos projetos financiados pelo Fundo de Salvaguarda;
 
 i) Aprovar os contratos de financiamento;
 
@@ -49,3 +49,11 @@ o) Submeter, até 31 de Março de cada ano, cópia do relatório referido na al�
 p) Respeitar o modelo de rentabilização para os imóveis classificados do Estado previsto no n.º 5.2.2 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro;
 
 q) Estabelecer mecanismos de articulação do Fundo de Salvaguarda com o Fundo de Conservação e Reabilitação Patrimonial, criado pelo Decreto-Lei n.º 24/2009, de 21 de Janeiro, e regulado nos termos do respectivo Regulamento de Gestão aprovado pela Portaria n.º 293/2009, de 24 de Março, bem como com outros fundos públicos ou privados que promovam operações de reabilitação, conservação e restauro de bens culturais classificados ou em vias de classificação.
+
+r) Comunicar à Direção-Geral do Tesouro e Finanças (DGTF), no final de cada trimestre, a aprovação e a realização de operações de reabilitação, conservação e restauro de imóveis classificados propriedade do Estado.
+
+2 - Compete, ainda, à comissão diretiva assegurar a gestão dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência e de outros investimentos que sejam qualificados como urgentes, devendo designadamente:
+
+a) Nos termos do disposto nos n.os 3 e 4 da Resolução do Conselho de Ministros n.º 49/2021, de 11 de maio, e considerando a qualidade de beneficiário intermediário do Fundo de Salvaguarda a que se refere o Decreto-Lei n.º 29-B/2021, de 4 de maio, gerir a operacionalização dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência, bem como de outros investimentos que sejam qualificados como urgentes nos termos do disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 138/2009, de 15 de junho, na redação que lhe foi dada pelo Decreto-Lei n.º 42/2021, de 7 de junho;
+
+b) Celebrar os contratos necessários à operacionalização dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência, designadamente os contratos cujas contrapartes são a Estrutura de Missão 'Recuperar Portugal' e os beneficiários finais a que se refere o Decreto-Lei n.º 29-B/2021, de 4 de maio, no âmbito do modelo de governação do Plano de Recuperação e Resiliência, e monitorizar a respetiva execução.

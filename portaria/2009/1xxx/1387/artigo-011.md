@@ -8,4 +8,4 @@
 
 3 - As condições de atribuição do financiamento pelo Fundo de Salvaguarda, bem como os demais direitos e obrigações das partes, constituem o objecto do contrato de financiamento.
 
-4 - A execução do contrato de financiamento, no caso de obras ou intervenções em bens culturais classificados, ou em vias de classificação, depende da celebração dos contratos necessários à realização daquelas.
+4 - Com exceção dos projetos financiados através do Plano de Recuperação e Resiliência, a execução do contrato de financiamento, no caso de obras ou intervenções em bens culturais classificados, ou em vias de classificação, depende da celebração dos contratos necessários à realização daquelas.

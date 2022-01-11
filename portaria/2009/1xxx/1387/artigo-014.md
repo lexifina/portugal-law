@@ -2,7 +2,7 @@
 
 ### Acompanhamento e fiscalização
 
-1 - Sem prejuízo do disposto no artigo 12.º, compete à administração do património cultural competente o acompanhamento e fiscalização das obras ou intervenções realizadas no âmbito do presente Regulamento, designadamente:
+1 - Cabe à administração do património cultural competente o acompanhamento e fiscalização das obras ou intervenções realizadas no âmbito do presente Regulamento, designadamente:
 
 a) Aferir do cumprimento do projecto de execução de obra ou intervenção no bem cultural;
 
