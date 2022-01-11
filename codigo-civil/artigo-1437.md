@@ -1,9 +1,9 @@
 # Artigo 1437.º
 
-### (Legitimidade do administrador)
+### Representação do condomínio em juízo
 
-1. O administrador tem legitimidade para agir em juízo, quer contra qualquer dos condóminos, quer contra terceiro, na execução das funções que lhe pertencem ou quando autorizado pela assembleia.
+1 - O condomínio é sempre representado em juízo pelo seu administrador, devendo demandar e ser demandado em nome daquele.
 
-2. O administrador pode também ser demandado nas acções respeitantes às partes comuns do edifício.
+2 - O administrador age em juízo no exercício das funções que lhe competem, como representante da universalidade dos condóminos ou quando expressamente mandatado pela assembleia de condóminos.
 
-3. Exceptuam-se as acções relativas a questões de propriedade ou posse dos bens comuns, salvo se a assembleia atribuir para o efeito poderes especiais ao administrador.
+3 - A apresentação pelo administrador de queixas-crime relacionadas com as partes comuns não carece de autorização da assembleia de condóminos.
