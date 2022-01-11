@@ -1,0 +1,9 @@
+Declaração de Retificação n.º 2/2022
+Sumário: Retifica a Portaria n.º 314/2021, de 22 de dezembro, que procede à 5.ª alteração da Portaria n.º 82-C/2020, de 31 de março, que criou a medida Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde.
+Nos termos da alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 20/2021, de 15 de março, conjugada com o disposto no n.º 1 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, e nos artigos 5.º e 6.º da Lei n.º 74/98, de 11 de novembro, na sua redação atual, declara-se que a Portaria n.º 314/2021, de 22 de dezembro, publicada no Diário da República, 1.ª série, n.º 246, saiu com inexatidões que, mediante declaração da entidade emitente, a seguir se retificam:
+1 - No n.º 1 do artigo 3.º, onde se lê:
+«1 - A presente portaria aplica-se às candidaturas aprovadas após a sua entrada em vigor, bem como aos projetos em execução, que podem ser prorrogados com efeitos até à data de cessação da produção de efeitos da Portaria n.º 82-C/2020, de 31 de março, na redação dada pela presente portaria, ainda que sejam ultrapassados os limites previstos no n.º 4 do seu artigo 1.º e no n.º 2 do artigo 3.º da Portaria n.º 128/2021, de 24 de junho.»
+deve ler-se:
+«1 - A presente portaria aplica-se às candidaturas aprovadas após a sua entrada em vigor, bem como aos projetos em execução, que podem ser prorrogados com efeitos até à data de cessação da produção de efeitos da Portaria n.º 82-C/2020, de 31 de março, na redação dada pela presente portaria, ainda que sejam ultrapassados os limites previstos no n.º 4 do seu artigo 2.º e no n.º 2 do artigo 3.º da Portaria n.º 128/2021, de 24 de junho.»
+Secretaria-Geral, 5 de janeiro de 2022. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+114873718
