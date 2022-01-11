@@ -30,7 +30,7 @@ vii) As relacionadas com a segurança de barragens, açudes de derivação, açu
 
 viii) As relacionadas com o cumprimento dos caudais ecológicos e com a promoção do continuum fluvial.
 
-3 - Construções associadas ao funcionamento e gestão dos aproveitamentos hidroagrícolas, nomeadamente de edifícios para o funcionamento das respetivas entidades gestoras;
+3 - Construção e equipamento de edifícios sede de associações de regantes ou de beneficiários, de aproveitamentos hidroagrícolas já em exploração.
 
 4 - Ações de estruturação fundiária, incluindo indemnizações por perda de rendimento e demarcação de novos lotes;
 
