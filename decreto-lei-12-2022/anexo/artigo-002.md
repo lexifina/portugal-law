@@ -1,0 +1,31 @@
+# Artigo 2.º
+
+### Objeto
+
+1 - As sociedades de garantia mútua podem realizar as operações e prestar os serviços seguintes:
+
+a) Concessão de garantias destinadas a assegurar o cumprimento de obrigações contraídas por acionistas beneficiários ou por outras pessoas jurídicas, singulares ou coletivas, não acionistas, no âmbito de operações de garantia de carteira nos termos do n.º 2, designadamente garantias acessórias de contratos de mútuo;
+
+b) Promoção, em favor dos acionistas beneficiários, da obtenção de recursos financeiros junto de instituições de crédito ou de outras instituições financeiras, nacionais ou estrangeiras;
+
+c) Participação na colocação, em mercado primário ou em mercado secundário, de ações, obrigações ou de quaisquer outros valores mobiliários, bem como de títulos de crédito emitidos nos termos do Decreto-Lei n.º 181/92, de 22 de agosto, desde que a entidade emitente seja acionista beneficiário ou se encontrem previstos no n.º 2, e prestação de serviços correlativos;
+
+d) Prestação de serviços de consultoria de empresas, aos acionistas beneficiários, em áreas associadas à gestão financeira, designadamente em matéria de estrutura do capital, de estratégia empresarial e de questões conexas, bem como no domínio da fusão, cisão e compra ou venda de empresas.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, a concessão de garantias de carteira a linhas de crédito especiais, designadamente para microcréditos e para empréstimos a estudantes do ensino superior, bolseiros de doutoramento e pós-doutoramento e investigadores, depende do reconhecimento, pelas sociedades de garantia mútua e pela sociedade gestora do Fundo de Contragarantia Mútuo, do seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação e destinam-se a assegurar o cumprimento das obrigações assumidas por essas pessoas jurídicas, sejam singulares ou coletivas, junto das entidades que disponibilizem as referidas linhas de crédito especiais.
+
+3 - Para além dos valores mobiliários emitidos pelos acionistas beneficiários, as sociedades de garantia mútua podem participar na colocação de valores mobiliários que, nos termos das respetivas condições de emissão, confiram direito à subscrição, sejam convertíveis ou permutáveis por ações representativas do capital social de acionistas beneficiários.
+
+4 - As sociedades de garantia mútua não podem tomar firme, total ou parcialmente, colocações de valores mobiliários em que participem, só podendo adquirir para carteira própria os valores mobiliários referidos no n.º 5 do artigo 229.º do Código dos Valores Mobiliários e, de acordo com as regras que venham a ser estabelecidas pelo Banco de Portugal, outros que este autorize.
+
+5 - As sociedades de garantia mútua só podem realizar operações e prestar serviços em benefício de acionistas beneficiários, para o desenvolvimento das respetivas atividades económicas.
+
+6 - Excetua-se do disposto no número anterior as seguintes operações:
+
+a) Garantias enquadráveis no n.º 2;
+
+b) Garantias emitidas em benefício de micro, pequenas e médias empresas não acionistas, no âmbito de acordos com outras entidades ou sistemas de garantia fora do território nacional.
+
+7 - As entidades que disponibilizem as linhas de crédito especiais previstas no n.º 2 devem assegurar, previamente à contratação das linhas de crédito, a condição de acionista promotor da sociedade de garantia mútua.
+
+8 - É assegurado, na contratação das garantias de carteira previstas no n.º 2, que o acionista promotor afete à linha de crédito uma parte da sua participação no capital social da sociedade de garantia mútua, sobre a qual é constituído penhor, em benefício da sociedade de garantia mútua, como contrapartida da garantia prestada por essa sociedade, em número de ações e nos termos que venham a ser fixados pelo conselho geral do Fundo de Contragarantia Mútuo, podendo aquela executar o penhor, adjudicando a si o respetivo valor de emissão ou vendendo-as extrajudicialmente.
