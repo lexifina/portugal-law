@@ -20,10 +20,12 @@ e) Evitar a formação de poeiras ou, quando tal não seja possível, impedir a 
 
 f) Privilegiar a utilização de equipamentos com baixo nível de emissão sonora;
 
-g) Sem prejuízo da comunicação às entidades competentes em matéria do património cultural, comunicar à DGEG eventuais achados;
+g) Comunicar às entidades competentes em matéria de património cultural eventuais achados arqueológicos, dando conhecimento à DGEG;
 
 h) Assegurar que os furos de sondagens são cimentados ou, caso não se verifiquem riscos de contaminação de aquíferos, selados de acordo com as orientações da APA;
 
 i) Adotar medidas preventivas adequadas ao contexto hidrogeológico do local, tendo em consideração a sua vulnerabilidade e a sua potencial utilização, aprovadas pela DGEG;
 
 j) Conservar o solo de cobertura retirado das escavações separadamente e em condições que permitam a sua reutilização paisagística.
+
+k) Desenvolver um plano de eficiência energética da exploração, visando a minimização de consumos, a integração de tecnologias de produção renovável de eletricidade e a adoção de medidas de mitigação de emissões de gases com efeito de estufa.

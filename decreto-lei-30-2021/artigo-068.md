@@ -12,7 +12,7 @@
 
 3 - A DGEG pode determinar a adoção de medidas ou a execução de trabalhos com vista a salvaguardar, preventivamente, ocorrências negativas à atividade mineira, para a saúde, segurança, ambiente e recuperação paisagística, estabelecendo os respetivos prazos de cumprimento.
 
-4 - A DGEG pode determinar a suspensão do exercício dos direitos de revelação ou aproveitamento de recursos geológicos sempre que exista perigo grave para a saúde pública, ambiente, segurança de pessoas e bens e para a salvaguarda dos depósitos minerais.
+4 - A DGEG pode determinar a suspensão do exercício dos direitos de revelação ou aproveitamento de recursos geológicos sempre que exista perigo grave para a saúde pública, ambiente, segurança de pessoas e bens e para a salvaguarda dos depósitos minerais e de achados arqueológicos ou geológicos de valor científico que sejam detetados.
 
 5 - Sem prejuízo das competências gerais de fiscalização cometidas a outras entidades, compete à DGEG, enquanto autoridade pública administrativa no domínio do património geológico e dos recursos geológicos, fiscalizar o cumprimento do disposto no presente decreto-lei.
 

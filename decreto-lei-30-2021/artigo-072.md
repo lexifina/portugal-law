@@ -4,10 +4,14 @@
 
 1 - O produto das coimas aplicadas pela prática das contraordenações previstas no artigo 69.º é distribuído da seguinte forma:
 
-a) 60 % para os cofres do Estado;
+a) 25 % para os cofres do Estado;
 
-b) 10 % para a entidade autuante;
+b) 25 % para os municípios onde ocorram as contraordenações;
 
-c) 30 % para a DGEG.
+c) 25 % para a DGEG;
+
+d) 20 % para o Fundo dos Recursos Geológicos;
+
+e) 5 % para a entidade autuante.
 
 2 - O produto das coimas aplicadas pela prática das contraordenações ambientais previstas no artigo 70.º é distribuído nos termos do artigo 73.º da Lei-Quadro das contraordenações ambientais.

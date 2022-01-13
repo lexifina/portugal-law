@@ -12,7 +12,7 @@ a) A proposta de atribuição de direitos de avaliação prévia, de direitos de
 
 b) A proposta de adoção de processo concursal, da iniciativa da DGEG ou do membro do Governo responsável pela área da geologia.
 
-4 - A DGEG está sujeita ao dever de ponderação das propostas apresentadas no âmbito da decisão a proferir ou a propor.
+4 - A DGEG está sujeita ao dever de ponderação das propostas apresentadas no âmbito da decisão a proferir ou a propor, elaborando para o efeito um relatório relativo ao processo de participação pública.
 
 5 - A abertura da participação pública e o prazo de duração da mesma são estabelecidos pela DGEG no portal Participa.pt.
 
@@ -26,7 +26,7 @@ b) A atribuição de concessão de exploração.
 
 8 - Nos casos referidos na alínea b) do n.º 6, a participação pública, o seu prazo, o local onde podem ser consultados os elementos informativos e a indicação do meio informático adequado para a receção das participações são ainda publicitados pelo requerente em dois jornais, um de circulação nacional e outro de circulação regional.
 
-9 - Em todos os casos de atribuição de direitos de prospeção e pesquisa e de atribuição de concessão de exploração, o requerente promove, em cada município abrangido, pelo menos, uma sessão pública de esclarecimento, dirigida essencialmente às populações dos territórios abrangidos pela pretensão, que é publicitada, com a antecedência mínima de 20 dias, em dois jornais, um de circulação nacional e outro de circulação regional, e nos sítios na Internet do município e da DGEG.
+9 - Em todos os casos de atribuição de direitos de prospeção e pesquisa e de atribuição de concessão de exploração, o requerente promove, em cada município e freguesia abrangidos, pelo menos, uma sessão pública de esclarecimento, dirigida essencialmente às populações dos territórios abrangidos pela pretensão, que é publicitada, com a antecedência mínima de 20 dias, em dois jornais, um de circulação nacional e outro de circulação regional, e nos sítios da Internet do município e da DGEG.
 
 10 - As sessões públicas de esclarecimento não excluem a promoção de outros mecanismos de esclarecimento e informação que o requerente pretenda realizar.
 

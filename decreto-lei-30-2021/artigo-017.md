@@ -2,7 +2,7 @@
 
 ### Instrução do procedimento concursal
 
-1 - A DGEG elabora uma proposta de áreas a submeter a procedimento concursal devendo, sempre que possível, excluir do seu âmbito as áreas protegidas de âmbito nacional, as áreas classificadas ao abrigo de instrumento de direito internacional e as áreas incluídas na Rede Natura 2000.
+1 - A DGEG elabora uma proposta de áreas a submeter a procedimento concursal, excluindo do seu âmbito as áreas que integrem a Rede Nacional de Áreas Protegidas, as áreas incluídas na Rede Natura 2000 e as áreas classificadas ao abrigo de instrumentos de direito internacional, tais como as reservas da biosfera, os sítios Ramsar, os sítios inscritos na Lista de Património Mundial da UNESCO e os sítios importantes do Património Agrícola Mundial da FAC.
 
 2 - A proposta de áreas a submeter a procedimento concursal e informação relevante são submetidas a consulta obrigatória das entidades previstas no n.º 2 do artigo 14.º, seguindo-se os procedimentos estabelecidos nos n.os 4 a 7 e 9 do mesmo artigo, com as necessárias adaptações.
 

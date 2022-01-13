@@ -9,3 +9,5 @@
 3 - Na falta de acordo entre alguns dos concessionários envolvidos, podem os respetivos contratos ser extintos, por resgate das correspondentes concessões.
 
 4 - O encargo resultante das indemnizações devidas pelo resgate é transferido para o novo concessionário, sem prejuízo da responsabilidade assumida pelo Estado por força do mesmo resgate.
+
+5 - Definida a área da nova concessão, a DGEG promove a consulta da autoridade de avaliação de impacte ambiental para aferir da necessidade de realização do respetivo procedimento.
