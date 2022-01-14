@@ -1,3 +1,19 @@
+## Secção IV
+
+## Medidas educativas
+
+## Secção V
+
+## Modalidades específicas de educação
+
+## Capítulo III
+
+## Transição para a vida adulta e reabilitação
+
+## Secção I
+
+## Estruturas que asseguram a transição para a vida adulta
+
 ## Secção II
 
 ## Pré-profissionalização
