@@ -1,0 +1,11 @@
+Aviso n.º 1146/2022
+Sumário: Revogação do Plano de Pormenor da Área Poente do Fundão
+Revogação do Plano de Pormenor da Área Poente do Fundão
+Paulo Alexandre Bernardo Fernandes, Presidente da Câmara Municipal do Fundão, torna público, nos termos da alínea j) do n.º 4 do artigo 191.º, por remissão do n.º 3 do artigo 127.º, ambos do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, em articulação com o artigo 56.º do Regime Jurídico das Autarquias Locais (RJAL), aprovado pela Lei n.º 75/2013, de 12 de setembro, que a Assembleia Municipal do Fundão deliberou, por unanimidade, na sua sessão ordinária realizada a 20 de dezembro de 2021, sob proposta da Câmara Municipal, aprovada na sua reunião realizada a 29 de novembro de 2021, proceder à revogação do Plano de Pormenor da Área Poente do Fundão, publicado no Diário da República n.º 122, 2.ª série, de 28 de maio de 1991.
+Mais se informa que, nos termos do n.º 2 dos artigos 192.º e 193.º do RJIGT, a documentação referente a este procedimento de revogação poderá ser consultada no sítio da internet da Câmara Municipal do Fundão (www.cm-fundao.pt).
+3 de janeiro de 2022. - O Presidente da Câmara Municipal, Paulo Alexandre Bernardo Fernandes.
+Deliberação
+Carlos Manuel Faia São Martinho Gomes, Presidente da Assembleia Municipal do Fundão, certifica, ao abrigo do disposto no artigo 127.º conjugado com o n.º 1 do artigo 90.º, ambos do Decreto-Lei n.º 80/2015, de 14 de maio, que aprova o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), que na sessão da Assembleia Municipal realizada no dia 20 de dezembro de 2021, deliberou, por unanimidade, aprovar a proposta da Câmara Municipal do Fundão, em sua deliberação de 29 de novembro de 2021, cujo teor se dá por transcrito e, em consequência, aprovar a proposta de revogação do Plano de Pormenor da Área Poente do Fundão.
+Por ser verdade, se lavrou a presente certidão para ser junta ao processo administrativo, tendo a deliberação sido aprovada em minuta para produzir efeitos imediatos, nos termos e com os fundamentos previstos nos n.os 3 e 4 do artigo 57.º da Lei n.º 75/2013, de 12 de setembro, que estabelece o Regime Jurídico das Autarquias Locais (RJAL),
+3 de janeiro de 2022. - O Presidente da Assembleia Municipal, Carlos Manuel Faia São Martinho Gomes.
+614873475
