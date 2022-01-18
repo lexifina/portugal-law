@@ -20,4 +20,6 @@ g) Inspeção Regional de Pescas, unidade orgânica da Direção Regional de Pes
 
 h) Inspeção Regional de Agricultura, unidade orgânica da Direção Regional de Agricultura.
 
+i) Direção Regional do Turismo, relativamente às unidades orgânicas com funções inspetivas.
+
 2 - As carreiras de inspecção de serviços diferentes dos elencados no número anterior são regulamentadas por diploma próprio, mantendo-se os actuais regimes até à sua revisão, a qual deve obedecer, com as necessárias adaptações, aos princípios constantes do Decreto-Lei n.º 170/2009, de 3 de Agosto, e do presente diploma.
