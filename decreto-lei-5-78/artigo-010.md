@@ -1,6 +1,6 @@
 # Artigo 10.º
 
-As classes organizam-se em secções. As secções académicas são as seguintes:
+As classes agrupam-se em secções. As secções académicas são as seguintes:
 
 Classe de Ciências:
 
@@ -14,7 +14,13 @@ Classe de Ciências:
 
 5.ª Secção - Ciências Médicas;
 
-6.ª Secção - Ciências Aplicadas e História das Ciências.
+6.ª secção - Ciências Médicas e da Saúde;
+
+7.ª secção - Ciências da Engenharia;
+
+8.ª secção - Ciências e Tecnologias da Informação;
+
+9.ª secção - Tecnologias, Conhecimento e Sociedade;
 
 Classe de Letras:
 
@@ -24,8 +30,14 @@ Classe de Letras:
 
 3.ª Secção - Filosofia e Pedagogia;
 
-4.ª Secção - História e Geografia;
+4.ª secção - História;
 
-5.ª Secção - Direito e Sociologia;
+5.ª secção - Direito;
 
 6.ª Secção - Economia Política.
+
+7.ª secção - Ciências Sociais e Políticas;
+
+8.ª secção - Geografia e Ordenamento do Território;
+
+9.ª secção - Comunicação e Artes.

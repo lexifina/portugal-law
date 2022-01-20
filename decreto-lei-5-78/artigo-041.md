@@ -1,3 +1,3 @@
 # Artigo 41.º
 
-Os sócios correspondentes de nacionalidade brasileira, quando se encontrarem em território português, gozarão de direitos iguais aos dos sócios efectivos, não se contando, porém, a sua presença nas sessões a que comparecerem para efeitos de quórum.
+Os sócios correspondentes estrangeiros, quando se encontrem em território português, gozam de direitos iguais aos dos sócios correspondentes, não contando, porém, a sua presença para efeitos de quórum nas sessões em que comparecerem.

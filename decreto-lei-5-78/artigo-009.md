@@ -1,3 +1,3 @@
 # Artigo 9.º
 
-Cada uma das classes académicas é constituída pelo número de sócios efectivos (ou de número) e de sócios correspondentes, distribuídos pelas secções, nos termos, respectivamente, dos artigos 10.º, 28.º e 29.º, e ainda por sócios correspondentes estrangeiros, até ao limite de 70, não sendo o seu número limitado por secção.
+Cada uma das classes académicas é constituída por sócios eméritos, sócios efetivos (ou de número), sócios correspondentes e sócios supranumerários, distribuídos pelas secções, nos termos, respetivamente, dos artigos 10.º e 28.º, e ainda por sócios correspondentes estrangeiros, em número não limitado por secções e não superior a metade do total dos sócios correspondentes da respetiva classe.
