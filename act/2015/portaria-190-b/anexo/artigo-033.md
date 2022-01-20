@@ -18,15 +18,17 @@ c) Cumpram com os princípios da economia, eficiência e eficácia e da relaçã
 
 5 - Em função do tipo de operação a apoiar são elegíveis, designadamente as seguintes despesas:
 
-a) As despesas com a aquisição de alimentos ou de bens de primeira necessidade.
+a) As despesas com a aquisição de alimentos e/ou de bens de primeira necessidade nos termos definidos nas Medidas 1 e 3;
 
 b) As despesas de transporte de alimentos e os custos de armazenagem, desde que realizados, no âmbito de operações de aquisição de alimentos ou de bens de primeira necessidade, por organismos públicos que os fornecem a organizações parceiras, a uma taxa fixa de 1 % dos encargos suportados com a aquisição desses géneros alimentares ou desses bens de primeira necessidade;
 
-c) As despesas administrativas, de transporte e de armazenamento realizados por organizações parceiras a uma taxa fixa de 5 % do valor de aquisição dos géneros alimentares ou dos bens de primeira necessidade;
+c) As despesas administrativas, de transporte e de armazenamento, bem como de preparação da distribuição indireta, através da atribuição de cartões eletrónicos, realizadas por organizações parceiras a uma taxa fixa de 5 % do valor de aquisição dos géneros alimentares e/ou dos bens de primeira necessidade;
 
-d) As despesas das medidas de acompanhamento, realizadas, no âmbito de operações de distribuição de alimentos ou de bens de primeira necessidade, por organizações parceiras a uma taxa fixa de 5 % do valor de aquisição dos géneros alimentares ou dos bens de primeira necessidade.
+d) As despesas das medidas de acompanhamento, realizadas, no âmbito de operações de distribuição direta ou indireta, através de cartões em formato eletrónico, de alimentos ou de bens de primeira necessidade, por organizações parceiras a uma taxa fixa de 5 % do valor de aquisição dos géneros alimentares e/ou dos bens de primeira necessidade;
 
-6 - As taxas referidas nas alíneas b), c) e d) do número anterior aplicam-se sobre valores de aquisição dos géneros alimentares ou dos bens de primeira necessidade.
+e) As despesas de elaboração, desenvolvimento e funcionamento do sistema de cartões eletrónicos.
+
+6 - As taxas referidas nas alíneas b), c) e d) do número anterior aplicam-se sobre valores de aquisição dos géneros alimentares ou dos bens de primeira necessidade, nos termos definidos nas Medidas 1 e 3.
 
 7 - Quando a redução da despesa elegível associada à aquisição dos géneros alimentares ou dos bens de primeira necessidade, prevista na alínea a) do n.º 5, se dever ao incumprimento do direito aplicável, por parte do organismo responsável pela aquisição de alimentos e/ou pela assistência material de base, não dá origem à redução das despesas elegíveis que resultam da aplicação da taxa fixa referida nas alíneas c) e d) do mesmo número realizada pelos organismos aí referidos.
 

@@ -36,6 +36,6 @@ i) Elaborar um auto, devidamente assinado pelos responsáveis da entidade, para 
 
 j) Desenvolver medidas de acompanhamento com vista à inclusão social dos destinatários finais;
 
-k) Indicar a medida mais adequada a cada um dos destinatários finais registados na sua lista, de acordo com as respetivas caraterísticas, nos termos definidos no n.º 6 do artigo 45.º
+k) Indicar a medida mais adequada a cada um dos destinatários finais registados na sua lista, de acordo com as respetivas caraterísticas, nos termos definidos no n.º 7 do artigo 45.º
 
 2 - A distribuição prevista na alínea g) do número anterior pode ser efetuada de forma a corresponder às necessidades de consumo e capacidade de armazenamento dos destinatários finais.

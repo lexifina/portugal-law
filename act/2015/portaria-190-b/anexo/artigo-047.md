@@ -14,6 +14,6 @@
 
 6 - As alterações que não carecem de decisão expressa da autoridade de gestão consideram-se tacitamente aprovadas no prazo de 30 dias úteis a contar da data de receção da comunicação.
 
-7 - A natureza das alterações que se enquadram nos n.os 3 e 6 do presente artigo encontra-se definida nos artigos 54.º e 67.º
+7 - A natureza das alterações que se enquadram nos n.os 3 e 6 do presente artigo encontra-se definida nos artigos 54.º, 67.º e 85.º-M.
 
 8 - Sem prejuízo do disposto nos números anteriores, quando, em candidaturas plurianuais, não haja execução integral do financiamento aprovado para o ano civil, as verbas não executadas transitam automaticamente para o ano civil seguinte.

@@ -2,7 +2,7 @@
 
 ### Modalidade de apresentação de candidaturas
 
-1 - A apresentação de candidaturas a apoio no âmbito do FEAC é feita, por regra, através de procedimento concursal, só sendo admitida a apresentação por convite em casos excecionais devidamente justificados, nos termos dos artigos 52.º e 60.º-A, do regulamento específico.
+1 - A apresentação de candidaturas a apoio no âmbito do FEAC é feita, por regra, através de procedimento concursal, sendo admitida a apresentação por convite no caso dos artigos 52.º, n.º 5 do artigo 61.º, 85.º-D e n.º 5 do artigo 85.º-I e em casos excecionais, devidamente justificados, nos termos dos artigos 60.º-A e n.º 3 do artigo 85.º-K do regulamento específico.
 
 2 - O regulamento específico do POAPMC define as situações de apresentação obrigatória de candidaturas em parceria.
 
