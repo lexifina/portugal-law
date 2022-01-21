@@ -1,0 +1,8 @@
+Aviso n.º 1413/2022
+Sumário: Projeto de Regulamento do Centro de Bem-Estar Animal de Pinhel.
+Projeto de Regulamento do Centro de Bem-Estar Animal de Pinhel
+Rui Manuel Saraiva Ventura, Presidente da Câmara Municipal de Pinhel, torna público ao abrigo das competências que lhe são conferidas pela alínea f) do n.º 1, artigo 35.º do anexo I, Lei n.º 75/2013, de 12 de setembro e para efeito do disposto no artigo n.º 101 do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro e em cumprimento da Lei n.º 27/2016, de 23 de agosto, que se encontra em fase de apreciação pública, o Projeto de Regulamento do Centro de Bem-Estar Animal de Pinhel, aprovado em reunião ordinária da Câmara Municipal de Pinhel realizada a 30 de dezembro de 2021.
+O Projeto de Regulamento está disponível, nas horas normais de expediente, na loja do Munícipe desta Câmara Municipal de Pinhel e no sítio do Município em (www.cm-pinhel.pt) para efeitos de recolha de sugestões de todos os interessados.
+A apresentação de sugestões, informações, sobre quaisquer questões que possam ser consideradas relevantes no âmbito do respetivo procedimento de elaboração, deverão ser formuladas por escrito e enviadas à Câmara Municipal de Pinhel, dirigidas ao Presidente da Câmara, para a morada de - Município de Pinhel, Largo Ministro Duarte Pacheco n.º 8 - 6400-358 Pinhel, ou para o e-mail - cm-pinhel@cm-pinhel.pt, durante os 30 dias subsequentes à publicação do presente aviso na 2.ª série do Diário da República.
+4 de janeiro de 2022. - O Presidente da Câmara, Rui Manuel Saraiva Ventura.
+314874139
