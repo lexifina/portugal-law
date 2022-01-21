@@ -1,0 +1,51 @@
+Portaria n.º 47/2022
+de 20 de janeiro
+Sumário: Procede à 8.ª alteração do Regulamento do Registo Comercial, aprovado em anexo à Portaria n.º 657-A/2006, de 29 de junho.
+O Regulamento do Registo Comercial, aprovado pela Portaria n.º 657-A/2006, de 29 de junho, prevê, no que respeita ao registo por transcrição, as menções que devem constar da matrícula, as menções gerais e especiais das inscrições, e ainda, as referências aos averbamentos e às anotações.
+O Programa do XXII Governo Constitucional estabelece como uma das suas prioridades fortalecer, simplificar e digitalizar a Administração, com o propósito de a tornar mais eficiente e facilitadora da vida dos cidadãos e das empresas, através do lançamento do Programa SIMPLEX+.
+Considerando a necessidade sentida por diversos operadores económicos de estabelecer um contacto célere com as sociedades ou outras entidades sujeitas a registo comercial ou com os seus representantes, importa criar condições para que, caso os interessados pretendam que essa informação conste do registo comercial, se possa disponibilizar os endereços de correio eletrónico daqueles nas certidões. De facto, com os meios tecnológicos ao dispor dos cidadãos e das empresas, com cada vez maiores solicitações que a estes são pedidas, são evidentes as vantagens do conhecimento e uso do correio eletrónico, mais expedito e com menos custos associados que a comunicação por via postal.
+Assim, considerando que a certidão permanente de registo comercial é um veículo eficaz de publicitação de informação, nomeadamente, sobre a sociedade e os seus órgãos de administração, torna-se relevante incorporar no registo informação sobre o correio eletrónico das entidades sujeitas a registo comercial e dos seus representantes para permitir que, quem com eles queira entrar em contacto, o possa fazer através do referido meio.
+Assim:
+Manda o Governo, pela Secretária de Estado da Justiça, ao abrigo do disposto no n.º 6 do artigo 53.º-A do Código do Registo Comercial, aprovado em anexo à Portaria n.º 657-A/2006, de 29 de junho, na sua redação atual, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria procede à 8.ª alteração do Regulamento do Registo Comercial, aprovado em anexo à Portaria n.º 657-A/2006, de 29 de junho, na sua redação atual.
+Artigo 2.º
+Alteração à Portaria n.º 657-A/2006, de 29 de junho
+Os artigos 8.º, 9.º e 14.º do anexo à Portaria n.º 657-A/2006, de 29 de junho, passam a ter a seguinte redação:
+«Artigo 8.º
+[...]
+1 - [...]
+2 - [...]
+3 - [...]
+4 - [...]
+5 - [...]
+6 - [...]
+7 - [...]
+8 - [...]
+9 - A matrícula deve conter ainda os endereços de correio eletrónico indicados pelos interessados, quando sejam facultados para que constem do registo.
+Artigo 9.º
+[...]
+1 - [...]
+a) [...]
+b) [...]
+c) [...]
+d) [...]
+2 - [...]
+3 - Devem constar do extrato da inscrição os endereços de correio eletrónico indicados pelos interessados, quando sejam facultados para que constem do registo.
+Artigo 14.º
+[...]
+1 - [...]
+a) [...]
+b) [...]
+c) Do nome ou denominação, da residência habitual, domicílio fiscal ou sede, com indicação de código de postal válido, do número de identificação fiscal e, quando facultado, do endereço de correio eletrónico do sujeito ativo do facto;
+d) [...]
+2 - [...]»
+Artigo 3.º
+Produção de efeitos
+A presente portaria produz efeitos a 1 de setembro de 2022.
+Artigo 4.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+A Secretária de Estado da Justiça, Anabela Damásio Caetano Pedroso, em 17 de janeiro de 2022.
+114909074
