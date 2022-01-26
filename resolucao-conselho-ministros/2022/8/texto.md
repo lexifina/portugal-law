@@ -1,0 +1,32 @@
+Resolução do Conselho de Ministros n.º 8/2022
+Sumário: Autoriza a Fundação para a Ciência e a Tecnologia, I. P., a realizar a despesa inerente à execução dos contratos a celebrar no âmbito da Biblioteca do Conhecimento Online.
+A Biblioteca do Conhecimento Online (b-on) proporciona à comunidade de ensino e investigação nacional, desde 2004, o acesso a um muito relevante acervo de conteúdos científicos, disponibilizados por algumas das mais reputadas editoras e titulares de bases de dados internacionais.
+O projeto b-on é, desde o seu início, promovido e dinamizado pelo Governo, sendo gerido pela Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), a qual, entre outros aspetos, é responsável pela condução dos processos aquisitivos dos conteúdos disponibilizados à comunidade de ensino e investigação. A agregação da procura realizada através de uma compra centralizada destes conteúdos cria economias de escala, geradoras de poupanças significativas.
+Tendo terminado a vigência dos contratos com os fornecedores de conteúdos no final do ano transato, importa assegurar a continuidade deste projeto, durante o triénio de 2022-2024.
+Prevê-se que na vigência dos contratos a celebrar sejam realizados acima de 40 000 000,00 de downloads de conteúdos disponibilizados pelos fornecedores de conteúdos da b-on, o que atesta a relevância do projeto b-on para o desenvolvimento da atividade académica e científica da comunidade de docentes, investigadores e alunos que integram as instituições utilizadoras da mesma. Este número de downloads representa um aumento de 36 % em relação ao número registado na vigência dos contratos anteriores, que se explica, não só pelo aumento de conteúdos disponibilizados através dos contratos b-on, como também pela melhor acessibilidade a conteúdos, designadamente via autenticação federada, assim como pelo crescimento da própria b-on, através da entrada de novos membros e subscrição de conteúdos adicionais suportados a 100 % pelas instituições.
+Com os contratos a celebrar, a b-on entra num novo ciclo. Acompanhando o movimento internacional no sentido de promover a publicação em acesso aberto, os referidos contratos passarão a contemplar, não apenas a possibilidade de acesso a um conjunto muito relevante de publicações científicas de grande prestígio, mas também a possibilidade de publicação em acesso aberto de artigos de autores afiliados a instituições integradas na b-on, estimando-se uma cobertura de perto de 60 % do output científico das instituições que constituem a b-on. Dessa forma promove-se uma muito maior disseminação da ciência e dá-se uma visibilidade acrescida à ciência produzida em Portugal.
+Neste contexto, a presente resolução visa autorizar a FCT, I. P., a realizar a despesa inerente à execução dos contratos a celebrar com os fornecedores de conteúdos, no âmbito da b-on, para o triénio 2022-2024.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), a realizar a despesa inerente à execução dos contratos a celebrar com os fornecedores de conteúdos no âmbito do projeto Biblioteca do Conhecimento Online (b-on) Association for Computing Machinery, American Chemical Society, American Institute of Physics, Annual Reviews, Clarivate Analytics Ltd, EBSCO, Elsevier, Emerald Group Publishing, IEEE, Institute of Physics Publishing, Royal Society of Chemistry, Sage, Society for Industrial and Applied Mathematics, Springer Nature Customer Service Center GmbH, Taylor & Francis Group, Wiley, para o triénio 2022-2024, até ao montante global de (euro) 42 096 531,00, a que acresce o IVA à taxa legal em vigor.
+2 - Determinar que o montante global referido no número anterior não pode exceder, em cada ano económico, os seguintes valores, aos quais acresce o IVA à taxa legal em vigor:
+a) 2022: (euro) 13 755 238,00;
+b) 2023: (euro) 14 030 343,00;
+c) 2024: (euro) 14 310 950,00.
+3 - Determinar que os encargos financeiros decorrentes da presente resolução são suportados da seguinte forma:
+a) Em 2022, por verbas a inscrever no orçamento da FCT, I. P., no valor de:
+i) (euro) 12 319 143,00, provenientes do Orçamento do Estado;
+ii) (euro) 1 436 095,00, correspondente a receitas próprias cobradas pela FCT, I. P., no âmbito da prestação de serviços a entidades terceiras;
+b) Em 2023, por verbas a inscrever no orçamento da FCT, I. P., no valor de:
+i) (euro) 12 557 615,00, provenientes do Orçamento do Estado;
+ii) (euro) 1 472 728,00, correspondente a receitas próprias cobradas pela FCT, I. P., no âmbito da prestação de serviços a entidades terceiras;
+c) Em 2024, por verbas a inscrever no orçamento da FCT, I. P., no valor de:
+i) (euro) 12 803 757,00, provenientes do Orçamento do Estado;
+ii) (euro) 1 507 193,00, correspondente a receitas próprias cobradas pela FCT, I. P., no âmbito da prestação de serviços a entidades terceiras.
+4 - Estabelecer que o montante fixado nos n.os 2 e 3 pode ser acrescido do saldo apurado no ano que lhe antecede.
+5 - Autorizar a FCT, I. P., a realizar a despesa decorrente da eventual adesão de novas instituições ao projeto b-on, bem como de aquisição de conteúdos adicionais cujos custos sejam suportados integralmente pelas instituições que deles pretenderem beneficiar.
+6 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da ciência a competência para a prática de todos os atos subsequentes no âmbito da presente resolução.
+7 - Mandatar o membro do Governo responsável pela área da ciência para, através da FCT, I. P., acompanhar, monitorizar e avaliar a execução dos contratos referidos na presente resolução.
+8 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 20 de janeiro de 2022. - Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+114938007
