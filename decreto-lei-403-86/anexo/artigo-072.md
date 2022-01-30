@@ -6,9 +6,9 @@
 
 2 - A publicação do contrato ou do estatuto por que se rege a pessoa colectiva, bem como das respectivas alterações, é efectuada nos termos do número anterior, com a menção especial do depósito do texto actualizado do contrato ou estatuto.
 
-3 - Os documentos de prestação de contas das sociedades abertas que não tenham valores mobiliários admitidos à negociação em mercado regulamentado e a acta de encerramento da liquidação destas sociedades são publicados integralmente.
+3 - (Revogado.)
 
-4 - A publicação da informação constante dos documentos de prestação de contas de outras sociedades que não as referidas no número anterior não inclui a certificação legal das contas, mas é nelas divulgado:
+4 - A publicação da informação constante dos documentos de prestação de contas das sociedades não inclui a certificação legal das contas, mas é nelas divulgado:
 
 a) Se o parecer de revisão traduz uma opinião sem reservas ou com reservas, se é emitida uma opinião adversa ou se o revisor oficial de contas não está em condições de exprimir uma opinião de revisão;
 
