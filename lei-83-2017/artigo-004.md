@@ -89,3 +89,11 @@ a) São notificadas pelo Governo à Comissão Europeia, conjuntamente com a aval
 b) São objeto de um acompanhamento regular e baseado no risco, através da adoção de medidas, a especificar na portaria referida no número anterior, que se mostrem adequadas a assegurar que tais isenções não são utilizadas abusivamente para fins de branqueamento de capitais e de financiamento do terrorismo;
 
 c) São objeto de imediata revogação, sempre que se verifique um agravamento do risco de branqueamento de capitais e de financiamento de terrorismo que esteve na base da concessão da isenção.
+
+6 - Para efeitos da alínea o) do n.º 1, considera-se que exercem atividade em território nacional as seguintes pessoas ou entidades:
+
+a) As pessoas coletivas ou entidades equiparadas a pessoas coletivas constituídas em Portugal para o exercício de atividades com ativos virtuais;
+
+b) As pessoas singulares, as pessoas coletivas e outras entidades com domicílio em Portugal que exerçam atividades com ativos virtuais ou que disponham de estabelecimento situado em território português através do qual exerçam atividades com ativos virtuais;
+
+c) As demais pessoas singulares ou entidades que, em razão do exercício de atividades com ativos virtuais, devam apresentar declaração de início de atividade junto da Autoridade Tributária e Aduaneira.

@@ -102,7 +102,7 @@ w) 'Membros próximos da família':
 
 i) O cônjuge ou unido de facto de pessoa politicamente exposta;
 
-ii) Os parentes e afins em 1.º grau, na linha reta ou na linha colateral, da pessoa politicamente exposta;
+ii) Os parentes e afins até ao 2.º grau, na linha reta ou na linha colateral, da pessoa politicamente exposta;
 
 iii) Os unidos de facto dos parentes da pessoa politicamente exposta referidos na subalínea anterior, na medida em que não beneficiam do estatuto de afinidade;
 
@@ -158,11 +158,7 @@ ee) «Relação de correspondência», a prestação de serviços por banco, ent
 
 ff) «Relação de negócio», qualquer relação de natureza empresarial, profissional ou comercial entre as entidades obrigadas e os seus clientes, que, no momento em que se estabelece, seja ou se preveja vir a ser duradoura, tendencialmente estável e continuada no tempo, independentemente do número de operações individuais que integrem ou venham a integrar o quadro relacional estabelecido;
 
-gg) «Titulares de outros cargos políticos ou públicos», as pessoas singulares que, não sendo qualificadas como pessoas politicamente expostas, desempenhem ou tenham desempenhado, nos últimos 12 meses e em território nacional, algum dos seguintes cargos:
-
-i) Os cargos enumerados no n.º 3 do artigo 4.º da Lei n.º 4/83, de 2 de abril, Controle público da riqueza dos titulares de cargos políticos, alterada pelas Leis n.os 38/83, de 25 de outubro, 25/95, de 18 de agosto, 19/2008, de 21 de abril, 30/2008, de 10 de julho, e 38/2010, de 2 de setembro, quando não determinem a qualificação do respetivo titular como «pessoa politicamente exposta»;
-
-ii) Membros de órgão representativo ou executivo de área metropolitana ou de outras formas de associativismo municipal;
+gg) «Titulares de outros cargos políticos ou públicos», as pessoas singulares que, não sendo qualificadas como pessoas politicamente expostas, desempenhem ou tenham desempenhado, nos últimos 12 meses e em território nacional, os cargos enumerados nos artigos 2.º e 3.º da Lei n.º 52/2019, de 31 de julho, que aprova o regime do exercício de funções por titulares de cargos políticos e altos cargos públicos;
 
 hh) «Transação ocasional», qualquer transação efetuada pelas entidades obrigadas fora do âmbito de uma relação de negócio já estabelecida, caracterizando-se, designadamente, pelo seu caráter expectável de pontualidade;
 
@@ -176,7 +172,7 @@ ii) Cooperar com as congéneres internacionais e as demais entidades competentes
 
 kk) 'Moeda fiduciária', notas de banco e moedas designadas como tendo curso legal, moeda escritural e moeda eletrónica;
 
-ll) 'Ativo virtual', uma representação digital de valor que não esteja necessariamente ligada a uma moeda legalmente estabelecida e que não possua o estatuto jurídico de moeda fiduciária, mas que é aceite por pessoas singulares ou coletivas como meio de troca ou de investimento e que pode ser transferida, armazenada e comercializada por via eletrónica;
+ll) «Ativo virtual», uma representação digital de valor que não esteja necessariamente ligada a uma moeda legalmente estabelecida e que não possua o estatuto jurídico de moeda fiduciária, valor mobiliário ou outro instrumento financeiro, mas que é aceite por pessoas singulares ou coletivas como meio de troca ou de investimento e que pode ser transferida, armazenada e comercializada por via eletrónica;
 
 mm) 'Atividades com ativos virtuais', qualquer uma das seguintes atividades económicas, exercidas em nome ou por conta de um cliente:
 
