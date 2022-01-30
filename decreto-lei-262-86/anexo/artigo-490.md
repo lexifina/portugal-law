@@ -14,4 +14,4 @@
 
 6 - Na falta da oferta ou sendo esta considerada insatisfatória, o sócio livre pode requerer ao tribunal que declare as acções ou quotas como adquiridas pela sociedade dominante desde a proposição da acção, fixe o seu valor em dinheiro e condene a sociedade dominante a pagar-lho. A acção deve ser proposta nos 30 dias seguintes ao termo do prazo referido no número anterior ou à recepção da oferta, conforme for o caso.
 
-7 - A aquisição tendente ao domínio total de sociedade com o capital aberto ao investimento do público rege-se pelo disposto no Código dos Valores Mobiliários.
+7 - (Revogado.)
