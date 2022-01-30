@@ -4,7 +4,7 @@
 
 1 - A informação recebida pela CMVM no âmbito do presente regime jurídico apenas pode ser utilizada no contexto de processos relacionados especificamente com o exercício das suas atribuições de supervisão de auditoria, ou na instrução de processos administrativos, judiciais, criminais ou contraordenacionais.
 
-2 - Os documentos de trabalho ou aqueles que tenham sido obtidos pela CMVM junto de ROC ou de SROC, bem como os relatórios de controlo de qualidade e de inspeções relacionados com as revisões ou auditorias em causa, apenas podem ser transmitidos, nos termos da lei, a autoridades competentes de um país terceiro, a seu pedido, quando:
+2 - Os documentos de trabalho ou aqueles que tenham sido obtidos pela CMVM junto de ROC ou de SROC, bem como os relatórios de controlo de qualidade e de supervisão relacionados com as revisões ou auditorias em causa, apenas podem ser transmitidos, nos termos da lei, a autoridades competentes de um país terceiro, a seu pedido, quando:
 
 a) Esses documentos se relacionem com a revisão ou auditoria de entidades que tenham emitido valores mobiliários no país terceiro que solicita a transmissão ou façam parte de um grupo que publica contas consolidadas legais nesse país;
 
@@ -26,7 +26,7 @@ b) Um dever de segredo profissional aplicável aos colaboradores vinculados ou q
 
 c) A proteção dos interesses comerciais da entidade auditada, incluindo a sua propriedade industrial e intelectual;
 
-d) A utilização da informação recebida apenas para efeitos de exercício de funções de supervisão pública, de controlo de qualidade e de inspeção ou de instrução de processos administrativos, judiciais, criminais ou contraordenacionais;
+d) A utilização da informação recebida apenas para efeitos de exercício de funções de supervisão pública, de controlo de qualidade ou de instrução de processos administrativos, judiciais, criminais ou contraordenacionais;
 
 e) A possibilidade de recusa da informação solicitada sempre que a apresentação desses documentos:
 
@@ -38,7 +38,7 @@ iii) Já tenha sido proferida sentença transitada em julgado, tendo por objeto 
 
 5 - Sem prejuízo do disposto no n.º 2, os ROC e as SROC podem, a título excecional, transmitir diretamente documentos que lhes tenham sido solicitados por autoridade competente de país terceiro quando:
 
-a) As inspeções tenham sido iniciadas por autoridade competente de país terceiro requerente da informação;
+a) As ações de supervisão tenham sido iniciadas por autoridade competente de país terceiro requerente da informação;
 
 b) Existam acordos de cooperação com as autoridades competentes do país terceiro que respeitem o conteúdo definido no número anterior e, numa base de reciprocidade, permitam igualmente às autoridades nacionais e à CMVM o acesso direto aos documentos produzidos pelos auditores e entidades de auditoria do país terceiro;
 

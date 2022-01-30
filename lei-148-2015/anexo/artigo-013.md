@@ -14,4 +14,4 @@ b) O registo ter sido obtido com recurso a falsas declarações ou a qualquer ou
 
 4 - A CMVM pode prorrogar o prazo referido na alínea a) do n.º 1, mediante pedido do requerente devidamente fundamentado.
 
-5 - O ROC ou SROC cujo registo tenha sido cancelado não pode requerer novo registo antes de decorridos dois anos sobre a data da decisão de cancelamento.
+5 - O ROC ou SROC cujo registo tenha sido cancelado não pode requerer novo registo antes de decorridos dois anos, se o registo tiver sido cancelado por iniciativa do ROC ou SROC, ou cinco anos, se o registo tiver sido cancelado por iniciativa da CMVM, contados sobre a data da produção de efeitos da decisão de cancelamento.
