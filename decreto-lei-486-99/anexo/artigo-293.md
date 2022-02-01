@@ -12,18 +12,4 @@ c) As instituições com funções correspondentes às referidas na alínea a) q
 
 d) [Revogada].
 
-2 - São empresas de investimento em instrumentos financeiros:
-
-a) As sociedades corretoras;
-
-b) As sociedades financeiras de corretagem;
-
-c) As sociedades gestoras de patrimónios;
-
-d) As sociedades mediadoras dos mercados monetário e de câmbios;
-
-e) As sociedades de consultoria para investimento;
-
-f) As sociedades gestoras de sistemas de negociação multilateral ou organizado;
-
-g) Outras que como tal sejam qualificadas por lei, ou que, não sendo instituições de crédito, sejam pessoas cuja actividade, habitual e profissionalmente exercida, consista na prestação, a terceiros, de serviços de investimento, ou no exercício de actividades de investimento.
+2 - Revogado.

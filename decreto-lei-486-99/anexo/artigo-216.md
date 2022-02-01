@@ -12,7 +12,7 @@ c) Informações a prestar à CMVM pelas entidades gestoras de mercados regulame
 
 d) Informações a prestar ao público pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral ou organizado e pelos emitentes de valores mobiliários admitidos à negociação, designadamente quanto ao conteúdo da informação, aos meios e aos prazos em que deve ser prestada ou publicada;
 
-e) Divulgações obrigatórias no boletim do mercado regulamentado e do sistema de negociação multilateral ou organizado.
+e) Informações relativas aos dados de negociação a incluir no boletim do mercado regulamentado e do sistema de negociação multilateral ou organizado.
 
 2 - (Revogado).
 
