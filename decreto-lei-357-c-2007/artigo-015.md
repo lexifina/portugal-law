@@ -2,7 +2,7 @@
 
 ### Divulgação de participações
 
-O órgão de administração da sociedade gestora de mercado regulamentado ou da sociedade gestora de sistemas de negociação multilateral ou organizado deve promover a divulgação no respetivo boletim:
+O órgão de administração da sociedade gestora de mercado regulamentado ou da empresa de investimento que exerça a atividade de gestão de sistemas de negociação multilateral ou organizado promove a divulgação no respetivo sítio na Internet:
 
 a) Das informações sobre participações detidas, diminuição ou cessação, incluindo a identidade dos titulares, em relação quer ao capital social representado por acções com direito a voto, quer ao capital social total, em montante igual ou superior às participações a que alude o artigo 9.º;
 

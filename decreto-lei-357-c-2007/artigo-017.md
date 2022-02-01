@@ -2,13 +2,13 @@
 
 ### Comunicação dos titulares dos órgãos
 
-1 - A designação de membros dos órgãos de administração e fiscalização deve ser comunicada à CMVM pela sociedade gestora de mercado regulamentado ou de sistemas de negociação multilateral ou organizado até 15 dias após a sua ocorrência.
+1 - A designação de membros dos órgãos de administração e fiscalização é comunicada à CMVM pela sociedade gestora de mercado regulamentado até 15 dias após a sua ocorrência.
 
-2 - A sociedade gestora de mercado regulamentado ou a sociedade gestora de sistemas de negociação multilateral ou organizado, ou ainda qualquer interessado, podem comunicar à CMVM a intenção de designação de membros dos órgãos de administração ou fiscalização daquelas.
+2 - A sociedade gestora de mercado regulamentado, ou ainda qualquer interessado, podem comunicar à CMVM a intenção de designação de membros dos órgãos de administração ou fiscalização daquelas.
 
 3 - A CMVM pode deduzir oposição àquela designação ou intenção de designação, com fundamento na falta de idoneidade, qualificação profissional ou disponibilidade, no prazo de 30 dias após ter recebido a comunicação da identificação da pessoa em causa.
 
-4 - A dedução de oposição com fundamento em falta de idoneidade, qualificação profissional ou disponibilidade dos membros do órgão de administração ou de fiscalização é comunicada aos interessados e à sociedade gestora de mercado regulamentado ou à sociedade gestora de sistema de negociação multilateral.
+4 - A dedução de oposição com fundamento em falta de adequação dos membros do órgão de administração ou de fiscalização é comunicada aos interessados e à sociedade gestora de mercado regulamentado.
 
 5 - Os membros do órgão de administração ou de fiscalização não podem iniciar o exercício daquelas funções antes de decorrido o prazo referido no n.º 3.
 

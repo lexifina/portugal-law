@@ -2,9 +2,9 @@
 
 ### Administração
 
-1 - O órgão de administração da sociedade gestora de mercado regulamentado ou da sociedade gestora de sistemas de negociação multilateral ou organizado tem composição plural.
+1 - O órgão de administração da sociedade gestora de mercado regulamentado tem composição plural.
 
-2 - Compete, nomeadamente, ao órgão de administração da sociedade gestora de mercado regulamentado ou da sociedade gestora de sistema de negociação multilateral, nos termos das normas legais e regulamentares aplicáveis e em relação aos mercados ou sistemas geridos pela sociedade:
+2 - Compete, nomeadamente, ao órgão de administração da sociedade gestora de mercado regulamentado ou da empresa de investimento que exerça a atividade de gestão de sistemas de negociação multilateral ou organizado, nos termos das normas legais e regulamentares aplicáveis e em relação aos mercados ou sistemas geridos pela sociedade:
 
 a) Aprovar as regras relativas à organização geral dos mercados ou dos sistemas de negociação multilateral ou organizado e à admissão, suspensão e exclusão dos membros desses mercados ou sistemas;
 

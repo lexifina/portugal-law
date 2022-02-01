@@ -6,11 +6,11 @@
 
 ### Boa gestão e bom governo
 
-1 - As sociedades gestoras de mercado regulamentado ou de sistemas de negociação multilateral ou organizado devem assegurar a manutenção de padrões de elevada qualidade e eficiência na gestão dos mercados ou sistemas a seu cargo, bem como na prestação de outros serviços.
+1 - As sociedades gestoras de mercado regulamentado e as empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado asseguram a manutenção de padrões de elevada qualidade e eficiência na gestão dos mercados ou sistemas a seu cargo, bem como na prestação de outros serviços.
 
-2 - As sociedades gestoras devem implementar mecanismos destinados a assegurar uma gestão sã das operações técnicas dos respectivos sistemas, incluindo o estabelecimento de medidas de emergência eficazes para fazer face aos riscos de perturbação dos sistemas.
+2 - As sociedades gestoras e as empresas de investimento implementam mecanismos destinados a assegurar uma gestão sã das operações técnicas dos respetivos sistemas, incluindo a adoção de medidas de emergência eficazes para fazer face aos riscos de perturbação dos sistemas.
 
-3 - Os órgãos de administração e de fiscalização das sociedades gestoras definem, fiscalizam e são responsáveis, no âmbito das respetivas competências, pela aplicação de sistemas de governo que garantam a gestão eficaz e prudente da mesma, incluindo a separação de funções no seio da organização de modo a assegurar a integridade do mercado e a prevenção de conflitos de interesses.
+3 - Os órgãos de administração e de fiscalização das sociedades gestoras de mercados regulamentados definem, fiscalizam e são responsáveis, no âmbito das respetivas competências, pela aplicação de sistemas de governo que garantam a gestão eficaz e prudente da mesma, incluindo a separação de funções no seio da organização de modo a assegurar a integridade do mercado e a prevenção de conflitos de interesses.
 
 4 - Na definição dos sistemas de governo compete aos órgãos de administração e de fiscalização, no âmbito das respetivas funções:
 
@@ -35,3 +35,5 @@ b) Divulgar, anualmente, um relatório sobre a estrutura e as práticas de gover
 8 - A CMVM deve, através de regulamento, definir o conteúdo, a forma e o prazo de divulgação do relatório referido no número anterior
 
 9 - As sociedades gestoras devem afetar recursos humanos e financeiros adequados à formação dos colaboradores e membros do órgão de administração.
+
+10 - As empresas de investimento que exerçam a atividade de gestão de sistemas de negociação multilateral ou organizado sujeitam-se aos requisitos de governo societário constantes do Regime das Empresas de Investimento.
