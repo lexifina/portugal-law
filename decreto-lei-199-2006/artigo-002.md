@@ -8,11 +8,11 @@ a) 'Medidas de saneamento' as medidas destinadas a preservar ou restabelecer a s
 
 b) «Processo de liquidação» o processo colectivo a cargo das autoridades administrativas ou judiciais de um Estado membro, com o objectivo de proceder à liquidação dos bens, sob fiscalização dessas autoridades, inclusivamente quando esse processo se extinga por efeito de concordata ou medida análoga;
 
-c) «Administrador» a pessoa ou o órgão designado pelas autoridades administrativas ou judiciais para adoptar e gerir medidas de saneamento;
+c) «Empresa de investimento», uma empresa de investimento tal como definida no Regime das Empresas de Investimento, ou uma sociedade cuja sede estatutária se situe num país terceiro e que necessitaria de autorização, ao abrigo daquele Regime, caso a sua sede estatutária se situasse em Portugal;
 
 d) «Liquidatário» a pessoa ou o órgão designado pelas autoridades administrativas ou judiciais para gerir processos de liquidação;
 
-e) 'Autoridades competentes' as autoridades nacionais de supervisão ou de resolução das instituições de crédito;
+e) «Regras setoriais», a legislação e regulamentação relativa à supervisão prudencial das entidades regulamentadas;
 
 f) «Autoridades administrativas ou judiciais» as autoridades administrativas ou judiciais dos Estados membros competentes em matéria de medidas de saneamento ou de processos de liquidação.
 
