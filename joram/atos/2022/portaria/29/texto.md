@@ -1,0 +1,22 @@
+# Portaria n.º 29/2022
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS E DE SAÚDE E PROTEÇÃO CIVIL
+
+**Publicação:** JORAM, I série, n.º 17/2022, de 2022-02-02
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais previstos para o contrato-programa com a Associação Comercial e Industrial do Funchal, tendo em vista a cooperação financeira entre as partes outorgantes para a promoção e coordenação de testagem por testes rápidos de antigénio (TRAg), para a SARS-CoV-2, aos cidadãos residentes na RAM e aos turistas durante a sua estadia na Região, que solicitem a realização dos mesmos nos serviços privados de saúde da Região que sejam associados daquela entidade, bem como aos viajantes que desembarquem no Aeroporto do Porto Santo, em voo com origem no Aeroporto da Madeira, ou viceversa e os viajantes que embarquem no Porto do Funchal com destino à Ilha do Porto Santo, ou vice-versa, entre outros beneficiários, no valor de € 15.975.000,00.
+
+## Texto
+
+Portaria n.º 29/2022
+de 2 de fevereiro
+Sumário: Autoriza a distribuição dos encargos orçamentais previstos para o contrato-programa com a Associação Comercial e Industrial do Funchal, tendo em vista a cooperação financeira entre as partes outorgantes para a promoção e coordenação de testagem por testes rápidos de antigénio (TRAg), para a SARS-CoV-2, aos cidadãos residentes na RAM e aos turistas durante a sua estadia na Região, que solicitem a realização dos mesmos nos serviços privados de saúde da Região que sejam associados daquela entidade, bem como aos viajantes que desembarquem no Aeroporto do Porto Santo, em voo com origem no Aeroporto da Madeira, ou vice-versa e os viajantes que embarquem no Porto do Funchal com destino à Ilha do Porto Santo, ou vice-versa, entre outros beneficiários, no valor de € 15.975.000,00.
+Texto: Dando cumprimento ao disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na redação atual, na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na redação dada pela Lei n.º 22/2015, de 17 de março e no artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na redação dada pelo Decreto-Lei n.º 99/2015, de 2 de junho, e no n.º 1 do artigo 29.º e artigo 32.º do Decreto Legislativo Regional n.º 28-A/2021/M, de 30 de dezembro, conjugados com o artigo 49.º da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.ºs 83C/2013, 82-B/2014 e 75-B/2020, de 31 de dezembro, respetivamente, manda o Governo Regional, através do Secretário Regional das Finanças e do Secretário Regional de Saúde e Proteção Civil, o seguinte:
+1. Os encargos orçamentais previstos para o contrato-programa com a Associação Comercial e Industrial do Funchal, tendo em vista a cooperação financeira entre as partes outorgantes para a promoção e coordenação de testagem por testes rápidos de antigénio (TRAg), para a SARS-CoV-2, aos cidadãos residentes na RAM e aos turistas durante a sua estadia na Região, que solicitem a realização dos mesmos nos serviços privados de saúde da Região que sejam associados daquela entidade, bem como aos viajantes que desembarquem no Aeroporto do Porto Santo, em voo com origem no Aeroporto da Madeira, ou vice-versa e os viajantes que embarquem no Porto do Funchal com destino à Ilha do Porto Santo, ou vice-versa, entre outros beneficiários, no valor de 15.975.000,00€ (quinze milhões novecentos e setenta e cinco mil euros), para a realização de 1.065.000 (um milhão e sessenta e cinco mil) testes TRAg, encontram-se escalonados na forma abaixo indicada:
+Ano económico de 2021 ............... € 9.075.000,00; Ano económico de 2022 ................ € 6.900.000,00.
+2. A despesa emergente do contrato a celebrar relativa ao corrente ano económico tem cabimento orçamental número 1061, de 27/01/2022, no Programa 57, Medida 33, Classificação Económica 04.07.01.AS.00, do Orçamento Privativo do Instituto de Administração da Saúde, IP-RAM, tendo sido atribuídos à totalidade do contrato no corrente ano económico os cabimentos n.º 508 e 509, de 14/01/2022, e 1061 de 27/01/2022.
+3. A importância fixada para cada ano económico poderá ser acrescida do saldo apurado no ano anterior.
+4. A presente portaria produz efeitos no dia seguinte à sua publicação.
+Secretarias Regionais das Finanças e de Saúde e Proteção Civil, aos 2 dias do mês de fevereiro de 2022.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
+O SECRETÁRIO REGIONAL DE SAÚDE E PROTEÇÃO CIVIL, Pedro Miguel de Câmara Ramos
