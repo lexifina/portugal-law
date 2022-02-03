@@ -22,7 +22,11 @@ f) Ao menor número entre o número de hectares elegíveis que foram declarados 
 
 g) Ao menor número entre o número de hectares elegíveis constantes da escritura de venda de terras e o número de hectares elegíveis declarados no PU de 2015 descontados dos direitos atribuídos através do n.º 3 do artigo 7.º do Despacho normativo n.º 3/2015, de 21 de janeiro, para os beneficiários referidos na alínea e) do n.º 5 do artigo anterior.
 
-4 - A reserva nacional cobre as candidaturas previstas nas alíneas a) e b) do n.º 1, nas alíneas a), b), d) e e) do n.º 5 e no n.º 10 do artigo anterior.
+h) Ao número de hectares elegíveis declarados pelo agricultor no pedido único de 2022, a título de propriedade ou de arrendamento, descontados dos direitos ao pagamento já detidos, localizados em zona vulnerável, para os agricultores referidos na alínea a) do n.º 12 do artigo anterior;
+
+i) Ao número de hectares elegíveis declarados pelo agricultor no pedido único de 2022, a título de propriedade ou de arrendamento para os agricultores referidos na alínea b) do n.º 12 do artigo anterior.
+
+4 - A reserva nacional abrange as candidaturas previstas nas alíneas a), b) e c) do n.º 1, no n.º 10 e no n.º 12 do artigo anterior.
 
 5 - No caso dos montantes disponíveis na reserva nacional não serem suficientes para as atribuições referidas no número anterior deve proceder-se a uma redução linear do valor aos direitos ao pagamento existentes para cobrir estas necessidades.
 

@@ -17,3 +17,7 @@ c) 3,845 800 90 %, para os anos seguintes.
 4 - No ano de 2021, o limite máximo financeiro anual do regime de pagamento redistributivo, em aplicação do disposto no n.º 1 do artigo 42.º do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, é fixado na percentagem de 8,12 %, aplicável aos valores previstos no anexo ii do Regulamento (UE) n.º 1307/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual.
 
 5 - No ano de 2021, o valor do pagamento redistributivo é apurado através da multiplicação do valor de (euro) 120 por hectare para os primeiros 5 hectares elegíveis de cada exploração agrícola.
+
+6 - No ano de 2022, o limite máximo financeiro anual do regime de pagamento redistributivo, em aplicação do disposto no n.º 1 do artigo 42.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, é fixado na percentagem de 11,39267834 % aplicável aos valores previstos no anexo ii do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual.
+
+7 - No ano de 2022, o valor do pagamento redistributivo é apurado através da multiplicação do valor unitário indicativo de (euro) 120 por hectare para os primeiros 10 hectares elegíveis de cada exploração agrícola.

@@ -53,3 +53,11 @@ e) Agricultores que tenham comprado hectares elegíveis entre 15 de maio de 2013
 10 - São ainda atribuídos pela reserva nacional os direitos que vierem a ser reconhecidos ao agricultor por decisão judicial transitada em julgado ou ato administrativo definitivo.
 
 11 - No caso das pessoas coletivas que iniciem atividade agrícola nos termos da alínea b) do n.º 1, as exigências em termos de competências e formação devem ser cumpridas, pelo menos, por um dos sócios que exerce o controlo da pessoa coletiva.
+
+12 - Para o ano de 2022, podem ainda solicitar a atribuição de direitos ao pagamento provenientes da reserva nacional os agricultores cujas parcelas ou subparcelas das respetivas explorações agrícolas estejam localizadas em zona vulnerável, de acordo com a listagem das freguesias vulneráveis prevista no anexo ii da Portaria n.º 301/2020, de 24 de dezembro, que se encontre em uma das seguintes condições:
+
+a) Agricultor que nos anos de 2018, 2019 e 2020 tenha ativado no pedido único um número de hectares elegíveis superior ao número máximo de direitos que detinha no mesmo período;
+
+b) Agricultor que, não detendo direitos ao pagamento, tenha submetido pedido único com hectares elegíveis nos anos de 2018, 2019 e 2020.
+
+13 - O disposto no número anterior não é aplicável a áreas de baldio.
