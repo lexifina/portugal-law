@@ -1,5 +1,5 @@
 # Anexo III
 
-### Pontuação das Candidaturas
+### Pontuação das candidaturas
 
 (ver documento original)
