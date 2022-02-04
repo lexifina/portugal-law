@@ -14,4 +14,4 @@ d) Cuja família necessite de apoio, designadamente em caso de doença ou necess
 
 2 - O lar residencial pode admitir temporariamente e com carácter de exceção, pessoas com idade inferior a 16 anos, em situação emergência, devidamente justificada, e quando se encontrem esgotadas as possibilidades de encaminhamento para outras respostas sociais mais adequadas.
 
-3 - A residência autónoma destina-se a pessoas com deficiência e incapacidade, de idade igual ou superior a 18 anos que, mediante apoio, possuem capacidade de viver de forma autónoma.
+3 - (Revogado.)

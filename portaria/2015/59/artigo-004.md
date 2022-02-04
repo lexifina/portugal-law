@@ -14,4 +14,4 @@ d) Facilitar a integração em outras estruturas, serviços ou estabelecimentos 
 
 e) Promover a interação com a família e com a comunidade.
 
-2 - A residência autónoma tem como objetivo proporcionar ao residente igualdade de oportunidades facilitando a sua participação social e o desenvolvimento de percursos profissionais.
+2 - (Revogado.)
