@@ -4,11 +4,11 @@
 
 1 - Para a concessão de autorizações para novas plantações de vinhas devem ser cumpridos os seguintes critérios de elegibilidade:
 
-a) O candidato ser proprietário de parcelas de terreno a ocupar com vinha ou possuir documento válido para a sua utilização, não podendo a área ser inferior à da superfície para a qual é solicitada a autorização;
+a) O candidato deve possuir um documento válido para a utilização da superfície agrícola a ocupar, não podendo a área ser inferior à da superfície para a qual é solicitada a autorização;
 
 b) Presume-se que o pedido não envolve um risco significativo de apropriação indevida da reputação de determinadas DOP ou IGP, a não ser que a existência desse risco seja reconhecida pelo Instituto da Vinha e do Vinho, I. P.
 
-2 - Caso a superfície total abrangida pelos pedidos elegíveis exceda a superfície disponibilizada, para efeitos de distribuição, a nível nacional, do número de hectares (ha) disponível, aplicam-se os seguintes critérios:
+2 - Caso a superfície total abrangida pelos pedidos elegíveis exceda a superfície disponibilizada, para efeitos de distribuição, a nível nacional, do número de hectares (ha) disponível, pode ser estabelecida uma superfície mínima e/ou máxima por candidato, mediante a aplicação dos seguintes critérios:
 
 a) Numa base pro rata; ou
 
@@ -20,7 +20,7 @@ ii) Jovem produtor;
 
 iii) Superfícies no âmbito de projetos de emparcelamento;
 
-iv) Superfícies que contribuam para aumentar a competitividade a nível da exploração e a nível regional;
+iv) Superfícies a plantar de novo que contribuam para aumentar a produção das explorações do sector vitivinícola que revelem um aumento da sua eficiência em termos de custos, da sua competitividade ou da sua presença nos mercados;
 
 v) Projetos com potencial para melhorar a qualidade dos produtos da DOP ou IGP;
 

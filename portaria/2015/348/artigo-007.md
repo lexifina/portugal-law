@@ -20,6 +20,8 @@ e) Destinadas a vinhas de uva de mesa ou passa;
 
 f) Destinadas à cultura de vinhas-mãe de porta-enxertos.
 
+g) Para a criação de coleções de castas destinadas à conservação dos recursos genéticos.
+
 2 - As plantações ou replantações referidas no número anterior ficam sujeitas a notificação prévia, a submeter no SIvv, devendo, quando aplicável, o viticultor ter o seu património vitícola previamente atualizado no SIvv.
 
 3 - A notificação a que se refere o número anterior deve incluir todas as informações pertinentes para essas superfícies e o período de duração da experimentação, no caso da alínea b) do n.º 1, ou o período de produção de vinhas-mãe de garfos, no caso da alínea c) do n.º 1.

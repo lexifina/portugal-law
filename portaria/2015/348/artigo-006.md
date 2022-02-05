@@ -2,7 +2,7 @@
 
 ### Submissão de candidaturas para novas plantações de vinhas
 
-1 - O período de submissão de candidaturas decorre anualmente entre 1 de abril e 15 de maio, podendo, após essa data, e no caso dos pedidos elegíveis apresentados não esgotarem a superfície disponibilizada, pode ser aberto pelo IVV, I. P., novo período de submissão de candidaturas, nos termos e para os efeitos do despacho a que se refere o n.º 4 do artigo 4.º, através de aviso publicado no seu sítio da internet, em www.ivv.min-agricultura.pt.
+1 - A abertura das candidaturas ocorre anualmente a partir de 1 de março até, no máximo, 1 de maio, por um prazo que não pode ser inferior a um mês, através de aviso publicado no sítio da Internet do IVV, I. P., podendo ser aberto novo período de submissão de candidaturas, nos termos e para os efeitos a que se refere o n.º 4 do artigo 4.º, no caso de os pedidos elegíveis apresentados não esgotarem a superfície disponibilizada.
 
 2 - A decisão sobre cada candidatura deve ser conhecida até 1 de agosto do mesmo ano e comunicada aos candidatos, através dos respetivos endereços eletrónicos indicados na candidatura.
 

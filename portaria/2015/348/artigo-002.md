@@ -23,3 +23,5 @@ h) «Variedade de uva para vinificação», a variedade autorizada para a produ�
 i) «Variedade de porta-enxerto», as variedades de videira destinadas à produção de estacas para enraizar e de estacas para enxertar;
 
 j) «Exploração», o conjunto das unidades utilizadas para atividades agrícolas submetidas a uma gestão única, situadas no território do mesmo Estado-membro.
+
+k) 'Superfície vitivinícola abandonada' uma superfície plantada com vinha que, há mais de cinco campanhas vitivinícolas, não é cultivada regularmente com vista à obtenção de produtos comercializáveis e cujo arranque já não confere ao produtor o direito de lhe ser concedida uma autorização de replantação.
