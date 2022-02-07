@@ -1,0 +1,21 @@
+# Resolução do Conselho do Governo Regional n.º 57/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 20/2022, suplemento, de 2022-02-07
+
+**Sumário:** Autoriza a cessão a título precário e gratuito ao Município de Câmara de Lobos do prédio urbano, situado no Caminho do Ilhéu, freguesia e município de Câmara de Lobos, inscrito na matriz predial respetiva sob o artigo 7540 e não descrito na Conservatória do Registo Predial.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 57/2022
+Sumário: Autoriza a cessão a título precário e gratuito ao Município de Câmara de Lobos o prédio urbano, situado no Caminho do Ilhéu, freguesia e município de Câmara de Lobos, inscrito na matriz predial respetiva sob o artigo 7540 e não descrito na Conservatória do Registo Predial.
+Texto: Resolução n.º 57/2022 Considerando que a Região Autónoma da Madeira é legítima proprietária do prédio urbano, situado no Caminho do Ilhéu, freguesia e concelho de Câmara de Lobos, inscrito na matriz predial respetiva sob o artigo 7540 e não descrito na Conservatória do Registo Predial, onde anteriormente se encontrava instalado o Infantário do Ilhéu de Câmara de Lobos.
+
+Considerando que no âmbito da edição do ano de 2019 do Orçamento Participativo da Região Autónoma da Madeira foi apresentada, na área temática da Juventude e Cidadania, uma proposta com a denominação: “OPRAM 184 - Pousada da Juventude -Residência Artística”.
+Considerando que aquela proposta foi um dos projetos vencedores para o Município de Câmara de Lobos. Considerando que a “Pousada da Juventude - Residência Artística”, a instalar no imóvel em referência, será um espaço de intercâmbio cultural, no qual poderão ser desenvolvidas “residências artísticas” com a participação de artistas nacionais e internacionais, envolvendo artistas emergentes, em especial nas áreas das artes plásticas, artes performativas, fotografia e vídeo, tendo em vista a dinamização de projetos que integrem a comunidade local, nomeadamente escolas, Universidade Sénior e centros de dia. Considerando que a utilização que se pretende conferir ao imóvel irá satisfazer fins de interesse público, designadamente de educação, ensino, cultura e de criação de equipamentos turísticos que contribuam para o enriquecimento da oferta turística regional. Considerando que com vista a uma melhor consecução do interesse público a administração da denominada “Pousada da Juventude - Residência Artística” deverá ser atribuída ao Município de Câmara de Lobos. Considerando que aquela Autarquia ficará responsável pelo pagamento das despesas e encargos com a utilização, funcionamento, conservação e manutenção da “Pousada da Juventude - Residência Artística”. Considerando que a gratuitidade da cedência é fundamentada no destino a dar ao imóvel, que irá permitir a criação de novos projetos artísticos e a dinamização de diversas tipologias de eventos, promovendo-se, desta forma a mobilidade juvenil, o emprego jovem, a cidadania ativa, o turismo jovem e a economia local. Considerando que está assim salvaguardado o interesse público. O Conselho do Governo reunido em plenário em 3 de fevereiro de 2022, resolve:
+1. Autorizar nos termos do n.º 1 do artigo 28.º, conjugado com o artigo 26.º, ambos do DLR nº 7/2012/M, de 20 de abril, alterado e republicado pelo DLR nº 24/2017/M, de 3 de agosto, a cessão a título precário e gratuito ao Município de Câmara de Lobos o prédio urbano, situado no Caminho do Ilhéu, freguesia e concelho de Câmara de Lobos, inscrito na matriz predial respetiva sob o artigo 7540 e não descrito na Conservatória do Registo Predial;
+2. O prazo da presente cessão é de 5 (cinco) anos, podendo, no entanto, e sempre que se mostrem preenchidos os pressupostos que a fundamentaram, ser prorrogada por períodos de 5 (cinco) anos, até perfazer máximo de 20 (vinte) anos;
+3. Aprovar a minuta do auto de cessão e de aceitação, que fica arquivado na Secretaria-Geral da Presidência;
+4. Mandatar o Secretário Regional das Finanças, para, em representação da Região Autónoma da Madeira, outorgar o auto de cessão e aceitação.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
