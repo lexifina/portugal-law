@@ -6,7 +6,7 @@
 
 ### Prestação do serviço universal
 
-1 - Decorrido o prazo indicado no n.º 1 do artigo 57.º, a prestação do serviço universal pode ser assegurada através dos seguintes mecanismos:
+1 - A prestação do serviço universal pode ser assegurada através dos seguintes mecanismos:
 
 a) Funcionamento eficiente do mercado, sob o regime de licença individual;
 

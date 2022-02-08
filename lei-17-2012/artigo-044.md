@@ -22,6 +22,6 @@ d) A substituição da licença ou declaração, em caso de extravio.
 
 2 - Todos os prestadores de serviços postais estão sujeitos ao pagamento de taxas anuais pelo exercício da atividade.
 
-3 - Os montantes das taxas referidas nos números anteriores são fixados por portaria do membro do Governo responsável pela área das comunicações, em função dos custos associados às tarefas administrativas, técnicas e operacionais relacionadas com as atividades de regulação, supervisão e fiscalização correspondentes, constituindo receita do ICP-ANACOM.
+3 - Os montantes das taxas referidas nos números anteriores são fixados por portaria do membro do Governo responsável pela área das comunicações, em função dos custos associados às tarefas administrativas, técnicas e operacionais relacionadas com as atividades de regulação, supervisão e fiscalização correspondentes, constituindo receita da ANACOM.
 
 4 - Para efeitos do número anterior, as taxas anuais previstas no n.º 2 são suportadas pelos prestadores de serviços postais tendo por base os custos decorrentes da regulação, supervisão e fiscalização das suas atividades.
