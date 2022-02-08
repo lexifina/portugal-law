@@ -22,7 +22,7 @@ e) Rede local de intervenção social, para apoio das ações previstas no n.º 
 
 f) Contratos Locais de Desenvolvimento Social, para apoio a ações previstas no artigo 211.º, que podem ter a duração máxima de 48 meses;
 
-g) Modelos de apoio à vida independente, no âmbito das ações previstas na alínea c) do artigo 175.º, que podem ter a duração máxima de 42 meses.
+g) Modelos de apoio à vida independente, no âmbito das ações previstas na alínea c) do artigo 175.º, que podem ter a duração máxima de 55 meses;
 
 h) Instrumentos específicos de proteção das vítimas e de acompanhamento dos agressores na violência doméstica, no âmbito das ações previstas nas alíneas a) e c) do n.º 2 do artigo 166.º, que podem ter duração máxima de 48 meses.
 
