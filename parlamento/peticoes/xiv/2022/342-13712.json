@@ -1,0 +1,633 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13712",
+  "numero": "342",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-02-10",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-07-19",
+            "entidades": null,
+            "id": "127599",
+            "tipo": null,
+            "titulo": "Audição em 2022-07-19 com Peticionários da Petição n.º 342/XIV/3.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-09-02",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915126",
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-24",
+                "pubLeg": "XV",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/036/2022-09-24/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-04-26",
+        "DataArquivo": "2022-09-06",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2022-09-19",
+        "DataReaberta": "2022-04-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-04-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e515a585270593246764c7a4669597a59345a5446694c545a6c4d6d45744e445578595331694f4759344c5749774d5463305a54597a597a4179595335775a47593d&fich=1bc68e1b-6e2a-451a-b8f8-b0174e63c02a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-09-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e515a585270593246764c7a4178595445325a5467354c544e685a5755744e444a695a4331694d47566b4c57526d596d4a684d32566c4e6a5133596935775a47593d&fich=01a16e89-3aee-42bd-b0ed-dfbba3ee647b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e515a585270593246764c324a6c5a6d59324e6d4e694c5759774e546b744e474d314e533035596d497a4c574535597a4e6b4d5446694e6d497a4d7935775a47593d&fich=beff66cb-f059-4c55-9bb3-a9c3d11b6b33.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8331",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Agricultura e Pescas",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-09-06",
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1529",
+            "motivoCessacao": null,
+            "nome": "João Marques"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2022-02-11",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7384",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Agricultura e Mar",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-03-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-02-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a566a5a5459334d444a6a4c5463304e546b744e4751334e533169595467304c546779597a566a4d444d324d6d49774e6935775a47593d&fich=5ce6702c-7459-4d75-ba84-82c5c0362b06.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152286",
+      "152304",
+      "152309"
+    ],
+    "Iniciativasoriginadas": [
+      "152304",
+      "152309",
+      "152286"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-03-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_08_15_00_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312885",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-09",
+                "pubLeg": "XV",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de um hospital veterinário público (Maria José Pinheiro Cruz); Recomenda medidas para reduzir o número e mitigar os efeitos do abandono de animais de companhia devido ao aumento da inflação; Recomenda ao Governo a criação de uma rede de serviços públicos veterinários e a construção de um hospital público veterinário; Pelo incentivo à criação de rede de cuidados primários médico-veterinários.",
+            "Teor": "Apresenta o Projeto de Resolução nº 374/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_08_15_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312886",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-09",
+                "pubLeg": "XV",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de um hospital veterinário público (Maria José Pinheiro Cruz); Recomenda medidas para reduzir o número e mitigar os efeitos do abandono de animais de companhia devido ao aumento da inflação; Recomenda ao Governo a criação de uma rede de serviços públicos veterinários e a construção de um hospital público veterinário; Pelo incentivo à criação de rede de cuidados primários médico-veterinários.",
+            "Teor": "Apresenta o Projeto de Resolução nº 387/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_08_15_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312887",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-09",
+                "pubLeg": "XV",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/48?pgs=48-50&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de um hospital veterinário público (Maria José Pinheiro Cruz); Recomenda medidas para reduzir o número e mitigar os efeitos do abandono de animais de companhia devido ao aumento da inflação; Recomenda ao Governo a criação de uma rede de serviços públicos veterinários e a construção de um hospital público veterinário; Pelo incentivo à criação de rede de cuidados primários médico-veterinários.",
+            "Teor": "Apresenta o Projeto de Resolução nº 391/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_08_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312888",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-09",
+                "pubLeg": "XV",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de um hospital veterinário público (Maria José Pinheiro Cruz); Recomenda medidas para reduzir o número e mitigar os efeitos do abandono de animais de companhia devido ao aumento da inflação; Recomenda ao Governo a criação de uma rede de serviços públicos veterinários e a construção de um hospital público veterinário; Pelo incentivo à criação de rede de cuidados primários médico-veterinários.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_08_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312889",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-09",
+                "pubLeg": "XV",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de um hospital veterinário público (Maria José Pinheiro Cruz); Recomenda medidas para reduzir o número e mitigar os efeitos do abandono de animais de companhia devido ao aumento da inflação; Recomenda ao Governo a criação de uma rede de serviços públicos veterinários e a construção de um hospital público veterinário; Pelo incentivo à criação de rede de cuidados primários médico-veterinários.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_08_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312890",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-09",
+                "pubLeg": "XV",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de um hospital veterinário público (Maria José Pinheiro Cruz); Recomenda medidas para reduzir o número e mitigar os efeitos do abandono de animais de companhia devido ao aumento da inflação; Recomenda ao Governo a criação de uma rede de serviços públicos veterinários e a construção de um hospital público veterinário; Pelo incentivo à criação de rede de cuidados primários médico-veterinários.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_08_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312891",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-09",
+                "pubLeg": "XV",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de um hospital veterinário público (Maria José Pinheiro Cruz); Recomenda medidas para reduzir o número e mitigar os efeitos do abandono de animais de companhia devido ao aumento da inflação; Recomenda ao Governo a criação de uma rede de serviços públicos veterinários e a construção de um hospital público veterinário; Pelo incentivo à criação de rede de cuidados primários médico-veterinários.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_08_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312892",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-09",
+                "pubLeg": "XV",
+                "pubNr": "98",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de um hospital veterinário público (Maria José Pinheiro Cruz); Recomenda medidas para reduzir o número e mitigar os efeitos do abandono de animais de companhia devido ao aumento da inflação; Recomenda ao Governo a criação de uma rede de serviços públicos veterinários e a construção de um hospital público veterinário; Pelo incentivo à criação de rede de cuidados primários médico-veterinários.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13712",
+    "PetAssunto": "Criação de um Hospital Veterinário Público",
+    "PetDataEntrada": "2022-02-10",
+    "PeticoesAssociadas": null,
+    "PetId": "13712",
+    "PetLeg": "XIV",
+    "PetNr": "342",
+    "PetNrAssinaturas": "16828",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16345",
+        "obs": null,
+        "pag": [
+          "47-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-09",
+        "pubLeg": "XV",
+        "pubNr": "98",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/098/2023-03-09/47?pgs=47-55&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915111",
+        "obs": null,
+        "pag": [
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-04-30",
+        "pubLeg": "XV",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/006/2022-04-30/8?pgs=8-9&org=PLC"
+      }
+    ]
+  }
+}
