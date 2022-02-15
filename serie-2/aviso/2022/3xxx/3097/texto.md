@@ -1,0 +1,19 @@
+Aviso n.º 3097/2022
+Sumário: Declaração de não caducidade do procedimento da 2.ª alteração à 1.ª revisão do Plano Diretor Municipal de Águeda.
+Declaração de não caducidade do procedimento da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Águeda
+Jorge Henrique Fernandes de Almeida, Presidente da Câmara Municipal de Águeda, torna público que a Câmara Municipal de Águeda deliberou, em reunião de 20 de janeiro de 2022 aprovar a não caducidade do procedimento da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Águeda, fixando um novo de prazo de 183 dias úteis para a conclusão da sua elaboração, contados a partir de 29 de março de 2022 com os fundamentos expostos na Proposta ao Executivo n.º 29/2022 e tendo em conta designadamente os seguintes factos:
+1 - Ter o prazo da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Águeda sido fixado inicialmente em 17 meses, prorrogado por uma única vez;
+2 - O procedimento de alteração ter estado em constante elaboração, atualização e tramitação, face à necessidade de dar resposta às alterações legislativas que entraram em vigor, bem como às alterações solicitadas pelas entidades representativas dos interesses a ponderar;
+3 - O estado avançado dos trabalhos, com conferência procedimental já realizada;
+4 - O incumprimento do prazo para a 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Águeda não pode, pelas razões apontadas, ser imputável ao Município, não lhe podendo por isso ser atribuídas consequências prescritas;
+5 - O manifesto interesse público na conclusão do procedimento da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Águeda, ao abrigo dos artigos 5.º (Princípio da boa administração) e 7.º (Princípio da proporcionalidade) do Código do Procedimento Administrativo, que exigem que a Administração Pública se paute por princípios de eficiência e economicidade, obrigando a aproveitar todo o trabalho e gastos já realizados, já que seria mais gravoso para o interesse público reiniciar o procedimento de alteração do Plano Diretor Municipal do que permitir a sua continuação e conclusão.
+27 de janeiro de 2022. - O Presidente da Câmara Municipal de Águeda, Jorge Henrique Fernandes de Almeida.
+Deliberação
+Declaração de não caducidade do procedimento da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Águeda
+Jorge Henrique Fernandes de Almeida, Presidente da Câmara Municipal de Águeda, declara, no âmbito do procedimento de elaboração da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Águeda, e da Proposta ao Executivo n.º 29/2022, o teor da deliberação tomada pelo Executivo Municipal a 20 de janeiro de 2022:
+«Face ao referido na proposta que foi presente e aos fundamentos e factos invocados, de carácter excecional, imprevisíveis e não imputáveis ao município, bem como o manifesto interesse público na conclusão do procedimento da 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Águeda a Câmara deliberou, por unanimidade, ao abrigo dos artigo 5.º (Princípio da boa administração) e 7.º (Princípio da proporcionalidade) do Código do Procedimento Administrativo, o seguinte:
+a) Declarar a não caducidade do procedimento, sob pena de graves prejuízos económico-temporais para o município, alargados a todos os seus domínios de atuação (muito para além do ordenamento do território);
+b) Fixar um novo prazo de mais 183 dias úteis, contados a parir de 29 de março de 2022;
+c) Publicar e divulgar a presente declaração de não caducidade do procedimento no Diário da República, Plataforma Colaborativa de Gestão Territorial e no site da internet da Câmara Municipal de acordo com a minuta de declaração que foi presente e se encontra arquivada na Aplicação Informática junto à Agenda desta reunião.»
+27 de janeiro de 2022. - O Presidente da Câmara Municipal de Águeda, Jorge Henrique Fernandes de Almeida.
+614958971
