@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2022-02-16, processo 01896/15.7BEPRT
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01896/15.7BEPRT
+
+**Data do Acordão:** 02/16/2022
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; NULIDADE DE ACÓRDÃO; OMISSÃO DE PRONÚNCIA; FALTA DE FUNDAMENTAÇÃO
+
+**Nº Convencional:** JSTA000P28988
+
+**Nº do Documento:** SA22022021601896/15
+
+**Data de Entrada:** 07/26/2021
+
+**Recorrente:** A............... - SOCIEDADE GESTORA DE PARTICIPAÇÕES SOCIAIS, SA
+
+**Recorrido 1:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Em termos de omissão de pronúncia, embora o julgador não tenha que analisar todas as razões ou argumentos que cada parte invoca para sustentar o seu ponto de vista, incumbe-lhe a obrigação de apreciar e resolver todas as questões submetidas à sua apreciação, isto é, todos os problemas concretos que haja sido chamado a resolver no quadro do litígio (tendo em conta o pedido, a causa de pedir e as eventuais excepções invocadas), ficando apenas exceptuado o conhecimento das questões cuja apreciação e decisão tenha ficado prejudicada pela solução dada a outras. E questão, para este efeito (contencioso tributário), é tudo aquilo que é susceptível de caracterizar um vício, uma ilegalidade do acto tributário impugnado.
+
+II - No que concerne à falta de fundamentação de facto e de direito, há que ter em atenção que só se verifica tal nulidade quando ocorre falta absoluta de fundamentação, sendo que “há que distinguir cuidadosamente a falta absoluta de motivação da motivação deficiente, medíocre ou errada. O que a lei considera nulidade é a falta absoluta de motivação; a insuficiência ou mediocridade da motivação é espécie diferente, afecta o valor doutrinal da sentença, sujeita-a ao risco de ser revogada ou alterada em recurso, mas não produz nulidade. Por falta absoluta de motivação deve entender-se a ausência total de fundamentos de direito e de facto”.
+
+III - Tendo presente o teor do Acórdão proferido nos autos, resulta evidente que a Requerente não tem qualquer razão no que diz respeito à invocada nulidade do Acórdão, pois quando se tem presente o exposto pela Requerente, é manifesto que não estamos perante uma omissão de pronúncia propriamente dita, mas sim perante uma abordagem da questão que a ora Requerente censura, por no seu entender não ser a mais correta, ou seja, o que a Requerente contesta não é a falta de pronúncia sobre determinada questão que tenha sido submetida à apreciação do tribunal em sede de recurso, mas sim sobre os termos dessa pronúncia.
+
+IV - Do mesmo modo, com referência à matéria em causa, foram exteriorizadas as razões de facto e de direito que fundamentam a decisão, sendo tal fundamentação suficiente para elucidar as partes e para tornar claro o facto de se ter decidido num certo sentido e não noutro, sendo claramente perceptível o raciocínio ou caminho que conduziu à decisão, sendo que, perante os elementos postos em destaque, não era exigível, ao Colectivo, tratar todos os argumentos (por mais, valorosos e relevantes, que pudessem/possam ser, sobretudo, na perspectiva da arguente) invocados para defender posição contrária; não obstante, terem sido, sem subterfúgios e responsavelmente, ponderados, além de que, com respeito pela racionalidade, sobretudo, a jurídica, entendemos, totalmente, desproporcionado, inútil e anti-celeridade, fazer exercícios de rebate, aturado e individualizado (ponto por ponto), do argumentário de todos os recursos para, no fim, concluir pela, completa, irrelevância, quanto ao sentido do julgado da matéria que constitui o objecto do recurso.
