@@ -1,0 +1,11 @@
+Aviso n.º 3724/2022
+Sumário: Decisão da Câmara de iniciar o procedimento de revisão do Plano Diretor Municipal de Calheta de São Jorge.
+Revisão do Plano Diretor Municipal de Calheta de São Jorge
+Décio Natálio Almada Pereira, Presidente da Câmara Municipal de Calheta de São Jorge, torna público que, a Câmara Municipal deliberou, na reunião ordinária de 30 de dezembro de 2021, proceder à 1.ª Revisão do Plano Diretor Municipal (PDM) da Calheta de São Jorge, de acordo com o disposto no n.º 1 do artigo 90.º do Decreto Legislativo Regional n.º 35/2012/A, de 16 de agosto - Regime Jurídico dos Instrumentos de Gestão Territorial para os Açores - RJIGT-A.
+O prazo de elaboração da revisão deste plano territorial é de 12 meses.
+A Câmara Municipal deliberou ainda estabelecer um período de participação para a formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do presente processo de revisão, por um período de 15 dias, contados a partir da data da publicação do presente aviso em Jornal Oficial, de acordo com o disposto no n.º 2 do artigo 92.º do RJIGT-A.
+Para o efeito das sugestões, os cidadãos interessados deverão remeter as suas comunicações ao Presidente da Câmara Municipal de Calheta por correio eletrónico (geral@cm-calheta.pt), por carta para a morada - Câmara Municipal de Calheta, Rua 25 de Abril, 9850-032 Calheta de São Jorge, ou entregá-las nos serviços de expediente desta autarquia nos dias úteis das 9:00h às 16:00h.
+Os interessados poderão consultar a referida deliberação, acompanhada do relatório do estado do ordenamento do território nos Paços do Concelho, sita à Rua 25 de Abril - Vila da Calheta, no horário de expediente das 9:00h às 16:00h, bem como no sítio da Internet da Câmara Municipal (www.cm-calheta.pt).
+A revisão do PDM será sujeita ao procedimento de Avaliação Ambiental Estratégica, nos termos exigíveis da alínea c) do n.º 2 do artigo 3.º da Lei n.º 31/2014, de 30 de maio, conjugada com a alínea b) do n.º 2 do artigo 97.º do Decreto-Lei n.º 80/2015, de 14 de maio, e elaborada de acordo com o disposto no Decreto Legislativo Regional n.º 30/2010/A, de 15 de novembro.
+10 de janeiro de 2022. - O Presidente da Câmara Municipal, Décio Natálio Almada Pereira.
+314998661
