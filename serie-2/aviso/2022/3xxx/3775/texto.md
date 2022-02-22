@@ -1,0 +1,8 @@
+Aviso n.º 3775/2022
+Sumário: Consulta pública do projeto do Regulamento da Escola de Atletismo Municipal de Mogadouro.
+Consulta Pública - Projeto de Regulamento da Escola de Atletismo Municipal de Mogadouro
+António Joaquim Pimentel, Presidente da Câmara Municipal de Mogadouro, torna público, em cumprimento do disposto na alínea t) do n.º 1 do artigo 35.º conjugado n.º 1, do artigo 56.º, ambos, do anexo I, da Lei n.º 75/2013, de 12 de setembro e nos termos dos artigos 100.º e 101.º, ambos, do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que se submete a consulta pública pelo período de 30 dias o Projeto de Regulamento da Escola de Atletismo Municipal de Mogadouro, aprovado pela Câmara Municipal do Mogadouro, na sua reunião ordinária de 25 de janeiro de 2022.
+O Projeto de Regulamento da Escola de Atletismo Municipal de Mogadouro, encontra-se disponível para consulta dos interessados na página da internet do Município do Mogadouro, em www.mogadouro.pt, e nos serviços da Câmara Municipal, sitos no Largo de São Francisco, s/n, durante o respetivo horário de expediente.
+Durante o prazo de 30 dias, contados a partir da publicação deste aviso no Diário da República, poderão os interessados apresentar por escrito, nesta Câmara, as suas sugestões, dirigidas ao Senhor Presidente da Câmara Municipal, para o seguinte endereço: Largo do Convento de São Francisco, s/n, 5200-244 Mogadouro, ou através de correio eletrónico para o endereço presidente@mogadouro.pt, sobre o Consulta Pública - Projeto de Regulamento da Escola de Atletismo Municipal de Mogadouro.
+10 de fevereiro de 2022. - O Presidente da Câmara, António Joaquim Pimentel.
+315011416
