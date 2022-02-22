@@ -1,0 +1,7 @@
+Aviso n.º 3709/2022
+Sumário: Consulta pública do projeto de Regulamento de Atribuição de Benefícios Fiscais do Município de Alcácer do Sal.
+Projeto de Regulamento de Atribuição de Benefícios Fiscais do Município de Alcácer do Sal
+Vítor Manuel Chaves de Caro Proença, Presidente da Câmara Municipal de Alcácer do Sal, torna público que, de acordo com a deliberação tomada em 27 de janeiro de 2022, e nos termos e em cumprimento do disposto no artigo 56.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, na sua redação atual, conjugado com o artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, é submetido a consulta pública, pelo prazo de 30 dias úteis a contar da data do presente aviso no Diário da República, 2.ª série, o Projeto de Regulamento de Atribuição de Benefícios Fiscais do Município de Alcácer do Sal, encontrando-se o mesmo disponível para consulta na página eletrónica do Município em www.cm-alcacerdosal.pt.
+As sugestões devem ser formuladas por escrito, dirigidas ao Presidente da Câmara de Alcácer do Sal, podendo ser remetidas via postal para a morada Praça Pedro Nunes, 7580-125 Alcácer do Sal ou ainda por correio eletrónico para o endereço secretaria.gap@m-alcacerdosal.pt, dentro do prazo supra indicado.
+3 de fevereiro de 2022. - O Presidente da Câmara, Vítor Manuel Chaves de Caro Proença.
+314984007
