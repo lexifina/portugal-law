@@ -1,0 +1,9 @@
+Aviso n.º 3896/2022
+Sumário: Plano Diretor Municipal de Castro Daire - alteração simplificada.
+Alteração Simplificada ao Plano Diretor Municipal
+Paulo Martins de Almeida, Presidente da Câmara Municipal de Castro Daire, torna público que, nos termos da alínea a), do n.º 1, do artigo 33.º do anexo I à Lei n.º 75/2013, de 12 de setembro, na sua atual redação, e dos n.os 6 e 7 do artigo 123.º do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial), sob proposta da Câmara Municipal, a Assembleia Municipal aprovou no dia 30 de junho de 2021, a proposta de alteração simplificada do Plano Diretor Municipal de Castro Daire para o prédio sito no Lugar do Castanho, em Lamas, freguesia de Moledo.
+A alteração é resultante da desafetação de uma área de baldio de 2 hectares, que implicou a necessidade de redefinição do uso do solo, determinada pela cessação da restrição de utilidade pública.
+A redefinição foi feita por analogia das parcelas confinantes com as quais confrontam, ficando uma pequena parcela de 0,40 hectares adjacente e colada à área urbana consolidada de Lamas, que foi ampliada para integrar um prédio de apoio domiciliário a idosos, ASSOCREL - Associação de Solidariedade Social, Cultural e Recreativa de Lamas, e a restante parcela de 1,60 hectares foi incluída em área de extração mineral por vocação e analogia à semelhança dos terrenos confinantes, constituindo assim unidades harmoniosas nos termos do disposto no artigo 123.º do Regime Jurídico dos Instrumentos de Gestão Territorial.
+Assim, nos termos do artigo 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial, na sua atual redação, publica-se no Diário da República a Planta de Ordenamento, a Planta de Condicionantes, bem como a deliberação da Assembleia Municipal que aprovou esta alteração.
+5 de julho de 2021. - O Presidente da Câmara Municipal, Dr. Paulo Martins de Almeida.
+614994432
