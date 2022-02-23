@@ -1,0 +1,8 @@
+Aviso n.º 3982/2022
+Sumário: Projeto do Regulamento de Utilização das Casas Mortuárias.
+Consulta pública do Projeto de Regulamento de Utilização das Casas Mortuárias da União das Freguesias de Arrimal e Mendiga
+Francisco Nogueira Baptista, Presidente da Junta de Freguesia da União das Freguesias de Arrimal e Mendiga, torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 101.º do Código de Procedimento Administrativo, aprovado pelo anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Junta de Freguesia deliberou, na sua reunião realizada em 1 de fevereiro de 2022, aprovar o Projeto de Regulamento de Utilização das Casas Mortuárias da União das Freguesias de Arrimal e Mendiga e submeter o mesmo a consulta pública, pelo prazo de trinta dias a contar da data da publicação do presente edital no Diário da República.
+Mais torna público, que aquele projeto de regulamento encontra-se disponível para consulta, na sede da Junta de Freguesia, situada na Rua Principal, n.º 60, 2480-215 Mendiga, durante as horas normais de expediente (9:00-12:30 e 14:00-17:30), bem como no sítio eletrónico desta Freguesia, em www.uf-arrimal-mendiga.pt.
+As eventuais sugestões deverão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido ao Presidente da Junta de Freguesia da União das Freguesias de Arrimal e Mendiga, Rua Principal, n.º 60, 2480-215 Mendiga, utilizando para o efeito o impresso próprio que pode ser obtido na Junta de Freguesia ou na mencionada página da Internet.
+2 de fevereiro de 2022. - O Presidente da Junta de Freguesia, Francisco Nogueira Baptista.
+314980135
