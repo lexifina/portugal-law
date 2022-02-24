@@ -58,10 +58,12 @@ viii) As relacionadas com o cumprimento dos caudais ecológicos e com a promoç�
 
 16 - IVA não recuperável nos termos da legislação fiscal.
 
+17 - Equipamentos que visem a produção de energia renovável.
+
 Despesas não elegíveis
 
-17 - Contribuições em espécie;
+18 - Contribuições em espécie;
 
-18 - Aquisição de equipamentos em segunda mão;
+19 - Aquisição de equipamentos em segunda mão;
 
-19 - Despesas com a constituição de cauções relativas aos adiantamentos de ajuda pública.
+20 - Despesas com a constituição de cauções relativas aos adiantamentos de ajuda pública.
