@@ -8,13 +8,13 @@ a) Na avaliação da incapacidade das pessoas com deficiência, de acordo com o 
 
 b) Não se aplicam, no âmbito desta avaliação de incapacidade, as instruções gerais constantes daquela Tabela.
 
-2 - Findo o exame, o presidente da junta médica emite, por via informática ou manual, o respectivo atestado médico de incapacidade multiuso, o qual obedece ao modelo aprovado por despacho do director-geral da Saúde, em que se indica expressamente qual a percentagem de incapacidade do avaliado.
+2 - Finda a avaliação, o presidente da JMAI emite por via informática o respetivo AMIM, cujo modelo é aprovado por despacho do diretor-geral da Saúde e no qual se indica expressamente qual a percentagem de incapacidade do avaliado.
 
-3 - Quando o grau de incapacidade arbitrado for susceptível de variação futura, a junta deve indicar a data de novo exame, levando em consideração o previsto na Tabela Nacional de Incapacidades ou na fundamentação clínica que lhe tenha sido presente.
+3 - Quando o grau de incapacidade arbitrado for suscetível de variação futura, a JMAI deve indicar a data da nova avaliação, levando em consideração o previsto na tabela nacional de incapacidades ou na fundamentação clínica que lhe tenha sido presente.
 
 4 - Sempre que a lei faça depender a atribuição de benefícios de determinados requisitos específicos, o atestado médico de incapacidade deve indicar o fim a que se destina e respectivos efeitos e condições legais, bem como a natureza das deficiências e os condicionalismos relevantes para a concessão do benefício.
 
-5 - Sempre que a junta médica entender ser necessário esclarecimento adicional no âmbito de especialidade médico-cirúrgica, deverá o presidente solicitar exames complementares, técnicos ou de especialidade, cujo relatório deve ser apresentado no prazo de 30 dias.
+5 - Sempre que a JMAI entender necessário esclarecimento adicional sobre a situação clínica do interessado, o presidente da JMAI requer exames complementares, técnicos ou de especialidade, cujo relatório deve ser apresentado no prazo de 30 dias a contar da data daquele requerimento.
 
 6 - Os atestados de incapacidade podem ser utilizados para todos os fins legalmente previstos, adquirindo uma função multiuso, devendo todas as entidades públicas ou privadas, perante quem sejam exibidos, devolvê-los aos interessados ou seus representantes após anotação de conformidade com o original, aposta em fotocópia simples.
 
