@@ -6,7 +6,7 @@
 
 a) O acompanhamento de posições abertas nesses instrumentos;
 
-b) O acesso a todas as informações relevantes sobre a dimensão e finalidade de uma posição detida em instrumentos financeiros derivados de mercadorias, incluindo sobre os respetivos beneficiários efetivos, quaisquer acordos de atuação concertada e ativos ou passivos relacionados com o mercado dos ativos subjacentes;
+b) O acesso a todas as informações relevantes sobre a dimensão e finalidade de uma posição detida em instrumentos financeiros derivados de mercadorias, incluindo sobre os respetivos beneficiários efetivos, quaisquer acordos de atuação concertada e ativos ou passivos relacionados com o mercado dos ativos subjacentes, nomeadamente, se for caso disso, informação sobre as posições detidas em derivados de mercadorias com o mesmo ativo subjacente e as mesmas características negociados noutras plataformas de negociação e em instrumentos financeiros derivados economicamente equivalentes negociados no mercado de balcão;
 
 c) Exigir que uma pessoa feche ou reduza uma posição em instrumentos financeiros derivados de mercadorias, de forma temporária ou permanente, e adotar medidas adequadas para assegurar o seu cumprimento;
 
