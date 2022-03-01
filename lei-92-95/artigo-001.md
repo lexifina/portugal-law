@@ -24,4 +24,6 @@ e) Utilizar animais para fins didácticos, de treino, filmagens, exibições, pu
 
 f) Utilizar animais em treinos particularmente difíceis ou em experiências ou divertimentos consistentes em confrontar mortalmente animais uns contra os outros, salvo na prática da caça.
 
+g) Utilizar pombos como alvo na prática desportiva do tiro ao voo, incluindo treinos e provas.
+
 4 - As espécies de animais em perigo de extinção serão objecto de medidas de protecção, nomeadamente para preservação dos ecossistemas em que se enquadram.
