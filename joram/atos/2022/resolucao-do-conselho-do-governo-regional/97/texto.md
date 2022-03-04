@@ -1,0 +1,14 @@
+# Resolução do Conselho do Governo Regional n.º 97/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 37/2022, de 2022-03-04
+
+**Sumário:** Louva publicamente o Senhor Eng.º José Manuel Melim Mendes dando público testemunho e reconhecimento pelo seu contributo decisivo na cultura e preservação do património histórico. O conjunto dos valiosos serviços prestados à Região Autónoma da Madeira que estão na memória coletiva, para cujo prestígio muito contribuiu, é merecedor do respeito e da gratidão de todos os madeirenses e porto-santenses.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 97/2022
+Sumário: Louva publicamente o Senhor Eng.º José Manuel Melim Mendes dando público testemunho e reconhecimento pelo seu contributo decisivo na cultura e preservação do património histórico. O conjunto dos valiosos serviços prestados à Região Autónoma da Madeira que estão na memória coletiva, para cujo prestígio muito contribuiu, é merecedor do respeito e da gratidão de todos os madeirenses e porto-santenses.
+Texto: Considerando que José Manuel Melim Mendes, natural do Funchal, Engenheiro Químico e Engenheiro de Minas pelo Instituto Superior Técnico, desde 1991, desenvolveu a sua atividade profissional na Madeira, tendo sido o responsável executivo e Presidente da Agência Regional da Energia e do Ambiente da RAM (AREAM) e tendo sido Presidente do Centro de Ciência e Tecnologia da Madeira (CITMA) e também Presidente da Assembleia Geral da ARM -Águas e Resíduos da Madeira; Considerando que, para além da sua vertente profissional, tem dedicado a sua vida a colecionar diversos documentos gráficos relacionados com a Região Autónoma da Madeira, nomeadamente postais e bilhetes-postais; Considerando que é autor de diversas obras literárias que dignificam a cultura e a história madeirense promovendo e afirmando o património do arquipélago; Considerando que efetuou uma doação à Região Autónoma da Madeira de perto de seis mil postais relativos à RAM; Considerando que esta coleção de postais é vasta e se distingue pela antiguidade e raridade de muitos dos exemplares, assim como pela variedade de motivos, temas e editores que apresenta; Considerando que a mesma vem enriquecer sobejamente o acervo regional, nomeadamente da Direção Regional do Arquivo e Biblioteca da Madeira, da Secretaria Regional de Turismo e Cultura; Assim, o Conselho do Governo reunido em plenário em 3 de março de 2022, resolve louvar publicamente o Senhor Eng.º José Manuel Melim Mendes dando público testemunho e reconhecimento pelo seu contributo decisivo na cultura e preservação do património histórico. O conjunto dos valiosos serviços prestados à Região Autónoma da Madeira que estão na memória coletiva, para cujo prestígio muito contribuiu, é merecedor do respeito e da gratidão de todos os madeirenses e porto-santenses.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
