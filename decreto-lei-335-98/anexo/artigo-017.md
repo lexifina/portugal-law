@@ -4,16 +4,8 @@
 
 # Artigo 17.º
 
-### Aplicação de resultados
+### Gestão financeira e patrimonial
 
-1 - Os resultados positivos de cada exercício, devidamente aprovados, têm a seguinte aplicação:
+1 - Na sua gestão financeira e patrimonial, a APDL, S. A., deve observar as regras legais e regulamentares e aplicar os princípios da boa gestão empresarial, de forma a assegurar a sua viabilidade económica e o seu equilíbrio financeiro.
 
-a) Um mínimo de 10% para constituição ou integração da reserva legal, até atingir o montante legalmente exigido;
-
-b) Outras aplicações impostas por lei;
-
-c) Uma percentagem a distribuir pelos accionistas, a título de dividendo, a definir pela assembleia geral, por maioria dos votos expressos;
-
-d) Para outros fins que a assembleia geral delibere de interesse para a sociedade.
-
-2 - Sempre que o volume dos resultados o justifique, a assembleia geral poderá deliberar a atribuição aos trabalhadores e membros do conselho de administração, como participação nos lucros e mediante critérios por ela definidos, de uma percentagem desses resultados, de valor não superior a 10%.
+2 - Em toda a gestão financeira e patrimonial deve ser assegurada a separação contabilística entre a atividade de serviço público de gestão de infraestruturas ferroviárias e as restantes atividades da APDL, S. A.

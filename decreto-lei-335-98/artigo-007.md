@@ -39,3 +39,5 @@ Ponto Q (-46624,0) e (+169518,0), que delimita o domínio público marítimo.
 2 - A redefinição da área de jurisdição da Administração dos Portos do Douro e Leixões será efectuada em articulação entre os Ministérios do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, precedendo obrigatoriamente a avaliação a que se refere o artigo 10.º do presente diploma.
 
 3 - As atribuições referentes à gestão de água, incluindo a supervisão da sua qualidade dentro da área de jurisdição da APDL, S. A., competem ao Instituto da Água e à Direcção Regional do Ambiente - Norte.
+
+4 - A APDL, S. A., prossegue o seu objeto e as suas atribuições, igualmente, nas áreas de jurisdição identificadas no artigo 5.º do Decreto-Lei n.º 83/2015, de 21 de maio, e no artigo 3.º do Decreto-Lei n.º 24/2022, de 4 de março.
