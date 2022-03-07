@@ -1,0 +1,8 @@
+Edital n.º 245/2022
+Sumário: Regulamento de Estacionamento Público do Município de Monção.
+Regulamento de Estacionamento Público do Município de Monção
+António José Fernandes Barbosa, Presidente da Câmara Municipal de Monção, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, torna público que a Assembleia Municipal de Monção, na sua sessão ordinária de 30 de dezembro de 2021, no uso da competência prevista na alínea g) do n.º 1 do artigo 25.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, aprovou o Regulamento de Estacionamento Público do Município de Monção, sob proposta da Câmara Municipal de Monção aprovada na reunião ordinária de 29 de junho de 2021, no uso da competência que lhe confere a alínea k) do n.º 1 do artigo 33.º do Anexo I da Lei n.º 75/2013, de 12 de setembro.
+Mais torna público que o projeto de Regulamento de Estacionamento Público do Município de Monção foi objeto de consulta pública pelo período de 30 dias, previsto no artigo 101.º do Código do Procedimento Administrativo, e publicado na 2.ª série do Diário da República, de 6 de abril de 2021.
+O referido Regulamento entrará em vigor 5 dias após a publicação do presente edital no Diário da República. Para conhecimento geral publica-se este edital e outros de igual teor, que vão ser afixados no edifício do Loreto e nos habituais locais de estilo do concelho de Monção, no Diário da República e no sítio da Internet do Município de Monção.
+8 de fevereiro de 2022. - O Presidente da Câmara Municipal, António José Fernandes Barbosa.
+315013977
