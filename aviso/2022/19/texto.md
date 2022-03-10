@@ -1,0 +1,13 @@
+Aviso n.º 19/2022
+Sumário: Torna público que a República da Moldova depositou, em 31 de janeiro de 2022, o seu instrumento de ratificação da Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência Doméstica, adotada em Istambul a 11 de maio de 2011.
+Por ordem superior se torna público ter a República da Moldova depositado, em 31 de janeiro de 2022, o seu instrumento de ratificação da Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência Doméstica, adotada em Istambul a 11 de maio de 2011.
+O instrumento de ratificação contém as seguintes reserva e declaração:
+Reserva e declaração
+(original em inglês)
+«In accordance with Article 78, paragraph 2, of the Convention, the Republic of Moldova reserves the right not to apply the provisions of Article 30, paragraph 2, and Article 59. The validity of the reservation submitted shall be maintained for a period of five years, in accordance with the provisions of Article 79, paragraph 1, of the Convention. In accordance with the provisions of Article 77 of the Convention, the Republic of Moldova declares that it will apply the provisions of the Convention only on the territory effectively controlled by the authorities of the Republic of Moldova until the full establishment of the territorial integrity of the Republic of Moldova.»
+(tradução)
+Nos termos do n.º 2 do artigo 78.º da Convenção, a República da Moldova reserva-se o direito de não aplicar as disposições estabelecidas no n.º 2 do artigo 30.º e no artigo 59.º A validade da reserva mantém-se por um período de cinco anos, em conformidade com o previsto no n.º 1 do artigo 79.º da Convenção. Nos termos do disposto no artigo 77.º da Convenção, a República da Moldova declara que somente aplicará o disposto na Convenção no território efetivamente controlado pelas autoridades da República da Moldova até ao pleno estabelecimento da integridade territorial da República da Moldova.
+A Convenção em apreço entrará em vigor em relação à República da Moldova a 1 de maio de 2022.
+A República Portuguesa é Parte desta Convenção, aprovada pela Resolução da Assembleia da República n.º 4/2013 e ratificada pelo Decreto do Presidente da República n.º 13/2013, ambos publicados no Diário da República, 1.ª série, n.º 14, de 21 de janeiro de 2013, tendo depositado o respetivo instrumento de ratificação, tal como referido no Aviso n.º 37/2013, publicado no Diário da República, 1.ª série, n.º 56, de 20 de março de 2013. A Convenção entrou em vigor em relação à República Portuguesa a 1 de agosto de 2014.
+Direção-Geral de Política Externa, 3 de março de 2022. - A Subdiretora-Geral, Cristina Castanheta.
+115079822
