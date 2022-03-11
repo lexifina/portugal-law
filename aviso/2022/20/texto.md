@@ -1,0 +1,7 @@
+Aviso n.º 20/2022
+Sumário: Torna público que a República Italiana depositou, junto do Secretariado-Geral do Conselho da Europa, a 21 de abril de 2021, o seu instrumento de ratificação do Protocolo n.º 15 que altera a Convenção para a Proteção dos Direitos Humanos e das Liberdades Fundamentais, aberto à assinatura em Estrasburgo em 24 de junho de 2013.
+Por ordem superior se torna público que a República Italiana depositou, junto do Secretariado-Geral do Conselho da Europa, a 21 de abril de 2021, o seu instrumento de ratificação do Protocolo n.º 15 que altera a Convenção para a Proteção dos Direitos Humanos e das Liberdades Fundamentais, aberto à assinatura em Estrasburgo em 24 de junho de 2013.
+A Convenção em apreço entrou em vigor em relação à República Italiana a 1 de agosto de 2021.
+A República Portuguesa é Parte deste Protocolo, aprovado pela Resolução da Assembleia da República n.º 231/2016 e ratificado pelo Decreto do Presidente da República n.º 101/2016, ambos publicados no Diário da República, 1.ª série, n.º 227, de 25 de novembro de 2016, tendo o instrumento de ratificação sido depositado a 16 de janeiro de 2017, tal como referido no Aviso publicado no Diário da República, 1.ª série, n.º 91, de 11 de maio de 2017. A Convenção em apreço entrou em vigor em relação à República Portuguesa a 1 de agosto de 2021.
+Direção-Geral de Política Externa, 3 de março de 2022. - A Subdiretora-Geral, Cristina Castanheta.
+115079985
