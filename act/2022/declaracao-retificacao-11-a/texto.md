@@ -1,0 +1,13 @@
+Declaração de Retificação n.º 11-A/2022
+Sumário: Retifica o Decreto-Lei n.º 15/2022, de 14 de janeiro, que estabelece a organização e o funcionamento do Sistema Elétrico Nacional, transpondo a Diretiva (UE) 2019/944 e a Diretiva (UE) 2018/2001.
+Nos termos das disposições da alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 20/2021, de 15 de março, conjugadas com o disposto no n.º 1 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 15/2016, de 21 de dezembro, e artigos 5.º e 6.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho, declara-se que o Decreto-Lei n.º 15/2022, de 14 de janeiro, publicado no Diário da República, 1.ª série n.º 10, de 14 de janeiro de 2022, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+1 - No n.º 2 do artigo 49.º, onde lê:
+«2 - Os titulares de centros eletroprodutores de eletricidade de fonte renovável ou de instalação de armazenamento, com potência de ligação atribuída igual ou inferior a 50 MVA e superior a 1 MVA, efetuam a compensação prevista no artigo seguinte.»
+deve ler-se:
+«2 - Os titulares de centros eletroprodutores de eletricidade de fonte renovável ou de instalação de armazenamento, com potência de ligação atribuída igual ou inferior a 50 MVA e superior a 1 MVA, efetuam a compensação prevista no número seguinte.»
+2 - No n.º 3 do artigo 49.º, onde lê:
+«3 - O titular do centro eletroprodutor ou da instalação de armazenamento procede à instalação da UPAC nos locais indicados e disponibilizados para o efeito pelos municípios beneficiários após obtenção por estes dos respetivos títulos de controlo prévio e, caso se verifique que as instalações referidas no número anterior já dispõem de UPAC instaladas, o município pode optar pela substituição da cedência referida no n.º 1 por uma compensação, única e em numerário, no valor de (euro) 1500,00 por MVA de potência de ligação atribuída.»
+deve ler-se:
+«3 - O titular do centro eletroprodutor ou da instalação de armazenamento procede à instalação da UPAC nos locais indicados e disponibilizados para o efeito pelos municípios beneficiários após obtenção por estes dos respetivos títulos de controlo prévio e, caso se verifique que as instalações referidas no n.º 1 já dispõem de UPAC instaladas, o município pode optar pela substituição da cedência referida no n.º 1 por uma compensação, única e em numerário, no valor de (euro) 1500,00 por MVA de potência de ligação atribuída.»
+Secretaria-Geral, 14 de março de 2022. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+115117705
