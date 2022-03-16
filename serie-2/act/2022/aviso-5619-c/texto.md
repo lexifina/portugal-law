@@ -1,0 +1,16 @@
+Aviso n.º 5619-C/2022
+Sumário: 2.ª revisão do Plano Diretor Municipal de Montalegre - início de procedimentos.
+2.ª Revisão do Plano Diretor Municipal de Montalegre - Início de Procedimentos
+Manuel Orlando Fernandes Alves, Presidente da Câmara Municipal de Montalegre, torna público, para efeitos do disposto no n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Montalegre, na sua reunião ordinária de 5 de novembro de 2020, deliberou, por maioria, dar início ao procedimento da 2.ª revisão do Plano Diretor Municipal de Montalegre, determinando, de acordo com o Decreto-Lei n.º 25/2021, de 29 de março, os respetivos termos de referência e fixando o prazo de 15 meses para conclusão dos trabalhos de revisão do PDM.
+Torna-se ainda público, que foi determinado, nos termos previstos no n.º 2 do artigo 88.º do referido decreto-lei, dar inicio a um período de 15 dias úteis, contados a partir do dia seguinte ao da publicação do presente Aviso no Diário da República, para a participação preventiva com vista à formulação de sugestões e para a apresentação de informações sobre quaisquer questões que devam ser consideradas no âmbito do procedimento.
+Os interessados poderão consultar os termos de referência da 2.ª Revisão do PDM e demais documentação que a consubstanciou no sítio eletrónico da câmara municipal de Montalegre, no endereço (http://www.cm-montalegre.pt) ou no Departamento de Planeamento e Gestão do Território, durante o horário de atendimento, todos os dias úteis, das 09:00 às 15:30 horas.
+Durante este período os interessados poderão, por escrito, formular sugestões, observações dirigidas ao Presidente da Câmara Municipal, remetidas para o endereço de correio eletrónico município@cm-montalegre.pt, por correio registado com aviso de receção ou no balcão de Atendimento ao munícipe com espaço do cidadão da Câmara Municipal, sito na Praça do Município, n.º 1, 5470-214 Montalegre.
+2022/03/10. - O Presidente da Câmara Municipal de Montalegre, Manuel Orlando Fernandes Alves.
+Deliberação
+Reunião Pública Ordinária da Câmara, de 05/11/2020
+Ponto 3.6 - 2.ª revisão do Plano Diretor Municipal de Montalegre
+Em reunião pública ordinária, realizada em de cinco de novembro de 2020, a Câmara Municipal de Montalegre, deliberou, por maioria, aprovar o início do procedimento da 2.ª revisão do Plano Diretor Municipal de Montalegre, determinando, de acordo com o Decreto-Lei n.º 25/2021, de 29 de março, os respetivos termos de referência e fixando o prazo de 15 meses para conclusão dos trabalhos de revisão do PDM.
+Deliberou ainda, para efeito do disposto no n.º 2 do artigo 88.º do RJIGT referido decreto-lei, estabelecer um prazo de 15 dias úteis, contados a partir do dia seguinte ao da publicação do presente Aviso no Diário da República, para a participação preventiva com vista à formulação de sugestões e para a apresentação de informações sobre quaisquer questões que devam ser consideradas no âmbito do procedimento.
+Mais deliberou ao abrigo do n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual, e do artigo 120.º do RJIGT, sujeitar a presente revisão do PDM a procedimento de Avaliação Ambiental Estratégica (AAE).
+2022/03/10. - O Presidente da Câmara Municipal de Montalegre, Manuel Orlando Fernandes Alves.
+615119617
