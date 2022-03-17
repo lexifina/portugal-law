@@ -1,0 +1,9 @@
+Edital n.º 303-A/2022
+Sumário: Alteração ao Regulamento Municipal de Urbanização, Edificação, Fiscalização e Taxas (RMUEFT).
+Nuno Filipe Miranda Henriques de Almeida, Vereador, com competências delegadas pelo Presidente da Câmara Municipal de São Pedro do Sul:
+Torna público que, foi deliberado na reunião ordinária da Câmara Municipal, realizada no dia 10 de março de 2022, aprovar e proceder à apreciação pública da Alteração ao Regulamento Municipal de Urbanização, Edificação, Fiscalização e Taxas (RMUEFT), nos termos do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação e do n.º 1 do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua atual redação, pelo prazo de 30 dias, a contar da data da publicação do presente Edital no Diário da República.
+Nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua atual redação, convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao Presidente da Câmara Municipal, eventuais sugestões e/ou reclamações, dentro do período atrás referido, para a Câmara Municipal, Largo da Câmara, 3660-436 S. Pedro do Sul, ou através do endereço eletrónico geral@cm-spsul.pt.
+Mais faz saber que os exemplares do projeto de alteração ao Regulamento Municipal de Urbanização, Edificação, Fiscalização e Taxas (RMUEFT) podem ser consultados na Secção de Obras e Urbanismo da Câmara Municipal de São Pedro do Sul, durante o horário normal de funcionamento e no site da Câmara Municipal de São Pedro do Sul, em www.cm-spsul.pt.
+Para constar se redigiu este Edital e outros de igual teor, que vão ser afixados nos locais do costume.
+14 de março de 2022. - O Vereador, Nuno Filipe Miranda Henriques de Almeida.
+315119925
