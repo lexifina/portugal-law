@@ -8,7 +8,7 @@ a) Serem desenvolvidas por um grupo operacional constituído por três ou mais e
 
 b) Resultem de uma iniciativa registada na Bolsa de Iniciativas até 10 dias úteis antes do termo do período de apresentação de candidaturas;
 
-c) Apresentem um plano de ação de duração não superior a 5 anos, que desenvolva de forma fundamentada, nomeadamente, os seguintes elementos:
+c) Apresentem um plano de ação cuja duração não pode ultrapassar a data de 30 de junho de 2023, que desenvolva de forma fundamentada, nomeadamente, os seguintes elementos:
 
 i) Enquadramento dos objetivos da ação face à prioridade e respetivos domínios temáticos em que se insere, previstos no anexo I à presente portaria, da qual faz parte integrante, em conformidade com a iniciativa publicitada na Bolsa de Iniciativas;
 
