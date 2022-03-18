@@ -1,0 +1,8 @@
+Edital n.º 311/2022
+Sumário: Projeto do Regulamento de Apoio ao Associativismo da Freguesia de São Pedro Fins.
+Projeto do Regulamento de Apoio ao Associativismo da Freguesia de São Pedro Fins
+Raquel Adriana Salgado Azevedo Freitas, Presidente da Junta de Freguesia de São Pedro Fins, torna público, conforme deliberação tomada em reunião ordinária do Executivo, realizada em 16 de fevereiro de 2022, nos termos da alínea f) do n.º 1 do artigo 18.º, da Lei n.º 75/2013, de 12 de dezembro, conjugado com o artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que é submetido a consulta pública o projeto de «Regulamento de Apoio ao Associativismo da Freguesia de São Pedro Fins», durante o prazo de 30 dias a contar da publicitação no Diário da República, e que se encontra disponível para consulta na sede da Junta de Freguesia sita na Avenida de S. Fins, 310 - 4425-536, S. Pedro Fins.
+Qualquer interessado poderá apresentar, durante o período da consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do procedimento, conforme disposto no n.º 2 do artigo 101.º do CPA dirigida ao Presidente da Junta de Freguesia, via correio normal (Avenida de S. Fins, 310 - 4425-536 S. Pedro Fins) ou via correio eletrónico (presidencia@saopedrofins.pt).
+E, para que conste, mandei publicar este Edital no Diário da República e outros de igual teor, que serão publicitados na Internet, no sítio institucional da Junta de Freguesia de São Pedro de Fins e nos lugares de estilo.
+9 de março de 2022. - A Presidente da Junta de Freguesia de São Pedro Fins, Doutora Raquel Adriana Salgado Azevedo Freitas.
+315102428
