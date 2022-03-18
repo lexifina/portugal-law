@@ -1,0 +1,5 @@
+Regulamento n.º 277/2022
+Sumário: Alteração ao Regulamento para Atribuição de Apoio à Reconstrução de Habitações não Permanentes.
+José Francisco Tavares Rolo, Presidente da Câmara Municipal de Oliveira do Hospital, torna público que a Assembleia Municipal de Oliveira do Hospital, na sua sessão ordinária de 25 de fevereiro de 2022, sob proposta aprovada pela Câmara Municipal, em reunião ordinária de 18 de fevereiro de 2022, deliberou aprovar uma alteração ao n.º 3 do artigo 17.º do Regulamento para Atribuição de Apoio à Reconstrução de Habitações não Permanentes, publicado no Diário da República, 2.ª série, n.º 52, de 14 de março de 2019, passando o mesmo a ter a seguinte redação: "O prazo máximo para a execução das operações urbanísticas das candidaturas aprovadas, nos termos do presente Regulamento é de três anos, com possibilidade de prorrogação excecional por mais um ano para as candidaturas com pedido de licenciamento efetuado, a avaliar pela Câmara Municipal".
+4 de março de 2022. - O Presidente da Câmara, José Francisco Tavares Rolo.
+315086601
