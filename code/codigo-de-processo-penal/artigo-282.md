@@ -14,4 +14,4 @@ a) Se o arguido não cumprir as injunções e regras de conduta; ou
 
 b) Se, durante o prazo de suspensão do processo, o arguido cometer crime da mesma natureza pelo qual venha a ser condenado.
 
-5 - Nos casos previstos nos n.os 6 e 7 do artigo anterior, a duração da suspensão pode ir até cinco anos.
+5 - Nos casos previstos nos n.os 8 e 9 do artigo anterior, a duração da suspensão pode ir até cinco anos.

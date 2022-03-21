@@ -6,6 +6,6 @@
 
 2 - Do despacho previsto no número anterior cabe apenas reclamação, sendo irrecorrível o despacho que a decidir.
 
-3 - Os actos e diligências de prova praticados no inquérito só são repetidos no caso de não terem sido observadas as formalidades legais ou quando a repetição se revelar indispensável à realização das finalidades da instrução.
+3 - Os atos e diligências de prova praticados no inquérito só são repetidos no caso de não terem sido observadas as formalidades legais ou, tendo sido requeridos, quando a sua repetição se revelar indispensável à realização das finalidades da instrução.
 
 4 - Não são inquiridas testemunhas que devam depor sobre os aspectos referidos no artigo 128.º, n.º 2.

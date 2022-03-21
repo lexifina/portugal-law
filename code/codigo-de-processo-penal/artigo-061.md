@@ -41,3 +41,5 @@ b) Responder com verdade às perguntas feitas por entidade competente sobre a su
 c) Prestar termo de identidade e residência logo que assuma a qualidade de arguido;
 
 d) Sujeitar-se a diligências de prova e a medidas de coacção e garantia patrimonial especificadas na lei e ordenadas e efectuadas por entidade competente.
+
+7 - Os direitos e os deveres previstos nos números anteriores são exercidos e cumpridos pela pessoa coletiva ou entidade equiparada, através do seu representante.

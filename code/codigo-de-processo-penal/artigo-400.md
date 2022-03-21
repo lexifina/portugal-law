@@ -8,11 +8,11 @@ a) De despachos de mero expediente;
 
 b De decisões que ordenam actos dependentes da livre resolução do tribunal;
 
-c) De acórdãos proferidos, em recurso, pelas relações que não conheçam, a final, do objecto do processo;
+c) De acórdãos proferidos, em recurso, pelas relações, que não conheçam, a final, do objeto do processo, exceto nos casos em que, inovadoramente, apliquem medidas de coação ou de garantia patrimonial, quando em 1.ª instância tenha sido decidido não aplicar qualquer medida para além da prevista no artigo 196.º;
 
 d) De acórdãos absolutórios proferidos, em recurso, pelas relações, exceto no caso de decisão condenatória em 1.ª instância em pena de prisão superior a 5 anos;
 
-e) De acórdãos proferidos, em recurso, pelas relações que apliquem pena não privativa de liberdade ou pena de prisão não superior a 5 anos;
+e) De acórdãos proferidos, em recurso, pelas relações, que apliquem pena não privativa da liberdade ou pena de prisão não superior a 5 anos, exceto no caso de decisão absolutória em 1.ª instância;
 
 f) De acórdãos condenatórios proferidos, em recurso, pelas relações, que confirmem decisão de 1.ª instância e apliquem pena de prisão não superior a 8 anos;
 

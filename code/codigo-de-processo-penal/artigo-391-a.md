@@ -17,3 +17,5 @@ a) O agente tenha sido detido em flagrante delito e o julgamento não puder efec
 b) A prova for essencialmente documental e possa ser recolhida no prazo previsto para a dedução da acusação; ou
 
 c) A prova assentar em testemunhas presenciais com versão uniforme dos factos.
+
+4 - O disposto nos números anteriores é correspondentemente aplicável no processo contra pessoa coletiva ou entidade equiparada.

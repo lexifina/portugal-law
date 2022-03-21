@@ -8,7 +8,7 @@
 
 3 - Durante o inquérito, o juiz não pode aplicar medida de coação mais grave, quanto à sua natureza, medida ou modalidade de execução, com fundamento na alínea b) do artigo 204.º nem medida de garantia patrimonial mais grave do que a requerida pelo Ministério Público, sob pena de nulidade.
 
-4 - A aplicação referida no n.º 1 é precedida de audição do arguido, ressalvados os casos de impossibilidade devidamente fundamentada, e pode ter lugar no acto de primeiro interrogatório judicial, aplicando-se sempre à audição o disposto no n.º 4 do artigo 141.º
+4 - A aplicação referida no n.º 1 é precedida da audição presencial do arguido, ressalvados os casos de impossibilidade devidamente fundamentada, e pode ter lugar no ato de primeiro interrogatório judicial, aplicando-se sempre à audição o disposto no n.º 4 do artigo 141.º
 
 5 - Durante o inquérito, e salvo impossibilidade devidamente fundamentada, o juiz decide a aplicação de medida de coacção ou de garantia patrimonial a arguido não detido, no prazo de cinco dias a contar do recebimento da promoção do Ministério Público.
 
@@ -22,7 +22,7 @@ c) A qualificação jurídica dos factos imputados;
 
 d) A referência aos factos concretos que preenchem os pressupostos de aplicação da medida, incluindo os previstos nos artigos 193.º e 204.º
 
-7 - Sem prejuízo do disposto na alínea b) do número anterior, não podem ser considerados para fundamentar a aplicação ao arguido de medida de coacção ou de garantia patrimonial, à excepção do termo de identidade e residência, quaisquer factos ou elementos do processo que lhe não tenham sido comunicados durante a audição a que se refere o n.º 3.
+7 - Sem prejuízo do disposto na alínea b) do número anterior, não podem ser considerados para fundamentar a aplicação ao arguido de medida de coação ou de garantia patrimonial, à exceção do termo de identidade e residência, quaisquer factos ou elementos do processo que lhe não tenham sido comunicados durante a audição a que se refere o n.º 4.
 
 8 - Sem prejuízo do disposto na alínea b) do n.º 6, o arguido e o seu defensor podem consultar os elementos do processo determinantes da aplicação da medida de coação ou de garantia patrimonial, à exceção do termo de identidade e residência, durante o interrogatório judicial e no prazo previsto para a interposição de recurso.
 

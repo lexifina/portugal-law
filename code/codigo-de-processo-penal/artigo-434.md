@@ -2,4 +2,4 @@
 
 ### Poderes de cognição
 
-Sem prejuízo do disposto no artigo 410.º, n.os 2 e 3, o recurso interposto para o Supremo Tribunal de Justiça visa exclusivamente o reexame de matéria de direito.
+O recurso interposto para o Supremo Tribunal de Justiça visa exclusivamente o reexame de matéria de direito, sem prejuízo do disposto nas alíneas a) e c) do n.º 1 do artigo 432.º

@@ -2,7 +2,7 @@
 
 ### (Confissão)
 
-1 - No caso de o arguido declarar que pretende confessar os factos que lhe são imputados, o presidente, sob pena de nulidade, pergunta-lhe se o faz de livre vontade e fora de qualquer coacção, bem como se se propõe fazer uma confissão integral e sem reservas.
+1 - O arguido pode declarar, em qualquer momento da audiência, que pretende confessar os factos que lhe são imputados, devendo o presidente, sob pena de nulidade, perguntar-lhe se o faz de livre vontade e fora de qualquer coação, bem como se se propõe fazer uma confissão integral e sem reservas.
 
 2 - A confissão integral e sem reservas implica:
 
@@ -21,3 +21,5 @@ b) O tribunal, em sua convicção, suspeitar do carácter livre da confissão, n
 c) O crime for punível com pena de prisão superior a cinco anos.
 
 4 - Verificando-se a confissão integral e sem reservas nos casos do número anterior ou a confissão parcial ou com reservas, o tribunal decide, em sua livre convicção, se deve ter lugar e em que medida, quanto aos factos confessados, a produção da prova.
+
+5 - O disposto nos números anteriores é correspondentemente aplicável no processo contra pessoa coletiva ou entidade equiparada, podendo o seu representante fazer uma confissão dos factos que são imputados à representada, contanto que a confissão caiba nos seus poderes de representação.

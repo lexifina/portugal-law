@@ -22,4 +22,6 @@ b) Em que os visados consintam, desde que o consentimento prestado fique, por qu
 
 c) Aquando de detenção em flagrante por crime a que corresponda pena de prisão.
 
-6 - Nos casos referidos na alínea a) do número anterior, a realização da diligência é, sob pena de nulidade, imediatamente comunicada ao juiz de instrução e por este apreciada em ordem à sua validação.
+6 - Sendo a pessoa coletiva ou entidade equiparada a visada pela diligência, o consentimento para o efeito só pode ser colhido junto do representante.
+
+7 - Nos casos referidos na alínea a) do n.º 5, a realização da diligência é, sob pena de nulidade, imediatamente comunicada ao juiz de instrução e por este apreciada em ordem à sua validação.

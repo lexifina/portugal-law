@@ -49,3 +49,5 @@ b) Do auto de notícia do acidente levantado por entidade policial para efeitos 
 a) A pedido de pessoas publicamente postas em causa; ou
 
 b) Para garantir a segurança de pessoas e bens ou a tranquilidade pública.
+
+14 - Se, através dos esclarecimentos públicos prestados nos termos dos números anteriores, for confirmado que a pessoa publicamente posta em causa assume a qualidade de suspeito, tem esta pessoa o direito de ser ouvida no processo, a seu pedido, num prazo razoável, que não deverá ultrapassar os três meses, com salvaguarda dos interesses da investigação.

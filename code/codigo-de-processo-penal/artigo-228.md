@@ -13,3 +13,5 @@
 5 - O arresto é revogado a todo o tempo em que e arguido ou o civilmente responsável prestem a caução económica imposta.
 
 6 - Decretado o arresto, é promovido o respetivo registo nos casos e nos termos previstos na legislação registal aplicável, promovendo-se o subsequente cancelamento do mesmo quando sobrevier a extinção da medida.
+
+7 - O arresto preventivo é aplicável à pessoa coletiva ou entidade equiparada.

@@ -14,12 +14,14 @@ d) For levantado auto de notícia que dê uma pessoa como agente de um crime e a
 
 2 - A constituição de arguido opera-se através da comunicação, oral ou por escrito, feita ao visado por uma autoridade judiciária ou um órgão de polícia criminal, de que a partir desse momento aquele deve considerar-se arguido num processo penal e da indicação e, se necessário, explicação dos direitos e deveres processuais referidos no artigo 61.º que por essa razão passam a caber-lhe.
 
-3 - A constituição de arguido feita por órgão de polícia criminal é comunicada à autoridade judiciária no prazo de 10 dias e por esta apreciada, em ordem à sua validação, no prazo de 10 dias.
+3 - A constituição de arguido de pessoa coletiva ou entidade equiparada opera-se por comunicação ao seu representante, logo que se verifiquem as circunstâncias mencionadas nas alíneas a), b) ou d) do n.º 1.
 
-4 - A constituição de arguido implica a entrega, sempre que possível no próprio acto, de documento de que constem a identificação do processo e do defensor, se este tiver sido nomeado, e os direitos e deveres processuais referidos no artigo 61.º
+4 - A constituição de arguido feita por órgão de polícia criminal é comunicada à autoridade judiciária no prazo de 10 dias e por esta apreciada, em ordem à sua validação, no prazo de 10 dias.
 
-5 - A omissão ou violação das formalidades previstas nos números anteriores implica que as declarações prestadas pela pessoa visada não podem ser utilizadas como prova.
+5 - A constituição de arguido implica a entrega, sempre que possível no próprio acto, de documento de que constem a identificação do processo e do defensor, se este tiver sido nomeado, e os direitos e deveres processuais referidos no artigo 61.º
 
-6 - A não validação da constituição de arguido pela autoridade judiciária não prejudica as provas anteriormente obtidas.
+6 - A omissão ou violação das formalidades previstas nos números anteriores implica que as declarações prestadas pela pessoa visada não podem ser utilizadas como prova.
 
-7 - Sem prejuízo da prossecução do processo, a constituição de arguido menor é comunicada, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.
+7 - A não validação da constituição de arguido pela autoridade judiciária não prejudica as provas anteriormente obtidas.
+
+8 - Sem prejuízo da prossecução do processo, a constituição de arguido menor é comunicada, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.

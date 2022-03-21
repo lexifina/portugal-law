@@ -8,11 +8,11 @@
 
 1 - Recorre-se para o Supremo Tribunal de Justiça:
 
-a) De decisões das relações proferidas em 1.ª instância;
+a) De decisões das relações proferidas em 1.ª instância, visando exclusivamente o reexame da matéria de direito ou com os fundamentos previstos nos n.os 2 e 3 do artigo 410.º;
 
 b) De decisões que não sejam irrecorríveis proferidas pelas relações, em recurso, nos termos do artigo 400.º;
 
-c) De acórdãos finais proferidos pelo tribunal do júri ou pelo tribunal colectivo que apliquem pena de prisão superior a 5 anos, visando exclusivamente o reexame de matéria de direito;
+c) De acórdãos finais proferidos pelo tribunal do júri ou pelo tribunal coletivo que apliquem pena de prisão superior a 5 anos, visando exclusivamente o reexame da matéria de direito ou com os fundamentos previstos nos n.os 2 e 3 do artigo 410.º;
 
 d) De decisões interlocutórias que devam subir com os recursos referidos nas alíneas anteriores.
 

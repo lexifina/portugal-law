@@ -1,19 +1,11 @@
 # Artigo 313.º
 
-### (Despacho que designa dia para a audiência)
+### Notificação do despacho que designa dia para a audiência
 
-1 - O despacho que designa dia para a audiência contém, sob pena de nulidade:
+1 - O despacho que designa dia para a audiência é notificado ao Ministério Público, ao arguido e seu defensor, ao assistente, partes civis, seus advogados e representantes, pelo menos 20 dias antes da data fixada para a audiência.
 
-a) A indicação dos factos e disposições legais aplicáveis, o que pode ser feito por remissão para a acusação ou para a pronúncia, se a houver;
+2 - O número anterior é correspondentemente aplicável à pessoa coletiva ou entidade equiparada arguida na morada indicada nos termos da alínea c) do n.º 5 do artigo 196.º
 
-b) A indicação do lugar, do dia e da hora da comparência;
-
-c) A nomeação de defensor do arguido, se ainda não estiver constituído no processo; e
-
-d) A data e a assinatura do presidente.
-
-2 - O despacho, acompanhado da cópia da acusação ou da pronúncia, é notificado ao Ministério Público, bem como ao arguido e seu defensor, ao assistente, às partes civis e aos seus representantes, pelo menos, 30 dias antes da data fixada para a audiência.
-
-3 - A notificação do arguido e do assistente ao abrigo do número anterior tem lugar nos termos do artigo 113.º, n.º 1, alíneas a) e b), excepto quando aqueles tiverem indicado a sua residência ou domicílio profissional à autoridade policial ou judiciária que elaborar o auto de notícia ou que os ouvir no inquérito ou na instrução e nunca tiverem comunicado a alteração da mesma através de carta registada, caso em que a notificação é feita mediante via postal simples, nos termos do artigo 113.º, n.º 1, alínea c).
+3 - (Revogado.)
 
 4 - Do despacho que designa dia para a audiência não há recurso.

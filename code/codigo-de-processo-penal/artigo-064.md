@@ -25,3 +25,5 @@ h) Nos demais casos que a lei determinar.
 3 - Sem prejuízo do disposto nos números anteriores, se o arguido não tiver advogado constituído nem defensor nomeado é obrigatória a nomeação de defensor quando contra ele for deduzida acusação, devendo a identificação do defensor constar do despacho de encerramento do inquérito.
 
 4 - No caso previsto no número anterior, o arguido é informado, no despacho de acusação, de que fica obrigado, caso seja condenado, a pagar os honorários do defensor oficioso, salvo se lhe for concedido apoio judiciário, e que pode proceder à substituição desse defensor mediante a constituição de advogado.
+
+5 - Sendo arguida uma pessoa coletiva ou entidade equiparada é correspondentemente aplicável o disposto nos números anteriores.

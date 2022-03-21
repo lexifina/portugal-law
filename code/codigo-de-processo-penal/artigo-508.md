@@ -6,7 +6,7 @@
 
 ### Medidas de segurança não privativas da liberdade
 
-1 - À interdição de actividade é correspondentemente aplicável o disposto nos n.os 2 e 3 do artigo 499.º
+1 - À interdição de atividade é correspondentemente aplicável o disposto nos n.os 2 a 4 do artigo 499.º
 
 2 - A decisão que decretar a cassação da licença de condução e a interdição de concessão de licença é comunicada à Direcção-Geral de Viação, que a comunicará a quaisquer outras entidades legalmente habilitadas a emitir essa licença.
 

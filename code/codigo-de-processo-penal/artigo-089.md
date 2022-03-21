@@ -2,7 +2,7 @@
 
 ### Consulta de auto e obtenção de certidão e informação por sujeitos processuais
 
-1 - Durante o inquérito, o arguido, o assistente, o ofendido, o lesado e o responsável civil podem consultar, mediante requerimento, o processo ou elementos dele constantes, bem como obter os correspondentes extractos, cópias ou certidões, salvo quando, tratando-se de processo que se encontre em segredo de justiça, o Ministério Público a isso se opuser por considerar, fundamentadamente, que pode prejudicar a investigação ou os direitos dos participantes processuais ou das vítimas.
+1 - Durante o inquérito, o arguido, o assistente, o ofendido, o lesado e o responsável civil podem, mediante requerimento, consultar o processo ou elementos dele constantes, obter, em formato de papel ou digital, os correspondentes extratos, cópias ou certidões e aceder ou obter cópia das gravações áudio ou audiovisual de todas as declarações prestadas, salvo quando, tratando-se de processo que se encontre em segredo de justiça, o Ministério Público a isso se opuser por considerar, fundamentadamente, que pode prejudicar a investigação ou os direitos dos participantes processuais ou das vítimas.
 
 2 - Se o Ministério Público se opuser à consulta ou à obtenção dos elementos previstos no número anterior, o requerimento é presente ao juiz, que decide por despacho irrecorrível.
 

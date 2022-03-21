@@ -26,4 +26,24 @@ d) De que o incumprimento do disposto nas alíneas anteriores legitima a sua rep
 
 e) De que, em caso de condenação, o termo de identidade e residência só se extinguirá com a extinção da pena.
 
-4 - A aplicação da medida referida neste artigo é sempre cumulável com qualquer outra das previstas no presente livro.
+4 - No caso de pessoa coletiva ou entidade equiparada, o termo deve conter a sua identificação social, a sede ou local de funcionamento da administração e o seu representante designado nos termos dos n.os 4 a 9 do artigo 57.º
+
+5 - Do termo prestado pela pessoa coletiva ou entidade equiparada, deve ainda constar que foi dado conhecimento:
+
+a) Da obrigação de comparecer, através do seu representante, perante a autoridade competente ou de se manter à disposição dela sempre que a lei a obrigar ou para tal for devidamente notificada;
+
+b) Da obrigação de comunicar no prazo máximo de 5 dias as alterações da sua identificação social, nomeadamente nos casos de cisão, fusão ou extinção, ou quaisquer factos que impliquem a substituição do seu representante, sem prejuízo da eficácia dos atos praticados pelo anterior representante;
+
+c) Da obrigação de indicar uma morada onde possa ser notificada mediante via postal simples e de que as posteriores notificações serão feitas nessa morada e por essa via, exceto se comunicar uma outra morada, através de requerimento entregue ou remetido por via postal registada à secretaria onde os autos se encontrem a correr nesse momento;
+
+d) Da obrigação de não mudar de sede ou local onde normalmente funciona a administração sem comunicar a nova sede ou local de funcionamento da administração;
+
+e) De que o incumprimento do disposto nas alíneas anteriores legitima a sua representação por defensor em todos os atos processuais nos quais tenha o direito ou o dever de estar presente e bem assim a realização da audiência na sua ausência, nos termos do artigo 333.º;
+
+f) De que, em caso de condenação, o termo só se extingue com a extinção da pena.
+
+6 - O representante pode requerer a sua substituição quando se verificarem factos que impeçam ou dificultem gravemente o cumprimento dos deveres e o exercício dos direitos da sua representada, sendo que a substituição do representante não prejudica o termo já prestado pela representada.
+
+7 - No caso de cisão ou fusão da pessoa coletiva ou entidade equiparada, os representantes legais das novas pessoas ou entidades devem prestar novo termo.
+
+8 - A aplicação da medida referida neste artigo é sempre cumulável com qualquer outra das previstas no presente livro.

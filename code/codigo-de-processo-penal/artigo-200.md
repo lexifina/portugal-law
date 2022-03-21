@@ -25,3 +25,5 @@ f) Se sujeitar, mediante prévio consentimento, a tratamento de dependência de 
 5 - Para efeitos do disposto no número anterior, quando esteja em causa a obrigação prevista na alínea d) e quando tal se demonstre imprescindível para a proteção da vítima, podem ser aplicados, fundamentadamente, meios técnicos de controlo à distância, podendo ser dispensada a audiência prévia do suspeito, caso em que, se necessário, a constituição como arguido será feita aquando da notificação da medida de coação.
 
 6 - A aplicação de obrigação ou obrigações que impliquem a restrição de contacto entre progenitores são imediatamente comunicadas ao representante do Ministério Público que exerce funções no tribunal competente, para efeitos de instauração, com caráter de urgência, do respetivo processo de regulação ou alteração da regulação do exercício das responsabilidades parentais.
+
+7 - No caso de pessoa coletiva ou entidade equiparada arguida, o juiz pode impor a proibição de contactos, a proibição de adquirir ou usar certos objetos e a obrigação de entrega de certos objetos.

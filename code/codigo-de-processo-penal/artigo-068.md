@@ -16,7 +16,7 @@ c) No caso de o ofendido morrer sem ter renunciado à queixa, o cônjuge sobrevi
 
 d) No caso de o ofendido ser menor de 16 anos ou por outro motivo incapaz, o representante legal e, na sua falta, as pessoas indicadas na alínea anterior, segundo a ordem aí referida, ou, na ausência dos demais, a entidade ou instituição com responsabilidades de protecção, tutelares ou educativas, quando o mesmo tenha sido judicialmente confiado à sua responsabilidade ou guarda, salvo se alguma delas houver auxiliado ou comparticipado no crime;
 
-e) Qualquer pessoa nos crimes contra a paz e a humanidade, bem como nos crimes de tráfico de influência, favorecimento pessoal praticado por funcionário, denegação de justiça, prevaricação, corrupção, peculato, participação económica em negócio, abuso de poder e de fraude na obtenção ou desvio de subsídio ou subvenção.
+e) Qualquer pessoa nos crimes contra a paz e a humanidade, bem como nos crimes de tráfico de influência, favorecimento pessoal praticado por funcionário, denegação de justiça, prevaricação, recebimento ou oferta indevidos de vantagem, corrupção, peculato, participação económica em negócio, abuso de poder e de fraude na obtenção ou desvio de subsídio ou subvenção.
 
 2 - Tratando-se de procedimento dependente de acusação particular, o requerimento tem lugar no prazo de 10 dias a contar da advertência referida no n.º 4 do artigo 246.º
 

@@ -40,7 +40,7 @@ b) Por via telefónica em caso de urgência, se respeitarem os requisitos consta
 
 9 - O notificando pode indicar pessoa, com residência ou domicílio profissional situados na área de competência territorial do tribunal, para o efeito de receber notificações. Neste caso, as notificações, levadas a cabo com observância do formalismo previsto nos números anteriores, consideram-se como tendo sido feitas ao próprio notificando.
 
-10 - As notificações do arguido, do assistente e das partes civis podem ser feitas ao respectivo defensor ou advogado. Ressalvam-se as notificações respeitantes à acusação, à decisão instrutória, à designação de dia para julgamento e à sentença, bem como as relativas à aplicação de medidas de coacção e de garantia patrimonial e à dedução do pedido de indemnização civil, as quais, porém, devem igualmente ser notificadas ao advogado ou defensor nomeado; neste caso, o prazo para a prática de acto processual subsequente conta-se a partir da data da notificação efectuada em último lugar.
+10 - As notificações do arguido, do assistente e das partes civis podem ser feitas ao respetivo defensor ou advogado, ressalvando-se as notificações respeitantes à acusação, à decisão instrutória, à contestação, à designação de dia para julgamento e à sentença, bem como as relativas à aplicação de medidas de coação e de garantia patrimonial e à dedução do pedido de indemnização civil, as quais, porém, devem igualmente ser notificadas ao advogado ou defensor nomeado, sendo que, neste caso, o prazo para a prática de ato processual subsequente conta-se a partir da data da notificação efetuada em último lugar.
 
 11 - As notificações ao advogado ou ao defensor nomeado, quando outra forma não resultar da lei, são feitas por via eletrónica, nos termos a definir em portaria do membro do Governo responsável pela área da justiça, ou, quando tal não for possível, nos termos das alíneas a), b) e c) do n.º 1, ou por telecópia.
 
@@ -51,3 +51,7 @@ b) Por via telefónica em caso de urgência, se respeitarem os requisitos consta
 14 - Nos casos expressamente previstos, havendo vários arguidos ou assistentes, quando o prazo para a prática de actos subsequentes à notificação termine em dias diferentes, o acto pode ser praticado por todos ou por cada um deles até ao termo do prazo que começou a correr em último lugar.
 
 15 - A assinatura do funcionário responsável pela elaboração da notificação pode ser substituída por indicação do código identificador da notificação, bem como do endereço do sítio eletrónico do Ministério da Justiça no qual, através da inserção do código, é possível confirmar a autenticidade da notificação.
+
+16 - Sem prejuízo do disposto no n.º 10, as notificações da pessoa coletiva ou entidade equiparada são feitas na morada indicada nos termos da alínea c) do n.º 5 do artigo 196.º ou por contacto pessoal com o seu representante.
+
+17 - Não tendo sido possível proceder à notificação da pessoa coletiva ou entidade equiparada nos termos do disposto no número anterior, procede-se à sua notificação edital, mediante a afixação de um edital na porta da última sede ou local onde funcionou normalmente a administração da pessoa coletiva ou entidade equiparada e outro nos lugares que a junta de freguesia desse mesmo local destine para o efeito, seguida da publicação de anúncio na área de serviços digitais dos tribunais.

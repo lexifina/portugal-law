@@ -18,4 +18,8 @@ d) Vários agentes tiverem cometido diversos crimes em comparticipação, na mes
 
 e) Vários agentes tiverem cometido diversos crimes reciprocamente na mesma ocasião ou lugar.
 
+f) Esteja em causa responsabilidade cumulativa do agente do crime e da pessoa coletiva ou entidade equiparada a que o mesmo crime é imputado.
+
 2 - A conexão só opera relativamente aos processos que se encontrarem simultaneamente na fase de inquérito, de instrução ou de julgamento.
+
+3 - A conexão não opera quando seja previsível que origine o incumprimento dos prazos de duração máxima da instrução ou o retardamento excessivo desta fase processual ou da audiência de julgamento.

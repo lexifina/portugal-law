@@ -6,9 +6,9 @@
 
 ### (Designação da data para o debate)
 
-1 - Quando considerar que não há lugar à prática de actos de instrução, nomeadamente nos casos em que estes não tiverem sido requeridos, ou em cinco dias a partir da prática do último acto, o juiz designa dia, hora e local para o debate instrutório. Este é fixado para a data mais próxima possível, de modo que o prazo máximo de duração da instrução possa em qualquer caso ser respeitado.
+1 - Quando considerar que não há lugar à prática de atos de instrução, nomeadamente nos casos em que estes não tiverem sido requeridos, ou em cinco dias a partir da prática do último ato, o juiz designa, quando ainda não o tenha feito, dia, hora e local para o debate instrutório, o qual é fixado para a data mais próxima possível, de modo que o prazo máximo de duração da instrução possa em qualquer caso ser respeitado.
 
-2 - É correspondentemente aplicável o disposto no artigo 312.º, n.º 3.
+2 - É correspondentemente aplicável o disposto nos n.os 3 e 4 do artigo 312.º
 
 3 - A designação de data para o debate instrutório é notificada ao Ministério Público, ao arguido e ao assistente pelo menos cinco dias antes de aquele ter lugar. Em caso de conexão de processos nos termos do artigo 24.º, n.º 1, alíneas c), d) e e), a designação da data para o debate instrutório é notificada aos arguidos que não tenham requerido a instrução.
 

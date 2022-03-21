@@ -14,7 +14,7 @@
 
 4 - Os requerimentos de prova são ainda indeferidos se for notório que:
 
-a) As provas requeridas já podiam ter sido juntas ou arroladas com a acusação ou a contestação, exceto se o tribunal entender que são indispensáveis à descoberta da verdade e boa decisão da causa;
+a) (Revogada.);
 
 b) As provas requeridas são irrelevantes ou supérfluas;
 

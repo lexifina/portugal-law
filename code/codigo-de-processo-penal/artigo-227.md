@@ -19,3 +19,5 @@ b) Da perda dos instrumentos, produtos e vantagens de facto ilícito típico ou 
 4 - A caução económica prestada a requerimento do Ministério Público aproveita também ao lesado.
 
 5 - A caução económica mantém-se distinta e autónoma relativamente à caução referida no artigo 197.º e subsiste até à decisão final absolutória ou até à extinção das obrigações. Em caso de condenação, são pagas pelo seu valor, sucessivamente, a multa, a taxa de justiça, as custas do processo, a indemnização e outras obrigações civis e, ainda, o valor correspondente aos instrumentos, produtos e vantagens do crime.
+
+6 - A caução económica é aplicável à pessoa coletiva ou entidade equiparada.
