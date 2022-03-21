@@ -2,7 +2,7 @@
 
 ### Perturbação de assembleia social
 
-1 - Aquele que, com violência ou ameaça de violência, impedir algum sócio ou outra pessoa legitimada de tomar parte em assembleia geral de sócios, assembleia especial de accionistas ou assembleia de obrigacionistas, regularmente constituída, ou de nela exercer utilmente os seus direitos de informação, de proposta, de discussão ou de voto, será punido com pena de prisão até dois anos e multa até 180 dias.
+1 - Aquele que, com violência ou ameaça de violência, impedir algum sócio ou outra pessoa legitimada de tomar parte em assembleia geral de sócios, assembleia especial de acionistas ou assembleia de obrigacionistas, regularmente constituída, ou de nela exercer utilmente os seus direitos de informação, de proposta, de discussão ou de voto, é punido com pena de prisão até 3 anos ou com pena de multa.
 
 2 - Se o autor do impedimento, à data do facto, for membro de órgão de administração ou de fiscalização da sociedade, o limite máximo da pena será, em cada uma das espécies, agravado de um terço.
 

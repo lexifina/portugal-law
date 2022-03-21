@@ -16,6 +16,6 @@
 
 7 - Na graduação da pena serão tidos em conta os valores do capital e do volume de negócios das sociedades, os valores das acções a que diga respeito a infracção e a condição económica pessoal dos infractores.
 
-8 - A organização do processo e a decisão sobre aplicação da coima competem ao conservador do registo comercial da conservatória situada no concelho da área da sede da sociedade, bem como ao director-geral dos Registos e do Notariado, com possibilidade de delegação.
+8 - A organização do processo e a decisão sobre aplicação da coima competem ao conservador do registo comercial da conservatória situada no concelho da área da sede da sociedade, bem como ao presidente do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), com a possibilidade de delegação.
 
-9 - O produto das coimas reverte para a Direcção-Geral dos Registos e do Notariado.
+9 - O produto das coimas reverte para o IRN, I. P.
