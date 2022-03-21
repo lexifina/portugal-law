@@ -8,7 +8,7 @@
 
 # Artigo 372.º
 
-### Recebimento indevido de vantagem
+### Recebimento ou oferta indevidos de vantagem
 
 1 - O funcionário que, no exercício das suas funções ou por causa delas, por si, ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, que não lhe seja devida, é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.
 

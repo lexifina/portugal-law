@@ -2,9 +2,9 @@
 
 ### Proibição do exercício de profissão, função ou atividade
 
-1 - A pena de prisão aplicada em medida não superior a três anos é substituída por pena de proibição, por um período de dois a cinco anos, do exercício de profissão, função ou atividade, públicas ou privadas, quando o crime tenha sido cometido pelo arguido no respetivo exercício, sempre que o tribunal concluir que por este meio se realizam de forma adequada e suficiente as finalidades da punição.
+1 - A pena de prisão aplicada em medida não superior a 3 anos é substituída por pena de proibição, por um período de 2 a 8 anos, do exercício de profissão, função ou atividade, públicas ou privadas, quando o crime tenha sido cometido pelo arguido no respetivo exercício, sempre que o tribunal concluir que por este meio se realizam de forma adequada e suficiente as finalidades da punição.
 
-2 - No caso previsto no número anterior é aplicável, com as necessárias adaptações, o disposto nos n.os 3 a 5 do artigo 66.º e no artigo 68.º
+2 - No caso previsto no número anterior é aplicável, com as necessárias adaptações, o disposto nos n.os 4 a 6 do artigo 66.º e no artigo 68.º
 
 3 - O tribunal revoga a pena de proibição do exercício de profissão, função ou atividade e ordena o cumprimento da pena de prisão determinada na sentença se o agente, após a condenação:
 

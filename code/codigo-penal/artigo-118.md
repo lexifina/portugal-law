@@ -12,7 +12,23 @@
 
 1 - O procedimento criminal extingue-se, por efeito de prescrição, logo que sobre a prática do crime tiverem decorrido os seguintes prazos:
 
-a) 15 anos, quando se tratar de crimes puníveis com pena de prisão cujo limite máximo for superior a 10 anos ou dos crimes previstos nos artigos 335.º, 372.º, 373.º, 374.º, 374.º-A, 375.º, n.º 1, 377.º, n.º 1, 379.º, n.º 1, 382.º, 383.º e 384.º do Código Penal, 16.º, 17.º, 18.º e 19.º da Lei n.º 34/87, de 16 de julho, alterada pelas Leis n.os 108/2001, de 28 de novembro, 30/2008, de 10 de julho, 41/2010, de 3 de setembro, 4/2011, de 16 de fevereiro, e 4/2013, de 14 de janeiro, 7.º, 8.º e 9.º da Lei n.º 20/2008, de 21 de abril, e 8.º, 9.º, 10.º e 11.º da Lei n.º 50/2007, de 31 de agosto, e ainda do crime de fraude na obtenção de subsídio ou subvenção;
+a) 15 anos, quando se tratar de:
+
+i) Crimes puníveis com pena de prisão cujo limite máximo for superior a 10 anos;
+
+ii) Crimes previstos nos artigos 335.º, 372.º, 373.º, 374.º, 374.º-A, nos n.os 1 e 3 do artigo 375.º, no n.º 1 do artigo 377.º, no n.º 1 do artigo 379.º e nos artigos 382.º, 383.º e 384.º do Código Penal;
+
+iii) Crimes previstos nos artigos 11.º, 16.º a 20.º, no n.º 1 do artigo 23.º e nos artigos 26.º e 27.º da Lei n.º 34/87, de 16 de julho;
+
+iv) Crimes previstos nos artigos 7.º, 8.º e 9.º da Lei n.º 20/2008, de 21 de abril;
+
+v) Crimes previstos nos artigos 8.º, 9.º, 10.º, 10.º-A, 11.º e 12.º da Lei n.º 50/2007, de 31 de agosto;
+
+vi) Crime previsto no artigo 36.º do Decreto-Lei n.º 28/84, de 20 de janeiro;
+
+vii) Crimes previstos nos artigos 36.º e 37.º do Código de Justiça Militar; ou
+
+viii) Crime previsto no artigo 299.º do Código Penal, contanto que a finalidade ou atividade do grupo, organização ou associação seja dirigida à prática de um ou mais dos crimes previstos nas subalíneas i) a iv), vi) e vii);
 
 b) 10 anos, quando se tratar de crimes puníveis com pena de prisão cujo limite máximo for igual ou superior a 5 anos, mas que não exceda 10 anos;
 
