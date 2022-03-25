@@ -1,0 +1,22 @@
+Resolução do Conselho de Ministros n.º 34/2022
+Sumário: Autoriza a Metro do Porto, S. A., a realizar a despesa relativa aos investimentos do Plano de Recuperação e Resiliência.
+Em julho de 2021, o Conselho da União Europeia aprovou o Plano de Recuperação e Resiliência de Portugal (PRR), o qual prevê, no âmbito da componente C15 - Mobilidade Sustentável, o desenvolvimento de projetos para a melhoria dos sistemas de transporte coletivo, que promovam a utilização crescente do transporte público com a consequente redução da dependência do transporte individual rodoviário, contribuindo para a descarbonização do setor dos transportes e para a recuperação dos efeitos económicos e sociais resultantes da crise pandémica, em particular ao nível do emprego.
+Integram os investimentos previstos no PRR a Expansão da Rede de Metro do Porto - Casa da Música-Santo Ovídio (TC-C15-i02) e a Linha BRT Boavista - Império (TC-C15-i04), ambos da responsabilidade da Metro do Porto, S. A., e com valores de investimento de, respetivamente, (euro) 299 000 000,00 e de (euro) 66 000 000,00.
+A Expansão da Rede de Metro do Porto - Casa da Música-Santo Ovídio, permitirá alargar a cobertura territorial do sistema de metro na área metropolitana do Porto e reduzir os problemas de congestionamento do eixo Porto - Vila Nova de Gaia, com a construção de uma nova linha com uma extensão de 6,74 km em via dupla.
+A Linha BRT Boavista - Império, consiste numa nova linha de transporte público em sítio próprio, com aproximadamente 3,8 km de extensão, que estabelecerá a ligação entre a Praça do Império e a Praça Mouzinho de Albuquerque (Rotunda da Boavista), onde será garantida a articulação com a rede do Metro do Porto, servindo uma zona urbana consolidada da cidade do Porto, com um elevado potencial, permitindo ganhos significativos de aumento de passageiros para o sistema de transportes coletivos do Porto. Este investimento inclui a aquisição de material circulante indispensável à operação desta nova linha.
+Na sequência da contratualização com a Estrutura de Missão Recuperar Portugal dos dois projetos da Metro do Porto, S. A., previstos no PRR, e tratando-se de investimentos que envolvem contratos de valor significativo, a competência para autorização da despesa e assunção dos encargos plurianuais, em função do seu valor global, cabe ao Conselho de Ministros, pelo que importa obter a necessária autorização.
+Assim:
+Nos termos da alínea c) do n.º 1 do artigo 5.º e do n.º 1 do artigo 6.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Metro do Porto, S. A., na qualidade de beneficiário direto, a realizar as despesas com os encargos relativos aos investimentos do Plano de Recuperação e Resiliência (PRR), TC-C15-i02 - Expansão da Rede de Metro do Porto - Casa da Música-Santo Ovídio e TC-C15-i04 - Linha BRT Boavista - Império, até ao montante global de, respetivamente, (euro) 299 000 000,00 e de (euro) 66 000 000,00, montantes aos quais acresce o IVA à taxa legal em vigor.
+2 - Estabelecer que os encargos financeiros referidos no número anterior, não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) Em 2021 - (euro) 6 100 000,00;
+b) Em 2022 - (euro) 37 300 000,00;
+c) Em 2023 - (euro) 105 300 000,00;
+d) Em 2024 - (euro) 98 700 000,00;
+e) Em 2025 - (euro) 117 600 000,00.
+3 - Estabelecer que o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que lhe antecede.
+4 - Determinar que os encargos financeiros referidos no n.º 1 são assegurados por verbas do PRR inscritas e a inscrever no orçamento de projetos da Metro do Porto, S. A., no âmbito da componente C15 - Mobilidade Sustentável, sem prejuízo, se aplicável, do disposto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho.
+5 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área do ambiente, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 17 de março de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+115142872
