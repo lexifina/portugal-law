@@ -1,3 +1,9 @@
+Decreto-Lei n.º 125/2021
+
+de 30 de dezembro
+
+Sumário: Altera o regime de pagamento em prestações de tributos nas fases pré-executiva e executiva e aprova regimes excecionais de pagamento em prestações no ano de 2022.
+
 Atendendo à emergência de saúde pública de âmbito internacional causada pela pandemia da doença COVID-19, o Governo tem aprovado diversas medidas excecionais de flexibilização do cumprimento das obrigações fiscais, quer declarativas quer de pagamento, bem como de apoio às famílias e empresas, para mitigar os efeitos da mencionada pandemia da doença COVID-19.
 
 Nesse âmbito, considerando a importância de que se reveste a regularização da situação tributária, designadamente no quadro da obtenção de diversos incentivos, que, no presente contexto, podem ser essenciais à subsistência das famílias e das empresas, e o necessário apoio à promoção do cumprimento voluntário, foram aprovados o Despacho n.º 8844-B/2020, publicado no Diário da República, 2.ª série, n.º 179, de 14 de setembro de 2020, e o Despacho n.º 1090-C/2021, publicado no Diário da República, 2.ª série, n.º 17, de 26 de janeiro de 2021, que determinam que a Autoridade Tributária e Aduaneira (AT) deve disponibilizar oficiosamente aos contribuintes, independentemente da apresentação do pedido, a faculdade de pagamento em prestações, sem necessidade de prestação de garantia, nos termos do Decreto-Lei n.º 492/88, de 30 de dezembro, na sua redação atual, e, no caso do Despacho n.º 1090-C/2021, publicado no Diário da República, 2.ª série, n.º 17, de 26 de janeiro de 2021, e do Código de Procedimento e de Processo Tributário, nos casos em que as dívidas já podem ser pagas sem prestação de garantia.

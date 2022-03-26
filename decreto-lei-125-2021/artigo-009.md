@@ -14,4 +14,4 @@ b) A dívida seja de valor igual ou inferior a (euro) 5000,00 ou a (euro) 10 000
 
 c) Não tenha apresentado pedido de pagamento em prestações nos termos da secção anterior.
 
-2 - [Revogado.]
+2 - Caso a dívida seja de IUC e no mesmo mês deva ser pago o imposto sobre dois ou mais veículos, a condição prevista na alínea b) do número anterior tem-se por verificada sempre que uma das liquidações respeite os limites nela previstos.

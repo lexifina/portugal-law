@@ -14,4 +14,4 @@ b) Altera o Código de Procedimento e de Processo Tributário, aprovado pelo Dec
 
 c) Aprova um regime excecional de pagamento em prestações para dívidas tributárias em execução fiscal; e
 
-d) Aprova regimes complementares de diferimento de obrigações fiscais a cumprir no ano de 2022.
+d) Aprova um regime complementar de diferimento de obrigações fiscais a cumprir no 1.º semestre de 2022.
