@@ -1,0 +1,9 @@
+Aviso n.º 6369/2022
+Sumário: Projeto do Regulamento Municipal de Gestão de Praias Marítimas Integradas no Domínio Público Hídrico do Estado do Concelho de Vila do Conde.
+Prof. Doutor Vitor Manuel Moreira Costa, Presidente da Câmara Municipal de Vila do Conde, torna público, que a Câmara Municipal de Vila do Conde, na sua reunião realizada no dia 3 de março de 2022, deliberou, submeter a consulta pública o projeto de "Regulamento Municipal de Gestão de Praias Marítimas Integradas no Domínio Público Hídrico do Estado do Concelho de Vila do Conde" durante o período de 30 dias úteis, nos termos e para os efeitos previstos no CPA, a fim de poderem ser formuladas eventuais sugestões e reclamações, aviso projeto de regulamento disponível na para consulta no sitio institucional do Município de Vila do Conde em www.cm-viladoconde.pt.
+As eventuais sugestões, observações ou reclamações, deverão ser dirigidas à Presidente da Câmara Municipal, por correio, por e-mail para o endereço eletrónico geral@cm-viladoconde.pt, ou entregues diretamente nos serviços municipais.
+O período de discussão pública tem início no dia de publicação deste aviso no Diário da República.
+O referido Projeto de Regulamento estará disponível para consulta dos interessados na Departamento de Administração Geral e Financeira da Câmara Municipal de Vila do Conde, sita na Praça Vasco da Gama, de segunda a sexta-feira, no horário das 9h00 às 12h30 e das 14h00 às 17h00, encontrando-se também o respetivo processo disponível para consulta na página eletrónica do Município de Vila do Conde, em www.cm-viladoconde.pt.
+Para constar e não poder ser alegada ignorância, se pública o presente aviso na 2.ª série do Diário da República e vai ser afixado nos lugares públicos do costume.
+10 de março de 2022. - O Presidente da Câmara Municipal, Prof. Doutor Vítor Costa.
+315130057
