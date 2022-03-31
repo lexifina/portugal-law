@@ -1,0 +1,8 @@
+Aviso n.º 6667/2022
+Sumário: Consulta pública do projeto de regulamento dos Serviços Administrativos e Operacionais da Faculdade de Belas-Artes da Universidade de Lisboa.
+Consulta pública do projeto de regulamento dos Serviços Administrativos e Operacionais da Faculdade de Belas-Artes da Universidade de Lisboa
+Fernando António Baptista Pereira, Presidente da Faculdade de Belas-Artes da Universidade de Lisboa, torna público, no uso da competência que lhe é conferida pela alínea t) do n.º 1 do artigo 23.º dos Estatutos da Faculdade de Belas-Artes da Universidade de Lisboa, o Projeto de Regulamento dos Serviços Administrativos e Operacionais da Faculdade de Belas-Artes da Universidade de Lisboa, submetendo-o nos termos dos artigos 99.º e 101.º do Código de Procedimento Administrativo e do n.º 3 do artigo 110.º da Lei n.º 62/2007, de 10 de setembro, a consulta pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente Aviso no Diário da República.
+O Projeto de Regulamento pode ser consultado no sítio institucional da Faculdade de Belas-Artes, através do endereço https://www.belasartes.ulisboa.pt/belas-artes/servicos-administrativos/.
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais deverão ser endereçadas ao Presidente da Faculdade de Belas-Artes, podendo ser remetidas ao Secretariado da Presidência da Faculdade, através do endereço de correio eletrónico: sec.presidente@belasartes.ulisboa.pt.
+16 de fevereiro de 2022. - O Presidente da Faculdade, Prof. Doutor Fernando António Baptista Pereira.
+315101918
