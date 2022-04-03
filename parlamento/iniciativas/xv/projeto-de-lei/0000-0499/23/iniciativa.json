@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "23",
+  "id": "121360",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-04-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b4d6a4e6c4e5745795953316d4f4459784c5451784d6d45744f5745314f53316b4d6a6c694d3252695a54426c4e544d756347526d&fich=d23e5a2a-f861-412a-9a59-d29b3dbe0e53.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "CH",
+        "idCadastro": "6535",
+        "nome": "André Ventura"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7338",
+        "nome": "Bruno Nunes"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "6858",
+        "nome": "Diogo Pacheco de Amorim"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7332",
+        "nome": "Filipe Melo"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7340",
+        "nome": "Gabriel Mithá Ribeiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7330",
+        "nome": "Jorge Galveias"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7345",
+        "nome": "Pedro dos Santos Frazão"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7391",
+        "nome": "Pedro Pessanha"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7390",
+        "nome": "Rita Matias"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7344",
+        "nome": "Rui Afonso"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7342",
+        "nome": "Rui Paulo Sousa"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CH"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "121360",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4e44646c596a5135595330774d4463314c5451785a6a45744f47566d4e69316d4e6a597a4e546379597a41355a4445755a47396a65413d3d&fich=347eb49a-0075-41f1-8ef6-f663572c09d1.docx&Inline=true",
+    "IniNr": "23",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Criminaliza o incitamento ao ódio contra os membros dos órgãos de polícia criminal e órgãos judiciais ",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
