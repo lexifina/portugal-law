@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "22",
+  "id": "121359",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-04-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684d6a686b4e546b79596930334d5451304c54526a4e5751744f5745795a5330335a5749334e44686a4d7a4d33597a63756347526d&fich=a28d592b-7144-4c5d-9a2e-7eb748c337c7.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "CH",
+        "idCadastro": "6535",
+        "nome": "André Ventura"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7338",
+        "nome": "Bruno Nunes"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "6858",
+        "nome": "Diogo Pacheco de Amorim"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7332",
+        "nome": "Filipe Melo"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7340",
+        "nome": "Gabriel Mithá Ribeiro"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7330",
+        "nome": "Jorge Galveias"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7345",
+        "nome": "Pedro dos Santos Frazão"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7391",
+        "nome": "Pedro Pessanha"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7336",
+        "nome": "Pedro Pinto"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7390",
+        "nome": "Rita Matias"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7344",
+        "nome": "Rui Afonso"
+      },
+      {
+        "GP": "CH",
+        "idCadastro": "7342",
+        "nome": "Rui Paulo Sousa"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CH"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "121359",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339694e47566b4d6a5a6c4d6931695a44646a4c54517a4d6d4974595749304d7930324e6a6c694e5445784e6a42694d7a49755a47396a65413d3d&fich=b4ed26e2-bd7c-432b-ab43-669b51160b32.docx&Inline=true",
+    "IniNr": "22",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Eleva para 18 anos a idade mínima para contrair casamento ",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
