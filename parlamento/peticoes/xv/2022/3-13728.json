@@ -1,0 +1,209 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13728",
+  "numero": "3",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-04-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-05-28",
+            "entidades": null,
+            "id": "148773",
+            "tipo": null,
+            "titulo": "Audição em 2024-05-28 com Alberto Luís Mourão Soares Carneiro, Bruno Magalhães Patrício "
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915220",
+                "obs": null,
+                "pag": [
+                  "13-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-07-20",
+                "pubLeg": "XVI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/021/2024-07-20/13?pgs=13-16&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-30",
+        "DataArquivo": "2024-07-10",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2024-07-16",
+        "DataReaberta": "2024-04-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-05-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4a44546b56445543394562324e31625756756447397a5547563061574e6862793832596d5a68596a526a4f533169596a55794c54513359544d744f54426d5969316c596d49344d6a6b315a54466c4f5441756347526d&fich=6bfab4c9-bb52-47a3-90fb-ebb8295e1e90.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-07-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4a44546b56445543394562324e31625756756447397a5547563061574e686279396859324d794d6a6b784e7930344e6a63304c5451774f444d74596a4d324e4330304d6a4d304d4463325a5441794e5449756347526d&fich=acc22917-8674-4083-b364-4234076e0252.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8394",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas ",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-04-30",
+            "gp": "PS",
+            "id": "7483",
+            "motivoCessacao": null,
+            "nome": "Gilberto Anjos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2022-06-14",
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2022-04-19",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2022-06-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-06-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c3252685a5455345a44466a4c5445785a5463744e4759315a5331684e57466b4c54646b59546730595441325a575177597935775a47593d&fich=dae58d1c-11e7-4f5e-a5ad-7da84a06ed0c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8326",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2022-04-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e7a59304f5759345a446b7459545a6b597930304d6a4a6c4c5467314f446b744e4463775932526b4d7a5a6d5a6a6b304c6e426b5a673d3d&fich=7649f8d9-a6dc-422e-8589-470cdd36ff94.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-07-10",
+        "TipoDocumento": "Relatório Final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e474d794f54593459546b744e6a64684d4330304e5451344c546b314d4455744f474d324f5463324e6d453059544d354c6e426b5a673d3d&fich=4c2968a9-67a0-4548-9505-8c69766a4a39.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13728",
+    "PetAssunto": "Embargo  económico geral à Federação Russa",
+    "PetDataEntrada": "2022-04-05",
+    "PeticoesAssociadas": null,
+    "PetId": "13728",
+    "PetLeg": "XV",
+    "PetNr": "3",
+    "PetNrAssinaturas": "1131",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVI Legislatura",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915240",
+        "obs": null,
+        "pag": [
+          "11-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-03",
+        "pubLeg": "XVI",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/006/2024-05-03/11?pgs=11&org=PLC"
+      }
+    ]
+  }
+}
