@@ -1,0 +1,52 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "32",
+    "id": "121374",
+    "titulo": "Contagem de todos os pontos para efeitos de descongelamento das carreiras"
+  },
+  "fase": "Entrada",
+  "codigo_fase": "10",
+  "data_registo": "2022-04-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b4d7a553059324e6d4f53316959324d314c545178596a41744f446c694d6930355a4745774d5749794e4459354d6a55756347526d&fich=d354ccf9-bcc5-41b0-89b2-9da01b246925.pdf&Inline=true",
+        "anexoNome": "Despacho n.º 19/XV, relativo ao Aperfeiçoamento do Projeto de Lei n.º 32/XV/1.ª, por incumprimento da “norma-travão”"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334e4468694e5467324e533030596a686d4c5451794e4759744f575a695a69316d4e445935595455334e324d334e6a51756347526d&fich=748b5865-4b8f-424f-9fbf-f469a577c764.pdf&Inline=true",
+        "anexoNome": "Resposta do PAR ao GPPCP sobre admissão do Projeto de Lei"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b4e6d4e685a546b344f4330335a47566b4c5451304e546b744f445978595330794f44457a4d4463315a54466d4d446b756347526d&fich=d6cae988-7ded-4459-861a-2813075e1f09.pdf&Inline=true",
+        "anexoNome": "Resposta do PCP ao Despacho do PAR sobre a admissão do PJL"
+      }
+    ],
+    "CodigoFase": "10",
+    "Comissao": null,
+    "DataFase": "2022-04-06",
+    "EvtId": "1",
+    "Fase": "Entrada",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1284592",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
