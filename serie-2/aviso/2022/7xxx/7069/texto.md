@@ -1,0 +1,7 @@
+Aviso n.º 7069/2022
+Sumário: Regulamento dos Campos de Férias do Município de Condeixa-a-Nova.
+Regulamento dos Campos de Férias do Município de Condeixa-a-Nova
+António Lázaro Ferreira, Vice-presidente da Câmara Municipal de Condeixa-a-Nova, em substituição do Presidente, ao abrigo da competência constante da alínea t) do n.º 1 do artigo 35.º e em conformidade com o disposto no artigo 56.º da Lei n.º 75/2013 de 12 de setembro, na sua atual redação, torna público que, na reunião do órgão executivo realizada no dia 30 de junho de 2021, foi deliberado submeter a consulta pública o Projeto de Regulamento dos Campos de Férias do Município de Condeixa-a-Nova, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, durante o prazo de 30 dias a contar da data de publicação do presente aviso no Diário da República, estando o mesmo disponível para consulta, mediante afixação de edital, nos locais de estilo e na página do Município em www.cm-condeixa.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme o disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, dirigidas ao Presidente da Câmara Municipal, Largo Artur Barreto, 3150-124 Condeixa-a-Nova ou através do e-mail geral@cm-condeixa.pt.
+28 de março de 2022. - O Vice-Presidente da Câmara Municipal, António Lázaro Ferreira.
+315167861
