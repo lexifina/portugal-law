@@ -1,0 +1,179 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "36",
+    "id": "121380",
+    "titulo": "Prevê o crime de assédio sexual, procedendo à quinquagésima sexta alteração ao Código Penal e à vigésima alteração ao Código do Trabalho"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-04-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62397",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-04-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2022-06-03",
+        "DatainicioApreciacaoPublica": "2022-05-04",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-06-08",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a517a4e7a566c4d3245354c5759355a6d59744e44526c4d7931684e5755354c57493259546c6a4e3255774f54646a596935775a47593d&fich=4375e3a9-f9ff-44e3-a5e9-b6a9c7e097cb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c694d7a6c6c4e6a51344c5463324d5445744e44526d4d5331694d324a6a4c5468694d5751314f4751335a446b315a4335775a47593d&fich=9b39e648-7611-44f1-b3bc-8b1d58d7d95d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a64695a4745304f4749784c575533593259744e4459314d4331694e6a49784c575669593259774f444d3259575a6c4d5335775a47593d&fich=7bda48b1-e7cf-4650-b621-ebcf0836afe1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e694f4451314d4755774c5745344f474d744e4452694f5331694f475a6b4c544d315a5751334f5459794d6a6c6c4d7935775a47593d&fich=cb8450e0-a88c-44b9-b8fd-35ed796229e3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a69596d51324f544d304c54526b4d574d744e474a694e693168597a41354c544a6a595751775a4445354d6d45324d6935775a47593d&fich=6bbd6934-4d1c-4bb6-ac09-2cad0d192a62.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-08",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Apreciação Pública ",
+            "URL": "https://www.parlamento.pt/sites/COM/XVLeg/1CACDLG/Paginas/Apreciacoes-Publicas.aspx?t=515842795a574e7059634f6e77364e7649464444756d4a7361574e68494642796232706c644738675a4755675447567049444d32494668574944457577716f674b46424254696b3d&Path=6148523063446f764c324679626d56304c334e706447567a4c3168575447566e4c304e505453387851304644524578484c30467963585670646d39446232317063334e686279394263484a6c59326c684a554d7a4a5545334a554d7a4a5549315a584d6c4d6a42514a554d7a4a554a42596d78705932467a4c304677636d566a6157484470384f6a627942517737706962476c6a59534251636d39715a5852764947526c4945786c6153417a4e694259566941784c734b714943685151553470"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-05-09"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2022-06-07"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-05-09"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-04-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2022-04-20"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-04-20"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6859",
+            "motivoCessacao": null,
+            "nome": "Cláudia Santos"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2022-06-08",
+            "dataRemessa": "2022-06-08",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-04-08",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a  10.ª Comissão",
+    "OevId": "1284875",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "961204",
+        "obs": null,
+        "pag": [
+          "45-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-08",
+        "pubLeg": "XV",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/039/2022-06-08/45?pgs=45-50&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
