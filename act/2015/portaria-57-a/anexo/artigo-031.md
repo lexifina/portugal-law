@@ -34,11 +34,11 @@ g) (Regovada).
 
 2 - No caso dos projetos promovidos por PME com investimento elegível inferior a 15 milhões de euros, o montante do incentivo calculado nos termos do n.º 1, é dividido em duas componentes iguais, 50 % não reembolsável e 50 % reembolsável.
 
-3 - Em qualquer situação a taxa de incentivo não pode ser superior a 75 %, nem exceder as taxas máximas expressas em equivalente de subvenção bruta (ESB) conforme mapa de auxílios com finalidade regional 2014-2020 aprovado pela Comissão Europeia (Auxilio Estatal n.º SA 38571), sendo que o ajustamento, quando necessário, é efetuado na componente não reembolsável.
+3 - Em qualquer situação a taxa de incentivo não pode ser superior a 75 % nem exceder as taxas máximas expressas em equivalente de subvenção bruta (ESB) conforme mapa de auxílios com finalidade regional 2022-2027 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 100752), sendo que o ajustamento, quando necessário, é efetuado na componente não reembolsável.
 
 4- São concedidos ao abrigo do regime de auxílios de minimis:
 
-a) Os incentivos a projetos localizados nos concelhos da região da NUTS II de Lisboa que não estão previstos no mapa de auxílios com finalidade regional 2014-2020 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 38571);
+a) Os incentivos a projetos localizados nas partes da região NUTS III do Algarve e da Área Metropolitana de Lisboa que não estão previstos no mapa de auxílios com finalidade regional 2022-2027 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 100752);
 
 b) Nos projetos promovidos por Não PME, os incentivos relativos às despesas elegíveis previstas na alínea c) do n.º 1 do artigo seguinte.
 

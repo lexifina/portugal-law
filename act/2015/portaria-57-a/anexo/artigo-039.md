@@ -6,11 +6,11 @@
 
 a) As despesas previstas nas alíneas a), b) do n.º 1 e nos n.os 4, 5 e 6 do artigo 32.º:
 
-i. As Orientações relativas aos auxílios estatais com finalidade regional para 2014-2020 (2013/C 209/01), para os projetos que ultrapassem os limiares de notificação previstos no artigo 4.º do Regulamento (UE) n.º 651/2014, de 16 de junho, bem como para os projetos que se insiram no setor de construção naval, independentemente da respetiva dimensão;
+i) As orientações relativas aos auxílios estatais com finalidade regional para 2022-2027 (2021/C 153/01), para projetos que ultrapassem os limiares de notificação previstos no artigo 4.º do Regulamento (UE) n.º 651/2014, de 16 de junho, com as alterações introduzidas pelo Regulamento (UE) 2020/972, de 2 de julho, bem como para os projetos que se insiram no setor de construção naval, independentemente da respetiva dimensão;
 
 ii) Os artigos 13.º e 14.º do Regulamento (UE) n.º 651/2014, de 16 de junho, para os projetos que não ultrapassem os limiares de notificação previstos no artigo 4.º do mesmo regulamento;
 
-iii) O Regulamento (UE) n.º 1407/2013, de 18 de dezembro, relativo aos auxílios de minimis, para os projetos localizados nos concelhos da região da NUTS II de Lisboa que não estão previstos no mapa de auxílios com finalidade regional 2014-2020 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 38571);
+iii) O Regulamento (UE) n.º 1407/2013, de 18 de dezembro, com as alterações introduzidas pelo Regulamento (UE) 2020/972, de 2 de julho, relativo aos auxílios de minimis, para os projetos localizados nas partes da região NUTS III do Algarve e da Área Metropolitana de Lisboa que não estão previstos no mapa de auxílios com finalidade regional 2022-2027 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 100752);
 
 b) As despesas previstas na alínea d) do n.º 1 do artigo 32.º do presente regulamento respeitam o artigo 31.º do Regulamento (UE) n.º 651/2014, de 16 de junho;
 
