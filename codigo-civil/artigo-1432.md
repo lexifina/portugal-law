@@ -4,18 +4,24 @@
 
 1 - A assembleia é convocada por meio de carta registada, enviada com 10 dias de antecedência, ou mediante aviso convocatório feito com a mesma antecedência, desde que haja recibo de recepção assinado pelos condóminos.
 
-2 - A convocatória deve indicar o dia, hora, local e ordem de trabalhos da reunião e informar sobre os assuntos cujas deliberações só podem ser aprovadas por unanimidade dos votos.
+2 - A convocatória indicada no n.º 1 é efetuada através de correio eletrónico para os condóminos que manifestem essa vontade em assembleia de condóminos realizada anteriormente, devendo essa manifestação de vontade ficar lavrada em ata com a indicação do respetivo endereço de correio eletrónico.
 
-3. As deliberações são tomadas, salvo disposição especial, por maioria dos votos representativos do capital investido.
+3 - Na situação prevista no número anterior, o condómino deve enviar, pelo mesmo meio, recibo de receção do respetivo e-mail convocatório.
 
-4 - Se não comparecer o número de condóminos suficiente para se obter vencimento e na convocatória não tiver sido desde logo fixada outra data, considera-se convocada nova reunião para uma semana depois, na mesma hora e local, podendo neste caso a assembleia deliberar por maioria de votos dos condóminos presentes, desde que estes representem, pelo menos, um quarto do valor total do prédio.
+4 - A convocatória deve indicar o dia, hora, local e ordem de trabalhos da reunião e informar sobre os assuntos cujas deliberações só podem ser aprovadas por unanimidade dos votos.
 
-5 - As deliberações que careçam de ser aprovadas por unanimidade dos votos podem ser aprovadas por unanimidade dos condóminos presentes desde que estes representem, pelo menos, dois terços do capital investido, sob condição de aprovação da deliberação pelos condóminos ausentes, nos termos dos números seguintes.
+5 - As deliberações são tomadas, salvo disposição especial, por maioria dos votos representativos do capital investido.
 
-6 - As deliberações têm de ser comunicadas a todos os condóminos ausentes, por carta registada com aviso de recepção, no prazo de 30 dias.
+6 - Se não comparecer o número de condóminos suficiente para se obter vencimento e na convocatória não tiver sido desde logo fixada outra data, considera-se convocada nova reunião para uma semana depois, na mesma hora e local, podendo neste caso a assembleia deliberar por maioria de votos dos condóminos presentes, desde que estes representem, pelo menos, um quarto do valor total do prédio.
 
-7 - Os condóminos têm 90 dias após a recepção da carta referida no número anterior para comunicar, por escrito, à assembleia de condóminos o seu assentimento ou a sua discordância.
+7 - Sem prejuízo do disposto no número anterior, se estiverem reunidas as condições para garantir a presença, no próprio dia, de condóminos que representem um quarto do valor total do prédio, a convocatória pode ser feita para trinta minutos depois, no mesmo local.
 
-8 - O silêncio dos condóminos deve ser considerado como aprovação da deliberação comunicada nos termos do n.º 6.
+8 - As deliberações que careçam de ser aprovadas por unanimidade dos votos podem ser aprovadas por unanimidade dos condóminos presentes desde que estes representem, pelo menos, dois terços do capital investido, sob condição de aprovação da deliberação pelos condóminos ausentes, nos termos dos números seguintes.
 
-9 - Os condóminos não residentes devem comunicar, por escrito, ao administrador o seu domicílio ou o do seu representante.
+9 - As deliberações têm de ser comunicadas a todos os condóminos ausentes, no prazo de 30 dias, por carta registada com aviso de receção ou por correio eletrónico, aplicando-se, neste caso, o disposto nos n.os 2 e 3.
+
+10 - Os condóminos têm 90 dias após a recepção da carta referida no número anterior para comunicar, por escrito, à assembleia de condóminos o seu assentimento ou a sua discordância.
+
+11 - O silêncio dos condóminos é considerado como aprovação da deliberação comunicada nos termos do n.º 9.
+
+12 - Os condóminos não residentes devem comunicar, por escrito, ao administrador o seu domicílio ou o do seu representante.
