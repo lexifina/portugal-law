@@ -13,3 +13,5 @@ a) A dissolução da sociedade;
 b) A redução do capital social para montante não inferior ao capital próprio da sociedade, com respeito, se for o caso, do disposto no n.º 1 do artigo 96.º;
 
 c) A realização pelos sócios de entradas para reforço da cobertura do capital.
+
+4 - O disposto nos números anteriores não é aplicável durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.

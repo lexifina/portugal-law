@@ -6,6 +6,8 @@
 
 2 - É permitido deliberar a redução do capital a um montante inferior ao mínimo estabelecido nesta lei para o respectivo tipo de sociedade se tal redução ficar expressamente condicionada à efectivação de aumento do capital para montante igual ou superior àquele mínimo, a realizar nos 60 dias seguintes àquela deliberação.
 
-3 - O disposto nesta lei sobre capital mínimo não obsta a que a deliberação de redução seja válida se, simultaneamente, for deliberada a transformação da sociedade para um tipo que possa legalmente ter um capital do montante reduzido.
+3 - É igualmente permitido deliberar a redução do capital a um montante inferior ao estabelecido neste Código para o respetivo tipo de sociedade, caso esta seja necessária para o estabelecimento dos regimes de reestruturação preventiva previstos no Código da Insolvência e da Recuperação de Empresas.
 
-4 - A redução do capital não exonera os sócios das suas obrigações de liberação do capital.
+4 - O disposto nesta lei sobre capital mínimo não obsta a que a deliberação de redução seja válida se, simultaneamente, for deliberada a transformação da sociedade para um tipo que possa legalmente ter um capital do montante reduzido.
+
+5 - A redução do capital não exonera os sócios das suas obrigações de liberação do capital.
