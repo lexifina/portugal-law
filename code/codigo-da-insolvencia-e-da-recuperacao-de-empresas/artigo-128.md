@@ -22,6 +22,8 @@ d) A existência de eventuais garantias pessoais, com identificação dos garant
 
 e) A taxa de juros moratórios aplicável.
 
+f) O número de identificação bancária ou outro equivalente.
+
 2 - O requerimento é endereçado ao administrador da insolvência e apresentado por transmissão eletrónica de dados, nos termos definidos na portaria prevista no n.º 2 do artigo 17.º
 
 3 - Sempre que os credores da insolvência não estejam patrocinados, o requerimento de reclamação de créditos é apresentado no domicílio profissional do administrador da insolvência ou para aí remetido por correio eletrónico ou por via postal registada, devendo o administrador, respetivamente, assinar no ato de entrega, ou enviar ao credor no prazo de três dias da receção, comprovativo do recebimento, sendo o envio efetuado pela forma utilizada na reclamação.

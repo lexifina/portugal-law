@@ -14,6 +14,6 @@
 
 6 - O despacho saneador tem, quanto aos créditos reconhecidos, a forma e o valor de sentença, que os declara verificados e os gradua em harmonia com as disposições legais.
 
-7 - Se a verificação de alguns créditos necessitar de produção de prova, a graduação de todos os créditos tem lugar na sentença final, a menos que o juiz considere que as impugnações sob apreciação, dado o seu montante ou natureza, não impedem a prolação imediata, observando-se o disposto no n.º 1 do artigo 180.º
+7 - Os créditos cuja verificação ou graduação necessite de produção de prova são provisoriamente verificados e graduados nos termos do número anterior, observando-se o disposto no n.º 1 do artigo 180.º
 
 8 - Caso o juiz entenda que não se mostra adequado realizar a tentativa de conciliação, profere de imediato o despacho previsto no n.º 3.

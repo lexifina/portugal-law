@@ -2,7 +2,7 @@
 
 ### Quórum
 
-1 - A proposta de plano de insolvência considera-se aprovada se, estando presentes ou representados na reunião credores cujos créditos constituam, pelo menos, um terço do total dos créditos com direito de voto, recolher mais de dois terços da totalidade dos votos emitidos e mais de metade dos votos emitidos correspondentes a créditos não subordinados, não se considerando como tal as abstenções.
+1 - A proposta de plano de insolvência considera-se aprovada se, estando presentes ou representados na reunião credores cujos créditos constituam, pelo menos, um terço do total dos créditos com direito de voto, recolher mais de 50 % da totalidade dos votos emitidos e, nestes, estejam compreendidos mais de metade dos votos correspondentes a créditos não subordinados com direito de voto, não se considerando como tal as abstenções.
 
 2 - Não conferem direito de voto:
 

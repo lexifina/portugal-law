@@ -2,7 +2,7 @@
 
 ### Começo da venda de bens
 
-1 - Transitada em julgado a sentença declaratória da insolvência e realizada a assembleia de apreciação do relatório, o administrador da insolvência procede com prontidão à venda de todos os bens apreendidos para a massa insolvente, independentemente da verificação do passivo, na medida em que a tanto se não oponham as deliberações tomadas pelos credores na referida assembleia.
+1 - Transitada em julgado a sentença declaratória da insolvência e realizada a assembleia de apreciação do relatório, o administrador da insolvência procede com prontidão à venda de todos os bens apreendidos para a massa insolvente, independentemente da verificação do passivo, na medida em que a tanto se não oponham as deliberações tomadas pelos credores na referida assembleia, apresentando nos autos, para o efeito, no prazo de 10 dias a contar da data de realização da assembleia de apreciação do relatório, um plano de liquidação de venda dos bens, contendo metas temporalmente definidas e a enunciação das diligências concretas a encetar.
 
 2 - O administrador da insolvência promove, porém, a venda antecipada dos bens da massa insolvente que não possam ou não se devam conservar por estarem sujeitos a deterioração ou depreciação.
 

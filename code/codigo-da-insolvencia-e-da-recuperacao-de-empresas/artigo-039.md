@@ -24,7 +24,7 @@ a) O devedor não fica privado dos poderes de administração e disposição do 
 
 b) O processo de insolvência é declarado findo logo que a sentença transite em julgado, sem prejuízo da tramitação até final do incidente limitado de qualificação da insolvência;
 
-c) O administrador da insolvência limita a sua actividade à elaboração do parecer a que se refere o n.º 2 do artigo 188.º;
+c) O administrador da insolvência limita a sua atividade à elaboração do parecer a que se refere o n.º 6 do artigo 188.º;
 
 d) Após o respectivo trânsito em julgado, qualquer legitimado pode instaurar a todo o tempo novo processo de insolvência, mas o prosseguimento dos autos depende de que seja depositado à ordem do tribunal o montante que o juiz razoavelmente entenda necessário para garantir o pagamento das custas e das dívidas previsíveis da massa insolvente, aplicando-se o disposto nos n.os 4 e 5.
 

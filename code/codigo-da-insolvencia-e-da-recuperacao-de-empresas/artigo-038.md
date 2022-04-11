@@ -12,7 +12,7 @@ b) Na conservatória do registo comercial, se houver quaisquer factos relativos 
 
 c) Na entidade encarregada de outro registo público a que o devedor esteja eventualmente sujeito.
 
-3 - Sem prejuízo do disposto no n.º 5 do artigo 43.º do Código de Registo Predial, a declaração de insolvência é ainda inscrita no registo predial, relativamente aos bens que integrem a massa insolvente, com base em certidão judicial da declaração de insolvência transitada em julgado, se o serviço de registo não conseguir aceder à informação necessária por meios electrónicos, e em declaração do administrador da insolvência que identifique os bens.
+3 - A declaração de insolvência é ainda inscrita no registo predial, comercial e automóvel relativamente aos bens ou direitos que integrem a massa insolvente, com base em certidão judicial da declaração de insolvência transitada em julgado, se o serviço de registo não conseguir aceder à informação necessária por meios eletrónicos, e em declaração do administrador da insolvência que identifique os bens ou direitos.
 
 4 - O registo previsto no número anterior, quando efectuado provisoriamente por natureza, é feito com base nas informações incluídas na página informática do tribunal, nos termos da alínea b) do n.º 6, e na declaração do administrador da insolvência que identifique os bens.
 
