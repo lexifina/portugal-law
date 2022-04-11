@@ -14,7 +14,7 @@ d) A promessa de alienação ou de oneração de partes de capital de sociedades
 
 e) A transmissão de partes sociais de sociedades em nome colectivo, de partes sociais de sócios comanditados de sociedades em comandita simples, a constituição de direitos reais de gozo ou de garantia sobre elas e a sua transmissão, modificação e extinção, bem como a penhora dos direitos aos lucros e à quota de liquidação;
 
-f) A constituição e a transmissão de usufruto, o penhor, o arresto, o arrolamento, a penhora e a apreensão em processo penal de quotas ou direitos sobre elas e ainda quaisquer outros atos ou providências que afetem a sua livre disposição;
+f) A constituição e a transmissão de usufruto, o penhor, o arresto, o arrolamento, a penhora e a apreensão em processo penal de quotas ou direitos sobre elas e ainda quaisquer outros atos ou providências que afetem a sua livre disposição, designadamente a declaração de insolvência relativamente a quotas ou direitos que integrem a massa insolvente;
 
 g) A exoneração e exclusão de sócios de sociedades em nome colectivo e de sociedades em comandita, bem como a extinção de parte social por falecimento do sócio e a admissão de novos sócios de responsabilidade ilimitada;
 
