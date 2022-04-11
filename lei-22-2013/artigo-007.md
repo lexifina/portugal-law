@@ -24,7 +24,7 @@ i) Qualquer outro documento que o candidato considere relevante para instruir a 
 
 2 - Sem prejuízo do disposto no número anterior, a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais pode solicitar ao interessado qualquer outro documento que repute como necessário para prova dos factos declarados.
 
-3 - Compete à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais determinar o momento de realização do estágio e fixar o número de candidatos ao estágio a ministrar em cada processo de recrutamento de administradores judiciais, devendo para o efeito atender às necessidades efetivas de recursos humanos para o exercício da atividade.
+3 - Compete à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais determinar o momento de realização do estágio.
 
 4 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais fixa, por regulamento, os critérios a observar na seleção dos candidatos ao estágio, sendo o referido regulamento publicado na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, em simultâneo com o anúncio de abertura do processo de recrutamento, com, pelo menos, 30 dias de antecedência face à data do início do estágio.
 
