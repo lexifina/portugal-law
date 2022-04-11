@@ -20,7 +20,9 @@ g) Tratando-se de sociedade compreendida em consolidação de contas, relatório
 
 h) Relatórios e contas especiais e informações trimestrais e semestrais, em base individual e consolidada, reportados a datas posteriores à do termo do último exercício a cuja elaboração a sociedade devedora esteja obrigada nos termos do Código dos Valores Mobiliários e dos regulamentos da Comissão do Mercado de Valores Mobiliários;
 
-i) Mapa de pessoal que o devedor tenha ao serviço.
+i) Documento em que se identificam as sociedades comerciais com as quais o devedor se encontre em relação de domínio ou de grupo nos termos do Código das Sociedades Comerciais ou que sejam consideradas empresas associadas nos termos do disposto no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, e, se for o caso, identificando os processos em que seja requerida ou tenha sido declarada a sua insolvência;
+
+j) Mapa de pessoal que o devedor tenha ao serviço.
 
 2 - O devedor deve ainda:
 

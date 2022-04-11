@@ -24,4 +24,4 @@ f) O auto é assinado por quem presenciou a diligência e pelo possuidor ou dete
 
 5 - À desocupação de casa de habitação onde resida habitualmente o insolvente é aplicável o disposto no artigo 862.º do Código de Processo Civil.
 
-6 - As somas recebidas em dinheiro pelo administrador da insolvência, ressalvadas as estritamente indispensáveis às despesas correntes de administração, devem ser imediatamente depositadas em instituição de crédito escolhida pelo administrador da insolvência.
+6 - As somas recebidas em dinheiro pelo administrador da insolvência devem ser imediatamente depositadas em conta bancária titulada pela massa insolvente, em instituição de crédito escolhida pelo administrador da insolvência.

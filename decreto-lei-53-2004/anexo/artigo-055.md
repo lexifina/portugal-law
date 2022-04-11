@@ -8,9 +8,9 @@ a) Preparar o pagamento das dívidas do insolvente à custa das quantias em dinh
 
 b) Prover, no entretanto, à conservação e frutificação dos direitos do insolvente e à continuação da exploração da empresa, se for o caso, evitando quanto possível o agravamento da sua situação económica.
 
-2 - Sem prejuízo dos casos de recurso obrigatório ao patrocínio judiciário ou de necessidade de prévia concordância da comissão de credores, o administrador da insolvência exerce pessoalmente as competências do seu cargo, podendo substabelecer, por escrito, a prática de atos concretos em administrador da insolvência com inscrição em vigor nas listas oficiais.
+2 - Sem prejuízo dos casos de necessidade de prévia concordância da comissão de credores, o administrador da insolvência exerce pessoalmente as competências do seu cargo, podendo substabelecer, por escrito, a prática de atos concretos em administrador da insolvência com inscrição em vigor nas listas oficiais.
 
-3 - O administrador da insolvência, no exercício das respectivas funções, pode ser coadjuvado sob a sua responsabilidade por técnicos ou outros auxiliares, remunerados ou não, incluindo o próprio devedor, mediante prévia concordância da comissão de credores ou do juiz, na falta dessa comissão.
+3 - O administrador da insolvência, no exercício das respetivas funções, pode ser coadjuvado sob a sua responsabilidade por advogados, técnicos ou outros auxiliares, remunerados ou não, incluindo o próprio devedor, mediante prévia concordância da comissão de credores ou do juiz, na falta dessa comissão.
 
 4 - O administrador da insolvência pode contratar a termo certo ou incerto os trabalhadores necessários à liquidação da massa insolvente ou à continuação da exploração da empresa, mas os novos contratos caducam no momento do encerramento definitivo do estabelecimento onde os trabalhadores prestam serviço, ou, salvo convenção em contrário, no da sua transmissão.
 

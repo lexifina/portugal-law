@@ -2,7 +2,7 @@
 
 ### Homologação de acordo extrajudicial de pagamento
 
-1 - O processo previsto no presente título pode igualmente iniciar-se pela apresentação pelo devedor de acordo extrajudicial de pagamento, assinado pelo devedor e por credores que representem pelo menos a maioria de votos prevista no n.º 3 do artigo 222.º-F, acompanhado dos documentos previstos no n.º 2 do artigo 222.º-A
+1 - O processo previsto no presente título pode igualmente iniciar-se pela apresentação pelo devedor de acordo extrajudicial de pagamento, assinado pelo devedor e por credores que representem pelo menos as maiorias de votos previstas no n.º 3 do artigo 222.º-F, acompanhado do documento previsto no n.º 2 do artigo 222.º-A.
 
 2 - Recebidos os documentos mencionados no número anterior, o juiz nomeia administrador judicial provisório, aplicando-se o disposto nos artigos 32.º a 34.º com as necessárias adaptações, devendo a secretaria:
 
@@ -12,8 +12,8 @@ b) Publicar no portal Citius a lista provisória de créditos.
 
 3 - O disposto nos n.os 2 a 4 do artigo 222.º-D aplica-se, com as necessárias adaptações, ao previsto no número anterior.
 
-4 - Convertendo-se a lista de créditos em definitiva, o juiz procede, no prazo de 10 dias, à análise do acordo extrajudicial, devendo homologá-lo se respeitar a maioria prevista no n.º 3 do artigo 222.º-F, exceto se subsistir alguma das circunstâncias previstas nos artigos 215.º e 216.º
+4 - Convertendo-se a lista de créditos em definitiva, o juiz procede, no prazo de 10 dias, à análise do acordo extrajudicial, devendo homologá-lo se respeitar as maiorias previstas no n.º 3 do artigo 222.º-F, exceto se subsistir alguma das circunstâncias previstas nos artigos 215.º e 216.º, aplicando, com as necessárias adaptações, as regras previstas no título ix, em especial o disposto nos artigos 194.º a 197.º, no n.º 1 do artigo 198.º e nos artigos 200.º a 202.º, 215.º e 216.º
 
-5 - Caso o juiz não homologue o acordo, aplica-se com as necessárias adaptações o disposto nos n.os 2 a 4 e 7 do artigo 222.º-G.
+5 - Caso o juiz não homologue o acordo, aplica-se com as necessárias adaptações o disposto nos n.os 3 a 9 do artigo 222.º-G.
 
 6 - O disposto no artigo 222.º-E, nos n.os 6, 7, 8, 9 e 10 do artigo 222.º-F e no artigo 222.º-H aplica-se com as necessárias adaptações.

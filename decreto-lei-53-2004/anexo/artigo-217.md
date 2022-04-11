@@ -16,6 +16,6 @@ a) A constituição da nova sociedade ou sociedades e para a transmissão em seu
 
 b) A redução de capital, aumento de capital, modificação dos estatutos, transformação, exclusão de sócios e alteração dos órgãos sociais da sociedade devedora, bem como para a realização dos respetivos registos.
 
-4 - As providências previstas no plano de insolvência com incidência no passivo do devedor não afetam a existência nem o montante dos direitos dos credores da insolvência contra os codevedores ou os terceiros garantes da obrigação, mas estes sujeitos apenas podem agir contra o devedor em via de regresso nos termos em que o credor da insolvência pudesse exercer contra ele os seus direitos.
+4 - As providências previstas no plano de insolvência com incidência no passivo do devedor não afetam a existência nem o montante dos direitos dos credores da insolvência, designadamente os que votem favoravelmente o plano, contra os codevedores ou os terceiros garantes da obrigação, mas estes sujeitos apenas podem agir contra o devedor em via de regresso nos termos em que o credor da insolvência pudesse exercer contra ele os seus direitos.
 
 5 - A sentença homologatória produz de imediato os efeitos referidos nos n.os 1 a 3, ainda que seja interposto recurso.

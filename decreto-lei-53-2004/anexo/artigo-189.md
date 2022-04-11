@@ -14,7 +14,7 @@ c) Declarar essas pessoas inibidas para o exercício do comércio durante um per
 
 d) Determinar a perda de quaisquer créditos sobre a insolvência ou sobre a massa insolvente detidos pelas pessoas afectadas pela qualificação e a sua condenação na restituição dos bens ou direitos já recebidos em pagamento desses créditos.
 
-e) Condenar as pessoas afetadas a indemnizarem os credores do devedor declarado insolvente no montante dos créditos não satisfeitos, até às forças dos respetivos patrimónios, sendo solidária tal responsabilidade entre todos os afetados.
+e) Condenar as pessoas afetadas a indemnizarem os credores do devedor declarado insolvente até ao montante máximo dos créditos não satisfeitos, considerando as forças dos respetivos patrimónios, sendo tal responsabilidade solidária entre todos os afetados.
 
 3 - A inibição para o exercício do comércio tal como a inibição para a administração de patrimónios alheios são oficiosamente registadas na conservatória do registo civil, e bem assim, quando a pessoa afetada for comerciante em nome individual, na conservatória do registo comercial, com base em comunicação eletrónica ou telemática da secretaria, acompanhada de extrato da sentença.
 
