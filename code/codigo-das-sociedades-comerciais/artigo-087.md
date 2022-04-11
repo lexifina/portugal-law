@@ -29,3 +29,5 @@ g) As pessoas que participarão nesse aumento.
 4 - O sócio de sociedade por quotas que por si ou juntamente com outros reunir a maioria de votos necessária para deliberar a alteração do contrato de sociedade pode comunicar à gerência o aumento do capital social por conversão de suprimentos registados no último balanço aprovado de que seja titular.
 
 5 - O órgão de administração procede à comunicação por escrito, no prazo máximo de 10 dias, aos sócios que não hajam participado no aumento referido no número anterior, com a advertência de que a eficácia do aumento depende da não oposição expressa de qualquer um daqueles, manifestada por escrito, no prazo de 10 dias, contados da comunicação de conversão.
+
+6 - O disposto nos números anteriores não é aplicável durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
