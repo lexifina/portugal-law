@@ -1,0 +1,219 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "4",
+    "id": "121394",
+    "titulo": "Aprova o Orçamento do Estado para 2022\n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-04-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62333",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-04-26",
+            "id": "127413",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-04-27",
+            "id": "127418",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-04-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2022-05-10",
+        "DatainicioApreciacaoPublica": "2022-04-20",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-04-20",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Parecer Conselho das Finanças Públicas",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774d53346c4d6a4244526c4174554746795a574e6c636930774d6930794d4449794c6e426b5a673d3d&fich=01.+CFP-Parecer-02-2022.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-04-20",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo ASF - Autoridade de Supervisão de Seguros e Fundos de Pensões",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774d69346c4d6a424462323530636d6c69645852764a54497751564e474c6e426b5a673d3d&fich=02.+Contributo+ASF.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-04-21",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo MUBi - Associação pela Mobilidade Urbana em Bicicleta",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774d79346c4d6a4251636d397762334e3059584d6c4d6a424e56554a704a544977543055794d4449794c6e426b5a673d3d&fich=03.+Propostas+MUBi+OE2022.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-04-23",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório UTAO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67354e324a6c5a6a41354c5755784d5455744e4751784d7930354e6a45304c5451324f5451795a54426a4d4756685a5335775a47593d&fich=897bef09-e115-4d13-9614-46942e0c0eae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-04-23",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo António Carvalho",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774e43346c4d6a424462323530636d6c69645852764a5449775157353077374e756157386c4d6a424459584a325957786f627935775a47593d&fich=04.+Contributo+Ant%c3%b3nio+Carvalho.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-04-27",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Comissão de Trabalhadores do INE",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774e53346c4d6a424462323530636d6c69645852764a5449775132397461584e7a77364e764a5449775a47556c4d6a4255636d46695957786f59575276636d567a4a5449775a47386c4d6a424a546b55756347526d&fich=05.+Contributo+Comiss%c3%a3o+de+Trabalhadores+do+INE.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-04-27",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório final COF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b794f444d315a54566c4c545177595441744e44646c4d6931694e7a566c4c544a6b4e6a6b774d4451304d6d4a6a4e5335775a47593d&fich=92835e5e-40a0-47e2-b75e-2d6900442bc5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-04-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo da Comissão do Mercado de Valores Mobiliários",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774e69346c4d6a424462323530636d6c69645852764a54497751303157545335775a47593d&fich=06.+Contributo+CMVM.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-04-28",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Rui Nunes - Atualização do Subsídio de refeição Função Pública",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774e79346c4d6a424462323530636d6c69645852764a544977556e56704a544977546e56755a584d6c4d6a41744a5449775158523159577870656d484470384f6a627955794d4752764a5449775533566963384f745a476c764a5449775a47556c4d6a42795a575a6c61634f6e77364e764a544977526e5675773666446f32386c4d6a42517737706962476c6a595335775a47593d&fich=07.+Contributo+Rui+Nunes+-+Atualiza%c3%a7%c3%a3o+do+Subs%c3%addio+de+refei%c3%a7%c3%a3o+Fun%c3%a7%c3%a3o+P%c3%bablica.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório final da Comissão de Orçamento e Finanças, incluindo pareceres das diversas comissões especializadas, da Unidade Técnica de Apoio Orçamental (UTAO), do Conselho das Finanças Públicas, do Conselho Económico e Social, das Regiões Autónomas dos Açores e da Madeira, da\nAssociação Nacional de Municípios Portugueses (ANMP), da Associação Nacional de Freguesias (ANAFRE) e da Comissão Nacional de Proteção de Dados (CNPD).",
+            "pag": [
+              "2-401"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-05-04",
+            "pubLeg": "XV",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/022/2022-05-04/2?pgs=2-401&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório final da Comissão de Orçamento e Finanças, incluindo pareceres das diversas comissões especializadas, da Unidade Técnica de Apoio Orçamental (UTAO), do Conselho das Finanças Públicas, do Conselho Económico e Social, das Regiões Autónomas dos Açores e da Madeira, da\nAssociação Nacional de Municípios Portugueses (ANMP), da Associação Nacional de Freguesias (ANAFRE) e da Comissão Nacional de Proteção de Dados (CNPD).",
+            "pag": [
+              "2-401"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-05-04",
+            "pubLeg": "XV",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/022/2022-05-04/2?pgs=2-401&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1933",
+            "motivoCessacao": null,
+            "nome": "Alexandre Simões"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2022-04-27",
+            "dataRemessa": "2022-04-27",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE",
+              "PAN"
+            ],
+            "data": "2022-04-27",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I><BR>Ausência: <I>BE</I>, <I> PAN</I>",
+            "id": "104613",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "5",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2022-04-13",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1284751",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
