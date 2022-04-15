@@ -6,4 +6,4 @@
 
 ### Actos sujeitos a registo obrigatório
 
-É obrigatório o registo, na Conservatória dos Registos Centrais, das declarações para atribuição, aquisição e perda da nacionalidade, bem como da naturalização de estrangeiros.
+É obrigatório o registo, na Conservatória dos Registos Centrais, das declarações para atribuição, aquisição e perda da nacionalidade.

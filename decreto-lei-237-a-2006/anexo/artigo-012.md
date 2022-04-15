@@ -10,4 +10,4 @@
 
 ### Fundamento da aquisição da nacionalidade
 
-A aquisição da nacionalidade portuguesa pode ter como fundamento a declaração de vontade do interessado, a adopção plena ou a naturalização e só produz efeitos a partir da data do registo.
+A aquisição da nacionalidade portuguesa pode ter como fundamento a declaração de vontade do interessado, a adoção ou a naturalização e só produz efeitos a partir da data do registo.

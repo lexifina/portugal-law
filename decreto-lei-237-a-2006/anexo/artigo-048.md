@@ -2,8 +2,8 @@
 
 ### Forma de lavrar os registos
 
-1 - Os registos de atribuição, aquisição e perda da nacionalidade são efectuados por averbamento quando o registo de nascimento seja simultaneamente lavrado na Conservatória dos Registos Centrais ou aí se encontre arquivado.
+1 - Os registos de atribuição, aquisição e perda da nacionalidade são efetuados por averbamento ao assento de nascimento simultaneamente lavrado na Conservatória dos Registos Centrais ou, sendo caso disso, já arquivado na base de dados do registo civil.
 
-2 - Fora do caso previsto no número anterior, os registos de atribuição, aquisição ou perda da nacionalidade são lavrados por assento.
+2 - (Revogado.)
 
-3 - O disposto nos números anteriores não se aplica à atribuição da nacionalidade mediante inscrição de nascimento no registo civil português ou à aquisição mediante adopção, por efeito da lei.
+3 - O disposto no n.º 1 não se aplica à atribuição da nacionalidade mediante inscrição de nascimento no registo civil português.

@@ -2,11 +2,11 @@
 
 ### Forma das declarações
 
-1 - As declarações a que se refere o n.º 1 do artigo anterior podem ser prestadas em extensões da Conservatória dos Registos Centrais junto de outras pessoas colectivas públicas, em termos a fixar por protocolo a celebrar entre essas entidades e a Direcção-Geral dos Registos e do Notariado, em conservatórias do registo civil e em serviços consulares portugueses, sendo aí reduzidas a auto, e enviadas para a Conservatória dos Registos Centrais, se possível por via electrónica, nas condições que vierem a ser fixadas por portaria do Ministro da Justiça.
+1 - As declarações a que se refere o n.º 1 do artigo anterior podem ser prestadas presencial e verbalmente na Conservatória dos Registos Centrais, nas extensões desta conservatória e, ainda, nas conservatórias do registo civil ou nos serviços consulares portugueses, sendo nestes casos vertidas em auto, sempre que possível em suporte eletrónico.
 
-2 - Salvo tratando-se de atribuição de nacionalidade mediante inscrição de nascimento no registo civil português, as declarações referidas no número anterior podem ainda constar de impresso, de modelo a aprovar por despacho do director-geral dos Registos e do Notariado, podendo ser apresentadas nas extensões da Conservatória dos Registos Centrais ou enviadas, por correio, para a mesma Conservatória, ou por via electrónica, nas condições que vierem a ser fixadas por portaria do Ministro da Justiça.
+2 - Salvo tratando-se de atribuição de nacionalidade mediante inscrição de nascimento no registo civil português, as declarações a que se refere o n.º 1 do artigo anterior podem ainda ser apresentadas por via eletrónica ou constar de impresso, de modelo a aprovar por despacho do presidente do conselho diretivo do IRN, I. P., a entregar presencialmente na Conservatória dos Registos Centrais, nas extensões desta conservatória, nas conservatórias do registo civil ou nos serviços consulares portugueses, ou a remeter por via postal para a Conservatória dos Registos Centrais.
 
-3 - As declarações efectuadas nos termos previstos no número anterior só se consideram prestadas na data da sua recepção na Conservatória dos Registos Centrais, devendo ser objecto de indeferimento liminar, no prazo de 30 dias, nos seguintes casos:
+3 - As declarações apresentadas ao abrigo dos números anteriores só se consideram prestadas na data da sua receção na Conservatória dos Registos Centrais, devendo ser objeto de indeferimento liminar, no prazo de 30 dias, nos seguintes casos:
 
 a) Quando não constem do impresso de modelo aprovado para esse efeito, ou sejam omitidas menções ou formalidades nele previstas;
 
@@ -14,8 +14,10 @@ b) Quando não sejam acompanhadas dos documentos necessários para comprovar os 
 
 c) Quando não sejam apresentados os documentos previstos no n.º 3 do artigo 57.º, sendo caso disso.
 
-4 - Se o conservador ou o oficial dos registos concluir que a declaração deve ser liminarmente indeferida notifica o interessado dos fundamentos que conduzem ao indeferimento para que este se pronuncie, no prazo de 20 dias.
+d) Quando a apresentação por via eletrónica a que se refere o número anterior não se realize nos termos definidos na portaria a que se refere o n.º 1 do artigo 43.º-A.
 
-5 - Em caso de indeferimento liminar, as declarações não produzem efeitos, sendo proferida decisão fundamentada por conservador ou por oficial dos registos.
+4 - Se o conservador de registos ou o oficial de registos concluir que a declaração deve ser liminarmente indeferida, o interessado é notificado dos fundamentos que conduzem ao indeferimento para que se pronuncie no prazo de 30 dias.
 
-6 - Sendo o indeferimento objecto de recurso hierárquico ou de reacção contenciosa, o prazo para a dedução de oposição à aquisição da nacionalidade só começa a contar a partir da data da decisão do referido recurso ou do trânsito em julgado da sentença que se tiver pronunciado sobre esse acto de indeferimento, considerando-o inválido ou inexistente.
+5 - Em caso de indeferimento liminar, as declarações não produzem efeitos, sendo proferida decisão fundamentada pelo conservador de registos ou pelo oficial de registos.
+
+6 - (Revogado.)

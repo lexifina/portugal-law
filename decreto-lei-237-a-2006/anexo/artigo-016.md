@@ -1,9 +1,9 @@
 ## Subsecção III
 
-## Aquisição da nacionalidade por efeito da adopção plena
+## Aquisição da nacionalidade por efeito da adoção
 
 # Artigo 16.º
 
-### Aquisição por adopção plena
+### Aquisição por adoção
 
-Adquirem a nacionalidade portuguesa, por mero efeito da lei, os adoptados plenamente por nacional português.
+Adquirem a nacionalidade portuguesa, por mero efeito da lei, os adotados por português.

@@ -6,4 +6,4 @@
 
 2 - Quando no âmbito da rectificação, declaração de inexistência ou de nulidade e cancelamento dos registos se suscitem dúvidas quanto à identidade do titular, são competentes os tribunais administrativos e fiscais, sempre que esteja em causa a nacionalidade do interessado.
 
-3 - A decisão do conservador, proferida em processo de justificação, é objecto de reacção contenciosa para os tribunais administrativos e fiscais, nos termos do Código de Processo nos Tribunais Administrativos, sempre que esteja em causa a nacionalidade do interessado.
+3 - A decisão do conservador de registos, proferida em processo de justificação, é objeto de impugnação para os tribunais administrativos e fiscais, nos termos do Código de Processo nos Tribunais Administrativos, sempre que esteja em causa a nacionalidade do interessado.

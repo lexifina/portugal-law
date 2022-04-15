@@ -1,13 +1,15 @@
 # Artigo 70.º
 
-### Eliminação da menção da nacionalidade estrangeira dos progenitores ou sua omissão no registo de nascimento
+### Eliminação ou atualização da menção da nacionalidade estrangeira dos progenitores no registo de nascimento
 
-1 - Nos assentos de nascimento de indivíduos nascidos no território português, após a data da entrada em vigor da Lei n.º 37/81, de 3 de Outubro, filhos de estrangeiros, se um dos progenitores aqui tiver nascido e aqui tivesse residência, independentemente de título, ao tempo do nascimento, deve ser eliminada a menção da nacionalidade estrangeira dos progenitores ou do seu desconhecimento, por forma a que daí resulte a nacionalidade portuguesa do interessado, nos termos da última parte da alínea a) do artigo 3.º
+1 - Os indivíduos nascidos em território português após a data da entrada em vigor da Lei n.º 37/81, de 3 de outubro, com assento de nascimento já lavrado na data da entrada em vigor da Lei Orgânica n.º 2/2006, de 17 de abril, filhos de estrangeiros, podem requerer, em conservatória do registo civil, a eliminação da menção da nacionalidade estrangeira dos progenitores ou do seu desconhecimento, se um dos progenitores tiver nascido em território português e aqui tivesse residência, independentemente de título, ao tempo do nascimento, por forma a que daí resulte a nacionalidade portuguesa do interessado, nos termos da última parte da alínea a) do artigo 3.º
 
 2 - Para efeitos do disposto no número anterior, a naturalidade do progenitor nascido no território português é comprovada mediante certidão do respectivo registo de nascimento, devendo ser apresentado documento comprovativo da residência do mesmo, à data do nascimento do filho.
 
 3 - O documento previsto na parte final do número anterior pode ser dispensado, desde que sejam invocados factos que justifiquem a impossibilidade da sua apresentação.
 
-4 - Não se procede à retificação dos assentos de nascimento de indivíduos nascidos no território português, após a data da entrada em vigor da Lei n.º 37/81, de 3 de outubro, que sejam filhos de estrangeiros e que, não tendo outra nacionalidade, tenham sido identificados como nacionais portugueses por mais de 10 anos em virtude de erro no assento derivado da omissão da menção da nacionalidade estrangeira dos progenitores.
+4 - (Revogado.)
 
-5 - Nos casos referidos no número anterior, a nacionalidade portuguesa dos registados é averbada aos respetivos assentos de nascimento.
+5 - (Revogado.)
+
+6 - Os indivíduos nascidos em território português após a data da entrada em vigor da Lei n.º 37/81, de 3 de outubro, com assento de nascimento já lavrado na data da entrada em vigor da Lei Orgânica n.º 2/2020, de 10 de novembro, filhos de estrangeiros que não se encontravam ao serviço do respetivo Estado, podem requerer, em conservatória do registo civil, o averbamento dessa circunstância, se um dos progenitores tivesse residência legal em território português, ou aqui residisse, independentemente do título, há pelo menos um ano, ao tempo do nascimento, mediante a apresentação de documento comprovativo nos termos dos n.os 3 e 4 do artigo 10.º, por forma a que lhes seja atribuída a nacionalidade portuguesa nos termos desse artigo.
