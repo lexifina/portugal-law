@@ -1,0 +1,192 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "45",
+    "id": "121400",
+    "titulo": "Altera o Regime do Exercício de funções por titulares de cargos políticos e altos cargos públicos no sentido de limitar negócios com familiares"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-04-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62407",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-04-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-05-27",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do CSM - PJL 45/XV/1ª (CH)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d545244564556454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e574a6b4d6a59325a6a59745a446b334e5330305a474a6a4c5467344e5449744d7a6b7a595468684d6a597a596d45304c6e426b5a673d3d&fich=5bd266f6-d975-4dbc-8852-393a8a263ba4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do CPC - PJL 45/XV/1ª (CH) e PJL 69/XV/1ª (CH)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d545244564556454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f444d304d6d59304d3259744f574e6d5a6930304e6d51794c5745334d7a45744e54466a4e6a49785a546c6a4e7a67324c6e426b5a673d3d&fich=8342f43f-9cff-46d2-a731-51c621e9c786.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Ordem dos Advogados - PJL 45/XV/1ª (CH)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d545244564556454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d59774f575977595445744d446c6d4f4330304d7a45774c546c6d4e4755744d574d354e3249344d6a49304d4442694c6c424552673d3d&fich=6f09f0a1-09f8-4310-9f4e-1c97b822400b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do CSMP - PJL 45/XV/1ª (CH)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d545244564556454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4441304f474d324e7a51744f5441784e4330304d325a6d4c546b794d7a45744e7a4e6a4e54557a4d7a4d7a4e7a42694c6e426b5a673d3d&fich=d048c674-9014-43ff-9231-73c55333370b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-11-30",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da CTED - PJL 45/XV/1ª (CH)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d545244564556454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a64694e44426c4e5745744e446b7a4f4330304e7a4e6d4c5468694d5755744e6a526d4d574d324e4755344d6a566a4c6e426b5a673d3d&fich=27b40e5a-4938-473f-8b1e-64f1c64e825c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-11-30",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica - PJL 45/XV/1ª (CH)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d545244564556454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5449784f5449314d4749745a574e684e4330305a5455304c5749784e7a63744d5749794d6a4a6d4d574a694d5745304c6e426b5a673d3d&fich=1219250b-eca4-4e54-b177-1b222f1bb1a4.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8338",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Transparência e Estatuto dos Deputados",
+        "Numero": "8338",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-05-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2022-08-11"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-06-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Prevenção da Corrupção em 2022-06-08"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2022-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-05-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho de Prevenção da Corrupção em 2022-05-20"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4452",
+            "motivoCessacao": null,
+            "nome": "Isabel Alves Moreira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2022-11-29",
+            "descricao": null,
+            "detalhe": null,
+            "id": "115585",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "20",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2022-04-19",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1284925",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "972773",
+        "obs": null,
+        "pag": [
+          "19-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-11-30",
+        "pubLeg": "XV",
+        "pubNr": "122",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/122/2022-11-30/19?pgs=19-24&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
