@@ -1,0 +1,6 @@
+Aviso n.º 41/2022
+Sumário: O Secretário-Geral das Nações Unidas, na sua qualidade de depositário, comunicou ter a República Portuguesa aderido, a 21 de julho de 2021, à Convenção de Viena sobre o Direito dos Tratados entre Estados e Organizações Internacionais ou entre Organizações Internacionais, concluída em Viena, em 21 de março de 1986.
+Por ordem superior se torna público que, por notificação datada de 21 de julho de 2021, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário, comunicou ter a República Portuguesa aderido, a 21 de julho de 2021, à Convenção de Viena sobre o Direito dos Tratados entre Estados e Organizações Internacionais ou entre Organizações Internacionais, concluída em Viena, em 21 de março de 1986.
+A Convenção de Viena sobre o Direito dos Tratados entre Estados e Organizações Internacionais ou entre Organizações Internacionais foi aprovada, para adesão, pela Resolução da Assembleia da República n.º 72/2021, de 11 de fevereiro, e ratificada pelo Decreto do Presidente da República n.º 22/2021, publicados no Diário da República, 1.ª série, n.º 46, de 8 de março de 2021.
+Departamento de Assuntos Jurídicos, 12 de abril de 2022. - A Diretora, Patrícia Galvão Teles.
+115227193
