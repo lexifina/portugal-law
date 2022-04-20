@@ -1,0 +1,691 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13734",
+  "numero": "9",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-04-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-09-15",
+            "entidades": null,
+            "id": "127631",
+            "tipo": null,
+            "titulo": "Audição em 2022-09-15 com Petição N.º 9/XV/1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-10-19",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915128",
+                "obs": null,
+                "pag": [
+                  "6-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-22",
+                "pubLeg": "XV",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/041/2022-10-22/6?pgs=6-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-07-19",
+        "DataArquivo": "2022-10-19",
+        "DataBaixaComissao": "2022-04-22",
+        "DataEnvioPAR": "2022-10-19",
+        "DataReaberta": "2022-07-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-07-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a597a4e5755314e57526c4c5441304d7a55744e4449314e4330354e4441304c5745334d6a4d304d4749304e6a457a4e6935775a47593d&fich=635e55de-0435-4254-9404-a72340b46136.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-15",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c325130595451324d6d4d324c5441305a6d59744e474d334d6931695a44497a4c57466d4d47526d5954637a4f446c6d4d6935775a47593d&fich=d4a462c6-04ff-4c72-bd23-af0dfa7389f2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-15",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a466a4d5463784d44597a4c57466c4e6d55744e446334595330344d445a6a4c544e6b4f5451334d5441304d5463344d7935775a47593d&fich=1c171063-ae6e-478a-806c-3d9471041783.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-07-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3245794e32597a593251774c5749314d3251744e474d354d4331684f54526a4c5442685a4468695a54557a5a4441784d5335775a47593d&fich=a27f3cd0-b53d-4c90-a94c-0ad8be53d011.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-07-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a41354e7a4a6d5a4749304c5441334d546b744e4759315a6931684e4445334c5459355a44497a4d5755354d4751355a4335775a47593d&fich=0972fdb4-0719-4f5f-a417-69d231e90d9d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-10-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a59324d7a5a6b5a575a6a4c574a6a4e5749744e44557a5a6930354d474d794c5455785a6a557a4d444e6d596a526d596935775a47593d&fich=6636defc-bc5b-453f-90c2-51f5303fb4fb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-07-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324d774d5449354d3249344c544d325a5749744e4755304e7931694e6d4d344c5455784e7a67344e6a51794e444d304f5335775a47593d&fich=c01293b8-36eb-4e47-b6c8-517886424349.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c32526c596a6377596a4d314c545934596d59744e4467314d5331684e446b794c574e6d4e7a6c6d5a6a63334f54466b597935775a47593d&fich=deb70b35-68bf-4851-a492-cf79ff7791dc.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8337",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-10-19",
+            "dataNomeacao": "2022-07-19",
+            "gp": "PSD",
+            "id": "7011",
+            "motivoCessacao": "Entrega do Parecer",
+            "nome": "Gabriela Fonseca"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-03-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-04-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d7659324e6b595467335a575974595749344e4330305a47466c4c5467775a5749745a4463795a446b305a575978597a59784c6e426b5a673d3d&fich=ccda87ef-ab84-4dae-80eb-d72d94ef1c61.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "131786",
+      "151964",
+      "152479",
+      "152554",
+      "152555"
+    ],
+    "Iniciativasoriginadas": [
+      "131786",
+      "151964",
+      "152479",
+      "152554",
+      "152555"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=75"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 181/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=76"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/69?pgs=69&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 249/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=77"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/70?pgs=70&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 470/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=78"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/70?pgs=70-72&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 511/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=79"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/73?pgs=73&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 512/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=80"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=81"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=82"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=84"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-77",
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/75?pgs=75-77,78&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": "Responde ao pedido de esclarecimento do Deputado Duarte Alves (PCP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_16_15_00_00_clean_14_plenario.xml&idsegmento=83"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-17",
+                "pubLeg": "XV",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/77?pgs=77&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais - (Pedro Manuel Regueira Valadas Coriel e outros); Recomenda ao Governo que preserve e valorize o Parque das Gerações como eixo fundamental de uma estratégia nacional de desenvolvimento e promoção do skate; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público, de forma a evitar a sua destruição; Recomenda ao Governo a classificação do Parque das Gerações como equipamento de interesse público; Recomenda ao Governo que classifique o Parque das Gerações como equipamento de interesse público; Salvaguarda do Parque das Gerações.",
+            "Teor": "À Deputada Gabriela Fonseca (PSD)"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13734",
+    "PetAssunto": "Em defesa do Parque das Gerações, contra a proposta de alteração 308 do PDM de Cascais",
+    "PetDataEntrada": "2022-04-20",
+    "PeticoesAssociadas": null,
+    "PetId": "13734",
+    "PetLeg": "XV",
+    "PetNr": "9",
+    "PetNrAssinaturas": "8594",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16336",
+        "obs": null,
+        "pag": [
+          "68-78"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-17",
+        "pubLeg": "XV",
+        "pubNr": "102",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/102/2023-03-17/68?pgs=68-78&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915129",
+        "obs": null,
+        "pag": [
+          "11-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-22",
+        "pubLeg": "XV",
+        "pubNr": "23",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/023/2022-07-22/11?pgs=11-13&org=PLC"
+      }
+    ]
+  }
+}
