@@ -1,0 +1,716 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13733",
+  "numero": "8",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-04-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-06-29",
+            "entidades": null,
+            "id": "127538",
+            "tipo": null,
+            "titulo": "Audição em 2022-06-29 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-07-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-05-31",
+        "DataArquivo": "2022-07-20",
+        "DataBaixaComissao": "2022-04-22",
+        "DataEnvioPAR": "2022-07-20",
+        "DataReaberta": "2022-05-31",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-05-31",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938344d5459354f4749344d79316b4e474d7a4c54517a4f546b74596a4269596930334f546b7a596a49345a54686b4d4759756347526d&fich=81698b83-d4c3-4399-b0bb-7993b28e8d0f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938355a47566a596a51305a533077596d5a694c5452684e544d7459544d324d5331684d4468684d44637a596a49785a5445756347526d&fich=9decb44e-0bfb-4a53-a361-a08a073b21e1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279383359546c6a5a6d526a4d7930335a6d557a4c5451314d445574596d51344d6931684e6a566d4d5755324e574e685a5463756347526d&fich=7a9cfdc3-7fe3-4505-bd82-a65f1e65cae7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938784d7a67304d7a6b334e69307a4d5464694c5451334e446b744f5467774d5330345a475a6b4f57497a4f544a6a4f5751756347526d&fich=13843976-317b-4749-9801-8dfd9b392c9d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354d47566c597a5930596931694f44466d4c5451344e325974596a417a5969316b596d5a684d5449334e544d794f4749756347526d&fich=90eec64b-b81f-487f-b03b-dbfa1275328b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793833596a557a4f4441355a5331695a4749324c5451325a545974596a49344e6930334e7a46695a546b774d546c694d4445756347526d&fich=7b53809e-bdb6-46e6-b286-771be9019b01.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354e574d354f4463774e7930324d544d354c54526c595441744f4441345a693168595755314e6a5577597a49344d3245756347526d&fich=95c98707-6139-4ea0-808f-aae5650c283a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4e474931593245314e79316d5a6a49354c5452694d6a4d744f444d344d69316c5a6a686c5a5451334d7a5a6a4f5459756347526d&fich=f4b5ca57-ff29-4b23-8382-ef8ee4736c96.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684f474a694e5455354e6930334f5445774c545179596a6b744f545532597930354d4467335a574e684f574a684d4759756347526d&fich=a8bb5596-7910-42b9-956c-9087eca9ba0f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793831597a526a4f5755795a4330794e7a4d774c5451314e6a497459544668596930314e47466a4f44466c4e324e6c4e4751756347526d&fich=5c4c9e2d-2730-4562-a1ab-54ac81e7ce4d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938344d44677a4d444a695a43316d4f474e6b4c545179595745744f474d7a596930305957457a4d54466d4d6d566d4d5451756347526d&fich=808302bd-f8cd-42aa-8c3b-4aa311f2ef14.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a5a575130593259334e4330354e544d304c545131595467744f57557a4d6930315a6a6b784f44517a4d5745354e6a6b756347526d&fich=3ed4cf74-9534-45a8-9e32-5f918431a969.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334f445531597a5977597930334e6a51304c5451334f475574596a56694d43316a5a6a67324d6a686b4d4442694e6d51756347526d&fich=7855c60c-7644-478e-b5b0-cf8628d00b6d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4f4467314f44637a4e5330304e5755794c5452694f574974596d526d4f5331684f544a684d3255344f444a6c4d544d756347526d&fich=f8858735-45e2-4b9b-bdf9-a92a3e882e13.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774f544d7a4f5751794e4330344d5456694c5451314e6a6774596d4d315969316d4e5759324e54466a4f446b7a596a59756347526d&fich=09339d24-815b-4568-bc5b-f5f651c893b6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938784e54466c5a546c6a596930325a6d56684c5451325a544d74596a513459793034597a457a4d6a6b314e4449315a544d756347526d&fich=151ee9cb-6fea-46e3-b48c-8c13295425e3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-07-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684e546b354d6a49324e5330774e6a45354c54526d4d4463744f544178596931684d474e6c595459784e446779595445756347526d&fich=a5992265-0619-4f07-901b-a0cea61482a1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-07-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938795a6a67354e6a45784d43307a4e574d314c5452684f445974596a59344f5330325a6a63354e6a4a6a4d44637a4e3251756347526d&fich=2f896110-35c5-4a86-b689-6f7962c0737d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-07-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938315a6d4931597a59324d6930304d6a45354c5451784d6d4d74595467334f4330344d54686b4e54526d596a5531596d49756347526d&fich=5fb5c662-4219-412c-a878-818d54fb55bb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-07-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938794e574d77596d49794f5331685a446c6b4c54517859544574596a4a68595330304e6a5177596d526c4f44566c5a5449756347526d&fich=25c0bb29-ad9d-41a1-b2aa-4640bde85ee2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938304f5759334e475a6c4d4330794e7a6c6c4c5451354e575574595745334e79307a4f545131596d55345a57466b4e4449756347526d&fich=49f74fe0-279e-495e-aa77-3945be8ead42.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a595459334e4449304d6930774d7a4d794c54526b5a444d744f5445325a693030593259305a5749344d7a426a4d7a6b756347526d&fich=3a674242-0332-4dd3-916f-4cf4eb830c39.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-07-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a5a5756694e7a426c4e53316c593259794c545132595759744f5455324d79316a4d7a5a6b4d325a6d597a67784d5749756347526d&fich=ceeb70e5-ecf2-46af-9563-c36d3ffc811b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938315a6a6b785a545a6c4e53316d5a445a6d4c5451794e4451745954633259533030596d526c5a6a55795a4755334d3259756347526d&fich=5f91e6e5-fd6f-4244-a76a-4bdef52de73f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774d4468684d6d51775a5331694d5463794c5451784d7a63744f44426b4e69316a596a4e6a5a47466b4f5459305a6d51756347526d&fich=008a2d0e-b172-4137-80d6-cb3cdad964fd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a4e7a67794e4452685979316a4d474e684c5451784d7a67744f4751304d4330314d5449325a5755794e325a695a4449756347526d&fich=378244ac-c0ca-4138-8d40-5126ee27fbd2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334e6a637a4d6a63775953316b4d3259784c54526b4f544974596d4a695a5330774e7a59354d6a41774e4756695a446b756347526d&fich=7673270a-d3f1-4d92-bbbe-07692004ebd9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-06-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314e4759344e7a41774e7930354d32526a4c5451794e4449744f575577597931685a5751304e6d59334e474a6c4d6a59756347526d&fich=54f87007-93dc-4242-9e0c-aed46f74be26.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8332",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-07-19",
+            "dataNomeacao": "2022-06-23",
+            "gp": "PSD",
+            "id": "7007",
+            "motivoCessacao": null,
+            "nome": "Carla Madureira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-02-10",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-04-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d6a59314e324e6a4e7a6b744e3249355a6930304e324d304c5749354d5759745a5467354e7a63784d7a566d596a4e694c6e426b5a673d3d&fich=2657cc79-7b9f-47c4-b91f-e8977135fb3b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152328",
+      "131758",
+      "152291"
+    ],
+    "Iniciativasoriginadas": [
+      "152328",
+      "131758",
+      "152291"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-02-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=43"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39",
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-11",
+                "pubLeg": "XV",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/39?pgs=39,47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho (FENPROF – Federação Nacional dos Professores); Décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, Decreto-Lei n.º 139-A/90, de 28 de abril; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Recomenda ao Governo que proceda à atualização salarial dos professores e correspondência com os elevados níveis de exigência que a profissão docente implica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-11",
+                "pubLeg": "XV",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho (FENPROF – Federação Nacional dos Professores); Décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, Decreto-Lei n.º 139-A/90, de 28 de abril; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Recomenda ao Governo que proceda à atualização salarial dos professores e correspondência com os elevados níveis de exigência que a profissão docente implica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-11",
+                "pubLeg": "XV",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho (FENPROF – Federação Nacional dos Professores); Décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, Decreto-Lei n.º 139-A/90, de 28 de abril; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Recomenda ao Governo que proceda à atualização salarial dos professores e correspondência com os elevados níveis de exigência que a profissão docente implica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-11",
+                "pubLeg": "XV",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho (FENPROF – Federação Nacional dos Professores); Décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, Decreto-Lei n.º 139-A/90, de 28 de abril; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Recomenda ao Governo que proceda à atualização salarial dos professores e correspondência com os elevados níveis de exigência que a profissão docente implica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-11",
+                "pubLeg": "XV",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho (FENPROF – Federação Nacional dos Professores); Décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, Decreto-Lei n.º 139-A/90, de 28 de abril; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Recomenda ao Governo que proceda à atualização salarial dos professores e correspondência com os elevados níveis de exigência que a profissão docente implica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-11",
+                "pubLeg": "XV",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho (FENPROF – Federação Nacional dos Professores); Décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, Decreto-Lei n.º 139-A/90, de 28 de abril; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Recomenda ao Governo que proceda à atualização salarial dos professores e correspondência com os elevados níveis de exigência que a profissão docente implica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-11",
+                "pubLeg": "XV",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho (FENPROF – Federação Nacional dos Professores); Décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, Decreto-Lei n.º 139-A/90, de 28 de abril; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Recomenda ao Governo que proceda à atualização salarial dos professores e correspondência com os elevados níveis de exigência que a profissão docente implica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_10_10_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-11",
+                "pubLeg": "XV",
+                "pubNr": "88",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/45?pgs=45-47&org=PLC"
+              }
+            ],
+            "Sumario": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho (FENPROF – Federação Nacional dos Professores); Décima sexta alteração ao Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, Decreto-Lei n.º 139-A/90, de 28 de abril; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Recomenda ao Governo que proceda à atualização salarial dos professores e correspondência com os elevados níveis de exigência que a profissão docente implica.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13733",
+    "PetAssunto": "Os docentes reclamam justiça, efetivação de nossos direitos e respeito pelo horário de trabalho",
+    "PetDataEntrada": "2022-04-20",
+    "PeticoesAssociadas": null,
+    "PetId": "13733",
+    "PetLeg": "XV",
+    "PetNr": "8",
+    "PetNrAssinaturas": "17622",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16316",
+        "obs": null,
+        "pag": [
+          "39-48"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-02-11",
+        "pubLeg": "XV",
+        "pubNr": "88",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/39?pgs=39-48&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915128",
+        "obs": "Relatório final da Comissão de Educação e Ciência",
+        "pag": [
+          "9-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-22",
+        "pubLeg": "XV",
+        "pubNr": "23",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/023/2022-07-22/9?pgs=9-11&org=PLC"
+      }
+    ]
+  }
+}
