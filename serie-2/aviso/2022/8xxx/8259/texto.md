@@ -1,0 +1,8 @@
+Aviso n.º 8259/2022
+Sumário: Consulta pública da proposta de revisão do Regulamento de Apoios ao Movimento Associativo da Freguesia de Loures.
+Consulta Pública da Proposta de Revisão do Regulamento de Apoios ao Movimento Associativo da Freguesia de Loures
+António Manuel Pombinho Costa Guilherme, Presidente da Junta de Freguesia de Loures, torna público, em cumprimento do disposto no n.º 101 do Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Junta de Freguesia de Loures, na sua 11.ª reunião ordinária, realizada em 26 de março de 2022, deliberou por unanimidade submeter a consulta pública a proposta de revisão do Regulamento de Apoios ao Movimento Associativo da Freguesia de Loures, fixando o prazo de 30 dias, com início a partir da data de publicação deste Aviso no Diário da República.
+Esta proposta encontra-se disponível para consulta dos interessados na página da internet da Junta de Freguesia, em www.jf-loures.pt, e na Secretaria da Junta de Freguesia de Loures, sita na Rua Manuel Francisco Soromenho n.º 50, em Loures, todos os dias úteis das 9h00 às 16h00.
+Todos os interessados podem formular por escrito as reclamações, observações e sugestões ou pedidos de esclarecimento sobre a proposta de revisão do Regulamento de Apoios ao Movimento Associativo da Freguesia de Loures. As participações devem ser entregues pessoalmente ou remetidas por correio para a Junta de Freguesia de Loures, na Rua Manuel Francisco Soromenho n.º 50, 2670-452 Loures, ou para o endereço de correio eletrónico da Junta de Freguesia de Loures, geral@jf-loures.pt.
+1 de abril de 2022. - O Presidente, António Manuel Pombinho Costa Guilherme.
+315201231
