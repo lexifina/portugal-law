@@ -1,0 +1,8 @@
+Aviso n.º 8367/2022
+Sumário: Abertura do período de discussão pública do projeto do Regulamento Municipal da Urbanização e da Edificação e respetiva tabela de taxas.
+Abertura do período de discussão pública do projeto de Regulamento Municipal da Urbanização e da Edificação e respetiva Tabela de Taxas
+Nuno Alexandre Martins da Fonseca, Presidente da Câmara Municipal de Felgueiras torna público, nos termos do disposto na alínea t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º, ambos da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, em reunião ordinária realizada em 7 de abril de 2022, deliberou submeter a discussão pública, nos termos do n.º 3 do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, o projeto do Regulamento Municipal da Urbanização e da Edificação e da respetiva Tabela de Taxas.
+Mais torna público, que aquele projeto de Regulamento se encontra em consulta pública pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República, podendo o mesmo ser consultado na íntegra nos Gabinetes de Atendimento Municipal, durante o período normal de funcionamento ou na página eletrónica do Município de Felgueiras, em www.cm-felgueiras.pt.
+As eventuais reclamações, observações ou sugestões deverão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido ao Presidente da Câmara Municipal de Felgueiras, Praça da República, 4610-116 Felgueiras, utilizando para o efeito o impresso próprio que pode ser obtido na Câmara Municipal de Felgueiras ou na mencionada página da Internet (http://www.cm-felgueiras.pt).
+7 de abril de 2022. - O Presidente, Nuno Fonseca.
+315211162
