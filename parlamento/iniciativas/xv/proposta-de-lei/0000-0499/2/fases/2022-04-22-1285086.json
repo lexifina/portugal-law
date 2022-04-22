@@ -1,0 +1,665 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "2",
+    "id": "121385",
+    "titulo": "Altera a Lei de Enquadramento Orçamental"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2022-04-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2022-04-22",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1285086",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "960899",
+        "obs": null,
+        "pag": [
+          "64-70"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-04-23",
+        "pubLeg": "XV",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/64?pgs=64-70&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Artigo 1.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> CH</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>PSD</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "92860",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926374",
+            "obs": null,
+            "pag": [
+              "64-64"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/64?pgs=64&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PS – aditamento de um novo n.º 3 ao artigo 8.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PS</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PCP</I>, <I> BE</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>",
+        "id": "92863",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926375",
+            "obs": null,
+            "pag": [
+              "64-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/64?pgs=64-65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PS – aditamento de um n.º 4 ao artigo 8.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I><BR>Contra:<I>PCP</I>, <I> BE</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PAN</I>",
+        "id": "92865",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926376",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PS – aditamento do n.º 2 ao artigo 32.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PS</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PCP</I>, <I> BE</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>",
+        "id": "92867",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926377",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PS – aditamento do n.º 3 ao artigo 32.º da Lei de Enquadramento Orçamental;\nProposta de alteração do PS – aditamento do n.º 4 ao artigo 32.º da Lei de Enquadramento Orçamental.",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PCP</I>, <I> BE</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PAN</I>, <I> L</I>",
+        "id": "92869",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926378",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PS – aditamento de um novo n.º 2 ao artigo 36.º da Lei de Enquadramento Orçamental;\nProposta de alteração do PS – aditamento de um n.º 3 ao artigo 36.º da Lei de Enquadramento Orçamental;\nProposta de alteração do PS – aditamento de um n.º 4 ao artigo 36.º da Lei de Enquadramento Orçamental.\n",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PAN</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> L</I>",
+        "id": "92871",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926379",
+            "obs": null,
+            "pag": [
+              "66-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/66?pgs=66&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PS – emenda do n.º 2 (renumerado como 5) do artigo 36.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PCP</I>, <I> PAN</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> L</I>",
+        "id": "92872",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926380",
+            "obs": null,
+            "pag": [
+              "66-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/66?pgs=66&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "N.º 4 do artigo 39.º da Lei de Enquadramento Orçamental, constante do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "92873",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PSD – aditamento de uma alínea d) ao artigo 40.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PCP</I><BR>Abstenção:<I>BE</I>",
+        "id": "92874",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926381",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PSD – aditamento de uma alínea e) ao artigo 40.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I>, <I> PAN</I><BR>Contra:<I>PS</I>, <I> PCP</I><BR>Abstenção:<I>CH</I>, <I> BE</I>, <I> L</I>",
+        "id": "92875",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926382",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PSD – aditamento de uma alínea f) ao artigo 40.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PAN</I><BR>Contra:<I>PS</I>, <I> PCP</I><BR>Abstenção:<I>BE</I>, <I> L</I>",
+        "id": "92876",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926383",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PSD – aditamento de uma alínea g) ao artigo 40.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PAN</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>L</I>",
+        "id": "92877",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926384",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "N.º 4 do artigo 58.º da Lei de Enquadramento Orçamental, constante do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "92878",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926385",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do PSD – emenda do n.º 7 do artigo 58.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> IL</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>",
+        "id": "92879",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926386",
+            "obs": null,
+            "pag": [
+              "68-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/68?pgs=68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "N.º 8 do artigo 58.º da Lei de Enquadramento Orçamental, constante do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> L</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>",
+        "id": "92880",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926387",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do CH – emenda do n.º 4 do artigo 71.º da Lei de Enquadramento Orçamental",
+        "detalhe": "A Favor: <I>CH</I>, <I> IL</I>, <I> BE</I>, <I> PAN</I><BR>Contra:<I>PS</I>, <I> PSD</I><BR>Abstenção:<I>PCP</I>, <I> L</I>",
+        "id": "92881",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926388",
+            "obs": null,
+            "pag": [
+              "69-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/69?pgs=69-60&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Proposta de alteração do CH – aditamento de um n.º 4 ao artigo 74.º da Lei de Enquadramento Orçamental;\nProposta de alteração do CH – emenda do n.º 3 do artigo 75.º da Lei de Enquadramento Orçamental.",
+        "detalhe": "A Favor: <I>CH</I>, <I> IL</I>, <I> BE</I>, <I> PAN</I><BR>Contra:<I>PS</I>, <I> PSD</I><BR>Abstenção:<I>PCP</I>, <I> L</I>",
+        "id": "92882",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926389",
+            "obs": null,
+            "pag": [
+              "69-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/69?pgs=69&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Corpo do artigo 2.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> CH</I>, <I> L</I><BR>Abstenção:<I>PSD</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>",
+        "id": "92883",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926390",
+            "obs": null,
+            "pag": [
+              "69-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/69?pgs=69&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-04-22",
+        "descricao": "Artigo 3.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>",
+        "id": "92884",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926391",
+            "obs": null,
+            "pag": [
+              "69-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-23",
+            "pubLeg": "XV",
+            "pubNr": "9",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/009/2022-04-23/69?pgs=69&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
