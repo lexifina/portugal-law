@@ -1,0 +1,160 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13738",
+  "numero": "12",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-04-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-06-09",
+            "entidades": null,
+            "id": "127510",
+            "tipo": null,
+            "titulo": "Audição em 2022-06-09 com Prof. Carlos Gonçalves Café"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-06-21",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915116",
+                "obs": null,
+                "pag": [
+                  "11-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-25",
+                "pubLeg": "XV",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/017/2022-06-25/11?pgs=11-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2022-06-21",
+              "descricao": null,
+              "detalhe": null,
+              "id": "93070",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "8",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-05-31",
+        "DataArquivo": "2022-06-21",
+        "DataBaixaComissao": "2022-04-28",
+        "DataEnvioPAR": "2022-06-22",
+        "DataReaberta": "2022-05-31",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-06-01",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e68627938334e5451304e54677a4f5331685a54517a4c545177596a5574596a646b4f43307759546b30597a5533596a51774d5745756347526d&fich=75445839-ae43-40b5-b7d8-0a94c57b401a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-06-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e68627938794e7a557a4f4759344d7930305a5455314c54526a4e7a4174595759314e43316a4d44597a595449324e4745314f5459756347526d&fich=27538f83-4e55-4c70-af54-c063a264a596.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8335",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Ambiente e Energia",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-06-21",
+            "dataNomeacao": "2022-05-31",
+            "gp": "PSD",
+            "id": "6871",
+            "motivoCessacao": "Entrega do Relatório",
+            "nome": "Cláudia Bento"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2022-04-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6d466d4d474d31593259744e6d4932596930304e44517a4c5745784d5467744d6d49304e7a5532593255795a574d344c6e426b5a673d3d&fich=6af0c5cf-6b6b-4443-a118-2b4756ce2ec8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2022-06-09",
+        "TipoDocumento": "Link",
+        "URL": "http://media.parlamento.pt/site/XVLEG/SL1/COM/11_CAENE/CAENE_AP/CAENE_AP_20220609.mp3"
+      },
+      {
+        "DataDocumento": "2022-04-29",
+        "TipoDocumento": "Link",
+        "URL": "https://www.youtube.com/watch?v=_nwdUlIO3gU"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13738",
+    "PetAssunto": "Criação do Dia Nacional dos Jardins / 25 de maio ",
+    "PetDataEntrada": "2022-04-22",
+    "PeticoesAssociadas": null,
+    "PetId": "13738",
+    "PetLeg": "XV",
+    "PetNr": "12",
+    "PetNrAssinaturas": "1121",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
