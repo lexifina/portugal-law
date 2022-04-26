@@ -1,0 +1,826 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13739",
+  "numero": "13",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-04-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-12-21",
+            "entidades": null,
+            "id": "127856",
+            "tipo": null,
+            "titulo": "Audição em 2022-12-21 com Peticionários da Petição n.º 13/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-05-16",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915148",
+                "obs": null,
+                "pag": [
+                  "10-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-27",
+                "pubLeg": "XV",
+                "pubNr": "83",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/083/2023-05-27/10?pgs=10-13&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-09-14",
+        "DataArquivo": "2023-05-24",
+        "DataBaixaComissao": "2022-04-27",
+        "DataEnvioPAR": "2023-05-26",
+        "DataReaberta": "2022-09-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-09-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a6b3259546c684f4463784c5441304e6d51744e44457959793035596a557a4c5749774e5459304d3259354e7a646a4f4335775a47593d&fich=96a9a871-046d-412c-9b53-b05643f977c8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324a6d4e4468685a6a4a6c4c5745354e324d744e444e6b4e6931694e7a59344c5467784e544e6d59575533597a5933597935775a47593d&fich=bf48af2e-a97c-43d6-b768-8153fae7c67c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a4e6b4d6a4268596a45354c544d784d6a59744e4749344d53316859574a6d4c54526b4d6a4930597a6c6d4e44686d5a4335775a47593d&fich=3d20ab19-3126-4b81-aabf-4d224c9f48fd.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-05-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a646b4f575a6b4f5441354c5451315a4449744e446c695a6930344f5759314c54426c4e32466d5a445532596a4a6d4d6935775a47593d&fich=7d9fd909-45d2-49bf-89f5-0e7afd56b2f2.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8337",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2022-09-14",
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": null,
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-04-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-04-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a575a6d597a566a5a5749745a544d344e6930304f5446684c574a6b4e6a4d74596a426c4e446c6d4f4745344e4459794c6e426b5a673d3d&fich=effc5ceb-e386-491a-bd63-b0e49f8a8462.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "263569",
+      "263578",
+      "263579",
+      "263581",
+      "263584",
+      "263571",
+      "263585",
+      "263584",
+      "263569",
+      "263578",
+      "263579",
+      "263581",
+      "263571",
+      "263585"
+    ],
+    "Iniciativasoriginadas": [
+      "263569",
+      "263578",
+      "263579",
+      "263581",
+      "263584",
+      "263571",
+      "263585"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379721",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de \ntrabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379722",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/50?pgs=50&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/52?pgs=52-54&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos enfermeiros da Região Autónoma da Madeira; Progressões, salários e condições de trabalho para os profissionais de enfermagem do Serviço Nacional de Saúde; Aprova um regime excecional de avaliação do desempenho dos profissionais das carreiras de enfermagem do Serviço Nacional de Saúde para o biénio de 2025-2026, em reconhecimento do esforço empreendido no âmbito da pandemia da doença covid-19; Altera a carreira de enfermagem, repondo a justiça, valorizando trabalhadores essenciais ao Serviço Nacional de Saúde e ao País e premiar o esforço dado no âmbito da crise sanitária provocada pela covid-19, alterando diversos diplomas; Valorização profissional e remuneratória dos enfermeiros no SNS; Elimina as posições remuneratórias intermédias dos enfermeiros; Recomenda ao Governo que tome as medidas necessárias à valorização estatutária e remuneratória da carreira especial de enfermagem; Recomenda a contagem de pontos e reposição da paridade entre a carreira de enfermagem e a carreira técnica superior da Administração Pública.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13739",
+    "PetAssunto": "Enfermeiros reclamam descongelamento da carreira e avaliação de desempenho igual aos Enfermeiros da Região Autónoma da Madeira",
+    "PetDataEntrada": "2022-04-26",
+    "PeticoesAssociadas": null,
+    "PetId": "13739",
+    "PetLeg": "XV",
+    "PetNr": "13",
+    "PetNrAssinaturas": "11939",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36545",
+        "obs": null,
+        "pag": [
+          "46-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-04-24",
+        "pubLeg": "XVI",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/46?pgs=46-57&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915139",
+        "obs": null,
+        "pag": [
+          "21-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-09-17",
+        "pubLeg": "XV",
+        "pubNr": "35",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/035/2022-09-17/21?pgs=21-22&org=PLC"
+      }
+    ]
+  }
+}
