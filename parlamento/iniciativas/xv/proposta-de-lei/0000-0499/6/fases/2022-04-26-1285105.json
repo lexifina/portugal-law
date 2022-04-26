@@ -1,0 +1,199 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "6",
+    "id": "121432",
+    "titulo": "Aprova a Lei das Comunicações Eletrónicas e transpõe a Diretiva (UE) 2018/1972, que estabelece o Código Europeu das Comunicações Eletrónicas"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-04-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62420",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-04-26",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-10-27",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - ANACOM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b3459574a694e5441784c5751784e5451744e474a6b597931694d7a466d4c574a6d4f574a694d57526a4e3255794e5335775a47593d&fich=98abb501-d154-4bdc-b31f-bf9bb1dc7e25.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-26",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255354d4441355a6a4e684c575a6a5a474d744e4749345a5331684e7a67324c5759324d5752694f5445305a5451344d6935775a47593d&fich=e9009f3a-fcdc-4b8e-a786-f61db914e482.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - AT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526d4d4467314e7a67324c574e68597a45744e4749334f4331684e7a45314c575a6a4d324a6a4d3255785a6a63325a6935775a47593d&fich=4f085786-cac1-4b78-a715-fc3bc3e1f76f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - 6.ª CEOPPH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59304e5459325a444a6b4c5467304d3251744e474d314f4330344e6a49334c54646a5a57526b4f5751774f54646a5a6935775a47593d&fich=64566d2d-843d-4c58-8627-7cedd9d097cf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-30",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - AdC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55795a6d51335954646d4c5467354e7a51744e445978595331694f4451304c5467795a44466d4e325a6b4e4759305a6935775a47593d&fich=52fd7a7f-8974-461a-b844-82d1f7fd4f4f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Me-CDPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466b4f446c6a5a6d4d354c5456685a6d55744e4759794e6930354e325a6d4c54457a5a5445314d44526b5a6a68694e7935775a47593d&fich=ad89cfc9-5afe-4f26-97ff-13e1504df8b7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526a5a575a694e6d45304c57597a4e4463744e446b304e6930354d7a55794c544d794e446c6d4f4468684e5455334e7935775a47593d&fich=dcefb6a4-f347-4946-9352-3249f88a5577.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-17",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51784e47466c596d4d784c57466c4d5463744e444e6a5a6931684d6a466d4c54646b5932466a4d474a6b4e7a526c4e6935775a47593d&fich=414aebc1-ae17-43cf-a21f-7dcac0bd74e6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer- CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63774e475978596a566a4c5445345a5445744e4463784e7931684d446c6b4c5445324e475933596a41784e324d35596935775a47593d&fich=704f1b5c-18e1-4717-a09d-164f7b017c9b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - APRITEL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55795a6a64694d6a4d334c544a694d7a41744e47497a4e7930354f5441794c57517a4e7a426d597a4d784e6d51334e5335775a47593d&fich=52f7b237-2b30-4b37-9902-d370fc316d75.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANACOM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a695a4755324e3259334c5445324f5759744e446c6c595330345a5751334c5459304f445a694d546b344e544a6c595335775a47593d&fich=fbde67f7-169f-49ea-8ed7-6486b19852ea.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CNCS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59345a6d557a4d325a6a4c5749784d5459744e444d795a6930344f444d794c54497a4f445a6d4d446c6c4d444a684d7935775a47593d&fich=68fe33fc-b116-432f-8832-2386f09e02a3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ASAE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249354d6a4d774e4751354c574e6a4d4441744e4449304d4330354f47517a4c5463334e3255334f4445304f4445334e5335775a47593d&fich=b92304d9-cc00-4240-98d3-777e78148175.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - DGC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41334f44566a4f54566b4c5755795a4463744e445132595331694f4441344c5467354d7a56694f474a6b4d7a6b314d7935775a47593d&fich=0785c95d-e2d7-446a-b808-8935b8bd3953.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CSSC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6a4f44677a4e5759354c5759794d4745744e4445324f5331694e7a41304c5451354e6d49784f54497a4f4446684e6935775a47593d&fich=bc8835f9-f20a-4169-b704-496b192381a6.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8330",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "Numero": "8330",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-04-26",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 1.ª Comissão",
+    "OevId": "1285105",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "961068",
+        "obs": null,
+        "pag": [
+          "10-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-01",
+        "pubLeg": "XV",
+        "pubNr": "34",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/034/2022-06-01/10?pgs=10-16&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
