@@ -1,0 +1,454 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "58",
+    "id": "121431",
+    "titulo": "Redução do IVA das prestações de serviços de alimentação e bebida para a taxa reduzida de 6% (Alteração ao Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2022-04-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18040",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2022-04-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-04-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=48"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48",
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-28",
+                "pubLeg": "XV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/48?pgs=48,54-55&org=PLC"
+              }
+            ],
+            "sumario": "Pela criação de um apoio financeiro do Estado para as empresas e empresários de bares, estabelecimentos de bebidas sem espetáculo e estabelecimentos de bebidas com ou sem espaço de dança; Redução do IVA das prestações de serviços de alimentação e bebida para a taxa reduzida de 6% (alteração ao Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7332",
+                "nome": "Filipe Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-28",
+                "pubLeg": "XV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Pela criação de um apoio financeiro do Estado para as empresas e empresários de bares, estabelecimentos de bebidas sem espetáculo e estabelecimentos de bebidas com ou sem espaço de dança; Redução do IVA das prestações de serviços de alimentação e bebida para a taxa reduzida de 6% (alteração ao Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6595",
+                "nome": "Márcia Passos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-28",
+                "pubLeg": "XV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/50?pgs=50&org=PLC"
+              }
+            ],
+            "sumario": "Pela criação de um apoio financeiro do Estado para as empresas e empresários de bares, estabelecimentos de bebidas sem espetáculo e estabelecimentos de bebidas com ou sem espaço de dança; Redução do IVA das prestações de serviços de alimentação e bebida para a taxa reduzida de 6% (alteração ao Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5934",
+                "nome": "Hugo Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-28",
+                "pubLeg": "XV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Pela criação de um apoio financeiro do Estado para as empresas e empresários de bares, estabelecimentos de bebidas sem espetáculo e estabelecimentos de bebidas com ou sem espaço de dança; Redução do IVA das prestações de serviços de alimentação e bebida para a taxa reduzida de 6% (alteração ao Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-28",
+                "pubLeg": "XV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Pela criação de um apoio financeiro do Estado para as empresas e empresários de bares, estabelecimentos de bebidas sem espetáculo e estabelecimentos de bebidas com ou sem espaço de dança; Redução do IVA das prestações de serviços de alimentação e bebida para a taxa reduzida de 6% (alteração ao Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-28",
+                "pubLeg": "XV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Pela criação de um apoio financeiro do Estado para as empresas e empresários de bares, estabelecimentos de bebidas sem espetáculo e estabelecimentos de bebidas com ou sem espaço de dança; Redução do IVA das prestações de serviços de alimentação e bebida para a taxa reduzida de 6% (alteração ao Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:01",
+            "horaTermo": "19:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-28",
+                "pubLeg": "XV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Pela criação de um apoio financeiro do Estado para as empresas e empresários de bares, estabelecimentos de bebidas sem espetáculo e estabelecimentos de bebidas com ou sem espaço de dança; Redução do IVA das prestações de serviços de alimentação e bebida para a taxa reduzida de 6% (alteração ao Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro),",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1285140",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIV",
+        "nr": "185",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "Pela criação de um apoio financeiro do Estado para as empresas e empresários de bares, estabelecimentos de bebidas sem espetáculo e estabelecimentos de bebidas com ou sem espaço de dança"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "972500",
+        "obs": null,
+        "pag": [
+          "48-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-04-28",
+        "pubLeg": "XV",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/48?pgs=48-55&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
