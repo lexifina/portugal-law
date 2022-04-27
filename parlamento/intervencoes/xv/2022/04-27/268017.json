@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "268017",
+  "tipo": "Intervenção",
+  "orador": "Diana Ferreira (PCP)",
+  "data_registo": "2022-04-27",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "116910",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "116910",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - A propósito de mais um aniversário do 1.º de Maio, alude à situação de pobreza dos trabalhadores e às dificuldades inerentes ao aumento generalizado dos custos de vida, e anuncia a apresentação de iniciativas legislativas para fazer face à necessidade de valorizar os salários e combater a precariedade."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em Declaração Política, a propósito de mais um aniversário do 1.º de Maio, alude à pobreza dos trabalhadores e às dificuldades inerentes ao atual aumento generalizado dos custos de vida salientando a necessidade de valorizar os salários e de combater a precariedade.",
+        "duracao": "00:06:27:456",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=19"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Carlos Guimarães Pinto (IL) e José Moura Soeiro (BE), sobre a Declaração Política em que, a propósito de mais um aniversário do 1.º de Maio, aludiu à pobreza dos trabalhadores e às dificuldades inerentes ao atual aumento generalizado dos custos de vida salientando a necessidade de valorizar os salários e de combater a precariedade.",
+        "duracao": "00:03:17:301",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=22"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Rita Borges Madeira (PS) e Emília Cerqueira (PSD), sobre a Declaração Política em que, a propósito de mais um aniversário do 1.º de Maio, aludiu à pobreza dos trabalhadores e às dificuldades inerentes ao atual aumento generalizado dos custos de vida salientando a necessidade de valorizar os salários e de combater a precariedade.",
+        "duracao": "00:03:26:920",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_27_15_00_00_clean_14_plenario.xml&idsegmento=25"
+      }
+    ],
+    "DataReuniaoPlenaria": "2022-04-27",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "4623",
+      "nome": "Diana Ferreira"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "268017",
+    "IdDebate": "6201",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "268017",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "20-21",
+          "23-24",
+          "26-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-04-28",
+        "pubLeg": "XV",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/011/2022-04-28/20?pgs=20-21,23-24,26-27&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Respondeu a pedidos de esclarecimento de deputados Carlos Guimarães Pinto (IL), José Moura Soeiro (BE), Rita Borges Madeira (PS) e Emília Cerqueira (PSD)",
+    "Sessao": "1",
+    "Sumario": "A propósito de mais um aniversário do 1.º de Maio, alude à situação de pobreza dos trabalhadores e às dificuldades inerentes ao aumento generalizado dos custos de vida, e anuncia a apresentação de iniciativas legislativas para fazer face à necessidade de valorizar os salários e combater a precariedade.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
