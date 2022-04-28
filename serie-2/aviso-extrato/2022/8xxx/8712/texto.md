@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 8712/2022
+Sumário: Consulta pública do projeto do Regulamento «Nascer na Freguesia» - Programa de Incentivo à Natalidade e Adoção.
+Consulta pública do projeto de Regulamento «Nascer na Freguesia» Programa de Incentivo à Natalidade e Adoção
+Francisco Manuel Rodrigues Silvestre, Presidente da Junta de Freguesia da União das Freguesias de Marmeleira e Assentiz, torna público, nos termos e para efeitos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Junta de Freguesia deliberou, na sua reunião realizada em 15 de março de 2022, aprovar o projeto de Regulamento «Nascer na Freguesia» - Programa de Incentivo à Natalidade e Adoção e submeter o mesmo a consulta pública pelo prazo de trinta dias, contados a partir da data da publicação do presente aviso, na 2.ª série do Diário da República.
+Mais torna público, que o referido projeto de regulamento se encontra disponível para consulta, nos serviços administrativos da autarquia, situados na Avenida José Pereira Caldas, n.º 8, 2040-158 Marmeleira RMR (Sede), e na Rua do Arneiro, n.º 2, 2040-536 Assentiz RMR (Delegação), durante os respetivos horários normais de atendimento ao público.
+As eventuais sugestões e/ou reclamações deverão ser formuladas por escrito até ao final do mencionado período, dirigidas ao Presidente da Junta de Freguesia da União das Freguesias de Marmeleira e Assentiz, e entregues nas instalações da Sede ou Delegação da Freguesia, de acordo com os endereços acima mencionados ou ainda através do e-mail ufma2013@gmail.com.
+11 de abril de 2022. - O Presidente da Junta de Freguesia da União das Freguesias de Marmeleira e Assentiz, Francisco Manuel Rodrigues Silvestre.
+315220023
