@@ -1,0 +1,117 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htMQnPrgjv4KkFRY%2fI1jwxmKvHDJ8ruJcNaOaxOwtFYSmSuNSxzkXYcUynfwDiMZMQb6YGEXhzZX8QqAvKD91Hv%2fIhNoiPHJtZRFCmwHNE%2fwRImArzvUbCTovBwhVDIPNCJbS%2f3Pwg9anJyJiCfPDVDdKdUc%2bB1xyiR0OV5QbrFaGxnlP4Qdl1hFY%2b6M%2bHDM%2bGJpcHvf99iTPjMgxqZlZkwhBJ3amUWY3GEX%2fpgDegWUzEOG3WEXnk4c8c5b2uWpUZK%2bFuOYS2o2cCRSzJGi0gRtGcZ2RK39ndaqzMCxkgl8QfRQ4JX1bzcPCRbY4fNrwKWkcI3t%2fwP48Em6fZha27Am6RlmuGWJHL2r7n4HrIsn6FSWmx3fsNrhCXsOr14%2b&fich=AtividadesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "7d1a74c7417c8f7bb563fe741a28ea4d1a3d270f144861b23768e40994a6e549",
+  "legislatura": "XV",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2022-04-28",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição de membros para o Conselho Superior da Magistratura",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2022-04-28",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efetivo",
+        "nome": "José Manuel Mesquita  "
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "Fernando Licínio Lopes Martins"
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "André Filipe Oliveira de Miranda"
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "Inês Vieira da Silva Ferreira Leite "
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "António Alberto Vieira Cura"
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "Telma Solange Silva Carvalho "
+      },
+      {
+        "cargo": "Efetivo",
+        "nome": "António José Barradas Leitão "
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Paulo Rui da Costa Valério  "
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Carla Susana Gomes Naia "
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Rafael Luís Vale e Reis "
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Ana de Oliveira e Silva de Oliveira Monteiro "
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XV",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho Superior da Magistratura",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": [
+      "33583",
+      "33597"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2022-04-29",
+        "descricao": null,
+        "detalhe": null,
+        "id": "92923",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926406",
+            "obs": null,
+            "pag": [
+              "113-114"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-04-30",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/113?pgs=113-114&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
