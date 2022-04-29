@@ -1,0 +1,105 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "268165",
+  "tipo": "Intervenção",
+  "orador": "Marta Temido (Ministro da Saúde)",
+  "data_registo": "2022-04-29",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "1285145",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "121394",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova o Orçamento do Estado para 2022\n"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Debate, na generalidade, da Proposta de Lei n.º 4/XV/1.ª (GOV) — Aprova o Orçamento do Estado para 2022.",
+        "duracao": "00:10:23:397",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=52"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Luís Soares (PS), Joana Mortágua (BE), Joana Cordeiro (IL) e Cláudia Bento (PSD) no âmbito da discussão, na generalidade, da Proposta de Lei n.º 4/XV/1.ª (GOV) — Aprova o Orçamento do Estado para 2022.",
+        "duracao": "00:06:09:144",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=57"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Joana Lima (PS), Pedro dos Santos Frazão (CH), João Dias (PCP), Rui Tavares (L) e Pedro Melo Lopes (PSD), no âmbito da discussão, na generalidade, da Proposta de Lei n.º 4/XV/1.ª (GOV) — Aprova o Orçamento do Estado para 2022.",
+        "duracao": "00:06:23:989",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=63"
+      }
+    ],
+    "DataReuniaoPlenaria": "2022-04-29",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "268165",
+    "IdDebate": "18039",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "121394",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": "Ministro da Saúde",
+      "governo": "XXIII GOVERNO CONSTITUCIONAL",
+      "nome": "Marta Temido"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "268165",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "61-63",
+          "67-68",
+          "73-76"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-04-30",
+        "pubLeg": "XV",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/61?pgs=61-63,67-68,73-76&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Respondeu a pedidos de esclarecimento dos deputados Luís Soares (PS), Joana Mortágua (BE), Joana Cordeiro (IL), Cláudia Bento (PSD), Joana Lima (PS), Pedro dos Santos Frazão (CH), João Dias (PCP), Rui Tavares (L) e Pedro Melo Lopes (PSD)",
+    "Sessao": "1",
+    "Sumario": "Aprova o orçamento do Estado para 2022",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
