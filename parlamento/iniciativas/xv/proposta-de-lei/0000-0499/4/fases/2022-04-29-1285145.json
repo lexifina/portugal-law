@@ -1,0 +1,3633 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "4",
+    "id": "121394",
+    "titulo": "Aprova o Orçamento do Estado para 2022\n"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2022-04-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18039",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2022-04-29",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-04-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=3"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=9"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=20"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministro das Finanças",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Medina"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12",
+                  "21-24",
+                  "3-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/3?pgs=3-5,11-12,21-24&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Orçamento do Estado para 2022 ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=4"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6834",
+                "nome": "Vera Braz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=5"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=6"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7344",
+                "nome": "Rui Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=7"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6945",
+                "nome": "Rodrigo Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=8"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=10"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/13?pgs=13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=11"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6048",
+                "nome": "Ivan Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=12"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7395",
+                "nome": "Joaquim Miranda Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=13"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/14?pgs=14-16&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7331",
+                "nome": "Rui Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=14"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1468",
+                "nome": "Sérgio Ávila"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=15"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/17?pgs=17-19&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=16"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7393",
+                "nome": "Bernardo Blanco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=17"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7348",
+                "nome": "Miguel Iglésias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=18"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3935",
+                "nome": "Hugo Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=19"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=21"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=23"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26",
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/25?pgs=25-26,28&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7333",
+                "nome": "Sobrinho Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=22"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/26?pgs=26-28&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6536",
+                "nome": "Isabel Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=24"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=26"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29",
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/28?pgs=28-29,30-31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6531",
+                "nome": "Mónica Quintela"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=25"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=27"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=28"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=36"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministro das Infraestruturas e Habitação",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Nuno Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-36",
+                  "44-49",
+                  "55-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/33?pgs=33-36,44-49,55-58&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7341",
+                "nome": "Francisco César"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6013",
+                "nome": "Hugo Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7343",
+                "nome": "Carlos Guimarães Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/40?pgs=40-42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7329",
+                "nome": "António Topa Gomes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6893",
+                "nome": "Maria Begonha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7332",
+                "nome": "Filipe Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6537",
+                "nome": "Paulo Moniz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5934",
+                "nome": "Hugo Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/53?pgs=53&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6731",
+                "nome": "José Carlos Barbosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6545",
+                "nome": "Jorge Salgueiro Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "416",
+                "nome": "Pedro do Carmo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=48"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59",
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/58?pgs=58-59,60&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7302",
+                "nome": "Paulo Ramalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7330",
+                "nome": "Jorge Galveias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=52"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=57"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministro da Saúde",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Marta Temido"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63",
+                  "67-68",
+                  "73-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/61?pgs=61-63,67-68,73-76&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5531",
+                "nome": "Luís Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/65?pgs=65&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6871",
+                "nome": "Cláudia Bento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2885",
+                "nome": "Joana Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7345",
+                "nome": "Pedro dos Santos Frazão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5524",
+                "nome": "João Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/71?pgs=71&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7441",
+                "nome": "Pedro Melo Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/71?pgs=71-73&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7343",
+                "nome": "Carlos Guimarães Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=64"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77",
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/76?pgs=76-77,78&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6543",
+                "nome": "Alexandra Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/77?pgs=77&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6371",
+                "nome": "Patrícia Faro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/78?pgs=78-80&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6119",
+                "nome": "Emília Cerqueira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5693",
+                "nome": "Rui Cristina"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/82?pgs=82-84&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6858",
+                "nome": "Diogo Pacheco de Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-86"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/85?pgs=85-86&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7340",
+                "nome": "Gabriel Mithá Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "86-86"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/86?pgs=86&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "86-87"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/86?pgs=86-87&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/87?pgs=87-88&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=75"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "88-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/88?pgs=88-90&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=76"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/90?pgs=90-91&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6875",
+                "nome": "Carla Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=77"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "91-94"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/91?pgs=91-94&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=78"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "94-97"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/94?pgs=94-97&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=79"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "97-100"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/97?pgs=97-100&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5600",
+                "nome": "Eurico Brilhante Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=80"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "100-104"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/100?pgs=100-104&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "19:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_04_29_10_00_00_clean_14_plenario.xml&idsegmento=81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra Adjunta e dos Assuntos Parlamentares",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Catarina Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "104-108"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-04-30",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/104?pgs=104-108&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o orçamento do Estado para 2022",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1285145",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "17047",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "3-108"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-04-30",
+        "pubLeg": "XV",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/013/2022-04-30/3?pgs=3-108&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
