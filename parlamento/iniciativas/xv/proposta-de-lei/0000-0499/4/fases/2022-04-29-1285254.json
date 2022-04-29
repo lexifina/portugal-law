@@ -1,0 +1,494 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "4",
+    "id": "121394",
+    "titulo": "Aprova o Orçamento do Estado para 2022\n"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-04-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "62436",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-05-02",
+            "id": "127430",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-02",
+            "id": "127429",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-02",
+            "id": "127428",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-03",
+            "id": "127436",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-03",
+            "id": "127433",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-04",
+            "id": "127443",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-04",
+            "id": "127437",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-05",
+            "id": "127452",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-05",
+            "id": "127451",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-05",
+            "id": "127450",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-05",
+            "id": "127449",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-06",
+            "id": "127456",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-06",
+            "id": "127455",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-09",
+            "id": "127465",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-09",
+            "id": "127458",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-10",
+            "id": "127467",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-10",
+            "id": "127466",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-11",
+            "id": "127475",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-11",
+            "id": "127472",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-12",
+            "id": "127483",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-12",
+            "id": "127478",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-12",
+            "id": "127477",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-13",
+            "id": "127485",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-05-13",
+            "id": "127484",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2022-05-06",
+            "id": "116769",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-06",
+            "id": "116766",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-06",
+            "id": "116765",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-10",
+            "id": "116772",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-11",
+            "id": "116775",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-11",
+            "id": "116774",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-11",
+            "id": "116773",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-12",
+            "id": "116780",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-12",
+            "id": "116779",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-05-12",
+            "id": "116778",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-04-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-04-29",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Associação Portuguesa para a Igualdade Parental e Direitos dos Filhos",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774f43346c4d6a424462323530636d6c69645852764a5449775156424a554552474c6e426b5a673d3d&fich=08.+Contributo+APIPDF.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-03",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Luís Borges",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338774f53346c4d6a424462323530636d6c69645852764a5449775448584472584d6c4d6a424362334a6e5a584d756347526d&fich=09.+Contributo+Lu%c3%ads+Borges.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-04",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Associação de Empresas Emitentes de Valores Cotados em Mercado",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338784d43346c4d6a424462323530636d6c69645852764a5449775155564e4c6e426b5a673d3d&fich=10.+Contributo+AEM.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-04",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Sindicato dos Trabalhadores dos Impostos",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338784d53346c4d6a424462323530636d6c69645852764a5449775531524a4c6e426b5a673d3d&fich=11.+Contributo+STI.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-05",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Associação de Profissionais Licenciados de Optometria",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338784d69346c4d6a424462323530636d6c69645852764a5449775156424d547935775a47593d&fich=12.+Contributo+APLO.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-05",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Comissão de Trabalhadores AICEP",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338784d79346c4d6a424462323530636d6c69645852764a5449775131517451556c44525641756347526d&fich=13.+Contributo+CT-AICEP.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259354d57497a4e6d59324c574a69595445744e47557a5a4331685a44597a4c5463304f57566a4e7a52684e7a4134596935775a47593d&fich=f91b36f6-bba1-4e3d-ad63-749ec74a708b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59335932526d5a6d55774c54526a4d5463744e474d79597931684e5449774c57497a4d446c6c4e5755314d5449304e5335775a47593d&fich=67cdffe0-4c17-4c2c-a520-b309e5e51245.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-05",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Sofia Silvano",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338784e43346c4d6a424462323530636d6c69645852764a5449775532396d6157456c4d6a425461577832595735764c6e426b5a673d3d&fich=14.+Contributo+Sofia+Silvano.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c69596d59345a4751304c5751794f5467744e4442694e4331684e5745344c5745305a6a426c4f4745324e574d31596935515245593d&fich=9bbf8dd4-d298-40b4-a5a8-a4f0e8a65c5b.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-06",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Sindicato dos Quadros Técnicos do Estado e Entidades com Fins Públicos",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338784e53346c4d6a424462323530636d6c69645852764a544977553152464c6e426b5a673d3d&fich=15.+Contributo+STE.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-07",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Eugénio Rosa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c3168575447566e4c3039464c7a49774d6a49794d4449794d4451784d79394462323530636d6c6964585276633039464c7a45324c6955794d454e76626e527961574a316447386c4d6a42466457636c517a4d6c51546c756157386c4d6a425362334e684c6e426b5a673d3d&fich=16.%20Contributo%20Eug%C3%A9nio%20Rosa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-09",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Associação Portuguesa Famílias Numerosas",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338784f43346c4d6a424462323530636d6c69645852764a54497751564247546935775a47593d&fich=18.+Contributo+APFN.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-10",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo CPPME - Confederação Portuguesa das Micro, Pequenas e Médias Empresas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338784f53346c4d6a424462323530636d6c69645852764a54497751314251545555756347526d&fich=19.%20Contributo%20CPPME.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-10",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo CGTP-IN - Confederação Geral dos Trabalhadores Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338794d43346c4d6a424462323530636d6c69645852764a544977513064555543314a546935775a47593d&fich=20.%20Contributo%20CGTP-IN.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-10",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo STAL - Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c3168575447566e4c3039464c7a49774d6a49794d4449794d4451784d79394462323530636d6c6964585276633039464c7a49784c6955794d454e76626e527961574a316447386c4d6a42545645464d4c6e426b5a673d3d&fich=21.%20Contributo%20STAL.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CES - Conselho Económico e Social",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a684d6d49784d3251774c5455304d5749744e474a695a4330355954517a4c546c6a597a566b4f544a684d4749354e4335775a47593d&fich=2a2b13d0-541b-4bbd-9a43-9cc5d92a0b94.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-11",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo SNESUP - Sindicato Nacional do Ensino Superior",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338794d69346c4d6a424462323530636d6c69645852764a54497755303546553156514c6e426b5a673d3d&fich=22.+Contributo+SNESUP.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-12",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338794d79346c4d6a424462323530636d6c69645852764a544977526b355456455a51557935775a47593d&fich=23.+Contributo+FNSTFPS.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-13",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo ERSAR - Entidade Reguladora dos Serviços de Águas e Resíduos",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338794e43346c4d6a424462323530636d6c69645852764a54497752564a54515649756347526d&fich=24.+Contributo+ERSAR.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-23",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo Autoridade da Concorrência",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338794e53346c4d6a424462323530636d6c69645852764a544977515752444c6e426b5a673d3d&fich=25.+Contributo+AdC.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo da ALF -    Associação   Portuguesa  de   Leasing,  Factoring  e  Renting",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793950525338794d4449794d6a41794d6a41304d544d765132397564484a70596e563062334e50525338794e69346c4d6a424462323530636d6c69645852764a544977515578474c6e426b5a673d3d&fich=26.+Contributo+ALF.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-23",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Resultado das votações em comissão do dia 2022-05-23 - Artigo 2.º a Artigo 115.º-N exceto o Artigo 7.º",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c3168575447566e4c3039464c7a49774d6a49794d4449794d4451784d7939535a57786864473979615739446232317063334e68627939535a584e31624852685a473957623352685932396c6330467964444a684d5445315a58686a5a5852764e3139325a6935775a47593d&fich=ResultadoVotacoesArt2a115exceto7_vf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Resultado das votações em comissão do dia 2022-05-24 - Artigo 116.º a Artigo 200.º-B exceto o Artigo 127.º",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c3168575447566e4c3039464c7a49774d6a49794d4449794d4451784d7939535a57786864473979615739446232317063334e68627939535a584e31624852685a473957623352685932396c63304679644445784e6d45794d4442435a58686a5a5852764d54493358335a6d4c6e426b5a673d3d&fich=ResultadoVotacoesArt116a200Bexceto127_vf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-24",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Resultado das votações em comissão do dia 2022-05-25 - Artigo 201.º a Artigo 239.º",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c3168575447566e4c3039464c7a49774d6a49794d4449794d4451784d7939535a57786864473979615739446232317063334e68627939535a584e31624852685a473957623352685932396c63304679644449774d5745794d7a6c66646d59756347526d&fich=ResultadoVotacoesArt201a239_vf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-26",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Resultado das votações em comissão do dia 2022-05-26 - Artigo 240.º a Artigo 264.º + Artigo 127.º + Artigo 7.º + Artigo 1.º",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c3168575447566e4c3039464c7a49774d6a49794d4449794d4451784d7939535a57786864473979615739446232317063334e68627939535a584e31624852685a473957623352685932396c63304679644449304d4745794e6a526651584a304d563942636e513358304679644445794e3139325a6935775a47593d&fich=ResultadoVotacoesArt240a264_Art1_Art7_Art127_vf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-05-27",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Relatório de Votação da Especialidade",
+            "URL": "https://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c3168575447566e4c3039464c7a49774d6a49794d4449794d4451784d7939535a57786864473979615739446232317063334e68627939535a577868644d4f7a636d6c764a544977566d393059634f6e77364e764a54497752584e775a574e70595778705a47466b5a5335775a47593d&fich=Relat%c3%b3rio+Vota%c3%a7%c3%a3o+Especialidade.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-04-29",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1285254",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971623",
+        "obs": null,
+        "pag": [
+          "2-98"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-05-24",
+        "pubLeg": "XV",
+        "pubNr": "1",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/15/01/001/2022-05-24/2?pgs=2-98&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971661",
+        "obs": null,
+        "pag": [
+          "2-111"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-05-25",
+        "pubLeg": "XV",
+        "pubNr": "2",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/15/01/002/2022-05-25/2?pgs=2-111&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971713",
+        "obs": null,
+        "pag": [
+          "2-87"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-05-26",
+        "pubLeg": "XV",
+        "pubNr": "3",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/15/01/003/2022-05-26/2?pgs=2-87&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971714",
+        "obs": null,
+        "pag": [
+          "2-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-05-27",
+        "pubLeg": "XV",
+        "pubNr": "4",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/15/01/004/2022-05-27/2?pgs=2-49&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
