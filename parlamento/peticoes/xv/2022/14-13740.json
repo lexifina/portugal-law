@@ -1,0 +1,664 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13740",
+  "numero": "14",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-05-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-09-29",
+            "entidades": null,
+            "id": "127676",
+            "tipo": null,
+            "titulo": "Audição em 2022-09-29 com Audição aos peticionários da petição n.º 14/XV/1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915130",
+                "obs": "Relatório final da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+                "pag": [
+                  "16-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-02",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/048/2022-12-02/16?pgs=16-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-06-29",
+        "DataArquivo": "2022-11-30",
+        "DataBaixaComissao": "2022-05-02",
+        "DataEnvioPAR": "2022-12-02",
+        "DataReaberta": "2022-06-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-06-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279396a4d474533593259344e533079597a6c694c5451304d7a49745954426b5a69316a4d54566a4e444d314d544a684e5755756347526d&fich=c0a7cf85-2c9b-4432-a0df-c15c43512a5e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-29",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279396a4f474a6b4e6d52684d693031597a59344c545131595445744f44457a4d4330345a6d597a4d6a5135597a55354d6a45756347526d&fich=c8bd6da2-5c68-45a1-8130-8ff3249c5921.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-11-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938354d544a6c5a5745775a4330354e44686c4c54517759325174595455794e7930345a6d45325a5755335a54646b4e5755756347526d&fich=912eea0d-948e-40cd-a527-8fa6ee7e7d5e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-11-30",
+            "dataNomeacao": "2022-06-29",
+            "gp": "PS",
+            "id": "6859",
+            "motivoCessacao": null,
+            "nome": "Cláudia Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-03-30",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-05-02",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765932557a5a574d794d5441745a5441794f4330304f544a694c574979595755744d6a4d3259544e6a4e6a59344e47497a4c6e426b5a673d3d&fich=ce3ec210-e028-492b-b2ae-236a3c6684b3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121435",
+      "152348",
+      "152550",
+      "152676"
+    ],
+    "Iniciativasoriginadas": [
+      "121435",
+      "152348",
+      "152550",
+      "152676"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292717",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48",
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/47?pgs=47-48,57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292718",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292719",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/50?pgs=50&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292720",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/50?pgs=50-52&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=45"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292721",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53",
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/52?pgs=52-53,58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292722",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-03-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-03-31",
+                "pubLeg": "XV",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Urgência em legislar no sentido da conversão do crime de violação em crime público (Francisca Meleças de Magalhães Barros e outros); Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos (quinquagésima quinta alteração ao Código Penal); Altera a legislação penal no sentido de atribuir maior proteção às vítimas de crimes sexuais; Consagra a natureza pública dos crimes de violação e outros crimes contra a liberdade sexual, procedendo à alteração do Código Penal; Consagra os crimes de violação, de coação sexual e de abuso sexual de pessoa incapaz de resistência como crimes públicos; Reforça a proteção das vítimas de crimes contra a liberdade sexual, alterando o Código Penal e a Lei de Acesso ao Direito e aos Tribunais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13740",
+    "PetAssunto": "Urgência em legislar no sentido da conversão do crime de violação em crime público",
+    "PetDataEntrada": "2022-05-02",
+    "PeticoesAssociadas": null,
+    "PetId": "13740",
+    "PetLeg": "XV",
+    "PetNr": "14",
+    "PetNrAssinaturas": "107023",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16337",
+        "obs": null,
+        "pag": [
+          "47-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-31",
+        "pubLeg": "XV",
+        "pubNr": "108",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/47?pgs=47-60&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915124",
+        "obs": null,
+        "pag": [
+          "8-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-08",
+        "pubLeg": "XV",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/019/2022-07-08/8?pgs=8&org=PLC"
+      }
+    ]
+  }
+}
