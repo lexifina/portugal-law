@@ -1,0 +1,139 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13741",
+  "numero": "15",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-05-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-02-02",
+            "entidades": null,
+            "id": "127965",
+            "tipo": null,
+            "titulo": "Audição em 2023-02-02 com Peticionários da Petição n.º 15/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-03-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-09-14",
+        "DataArquivo": "2023-03-29",
+        "DataBaixaComissao": "2022-05-06",
+        "DataEnvioPAR": "2023-03-29",
+        "DataReaberta": "2022-09-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-09-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a4e695a574e6a5a446b7a4c5455324e6a4d744e4456694f4330354f5455304c5755334f4455334e446b7759324977596935775a47593d&fich=3beccd93-5663-45b8-9954-e7857490cb0b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324d344d7a63784f57566d4c575a6d4e5749744e475a6a597930355a6a426c4c54526b4e4745774d44646c595455334f4335775a47593d&fich=c83719ef-ff5b-4fcc-9f0e-4d4a007ea578.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324d315a44526a4d324a6b4c5467795a6d49744e444d7759533035597a41314c54646a4e7a4a6c4d6a426c4d445932596935775a47593d&fich=c5d4c3bd-82fb-430a-9c05-7c72e20e066b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-03-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3245794d445a6d597a5a694c54466b4e324d744e4463314e4330354e545a6a4c544532596d51314d6a6b774d6a4d324f5335775a47593d&fich=a206fc6b-1d7c-4754-956c-16bd52902369.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8337",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-03-29",
+            "dataNomeacao": "2022-09-14",
+            "gp": "PSD",
+            "id": "7371",
+            "motivoCessacao": "Entrega do RF",
+            "nome": "João Barbosa de Melo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2022-05-06",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6a45344e6a68694d7a6b74596d4e68595330304d6a45324c5745344e4449745a575a684d3255784d3259354e444a6c4c6e426b5a673d3d&fich=61868b39-bcaa-4216-a842-efa3e13f942e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13741",
+    "PetAssunto": "Pelo desconto para a ADSE em 12 meses ",
+    "PetDataEntrada": "2022-05-02",
+    "PeticoesAssociadas": null,
+    "PetId": "13741",
+    "PetLeg": "XV",
+    "PetNr": "15",
+    "PetNrAssinaturas": "584",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
