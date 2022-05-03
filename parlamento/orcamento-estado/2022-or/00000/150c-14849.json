@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EV6D3KmSMRBt1R2JIMK0ujIP%2fsiN7FWTbo3zlVYC68crLPAJgTo8waaMPITFd7A8xMnEDOc4TjvhVTAgmTSNXpKXIKgIzRsuymwLLrQuPlYVRmfe%2fdsVarTAD9Ivug1HeLXjo9lqJHspWbcrGHpXQy7Sl0wSNOnGLkCLz1pwIZp0Uh%2bVG12N5S2iShRjDd%2fXVVWZekZ7pGiF%2fHO3b0l9dhgvZNrORTBycX%2bJNcF0gWxIB6PCrKbo70tNw3VmZxdtSlVYum7xjXIP6cvP0QlpHGMvcZUKd0yArgzI9mOxp1%2fQhismvtYCUctFpap8MNKAsV%2by%2b1tRVNXt6Yb8Q80Xk3BoBIP2NQJU1b9zyUQ4Ry1NV2Bsly7gAespVMEq2rqdO30%2fu4N7gV79OmKeOiXVpKWwws8DSrmGPJW1odEWAdBqlgqJ6VtxHEEahb14Rlwf&fich=OEPropostasAlteracao2022Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4702862df47a366608a2a28c086b4eb565a7511054e669b220485e80ef9aa82a",
+  "legislatura": "XV",
+  "id": "14849",
+  "numero": "150C",
+  "orcamento": "2022",
+  "versao": "Or",
+  "data_registo": "2022-05-03",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "14849",
+    "Numero": "150C",
+    "Data": "03/05/2022 16:43:00",
+    "Titulo": "Artigo 194.º-A (Fim do incentivo à incineração por via do Fundo Ambiental)",
+    "Tema": "Ambiente e Energia; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 194.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c316857544556484c3039464c7a49774d6a49794d4449794d4451784d793951515338354d475977593255785a6930794e6d5a6a4c54526d4e6d5974595459304d5330324d4467335a6a4a6c4d544d344f474d756347526d&Fich=90f0ce1f-26fc-4f6f-a641-6087f2e1388c.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PAN",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PAN",
+        "Deputado": "INÊS DE SOUSA REAL"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 194.º-A",
+        "Titulo": "Fim do incentivo à incineração por via do Fundo Ambiental",
+        "Texto": "1 - São revogadas a Portaria n.º 244/2020, de 15 de outubro e a Portaria nº 308-C/2020, de 30 de dezembro.\r\n2 - Até ao final do ano de 2022 o Governo regulamenta no sentido de garantir que a verba prevista no Fundo Ambiental destinada ao financiamento da incineração seja alocada ao apoio a ações e projetos qu",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 194.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Fim do incentivo à incineração por via do Fundo Ambiental",
+        "Data": "24/05/2022 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Abstenção",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
