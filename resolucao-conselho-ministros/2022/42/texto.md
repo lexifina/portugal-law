@@ -1,0 +1,83 @@
+Resolução do Conselho de Ministros n.º 42/2022
+Sumário: Aprova o Código de Conduta do XXIII Governo Constitucional.
+O XXIII Governo Constitucional estabeleceu como objetivo do seu Programa a valorização dos cargos políticos como forma de assegurar a transparência e o controlo da integridade do sistema democrático, promovendo a confiança dos cidadãos nas instituições do Estado de Direito.
+Para esse efeito, considera-se importante definir expressamente padrões claros e rigorosos, prevenindo, desse modo, qualquer suspeita de conduta indevida e contribuindo para a transparência na formação e tomada de decisão dos detentores de cargos políticos.
+A presente resolução reafirma os princípios e deveres já consagrados na legislação vigente, nomeadamente no Código do Procedimento Administrativo e no Código de Conduta do XXII Governo Constitucional, aprovado pela Resolução do Conselho de Ministros n.º 184/2019, de 3 de dezembro, atualizando a concretização dos mesmos, face ao disposto na Lei n.º 52/2019, de 31 de julho, na sua redação atual, que aprova o regime do exercício de funções por titulares de cargos políticos e altos cargos públicos.
+Pretende-se ainda desta forma ir ao encontro das medidas de prevenção de conflitos de interesse previstas na Estratégia Nacional Anticorrupção 2020-2024, aprovada pela Resolução do Conselho de Ministros n.º 37/2021, de 6 de abril, materializadas no regime geral de prevenção da corrupção, aprovado em anexo ao Decreto-Lei n.º 109-E/2021, de 9 de dezembro. Ainda que não seja aplicável ao Governo, o referido decreto-lei elege o código de conduta como instrumento central para estabelecer o conjunto de princípios, valores e regras de atuação em matéria de ética no exercício de funções no setor público, privado ou cooperativo.
+Seguem-se, para o efeito, orientações internacionais e europeias, nomeadamente em matéria de aceitação de ofertas de bens materiais ou serviços e de convites ou benefícios similares.
+Cabendo ao Governo não só dirigir os serviços públicos da administração direta do Estado, como também fixar orientações genéricas à administração indireta incluindo ao setor público empresarial, o Código de Conduta aprovado abrange também a atuação de todos os dirigentes superiores dessas entidades.
+Assim:
+Nos termos da alínea b) do n.º 2 do artigo 19.º da Lei n.º 52/2019, de 31 de julho, na sua redação atual, do n.º 2 do artigo 198.º, das alíneas d) e g) do artigo 199.º e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar o Código de Conduta do Governo, doravante designado por Código de Conduta, que consta de anexo à presente resolução e da qual faz parte integrante.
+2 - Determinar que o Código de Conduta vincula todos os membros do XXIII Governo Constitucional e os membros dos respetivos gabinetes.
+3 - Determinar que os membros do XXIII Governo Constitucional devem aplicar as diretrizes constantes do Código de Conduta sempre que exerçam os seus poderes de direção sobre os serviços da administração direta do Estado ou de superintendência em sentido lato, sobre os dirigentes de institutos públicos e de empresas públicas.
+4 - Fixar que as diretrizes constantes do Código de Conduta se aplicam desde a data de aprovação da presente resolução.
+Presidência do Conselho de Ministros, 21 de abril de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+ANEXO
+(a que se refere o n.º 1)
+CÓDIGO DE CONDUTA DO GOVERNO
+Artigo 1.º
+Objeto
+O Código de Conduta é um instrumento de autorregulação e constitui um compromisso de orientação assumido pelos membros do XXIII Governo Constitucional e pelos membros dos respetivos gabinetes, no exercício das suas funções.
+Artigo 2.º
+Âmbito
+1 - O Código de Conduta aplica-se aos membros do XXIII Governo Constitucional.
+2 - O Código de Conduta aplica-se ainda, com as necessárias adaptações, aos membros dos gabinetes dos membros do XXIII Governo Constitucional, a todos os dirigentes superiores da Administração Pública sob a direção do Governo, bem como aos dirigentes e gestores de institutos e de empresas públicas, através das orientações transmitidas pelo membro do Governo que sobre eles exerça poderes de tutela ou de superintendência, nos termos do artigo 11.º
+3 - Para efeitos do presente Código de Conduta, as referências feitas a membros do Governo abrangem também os sujeitos referidos no número anterior.
+Artigo 3.º
+Princípios
+1 - No exercício das suas funções, os membros do Governo observam os seguintes princípios gerais de conduta:
+a) Prossecução do interesse público e boa administração;
+b) Transparência;
+c) Imparcialidade;
+d) Probidade;
+e) Integridade e honestidade;
+f) Urbanidade;
+g) Respeito interinstitucional;
+h) Garantia de confidencialidade quanto aos assuntos reservados dos quais tomem conhecimento no exercício das suas funções.
+2 - Os membros do Governo agem e decidem exclusivamente em função da defesa do interesse público, não podendo usufruir de quaisquer vantagens financeiras ou patrimoniais, diretas ou indiretas, para si ou para terceiros, ou de qualquer outra gratificação indevida em virtude do cargo que ocupem.
+Artigo 4.º
+Deveres
+No exercício das suas funções, os membros do Governo devem:
+a) Abster-se de qualquer ação ou omissão, exercida diretamente ou através de interposta pessoa, que possa objetivamente ser interpretada como visando beneficiar indevidamente uma terceira pessoa, singular ou coletiva;
+b) Rejeitar ofertas ou qualquer uma das vantagens identificadas nos artigos 8.º e 9.º, como contrapartida do exercício de uma ação, omissão, voto ou gozo de influência sobre a tomada de qualquer decisão pública;
+c) Abster-se de usar ou de permitir que terceiros utilizem, fora de parâmetros de razoabilidade e de adequação social, bens ou recursos públicos que lhe sejam exclusivamente disponibilizados para o exercício das suas funções.
+Artigo 5.º
+Responsabilidade
+1 - O incumprimento do disposto no presente Código de Conduta implica:
+a) Responsabilidade política perante o Primeiro-Ministro, no caso dos membros do Governo;
+b) Responsabilidade perante o membro do Governo respetivo, no caso de membros de gabinetes ou de dirigentes sujeitos ao respetivo poder de direção, tutela ou superintendência.
+2 - O disposto no presente Código de Conduta não afasta nem prejudica outras formas de responsabilidade, designadamente criminal, disciplinar ou financeira, que ao caso caibam, nos termos da lei.
+Artigo 6.º
+Conflitos de interesses
+Considera-se que existe conflito de interesses quando os membros do Governo se encontrem numa situação em virtude da qual se possa, com razoabilidade, duvidar seriamente da imparcialidade da sua conduta ou decisão, nos termos dos artigos 69.º e 73.º do Código do Procedimento Administrativo.
+Artigo 7.º
+Suprimento de conflito de interesses
+1 - Qualquer membro do Governo que se encontre perante um conflito de interesses deve comunicar a situação ao Primeiro-Ministro, quando se trate de ministra/o ou de secretária/o de Estado que dele diretamente dependa, ou à/ao respetiva/o ministra/o, quando se trate de secretária/o de Estado, logo que detete o risco potencial de conflito.
+2 - Qualquer membro do Governo que se encontre perante um conflito de interesses, atual ou potencial, deve tomar imediatamente as medidas necessárias para evitar, sanar ou fazer cessar o conflito em causa, em conformidade com as disposições do presente Código de Conduta e da lei.
+Artigo 8.º
+Ofertas
+1 - Os membros do Governo abstêm-se de aceitar a oferta, a qualquer título, de pessoas singulares e coletivas privadas, nacionais ou estrangeiras, e de pessoas coletivas públicas estrangeiras, de bens materiais, consumíveis ou duradouros, ou de serviços que possam condicionar a imparcialidade e a integridade do exercício das suas funções.
+2 - Para os efeitos do presente Código de Conduta, entende-se que existe um condicionamento da imparcialidade e da integridade do exercício de funções quando haja aceitação de bens de valor estimado igual ou superior a (euro) 150.
+3 - O valor das ofertas é contabilizado no cômputo de todas as ofertas de uma mesma pessoa, singular ou coletiva, no decurso de um ano civil.
+4 - Todas as ofertas abrangidas pelo n.º 2 que constituam ou possam ser interpretadas, pela sua recusa, como uma quebra de respeito interinstitucional, designadamente no âmbito das relações entre Estados, devem ser aceites em nome do Estado, sem prejuízo do dever de apresentação e registo previsto no artigo 9.º
+Artigo 9.º
+Dever de entrega e registo
+1 - As ofertas recebidas pelos membros do Governo, nos termos do n.º 4 do artigo anterior, no âmbito do exercício das suas funções, são obrigatoriamente apresentadas à respetiva secretaria-geral, que delas mantém um registo de acesso público.
+2 - O destino das ofertas sujeitas ao dever de apresentação, tendo em conta a sua natureza e relevância, é estabelecido pela respetiva secretaria-geral.
+Artigo 10.º
+Convites ou benefícios similares
+1 - Os membros do Governo abstêm-se de aceitar, a qualquer título, convites de pessoas singulares e coletivas privadas, nacionais ou estrangeiras, e de pessoas coletivas públicas estrangeiras, para assistência a eventos sociais, institucionais ou culturais, ou outros benefícios similares, que possam condicionar a imparcialidade e a integridade do exercício das suas funções, sem prejuízo do disposto nos n.os 3 e 4.
+2 - Entende-se que existe um condicionamento da imparcialidade e da integridade do exercício de funções quando haja aceitação de convites ou outros benefícios similares com valor estimado superior a (euro) 150.
+3 - Os membros do Governo nessa qualidade convidados podem aceitar convites que lhes forem dirigidos para eventos oficiais ou de entidades públicas nacionais ou estrangeiras.
+4 - Os membros do Governo, que nessa qualidade sejam convidados, podem ainda aceitar quaisquer outros convites de entidades privadas até ao valor máximo, estimado, de (euro) 150:
+a) Que sejam compatíveis com a natureza institucional ou com a relevância de representação própria do cargo; ou
+b) Que configurem uma conduta socialmente adequada e conforme aos usos e costumes.
+Artigo 11.º
+Extensão de regime
+1 - Os princípios e deveres constantes do presente Código de Conduta constituem uma orientação genérica para as ordens, instruções, orientações e diretrizes emitidas pelos membros do Governo aos dirigentes superiores da administração direta do Estado, e aos dirigentes de institutos públicos e gestores públicos.
+2 - Os membros do Governo incluem, nos objetivos de gestão constantes das cartas de missão que conferem aos dirigentes superiores da Administração Pública por si nomeados, bem como nos contratos de gestão celebrados com gestores públicos, padrões de conduta governativa consentâneos com o presente Código de Conduta.
+Artigo 12.º
+Códigos de conduta setoriais
+Os membros do Governo estimulam a adoção de códigos de conduta nos serviços que dirigem e nos institutos e empresas públicas sobre os quais exercem superintendência ou tutela, nos termos do regime geral de prevenção da corrupção, aprovado em anexo ao Decreto-Lei n.º 109-E/2021, de 9 de dezembro, quando aplicável.
+115303268
