@@ -1,0 +1,7 @@
+Aviso n.º 9450/2022
+Sumário: Projeto do Regulamento Municipal de Apoio ao Movimento Associativo.
+Joaquim Jorge Ferreira, Presidente da Câmara Municipal de Oliveira de Azeméis, torna público que, por deliberação da Câmara Municipal, tomada em reunião ordinária de 21 de abril do corrente ano, e para efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, (aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro e posteriores anteriores), se submete a consulta pública, pelo prazo de 30 dias a contar da data de publicação do presente aviso, o projeto de «Regulamento Municipal de Apoio ao Movimento Associativo».
+Durante este período poderão os/as interessados/as consultar o mencionado projeto de Regulamento, através da página eletrónica do município (www.cm-oaz.pt) onde ficará disponível.
+Os/as interessados/as, no decurso desse prazo, poderão apresentar as sugestões, por escrito, dirigidas ao Senhor Presidente da Câmara Municipal, para o seguinte endereço - Largo da República, 3720-240 Oliveira de Azeméis, pessoalmente na Loja do Munícipe, sita na morada mencionada, ou através de correio eletrónico para o endereço geral@cm-oaz.pt, indicando para o efeito os dados necessários à sua identificação consoante se trate de pessoa singular ou coletiva: nome ou denominação social e contacto (apenas a serem utilizados para os fins em apreço).
+27 de abril de 2022. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, eng.º
+315265482
