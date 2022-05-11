@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EV6D3KmSMRBt1R2JIMK0ujIP%2fsiN7FWTbo3zlVYC68crLPAJgTo8waaMPITFd7A8xMnEDOc4TjvhVTAgmTSNXpKXIKgIzRsuymwLLrQuPlYVRmfe%2fdsVarTAD9Ivug1HeLXjo9lqJHspWbcrGHpXQy7Sl0wSNOnGLkCLz1pwIZp0Uh%2bVG12N5S2iShRjDd%2fXVVWZekZ7pGiF%2fHO3b0l9dhgvZNrORTBycX%2bJNcF0gWxIB6PCrKbo70tNw3VmZxdtSlVYum7xjXIP6cvP0QlpHGMvcZUKd0yArgzI9mOxp1%2fQhismvtYCUctFpap8MNKAsV%2by%2b1tRVNXt6Yb8Q80Xk3BoBIP2NQJU1b9zyUQ4Ry1NV2Bsly7gAespVMEq2rqdO30%2fu4N7gV79OmKeOiXVpKWwws8DSrmGPJW1odEWAdBqlgqJ6VtxHEEahb14Rlwf&fich=OEPropostasAlteracao2022Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4702862df47a366608a2a28c086b4eb565a7511054e669b220485e80ef9aa82a",
+  "legislatura": "XV",
+  "id": "16091",
+  "numero": "384C",
+  "orcamento": "2022",
+  "versao": "Or",
+  "data_registo": "2022-05-11",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "16091",
+    "Numero": "384C",
+    "Data": "11/05/2022 10:31:00",
+    "Titulo": "Artigo 42.º-A (Contratação de Nutricionistas para os cuidados de saúde primários)",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 42.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c316857544556484c3039464c7a49774d6a49794d4449794d4451784d79395151533831596d55784d7a59304f43316d4e324d794c5451324d4759744f4755334e69316b4f544131596a4578596a646b4d7a63756347526d&Fich=5be13648-f7c2-460f-8e76-d905b11b7d37.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ALMA RIVERA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "DIANA FERREIRA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JERÓNIMO DE SOUSA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JOÃO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULA SANTOS"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 42.º-A",
+        "Titulo": "Contratação de Nutricionistas para os cuidados de saúde primários",
+        "Texto": "1. É criado um plano de contratação de nutricionistas para os cuidados de saúde primários, dotando as respetivas Unidades de Recursos Assistenciais Partilhados (URAP), de 1 nutricionista por cada 12 000 utentes inscritos;\r\n2. A concretização do plano referido no número anterior pode ser plurianual:\r\na) Em 202",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 42.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Contratação de Nutricionistas para os cuidados de saúde primários",
+        "Data": "23/05/2022 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
