@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EV6D3KmSMRBt1R2JIMK0ujIP%2fsiN7FWTbo3zlVYC68crLPAJgTo8waaMPITFd7A8xMnEDOc4TjvhVTAgmTSNXpKXIKgIzRsuymwLLrQuPlYVRmfe%2fdsVarTAD9Ivug1HeLXjo9lqJHspWbcrGHpXQy7Sl0wSNOnGLkCLz1pwIZp0Uh%2bVG12N5S2iShRjDd%2fXVVWZekZ7pGiF%2fHO3b0l9dhgvZNrORTBycX%2bJNcF0gWxIB6PCrKbo70tNw3VmZxdtSlVYum7xjXIP6cvP0QlpHGMvcZUKd0yArgzI9mOxp1%2fQhismvtYCUctFpap8MNKAsV%2by%2b1tRVNXt6Yb8Q80Xk3BoBIP2NQJU1b9zyUQ4Ry1NV2Bsly7gAespVMEq2rqdO30%2fu4N7gV79OmKeOiXVpKWwws8DSrmGPJW1odEWAdBqlgqJ6VtxHEEahb14Rlwf&fich=OEPropostasAlteracao2022Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4702862df47a366608a2a28c086b4eb565a7511054e669b220485e80ef9aa82a",
+  "legislatura": "XV",
+  "id": "17059",
+  "numero": "1312C",
+  "orcamento": "2022",
+  "versao": "Or",
+  "data_registo": "2022-05-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "17059",
+    "Numero": "1312C",
+    "Data": "13/05/2022 18:39:00",
+    "Titulo": "Artigo 193.º-B (Hidroterapia no trabalho de parto)",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 193.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c316857544556484c3039464c7a49774d6a49794d4449794d4451784d7939515153396b4e7a677a4d324e6d596930305a57466a4c5451344d6d5574596a49794e7931695a57566a5a6a67785a6d51774f4451756347526d&Fich=d7833cfb-4eac-482e-b227-beecf81fd084.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PAN",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PAN",
+        "Deputado": "INÊS DE SOUSA REAL"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 193.º-B",
+        "Titulo": "Hidroterapia no trabalho de parto",
+        "Texto": "Em 2022, o Governo cria as condições necessárias para garantir a possibilidade de recurso à hidroterapia durante o trabalho de parto no SNS, em pelo menos um hospital por distrito, reunindo para tal as condições de formação e equipamento necessários.",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 193.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Hidroterapia no trabalho de parto",
+        "Data": "24/05/2022 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
