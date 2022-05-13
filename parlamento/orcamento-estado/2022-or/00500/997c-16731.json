@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EV6D3KmSMRBt1R2JIMK0ujIP%2fsiN7FWTbo3zlVYC68crLPAJgTo8waaMPITFd7A8xMnEDOc4TjvhVTAgmTSNXpKXIKgIzRsuymwLLrQuPlYVRmfe%2fdsVarTAD9Ivug1HeLXjo9lqJHspWbcrGHpXQy7Sl0wSNOnGLkCLz1pwIZp0Uh%2bVG12N5S2iShRjDd%2fXVVWZekZ7pGiF%2fHO3b0l9dhgvZNrORTBycX%2bJNcF0gWxIB6PCrKbo70tNw3VmZxdtSlVYum7xjXIP6cvP0QlpHGMvcZUKd0yArgzI9mOxp1%2fQhismvtYCUctFpap8MNKAsV%2by%2b1tRVNXt6Yb8Q80Xk3BoBIP2NQJU1b9zyUQ4Ry1NV2Bsly7gAespVMEq2rqdO30%2fu4N7gV79OmKeOiXVpKWwws8DSrmGPJW1odEWAdBqlgqJ6VtxHEEahb14Rlwf&fich=OEPropostasAlteracao2022Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4702862df47a366608a2a28c086b4eb565a7511054e669b220485e80ef9aa82a",
+  "legislatura": "XV",
+  "id": "16731",
+  "numero": "997C",
+  "orcamento": "2022",
+  "versao": "Or",
+  "data_registo": "2022-05-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "16731",
+    "Numero": "997C",
+    "Data": "13/05/2022 15:14:00",
+    "Titulo": "Artigo 177.º-D (Unidades de Saúde Familiar)",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 177.º-D",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c316857544556484c3039464c7a49774d6a49794d4449794d4451784d7939515153396d4d4455314e44457a4e6930354e7a67324c54526c4d5759744f4745334d53316a4e7a6c6a4d32466c5a6a4d7a4f546b756347526d&Fich=f0554136-9786-4e1f-8a71-c79c3aef3399.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD, RUI CRISTINA",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "DUARTE PACHECO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "DUARTE PACHECO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "PAULA CARDOSO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "PAULO MOTA PINTO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "RICARDO BAPTISTA LEITE"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "RUI CRISTINA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 177.º-D",
+        "Titulo": "Unidades de Saúde Familiar",
+        "Texto": "1. O Governo irá promover a passagem de todas as unidades de cuidados de saúde primários já avaliadas a Unidades de Saúde Familiar (USFs) de modelo B.\r\n2. O Governo irá acelerar o processo de avaliação das Unidades de Saúde Familiar de modelo A para que, sempre que for caso disso, possam ser transferidas para",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 177.º-D"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Unidades de Saúde Familiar",
+        "Data": "24/05/2022 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
