@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EV6D3KmSMRBt1R2JIMK0ujIP%2fsiN7FWTbo3zlVYC68crLPAJgTo8waaMPITFd7A8xMnEDOc4TjvhVTAgmTSNXpKXIKgIzRsuymwLLrQuPlYVRmfe%2fdsVarTAD9Ivug1HeLXjo9lqJHspWbcrGHpXQy7Sl0wSNOnGLkCLz1pwIZp0Uh%2bVG12N5S2iShRjDd%2fXVVWZekZ7pGiF%2fHO3b0l9dhgvZNrORTBycX%2bJNcF0gWxIB6PCrKbo70tNw3VmZxdtSlVYum7xjXIP6cvP0QlpHGMvcZUKd0yArgzI9mOxp1%2fQhismvtYCUctFpap8MNKAsV%2by%2b1tRVNXt6Yb8Q80Xk3BoBIP2NQJU1b9zyUQ4Ry1NV2Bsly7gAespVMEq2rqdO30%2fu4N7gV79OmKeOiXVpKWwws8DSrmGPJW1odEWAdBqlgqJ6VtxHEEahb14Rlwf&fich=OEPropostasAlteracao2022Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4702862df47a366608a2a28c086b4eb565a7511054e669b220485e80ef9aa82a",
+  "legislatura": "XV",
+  "id": "16573",
+  "numero": "851C",
+  "orcamento": "2022",
+  "versao": "Or",
+  "data_registo": "2022-05-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "16573",
+    "Numero": "851C",
+    "Data": "13/05/2022 11:20:00",
+    "Titulo": "Nova verba 34-A, Mapa de alterações e transferências orçamentais, Artigo 7.º",
+    "Tema": "ONG Mulheres (13); Orçamento e Finanças; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Números e Alíneas)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c316857544556484c3039464c7a49774d6a49794d4449794d4451784d793951515338304f575a6a4d54417a5a6930304d7a6b354c5451314e6a51744f544a6b5a6930785954526a5a44677a4d6a677a4e3255756347526d&Fich=49fc103f-4399-4564-92df-1a4cd832837e.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ALMA RIVERA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "DIANA FERREIRA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JERÓNIMO DE SOUSA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JOÃO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULA SANTOS"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 7.º",
+        "Titulo": "Transferências orçamentais",
+        "Texto": "O Governo fica autorizado a proceder às alterações orçamentais e às transferências constantes do mapa de alterações e transferências orçamentais constante do anexo I à presente lei e da qual faz parte integrante.",
+        "Estado": "Aprovado(a) em Comissão com Alterações"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "34-A, Anexo I, Artigo 7.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": null,
+        "Data": "26/05/2022 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
