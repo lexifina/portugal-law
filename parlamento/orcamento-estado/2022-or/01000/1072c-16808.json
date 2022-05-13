@@ -1,0 +1,100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EV6D3KmSMRBt1R2JIMK0ujIP%2fsiN7FWTbo3zlVYC68crLPAJgTo8waaMPITFd7A8xMnEDOc4TjvhVTAgmTSNXpKXIKgIzRsuymwLLrQuPlYVRmfe%2fdsVarTAD9Ivug1HeLXjo9lqJHspWbcrGHpXQy7Sl0wSNOnGLkCLz1pwIZp0Uh%2bVG12N5S2iShRjDd%2fXVVWZekZ7pGiF%2fHO3b0l9dhgvZNrORTBycX%2bJNcF0gWxIB6PCrKbo70tNw3VmZxdtSlVYum7xjXIP6cvP0QlpHGMvcZUKd0yArgzI9mOxp1%2fQhismvtYCUctFpap8MNKAsV%2by%2b1tRVNXt6Yb8Q80Xk3BoBIP2NQJU1b9zyUQ4Ry1NV2Bsly7gAespVMEq2rqdO30%2fu4N7gV79OmKeOiXVpKWwws8DSrmGPJW1odEWAdBqlgqJ6VtxHEEahb14Rlwf&fich=OEPropostasAlteracao2022Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4702862df47a366608a2a28c086b4eb565a7511054e669b220485e80ef9aa82a",
+  "legislatura": "XV",
+  "id": "16808",
+  "numero": "1072C",
+  "orcamento": "2022",
+  "versao": "Or",
+  "data_registo": "2022-05-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "16808",
+    "Numero": "1072C",
+    "Data": "13/05/2022 15:47:00",
+    "Titulo": "Artigo 182.º-A (Diminuição das contribuições para os subsistemas de saúde SAD e ADM)",
+    "Tema": "Assuntos Constitucionais, Direitos Liberdades e Garantias; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 182.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c316857544556484c3039464c7a49774d6a49794d4449794d4451784d7939515153396b4e7a426d4e6a67774d4330304f47466c4c54526d595745744f546b344d5330314d325534593245344f544e6c5a544d756347526d&Fich=d70f6800-48ae-4faa-9981-53e8ca893ee3.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "BE",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "BE",
+          "Deputado": "CATARINA MARTINS"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "JOANA MORTÁGUA"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "JOSÉ MOURA SOEIRO"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "MARIANA MORTÁGUA"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "PEDRO FILIPE SOARES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 182.º-A",
+        "Titulo": "Diminuição das contribuições para os subsistemas de saúde SAD e ADM",
+        "Texto": "1 – As contribuições previstas no artigo 24.º do Decreto-Lei n.º 158/2005, de 20 de setembro, com as posteriores alterações, são reduzidas em 0,5 p.p. na taxa de desconto aplicável, ficando a remuneração base/pensão dos beneficiários sujeita ao desconto de\r\n3,00%.\r\n2 – As contribuições previstas no artigo 13.",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 182.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Diminuição das contribuições para os subsistemas de saúde SAD e ADM",
+        "Data": "24/05/2022 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
