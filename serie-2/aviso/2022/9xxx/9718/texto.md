@@ -1,0 +1,8 @@
+Aviso n.º 9718/2022
+Sumário: Prorrogação do prazo de consulta pública do projeto de Regulamento de Tarifas de Receção e Gestão de Resíduos 2022 da Via Navegável do Douro.
+Prorrogação do prazo de consulta pública do projeto de Regulamento de Tarifas de Receção e Gestão de Resíduos 2022 da Via Navegável do Douro
+Nuno Miguel da Costa Araújo, Presidente do Conselho de Administração da APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo, S. A. torna público que, o referido Conselho de Administração, na sua sessão de 28/04/2022, deliberou prorrogar o prazo de consulta pública do projeto de Regulamento de Tarifas de Receção e Gestão de Resíduos 2022 da Via Navegável do Douro, pelo período de 30 dias de calendário, a contar da data da publicação do presente aviso no Diário da República.
+Mais torna público que aquele projeto de Regulamento pode ser consultado na íntegra nas instalações da APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo, S. A., durante o horário de expediente, ou no sítio da internet da APDL - RisDouro, em http://douro.apdl.pt/.
+Os eventuais comentários, sugestões e contributos em relação ao mesmo devem ser remetidos até ao final do mencionado período, em requerimento dirigido ao Presidente do Conselho de Administração da APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo, S. A., Avenida da Liberdade, 4450-718 Leça da Palmeira ou para o endereço de correio eletrónico correio@apdl.pt, com a referência Projeto de Regulamento de Tarifas de Receção e Gestão de Resíduos 2022 da Via Navegável do Douro - Pronúncia.
+28 de abril de 2022. - O Presidente do Conselho de Administração, Nuno Miguel da Costa Araújo.
+315281811
