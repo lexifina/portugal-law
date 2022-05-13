@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EV6D3KmSMRBt1R2JIMK0ujIP%2fsiN7FWTbo3zlVYC68crLPAJgTo8waaMPITFd7A8xMnEDOc4TjvhVTAgmTSNXpKXIKgIzRsuymwLLrQuPlYVRmfe%2fdsVarTAD9Ivug1HeLXjo9lqJHspWbcrGHpXQy7Sl0wSNOnGLkCLz1pwIZp0Uh%2bVG12N5S2iShRjDd%2fXVVWZekZ7pGiF%2fHO3b0l9dhgvZNrORTBycX%2bJNcF0gWxIB6PCrKbo70tNw3VmZxdtSlVYum7xjXIP6cvP0QlpHGMvcZUKd0yArgzI9mOxp1%2fQhismvtYCUctFpap8MNKAsV%2by%2b1tRVNXt6Yb8Q80Xk3BoBIP2NQJU1b9zyUQ4Ry1NV2Bsly7gAespVMEq2rqdO30%2fu4N7gV79OmKeOiXVpKWwws8DSrmGPJW1odEWAdBqlgqJ6VtxHEEahb14Rlwf&fich=OEPropostasAlteracao2022Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4702862df47a366608a2a28c086b4eb565a7511054e669b220485e80ef9aa82a",
+  "legislatura": "XV",
+  "id": "17146",
+  "numero": "1393C",
+  "orcamento": "2022",
+  "versao": "Or",
+  "data_registo": "2022-05-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "17146",
+    "Numero": "1393C",
+    "Data": "13/05/2022 19:58:00",
+    "Titulo": "Artigo 112.º-B (Creches e jardins de infância em unidades empresariais)",
+    "Tema": "Creches (8); Trabalho, Segurança Social e Inclusão; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 112.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c316857544556484c3039464c7a49774d6a49794d4449794d4451784d7939515153396a597a51305a54497a5a43316b4f444d784c5452684d3245744f4467794f5330345a4759334d54526c4e4449354d6a59756347526d&Fich=cc44e23d-d831-4a3a-8829-8df714e42926.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "DUARTE PACHECO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "DUARTE PACHECO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "NUNO CARVALHO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "PAULA CARDOSO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "PAULO MOTA PINTO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 112.º-B",
+        "Titulo": "Creches e jardins de infância em unidades empresariais",
+        "Texto": "1 – O Governo assegurará a criação de apoios para as empresas que de forma individual ou em associação criem uma entidade que invista na abertura de uma creche ou jardim de infância que funcione junto a uma zona empresarial.\r\n2 – Esta entidade pode assumir o estatuto de IPSS e deverá dar prioridade aos filhos",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 112.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Creches e jardins de infância em unidades empresariais",
+        "Data": "25/05/2022 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
