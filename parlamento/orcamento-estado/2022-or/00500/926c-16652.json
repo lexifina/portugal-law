@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EV6D3KmSMRBt1R2JIMK0ujIP%2fsiN7FWTbo3zlVYC68crLPAJgTo8waaMPITFd7A8xMnEDOc4TjvhVTAgmTSNXpKXIKgIzRsuymwLLrQuPlYVRmfe%2fdsVarTAD9Ivug1HeLXjo9lqJHspWbcrGHpXQy7Sl0wSNOnGLkCLz1pwIZp0Uh%2bVG12N5S2iShRjDd%2fXVVWZekZ7pGiF%2fHO3b0l9dhgvZNrORTBycX%2bJNcF0gWxIB6PCrKbo70tNw3VmZxdtSlVYum7xjXIP6cvP0QlpHGMvcZUKd0yArgzI9mOxp1%2fQhismvtYCUctFpap8MNKAsV%2by%2b1tRVNXt6Yb8Q80Xk3BoBIP2NQJU1b9zyUQ4Ry1NV2Bsly7gAespVMEq2rqdO30%2fu4N7gV79OmKeOiXVpKWwws8DSrmGPJW1odEWAdBqlgqJ6VtxHEEahb14Rlwf&fich=OEPropostasAlteracao2022Or_json.txt&Inline=true",
+  "ficheiro_sha256": "4702862df47a366608a2a28c086b4eb565a7511054e669b220485e80ef9aa82a",
+  "legislatura": "XV",
+  "id": "16652",
+  "numero": "926C",
+  "orcamento": "2022",
+  "versao": "Or",
+  "data_registo": "2022-05-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "16652",
+    "Numero": "926C",
+    "Data": "13/05/2022 13:33:00",
+    "Titulo": "Artigo 62.º-A (Imputação de Receitas Fiscais às Regiões Autónomas )",
+    "Tema": "Orçamento e Finanças; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) por Unanimidade em Comissão",
+    "NumeroArtigoNovo": "Artigo 62.º-A",
+    "Conteudo": "Regularização do pagamento do montante em dívida de recetas fiscais de anos anteriores que se encontram por entregar à Região Autónoma da Madeira conforme processos analisados pela AT e AT RAM.",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c316857544556484c3039464c7a49774d6a49794d4449794d4451784d793951515338304d574932596a67334e53307a5a6d557a4c54526b4e7a6b744f44526d4e533078595455314f57457a4e32566b4e3245756347526d&Fich=41b6b875-3fe3-4d79-84f5-1a559a37ed7a.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "SARA MADRUGA DA COSTA, SÉRGIO MARQUES, PATRÍCIA DANTAS",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "PATRÍCIA DANTAS"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "SARA MADRUGA DA COSTA"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "SÉRGIO MARQUES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "True",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 62.º-A",
+        "Titulo": "Imputação de Receitas Fiscais às Regiões Autónomas",
+        "Texto": "1 - Nos termos do artigo 24.º e seguintes da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, até 30 de setembro de 2022, será constituída uma Comissão Técnica, cujos membros serão designados pelo Governo da república e pelos Governos das regiões autónomas dos A",
+        "Estado": "Aprovado(a) por Unanimidade em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 62.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Imputação de Receitas Fiscais às Regiões Autónomas",
+        "Data": "24/05/2022 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) por Unanimidade em Comissão",
+        "Resultado": "Aprovado(a) por Unanimidade",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
