@@ -1,0 +1,8 @@
+Aviso n.º 9840/2022
+Sumário: Consulta pública do projeto do Regulamento do Programa de Apoio à Natalidade e Fixação de População no Concelho de Porto Moniz - «Porto Moniz Nascer +».
+Consulta pública do Projeto de Regulamento de Programa de Apoio à Natalidade e Fixação de População no Concelho de Porto Moniz - "Porto Moniz Nascer +"
+João Emanuel Silva Câmara, Presidente da Câmara Municipal de Porto Moniz, torna público que, na reunião do executivo municipal de 29 de abril de 2022, foi deliberado, nos termos do artigo 101.º do Código do Procedimento Administrativo (Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua atual redação, submeter a consulta pública, pelo prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República, o Projeto de Regulamento de Programa de Apoio à Natalidade e Fixação de População no Concelho de Porto Moniz - "Porto Moniz Nascer +".
+Mais se informa que o citado documento poderá ser disponibilizado por e-mail a quem tal o solicite e encontra-se à disposição, para consulta pelos interessados, no site institucional do Município de Porto Moniz (www.portomoniz.pt) e no Serviço de Atendimento da Câmara Municipal, durante o horário de expediente, podendo durante esse prazo proceder-se à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito da referida proposta de alteração, devendo as mesmas ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal de Porto Moniz.
+Para constar se publica o presente aviso.
+2 de maio de 2022. - O Presidente da Câmara, João Emanuel Silva Câmara.
+315289183
