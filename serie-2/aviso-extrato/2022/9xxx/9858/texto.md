@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 9858/2022
+Sumário: Regulamento de Utilização e Funcionamento dos Polidesportivos.
+Na sequência da publicação no Diário da República, 2.ª série, n.º 244, de 20 de dezembro de 2021 (fls. 302 a 305), do Regulamento n.º 1016/2021, torna-se público que em Sessão Ordinária da Assembleia de Freguesia, realizada em 22 de abril de 2022, sob proposta da Junta de Freguesia, e após ter decorrido o prazo para consulta pública, nos termos do artigo 101.º do Código do Procedimento Administrativo (DL n.º 4/2015, de 7 de janeiro), foi aprovado o Regulamento de Utilização e Funcionamento dos Polidesportivos da União Freguesias da Sé e São Lourenço do Concelho de Portalegre, com o conteúdo constante da citada publicação, o qual não sofreu qualquer alteração, entrando o mesmo em vigor no dia útil imediatamente a seguir à sua publicação no Diário da República.
+27 de abril de 2022. - A Presidente da União das Freguesias da Sé e São Lourenço, Raquel Alexandre Reizinho Carita Castelo.
+315290868
