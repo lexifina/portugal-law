@@ -1,0 +1,368 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "74",
+  "id": "121467",
+  "fases": 38,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-05-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4d6d59304d4759324e7931695a6a6b774c5452694f544974596d5a6d595330774e4751785a6a67304e474d304e6a41756347526d&fich=f2f40f67-bf90-4b92-bffa-04d1f844c460.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "4452",
+        "nome": "Isabel Alves Moreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1594",
+        "nome": "Maria Antónia de Almeida Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5600",
+        "nome": "Eurico Brilhante Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5930",
+        "nome": "Alexandre Quintanilha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6706",
+        "nome": "Miguel Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "523",
+        "nome": "Francisco Rocha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "469",
+        "nome": "Porfírio Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1944",
+        "nome": "Susana Amador"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6543",
+        "nome": "Alexandra Leitão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7036",
+        "nome": "Francisco Pereira de Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7046",
+        "nome": "Joana Sá Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2273",
+        "nome": "Rita Borges Madeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7083",
+        "nome": "Bruno Aragão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2445",
+        "nome": "Tiago Barbosa Ribeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6334",
+        "nome": "Miguel dos Santos Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7055",
+        "nome": "Francisco Dinis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5896",
+        "nome": "Eduardo Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7878",
+        "nome": "Tiago Soares Monteiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7975",
+        "nome": "Eunice Pratas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7757",
+        "nome": "Pedro Anastácio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6899",
+        "nome": "Marta Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5837",
+        "nome": "Alexandra Tavares de Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6949",
+        "nome": "Tiago Estevão Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7015",
+        "nome": "Cristina Mendes da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "162",
+        "nome": "Edite Estrela"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7018",
+        "nome": "Mara Lagriminha Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7250",
+        "nome": "Clarisse Campos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7949",
+        "nome": "Eduardo Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7350",
+        "nome": "Fátima Correia Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6057",
+        "nome": "Ana Isabel Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3936",
+        "nome": "Palmira Maciel"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7212",
+        "nome": "Fernando José"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7483",
+        "nome": "Gilberto Anjos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5836",
+        "nome": "Paulo Marques"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4199",
+        "nome": "Anabela Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7866",
+        "nome": "Paula Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7324",
+        "nome": "Anabela Real"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6867",
+        "nome": "Rosário Gambôa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6202",
+        "nome": "Cláudia Avelar Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2753",
+        "nome": "Jorge Gabriel Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1600",
+        "nome": "Jamila Madeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6785",
+        "nome": "João Miguel Nicolau"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7886",
+        "nome": "Salvador Formiga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6834",
+        "nome": "Vera Braz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4363",
+        "nome": "Agostinho Santa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5635",
+        "nome": "Norberto Patinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6962",
+        "nome": "Susana Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7731",
+        "nome": "Ricardo Lima"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6956",
+        "nome": "Sara Velez"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6371",
+        "nome": "Patrícia Faro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7161",
+        "nome": "Pompeu Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7020",
+        "nome": "Dora Brandão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6848",
+        "nome": "António Pedro Faria"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1741",
+        "nome": "Paulo Pisco"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6050",
+        "nome": "André Pinotes Batista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4210",
+        "nome": "José Rui Cruz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6789",
+        "nome": "Paulo Araújo Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6900",
+        "nome": "João Pedro Matos Fernandes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6112",
+        "nome": "Tiago Brandão Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6158",
+        "nome": "João Azevedo Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7573",
+        "nome": "Rui Lage"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "121467",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338775a6a63344d5449304f4330344f5445784c54526c595449744f44646a595330784e6a6b784e7a466c5a5759354e5459755a47396a&fich=0f781248-8911-4ea2-87ca-169171eef956.doc&Inline=true",
+    "IniNr": "74",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Regula as condições em que a morte medicamente assistida não é punível, e altera o Código Penal",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
