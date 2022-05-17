@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "73",
+  "id": "121466",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-05-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4e5745774d3259354d4330774e3259334c545130597a63745954466b4e4331684e54526c4e7a6b784d544a6c4d6a55756347526d&fich=c5a03f90-07f7-44c7-a1d4-a54e79112e25.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "4623",
+        "nome": "Diana Ferreira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4197",
+        "nome": "Paula Santos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5524",
+        "nome": "João Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5706",
+        "nome": "Alma Rivera"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "210",
+        "nome": "Jerónimo de Sousa"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "121466",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338314e6a5133596d466d4f5331685a6d557a4c5451784e4751744f474d354e4330785a6a646b4d7a6778597a51344d5463755a47396a65413d3d&fich=5647baf9-afe3-414d-8c94-1f7d381c4817.docx&Inline=true",
+    "IniNr": "73",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição de texto de iniciativa em 2022-06-09.",
+    "IniTipo": "J",
+    "IniTitulo": "Garante a inclusão de todos os horários no procedimento de mobilidade interna do concurso interno de professores",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Concurso de mobilidade interna",
+        "dcl": null,
+        "descTipo": null,
+        "id": "13567",
+        "legislatura": "XIV",
+        "numero": "199",
+        "sessao": "2",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
