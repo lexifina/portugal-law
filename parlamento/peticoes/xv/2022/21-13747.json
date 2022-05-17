@@ -1,0 +1,242 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13747",
+  "numero": "21",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-05-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-05-28",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PCP",
+                "L",
+                "CDS-PP"
+              ],
+              "data": "2024-05-28",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PCP</I>, <I> L</I>, <I> CDS-PP</I>",
+              "id": "126672",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "7",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2024-05-28",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2024-05-28",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-05-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457a5131424d513151765247396a6457316c626e52766331426c64476c6a595738764e6a6469595456695a6d4d744d444977595330304f5449314c5746694d6a51744d474d7a4f47466d4d6d45304e6d5a694c6e426b5a673d3d&fich=67ba5bfc-020a-4925-ab24-0c38af2a46fb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8405",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Poder Local e Coesão Territorial",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-05-28",
+            "dataNomeacao": "2024-05-02",
+            "gp": "PSD",
+            "id": "8698",
+            "motivoCessacao": "Entrega do Relatório",
+            "nome": "Olga Freire"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-01-19",
+            "entidades": null,
+            "id": "127926",
+            "tipo": null,
+            "titulo": "Audição em 2023-01-19 com Peticionários da Petição n.º 21/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-09-20",
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2022-05-18",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2022-09-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-09-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3249794d4459355a446c6d4c54686b4e6a45744e4749784d7931684f445a694c5445334e32526b596a5a6b4f575a695a4335775a47593d&fich=b2069d9f-8d61-4b13-a86b-177ddb6d9fbd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-01-19",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a4a6b4d6a517959574e6d4c5445794d4755744e44646a4f4330344f54557a4c574a684f57566d5a6d46694d575931597935775a47593d&fich=2d242acf-120e-47c8-8953-ba9effab1f5c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-09-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324e684d6d4a6c4d3255304c546b355a6d51744e4751324d4330355a4455794c57526d5a5442685a5755774d54566b4e7935775a47593d&fich=ca2be3e4-99fd-4d60-9d52-dfe0aee015d7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3259344e6d557a4e474e6b4c5755354d4759744e474e6c4d7931685a6a566d4c5463794d5449305a546c6a4d6a4d79595335775a47593d&fich=f86e34cd-e90f-4ce3-af5f-72124e9c232a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3255354d545531595441774c54526d4f4751744e444578597930344e444a6d4c57566b4e475530597a566c4e7a5a6c5a5335775a47593d&fich=e9155a00-4f8d-411c-842f-ed4e4c5e76ee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3251784e544a684e3249314c5451784e6a55744e444e6b4e6931684d7a4e684c575a6d4d6a41794d47566a4f5455324d5335775a47593d&fich=d152a7b5-4165-43d6-a33a-ff2020ec9561.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a45794e7a6332596d46684c575a694f5467744e474d32597931694f44517a4c54686c4e7a6c6b4d47457a596d4e6b4f5335775a47593d&fich=12776baa-fb98-4c6c-b843-8e79d0a3bcd9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a46695a6a55324e4756684c545a6a59546b744e4449304d5331684e324a6a4c574e6c4f574a6d4d7a67334e4745355a4335775a47593d&fich=1bf564ea-6ca9-4241-a7bc-ce9bf3874a9d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324a694e5463325a6d59784c5463774e3251744e4449774d793168596a646c4c5467344d574a6b4d7a6c6c597a41784d7935775a47593d&fich=bb576ff1-707d-4203-ab7e-881bd39ec013.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a6b304d5755354e6a49304c5749774e4749744e445a6d4f433035595463324c546c684e475932596d45794e4759354d5335775a47593d&fich=941e9624-b04b-46f8-9a76-9a4f6ba24f91.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-11-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a5a6b596d49334e7a52694c54686c595745744e44593159693034595463324c57566b5a6a4d334e7a4d795a4459345a4335775a47593d&fich=6dbb774b-8eaa-465b-8a76-edf37732d68d.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8337",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2022-09-20",
+            "gp": "PS",
+            "id": "4363",
+            "motivoCessacao": null,
+            "nome": "Agostinho Santa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2022-05-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d7659574d774d6d566a4f5449744e7a49314d4330304d3255774c546c6a59325974597a67324f474a6a5a474e69596a4a684c6e426b5a673d3d&fich=ac02ec92-7250-43e0-9ccf-c868bcdcbb2a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13747",
+    "PetAssunto": "Correção da delimitação administrativa da freguesia de Sedielos na CAOP e inscrição dos prédios rústicos desta freguesia na sua matriz predial rústica",
+    "PetDataEntrada": "2022-05-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13747",
+    "PetLeg": "XV",
+    "PetNr": "21",
+    "PetNrAssinaturas": "145",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVI Legislatura",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
