@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 10177/2022
+Sumário: Consulta pública do projeto de regulamento e tabela geral de taxas e licenças.
+Consulta Pública do Projeto do Regulamento e Tabela Geral de Taxas e Licenças da Freguesia de Covelas
+Alexandra Filipa Campos Ferreira, Presidente da Junta de Freguesia de Covelas, torna público que de acordo com deliberação da Freguesia de Covelas em reunião de 21 de abril de 2022, foi aprovado o projeto do Regulamento e Tabela Geral de Taxas e Licenças, ao abrigo da alínea h) do n.º 1 do artigo 16.º do Regime Jurídico das Autarquias Locais do Anexo I da Lei n.º 75/2013, de 12 de setembro da sua redação atual, o qual se submete a consulta pública, para recolha de sugestões, no prazo de trinta dias úteis, a contar da publicação do presente aviso, em conformidade com o artigo 100.º do n.º 3 alínea c) e artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 07/01.
+O projeto em apreço poderá ser consultado nas instalações da Freguesia de Covelas, de segunda a sexta-feira, assim como encontra-se disponível para consulta na sua página eletrónica oficial www.jf-covelas.pt.
+No âmbito da participação, e nos termos do artigo 101.º do CPA, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 07/01, os interessados devem apresentar as suas sugestões, por escrito, de forma fundamentada, dirigidas à Senhora Presidente da Junta de Freguesia, a remeter: em mão nos serviços administrativos da Freguesia, sita na Rua Central, 504, 4785-027 Covelas, no prazo fixado no referido diploma.
+6 de maio de 2022. - A Presidente da Freguesia de Covelas, Alexandra Filipa Campos Ferreira.
+315303795
