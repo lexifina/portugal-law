@@ -1,0 +1,177 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13749",
+  "numero": "23",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-05-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": "2023-01-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "PAN",
+                "L"
+              ],
+              "data": "2023-01-11",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> PCP</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> PAN</I>, <I> L</I>",
+              "id": "103920",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "74",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-06-29",
+        "DataArquivo": "2023-01-11",
+        "DataBaixaComissao": "2022-06-02",
+        "DataEnvioPAR": "2023-01-12",
+        "DataReaberta": "2022-06-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-06-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e68627939694e6a497759575a6b5a693031597a45344c5451334f5451744f4449304d6930334d3249315932526d5a574d315a4745756347526d&fich=b620afdf-5c18-4794-8242-73b5cdfec5da.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-09-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e68627938325a446733595455304d4331684f54466c4c54526b4d5751744f54646d5a5330344e444a6d5932597a4e474a6b4e6a63756347526d&fich=6d87a540-a91e-4d1d-97fe-842fcf34bd67.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e68627938305a6a55305a6a4d3059533033597a41334c5451784d6a4574596a5a6c4d6930794d4463334d6d466a4f5752684d6a55756347526d&fich=4f54f34a-7c07-4121-b6e2-20772ac9da25.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e686279387a4e4449314d7a67324f533032596a426b4c5451314d7a4d74595446694d7931685a474d785a444d785a6d5132596a45756347526d&fich=34253869-6b0d-4533-a1b3-adc1d31fd6b1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-01-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e68627938324f546c6c4e6d526b5969316b5a4456684c5451304e3255744f5441304d4330344e44566c4d4749324f54646a4e6d49756347526d&fich=699e6ddb-dd5a-447e-9040-845e0b697c6b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-10-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e686279396b4f5463305a4756684d69316c5a47497a4c545268595455744f5749334d43316b59546b7a4e4463355a574d7a4f4759756347526d&fich=d974dea2-edb3-4aa5-9b70-da93479ec38f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-01-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5547563061574e686279396c5a4755784e324a6a4f5331694d3249304c5451334e3245744f574d774e4330304e324a6d4e4445304e6a426b4f4749756347526d&fich=ede17bc9-b3b4-477a-9c04-47bf41460d8b.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8329",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-01-04",
+            "dataNomeacao": "2022-06-29",
+            "gp": "PS",
+            "id": "3935",
+            "motivoCessacao": null,
+            "nome": "Hugo Pires"
+          },
+          {
+            "dataCessacao": "2023-01-11",
+            "dataNomeacao": "2023-01-04",
+            "gp": "PS",
+            "id": "6112",
+            "motivoCessacao": null,
+            "nome": "Tiago Brandão Rodrigues"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2022-06-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e7a466b4f44646c4e6a6b744f54566a4d6930305a546b334c57466a5a6a67745a6a4132593255324f47466b4e446c6b4c6e426b5a673d3d&fich=71d87e69-95c2-4e97-acf8-f06ce68ad49d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13749",
+    "PetAssunto": "GPL auto em Portugal",
+    "PetDataEntrada": "2022-05-23",
+    "PeticoesAssociadas": null,
+    "PetId": "13749",
+    "PetLeg": "XV",
+    "PetNr": "23",
+    "PetNrAssinaturas": "323",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Efetuado pedido de informação ao Secretário de Estado dos Assuntos Fiscais e à ERSE - Entidade Reguladora dos Serviços Energéticos, em 09-09-2022 ",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
