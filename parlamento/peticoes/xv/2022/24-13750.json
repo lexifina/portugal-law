@@ -1,0 +1,781 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13750",
+  "numero": "24",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-05-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-10-20",
+            "entidades": null,
+            "id": "127715",
+            "tipo": null,
+            "titulo": "Audição em 2022-10-20 com Peticionários da Petição n.º 24/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-02-02",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915144",
+                "obs": null,
+                "pag": [
+                  "11-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-03",
+                "pubLeg": "XV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/060/2023-02-03/11?pgs=11-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-09-20",
+        "DataArquivo": "2023-02-02",
+        "DataBaixaComissao": "2022-06-02",
+        "DataEnvioPAR": "2023-02-02",
+        "DataReaberta": "2022-09-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-09-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a646d4e44566c4d474e694c57466d5a4455744e4745774e693168596a55304c546b314e32466d5a6a6331596a52694d6935775a47593d&fich=7f45e0cb-afd5-4a06-ab54-957aff75b4b2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-02",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c325a68597a56694f4449774c5459774f5749744e47466b4e7930354f44686a4c5456694d6a49774d4749314e325530596935775a47593d&fich=fac5b820-609b-4ad7-988c-5b2200b57e4b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a5930596a45315a44677a4c5441304d6a45744e4441324e4331684d47566d4c546b784f47566c4e6d466d595463334f4335775a47593d&fich=64b15d83-0421-4064-a0ef-918ee6afa778.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a6c6a4d4745794d5751354c546b345a4459744e4459785a5330355a6d5a694c546c6c5a5749304d6d55345a6d46694f4335775a47593d&fich=9c0a21d9-98d6-461e-9ffb-9eeb42e8fab8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a526c596d513459324e694c5745325a6a45744e444534596931684e6d4a6a4c5445334e4749304f4459325a5745355a5335775a47593d&fich=4ebd8ccb-a6f1-418b-a6bc-174b4866ea9e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3256695a6a6b35597a59794c5467324d4463744e446b335a4330354d4755794c544a6b597a63344e474d7a597a6b304e7935775a47593d&fich=ebf99c62-8607-497d-90e2-2dc784c3c947.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a5a6d595755785a446c684c57566c5a5459744e47526c4e7930344d6a6b334c544e6c4f4459354d54526d59324e694e5335775a47593d&fich=6fae1d9a-eee6-4de7-8297-3e86914fccb5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3249334d5459774e54646d4c545a6b4d7a67744e446b324f4331684d7a45774c546c6a4d32566d4f44686c4f4759774d7935775a47593d&fich=b716057f-6d38-4968-a310-9c3ef88e8f03.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a5a6a4d5451794d4759314c574a6b4e4467744e4755775a533035597a6c6d4c54597a4e445934596d4e6d4d7a497a4f5335775a47593d&fich=6c1420f5-bd48-4e0e-9c9f-63468bcf3239.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324d314d575a684f5751784c57557a596d49744e444a685a5331684e7a52684c545978596d493459544e6d5a54566a4e7935775a47593d&fich=c51fa9d1-e3bb-42ae-a74a-61bb8a3fe5c7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a566a4e4467774e574d324c57566b4d6a6b744e44466c5a4331694d6d566b4c5467315a6a49314f4441344e7a51314d7935775a47593d&fich=5c4805c6-ed29-41ed-b2ed-85f258087453.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-09-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a55344d544e684d6a45304c5441324d6d51744e474a6d4e4331694e7a51344c5445325a4752684d545934596a686a5a5335775a47593d&fich=5813a214-062d-4bf4-b748-16dda168b8ce.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a59795a54566d4e54646a4c54686c4e5455744e445931597931694e5455784c5749314e3251304d7a4d344d324d325a4335775a47593d&fich=62e5f57c-8e55-465c-b551-b57d43383c6d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c32466d4d6a597959546b314c545a6b4f5759744e4745794e7931694d5751334c54466b4e7a426b4d5441354e7a566a4e6935775a47593d&fich=af262a95-6d9f-4a27-b1d7-1d70d10975c6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c32526a593259784e3249334c54426c597a51744e4751335a4331684d44566a4c546c684f5459795a545134596d45344e6935775a47593d&fich=dccf17b7-0ec4-4d7d-a05c-9a962e48ba86.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324e6b5a546b344d4755344c5449305a6a41744e4749325a4330344e3245774c544d774f5464694e54426b4d57566d4d6935775a47593d&fich=cde980e8-24f0-4b6d-87a0-3097b50d1ef2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a51334f4449305a6a45334c54457a5a546b744e44686a5a4331694d7a466c4c5459784d3249334d6d45304d7a686c4e7935775a47593d&fich=47824f17-13e9-48cd-b31e-613b72a438e7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a59325a6d49784f4441314c5749344e5441744e4446694e7930355a444d314c544e6a4f545177595449344d6a426b596935775a47593d&fich=66fb1805-b850-41b7-9d35-3c940a2820db.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a42685a546869595455324c5459774d6d49744e446b344e533035595451344c5749334d574d305a574d774e6a45304d4335775a47593d&fich=0ae8ba56-602b-4985-9a48-b71c4ec06140.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-02-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a68684f5445314d54677a4c54497a4d4463744e4467344f5330355a4445304c544e6d5a6a67354f475a6d4d574d79596935775a47593d&fich=8a915183-2307-4889-9d14-3ff898ff1c2b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-10-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3259325a444e6a4e5445354c544e6c4e3245744e4451315a4331685a5451324c54426c4d5467774f5455794e6d4d344f5335775a47593d&fich=f6d3c519-3e7a-445d-ae46-0e1809526c89.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3259784d6a49314e7a526a4c5463304d3245744e4441795a4331694f5755314c5759314d474d784d5751774f4746694f4335775a47593d&fich=f122574c-743a-402d-b9e5-f50c11d08ab8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a4177595459344e5751794c5445304e6a49744e47497a4f4331694d7a64684c574d304d7a5578596a63324d324e6a4d6935775a47593d&fich=00a685d2-1462-4b38-b37a-c4351b763cc2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c7a41794e6a4135597a646d4c544a694d6a45744e446b30596931694e7a4d324c5445354d7a45794d5463335a5759314e6935775a47593d&fich=02609c7f-2b21-494b-b736-19312177ef56.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c32526d4f474577595449324c544a694f5467744e4467355a6931684e4441784c5442694e5446684e6a5935595751304f4335775a47593d&fich=df8a0a26-2b98-489f-a401-0b51a669ad48.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c3249335a4467334d7a5a6b4c5756695a6a6b744e474e69597931685a47466c4c54686a4e32526859324a684f446b304f4335775a47593d&fich=b7d8736d-ebf9-4cbc-adae-8c7dacba8948.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-11-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e515a585270593246764c324e68596d4a694d3255304c5451345a6a4d744e445978596930344d5445344c544d31597a45305a6a4a6c4d7a51344e7935775a47593d&fich=cabbb3e4-48f3-461b-8118-35c14f2e3487.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8337",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-02-02",
+            "dataNomeacao": "2022-09-20",
+            "gp": "PSD",
+            "id": "7352",
+            "motivoCessacao": "Entrega do Relatório",
+            "nome": "Guilherme Almeida"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-05-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-06-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f57526b4d7a4a6c4f5445744e446c694f533030596a51324c5746684d3255744d4455784d5463304d6d4e6c4f444d314c6e426b5a673d3d&fich=9dd32e91-49b9-4b46-aa3e-0511742ce835.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152717",
+      "152766",
+      "152766"
+    ],
+    "Iniciativasoriginadas": [
+      "152717",
+      "152766"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=46"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49",
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/48?pgs=48-49,49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": "Respondeu a pedido de esclarecimento do deputado Gilberto Anjos"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": "Formulou um pedido de esclarecimento à deputada Paula Santos (PCP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/51?pgs=51&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334582",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334583",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334584",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334585",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_05_10_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-06",
+                "pubLeg": "XV",
+                "pubNr": "125",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da empresa intermunicipal de Águas do Alto Minho; Recomenda ao Governo a dissolução da empresa Águas do Alto-Minho e o retorno do controlo público dos serviços de água e saneamento para os municípios da região; Remunicipalização dos serviços prestados pela Águas do Alto Minho em Arcos de Valdevez, Caminha, Paredes de Coura, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13750",
+    "PetAssunto": "Pelo fim da empresa intermunicipal de Águas do Alto Minho",
+    "PetDataEntrada": "2022-05-23",
+    "PeticoesAssociadas": null,
+    "PetId": "13750",
+    "PetLeg": "XV",
+    "PetNr": "24",
+    "PetNrAssinaturas": "8338",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16419",
+        "obs": null,
+        "pag": [
+          "48-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-05-06",
+        "pubLeg": "XV",
+        "pubNr": "125",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/125/2023-05-06/48?pgs=48-57&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915141",
+        "obs": null,
+        "pag": [
+          "14-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-09-24",
+        "pubLeg": "XV",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/036/2022-09-24/14?pgs=14-16&org=PLC"
+      }
+    ]
+  }
+}
