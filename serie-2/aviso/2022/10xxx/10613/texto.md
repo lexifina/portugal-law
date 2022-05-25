@@ -1,0 +1,7 @@
+Aviso n.º 10613/2022
+Sumário: Proposta do Regulamento de Condecorações Municipais.
+Bruno José da Graça Gomes, Presidente da Câmara Municipal de Ferreira do Zêzere, torna público que, por deliberação da Câmara Municipal, tomada em reunião ordinária pública de 20 de abril de 2022, foi aprovado por unanimidade, a presente Proposta de Regulamento de Condecorações Municipais. Assim, torna público, em cumprimento da deliberação e nos termos do artigo 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que se submete a referida proposta de Regulamento a consulta pública escrita, por um prazo de 30 dias úteis, a contar da data de publicação do presente aviso na 2.ª série do Diário da República, podendo o mesmo ser consultado na íntegra na secretaria da Câmara Municipal, durante o horário de expediente ou na página eletrónica da Câmara Municipal, em www.cm-ferreiradozezere.pt.
+As eventuais sugestões ou observações deverão ser formuladas por escrito até ao final do perío-do mencionado, dirigidas ao Presidente da Câmara Municipal de Ferreira do Zêzere, endereçadas ou entregues no Edifício dos Paços do Concelho, Praça Dias Ferreira n.º 38, 2240-341 Ferreira do Zêzere, ou ainda por correio eletrónico para o endereço geral@cm-ferreiradozezere.pt.
+Para constar se lavrou o presente edital e outros de igual teor, que vão ser afixados nos locais públicos do costume.
+29 de abril de 2022. - O Presidente da Câmara, Bruno José da Graça Gomes.
+315318375
