@@ -1,0 +1,196 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "95",
+    "id": "121495",
+    "titulo": "Realização obrigatória de um referendo sobre a despenalização da morte medicamente assistida"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-05-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62485",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-05-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": "2022-06-08",
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-06-08",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526d5957566a595459784c546377595751744e4449334e793168595449324c5445324e7a6c684d47466a596a6b78597935775a47593d&fich=dfaeca61-70ad-4277-aa26-1679a0acb91c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32457a4e3255314d6d59304c5449324d6d4d744e446330595331694d4455774c574d304d7a6b334e4759324d4746684e6935775a47593d&fich=a37e52f4-262c-474a-b050-c43974f60aa6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-07",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação - Conselho Nacional de Ética para as Ciências da Vida ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3252685a545a694d7a67324c545a6c4e4463744e474d305a6931684f474e6c4c544d344e324d77597a49314e544d7a5a4335775a47593d&fich=dae6b386-6e47-4c4f-a8ce-387c0c25533d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426c4d6a42695a5463774c544d324d3259744e44646c597931684d575a6b4c5441794f57526d4f4749774f4441324e5335775a47593d&fich=0e20be70-363f-47ec-a1fd-029df8b08065.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41305a475135595752694c54457a4f4441744e474d785a433169597a67354c57566c4e6d4d33596a49774d4463794e4335775a47593d&fich=04dd9adb-1380-4c1d-bc89-ee6c7b200724.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Psicólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56684e7a52694f5451324c546b794e7a6b744e4441354e5330344d4467314c544d345a574d795a4759774e5441344e7935775a47593d&fich=5a74b946-9279-4095-8085-38ec2df05087.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-16",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4179597a646b4e4745334c5464684e7a4d744e446b784e5330344d3252694c5751314d7a677a4e325577593259784d7935775a47593d&fich=02c7d4a7-7a73-4915-83db-d53837e0cf13.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Posição - Ordem dos Médicos sobre a Eutanásia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4935593245774d7a51354c5468684d5463744e474d304d4330354e6d557a4c5755794d574a6a4f444e694f5467304f5335775a47593d&fich=29ca0349-8a17-4c40-96e3-e21bc83b9849.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Nacional de Ética para as Ciências da Vida ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63784d6a426d4d6a45304c5749304f5759744e4467334f5331694d6d59344c545a6c59544e684d545133597a4e6d596935775a47593d&fich=7120f214-b49f-4879-b2f8-6ea3a147c3fb.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": "não emissão de parecer por retirada da iniciativa",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-06-14"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-06-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Nacional de Ética para as Ciências da Vida (CNECV) em 2022-06-14"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Enfermeiros em 2022-06-08"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Psicólogos Portugueses em 2022-06-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Médicos em 2022-06-16"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Nacional de Ética para as Ciências da Vida (CNECV) em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Enfermeiros em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Psicólogos Portugueses em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Médicos em 2022-06-01"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4452",
+            "motivoCessacao": null,
+            "nome": "Isabel Alves Moreira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-05-25",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 9.ª Comissão",
+    "OevId": "1285574",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
