@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2022-05-26, processo 0112/06.7BEPDL 0637/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0112/06.7BEPDL 0637/13
+
+**Data do Acordão:** 05/26/2022
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** RECURSO PARA UNIFORMIZAÇÃO DE JURISPRUDÊNCIA; MESMA QUESTÃO FUNDAMENTAL DE DIREITO
+
+**Nº Convencional:** JSTA000P29478
+
+**Nº do Documento:** SAP202205260112/06
+
+**Data de Entrada:** 02/17/2022
+
+**Recorrente:** FÁBRICA DE CERVEJAS E REFRIGERANTES A....., LDA
+
+**Recorrido 1:** SECRETÁRIO DE ESTADO DOS ASSUNTOS FISCAIS E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Constitui pressuposto do conhecimento do mérito do recurso para uniformização de jurisprudência a que aludem os artigos 284º do CPPT e 152º do CPTA que o acórdão recorrido esteja em oposição, quanto à mesma questão fundamental de direito, com outro acórdão anteriormente proferido pelo mesmo ou outro Tribunal Central Administrativo ou pelo Supremo Tribunal Administrativo e que não ocorra a situação de a decisão impugnada estar em sintonia com a jurisprudência mais recentemente consolidada do Supremo Tribunal Administrativo.
+
+II - Para apurar da existência de contradição sobre a mesma questão fundamental de direito entre a decisão arbitral recorrida e a decisão invocada como fundamento devem adoptar-se os critérios já firmados por este STA, quais sejam: - Identidade da questão de direito sobre que recaíram as decisões em confronto, que supõe estar-se perante uma situação de facto substancialmente idêntica; - Que não tenha havido alteração substancial da regulamentação jurídica; - Que se tenha perfilhado, nos dois arestos, solução oposta; - A oposição deverá decorrer de decisões expressas, não bastando a pronúncia implícita ou a mera consideração colateral, tecida no âmbito da apreciação de questão distinta.
+
+III - In casu, tem de ser negativa a resposta à questão de saber se os dois acórdãos em alegada oposição se pronunciaram efectivamente em termos contrários acerca de uma mesma questão jurídica, dentro de um igual enquadramento fáctico e jurídico, o que significa que não haverá que conhecer do mérito do recurso.
