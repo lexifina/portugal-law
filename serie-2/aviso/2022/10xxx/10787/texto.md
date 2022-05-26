@@ -1,0 +1,8 @@
+Aviso n.º 10787/2022
+Sumário: Projeto do Regulamento do Serviço de Saneamento e Águas Residuais.
+Projeto de Regulamento de Serviço de Saneamento e Águas Residuais - Consulta Pública
+António Alberto Pires Aguiar Machado, Presidente da Câmara Municipal de Vila Pouca de Aguiar, torna público, ao abrigo das disposições conjugadas previstas nas alíneas b) e t) do n.º 1 do artigo 35.º e no artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, nos termos e para os efeitos previstos no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, que por deliberação da Câmara Municipal de Vila Pouca de Aguiar de 12 de maio de 2022, foi aprovado o Projeto de Regulamento de Serviço de Saneamento e Águas Residuais e dar início ao período de consulta pública.
+O referido Projeto de Regulamento encontrar-se-á disponível para consulta pública durante 30 (trinta) dias úteis, a contar da publicação do presente aviso no Diário da República, na Secção de Atendimento ao Público da Câmara Municipal durante o horário normal de expediente, bem como no portal do Município, em www.cm-vpaguiar.pt.
+Todos os interessados podem apresentar, durante o período de consulta pública, por escrito, sugestões, observações ou reclamações, as quais devem ser dirigidas ao Sr. Presidente da Câmara por via postal para a Rua Dr. Henrique Botelho, 5450-027 Vila Pouca de Aguiar ou entregues na Secção de Atendimento ao Público da Câmara Municipal ou ainda através do correio eletrónico geral@cm-vpaguiar.pt.
+17 de maio de 2022. - O Presidente da Câmara Municipal, António Alberto Pires Aguiar Machado.
+315334875
