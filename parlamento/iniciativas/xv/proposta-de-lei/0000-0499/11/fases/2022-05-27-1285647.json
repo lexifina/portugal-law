@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "11",
+    "id": "121504",
+    "titulo": "Regula o acesso a metadados referentes a Comunicações Eletrónicas para fins de investigação criminal"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-05-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62503",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-05-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": "2022-06-01",
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-06-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação  - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e6c4e574a694e7a51784c574d345a444d744e4451344d6930344d474e684c546b794e44677a4d6a4d334f4452684f5335775a47593d&fich=3e5bb741-c8d3-4482-80ca-9248323784a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-09",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259775a5756684d7a566b4c5745324d5745744e4449774f4331694d44646a4c54646c4e6a51315a445a6c4e6d4a6b5a6935775a47593d&fich=f0eea35d-a61a-4208-b07c-7e645d6e6bdf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d354d5449345957466c4c5451304e7a63744e475930595330354e4751324c5451305a444a6d4d54637a5a6d466d4f5335775a47593d&fich=39128aae-4477-4f4a-94d6-44d2f173faf9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-24",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49304d5451354d6a55314c54686a4e5745744e4745774f5331694f44426a4c54566d4e6a46694e4441315a546c684e5335775a47593d&fich=24149255-8c5a-4a09-b80c-5f61b405e9a5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-29",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41785a6a5a684d6a55794c5463784d6d4d744e4463774d69303459544a6d4c54426c4e6a4135596a41334f57526d4d5335775a47593d&fich=01f6a252-712c-4702-8a2f-0e609b079df1.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": "Impossibilidade de emissão de parecer em tempo útil",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-06-20"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2022-06-29"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-06-09"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2022-06-24"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2022-06-01"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-05-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1285647",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
