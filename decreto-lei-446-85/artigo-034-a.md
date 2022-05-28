@@ -1,6 +1,6 @@
 ## Capítulo VII
 
-## Disposições finais e transitórias
+## Fiscalização e regime sancionatório
 
 # Artigo 34.º-A
 
