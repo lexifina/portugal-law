@@ -20,11 +20,11 @@ g) O sistema de tratamento de reclamações dos consumidores pelo profissional, 
 
 h) O período de vigência do contrato, quando for o caso, ou, se o contrato for de duração indeterminada ou de renovação automática, as condições para a sua denúncia ou não renovação, bem como as respetivas consequências, incluindo, se for o caso, o regime de contrapartidas previstas para a cessação antecipada dos contratos que estabeleçam períodos contratuais mínimos;
 
-i) A existência de garantia de conformidade dos bens, com a indicação do respetivo prazo, e, quando for o caso, a existência de serviços pós-venda e de garantias comerciais, com descrição das suas condições;
+i) A existência de garantia de conformidade dos bens, dos conteúdos e serviços digitais, com a indicação do respetivo prazo, e, quando for o caso, a existência de serviços pós-venda e de garantias comerciais, com descrição das suas condições;
 
-j) A funcionalidade dos conteúdos digitais, nomeadamente o seu modo de utilização e a existência ou inexistência de restrições técnicas, incluindo as medidas de proteção técnica, quando for o caso;
+j) A funcionalidade dos bens com elementos digitais, conteúdos e serviços digitais, nomeadamente o seu modo de utilização e a existência ou inexistência de restrições técnicas, incluindo as medidas de proteção técnica, quando for o caso;
 
-k) Qualquer interoperabilidade relevante dos conteúdos digitais, quando for o caso, com equipamentos e programas informáticos de que o fornecedor ou prestador tenha ou possa razoavelmente ter conhecimento, nomeadamente quanto ao sistema operativo, a versão necessária e as características do equipamento;
+k) Qualquer compatibilidade e interoperabilidade relevante dos bens com elementos digitais, conteúdos e serviços digitais, quando for o caso, com equipamentos e programas informáticos de que o fornecedor ou prestador tenha ou possa razoavelmente ter conhecimento, nomeadamente quanto ao sistema operativo, a versão necessária e as características do equipamento;
 
 l) As consequências do não pagamento do preço do bem ou serviço.
 

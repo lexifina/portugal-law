@@ -18,8 +18,10 @@ b) À não inclusão de cláusulas em contratos singulares que originem signific
 
 6 - É vedado ao fornecedor ou prestador de serviços fazer depender o fornecimento de um bem ou a prestação de um serviço da aquisição ou da prestação de um outro ou outros.
 
-7 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de livre resolução no prazo de 14 dias, nos termos do disposto no Decreto-Lei n.º 24/2014, de 14 de fevereiro.
+7 - É vedado ao profissional a adoção de quaisquer técnicas através das quais o mesmo visa reduzir deliberadamente a duração de vida útil de um bem de consumo a fim de estimular ou aumentar a substituição de bens.
 
-8 - Incumbe ao Governo adotar medidas adequadas a assegurar o equilíbrio das relações jurídicas que tenham por objeto bens e serviços essenciais, designadamente água, energia elétrica, gás, telecomunicações e transportes públicos.
+8 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de livre resolução no prazo de 14 dias, nos termos do disposto no Decreto-Lei n.º 24/2014, de 14 de fevereiro.
 
-9 - Incumbe ao Governo adotar medidas tendentes a prevenir a lesão dos interesses dos consumidores no domínio dos métodos de venda que prejudiquem a avaliação consciente das cláusulas apostas em contratos singulares e a formação livre, esclarecida e ponderada da decisão de se vincularem.
+9 - Incumbe ao Governo adotar medidas adequadas a assegurar o equilíbrio das relações jurídicas que tenham por objeto bens e serviços essenciais, designadamente água, energia elétrica, gás, telecomunicações e transportes públicos.
+
+10 - Incumbe ao Governo adotar medidas tendentes a prevenir a lesão dos interesses dos consumidores no domínio dos métodos de venda que prejudiquem a avaliação consciente das cláusulas apostas em contratos singulares e a formação livre, esclarecida e ponderada da decisão de se vincularem.
