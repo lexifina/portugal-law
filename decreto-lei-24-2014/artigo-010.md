@@ -2,7 +2,7 @@
 
 ### Direito de livre resolução nos contratos celebrados à distância ou celebrados fora do estabelecimento
 
-1 - O consumidor tem o direito de resolver o contrato sem incorrer em quaisquer custos, para além dos estabelecidos no n.º 3 do artigo 12.º e no artigo 13.º quando for caso disso, e sem necessidade de indicar o motivo, no prazo de 14 dias a contar:
+1 - O consumidor tem o direito de resolver o contrato sem incorrer em quaisquer custos, para além dos estabelecidos no n.º 3 do artigo 12.º e no artigo 13.º, quando for caso disso, e sem necessidade de indicar o motivo, no prazo de 14 dias ou, nos contratos celebrados fora do estabelecimento comercial a que se referem as subalíneas ii) e v) da alínea i) do artigo 3.º, no prazo de 30 dias, a contar:
 
 a) Do dia da celebração do contrato, no caso dos contratos de prestação de serviços;
 
@@ -18,7 +18,7 @@ c) Do dia da celebração do contrato, no caso dos contratos de fornecimento de 
 
 2 - Se o fornecedor de bens ou prestador de serviços não cumprir o dever de informação pré-contratual determinado na alínea l) do n.º 1 do artigo 4.º, o prazo para o exercício do direito de livre resolução é de 12 meses a contar da data do termo do prazo inicial a que se refere o número anterior.
 
-3 - Se, no decurso do prazo previsto no número anterior, o fornecedor de bens ou prestador de serviços cumprir o dever de informação pré-contratual a que se refere a alínea l) do n.º 1 do artigo 4.º, o consumidor dispõe de 14 dias para resolver o contrato a partir da data de receção dessa informação.
+3 - Se, no decurso do prazo previsto no número anterior, o fornecedor de bens ou prestador de serviços cumprir o dever de informação pré-contratual a que se refere a alínea n) do n.º 1 do artigo 4.º, o consumidor dispõe de 14 dias ou, nos contratos celebrados fora do estabelecimento comercial a que se referem as subalíneas ii) e v) da alínea i) do artigo 3.º, de 30 dias para resolver o contrato a partir da data de receção dessa informação.
 
 4 - O disposto no n.º 1 não impede a fixação, entre as partes, de prazo mais alargado para o exercício do direito de livre resolução.
 

@@ -2,7 +2,7 @@
 
 ### Prestação de serviços durante o período de livre resolução
 
-1 - Sempre que o consumidor pretenda que a prestação do serviço se inicie durante o prazo previsto no artigo 10.º, o prestador do serviço deve exigir que o consumidor apresente um pedido expresso através de suporte duradouro.
+1 - Sempre que o consumidor pretenda que a prestação do serviço se inicie durante o prazo previsto no artigo 10.º e o contrato imponha uma obrigação de pagamento, o prestador do serviço deve exigir que o consumidor apresente um pedido expresso através de suporte duradouro e solicitar-lhe o reconhecimento de que, se o contrato for plenamente executado, o consumidor perde o direito de livre resolução.
 
 2 - Se o consumidor exercer o direito de livre resolução, após ter apresentado o pedido previsto no número anterior, deve ser pago ao prestador do serviço um montante proporcional ao que foi efetivamente prestado até ao momento da comunicação da resolução, em relação ao conjunto das prestações previstas no contrato.
 
@@ -20,7 +20,7 @@ ii) O consumidor não tiver solicitado expressamente o início do serviço duran
 
 b) Relativos ao fornecimento, na totalidade ou em parte, de conteúdos digitais que não sejam fornecidos num suporte material, se:
 
-i) O consumidor não tiver dado o seu consentimento prévio para que a execução tenha início antes do fim do prazo de 14 dias referido no artigo 10.º,
+i) O consumidor não tiver dado o seu consentimento prévio para que a execução tenha início antes do fim do prazo de 14 dias ou de 30 dias referido no artigo 10.º;
 
 ii) O consumidor não tiver reconhecido que perde o seu direito de livre resolução ao dar o seu consentimento, ou
 
