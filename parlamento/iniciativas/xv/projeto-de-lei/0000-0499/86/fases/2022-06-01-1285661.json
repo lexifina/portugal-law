@@ -1,0 +1,649 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "86",
+    "id": "121486",
+    "titulo": "Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020-2024 e aprofunda as garantias de proteção dos denunciantes"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2022-06-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18051",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2022-06-01",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121494",
+        "leg": "XV",
+        "nr": "94",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16198",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-06-02",
+            "pubLeg": "XV",
+            "pubNr": "19",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/47?pgs=47-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16198",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-06-02",
+            "pubLeg": "XV",
+            "pubNr": "19",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/47?pgs=47-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação do Estatuto do Arguido Colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "121393",
+        "leg": "XV",
+        "nr": "3",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16198",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-06-02",
+            "pubLeg": "XV",
+            "pubNr": "19",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/47?pgs=47-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16198",
+            "obs": null,
+            "pag": [
+              "47-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-06-02",
+            "pubLeg": "XV",
+            "pubNr": "19",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/47?pgs=47-56&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-06-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra da Justiça",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Catarina Sarmento e Castro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48",
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/47?pgs=47-48,55-56&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49",
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/49?pgs=49,54-55&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268689",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6531",
+                "nome": "Mónica Quintela"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268690",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5706",
+                "nome": "Alma Rivera"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7036",
+                "nome": "Francisco Pereira de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_01_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-02",
+                "pubLeg": "XV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Processo Penal e a Lei n.º 5/2002, de 11 de janeiro; Corrige a legislação que concretiza a Estratégia Nacional Anticorrupção 2020- 2024 e aprofunda as garantias de proteção dos denunciantes; Criação do estatuto do arguido colaborador e agravamento das penas aplicáveis aos crimes de corrupção previstos no Código Penal.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1285661",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "972510",
+        "obs": null,
+        "pag": [
+          "47-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-02",
+        "pubLeg": "XV",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/019/2022-06-02/47?pgs=47-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
