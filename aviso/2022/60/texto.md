@@ -1,0 +1,17 @@
+Aviso n.º 60/2022
+Sumário: O Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República Argentina formulado uma declaração em conformidade com o artigo 45.º, relativamente à Convenção sobre os Aspetos Civis do Rapto Internacional de Crianças, adotada na Haia, a 25 de outubro de 1980.
+Por ordem superior se torna público que, por notificação de 20 de maio de 2020, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República Argentina formulado uma declaração em conformidade com o artigo 45.º, relativamente à Convenção sobre os Aspetos Civis do Rapto Internacional de Crianças, adotada na Haia, a 25 de outubro de 1980.
+(tradução) (original: espanhol)
+Declaração
+Argentina, 13-05-2020.
+«[...] sobre a Notificação n.º 09/2020, de 30 de abril de 2020, pela qual o Reino Unido da Grã-Bretanha e Irlanda do Norte aceita a adesão da República Dominicana ao mencionar as Ilhas Malvinas.
+A República Argentina recorda que, pelas notas AE n.º 33/98, de 30 de maio de 1998, e n.º 47/98, de 13 de julho de 1998, bem como pela declaração de 4 de agosto de 2009, rejeitou a extensão da aplicação da Convenção sobre os Aspetos Civis do Rapto Internacional de Crianças às Ilhas Malvinas, Ilhas Geórgia do Sul e Sandwich do Sul e às áreas marítimas que as circundam, conforme notificado pelo Reino Unido da Grã-Bretanha e Irlanda do Norte, bem como os atos relativos à designação do governo ilegítimo das Malvinas como autoridade central no âmbito da Convenção, bem como à aceitação da adesão e à entrada em vigor da Convenção para a Bulgária, Costa Rica e El Salvador em nome das Ilhas Malvinas.
+Face ao exposto, a República Argentina opõe-se à pretensão do Reino Unido de incluir as Ilhas Malvinas na aceitação da adesão da República Dominicana à Convenção.
+O Governo da República Argentina lembra que as Ilhas Malvinas, Geórgia do Sul e Sandwich do Sul e as áreas marítimas que as circundam são parte integrante do seu território nacional e que, devido à ilegítima ocupação britânica, a soberania sobre esses territórios é objeto de uma disputa, cuja existência foi reconhecida pela Resolução 2065 (XX) e outras da Assembleia Geral das Nações Unidas e por mais de 40 resoluções do Comité Especial de Descolonização, bem como por outras organizações internacionais.
+A esse respeito, recorda-se que a Assembleia Geral das Nações Unidas insta a República Argentina e o Reino Unido a continuarem as negociações sobre a soberania para encontrarem uma solução pacífica e definitiva.»
+A República Portuguesa é Parte na Convenção, a qual foi aprovada pelo Decreto n.º 33/83, publicado no Diário da República, 1.ª série, n.º 108, de 11 de maio de 1983.
+O instrumento de ratificação foi depositado a 29 de setembro de 1983, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 254, de 4 de novembro de 1983.
+A Convenção entrou em vigor para a República Portuguesa a 1 de dezembro de 1983, conforme o Aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de maio de 1984.
+A Autoridade Central é a Direção-Geral de Reinserção e Serviços Prisionais, do Ministério da Justiça, que, nos termos do artigo 34.º do Decreto-Lei n.º 215/2012, publicado no Diário da República, 1.ª série, n.º 189, de 28 de setembro de 2012, sucedeu nas competências à Direção-Geral de Reinserção Social, do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 27 de maio de 2022. - A Diretora, Patrícia Galvão Teles.
+115374832
