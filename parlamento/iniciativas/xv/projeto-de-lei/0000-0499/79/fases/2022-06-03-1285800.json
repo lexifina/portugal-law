@@ -1,0 +1,207 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "79",
+    "id": "121478",
+    "titulo": "Altera a Lei n.º 32/2008, de 17 de julho, por forma a harmonizá-la com os preceitos constitucionais em vigor "
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2022-06-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "62523",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-09-15",
+            "id": "127629",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-22",
+            "id": "127646",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-14",
+            "id": "127709",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-14",
+            "id": "127707",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-14",
+            "id": "127704",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-19",
+            "id": "127721",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-28",
+            "id": "138525",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-06-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XV",
+            "nome": "Grupo de Trabalho - Metadados (PJLs 70, 79 e 100 e PPL 11)",
+            "num": "13",
+            "orgId": "8352",
+            "publicacao": null,
+            "sigla": "GT-M"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2022-10-21",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426a4d475979593256694c54426c4e324d744e4449314e5330344d6a5a684c5755794e6a4d345a44677a5a6a49304e7935515245593d&fich=0c0f2ceb-0e7c-4255-826a-e2638d83f247.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de substituição integral - CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a695a44646b4f545a6d4c5449324e6a67744e44553559793169595451304c54526b4d6d51305a5463354d324d784e7935775a47593d&fich=bbd7d96f-2668-459c-ba44-4d2d4e793c17.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Proposta de Alteração - IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686c4e6d4d3359546b7a4c544d344d6a51744e446c6d4e5330344d47566a4c574d774d44677a4d545a6b4f4745324e5335775a47593d&fich=8e6c7a93-3824-49f5-80ec-c008316d8a65.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Proposta de Alteração - CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e6c5a4445324d474e6d4c57526a4e6a45744e4759324d4330344d3259354c54526a5a6d517a4d6a566d4e574933595335775a47593d&fich=ced160cf-dc61-4f60-83f9-4cfd325f5b7a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "7 - Proposta de Substituição integral PPL 11 e PJL 70,79,100 - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e685957493059545a6d4c57557a4d6a55744e4468684d793035597a557a4c544a6a4f546331597a466a596a6b794d7935775a47593d&fich=3aab4a6f-e325-48a3-9c53-2c975c1cb923.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "8 - Proposta de Substituição integral PPL 11 e PJL 70,79,100 - PS e PSD - Nova versão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d784e54637759545a684c574a6a4e7a4d744e4445315a693035597a63784c54517a5a4455354e6a6b35596a6731597935775a47593d&fich=c1570a6a-bc73-415f-9c71-43d59699b85c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório GT Metadados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51315a544d794e6a63794c54646b5a6a45744e474e6c5a4330354e54637a4c54646a4d3251304e4751304f54417a4e6935775a47593d&fich=45e32672-7df1-4ced-9573-7c3d44d49036.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Projeto de texto de substituição GT Metadados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5934593249784f474d304c5755334e4755744e4449334e6931684f44677a4c54566a4d6a68684e5441794e6a6c6a4d5335775a47593d&fich=68cb18c4-e74e-4276-a883-5c28a50269c1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição PPL 11 (GOV), PJL 70 (PSD), 79 (CH)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a637a5a444d304d6a63304c5441355a5759744e4467314d7931685a5755304c546b325a6d5931595467314d6a55334e4335775a47593d&fich=73d34274-09ef-4853-aee4-96ff5a852574.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "13",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-10-11",
+            "dataRemessa": "2023-10-11",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto de Substituição"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-06-03",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1285800",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996984",
+        "obs": null,
+        "pag": [
+          "3-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-11",
+        "pubLeg": "XV",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/02/017/2023-10-11/3?pgs=3-21&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
