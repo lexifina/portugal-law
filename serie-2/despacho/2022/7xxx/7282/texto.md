@@ -1,0 +1,16 @@
+Despacho n.º 7282/2022
+Sumário: Regulamento de Aplicação do Sistema de Créditos aos Ciclos de Estudo da Universidade do Algarve - Interpretação.
+Inaplicabilidade do n.º 7 do artigo 3.º do Regulamento de Aplicação do Sistema de Créditos aos Ciclos de Estudo da Universidade do Algarve aos cursos livres de curta duração conferentes de microcredenciais
+Considerando;
+A intenção de desenvolver uma abordagem europeia para as microcredenciais estabelecida na Resolução do Conselho da União Europeia para um quadro estratégico para a cooperação europeia em matéria de educação e formação para o Espaço Europeu da Educação e para além dele (2021-2030), na Agenda Europeia de Competências e no Plano de Ação para a Educação Digital (2021-2027);
+Que esta estratégia pretende criar oportunidades de aprendizagem flexíveis e inclusivas através de microcredenciais - módulos ou unidades curtas de formação conferentes de ECTS (European Credit Transfer Accumulation System) com os seguintes objetivos:
+Permitir que as pessoas adquiram os conhecimentos, aptidões e competências de que necessitam para prosperar num mercado de trabalho e sociedade em evolução, e para beneficiar plenamente de uma recuperação socialmente justa e de transições justas para a economia verde e digital;
+Apoiar a preparação dos provedores de microcredenciais para aumentar a flexibilidade e transparência da sua oferta de aprendizagem para capacitar os indivíduos a desenvolverem percursos personalizados de aprendizagem e de carreira;
+Promover a inclusão e a igualdade de oportunidades, contribuindo para a obtenção de resiliência, justiça social e prosperidade para todos, num contexto de mudança demográfica e ao longo de todos os ciclos económicos.
+Considerando ainda que;
+Esta estratégia de capacitação e reconversão profissional se encontra vertida no Decreto-Lei n.º 27/2021, de 16 de abril, que adequa e moderniza o regime de incentivos à cooperação das instituições de ensino superior com a Administração Pública e as empresas e o apoio à diversificação da oferta formativa e a aprendizagem ao longo da vida e que o Investimento RE-C06-i03.03 Incentivo Adultos do Plano de Recuperação e Resiliência (PRR), prevê que as Instituições implementem um programa de formação ao longo da vida de capacitação e reconversão profissional de adultos que inclua a microcredenciação;
+O Regulamento de Aplicação do Sistema de Créditos aos Ciclos de Estudos da Universidade do Algarve (Regulamento n.º 131/2021, publicado no Diário da República, 2.ª série, n.º 28, de 19 de fevereiro) foi tornado extensível aos cursos não conferentes de grau;
+Não obstante, a estrutura das certificações adquiridas em cursos ou módulos de curta duração conferentes de microcredenciais não abrange anos ou semestres curriculares, fórmula padrão ínsita nos n.os 1 e 5 do artigo 3.º do Regulamento;
+Ao abrigo do disposto no artigo 9.º do citado dispositivo regulamentar, ouvidas as unidades orgânicas, determina-se que o n.º 7 do artigo 3.º do Regulamento de Aplicação do Sistema de Créditos aos Ciclos de Estudo da Universidade do Algarve não se aplica a cursos livres de curta duração integrados no programa de microcredenciais da Universidade do Algarve, podendo estas formações conferir um número inteiro inferior a 3 ECTS por unidade curricular.
+21 de maio de 2022. - O Reitor, Paulo Águas.
+315384503
