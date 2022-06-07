@@ -2,10 +2,10 @@
 
 ### Selecção
 
-A selecção dos candidatos é realizada com base:
+1 - Na variante de Composição, Direção e Formação Musical e na variante de Execução a seleção dos candidatos é realizada com base:
 
 a) Na prova específica, onde deve ser obtida uma classificação igual ou superior a 10;
 
-b) Em cada uma das duas partes que integram a prova de conhecimentos gerais de música, onde deve ser obtida uma classificação igual ou superior a 5;
+b) Em cada uma das duas partes que integram a prova de conhecimentos gerais de música, onde deve ser obtida uma classificação igual ou superior a 4.
 
-c) Na prova de conhecimentos gerais de música, onde deve ser obtida uma classificação igual ou superior a 8.
+2 - Na variante de Jazz a seleção dos candidatos é realizada com base na prova específica, onde deve ser obtida uma classificação igual ou superior a 10.

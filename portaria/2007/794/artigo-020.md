@@ -2,7 +2,7 @@
 
 ### Comunicação da decisão
 
-1 - O resultado final é tornado público através de aviso afixado na Escola no prazo fixado nos termos do artigo 25.º
+1 - O resultado final é tornado público no sítio da Internet e afixado na Escola no prazo fixado nos termos do artigo 25.º do presente Regulamento.
 
 2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:
 
@@ -14,4 +14,4 @@ c) Nota de candidatura a que se refere o artigo 15.º e as suas componentes;
 
 d) Resultado final.
 
-3 - A menção da situação de Excluído é obrigatoriamente acompanhada da respectiva fundamentação legal.
+3 - [Revogado.]

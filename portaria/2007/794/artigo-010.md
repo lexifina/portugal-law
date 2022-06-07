@@ -4,16 +4,8 @@
 
 O processo de candidatura é instruído com:
 
-a) Requerimento onde são indicados, obrigatoriamente:
+a) Boletim de candidatura preenchido e submetido através do sistema online;
 
-Nome do requerente;
+b) Ficha ENES, que constitui o documento comprovativo da titularidade do curso de ensino secundário e da respetiva classificação e das classificações obtidas nos exames finais nacionais do ensino secundário correspondente às provas de ingresso;
 
-Número de bilhete de identidade e entidade emissora;
-
-Endereço postal;
-
-Habilitação com que se candidata;
-
-b) Certificado comprovativo da titularidade da habilitação com que se candidata;
-
-c) Fotocópia simples do bilhete de identidade.
+c) Outros documentos referidos no edital a que se refere o artigo 13.º
