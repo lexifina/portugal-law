@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "53",
+    "id": "121417",
+    "titulo": "Cria o Tribunal Central Administrativo Centro, procedendo à décima terceira alteração ao Estatuto dos Tribunais Administrativos e Fiscais, aprovado em anexo à Lei n.º 13/2002, de 19 de fevereiro, à décima primeira alteração à Lei da Organização do Sistema Judiciário, aprovada pela Lei n.º 62/2013, de 26 de agosto, e à quarta alteração ao Decreto-Lei n.º 325/2003, de 29 de dezembro, que define a sede, a Organização e a Área de Jurisdição dos Tribunais Administrativos e Fiscais, concretizando o respetivo Estatuto"
+  },
+  "fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+  "codigo_fase": "237",
+  "data_registo": "2022-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684d7a59775a5467774d5330334d6d59774c5451354d6d457459545a694d533035595749344e7a51304e6a4a6a4e6a55756347526d&fich=a360e801-72f0-492a-a6b1-9ab874462c65.pdf&Inline=true",
+        "anexoNome": "Requerimento apresentado pelo PSD"
+      }
+    ],
+    "CodigoFase": "237",
+    "Comissao": null,
+    "DataFase": "2022-06-08",
+    "EvtId": "122",
+    "Fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1286636",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971405",
+        "obs": null,
+        "pag": [
+          "30-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-11",
+        "pubLeg": "XV",
+        "pubNr": "23",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/023/2022-06-11/30?pgs=30-31&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2022-06-09",
+        "descricao": "Requerimento, apresentado pelo PSD solicitando a baixa à Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, sem votação, por 30 dias, do Projeto de Lei n.º 53/XV/1.ª (PSD) ",
+        "detalhe": null,
+        "id": "92973",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
