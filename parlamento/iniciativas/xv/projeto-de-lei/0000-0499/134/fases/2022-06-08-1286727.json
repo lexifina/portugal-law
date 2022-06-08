@@ -1,0 +1,157 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "134",
+    "id": "121571",
+    "titulo": "Revoga o artigo 14.º da Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62564",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-06-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-06-22",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59324e5467325a5459774c545a6a4d5467744e4467784d6931694f5467354c575a6d593249774e574d354e444a6c4d5335775a47593d&fich=66586e60-6c18-4812-b989-ffcb05c942e1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-06-22",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566d4e4441304f5749794c5751785a4445744e474d7a4e6930344e324d304c5746695a6a466c4f4755344e6a67324d4335775a47593d&fich=ef4049b2-d1d1-4c36-87c4-abf1e8e86860.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259784e3255324d57526b4c574d784e4441744e474a694f5330345a545a6d4c574d345a6a52694d444977597a466b596935775a47593d&fich=f17e61dd-c140-4bb9-8e6f-c8f4b020c1db.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2022-06-22"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-07-04"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2022-06-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-06-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-06-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6543",
+            "motivoCessacao": null,
+            "nome": "Alexandra Leitão"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2022-06-22",
+            "dataRemessa": "2022-06-22",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-06-08",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1286727",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971511",
+        "obs": null,
+        "pag": [
+          "61-71"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-22",
+        "pubLeg": "XV",
+        "pubNr": "46",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/046/2022-06-22/61?pgs=61-71&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
