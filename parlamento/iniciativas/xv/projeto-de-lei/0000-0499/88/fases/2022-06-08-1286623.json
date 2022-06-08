@@ -1,0 +1,581 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "88",
+    "id": "121488",
+    "titulo": "Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2022-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18077",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2022-06-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121459",
+        "leg": "XV",
+        "nr": "71",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16209",
+            "obs": null,
+            "pag": [
+              "39-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-06-09",
+            "pubLeg": "XV",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/39?pgs=39-49&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-06-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=46"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268893",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40",
+                  "44-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/39?pgs=39-40,44-48&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268894",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268895",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7345",
+                "nome": "Pedro dos Santos Frazão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268896",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/42?pgs=42-44&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268897",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268898",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "426",
+                "nome": "Berta Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6909",
+                "nome": "Fernanda Velez"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5524",
+                "nome": "João Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:06",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_08_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268901",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-09",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Altera as atividades específicas associadas a compensação em unidades de saúde familiar, de forma a eliminar discriminações de género na prática clínica; Elimina a discriminação de género nos critérios de compensação associada às atividades específicas dos médicos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1286623",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "961289",
+        "obs": null,
+        "pag": [
+          "39-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-09",
+        "pubLeg": "XV",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/022/2022-06-09/39?pgs=39-49&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
