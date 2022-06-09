@@ -1,0 +1,164 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "22",
+    "id": "121389",
+    "titulo": "Nem mais um euro da União Europeia para a guerra de Putin. Recomenda ao Governo que defenda no Conselho Europeu a adoção de um mecanismo de retenção dos pagamentos por combustíveis fósseis à Federação Russa e, através do estabelecimento de uma conta fiduciária num estado terceiro, de constituição de um fundo de reconstrução da Ucrânia a título de reparações de guerra"
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "2022-06-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18419",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "2022-06-09",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-06-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "17:54",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-23",
+                "pubLeg": "XV",
+                "pubNr": "26",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/026/2022-06-23/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Nem mais um euro da União Europeia para a guerra de Putin. Recomenda ao Governo que defenda no Conselho Europeu a adoção de um mecanismo de retenção dos pagamentos por combustíveis fósseis à Federação Russa e, através do estabelecimento de uma conta fiduciária num estado terceiro, de constituição de um fundo de reconstrução da Ucrânia a título de reparações de guerra",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1286867",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "17076",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "81-82"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-23",
+        "pubLeg": "XV",
+        "pubNr": "26",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/026/2022-06-23/81?pgs=81-82&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2022-06-09",
+        "descricao": "Ponto 1",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> IL</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PCP</I><BR>Abstenção:<I>CH</I>",
+        "id": "92995",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-06-09",
+        "descricao": "Ponto 2",
+        "detalhe": "A Favor: <I>PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> PCP</I><BR>Abstenção:<I>CH</I>, <I> IL</I>, <I> BE</I>",
+        "id": "92996",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-06-09",
+        "descricao": "Ponto 3",
+        "detalhe": "A Favor: <I>IL</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> PCP</I><BR>Abstenção:<I>CH</I>, <I> BE</I>",
+        "id": "92997",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2022-06-09",
+        "descricao": "Ponto 4",
+        "detalhe": "A Favor: <I>IL</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PSD</I>, <I> PCP</I><BR>Abstenção:<I>PS</I>, <I> CH</I>",
+        "id": "92998",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
