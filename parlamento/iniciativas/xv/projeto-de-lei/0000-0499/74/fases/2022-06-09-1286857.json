@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "74",
+    "id": "121467",
+    "titulo": "Regula as condições em que a morte medicamente assistida não é punível, e altera o Código Penal"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2022-06-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2022-06-09",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1286857",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971422",
+        "obs": null,
+        "pag": [
+          "33-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-11",
+        "pubLeg": "XV",
+        "pubNr": "23",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/023/2022-06-11/33?pgs=33-37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2022-06-09",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> 6-PSD</I>, <I> IL</I>, <I> BE</I>, <I> PAN</I>, <I> L</I>, <I> André Coelho Lima (PSD)</I>, <I> Adão Silva (PSD)</I>, <I> Mónica Quintela (PSD)</I>, <I> Sofia Matos (PSD)</I>, <I> Catarina Rocha Ferreira (PSD)</I>, <I> Hugo Martins De Carvalho (PSD)</I><BR>Contra:<I>7-PS</I>, <I> 63-PSD</I>, <I> CH</I>, <I> PCP</I>, <I> Cristina Sousa (PS)</I>, <I> Maria João Castro (PS)</I>, <I> Joaquim Barreto (PS)</I>, <I> Sobrinho Teixeira (PS)</I>, <I> Raquel Ferreira (PS)</I>, <I> Pedro Cegonho (PS)</I>, <I> Romualda Nunes Fernandes (PS)</I>, <I> António Topa Gomes (PSD)</I>, <I> Paula Cardoso (PSD)</I>, <I> Ricardo Sousa (PSD)</I>, <I> Helga Correia (PSD)</I>, <I> Rui Cruz (PSD)</I>, <I> Carla Madureira (PSD)</I>, <I> Rui Vilar (PSD)</I>, <I> Firmino Marques (PSD)</I>, <I> Clara Marques Mendes (PSD)</I>, <I> Carlos Eduardo Reis (PSD)</I>, <I> Jorge Paulo Oliveira (PSD)</I>, <I> Gabriela Fonseca (PSD)</I>, <I> Bruno Coimbra (PSD)</I>, <I> Cláudia André (PSD)</I>, <I> Fátima Ramos (PSD)</I>, <I> João Barbosa De Melo (PSD)</I>, <I> Sónia Ramos (PSD)</I>, <I> Luís Gomes (PSD)</I>, <I> Rui Cristina (PSD)</I>, <I> Ofélia Ramos (PSD)</I>, <I> Gustavo Duarte (PSD)</I>, <I> Paulo Mota Pinto (PSD)</I>, <I> Hugo Patrício Oliveira (PSD)</I>, <I> Olga Silvestre (PSD)</I>, <I> João Marques (PSD)</I>, <I> Ricardo Baptista Leite (PSD)</I>, <I> José Silvano (PSD)</I>, <I> Joaquim Miranda Sarmento (PSD)</I>, <I> Duarte Pacheco (PSD)</I>, <I> Tiago Moreira De Sá (PSD)</I>, <I> Joana Barata Lopes (PSD)</I>, <I> Alexandre Poço (PSD)</I>, <I> António Prôa (PSD)</I>, <I> Maria Emília Apolinário (PSD)</I>, <I> Alexandre Simões (PSD)</I>, <I> Paulo Rios De Oliveira (PSD)</I>, <I> Afonso Oliveira (PSD)</I>, <I> Hugo Carneiro (PSD)</I>, <I> Márcia Passos (PSD)</I>, <I> Paulo Ramalho (PSD)</I>, <I> Pedro Melo Lopes (PSD)</I>, <I> Germana Rocha (PSD)</I>, <I> Miguel Santos (PSD)</I>, <I> Joaquim Pinto Moreira (PSD)</I>, <I> Andreia Neto (PSD)</I>, <I> Firmino Pereira (PSD)</I>, <I> Isaura Morais (PSD)</I>, <I> Inês Barroso (PSD)</I>, <I> Nuno Carvalho (PSD)</I>, <I> Fernando Negrão (PSD)</I>, <I> Fernanda Velez (PSD)</I>, <I> Jorge Salgueiro Mendes (PSD)</I>, <I> Emília Cerqueira (PSD)</I>, <I> João Montenegro (PSD)</I>, <I> Artur Soveral Andrade (PSD)</I>, <I> Cláudia Bento (PSD)</I>, <I> Guilherme Almeida (PSD)</I>, <I> Cristiana Ferreira (PSD)</I>, <I> Hugo Maravilha (PSD)</I>, <I> Paulo Moniz (PSD)</I>, <I> Francisco Pimentel (PSD)</I>, <I> Sara Madruga Da Costa (PSD)</I>, <I> Patrícia Dantas (PSD)</I><BR>Abstenção:<I>4-PS</I>, <I> 1-PSD</I>, <I> Nuno Fazenda (PS)</I>, <I> Ricardo Pinheiro (PS)</I>, <I> João Azevedo (PS)</I>, <I> Miguel Iglésias (PS)</I>, <I> Lina Lopes (PSD)</I>",
+        "id": "92989",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
