@@ -1,0 +1,233 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "83",
+    "id": "121482",
+    "titulo": "Regula as condições em que a morte medicamente assistida não é punível e procede à alteração do Código Penal"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-06-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "62582",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-07-15",
+            "id": "127792",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2022-07-15",
+            "id": "116897",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-09-15",
+            "id": "116853",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-09-22",
+            "id": "116861",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-09-29",
+            "id": "116871",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2022-10-06",
+            "id": "116873",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-06-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XV",
+            "nome": "Grupo de Trabalho-Morte Medicamente Assistida Não Punível (PJLs 5/XV, 74/XV, 83/XV e 111/XV) ",
+            "num": "16",
+            "orgId": "8355",
+            "publicacao": null,
+            "sigla": "GT-MMANP"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2022-10-06",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Lista audições-pronúncias escritas XIII, XIV e XV Legislaturas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6a4e44497a597a55784c5455794e3259744e44466d4d7930355a474e6c4c54466b4d544179596a59774e5441344e6935775a47593d&fich=9c423c51-527f-41f3-9dce-1d102b605086.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - União Portuguesa dos Adventistas do Sétimo Dia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251354f57566a4d6a4e694c54426c596d45744e474e6c5a5331684e6a63314c574e6c4d474d304e6a5a6a5a4455784f4335775a47593d&fich=d99ec23b-0eba-4cee-a675-ce0c466cd518.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - União Budista Portuguesa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a684f445a6d4d7a4a684c544d794e4467744e446b775a6930344f4449344c546c6d4d574d785a44426b59574933597935775a47593d&fich=fa86f32a-3248-490f-8828-9f1c1d0dab7c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - Comunidade Israelita de Lisboa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3252684d574d304d4749344c5446694d446b744e4445784d4330354e6a4d324c5451304e7a4a694d6a4d785a544d355a6935775a47593d&fich=da1c40b8-1b09-4110-9636-4472b231e39f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-08-01",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - PARTIDO ADN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56684f44426b596a55334c54526d596a63744e44686a597930344f4446694c54426b4f5441354f57466a595467314d7935775a47593d&fich=5a80db57-4fb7-48cc-881b-0d9099aca853.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - Centro de Estudos Bioética",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d334e4449794d6d45314c575935596a59744e47466a5a4330344e5759344c57566c5a4749794f444d7a4d325933596935775a47593d&fich=374222a5-f9b6-4acd-85f8-eedb28333f7b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-16",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - Associação dos Psicólogos Católicos Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566b5a5449324f4445794c57457a4f446b744e4751344f5331694e546b774c545979597a4e6a4d474977597a4e684d6935775a47593d&fich=ede26812-a389-4d89-b590-62c3c0b0c3a2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-22",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - Associação VivaHáVida",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56685a575a6b596d5a684c57513259574d744e444a6b596930344d4451794c5464694d6d49344f4467354d4759334e7935775a47593d&fich=5aefdbfa-d6ac-42db-8042-7b2b88890f77.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-22",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - Associação InFamília",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49315a4463334f57526d4c545a6a595745744e444579596931694d6a637a4c54466c5a5449324f544d355a4467354f4335775a47593d&fich=25d779df-6caa-412b-b273-1ee26939d898.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-29",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Pronúncia - Associação de Defesa e Apoio da Vida – Aveiro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67324d4467344d6d4d794c546b324d6d49744e4455304e6930345a6a63784c5449334f4451335a545935595749354e6935775a47593d&fich=860882c2-962b-4546-8f71-27847e69ab96.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-21",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo João Emanuel Diogo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6a4d6a5a6c595463354c5449774e4455744e44677a4e69316959544a694c546b34597a6c684d446c694e5451355a5335775a47593d&fich=2c26ea79-2045-4836-ba2b-98c9a09b549e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-13",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Proposta de substituição integral sob a forma de texto único, apresentada pelo PS, IL, BE e PAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e6a596a4932597a59314c54566a4d6a41744e4463794f5330344d6d4d784c54686c4e7a5979597a6c6a5a475a6b4d5335775a47593d&fich=ccb26c65-5c20-4729-82c1-8e762c9cdfd1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-11-30",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Nova Proposta de substituição integral sob a forma de texto único, apresentada pelo PS, IL, BE e PAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d354f4751334e44426d4c5452684f4755744e47457a4f5330355932566b4c5751354e57526c4e7a426d5a5449354d6935775a47593d&fich=c98d740f-4a8e-4a39-9ced-d95de70fe292.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-07",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255795954513359574d784c54566b5a4459744e4755344e793034593245784c57517a4e57526c4e32466d4d5442684f5335775a47593d&fich=e2a47ac1-5dd6-4e87-8ca1-d35de7af10a9.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "16",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2022-12-07",
+            "dataRemessa": "2022-12-07",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-06-09",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1286862",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "972724",
+        "obs": null,
+        "pag": [
+          "3-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-07",
+        "pubLeg": "XV",
+        "pubNr": "126",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/126/2022-12-07/3?pgs=3-16&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
