@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "4",
+    "id": "121394",
+    "titulo": "Aprova o Orçamento do Estado para 2022\n"
+  },
+  "fase": "Decreto (Publicação)",
+  "codigo_fase": "350",
+  "data_registo": "2022-06-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338315a6d566d593251774d6930794e6d55314c5452684d444174596a6b344e6930774f4449315932466d5a44526c597a67756347526d&fich=5fefcd02-26e5-4a00-b986-0825cafd4ec8.pdf&Inline=true",
+        "anexoNome": "Mapa 1"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338344d6a526c4e54646a4d7930304e5449304c5452694d5749744f4449304e6931684f444932597a63304d5463315a5467756347526d&fich=824e57c3-4524-4b1b-8246-a826c74175e8.pdf&Inline=true",
+        "anexoNome": "Mapa 2"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774d474e685a5746684e6930304e7a56694c5452694e444574596a45304e7930334e44426c4d544532596a5a6b597a55756347526d&fich=00caeaa6-475b-4b41-b147-740e116b6dc5.pdf&Inline=true",
+        "anexoNome": "Mapa 3"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334d475a694d544d314d7930304e32597a4c5451784d5745744f5755315a4330325a54526c4f5451314f444e6b597a49756347526d&fich=70fb1353-47f3-411a-9e5d-6e4e94583dc2.pdf&Inline=true",
+        "anexoNome": "Mapa 4"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c59574d314e7a49345a6930305a6a686c4c54517a5a5449744f444a6d4e4330314d3249794d44557a4d445a6a596a55756347526d&fich=eac5728f-4f8e-43e2-82f4-53b205306cb5.pdf&Inline=true",
+        "anexoNome": "Mapa 5"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774f574d33593256684e79316d4e44526b4c5451354d544d745954597a596930354f446b335a545135593255304d7a49756347526d&fich=09c7cea7-f44d-4913-a63b-9897e49ce432.pdf&Inline=true",
+        "anexoNome": "Mapa 6"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684f5445324d6a41314e7930315a44557a4c545177597a5974596d4d33595331684e57566d4d5749305a6d526c595463756347526d&fich=a9162057-5d53-40c6-bc7a-a5ef1b4fdea7.pdf&Inline=true",
+        "anexoNome": "Mapa 7"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304d6a6b795a5751784d5330304e6a67304c5451354e7a63744f5463314e7931694d6d4e684f474d354f5464685a4455756347526d&fich=4292ed11-4684-4977-9757-b2ca8c997ad5.pdf&Inline=true",
+        "anexoNome": "Mapa 8"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338794d6a51334d574e6c597931684e6d55344c5451334d5451744f445a685a533034593259774d6d45354f5456695a5759756347526d&fich=22471cec-a6e8-4714-86ae-8cf02a995bef.pdf&Inline=true",
+        "anexoNome": "Mapa 9"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338354e544130596a45774f5330784d3255774c5451325a4751744f5745315a69316b5a5455344d574a6d4f54526a4e3251756347526d&fich=9504b109-13e0-46dd-9a5f-de581bf94c7d.pdf&Inline=true",
+        "anexoNome": "Mapa 10"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533831593251794d4759354d6930305a6a4a6d4c5451314e6d51744f574a6a4e43316b5a54566a4e446c694e57466c5a5749756347526d&fich=5cd20f92-4f2f-456d-9bc4-de5c49b5aeeb.pdf&Inline=true",
+        "anexoNome": "Mapa 11"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b596d45344d4455794f53307a4e6d45354c5451314e545574596a6b78596930334f544e694d5455334d3245334e7a4d756347526d&fich=dba80529-36a9-4555-b91b-793b1573a773.pdf&Inline=true",
+        "anexoNome": "Mapa 12"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4d4441314d4746694e5330354e546b794c5451354e474574596d51354f533035596a45314e6d49775a446b775a5759756347526d&fich=c0050ab5-9592-494a-bd99-9b156b0d90ef.pdf&Inline=true",
+        "anexoNome": "Mapa 13"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338775a4752695a6d517a5a69316d4d4752684c54526c4f5759744f54426a5a4330335a44646d4e44686c4e6a59314d544d756347526d&fich=0ddbfd3f-f0da-4e9f-90cd-7d7f48e66513.pdf&Inline=true",
+        "anexoNome": "Mapa 14"
+      }
+    ],
+    "CodigoFase": "350",
+    "Comissao": null,
+    "DataFase": "2022-06-17",
+    "EvtId": "31",
+    "Fase": "Decreto (Publicação)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1286926",
+    "OevTextId": "33615",
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": "33615",
+    "Votacao": null
+  }
+}
