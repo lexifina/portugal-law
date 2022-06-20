@@ -1,0 +1,29 @@
+# Resolução do Conselho do Governo Regional n.º 583/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 106/2022, de 2022-06-20
+
+**Sumário:** Autoriza a celebração de um contrato-programa com João Nelson Pão Brás, contribuinte fiscal n.º 249617960, residente à Rua Beco do Portão, n.º 14b, 9200-143 Machico, com efeitos desde a data da sua assinatura até 31 de dezembro de 2022, tendo em vista a comparticipação financeira das despesas inerentes à concretização do projeto MÈRE (MÃE), no período compreendido entre os meses de junho e outubro, para os trabalhos de pré-produção, produção (rodagem) e pós-produção.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 583/2022
+Sumário: Autoriza a celebração de um contrato-programa com João Nelson Pão Brás, contribuinte fiscal n.º 249617960, residente à Rua Beco do Portão, n.º 14b, 9200-143 Machico, com efeitos desde a data da sua assinatura até 31 de dezembro de 2022, tendo em vista a comparticipação financeira das despesas inerentes à concretização do projeto MÈRE (MÃE), no período compreendido entre os meses de junho e outubro, para os trabalhos de pré-produção, produção (rodagem) e pós-produção.
+Texto: Resolução n.º 583/2022. Considerando que, em 2002, foi constituída a Madeira Film Commission, a qual, nos termos da Resolução n.º 122/2013, de 21 de fevereiro, publicada no JORAM, I Série, n.º 25, de 27 de fevereiro, exerce a sua atividade na dependência direta do membro do Governo Regional com a tutela da área da Cultura e tem como missão posicionar e promover a Região Autónoma da Madeira como local de rodagem de produções de cinema, audiovisual e multimédia, nacionais e internacionais, tendo em vista o desenvolvimento de uma economia do sector;
+
+Considerando que, para a prossecução da sua missão, a Madeira Film Commission deve atuar no sentido de «Divulgar a Região e as suas capacidades e potencialidades para a concretização de projetos nas identificadas áreas», e «Dinamizar parcerias públicas e privadas que facilitem o apoio à produção de cinema, audiovisual e multimédia na Região» (cfr. ponto 4.º da Resolução n.º 122/2013);
+Considerando que o realizador, argumentista, editor de vídeo, animador 2D e 3D e motion graphics designer João Brás, em 2022, levará a efeito a produção e realização de uma Longa Metragem de ficção intitulada MÈRE (MÃE), cuja ação e argumento principal se desenvolve em torno da doença de Alzheimer;
+Considerando que este é um tema de real importância na sociedade portuguesa, e que importa dar visibilidade de modo a combater a iliteracia, mudar a forma como as pessoas veem a demência e sensibilizar para a necessidade de apostar na prevenção, num período em que a previsão de casos em Portugal será a de quase duplicação até 2050, em muito provocada pelo envelhecimento populacional;
+Considerando que este tema é de real importância e cumpre com a missão de serviço público, que se complementa e fortalece pelo trabalho artístico e criativo do realizador João Brás;
+Considerando que o trabalho deste realizador se tem distinguido por uma consciência e crítica social que lhe tem permitido, em conjunto com as suas capacidades criativas, a participação em diversos festivais nacionais e internacionais: sendo finalista no Creative Film Awards 2021 - Los Angeles; Winner Best Director no 21 Islands International Short Film Fest 2021; Official Selection nos Sweden Film Awards 2020 ou Linear International Film Festival 2020, entre outras participações em seleções oficiais e menções honrosas;
+Considerando que com este filme o realizador pretende, também, rodar o projeto na RAM e realçar que este é um lugar versátil pela sua beleza e condições naturais, contribuindo para a criação de emprego junto dos artistas regionais em intercâmbio com artistas nacionais;
+Considerando que a produção implica um investimento direto e indireto na economia do sector cultural e respetivas áreas de suporte e logística, para além da hotelaria, restauração, e demais serviços;
+Considerando que o apoio à produção em apreço contribui para a concretização da missão e objetivos da Madeira Film Commission, nomeadamente no estímulo à criação, produção e realização de cinema integralmente rodado da RAM, pelo que se revela de inequívoco interesse público;
+Ao abrigo e nos termos do disposto nos n.ºs 2 e 8 a 10 do artigo 34.º do Decreto Legislativo Regional n.º 28-A/2021/M, de 30 de dezembro (Orçamento da RAM-2022), o Conselho do Governo reunido em plenário em 15 de junho de 2022, resolve:
+1 - Autorizar a celebração de um contrato-programa com João Nelson Pão Brás, contribuinte fiscal n.º 249617960, residente à Rua Beco do Portão, n.º 14b, 9200-143 Machico, com efeitos desde a data da sua assinatura até 31 de dezembro de 2022, tendo em vista a comparticipação financeira das despesas inerentes à concretização do projeto MÈRE (MÃE), no período compreendido entre os meses de junho e outubro, para os trabalhos de pré-produção, produção (rodagem) e pós-produção;
+2 - Conceder ao realizador João Nelson Pão Brás uma comparticipação financeira que não excederá os € 10.000,00 (dez mil euros), para as finalidades a que se refere o n.º 1 da presente Resolução;
+3 - Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência;
+4 - Mandatar o Secretário Regional de Turismo e Cultura para, em representação da Região Autónoma da Madeira, outorgar o referido contrato-programa.
+5 - A despesa resultante do contrato-programa a celebrar tem cabimento orçamental na Secretaria 47, Capítulo 50, Divisão 01, Subdivisão 01, Classificação Funcional 047, Classificação Económica 04.08.02.B0.00, Fonte 381, Programa 043, Medida 009, Projeto 51818.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, no exercício da Presidência, Jorge Maria Abreu de Carvalho
