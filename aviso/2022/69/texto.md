@@ -1,0 +1,17 @@
+Aviso n.º 69/2022
+Sumário: O Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Reino Unido da Grã-Bretanha e Irlanda do Norte formulado uma declaração relativamente à Convenção Relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e de Medidas de Proteção das Crianças, adotada na Haia, em 19 de outubro de 1996.
+Por ordem superior se torna público que, por notificação de 19 de fevereiro de 2021, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Reino Unido da Grã-Bretanha e Irlanda do Norte formulado uma declaração em conformidade com o artigo 63.º, relativamente à Convenção Relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e de Medidas de Proteção das Crianças, adotada na Haia, em 19 de outubro de 1996.
+(tradução)
+Declaração
+Reino Unido, 19-02-2021.
+«A Embaixada de Sua Majestade Britânica [...] tem a honra de notificar que a declaração infra citada, feita pelo Reino Unido da Grã-Bretanha e Irlanda do Norte em 1 de abril de 2003, quando a Convenção é assinada, é retirada e deixa de ser aplicável em 1 de janeiro de 2021:
+Os artigos 23.º, 26.º e 52.º da Convenção permitem às partes contratantes uma certa flexibilidade para que possa ser aplicado um procedimento simples e rápido ao reconhecimento e execução de sentenças. O sistema de reconhecimento e execução previsto pelas regras comunitárias é pelo menos tão favorável quanto o previsto pela Convenção. Por conseguinte, uma decisão proferida por um tribunal de um Estado-Membro da União Europeia sobre uma questão relacionada com a Convenção é reconhecida e executada no Reino Unido da Grã-Bretanha e da Irlanda do Norte por aplicação das regras pertinentes do direito comunitário.
+Esta Notificação não afeta as declarações feitas pelo Reino Unido da Grã-Bretanha e Irlanda do Norte datadas de 27 de julho de 2012, relativamente à Convenção, que são reafirmadas nos seguintes termos:
+De acordo com o n.º 2 do artigo 29.º, da Convenção, o Governo do Reino Unido declara que interpreta o referido parágrafo como aplicável apenas aos casos em que a Autoridade Central requerente não sabe a que unidade territorial deve dirigir o seu pedido. Nesses casos, o Reino Unido designa a Autoridade Central de Inglaterra para encaminhar qualquer comunicação à Autoridade Central competente.
+De acordo com o n.º 2 do artigo 34.º, da Convenção, o Governo do Reino Unido declara que os pedidos ao abrigo do n.º 1 do artigo 34.º, só podem ser comunicados através da sua Autoridade Central competente.
+De acordo com o n.º 2 do artigo 54.º, da Convenção, o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte declara que se opõe ao uso do francês.»
+A República Portuguesa é Parte na Convenção, a qual foi aprovada pelo Decreto n.º 52/2008, publicado no Diário da República, 1.ª série, n.º 221, de 13 de novembro de 2008.
+Nos termos da alínea a) do n.º 2 do artigo 61.º da Convenção, esta encontra-se em vigor para a República Portuguesa desde 1 de agosto de 2011.
+A Autoridade Central é a Direção-Geral de Reinserção e Serviços Prisionais do Ministério da Justiça que, nos termos do artigo 34.º do Decreto-Lei n.º 215/2012, publicado no Diário da República, 1.ª série, n.º 189, de 28 de setembro de 2012, sucedeu nas competências à Direção-Geral de Reinserção Social do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 3 de junho de 2022. - A Diretora, Patrícia Galvão Teles.
+115396532
