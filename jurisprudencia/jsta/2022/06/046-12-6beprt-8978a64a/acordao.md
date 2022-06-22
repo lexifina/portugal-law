@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2022-06-22, processo 046/12.6BEPRT
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 046/12.6BEPRT
+
+**Data do Acordão:** 06/22/2022
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; IMPOSTO MUNICIPAL SOBRE TRANSMISSÃO ONEROSA DE IMOVEIS; CISÃO DE SOCIEDADES; DISSOLUÇÃO; LIBERDADE DE ESTABELECIMENTO; PRINCÍPIO DA NÃO DISCRIMINAÇÃO; VIOLAÇÃO; DIRECTIVA; DUPLA TRIBUTAÇÃO; REENVIO PREJUDICIAL
+
+**Nº Convencional:** JSTA000P29587
+
+**Nº do Documento:** SA220220622046/12
+
+**Data de Entrada:** 03/31/2022
+
+**Recorrente:** A………………, SL UNIPERSONAL
+
+**Recorrido 1:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - No caso dos autos, a cisão implicou a dissolução da sociedade cindida, de modo que, e linearmente, envolvendo a situação em apreço um bem imóvel sito em território nacional, a aquisição está sujeita a IMT sendo irrelevante que o acto translativo tenha ocorrido em Espanha, até porque o I.M.T. é um imposto sobre a riqueza sendo esta um indicador da capacidade tributária dos contribuintes, daí que o IMT incide sobre a aquisição onerosa de bens imóveis, e se o bem está situado em território nacional é em Portugal que se manifesta tal capacidade.
+
+II - Acresce que, como referido, a cisão implicou a dissolução da sociedade cindida, o que significa que não está em causa uma mera sucessão de patrimónios no sentido de que as duas novas sociedades limitam-se a dar continuidade à sua actividade, mas sim a partilha do património para duas sociedades distintas que passam a constituir dois novos sujeitos económicos e jurídicos, com personalidade jurídica distinta, pelo que, ocorreu uma verdadeira transmissão subsumível ao disposto no art. 2º nº 5 al. g) do CIMT.
+
+III - Em virtude de a cisão de sociedades poder implicar a transmissão da propriedade de bens imóveis, o legislador sujeitou tal transmissão a IMT por tal importar a aquisição onerosa de bens imóveis, independentemente do título ou da forma jurídica utilizada nessa aquisição, norma aplicável tanto aos nacionais como aos cidadãos de outros Estados-Membros, em condições de igualdade, não contendo tal norma conteúdo discriminatório, não existindo qualquer situação susceptível de colocar em crise os princípios da proibição de discriminação em razão da nacionalidade e da liberdade de estabelecimento.
+
+IV - A ora Recorrente, ao adquirir, por via da cisão, um imóvel situado em território português fica sujeita a IMT por se tratar de um bem imóvel situado em território nacional sendo devido pelos adquirentes dos bens imóveis (art. 2º nº 1 e 4º do CIMT), tal qual uma qualquer sociedade nacional que adquira nas mesma condições, sendo que não é pelo facto de em Espanha vigorar um regime fiscal distinto que se mostram beliscados tais princípios comunitários, pois estes visam conferir aos cidadãos de outros Estados membros o mesmo tratamento conferido aos nacionais, mas não conferem aos cidadãos de outros Estados membros o direito de afastar o regime fiscal vigente em Portugal aplicável também aos nacionais por em Espanha vigorar regime fiscal distinto.
+
+V - O art. 6º da Directiva 2008/7/CE do Conselho excepciona diversas situações, designadamente que em derrogação ao disposto no artigo 5º, os Estados-Membros podem cobrar os seguintes impostos e direitos de transmissão, incluindo os encargos de registo de propriedade que incidem sobre a entrada, numa sociedade de capitais, de bens imóveis ou de estabelecimentos comerciais sitos no respectivo território, pelo que o art. 2º nº 5 al. g) do CIMT mostra-se conforme a referida Directiva, não estando sujeita às limitações contidas no art. 7º nº 1 e 8º nº 3 da Directiva.
+
+VI - O facto tributário subjacente ao IMT em causa nos presentes autos não é o aumento do capital, mas a transmissão de um imóvel por via da separação de patrimónios e afetação de tal imóvel a uma das sociedades criadas ex novo, pelo que não ocorre qualquer situação de dupla tributação.
+
+VII - No caso dos autos, tem de entender-se que estamos perante uma situação enquadrável em sede de excepção à obrigação de reenvio de questão, na medida em que, como se viu, resulta de forma clara das normas legais nacionais e europeias a improcedência das questões suscitadas pela Recorrente, não se justificando o reclamado reenvio prejudicial.
