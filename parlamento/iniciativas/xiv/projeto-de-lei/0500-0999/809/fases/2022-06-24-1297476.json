@@ -1,0 +1,189 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=pReuHrYo%2fh9jijpQFfE7czZ645aqUPIDPqqzwQ996bysfdmBoKy%2b1ssHH82AMIF%2ftSNnRdXcLdX6kl%2bijWVEPM14xXCTr5y6N7rvKUAhLoERfhdlq6uXBZiWUxLh8kUNXW5Eimjxb%2fqJKGuKJxbtLI1lqQ1lN3KoMSwQqh5VT4PAuKP640kBVGgdVP5Cswn1pfqqM59ThTJvyu3TpT9gHrdZuFylyy2LUE3ll7RwtKSk9jPSSWghC5sIcnifSaQOMm6PLaKFf5MqVWry1XUUip7O42XAcRTmL5xg3Apo33KVJsYxNQaOhWGQnSxajYwj2h%2fEXMUw0XnLEphqarl3Qb7%2bWuNdnSc%2b%2bf6jZDnNpoS653FODNjjfW1CA8ouZl80&fich=IniciativasXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "fcabddf205957c4c38a9577044bf27811bddf1bbd4f025069dbd6328a2b746e4",
+  "legislatura": "XIV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "809",
+    "id": "110717",
+    "titulo": "Valorização do ensino politécnico nacional e internacionalmente"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-06-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "62680",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-10-11",
+            "id": "127681",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-11",
+            "id": "127680",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-12",
+            "id": "127683",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-13",
+            "id": "127684",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-19",
+            "id": "127714",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-20",
+            "id": "127722",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-25",
+            "id": "127726",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-30",
+            "id": "127823",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-12-06",
+            "id": "127812",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-12-06",
+            "id": "127811",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-12-06",
+            "id": "127810",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-12-14",
+            "id": "127837",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-12-20",
+            "id": "127848",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-12-21",
+            "id": "127853",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-06-24",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-10-10",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta dos contributos à Iniciativa",
+            "URL": "https://www.parlamento.pt/sites/COM/XVLeg/8CEC/Paginas/ContributosIniciativasII.aspx?ID_Ini=126"
+          },
+          {
+            "DataDocumento": "2023-02-16",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação áudio da  ratificação das votações indiciárias",
+            "URL": "http://media.parlamento.pt/site/XVLEG/SL1/COM/08_CEC/CEC_20230216.mp3"
+          },
+          {
+            "DataDocumento": "2023-02-15",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação áudio da discussão e votação indiciária ",
+            "URL": "http://media.parlamento.pt/site/XVLEG/SL1/COM/08_CEC/CEC_GT_AEPLESP/CEC_GT_AEPLESP_20230215.mp3"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8332",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "8332",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-06-24",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1297476",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "973780",
+        "obs": null,
+        "pag": [
+          "3-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-02-17",
+        "pubLeg": "XV",
+        "pubNr": "168",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/168/2023-02-17/3?pgs=3-17&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
