@@ -1,0 +1,87 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Rw23Vat1crExYT4G5DSbTtIcbaTrKAsLCDjJmdaRvIuxQmpjNXlteM0UBC1odjp2f3HP5j03ofnQYCU4ykN5sgLpQhNGwtmd1YOsD3gyJe0gSxSVB7n41uHJAoUu1bht3Lw0G8a7mmxpMM%2bLxZ2Tr7tx1ywCpqOW044tjbCsexIbLe8xH4ECVffSpi6OnIIVGxWCT3vfv%2bBY3obnTzzLwqcBV7oXMoYM26a4iedsSfimyISCEw6ViRgV0E61t7DS%2fcBDOu%2feMsWNgZnFHJUyMeRb9h41S%2bqszPi1DzGckzthTAU2WiQhpNM09OMX6S7KPKg6G3Wvn4YPHc5We6hp%2b%2f3KCSLFH0%2f%2fObIIumnChLVJKIOems%2b4Rk75IkM3%2fiYlk8XjTqDbzNg5%2fyJT%2fru%2fDA%3d%3d&fich=RequerimentosXV_json.txt&Inline=true",
+  "ficheiro_sha256": "5e72bb83b1dc3ce7aad3688787c6d2f5aca64e4843eb96b97466a68fa5bcc512",
+  "legislatura": "XV",
+  "id": "123050",
+  "tipo": "Pergunta",
+  "numero": "299",
+  "data_registo": "2022-06-24",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Insegurança na Freguesia de Alcaçovas",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "7335",
+        "nome": "Sónia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6539",
+        "nome": "André Coelho Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6531",
+        "nome": "Mónica Quintela"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6885",
+        "nome": "Ofélia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7530",
+        "nome": "Joaquim Pinto Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6595",
+        "nome": "Márcia Passos"
+      }
+    ],
+    "DataEnvio": "2022-06-28",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2022-06-28",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro da Administração Interna",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2022-08-01",
+            "docRemetida": null,
+            "entidade": "Ministro da Administração Interna",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e32466c4f575979596a63744e5449355a4330304e54686d4c546731595463745957526d4e6a59334e7a45774f54646d4c6e426b5a673d3d&fich=7ae9f2b7-529d-458f-85a7-adf66771097f.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2022-06-24",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764f5445795a6a417a5a4459745a4449774d4330304d4759304c546b7a4d4455744e44646a4e4467334f5452684e4459774c6e426b5a673d3d&fich=912f03d6-d200-40f4-9305-47c48794a460.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "123050",
+    "Legislatura": "XV",
+    "Nr": "299",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
