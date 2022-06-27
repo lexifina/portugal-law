@@ -1,0 +1,242 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "19",
+    "id": "131670",
+    "titulo": "Altera o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62703",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-06-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-07-14",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d324e7a63794e474e684c57526a4f4445744e44466a596931694e475a684c5463794e446b77596d49314d546b30596935775a47593d&fich=c67724ca-dc81-41cb-b4fa-72490bb5194b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b774d545a6b4d57566d4c5449304f5441744e4751775a433035596a63304c574e6d4d5445794f475534596d566c5a4335775a47593d&fich=9016d1ef-2490-4d0d-9b74-cf1128e8beed.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45334d6a6b304d5751774c544d775a4463744e4459785a5330354e6a526d4c54426b5a6d466a4d575935595445334e5335775a47593d&fich=172941d0-30d7-461e-964f-0dfac1f9a175.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a685a54417a4e6a41794c5455784f4759744e44517a596930355a4459334c5451775a5441335a6d4d7a596a41324d6935775a47593d&fich=fae03602-518f-443b-9d67-40e07fc3b062.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de alteração -  IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526d4d7a4e684d444d324c57557a5a446b744e4459324f4330355954417a4c574e6d4f575268597a426b4e7a63334e7935775a47593d&fich=df33a036-e3d9-4668-9a03-cf9dac0d7777.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-19",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6d5a544a6c4f5751794c54566c593249744e474d305a5331694d544d304c57513559544d344d7a593159544577597935775a47593d&fich=bfe2e9d2-5ecb-4c4e-b134-d9a38365a10c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-19",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição  e relatório da discussão CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3252694d546334595442684c5468685a6a41744e444a6d5a4330345a6d5a6b4c57597a595451355a6d55355a44466a5a6935775a47593d&fich=db178a0a-8af0-42fd-8ffd-f3a49fe9d1cf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Alto Comissariado para as Migrações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a69596a63354e6a59324c5745324e5445744e44526b4f533035595449784c57566a597a4535596d557759325a6a4e7935775a47593d&fich=2bb79666-a651-44d9-9a21-ecc19be0cfc7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-07-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6c5a6a4a6a4d5452684c5442694d4449744e4759335a6931684d54566a4c5445304e7a4d324e6a4930596d59774e6935775a47593d&fich=bef2c14a-0b02-4f7f-a15c-14736624bf06.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-08",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4131596a55324e5755774c57466d4d4441744e4449355a6931694e5759334c5449795a6d4d324d6a686a5a574e6b595335775a47593d&fich=05b565e0-af00-429f-b5f7-22fc628cecda.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-09-08"
+          },
+          {
+            "link": "",
+            "nome": "Alto Comissariado para as Migrações em 2022-07-20"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2022-07-20"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2022-07-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2022-07-06"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2022-07-06"
+          },
+          {
+            "link": "",
+            "nome": "Alto Comissariado para as Migrações em 2022-07-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2022-07-06"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2022-07-11"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "BE",
+            "id": "3926",
+            "motivoCessacao": null,
+            "nome": "Pedro Filipe Soares"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2022-07-14",
+            "dataRemessa": "2022-07-14",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2022-07-19",
+            "dataRemessa": "2022-07-19",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto de Substituição"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-06-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1297637",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971738",
+        "obs": null,
+        "pag": [
+          "12-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-14",
+        "pubLeg": "XV",
+        "pubNr": "59",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/059/2022-07-14/12?pgs=12-15&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "971752",
+        "obs": "Relatório da discussão e votação na especialidade, incluindo propostas de alteração apresentadas pelo PCP, pelo PS e pela IL, e texto de substituição da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "pag": [
+          "21-156"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-07-19",
+        "pubLeg": "XV",
+        "pubNr": "62",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/062/2022-07-19/21?pgs=21-156&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
