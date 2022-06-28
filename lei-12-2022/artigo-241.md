@@ -1,0 +1,5 @@
+# Artigo 241.º
+
+### Atualização de taxas ambientais
+
+Em 2022, são atualizados automaticamente por aplicação do índice de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, publicado pelo INE, I. P., as taxas previstas nos termos do artigo 319.º da Lei n.º 75-B/2020, de 31 de dezembro.

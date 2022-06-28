@@ -1,0 +1,7 @@
+# Artigo 164.º
+
+### Procedimentos no âmbito da prevenção, supressão e estabilização de emergência pós-incêndio
+
+1 - O ICNF, I. P., a ANEPC e a AGIF, I. P., podem recorrer ao procedimento de ajuste direto, até aos limiares previstos no artigo 4.º da Diretiva 2014/24/UE do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, no seu valor atual, não se aplicando as limitações constantes dos n.os 2 a 5 do artigo 113.º do CCP quando esteja em causa a aquisição de bens, prestação de serviços ou empreitadas necessárias à prevenção, incluindo campanhas de sensibilização, supressão de fogos rurais e estabilização de emergência pós-incêndio, no âmbito do SGIFR.
+
+2 - Os procedimentos previstos no número anterior ficam dispensados da fiscalização prévia do Tribunal de Contas prevista no artigo 46.º da Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de agosto, sem prejuízo da fiscalização sucessiva e concomitante da respetiva despesa, encontrando-se os respetivos encargos excluídos do disposto no artigo 64.º da Lei n.º 2/2020, de 31 de março, e no artigo 59.º
