@@ -36,7 +36,9 @@ c) Utilizada para o transporte de passageiros e de mercadorias por via férrea e
 
 d) Utilizada pelos clientes finais economicamente vulneráveis, beneficiários de tarifa social, nos termos do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro;
 
-e) Utilizada nas instalações previstas na alínea f) do número anterior.
+e) Utilizada nas instalações previstas na alínea f) do número anterior;
+
+f) Produzida para autoconsumo a partir de fontes de energia renovável, até ao limite de 1 MW de potência instalada.
 
 3 - Para efeitos de aplicação da alínea b) do n.º 1, entende-se por «aviação de recreio privada» a utilização de uma aeronave pelo seu proprietário ou por uma pessoa singular ou colectiva que a possa utilizar mediante aluguer ou a outro título, para fins não comerciais e, em especial, para fins que não sejam o transporte de pessoas ou de mercadorias ou a prestação de serviços a título oneroso ou no interesse das autoridades públicas.
 
@@ -52,4 +54,6 @@ c) Os reservatórios fixados com carácter permanente pelo construtor em todos o
 
 6 - Ainda para efeitos de aplicação da alínea g) do n.º 1, consideram-se «contentores especiais» todos os contentores equipados com dispositivos especialmente adaptados para sistemas de refrigeração, ventilação, isolamento térmico ou outros sistemas semelhantes.
 
-7 - As isenções previstas nas alíneas a), c), d), e), f), i) e j) do n.º 1 e nas alíneas a), c) e e) do n.º 2 dependem de reconhecimento prévio da autoridade aduaneira competente.
+7 - Para efeitos de aplicação da alínea f) do n.º 2, fica a Direção-Geral de Energia e Geologia obrigada a comunicar trimestralmente à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, informação a definir por protocolo relativa aos autoprodutores sujeitos a registo ou comunicação prévia.
+
+8 - As isenções previstas nas alíneas a), c), d), e), f), i) e j) do n.º 1 e nas alíneas a), c) e e) do n.º 2 dependem de reconhecimento prévio da autoridade aduaneira competente.

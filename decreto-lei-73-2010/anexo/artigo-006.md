@@ -34,13 +34,19 @@ a) 2 maços de cigarros, 10 cigarrilhas, 3 charutos ou 40 g de tabaco para fumar
 
 b) 1 l de bebidas espirituosas, 1 l de produtos intermédios ou 2 l de cerveja, não sendo estas quantidades cumuláveis.
 
-5 - A estância aduaneira competente pode dispensar, em casos especiais devidamente fundamentados, a selagem do compartimento referido na alínea c) do n.º 3.
+5 - Para efeitos do cumprimento das obrigações estabelecidas no presente Código é dispensada a emissão do documento administrativo eletrónico previsto no artigo 36.º, devendo ser processada uma declaração de saída, quando se verifiquem cumulativamente os seguintes requisitos:
 
-6 - A violação das condições fixadas nos n.os 3 e 4 determina a liquidação do imposto à entidade requisitante, sem prejuízo das sanções previstas na lei.
+a) A saída de um entreposto fiscal de produtos destinados a abastecimentos de aeronaves seja efetuada com recurso a uma declaração aduaneira de exportação sob a forma de uma inscrição nos registos do declarante; e
 
-7 - As pequenas remessas sem valor comercial e as mercadorias contidas na bagagem pessoal dos viajantes, procedentes de um Estado que não seja membro da União Europeia, estão isentas na importação nos termos previstos em legislação especial.
+b) A estância aduaneira de exportação seja a estância aduaneira de saída dos produtos.
 
-8 - Sem prejuízo do disposto no número anterior, estão isentos na importação, os seguintes produtos contidos na bagagem pessoal dos viajantes provenientes de países ou territórios terceiros:
+6 - A estância aduaneira competente pode dispensar, em casos especiais devidamente fundamentados, a selagem do compartimento referido na alínea c) do n.º 3.
+
+7 - A violação das condições fixadas nos n.os 3 e 4 determina a liquidação do imposto à entidade requisitante, sem prejuízo das sanções previstas na lei.
+
+8 - As pequenas remessas sem valor comercial e as mercadorias contidas na bagagem pessoal dos viajantes, procedentes de um Estado que não seja membro da União Europeia, estão isentas na importação nos termos previstos em legislação especial.
+
+9 - Sem prejuízo do disposto no número anterior, estão isentos na importação, os seguintes produtos contidos na bagagem pessoal dos viajantes provenientes de países ou territórios terceiros:
 
 a) O rapé, o tabaco de mascar, o tabaco aquecido e os líquidos, contendo nicotina em recipientes utilizados para carga e recarga de cigarros eletrónicos, nas quantidades previstas nas alíneas e) a h) do n.º 3 do artigo 61.º;
 
