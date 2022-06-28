@@ -2,7 +2,7 @@
 
 ### Comunicação dos elementos das faturas
 
-1 - As pessoas, singulares ou coletivas, que tenham sede, estabelecimento estável ou domicílio fiscal em território português e aqui pratiquem operações sujeitas a IVA, são obrigadas a comunicar à Autoridade Tributária a Aduaneira (AT), por transmissão eletrónica de dados, os elementos das faturas emitidas nos termos do Código do IVA, bem como os elementos dos documentos que possibilitem a conferência de mercadorias ou de prestação de serviços e recibos, por uma das seguintes vias:
+1 - As pessoas, singulares ou coletivas, que se encontrem sujeitas às regras de emissão de faturação em território português nos termos do artigo 35.º-A do Código do IVA e aqui pratiquem operações sujeitas a IVA, são obrigadas a comunicar à Autoridade Tributária a Aduaneira (AT), por transmissão eletrónica de dados, os elementos das faturas emitidas nos termos do Código do IVA, bem como os elementos dos documentos que possibilitem a conferência de mercadorias ou de prestação de serviços e recibos, por uma das seguintes vias:
 
 a) Por transmissão eletrónica de dados em tempo real;
 
@@ -10,9 +10,9 @@ b) Por transmissão eletrónica de dados, mediante remessa de ficheiro normaliza
 
 c) Por inserção direta no Portal das Finanças;
 
-d) Por outra via eletrónica, nos termos a definir por portaria do Ministro das Finanças.
+d) (Revogada.)
 
-2 - A comunicação referida no número anterior deve ser efetuada até ao dia 12 do mês seguinte ao da emissão da fatura.
+2 - A comunicação dos documentos referidos no número anterior deve ser efetuada até ao dia 5 do mês seguinte ao da sua emissão.
 
 3 - Os sujeitos passivos que sejam obrigados a produzir o ficheiro SAF-T (PT), criado pela Portaria n.º 321-A/2007, de 26 de março, alterada pela Portaria n.º 1192/2009, de 8 de outubro, devem optar por uma das modalidades constantes das alíneas a) e b) do n.º 1.
 
@@ -65,3 +65,5 @@ d) Secção S, Classe 9602 - Atividades de salões de cabeleireiro e institutos 
 7 - As pessoas singulares devem indicar no Portal das Finanças, a partir da data referida no n.º 5, quais as faturas em que constem como adquirentes que titulam prestações de serviços enquadradas nos setores de atividade mencionados naquele número, sempre que o sujeito passivo emitente esteja também enquadrado, para efeitos fiscais, noutros setores de atividade, sob pena de aquelas faturas não serem elegíveis para o incentivo fiscal.
 
 8 - As pessoas singulares que sejam sujeitos passivos de IVA devem também indicar no Portal das Finanças, a partir da data referida no n.º 5, quais as faturas que titulam aquisições efetuadas fora do âmbito da sua atividade empresarial ou profissional, sob pena de todas as faturas em que constam como adquirentes não serem elegíveis para o incentivo fiscal.
+
+9 - Os sujeitos passivos referidos no n.º 1, que durante o mês não tenham emitidos documentos, devem comunicar esse facto à AT, através do Portal das Finanças, no prazo referido no n.º 2.
