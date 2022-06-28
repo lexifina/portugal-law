@@ -8,7 +8,7 @@ a) O IRC, incluindo as tributações autónomas, e quaisquer outros impostos que
 
 b) As despesas não documentadas;
 
-c) Os encargos cuja documentação não cumpra o disposto nos n.os 3 e 4 do artigo 23.º, bem como os encargos evidenciados em documentos emitidos por sujeitos passivos com número de identificação fiscal inexistente ou inválido ou por sujeitos passivos cuja cessação de atividade tenha sido declarada oficiosamente nos termos do n.º 6 do artigo 8.º;
+c) Os encargos cuja documentação não cumpra o disposto nos n.os 3 e 4 do artigo 23.º, bem como os encargos evidenciados em documentos emitidos por sujeitos passivos com número de identificação fiscal inexistente ou inválido, por sujeitos passivos cuja cessação de atividade tenha sido declarada oficiosamente nos termos do n.º 6 do artigo 8.º ou por sujeitos passivos que não tenham entregue a declaração de inscrição, prevista na alínea a) do n.º 1 do artigo 117.º;
 
 d) As despesas ilícitas, designadamente as que decorram de comportamentos que fundadamente indiciem a violação da legislação penal portuguesa, mesmo que ocorridos fora do alcance territorial da sua aplicação;
 

@@ -6,7 +6,7 @@
 
 ### Rendimentos de direitos de autor e de direitos de propriedade industrial
 
-1 - Concorrem para a determinação do lucro tributável em apenas metade do seu valor os rendimentos provenientes de contratos que tenham por objeto a cessão ou a utilização temporária dos seguintes direitos de autor e direitos de propriedade industrial quando registados:
+1 - Para efeitos de determinação do lucro tributável, pode ser deduzido, nos termos e até ao limite previsto no n.º 8, um montante correspondente aos rendimentos provenientes de contratos que tenham por objeto a cessão ou a utilização temporária dos seguintes direitos de propriedade industrial sujeitos a registo:
 
 a) Patentes;
 
@@ -30,7 +30,7 @@ e) O sujeito passivo a cujos rendimentos seja aplicável o disposto no n.º 1 di
 
 4 - O disposto no presente artigo não se aplica aos rendimentos decorrentes de prestações acessórias de serviços incluídas nos contratos referidos no n.º 1, os quais, para o efeito, devem ser autonomizados dos rendimentos provenientes da cessão ou da utilização temporária dos respetivos direitos.
 
-5 - Os rendimentos a que se aplique o disposto no n.º 1 são também considerados em apenas metade do seu valor para efeitos do cálculo da fração prevista na alínea b) do n.º 1 do artigo 91.º
+5 - O montante a que se refere o n.º 1 é também deduzido para efeitos do cálculo da fração prevista na alínea b) do n.º 1 do artigo 91.º
 
 6 - Para efeitos do presente artigo, considera-se rendimento proveniente de contratos que tenham por objeto a cessão ou a utilização temporária de direitos o saldo positivo entre os rendimentos e ganhos auferidos no período de tributação em causa e os gastos ou perdas incorridos ou suportados, nesse mesmo período de tributação, pelo sujeito passivo para a realização das atividades de investigação e desenvolvimento de que tenha resultado, ou que tenham beneficiado, o direito ao qual é imputável o rendimento.
 
@@ -38,7 +38,7 @@ e) O sujeito passivo a cujos rendimentos seja aplicável o disposto no n.º 1 di
 
 8 - A dedução ao lucro tributável a que se referem os números anteriores não pode exceder o montante que resulte da aplicação da seguinte fórmula:
 
-DQ / DT x RT x 50 %
+DQ/DT x RT x 85 %
 
 em que:
 

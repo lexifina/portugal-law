@@ -6,9 +6,9 @@
 
 a) Quando a liquidação deva ser feita pelo sujeito passivo nas declarações a que se referem os artigos 120.º e 122.º, tem por base a matéria coletável que delas conste;
 
-b) Na falta de apresentação da declaração a que se refere o artigo 120.º, a liquidação é efetuada até 30 de novembro do ano seguinte àquele a que respeita ou, no caso previsto no n.º 2 do referido artigo, até ao fim do 6.º mês seguinte ao do termo do prazo para apresentação da declaração aí mencionada e tem por base o maior dos seguintes montantes:
+b) Na falta de apresentação da declaração a que se refere o artigo 120.º, a liquidação é efetuada até 30 de novembro do ano seguinte àquele a que respeita ou, no caso previsto no n.º 2 do referido artigo, até ao fim do 6.º mês seguinte ao do termo do prazo para apresentação da declaração aí mencionada e incide sobre a matéria coletável apurada com base nos elementos de que a Autoridade Tributária e Aduaneira disponha, de acordo com as regras do regime simplificado, com aplicação do coeficiente de 0,35 ou, na sua falta, sobre o maior dos seguintes valores:
 
-1) A matéria coletável determinada, com base nos elementos de que a administração tributária e aduaneira disponha, de acordo com as regras do regime simplificado, com aplicação do coeficiente de 0,75;
+1) (Revogado.)
 
 2) A totalidade da matéria coletável do período de tributação mais próximo que se encontre determinada;
 
@@ -24,7 +24,7 @@ b) A correspondente à dupla tributação económica internacional;
 
 c) A relativa a benefícios fiscais;
 
-d) A relativa ao pagamento especial por conta a que se refere o artigo 106.º;
+d) (Revogada.)
 
 e) A relativa a retenções na fonte não suscetíveis de compensação ou reembolso nos termos da legislação aplicável.
 

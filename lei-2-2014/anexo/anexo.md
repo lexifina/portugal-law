@@ -1,8 +1,10 @@
 # Anexo
 
-### (a que se refere o artigo 15.º)
+### CÓDIGO DO IMPOSTO SOBRE O RENDIMENTO DAS PESSOAS COLETIVAS
 
 Republicação do Decreto-Lei n.º 442-B/88, de 30 de novembro
+
+(a que se refere o artigo 15.º)
 
 CÓDIGO DO IMPOSTO SOBRE O RENDIMENTO DAS PESSOAS COLETIVAS
 
