@@ -14,4 +14,4 @@ c) O valor global das aquisições, líquido do IVA devido ou pago nos Estados m
 
 3 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 podem optar pela aplicação do regime de tributação previsto no artigo 1.º, devendo permanecer no regime de sujeição durante um período de dois anos.
 
-4 - Não obstante o disposto no artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens cuja transmissão no território nacional seja isenta de imposto nos termos das alíneas d) a m) e v) do n.º 1 do artigo 14.º do Código do IVA.
+4 - Não obstante o disposto no artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens cuja transmissão no território nacional seja isenta de imposto nos termos das alíneas d) a m), v) e z) a bb) do n.º 1 do artigo 14.º do Código do IVA.
