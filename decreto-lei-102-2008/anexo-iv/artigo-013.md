@@ -40,6 +40,10 @@ c) Por organizações internacionais reconhecidas por Portugal, e pelos membros 
 
 d) No âmbito do Tratado do Atlântico Norte, pelas forças armadas dos outros Estados que são Partes no referido Tratado, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afectas ao esforço comum de defesa.
 
+e) Pela Comissão Europeia ou por agências ou organismos estabelecidos ao abrigo do direito da União Europeia, no exercício das funções que lhes foram legalmente atribuídas para dar resposta à pandemia da doença COVID-19;
+
+f) No âmbito da política comum de segurança e defesa da União Europeia, pelas forças armadas de outros Estados-Membros, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afetas a um esforço de defesa realizado para a execução de uma atividade da União Europeia.
+
 3 - A isenção referida na alínea d) do n.º 1 não é aplicável a:
 
 a) Provisões de bordo que se encontrem nas seguintes embarcações:
@@ -55,3 +59,7 @@ IV) As de pesca costeira;
 V) As de guerra com pavilhão português;
 
 b) Combustíveis e carburantes que não sejam os contidos nos depósitos normais.
+
+4 - A isenção referida na alínea e) do n.º 2 não é aplicável quando os bens importados sejam objeto de transmissão, a título oneroso, imediatamente ou numa data posterior, por parte da Comissão Europeia ou das agências ou organismos aí referidos.
+
+5 - A Comissão Europeia ou a agência ou organismo em causa informam a Autoridade Tributária e Aduaneira do facto a que se reporta o número anterior, ficando a importação dos bens em causa sujeita a IVA nas condições aplicáveis à data em que os mesmos foram transmitidos.

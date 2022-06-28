@@ -4,9 +4,9 @@
 
 1 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 29.º, a declaração periódica deve ser enviada por transmissão electrónica de dados, nos seguintes prazos:
 
-a) Até ao dia 10 do 2.º mês seguinte àquele a que respeitam as operações, no caso de sujeitos passivos com um volume de negócios igual ou superior a (euro) 650 000 no ano civil anterior;
+a) Até ao dia 20 do 2.º mês seguinte àquele a que respeitam as operações, no caso de sujeitos passivos com um volume de negócios igual ou superior a 650 000 (euro) no ano civil anterior;
 
-b) Até ao dia 15 do 2.º mês seguinte ao trimestre do ano civil a que respeitam as operações, no caso de sujeitos passivos com um volume de negócios inferior a (euro) 650 000 no ano civil anterior.
+b) Até ao dia 20 do 2.º mês seguinte ao trimestre do ano civil a que respeitam as operações, no caso de sujeitos passivos com um volume de negócios inferior a 650 000 (euro) no ano civil anterior.
 
 2 - Os sujeitos passivos abrangidos pela alínea b) do número anterior podem, através de menção expressa nas declarações referidas nos artigos 31.º ou 32.º, conforme os casos, optar pelo envio da declaração periódica mensal prevista na alínea a) do mesmo número, devendo manter-se neste regime por um período mínimo de três anos.
 

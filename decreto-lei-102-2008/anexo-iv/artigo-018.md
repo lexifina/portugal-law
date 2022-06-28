@@ -16,11 +16,7 @@ c) Para as restantes importações, transmissões de bens e prestações de serv
 
 2 - Estão sujeitas à taxa a que se refere a alínea a) do n.º 1 as importações e transmissões de objectos de arte previstas em legislação especial.
 
-3 - As taxas a que se referem as alíneas a), b) e c) do n.º 1 são, respetivamente, de:
-
-a) 4 %, 9 % e 18 %, relativamente às operações que, de acordo com a legislação especial, se considerem efetuadas na Região Autónoma dos Açores;
-
-b) 5 %, 12 % e 22 %, relativamente às operações que, de acordo com a legislação especial, se considerem efetuadas na Região Autónoma da Madeira.
+3 - As Assembleias Legislativas das Regiões Autónomas dos Açores e da Madeira podem, nos termos previstos na Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, fixar taxas diminuídas do IVA aplicáveis às transmissões de bens e prestações de serviços que se considerem efetuadas nas regiões autónomas e às importações cujo desembaraço alfandegário tenha lugar nessas mesmas regiões.
 
 4 - Nas transmissões de bens constituídos pelo agrupamento de várias mercadorias, formando um produto comercial distinto, aplicam-se as seguintes taxas:
 

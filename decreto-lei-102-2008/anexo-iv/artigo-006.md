@@ -136,14 +136,6 @@ e) Locação de uma embarcação de recreio, que não seja de curta duração, e
 
 15 - Sendo o destinatário dos serviços uma pessoa que não seja um sujeito passivo dos referidos no n.º 5 do artigo 2.º, para além das situações abrangidas pelo número anterior, considera-se que a utilização e exploração efetivas ocorrem no território nacional quando se situar neste território o local em que aquele disponha de uma linha fixa instalada, o local a que pertença o indicativo da rede móvel de um módulo de identificação de assinante (cartão SIM), ou o local em que esteja situado um descodificador ou dispositivo similar ou, sendo este local desconhecido, para onde tenha sido remetido um cartão de visualização, através dos quais os serviços de telecomunicações, de radiodifusão ou televisão ou os serviços por via eletrónica sejam prestados.
 
-16 - (Revogado.)
+16 - As operações consideram-se tributadas em Portugal continental ou nas Regiões Autónomas dos Açores e da Madeira de acordo com os critérios estabelecidos nos números anteriores, com as devidas adaptações.
 
-17 - (Revogado.)
-
-18 - (Revogado.)
-
-19 - (Revogado.)
-
-20 - (Revogado.)
-
-21 - (Revogado.)
+17 - Não obstante o disposto no número anterior, as prestações de serviços de transporte são consideradas, para efeitos de aplicação das taxas do IVA às operações que ocorram nas Regiões Autónomas dos Açores e da Madeira, como tributáveis no local do estabelecimento estável a partir do qual são efetuadas.

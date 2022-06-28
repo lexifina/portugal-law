@@ -8,7 +8,7 @@
 
 3 - Quando deixarem de se verificar as condições de aplicação do regime, os sujeitos passivos são obrigados a apresentar a declaração de alterações prevista no artigo 32.º, nos seguintes prazos:
 
-a) Durante o mês de janeiro do ano seguinte àquele em que tenha sido atingido um volume de negócios relativo ao conjunto das suas operações tributáveis superior a (euro) 10 000;
+a) Durante o mês de janeiro do ano seguinte àquele em que tenha sido atingido um volume de negócios relativo ao conjunto das suas operações tributáveis superior a 12 500 (euro);
 
 b) No prazo de 15 dias a contar da fixação definitiva de um rendimento tributável em sede de IRS ou IRC baseado em volume de negócios superior ao limite referido na alínea anterior;
 
