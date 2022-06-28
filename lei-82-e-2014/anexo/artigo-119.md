@@ -22,7 +22,7 @@ a) Entregar à Autoridade Tributária e Aduaneira, até ao fim do mês de julho 
 
 b) Possuir um registo atualizado dos titulares desses rendimentos com indicação do respetivo regime fiscal, bem como os documentos que justificam a isenção, a redução de taxa ou a dispensa de retenção na fonte.
 
-3 - Tratando-se de rendimentos de quaisquer títulos nominativos ou ao portador e de juros de depósitos à ordem ou a prazo, cujos titulares sejam residentes em território português, o documento referido na alínea b) do n.º 1 apenas é emitido a solicitação expressa dos sujeitos passivos que pretendam optar pelo englobamento.
+3 - Tratando-se de rendimentos sujeitos a retenção na fonte às taxas previstas no artigo 71.º, cujos titulares sejam residentes em território português, o documento previsto na alínea b) do n.º 1 apenas é emitido a solicitação expressa dos sujeitos passivos que pretendam optar pelo englobamento.
 
 4 - (Revogado.)
 
@@ -59,3 +59,7 @@ b) Entregar à Autoridade Tributária e Aduaneira, até ao final do mês de feve
 c) Emitir a declaração prevista na alínea b) do n.º 1 nas condições previstas no n.º 3.
 
 13 - (Revogado.)
+
+14 - As instituições de crédito e sociedades financeiras que intervenham nas operações previstas na alínea b) do n.º 1 do artigo 10.º relativas a valores mobiliários devem entregar aos sujeitos passivos, no prazo previsto na alínea b) do n.º 1, documento onde identifique, relativamente aos títulos transacionados, a quantidade, a data e o valor histórico de aquisição e o valor de realização.
+
+15 - Para efeitos do disposto no número anterior, nas situações em que a data e o valor histórico de aquisição sejam desconhecidos é aplicável o disposto na parte final da alínea a) do artigo 48.º

@@ -24,10 +24,14 @@ b) A data de aquisição de ações resultantes da transformação de sociedade 
 
 c) A data de aquisição das ações da sociedade oferente em oferta pública de aquisição lançada nos termos do Código dos Valores Mobiliários cuja contrapartida consista naquelas ações, dadas à troca, é a data da aquisição das ações das sociedades visadas na referida oferta pública de aquisição;
 
-d) Tratando-se de valores mobiliários da mesma natureza e que confiram idênticos direitos, os alienados são os adquiridos há mais tempo;
+d) Tratando-se de valores mobiliários da mesma natureza e que confiram idênticos direitos, os alienados são os adquiridos há mais tempo, sem prejuízo do disposto no n.º 7;
 
 e) Nas permutas de partes de capital nas condições mencionadas no n.º 5 do artigo 73.º e no n.º 2 do artigo 77.º do Código do IRC, o período de detenção corresponde ao somatório dos períodos em que foram detidas as partes de capital entregues e as recebidas em troca;
 
 f) O regime da alínea anterior é aplicável, com as necessárias adaptações, à aquisição de partes sociais nos casos de fusão ou cisão a que seja aplicável o artigo 74.º do Código do IRC.
 
-7 - Para o apuramento das mais-valias ou menos-valias realizadas em operações entre um sujeito passivo e uma entidade com a qual esteja numa situação de relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, devem ser contratados, aceites e praticados termos ou condições substancialmente idênticos aos que normalmente seriam contratados, aceites e praticados entre entidades independentes em operações comparáveis, aplicando-se o regime previsto no artigo 63.º do Código do IRC, com as necessárias adaptações.
+7 - Para efeitos do disposto na alínea d) do número anterior, quando os valores mobiliários estejam depositados em mais do que uma instituição de crédito ou sociedade financeira, a regra aí prevista é aplicável por referência a cada uma dessas entidades.
+
+8 - No caso de transferência de valores mobiliários, entre entidades referidas no número anterior, deve a entidade da qual os valores mobiliários são transferidos indicar, sempre que possível, à entidade que os receciona a data de aquisição e o valor histórico de aquisição dos valores mobiliários transferidos.
+
+9 - Para o apuramento das mais-valias ou menos-valias realizadas em operações entre um sujeito passivo e uma entidade com a qual esteja numa situação de relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC, devem ser contratados, aceites e praticados termos ou condições substancialmente idênticos aos que normalmente seriam contratados, aceites e praticados entre entidades independentes em operações comparáveis, aplicando-se o regime previsto no artigo 63.º do Código do IRC, com as necessárias adaptações.

@@ -34,6 +34,8 @@ o) Os rendimentos derivados do exercício, em território português, da ativida
 
 p) As mais-valias resultantes da transmissão onerosa de partes de capital ou de direitos similares em sociedades ou outras entidades, não abrangidas pela alínea i), quando, em qualquer momento durante os 365 dias anteriores, o valor dessas partes de capital ou direitos resulte, direta ou indiretamente, em mais de 50 %, de bens imóveis ou direitos reais sobre bens imóveis situados em território português, com exceção dos bens imóveis afetos a uma atividade de natureza agrícola, industrial ou comercial que não consista na compra e venda de bens imóveis.
 
+q) As mais-valias resultantes de cessão onerosa de direitos, de qualquer natureza, sobre uma estrutura fiduciária, desde que, em qualquer momento durante os 365 dias anteriores à transmissão, o valor dessa estrutura resulte, direta ou indiretamente, em mais de 50 % de bens imóveis ou direitos reais sobre bens imóveis situados em território português.
+
 2 - Entende-se por estabelecimento estável qualquer instalação fixa ou representação permanente através da qual seja exercida uma das atividades previstas no artigo 3.º
 
 3 - É aplicável ao IRS o disposto nos n.os 4 e 5 do artigo 4.º e nos n.os 2 a 11 do artigo 5.º, ambos do Código do IRC, com as necessárias adaptações.

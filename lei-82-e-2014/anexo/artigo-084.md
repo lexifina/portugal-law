@@ -18,4 +18,4 @@ b) Que tenham sido objeto de comunicação nos termos do n.º 3.
 
 4 - O disposto no número anterior é igualmente aplicável, com as necessárias adaptações, às prestações de serviços e transmissões de bens efetuadas pelas entidades a que se refere a subalínea ii) da alínea b) do n.º 6 do artigo 78.º, exceto quando emitam e comuniquem faturas.
 
-5 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
+5 - Os n.os 2 a 6 e 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo, sem prejuízo do disposto no artigo 78.º-G.

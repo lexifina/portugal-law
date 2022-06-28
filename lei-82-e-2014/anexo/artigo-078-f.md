@@ -30,4 +30,4 @@ c) À mesma pessoa coletiva de utilidade pública que desenvolva atividades de n
 
 5 - Nas atividades previstas no n.º 1 consideram-se abrangidas as atividades equivalentes previstas na tabela a que se refere o artigo 151.º.
 
-6 - O disposto na alínea e) do n.º 1 inclui a aquisição de medicamentos de uso veterinário, concorrendo para o limite referido no n.º 1 um montante correspondente a 22,5 % do IVA suportado por qualquer membro do agregado familiar.
+6 - O disposto na alínea e) do n.º 1 inclui a aquisição de medicamentos de uso veterinário, concorrendo para o limite referido no n.º 1 um montante correspondente a 35 % do IVA suportado por qualquer membro do agregado familiar.

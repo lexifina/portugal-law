@@ -30,7 +30,7 @@ b) Os filhos, adotados e enteados, maiores, bem como aqueles que até à maiorid
 
 c) Os filhos, adotados, enteados e os sujeitos a tutela, maiores, inaptos para o trabalho e para angariar meios de subsistência;
 
-d) Os afilhados civis.
+d) Os afilhados civis que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos a quem incumbe a direção do agregado familiar, que não tenham mais de 25 anos nem aufiram anualmente rendimentos superiores ao valor da retribuição mínima mensal garantida.
 
 6 - O disposto no número anterior não prejudica a tributação autónoma das pessoas nele referidas, exceto se, tratando-se de filhos, adotados e enteados, menores não emancipados, bem como de menores sob tutela, a administração dos rendimentos por eles auferidos não lhes pertencer na totalidade.
 

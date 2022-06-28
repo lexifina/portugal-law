@@ -68,8 +68,10 @@ f) Importações ou aquisições intracomunitárias de bens e serviços relacion
 
 15 - Para efeitos da afetação à atividade empresarial ou profissional das despesas e encargos referidos no n.º 13, o sujeito passivo deve identificar:
 
-a) As faturas e outros documentos referidos nas alíneas c) e e) do n.º 13, que titulam despesas e encargos relacionados exclusiva ou parcialmente com a sua atividade empresarial ou profissional, através do Portal das Finanças, sendo aplicável com as necessárias adaptações o disposto nos n.os 2 a 8 do artigo 78.º-B;
+a) As faturas e outros documentos referidos nas alíneas c) e e) do n.º 13, que titulem despesas e encargos relacionados exclusiva ou parcialmente com a sua atividade empresarial ou profissional, através do Portal das Finanças, sendo aplicável com as necessárias adaptações o disposto nos n.os 2 a 6 e 8 do artigo 78.º-B;
 
 b) Os imóveis afetos exclusiva ou parcialmente à sua atividade empresarial ou profissional e, de entre estas, a afetação a atividades hoteleiras ou de alojamento local, através do Portal das Finanças;
 
-c) As importações e aquisições intracomunitárias de bens efetuadas, específica e exclusivamente, no âmbito da sua atividade empresarial ou profissional são indicadas na declaração de rendimentos prevista no artigo 57.º
+c) As importações e aquisições intracomunitárias de bens e serviços efetuadas, específica e exclusivamente, no âmbito da sua atividade empresarial ou profissional são indicadas na declaração de rendimentos prevista no artigo 57.º
+
+16 - Sem prejuízo do disposto na alínea a) do número anterior, o sujeito passivo pode, na declaração de rendimentos a que se refere o artigo 57.º, declarar o valor das despesas e encargos aí referidos, bem como as despesas e encargos referidos na alínea b) do n.º 13, caso em que, o uso desta faculdade determina a consideração dos valores que sejam declarados pelo sujeito passivo, os quais substituem os que tenham sido comunicados pela Autoridade Tributária e Aduaneira nos termos da lei, não dispensando, porém, o cumprimento da obrigação de comprovar os montantes declarados nos termos gerais do artigo 128.º

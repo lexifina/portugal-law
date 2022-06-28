@@ -20,7 +20,7 @@ b) Que foram comunicados utilizando os meios descritos no n.º 5 do artigo 115.�
 
 c) Que constem de outros documentos, no caso de prestações de serviços e transmissões de bens efetuadas pelas entidades a que se refere a subalínea ii) da alínea b) do n.º 6 do artigo 78.º
 
-3 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
+3 - Os n.os 2 a 6 e 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo, sem prejuízo do disposto no artigo 78.º-G.
 
 4 - Não obstante o disposto na alínea a) do n.º 1, o limite da dedução à coleta aí previsto é elevado para os seguintes montantes, sendo o rendimento coletável, no caso de tributação conjunta, o que resultar da aplicação do divisor previsto no artigo 69.º:
 

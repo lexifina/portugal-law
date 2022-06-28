@@ -32,6 +32,8 @@ h) Cessão onerosa de créditos, prestações acessórias e prestações supleme
 
 i) Afetação de quaisquer bens do património particular, com exceção dos bens imóveis, a atividade empresarial e profissional exercida em nome individual pelo seu proprietário.
 
+j) Cessão onerosa de direitos sobre estruturas fiduciárias, incluindo a cessão onerosa da posição de beneficiário.
+
 2 - (Revogado.)
 
 3 - Os ganhos consideram-se obtidos no momento da prática dos atos previstos no n.º 1, sem prejuízo do disposto nas alíneas seguintes:

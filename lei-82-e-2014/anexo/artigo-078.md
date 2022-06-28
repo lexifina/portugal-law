@@ -50,13 +50,11 @@ ii) Outro documento, quando o fornecedor dos bens ou prestador dos serviços est
 
 a) Para contribuintes que tenham um rendimento coletável igual ou inferior ao valor do 1.º escalão do n.º 1 artigo 68.º, sem limite;
 
-b) Para contribuintes que tenham um rendimento coletável superior ao valor do 1.º escalão e igual ou inferior ao valor do último escalão do n.º 1 do artigo 68.º, o limite resultante da aplicação da seguinte fórmula:
+b) Para contribuintes que tenham um rendimento coletável superior ao valor do primeiro escalão do n.º 1 do artigo 68.º e igual ou inferior ao valor mínimo do primeiro escalão do n.º 1 do artigo 68.º-A, o limite resultante da aplicação da seguinte fórmula:
 
-(euro) 1 000 + [(euro) 2 500 - (euro) 1 000) x [valor do último escalão - Rendimento Coletável]]
+(ver documento original)
 
-valor do último escalão - valor do primeiro escalão;
-
-c) Para contribuintes que tenham um rendimento coletável superior ao valor do último escalão do n.º 1 do artigo 68.º, o montante de (euro) 1 000.
+c) Para contribuintes que tenham um rendimento coletável superior ao valor mínimo do primeiro escalão do n.º 1 do artigo 68.º-A, o montante de 1000 (euro).
 
 8 - Nos agregados com três ou mais dependentes a seu cargo, os limites previstos no número anterior são majorados em 5 % por cada dependente ou afilhado civil que não seja sujeito passivo do IRS.
 
