@@ -27,3 +27,13 @@ d) Redução a metade das taxas devidas pela avaliação do estado de conservaç
 6 - A prorrogação da isenção prevista na alínea a) do n.º 2 está dependente de deliberação da assembleia municipal, sob proposta da câmara municipal, nos termos do n.º 2 do artigo 16.º do Regime Financeiro das Autarquias Locais e das Entidades Intermunicipais, sendo o respetivo reconhecimento efetuado pela câmara municipal nos termos do n.º 4 do presente artigo.
 
 7 - O regime previsto no presente artigo não é cumulativo com outros benefícios fiscais de idêntica natureza, não prejudicando, porém, a opção por outro mais favorável.
+
+8 - A isenção prevista na alínea c) do n.º 2 fica sem efeito se:
+
+a) Aos imóveis for dado destino diferente daquele em que assentou o benefício, no prazo de seis anos a contar da data da transmissão; ou
+
+b) Os imóveis não forem afetos a habitação própria e permanente no prazo de seis meses a contar da data da transmissão; ou
+
+c) Os imóveis não forem objeto da celebração de um contrato de arrendamento para habitação permanente no prazo de um ano a contar da data da transmissão.
+
+9 - No caso de a isenção ficar sem efeito, nos termos do disposto no número anterior, o sujeito passivo deve solicitar à Autoridade Tributária e Aduaneira a liquidação do respetivo imposto, no prazo de 30 dias, através de declaração de modelo oficial.

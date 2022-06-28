@@ -48,7 +48,7 @@ b) Acompanhado de documento emitido pelas autoridades competentes do respetivo E
 
 9 - Para efeitos da contagem do prazo referido no número anterior, considera-se que o mesmo se suspende sempre que o procedimento estiver parado por motivo imputável ao requerente.
 
-10 - No caso de rendimentos decorrentes de unidades de participação adquiridas em mercado secundário, o adquirente deve comunicar à entidade registadora ou depositária, ou, na ausência destas, à entidade responsável pela gestão ou ao organismo de investimento coletivo sob a forma societária, a data e o valor de aquisição.
+10 - No caso de rendimentos decorrentes de unidades de participação adquiridas em mercado secundário ou adquiridas a título gratuito, o adquirente deve comunicar à entidade registadora ou depositária, ou, na ausência destas, à entidade responsável pela gestão ou ao organismo de investimento coletivo sob a forma societária, a data e o valor de aquisição ou o valor que tenha sido considerado para efeitos de liquidação de imposto do selo ou que serviria de base à liquidação de imposto do selo, caso este fosse devido.
 
 11 - Em caso de incumprimento da obrigação prevista no número anterior, a retenção na fonte sobre os rendimentos decorrentes de resgate das unidades de participação é efetuada sobre o montante bruto do resgate.
 

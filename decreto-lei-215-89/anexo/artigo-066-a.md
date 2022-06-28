@@ -50,6 +50,8 @@ b) Os rendimentos resultantes das quotas pagas pelas cooperativas associadas e c
 
 13 - As cooperativas estão isentas de imposto do selo sobre os actos, contratos, documentos, títulos e outros factos, incluindo as transmissões gratuitas de bens, quando este imposto constitua seu encargo.
 
-14 - As isenções e demais benefícios previstos neste artigo aplicam-se às cooperativas de primeiro grau, de grau superior e às régies cooperativas, desde que constituídas, registadas e funcionando nos termos do Código Cooperativo e demais legislação aplicável.
+14 - O disposto no presente artigo não é aplicável às instituições de crédito, sociedades financeiras, empresas de seguros e resseguros ou a outras entidades a elas legalmente equiparadas.
 
 15- (Revogado).
+
+16 - As isenções e demais benefícios previstos neste artigo aplicam-se às cooperativas de primeiro grau, de grau superior e às régies cooperativas, desde que constituídas, registadas e funcionando nos termos do Código Cooperativo e demais legislação aplicável.
