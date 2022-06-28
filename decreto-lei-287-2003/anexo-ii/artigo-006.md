@@ -14,7 +14,7 @@ b) Os Estados estrangeiros pela aquisição de edifícios destinados exclusivame
 
 c) As constantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, que são mantidas nos termos da respectiva lei;
 
-d) As pessoas colectivas de utilidade pública administrativa e de mera utilidade pública, quanto aos bens destinados, directa e imediatamente, à realização dos seus fins estatutários;
+d) As pessoas coletivas com estatuto de utilidade pública, quanto aos bens destinados, direta e imediatamente, à realização dos seus fins estatutários;
 
 e) As instituições particulares de solidariedade social e entidades a estas legalmente equiparadas, quanto aos bens destinados, directa e imediatamente, à realização dos seus fins estatutários;
 

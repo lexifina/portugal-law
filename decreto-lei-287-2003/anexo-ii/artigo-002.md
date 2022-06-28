@@ -42,18 +42,20 @@ a) A resolução, invalidade ou extinção, por mútuo consenso, do contrato de 
 
 b) As permutas, pela diferença declarada de valores ou pela diferença entre os valores patrimoniais tributários, consoante a que for maior;
 
-c) O excesso da quota-parte que ao adquirente pertencer, nos bens imóveis, em acto de divisão ou partilhas, bem como a alienação da herança ou quinhão hereditário;
+c) O excesso da quota-parte que ao adquirente pertencer, nos bens imóveis, em ato de divisão ou partilhas, bem como a alienação da herança ou quinhão hereditário ou do direito à meação;
 
 d) A venda ou cessão do direito a determinadas águas, ainda que sob a forma de autorização para as explorar ou para minar em terreno alheio;
 
-e) As entradas dos sócios com bens imóveis para a realização do capital das sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica, as entregas de bens imóveis dos participantes no ato de subscrição de unidades de participação de fundos de investimento imobiliário fechados de subscrição particular e, bem assim, a adjudicação dos bens imóveis aos sócios na liquidação dessas sociedades e a adjudicação de bens imóveis como reembolso em espécie de unidades de participação decorrente da liquidação de fundos de investimento imobiliário fechados de subscrição particular;
+e) As entradas dos sócios com bens imóveis para a realização do capital e para a realização de prestações acessórias à obrigação de entrada de capital das sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica, as entregas de bens imóveis dos participantes no ato de subscrição de unidades de participação de fundos de investimento imobiliário fechados de subscrição particular;
 
-f) As entradas dos sócios com bens imóveis para a realização do capital das restantes sociedades civis, na parte em que os outros sócios adquirirem comunhão, ou qualquer outro direito, nesses imóveis, bem como, nos mesmos termos, as cessões de partes sociais ou de quotas ou a admissão de novos sócios;
+f) A adjudicação dos bens imóveis aos sócios na liquidação, redução de capital e no reembolso de prestações acessórias ou outras formas de cumprimento de obrigações pelas sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica, e a adjudicação de bens imóveis aos participantes como reembolso em espécie de unidades de participação decorrente do resgate das unidades de participação, da liquidação e da redução de capital de fundos de investimento imobiliário fechados de subscrição particular;
 
-g) As transmissões de bens imóveis por fusão ou cisão das sociedades referidas na alínea e), ou por fusão de tais sociedades entre si ou com sociedade civil, bem como por fusão de fundos de investimento imobiliário fechados de subscrição particular;
+g) As entradas dos sócios com bens imóveis para a realização do capital das restantes sociedades civis, na parte em que os outros sócios adquirirem comunhão, ou qualquer outro direito, nesses imóveis, bem como, nos mesmos termos, as cessões de partes sociais ou de quotas ou a admissão de novos sócios;
 
-h) As transmissões de benfeitorias e as aquisições de bens imóveis por acessão.
+h) As transmissões de bens imóveis por fusão ou cisão das sociedades referidas nas alíneas e) e f), ou por fusão de tais sociedades entre si ou com sociedade civil, bem como por fusão de fundos de investimento imobiliário fechados de subscrição particular;
 
-6 - O disposto na alínea c) do número anterior não é aplicável sempre que o excesso da quota-parte resultar de acto de partilha por efeito de dissolução do casamento que não tenha sido celebrado sob o regime de separação de bens.
+i) As transmissões de benfeitorias e as aquisições de bens imóveis por acessão.
+
+6 - O disposto na alínea c) do número anterior não é aplicável aos ex-cônjuges sempre que o excesso da quota-parte resultar de ato de partilha por efeito de dissolução do casamento que não tenha sido celebrado sob o regime de separação de bens.
 
 7 - O disposto na alínea d) do n.º 2 não é aplicável às sociedades previstas na alínea f) do artigo 4.º do Regime Jurídico do Registo Central do Beneficiário Efetivo, aprovado em anexo à Lei n.º 89/2017, de 21 de agosto.
