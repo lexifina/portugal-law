@@ -26,6 +26,8 @@ Veículos a gasóleo
 
 (ver documento original)
 
+Componente ambiental
+
 Aplicável a veículos com emissões de CO(índice 2) resultantes dos testes realizados ao abrigo do Procedimento Global de Testes Harmonizados de Veículos Ligeiros (Worldwide Harmonized Light Vehicle Test Procedure - WLTP)
 
 Veículos a gasolina

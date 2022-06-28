@@ -4,21 +4,21 @@
 
 1 - As missões diplomáticas e consulares acreditadas em Portugal e os respectivos funcionários beneficiam do regime de admissão ou importação temporária, para os veículos de sua propriedade, incluindo os adquiridos em Portugal, em regime de reciprocidade, dentro dos seguintes limites:
 
-a) Para cada missão diplomática ou consular, os automóveis necessários ao seu serviço oficial, em número máximo de unidades fixado pelo Ministério dos Negócios Estrangeiros;
+a) Para cada missão diplomática ou consular, os automóveis ou motociclos necessários ao seu serviço oficial, em número máximo de unidades fixado pelo Ministério dos Negócios Estrangeiros;
 
-b) Até três automóveis, para os chefes de missão diplomática;
+b) Até três veículos, automóveis ou motociclos, para os chefes de missão diplomática;
 
-c) Um automóvel para cada um dos demais funcionários constantes da lista do corpo diplomático, ou o máximo de dois, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;
+c) Um automóvel ou motociclo para cada um dos demais funcionários constantes da lista do corpo diplomático, ou o máximo de dois, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;
 
-d) Um automóvel para os cônsules de carreira, ou o máximo de dois, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;
+d) Um automóvel ou motociclo para os cônsules de carreira, ou o máximo de dois, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;
 
-e) Um automóvel por cada funcionário administrativo ou técnico das missões diplomáticas ou dos postos consulares que não tenha em Portugal residência permanente.
+e) Um automóvel ou motociclo por cada funcionário administrativo ou técnico das missões diplomáticas ou dos postos consulares que não tenha em Portugal residência permanente.
 
-2 - Os veículos devem ser adquiridos, admitidos ou importados temporariamente, no prazo máximo de um ano após a chegada do interessado ao território nacional, e são registados nos serviços do Protocolo do Ministério dos Negócios Estrangeiros em nome dos funcionários a que pertencem, considerando-se no regime enquanto se mantiverem ao serviço efectivo das entidades referidas no número anterior.
+2 - Os automóveis ou motociclos devem ser adquiridos, admitidos ou importados temporariamente, no prazo máximo de um ano após a chegada do interessado ao território nacional, e são registados nos serviços do Protocolo do Ministério dos Negócios Estrangeiros em nome dos funcionários a que pertencem, considerando-se no regime enquanto se mantiverem ao serviço efetivo das entidades referidas no número anterior.
 
-3 - A aplicação do regime depende da apresentação de pedido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, a realizar no prazo máximo de 30 dias após a entrada em território nacional, acompanhado pela documentação comprovativa dos respectivos pressupostos, de título definitivo do automóvel ou factura comercial, e de comprovativo de franquia emitida pelo Ministério dos Negócios Estrangeiros.
+3 - A aplicação do regime depende da apresentação de pedido ao diretor-geral da Autoridade Tributária e Aduaneira, a realizar no prazo máximo de seis meses após a entrada em território nacional, acompanhado pela documentação comprovativa dos respetivos pressupostos, de título definitivo do automóvel ou motociclo ou fatura comercial, e de comprovativo de franquia emitida pelo Ministério dos Negócios Estrangeiros.
 
-4 - No caso de se verificar a transferência de propriedade do automóvel admitido ou importado temporariamente entre as entidades referidas no n.º 1, o número de matrícula é aquele que seja atribuído ao novo proprietário.
+4 - No caso de se verificar a transferência de propriedade do automóvel ou motociclo admitido ou importado temporariamente entre as entidades referidas no n.º 1, o número de matrícula é aquele que seja atribuído ao novo proprietário.
 
 5 - Quando as pessoas mencionadas nas alíneas b) a e) do n.º 1 cessem funções em Portugal sem que se tenha verificado a transferência de propriedade prevista no número anterior, são cancelados os registos dos respectivos automóveis.
 

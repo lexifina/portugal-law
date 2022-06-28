@@ -20,7 +20,7 @@ c) Os veículos declarados perdidos ou abandonados a favor do Estado ou adquirid
 
 d) Os veículos automóveis, com lotação igual ou superior a sete lugares, incluindo o do condutor, adquiridos pelos municípios e freguesias, mesmo que em sistema de leasing, para transporte de crianças em idade escolar do ensino básico.
 
-e) Os veículos adquiridos para o exercício de funções operacionais das equipas de sapadores florestais e da força de sapadores bombeiros florestais pelo Instituto da Conservação da Natureza e das Florestas, I. P., bem como os veículos adquiridos pelas corporações de bombeiros para o cumprimento das missões de proteção civil, nomeadamente socorro, assistência, apoio e combate a incêndios;
+e) Os veículos adquiridos para o exercício de funções operacionais das equipas de sapadores florestais e da força de sapadores bombeiros florestais pelo Instituto da Conservação da Natureza e das Florestas, I. P., e os veículos adquiridos para o exercício de funções operacionais da estrutura operacional e da Força Especial de Proteção Civil pela Autoridade Nacional de Emergência e Proteção Civil, bem como os veículos adquiridos pelas corporações de bombeiros para o cumprimento das missões de proteção civil, nomeadamente socorro, assistência, apoio e combate a incêndios;
 
 f) Os veículos adquiridos para o exercício de funções operacionais pela Agência para a Gestão Integrada de Fogos Rurais, I. P. (AGIF, I. P.), quando afetos exclusivamente ao apoio preventivo e combate a incêndios.
 
