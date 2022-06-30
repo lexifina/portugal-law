@@ -1,0 +1,293 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "207",
+  "id": "131707",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-06-30",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304e546b774f5759314e6930344f444e6b4c5451344e4745744f47466c5969316d4f4468684e6a64685a6a67784e5441756347526d&fich=45909f56-883d-484a-8aeb-f88a67af8150.pdf&Inline=true",
+        "anexoNome": "AIG"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "132",
+        "nome": "Rui Rio"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3918",
+        "nome": "Paula Cardoso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7325",
+        "nome": "Carlos Cação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6537",
+        "nome": "Paulo Moniz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6909",
+        "nome": "Fernanda Velez"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7011",
+        "nome": "Gabriela Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7329",
+        "nome": "António Topa Gomes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2665",
+        "nome": "Jorge Paulo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1933",
+        "nome": "Alexandre Simões"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6176",
+        "nome": "Sara Madruga da Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7351",
+        "nome": "Francisco Pimentel"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7366",
+        "nome": "Ricardo Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4094",
+        "nome": "Maria Emília Apolinário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4304",
+        "nome": "Bruno Coimbra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7274",
+        "nome": "Hugo Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6531",
+        "nome": "Mónica Quintela"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5693",
+        "nome": "Rui Cristina"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7352",
+        "nome": "Guilherme Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1992",
+        "nome": "Pedro Roque"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1905",
+        "nome": "Fernando Negrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6595",
+        "nome": "Márcia Passos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4396",
+        "nome": "Andreia Neto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6935",
+        "nome": "Isabel Meireles"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7007",
+        "nome": "Carla Madureira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6853",
+        "nome": "António Maló de Abreu"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6529",
+        "nome": "Cláudia André"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4216",
+        "nome": "João Montenegro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7371",
+        "nome": "João Barbosa de Melo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7388",
+        "nome": "Inês Barroso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4055",
+        "nome": "Olga Silvestre"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7381",
+        "nome": "Cristiana Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7128",
+        "nome": "Sofia Matos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4397",
+        "nome": "Afonso Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6871",
+        "nome": "Cláudia Bento"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1910",
+        "nome": "Gustavo Duarte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6857",
+        "nome": "Hugo Patrício Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6544",
+        "nome": "Isaura Morais"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5492",
+        "nome": "Rui Cruz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7335",
+        "nome": "Sónia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7382",
+        "nome": "Patrícia Dantas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7969",
+        "nome": "Tiago Moreira de Sá"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7403",
+        "nome": "Hugo Maravilha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1580",
+        "nome": "Firmino Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5985",
+        "nome": "Firmino Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7240",
+        "nome": "Alexandre Poço"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4439",
+        "nome": "António Prôa"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "131707",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324f544d32597a67305a433031596a51774c5451334d6d4d744f574e6c4e6930794e47466a4e324a68596d4a685a6a49755a47396a&fich=6936c84d-5b40-472c-9ce6-24ac7babbaf2.doc&Inline=true",
+    "IniNr": "207",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Regime de compensações para os cidadãos lesados pelos atrasos no pagamento das pensões de velhice em relação aos prazos legalmente previstos",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
