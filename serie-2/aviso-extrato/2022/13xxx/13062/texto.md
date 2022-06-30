@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 13062/2022
+Sumário: Regulamento e tabela geral de taxas e licenças da Freguesia de Covelas.
+Regulamento e Tabela Geral de Taxas e Licenças da Freguesia de Covelas
+Alexandra Filipa Campos Ferreira, Presidente da Freguesia de Covelas, torna público, nos termos do disposto no artigo 139.º do Código de Procedimento e Administrativo aprovado pelo anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, e para efeitos do disposto na alínea h) do n.º 1, do artigo 16.º e alínea f) do n.º 1 do artigo 9.º, ambos da Lei n.º 75/2013, de 12 de setembro, e tendo em vista o estabelecido nos artigos 23.º e 24.º da Lei que estabelece o Regime Financeiro das Autarquias Locais, (Lei n.º 73/2013, de 3 de setembro) e no Regime Geral de Taxas das Autarquias locais (Lei n.º 53-E/2006, de 29 de dezembro), que o Regulamento e Tabela Geral de Taxas e Licenças da Freguesia de Covelas, cujo projeto foi submetido a consulta pública mediante publicação no Diário da República, 2.ª série, n.º 97 de 19 de maio de 2022, sob o Aviso (extrato) n.º 10177/2022, após o decurso do prazo, conforme consta do Edital n.º 001/2022, datado de 2022/05/19, não se registando qualquer sugestão ou reclamação, foi aprovado pela Assembleia da Freguesia de Covelas.
+Mais torna público, para geral conhecimento, que o mesmo será afixado nos lugares de estilo, bem como no sítio eletrónico desta Freguesia www.jf-covelas.pt.
+20 de junho de 2022. - A Presidente da Junta de Freguesia, Alexandra Filipa Campos Ferreira.
+315434391
