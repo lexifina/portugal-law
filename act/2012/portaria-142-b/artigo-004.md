@@ -20,7 +20,7 @@ f) Noutras situações clínicas devidamente justificadas pelo médico assistent
 
 3 - As situações de prestação de cuidados de saúde de forma prolongada e continuada nos termos referidos nos números anteriores deverá ser objeto de prescrição única.
 
-4 - O transporte não urgente de doentes nos casos previstos nos n.os 1 e 2 é efetuado em ambulância ou em VTSD de acordo com o disposto nos n.os 2 e 3 do artigo 3.º
+4 - O transporte não urgente de doentes nos casos previstos nos n.os 1 e 2 é efetuado em ambulância ou em VDTD, de acordo com o disposto nos n.os 2 e 3 do artigo 3.º.
 
 5 - (Revogado).
 
