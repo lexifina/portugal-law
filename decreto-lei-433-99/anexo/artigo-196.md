@@ -6,7 +6,7 @@
 
 ### Pagamento em prestações e outras medidas
 
-1 - As dívidas exigíveis em processo executivo podem ser pagas em prestações mensais e iguais, mediante requerimento a dirigir, até à marcação da venda, ao órgão da execução fiscal.
+1 - As dívidas exigíveis em processo executivo podem ser pagas em prestações mensais e iguais, mediante requerimento a dirigir, até à marcação da venda, ao órgão da execução fiscal, sem prejuízo do disposto no artigo 198.º-A.
 
 2 - O disposto no número anterior não é aplicável às dívidas resultantes da falta de entrega, dentro dos respetivos prazos legais, de imposto retido na fonte ou legalmente repercutido a terceiros, salvo em caso de falecimento do executado.
 
