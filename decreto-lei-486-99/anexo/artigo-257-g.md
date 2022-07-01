@@ -32,7 +32,7 @@ b) À CMVM, enquanto autoridade competente da plataforma de negociação, quando
 
 6 - O reporte referido no n.º 4 é efetuado nos termos definidos na legislação da União Europeia.
 
-7 - O reporte referido no n.º 4 é efetuado nos termos definidos em regulamentação e atos delegados da Diretiva 2014/65/EU, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, do artigo 26.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e, quando aplicável, nos termos do artigo 8.º da Regulamento (UE) n.º 1227/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011.
+7 - O reporte referido no n.º 5 é efetuado nos termos definidos na legislação e regulamentação da União Europeia.
 
 8 - Os membros ou participantes de uma plataforma de negociação comunicam diariamente, à respetiva entidade gestora, informação sobre as posições detidas em instrumentos financeiros derivados de mercadorias ou licenças de emissão e respetivos derivados negociados nessa plataforma, incluindo posições de clientes até ao respetivo beneficiário efetivo.
 
