@@ -20,14 +20,10 @@ d) Uma câmara de compensação;
 
 e) Um operador de sistema; ou
 
-f) Um membro compensador de uma CCP autorizada nos termos do artigo 17.º do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012; ou
-
-g) Um participante indirecto.
+f) Um participante indirecto.
 
 3 - O participante indirecto só é considerado participante de um sistema se o Banco de Portugal entender, nos casos dos sistemas referidos na alínea a) do n.º 1, que a qualidade de participante se justifica em razão do risco sistémico e desde que o participante seja conhecido do sistema.
 
 4 - Um participante é indirecto sempre que se encontre ligado a outro participante num sistema por uma relação contratual, notificada ao operador do sistema de acordo com as regras deste, sendo-lhe permitido executar ordens de transferência através do sistema do participante.
 
-5 - Para efeitos do número anterior, a existência de um participante indireto não limita a responsabilidade do participante através do qual o participante indireto transmite ordens de transferência ao sistema.
-
-6 - De acordo com as regras do sistema, o mesmo participante pode atuar como contraparte central, agente de liquidação ou câmara de compensação ou exercer uma parte ou a totalidade dessas funções.
+5 - A qualidade de participante indirecto nos termos do número anterior depende da responsabilidade pela introdução das ordens de transferência no sistema referidas se manter no participante.
