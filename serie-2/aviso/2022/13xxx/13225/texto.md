@@ -1,0 +1,8 @@
+Aviso n.º 13225/2022
+Sumário: Projeto de regulamento da Reserva Natural Local da Foz do Almargem e do Trafal.
+Projeto de Regulamento da Reserva Natural Local da Foz do Almargem e do Trafal
+Vítor Manuel Gonçalves Aleixo, Presidente da Câmara Municipal de Loulé, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 100.º e no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião ordinária realizada no dia 21 de março de 2022 e na reunião extraordinária da Assembleia Municipal de 23 de maio de 2022, submeter a audiência dos interessados e a consulta pública, pelo prazo de 30 dias úteis, contados do dia seguinte ao da publicação do presente aviso do Projeto de Regulamento da Reserva Natural Local da Foz do Almargem e do Trafal.
+Os documentos encontram-se disponíveis para consulta online na página do Município em www.cm-loule.pt, bem como no portal participa em https://participa.pt/. A consulta presencial dos documentos poderá ser feita durante o horário normal de expediente no Edifício-Sede da Câmara Municipal de Loulé, sito na Praça da República, S/n, 8104-001 Loulé e no Centro Autárquico de Quarteira, sito na Rua Vasco da Gama, n.º 85, R/c, 8125-256 Quarteira.
+Durante o referido período os interessados poderão apresentar as suas observações e sugestões diretamente no Portal Participa, ou através de correio eletrónico para o endereço ambiente@cm-loule.pt ou por correio postal dirigido ao Presidente da Câmara Municipal de Loulé para a morada do Edifício-Sede acima referida, ou ainda em documento apropriado nos locais acima mencionados.
+23 de junho de 2022. - O Presidente da Câmara Municipal de Loulé, Vítor Manuel Gonçalves Aleixo.
+315447068
