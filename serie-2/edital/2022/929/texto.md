@@ -1,0 +1,9 @@
+Edital n.º 929/2022
+Sumário: Abertura de período de consulta pública do projeto do Regulamento de Salvaguarda das Aldeias Serranas do Município de Pombal.
+Abertura de período de consulta pública do projeto do Regulamento de Salvaguarda das Aldeias Serranas do Município de Pombal
+Pedro Alexandre Antunes Faustino Pimpão dos Santos, Presidente da Câmara Municipal de Pombal, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, em cumprimento e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo (C.P.A.), aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, torna público que o órgão Câmara Municipal deliberou, em sua reunião realizada no dia 04 de novembro de 2021, submeter a consulta pública o projeto do Regulamento de Salvaguarda das Aldeias Serranas do Município de Pombal, para recolha de sugestões, por um período de 30 dias úteis, a contar da data presente publicação na 2.ª série do Diário da República.
+Durante o referido período, os interessados poderão consultar o mencionado projeto de Regulamento na Divisão de Urbanismo, Planeamento e Reabilitação Urbana, durante o período de expediente e permanentemente na página eletrónica do Município de Pombal (www.cm-Pombal.pt).
+Assim, nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo (CPA), convidam-se todos(as) os(as) interessados(as) a dirigir por escrito, as suas sugestões, ao Presidente da Câmara Municipal, para Largo do Cardal, 3100-440 Pombal, ou ainda, através de correio eletrónico para o endereço: geral@cm-pombal.pt.
+Para constar e produzir efeitos legais se publica este Edital na 2.ª série do Diário da República e outros de igual teor, que vão ser afixados nos lugares públicos de estilo.
+15 de junho de 2022. - O Presidente da Câmara, Pedro Pimpão, Dr.
+315443674
