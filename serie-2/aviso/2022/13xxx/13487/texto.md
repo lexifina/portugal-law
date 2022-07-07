@@ -1,0 +1,22 @@
+Aviso n.º 13487/2022
+Sumário: Reinício do procedimento da 4.ª alteração à 1.ª revisão do Plano Diretor Municipal da Mealhada.
+Reinício do Procedimento da 4.ª Alteração à 1.ª Revisão do PDM de Mealhada
+António Jorge Fernandes Franco, Presidente da Câmara Municipal de Mealhada, torna público, nos termos do disposto no n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal deliberou, por unanimidade, em reunião pública, de 13 de junho de 2022, reiniciar o procedimento relativo à elaboração da 4.ª Alteração da 1.ª Revisão do Plano Diretor Municipal de Mealhada, que deverá estar concluído no prazo de um ano, e aprovar todos os atos e documentos efetuados no âmbito do anterior procedimento.
+Para a participação pública, nos termos do previsto no n.º 2, do artigo 88.º do mesmo diploma, é estabelecido um período de 15 dias úteis, contados a partir da publicação no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página eletrónica da Câmara Municipal da Mealhada em www.cm-mealhada.pt.
+Os interessados podem apresentar eventuais sugestões ou pedidos de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito mediante requerimento sob modelo disponibilizado no sítio da Internet do Município dirigido ao Exmo. Sr. Presidente da Câmara Municipal da Mealhada via postal para a morada - Largo do Município, 3054-001 Mealhada, ou por via eletrónica para gabpresidencia@cm-mealhada.pt., ou através do portal http://participacaopublica.cm-mealhada.pt/, ou presencial no serviço de atendimento da Divisão de Gestão Urbanística e Planeamento Territorial, sita na Urbanização do Choupal, Lote 12C, r/c, (dias úteis, horário: das 9:00h às 12:30h e das 13:30h às 16:00h).
+E, para que conste, mandei publicar este aviso no Diário da República, na comunicação social, na plataforma colaborativa de gestão territorial, no sítio da internet da Câmara Municipal de Mealhada e nos locais de estilo.
+27 de junho de 2022. - O Presidente da Câmara Municipal de Mealhada, António Jorge Fernandes Franco.
+Deliberação
+Reunião de Câmara de 13/06/2022
+Informação n.º 6064/2022 - Reinício do procedimento da 4.ª alteração à 1.ª revisão do PDM de Mealhada
+A Câmara Municipal analisou a Informação n.º 6064/2022, de 02/06/2022, e deliberou, por unanimidade:
+1) Reiniciar o procedimento relativo à elaboração da 4.ª Alteração da 1.ª Revisão do Plano Diretor Municipal de Mealhada, nos termos do estabelecido pelo n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio;
+2) Aproveitar todos os atos praticados no procedimento da 4.ª Alteração da 1.ª Revisão do Plano Diretor Municipal de Mealhada, que caduca no dia 6 de julho de 2022, bem como a utilização de toda a documentação produzida, nomeadamente pareceres emitidos pelas diferentes entidades da administração central que integram a comissão consultiva, desde que os pressupostos de facto e de direito se mantenham atuais e válidos;
+3) Fixar, nos termos e para os efeitos do disposto no artigo 76.º do RJIGT, o prazo de 1 (um) ano para a respetiva conclusão do procedimento, cuja contagem se iniciará a partir da data da publicação da presente deliberação no Diário da República;
+4) Proceder à abertura de um período de participação pública preventiva de 15 (quinze) dias uteis a contar da publicação do aviso no Diário da República, de acordo com o previsto no n.º 1, do artigo 76.º e no n.º 2, do artigo 88.º, do RJIGT, para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração.
+Mais deliberou:
+a) A publicação da deliberação que vier a ser tomada no Diário da República, 2.ª série, para cumprimento do disposto do n.º 1 do artigo 76.º e da alínea c) do n.º 4 do artigo 191.º do RJIGT;
+b) A divulgação através da comunicação social, no sítio da internet, nos boletins municipais e colocado na Plataforma Colaborativa de Gestão Territorial (PCGT), para cumprimento do disposto no n.º 1 do artigo 76.º e no artigo 192.º do RJIGT;
+c) Dar conhecimento à Comissão de Coordenação e Desenvolvimento Regional do Centro do teor da presente deliberação que determina o reinício do procedimento relativo à elaboração da 4.ª Alteração da 1.ª Revisão do Plano Diretor Municipal de Mealhada.
+Mealhada, 13 de junho de 2022. - A Assistente Técnica, Dália Costa.
+615466849
