@@ -1,0 +1,56 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "215",
+    "id": "131718",
+    "titulo": "Prevê o aumento do teto máximo da pena de prisão para 65 anos em crimes de homicídio praticados com especial perversidade, nomeadamente contra crianças"
+  },
+  "fase": "Não admissão",
+  "codigo_fase": "30",
+  "data_registo": "2022-07-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324e6a51334d324d304f53316a4f47457a4c54526b4e6d5574596a45355a53316c4e54426a4e324d77596a4e6b5a6a51755a47396a65413d3d&fich=66473c49-c8a3-4d6e-b19e-e50c7c0b3df4.docx&Inline=true",
+        "anexoNome": "Nota de admissibilidade"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b5a6d4d3559324d774f4330304d7a466c4c5451784d574574596a426c4e6931694e3245344f5751334d474e6b4e444d756347526d&fich=dfc9cc08-431e-411a-b0e6-b7a89d70cd43.pdf&Inline=true",
+        "anexoNome": "Despacho do PAR n.º 36/XV sobre a não admissão do Projeto de Lei"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b4d6d45794e574d324d69316c4e7a41314c5452685a4759744f546c6d4d53316b5a445131596a457a4e574d32593251756347526d&fich=d2a25c62-e705-4adf-99f1-dd45b135c6cd.pdf&Inline=true",
+        "anexoNome": "Recurso do Despacho n.º 36/XV"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334e57453459324e695a6930774f4442694c5451324e3245745954677a4e43307a4e7a566d4f446b775a544933595459756347526d&fich=75a8ccbf-080b-467a-a834-375f890e27a6.pdf&Inline=true",
+        "anexoNome": "Parecer da 1.ª Comissão sobre o recurso"
+      }
+    ],
+    "CodigoFase": "30",
+    "Comissao": null,
+    "DataFase": "2022-07-08",
+    "EvtId": "160",
+    "Fase": "Não admissão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1297927",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
