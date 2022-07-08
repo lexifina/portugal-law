@@ -1,0 +1,150 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "176",
+    "id": "131649",
+    "titulo": "Aprova medidas de reforço da proteção na parentalidade, procedendo para o efeito à décima sexta alteração ao Código do Trabalho e à sexta alteração ao regime jurídico de proteção social na parentalidade no âmbito do sistema previdencial e no subsistema de solidariedade"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2022-07-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "62770",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-09-16",
+            "id": "127638",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-21",
+            "id": "127633",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-22",
+            "id": "127639",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-23",
+            "id": "127640",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-28",
+            "id": "127648",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-29",
+            "id": "127650",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-30",
+            "id": "127654",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-07-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-02-08",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Solicitação de subida a Plenário para votação, na generalidade, dos Projetos de Lei n.ºs 169/XV/1ª (L), 170/XV/1ª (L), 174/XV/1.ª (PAN) e 176/XV/1.ª (PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6d5a474a6b4f5451784c5441314d544d744e4756694e6931684d3256694c5455304f4751324d3251314e6d526c4d6935775a47593d&fich=6fdbd941-0513-4eb6-a3eb-548d63d56de2.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8334",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8334",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-02-08",
+            "dataRemessa": "2023-02-08",
+            "numeroOficio": "10",
+            "observacoes": null,
+            "tipoRemessa": "Informação"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-07-08",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1297987",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "973688",
+        "obs": null,
+        "pag": [
+          "3-122"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-02-10",
+        "pubLeg": "XV",
+        "pubNr": "163",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/163/2023-02-10/3?pgs=3-122&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
