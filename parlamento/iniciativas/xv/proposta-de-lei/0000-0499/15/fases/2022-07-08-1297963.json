@@ -1,0 +1,355 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "15",
+    "id": "121579",
+    "titulo": "Procede à alteração de legislação laboral no âmbito da agenda de trabalho digno"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-07-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "62758",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-09-16",
+            "id": "127638",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-21",
+            "id": "127633",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-22",
+            "id": "127639",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-23",
+            "id": "127640",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-28",
+            "id": "127648",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-29",
+            "id": "127650",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-09-30",
+            "id": "127654",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-07-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-02-08",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45314d7a49304e47526c4c544a6a4f5445744e44426b596930344d5745784c574d794e7a457a4f5451354d546b354e4335775a47593d&fich=153244de-2c91-40db-81a1-c27139491994.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-08",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3252694e3251324d6a67324c544d354d5759744e4449314e7930354d6d45314c546b344e546779597a63784e4451784f4335775a47593d&fich=db7d6286-391f-4257-92a5-98582c714418.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41784e5445345a4463314c5749324d6a6b744e444d7a597931694d6d517a4c54686c4f544a6b4f474e6a4d6d52694e6935775a47593d&fich=01518d75-b629-433c-b2d3-8e92d8cc2db6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração do GP BE ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a646c4d6a526c4d6a49794c54526c4d5759744e446b315a5331694d544a6a4c5459795a6a59774d6a55314d446730595335775a47593d&fich=7e24e222-4e1f-495e-b12c-62f60255084a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a42694d7a41314f4759324c544934595463744e4467354d5331684e446c6b4c574d794d7a4a6a596a4d324d546b324e6935775a47593d&fich=0b3058f6-28a7-4891-a49d-c232cb361966.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324931597a46694e6a6c694c54526c4d7a63744e474e6c4e7930344d6a59334c544a695a5452694f5759774d57566a5a5335775a47593d&fich=b5c1b69b-4e37-4ce7-8267-2be4b9f01ece.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6a4e6a63315a44466d4c546379596a55744e4442685a6931684e4463794c5467354e444a6c5a475669596a686b4e4335775a47593d&fich=fc675d1f-72b5-40af-a472-8942edebb8d4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a42684e5759314d3249784c544a68596a51744e475a6b4e5330344f5751354c544e6b5a6a4532597a4d305954466d5a5335775a47593d&fich=0a5f53b1-2ab4-4fd5-89d9-3df16c34a1fe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "7 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6b4e6d59334e5749314c545530596a6b744e4455344e4330354f474d774c544d354f545a694e445a6a4d5751324d7935775a47593d&fich=6d6f75b5-54b9-4584-98c0-3996b46c1d63.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "8 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245354d3251324d446b344c57526c4e3259744e4756684e433169597a646d4c546b334e7a686c59546c6a595445354d7935775a47593d&fich=a93d6098-de7f-4ea4-bc7f-9778ea9ca193.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "9 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6333597a466d4f474d324c574930597a59744e4755354d6930345a446c684c574d324d6a673459546b7a4d57466b4e7935775a47593d&fich=77c1f8c6-b4c6-4e92-8d9a-c6288a931ad7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "10 - Propostas de Alteração do GP IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32493559574d315a474d304c5459794e7a41744e4749304e4331684d5463774c544d304d544d305a57557a4e6d4a6b4f5335775a47593d&fich=b9ac5dc4-6270-4b44-a170-34134ee36bd9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "11 - Propostas de Alteração do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d795a544e6c4e5455354c54677a4e5467744e4749304d4331684f5467314c57566b4f4449304f4463334e7a41354d4335775a47593d&fich=32e3e559-8358-4b40-a985-ed8248777090.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "12 - Propostas de Alteração do GP PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e694e6a457a597a4a6c4c545a694d5749744e47526b5a5331684d4759324c54526d59544d334e7a426a596d45334e4335775a47593d&fich=cb613c2e-6b1b-4dde-a0f6-4fa3770cba74.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "13 - Propostas de Aditamento do GP PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d7959324d334f54646b4c544979595751744e47566b4d5330354e44597a4c574a684f546b794e7a63784f546b324f5335775a47593d&fich=c2cc797d-22ad-4ed1-9463-ba9927719969.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "14- Propostas de Alteração do GP do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6a4f4745324d54566b4c574d7a4f5449744e445a6a4e4331694e6a426c4c54466a4d7a417a596a4e694d6a5a684e6935775a47593d&fich=6c8a615d-c392-46c4-b60e-1c303b3b26a6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "15 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67774e544e6b4f5746684c575579596d51744e444d344d5331694d7a63354c5463775a446c684f444d345954686c4f4335775a47593d&fich=8053d9aa-e2bd-4381-b379-70d9a838a8e8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "16 - Propostas de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245334d6a6b305a4451304c574e6a4d4441744e44646d4e6931684f4442694c544d354f545579596d49774d6d5131595335775a47593d&fich=a7294d44-cc00-47f6-a80b-39952bb02d5a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "17 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251334e325a6b597a63344c5751794f4451744e4449354d4331694d6a6b314c5449334f444d354f57566b5a47526d4e5335775a47593d&fich=d77fdc78-d284-4290-b295-278399edddf5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "18 - Proposta de Substituição do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b7a4d6a466b5a6a6c684c5464685a4467744e4451784e7930344f5759794c544e684d44646d4e54637a597a646c597935775a47593d&fich=9321df9a-7ad8-4417-89f2-3a07f573c7ec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-05",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "19 - Propostas de Substituição do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b784e3249305a6a51304c5755774f5463744e44466d4e6931695a4751774c546332597a566c5a574a695954426c595335775a47593d&fich=917b4f44-e097-41f6-bdd0-76c5eebba0ea.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-05",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "20 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d344e444d324f444a6d4c5755344e6a49744e4456694d5330344e3251304c5445794e7a42685a6a566859546377595335775a47593d&fich=3843682f-e862-45b1-87d4-1270af5aa70a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "21 - Propostas de Alteração do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67794f4468694e5449784c57566d4d6d51744e4446694d433168597a4a6c4c5745794f4441784d546734597a6b314d7935775a47593d&fich=8288b521-ef2d-41b0-ac2e-a2801188c953.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "22 - Propostas de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325579596d59324e6d45344c54646b5a6a67744e445930596930354e7a686d4c545a69597a67344f546b324d544a694e4335775a47593d&fich=e2bf66a8-7df8-464b-978f-6bc8899612b4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "23 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3246694d44566d4d444d784c545a6d4f4451744e4467785a5331695a5749334c574d345a5441314e4745314d6a457a4e5335775a47593d&fich=ab05f031-6f84-481e-beb7-c8e054a52135.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "24 - Propostas de Alteração do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d7759544d344e324e684c544a6c4f5449744e4441774d4330345a6a4d314c57566b4e444578596a59334e6d51784e7935775a47593d&fich=30a387ca-2e92-4000-8f35-ed411b676d17.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "25 - Propostas de Aditamento do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a497a4d4451334d6a4e6d4c57566a4d574d744e4455315a6930344f4463784c5456694f4441774e575a6b59574a6a4f5335775a47593d&fich=2304723f-ec1c-455f-8871-5b8005fdabc9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "26 - Propostas de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a46685a6d51324d3255774c54686b4e5459744e44513559693168596a557a4c546333595749344e7a566d596d49325a4335775a47593d&fich=1afd63e0-8d56-449b-ab53-77ab875fbb6d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "27 - Propostas de Alteração do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686a5a6d45324e3255334c5455774e6d51744e4449314e7931684e6a466c4c5459344d7a5a6c4d546b345a6a4d354d6935775a47593d&fich=8cfa67e7-506d-4257-a61e-6836e198f392.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-01",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "28 -  Proposta de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b795a6d466b593249344c5745794f4463744e475a6a59693035595451774c574d79597a466a5a6d5a694e546c694e5335775a47593d&fich=92fadcb8-a287-4fcb-9a40-c2c1cffb59b5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-01",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "29 - Proposta de Alteração do GP PS ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249354e54426d5a444a694c545a6c4e4459744e445130597931684d544a6c4c546b335a6a6b304d54426d4d6a4a684f5335775a47593d&fich=b950fd2b-6e46-444c-a12e-97f9410f22a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-01",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "30 - Propostas de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67304d6a4d785a446b324c57526d4e4455744e445a6d4e69303559574e6b4c54686d4e44413159545a6c4f5755794d6935775a47593d&fich=84231d96-df45-46f6-9acd-8f405a6e9e22.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "31 - Propostas de Alteração do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249314d4456694e546b794c5459304d5755744e445a684d6930344e474a6a4c574d784e6d4d325a6d51324d6a55314e4335775a47593d&fich=b505b592-641e-46a2-84bc-c16c6fd62554.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "32 - Propostas de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249354f44566b597a51344c5749354d6a49744e4755324f53303559574a694c57526b5a44686b597a55304f4455794e7935775a47593d&fich=b985dc48-b922-4e69-9abb-ddd8dc548527.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8334",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8334",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-02-08",
+            "dataRemessa": "2023-02-08",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          },
+          {
+            "dataDocumento": "2023-02-08",
+            "dataRemessa": "2023-02-08",
+            "numeroOficio": "email",
+            "observacoes": "Relatório da discussão e votação na especialidade",
+            "tipoRemessa": "Informação"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-07-08",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1297963",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "973694",
+        "obs": null,
+        "pag": [
+          "3-122"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-02-10",
+        "pubLeg": "XV",
+        "pubNr": "163",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/163/2023-02-10/3?pgs=3-122&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
