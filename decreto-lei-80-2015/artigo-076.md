@@ -14,4 +14,4 @@
 
 6 - O prazo de elaboração dos planos municipais pode ser prorrogado, por uma única vez, por um período máximo igual ao previamente estabelecido.
 
-7 - O não cumprimento dos prazos estabelecidos determina a caducidade do procedimento.
+7 - O não cumprimento dos prazos estabelecidos determina a caducidade do procedimento, sem prejuízo da possibilidade de aproveitamento dos atos e formalidades praticados no âmbito do mesmo, mediante deliberação da câmara municipal.
