@@ -32,6 +32,8 @@ b) Para as pessoas colectivas, o local da sede ou direcção efectiva ou, na fal
 
 13 - O Ministro das Finanças regula, por portaria, o regime de obrigatoriedade do domicílio fiscal electrónico dos sujeitos passivos não referidos no n.º 9.
 
-14 - A obrigatoriedade de designação de representante fiscal ou de adesão à caixa postal eletrónica não é aplicável aos sujeitos passivos que aderiram ao serviço público de notificações eletrónicas associado à morada única digital, com exceção do previsto quanto às pessoas coletivas ou outras entidades legalmente equiparadas que cessem atividade.
+14 - A obrigatoriedade de adesão à caixa postal eletrónica não é aplicável aos sujeitos passivos que adiram ao serviço público de notificações eletrónicas associado à morada única digital ou ao regime de notificações e citações eletrónicas no Portal das Finanças.
 
-15 - O cancelamento da adesão ao serviço público de notificações eletrónicas associado à morada única digital, relativamente às pessoas singulares e coletivas residentes fora da União Europeia ou do Espaço Económico Europeu, só produz efeitos após a prévia designação de representante fiscal.
+15 - A obrigatoriedade de designação de representante fiscal não é aplicável aos sujeitos passivos que adiram ao serviço público de notificações eletrónicas associado à morada única digital, ao regime de notificações e citações eletrónicas no Portal das Finanças ou à caixa postal eletrónica, com exceção do previsto quanto às pessoas coletivas ou a outras entidades legalmente equiparadas que cessem atividade.
+
+16 - O cancelamento da adesão ao serviço público de notificações eletrónicas associado à morada única digital, ao regime de notificações e citações eletrónicas no Portal das Finanças ou à caixa postal eletrónica, relativamente aos sujeitos passivos residentes fora da União Europeia ou do Espaço Económico Europeu, só produz efeitos após a prévia designação de representante fiscal.
