@@ -1,0 +1,22 @@
+Aviso n.º 13853/2022
+Sumário: Reinício do procedimento da 2.ª revisão do Plano Diretor Municipal de Celorico de Basto.
+Reinício do procedimento da 2.ª Revisão do Plano Diretor Municipal de Celorico de Basto
+José António Peixoto Lima, Presidente da Câmara Municipal de Celorico de Basto, torna público que a Câmara Municipal, em reunião realizada em 15 de junho de 2022, deliberou o reinício do procedimento da 2.ª Revisão do Plano Diretor Municipal de Celorico de Basto (PDM), publicado pelo Aviso n.º 11285/2019 no Diário da República n.º 130, 2.ª série, de 10 de julho de 2019, cujo prazo para conclusão foi prorrogado pelo Aviso n.º 1500/2021, publicado no Diário da República n.º 15, 2.ª série, de 22 de janeiro de 2021, e pelas disposições legais de suspensão de prazos decorrentes da situação epidemiológica, até 19/06/2022, fixando, nos termos e para os efeitos do disposto no artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), publicado pelo Decreto-Lei n.º 80/2015 de 14 de maio, na sua redação atual, um novo prazo de 10 meses para a respetiva conclusão, contados a partir da data da presente publicação, com aproveitamento de todos os atos praticados e documentação produzida no procedimento caducado, nomeadamente o despacho de constituição da Comissão Consultiva, com os fundamentos expostos na proposta submetida a deliberação, tendo em conta os seguintes factos:
+a) O prazo de revisão do PDM de Celorico de Basto foi fixado inicialmente em 15 meses e prorrogado, uma única vez, por igual período;
+b) A caducidade prevista no n.º 7 do artigo 76.º do RJIGT não se pode aplicar se o atraso no procedimento não for imputável à entidade por ele responsável. No caso presente, verifica-se que houve atrasos que não são imputáveis ao Município de Celorico de Basto;
+c) Houve atraso na disponibilização da cobertura aerofotográfica que serviu de base à produção da cartografia de referência do plano, o que contribuiu para o atraso no desenvolvimento das peças gráficas;
+d) Foi submetido em março, na plataforma colaborativa de gestão territorial, o processo para a 1.ª reunião plenária da Comissão Consultiva, no entanto essa reunião ainda não foi convocada pela CCDR-N;
+e) O prazo previsto no artigo 199.º do RJIGT, originariamente fixado em 13/07/2020, foi prorrogado até 31/12/2022 por força do Decreto-Lei n.º 25/2021, de 29 de março, correspondendo esta prorrogação ao reconhecimento da exiguidade do prazo e, como tal, inexequível a tarefa imposta aos municípios;
+f) O procedimento de revisão do PDM de Celorico de Basto esteve sempre em tramitação, ou seja, nunca esteve parado, tendo sido elaborados os elementos iniciais e uma primeira versão da proposta de plano;
+g) Os processos relativos à Reserva Agrícola Nacional (RAN) e à Reserva Ecológica Nacional (REN) estão em curso.
+O presente Aviso será publicitado, nos termos legais, na plataforma colaborativa de gestão territorial e no sítio de internet do Município em https://www.mun-celoricodebasto.pt/.
+23 de junho de 2022. - O Presidente da Câmara Municipal, Dr. José António Peixoto Lima.
+Deliberação
+Sérgio Plácido Oliveira, Chefe de Divisão Administrativa, Jurídica e Recursos Humanos da Câmara Municipal de Celorico de Basto, por subdelegação de competências pelo Despacho n.º 12/PRES/2021, de 4 de novembro de 2021:
+Certifica que a Câmara Municipal, na sua reunião ordinária de quinze de junho de 2022, deliberou, por maioria, aprovar o seguinte:
+«1 - O reinício do procedimento da 2.ª revisão do Plano Diretor Municipal de Celorico de Basto.
+2 - A fixação, nos termos e para os efeitos do disposto no artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), de um prazo de 10 (dez) meses para a respetiva conclusão, prazo este, cuja contagem se iniciará a partir da data da publicação da presente deliberação no Diário da República, sem prejuízo do cumprimento do prazo estabelecido por diploma legal.
+3 - O aproveitamento de todos os atos praticados no procedimento de revisão que caducará no próximo dia 19 de junho de 2022, bem como a utilização de toda a documentação produzida, nomeadamente os pareceres emitidos pelas diferentes entidades da administração central que integram a comissão consultiva, desde que os pressupostos de facto e de direito se mantenham atuais e válidos.»
+Está conforme.
+Celorico de Basto, 23 de junho de 2022. - O Chefe de Divisão, Dr. Sérgio Plácido Oliveira.
+615452098
