@@ -14,7 +14,7 @@ a) A natureza dos candidatos ao apoio financeiro;
 
 b) As condições de atribuição do financiamento designadamente:
 
-i) O número máximo de alunos a financiar;
+i) O número máximo de alunos a financiar, nos termos da autorização de despesa e da assunção dos compromissos plurianuais a que alude o n.º 3 do presente artigo.
 
 ii) Os ciclos de ensino abrangidos;
 
