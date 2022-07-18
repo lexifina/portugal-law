@@ -1,0 +1,333 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Resolução",
+  "numero": "164",
+  "id": "131744",
+  "fases": 13,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-07-18",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "6706",
+        "nome": "Miguel Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7341",
+        "nome": "Francisco César"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2445",
+        "nome": "Tiago Barbosa Ribeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7046",
+        "nome": "Joana Sá Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5896",
+        "nome": "Eduardo Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7757",
+        "nome": "Pedro Anastácio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7975",
+        "nome": "Eunice Pratas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6334",
+        "nome": "Miguel dos Santos Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7055",
+        "nome": "Francisco Dinis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7878",
+        "nome": "Tiago Soares Monteiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6956",
+        "nome": "Sara Velez"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6886",
+        "nome": "Cristina Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6900",
+        "nome": "João Pedro Matos Fernandes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7015",
+        "nome": "Cristina Mendes da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7348",
+        "nome": "Miguel Iglésias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6801",
+        "nome": "Maria João Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7949",
+        "nome": "Eduardo Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7866",
+        "nome": "Paula Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6057",
+        "nome": "Ana Isabel Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4199",
+        "nome": "Anabela Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7297",
+        "nome": "Sérgio Monte"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4210",
+        "nome": "José Rui Cruz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1735",
+        "nome": "João Paulo Rebelo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6637",
+        "nome": "Pedro Cegonho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6050",
+        "nome": "André Pinotes Batista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3936",
+        "nome": "Palmira Maciel"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1741",
+        "nome": "Paulo Pisco"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7350",
+        "nome": "Fátima Correia Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6129",
+        "nome": "Lúcia Araújo da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4363",
+        "nome": "Agostinho Santa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6949",
+        "nome": "Tiago Estevão Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7194",
+        "nome": "Rosa Venâncio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6884",
+        "nome": "Jorge Botelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7357",
+        "nome": "António Monteirinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5933",
+        "nome": "Carla Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "197",
+        "nome": "Luís Capoulas Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6048",
+        "nome": "Ivan Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7161",
+        "nome": "Pompeu Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "416",
+        "nome": "Pedro do Carmo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6859",
+        "nome": "Cláudia Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6878",
+        "nome": "Nuno Fazenda"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "426",
+        "nome": "Berta Nunes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7250",
+        "nome": "Clarisse Campos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1893",
+        "nome": "Pedro Coimbra"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5841",
+        "nome": "Miguel Cabrita"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7212",
+        "nome": "Fernando José"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7886",
+        "nome": "Salvador Formiga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "419",
+        "nome": "Joaquim Barreto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6899",
+        "nome": "Marta Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "695",
+        "nome": "Maria da Luz Rosinha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6543",
+        "nome": "Alexandra Leitão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1944",
+        "nome": "Susana Amador"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7289",
+        "nome": "Nathalie Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7731",
+        "nome": "Ricardo Lima"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "523",
+        "nome": "Francisco Rocha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2753",
+        "nome": "Jorge Gabriel Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7324",
+        "nome": "Anabela Real"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "131744",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304d445a6a4d4751774e4330354d544d334c5451344d4745744f544668595330344e44526a59574d344d7a68685a4755755a47396a&fich=406c0d04-9137-480a-91aa-844cac838ade.doc&Inline=true",
+    "IniNr": "164",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo uma maior fiscalização dos contratos a termo",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
