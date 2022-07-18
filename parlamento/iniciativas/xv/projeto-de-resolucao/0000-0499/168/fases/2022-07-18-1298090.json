@@ -1,0 +1,48 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "168",
+    "id": "131752",
+    "titulo": "De censura ao comportamento do Presidente da Assembleia da República por não pautar a sua conduta institucional com a imparcialidade e a isenção exigíveis ao exercício do cargo"
+  },
+  "fase": "Entrada",
+  "codigo_fase": "10",
+  "data_registo": "2022-07-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4e6a59324e574a6d4d4330355a6a6b774c5451794f574974596a4d78595331695a5459775954426a4d7a41785a5755756347526d&fich=36665bf0-9f90-429b-b31a-be60a0c301ee.pdf&Inline=true",
+        "anexoNome": "Despacho n.º 39/XV do Presidente da Assembleia da República sobre a admissão do Projeto de Resolução n.º 168/XV/1.ª (CH)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304d3249304e6d4e694d5330794d5759304c5451314f4755744f446379595331685a6a5a684f5445774d5441314e6d59756347526d&fich=43b46cb1-21f4-458e-872a-af6a9101056f.pdf&Inline=true",
+        "anexoNome": "Nota informativa sobre a admissibilidade do Projeto de Resolução n.º 168/XV/1.ª (CH)"
+      }
+    ],
+    "CodigoFase": "10",
+    "Comissao": null,
+    "DataFase": "2022-07-18",
+    "EvtId": "1",
+    "Fase": "Entrada",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1298090",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
