@@ -1,0 +1,161 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "232",
+  "id": "131769",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-07-20",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338335a544d314d6a4e6c597930775a5756694c54526c4d7a417459545a6a596931684e6a426a4f5467314e6a51324d4751756347526d&fich=7e3523ec-0eeb-4e30-a6cb-a60c9856460d.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953383059574d344f545532597930344f474e694c5451794e7a6774596a526d4e693169593255304f445a685a6a4932597a67756547787a65413d3d&fich=4ac8956c-88cb-4278-b4f6-bce486af26c8.xlsx&Inline=true",
+        "anexoNome": "Anexo I - Coordenadas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4d3249784d446c6d5a6930784e5749324c54517a4e3255744f57526a5a53316c4e44677a4e6a497a5a6d4d314f4449756347526d&fich=c3b109ff-15b6-437e-9dce-e483623fc582.pdf&Inline=true",
+        "anexoNome": "Anexo II - Representação cartográfica"
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "6956",
+        "nome": "Sara Velez"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5600",
+        "nome": "Eurico Brilhante Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7886",
+        "nome": "Salvador Formiga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2753",
+        "nome": "Jorge Gabriel Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6202",
+        "nome": "Cláudia Avelar Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6013",
+        "nome": "Hugo Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6543",
+        "nome": "Alexandra Leitão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7018",
+        "nome": "Mara Lagriminha Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6976",
+        "nome": "Manuel dos Santos Afonso"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6637",
+        "nome": "Pedro Cegonho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1944",
+        "nome": "Susana Amador"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7731",
+        "nome": "Ricardo Lima"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7046",
+        "nome": "Joana Sá Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3936",
+        "nome": "Palmira Maciel"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7414",
+        "nome": "Isabel Guerreiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4210",
+        "nome": "José Rui Cruz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5837",
+        "nome": "Alexandra Tavares de Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6546",
+        "nome": "João Azevedo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7935",
+        "nome": "Ricardo Lino"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "131769",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b4d6a6b32596a55774d6930344e6a4d7a4c5451314f4455744f57466d597930784d7a6b314e6a497a596d5a6c4d4451755a47396a&fich=d296b502-8633-4585-9afc-1395623bfe04.doc&Inline=true",
+    "IniNr": "232",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Procede à alteração dos limites territoriais entre a Freguesia de Caranguejeira, Município de Leiria, e a União das Freguesias de Matas e Cercal, Município de Ourém",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
