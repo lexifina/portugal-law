@@ -1,0 +1,274 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "21",
+    "id": "131711",
+    "titulo": "Procede à transposição da Diretiva (UE) 2019/878, relativa ao acesso à atividade bancária e supervisão prudencial, e da Diretiva (UE) 2019/879, relativa à recuperação e resolução de instituições de crédito e empresas de investimento"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-07-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "62828",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-09-28",
+            "id": "127666",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-07-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-08-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo da Autoridade da Concorrência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63325a6d4532595449794c54426d597a51744e47526b4d7930354f44677a4c5745355a5446685a5752695a6a466a4e5335775a47593d&fich=76fa6a22-0fc4-4dd3-9883-a9e1aedbf1c5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-08-29",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63784d6d566959324d7a4c544934596a4d744e444e6c596930354d4745344c5467355a6a6b334d544e6a4e6d466b4f5335775a47593d&fich=712ebcc3-28b3-43eb-90a8-89f9713c6ad9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Comissão do Mercado dos Valores Mobiliários (CMVM)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d325a6d466c4e4746684c574e69596a41744e444e6b4d5330354e7a55334c5751324f44677a4f575178595452684d4335775a47593d&fich=36fae4aa-cbb0-43d1-9757-d68839d1a4a0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Comentários da Associação Portuguesa de Bancos (APB)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63794e6a5a685a4452684c546b325a546b744e4751334e5331694f444d784c544d354e57526c4e3255794f4759774d7935775a47593d&fich=7266ad4a-96e9-4d75-b831-395de7e28f03.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-05",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resposta da Associação Portuguesa de Fundos de Investimento, Pensões e Patrimónios (APFIPP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4132595749304e6d4a6a4c57466a4d7a4d744e44566d596931694f4455334c546c695957557a5957566d4d44646b595335775a47593d&fich=06ab46bc-ac33-45fb-b857-9bae3aef07da.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-02",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resposta do Conselho Nacional de Supervisores Financeiros (CNSF)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249305a446335596d45354c545979596d45744e474d33595331694d574d774c546b7a4d6a6c684e4449305a47466d597935775a47593d&fich=b4d79ba9-62ba-4c7a-b1c0-9329a424dafc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Banco de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51794d5463344d7a51354c5451314e6a67744e4449324d6931695a545a684c574e685a5451304f47466c596a6469597935775a47593d&fich=42178349-4568-4262-be6a-cae448aeb7bc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-09-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Anexo ao Parecer do Banco de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6c4d44566c4d7a5a684c5752685a5755744e4456685a4330344d6a6b304c574a684d5459355a6a4a6b4e324e695a6935775a47593d&fich=9e05e36a-daee-45ad-8294-ba169f2d7cbf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributos adicionais da Associação Portuguesa de Bancos (APB)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526a4f47466a4f44646c4c544e695a5467744e474a6a596930345a444d784c5441304d7a4e6d4d7a6c6d4f544a6d5a6935775a47593d&fich=4c8ac87e-3be8-4bcb-8d31-0433f39f92ff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GPIL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4132593255324f4467304c5452685a5451744e47526959533169596a67794c57557a593249334d6d4531595759354f5335775a47593d&fich=06ce6884-4ae4-4dba-bb82-e3cb72a5af99.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GPPSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63795a4463304d7a59344c544a6d595467744e446b334d4330354f444e684c57566b4d7a63794f5459334d5449344f5335775a47593d&fich=72d74368-2fa8-4970-983a-ed3729671289.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GPPS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566d4d324e6a4d7a417a4c5749354f4759744e444e68596930354d5455304c574e685954686b4f474a6b5a474a6a4d4335775a47593d&fich=5f3cc303-b98f-43ab-9154-caa8d8bddbc0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GPPSD - substituição (N.º 5, Artigo 145.º-X e Artigo 12.º-A)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a497a596a6b7a5932466a4c544135597a45744e47466a4d7931694e7a51324c5759794d325178596a49774e544179595335775a47593d&fich=23b93cac-09c1-4ac3-b746-f23d1b20502a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GPPSD/IL 5C - Substituição PA 5C e 37C",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686a4d4445334d4745334c574d775a4449744e474e6a4d4330344e6a526a4c574a684e544e6d4d546469595751784e6935775a47593d&fich=8c0170a7-c0d2-4cc0-864c-ba53f17bad16.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GPPSD - 26C_subst art 116.º-R nº 4",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d324e544d315a6a6b314c574d305a6d59744e474e6a59693168597a4a6d4c5463774f44677a4f54686c4d7a426d4f4335775a47593d&fich=c6535f95-c4ff-4ccb-ac2f-7088398e30f8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GPPSD - 30C_subst art 138º-AB nº 3",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d32597a41784e6a56694c5459335a5749744e4755304e6931694e6a45784c5455794d57566d596d4d334d444a694e6935775a47593d&fich=c6c0165b-67eb-4e46-b611-521efbc702b6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a684d7a46684e6d55774c5755314f4745744e444d324d4330354d7a59304c54686a4f546378597a5132593251304e6935775a47593d&fich=6a31a6e0-e58a-4360-9364-8c971c46cd46.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-25",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245314d5467354f444a694c5463344d7a51744e4456694d6931684d6a517a4c54517a4d32466a5a4451774e32526d4d6935775a47593d&fich=a518982b-7834-45b2-a243-433acd407df2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-19",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e6a593246684e474d314c54566d4e5451744e445a6d595330344d6a466d4c5749324d5456694d544e6a595751354d7935775a47593d&fich=3ccaa4c5-5f54-46fa-821f-b615b13cad93.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "APB - Associação Portuguesa de Bancos em 2022-09-05"
+          },
+          {
+            "link": "",
+            "nome": "Banco de Portugal em 2022-09-06"
+          },
+          {
+            "link": "",
+            "nome": "CMVM - Comissão de Mercados e Valores Mobiliários em 2022-09-01"
+          },
+          {
+            "link": "",
+            "nome": "APFIPP – Associação Portuguesa de Fundos de Investimento, Pensões e Património em 2022-09-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Nacional de Supervisores Financeiros      em 2022-09-02"
+          },
+          {
+            "link": "",
+            "nome": "Autoridade de Supervisão de Seguros e Fundos de Pensões em 2022-08-29"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "APB - Associação Portuguesa de Bancos em 2022-07-26"
+          },
+          {
+            "link": "",
+            "nome": "Banco de Portugal em 2022-07-26"
+          },
+          {
+            "link": "",
+            "nome": "CMVM - Comissão de Mercados e Valores Mobiliários em 2022-07-26"
+          },
+          {
+            "link": "",
+            "nome": "APFIPP – Associação Portuguesa de Fundos de Investimento, Pensões e Património em 2022-07-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Nacional de Supervisores Financeiros      em 2022-07-26"
+          },
+          {
+            "link": "",
+            "nome": "Autoridade de Supervisão de Seguros e Fundos de Pensões em 2022-07-26"
+          },
+          {
+            "link": "",
+            "nome": "EBA - Autoridade Bancária Europeia em 2022-07-26"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-07-21",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1308325",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "972844",
+        "obs": "Relatório da discussão e votação na especialidade e texto final da Comissão de Orçamento e Finanças",
+        "pag": [
+          "2-409"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-11-22",
+        "pubLeg": "XV",
+        "pubNr": "118",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/118/2022-11-22/2?pgs=2-409&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
