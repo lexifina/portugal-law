@@ -1,0 +1,22 @@
+Aviso n.º 14433/2022
+Sumário: Alteração ao Plano Diretor Municipal das Caldas da Rainha - índices urbanísticos em espaços industriais.
+Alteração ao Plano Diretor Municipal das Caldas da Rainha - índices urbanísticos em espaços industriais
+Joaquim Beato Caetano, vice-presidente da Câmara Municipal das Caldas da Rainha torna público que, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, a Câmara Municipal deliberou por unanimidade, em reunião pública, de 4 de julho de 2022, determinar o início do procedimento relativo a alteração ao Plano Diretor Municipal, publicado pela Resolução do Conselho de Ministros n.º 101/2002, publicada na 1.ª série-B, do Diário da República, de 18 de junho de 2002.
+Esta alteração deverá estar concluída no prazo de 9 meses, tendo como objetivo a adequação das condições regulamentares, em ampliações ou construções de estabelecimentos industriais com maiores necessidades de afetação de espaço, em áreas industriais existentes e propostas.
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do referido decreto-lei, é estabelecido o período de 15 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página da internet da Câmara Municipal e na divisão de gestão urbanística e planeamento.
+Assim, convidam-se todos os interessados a apresentar eventuais sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Exmo. Sr. Presidente da Câmara Municipal das Caldas da Rainha e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações desta Câmara Municipal; enviadas por via postal para a morada Câmara Municipal de Caldas da Rainha, Praça 25 de Abril ou por via eletrónica para planeamento@mcr.pt.
+12 de julho de 2022. - O Vice-Presidente da Câmara, Joaquim Beato Caetano.
+Deliberação
+Procedimento de Alteração ao Plano Diretor Municipal das Caldas da Rainha - índices urbanísticos em espaços industriais
+Em reunião ordinária, realizada em 4 de julho de 2022, a Câmara Municipal das Caldas da Rainha deliberou, por unanimidade:
+«1 - Que se inicie o procedimento de Alteração ao PDM das Caldas da Rainha - índices urbanísticos em espaços industriais, de acordo com os artigos 118.º e 119.º do RJIGT (Decreto-Lei n.º 80/2015, de 14 de maio);
+2 - Aprovar, em reunião pública, os Termos de Referência com a definição dos objetivos e oportunidades da Alteração ao PDM das Caldas da Rainha - índices urbanísticos em espaços industriais;
+3 - Estabelecer, de acordo com o n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, um período de 15 dias úteis para participação pública, para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento;
+4 - Estabelecer o prazo de 9 meses para a elaboração da alteração ao PDM;
+5 - Formalizar a proposta de alteração ao PDM, contemplando o objetivo de adequar as condições regulamentares, em ampliações ou construções de estabelecimentos industriais com maiores necessidades de afetação de espaço, em áreas industriais existentes e propostas;
+6 - Estabelecer que a alteração ao PDM não seja sujeita a Avaliação Ambiental, uma vez que se refere a pequenas alterações de nível local sem efeitos significativos no ambiente, de acordo com o previsto no artigo 120.º do Decreto-Lei n.º 80/2015, de 14 de maio e no n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, na sua atual redação dada pelo Decreto-Lei n.º 58/2011, de 4 de maio e conforme a fundamentação e ponderação efetuada aos critérios aí estabelecidos;
+7 - Publicar a deliberação da decisão de início de procedimento de alteração ao PDM, na 2.ª série do Diário da República, divulgando-a através da Comunicação Social, da plataforma colaborativa de gestão territorial e no sítio da Internet da Câmara Municipal, de acordo com a alínea c) do n.º 4 do artigo 191.º do RJIGT.
+8 - Remeter a deliberação à Assembleia Municipal para conhecimento.
+A presente deliberação foi tomada por unanimidade e aprovada em minuta, nos termos do disposto no n.º 3 do art. 57.º do Anexo I da Lei n.º 75/2013 de 12 de setembro.»
+4 de julho de 2022. - O Vice-Presidente da Câmara, Joaquim Beato Caetano.
+615512037
