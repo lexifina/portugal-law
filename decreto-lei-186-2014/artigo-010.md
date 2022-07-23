@@ -16,8 +16,10 @@ b) Substituir o CEME nas suas ausências ou impedimentos e exercer as funções 
 
 5 - São órgãos na direta dependência do VCEME:
 
-a) A Direção de Comunicações e Sistemas de Informação (DCSI), que é dirigida por um brigadeiro-general;
+a) A Direção de Comunicações e Informação, que é dirigida por um brigadeiro-general;
 
 b) A Direção de História e Cultura Militar, que é dirigida por um oficial general, na situação de reserva;
 
 c) A Direção de Educação (DE), que é dirigida por um oficial general, na situação de reserva.
+
+d) O Centro de Experimentação e Modernização Tecnológica do Exército.

@@ -6,7 +6,7 @@
 
 a) A otimização da relação entre a componente operacional e a componente fixa do sistema de forças;
 
-b) A complementaridade com o Estado-Maior-General das Forças Armadas (EMGFA) e com os outros ramos;
+b) A articulação com o Estado-Maior-General das Forças Armadas (EMGFA) e com os outros ramos dos assuntos de natureza conjunta, no quadro das responsabilidades de coordenação cometidas ao EMGFA;
 
 c) A correta utilização do potencial humano, militar ou civil, promovendo o pleno e adequado aproveitamento dos quadros permanentes e assegurando uma correta proporção e articulação entre as diversas formas de prestação de serviço efetivo.
 

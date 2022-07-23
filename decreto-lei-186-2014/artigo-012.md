@@ -14,4 +14,4 @@ a) O Comando do Pessoal (CMDPESS);
 
 b) O Comando da Logística (CMDLOG);
 
-c) A Direção de Finanças (DFIN).
+c) O Departamento de Finanças (DFIN).
