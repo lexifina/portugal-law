@@ -1,0 +1,6 @@
+Aviso n.º 14876/2022
+Sumário: Declara a caducidade do procedimento de elaboração do Plano de Urbanização do Cabroeiro.
+Sérgio Fernando da Silva Costa, Presidente da Câmara Municipal da Guarda, torna público que na reunião de Câmara Municipal da Guarda realizada a 22 de novembro de 2021, foi deliberado, por maioria, e com fundamento no n.º 7 do artigo 76.º do regime jurídico dos instrumentos de gestão do território instituído pelo Decreto-Lei n.º 80/2015, de 15 de maio, declarar, com efeitos retroativos à data de 20 de outubro de 2021, a caducidade do procedimento de elaboração do "Plano de Urbanização do Cabroeiro" cujo início havia sido decidido por deliberação da Câmara Municipal da Guarda de 2018-06-25, conforme Aviso n.º 10332/2018, publicado no Diário da República, 2.ª série, n.º 146, de 31 de julho de 2018.
+Para conhecimento geral, foi ainda deliberado, proceder à publicação da referida deliberação no Diário da República, bem como à sua divulgação na comunicação social, na Plataforma Colaborativa de Gestão Territorial e no sítio da internet da Câmara Municipal, em www.mun-guarda.pt.
+13 de julho de 2022. - O Presidente da Câmara Municipal, Sérgio Fernando da Silva Costa.
+615522324
