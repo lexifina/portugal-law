@@ -20,8 +20,10 @@ b) Aquando da aprovação em curso de formação específico ou da aquisição d
 
 7 - O empregador público não pode propor a primeira posição remuneratória ao candidato que seja titular de licenciatura ou de grau académico superior quando esteja em causa o recrutamento de trabalhador para posto de trabalho com conteúdo funcional correspondente ao da carreira geral de técnico superior.
 
-8 - Após o encerramento do procedimento concursal, a documentação relativa ao respetivo processo negocial é pública e de livre acesso.
+8 - O empregador público não pode propor posição inferior à 4.ª posição remuneratória ao candidato que seja titular de grau académico de doutor quando esteja em causa o recrutamento de trabalhador para posto de trabalho com conteúdo funcional correspondente ao da carreira geral de técnico superior.
 
-9 - O disposto nos números anteriores pode ser aplicável, mediante lei especial, quando esteja em causa posto de trabalho relativamente ao qual a modalidade do vínculo de emprego público seja a nomeação.
+9 - Após o encerramento do procedimento concursal, a documentação relativa ao respetivo processo negocial é pública e de livre acesso.
 
-10 - Não dispondo da faculdade prevista no número anterior, o posicionamento do trabalhador nomeado tem lugar na ou numa das posições remuneratórias da categoria que tenham sido publicitadas.
+10 - O disposto nos números anteriores pode ser aplicável, mediante lei especial, quando esteja em causa posto de trabalho relativamente ao qual a modalidade do vínculo de emprego público seja a nomeação.
+
+11 - Não dispondo da faculdade prevista no número anterior, o posicionamento do trabalhador nomeado tem lugar na ou numa das posições remuneratórias da categoria que tenham sido publicitadas.
