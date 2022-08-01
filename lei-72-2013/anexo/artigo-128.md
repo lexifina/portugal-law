@@ -8,13 +8,13 @@
 
 1 - A carta de condução pode ser obtida por troca de título estrangeiro válido, que não se encontre apreendido ou tenha sido cassado ou cancelado por determinação de um outro Estado.
 
-2 - Se o título estrangeiro apresentado for um dos referidos nas alíneas b) a d) do n.º 1 do artigo 125.º, a troca está condicionada ao cumprimento pelo titular dos requisitos fixados no RHLC para obtenção da carta de condução, com:
+2 - Se o título estrangeiro apresentado for um dos referidos nas alíneas b) a e) do n.º 1 do artigo 125.º, a troca está condicionada ao cumprimento pelo titular dos requisitos fixados no RHLC para obtenção da carta de condução, com:
 
-a) Dispensa de provas do exame de condução para os títulos de condução emitidos por Estado-membro da União Europeia ou do Espaço Económico Europeu;
+a) Dispensa de provas do exame de condução para os títulos de condução referidos nas alíneas b) e c) do n.º 1 do artigo 125.º;
 
-b) Dispensa de provas do exame de condução para as categorias AM, A1, A2, B1, B e BE dos títulos de condução referidos na alínea c) do n.º 1 do artigo 125.º;
+b) Dispensa de provas do exame de condução para as categorias AM, A1, A2, B1, B e BE dos títulos de condução referidos na alínea d) do n.º 1 do artigo 125.º;
 
-c) Realização de prova teórica e prática, em regime de autopropositura, para as categorias A, C1, C1E, C, CE, D1, D1E, D, DE, T e averbamento do Grupo 2, para os títulos referidos na alínea c) do n.º 1 do artigo 125.º;
+c) Realização de prova teórica e prática, em regime de autopropositura, para as categorias A, C1, C1E, C, CE, D1, D1E, D, DE, T e averbamento do Grupo 2, para os títulos referidos na alínea d) do n.º 1 do artigo 125.º;
 
 d) Realização de provas de exame, quando previstas em acordos bilaterais ou multilaterais que vinculem o Estado português.
 
@@ -22,7 +22,7 @@ d) Realização de provas de exame, quando previstas em acordos bilaterais ou mu
 
 a) As registadas nos títulos de condução previstos na alínea b) do n.º 1 do artigo 125.º;
 
-b) As obtidas mediante exame de condução nos títulos de condução previstos nas alíneas c) e d) do artigo 125.º, desde que observado o disposto nas alíneas b) a d) do número anterior;
+b) As obtidas mediante exame de condução nos títulos de condução previstos nas alíneas d) e e) do artigo 125.º, desde que observado o disposto nas alíneas b) a d) do número anterior;
 
 c) As previstas no RHLC como extensão de habilitação de outra categoria de veículo.
 
@@ -32,7 +32,13 @@ a) Apreendido em Portugal para cumprimento de proibição ou inibição de condu
 
 b) Em que seja necessário proceder a qualquer alteração.
 
-5 - Os títulos de condução referidos nas alíneas b) a d) do n.º 1 do artigo 125.º não são trocados por idêntico título nacional quando deles conste terem sido obtidos por troca por idêntico título emitido por Estado não membro da União Europeia, ou do espaço económico europeu, a não ser que entre esse Estado e o Estado Português tenha sido celebrada convenção ou tratado internacional que obrigue ao reconhecimento mútuo dos títulos de condução.
+5 - Quando os títulos de condução referidos nas alíneas b) a e) do n.º 1 do artigo 125.º tenham resultado de troca por idêntico título, apenas é admissível a sua troca por idêntico título nacional se o título original tiver sido emitido por:
+
+a) Estado-Membro da União Europeia ou do Espaço Económico Europeu;
+
+b) Estado-Membro da OCDE ou da CPLP, desde que cumprida a condição prevista na subalínea i) da alínea c) do n.º 1 do artigo 125.º;
+
+c) Estado com o qual o Estado Português tenha celebrado convenção ou tratado internacional que obrigue ao reconhecimento mútuo dos títulos de condução.
 
 6 - Os titulares de títulos de condução estrangeiros não enumerados no n.º 1 do artigo 125.º podem obter carta de condução por troca dos seus títulos desde que comprovem que os mesmos foram obtidos mediante aprovação em exame, observem os requisitos fixados no RHLC para obtenção da carta de condução e obtenham aprovação em prova teórica e prática do exame de condução, em regime de autopropositura, para as categorias que pretendam trocar.
 
