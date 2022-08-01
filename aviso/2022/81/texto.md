@@ -1,0 +1,11 @@
+Aviso n.º 81/2022
+Sumário: O Secretário-Geral das Nações Unidas comunicou ter a República do Quénia retirado a sua declaração a 24 de setembro de 2021, ao abrigo do n.º 2 do artigo 36.º do Estatuto do Tribunal Internacional de Justiça, pela qual reconhece a jurisdição obrigatória daquele Tribunal.
+Por ordem superior se torna público que, por notificação de 28 de setembro de 2021, o Secretário-Geral das Nações Unidas comunicou ter a República do Quénia retirado a sua declaração a 24 de setembro de 2021, ao abrigo do n.º 2 do artigo 36.º do Estatuto do Tribunal Internacional de Justiça, pela qual reconhece a jurisdição obrigatória daquele Tribunal.
+(tradução)
+(original: inglês)
+«[...] o Governo da República do Quénia, pela sua Declaração de 12 de abril de 1965 reconhecendo como obrigatória a jurisdição do Tribunal Internacional de Justiça reserva-se o direito de em qualquer momento por meio de uma notificação dirigida ao Secretário-Geral das Nações Unidas para complementar, alterar ou retirar qualquer uma das declarações anteriores. Tais notificações entrarão em vigor na data da sua receção pelo Secretário-Geral das Nações Unidas.
+Em consideração ao exposto, o Governo da República do Quénia, declara que decidiu retirar e revogar, com efeitos a partir de hoje, a sua Declaração de 12 de abril de 1965, sobre a aceitação da jurisdição obrigatória do Tribunal Internacional de Justiça.
+O Governo do Quénia reserva-se o direito, de a qualquer momento, por meio de uma notificação por escrito dirigida ao Secretário-Geral das Nações Unidas, e com efeito a partir do momento de tal notificação, seja para alterar ou revogar a presente Declaração. Tais notificações entrarão em vigor na data da sua receção pelo Secretário-Geral das Nações Unidas.»
+A República Portuguesa é, desde 14 de dezembro de 1955, Parte no Estatuto do Tribunal Internacional de Justiça, que se encontra publicado juntamente com o texto da Carta das Nações Unidas no Diário da República, 1.ª série-A, n.º 117, de 22 de maio de 1991. Informações complementares sobre o Tribunal Internacional de Justiça poderão ser obtidas no seguinte endereço eletrónico: www.icj-cij.org.
+Departamento de Assuntos Jurídicos, 15 de julho de 2022. - A Diretora, Patrícia Galvão Teles.
+115525476
