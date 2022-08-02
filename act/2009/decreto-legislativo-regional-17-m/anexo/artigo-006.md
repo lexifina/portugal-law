@@ -2,7 +2,7 @@
 
 ### Conselho diretivo
 
-1 - O conselho diretivo do Serviço Regional de Proteção Civil, IP-RAM é composto por um presidente, coadjuvado por um vogal, nos termos da Lei nº 3/2004, de 15 de janeiro, alterada e republicada pelo Decreto-Lei nº 5/2012, de 17 de janeiro, equiparados para todos os efeitos legais, a diretor e a subdiretor regionais, cargos de direção superior de 1º grau e 2º grau, respetivamente, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais, na sequência de procedimento concursal.
+1 - O conselho diretivo do Serviço Regional de Proteção Civil, IP-RAM, é composto por um presidente, coadjuvado por dois vogais, nos termos do artigo 19.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, equiparados para todos os efeitos legais a diretor e subdiretores regionais, cargos de direção superior de 1.º e 2.º grau, respetivamente, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional de Saúde e Proteção Civil, nos termos da alínea a) do n.º 1 do artigo 5.º do Decreto Legislativo Regional n.º 5/2004/M, de 22 de abril, alterado pelos Decretos Legislativos Regionais n.os 27/2006/M, de 14 de julho, e 27/2016/M, de 6 de julho.
 
 2 - Sem prejuízo das competências que lhe forem cometidas por lei, compete ainda ao conselho diretivo, no âmbito da orientação e gestão do Instituto:
 
@@ -22,9 +22,9 @@ c) Garantir a execução das respetivas deliberações;
 
 d) Assegurar as relações com os órgãos da tutela e com os demais organismos públicos e em especial, exercer a autoridade de proteção civil, nos termos da lei.
 
-4 - O presidente é substituído nas suas faltas e impedimentos pelo vogal.
+4 - O presidente é substituído nas suas faltas e impedimentos por um dos vogais por si designado.
 
-5 - O vogal exerce as competências que nele forem delegadas ou subdelegadas pelo presidente.
+5 - Os vogais exercem as competências que lhes forem delegadas ou subdelegadas pelo presidente.
 
 6 - (Revogado.)
 

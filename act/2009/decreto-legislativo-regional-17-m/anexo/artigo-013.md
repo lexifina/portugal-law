@@ -4,9 +4,9 @@
 
 1 - Os médicos e enfermeiros do SEMER serão recrutados, de entre pessoal em exercício de funções no Serviço de Saúde da Região Autónoma da Madeira, E. P. E., em regime de acumulação, nos termos da lei, mediante processo de selecção com publicidade adequada.
 
-2 - Quando se repute conveniente, o pessoal médico e de enfermagem do SEMER poderá ser recrutado a tempo inteiro, em regime de cedência de interesse público, ou outro instrumento de mobilidade em vigor, pelo período de um ano, de entre pessoal em exercício de funções no Serviço de Saúde da Região Autónoma da Madeira, E. P. E., ou em instituições do Serviço Nacional de Saúde, possuidores dos requisitos constantes dos n.os 4, 5 e 6 do presente artigo.
+2 - Quando se repute conveniente, o pessoal médico e de enfermagem do SEMER poderá ser recrutado a tempo inteiro, em regime de cedência de interesse público, ou outro instrumento de mobilidade em vigor, pelo período máximo de um ano, de entre pessoal em exercício de funções no Serviço de Saúde da Região Autónoma da Madeira, EPERAM, ou em instituições do Serviço Nacional de Saúde, possuidores dos requisitos constantes dos n.os 4, 5 e 6 do presente artigo.
 
-3 - Sem prejuízo do disposto nos números anteriores e em casos devidamente fundamentados, poderão ser recrutados para o exercício de funções na EMIR médicos e enfermeiros, sem qualquer vínculo às instituições e serviços do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., em regime de contrato de prestação de serviços, nos termos da lei.
+3 - Sem prejuízo do disposto nos números anteriores e em casos devidamente fundamentados, poderão ser recrutados para o exercício de funções na EMIR médicos e enfermeiros, sem qualquer vínculo às instituições e serviços do Serviço de Saúde da Região Autónoma da Madeira, EPERAM, em regime de contrato de prestação de serviços, nos termos da lei.
 
 4 - O pessoal médico e de enfermagem do SEMER será recrutado de entre indivíduos possuidores de aprovação obrigatória em cursos específicos na área da emergência médica, certificados pelas entidades oficiais competentes.
 
@@ -28,6 +28,6 @@ c) Perfil físico e psicológico para o exercício da função.
 
 10 - O exercício de funções no SEMER é considerado compatível com o regime de trabalho de dedicação exclusiva do pessoal das carreiras médicas, para efeitos do artigo 9.º do Decreto-Lei n.º 73/90, de 6 de Março.
 
-11 - As remunerações do pessoal médico e de enfermagem, em regime de acumulação, serão objeto de um valor hora, a definir por despacho conjunto dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, mediante proposta do presidente do conselho diretivo do SRPC, IP-RAM.
+11 - As remunerações do pessoal médico e de enfermagem, em regime de acumulação, serão objeto de um valor hora, a definir por despacho conjunto dos Secretários Regionais das Finanças e de Saúde e Proteção Civil, mediante proposta do presidente do conselho diretivo do SRPC, IP-RAM.
 
 12 - O pessoal do SEMER pode renunciar unilateralmente ao exercício de funções, mediante aviso prévio escrito, dirigido ao coordenador do SEMER, com a antecedência mínima de 60 dias.

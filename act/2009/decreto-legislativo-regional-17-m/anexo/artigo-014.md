@@ -2,7 +2,7 @@
 
 ### Organização interna
 
-1 - A organização interna do SRPC, IP-RAM é a prevista nos respectivos estatutos, a aprovar por portaria conjunta do vice-presidente do Governo Regional e dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais.
+1 - A organização interna do SRPC, IP-RAM, é a prevista nos respetivos estatutos, a aprovar por portaria conjunta dos membros do Governo Regional que tutelam as áreas da Saúde, das Finanças e da Administração Pública.
 
 2 - (Revogado.)
 

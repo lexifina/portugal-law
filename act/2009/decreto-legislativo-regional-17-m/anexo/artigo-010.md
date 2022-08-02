@@ -10,7 +10,7 @@
 
 a) O presidente do conselho diretivo do SRPC, IP-RAM, que preside;
 
-b) O vogal do conselho diretivo do SRPC, IP-RAM;
+b) Os vogais do SRPC, IP-RAM;
 
 c) O inspector regional de Bombeiros;
 
