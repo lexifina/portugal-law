@@ -12,9 +12,9 @@
 
 3 - É correspondentemente aplicável o disposto nos n.os 2 a 6 do artigo seguinte.
 
-4 - A pessoa coletiva ou entidade equiparada pode ser constituída arguida, sendo representada por quem a pessoa coletiva designar ou, na ausência de tal designação, por quem a lei designar.
+4 - A pessoa coletiva ou entidade equiparada pode ser constituída arguida.
 
-5 - A entidade que careça de personalidade jurídica é representada pela pessoa que aja como diretor, gerente ou administrador e, na sua falta, por pessoa escolhida pela maioria dos associados.
+5 - A pessoa coletiva é representada por quem legal ou estatutariamente a deva representar e a entidade que careça de personalidade jurídica é representada pela pessoa que aja como diretor, gerente ou administrador e, na sua falta, por pessoa escolhida pela maioria dos associados.
 
 6 - No caso de cisão da pessoa coletiva ou entidade equiparada, a representação cabe aos representantes das pessoas cindidas.
 
@@ -22,4 +22,4 @@
 
 8 - No caso de extinção e quando tenha sido declarada a insolvência e até ao encerramento da liquidação, mantém-se o representante à data da extinção ou da declaração de insolvência.
 
-9 - Em caso algum a pessoa coletiva ou entidade equiparada arguida pode ser representada pela pessoa singular que também tenha a qualidade de arguido relativamente aos factos que são objeto do processo.
+9 - (Revogado.)

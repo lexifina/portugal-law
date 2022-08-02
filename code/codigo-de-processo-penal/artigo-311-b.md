@@ -7,3 +7,5 @@
 2 - A contestação não está sujeita a formalidades especiais.
 
 3 - Juntamente com o rol de testemunhas, o arguido indica os peritos e consultores técnicos que devem ser notificados para a audiência, bem como qualquer outra prova que entenda adequada à sua defesa.
+
+4 - Ao rol de testemunhas é aplicável o disposto na alínea e) do n.º 3 e nos n.os 7 e 8 do artigo 283.º

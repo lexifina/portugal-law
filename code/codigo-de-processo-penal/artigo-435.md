@@ -2,4 +2,4 @@
 
 ### (Audiência)
 
-Na audiência o tribunal é constituído pelo presidente da secção, pelo relator e por um juiz-adjunto.
+Na audiência o tribunal é constituído pelo presidente da secção, pelo relator e por dois juízes-adjuntos.

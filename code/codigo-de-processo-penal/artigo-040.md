@@ -4,9 +4,9 @@
 
 1 - Nenhum juiz pode intervir em julgamento, recurso ou pedido de revisão relativos a processo em que tiver:
 
-a) Praticado, ordenado ou autorizado ato previsto no n.º 1 do artigo 268.º ou no n.º 1 do artigo 269.º;
+a) Aplicado medida de coação prevista nos artigos 200.º a 202.º;
 
-b) Dirigido a instrução;
+b) Presidido a debate instrutório;
 
 c) Participado em julgamento anterior;
 

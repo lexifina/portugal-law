@@ -2,7 +2,7 @@
 
 ### (Acórdão)
 
-1 - Concluída a deliberação e votação, é elaborado acórdão pelo relator ou, se este tiver ficado vencido, pelo juiz-adjunto.
+1 - Concluída a deliberação e votação, é elaborado acórdão pelo relator ou, se este tiver ficado vencido, pelo primeiro juiz-adjunto que tiver feito vencimento.
 
 2 - São admissíveis declarações de voto.
 

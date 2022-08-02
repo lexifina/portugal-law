@@ -8,7 +8,7 @@ a) Proceder ao primeiro interrogatório judicial de arguido detido;
 
 b) Proceder à aplicação de uma medida de coacção ou de garantia patrimonial, à excepção da prevista no artigo 196.º, a qual pode ser aplicada pelo Ministério Público;
 
-c) Proceder a buscas e apreensões em escritório de advogado, consultório médico ou estabelecimento bancário, nos termos dos artigos 177.º, n.º 3, 180.º, n.º 1, e 181.º;
+c) Proceder a buscas e apreensões em escritório de advogado, consultório médico ou estabelecimento bancário, nos termos do n.º 5 do artigo 177.º, do n.º 1 do artigo 180.º e do artigo 181.º;
 
 d) Tomar conhecimento, em primeiro lugar, do conteúdo da correspondência apreendida, nos termos do artigo 179.º, n.º 3;
 

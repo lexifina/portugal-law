@@ -2,9 +2,9 @@
 
 ### (Conferência)
 
-1 - Na conferência intervêm o presidente da secção, o relator e um juiz-adjunto.
+1 - Na conferência intervêm o presidente da secção, o relator e dois juízes-adjuntos.
 
-2 - (Revogado.)
+2 - A discussão é dirigida pelo presidente, que, porém, só vota, para desempatar, quando não puder formar-se maioria com os votos do relator e dos juízes-adjuntos.
 
 3 - O recurso é julgado em conferência quando:
 

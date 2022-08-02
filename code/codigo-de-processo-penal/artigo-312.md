@@ -8,4 +8,4 @@
 
 3 - Sempre que o arguido se encontrar em prisão preventiva ou com obrigação de permanência na habitação, a data da audiência é fixada com precedência sobre qualquer outro julgamento.
 
-4 - O tribunal marca a data da audiência de modo a que não ocorra sobreposição com outros atos judiciais a que os advogados ou defensores tenham a obrigação de comparecer, aplicando-se o disposto no artigo 155.º do Código de Processo Civil.
+4 - O tribunal marca a data da audiência de modo a que não ocorra sobreposição com outros atos judiciais a que os advogados ou defensores tenham obrigação de comparecer, aplicando-se o disposto no artigo 151.º do Código de Processo Civil.

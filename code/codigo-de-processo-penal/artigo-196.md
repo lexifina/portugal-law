@@ -26,7 +26,7 @@ d) De que o incumprimento do disposto nas alíneas anteriores legitima a sua rep
 
 e) De que, em caso de condenação, o termo de identidade e residência só se extinguirá com a extinção da pena.
 
-4 - No caso de pessoa coletiva ou entidade equiparada, o termo deve conter a sua identificação social, a sede ou local de funcionamento da administração e o seu representante designado nos termos dos n.os 4 a 9 do artigo 57.º
+4 - No caso de pessoa coletiva ou entidade equiparada, o termo deve conter a sua identificação social, a sede ou local de funcionamento da administração e o seu representante designado nos termos dos n.os 4 a 8 do artigo 57.º
 
 5 - Do termo prestado pela pessoa coletiva ou entidade equiparada, deve ainda constar que foi dado conhecimento:
 
