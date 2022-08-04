@@ -1,0 +1,26 @@
+# Resolução do Conselho do Governo Regional n.º 720/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 138/2022, 2.º suplemento, de 2022-08-04
+
+**Sumário:** Autoriza a celebração de um contrato-programa com a IHM - Investimentos Habitacionais da Madeira, EPERAM, abreviadamente designada por, IHM, EPERAM, tendo em vista a concessão a fundo perdido àquela entidade pública empresarial mediante uma comparticipação financeira que não excederá o montante máximo de € 100.000,00.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 720/2022
+Sumário: Autoriza a celebração de um contrato-programa com a IHM - Investimentos Habitacionais da Madeira, EPERAM, abreviadamente designada por, IHM, EPERAM, tendo em vista a concessão a fundo perdido àquela entidade pública empresarial mediante uma comparticipação financeira que não excederá o montante máximo de € 100.000,00.
+Texto: Resolução n.º 720/2022 Considerando que na Região Autónoma da Madeira a implementação dos programas e investimentos na área da habitação com fins sociais está a cargo da IHM - Investimentos Habitacionais da Madeira, EPERAM, adiante abreviadamente designada por IHM, EPERAM; Considerando as atribuições da IHM, EPERAM, enquanto entidade gestora do Programa de Apoio Financeiro para as Empreitadas de Reabilitação de Edifícios (Reabilitar Madeira), regulamentado pela Portaria n.º 109/2021, de 17 de março, com enquadramento no Plano de Investimentos e Despesas de Desenvolvimento da Região Autónoma da Madeira e no Orçamento para 2022 daquela entidade pública empresarial;
+
+Considerando que, face à sua missão social, a previsão das receitas a arrecadar pela IHM, EPERAM, no exercício económico de 2022 não será suficiente para cobrir e satisfazer os encargos associados à execução do referido programa;
+Considerando que assim se afigura necessário disponibilizar à IHM, EPERAM, as verbas necessárias à prossecução das suas atribuições enquanto entidade gestora do Reabilitar Madeira;
+Considerando a Estratégia Regional de Habitação para o período de 2020 a 2030, aprovada pela Resolução n.º 494/2020, de 30 de junho;
+Considerando que, ao abrigo do n.º 2 do artigo 5.º do Decreto Legislativo Regional n.º 27/2004/M, de 24 de agosto, alterado pelos Decretos Legislativos Regionais n.ºs 26/2013/M, de 29 de julho, 6/2015/M, de 13 de agosto, 42-A/2016/M, de 30 de dezembro e 1-A/2020/M, de 31 de janeiro, tendo em conta as missões de interesse público e especiais obrigações de serviço público, no âmbito da gestão de programas habitacionais com fins sociais e atividades conexas desenvolvidas pela IHM, EPERAM, poderão ser-lhe atribuídas designadamente subsídios, apoios financeiros e indemnizações compensatórias, nomeadamente através da celebração de contratos-programa, nos termos conjugados das disposições contidas nos artigos 41.º e do n.º 3 do artigo 46.º do Decreto Legislativo Regional n.º 15/2021/M de 30 de Junho.
+Nestes termos, o Conselho do Governo reunido em plenário em 3 de agosto de 2022, resolve:
+1. Autorizar, ao abrigo do disposto no artigo 34.º do Decreto Legislativo Regional n.º 28-A/2021/M, de 30 de dezembro, que aprova o Orçamento da Região Autónoma da Madeira para 2022, em conjugação com o n.º 2 do artigo 5.º do Decreto Legislativo Regional n.º 27/2004/M, de 24 de agosto, alterado pelos Decretos Legislativos Regionais n.ºs 26/2013/M, de 29 de julho, 6/2015/M, de 13 de agosto, 42-A/2016/M, de 30 de dezembro e 1-A/2020/M, de 31 de janeiro, e no artigo 13.º da Portaria n.º 109/2021, de 17 de março, a celebração de um contrato-programa com a IHM - Investimentos Habitacionais da Madeira, EPERAM (IHM, EPERAM), tendo em vista a concessão a fundo perdido àquela entidade pública empresarial de uma comparticipação financeira para a assunção dos encargos financeiros inerentes às suas atribuições de entidade gestora do Programa de Apoio Financeiro para as Empreitadas de Reabilitação de Edifícios (Reabilitar Madeira), que visa apoiar projetos de reabilitação de edifícios.
+2. Para a prossecução do previsto no número anterior, conceder à IHM, EPERAM, uma comparticipação financeira que não excederá o montante máximo de 100.000,00 € (cem mil euros), que será paga durante o ano de 2022.
+3. Determinar que o contrato-programa a celebrar com a IHM, EPERAM produz efeitos desde a data da sua assinatura e até 31 de dezembro de 2022, sem prejuízo das obrigações assessórias que devam perdurar para além da cessação do contrato, nomeadamente a entrega de documentos, se for o caso.
+4. Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria Geral da Presidência, para a atribuição do apoio financeiro previsto nesta Resolução.
+5. Mandatar o Secretário Regional de Equipamentos e Infraestruturas para, em representação da Região Autónoma da Madeira, outorgar o referido contrato-programa.
+6. As verbas necessárias para o ano económico de 2022 estão inscritas no orçamento da Secretaria Regional de Equipamentos e Infraestruturas, na Classificação orgânica 52 9 50 01 09, Classificação funcional 061, Classificação económica 08.04.03.00.00, Projeto 52664, Fonte 387, Programa 047, Medida 016, Centro Financeiro M100804.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
