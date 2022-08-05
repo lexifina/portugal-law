@@ -1,0 +1,10 @@
+Resolução da Assembleia da República n.º 51/2022
+Sumário: Manifesta a oposição da Assembleia da República à introdução da energia nuclear e do gás natural na lista de atividades económicas ambientalmente sustentáveis da União Europeia e recomenda ao Governo que assegure a continuação da oposição de Portugal junto das instituições europeias.
+Manifesta a oposição da Assembleia da República à introdução da energia nuclear e do gás natural na lista de atividades económicas ambientalmente sustentáveis da União Europeia e recomenda ao Governo que assegure a continuação da oposição de Portugal junto das instituições europeias
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, relativamente ao Regulamento Delegado (UE) 2022/1214 da Comissão, de 9 de março de 2022, que altera o Regulamento Delegado (UE) 2021/2139 no respeitante às atividades económicas em determinados setores energéticos e o Regulamento Delegado (UE) 2021/2178 no respeitante à divulgação pública específica relativa a essas atividades económicas, o seguinte:
+1 - Manifestar formalmente a sua oposição à introdução de atividades específicas nos domínios da energia nuclear e do gás natural na lista de atividades económicas ambientalmente sustentáveis abrangidas pela taxonomia da União Europeia, prevista no referido regulamento delegado.
+2 - Apresentar à Comissão Europeia esse posicionamento formal e a condenação pelo facto de este regulamento não ter sido sujeito a consulta pública e avaliação de impacte com entrega de resultados aos parlamentos nacionais, tendo em conta os potenciais impactes ambientais, económicos e sociais deste regulamento e o disposto no ponto 13 do Acordo Interinstitucional «Legislar Melhor», de 13 de abril de 2016.
+3 - Recomendar ao Governo que estude a forma de Portugal prosseguir a sua oposição a este regulamento delegado, avaliando, designadamente, a possibilidade de recurso junto do Tribunal de Justiça da União Europeia e a via processual mais adequada para o assegurar.
+Aprovada em 21 de julho de 2022.
+O Presidente da Assembleia da República, Augusto Santos Silva.
+115571208
