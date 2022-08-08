@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "248",
+    "id": "141816",
+    "titulo": "Valoriza os bombeiros e os seus direitos, reconhecendo aos bombeiros profissionais o estatuto de profissão de risco e de desgaste rápido e atribuindo aos bombeiros voluntários o direito à reforma antecipada, procedendo à alteração do Decreto-Lei n.º 106/2002, de 13 de abril, do Decreto-Lei n.º 87/2019, de 2 de julho, do Decreto-Lei n.º 55/2006, de 15 de março, e do Decreto-Lei n.º 241/2007, de 21 de junho"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-08-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "62875",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-08-08",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2022-09-24",
+        "DatainicioApreciacaoPublica": "2022-08-25",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-09-19",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XVLeg/10CTSSI/Paginas/iniciativasdiscussaopublica.aspx?t=535342545a584e7a77364e764945786c5a326c7a6247463061585a684c31424b544341794e44686657465a664d53374371673d3d&Path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e5453533942636e463161585a765132397461584e7a595738765357357059326c6864476c3259584d6c4d6a426c625355794d454677636d566a6157456c517a4d6c5154636c517a4d6c51544e764a544977554356444d79564351574a7361574e684c306b675532567a63384f6a6279424d5a5764706332786864476c3259533951536b77674d6a513458316857587a457577716f3d"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a597a4d7a6b795a6d566d4c574a694f4445744e444a694e6931694f544e6c4c5449314e474d304d54593359544977596935775a47593d&fich=63392fef-bb81-42b6-b93e-254c4167a20b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-26",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d7a4d6d51354d5751324c5467314d6d55744e4452694e5330344e7a4e694c5445315a446c6b5a546b785a5745344e4335775a47593d&fich=c32d91d6-852e-44b5-873b-15d9de91ea84.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8334",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8334",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7483",
+            "motivoCessacao": null,
+            "nome": "Gilberto Anjos"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-06-28",
+            "dataRemessa": "2023-06-28",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2023-06-28",
+            "descricao": "Votos a favor do PS, PSD, IL e BE registando-se a ausência do CH e PCP",
+            "detalhe": null,
+            "id": "115301",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "59",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2022-08-08",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 13.ª Comissão",
+    "OevId": "1308656",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996326",
+        "obs": null,
+        "pag": [
+          "3-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-06-28",
+        "pubLeg": "XV",
+        "pubNr": "250",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/250/2023-06-28/3?pgs=3-6&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
