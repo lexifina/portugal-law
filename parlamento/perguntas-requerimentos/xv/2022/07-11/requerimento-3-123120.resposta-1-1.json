@@ -1,0 +1,37 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Rw23Vat1crExYT4G5DSbTtIcbaTrKAsLCDjJmdaRvIuxQmpjNXlteM0UBC1odjp2f3HP5j03ofnQYCU4ykN5sgLpQhNGwtmd1YOsD3gyJe0gSxSVB7n41uHJAoUu1bht3Lw0G8a7mmxpMM%2bLxZ2Tr7tx1ywCpqOW044tjbCsexIbLe8xH4ECVffSpi6OnIIVGxWCT3vfv%2bBY3obnTzzLwqcBV7oXMoYM26a4iedsSfimyISCEw6ViRgV0E61t7DS%2fcBDOu%2feMsWNgZnFHJUyMeRb9h41S%2bqszPi1DzGckzthTAU2WiQhpNM09OMX6S7KPKg6G3Wvn4YPHc5We6hp%2b%2f3KCSLFH0%2f%2fObIIumnChLVJKIOems%2b4Rk75IkM3%2fiYlk8XjTqDbzNg5%2fyJT%2fru%2fDA%3d%3d&fich=RequerimentosXV_json.txt&Inline=true",
+  "ficheiro_sha256": "5e72bb83b1dc3ce7aad3688787c6d2f5aca64e4843eb96b97466a68fa5bcc512",
+  "legislatura": "XV",
+  "pergunta": {
+    "id": "123120",
+    "tipo": "Requerimento",
+    "numero": "3",
+    "assunto": "Requerimento à Autoridade da Concorrência dos pareceres relativos às aquisições da totalidade do capital social das sociedades detentoras da concessionária Água de Paços de Ferreira, S.A.",
+    "ficheiro_registo": "requerimento-3-123120.json"
+  },
+  "destinatario": "Autoridade da Concorrência",
+  "data_registo": "2022-08-12",
+  "data_registo_base": "record date = the answer day (Destinatarios[].respostas[].dataResposta) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "dataResposta": "2022-08-12",
+    "docRemetida": null,
+    "entidade": "Autoridade da Concorrência",
+    "ficheiro": "",
+    "ficheiroComTipo": [
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a5463314d3259304d7a63744e6d5a6a5a433030596a526d4c5745304d3245745a6a426a4f5467794d474e6a596a68684c6e426b5a673d3d&fich=e753f437-6fcd-4b4f-a43a-f0c9820ccb8a.pdf&Inline=true"
+      },
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a6d56684d54646a4e3259745932597a4f5330304f5455324c5467314d6a4d744e7a4a694e44466d4f474a6a596a46694c6e426b5a673d3d&fich=fea17c7f-cf39-4956-8523-72b41f8bcb1b.pdf&Inline=true"
+      },
+      {
+        "tipo": "Resposta",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e54637a4e3259794d446b744e6a6c695a4330304d32517a4c574932595467744f5463354d57566c4d544e6b4e7a49324c6e426b5a673d3d&fich=5737f209-69bd-43d3-b6a8-9791ee13d726.pdf&Inline=true"
+      }
+    ],
+    "publicacao": null
+  }
+}
