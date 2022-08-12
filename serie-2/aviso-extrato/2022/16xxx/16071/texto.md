@@ -1,0 +1,9 @@
+Aviso (extrato) n.º 16071/2022
+Sumário: Abertura do período de consulta pública do projeto de Regulamento Municipal de Uso do Fogo e de Limpeza de Terrenos.
+Abertura do período de consulta pública do projeto de Regulamento Municipal de Uso do Fogo e de Limpeza de Terrenos
+Benjamim do Nascimento Pereira Rodrigues, Presidente da Câmara Municipal de Macedo de Cavaleiros torna público, nos termos do disposto na alínea t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º, ambos da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, em reunião ordinária realizada em 19 de julho de 2022, deliberou submeter a consulta pública, nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, Decreto-Lei n.º 4/2015, de 07 de janeiro, o projeto de Regulamento Municipal de Uso do Fogo e de Limpeza de Terrenos.
+Mais torna público, que aquele projeto de Regulamento se encontra em consulta pública pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República, podendo o mesmo ser consultado na íntegra no Gabinete Técnico Florestal, durante o período normal de funcionamento ou na página eletrónica do Município de Macedo de Cavaleiros, em www.cm-macedodecavaleiros.pt.
+As reclamações, observações ou sugestões deverão ser apresentadas por escrito, no Atendimento Geral da Câmara Municipal de Macedo de Cavaleiros, ou por via eletrónica, para o endereço geral@cm-macedodecavaleiros.pt, devendo conter, em qualquer dos meios a utilizar, a identificação completa do seu subscritor.
+Para constar se lavrou o presente Aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume, bem como no site www.cm-macedodecavaleiros.pt.
+4 de agosto de 2022. - O Presidente da Câmara Municipal, Benjamim do Nascimento Pereira Rodrigues.
+315587133
