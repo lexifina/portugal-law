@@ -12,7 +12,7 @@ b) Adjudicação de propostas relativas a obras, a bens móveis e a serviços, e
 
 3 - A intervenção da ANCP e das UMC, nos termos do n.º 1, é repartida segundo categorias de obras, bens e serviços, a definir por portaria do membro do Governo responsável pela área das finanças e por portaria dos membros do Governo responsáveis pelas áreas das finanças e do sector, respectivamente.
 
-4 - A contratação centralizada de bens e serviços, nos termos do n.º 1, é obrigatória para as entidades compradoras vinculadas, sendo-lhes proibida a adopção de procedimentos tendentes à contratação directa de obras, de bens móveis e de serviços abrangidos pelas categorias definidas nos termos do n.º 3, salvo autorização prévia expressa do membro do Governo responsável pela área das finanças, precedida de proposta fundamentada da entidade compradora interessada.
+4 - A contratação centralizada de bens e serviços, nos termos do n.º 1, é obrigatória para as entidades compradoras vinculadas, sendo-lhes proibida a adoção de procedimentos tendentes à contratação direta de obras, de bens móveis e de serviços abrangidos pelas categorias definidas nos termos do n.º 3, salvo autorização prévia expressa do membro do Governo responsável pela área dos serviços partilhados da Administração Pública, precedida de proposta fundamentada da entidade compradora interessada.
 
 5 - A competência do membro do Governo responsável pela área das finanças pode ser delegada no conselho de administração da ANCP.
 
