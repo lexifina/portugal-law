@@ -2,10 +2,6 @@
 
 ## Reposição de dinheiros públicos
 
-## Divisão II
-
-## Regime excepcional - autonomia administrativa e financeira
-
 # Artigo 36.º
 
 ### Formas de reposição
