@@ -1,0 +1,125 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htMQnPrgjv4KkFRY%2fI1jwxmKvHDJ8ruJcNaOaxOwtFYSmSuNSxzkXYcUynfwDiMZMQb6YGEXhzZX8QqAvKD91Hv%2fIhNoiPHJtZRFCmwHNE%2fwRImArzvUbCTovBwhVDIPNCJbS%2f3Pwg9anJyJiCfPDVDdKdUc%2bB1xyiR0OV5QbrFaGxnlP4Qdl1hFY%2b6M%2bHDM%2bGJpcHvf99iTPjMgxqZlZkwhBJ3amUWY3GEX%2fpgDegWUzEOG3WEXnk4c8c5b2uWpUZK%2bFuOYS2o2cCRSzJGi0gRtGcZ2RK39ndaqzMCxkgl8QfRQ4JX1bzcPCRbY4fNrwKWkcI3t%2fwP48Em6fZha27Am6RlmuGWJHL2r7n4HrIsn6FSWmx3fsNrhCXsOr14%2b&fich=AtividadesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "7d1a74c7417c8f7bb563fe741a28ea4d1a3d270f144861b23768e40994a6e549",
+  "legislatura": "XV",
+  "tipo": "Voto",
+  "numero": "133",
+  "data_registo": "2022-08-16",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "De pesar pelo falecimento do Senhor General João de Almeida Bruno",
+    "AutoresGP": [
+      "André Ventura (CH)",
+      "Bruno Nunes (CH)",
+      "Diogo Pacheco de Amorim (CH)",
+      "Filipe Melo (CH)",
+      "Gabriel Mithá Ribeiro (CH)",
+      "Jorge Galveias (CH)",
+      "Pedro dos Santos Frazão (CH)",
+      "Pedro Pessanha (CH)",
+      "Pedro Pinto (CH)",
+      "Rita Matias (CH)",
+      "Rui Afonso (CH)",
+      "Rui Paulo Sousa (CH)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2022-09-16",
+    "DataAnuncio": null,
+    "DataEntrada": "2022-08-16",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XV",
+    "Numero": "133",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "935582",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-08-20",
+        "pubLeg": "XV",
+        "pubNr": "30",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/030/2022-08-20/2?pgs=2-3&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "35869",
+        "obs": null,
+        "pag": [
+          "72-72"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-09-17",
+        "pubLeg": "XV",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/039/2022-09-17/72?pgs=72&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2022-09-16",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> IL</I>, <I> L</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PAN</I>",
+        "id": "103319",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926451",
+            "obs": null,
+            "pag": [
+              "70-71",
+              "82-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-09-17",
+            "pubLeg": "XV",
+            "pubNr": "39",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/039/2022-09-17/70?pgs=70-71,82&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "38",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
