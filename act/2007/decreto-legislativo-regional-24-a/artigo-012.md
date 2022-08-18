@@ -4,7 +4,7 @@
 
 1 - Caso haja lugar ao abate sanitário previsto na alínea d) do n.º 3 do artigo 10.º, os proprietários dos apiários terão direito a uma indemnização nos termos do disposto nos números seguintes.
 
-2 - As indemnizações a que se refere o presente artigo são calculadas com base numa tabela, a aprovar por despacho conjunto do membro do Governo Regional com competência em matéria de finanças e do membro do Governo Regional com competência em matéria de agricultura, que fixa os valores em dinheiro das colmeias, cortiços, núcleos e nucléolos componentes de apiários sujeitos a abate sanitário.
+2 - As indemnizações a que se refere o presente artigo são calculadas com base numa tabela, a aprovar por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de agricultura, que fixa os valores, em dinheiro, correspondentes ao material apícola destruído.
 
 3 - Não têm direito a indemnização os proprietários de apiários que se encontrem em infracção ao disposto no presente diploma.
 
@@ -12,6 +12,6 @@
 
 notificação.
 
-5 - Se da averiguação referida no número anterior resultarem indícios de incumprimento de alguma das mencionadas disposições ou medidas, a direcção regional com competência em matéria de desenvolvimento agrário deve iniciar de imediato o competente processo de contra-ordenação, ficando o pagamento da indemnização dependente da decisão final do mesmo.
+5 - Se da averiguação referida no número anterior resultarem indícios de incumprimento de alguma das mencionadas disposições ou medidas, a direção regional com competência em matéria de veterinária deve iniciar, de imediato, o competente processo de contraordenação, ficando o pagamento da indemnização dependente da decisão final do mesmo.
 
-6 - Em qualquer caso, o processo relativo à indemnização deve ser instruído com uma declaração, emitida pelo serviço de ilha com competência em matéria de agricultura, relativa ao cumprimento das disposições e medidas referidas no n.º 4, a requerer pelos proprietários de apiários sujeitos a abate sanitário e enviada à direcção regional com competência em matéria de desenvolvimento agrário.
+6 - Em qualquer caso, o processo relativo à indemnização deve ser instruído com uma declaração, emitida pelo serviço de ilha com competência em matéria de agricultura, relativa ao cumprimento das disposições e medidas referidas no n.º 4, a requerer pelos proprietários de apiários sujeitos a abate sanitário, e enviada à direção regional com competência em matéria de veterinária.

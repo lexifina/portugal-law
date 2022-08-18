@@ -1,6 +1,6 @@
 ## Capítulo IV
 
-## Produção, transformação e comercialização de mel
+## Produção, transformação e comercialização de mel e produtos apícolas
 
 # Artigo 16.º
 

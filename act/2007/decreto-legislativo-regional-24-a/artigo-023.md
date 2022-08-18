@@ -2,8 +2,8 @@
 
 ### Afectação do produto das coimas
 
-O produto das coimas constitui receita dos seguintes organismos:
+O produto das coimas constitui receita da Região Autónoma dos Açores.
 
-a) 60 % para os cofres da Região;
+a) (Revogada.)
 
-b) 40 % para a entidade que levanta o auto, caso esta não seja da administração regional autónoma.
+b) (Revogada.)

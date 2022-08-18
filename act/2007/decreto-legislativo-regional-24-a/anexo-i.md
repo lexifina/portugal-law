@@ -12,8 +12,8 @@ Varroose.
 
 Acthinose por Aethina tumida.
 
-Tropilaelaps por Tropilaeps sp.
+Tropilaelaps por Tropilaelaps sp.
 
-Ascosferiose (unicamente em zonas controladas).
+Ascosferiose.
 
-Nosemose (unicamente em zonas controladas).
+Nosemose.
