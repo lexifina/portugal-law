@@ -14,11 +14,11 @@
 
 2.º escalão - rendimentos superiores a 0,5 e iguais ou inferiores a 1;
 
-3.º escalão - rendimentos superiores a 1 e iguais ou inferiores a 1,5;
+3.º escalão - rendimentos superiores a 1 e iguais ou inferiores a 1,7;
 
-4.º escalão - rendimentos superiores a 1,5 e iguais ou inferiores a 2,5;
+4.º escalão - rendimentos superiores a 1,7 e iguais ou inferiores a 2,5;
 
-5.º escalão - rendimentos superiores a 2,5;
+5.º escalão - rendimentos superiores a 2,5.
 
 3 - O valor anual dos rendimentos a considerar para efeitos do número anterior corresponde a 14 vezes o valor do IAS.
 
