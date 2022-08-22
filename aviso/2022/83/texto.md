@@ -1,0 +1,8 @@
+Aviso n.º 83/2022
+Sumário: Torna público que a República Democrática de Timor-Leste depositou, no dia 17 de junho de 2022, junto do Secretariado Executivo da CPLP, o seu instrumento de ratificação relativo ao Acordo sobre a Mobilidade entre os Estados-Membros da Comunidade de Países de Língua Portuguesa.
+Por ordem superior se torna público que a República Democrática de Timor-Leste depositou, no dia 17 de junho de 2022, junto do Secretariado Executivo da Comunidade dos Países de Língua Portuguesa, o seu instrumento de ratificação relativo ao Acordo sobre a Mobilidade entre os Estados-Membros da Comunidade de Países de Língua Portuguesa (CPLP), assinado em Luanda, a 17 de julho de 2021.
+O referido Acordo foi aprovado pelo Parlamento Nacional no dia 25 de abril de 2022 e ratificado através da Resolução do Parlamento Nacional n.º 15/2022, de 19 de maio, e publicado no Jornal da República, série I, n.º 20 D, de 19 de maio de 2022.
+Nos termos do seu n.º 2 do artigo 30.º, o Acordo sobre a Mobilidade entre os Estados-Membros da CPLP entrou em vigor, para a República Democrática de Timor-Leste, no dia 1 de julho de 2022.
+Mais se informa que o Acordo já se encontra em vigor para a República Portuguesa, República Democrática de São Tomé e Príncipe e República da Guiné-Bissau desde 1 de janeiro de 2022, para a República de Moçambique desde 1 de fevereiro de 2022, para a República Federativa do Brasil desde o dia 1 de abril de 2022 e para a República de Angola desde o dia 1 de julho de 2022.
+Direção-Geral de Política Externa, 8 de agosto de 2022. - A Subdiretora-Geral, Cristina Castanheta.
+115597315
