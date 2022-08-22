@@ -1,0 +1,8 @@
+Aviso n.º 84/2022
+Sumário: Torna público que a República de Angola depositou, no dia 24 de junho de 2022, junto do Secretariado Executivo da CPLP, o seu instrumento de ratificação relativo ao Acordo sobre a Mobilidade entre os Estados-Membros da Comunidade de Países de Língua Portuguesa.
+Por ordem superior se torna público que a República de Angola depositou, no dia 24 de junho de 2022, junto do Secretariado Executivo da Comunidade dos Países de Língua Portuguesa, o seu instrumento de ratificação relativo ao Acordo sobre Mobilidade entre os Estados-Membros da Comunidade de Países de Língua Portuguesa (CPLP), assinado em Luanda, a 17 de julho de 2021.
+O referido Acordo foi aprovado pela Assembleia Nacional, no dia 7 de abril de 2022, através da Resolução n.º 13/22, publicada no Diário da República de Angola, 1.ª série, n.º 61, de 7 de abril de 2022, e ratificado pelo Presidente da República de Angola, no dia 12 de abril de 2022.
+Nos termos do seu n.º 2 do artigo 30.º, o Acordo sobre a Mobilidade entre os Estados-Membros da CPLP entrou em vigor, para a República de Angola, no dia 1 de julho de 2022.
+Mais se informa que o Acordo já se encontra em vigor para a República Portuguesa, a República Democrática de São Tomé e Príncipe, a República de Cabo Verde e a República da Guiné-Bissau desde 1 de janeiro de 2022, para a República de Moçambique desde 1 de fevereiro de 2022, para a República Federativa do Brasil desde o dia 1 de abril de 2022 e para a República Democrática de Timor-Leste desde o dia 1 de julho de 2022.
+Direção-Geral de Política Externa, 8 de agosto de 2022. - A Subdiretora-Geral, Cristina Castanheta.
+115597356
