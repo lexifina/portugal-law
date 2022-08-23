@@ -1,0 +1,10 @@
+Aviso n.º 16478/2022
+Sumário: Prorrogação do prazo de revisão do Plano Diretor Municipal de Vendas Novas.
+Prorrogação do prazo de Revisão do Plano Diretor Municipal de Vendas Novas
+Luís Carlos Piteira Dias, Presidente da Câmara Municipal de Vendas Novas, torna público, que a Câmara Municipal de Vendas Novas deliberou, em reunião de Câmara, no dia 26 de julho de 2022, por maioria, aprovar a prorrogação do prazo de Revisão do Plano Diretor Municipal de Vendas Novas, por mais 2 (dois) anos, ao abrigo do n.º 6 do artigo 76.º do RJIGT - Regime Jurídico dos Instrumentos de Gestão Territorial, na redação conferida pelo Decreto-Lei n.º 80/2015 de 14 de maio, alterado pelo Decreto-Lei n.º 81/2020, de 2 de outubro, pelo Decreto-Lei n.º 25/2021, de 29 de março, e pelo Decreto-Lei n.º 45/2022, de 8 de julho, com efeitos a partir do dia 3 de setembro de 2022, nos termos e com os objetivos publicitados no Aviso n.º 12994/2020 de 3 de setembro e na Declaração de Retificação n.º 792/2020 de 13 de novembro.
+4 de agosto de 2022. - O Presidente da Câmara Municipal, Luís Carlos Piteira Dias.
+Deliberação
+Luís Carlos Piteira Dias, Presidente da Câmara Municipal de Vendas Novas, declara, para os devidos efeitos, que na reunião ordinária da Câmara Municipal de Vendas Novas, realizada no dia 26 de julho de 2022, foi deliberado por maioria o seguinte:
+Aprovar, nos termos do n.º 6 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial, na redação conferida pelo Decreto-Lei n.º 80/2015 de 14 de maio, alterado pelo Decreto-Lei n.º 81/2020, de 2 de outubro, pelo Decreto-Lei n.º 25/2021, de 29 de março, e pelo Decreto-Lei n.º 45/2022, de 8 de julho, a prorrogação do prazo de elaboração da Revisão do Plano Diretor Municipal de Vendas Novas, estabelecido inicialmente pelo Aviso n.º 12994/2020 de 3 de setembro e pela Declaração de Retificação n.º 792/2020 de 13 de novembro, por mais 2 (dois) anos, a contar da data de 3 de setembro de 2022.
+4 de agosto de 2022. - O Presidente da Câmara Municipal, Luís Carlos Piteira Dias.
+615590446
