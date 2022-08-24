@@ -1,0 +1,1 @@
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 8 de setembro de 2015. - O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes, em 8 de setembro de 2015. - O Secretário de Estado do Turismo, Adolfo Miguel Baptista Mesquita Nunes, em 9 de setembro de 2015.
