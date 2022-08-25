@@ -1,0 +1,5 @@
+Aviso n.º 60/2022/M
+Sumário: Prorroga por mais um ano o prazo de vigência das medidas preventivas a que ficou sujeita a área abrangida pela suspensão parcial do Plano Diretor Municipal de Santa Cruz, determinada pela Resolução n.º 32/2020, de 7 de fevereiro.
+No cumprimento dos termos do disposto no n.º 1 do artigo 161.º do Decreto Legislativo Regional n.º 18/2017/M, de 27 de junho, que institui o Sistema Regional de Gestão Territorial da Região Autónoma da Madeira, torna-se público que foi publicada no Jornal Oficial da RAM, 1.ª série, 2.º suplemento, n.º 138, de 4 de agosto de 2022, a Resolução n.º 724/2022, aprovada na reunião do Conselho do Governo realizada no dia 3 de agosto, que prorroga por mais um ano o prazo de vigência das medidas preventivas a que ficou sujeita a área abrangida pela suspensão parcial do Plano Diretor Municipal de Santa Cruz, determinada pela Resolução n.º 32/2020, de 7 de fevereiro.
+9 de agosto de 2022. - O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
+315601875
