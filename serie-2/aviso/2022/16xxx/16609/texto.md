@@ -1,0 +1,8 @@
+Aviso n.º 16609/2022
+Sumário: Consulta pública do Projeto de Regulamento CUBA + SOCIAL.
+Projeto de Regulamento CUBA + SOCIAL
+João Manuel Casaca Português, Presidente da Câmara Municipal de Cuba, no uso da faculdade que lhe confere a alínea t) do n.º 1 do artigo 35.º, conjugado com os n.os 1 e 2 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro, torna público nos termos e para os efeitos do disposto no artigo 12.º do Dec. Lei n.º 50/2018, 16 de agosto, complementado pelo Dec. Lei n.º 55/2020, de 12 de agosto, em articulação com o artigo 101.º do Código do Procedimento Administrativo, que a Câmara Municipal, na sua reunião de 20 de julho de 2022, aprovou submeter a Consulta Pública o projeto de Regulamento CUBA + SOCIAL, pelo período de 30 dias, a contar da publicação do presente Aviso no Diário da República.
+Durante o período de consulta pública, o projeto de Regulamento CUBA + SOCIAL, encontra-se disponível na página eletrónica da Internet do Município de Cuba (http://www.cm-cuba.pt/), bem como, em suporte físico, no Serviço Ação Social, sito no Edifício dos Paços do Concelho - Rua Serpa Pinto, 84 em Cuba, nos dias úteis no horário compreendido entre as 09h30 e as 12h00 e entre as 14h30 e as 17h00 e na Juntas de Freguesia do Concelho.
+Os interessados poderão apresentar contributos, observações e/ou sugestões, mediante exposição escrita, devidamente identificada, e deverão ser entregues ou enviadas, até ao final do período de consulta pública para endereço do Município de Cuba ou através do e-mail: geral@cm-cuba.pt, até às 17h30 do último dia do prazo referido.
+20 de julho de 2022. - O Presidente da Câmara, João Manuel Casaca Português.
+315619493
