@@ -1,0 +1,15 @@
+# Artigo 33.º-A
+
+### Indicações para efeitos de regresso e para efeitos de recusa de entrada e de permanência
+
+1 - As decisões de afastamento ou de expulsão judicial executadas, incluindo, no primeiro caso, as que decorram de readmissões ativas para Estados terceiros, de conduções à fronteira nos termos do artigo 147.º ou do apoio ao regresso voluntário nos termos do artigo 139.º, dão imediatamente origem à inserção de uma indicação para efeitos de recusa de entrada e de permanência no Sistema Integrado de Informação do SEF e no SIS, devendo sempre acautelar-se o registo da data da sua execução ou do cumprimento do dever de regresso.
+
+2 - Para efeitos do disposto no número anterior, o período de interdição de entrada e de permanência determinado na decisão de afastamento ou de expulsão é contado a partir da data efetiva da execução do regresso, com a saída do visado.
+
+3 - Nos processos de afastamento nos quais se determine um prazo para a saída voluntária nos termos do n.º 1 do artigo 160.º, a decisão de afastamento dá origem à inserção de uma indicação para efeitos de regresso no SIS, devendo averbar-se eventuais prorrogações ou a suspensão do procedimento, nomeadamente em virtude da interposição de recurso judicial, que obstem à sua execução nos termos da presente lei.
+
+4 - Nas situações previstas no número anterior, quando a saída seja comprovada pelo afastando, quando o SEF dela tenha conhecimento por qualquer meio ou em virtude da sua comunicação por outro Estado membro da União Europeia ou Estado onde vigore a Convenção de Aplicação, a indicação para efeitos de regresso é suprimida e, se a decisão de afastamento for acompanhada de uma proibição de entrada, procede-se à sua substituição por uma indicação para efeitos de recusa de entrada e de permanência no SIS e no Sistema Integrado de Informação do SEF.
+
+5 - Sempre que seja recusada a entrada em território nacional nos termos previstos na alínea d) do n.º 1 do artigo 32.º e, após avaliação das circunstâncias pessoais do nacional de país terceiro, se conclua que a sua presença constitui uma ameaça para a ordem pública, a segurança pública ou a segurança nacional em conformidade com o disposto no n.º 2 do artigo 24.º do Regulamento (UE) 2018/1861, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, é proferida decisão de inserção de indicação para efeitos de recusa de entrada e permanência no Sistema Integrado de Informação do SEF e no SIS, válida pelo período máximo de 5 anos.
+
+6 - Para efeitos do disposto no número anterior, o prazo concreto de interdição das indicações de recusa de entrada e de permanência e as situações passíveis de configurar uma ameaça para a ordem pública, a segurança pública ou a segurança nacional, em especial as que envolvam cidadãos estrangeiros que tenham contornado ou tentado contornar as normas aplicáveis em matéria de entrada e de permanência, em território nacional ou no dos Estados membros da União Europeia ou dos Estados onde vigore a Convenção de Aplicação, são determinadas por despacho do diretor nacional do SEF tendo em atenção, nomeadamente, o disposto na alínea h) do n.º 1 do artigo 134.º
