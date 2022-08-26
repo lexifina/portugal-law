@@ -2,7 +2,7 @@
 
 ### Relação de créditos reconhecidos e não reconhecidos
 
-1 - Nos 15 dias subsequentes ao termo do prazo das reclamações, o administrador da insolvência apresenta na secretaria uma lista de todos os credores por si reconhecidos e uma lista dos não reconhecidos, ambas por ordem alfabética, relativamente não só aos que tenham deduzido reclamação como àqueles cujos direitos constem dos elementos da contabilidade do devedor ou sejam por outra forma do seu conhecimento.
+1 - Nos 15 dias subsequentes ao termo do prazo das reclamações, o administrador da insolvência apresenta na secretaria uma lista de todos os credores por si reconhecidos e uma lista dos não reconhecidos, ambas por ordem alfabética, relativamente não só aos que tenham deduzido reclamação como àqueles cujos direitos constem dos elementos da contabilidade do devedor ou sejam por outra forma do seu conhecimento, bem como uma proposta de graduação dos credores reconhecidos, que tenha por referência a previsível composição da massa insolvente e respeite o disposto no n.º 2 do artigo 140.º e na alínea d) do n.º 1 do artigo 241.º
 
 2 - Da lista dos credores reconhecidos consta a identificação de cada credor, a natureza do crédito, o montante de capital e juros à data do termo do prazo das reclamações, as garantias pessoais e reais, os privilégios, a taxa de juros moratórios aplicável, as eventuais condições suspensivas ou resolutivas e o valor dos bens integrantes da massa insolvente sobre os quais incidem garantias reais de créditos pelos quais o devedor não responda pessoalmente.
 
