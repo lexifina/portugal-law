@@ -16,7 +16,7 @@ c) De meios de subsistência, tal como definidos na portaria a que se refere a a
 
 d) Em como está abrangido pelo Serviço Nacional de Saúde ou dispõe de seguro de saúde.
 
-2 - A autorização de residência concedida ao abrigo do presente artigo é válida por um ano e renovável, por iguais períodos, se o seu titular continuar a preencher as condições de concessão.
+2 - A autorização de residência concedida ao abrigo do presente artigo a estudantes do ensino superior é válida por três anos, renovável por iguais períodos e, nos casos em que a duração do programa de estudos seja inferior a três anos, é emitida pelo prazo da sua duração.
 
 3 - A autorização de residência concedida a estudantes do ensino superior abrangidos por programas da União Europeia ou multilaterais que incluam medidas de mobilidade, ou por um acordo entre duas ou mais instituições do ensino superior, é de dois anos ou tem a duração do programa de estudos se for inferior, podendo ser de um ano no caso de não se encontrarem reunidas à data da concessão as condições do n.º 4 do artigo 62.º
 

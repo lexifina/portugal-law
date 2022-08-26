@@ -12,7 +12,7 @@ a) Quando o seu titular não satisfaça as condições da sua concessão;
 
 b) Quando tenham sido emitidos com base em prestação de falsas declarações, utilização de meios fraudulentos ou através da invocação de motivos diferentes daqueles que motivaram a entrada do seu titular no País;
 
-c) Quando o respectivo titular tenha sido objecto de uma medida de afastamento do território nacional.
+c) Quando o respetivo titular tenha sido objeto de uma medida de afastamento do território nacional, se encontre indicado para efeitos de recusa de entrada e de permanência no Sistema Integrado de Informação do SEF, ou se encontre indicado para efeitos de regresso ou para efeitos de recusa de entrada e de permanência no SIS;
 
 d) Quando o seu titular constitua perigo ou ameaça grave para a ordem pública, a segurança ou a defesa nacional, pelo seu envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei.
 

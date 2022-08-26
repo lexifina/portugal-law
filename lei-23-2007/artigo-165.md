@@ -12,4 +12,4 @@
 
 5 - É competente para determinar o reenvio do cidadão estrangeiro para o Estado requerido o autor do pedido de readmissão.
 
-6 - O reenvio do cidadão estrangeiro para o Estado requerido implica a inscrição na lista nacional de pessoas não admissíveis e no Sistema de Informação Schengen, caso o Estado requerido seja um Estado terceiro.
+6 - O reenvio do cidadão estrangeiro para o Estado requerido implica a inscrição, nos termos do artigo 33.º-A, na lista nacional de pessoas não admissíveis no Sistema Integrado de Informação do SEF e, caso o Estado requerido seja um Estado terceiro, no SIS.

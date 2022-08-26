@@ -12,9 +12,9 @@
 
 5 - O membro do Governo responsável pela área da ciência e ensino superior mantém junto do SEF uma lista atualizada dos centros de investigação e instituições aprovadas para efeitos do disposto na presente lei.
 
-6 - A autorização de residência concedida a investigadores tem validade de um ano, renovável nos termos do artigo 78.º, desde que se mantenham as condições de concessão.
+6 - A autorização de residência concedida a investigadores é válida por dois anos, renovável por iguais períodos ou tem a duração da convenção de acolhimento, caso esta seja inferior a dois anos.
 
-7 - A autorização de residência concedida a investigadores abrangidos por programas da União Europeia ou multilaterais, que incluam medidas de mobilidade, é de dois anos ou tem a duração da convenção de acolhimento, se esta for inferior, exceto nos casos em que os investigadores não reúnam as condições do artigo 62.º à data da concessão, devendo neste âmbito ter a duração de um ano.
+7 - A autorização de residência concedida a investigadores abrangidos por programas da União Europeia ou multilaterais, que incluam medidas de mobilidade, é de dois anos ou tem a duração da convenção de acolhimento, caso esta seja inferior a dois anos, exceto nos casos em que os investigadores não reúnam as condições do artigo 62.º à data da concessão, devendo neste âmbito ter a duração de um ano.
 
 8 - A convenção de acolhimento caduca se o investigador não for admitido em território nacional ou se cessar a relação jurídica entre o centro ou a instituição e o investigador.
 

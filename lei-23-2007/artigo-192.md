@@ -6,7 +6,7 @@
 
 ### Permanência ilegal
 
-1 - A permanência de cidadão estrangeiro em território português por período superior ao autorizado constitui contra-ordenação punível com as coimas que a seguir se especificam:
+1 - A permanência de cidadão estrangeiro em território português ou no território de Estados membros da União Europeia e de Estados onde vigore a Convenção de Aplicação por período superior ao autorizado constitui contraordenação punível com as coimas que a seguir se especificam:
 
 a) De (euro) 80 a (euro) 160, se o período de permanência não exceder 30 dias;
 

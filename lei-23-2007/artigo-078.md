@@ -20,7 +20,7 @@ d) Não tenham sido condenados em pena ou penas que, isolada ou cumulativamente,
 
 5 - Não é renovada a autorização de residência a qualquer cidadão estrangeiro declarado contumaz, enquanto o mesmo não fizer prova de que tal declaração caducou.
 
-6 - No caso de indeferimento do pedido deve ser enviada cópia da decisão, com os respectivos fundamentos, ao ACIDI, I. P., e ao Conselho Consultivo.
+6 - No caso de indeferimento do pedido deve ser enviada cópia da decisão, com os respetivos fundamentos, ao ACM, I. P., e ao Conselho para as Migrações.
 
 7 - O recibo do pedido de renovação de autorização de residência produz os mesmos efeitos do título de residência durante um prazo de 60 dias, renovável.
 

@@ -17,3 +17,9 @@ b) Quando tal for determinado por razões de interesse nacional, por motivos de 
 5 - Compete ao SEF solicitar e obter de outras entidades os pareceres, informações e demais elementos necessários para o cumprimento do disposto na presente lei em matéria de concessão de vistos de residência e de estada temporária.
 
 6 - Os pareceres necessários à concessão de vistos, quando negativos, são vinculativos, sendo emitidos no prazo de sete dias, no caso dos vistos de curta duração ou de 20 dias, nos restantes casos, findo o qual a ausência de emissão corresponde a parecer favorável.
+
+7 - Nos casos previstos no número anterior, os serviços competentes comunicam imediatamente a concessão de visto ao SEF.
+
+8 - Sem prejuízo do disposto na alínea b) do n.º 1, a concessão de visto de residência para frequência de programa de estudos de ensino superior, não carece de parecer prévio do SEF, desde que o requerente se encontre admitido em instituição de ensino superior em território nacional.
+
+9 - Nos casos previstos no n.º 2, a entidade competente para a decisão de indeferimento do visto, é a autoridade consular.

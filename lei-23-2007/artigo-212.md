@@ -12,21 +12,21 @@ b) As diferentes categorias de dados recolhidos devem na medida do possível ser
 
 c) O SII/SEF é constituído por dados pessoais e dados relativos a bens jurídicos, integrando informação no âmbito das atribuições que a lei lhe comete sobre:
 
-i) Estrangeiros, nacionais de países membros da União Europeia, apátridas e cidadãos nacionais, relacionada com o controlo do respectivo trânsito nas fronteiras terrestres, marítimas e aéreas, bem como da sua permanência e actividades em território nacional;
+i) Estrangeiros, nacionais de Estados membros da União Europeia, apátridas e cidadãos nacionais, relacionada com o controlo do respetivo trânsito nas fronteiras terrestres, marítimas e aéreas, bem como da sua permanência e atividades em território nacional, nomeadamente para efeitos de consulta, inserção, armazenamento e tratamento de dados no âmbito de indicações para efeitos de regresso ou recusa de entrada e de permanência de nacionais de países terceiros ou outras, nos termos da presente lei e das normas aplicáveis à utilização do SIS;
 
 ii) Identificação e paradeiro de cidadãos estrangeiros ou nacionais de Estados membros da União Europeia no que concerne a suspeita da prática ou a prática de auxílio à imigração ilegal ou de associação criminosa para esse fim;
 
 d) Os dados pessoais recolhidos para tratamento, além dos referidos no número anterior, no âmbito do SII/SEF são:
 
-i) O nome, a filiação, a nacionalidade, o país de naturalidade, o local de nascimento, o estado civil, o sexo, a data de nascimento, a data de falecimento, a situação profissional, doenças que constituam perigo ou grave ameaça para a saúde pública nos termos desta lei, o nome das pessoas que constituem o agregado familiar, as moradas, a assinatura, as referências de pessoas individuais e colectivas em território nacional, bem como o número, local e data de emissão e validade dos documentos de identificação e de viagem;
+i) O nome, a filiação, a nacionalidade ou nacionalidades, o país de naturalidade, o local de nascimento, o estado civil, o género, a data de nascimento, a data de falecimento, a situação profissional, doenças que constituam perigo ou grave ameaça para a saúde pública nos termos desta lei, o nome das pessoas que constituem o agregado familiar e a eventual condição de membro da família de cidadão nacional ou da União Europeia ou da titularidade do direito de livre circulação, as moradas, a assinatura, as referências de pessoas individuais e coletivas em território nacional, bem como o número, local e data de emissão e validade dos documentos de identificação e de viagem, cópias dos mesmos, fotografias e imagens faciais e dados datiloscópicos;
 
 ii) As decisões judiciais que, por força da lei, sejam comunicadas ao SEF;
 
-iii) A participação ou os indícios de participação em actividades ilícitas, bem como dados relativos a sinais físicos particulares, objectivos e inalteráveis, as alcunhas, a indicação de que a pessoa em causa está armada, é violenta, o motivo pelo qual a pessoa em causa se encontra assinalada e a conduta a adoptar;
+iii) A participação ou os indícios de participação em atividades ilícitas, bem como dados relativos a sinais físicos particulares, objetivos e inalteráveis, nomes e apelidos de nascimento, as alcunhas, a indicação de que a pessoa em causa está armada, é violenta, o motivo pelo qual a pessoa em causa se encontra assinalada, nomeadamente quando tenha fugido ou escapado, apresentar risco de suicídio, constituir uma ameaça para a saúde pública ou quando tenha estado envolvida numa das atividades referidas na Lei n.º 52/2003, de 22 de agosto, na sua redação atual, a par de referências à conduta ou condutas a adotar;
 
 iv) Relativamente a pessoas colectivas ou entidades equiparadas, para além dos dados anteriormente mencionados, relativamente a pessoas colectivas ou entidades equiparadas, são ainda recolhidos: o nome, a firma ou denominação, o domicílio, o endereço, o número de identificação de pessoa colectiva ou número de contribuinte, a natureza, o início e o termo da actividade.
 
-3 - Com vista a impedir a consulta, a modificação, a supressão, o adicionamento, a destruição ou a comunicação de dados do SII/SEF por forma não consentida pela presente lei e de acordo com o artigo 15.º da Lei n.º 67/98, de 26 de Outubro, relativa à protecção de dados pessoais, são adoptadas e periodicamente actualizadas as medidas técnicas necessárias para garantir a segurança:
+3 - Com vista a impedir a consulta, a modificação, a supressão, o adicionamento, a destruição ou a comunicação de dados do SII/SEF por forma não consentida pela presente lei e de acordo com o artigo 31.º da Lei n.º 59/2019, de 8 de agosto, relativas ao tratamento de dados pessoais para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, são adotadas e periodicamente atualizadas as medidas técnicas necessárias para garantir a segurança:
 
 a) Dos suportes de dados e respectivo transporte, a fim de impedir que possam ser lidos, copiados, alterados ou eliminados por qualquer pessoa ou por forma não autorizada;
 

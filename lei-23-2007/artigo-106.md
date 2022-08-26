@@ -6,7 +6,7 @@
 
 a) Quando não estejam reunidas as condições de exercício do direito ao reagrupamento familiar;
 
-b) Quando o membro da família esteja interdito de entrar em território nacional;
+b) Quando o membro da família esteja interdito de entrar e de permanecer em território nacional ou indicado no SIS para efeitos de regresso ou de recusa de entrada e de permanência;
 
 c) Quando a presença do membro da família em território nacional constitua uma ameaça à ordem pública, à segurança pública ou à saúde pública.
 

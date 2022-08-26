@@ -27,3 +27,5 @@ c) Esteja inscrito na segurança social, salvo os casos em que o documento apres
 5 - O titular de uma autorização de residência para exercício de uma atividade profissional subordinada pode exercer uma atividade profissional independente, mediante substituição do título de residência, sendo aplicável, com as necessárias adaptações, o disposto no artigo seguinte.
 
 6 - Presume-se a entrada legal prevista na alínea b) do n.º 2 sempre que o requerente trabalhe em território nacional e tenha a sua situação regularizada perante a segurança social há pelo menos 12 meses.
+
+7 - Após a constituição e formalização da relação laboral dentro dos 180 dias referidos na alínea c) do n.º 1 do artigo 57.º-A, pode ser requerida, na data do agendamento indicado no visto, uma autorização de residência junto do organismo competente, desde que preencha as condições gerais de concessão de autorização de residência, nos termos do artigo 77.º

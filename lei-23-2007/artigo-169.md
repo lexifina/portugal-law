@@ -20,7 +20,7 @@ b) Existência de razões sérias para crer que o nacional de Estado terceiro co
 
 3 - Se a pessoa abrangida pelo número anterior for detentora de uma autorização de residência emitida em território nacional, o reconhecimento e execução da medida de afastamento só pode ser determinado por autoridade judicial, de acordo com o disposto nos artigos 152.º a 158.º
 
-4 - Sem prejuízo do disposto no n.º 2 do artigo 25.º da Convenção de Aplicação, sempre que a pessoa objecto de uma decisão de afastamento a que se referem os n.os 1 e 2 seja detentora de uma autorização de residência emitida por um Estado membro da União Europeia ou por um Estado Parte na Convenção de Aplicação, o SEF consulta as autoridades competentes desse Estado, para efeitos de eventual cancelamento da autorização de residência em conformidade com as disposições legais aí em vigor, bem como o Estado autor da decisão de afastamento.
+4 - Para efeitos do disposto no artigo 28.º do Regulamento (UE) 2018/1861, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, sempre que a pessoa objeto de uma decisão de afastamento a que se referem os n.os 1 e 2 seja detentora de uma autorização de residência emitida por um Estado membro da União Europeia ou por um Estado parte na Convenção de Aplicação, o SEF consulta as autoridades competentes desse Estado, para efeitos de eventual cancelamento da autorização de residência em conformidade com as disposições legais aí em vigor, bem como o Estado autor da decisão de afastamento.
 
 5 - A decisão de afastamento nos termos dos n.os 1 e 2 só é reconhecida, se não for adiada ou suspensa pelo Estado autor.
 

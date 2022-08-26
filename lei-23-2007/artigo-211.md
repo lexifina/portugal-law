@@ -1,6 +1,6 @@
 ## Capítulo XII
 
-## Disposições finais
+## Disposições complementares, transitórias e finais
 
 # Artigo 211.º
 
@@ -9,3 +9,5 @@
 1 - A Conservatória dos Registos Centrais comunica, sempre que possível por via electrónica, ao SEF as alterações de nacionalidade que registar, referentes a indivíduos residentes no território nacional.
 
 2 - A comunicação prevista no número anterior deve ser feita no prazo de 15 dias a contar do registo.
+
+3 - Se da comunicação e em consulta às bases de dados pertinentes resultar a existência de indicação ou indicações para efeitos de regresso ou de recusa de entrada e de permanência no SIS, o SEF reporta a aquisição da nacionalidade ao Estado ou aos Estados membros autores, com vista à sua supressão.

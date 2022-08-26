@@ -6,7 +6,7 @@
 
 a) Até cinco dias, se o interessado for titular de um visto de trânsito;
 
-b) Até 60 dias, se o interessado for titular de um visto especial;
+b) Até 60 dias, se o interessado for titular de um visto especial ou de um visto para procura de trabalho;
 
 c) Até 90 dias, se o interessado for titular de um visto de residência;
 
@@ -14,7 +14,7 @@ d) Até 90 dias, prorrogáveis por um igual período, se o interessado for titul
 
 e) Até um ano, se o interessado for titular de um visto de estada temporária.
 
-2 - A prorrogação de permanência pode ser concedida, para além dos limites previstos no número anterior, na pendência de pedido de autorização de residência, bem como em casos devidamente fundamentados.
+2 - A prorrogação de permanência pode ser concedida, para além dos limites previstos no número anterior, na pendência de pedido de autorização de residência, bem como em casos devidamente fundamentados, nomeadamente no caso de titulares de estada temporária para tratamento médico e de quem os acompanhe.
 
 3 - Por razões excepcionais ocorridas após a entrada legal em território nacional, pode ser concedida a prorrogação de permanência aos familiares de titulares de visto de estada temporária, não podendo a validade e a duração da prorrogação de permanência ser superior à validade e duração do visto concedido ao familiar.
 
