@@ -2,7 +2,7 @@
 
 ### Direito ao trabalho
 
-1 - Aos requerentes de asilo ou de protecção subsidiária a quem já foi emitida autorização de residência provisória é assegurado o acesso ao mercado de trabalho, nos termos da lei geral, cessando, a partir do exercício de emprego remunerado, a aplicação do regime de apoio social previsto no artigo 56.º
+1 - Aos requerentes de asilo ou de proteção subsidiária é assegurado o acesso ao mercado de trabalho, nos termos da lei geral, cessando a aplicação do regime de apoio social previsto no artigo 56.º quando seja demonstrado que o requerente e respetivos membros da família dispõem de meios suficientes para permitir a sua subsistência.
 
 2 - (Revogado.)
 
