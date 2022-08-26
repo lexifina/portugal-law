@@ -1,0 +1,20 @@
+# Resolução do Conselho do Governo Regional n.º 794/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 152/2022, suplemento, de 2022-08-26
+
+**Sumário:** Autoriza a celebração de contrato-programa com a empresa Esmoitada, Lda., com vista a que esta receba o valor relativo à sua participação na 65.ª Feira Agropecuária do Porto Moniz, realizada em 2022.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 794/2022
+Sumário: Autoriza a celebração de contrato-programa com a empresa Esmoitada, Lda., com vista a que esta receba o valor relativo à sua participação na 65.ª Feira Agropecuária do Porto Moniz, realizada em 2022.
+Texto: Resolução n.º 794/2022 Considerando a Portaria n.º 476/2018, de 23 de novembro, que aprova o Regulamento de Atribuição de Prémios aos Participantes na Feira Agropecuária do Porto Moniz; Considerando que se realizou de 7 a 10 de julho do corrente ano a 65.ª Feira Agropecuária do Porto Moniz, e que este evento corresponde ao palco anual de celebração e festa dos setores agrícola e agroalimentar da Região Autónoma da Madeira, espelhando, simultaneamente, as suas evoluções, capacidade de inovação e a qualidade excecional das suas produções; Considerando que a Feira Agropecuária do Porto Moniz, contribui para promover o desenvolvimento rural, e dinamizar os setores da agricultura e agroalimentar da Região Autónoma da Madeira; Considerando que a atribuição de prémios aos participantes neste evento é um incentivo ao seu maior envolvimento, e um reconhecimento pela qualidade das produções, estimulando o brio, e a criatividade nas apresentações realizadas; Considerando que a empresa Esmoitada, Lda., participou como produtora pecuária na 65.ª Feira Agropecuária do Porto Moniz, tendo direito a receber o prémio previsto no ponto vi da alínea a) do n.º 1 do artigo 3.º da Portaria n.º 476/2018, de 23 de novembro, que aprova o Regulamento de Atribuição de Prémios aos Participantes na Feira Agropecuária do Porto Moniz; Nestes termos, o Conselho de Governo reunido em plenário em 25 de agosto de 2022, resolve o seguinte:
+1- Ao abrigo das disposições conjugadas dos n.ºs 2 e 10 do artigo 34.º e do n.º 2 do artigo 36.º do Decreto Legislativo Regional n.º 28-A/2021/M, de 30 de dezembro, que Aprova o Orçamento da Região Autónoma da Madeira para 2022, na sua atual redação, do ponto vi da alínea a) do n.º 1 do artigo 3.º e do artigo 8.º da Portaria n.º 476/2018, de 23 de novembro, que aprova o Regulamento de Atribuição de Prémios aos Participantes na Feira Agropecuária do Porto Moniz, autorizar a celebração de contrato-programa com a empresa Esmoitada, Lda., com vista a que esta receba o valor relativo à sua participação na 65.ª Feira Agropecuária do Porto Moniz, realizada em 2022.
+2- Conceder para os efeitos referidos no número anterior à empresa Esmoitada, Lda. uma comparticipação financeira que não excederá o montante de € 400,00 (quatrocentos euros).
+3- O contrato-programa a celebrar com a Esmoitada, Lda., produz efeitos desde a data da sua assinatura até 31 de dezembro de 2022.
+4- Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+5- Mandatar o Secretário Regional de Agricultura e Desenvolvimento Rural para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o correspondente contrato-programa.
+6- Estabelecer que a despesa fixada anteriormente tem cabimento orçamental no Orçamento da Região Autónoma da Madeira para 2022, com a seguinte classificação: classificação orgânica 51 9 50 02 00, programa 42, medida 07, projeto 50042, classificação funcional 41, classificação económica 04.01.02.BC.00, fonte de financiamento 381, fundo 4381000070, centro financeiro M100607, centro de custo M100A63100, cabimento n.º CY42212822 e compromisso n.º CY52214445.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
