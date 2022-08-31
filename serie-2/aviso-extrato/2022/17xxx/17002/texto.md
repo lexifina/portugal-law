@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 17002/2022
+Sumário: Consulta pública do projeto do Regulamento do Conselho Municipal de Segurança do Município de Vidigueira.
+Rui Manuel Serrano Raposo, Presidente da Câmara Municipal da Vidigueira torna público que, a Câmara Municipal, em sua reunião ordinária de 27 de abril de 2022, deliberou, nos termos do artigo 101.º do Código do Procedimento Administrativo, submeter a consulta pública, pelo período de 30 dias, a contar da data de publicação do Edital n.º 49/2022, o Projeto de Regulamento do Conselho Municipal de Segurança do Município de Vidigueira, através da publicação na página eletrónica do Município da Vidigueira, em www.cm-vidigueira.pt > serviços on-line > consultas publicas>outras consultas publicas; no Balcão Único de Atendimento e nas Juntas de Freguesia. As sugestões/contributos podem ser apresentados durante o período de consulta pública, para o email geral@cm-vidigueira.pt ou em qualquer dos locais onde o mesmo está disponível para consulta.
+18 de agosto de 2022. - O Presidente da Câmara Municipal, Rui Manuel Serrano Raposo.
+315627909
