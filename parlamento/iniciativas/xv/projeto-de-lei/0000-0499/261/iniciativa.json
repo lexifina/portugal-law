@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "261",
+  "id": "151841",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-09-01",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338354e6a45354e7a426c5a6930775a6d46684c545135596d55744f5751334d7930775a44466b4f444d324e6a6c68595455756347526d&fich=961970ef-0faa-49be-9d73-0d1d83669aa5.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "210",
+        "nome": "Jerónimo de Sousa"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4197",
+        "nome": "Paula Santos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5706",
+        "nome": "Alma Rivera"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "5524",
+        "nome": "João Dias"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "4623",
+        "nome": "Diana Ferreira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "151841",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338794e7a67794f4749314e69316b4d4749334c545269596a6b744f47497a5a4330324e574d324f5749324f446b354e4445755a47396a&fich=27828b56-d0b7-4bb9-8b3d-65c69b689941.doc&Inline=true",
+    "IniNr": "261",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Definição e execução de procedimentos para situações pós-incêndio",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
