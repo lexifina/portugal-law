@@ -1,0 +1,5 @@
+Aviso n.º 17207/2022
+Sumário: Revogação do regulamento do período experimental na carreira técnica superior da Administração Central do Sistema de Saúde, I. P.
+Considerando que o Regulamento n.º 747/2010, de 15 de setembro, que aprovou as regras para a avaliação do período experimental dos trabalhadores da carreira de técnico superior da Administração Central do Sistema de Saúde, I. P., foi elaborado ao abrigo da Lei n.º 59/2008, de 11 de setembro e do artigo 12.º da Lei n.º 12-A/2008, de 28 de fevereiro, legislação que se encontra revogada pela Lei n.º 35/2014, de 20 de junho, por deliberação do Conselho Diretivo da Administração Central do Sistema de Saúde, I. P. de 28 de julho de 2022, determinou-se revogar o Regulamento n.º 747/2010, de 15 de setembro, publicado na 2.ª série do Diário da República n.º 187, de 24 de setembro de 2010, com efeitos à data da deliberação.
+28 de julho de 2022. - O Conselho Diretivo: Victor Emanuel Marnoto Herdeiro, presidente - Joana Cristina Veiga Carvalho Barbosa, vice-presidente - Sandra Isabel Baptista Brás, vogal - Tiago Jorge Carvalho Gonçalves, vogal.
+315646693
