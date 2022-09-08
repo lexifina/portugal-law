@@ -1,0 +1,825 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13789",
+  "numero": "56",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-09-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-01-12",
+            "entidades": null,
+            "id": "127871",
+            "tipo": null,
+            "titulo": "Audição em 2023-01-12 com Peticionários da Petição n.º 56/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-02-15",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915137",
+                "obs": null,
+                "pag": [
+                  "12-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-17",
+                "pubLeg": "XV",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/065/2023-02-17/12?pgs=12-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2023-02-15",
+              "descricao": "Relatório aprovado por unanimidade:\nPS\nPSD\nCH\nPCP\nBE\n\nAusência da IL.\n",
+              "detalhe": null,
+              "id": "104257",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "38",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-10-06",
+        "DataArquivo": "2023-02-15",
+        "DataBaixaComissao": "2022-09-20",
+        "DataEnvioPAR": "2023-02-15",
+        "DataReaberta": "2022-10-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-10-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938345a6a51334e6d4a6d4e6930355a446b334c54526c597a6774596d51795a533077597a59794d4759334d574d334e6a59756347526d&fich=8f476bf6-9d97-4ec8-bd2e-0c620f71c766.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-01-12",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938794d544e68596a63355a53307a5a54466b4c54517959324974596a6b325a5330334e6a526a4e546c6a597a4a6c4f5459756347526d&fich=213ab79e-3e1d-42cb-b96e-764c59cc2e96.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-15",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938334e6a6b354f5449344d43316c4d474a6c4c5451335a4455744f47526b4e433031595755784f5467324f445531597a55756347526d&fich=76999280-e0be-47d5-8dd4-5ae1986855c5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-02-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e686279396c4f546b794e4459774e4330324e6d45344c5451774d6d4d744f4755314d53307a4d475a6a4e5455324d7a4a6c5a4467756347526d&fich=e9924604-66a8-402c-8e51-30fc55632ed8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8334",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-02-15",
+            "dataNomeacao": "2022-10-06",
+            "gp": "PSD",
+            "id": "7007",
+            "motivoCessacao": "Entrega do Parecer",
+            "nome": "Carla Madureira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-05-10",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-09-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d6d466b4d6d49314e3249744e4459785a6930304d6d4e6c4c5468685a6d51745a574577596a566a4d5451774d6a4e6a4c6e426b5a673d3d&fich=2ad2b57b-461f-42ce-8afd-ea0b5c14023c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152776",
+      "172861",
+      "172863",
+      "152612",
+      "152674",
+      "152723",
+      "172816"
+    ],
+    "Iniciativasoriginadas": [
+      "152776",
+      "172861",
+      "172863",
+      "152612",
+      "152674",
+      "152723",
+      "172816"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": "Apresenta o Projeto de lei n.º 752/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": "Apresenta o Projeto de Lei n.º 713/XV/1ª  e o Projeto de Resolução n.º 634/XV/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": "Apresenta o Projeto de Lei n.º 754/XV/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": "Apresenta o projeto de Resolução n.º 529/XV/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57",
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/56?pgs=56-57,60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 553/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 578/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59",
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/58?pgs=58-59,61&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": "No seguimento da intervenção do Deputado Filipe Melo (CH)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_10_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-11",
+                "pubLeg": "XV",
+                "pubNr": "126",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/62?pgs=62&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do dia nacional da pessoa com deficiência intelectual (HUMANITAS – Federação Portuguesa para a Deficiência Mental); Torna mais célere o financiamento de produtos de apoio para pessoas com deficiência ou incapacidade temporária; Assegura em tempo útil o acesso a próteses e ortóteses e outro material ortopédico que se mostre necessário a prevenir a dependência, precariedade, isolamento e exclusão social dos deficientes militares; Cria o regime jurídico de acesso à pensão de velhice das pessoas com incapacidade igual ou superior a 60 %; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Instituição do dia nacional da pessoa com deficiência intelectual; Consagra o dia 10 de maio como dia nacional da pessoa com deficiência intelectual; Recomenda o reforço de formação de educação especial ao longo do percurso da docência.",
+            "Teor": "À Deputada Emília Cerqueira (PSD)"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13789",
+    "PetAssunto": "Criação do Dia Nacional da Pessoa com Deficiência Intelectual",
+    "PetDataEntrada": "2022-09-08",
+    "PeticoesAssociadas": null,
+    "PetId": "13789",
+    "PetLeg": "XV",
+    "PetNr": "56",
+    "PetNrAssinaturas": "10267",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16396",
+        "obs": null,
+        "pag": [
+          "53-62"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-05-11",
+        "pubLeg": "XV",
+        "pubNr": "126",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/126/2023-05-11/53?pgs=53-62&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915145",
+        "obs": null,
+        "pag": [
+          "5-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-10-15",
+        "pubLeg": "XV",
+        "pubNr": "40",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/040/2022-10-15/5?pgs=5&org=PLC"
+      }
+    ]
+  }
+}
