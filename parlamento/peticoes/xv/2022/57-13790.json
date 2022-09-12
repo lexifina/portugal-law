@@ -1,0 +1,589 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13790",
+  "numero": "57",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-09-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-12-07",
+            "entidades": null,
+            "id": "127824",
+            "tipo": null,
+            "titulo": "Audição em 2022-12-07 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-10-06",
+        "DataArquivo": "2023-01-25",
+        "DataBaixaComissao": "2022-09-16",
+        "DataEnvioPAR": "2023-01-26",
+        "DataReaberta": "2022-10-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e6862793833595759354d6a646b4f5330774d4759334c54517a597a55744f57526d4d79316c4d5749314f5745784e475a6b4d5463756347526d&fich=7af927d9-00f7-43c5-9df3-e1b59a14fd17.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-16",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e68627938325a54526c4f57457a5a5330324e47526a4c54526d4d4455744f544e6a4f433030596a466c4f57593359325a6a5a4459756347526d&fich=6e4e9a3e-64dc-4f05-93c8-4b1e9f7cfcd6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e68627938784e44557a4e6d51314e43303059324d334c54526b4d544974595441354e53307a596a5579596a5931596a51315a6a59756347526d&fich=14536d54-4cc7-4d12-a095-3b52b65b45f6.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-01-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e68627938305a47457a597a4a6b5a43316a4f446c694c5451314e5755744f47457a5a5330324e574d7a59546c6d4e7a59784e6a45755a47396a65413d3d&fich=4da3c2dd-c89b-455e-8a3e-65c3a9f76161.docx&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8330",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2022-10-06",
+            "gp": "PSD",
+            "id": "6545",
+            "motivoCessacao": null,
+            "nome": "Jorge Salgueiro Mendes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-04-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-09-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f4451334d7a4d304e5451745a444a6b4e4330304e47557a4c5745354e7a55744d574a6b4f546b314f544d344d6d5a6b4c6e426b5a673d3d&fich=84733454-d2d4-44e3-a975-1bd9959382fd.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152732",
+      "152358",
+      "152481"
+    ],
+    "Iniciativasoriginadas": [
+      "152732",
+      "152358",
+      "152481"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-04-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_21_10_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32",
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-22",
+                "pubLeg": "XV",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/32?pgs=32,39&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito à mobilidade dos animais de estimação; Prevê a garantia do direito à mobilidade com animais de companhia, eliminando a discriminação por raças e outras limitações; Recomenda ao Governo que dê melhores condições de acesso dos animais nos serviços de mobilidade; Recomenda ao Governo que garanta o direito à mobilidade dos animais de companhia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_21_10_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-22",
+                "pubLeg": "XV",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito à mobilidade dos animais de estimação; Prevê a garantia do direito à mobilidade com animais de companhia, eliminando a discriminação por raças e outras limitações; Recomenda ao Governo que dê melhores condições de acesso dos animais nos serviços de mobilidade; Recomenda ao Governo que garanta o direito à mobilidade dos animais de companhia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_21_10_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-22",
+                "pubLeg": "XV",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito à mobilidade dos animais de estimação; Prevê a garantia do direito à mobilidade com animais de companhia, eliminando a discriminação por raças e outras limitações; Recomenda ao Governo que dê melhores condições de acesso dos animais nos serviços de mobilidade; Recomenda ao Governo que garanta o direito à mobilidade dos animais de companhia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_21_10_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-22",
+                "pubLeg": "XV",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito à mobilidade dos animais de estimação; Prevê a garantia do direito à mobilidade com animais de companhia, eliminando a discriminação por raças e outras limitações; Recomenda ao Governo que dê melhores condições de acesso dos animais nos serviços de mobilidade; Recomenda ao Governo que garanta o direito à mobilidade dos animais de companhia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_21_10_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-22",
+                "pubLeg": "XV",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito à mobilidade dos animais de estimação; Prevê a garantia do direito à mobilidade com animais de companhia, eliminando a discriminação por raças e outras limitações; Recomenda ao Governo que dê melhores condições de acesso dos animais nos serviços de mobilidade; Recomenda ao Governo que garanta o direito à mobilidade dos animais de companhia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_21_10_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-22",
+                "pubLeg": "XV",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito à mobilidade dos animais de estimação; Prevê a garantia do direito à mobilidade com animais de companhia, eliminando a discriminação por raças e outras limitações; Recomenda ao Governo que dê melhores condições de acesso dos animais nos serviços de mobilidade; Recomenda ao Governo que garanta o direito à mobilidade dos animais de companhia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_21_10_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-22",
+                "pubLeg": "XV",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito à mobilidade dos animais de estimação; Prevê a garantia do direito à mobilidade com animais de companhia, eliminando a discriminação por raças e outras limitações; Recomenda ao Governo que dê melhores condições de acesso dos animais nos serviços de mobilidade; Recomenda ao Governo que garanta o direito à mobilidade dos animais de companhia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_21_10_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "334254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-22",
+                "pubLeg": "XV",
+                "pubNr": "117",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito à mobilidade dos animais de estimação; Prevê a garantia do direito à mobilidade com animais de companhia, eliminando a discriminação por raças e outras limitações; Recomenda ao Governo que dê melhores condições de acesso dos animais nos serviços de mobilidade; Recomenda ao Governo que garanta o direito à mobilidade dos animais de companhia.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13790",
+    "PetAssunto": "Pelo direito à mobilidade dos animais de estimação",
+    "PetDataEntrada": "2022-09-12",
+    "PeticoesAssociadas": null,
+    "PetId": "13790",
+    "PetLeg": "XV",
+    "PetNr": "57",
+    "PetNrAssinaturas": "10281",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16408",
+        "obs": null,
+        "pag": [
+          "32-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-22",
+        "pubLeg": "XV",
+        "pubNr": "117",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/117/2023-04-22/32?pgs=32-40&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915143",
+        "obs": null,
+        "pag": [
+          "10-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-10-07",
+        "pubLeg": "XV",
+        "pubNr": "38",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/038/2022-10-07/10?pgs=10-11&org=PLC"
+      }
+    ]
+  }
+}
