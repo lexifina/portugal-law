@@ -1,0 +1,962 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "28",
+    "id": "141828",
+    "titulo": "Procede à restruturação do Ponto Único de Contacto para a Cooperação Policial Internacional"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2022-09-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18229",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2022-09-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-09-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=80"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra Adjunta e dos Assuntos Parlamentares",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Catarina Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67",
+                  "70-70",
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/66?pgs=66-67,70,81-82&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1 ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3918",
+                "nome": "Paula Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/68?pgs=68&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=87"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=88"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=95"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3918",
+                "nome": "Paula Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=91"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-75",
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/73?pgs=73-75,76&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=90"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=92"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269582",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5706",
+                "nome": "Alma Rivera"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=93"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269583",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=94"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=96"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269584",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79",
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/78?pgs=78-79,80-81&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=97"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra Adjunta e dos Assuntos Parlamentares",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Catarina Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269585",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=98"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/82?pgs=82&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=99"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra Adjunta e dos Assuntos Parlamentares",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Catarina Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269664",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/83?pgs=83&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1278",
+                "nome": "Augusto Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "20:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_14_15_00_00_clean_14_plenario.xml&idsegmento=100"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269665",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-14",
+                "pubLeg": "XV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/83?pgs=83&org=PLC"
+              }
+            ],
+            "sumario": "Proposta de Lei 28/XV/1",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1318995",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "17080",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "66-83"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-09-14",
+        "pubLeg": "XV",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/037/2022-09-14/66?pgs=66-83&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
