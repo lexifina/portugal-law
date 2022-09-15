@@ -181,3 +181,15 @@ A isenção caduca a 15 de julho de 2023.
 44 - Cádmio em tubos de câmaras de vídeo resistentes a radiações concebidos para câmaras com resolução central superior a 450 TVL utilizadas em ambientes expostos a radiações ionizantes geradoras de doses superiores a 100 Gy/hora e de doses totais superiores a 100 kGy. Aplica-se à categoria 9.
 
 Caduca a 31 de março de 2027.
+
+45 - Ftalato de bis(2-etil-hexilo) (DEHP) em elétrodos seletivos de iões usados na análise, junto do doente, de substâncias iónicas presentes nos fluidos corporais humanos e/ou nas soluções de diálise.
+
+Caduca em 21 de julho de 2028.
+
+46 - Ftalato de bis(2-etil-hexilo) (DEHP) em componentes plásticos de bobinas de deteção para IRM.
+
+Caduca em 1 de janeiro de 2024.
+
+47 - Ftalato de bis(2-etil-hexilo) (DEHP), ftalato de benzilo e butilo (BBP), ftalato de dibutilo (DBP) e ftalato de di-isobutilo (DIBP) em peças sobresselentes recuperadas de dispositivos médicos, incluindo dispositivos médicos de diagnóstico in vitro, e de acessórios destes, e utilizadas para a reparação ou renovação desses equipamentos, desde que a reutilização ocorra em sistemas fechados de retorno interempresas, passíveis de controlo, e que o cliente seja informado de cada reutilização de peças.
+
+Caduca em 21 de julho de 2028.
