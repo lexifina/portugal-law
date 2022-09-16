@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "269661",
+  "tipo": "Intervenção",
+  "orador": "Augusto Santos Silva (PS)",
+  "data_registo": "2022-09-16",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "1320599",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "151872",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Amplia o leque de beneficiários do programa Porta 65 Jovem, assegurando o direito à habitação jovem"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em resposta à Interpelação à Mesa de Pedro Pinto (CH), esclarece que a decisão de não arrastar o Projeto de Lei n.º 275/XV/1.ª (CH) foi, tomada na sequência de um pedido de verificação da conexão material do projeto do Chega e da apreciação técnica dos serviços do Parlamento.",
+        "duracao": "00:01:25:431",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_16_10_00_00_clean_14_plenario.xml&idsegmento=3"
+      }
+    ],
+    "DataReuniaoPlenaria": "2022-09-16",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "1278",
+      "nome": "Augusto Santos Silva"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "269661",
+    "IdDebate": "18433",
+    "Iniciativas": [
+      {
+        "fase": "Recurso admissibilidade",
+        "id": "151872",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "269661",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-09-17",
+        "pubLeg": "XV",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/039/2022-09-17/4?pgs=4&org=PLC"
+      }
+    ],
+    "Qualidade": "P.A.R.",
+    "Resumo": "Em resposta à Interpelação à Mesa de Pedro Pinto (CH), esclarece que a decisão de não arrastar o Projeto de Lei n.º 275/XV/1.ª (CH) foi tomada na sequência de um pedido de verificação da conexão material do projeto do Chega e da apreciação técnica dos serviços do Parlamento",
+    "Sessao": "1",
+    "Sumario": "Projeto de Lei 275/XV/1 - Recurso admissibilidade",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
