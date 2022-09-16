@@ -1,0 +1,9 @@
+Aviso n.º 18002/2022
+Sumário: Abertura do período de discussão pública no âmbito da alteração ao Plano de Pormenor do Parque Empresarial de Paçô.
+Discussão Pública
+3.ª Alteração ao Plano de Pormenor do Parque Empresarial de Paçô (3.ª Revisão)
+Torna-se público, em cumprimento do disposto na alínea a) do n.º 4, artigo 191.º do Decreto-Lei n.º 80/2015 de 14 de maio - RJIGT, alterado pelo Decreto-Lei n.º 25/2021, publicado no Diário da República n.º 61/2021, Série I de 2021-03-29, e nos termos do artigo 89.º, n.os 1 e 2 do mesmo, que irá ser aberto um período de discussão pública de 20 dias úteis contados a partir do quinto dia da publicação do presente aviso no Diário da República, para que todos os interessados possam formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de alteração ao Plano de Pormenor.
+Durante o período em que estiver aberto o procedimento de participação, os interessados podem consultar a proposta do plano, o respectivo relatório de qualificação do plano a avaliação ambiental, o parecer final da CCDRN e demais documentos na página electrónica da autarquia e no Serviço de Planeamento e Ordenamento do Território do Município de Arcos de Valdevez.
+A apresentação de sugestões, observações ou reclamações sobre quaisquer questões que possam ser consideradas úteis no âmbito do procedimento da discussão pública deve ser formalizada por escrito, através de requerimento dirigido ao presidente da Câmara Municipal, para a morada: Praça Municipal, 4974-003 Arcos de Valdevez, por correio eletrónico para geral@cmav.pt ou por preenchimento em formulário próprio disponibilizado em www.cmav.pt e no Serviço de Planeamento e Ordenamento do Território do Município de Arcos de Valdevez das 09h00 m às 12h30 m e das 14h00 m às 16h30 m.
+6 de setembro de 2022. - O Presidente da Câmara Municipal, João Manuel Amaral Esteves.
+615675497
