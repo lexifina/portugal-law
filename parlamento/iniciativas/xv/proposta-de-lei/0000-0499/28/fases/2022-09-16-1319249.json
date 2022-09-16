@@ -1,0 +1,174 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "28",
+    "id": "141828",
+    "titulo": "Procede à restruturação do Ponto Único de Contacto para a Cooperação Policial Internacional"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-09-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "62948",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-09-16",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-10-12",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho de Fiscalização do Sistema de Informações da República Portuguesa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a694e7a6b784f4441784c574a6b4e7a55744e47466c4d7930344d5751314c5746684e6d49344d7a6b334d5759775a5335775a47593d&fich=fb791801-bd75-4ae3-81d5-aa6b83971f0e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Diretor Nacional da Policia Judiciária",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41304e444a69596d52684c54466b4d5445744e44526d4d7930344e6a55334c54466a4e6a6335597a526b4f445a6c597935775a47593d&fich=0442bbda-1d11-44f3-8657-1c679c4d86ec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Associação Sindical dos Funcionários de Investigação Criminal da Polícia Judiciária",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5268597a49314e6a566a4c5756694d6a59744e4449355a5330344e7a67334c544d345a54646d596a526d4e7a566d595335775a47593d&fich=4ac2565c-eb26-429e-8787-38e7fb4f75fa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de alteração - PS (Substituída)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245314d6a45314e5745334c5463304e5749744e44686c4d5331684e44526a4c5442694e6d51334d7a566a4e6a6b315a4335775a47593d&fich=a52155a7-745b-48e1-a44c-0b6d735c695d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PS (nova versão)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426a597a41324d6a4d774c544d785a5449744e44646d595331684f44566a4c574e6a4e54466a5a444933596a51355a6935775a47593d&fich=0cc06230-31e2-47fa-a85c-cc51cd27b49f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686a4d325134597a55334c575177596d55744e4445325a5331694e6d59324c5755304e475a6a4f446c6c4d4463794d4335775a47593d&fich=8c3d8c57-d0be-416e-b6f6-e44fc89e0720.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-24",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41344f57466c5a47526a4c5455784d5441744e47566a4d693034593256684c5449354e6a466c4d5463344d54457a4e4335775a47593d&fich=089aeddc-5110-4ec2-8cea-2961e1781134.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-10-26",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55314d546732595751334c546b77596d4d744e4463774d5330355a544d344c574668597a6868596a55314e474d795a6935775a47593d&fich=55186ad7-90bc-4701-9e38-aac8ab554c2f.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Funcionários de Investigação Criminal da Polícia Judiciária em 2022-10-17"
+          },
+          {
+            "link": "",
+            "nome": "Diretor Nacional da Policia Judiciária em 2022-10-14"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Associação Sindical dos Funcionários de Investigação Criminal da Polícia Judiciária em 2022-10-06"
+          },
+          {
+            "link": "",
+            "nome": "Diretor Nacional da Policia Judiciária em 2022-10-06"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2022-10-25",
+            "dataRemessa": "2022-10-26",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-09-16",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1319249",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "972338",
+        "obs": null,
+        "pag": [
+          "16-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-10-26",
+        "pubLeg": "XV",
+        "pubNr": "107",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/107/2022-10-26/16?pgs=16-23&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
