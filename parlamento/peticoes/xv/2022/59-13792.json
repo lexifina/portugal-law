@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13792",
+  "numero": "59",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-09-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2022-10-12",
+        "DataArquivo": "2022-10-12",
+        "DataBaixaComissao": "2022-09-28",
+        "DataEnvioPAR": "2022-10-13",
+        "DataReaberta": "2022-10-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-10-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e686279387a5a545a694f4459335a6930334f4445774c5451305a6a417459544d794d43307a595755344d6d45775a4463304e4445756347526d&fich=3e6b867f-7810-44f0-a320-3ae82a0d7441.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-10-13",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938784d4463305a444e694d7930344f544d354c545131596d45744f57466c4e7930344d44497a4f474934596a41794d5449756347526d&fich=1074d3b3-8939-45ba-9ae7-80238b8b0212.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-10-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627939684f4755354d474e6d595330314e4445784c54526d596a67744f475a6b4e433032597a526c4e545933596d526d5a544d756347526d&fich=a8e90cfa-5411-4fb8-8fd4-6c4e567bdfe3.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8334",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2022-09-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e5459325a6d49304e7a6b745a6d4e694d7930305a6a6b7a4c5745334d6a4174597a41304f5441314e7a49324d475a6d4c6e426b5a673d3d&fich=566fb479-fcb3-4f93-a720-c049057260ff.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13792",
+    "PetAssunto": "Responsabilidade dos titulares dos cargos nas inaceitáveis demoras na atribuição das pensões de velhice pelo Centro Nacional de Pensões da Segurança Social, promovendo o agravamento da exclusão social e o empobrecimento dos mais velhos",
+    "PetDataEntrada": "2022-09-19",
+    "PeticoesAssociadas": null,
+    "PetId": "13792",
+    "PetLeg": "XV",
+    "PetNr": "59",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
