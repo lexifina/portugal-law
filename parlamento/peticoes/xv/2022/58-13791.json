@@ -1,0 +1,719 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13791",
+  "numero": "58",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-09-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2022-11-29",
+            "entidades": null,
+            "id": "127793",
+            "tipo": null,
+            "titulo": "Audição em 2022-11-29 com Peticionários da Petição n.º 58/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2022-12-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": "2022-12-14",
+              "descricao": "Aprovado por unanimidade com a ausência do GP IL.",
+              "detalhe": null,
+              "id": "103741",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "29",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-10-06",
+        "DataArquivo": "2022-12-14",
+        "DataBaixaComissao": "2022-09-22",
+        "DataEnvioPAR": "2022-12-14",
+        "DataReaberta": "2022-10-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-10-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938795a54426d4e4467304e7930355a6a497a4c54517a4f5467744f544a6b5a6930315a6d49304d544935595755305a5451756347526d&fich=2e0f4847-9f23-4398-92df-5fb4129ae4e4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-11-29",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e6862793832596a6c6a4d5463325a5330774e7a55784c5451334e6d4974595467794e6930315a6d49305a4467334d474d794d5749756347526d&fich=6b9c176e-0751-476b-a826-5fb4d870c21b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2022-12-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938324d6d4a6b4f4751314d5330314d6d59324c54526c5a574d7459574978596930305a44457a5a474e6d596a68694e6d55756347526d&fich=62bd8d51-52f6-4eec-ab1b-4d13dcfb8b6e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8334",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2022-12-14",
+            "dataNomeacao": "2022-10-06",
+            "gp": "PS",
+            "id": "7297",
+            "motivoCessacao": null,
+            "nome": "Sérgio Monte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-04-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-09-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76597a466a5a54686d4f5441744f5745354f4330304d54526d4c57466c5a5451744e6a67774d5442695a4455324e6a45324c6e426b5a673d3d&fich=c1ce8f90-9a98-414f-aee4-68010bd56616.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "152740",
+      "152747",
+      "152487",
+      "152557",
+      "152721"
+    ],
+    "Iniciativasoriginadas": [
+      "152487",
+      "152557",
+      "152721",
+      "152740",
+      "152747"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=81"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=92"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79",
+                  "90-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/78?pgs=78-79,90&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": "Apresenta o Projeto de Lei n.º 696/XV/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=82"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=84"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80",
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/79?pgs=79-80,81-82&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": "Apresenta o Projeto de Lei n.º 703/XV/1ª \nResponde ao pedido de esclarecimento do Deputado Nuno Carvalho (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=83"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": "Ao Deputado Jorge Galveias (CH)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=85"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/82?pgs=82&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": "Apresenta o Projeto de Lei n.º 478/XV/1ª \n"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=86"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": "Sobre a condução dos trabalhos\n"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=87"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": "Em resposta a Interpelação a Mesa do  Deputado Pedro Pinto (CH), repudia as acusações de parcialidade que lhe foram dirigidas. Adverte a Deputada Rita Matias (CH).\n"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=88"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/84?pgs=84-85&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": "Apresenta os Projetos de Resolução n.º 513 e 576/XV/1ª \n"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=89"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=93"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-87",
+                  "91-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/85?pgs=85-87,91&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=90"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/87?pgs=87-89&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-04-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_12_15_00_00_clean_14_plenario.xml&idsegmento=91"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-13",
+                "pubLeg": "XV",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/89?pgs=89-90&org=PLC"
+              }
+            ],
+            "Sumario": "Pela reposição do poder de compra de todas as pensões (Maria Isabel dos Santos Gomes e outros); Procede à atualização das pensões para o ano de 2023, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro, e alarga a aplicação do complemento excecional aos pensionistas dos regimes especiais e aos pensionistas não residentes em território nacional; Altera a Lei n.º 53-B/2006, de 29 de dezembro, relativa ao indexante dos apoios sociais, procedendo à atualização de pensões de invalidez e de velhice do regime geral da segurança social de acordo com a inflação; Recomenda ao Governo que aumente as pensões de invalidez e de velhice de modo a neutralizar os efeitos da inflação; Aumento intercalar das reformas e pensões no ano de 2023; Recomenda ao Governo que aplique a atualização anual das pensões a todos os reformados e pensionistas com pensões iniciadas a partir de 1 de janeiro de 2022.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13791",
+    "PetAssunto": "Pela reposição do poder de compra de todas as pensões",
+    "PetDataEntrada": "2022-09-19",
+    "PeticoesAssociadas": null,
+    "PetId": "13791",
+    "PetLeg": "XV",
+    "PetNr": "58",
+    "PetNrAssinaturas": "7521",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16338",
+        "obs": null,
+        "pag": [
+          "78-91"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-13",
+        "pubLeg": "XV",
+        "pubNr": "112",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/112/2023-04-13/78?pgs=78-91&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915152",
+        "obs": null,
+        "pag": [
+          "21-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-02",
+        "pubLeg": "XV",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/048/2022-12-02/21?pgs=21&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915159",
+        "obs": "Relatório final da Comissão de Trabalho, Segurança Social e Inclusão",
+        "pag": [
+          "19-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-17",
+        "pubLeg": "XV",
+        "pubNr": "52",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/052/2022-12-17/19?pgs=19-21&org=PLC"
+      }
+    ]
+  }
+}
