@@ -16,7 +16,7 @@ e) Fiscalização, coordenação de segurança e assistência técnica;
 
 f) Testes e ensaios;
 
-g) Revisões de preços decorrentes da legislação aplicável e do contrato, até ao limite de 5 % do valor elegível dos trabalhos efetivamente executados;
+g) Revisões de preços decorrentes da legislação aplicável e do contrato que incidam sobre o valor elegível dos trabalhos efetivamente executados;
 
 h) Ações de informação, de divulgação, de sensibilização e de publicidade que se revelem necessárias para a prossecução dos objetivos da operação;
 
