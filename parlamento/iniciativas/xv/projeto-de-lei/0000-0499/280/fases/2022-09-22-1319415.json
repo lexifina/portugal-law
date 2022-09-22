@@ -1,0 +1,176 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "280",
+    "id": "151881",
+    "titulo": "Cria o Banco de Terras e o Fundo de Mobilização de Terras"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-09-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "62983",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2023-05-30",
+            "id": "128450",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-09-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XV",
+            "nome": "Grupo de Trabalho-Banco de Terras e Fundo de Mobilização de Terras",
+            "num": "25",
+            "orgId": "8366",
+            "publicacao": null,
+            "sigla": "GT-BTFMT"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4451354d32566d4e6a59744d7a41324e6930305954686a4c54686a4f4449744d4749774f444e6c5a4459325a5755794c6e426b5a673d3d&fich=4493ef66-3066-4a8c-8c82-0b083ed66ee2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4751785a445133593249745a6a63324e7930305a6a4a6d4c574579596a67744d7a6b334f54686b596a49324f445a6a4c6e426b5a673d3d&fich=0d1d47cb-f767-4f2f-a2b8-39798db2686c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Associação Nacional de Municípios Portugueses (ANMP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a445a6d59575179593245744d32526a4d533030596a6b334c546b35596a5974596a45324d7a59324e3245794e325a6c4c6e426b5a673d3d&fich=d6fad2ca-3dc1-4b97-99b6-b163667a27fe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Associação Nacional de Freguesias (ANAFRE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5755334d474d785a6d55744d7a6b324f5330305a5467314c57466a4d575574596a6c6a4d546b335957497859546b794c6e426b5a673d3d&fich=5e70c1fe-3969-4e85-ac1e-b9c197ab1a92.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Confederação dos Agricultores de Portugal (CAP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e544e6a4e575532596d59744d54426d597930304e7a4d354c57466a4e6a4d744d44686c4d32526d597a41794e7a4e6b4c6e426b5a673d3d&fich=53c5e6bf-10fc-4739-ac63-08e3dfc0273d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Confederação Nacional da Agricultura (CNA)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4463774d444a684d475174596a646959693030596d466c4c54686a4e4445744f4441324d546733597a6c6a4f47526c4c6e426b5a673d3d&fich=47002a0d-b7bb-4bae-8c41-806187c9c8de.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Associação Florestal de Portugal (Forestis)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593259344f5759774d6a49744d6a51324f4330304f5459784c57466959324d744f444d794e544d324d32457759324e6c4c6e426b5a673d3d&fich=cf89f022-2468-4961-abcc-8325363a0cce.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal (Confagri)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54646d5954597759546b744e54566a4e6930304e7a426a4c546b78596d55744e5751784f574a694e6d59794e5751794c6e426b5a673d3d&fich=e7fa60a9-55c6-470c-91be-5d19bb6f25d2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Ordem dos Advogados (OA)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e475a6c4f445a684e4441745a5746694e7930304e7a517a4c5745334d6a45744d7a413159545a695a54426b59575a6d4c6e426b5a673d3d&fich=4fe86a40-eab7-4743-a721-305a6be0daff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Ordem dos Solicitadores e Agentes de Execução (OSAE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593252684e44526d597a45745a6d45324e433030597a4a6d4c5467325a5755745a4459344e3251354d6d59324e4445314c6e426b5a673d3d&fich=cda44fc1-fa64-4c2f-86ee-d687d92f6415.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Contributo - Direção Geral de Agricultura e Desenvolvimento Rural (DGADR)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f47517a597a566a596a6b74596a6b344f4330304e7a4d324c5745314f5451744e546b785a446c694f44426c596d59354c6e426b5a673d3d&fich=8d3c5cb9-b988-4736-a594-591d9b80ebf9.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8331",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Agricultura e Pescas",
+        "Numero": "25",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "PCP",
+              "BE"
+            ],
+            "data": "2023-07-12",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> IL</I><BR>Ausência: <I>PCP</I>, <I> BE</I>",
+            "id": "115448",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "62",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2022-09-22",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1319415",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
