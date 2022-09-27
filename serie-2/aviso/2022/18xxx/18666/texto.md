@@ -1,0 +1,13 @@
+Aviso n.º 18666/2022
+Sumário: Prorrogação do prazo de elaboração do Plano de Pormenor da 2.ª Ampliação do Parque Industrial Manuel Lourenço Ferreira.
+Prorrogação do prazo de elaboração do Plano de Pormenor da 2.ª Ampliação do Parque Industrial Manuel Lourenço Ferreira
+Ricardo Sérgio Pardal Marques, Presidente da Câmara Municipal de Mortágua, torna público em cumprimento do disposto no n.º 6 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na sua redação dada pelo Decreto-Lei n.º 80/2015 de 14 de maio, que a Câmara Municipal de Mortágua, na sua reunião ordinária de 7 de setembro de 2022, deliberou, por unanimidade, aprovar a prorrogação do prazo de elaboração Plano de Pormenor da 2.ª Ampliação do Parque Industrial Manuel Lourenço Ferreira, por mais 12 meses, com efeitos a partir do dia 11 de setembro de 2022, nos termos e com os objetivos publicitados pelo Aviso n.º 17232/2021, publicado no Diário da República, 2.ª série, n.º 177, de 10 de setembro.
+Informa -se ainda que, nos termos do n.º 1 do artigo 5.º, conjugado com o n.º 1 dos artigos 76.º e 192.º do RJIGT, o presente aviso será divulgado através da comunicação social, da Plataforma Colaborativa de Gestão Territorial, encontrando-se igualmente disponível para consulta no sítio da internet do Município de Mortágua, (http://www.cm-mortagua.pt)
+13 de setembro de 2022. - O Presidente da Câmara Municipal, Ricardo Sérgio Pardal Marques.
+Deliberação
+A Câmara Municipal de Mortágua em reunião ordinária, realizada no dia 7 de setembro de 2022, deliberou, por unanimidade, aprovar o seguinte:
+1 - Prorrogar o prazo de elaboração do Plano de Plano de Pormenor da 2.ª Ampliação do Parque Industrial Manuel Lourenço Ferreira, por um período máximo igual ao previamente estabelecido (12 meses), nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015 de 14 de maio, denominado Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), com efeitos a partir de 11 de setembro de 2022, nos termos e com os objetivos publicitados no Aviso n.º 17232/2021, publicada no Diário da República, 2.ª série, n.º 177, de 10 de setembro;
+2 - Comunicar à Comissão de Coordenação e Desenvolvimento Regional do Centro (CCDR-C) do teor da presente deliberação;
+3 - Proceder à publicação e publicitação da presente deliberação no Diário da República, na comunicação social, na plataforma colaborativa de gestão territorial e na página da Internet do Município, conforme o disposto no n.º 1 do artigo 76.º do RJIGT.
+13 de setembro de 2022. - O Presidente da Câmara Municipal de Mortágua, Ricardo Sérgio Pardal Marques.
+615697107
