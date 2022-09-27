@@ -6,7 +6,7 @@
 
 ### Poderes de autoridade
 
-1 - Compete à IP, S. A., relativamente às infraestruturas rodoviárias e ferroviárias nacionais sob sua administração, zelar pela manutenção permanente das condições de infraestruturação e conservação e pela segurança da circulação ferroviária e rodoviária.
+1 - Compete à IP, S. A., relativamente às infraestruturas rodoviárias e ferroviárias nacionais sob sua administração e às infraestruturas afetas às atividades de conceção, projeto, construção, exploração, operação e manutenção, em regime de concessão, do sistema de cabos submarinos de comunicações eletrónicas entre o território de Portugal continental e os arquipélagos dos Açores e da Madeira, zelar pela manutenção permanente das condições de infraestruturação e conservação e pela segurança da circulação ferroviária e rodoviária.
 
 2 - Para o desenvolvimento da sua atividade principal, a IP, S. A., detém os poderes, prerrogativas e obrigações conferidos ao Estado pelas disposições legais e regulamentares aplicáveis, designadamente no que respeita:
 
@@ -16,7 +16,7 @@ b) Ao licenciamento e concessão, nos termos da legislação aplicável, da expl
 
 c) A intimações, embargo administrativo e demolição de construções e edificações efetuadas em domínio público sob gestão da IP, S. A., em zonas non aedificandi e em zonas de proteção estabelecidas por lei, bem como à determinação da remoção de outras situações suscetíveis de violar estas zonas, e reposição do estado do terreno ou imóvel existente antes desta situação;
 
-d) A ocupação temporária e atravessamento de terrenos confinantes e vizinhos de bens de domínio público ferroviário e rodoviário, bem como ao desvio de linhas de águas, mediante autorização concedida pela autoridade competente, para efeitos de realização de estudos, obras ou trabalhos preparatórios de construção, renovação, conservação e consolidação das vias ferroviárias e rodoviárias ou de outros elementos das respetivas infraestruturas, em que não se justifique a respetiva expropriação;
+d) A ocupação temporária e atravessamento de terrenos confinantes e vizinhos de bens de domínio público, incluindo ferroviário, rodoviário e hídrico, bem como ao desvio de linhas de águas, mediante autorização concedida pela autoridade competente, para efeitos de realização de estudos, obras ou trabalhos preparatórios de construção, renovação, conservação e consolidação das vias ferroviárias e rodoviárias ou de outros elementos das respetivas infraestruturas, bem como das infraestruturas afetas às atividades de conceção, projeto, construção, exploração, operação e manutenção, em regime de concessão, do sistema de cabos submarinos de comunicações eletrónicas entre o território de Portugal continental e os arquipélagos dos Açores e da Madeira, em que não se justifique a respetiva expropriação;
 
 e) Ao encerramento compulsivo de instalações onde sejam exercidas atividades proibidas, perigosas, ou não autorizadas, bem como aos casos resultantes de incumprimento contratual;
 
