@@ -1,0 +1,8 @@
+Aviso n.º 93/2022
+Sumário: Torna público que a República Federativa do Brasil depositou, no dia 7 de março de 2022, junto do Secretariado Executivo da CPLP, o seu instrumento de ratificação relativo ao Acordo sobre a Mobilidade entre os Estados-Membros da Comunidade de Países de Língua Portuguesa.
+Por ordem superior se torna público que a República Federativa do Brasil depositou, no dia 7 de março de 2022, junto do Secretariado Executivo da Comunidade dos Países de Língua Portuguesa, o seu instrumento de ratificação relativo ao Acordo sobre a Mobilidade entre os Estados-Membros da Comunidade de Países de Língua Portuguesa (CPLP), assinado em Luanda, a 17 de julho de 2021.
+O referido Acordo foi aprovado pela Câmara dos Deputados, no dia 9 de fevereiro, e pelo Senado Federal, no dia 17 de fevereiro, tendo sido publicado no Diário Oficial da União, no dia 18 de fevereiro, o Decreto Legislativo n.º 2/2022 que estabelece a aprovação desse Acordo pelo Congresso Nacional e ratificado no dia 23 de fevereiro de 2022 pelo Presidente da República Federativa do Brasil, Jair Bolsonaro.
+Nos termos do seu n.º 2 do artigo 30.º, o Acordo sobre a Mobilidade entre os Estados-Membros da CPLP entrou em vigor, para a República Federativa do Brasil, no dia 1 de abril de 2022.
+Mais se informa que o Acordo já se encontra em vigor para a República Portuguesa, a República Democrática de São Tomé e Príncipe, a República de Cabo Verde e a República da Guiné-Bissau desde 1 de janeiro de 2022, para a República de Moçambique desde 1 de fevereiro de 2022, para a República de Angola e para a República Democrática de Timor-Leste desde o dia 1 de julho de 2022.
+Direção-Geral de Política Externa, 16 de setembro de 2022. - A Subdiretora-Geral, Indira Noronha.
+115701456
