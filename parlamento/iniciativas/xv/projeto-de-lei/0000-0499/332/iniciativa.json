@@ -1,0 +1,223 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "332",
+  "id": "151969",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-09-28",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334e57517a4e7a526b4e7930355a54557a4c5451334d5463744f4445784e533033597a646a4f4468694e7a6b3059324d756347526d&fich=75d374d7-9e53-4717-8115-7c7c88b794cc.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "4452",
+        "nome": "Isabel Alves Moreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5600",
+        "nome": "Eurico Brilhante Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6706",
+        "nome": "Miguel Matos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "162",
+        "nome": "Edite Estrela"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "469",
+        "nome": "Porfírio Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1944",
+        "nome": "Susana Amador"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5930",
+        "nome": "Alexandre Quintanilha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6543",
+        "nome": "Alexandra Leitão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6893",
+        "nome": "Maria Begonha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5933",
+        "nome": "Carla Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6334",
+        "nome": "Miguel dos Santos Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7975",
+        "nome": "Eunice Pratas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5896",
+        "nome": "Eduardo Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7055",
+        "nome": "Francisco Dinis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7878",
+        "nome": "Tiago Soares Monteiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7757",
+        "nome": "Pedro Anastácio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6129",
+        "nome": "Lúcia Araújo da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7324",
+        "nome": "Anabela Real"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6789",
+        "nome": "Paulo Araújo Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7194",
+        "nome": "Rosa Venâncio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6899",
+        "nome": "Marta Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7036",
+        "nome": "Francisco Pereira de Oliveira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6867",
+        "nome": "Rosário Gambôa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6371",
+        "nome": "Patrícia Faro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7726",
+        "nome": "Catarina Lobo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7161",
+        "nome": "Pompeu Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3936",
+        "nome": "Palmira Maciel"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6057",
+        "nome": "Ana Isabel Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6801",
+        "nome": "Maria João Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6530",
+        "nome": "Marta Temido"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4363",
+        "nome": "Agostinho Santa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6682",
+        "nome": "Romualda Nunes Fernandes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "151969",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338344e445a6c4e5759305969307a4d6a63334c54526d4d7a51744f44497a4f53316c593259785a5755794d6d5578595441755a47396a65413d3d&fich=846e5f4b-3277-4f34-8239-ecf1ee22e1a0.docx&Inline=true",
+    "IniNr": "332",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Estabelece o quadro para a emissão das medidas administrativas que as escolas devem adotar para efeitos da implementação da Lei n.º 38/2018, de 7 de agosto",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
