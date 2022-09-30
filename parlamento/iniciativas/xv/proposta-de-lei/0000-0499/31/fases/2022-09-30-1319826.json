@@ -1,0 +1,161 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "31",
+    "id": "151849",
+    "titulo": "Procede à alteração do Código dos Impostos Especiais de Consumo, transpondo as Diretivas (UE) 2019/2235, 2020/262 e 2020/1151, e introduz diversas alterações destinadas a reforçar os mecanismos de controlo aplicáveis no âmbito destes tributos"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "63045",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-09-30",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-10-31",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer APETRO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a637a596a466b4d574d334c574e684e474d744e44426a595330344e5459354c544a6d4f544d314d444e694d6a557a4e4335775a47593d&fich=73b1d1c7-ca4c-40ca-8569-2f93503b2534.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-11-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANEBE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e6d593259304d5455774c5456694f4451744e47566d4f5331684d544e684c5751345a5751324e445178596a63774d7935775a47593d&fich=3fcf4150-5b84-4ef9-a13a-d8ed6441b703.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-11-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da ACIBEV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d315a575a6c4d7a5a6b4c54526a5a4455744e4449324e693034595464694c54566c4d6a55344f545178596a4e6c4e7935775a47593d&fich=c5efe36d-4cd5-4266-8a7b-5e258941b3e7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-11-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526d4f545a6a5a5459344c57566b4f4449744e47457a4d5330355954497a4c575a6d4f4759305a47517a4d7a6c6b4f5335775a47593d&fich=4f96ce68-ed82-4a31-9a23-ff8f4dd339d9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259305a5745315a446c6a4c546b784e5441744e44566b59693169597a6c694c54526a4d444d785a6a67324f5467774f4335775a47593d&fich=f4ea5d9c-9150-45db-bc9b-4c031f869808.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-07",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67335a4751354e324e684c5459355a5755744e474d794e7930354d7a59354c5463794f4463325a6a6b334f5459784e7935775a47593d&fich=87dd97ca-69ee-4c27-9369-72876f979617.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-07",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251304f5459334d7a59794c54646a4e3259744e4451334d7930354d4745324c544d775a6d597a4d446b354f545a6d4e6935775a47593d&fich=d4967362-7c7f-4473-90a6-30ff309996f6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-07",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação na Especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249794e3256684d6a67794c5463305a5745744e474a68595331694d44597a4c5449775932517a4e446332597a56694d6935775a47593d&fich=b27ea282-74ea-4baa-b063-20cd3476c5b2.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "APETRO - Associação Portuguesa de Empresas Petrolíferas em 2022-10-31"
+          },
+          {
+            "link": "",
+            "nome": "ACIBEV - Associação de Vinhos e Espirituosas de Portugal em 2022-11-04"
+          },
+          {
+            "link": "",
+            "nome": "ANEBE - Associação Nacional de Empresas de Bebidas Espirituosas em 2022-11-03"
+          },
+          {
+            "link": "",
+            "nome": "DECO - Associação Portuguesa para a Defesa do Consumidor em 2022-11-10"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "APETRO - Associação Portuguesa de Empresas Petrolíferas em 2022-10-21"
+          },
+          {
+            "link": "",
+            "nome": "ACIBEV - Associação de Vinhos e Espirituosas de Portugal em 2022-10-21"
+          },
+          {
+            "link": "",
+            "nome": "ANEBE - Associação Nacional de Empresas de Bebidas Espirituosas em 2022-10-21"
+          },
+          {
+            "link": "",
+            "nome": "DECO - Associação Portuguesa para a Defesa do Consumidor em 2022-10-21"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-09-30",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1319826",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
