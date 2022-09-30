@@ -1,0 +1,838 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "290",
+    "id": "151903",
+    "titulo": "Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2022-09-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18288",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2022-09-30",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121409",
+        "leg": "XV",
+        "nr": "47",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aprova medidas de combate à carência de professores e educadores na Escola Pública"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "151904",
+        "leg": "XV",
+        "nr": "291",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Programa de atração e fixação de docentes na escola pública"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "151885",
+        "leg": "XV",
+        "nr": "223",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16241",
+            "obs": null,
+            "pag": [
+              "33-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-01",
+            "pubLeg": "XV",
+            "pubNr": "45",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-09-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=35"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-34,43-44&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública; Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública; Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública; Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7340",
+                "nome": "Gabriel Mithá Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/36?pgs=36-38&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública; Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6875",
+                "nome": "Carla Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública; Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas.\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública; Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7007",
+                "nome": "Carla Madureira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/40?pgs=40-42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública; Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4363",
+                "nome": "Agostinho Santa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_30_10_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública; Recomenda ao Governo que desenvolva as diligências necessárias para que os alunos iniciem o ano letivo de 2022/2023 com a atribuição de professores em todas as disciplinas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7240",
+                "nome": "Alexandre Poço"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6571",
+                "nome": "António Cunha"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7329",
+                "nome": "António Topa Gomes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7007",
+                "nome": "Carla Madureira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6529",
+                "nome": "Cláudia André"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5985",
+                "nome": "Firmino Pereira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5984",
+                "nome": "Germana Rocha"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6542",
+                "nome": "Hugo Martins de Carvalho"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7388",
+                "nome": "Inês Barroso"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4436",
+                "nome": "Joana Barata Lopes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1529",
+                "nome": "João Marques"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4094",
+                "nome": "Maria Emília Apolinário"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7011",
+                "nome": "Gabriela Fonseca"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5492",
+                "nome": "Rui Cruz"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7335",
+                "nome": "Sónia Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:02",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-01",
+                "pubLeg": "XV",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de combate à carência de professores e educadores na escola pública; Estabelece mecanismos de compensação para docentes deslocados da residência no cumprimento do seu exercício profissional; Programa de atração e fixação de docentes na escola pública.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1319587",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "972677",
+        "obs": null,
+        "pag": [
+          "33-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-10-01",
+        "pubLeg": "XV",
+        "pubNr": "45",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/045/2022-10-01/33?pgs=33-44&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
