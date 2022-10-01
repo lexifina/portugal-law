@@ -42,7 +42,9 @@ j) O Instituto de Avaliação Educativa, I.P.;
 
 k) O Instituto de Gestão Financeira da Educação, I.P.;
 
-l) Os institutos públicos cujas leis orgânicas prevejam, expressamente, atribuições relacionadas com a gestão, em qualquer das suas vertentes, de programas de aplicação, de medidas programáticas, de sistemas de apoio e de ajudas ou de financiamento, suportados por fundos europeus.
+l) A Direção Executiva do Serviço Nacional de Saúde, I. P.;
+
+m) Os institutos públicos cujas leis orgânicas prevejam, expressamente, atribuições relacionadas com a gestão, em qualquer das suas vertentes, de programas de aplicação, de medidas programáticas, de sistemas de apoio e de ajudas ou de financiamento, suportados por fundos europeus.
 
 4 - (Revogado.)
 
