@@ -1,13 +1,9 @@
 # Artigo 10.º
 
-### Recrutamento para categoria superior
+### Recrutamento para a categoria de mestre florestal
 
-1 - O recrutamento para a categoria de mestre florestal é feito mediante procedimento concursal nos termos a estabelecer através de Portaria conjunta dos membros do Governo Regional que tutelam o setor florestal e a administração pública regional e local, de entre guardas florestais com, pelo menos, três anos de serviço efetivo na respetiva categoria, que cumpram os restantes pré-requisitos.
+1 - O recrutamento para a categoria de mestre florestal é feito mediante procedimento concursal nos termos a estabelecer através de portaria conjunta dos membros do Governo Regional que tutelam os setores das florestas e da administração pública regional, de entre guardas florestais que detenham, no mínimo, quatro anos de serviço efetivo na respetiva categoria com avaliação do desempenho não inferior a Adequado durante esse período.
 
-2 - Os pré-requisitos a que se refere o número anterior são:
+2 - A nomeação dos trabalhadores da carreira de guarda florestal na categoria de mestre florestal faz-se de acordo com as disposições do presente diploma e processa-se para a posição remuneratória inicial da categoria de mestre florestal ou para posição a que corresponda um nível remuneratório imediatamente superior àquele em que o trabalhador se encontrava aquando da mudança de categoria.
 
-a) Aprovação em curso de formação específica de seis meses nos termos a estabelecer através de Portaria conjunta dos membros do Governo Regional que tutelam o setor florestal e a administração pública regional e local;
-
-b) A obtenção de avaliação de desempenho não inferior a adequado no último ciclo avaliativo.
-
-3 - A nomeação dos trabalhadores da carreira de guarda florestal em categoria superior faz-se de acordo com as disposições do presente diploma e processa-se para a posição remuneratória inicial da respetiva categoria de acesso ou para posição a que corresponda um nível remuneratório imediatamente superior, no caso de já ser auferida remuneração base igual ou superior.
+3 - O trabalhador recrutado para a categoria de mestre florestal não está sujeito a período experimental.

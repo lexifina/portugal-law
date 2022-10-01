@@ -1,9 +1,11 @@
 # Artigo 4.º
 
-### Categorias
+### Estrutura da carreira
 
 A carreira especial de guarda florestal é pluricategorial e estrutura-se nas seguintes categorias:
 
-a) Mestre florestal;
+a) Guarda florestal;
 
-b) Guarda florestal.
+b) Mestre florestal;
+
+c) Mestre florestal principal.

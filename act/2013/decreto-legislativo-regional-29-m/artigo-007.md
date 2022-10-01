@@ -2,12 +2,12 @@
 
 ### Conteúdo funcional da categoria de mestre florestal
 
-O conteúdo funcional da categoria de mestre florestal, sem prejuízo de em caso de necessidade praticarem todas as funções inerentes à categoria de guarda florestal, compreende:
+Para além do conteúdo funcional da categoria de guarda florestal, compete ainda ao mestre florestal exercer as seguintes funções:
 
-a) Dar execução ao embargo, ou outras atuações coercivas determinadas pelas entidades competentes, de obras ou ações que ocorram em violação da lei;
+a) Orientar e apoiar os trabalhos de campo relativos à exploração florestal e acompanhar o processo de comercialização dos respetivos produtos, bem como realizar outras tarefas no mesmo âmbito, nomeadamente as inerentes à caça, pesca em águas interiores, apicultura, correção torrencial e fitossanidade;
 
-b) Estabelecer prioridades de intervenção no que respeita às ações de vigilância e fiscalização, na ausência do mestre florestal coordenador;
+b) Controlar e fiscalizar os processos de rearborização das áreas exploradas e transformação de culturas;
 
-c) Orientar os trabalhos de campo relativos à exploração florestal e o processo de comercialização dos respetivos produtos;
+c) Orientar os trabalhos de campo inerentes à produção de plantas em viveiro florestal;
 
-d) Orientar o registo de ocorrência de incêndios florestais e das suas causas.
+d) Efetuar vistorias, quando necessárias ou requeridas, nos termos da lei.
