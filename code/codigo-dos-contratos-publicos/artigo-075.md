@@ -12,7 +12,7 @@ b) Organização, qualificações e experiência do pessoal encarregado da execu
 
 c) Serviço e assistência técnica pós-venda e condições de entrega, designadamente a data de entrega, o processo de entrega, o prazo de entrega ou de execução e o tempo de prestação de assistência;
 
-d) Sustentabilidade ambiental ou social do modo de execução do contrato, designadamente no que respeita ao tempo de transporte e de disponibilização do produto ou serviço, em especial no caso de produtos perecíveis, à denominação de origem ou indicação geográfica, no caso de produtos certificados, à eficiência energética, em especial no fornecimento de energia, e à utilização de produtos de origem local ou regional, de produção biológica, bem como de produtos provenientes de detentores do Estatuto de Agricultura Familiar;
+d) Sustentabilidade ambiental ou social do modo de execução do contrato, designadamente no que respeita ao tempo de transporte e de disponibilização do produto ou serviço, em especial no caso de produtos perecíveis, à denominação de origem ou indicação geográfica, no caso de produtos certificados, à eficiência energética, em especial no fornecimento de energia, e à utilização de produtos provenientes de produção em modo biológico.
 
 e) Circularidade, designadamente a utilização de produtos e serviços circulares, a opção por circuitos curtos de distribuição, a eficiência no uso de materiais e a redução de impactos ambientais;
 
