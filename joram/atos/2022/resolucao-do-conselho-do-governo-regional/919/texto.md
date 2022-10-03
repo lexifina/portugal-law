@@ -1,0 +1,27 @@
+# Resolução do Conselho do Governo Regional n.º 919/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 176/2022, suplemento, de 2022-10-03
+
+**Sumário:** Autoriza o pagamento de uma indemnização ao agricultor do convencionado item “Agricultores a Indemnizar PU2021 – Processo 1”, no valor de € 1.980,00.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 919/2022
+
+Sumário: Autoriza o pagamento de uma indemnização ao agricultor do convencionado item “Agricultores a Indemnizar PU2021 – Processo 1”, no valor de € 1.980,00.
+
+Texto: Resolução n.º 919/2022. Considerando que a Resolução n.º 990/2020, de 19 de novembro, veio autorizar a Secretaria Regional de Agricultura e Desenvolvimento Rural a desenvolver os procedimentos financeiros e legais necessários com vista à concessão de um apoio financeiro extraordinário aos agricultores que, face aos constrangimentos colocados pela pandemia da COVID-19 e por falha de elos intervenientes no sistema de call center de emergência instalado para rececionar candidaturas ao Pedido Único (PU) de 2020, não as puderam formalizar no respetivo prazo de aceitação e, como tal, auferir de apoios financeiros consignados no POSEI e no PRODERAM 2020; Considerando que, não tendo sido possível em 2020 analisar e dar enquadramento a todas as situações de agricultores que tenham sido eventualmente prejudicados por aquele facto, através da Resolução n.º 14/2021, de 7 de janeiro, o Conselho do Governo Regional renovou aquela autorização para 2021; Considerando que, mais recentemente, foram também identificadas, embora em muito reduzido número, mas motivadas pelo mesmo problema de comunicação acima referido, situações que conduziram a que alguns agricultores não tivessem formalizado corretamente, designadamente por omissão de certas validações, a sua candidatura a todas as ajudas do PU de 2020 a que tinham direito; Considerando que, pela Resolução n.º 78/2022, de 17 de fevereiro, o Conselho do Governo Regional, autorizou a Secretaria Regional de Agricultura e Desenvolvimento Rural a desenvolver os procedimentos financeiros e legais necessários com vista à concessão de um apoio financeiro extraordinário aos agricultores que, por falha de elos intervenientes no sistema de call center de emergência instalado para fazer face às candidaturas ao Pedido Único (PU) de 2020, não puderam formalizar corretamente a sua candidatura a todas as ajudas a que tinham direito; Considerando que, porém, os efeitos das disrupções causadas pela crise pandémica ao nível da melhor comunicação com os agricultores tiveram ainda, conquanto num número muito pequeno de casos, repercussões na receção das candidaturas às ajudas do PU de 2021, igualmente por falha na não validação da intenção ao benefício de certas ajudas contempladas; Considerando que a Resolução n.º 729/2022, de 3 de agosto, veio então autorizar a Secretaria Regional de Agricultura e Desenvolvimento Rural a desenvolver os procedimentos financeiros e legais necessários com vista à concessão de um apoio financeiro extraordinário aos agricultores que, pelo prolongamento em 2021 dos efeitos das disrupções causadas pela crise pandémica da COVID-19 ao nível da melhor comunicação na receção das candidaturas ao Pedido Único (PU), não as puderam formalizar corretamente naquele ano de forma a contemplar todas as ajudas a que tinham direito; Considerando que estes apoios constituem uma importante fatia do rendimento anual dos agricultores; O Conselho do Governo reunido em plenário em 29 de setembro de 2022, resolve:
+
+1. Ao abrigo das disposições conjugadas dos n.ºs 2 e 10 do artigo 34.º do Decreto Legislativo Regional n.º 28-A/2021/M, de 30 de dezembro, na sua atual redação, que Aprova o Orçamento da Região Autónoma da Madeira para 2022, do Regulamento (UE) n.º 1407/2013 da Comissão, de 18 de dezembro de 2013, alterado pelo Regulamento (UE) 2019/316 da Comissão, de 21 de fevereiro de 2019, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor agrícola, e das Resoluções n.ºs 990/2020, de 19 de novembro, 14/2021, de 7 de janeiro, 78/2022, de 17 de fevereiro, e 729/2022, de 3 de agosto, autorizar o pagamento de indemnização ao agricultor do convencionado item “Agricultores a Indemnizar PU2021 - Processo 1”, no valor de € 1.980,00 (mil, novecentos e oitenta euros).
+
+2. O contrato-programa a celebrar com o agricultor em causa, produz efeitos desde a data da sua assinatura até 31 de dezembro de 2022.
+
+3. Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+
+4. Mandatar o Secretário Regional de Agricultura e Desenvolvimento Rural para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o correspondente contrato-programa.
+
+5. A patente despesa tem cabimento orçamental no ano de 2022 na classificação orgânica 51 9 50 02 00, classificação funcional 42, classificação económica D.04.08.02.B0.00, fonte de financiamento 381, programa 44, medida 12, projeto SIGO 50008, fundo 4381000071, centro financeiro M100607, centro de custo M100A63100, cabimento n.º CY42213832 e compromisso n.º CY52215856.
+
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, no exercício da Presidência, Jorge Maria Abreu de Carvalho
