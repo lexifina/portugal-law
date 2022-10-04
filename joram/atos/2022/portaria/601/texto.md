@@ -1,0 +1,38 @@
+# Portaria n.º 601/2022
+
+**Emissor:** SECRETARIA REGIONAL DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 177/2022, suplemento, de 2022-10-04
+
+**Sumário:** Aprova e altera a estrutura nuclear da Inspeção Regional de Finanças, abreviadamente designada por IRF.
+
+## Texto
+
+Portaria n.º 601/2022
+de 4 de outubro
+Sumário: Aprova e altera a estrutura nuclear da Inspeção Regional de Finanças, abreviadamente designada por IRF.
+Texto: O Decreto Legislativo Regional n.º 18/2005/M, de 24 de novembro, aprovou a missão, atribuições e competências da Inspeção Regional de Finanças e o Decreto Regulamentar Regional n.º 15/2016/M, de 2 de maio, alterado pelo Decreto Regulamentar Regional n.º 7/2022/M, de 5 de maio, aprovou e definiu a sua estrutura orgânica e organização interna. Para o desenvolvimento das atribuições e competências da Inspeção Regional de Finanças, importa definir a sua estrutura nuclear bem como estabelecer as competências das respetivas unidades orgânicas à luz dos diplomas citados. Assim, pela presente portaria é aprovada a estrutura nuclear da Inspeção Regional de Finanças, constituída por duas unidades orgânicas denominadas por Gabinete de Planeamento e Coordenação e Gabinete de Auditoria. Nestes termos, ao abrigo do n.º 4 do artigo 21.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.ºs 24/2012/M, de 30 de agosto e 2/2013/M, de 2 de janeiro, que o republicou, determina o Governo Regional, pelo Secretário Regional das Finanças, o seguinte:
+Artigo 1.º Objeto
+O presente diploma aprova e altera a estrutura nuclear da Inspeção Regional de Finanças, doravante IRF.
+Artigo 2.º Estrutura Nuclear
+A IRF compreende as seguintes unidades orgânicas que funcionam na direta dependência do Inspetor Regional de Finanças:
+a) Gabinete de Planeamento e Coordenação; b) Gabinete de Auditoria.
+Artigo 3.º Gabinete de Planeamento e Coordenação
+1. O Gabinete de Planeamento e Coordenação, doravante GPC, é a unidade orgânica nuclear da IRF que tem por missão apoiar este serviço e o Inspetor Regional de Finanças na definição das suas prioridades de atuação e no planeamento, execução, gestão, coordenação e controlo do orçamento, do património e dos recursos afetos à IRF.
+2. As competências do GPC são as seguintes: a) Apoiar o Inspetor Regional de Finanças na gestão dos recursos financeiros, patrimoniais, humanos e tecnológicos afetos à IRF; b) Elaborar as propostas dos instrumentos de gestão anual, de avaliação e de prevenção de riscos, de acordo com as orientações superiormente definidas, e acompanhar a sua execução; c) Elaborar e submeter à aprovação os relatórios de execução respeitantes aos instrumentos referidos na alínea anterior; d) Preparar os projetos de orçamentos de acordo com a orientação e objetivos superiormente definidos; e) Elaborar a proposta do Plano de Prevenção de Riscos, do Manual de Controlo Interno e do Código de Conduta e de Ética, e respetivas alterações, de acordo com as orientações superiormente definidas, bem como acompanhar a sua execução; f) Efetuar o controlo interno no âmbito das suas atividades; g) Assegurar a administração e a gestão dos recursos financeiros, materiais e humanos afetos à IRF, de acordo com a orientação e objetivos superiormente definidos; h) Realizar os procedimentos conducentes às aquisições de bens e serviços; i) Proceder ao acompanhamento da execução dos contratos de aquisição de bens e serviços; j) Garantir a atualização e o controlo dos bens de imobilizado; k) Garantir a atualização e o controlo dos bens aprovisionados; l) Promover e coordenar as ações de modernização e simplificação administrativa; m) Assegurar os procedimentos administrativos respeitantes à gestão de pessoal, nomeadamente, recrutamento e seleção, mobilidade, avaliação do desempenho, controlo da assiduidade, balanço social, higiene e segurança no trabalho; n) Proceder anualmente ao levantamento e caracterização das necessidades de formação do pessoal e promover a sua realização; o) Assegurar o apoio às atividades operacionais; p) Assegurar o registo, a receção e a expedição de documentos oficiais, controlar a sua circulação na IRF bem como a sua preservação e conservação física;
+
+q) Organizar, atualizar e gerir o arquivo da IRF; r) Exercer, as demais competências previstas na lei bem com as que, dentro da sua área funcional, lhe forem
+superiormente atribuídas.
+3. O GPC é dirigido por um diretor de serviços, cargo de direção intermédia de 1.º grau, recrutado nos termos da lei em vigor.
+Artigo 4.º Gabinete de Auditoria
+1. O Gabinete de Auditoria, doravante GA, é a unidade orgânica nuclear da IRF que tem por missão apoiar o Inspetor Regional de Finanças na execução das inspeções, fiscalizações, auditorias e outras ações de controlo, doravante, ações de controlo, previstas no Plano de Atividades e/ou superiormente determinadas.
+2. As competências do GA são as seguintes: a) Apoiar o Inspetor Regional de Finanças na definição das linhas de atuação no que se refere às ações de controlo, tendo em conta as atribuições da IRF, os objetivos gerais estabelecidos e as diretrizes superiormente determinadas; b) Apoiar o Inspetor Regional de Finanças no planeamento, na elaboração e no cumprimento do Plano de Atividades da IRF, no que se refere às ações de controlo; c) Apoiar o Inspetor Regional de Finanças na definição e orientação das ações de controlo e nas metodologias de atuação, de forma a conferir-lhes maior eficácia e eficiência; d) Apoiar o Inspetor Regional de Finanças na execução das ações de controlo constantes do Plano de Atividades da IRF bem como as demais que forem superiormente determinadas, designadamente, acompanhar, em conformidade com os objetivos e orientações superiormente estabelecidos, as equipas de auditoria no seu planeamento e desenvolvimento; e) Concertar com as equipas de auditoria nos aspetos que lhe seja requerida a respetiva intervenção, em matéria de, designadamente, elaboração dos planos de ação, projetos de relatório e relatórios finais a submeter à apreciação do Inspetor Regional de Finanças; f) Apoiar o Inspetor Regional de Finanças no estabelecimento dos normativos e dos instrumentos necessários ao exercício da atividade inspetiva propondo, nomeadamente, regulamentos, manuais de procedimentos e outras ferramentas de trabalho que assegurem o cumprimento dos princípios pelos quais se rege a atividade da IRF e a harmonização e uniformização dos trabalhos produzidos na área das ações de controlo; g) Apoiar o Inspetor Regional de Finanças na elaboração do Relatório de Atividades da IRF, na área de inspeção, auditoria e ações de controlo; h) Exercer as demais competências previstas na lei bem como as que, dentro da sua área funcional, lhe forem superiormente atribuídas.
+3. O GA é dirigido por um diretor de serviços, cargo de direção intermédia de 1.º grau, recrutado, nos termos da lei em vigor, de entre indivíduos providos na carreira de inspeção ou de auditoria das inspeções da Administração Pública, habilitados com licenciatura e com pelo menos, 6 anos de serviço na carreira e em funções de inspeção, auditoria e consultadoria.
+Artigo 5º Manutenção da Comissão de Serviço
+Mantém-se a atual comissão de serviço do titular do cargo de direção intermédia de 1.º grau do Gabinete de Planeamento e Coordenação.
+Artigo 6.º Revogação
+É revogada a Portaria n.º 195/2016, de 11 de maio.
+Artigo 7.º Entrada em vigor
+Esta Portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretaria Regional das Finanças, 29 de setembro de 2022.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
