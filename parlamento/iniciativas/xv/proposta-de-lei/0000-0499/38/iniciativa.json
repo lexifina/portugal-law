@@ -1,0 +1,120 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Proposta de Lei",
+  "numero": "38",
+  "id": "152005",
+  "fases": 44,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-10-10",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533830597a526a4e5749324f53316a5a5463314c5451314d474d744f5751794e69316a4f5755785a5467794e6a55775a6a67756347526d&fich=4c4c5b69-ce75-450c-9d26-c9e1e82650f8.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684f544979596d52694e433078596d55354c54517a597a6774595455784e5330795a47557a4d475930596a526b4d6a63756347526d&fich=a922bdb4-1be9-43c8-a515-2de30f4b4d27.pdf&Inline=true",
+        "anexoNome": "Mapa I - Mapa das despesas por missão de base orgânica, desagregadas por programas dos subsetores da  Administração Central e da Segurança Social"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334d5756694d5455794e6930774e4759324c54517a597a55744f57497a4f5330795a6d49345a6a5130597a45334d3259756347526d&fich=71eb1526-04f6-43c5-9b39-2fb8f44c173f.pdf&Inline=true",
+        "anexoNome": "Mapa II - Mapa relativo à classificação funcional das despesas do subsetor da Administração Central"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387959544a684d47466c4d6930355a6a45354c5451775a544974595467774f5330345a546332595463794e445579597a41756347526d&fich=2a2a0ae2-9f19-40e2-a809-8e76a72452c0.pdf&Inline=true",
+        "anexoNome": "Mapa III - Mapa relativo à classificação económica das despesas do subsetor da Administração Central"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533830596d49344d324d315a6930784e6a426c4c5451334f4449744f575133597930794f57566c593246695a4745324d5463756347526d&fich=4bb83c5f-160e-4782-9d7c-29eecabda617.pdf&Inline=true",
+        "anexoNome": "Mapa IV - Mapa relativo à classificação orgânica das despesas do subsetor da Administração Central"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533969596d55774d6a55314d69316c4e44557a4c5451794e574d7459574d7a4e6930794e544d7759324933596a41794d4467756347526d&fich=bbe02552-e453-425c-ac36-2530cb7b0208.pdf&Inline=true",
+        "anexoNome": "Mapa V - Mapa relativo à classificação económica das receitas públicas do subsetor da Administração Central"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774f446b784d574d7a4d4330784e4451774c54526b4d446374595451324f4330344f444a6d4e5467304e54597a595749756347526d&fich=08911c30-1440-4d07-a468-882f584563ab.pdf&Inline=true",
+        "anexoNome": "Mapa VI - Mapa relativo às despesas com vinculações externas e despesas obrigatórias"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533832595467784d7a4d7a5a5330314d7a45324c54526b4d4445744f4745344e53316d4d544e6c4d474d324d6a49355a4451756347526d&fich=6a81333e-5316-4d01-8a85-f13e0c6229d4.pdf&Inline=true",
+        "anexoNome": "Mapa VII - Mapa relativo à classificação funcional das despesas de cada sistema e subsistema e do total do subsetor da Segurança Social"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c595755794e474d784d4331694f44686c4c5452694f546374596a426c4f4330784f4463774e444a6d596d5132596a4d756347526d&fich=eae24c10-b88e-4b97-b0e8-187042fbd6b3.pdf&Inline=true",
+        "anexoNome": "Mapa VIII - Mapa relativo à classificação económica das despesas de cada sistema e subsistema e do total do subsetor da Segurança Social"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334d3251795a4751344d53316a597a51304c5451344e574574596a6b774d79316c4e545a6a4d4751794d474d34596a6b756347526d&fich=73d2dd81-cc44-485a-b903-e56c0d20c8b9.pdf&Inline=true",
+        "anexoNome": "Mapa IX - Mapa relativo à classificação económica das receitas de cada sistema e subsistema e do total do subsetor da segurança social"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c596a5a6a4d54637a5979303159544d304c5451344e444d744f5463334e53307a593245304e6a557a4d7a51314e7a63756347526d&fich=eb6c173c-5a34-4843-9775-3ca465334577.pdf&Inline=true",
+        "anexoNome": "Mapa X -  Receitas Tributárias cessantes dos subsetores da Administração Central e da Segurança Social"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334d5745344e6a4e6b4e43316b4f4464694c54517a5a6a6b744f54526d4f5330344d6d51354d5749325a5463794d6a41756347526d&fich=71a863d4-d87b-43f9-94f9-82d91b6e7220.pdf&Inline=true",
+        "anexoNome": "Mapa XI - Transferências para as regiões autónomas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387959574d354e3251794d6931684d3245794c54526a59324974596a6b3459533077596a41345a6a41775a5467774d3259756347526d&fich=2ac97d22-a3a2-4ccb-b98a-0b08f00e803f.pdf&Inline=true",
+        "anexoNome": "Mapa XII - Transferências para os Municípios"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338795a475977597a67325953316c4e6a45774c5451795a6a59744f57526c4f4330305a4459324e446b77596a45355a6a51756347526d&fich=2df0c86a-e610-42f6-9de8-4d66490b19f4.pdf&Inline=true",
+        "anexoNome": "Mapa XIII - Transferências para as Freguesias"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338354e4459334d325133595331684d4759774c54517a4f474d744f44526d595330354f5755795a57566a4e7a4e6c596a6b756347526d&fich=94673d7a-a0f0-438c-84fa-99e2eec73eb9.pdf&Inline=true",
+        "anexoNome": "Mapa XIV - Mapa relativo às responsabilidades contratuais plurianuais das entidades dos subsetores da Administração Central"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c4d6d59314e4745794d53307a596a55314c5451305a6a45745957457a4e69307959575a6c5a57466a4e446b7a4d6d49756347526d&fich=e2f54a21-3b55-44f1-aa36-2afeeac4932b.pdf&Inline=true",
+        "anexoNome": "Relatório"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c4e7a52684d44597a4d69316a595446684c5451354d6d517459574a6b4e5330345a44686b4d544e6c4d6a6335596d51756347526d&fich=e74a0632-ca1a-492d-abd5-8d8d13e279bd.pdf&Inline=true",
+        "anexoNome": "Relatório - Elementos Informativos e Complementares"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774e6a6b324d574d774e693077593259794c5451315a4759744f474d314e43316b4e6d4a6b4d446b774d3251325a5751756347526d&fich=06961c06-0cf2-45df-8c54-d6bd0903d6ed.pdf&Inline=true",
+        "anexoNome": "Relatório - Elementos Informativos e Complementares - Elementos objeto de correção (Errata) 14.10.2022"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338314d544178596d45774d4330314e6a6b334c5451314d5463744f575933596930354f5463785a54646a4d5746685a5455756347526d&fich=5101ba00-5697-4517-9f7b-9971e7c1aae5.pdf&Inline=true",
+        "anexoNome": "Relatório - Elementos Informativos e Complementares - Elementos objeto de correção (Errata) 19.10.2022"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "152005",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338354e6a51304e474e6a4d7930305a4451794c5451784e6a59744f44526a4f43316b4d4441314d44566a4e7a59784d3259755a47396a&fich=96444cc3-4d42-4166-84c8-d00505c7613f.doc&Inline=true",
+    "IniNr": "38",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova o Orçamento do Estado para 2023",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
