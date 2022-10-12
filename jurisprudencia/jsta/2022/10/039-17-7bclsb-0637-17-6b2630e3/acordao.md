@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2022-10-12, processo 039/17.7BCLSB 0637/17
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 039/17.7BCLSB 0637/17
+
+**Data do Acordão:** 10/12/2022
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; IRC; CORRECÇÃO; REFORMA ANTECIPADA
+
+**Nº Convencional:** JSTA000P30014
+
+**Nº do Documento:** SA220221012039/17
+
+**Data de Entrada:** 05/31/2017
+
+**Recorrente:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A……………., S.A.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Perante a imposição às instituições de crédito da necessidade de provisionamento da totalidade das suas responsabilidades com encargos de pensões de reforma e de sobrevivência, o D.L. nº 251-A/91, de 16-07 define o regime fiscal, em sede de IRC, a conferir às transferências de valores para fundos de pensões, sendo que a constituição destas provisões tem como finalidade dar ao sector bancário a possibilidade de através delas se proceder à normalização da situação das pensões de reforma e sobrevivência dos trabalhadores bancários adequando-as no regime de determinação dos custos em sede de IRC, conferindo-lhes a devida relevância fiscal, sendo que não estando o contribuinte de alguma forma impossibilitado de poder optar pelo escalonamento de dotação que mais lhe convenha desde que observe os preceitos que as regulamentam não podem tais dotações deixar de ser aceites como custo fiscal.
+
+II - Assim, não há como recusar a natureza especial do D.L. nº 251-A/91, de 16-07 em relação às demais regras consignadas no Código do IRC, o que afasta a aplicação do art. 23º do CIRC nos termos propostos pela AT, até porque o legislador não procede, no primeiro diploma apontado a qualquer distinção entre as pensões de reforma por idade e pensões de reforma antecipada, de modo que, atendendo ao princípio que subjaz ao brocardo latino “ubi lex non distinguit nec nos distinguere debemus”, não existe espaço para a análise proposta pela AT.
+
+III - O legislador, ao aludir no n.º 1 do artigo 2.º do Decreto-Lei n.º 251-A/91 às “dotações para fundos de pensões e equiparáveis, constituídos de acordo com a legislação nacional, a fazer pelas instituições de crédito relativamente a responsabilidades com pensões dos seus trabalhadores e familiares, ao abrigo do sistema específico contemplado nos instrumentos de regulamentação colectiva de trabalho do sector bancário”, refere-se, em rigor, a ambos os tipos de pensões por reforma (id est, por idade e antecipada), na medida em que ambos são expressamente visados pelo acordo colectivo de trabalho vertical do sector bancário a que se reporta o contrato de constituição do Fundo de Pensões referido no ponto 1. da matéria de facto assente.
+
+IV - Confrontada com uma situação de dotação da Impugnante para o Fundo de Pensões, com vista a fazer face a responsabilidades com as pensões dos seus trabalhadores, caberia à AT determinar se, e em que medida, é que a mesma respeita a “valores actuais dos encargos com pensionistas já existentes na empresa em 31 de Dezembro de 1990”, “responsabilidades com pensões de pessoal no activo em 31 de Dezembro de 1990, por tempo de serviço posterior a esta data” ou “responsabilidades com pensões de pessoal no activo em 31 de Dezembro de 1990, por tempo de serviço anterior a esta data”, cf. alíneas a), b) e c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 251-A/91, de 16.07, e, correlativamente, aplicar-lhes a respectiva cominação legal aí expressamente prevista, designadamente aceitando o custo, na sua totalidade, ou aplicando-lhe o disposto nos n.ºs 2 e 3 do artigo 38.º do Código do IRC, até em função da personalidade jurídico-tributária que o legislador atribui aos fundos de pensões nos termos do art. 20º do Estatuto dos Benefícios Fiscais.
