@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2022-10-12, processo 01126/18.0BEPRT
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01126/18.0BEPRT
+
+**Data do Acordão:** 10/12/2022
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** IRC; REGIME ESPECIAL DE TRIBUTAÇÃO; GRUPO DE EMPRESAS; SOCIEDADE DOMINANTE
+
+**Nº Convencional:** JSTA000P30037
+
+**Nº do Documento:** SA22022101201126/18
+
+**Data de Entrada:** 10/11/2021
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A............, S.A.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A figura jurídica do grupo de sociedades, prevista na legislação fiscal em sede de tributação do rendimento das pessoas colectivas (cfr.artº.69 e seg. do C.I.R.C.), é passível de ser doutrinariamente definida como um conjunto, mais ou menos vasto, de entes societários que, embora conservando as personalidades jurídicas próprias e distintas, se encontram em subordinação a uma direcção económica unitária e comum, conceptualização esta que possui como elementos fundamentais a independência jurídica das várias sociedades agrupadas, a falta de personalidade autónoma do grupo e a articulação do grupo através da direcção unitária. Subjacente a este regime fiscal autónomo deverá estar o princípio da neutralidade do imposto, determinando que o rendimento decorrente da actividade empresarial de um grupo de sociedades seja tributado da mesma forma, em termos unitários, independentemente da estrutura societária utilizada em cada período de tributação.
+
+II - Com a entrada em vigor da Lei 30-G/2000, de 29/12, que aprovou uma reforma fiscal ao nível dos vários impostos, nomeadamente, em sede de I.R.C., assistiu-se a uma profunda alteração das regras que, durante mais de uma década, haviam norteado a tributação dos grupos de sociedades em Portugal. Revogado o anterior Regime de Tributação pelo Lucro Consolidado ("RTLC"), foi introduzido o regime ainda hoje designado de Regime Especial de Tributação dos Grupos de Sociedades ("RETGS"). Este novo regime implicou significativas alterações face ao anterior, uma vez que, para efeitos do apuramento do I.R.C., veio desconsiderar as regras de consolidação de contas (e eliminação dos respectivos resultados internos no seio do grupo empresarial), antes assumindo a mera soma algébrica dos resultados (lucros/prejuízos) fiscais apurados por cada uma das sociedades incluídas no grupo fiscal, nos termos das suas declarações de rendimentos individuais, assim procurando uma maior simplicidade na sua aplicação.
+
+III - O RETGS surge configurado como um regime especial e opcional de tributação de grupos de sociedades. Ou seja, não sendo de aplicação obrigatória, permite-se aos grupos de sociedades que optem pelo sistema de tributação nele contido, desde que cumpridos os requisitos legalmente exigidos para o efeito (cfr.artº.69 e seg., do C.I.R.C.).
+
+IV - O artº.69, nº.4, do C.I.R.C., é uma norma que consagra os requisitos comuns a todas as empresas do grupo, os quais são impeditivos, de forma inicial ou superveniente, a que uma determinada sociedade integre o grupo de empresas para efeitos fiscais e, especificamente, na cédula do I.R.C., assim consubstanciando uma norma anti-abuso específica.
+
+V - Nos termos do artº.69, nº.4, al.c), do C.I.R.C., como regra, não poderão integrar o grupo as sociedades (sejam dominantes ou dominadas) que registem prejuízos fiscais nos três períodos anteriores ao do início da aplicação do regime. O que releva é o facto de a sociedade ter registado, efectivamente, prejuízos fiscais nos períodos anteriores à aplicação do regime, sendo, assim, irrelevante uma eventual perda do direito à dedução dos prejuízos fiscais (cfr.artº.52, nº.8, do C.I.R.C.). Já não se aplicando a exclusão acabada de identificar quando, tratando-se de sociedades dominadas, a participação (90%) já for detida pela sociedade dominante há mais de dois anos. No fundo, pretende-se obstar à aquisição de sociedades com prejuízos registados, tendo subjacente uma motivação fiscal, nomeadamente, por via da utilização dos respectivos prejuízos fiscais reportáveis.
+
+(sumário da exclusiva responsabilidade do relator)
