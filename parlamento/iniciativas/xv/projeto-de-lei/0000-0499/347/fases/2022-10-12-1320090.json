@@ -1,0 +1,844 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "347",
+    "id": "151996",
+    "titulo": "Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o Comércio Eletrónico no Mercado Interno e Tratamento de Dados Pessoais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2022-10-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18346",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2022-10-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121625",
+        "leg": "XV",
+        "nr": "156",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reforça a protecção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121628",
+        "leg": "XV",
+        "nr": "157",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "131708",
+        "leg": "XV",
+        "nr": "208",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16248",
+            "obs": null,
+            "pag": [
+              "58-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2022-10-13",
+            "pubLeg": "XV",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação do crime de pornografia não consentida  (55.ª alteração ao Código Penal e 45.ª alteração ao Código do Processo Penal)\n\n"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-10-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58",
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58,66&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6859",
+                "nome": "Cláudia Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7349",
+                "nome": "Patrícia Gilvaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7128",
+                "nome": "Sofia Matos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63",
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/62?pgs=62-63,64&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6859",
+                "nome": "Cláudia Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/64?pgs=64&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5706",
+                "nome": "Alma Rivera"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "19:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_12_15_00_00_clean_14_plenario.xml&idsegmento=68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "270182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-13",
+                "pubLeg": "XV",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/65?pgs=65&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais; Reforça a proteção das vítimas de devassa da vida privada por meio de partilha não consentida de conteúdos de cariz sexual; Prevê o crime de divulgação não consentida de conteúdo de natureza íntima ou sexual; Criação do crime de pornografia não consentida (quinquagésima quinta alteração ao Código Penal e quadragésima quinta alteração ao Código de Processo Penal); Reforça a proteção das vítimas de crimes de disseminação não consensual de conteúdos íntimos, alterando o Código Penal e o Decreto-Lei n.º 7/2004, de 7 de janeiro, que aprova o comércio eletrónico no mercado interno e tratamento de dados pessoais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1320090",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIV",
+        "nr": "209",
+        "publicacao": null,
+        "sel": "2",
+        "tipo": null,
+        "titulo": "Solicitam a atribuição da natureza de crime público à partilha não consentida de conteúdos sexuais"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "975083",
+        "obs": null,
+        "pag": [
+          "58-66"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-10-13",
+        "pubLeg": "XV",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/048/2022-10-13/58?pgs=58-66&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
