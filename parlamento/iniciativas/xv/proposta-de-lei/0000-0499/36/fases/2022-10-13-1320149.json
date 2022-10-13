@@ -1,0 +1,694 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "36",
+    "id": "152004",
+    "titulo": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2022-10-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18358",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2022-10-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-10-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra Adjunta e dos Assuntos Parlamentares",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Catarina Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68",
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/68?pgs=68,69-70&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022 ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5985",
+                "nome": "Firmino Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1944",
+                "nome": "Susana Amador"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6945",
+                "nome": "Rodrigo Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/72?pgs=72&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/75?pgs=75&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1907",
+                "nome": "Luís Gomes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6661",
+                "nome": "Carlos Brás"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "19:35",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_10_13_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Ministra Adjunta e dos Assuntos Parlamentares",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Catarina Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-10-14",
+                "pubLeg": "XV",
+                "pubNr": "49",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a transferir para os municípios uma subvenção adicional específica do Fundo Social Municipal no ano de 2022",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1320149",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "17091",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "67-78"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-10-14",
+        "pubLeg": "XV",
+        "pubNr": "49",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/049/2022-10-14/67?pgs=67-78&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
