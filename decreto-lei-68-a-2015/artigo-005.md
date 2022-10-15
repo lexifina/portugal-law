@@ -9,3 +9,7 @@
 3 - O objetivo cumulativo de economias de energia é ainda obtido através da implementação das medidas e respetivas ações específicas enumeradas no anexo ii ao presente decreto-lei, do qual faz parte integrante, previstas no Plano Nacional de Ação para a Eficiência Energética para o período 2017-2020 (PNAEE 2020), bem como as medidas tangíveis e intangíveis implementadas no âmbito dos PPEC, previstos nos Regulamentos Tarifários dos setores elétrico e do gás natural, aprovados pela ERSE.
 
 4 - Para o período 2021-2030 o objetivo cumulativo de economias de energia definido no PNEC é obtido através da implementação das medidas e ações específicas aí enumeradas, bem como das medidas tangíveis e intangíveis implementadas no âmbito dos PPEC, previstos nos Regulamentos Tarifários dos setores energético e do gás, aprovados pela ERSE.
+
+5 - Para efeitos do disposto no número anterior, as medidas políticas devem respeitar os requisitos previstos no anexo iii-A ao presente decreto-lei e do qual faz parte integrante.
+
+6 - A autoridade responsável pelo acompanhamento de uma medida política deve elaborar e divulgar ao público um relatório anual sobre as economias de energia obtidas através da sua adoção, bem como dados sobre as tendências anuais das economias de energia.

@@ -27,3 +27,9 @@ e) Em 2019, 1,5 % de novas economias de energia, o que, cumulado com as percenta
 f) Em 2020, 1,5 % de novas de economias de energia, o que, cumulado com as percentagens anuais dos anos anteriores, obriga à verificação de economias de energia no valor de 9 %.
 
 5 - Entre de 1 de janeiro de 2021 e 31 de dezembro de 2030, devem ser alcançadas, anualmente, novas economias de energia que ascendam a 0,8 % do consumo anual de energia final, calculadas com base na média do último período de três anos anterior a 1 de janeiro de 2019.
+
+6 - As economias de energia realizadas após 31 de dezembro de 2020 não são contabilizadas para os objetivos cumulativos referidos nos n.os 1 e 4.
+
+7 - As economias de energia que decorrem do cumprimento da legislação europeia de aplicação direta não são declaradas para efeitos do presente artigo, sem prejuízo da possibilidade de consideração das economias de energia decorrentes da renovação de edifícios existentes ao abrigo do disposto no Decreto-Lei n.º 101-D/2020, de 7 de dezembro, na sua redação atual, e respetivo quadro regulamentar.
+
+8 - É proibida a dupla contabilização de economias de energia em caso de sobreposição do impacto das respetivas medidas políticas e ações específicas.
