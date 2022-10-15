@@ -8,9 +8,7 @@ a) À injeção, total ou parcial, na RPG, nos termos do número seguinte;
 
 b) Ao autoconsumo, individual ou coletivo, designadamente na área dos transportes e na indústria;
 
-c) À exportação, designadamente por via terrestre ou marítima;
-
-d) Ao fornecimento através de equipamentos móveis (rodoviários, ferroviários e embarcações) ou fixos (condutas) a qualquer consumidor final.
+c) À exportação, designadamente por via terrestre ou marítima.
 
 2 - Os titulares de registo prévio para a produção de gases de origem renovável podem vender a totalidade ou parte do gás renovável produzido, nas condições estabelecidas nos regulamentos da ERSE:
 
