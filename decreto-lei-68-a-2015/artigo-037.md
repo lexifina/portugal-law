@@ -1,0 +1,41 @@
+# Artigo 37.º
+
+### Regime remuneratório aplicável às cogerações existentes
+
+1 - No que respeita à remuneração das instalações de cogeração existentes, mantêm-se as condições atribuídas, nos termos dos anteriores regimes jurídicos da produção em cogeração, à data da entrada em vigor do presente decreto-lei, com particularidades previstas nos números seguintes.
+
+2 - As instalações com licença de exploração à data de entrada em vigor do Decreto-Lei n.º 23/2010, de 25 de março, que não tenham optado pela passagem ao regime remuneratório previsto no referido decreto-lei, com a redação que lhe foi dada pela Lei n.º 19/2010, de 23 de agosto, continuam a beneficiar do regime de venda de eletricidade previsto na legislação em vigor àquela data até que sejam atingidos 180 meses após a data de entrada em exploração da instalação de produção, ou 120 meses após a entrada em vigor do Decreto-Lei n.º 23/2010, de 25 de março, consoante a que ocorra primeiro.
+
+3 - As instalações de cogeração que, tendo obtido licença de estabelecimento até à data de entrada em vigor do Decreto-Lei n.º 23/2010, de 25 de março, alterada pela Lei n.º 19/2010, de 23 de agosto, tenham obtido licença de exploração nos 36 meses seguintes à data de atribuição daquela licença e que não tenham optado pela passagem ao regime remuneratório previsto no referido decreto-lei, com a redação que lhe foi dada pela Lei n.º 19/2010, de 23 de agosto, mediante comunicação prévia à DGEG, podem continuar a beneficiar do regime de venda de eletricidade previsto na legislação em vigor à data de entrada em vigor do Decreto-Lei n.º 23/2010, de 25 de março, até que sejam atingidos 120 meses após a data de entrada em exploração da instalação de produção.
+
+4 - Decorrido o prazo estipulado nos n.os 2 e 3, às cogerações existentes não renováveis consideradas eficientes ou de elevada eficiência, nos termos das alíneas d) e e) do artigo 2.º-A, respetivamente, do Decreto-Lei n.º 23/2010, de 25 de março, pela Lei n.º 19/2010, de 23 de agosto, na atual redação, passa a aplicar-se, durante o período máximo de 120 meses, o regime remuneratório estabelecido no artigo 10.º da Portaria n.º 140/2012, de 14 de maio, alterada pela Portaria n.º 325-A/2012, de 16 de outubro, findo o qual são enquadradas na modalidade geral do regime remuneratório previsto no referido decreto-lei, na atual redação.
+
+5 - As cogerações tituladas por licença de exploração à data de entrada em vigor do presente decreto-lei mantêm a remuneração calculada nos termos do regime remuneratório em que se enquadram à referida data pelo período máximo nele previsto, sem prejuízo do disposto nos n.os 7 e 8.
+
+6 - As cogerações não tituladas por licença de exploração mas dotadas de licença de produção mantêm a remuneração calculada nos termos do regime remuneratório em que se enquadram à data da entrada em vigor do presente decreto-lei, pelo período máximo nele previsto, desde que obtenham a licença de exploração nos prazos previstos nos n.os 5 e 6 do artigo 16.º do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, com a redação dada pelo presente decreto-lei, contados da atribuição da respetiva licença de produção, sem prejuízo do disposto número seguinte.
+
+7 - As cogerações renováveis, cujas licenças de produção ou de exploração tenham sido emitidas antes da entrada em vigor do presente decreto-lei e que não tenham passado ao regime remuneratório previsto no Decreto-Lei n.º 23/2010, de 25 de março, com a redação que lhe foi dada pela Lei n.º 19/2010, de 23 de agosto, mantêm a tarifa de referência, o prémio de energia renovável e o prémio de eficiência por um período máximo de 120 meses contados desde o termo dos prazos previstos nos n.os 2 e 3, findo o qual são enquadradas na modalidade geral do regime remuneratório previsto no Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, com a redação dada pelo presente decreto-lei.
+
+8 - As cogerações renováveis, cujas licenças de produção ou de exploração tenham sido emitidas antes da entrada em vigor do presente decreto-lei e que já tenham passado ao regime remuneratório previsto no Decreto-Lei n.º 23/2010, de 25 de março, com a redação que lhe foi dada pela Lei n.º 19/2010, de 23 de agosto, mantêm a tarifa de referência, o prémio de energia renovável e o prémio de eficiência por um período máximo de 120 meses contados desde a data de entrada em vigor do presente decreto-lei.
+
+9 - As cogerações renováveis, cuja licença de exploração tenha sido emitida antes da entrada em vigor do presente decreto-lei, que beneficiam de prémio de participação de mercado à referida data, mantêm o referido prémio até ao termo dos prazos estabelecidos nos n.os 7 e 8, conforme aplicável.
+
+10 - As cogerações não renováveis que beneficiam de prémio de participação de mercado à data da entrada em vigor do presente decreto-lei, mantêm o referido prémio até ao termo do prazo legalmente estabelecido no Decreto-Lei n.º 23/2010, de 25 de março, na redação dada pela Lei n.º 19/2010, de 23 de agosto.
+
+11 - Às instalações de cogeração enquadradas na modalidade especial do regime remuneratório cuja licença de produção ou exploração tenha sido emitida antes da entrada em vigor do presente decreto-lei e cujos titulares apresentem pedido de alteração não substancial ao abrigo do artigo 18.º-A do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, com a redação dada pelo presente decreto-lei, aplica-se o seguinte:
+
+a) O regime remuneratório é mantido pelo período máximo do regime em que esteja enquadrado;
+
+b) O pedido de reforço de potência instalada ou de ligação previsto na alínea a) do n.º 1 do referido artigo 18.º-A só pode ser deferido quando se trate de cogeração que, após o referido reforço, não ultrapasse o limiar previsto na alínea a) do n.º 1 do artigo 4.º-B do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, na atual redação.
+
+12 - O disposto nos artigos 19.º-A e 19.º-B do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, com a redação dada pelo presente decreto-lei, aplica-se a todas as cogerações existentes, incluindo aquelas cuja licença de produção ou exploração tenha sido emitida antes da entrada em vigor do presente decreto-lei.
+
+13 - O disposto no n.º 8 do artigo 21.º e no artigo 22.º do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, com a redação dada pelo presente decreto-lei, consoante o caso, é aplicável às cogerações existentes referidas no artigo anterior e no presente artigo, bem como às cogerações do regime geral que beneficiem de prémio de mercado.
+
+14 - Beneficiam da modalidade especial do regime remuneratório previsto no Decreto-Lei n.º 23/2010, de 25 de março, na redação dada pela Lei n.º 19/2010, de 23 de agosto, por um prazo máximo de 60 meses contados desde a entrada em vigor do presente decreto-lei ou 120 meses contados desde a respetiva conversão, consoante o que ocorra em último lugar, as seguintes instalações existentes:
+
+a) As que tenham procedido à conversão para gás natural, incluindo a substituição do equipamento principal, que tenham solicitado licença até 12 meses após a entrada em vigor do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, e que tenham entrado em exploração nos 24 meses subsequentes à obtenção dessa licença;
+
+b) As que tenham procedido à conversão para gás natural em data anterior à da entrada em vigor do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, e que tenham entrado em exploração nos 24 meses subsequentes à obtenção da licença de produção.
+
+15 - As instalações de cogeração referidas no número anterior que ainda não tenham ultrapassado os prazos definidos no n.º 2 beneficiam do regime remuneratório previsto na legislação em vigor à data de entrada em vigor do Decreto-Lei n.º 23/2010, de 25 de março, alterado pela Lei n.º 19/2010, de 23 de agosto, até que sejam atingidos os referidos prazos, findos os quais são remuneradas, pelo período remanescente até que se verifique a condição prevista no número anterior, nos termos da Portaria n.º 140/2012, de 14 de maio, alterada pela Portaria n.º 325-A/2012, de 16 de outubro.
