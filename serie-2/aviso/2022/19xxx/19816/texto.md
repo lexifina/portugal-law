@@ -1,0 +1,7 @@
+Aviso n.º 19816/2022
+Sumário: Consulta pública do projeto do Regulamento de Taxas e Licenças.
+Consulta Pública do Projeto do Regulamento de Taxas e Licenças
+Maria do Rosário Custódio Sousa, Presidente da Junta de Freguesia de Odeleite, Concelho de Castro Marim, torna público, de acordo com a deliberação da Junta de Freguesia de Odeleite de 04 de agosto de 2022, foi aprovado o projeto de Regulamento de Taxas e Licenças, ao abrigo da alínea h) do n.º 1, do artigo 16.º do Regime Jurídico das Autarquias Locais, aprovado em Anexo I da Lei n.º 75/2013, de 12 de setembro, o qual submete a consulta publica, para recolha de sugestões, no prazo de 30 dias úteis, a contar da data da publicação do presente aviso, em conformidade com o artigo 100.º, n.º 3, alínea c), conjugado com o artigo 101.º do Código do Procedimento Administrativo (CPA).
+O presente projeto de regulamento poderá ser consultado nas instalações da Freguesia de Odeleite e se encontra disponível para consulta na sua página eletrónica (http://www.jf-odeleite.pt). No âmbito da participação e nos termos do artigo 101.º do CPA, os interessados devem apresentar as suas sugestões, por escrito, de forma fundamentada, e dirigidas à senhora Presidente da Junta de Freguesia, para o endereço: Rua S. Brás n.º 1, 8950-370 Odeleite, ou através de correio eletrónico para o endereço geral@jf-odeleite.pt, no prazo acima fixado.
+6 de outubro de 2022. - A Presidente da Junta de Freguesia de Odeleite, Maria do Rosário Custódio Sousa.
+315756301
