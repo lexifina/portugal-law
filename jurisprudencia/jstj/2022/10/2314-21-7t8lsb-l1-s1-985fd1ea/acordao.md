@@ -1,0 +1,361 @@
+# Acórdão do Supremo Tribunal de Justiça de 2022-10-19, processo 2314/21.7T8LSB.L1.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 2314/21.7T8LSB.L1.S1
+
+**Nº Convencional:** 4.ª SECÇÃO
+
+**Relator:** JÚLIO GOMES
+
+**Descritores:** INTERPRETAÇÃO DE CONVENÇÃO COLETIVA DE TRABALHO
+
+**Data do Acordão:** 10/19/2022
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** S
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA
+
+**Decisão:** NEGADA A REVISTA.
+
+**Indicações Eventuais:** TRANSITADO EM JULGADO.
+
+## Sumário
+
+I- A letra da convenção é não apenas o ponto de partida da interpretação, mas o limite da mesma;
+
+II- Se uma interpretação proposta não tiver o mínimo de apoio no teor literal da cláusula torna-se desnecessário recorrer a outros elementos, já que o recurso aos mesmos não permite fazer vingar tal interpretação, carecendo a mesma do referido mínimo de apoio na letra da cláusula.
+
+## Decisão Texto Integral
+
+Processo n.º 2314/21.7T8LSD.L1.S1
+
+Acordam na Secção Social do Supremo Tribunal de Justiça,
+
+1. Relatório
+
+AA intentou contra Banco Banco 1..., S.A. ação declarativa, sob a forma de processo comum, peticionando que se condene o Réu:
+
+a) a reconhecer à Autora o direito a receber a pensão completa do Centro Nacional de Pensões, deduzida do valor correspondente à percentagem de 50 %, correspondente a 2 anos de descontos para a Segurança Social enquanto trabalhador bancário;
+
+b) a pagar à Autora o valor € 1.813,28, acrescida de juros de mora legais no montante de € 200,14, num valor total global de € 2.013,42 Euros, correspondente ao valor excessiva e ilegalmente descontado e respeitante aos meses de fevereiro de 2015 até dezembro de 2020, valor onde se encontram englobados os respetivos subsídios de férias e de Natal, acrescida dos juros vencidos até integral pagamento do valor em divida.
+
+c) a aplicar uma regra pro rata temporis ou regra de três simples pura no apuramento da parte da pensão do CNP a entregar ao Banco, respeitante aos descontos efetuados pela Autora para a Segurança Social enquanto trabalhador bancário;
+
+d) a pagar à Autora todas as quantias que ilicitamente venha a reter da pensão do CNP pela não aplicação da regra descrita em c) do pedido, desde junho de 2020 até trânsito em julgado da mesma ou efetivo e real pagamento do devido, acrescidas de juros de mora vincendos, a liquidar em execução de sentença.
+
+O Réu contestou.
+
+Foi proferido saneador-sentença com o seguinte dispositivo:
+
+“Nos termos e fundamentos expostos, julgo a ação parcialmente procedente e, em consequência, decido:
+
+1 – Julgar procedente a exceção da prescrição das prestações vencidas até 3 de fevereiro de 2016.
+
+2 – Aplicar uma regra pro rata temporis ou regra de três simples pura no apuramento da parte da pensão do Centro Nacional de Pensões a entregar à ré, referente aos descontos efetuados pela autora enquanto trabalhadora bancária.
+
+3 - Condenar o réu Banco Banco 1..., S.A. a reconhecer à autora o direito a receber pensão completa do Centro Nacional de Pensões, deduzida do valor referente à percentagem de 66,7%.
+
+4 - Condenar o réu Banco Banco 1..., S.A. a pagar à autora todos os montantes retidos em excesso e que não respeitaram a regra referida em 2, das prestações vencidas a partir de 3 de fevereiro de 2016 até ao trânsito em julgado da presente decisão, acrescida de juros de mora à taxa legal de 4% desde a data de vencimento de cada uma das prestações até integral e efetivo pagamento”.
+
+A Autora e o Réu interpuseram recurso de apelação.
+
+Por acórdão do Tribunal da Relação de 23.02.2022 foi decidido “negar provimento o recurso da A. e ao recurso da R., mantendo-se a sentença da 1.ª Instância”.
+
+O Réu interpôs recurso de revista excecional, invocando contradição de Acórdãos.
+
+O seu recurso apresenta as seguintes Conclusões (maiúsculas, negritos e sublinhados no original):
+
+1. A interpretação das cláusulas regulativas de convenção coletiva de trabalho deve fazer-se de acordo com as regras de interpretação da lei, em particular de acordo com o disposto no artigo 9.º do Código Civil, como vem sendo entendimento da Jurisprudência, como recentemente foi defendido no Acórdão do Supremo Tribunal de Justiça n.º 1/2019, publicado no Diário da República, 1.ª série, n.º 55, de 19 de Março de 2019.
+
+2. Na INTERPRETAÇÃO da cláusula 136.ª do ACT do sector bancário, deve atender-se aos seus elementos literal, sistemático, histórico e teleológico.
+
+3. No que respeita ao elemento literal, a redação da cláusula 136.ª do ACT do sector bancário (cláusula que veio a ser substituída pela cláusula 94.ª do ACT do sector bancário) é clara nos dois aspetos que aqui relevam.
+
+4. Primeiro, que nos casos em que benefícios da mesma natureza sejam atribuídos por Instituições ou Serviços de Segurança Social a trabalhadores que sejam beneficiários dessas Instituições ou seus familiares - como sucede com a Recorrida, a partir de 1.1.2011, dada a sua integração no regime geral de segurança social por imposição do Decreto-Lei n.º 1-A/2011, de 3 de Janeiro -, apenas será garantida, pelas Instituições de Crédito, a diferença entre o valor desses benefícios e o dos previstos no ACT – cfr. 2.ª parte do n.º 1 da cláusula 136.ª.
+
+5. Segundo, que o benefício a “abater” é o que decorre de contribuições feitas no período de serviço contado pelo Banco para o cálculo da pensão a pagar por este, pois, como se refere no n.º 2 daquela cláusula estão em causa os benefícios decorrentes de contribuições.
+
+6. A “pensão de abate” é, assim, o benefício do CNP pelo tempo de carreira ao serviço do banco (pensão teórica) que resulta das contribuições feitas no período em apreço, apurado segundo as regras do regime geral da segurança social, que são as regras aplicáveis ao cálculo do benefício a pagar pelo CNP.
+
+7. As cláusulas aludem, literalmente, ao benefício decorrente das contribuições com fundamento na prestação de serviço que seja contado na antiguidade do trabalhador.
+
+8. Acresce ainda que, quando no Acordo Coletivo se pretendeu exprimir o critério pro rata temporis tal foi feito de modo particularmente claro e direto (n.º 3 da cláusula 98.ª) sem qualquer semelhança com a redação da analisada cláusula 94.ª.
+
+9. O elemento sistemático é também conducente ao mesmo resultado interpretativo.
+
+10. A norma em causa insere-se no sistema de previdência e, no caso concreto, na conjugação de dois regimes de reforma: o regime de segurança social do sector bancário e o regime geral de segurança social.
+
+11. Para isso, por se tratar de sum sistema previdencial, remete para as regras de cálculo utilizadas pelo regime geral da segurança social.
+
+12. A fim de as utilizar e não de aproveitar os seus resultados.
+
+13. A inserção sistemática da cláusula 136.ª do ACT do sector bancário impõe a sua interpretação no sentido da aplicação das mesmas regras que servem para o cálculo da pensão do CNP.
+
+14. São essas as regras aplicadas pela Recorrente, para apuramento da “pensão de abate”.
+
+15. Este sentido saí reforçado, por um lado, por não haver dúvidas quanto à aplicação das regras de cálculo do regime da segurança social quando não há tempo “extra-banco” e, por outro lado, pela redação da cláusula 94.ª do atual ACT do sector bancário.
+
+16. Ao invés não há qualquer elemento do sistema que aponte para a interpretação que defende a Recorrida, ou seja, não há qualquer norma no sistema em que insere a cláusula 136.ª do ACT do sector bancário e a cláusula 94.ª que lhe sucedeu, que contenha norma para o cálculo de benefícios de pensão em razão de qualquer critério de pro rata temporis.
+
+17. O montante da pensão do CNP é igual ao produto da remuneração de referência pela taxa global de formação da pensão e pelo fator de sustentabilidade., como resulta do disposto no artigo 26.º do Decreto-Lei n.º 187/2007, de 10 de Maio
+
+18. E a remuneração de referência é definida no artigo 28.º, n.º 1 do Decreto-Lei n.º 187/2007, de 10 de maio, pela fórmula TR/(nx14), em que TR representa o total das remunerações anuais revalorizadas de toda a carreira contributiva e n o número de anos civis com registo de remunerações, até ao limite de 40.
+
+19. São estas as regras do sistema a que apela a cláusula 136.ª do ACT do sector bancário e que, com recurso ao elemento sistemático, devem aplicar-se no apuramento da parte da pensão a pagar pelo CNP que há-de ser entregue pela Recorrida ao Recorrente.
+
+20. Também o elemento histórico está conforme com a interpretação proposta pelo Recorrente, pois a origem da atual cláusula 94.º do ACT do Sector bancário remonta ao ano de 1980 e sempre teve o objetivo de articulação dos regimes de segurança social quando o trabalhador está abrangido por mais do que um regime, de forma a impor a duplicação de benefícios.
+
+21. E tais benefícios não se limitam às pensões de reforma, pois incluem outros como prestações de parentalidade e morte, observando-se a regra de cálculo de cada um dos regimes que atribui o benefício que esteja em causa.
+
+22. Por fim, o elemento teleológico é particularmente relevante na tarefa interpretativa, pois a norma da cláusula 136.ª do ACT do sector bancário tem por fim coordenar o percebimento de benefícios por trabalhadores submetidos a diferentes regimes de forma a impedir que, por força do mesmo período contributivo, o trabalhador possa ver-lhe atribuídos benefícios cumulados.
+
+23. É uma expressão do princípio da não acumulação de prestações plasmado no artigo 67.º, n.º 1 da Lei de Bases da Segurança Social (Lei n.º 4/2007, de 16 de janeiro).
+
+24. A não acumulação de prestações não pode alcançar-se com recurso, para a repartição da pensão a pagar pelo CNP, a um critério de “regra de três simples pura”.
+
+25. Tal conclusão ofende diretamente o fim a que se propõe a cláusula 136.ª do ACT do sector bancário e a cláusula 94.ª que lhe sucedeu, que é, precisamente, abater à pensão paga pelo Banco Recorrente, a pensão (ou parte de pensão) que for paga à Recorrida pelo CNP que respeite ao tempo de Banco.
+
+26. O entendimento do Recorrente é, seguramente, o que conduz a um resultado mais equitativo.
+
+27. É bom notar que a carreira extra-banco pode ser mais favorável ao trabalhador, o que sucede no caso de as remunerações registadas nesse período serem superiores às registadas na carreira ao serviço do Banco.
+
+28. Por isso, acrescenta-se, a este propósito, que o entendimento do Recorrente assegura, inclusivamente, que nesses casos, em que a pensão teórica extra-banco seja mais favorável ao pensionista (por as remunerações auferidas nesse período serem superiores), não veja este o seu benefício penalizado.
+
+29. A questão não é meramente teórica, tendo sido objeto do douto Acórdão do Tribunal da Relação de Évora de 22/11/2017, disponível em www.dgsi.pt.
+
+30. Como sucedeu no caso julgado no referido douto Acórdão do Tribunal da Relação de Évora de 22/11/2017, em que estava em causa uma pensão da Caixa Geral de Aposentações e em que o Banco ali Réu reconhecera parte da carreira na Banco 2..., verificou-se que as remunerações auferidas pelo trabalhador no período extra-banco eram superiores àquelas que auferira no período que o Banco lhe contara, tendo o Tribunal concluído que não era aplicável a regra de pro rata temporis, que aquele Banco aplicara.
+
+31. O Tribunal da Relação de Évora acolheu o entendimento aqui defendido pelo Recorrente que, naquele caso, era favorável ao pensionista.
+
+32. O elemento teleológico da norma não consente, assim, outra interpretação que não seja a que lhe dá o Recorrente.
+
+33. A INTERPRETAÇÃO da cláusula 136.ª do ACT do sector bancário e da cláusula 94.ª que lhe sucedeu, com recurso aos elementos de interpretação literal, sistemático e teleológico, conduz ao resultado alcançado pelo Recorrente.
+
+34. A interpretação preconizada pelo douto Acórdão recorrido olvida que para o cálculo do beneficio pago pelo CNP concorre, nos termos do disposto no artigo 26.º do Decreto-Lei n.º 187/2007, de 10 de Maio, não só o tempo (por via da taxa de formação a pensão) mas também as remunerações (por via da remuneração de referência que é definida no artigo 28.º, n.º 1 do Decreto-Lei n.º 187/2007, de 10 de Maio, pela fórmula TR/(nx14), em que TR representa o total das remunerações anuais revalorizadas de toda a carreira contributiva e n o número de anos civis com registo de remunerações, até ao limite de 40).
+
+35. Em suma: porque a cláusula 136.ª do ACT do sector bancário (tal como a cláusula 94.ª do actual ACT do sector bancário) se refere expressamente a benefícios decorrentes de contribuições para o regime geral de segurança social e porque o benefício pago pelo regime geral de segurança social (através do CNP) é apurado considerando, além do tempo de carreira contributiva (que determina a taxa de formação da pensão), os montantes das contribuições feitas ao longo da carreira contributiva (por via da determinação da remuneração de referência), torna-se imperioso calcular as duas pensões teóricas respeitantes a cada um dos períodos em causa e, em função desses resultados, repartir o benefício pago pelo CNP.
+
+36. Entendimento que foi sufragado pelos doutos Acórdãos do Tribunal da Relação do Porto de 10/10/2016 e do Tribunal da Relação de Lisboa de 25/09/2017, que se juntaram aos autos.
+
+37. Mais recentemente, foi também este o entendimento versado nas três doutas sentenças proferidas pelo Tribunal Judicial da Comarca do Porto, Juízo do Trabalho do Porto, Juiz 1, de 20/02/2020 e de 01/10/2020, e Juiz 2 de 25/04/2020, já juntas aos autos.
+
+38. E é também a douta opinião do SENHOR PROFESSOR DOUTOR BERNARDO LOBO XAVIER expressa no douto Parecer de Direito junto aos autos.
+
+39. Veja-se que as remunerações registadas ao longo da carreira contributiva da Recorrida não são iguais, ocorrendo que as remunerações registadas na carreira ao serviço do Banco são de valores substancialmente superiores às que foram registadas no período da carreira fora do Banco, como se pode verificar da simples análise do Doc. 3. Junto com a p.i., onde constam as seguintes remunerações registadas na carreira da Autora:
+
+AnoValores revalorizados das remunerações
+
+19773.928,86 €
+
+19784.832,81 €
+
+201119.513,32 €
+
+201125.642,53 €
+
+Cfr. Doc. 3 junto com a p.i.
+
+40. Na interpretação da Recorrida, por exemplo, o ano de 1978 com remunerações revalorizadas de 4.832,81 € tem o mesmo peso na repartição da pensão que o ano de 2012 em que as remunerações ascenderam a 25.642,53 €
+
+41. A interpretação da Recorrida tem como efeito que, independentemente dos montantes das remunerações, cada ano da carreira contributiva tem igual peso, quando nos termos da lei, como se viu, não é assim pois o cálculo da pensão é feito em função do tempo (taxa de formação) e das remunerações (remuneração de referência), de tal forma que as remunerações mais elevadas (a que correspondem contribuições mais elevadas) significam pensão de valor mais elevado.
+
+42. Ainda que se entendesse que não estaria em causa a interpretação da cláusula 136.ª do ACT do sector bancário (atual 94.ª do ACT do sector bancário), por se verificar que a cláusula é omissa quanto à fórmula de cálculo no caso em que se torna necessário proceder á repartição da pensão do CNP, chegar-se-ia, por via da INTEGRAÇÃO, ao mesmo resultado.
+
+43. Nesse sentido, pronunciou-se a EXMA SENHORA PROF. DOUTORA MARIA DO ROSÁRIO PALMA RAMALHO em douto parecer junto aos autos no processo que corre termos no Tribunal Judicial da Comarca de Leiria, Juízo do Trabalho das Caldas da Rainha, Proc. n.º 1718/19.0T8CLD, já junto aos autos.
+
+44. No entendimento sufragado pela Recorrida, as cláusulas 136.ª do ACT do sector bancário e 94.ª do atual ACT do sector bancário, violam também o disposto no artigo 63.º, n.º 4 da Constituição da República.
+
+45. Ao remeter-se o cálculo da “pensão de abate” para uma “regra de três simples” está a Recorrida, inevitavelmente, a transferir para si, como pensionista, parte do benefício que o Banco deve abater à mensalidade que está obrigado a pagar, potenciando, ilegalmente e em afronta àquele comando constitucional, o benefício que a pensionista teria a receber se isoladamente lhe fosse considerada apenas a carreira contributiva extra-banco.
+
+46. O efeito de tal entendimento é, efetivamente, a violação do preceito constitucional vertido no artigo 63.º, n.º 4 da Constituição da República que determina que “Todo o tempo de trabalho contribui, nos termos da lei, para o cálculo das pensões de velhice e invalidez, independentemente do sector de atividade em que tiver sido prestado.”.
+
+47. Na interpretação dada pelo Recorrido as cláusulas 136.ª do ACT do sector bancário e 94.ª do actual ACT do sector bancário, são MATERIALMENTE INCONSTITUCIONAIS, por violação do artigo 63.º, n.º 4 da Constituição da República.
+
+48. O douto Acórdão recorrido deve, pelos fundamentos expostos, ser revogado, concedendo-se provimento ao Recurso e, consequentemente, absolvendo-se o Recorrente dos pedidos.
+
+49. Ao decidir como decidiu, o douto Acórdão recorrido violou o disposto na cláusula 136.º do Acordo Coletivo de Trabalho do sector bancário (BTE n.º 3 de 22/01/2011 – data de distribuição: 24/01/2011) cláusula que veio a ser substituída, com redação similar, pela cláusula 94.º do Acordo Coletivo de Trabalho do sector bancário (BTE n.º 29 de 08/08/2016), os artigos 26.º e 28.º do Decreto-Lei n.º 187/2007, de 10 de Maio e, bem assim, violou também o disposto no artigo 63.º, n.º 4 da Constituição da República Portuguesa.
+
+A Autora contra-alegou.
+
+A revista excecional foi admitida pela Formação a que se refere o artigo 672.º, n.º 3 do CPC junto desta Secção Social.
+
+O Ministério Público, em cumprimento do disposto no artigo 87.º n.º 3 do CPT emitiu Parecer no sentido de ser negada a revista.
+
+O Réu e Recorrente respondeu ao Parecer.
+
+2. Fundamentação
+
+De Facto
+
+Foram dados como provados nas instâncias os seguintes factos:
+
+1 – A ré é uma instituição de crédito e exerce a atividade bancária.
+
+2 – Participou nas negociações e outorgou o ACT para o Sector Bancário, cuja versão integral se encontra publicada no BTE, 1ª série, n.º 29, de 08.08.2016, pg. 2339 e ss., instrumento de regulamentação coletiva de trabalho que aplicou e aplica aos trabalhadores integrados nos seus quadros ou que deles fizeram parte.
+
+3 – A autora encontra-se filiada no Mais Sindicato, que também usou Sindicato dos Bancários do Sul e Ilhas, onde figura como a sócia n.º ....
+
+4 – A autora foi admitida ao serviço do Banco 3... e Irmão, que mais tarde veio a ser adquirido pelo banco réu, em 1 de março de 1979.
+
+5 – Por carta, o Banco réu informou a autora da sua passagem à situação de reforma no sector bancário, a 31 de dezembro de 2012.
+
+6 – De 07/1977 a 07/1978 a autora efetuou descontos para a Segurança Social decorrente da prestação de atividade dependente remunerada a entidade não bancária.
+
+7 – De 03/1979 a 12/2010, a autora, enquanto trabalhadora bancária, efetuou os descontos obrigatórios para a Caixa de Abono de Família dos Empregados Bancários (CAFEB).
+
+8 – Com a extinção da CAFEB por integração no Instituto da Segurança Social, I.P. (ISS, IP), a autora passou a descontar para a Segurança Social até passar à situação de reforma em 31.12.2012.
+
+9 – Posteriormente, por escrito de 19 de março de 2015, o Banco réu comunicou à autora, que:
+
+“Acusa-se a receção do documento do Centro Nacional Pensões (CNP) que remeteu com a comunicação de deferimento, com inicio em 26.02.2015, que se agradece.
+
+No seguimento dos anteriores contactos sobre o assunto informa-se que, nos termos da cláusula 136ª do ACT do sector bancário, ao montante da pensão de reforma paga pelo Banco 1... passará a ser deduzido, a partir do processamento do mês de março e com efeitos reportados a 26-02-2015, o valor atual de 38,67 € decorrente das contribuições para a segurança social efetuadas pelo Banco no período de 01-01-2011 até 31-12-2012 que lhe foi reconhecido na antiguidade para efeitos de reforma (detalhe em anexo).
+
+Mais se informa que no mesmo processamento o Banco procederá à dedução dos retroativos desde a data da atribuição do CNP, no valor de 2,58 € (detalhe em anexo).
+
+Considerando que o cálculo da pensão atribuída pelo CNP não está correto, o Banco apresentou uma reclamação junto daquela entidade pelo que deverá enviar ao Banco 1... os novos cálculos, logo que os receber, a fim de proceder aos respetivos acertos. (...).”
+
+10 – Por escrito de 6 de Maio de 2015, o Banco réu informou a autora que:
+
+“Acusa-se a receção do documento do Centro Nacional de Pensões (CNP) que remeteu ao Banco 1... com a comunicação do novo cálculo da pensão de reforma que lhe foi atribuída por essa entidade, que se agradece.
+
+Nesta conformidade, informa-se que no processamento do corrente mês se procederá ao ajustamento do valor da pensão do CNP a deduzir na pensão do ACT do sector bancário, do seguinte modo:
+
+Data de início: 26-02-2015
+
+Valor total da pensão CNP = 95,09 €
+
+Valor da pensão CNP a deduzir pelo Banco 1... = 67,01 €
+
+Valores atrasados a deduzir pelo Banco 1... = 86,91 €.”
+
+11 – A autora foi informada por carta do Centro Nacional de Pensões, datada de 30.01.2015, de que a pensão por velhice tem início em 26.02.2015, sendo o seu valor atual de € 58,00.
+
+12 – Posteriormente, a autora foi notificada de nova carta do Centro Nacional de Pensões, corrigindo o valor da pensão de reforma, passando a receber o valor de € 95,09.
+
+13 – A autora passou à situação de reforma integrado no nível 10 do ACT para o sector bancário.
+
+14 – O réu entrega à autora uma pensão de reforma, pagável em catorze vezes por ano, com a pensão base de € 1.208,18 e diuturnidades no valor de € 294,42.
+
+15 – O réu deduz à pensão de reforma do Centro Nacional de Pensões o valor de € 95,20.
+
+16 – No período compreendido entre março de 2015 e dezembro de 2020, o Instituto da Segurança Social pagou à autora os seguintes valores:
+
+Ano 2015
+
+Março - € 61,66; abril - € 116,00; maio - € 218,42; junho - € 95,09; julho - € 95,09; agosto - € 95,09; setembro - € 95,09; outubro - € 95,09; novembro - € 190,18; dezembro - € 95,09.
+
+Ano 2016
+
+Janeiro - € 95,09; fevereiro - € 95,09; março - € 95,09; abril - € 190,18; maio - € 95,09; junho - € 95,09; julho - € 95,09; agosto - € 95,09; setembro - € 95,09; outubro - € 95,09; novembro - € 190,18; dezembro - € 95,09.
+
+Ano 2017
+
+Janeiro - € 95,57; fevereiro - € 95,57; março - € 95,57; abril - € 191,14; maio - € 95,57; junho - € 95,97; julho - € 95,57; agosto - € 105,09; setembro - € 105,09; outubro - € 105,09; novembro - € 210,18; dezembro - € 105,09.
+
+Ano 2018
+
+Janeiro - € 106,98; fevereiro - € 106,98; março - € 106,98; abril - € 213,96; maio - € 106,98; junho - € 106,98; julho - € 106,98; agosto - € 115,08; setembro - € 115,08; outubro - € 115,08; novembro - € 230,16; dezembro - € 115,08.
+
+Ano 2019
+
+Janeiro - € 125,09; fevereiro - € 125,09; março - € 125,09; abril - € 125,09; maio - € 125,09; junho - € 125,09; julho - € 125,09; agosto - € 125,09; setembro - € 125,09; outubro - € 125,09; novembro - € 250,18; dezembro - € 125,09.
+
+Ano 2020
+
+Janeiro - € 125,97; fevereiro - € 125,97; março - € 125,97; abril - € 251,94; junho - € 135,09; julho - € 135,09; agosto - € 135,09; setembro - € 135,09; outubro - € 135,09; novembro - € 270,18; dezembro - € 135,09.
+
+17 - No período compreendido entre março de 2015 e dezembro de 2020, o Banco réu deduziu na pensão paga à autora os seguintes valores:
+
+Ano 2015
+
+Março - € 41,25; abril - € 77,34; maio - € 153,92; junho - € 67,01; julho - € 67,01; agosto - € 67,01; setembro - € 67,01; novembro - € 134,02; dezembro - € 67,01.
+
+Ano 2016
+
+Janeiro - € 67,01; fevereiro - € 67,01; março - € 67,01; abril - € 134,02; maio - € 67,01; junho - € 67,01; julho - € 67,01; agosto - € 67,01; setembro - € 67,01; outubro - € 67,01; novembro - € 134,02; dezembro - € 67,01.
+
+Ano 2017
+
+Janeiro - € 67,35; fevereiro - € 67,35; março - € 67,35; abril - € 134,70; maio - € 67,35; junho - € 67,35; julho - € 67,35; agosto - € 74,06; setembro - € 74,06; outubro - € 74,06; novembro - € 141,41; dezembro - € 74,06.
+
+Ano 2018
+
+Janeiro - € 75,39; fevereiro - € 75,39; março - € 75,39; abril - € 150,78; maio - € 75,39; junho - € 75,39; julho - € 75,39; agosto - € 81,10; setembro - € 81,10; outubro - 81,10; novembro - € 162,20; dezembro - 81,10
+
+Ano 2019
+
+Janeiro - € 88,15; fevereiro - 88,15; março - 88,15; abril - € 176,30; maio - € 88,15; junho - € 88,15; julho - € 88,15; outubro - € 88,15; novembro - € 176,30; dezembro - € 88,15.
+
+Ano 2020
+
+Janeiro - € 88,77; fevereiro - € 88,77; março - € 88,77; abril - € 177,54; maio - € 95,20 - junho - € 95,20; julho - € 95,20; agosto - € 95,20; setembro - € 95,20; outubro - € 95,20; novembro - € 190,40; dezembro - € 95,20.
+
+De Direito
+
+A questão colocada no presente recurso tem sido decidida reiterada e recentemente por este Tribunal de modo uniforme.
+
+O presente recurso de revista não acrescenta, no essencial, qualquer argumento novo, pelo que na fundamentação da presente decisão remete-se para o Acórdão precedente proferido no processo n.º 2276/20.8T8VCT.S1, do mesmo Relator, de acordo com o disposto no artigo 663.º, n.º 5 in fine do CPC, aplicável ao recurso de revista por força do artigo 679.º do CPC.
+
+Nesse processo escreveu-se o seguinte, na fundamentação de direito da decisão:
+
+“A mencionada cláusula 136.ª do ACT do setor bancário tinha o seguinte teor:
+
+Cláusula 136.ª
+
+“Âmbito
+
+1. As Instituições de Crédito, por si ou por serviços sociais privativos já existentes, continuarão a garantir os benefícios constantes desta Secção aos respetivos trabalhadores, bem como aos demais titulares das pensões e subsídios nela previstos. Porém, nos casos em que benefícios da mesma natureza sejam atribuídos por Instituições ou Serviços de Segurança Social a trabalhadores que sejam beneficiários dessas Instituições ou seus familiares, apenas será garantida, pelas Instituições de Crédito, a diferença entre o valor desses benefícios e o dos previstos neste Acordo.
+
+2. Para efeitos da segunda parte do número anterior, apenas serão considerados os benefícios decorrentes de contribuições para Instituições ou Serviços de Segurança Social com fundamento na prestação de serviço que seja contado na antiguidade do trabalhador nos termos das Cláusulas 17.ª e 143.ª.
+
+3. As Instituições adiantarão aos trabalhadores abrangidos pelo Regime Geral da Segurança Social as mensalidades a que por este Acordo tiverem direito, entregando estes à Instituição a totalidade das quantias que receberem dos serviços de Segurança Social a título de benefícios da mesma natureza.” [1]
+
+É a partir da interpretação desta cláusula e invocando os elementos literal, sistemático e teleológico que o Recorrente conclui que “a “pensão de abate” é, assim, o benefício do CNP pelo tempo de carreira ao serviço do banco (pensão teórica) que resulta das contribuições feitas no período em apreço, apurado segundo as regras do regime geral da segurança social, que são as regras aplicáveis ao cálculo do benefício a pagar pelo CNP” (Conclusão 6.ª)[2], defendendo também que “porque a cláusula 136.ª do ACT do sector bancário (tal como a cláusula 94.ª do atual ACT do setor bancário) se refere expressamente a benefícios decorrentes de contribuições para o regime geral de segurança social e porque o benefício pago pelo regime geral de segurança social (através do CNP) é apurado considerando, além do tempo de carreira contributiva (que determina a taxa de formação da pensão), os montantes das contribuições feitas ao longo da carreira contributiva (por via da determinação da remuneração de referência), torna-se imperioso calcular as duas pensões teóricas” (Conclusão 25.ª).
+
+Este Tribunal tem reiteradamente afirmado que a interpretação da parte normativa das convenções coletivas deve seguir as regras da interpretação da lei.
+
+A este respeito o artigo 9.º do Código Civil, embora afirme no seu n.º 1 que a interpretação não deve cingir-se à letra da lei, afirma, depois, que “não pode, porém, ser considerado pelo intérprete o pensamento legislativo que não tenha na letra da lei um mínimo de correspondência verbal, ainda que imperfeitamente expresso” (n.º 2) e que “na fixação do sentido e alcance da lei, o intérprete presumirá que o legislador consagrou as soluções mais acertadas e soube exprimir o seu pensamento em termos adequados” (n.º 3).
+
+A letra da lei – aqui a letra da cláusula da convenção – é não apenas o ponto de partida da interpretação, mas o limite da mesma, o que é de particular importância nesta sede já que as partes de uma convenção não devem obter pela interpretação da convenção pelo tribunal o que não lograram obter nas negociações.
+
+Ora da letra da cláusula resulta tão-só a garantia de benefícios pelas instituições de crédito, sendo que caso benefícios da mesma natureza sejam atribuídos por Instituições ou Serviços de Segurança Social, aos trabalhadores e seus familiares, as instituições de crédito apenas garantirão a diferença entre o valor desses benefícios e o valor dos benefícios previsto no ACT. Por outro lado, e para o cálculo desta diferença apenas são relevantes os benefícios decorrentes de contribuições para Instituições ou Serviços de Segurança Social respeitantes a períodos que contam para a antiguidade do trabalhador ao serviço das instituições de crédito.
+
+A cláusula refere-se única e exclusivamente ao valor dos benefícios o que, obviamente, e como este Tribunal teve já ocasião de referir, não coincide (nem se confunde) com o valor das contribuições[3]. E quando se refere no seu n.º 2 às contribuições é para mandar atender aos benefícios decorrentes das contribuições em um determinado período e, portanto, para esclarecer qual o período de tempo relevante – o período de tempo relevante para a antiguidade do trabalhador ao serviço da instituição de crédito, mas em que houve contribuições para outras instituições ou serviços de Segurança Social.
+
+Em suma, a cláusula nunca refere o valor das contribuições. E partindo da presunção do legislador que se sabe exprimir adequadamente há que concluir que não se pretendeu atribuir qualquer relevância ao valor em concreto dessas contribuições. Acresce que não há qualquer remissão para o Decreto-Lei n.º 187/2007, nem qualquer referência ao cálculo de duas pensões como pretende o Recorrente.
+
+Uma vez que a tese do Recorrente não tem o mínimo de apoio na letra da cláusula, como, aliás, este Tribunal já teve ocasião de afirmar recentemente[4], torna-se desnecessário apreciar os outros argumentos aduzidos, já que os mesmos não poderiam fazer vingar uma interpretação sem esse arrimo mínimo.
+
+Acrescente-se, apenas, que não se vislumbra qualquer inconstitucionalidade nesta cláusula a qual se limita a cumprir o desiderato constitucional do aproveitamento integral de todo o tempo de trabalho[5] para o cálculo da pensão (artigo 63.º n.º 4 da Constituição)”.
+
+Importa, ainda, referir que a solução da questão em litígio se obtém através da interpretação da cláusula, sem necessidade de qualquer integração, pelo que também não há que discutir no presente processo se os tribunais têm ou não legitimidade para proceder à integração de contratos coletivos.
+
+3. Decisão: Negada a revista. Junte-se aos autos cópia do Acórdão proferido no processo n.º 2276/20.8T8VCT.S1.
+
+Custas pelo Recorrente
+
+Lisboa, 19 de outubro de 2022
+
+Júlio Gomes (Relator)
+
+Ramalho Pinto
+
+Mário Belo Morgado
+
+________________________________________________
+
+[1] A nova cláusula 94.ª, com a epígrafe garantia de benefícios e articulação de regimes tem o seguinte teor: “1- As instituições de crédito garantem os benefícios constantes da presente secção aos trabalhadores referidos no número 3 da cláusula 92.ª, bem como aos demais titulares das pensões e subsídios nela previstos. Porém, nos casos em que benefícios da mesma natureza sejam atribuídos por instituições ou serviços de Segurança Social a trabalhadores que sejam beneficiários dessas instituições ou seus familiares, apenas é garantida pelas instituições de crédito a diferença entre o valor desses benefícios e o dos previstos nesta secção: 2. Para efeitos da segunda parte do número anterior, apenas são considerados os benefícios decorrentes de contribuições para instituições ou serviços de Segurança Social com fundamento na prestação de serviço que seja contado na antiguidade do trabalhador nos termos da cláusula 103.ª; 3. Os trabalhadores ou os seus familiares devem requerer o pagamento dos benefícios a que se refere o número 1 da presente cláusula junto das respetivas instituições ou serviços de Segurança Social a partir do momento em que reúnam condições para o efeito sem qualquer penalização e informar, de imediato, as instituições de crédito logo que lhes seja comunicada a sua atribuição, juntando cópia dessa comunicação (…)
+
+[2] Corresponde à Conclusão 6.ª do recurso de revista no presente processo.
+
+[3] Como destacou certeiramente a sentença de 1.ª instância no processo n.º 2276/20.8VCT.S1, “o cálculo das remunerações a ter em consideração para a contabilização da pensão de reforma tem em consideração inúmeros fatores para além do valor da retribuição o que reforça a ideia de que não existe uma relação direta entre o valor da retribuição e o da pensão final atribuída”.
+
+[4] Acórdão de 22/02/2018, proferido no processo n.º 9637/16.5T8LSB.L1.S1 (CHAMBEL MOURISCO): “As expressões utilizadas na referida cláusula “a diferença entre o valor desses benefícios” na parte final do n.º 1, “benefícios decorrentes de contribuições para instituições ou Serviços de Segurança Social” no segundo segmento do n.º 2 e “benefícios da mesma natureza” na parte final do n.º 3, referem-se tão só às pensões, não se podendo afirmar que dos respetivos textos resulte um mínimo de correspondência verbal que possa suportar a interpretação no sentido da introdução de um fator de ponderação que tenha a ver com o valor das contribuições efetuadas”. No mesmo sentido cfr. o Acórdão de 12/07/2018, processo n.º 3312/16.8T8PRT-P1.S1 (RIBEIRO CARDOSO): “nesta cláusula não se estabelece que a percentagem da pensão a devolver ao R. pelo A. deva ser calculada não só com base no tempo de contribuições para a Segurança Social, enquanto trabalhador do setor bancário, mas também levando em conta o valor das retribuições sobre que incidiram essas contribuições”
+
+[5] Em rigor, para GOMES CANOTILHO e VITAL MOREIRA, Constituição da República Portuguesa Anotada, 4.ª ed. Revista, Coimbra Editora, 2007, vol. I, p. 829, trata-se da contagem de tempos de serviço juridicamente relevantes.
