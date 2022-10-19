@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 19941/2022
+Sumário: Consulta pública do projeto de Regulamento de Apoio ao Desporto do Município de Borba.
+António José Lopes Anselmo, Presidente da Câmara Municipal de Borba, torna público, nos termos e para os efeitos do disposto na alínea c) do n.º 3 do artigo 100.º e do n.º 1 do artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada no dia 06 de outubro de 2022, submeter a consulta pública, pelo prazo de trinta dias úteis, contados do dia seguinte ao da presente publicação no Diário da República, o Projeto de Regulamento Municipal de Apoio ao Desporto, cujo texto se encontra disponível para consulta nesta Câmara Municipal, durante as horas normais de expediente e na página do Município em www.cm-borba.pt.
+Mais torna público que, nos termos do disposto no n.º 2 do citado artigo 101.º, os interessados deverão dirigir as suas sugestões, mediante requerimento dirigido ao Presidente da Câmara, devidamente identificado, diretamente nos serviços da Câmara Municipal de Borba, através dos correios, para o endereço Praça da República, 7150-249 Borba, ou para o seguinte endereço de correio eletrónico: geral@cm-borba.pt.
+10 de outubro de 2022. - O Presidente da Câmara, António José Lopes Anselmo.
+315763324
