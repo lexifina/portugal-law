@@ -1,0 +1,133 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "250",
+    "id": "151965",
+    "titulo": "Recomenda ao Governo a tomada de medidas urgentes de apoio ao alojamento de estudantes do ensino superior deslocados e de criação de residências universitárias em património subutilizado do Estado"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2022-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "63153",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2023-01-10",
+            "id": "127894",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-10-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-12-22",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Pedido de informação - Associações Académicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255344d5468685a5445314c544d795a4463744e44466b5a6931694d4467344c544978596d55344f54677a4d546378596935775a47593d&fich=e818ae15-32d7-41df-b088-21be8983171b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-22",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Pedido de informação - CCISP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a457a4d6a5a6c4d6d566c4c5751795a4455744e445530595331694f544e6c4c5446694d54566d4d54566c5a474e6b4e5335775a47593d&fich=1326e2ee-d2d5-454a-b93e-1b15f15edcd5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-22",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Pedido de informação - CRUP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6732597a4930597a4a6b4c5449334d5455744e4467334e433034595451304c54686b5a544a69597a5178597a6b354d6935775a47593d&fich=86c24c2d-2715-4874-8a44-8de2bc41c992.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-12-22",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Pedido de informação - FNAEESP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d78597a597a4f4455324c544d795a4449744e4459334e693169596d466b4c5441324f5441314d444d335a4445774d4335775a47593d&fich=31c63856-32d2-4676-bbad-06905037d100.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-09",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Resposta ao pedido de informação - Académica da Madeira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d314d32526a4e5442684c54597a4d6a55744e4751784d6930344e5751784c5746694e546b324e5745304f5751335a6935775a47593d&fich=c53dc50a-6325-4d12-85d1-ab5965a49d7f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-09",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Resposta ao pedido de informação - Associação Académica de Coimbra",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45775a6a41784e5745334c57566c59546b744e44686d595330355a4449794c545a6d4d574a694d6a63784d546732597935775a47593d&fich=10f015a7-eea9-48fa-9d22-6f1bb271186c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-10",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Resposta ao pedido de informação - CRUP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59304d6d4d7a596a63354c54417a4e6d59744e445a6a4f4331694e7a41774c574d354f5759794d57466d4d3252694d7935775a47593d&fich=642c3b79-036f-46c8-b700-c99f21af3db3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-17",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Pedido de votação em Plenário",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526c5a544a6b4f4746684c5455785a5451744e4745344e6931694d6d566d4c575a68596a426b4f544e684e475534596935775a47593d&fich=dee2d8aa-51e4-4a86-b2ef-fab0d93a4e8b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8332",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "8332",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-10-21",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1320427",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
