@@ -2,7 +2,7 @@
 
 ### Conselho diretivo
 
-1 - O conselho diretivo é composto por um presidente e por dois vogais, nomeados por Resolução do Conselho de Ministros, devendo o perfil, experiência profissional e competências de gestão de um dos vogais ser obrigatoriamente na área financeira.
+1 - O conselho diretivo é composto por um presidente, um vice-presidente e dois vogais, nomeados por Resolução do Conselho de Ministros, devendo o perfil, experiência profissional e competências de gestão de um dos vogais ser obrigatoriamente na área financeira.
 
 2 - Sem prejuízo dos poderes necessários à prossecução das competências conferidas por lei ao IHRU, I. P., ou que nele sejam delegadas ou subdelegadas, compete em especial ao conselho diretivo:
 
