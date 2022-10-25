@@ -24,4 +24,4 @@ c) Considerar o pedido como candidatura individualizada.
 
 8 - As candidaturas apresentadas diretamente ao IHRU, I. P., que sejam por este aprovadas e registadas na plataforma eletrónica do 1.º Direito, são consideradas, para todos os efeitos, apoiadas ao abrigo deste programa como uma solução habitacional promovida no âmbito da ELH do correspondente município.
 
-9 - A pessoa ou o agregado que, na sequência da comunicação referida no n.º 4, não apresentar candidatura no prazo de 18 meses perde direito a aceder a uma solução habitacional no âmbito das candidaturas apresentadas pelo município ao abrigo da sua ELH, sem prejuízo de este as poder sinalizar novamente em período subsequente.
+9 - Os agregados que não apresentem candidatura dentro do prazo de 18 meses referido no n.º 5 não perdem o direito a fazê-lo sempre que o município confirme que a instrução da candidatura está em curso.

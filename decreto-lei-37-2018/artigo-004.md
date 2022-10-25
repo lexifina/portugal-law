@@ -12,7 +12,7 @@ c) «Dependente», o menor de idade e a pessoa que, não tendo mais de 25 anos o
 
 d) «Deficiência» ou «incapacidade», a situação da pessoa com grau de incapacidade permanente igual ou superior a 60 %, devidamente comprovado com atestado médico de incapacidade multiúso;
 
-e) «Situação de carência financeira», a situação da pessoa ou do agregado habitacional que detém um património mobiliário de valor inferior a 7,5 % do limite do estabelecido nos termos dos n.ºs 4 e 5 do artigo 2.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual, e cujo rendimento médio mensal é inferior a quatro vezes o indexante dos apoios sociais (IAS);
+e) «Situação de carência financeira», a situação da pessoa ou do agregado habitacional cujo rendimento médio mensal seja inferior a 4 vezes o indexante dos apoios sociais (IAS) e, no caso dos beneficiários diretos a que se refere o artigo 25.º, que detenham um património mobiliário de valor inferior a 60 vezes o IAS;
 
 f) «Pessoa em situação de sem-abrigo», aquela que se encontre:
 

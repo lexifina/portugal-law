@@ -4,7 +4,7 @@
 
 Vivem em condições indignas as pessoas que não dispõem de uma habitação adequada, residindo de forma permanente, nomeadamente, em situação de:
 
-a) Precariedade, considerando-se como tais as situações de pessoas sem abrigo, tal como definidas nos termos da alínea f) do artigo anterior, bem como os casos de pessoas sem solução habitacional alternativa ao local que usam como residência permanente, quando têm de o desocupar por causa relacionada com a declaração de insolvência de elementos do agregado, com situações de violência doméstica, com operações urbanísticas de promoção municipal ou com a não renovação de contrato de arrendamento nos casos de agregados unititulados, agregados que integram pessoas com deficiência ou arrendatários com idade superior a 65 anos;
+a) Precariedade, considerando-se como tais as pessoas em situação de sem-abrigo, tal como definidas nos termos da alínea f) do artigo anterior, bem como os casos de pessoas sem solução habitacional alternativa ao local que usam como residência permanente, nomeadamente quando têm de o desocupar por causa relacionada com a declaração de insolvência de elementos do agregado ou do proprietário do imóvel onde o agregado reside, com situações de violência doméstica, com operações urbanísticas de promoção municipal ou com a não renovação de contrato de arrendamento;
 
 b) Insalubridade e insegurança, nos casos em que a pessoa ou o agregado vive em local, construído ou não, destituído de condições básicas de salubridade, segurança estrutural, estanquidade e higiene ou por ser uma edificação sem condições mínimas de habitabilidade;
 

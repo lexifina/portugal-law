@@ -16,4 +16,8 @@
 
 7 - Quando, por aplicação do disposto na parte final do número anterior, o montante total anual das rendas pagas pelo morador for inferior ao encargo anual suportado pelo proprietário com o reembolso do empréstimo relativo à respetiva reabilitação, este pode solicitar apoio para suportar a diferença entre aqueles montantes.
 
-8 - Sempre que, no âmbito de uma intervenção de reabilitação num núcleo degradado, exista prédio ou fração que deva ser demolido ou reconfigurado e daí decorra uma redução do número de habitações preexistentes, além da aplicação pelo município dos mecanismos de perequação entre proprietários, as pessoas e os agregados residentes nesse núcleo que devam ser realojados podem aceder a uma habitação adequada através de uma solução financiada ao abrigo do 1.º Direito.
+8 - A intervenção num núcleo degradado deve preferencialmente abranger a totalidade do mesmo e, sempre que, no âmbito da mesma, exista prédio ou fração devoluto ou que deva ser demolido ou reconfigurado, são de considerar as seguintes condições:
+
+a) Se da intervenção resultar a existência de prédio ou frações vagos, estes devem ser destinados a pessoas e agregados sinalizados na ELH do município; ou
+
+b) Se daí decorrer uma redução do número de habitações preexistentes, além da aplicação pelo município dos mecanismos de perequação entre proprietários, as pessoas e os agregados residentes nesse núcleo que devam ser realojados podem aceder a uma habitação adequada através de uma solução financiada ao abrigo do 1.º Direito.
