@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 2022-10-26, processo 01324/10.4BELRS
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01324/10.4BELRS
+
+**Data do Acordão:** 10/26/2022
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** NULIDADE DE SENTENÇA; EXCESSO DE PRONÚNCIA; IRC; MAIS VALIAS; REINVESTIMENTO; CAPITAL
+
+**Nº Convencional:** JSTA00071587
+
+**Nº do Documento:** SA22022102601324/10
+
+**Data de Entrada:** 02/01/2022
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A…………. SEGUROS, S.A.
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Meio Processual:** RECURSO JURISDICIONAL
+
+**Objecto:** SENTENÇA DO TRIBUNAL TRIBUTÁRIO DE LISBOA
+
+**Decisão:** NEGA PROVIMENTO
+
+**Área Temática 1:** IRC
+
+**Legislação Nacional:** ARTIGOS 43º E 45º CIRC
+
+## Sumário
+
+I - Nos termos do preceituado no citado artº.615, nº.1, al.d), do C.P.Civil, é nula a sentença, além do mais, quando o juiz conheça de questões de que não poderia tomar conhecimento. Decorre de tal norma que o vício que afecta a decisão advém de um excesso de pronúncia (2º. segmento da norma). Na verdade, é sabido que essa causa de nulidade se traduz no incumprimento, por parte do julgador, do poder/dever prescrito no artº.608, nº.2, do mesmo diploma, o qual consiste, por um lado, no resolver todas as questões submetidas à sua apreciação, exceptuadas aquelas cuja decisão esteja prejudicada pela solução dada a outras, e, por outro, de só conhecer de questões que tenham sido suscitadas pelas partes (salvo aquelas de que a lei lhe permite conhecer oficiosamente). Ora, como se infere do que já deixámos expresso, o excesso de pronúncia pressupõe que o julgador vai além do conhecimento que lhe foi pedido pelas partes. Por outras palavras, haverá excesso de pronúncia, sempre que a causa do julgado não se identifique com a causa de pedir ou o julgado não coincida com o pedido. Pelo que deve considerar-se nula, por vício de "ultra petita", a sentença em que o Juiz invoca, como razão de decidir, um título, ou uma causa ou facto jurídico, essencialmente diverso daquele que a parte colocou na base (causa de pedir) das suas conclusões (pedido).
+
+II - No processo judicial tributário o excesso de pronúncia, como causa de nulidade da sentença, está previsto no artº.125, nº.1, do C.P.P.Tributário, no último segmento da norma.
+
+III - As mais-valias traduzem-se em ganhos ocasionais de capital, sem relação directa com a actividade produtiva, assim não sendo consideradas como rendimento, mas como um acréscimo patrimonial. A mais-valia deve definir-se, em princípio, pela diferença entre o valor de realização e o valor de aquisição, especialmente quando o facto gerador do imposto se descreve como uma alienação onerosa, assim estando sujeita ao princípio da realização (cfr.artº.43, do C.I.R.C., na redacção em vigor em 2006). O POC definia o conceito de mais-valia contabilística como o ganho resultante da alienação de bens do activo imobilizado corpóreo, incorpóreo ou financeiro evidenciado na conta 794 - Ganhos em imobilizações.
+
+IV - Do conceito de realização de capital social constante do artº.45, nº.4, al.c), nº.2, do C.I.R.C., não resulta a limitação imposta pela A. Fiscal, ao exigir que o reinvestimento das mais-valias decorrentes de transmissões entre entidades relacionadas seja obrigatoriamente efectuado mediante a realização do capital social da adquirente e uma operação de permuta de partes sociais entre as partes envolvidas. E com razão, desde logo, levando em consideração o princípio de hermenêutica jurídica "ubi lex non distinguit, nec nos distinguere debemus" (quando a lei não distingue, não devemos distinguir nós). Com efeito, da norma em questão não pode o intérprete concluir, como o faz a Fazenda Pública, quando a letra da lei apenas faz menção "à realização de capital social", pelo que não se vislumbra que esse seja o entendimento e o objectivo pretendido pelo legislador.
+
+(sumário da exclusiva responsabilidade do relator)
