@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GfAjXt6jfv8tqRnvwVRrojDEIo%2b7p1v6jaTnZYOUpHxKyyI5yEhP0uHRQMKVu75VaWCiut7FIhwMCYWUwyV9Pvk2gPUTnwyfs%2bbXGr6%2bvekGCeM3FNBTDdZ9UOgLk4z7DKxI7fTmgeSr1D0qmHp1Kp3UNwCklnqX8UVQnT569TNoVlG6EUc6VlxZbYFDunnEzjGg0%2f1PrtkhNrFKx3DELdUX7lIWZb9PBk84Ov3T1k2pRFpWmnJz%2bPe%2fWp8L%2bxjk%2bMkpy%2bHWNGXd8jKujFJEposFCwbq9kyVjOyhJ4ug3OuGADTdPu2bEB5QwH6MlttrJpamg5h3FYpDHP%2bXI0gXRlCwYV44fesCLhEry4jQImg%3d&fich=DiplomasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "1c1078c10448c22aca421ebfa8d69a53be6d45d3cdef4ecf77f8a6b7fe4ac80e",
+  "legislatura": "XV",
+  "id": "33734",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2022-10-27",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2022",
+    "Id": "33734",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "131681",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338354d545979596a4d354e69316a4d4755774c5451304f5751744f444d304e43307a595749784f474e684f574a6c5a6a6b755a47396a&fich=9162b396-c0e0-449d-8344-3ab18ca9bef9.doc&Inline=true",
+        "IniNr": "138",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XV",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c324a6b4e325534597a4d784c5455794d4459744e4751794f5330345954646d4c574a6c4f5459324e47526d5954526a5953356b62324e34&fich=bd7e8c31-5206-4d29-8a7f-be9664dfa4ca.docx&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "937089",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-10-27",
+        "pubLeg": "XV",
+        "pubNr": "108",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/108S1/2022-10-27/4?pgs=4&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo a criação de um Programa «Regressar Saúde», dirigido especificamente a profissionais de saúde",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
