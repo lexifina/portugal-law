@@ -1,0 +1,238 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "37",
+    "id": "152006",
+    "titulo": "Aprova a Lei das Grandes Opções para 2022-2026"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-10-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "63172",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2022-10-28",
+            "id": "127740",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-28",
+            "id": "127739",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-31",
+            "id": "127743",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-10-31",
+            "id": "127741",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-02",
+            "id": "127749",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-02",
+            "id": "127746",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-03",
+            "id": "127754",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-03",
+            "id": "127753",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-03",
+            "id": "127752",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-03",
+            "id": "127751",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-04",
+            "id": "127777",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-04",
+            "id": "127764",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-07",
+            "id": "127771",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-07",
+            "id": "127770",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-08",
+            "id": "127775",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-08",
+            "id": "127773",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-09",
+            "id": "127781",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-09",
+            "id": "127776",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-10",
+            "id": "127786",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-10",
+            "id": "127783",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-10",
+            "id": "127782",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-11",
+            "id": "127790",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2022-11-11",
+            "id": "127789",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2022-11-02",
+            "id": "116886",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-10-27",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2022-11-21",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67324e7a63794f5755304c57457a4d5455744e4463784f5331685a6a63314c54646a4d5455334d6d4d7a4f5463774d6935775a47593d&fich=867729e4-a315-4719-af75-7c1572c39702.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-11-21",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59304d474d31597a4a6a4c574e694d6d55744e44566c4d5330344e6a417a4c5464684d54677859545a6c4f444a694d5335775a47593d&fich=640c5c2c-cb2e-45e1-8603-7a181a6e82b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2022-11-21",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67784e6a646d4e6d49314c5445795a4459744e44566d4d6931694f5752684c5759344d3255784d6a49344d6a6333595335775a47593d&fich=8167f6b5-12d6-45f2-b9da-f83e1228277a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-10-27",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1320552",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996585",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-11-22",
+        "pubLeg": "XV",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR II S -OE",
+        "pubTp": "V",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2gopoe/15/01/005/2022-11-22?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
