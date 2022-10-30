@@ -4,9 +4,9 @@
 
 1 - Para a renovação de autorização de residência emitida ao abrigo do artigo 90.º-A da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve fazer prova da manutenção do investimento em território nacional através de:
 
-a) Declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade, livre de ónus e encargos, de contas de depósitos com saldo trimestral médio igual ou superior a 1 milhão de euros, ou de quota-parte no mesmo montante durante tal período quando estejam em causa contas coletivas; ou
+a) Declaração, de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade, livre de ónus e encargos, de contas de depósitos com saldo trimestral médio igual ou superior a 1,5 milhões de euros, ou de quota-parte no mesmo montante durante tal período quando estejam em causa contas coletivas; ou
 
-b) No caso de aquisição de instrumentos de dívida pública do Estado Português, declaração da IGCP, E. P. E., atestando a titularidade, livre de ónus e encargos, de instrumentos de dívida de saldo trimestral médio igual ou superior a 1 milhão de euros; ou
+b) No caso de aquisição de instrumentos de dívida pública do Estado Português, declaração da IGCP, E. P. E., atestando a titularidade, livre de ónus e encargos, de instrumentos de dívida de saldo trimestral médio igual ou superior a 1,5 milhões de euros; ou
 
 c) No caso de aquisição de valores mobiliários escriturais, certificado comprovativo da sua titularidade, livre de ónus e encargos, emitido pela respetiva entidade registadora nos termos e para os efeitos dos n.os 1 e 2 do artigo 78.º do Código dos Valores Mobiliários; ou
 
@@ -22,7 +22,7 @@ h) (Revogada.)
 
 i) No caso de aplicação de montantes não previstos na declaração emitida nos termos do n.º 15 do artigo anterior, declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a transferência efetiva de capitais para a realização do investimento.
 
-2 - O requerente pode ainda comprovar a manutenção do investimento previsto no número anterior mediante prova da concretização de qualquer dos investimentos previstos nas subalíneas ii) a vii) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, desde que perfaçam valor igual ou superior a 1 milhão de euros, sendo aplicável com as devidas adaptações, o disposto nos números seguintes quanto a este tipo de investimentos.
+2 - O requerente pode ainda comprovar a manutenção do investimento previsto no número anterior mediante prova da concretização de qualquer dos investimentos previstos nas subalíneas II) a VII) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, desde que perfaçam valor igual ou superior a 1,5 milhões de euros, sendo aplicável, com as devidas adaptações, o disposto nos números seguintes quanto a este tipo de investimentos.
 
 3 - Para prova de manutenção do investimento previsto na subalínea ii) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o SEF verifica oficiosamente a manutenção do número mínimo de postos de trabalho exigido.
 

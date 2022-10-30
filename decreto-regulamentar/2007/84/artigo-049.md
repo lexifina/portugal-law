@@ -6,15 +6,15 @@
 
 2 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido no âmbito da transferência entre empresas deve ser acompanhado de documento comprovativo emitido pela empresa situada em território nacional confirmando a manutenção dos pressupostos que conduziram à concessão do visto.
 
-3 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para exercício de actividade profissional deve ser acompanhado de:
+3 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para exercício de atividade profissional, subordinada ou independente, prestada em território nacional ou de forma remota a pessoa singular ou coletiva com domicílio ou sede fora do território nacional, deve ser acompanhado de:
 
 a) Contrato de trabalho ou declaração da entidade empregadora confirmando a manutenção da relação laboral; ou
 
-b) Contrato de sociedade ou de prestação de serviços para o exercício de profissão liberal;
+b) Contrato de sociedade ou de prestação de serviços para o exercício de profissão liberal, o qual, no caso de prestação de atividade independente de forma remota, pode ser substituído por documento demonstrativo de serviços prestados a uma ou mais entidades, nos termos do disposto na subalínea IV) da alínea b) do n.º 1 do artigo 18.º-B;
 
 c) Seguro de saúde ou comprovativo de que se encontra abrangido pelo Serviço Nacional de Saúde;
 
-d) Informação necessária para verificação da inscrição na administração fiscal e da regularidade da situação contributiva na segurança social, obtida nos termos do n.º 9 do artigo 212.º da Lei n.º 23/2007, de 4 de Julho.
+d) Quando aplicável, informação necessária para verificação da inscrição na administração fiscal e da regularidade da situação contributiva na segurança social, obtida nos termos do n.º 9 do artigo 212.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual.
 
 4 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para actividade de investigação ou altamente qualificada deve ser acompanhado de:
 
@@ -45,3 +45,5 @@ c) Comprovativo de alojamento.
 9 - A decisão sobre os pedidos de prorrogação de permanência apresentados por titular de visto de estada temporária para efeitos de acompanhamento de cidadão em tratamento médico é tomada em consonância com a adotada quanto ao cidadão acompanhado.
 
 10 - Para efeitos da alínea e) do n.º 1 e do n.º 2 do artigo 72.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, a validade do visto de estada temporária, incluindo a respetiva prorrogação de permanência, não pode exceder um ano.
+
+11 - A decisão sobre os pedidos de prorrogação de permanência apresentados por titular de visto de acompanhamento de familiar portador de um visto de estada temporária é tomada em consonância com a adotada quanto ao cidadão acompanhado.

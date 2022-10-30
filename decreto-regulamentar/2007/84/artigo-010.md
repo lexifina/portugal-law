@@ -10,7 +10,7 @@
 
 ### Pedido de visto
 
-1 - O pedido de visto que, por força da legislação aplicável, deva ser apresentado num posto consular e numa secção consular da embaixada a que se referem, respetivamente, as alíneas a) e b) do n.º 1 e o n.º 3 do artigo 2.º do Regulamento Consular, aprovado pelo Decreto-Lei n.º 71/2009, de 31 de março, na sua redação atual, é formulado em impresso próprio, assinado pelo requerente e instruído com toda a documentação necessária.
+1 - O pedido de visto que, por força da legislação aplicável, deva ser apresentado num posto consular e numa secção consular da embaixada a que se referem, respetivamente, os n.os 2 e 5 do artigo 3.º e o artigo 67.º do Regulamento Consular, aprovado em anexo ao Decreto-Lei n.º 51/2021, de 15 de junho, é formulado em impresso próprio, assinado pelo requerente e instruído com toda a documentação necessária.
 
 2 - Salvo razões atendíveis, o pedido deve ser apresentado pelo requerente no país da sua residência habitual ou no país da área da jurisdição consular do Estado da sua residência.
 
@@ -22,7 +22,7 @@
 
 6 - Encontram-se dispensados de presença para apresentação do pedido de visto:
 
-a) O requerente de visto de residência, nacional de Estado terceiro de língua oficial portuguesa, admitido em instituição de ensino superior;
+a) O requerente de visto de residência e estada temporária, nacional de um Estado em que esteja em vigor o Acordo sobre a Mobilidade entre os Estados-Membros da Comunidade dos Países de Língua Portuguesa celebrado em Luanda, a 17 de julho de 2021 (Acordo CPLP), ou nacional de outro Estado a quem se estenda esta dispensa por acordo internacional;
 
 b) O requerente de visto de residência para os imigrantes empreendedores, ao abrigo da alínea c) do n.º 2 do artigo 60.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual;
 
@@ -32,7 +32,7 @@ c) O requerente de visto de residência para atividade docente, altamente qualif
 
 8 - São fixados, por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da administração interna, os critérios de acreditação das entidades idóneas, a que se refere o número anterior.
 
-9 - A recolha de identificadores biométricos, quando aplicável, deve ser efetuada nos postos consulares e nas secções consulares das embaixadas a que se referem, respetivamente as alíneas a) e b) do n.º 1 e o n.º 3 do artigo 2.º do Regulamento Consular, aprovado pelo Decreto-Lei n.º 71/2009, de 31 de março, na sua redação atual, exceto no âmbito de prestador de serviços externos.
+9 - A recolha de identificadores biométricos, quando aplicável, deve ser efetuada nos postos consulares e nas secções consulares das embaixadas a que se referem, respetivamente, os n.os 2 e 5 do artigo 3.º e o artigo 67.º do Regulamento Consular, aprovado em anexo ao Decreto-Lei n.º 51/2021, de 15 de junho, exceto no âmbito de prestador de serviços externos.
 
 10 - A apresentação do pedido de visto pode dar lugar à aposição, no passaporte do requerente, desde que solicitada pelo próprio, de um carimbo contendo os elementos respeitantes à data, embaixada, posto consular de carreira ou secção consular onde foi solicitado, salvo nos casos de passaportes diplomáticos ou de serviço.
 

@@ -48,11 +48,11 @@ b) Original ou cópia autenticada da decisão de promoção e protecção do men
 
 12 - O pedido de autorização de residência nos termos da alínea j) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado de documento comprovativo da presença em território nacional.
 
-13 - O pedido de autorização de residência nos termos da alínea k) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado dos seguintes documentos:
+13 - O pedido de autorização de residência nos termos da alínea k) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, é ainda acompanhado dos seguintes documentos:
 
 a) Certidão de nascimento do menor, salvo quando já conste do processo do mesmo;
 
-b) Prova do exercício efectivo do poder paternal e da contribuição para o sustento do menor, nomeadamente através de declaração do progenitor não requerente, confirmando o exercício do poder paternal pelo progenitor requerente, podendo, em casos devidamente, fundamentados, ser dispensado.
+b) Prova do exercício efetivo das responsabilidades parentais e da contribuição para o sustento do menor, nomeadamente através de declaração do progenitor não requerente, confirmando o exercício das responsabilidades parentais pelo progenitor requerente, podendo, em casos devidamente fundamentados, ser dispensada.
 
 14 - O pedido de autorização de residência nos termos da alínea l) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é ainda acompanhado dos seguintes documentos:
 
@@ -78,16 +78,24 @@ c) Declaração emitida pela Autoridade para as Condições de Trabalho atestand
 
 20 - O pedido de autorização de residência nos termos da alínea r) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, alterada pelas Leis n.os 29/2012, de 9 de agosto, 56/2015, de 23 de junho, e 63/2015, de 30 de junho, é ainda acompanhado dos elementos previstos no artigo 65.º-A e seguintes do presente decreto regulamentar.
 
-21 - O pedido de autorização de residência nos termos do n.º 4 do artigo 122.º da Lei 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, pode ser feito em simultâneo com o previsto no n.º 3 do presente artigo e ser acompanhado dos seguintes documentos:
+21 - O pedido de autorização de residência, nos termos do n.º 4 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, pode ser feito em simultâneo com o previsto no n.º 3 do presente artigo e ser acompanhado dos seguintes documentos:
 
 a) Certidão de nascimento do menor, salvo se constar do respetivo processo;
 
-b) Prova de que o ascendente do menor exerce efetivamente o poder paternal, nomeadamente, através de declaração do progenitor não requerente confirmando o facto.
+b) Prova de que o ascendente do menor exerce efetivamente as responsabilidades parentais, nomeadamente através de declaração do progenitor não requerente confirmando o facto.
 
-22 - O pedido de autorização de residência apresentado por cidadão estrangeiro cujo estatuto de residente de longa duração ou o cartão azul UE foi cancelado, sem decisão de afastamento de território nacional, é acompanhado dos documentos referidos no n.º 1.
+22 - O pedido de autorização de residência, nos termos do n.º 8 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, é acompanhado de:
 
-23 - Enquanto não for proferida decisão sobre o pedido mencionado no número anterior e se o período autorizado de permanência do requerente em território nacional tiver terminado, pode ser concedida prorrogação de permanência.
+a) Documento comprovativo da qualidade de acompanhante ou de cuidador informal reconhecido;
 
-24 - O pedido de concessão de autorização de residência com dispensa de visto ao abrigo do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, não obriga à prorrogação de permanência em território nacional nos termos dos artigos 71.º e seguintes da mesma lei.
+b) Cópia autenticada do atestado médico emitido em estabelecimento de saúde oficial ou oficialmente reconhecido, comprovativo de doença prolongada que obste ao retorno ao país, a fim de evitar risco para a saúde do requerente, nos casos em que não seja apresentado em simultâneo com o pedido do requerente de autorização nos termos da alínea g) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual.
 
-25 - Para efeitos da alínea d) do n.º 1, só é concedida autorização de residência com dispensa de visto aos cidadãos estrangeiros que não tenham sido condenados em pena ou penas que, isolada ou cumulativamente, ultrapassem um ano de prisão, ainda que, no caso de condenação por crime doloso previsto no presente diploma ou com este conexo, ou por crime de terrorismo, por criminalidade violenta ou por criminalidade especialmente violenta ou altamente organizada, a respetiva execução tenha sido suspensa.
+23 - A decisão sobre o pedido de autorização de residência nos termos do disposto nos n.os 4 e 8 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, é tomada em consonância com a adotada relativamente ao cidadão acompanhado.
+
+24 - O pedido de autorização de residência apresentado por cidadão estrangeiro cujo estatuto de residente de longa duração ou o cartão azul UE foi cancelado, sem decisão de afastamento de território nacional, é acompanhado dos documentos referidos no n.º 1.
+
+25 - Enquanto não for proferida decisão sobre o pedido mencionado no número anterior e se o período autorizado de permanência do requerente em território nacional tiver terminado, pode ser concedida prorrogação de permanência.
+
+26 - O pedido de concessão de autorização de residência com dispensa de visto ao abrigo do artigo 122.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, não obriga à prorrogação de permanência em território nacional nos termos dos artigos 71.º e seguintes da mesma lei.
+
+27 - Para efeitos da alínea d) do n.º 1, só é concedida autorização de residência com dispensa de visto aos cidadãos estrangeiros que não tenham sido condenados em pena ou penas que, isolada ou cumulativamente, ultrapassem um ano de prisão, ainda que, no caso de condenação por crime doloso previsto no presente diploma ou com este conexo, ou por crime de terrorismo, por criminalidade violenta ou por criminalidade especialmente violenta ou altamente organizada, a respetiva execução tenha sido suspensa.

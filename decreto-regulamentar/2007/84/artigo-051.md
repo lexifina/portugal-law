@@ -18,7 +18,7 @@
 
 4 - Nos pedidos de concessão ou de renovação de autorização de residência ou de cartão azul UE é dispensada a entrega de documentos já integrados no fluxo de trabalho eletrónico do SEF e que se mantenham válidos.
 
-5 - Dos pedidos apresentados nos termos dos n.os 1 e 2 do presente artigo é dado sempre conhecimento, por via electrónica, ao ACIDI, I. P.
+5 - Dos pedidos apresentados nos termos dos n.os 1 e 2 é dado sempre conhecimento, por via eletrónica, ao Alto Comissariado para as Migrações, I. P.
 
 6 - O fluxo de informação decorrente dos pedidos de concessão e renovação de autorização de residência e de cartão azul UE é processado nos termos do n.º 2 do artigo 212.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto.
 

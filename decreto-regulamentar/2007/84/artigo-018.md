@@ -8,4 +8,4 @@
 
 3 - Os pedidos de visto previstos nos números anteriores obedecem ainda ao disposto no artigo 52.º da Lei n.º 23/2007, de 4 de Julho.
 
-4 - Para efeitos de concessão de visto para acompanhamento familiar são considerados o cônjuge, a pessoa com quem viva em união de facto, os ascendentes, os filhos ou pessoa com outro vínculo de parentesco e, no caso de menores ou incapazes, na falta de familiar, a pessoa a cargo de quem estejam ou familiares desta.
+4 - (Revogado.)

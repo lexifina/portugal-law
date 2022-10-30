@@ -6,7 +6,7 @@
 
 a) Comprovar a identidade do requerente;
 
-b) Verificar se o requerente está indicado, para efeitos de não admissão, no Sistema de Informação Schengen;
+b) Verificar se o requerente está indicado, para efeitos de regresso ou de recusa de entrada e de permanência, no Sistema de Informação Schengen;
 
 c) Verificar a regularidade, autenticidade e validade do documento de viagem apresentado pelo requerente, tendo em conta, neste último caso, que a mesma deve ultrapassar, em pelo menos três meses, a data limite da permanência requerida;
 

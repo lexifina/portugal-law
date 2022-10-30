@@ -4,9 +4,9 @@
 
 1 - Para prova do cumprimento do requisito previsto na subalínea i) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve apresentar:
 
-a) Declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade, livre de ónus e encargos, de contas de depósitos com saldo igual ou superior a 1 milhão de euros, resultante de uma transferência internacional, ou de quota-parte no mesmo montante quando estejam em causa contas coletivas; ou
+a) Declaração, de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade, livre de ónus e encargos, de contas de depósitos com saldo igual ou superior a 1,5 milhões de euros, resultante de uma transferência internacional, ou de quota-parte no mesmo montante quando estejam em causa contas coletivas; ou
 
-b) No caso de aquisição de instrumentos de dívida pública do Estado Português, nomeadamente obrigações do tesouro, certificados de aforro ou certificados do tesouro, certificado comprovativo atestando a titularidade, livre de ónus e encargos, emitida pela Agência de Gestão de Tesouraria e Dívida Pública - IGCP, E. P. E. (IGCP, E. P. E.), de instrumentos de valor igual ou superior a 1 milhão de euros; ou
+b) No caso de aquisição de instrumentos de dívida pública do Estado Português, nomeadamente obrigações do Tesouro, certificados de aforro ou certificados do Tesouro, certificado comprovativo atestando a titularidade, livre de ónus e encargos, emitida pela Agência de Gestão de Tesouraria e Dívida Pública - IGCP, E. P. E. (IGCP, E. P. E.), de instrumentos de valor igual ou superior a 1,5 milhões de euros; ou
 
 c) No caso de aquisição de valores mobiliários escriturais, certificado comprovativo da sua titularidade, livre de ónus e encargos, emitido pela respetiva entidade registadora nos termos e para os efeitos dos n.os 1 e 2 do artigo 78.º do Código dos Valores Mobiliários; ou
 

@@ -1,6 +1,6 @@
 ## Capítulo VIII
 
-## Disposições transitórias e finais
+## disposições complementares, transitórias e finais
 
 # Artigo 91.º
 
