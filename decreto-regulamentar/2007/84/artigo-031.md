@@ -10,12 +10,10 @@ b) Quando aplicável, declaração emitida pela entidade competente para a verif
 
 2 - O pedido de visto de residência para imigrantes empreendedores que pretendam investir em Portugal ou já o tenham feito é acompanhado de:
 
-a) (Revogada.)
+a) Declaração de que realizou ou pretende realizar uma operação de investimento em Portugal, com indicação da sua natureza, valor e duração; e
 
 b) Comprovativo de que efectuou operações de investimento; ou
 
-c) Comprovativo de que possui meios financeiros disponíveis em Portugal, incluindo os obtidos junto de instituição financeira em Portugal, e da intenção de proceder a uma operação de investimento em território português, devidamente descrita e identificada; ou
+c) Comprovativos de que possui meios financeiros disponíveis em Portugal, incluindo os obtidos junto de instituição financeira em Portugal, e da intenção de proceder a uma operação de investimento em território português, devidamente descrita e identificada.
 
-d) Declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P., comprovativa da celebração de contrato de incubação com incubadora certificada, nos termos da legislação aplicável.
-
-3 - (Revogado.)
+3 - O pedido de visto de residência previsto no número anterior será apreciado tendo em conta, nomeadamente, a relevância económica, social, científica, tecnológica, ou cultural do investimento.
