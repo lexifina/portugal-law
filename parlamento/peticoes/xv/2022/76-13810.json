@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13810",
+  "numero": "76",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-10-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2022-11-29",
+        "DataArquivo": "2022-11-29",
+        "DataBaixaComissao": "2022-11-04",
+        "DataEnvioPAR": "2023-01-11",
+        "DataReaberta": "2022-11-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-11-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c7a49345a44566c597a4e694c54426a59544d744e4751345a4330344f5755334c546c6d5a4451354e3245794e5449775a6935775a47593d&fich=28d5ec3b-0ca3-4d8d-89e7-9fd497a2520f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-01-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d6b4e4f52554e514c305276593356745a57353062334e515a585270593246764c7a55335a544a694e7a49784c5455314f5459744e4751315a5330344e4745344c5467344d47526d5a54566859544a6d4d7935775a47593d&fich=57e2b721-5596-4d5e-84a8-880dfe5aa2f3.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8326",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2022-11-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d5749784e7a68695a5463744f44526b4d7930304e7a41794c574a6d597a63744d6d526a4e325268593249344f446b354c6e426b5a673d3d&fich=1b178be7-84d3-4702-bfc7-2dc7dacb8899.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13810",
+    "PetAssunto": "Pela restituição de Olivença ao Estado Português",
+    "PetDataEntrada": "2022-10-31",
+    "PeticoesAssociadas": null,
+    "PetId": "13810",
+    "PetLeg": "XV",
+    "PetNr": "76",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
