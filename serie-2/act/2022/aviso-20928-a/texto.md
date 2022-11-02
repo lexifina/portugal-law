@@ -1,0 +1,8 @@
+Aviso n.º 20928-A/2022
+Sumário: Abertura do período de discussão pública da 2.ª revisão do Plano Diretor Municipal de Melgaço.
+Abertura do período de discussão pública da 2.ª revisão do PDM de Melgaço
+Manoel Batista Calçada Pombal, Presidente da Câmara Municipal de Melgaço, torna público, ao abrigo e para os efeitos previstos nos artigos 89.º e 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal, em reunião pública realizada no dia 26 de outubro de 2022, deliberou, no uso da competência conferida pela alínea a) do n.º 1 do artigo 33.º do anexo i à Lei n.º 75/2013, de 12 de setembro, proceder à abertura do período de discussão pública da 2.ª revisão do Plano Diretor Municipal de Melgaço, pelo período de 30 dias úteis, contados a partir do 5.º dia seguinte ao da publicação de aviso no Diário da República, no sítio oficial do Município e nos sítios do costume (n.º 1, artigo 89.º, RJIGT).
+Durante o período de discussão pública, o processo da 2.ª revisão do Plano Diretor Municipal de Melgaço, pode ser consultado na página eletrónica do Município de Melgaço, em www.cm-melgaco.pt, encontrando-se ainda disponível para consulta dos interessados, na Divisão de Planeamento e Gestão Territorial, das 9h00 às 13h00 e das 14h00 às 17h00.
+Os interessados poderão apresentar reclamações, observações, sugestões ou pedidos de esclarecimento, até ao termo do período referido, utilizando para o efeito impresso próprio que pode ser obtido no Balcão Único ou na página oficial do Município e endereçadas ao Presidente da Câmara, para Largo Hermenegildo Solheiro, 4960-551, Melgaço ou por meio eletrónico para o endereço geral@cm-melgaco.pt.
+28 de outubro de 2022. - O Presidente da Câmara, Manoel Batista Calçada Pombal.
+615835658
