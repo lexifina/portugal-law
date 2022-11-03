@@ -16,7 +16,7 @@ e) Obras de apetrechamento, mediante a aquisição de equipamento móvel destina
 
 f) Aquisição de equipamentos, sistemas de monitorização, informação, tecnológicos, material e software;
 
-g) Revisões de preços decorrentes da legislação aplicável e do contrato até ao limite de 5 % do valor dos trabalhos contratuais efetivamente executados;
+g) Revisões de preços decorrentes da legislação aplicável e do contrato que incidam sobre o valor elegível dos trabalhos efetivamente executados;
 
 h) Coordenação e gestão do projeto, fiscalização, coordenação de segurança e assistência técnica;
 
