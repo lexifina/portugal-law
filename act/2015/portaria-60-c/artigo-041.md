@@ -10,7 +10,7 @@ a) Estudos, projetos, atividades preparatórias e assessorias diretamente ligado
 
 b) Trabalhos de construção civil necessários à construção, ampliação, reabilitação e modernização de estabelecimentos de ensino, incluindo arranjos exteriores dentro do perímetro dos estabelecimentos;
 
-c) Revisões de preços decorrentes da legislação aplicável e do contrato até ao limite de 5 % do valor dos trabalhos contratuais efetivamente executados;
+c) Revisões de preços decorrentes da legislação aplicável e do contrato que incidam sobre o valor elegível dos trabalhos efetivamente executados;
 
 d) Coordenação e gestão do projeto, fiscalização, coordenação de segurança e assistência técnica;
 
