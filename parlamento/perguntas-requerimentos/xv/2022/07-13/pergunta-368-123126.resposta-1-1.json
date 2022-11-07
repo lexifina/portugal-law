@@ -1,0 +1,33 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Rw23Vat1crExYT4G5DSbTtIcbaTrKAsLCDjJmdaRvIuxQmpjNXlteM0UBC1odjp2f3HP5j03ofnQYCU4ykN5sgLpQhNGwtmd1YOsD3gyJe0gSxSVB7n41uHJAoUu1bht3Lw0G8a7mmxpMM%2bLxZ2Tr7tx1ywCpqOW044tjbCsexIbLe8xH4ECVffSpi6OnIIVGxWCT3vfv%2bBY3obnTzzLwqcBV7oXMoYM26a4iedsSfimyISCEw6ViRgV0E61t7DS%2fcBDOu%2feMsWNgZnFHJUyMeRb9h41S%2bqszPi1DzGckzthTAU2WiQhpNM09OMX6S7KPKg6G3Wvn4YPHc5We6hp%2b%2f3KCSLFH0%2f%2fObIIumnChLVJKIOems%2b4Rk75IkM3%2fiYlk8XjTqDbzNg5%2fyJT%2fru%2fDA%3d%3d&fich=RequerimentosXV_json.txt&Inline=true",
+  "ficheiro_sha256": "5e72bb83b1dc3ce7aad3688787c6d2f5aca64e4843eb96b97466a68fa5bcc512",
+  "legislatura": "XV",
+  "pergunta": {
+    "id": "123126",
+    "tipo": "Pergunta",
+    "numero": "368",
+    "assunto": "Informação sobre Programas Especiais de Albufeira de Águas Públicas",
+    "ficheiro_registo": "pergunta-368-123126.json"
+  },
+  "destinatario": "Ministro do Ambiente e  Ação Climática",
+  "data_registo": "2022-11-07",
+  "data_registo_base": "record date = the answer day (Destinatarios[].respostas[].dataResposta) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "dataResposta": "2022-11-07",
+    "docRemetida": null,
+    "entidade": "Ministro do Ambiente e  Ação Climática",
+    "ficheiro": "",
+    "ficheiroComTipo": [
+      {
+        "tipo": "Anexo",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e5276637938785530777659546b774e446c684f5451744d32526a5a5330304e444a6a4c5745775a5459744d57526c4d5463344e444e6c597a59794c6e426b5a673d3d&fich=a9049a94-3dce-442c-a0e6-1de17843ec62.pdf&Inline=true"
+      },
+      {
+        "tipo": "Resposta",
+        "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d6a51344e574d784d6a4d744e3255784d7930304f44526b4c574a6c4e4455745a444d305a546c694e54686b5932517a4c6e426b5a673d3d&fich=2485c123-7e13-484d-be45-d34e9b58dcd3.pdf&Inline=true"
+      }
+    ],
+    "publicacao": null
+  }
+}
