@@ -1,0 +1,18 @@
+# Resolução do Conselho do Governo Regional n.º 1031/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 198/2022, 3.º suplemento, de 2022-11-07
+
+**Sumário:** Autoriza a alteração ao contrato-programa celebrado a 20 de dezembro de 2021, entre a Região Autónoma da Madeira e o Município do Funchal tendo em vista a reprogramação financeira da obra de “Recuperação e ampliação da ETAR do Funchal”, até 31 de dezembro de 2023, redistribuindo os encargos orçamentais anuais e mantendo a comparticipação financeira máxima a atribuir de € 3.087.500,15.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1031/2022
+Sumário: Autoriza a alteração ao contrato-programa celebrado a 20 de dezembro de 2021, entre a Região Autónoma da Madeira e o Município do Funchal tendo em vista a reprogramação financeira da obra de “Recuperação e ampliação da ETAR do Funchal”, até 31 de dezembro de 2023, redistribuindo os encargos orçamentais anuais e mantendo a comparticipação financeira máxima a atribuir de € 3.087.500,15.
+Texto: Resolução n.º 1031/2022. Considerando que nos termos do disposto no artigo 5.º do Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, e no Decreto Legislativo Regional n.º 6/2005/M, de 1 de junho, alterado pelos Decretos Legislativos Regionais n.os 2/2011/M, de 10 de janeiro, e 31/2016/M, de 19 de julho, conjugado com o n.º 8 do artigo 22.º e artigo 22.º-B, da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, foi celebrado um contrato-programa com o Município do Funchal, tendo em vista a atribuição do apoio financeiro destinado a cofinanciar o projeto de “Recuperação e ampliação da ETAR do Funchal”. Considerando que o Município, pelo facto do procedimento de contratação pública ter sofrido um atraso significativo e estar a aguardar o visto do Tribunal de Contas, solicitou a alteração ao contrato-programa para reprogramar para 2023, a comparticipação financeira da obra denominada “Recuperação e ampliação da ETAR do Funchal”, pelo que importa proceder à sua alteração e redistribuir os encargos orçamentais anuais, mantendo a comparticipação financeira máxima a atribuir de € 3.087.500,15. Assim, o Conselho do Governo reunido em plenário em 3 de novembro de 2022, resolve:
+1. Ao abrigo do disposto no artigo 5.º do Decreto Legislativo Regional n.º 28-A/2021/M, de 30 de dezembro, e no Decreto Legislativo Regional n.º 6/2005/M, de 1 de junho, alterado pelos Decretos Legislativos Regionais n.os 2/2011/M, de 10 de janeiro, e 31/2016/M, de 19 de julho, conjugado com o n.º 8 do artigo 22.º e artigo 22.º-B, da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, autorizar a alteração ao contrato-programa celebrado a 20 de dezembro de 2021, entre a Região Autónoma da Madeira e o Município do Funchal tendo em vista a reprogramação financeira da obra “Recuperação e ampliação da ETAR do Funchal”, até 31 de dezembro de 2023, redistribuindo os encargos orçamentais anuais e mantendo a comparticipação financeira máxima a atribuir de € 3.087.500,15.
+2. Aprovar a respetiva minuta de alteração ao contrato-programa, documento que faz parte integrante da presente Resolução e fica arquivado na Secretaria-Geral da Presidência.
+3. Mandatar o Secretário Regional das Finanças para, em representação da Região Autónoma da Madeira, outorgar no respetivo contrato-programa, o qual produzirá efeitos após publicação no JORAM e finda a 31 de dezembro de 2023.
+4. As despesas resultantes do contrato-programa a celebrar têm cabimento orçamental em 2023, na Secretaria 45, Capítulo 50, Divisão 02, Subdivisão 01, Classificação Económica D.08.05.03.B0.SI, projeto 51549.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
