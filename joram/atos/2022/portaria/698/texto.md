@@ -1,0 +1,22 @@
+# Portaria n.º 698/2022
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS E DE AMBIENTE, RECURSOS NATURAIS E ALTERAÇÕES CLIMÁTICA
+
+**Publicação:** JORAM, I série, n.º 199/2022, de 2022-11-08
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais relativos ao contrato de arrendamento rural sobre o prédio rústico localizado no sítio da Alegria, inscrito no artigo matricial sob o n.º 1 da Secção A, da freguesia de São Roque, município do Funchal, com a área total de 391.000 m2, no valor global de € 14.217,80.
+
+## Texto
+
+Portaria n.º 698/2022
+de 8 de novembro
+Sumário: Autoriza a distribuição dos encargos orçamentais relativos ao contrato de arrendamento rural sobre o prédio rústico localizado no sítio da Alegria, inscrito no artigo matricial sob o n.º 1 da Secção A, da freguesia de São Roque, município do Funchal, com a área total de 391.000 m2, no valor global de € 14.217,80.
+Texto: Dando cumprimento ao disposto artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na redação dada pela Lei n.º 22/2015, de 17 de março, e no artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na redação dada pelo Decreto-Lei n.º 99/2015, de 2 de junho, e no n.º 1 do artigo 29.º do Decreto Legislativo Regional n.º 28-A/2021/M, de 31 de dezembro, manda o Governo Regional da Madeira, através do Secretário Regional das Finanças e da Secretária Regional de Ambiente, Recursos Naturais, e Alterações Climáticas, o seguinte:
+1 - Os encargos orçamentais referentes ao contrato de arrendamento rural a celebrar entre o Instituto das Florestas e Conservação da Natureza, IP-RAM e a Associação de Regantes da Levada da Negra, sobre o prédio rústico localizado no sítio da Alegria, inscrito no artigo matricial sob o n.º 1 da Secção A, da freguesia de São Roque, concelho do Funchal, com a área total de 391.000 m2, (trezentos e noventa e um mil metros quadrados), isento de IVA, fica escalonado na forma abaixo indicada:
+Ano económico de 2022 ...................................................................................... € 1.421,78 Ano económico de 2023 ...................................................................................... € 1.421,78 Ano económico de 2024 ...................................................................................... € 1.421,78 Ano económico de 2025 ...................................................................................... € 1.421,78 Ano económico de 2026 ...................................................................................... € 1.421,78 Ano económico de 2027 ...................................................................................... € 1.421,78 Ano económico de 2028 ...................................................................................... € 1.421,78 Ano económico de 2029 ...................................................................................... € 1.421,78 Ano económico de 2030 ...................................................................................... € 1.421,78 Ano económico de 2031 ...................................................................................... € 1.421,78
+2 - Os valores referidos no ponto precedente serão atualizados automaticamente pelo coeficiente de atualização anual das rendas, nos termos do disposto no n.º 5 do artigo 11.º do Decreto-Lei n.º 294/2009, de 13 de outubro.
+3 - A despesa referente ao corrente ano económico está prevista na rubrica com a classificação orgânica 49 8 01 01 00, classificação económica D.02.02.08.S0.00, classificação funcional 056, fontes de financiamento 513, programa 053, medida 028, projeto 51586, cabimento n.º FL42200555, inscrita no Orçamento Privativo do Instituto das Florestas e Conservação da Natureza, IP-RAM, e nos anos económicos seguintes por verbas adequadas a inscrever na respetiva proposta de orçamento do mesmo organismo, tendo sido registada no Sistema Central de Compromissos Plurianuais (SCEP) sob o n.º 13/2022.
+4 - A presente portaria entra imediatamente em vigor.
+Secretaria Regional das Finanças e Secretaria Regional de Ambiente, Recursos Naturais e Alterações Climáticas, no Funchal, aos 2 dias do mês de novembro de 2022.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
+A SECRETÁRIA REGIONAL DE AMBIENTE, RECURSOS NATURAIS E ALTERAÇÕES CLIMÁTICAS, Susana Luísa Rodrigues Nascimento Prada
