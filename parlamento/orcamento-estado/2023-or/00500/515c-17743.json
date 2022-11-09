@@ -1,0 +1,104 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ZGzbD811TUYLOf9K34u2fbJ4LvdEJ%2fVF%2bJCd%2fF9UGWUakwLBk1XH%2bzKqWlJEM%2blX1rSmSpY7fnDZTuQAv2TuRMDaqEW6fOWfQ8cu6LkV%2f91G%2fv4yX%2bCTxH3EUwF8kkr%2bGFfCoirfWXuNSSq2IVT%2fsTlePJEsmZ0CqNSIO76kRO2W0tJ1le%2fT6AzAI9IUyxXYd7FR9ivxk74FaOqD4SXXEsNIOpXpclO%2bfFOvVBbY%2fcAe5KqGfnZc6%2b%2fV9UeJE8moOwbMGbR9gKv%2bN0Aua0nvRF8gK7iUk34fGP5dHqgpZhXAGo2wB4mVh91P60CLspTEZIoi7Qtahh7Dvj0b%2bhblQ6Mf0r5siPwB2au5UyceeXC3LkwCv4WuZ5dc%2fSoIY6fmli65Q7ABxOUoD3z6DhCsXlPB2lpn48G6TdRDl32tnLH7kNNHGOK4Mnli%2fSLD4Gsc&fich=OEPropostasAlteracao2023Or_json.txt&Inline=true",
+  "ficheiro_sha256": "0dd21c933e9ac2b442b3d6d73a46d264ecc4b68d3b3083db2f27ec31919e72b4",
+  "legislatura": "XV",
+  "id": "17743",
+  "numero": "515C",
+  "orcamento": "2023",
+  "versao": "Or",
+  "data_registo": "2022-11-09",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "17743",
+    "Numero": "515C",
+    "Data": "09/11/2022 12:49:00",
+    "Titulo": "Artigo 142.º",
+    "Tema": "Agricultura e Pescas; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Substituição",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": null,
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793942556b356c6443397a6158526c63793959566b784652793950525338794d44497a4d6a41794d6a45774d544176554545764d4755774e6d4d314d7a6b745a4463784e6930304e47466c4c5467774e574974596a6c6d4e6a426b4f5455784e6a63344c6e426b5a673d3d&Fich=0e06c539-d716-44ae-805b-b9f60d951678.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ALFREDO MAIA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ALMA RIVERA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "JOÃO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULA SANTOS"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 142.º",
+        "Titulo": "Subsídio à pequena pesca artesanal e costeira, à pequena aquicultura e à extração de sal marinho",
+        "Texto": "1 - Até à aprovação do regime previsto no n.º 3 do artigo 220.º da Lei n.º 114/2017, de 29 de dezembro, continua a ser concedido um subsídio à pequena pesca artesanal e costeira e à pequena aquicultura, que corresponde a um desconto no preço final da gasolina consumida equivalente ao que resulta da redução de",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 142.º"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Subsídio à pequena pesca artesanal e costeira, à pequena aquicultura e à extração de sal marinho",
+        "Data": "22/11/2022 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza",
+            "Livre"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
