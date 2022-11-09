@@ -1,0 +1,820 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13816",
+  "numero": "82",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-11-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-01-24",
+            "entidades": null,
+            "id": "127938",
+            "tipo": null,
+            "titulo": "Audição em 2023-01-24 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-02-08",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915135",
+                "obs": null,
+                "pag": [
+                  "12-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-10",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/063/2023-02-10/12?pgs=12-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-11-30",
+        "DataArquivo": "2023-02-08",
+        "DataBaixaComissao": "2022-11-17",
+        "DataEnvioPAR": "2023-02-08",
+        "DataReaberta": "2022-11-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793830593245305a47466c4e4331694e5463334c5451344e474574596d45774f43307a4f4445785a47566a4d325a69595451756347526d&fich=4ca4dae4-b577-484a-ba08-3811dec3fba4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a5a5467775957566c4d533033593259774c5451304d6a49744f4459774d79316a4e325a6c4e54426a4e44686a596d55756347526d&fich=ce80aee1-7cf0-4422-8603-c7fe50c48cbe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793830596d4d324d5756684f43316c5a5463784c5451314d6a4d74595459794e7930324e6d466d595749355a545669596a51756347526d&fich=4bc61ea8-ee71-4523-a627-66afab9e5bb4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a4e44637a4e7a466a4e69316c5a6a4d784c54526859324574596a5a6a5a4330784e324d35595749784f5755325a4751756347526d&fich=c47371c6-ef31-4aca-b6cd-17c9ab19e6dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a4d6d5a6b4f47526b4e79316d4e475a6b4c5451344f474d74596a67344f4330354e6a6b304d6a55794f4463794d3259756347526d&fich=c2fd8dd7-f4fd-488c-b888-96942528723f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354d7a42684e7a6c6b4d5330775a6a41314c545132597a45745954513159793030597a6c6c596d566b4e44426c4f5467756347526d&fich=930a79d1-0f05-46c1-a45c-4c9ebed40e98.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939685a444d33596d49345979316b4e4746684c54526d4d3259744f544e68597930304e3255315a5463344e5451354d6d49756347526d&fich=ad37bb8c-d4aa-4f3f-93ac-47e5e785492b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324e7a4e695a5446694d7930345a546b344c5451324d6a41744f5751344d69307a59545268596a4177593255344d7a55756347526d&fich=673be1b3-8e98-4620-9d82-3a4ab00ce835.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4d5755344f544e68595330324d444e694c5451355a6a557459546c6a5a4330784f54646d4e544d784e6d4e6c5a6a51756347526d&fich=e1e893aa-603b-49f5-a9cd-197f5316cef4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354f475a684d474a6d4e79316d4e4459784c5451314e544974596d5a6c4f5330784d575578596a52684d4451335a5745756347526d&fich=98fa0bf7-f461-4552-bfe9-11e1b4a047ea.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4f4468695a6d5a6d4d69316d4d47526a4c545134593251745957526c4d7930774f4445345a5746684d6a6b34595751756347526d&fich=d88bfff2-f0dc-48cd-ade3-0818eaa298ad.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774d544d335a444e6c597930344e6a4d304c54526b4d4755744f5751315a69316b4e44566a4e6a6379597a49354e5755756347526d&fich=0137d3ec-8634-4d0e-9d5f-d45c672c295e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4e4467344d4464684d6930774d444e6b4c54526a5a5451745954517a5953316a597a6b7a5a546469597a41304d4467756347526d&fich=d48807a2-003d-4ce4-a43a-cc93e7bc0408.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939694d325932596d5a6a4f4330784e4445774c5451794d4441744f4464685a53316d59546c6b596a63305a4451324e7a59756347526d&fich=b3f6bfc8-1410-4200-87ae-fa9db74d4676.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793831593251304f5445304d5331694d6a49774c5451325a6a55744f446c6b4e4330314d6d566c5a6d4d774d4463355a6d59756347526d&fich=5cd49141-b220-46f5-89d4-52eefc0079ff.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a4e6d4d354f4459304e5330355a575a6a4c5451784d6d51744f446c6c4d43316a4f44497a4d6a5978596a466c4d4749756347526d&fich=c6c98645-9efc-412d-89e0-c823261b1e0b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-02-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334d5449774d7a63335a53316a596a45304c54526a59545974596d55354d533168595451784d4745785a54466a4d7a49756347526d&fich=7120377e-cb14-4ca6-be91-aa410a1e1c32.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-01-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324d3255305a44686a595330774e574a6b4c545268596d5974596d4a6a4f4330334e4441334d32526c5a6a4d774e7a67756347526d&fich=63e4d8ca-05bd-4abf-bbc8-74073def3078.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314d544535595467334f53316d4e546b794c5451784d4751744f44457a4e53303159544577597a4a685a47597a4e7a59756347526d&fich=5119a879-f592-410d-8135-5a10c2adf376.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324f4445324e6d4a69596930784e47557a4c54517959324d74596a4d7a5979307a5a445932596a5533596d49784d4451756347526d&fich=68166bbb-14e3-42cc-b33c-3d66b57bb104.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334d7a41785a574d7a5a693078596d526b4c5451314e4451744f444d774e4331694e44566b4d5449324e7a41314e6a6b756347526d&fich=7301ec3f-1bdd-4544-8304-b45d12670569.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354e4749354e5745334e5330345a44526c4c5451354f5449744f444e6d596930314e7a4e6d4e6a4534596a59334e7a41756347526d&fich=94b95a75-8d4e-4992-83fb-573f618b6770.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2022-12-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938794d57566c5a47497a596930784d57466a4c54517a4e7a5574596d55794e43316b597a4d784e444d30595751354e4445756347526d&fich=21eedb3b-11ac-4375-be24-dc31434ad941.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-01-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938794e445a68595759305a6930334e7a67324c54526c5a6a4d744f444a6a4f53316b4e574978597a68684e7a45354d4463756347526d&fich=246aaf4f-7786-4ef3-82c9-d5b1c8a71907.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793832595463774d7a4e684d43316c4d7a63354c5451305a54677459574d7a4e69316c5954646d4e3245335a6d49304e4445756347526d&fich=6a7033a0-e379-44e8-ac36-ea7f7a7fb441.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8332",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-02-08",
+            "dataNomeacao": "2023-01-24",
+            "gp": "PS",
+            "id": "7726",
+            "motivoCessacao": "Entrega do Relatório",
+            "nome": "Catarina Lobo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-02-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-11-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6d517a4e4751774d6d4d745a6d4e6d4d7930304f5749324c5749344f446b744d44493159544a6b5a6d51334f4755344c6e426b5a673d3d&fich=6d34d02c-fcf3-49b6-b889-025a2dfd78e8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121067",
+      "152398"
+    ],
+    "Iniciativasoriginadas": [
+      "121067",
+      "152398"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=28"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38",
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/37?pgs=37-38,44&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": "Apresenta o Projeto de Lei n.º 528/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": "Sobre a condução dos trabalhos"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-02-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_24_10_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-25",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Alargamento da carreira especial de enfermagem às estruturas residenciais para pessoas idosas – alteração ao Decreto-Lei n.º 248/2009, de 22 de setembro(ALRAM); Pela obrigatoriedade da existência de um enfermeiro nos estabelecimentos de ensino pré-escolares e escolas do ensino básico e secundário; ( Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas (Marta Maria Dias dos Santos).",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13816",
+    "PetAssunto": "Pelo direito a um enfermeiro em escolas públicas frequentadas por crianças com necessidades de saúde específicas",
+    "PetDataEntrada": "2022-11-09",
+    "PeticoesAssociadas": null,
+    "PetId": "13816",
+    "PetLeg": "XV",
+    "PetNr": "82",
+    "PetNrAssinaturas": "8592",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16343",
+        "obs": null,
+        "pag": [
+          "37-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-02-25",
+        "pubLeg": "XV",
+        "pubNr": "94",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/094/2023-02-25/37?pgs=37-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915164",
+        "obs": null,
+        "pag": [
+          "17-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-10",
+        "pubLeg": "XV",
+        "pubNr": "51",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/051/2022-12-10/17?pgs=17-18&org=PLC"
+      }
+    ]
+  }
+}
