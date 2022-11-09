@@ -1,0 +1,41 @@
+Portaria n.º 269/2022
+de 8 de novembro
+Sumário: Constitui a Comissão de Acompanhamento, Monitorização e Avaliação do Estatuto do Cuidador Informal.
+O Estatuto do Cuidador Informal (ECI) é uma medida de política social que regula os direitos e deveres do cuidador e da pessoa cuidada e foi aprovado em anexo à Lei n.º 100/2019, de 6 de setembro.
+Com a publicação do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, procede-se à adoção das regras para aplicação a todo o território continental das medidas implementadas no âmbito dos projetos-piloto, estabelecendo os termos e condições do reconhecimento do Estatuto do Cuidador Informal, bem como das medidas de apoio aos cuidadores informais e às pessoas cuidadas, regulamentando o disposto na Lei n.º 100/2019, de 6 de setembro.
+Tratando-se de uma política social imprescindível no apoio aos cuidadores informais e às pessoas cuidadas e sendo esta uma política intersectorial, cujo sucesso requer uma ação concertada e coordenada entre vários setores da sociedade, importa assim, também no âmbito do seu acompanhamento, avaliação e monitorização, garantir, igualmente, uma articulação entre os diversos setores e serviços, nomeadamente os da segurança social, os agrupamentos de centros de saúde, as unidades de saúde familiar, as câmaras municipais, as juntas de freguesia, as instituições de solidariedade social, as associações de cuidadores informais e de outras entidades.
+De acordo com o artigo 41.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, para efeitos de acompanhamento da medida é criada a Comissão de Acompanhamento do ECI, cuja composição e funcionamento serão determinados por portaria dos membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e da saúde.
+A Comissão de Acompanhamento do ECI tem por missão monitorizar e avaliar a implementação da regulamentação do ECI e a execução das medidas de apoio ao cuidador informal, com vista à sua concretização efetiva em todo o território continental.
+Assim, ao abrigo do disposto no n.º 2 do artigo 41.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, determina o Governo, pela Secretária de Estado da Inclusão e pelo Secretário de Estado da Saúde, o seguinte:
+1 - São designadas como membros da Comissão de Acompanhamento e Monitorização do ECI, adiante designada por CAMECI, as seguintes entidades:
+a) Instituto da Segurança Social, I. P. (ISS, I. P.), com dois representantes, um dos quais coordena, em conjunto com um dos representantes da Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.);
+b) Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), com dois representantes, um dos quais coordena, em conjunto com um dos representantes do Instituto da Segurança Social, I. P. (ISS, I. P.);
+c) Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.);
+d) Associação Nacional de Municípios Portugueses (ANMP);
+e) Associação Nacional de Freguesias (ANAFRE);
+f) Confederação Nacional das Instituições de Solidariedade;
+g) União das Misericórdias Portuguesas;
+h) União das Mutualidades Portuguesas;
+i) CONFECOOP - Confederação Cooperativa Portuguesa, CCRL;
+j) Associação Nacional de Cuidadores Informais;
+k) Associação Cuidadores Portugal;
+l) Alzheimer Portugal.
+2 - As entidades previstas no número anterior designam em 10 dias úteis as pessoas que as representam e comunicam essa designação ao secretariado da Comissão.
+3 - Podem, ainda, participar nos trabalhos, quando a natureza das matérias a tratar o justifique, representantes de outras entidades ou personalidades de reconhecido mérito.
+4 - À CAMECI compete:
+a) Exercer as funções previstas no artigo 41.º do Decreto Regulamentar n.º 1/2022, de 10 de janeiro, e outros procedimentos julgados necessários ao cumprimento da sua missão;
+b) Acompanhar a intervenção articulada entre os serviços com competências no processo de reconhecimento do Estatuto e de execução das medidas previstas no artigo 7.º do Estatuto do Cuidador Informal aprovado em anexo à Lei n.º 100/2019, de 6 de setembro;
+c) Acompanhar o desenvolvimento da interoperabilidade informática de dados, sua manutenção e permanente atualização, em articulação com os serviços e organismos competentes do Ministério do Trabalho, Solidariedade e Segurança Social, do Ministério da Saúde e da Santa Casa da Misericórdia de Lisboa;
+d) Assegurar a publicação trimestral no sítio da Internet da Segurança Social dos dados de monitorização da regulamentação;
+e) Propor medidas de melhoria no âmbito da operacionalização, comunicação e circuitos;
+f) Definir um quadro de indicadores de avaliação da execução da regulamentação e da sua efetiva eficácia social.
+5 - A Comissão reúne, pelo menos, bimestralmente e tem como objetivo acompanhar, numa lógica de proximidade, o desenvolvimento e a evolução do ECI.
+6 - Os membros designados podem fazer-se acompanhar por técnicos das entidades que representam e ser substituídos nas suas faltas ou impedimentos, mediante comunicação prévia à coordenação da Comissão.
+7 - Os mandatos dos representantes que integram a Comissão têm a duração de um ano, renováveis automaticamente, sem prejuízo das entidades representadas poderem, a todo o tempo, proceder à sua substituição quando se verifiquem situações de impedimento prolongado ou definitivo.
+8 - A participação na CAMECI não confere o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, compensação, subsídio, senhas de presença ou ajudas de custo.
+9 - O apoio logístico e de secretariado da CAMECI é assegurado pelo Instituto da Segurança Social, I. P.
+10 - A CAMECI efetua um balanço anual da sua atividade, através da publicação de relatório, o qual deve ser remetido aos membros do Governo responsáveis pelas áreas governativas do trabalho, solidariedade e segurança social e da saúde.
+11 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 4 de novembro de 2022.
+A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre.
+115851396
