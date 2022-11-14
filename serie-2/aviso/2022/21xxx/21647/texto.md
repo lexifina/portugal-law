@@ -1,0 +1,8 @@
+Aviso n.º 21647/2022
+Sumário: 2.ª Revisão do Plano Diretor Municipal de Tabuaço.
+2.ª Revisão do Plano Diretor Municipal de Tabuaço
+Carlos André Teles Paulo de Carvalho, Presidente da Câmara Municipal de Tabuaço, torna público, nos termos dos artigos 76.º e 88.º, e para efeito do disposto no artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, na atual redação, que, por meu despacho de 12 de setembro de 2022, retificado pela Câmara Municipal na reunião ordinária de 10 de outubro de 2022, retificar o início do procedimento da 2.ª revisão do Plano Diretor Municipal de Tabuaço, prorrogando o prazo por 12 meses para a sua elaboração estabelecendo o prazo total de 15 meses e um período de participação pública de 15 dias.
+Assim, nos 15 dias após a publicação deste aviso, os elementos relativos ao processo da 2.ª Revisão do PDM estarão disponíveis para consulta na Divisão de Gestão e Administração do Território, sita nos Paços do Concelho, Rua António José de Almeida, n.º 36, 5120-413 Tabuaço.
+Neste período de participação pública, qualquer interessado poderá formular sugestões e apresentar informações sobre questões que possam ser consideradas no âmbito deste procedimento de elaboração, devendo para isso, redigi-las por escrito e as dirigir ao Presidente da Câmara Municipal de Tabuaço, sob a referência "2.ª Revisão do PDM de Tabuaço - Participação", através de correio eletrónico para o endereço revisao.pdm@cm-tabuaco.pt, ou através de requerimento entregue nos serviços de atendimento da Autarquia, ou por via postal para o endereço supra referido.
+28 de outubro de 2022. - O Presidente da Câmara Municipal, Carlos André Teles Paulo de Carvalho.
+615849996
