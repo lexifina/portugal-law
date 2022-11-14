@@ -1,0 +1,618 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13817",
+  "numero": "83",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-11-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-01-11",
+            "entidades": null,
+            "id": "127870",
+            "tipo": null,
+            "titulo": "Audição em 2023-01-11 com Peticionários da Petição n.º 83/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-02-01",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915145",
+                "obs": null,
+                "pag": [
+                  "15-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-02-03",
+                "pubLeg": "XV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/060/2023-02-03/15?pgs=15-17&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2023-02-01",
+              "descricao": "Aprovado por unanimidade na reunião de 1 de fevereiro de 2023, com os votos dos GP PS, PSD, PCP e BE, registando-se a ausência dos GP CH e IL.",
+              "detalhe": null,
+              "id": "104113",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "36",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-11-30",
+        "DataArquivo": "2023-02-01",
+        "DataBaixaComissao": "2022-11-17",
+        "DataEnvioPAR": "2023-02-01",
+        "DataReaberta": "2022-11-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-11-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627939695a574d795a4441355a4330795a6d466a4c545133593249744f474d324f4330334e6a6b774f4759325a574d774e7a59756347526d&fich=bec2d09d-2fac-47cb-8c68-76908f6ec076.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-01-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938335a544933595755785969316a5a5445774c54526b5a574d744f54497a4d69316c5a5467355a446c6a4f474a69595755756347526d&fich=7e27ae1b-ce10-4dec-9232-ee89d9c8bbae.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2022-11-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938314d446c684f4759774d79307a596d51314c5451794d6d55744f4759325a4330354d7a46684d475a684e5759354d6a41756347526d&fich=509a8f03-3bd5-422e-8f6d-931a0fa5f920.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-02-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627939684e6a457a4e7a466a4e43316b5a6a5a6c4c54526a4e7a557459546c69597930334e4449334e3259304f4456694d5455756347526d&fich=a61371c4-df6e-4c75-a9bc-74277f485b15.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-03-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5547563061574e68627938794f5745324d6d5179596930774e4751344c54526d4d5467745954677a5a4330794e475a68595759355957566c4f5451756347526d&fich=29a62d2b-04d8-4f18-a83d-24faaf9aee94.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8334",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-02-01",
+            "dataNomeacao": "2022-11-30",
+            "gp": "PS",
+            "id": "7194",
+            "motivoCessacao": null,
+            "nome": "Rosa Venâncio"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-05-04",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-11-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6a42694d544e6a5a6d51744e4749794e7930304d6d4a684c546b35597a55744e6a646b4e325669597a466c4d6d51774c6e426b5a673d3d&fich=f0b13cfd-4b27-42ba-99c5-67d7ebc1e2d0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "151938",
+      "152767",
+      "152784"
+    ],
+    "Iniciativasoriginadas": [
+      "151938",
+      "152767",
+      "152784"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-05-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-05",
+                "pubLeg": "XV",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados [Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB)]; Altera o Decreto-Lei n.º 57-C/2022, de 6 de setembro, alargando o complemento excecional a pensionistas não residentes em território nacional e aos reformados inseridos em fundos de pensões; Pela aplicação do Decreto-lei n.º 57-C/2022, de 6 de setembro, a todos os reformados, independentemente da entidade pagadora das pensões; Recomenda ao Governo que proceda ao pagamento do montante adicional de 50 % a todos os pensionistas e que proceda à atualização de pensões para os anos de 2023 e 2024, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro.",
+            "Teor": "Apresenta o Projeto de Lei n.º 316/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-05",
+                "pubLeg": "XV",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados [Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB)]; Altera o Decreto-Lei n.º 57-C/2022, de 6 de setembro, alargando o complemento excecional a pensionistas não residentes em território nacional e aos reformados inseridos em fundos de pensões; Pela aplicação do Decreto-lei n.º 57-C/2022, de 6 de setembro, a todos os reformados, independentemente da entidade pagadora das pensões; Recomenda ao Governo que proceda ao pagamento do montante adicional de 50 % a todos os pensionistas e que proceda à atualização de pensões para os anos de 2023 e 2024, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 601/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-05",
+                "pubLeg": "XV",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/58?pgs=58&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados [Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB)]; Altera o Decreto-Lei n.º 57-C/2022, de 6 de setembro, alargando o complemento excecional a pensionistas não residentes em território nacional e aos reformados inseridos em fundos de pensões; Pela aplicação do Decreto-lei n.º 57-C/2022, de 6 de setembro, a todos os reformados, independentemente da entidade pagadora das pensões; Recomenda ao Governo que proceda ao pagamento do montante adicional de 50 % a todos os pensionistas e que proceda à atualização de pensões para os anos de 2023 e 2024, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro.",
+            "Teor": "Ao Deputado Manuel Loff (PCP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-05",
+                "pubLeg": "XV",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados [Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB)]; Altera o Decreto-Lei n.º 57-C/2022, de 6 de setembro, alargando o complemento excecional a pensionistas não residentes em território nacional e aos reformados inseridos em fundos de pensões; Pela aplicação do Decreto-lei n.º 57-C/2022, de 6 de setembro, a todos os reformados, independentemente da entidade pagadora das pensões; Recomenda ao Governo que proceda ao pagamento do montante adicional de 50 % a todos os pensionistas e que proceda à atualização de pensões para os anos de 2023 e 2024, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 616/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-05",
+                "pubLeg": "XV",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/59?pgs=59-61&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados [Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB)]; Altera o Decreto-Lei n.º 57-C/2022, de 6 de setembro, alargando o complemento excecional a pensionistas não residentes em território nacional e aos reformados inseridos em fundos de pensões; Pela aplicação do Decreto-lei n.º 57-C/2022, de 6 de setembro, a todos os reformados, independentemente da entidade pagadora das pensões; Recomenda ao Governo que proceda ao pagamento do montante adicional de 50 % a todos os pensionistas e que proceda à atualização de pensões para os anos de 2023 e 2024, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-05",
+                "pubLeg": "XV",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados [Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB)]; Altera o Decreto-Lei n.º 57-C/2022, de 6 de setembro, alargando o complemento excecional a pensionistas não residentes em território nacional e aos reformados inseridos em fundos de pensões; Pela aplicação do Decreto-lei n.º 57-C/2022, de 6 de setembro, a todos os reformados, independentemente da entidade pagadora das pensões; Recomenda ao Governo que proceda ao pagamento do montante adicional de 50 % a todos os pensionistas e que proceda à atualização de pensões para os anos de 2023 e 2024, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-05",
+                "pubLeg": "XV",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados [Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB)]; Altera o Decreto-Lei n.º 57-C/2022, de 6 de setembro, alargando o complemento excecional a pensionistas não residentes em território nacional e aos reformados inseridos em fundos de pensões; Pela aplicação do Decreto-lei n.º 57-C/2022, de 6 de setembro, a todos os reformados, independentemente da entidade pagadora das pensões; Recomenda ao Governo que proceda ao pagamento do montante adicional de 50 % a todos os pensionistas e que proceda à atualização de pensões para os anos de 2023 e 2024, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-05-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-05-05",
+                "pubLeg": "XV",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados [Sindicato Nacional dos Quadros e Técnicos Bancários (SNQTB)]; Altera o Decreto-Lei n.º 57-C/2022, de 6 de setembro, alargando o complemento excecional a pensionistas não residentes em território nacional e aos reformados inseridos em fundos de pensões; Pela aplicação do Decreto-lei n.º 57-C/2022, de 6 de setembro, a todos os reformados, independentemente da entidade pagadora das pensões; Recomenda ao Governo que proceda ao pagamento do montante adicional de 50 % a todos os pensionistas e que proceda à atualização de pensões para os anos de 2023 e 2024, ao abrigo da Lei n.º 53-B/2006, de 29 de dezembro.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13817",
+    "PetAssunto": "Pela atribuição do complemento excecional a pensionistas a todos os trabalhadores bancários reformados",
+    "PetDataEntrada": "2022-11-14",
+    "PeticoesAssociadas": null,
+    "PetId": "13817",
+    "PetLeg": "XV",
+    "PetNr": "83",
+    "PetNrAssinaturas": "8857",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16342",
+        "obs": null,
+        "pag": [
+          "56-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-05-05",
+        "pubLeg": "XV",
+        "pubNr": "124",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/56?pgs=56-63&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915154",
+        "obs": null,
+        "pag": [
+          "23-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-02",
+        "pubLeg": "XV",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/048/2022-12-02/23?pgs=23&org=PLC"
+      }
+    ]
+  }
+}
