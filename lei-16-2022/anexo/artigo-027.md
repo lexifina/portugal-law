@@ -22,7 +22,7 @@ v) À instalação, a expensas próprias, e à disponibilização de sistemas de
 
 vi) A condições de utilização para as comunicações das autoridades públicas com o público em geral para avisos de ameaças iminentes e para atenuação das consequências de emergências ou de acidentes graves ou catástrofes, bem como a condições de utilização durante emergências ou acidentes graves ou catástrofes, para garantir as comunicações entre os serviços de emergência, as autoridades competentes e os agentes de proteção civil;
 
-vii) Ao pagamento da contribuição financeira, em conformidade com o disposto no artigo 167.º;
+vii) Ao pagamento de taxas, em conformidade com o disposto no artigo 167.º;
 
 viii) À prestação de informações, designadamente em cumprimento dos deveres de comunicação previstos nos artigos 17.º, 170.º e 171.º;
 

@@ -134,21 +134,21 @@ k) A utilização de recursos de numeração sem obtenção do respetivo direito
 
 l) A falta de cooperação com a ARN, em violação do disposto no n.º 3 do artigo 58.º;
 
-m) [Revogada.]
+m) O incumprimento de qualquer das obrigações previstas no artigo 59.º;
 
-n) [Revogada.]
+n) O incumprimento das obrigações previstas nos n.os 1 e 2 do artigo 60.º;
 
-o) [Revogada.]
+o) O incumprimento das medidas previstas nos n.os 1 e 2 do artigo 61.º;
 
-p) [Revogada.]
+p) O incumprimento dos requisitos adicionais previstos nos n.os 1 e 2 do artigo 62.º;
 
-q) [Revogada.]
+q) O incumprimento das determinações impostas pela Comissão ou a oposição ou criação de obstáculos à realização da avaliação de segurança previstas, respetivamente, nos n.os 5 e 7 do artigo 62.º;
 
-r) [Revogada.]
+r) O incumprimento de qualquer das obrigações previstas nos n.os 1, 2 e 4 do artigo 63.º;
 
-s) [Revogada.]
+s) A oposição ou a criação de obstáculos à auditoria prevista no n.º 3 do artigo 63.º;
 
-t) [Revogada.]
+t) O incumprimento das instruções vinculativas previstas no n.º 1 do artigo 64.º;
 
 u) O incumprimento das obrigações previstas nos n.os 1 e 2 do artigo 66.º;
 

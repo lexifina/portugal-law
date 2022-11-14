@@ -6,7 +6,7 @@
 
 a) Verificação, sistemática ou caso a caso, do cumprimento:
 
-i) Da obrigação de pagamento da contribuição financeira que tenha sido determinada nos termos do disposto no artigo 167.º;
+i) Da obrigação de pagamento das taxas administrativas que tenham sido determinadas nos termos do disposto no artigo 167.º;
 
 ii) Da obrigação de utilização eficiente do espectro de radiofrequências;
 
