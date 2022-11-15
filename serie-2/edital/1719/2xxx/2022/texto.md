@@ -1,0 +1,8 @@
+Edital n.º 1719/2022
+Sumário: Consulta pública do projeto de Regulamento de Apoio ao Movimento Associativo da Freguesia da Quinta do Conde.
+Consulta pública do Projeto de Regulamento de Apoio ao Movimento Associativo da Freguesia da Quinta do Conde
+Carlos Alberto Pólvora dos Anjos Cruz, Presidente da Junta de Freguesia da Quinta do Conde, torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 101.º Do Código de Procedimento Administrativo, aprovado pelo anexo ao Decreto-Lei n.º 4/2015 de 7 de janeiro, que a Junta de Freguesia deliberou, na sua reunião realizada em 02 de novembro de 2022, aprovar o Projeto de Regulamento de Apoio ao Movimento Associativo e submeter o mesmo a consulta pública, pelo prazo de trinta dias a contar da data da publicação do presente edital no Diário da República.
+Mais torna público que aquele projeto de regulamento encontra-se disponível para consulta nos serviços da Junta de Freguesia, situados na Av.ª Cova dos Vidros 2975-333 Quinta do Conde, durante as horas normais de expediente (9:00-12:30 e 14:00-17:00), bem como no sítio eletrónico desta Freguesia em https://www.jf-quintadoconde.pt.
+As eventuais sugestões deverão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido ao Presidente da Junta de Freguesia da Quinta do Conde, Avª. Cova dos Vidros 2975-333 Quinta do Conde, utilizando para o efeito o impresso próprio que pode ser obtido na Junta de Freguesia ou na mencionada página da Internet.
+3 de novembro de 2022. - O Presidente da Junta de Freguesia da Quinta do Conde, Carlos Alberto Pólvora dos Anjos Cruz.
+315857585
