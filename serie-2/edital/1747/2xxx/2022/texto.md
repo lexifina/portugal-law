@@ -1,0 +1,14 @@
+Edital n.º 1747/2022
+Sumário: Prorrogação do prazo de elaboração da revisão do Plano Diretor Municipal da Covilhã.
+Vítor Manuel Pinheiro Pereira, Presidente da Câmara Municipal da Covilhã, torna público, que nos termos do disposto no n.º 1 do artigo 76.º e na alínea a) do n.º 4 do artigo 191.º, ambos do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, a Câmara Municipal da Covilhã, em reunião de 23 de setembro de 2022, com abstenção dos Senhores Vereadores Pedro Miguel Santos Farromba, Ricardo Miguel Correia Leitão Ferreira da Silva e Jorge Humberto Martins Simões, deliberou aprovar:
+A suspensão do prazo de elaboração da Revisão do Plano Diretor Municipal da Covilhã por 75 dias, nos termos do n.º 4 do artigo 6.º-B da Lei n.º 1-A/2020, de 19 de março alterada pela Lei n.º 4-B/2021, de 1 de fevereiro e o artigo 4.º do mesmo diploma, conjugados com o artigo 5.º da Lei n.º 13-B/2021, de 5 de abril.
+A prorrogação do prazo de elaboração da Revisão do Plano Diretor Municipal da Covilhã por 24 meses, ao abrigo do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, contados da data de término do prazo inicialmente fixado, estabelecido pelo Edital n.º 788/2020 publicado no Diário da República, 2.ª série, n.º 134 de 13 de julho de 2020, acrescido do prazo de suspensão acima referenciado, ou seja a contar de 26 de setembro de 2022.
+E para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do costume e publicitados nos termos legais.
+3 de outubro de 2022. - O Presidente da Câmara Municipal da Covilhã, Vítor Manuel Pinheiro Pereira.
+Deliberação
+A Câmara deliberou, com a abstenção dos Senhores Vereadores Pedro Miguel Santos Farromba, Ricardo Miguel Correia Leitão Ferreira da Silva e Jorge Humberto Martins Simões, aprovar:
+Suspender o prazo de elaboração da Revisão do Plano Diretor Municipal por 75 dias, nos termos do n.º 4 do artigo 6.º-B da Lei n.º 1-A/2020, de 19 de março alterada pela Lei n.º 4-B/2021, de 1 de fevereiro e o artigo 4.º do mesmo diploma, conjugados com o artigo 5.º da Lei n.º 13-B/2021, de 5 de abril.
+Prorrogar o prazo de elaboração da Revisão do Plano Diretor Municipal por 24 meses, ao abrigo do n.º 6 do artigo 76.º do RJIGT, contados da data do término do prazo inicialmente fixado, acrescido do prazo de suspensão referenciado em a), ou seja, a contar de 26 de setembro próximo.
+Proceder à publicação da deliberação, sob a forma de Edital no Diário da República e divulgação na comunicação social e site institucional, bem como na Plataforma Colaborativa de Gestão Territorial (PCGT), nos termos e para os efeitos descritos no n.º 1 do artigo 76.º e na alínea c) do n.º 4 do artigo 191.º, ambos do RJIGT.
+23 de setembro de 2022. - O Presidente da Câmara Municipal da Covilhã, Vitor Manuel Pinheiro Pereira. - A Diretora do Departamento de Administração Geral e Coordenação Jurídica, Graça Robbins.
+615770582
