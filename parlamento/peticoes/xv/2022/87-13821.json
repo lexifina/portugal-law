@@ -1,0 +1,959 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13821",
+  "numero": "87",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-11-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-01-26",
+            "entidades": null,
+            "id": "127953",
+            "tipo": null,
+            "titulo": "Audição em 2023-01-26 com Peticionários da Petição N.º 87/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-04-26",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915177",
+                "obs": null,
+                "pag": [
+                  "9-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-29",
+                "pubLeg": "XV",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/078/2023-04-29/9?pgs=9-12&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2022-12-07",
+        "DataArquivo": "2023-04-26",
+        "DataBaixaComissao": "2022-11-22",
+        "DataEnvioPAR": "2023-04-27",
+        "DataReaberta": "2022-12-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2022-12-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e515a585270593246764c7a67335a4451334f44417a4c544d354d6d59744e4463344d7931694d3252684c545a6d5a6d526b4e7a49354e5751774d4335775a47593d&fich=87d47803-392f-4783-b3da-6ffdd7295d00.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-04-26",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e515a585270593246764c324d334e32566d4e32466b4c54466d4e7a6b744e44686b4d5330344f574a6d4c544533596a4d784d6a59784f545130595335775a47593d&fich=c77ef7ad-1f79-48d1-89bf-17b31261944a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8333",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-04-26",
+            "dataNomeacao": "2022-12-07",
+            "gp": "PSD",
+            "id": "7335",
+            "motivoCessacao": null,
+            "nome": "Sónia Ramos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-04-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-11-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d4759354d7a63334d6d51744e6a56695a6930304d4746684c546869596a6774595759344d5755324f4745794e3245344c6e426b5a673d3d&fich=0f93772d-65bf-40aa-8bb8-af81e68a27a8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "263568",
+      "263577",
+      "263582",
+      "263560",
+      "263567",
+      "263576",
+      "263586",
+      "263588"
+    ],
+    "Iniciativasoriginadas": [
+      "263568",
+      "263577",
+      "263582",
+      "263560",
+      "263567",
+      "263576",
+      "263586",
+      "263588"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/17"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379696",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece  o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/18"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379697",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/19?pgs=19&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/19"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379698",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/20"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379699",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/21"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379700",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/22"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379701",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379702",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379703",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/25"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379704",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379705",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": "Formulou um pedido de esclarecimento ao deputado Mário Amorim Lopes (IL)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/27"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379706",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": "Respondeu a pedido de esclarecimento do deputado  Rui Tavares (L)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/28"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379707",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/29"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379708",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/30"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379709",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/9/31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379710",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-04-24",
+                "pubLeg": "XVI",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn; Regime de comparticipação para nutrição entérica; Cria um regime especial de comparticipação do Estado no preço dos alimentos para fins medicinais específicos destinados às pessoas que apresentem risco nutricional associado à doença; Estabelece o regime excecional de comparticipação do Estado no preço da nutrição entérica e define que a dispensa destas terapêuticas é feita pelas farmácias comunitárias; Pela comparticipação da dieta completa em pó Modulen IBD para doentes com doença de Crohn; Recomenda ao Governo a avaliação da comparticipação de um suplemento alimentar específico para pessoas com doença de Crohn; Recomenda ao Governo que assegure a comparticipação de suplementos alimentares para pessoas com doença de Crohn; Pelo acesso a produtos não farmacológicos para o tratamento da doença inflamatória do intestino, nomeadamente a doença de Crohn; Recomenda ao Governo a acessibilidade aos cuidados nutricionais no ambulatório.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13821",
+    "PetAssunto": "Comparticipação da dieta completa em pó Modulen IBD para doentes/pacientes com doença de Crohn",
+    "PetDataEntrada": "2022-11-21",
+    "PeticoesAssociadas": null,
+    "PetId": "13821",
+    "PetLeg": "XV",
+    "PetNr": "87",
+    "PetNrAssinaturas": "10510",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36543",
+        "obs": null,
+        "pag": [
+          "18-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-04-24",
+        "pubLeg": "XVI",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/009/2024-04-24/18?pgs=18-30&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915166",
+        "obs": null,
+        "pag": [
+          "19-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-10",
+        "pubLeg": "XV",
+        "pubNr": "51",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/051/2022-12-10/19?pgs=19-21&org=PLC"
+      }
+    ]
+  }
+}
