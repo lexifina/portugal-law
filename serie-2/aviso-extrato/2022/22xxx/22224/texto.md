@@ -1,0 +1,11 @@
+Aviso (extrato) n.º 22224/2022
+Sumário: Prorrogação do prazo para revisão do Plano Diretor Municipal de Vila Nova de Cerveira.
+Prorrogação do prazo para elaboração da 2.ª Revisão ao Plano Diretor Municipal de Vila Nova de Cerveira
+Rui Pedro Teixeira Ferreira da Silva, Presidente da Câmara Municipal de Vila Nova de Cerveira, torna público, que a Câmara Municipal de Vila Nova de Cerveira deliberou, na reunião publica de 30 de dezembro de 2021, determinar a prorrogação do prazo de elaboração da segunda revisão do Plano Diretor Municipal de Vila Nova de Cerveira, por um período máximo igual ao previamente estabelecido (21 meses), publicitado pelo Aviso n.º 6034/2020, publicado no Diário da República 2.ª série, n.º 71, de 9 de abril de 2020, conforme previsto no artigo 76.º, n.º 6 do Decreto-Lei n.º 80/2015, de 14 de maio, designado Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT).
+Para constar, e para os devidos efeitos legais, publica-se o presente Aviso no Diário da República, e procede-se à sua divulgação através da Comunicação Social, na Plataforma Colaborativa de Gestão Territorial e no sítio da Internet da Câmara Municipal de Vila Nova de Cerveira.
+6 de janeiro de 2022. - O Presidente da Câmara Municipal, Rui Pedro Teixeira Ferreira da Silva.
+Prorrogação de prazo de revisão do PDM de Vila Nova de Cerveira - Informação técnica
+Foi presente uma informação dos serviços técnicos de Planeamento e Ordenamento da Câmara Municipal, na qual se realiza o enquadramento do procedimento administrativo de revisão do PDM, bem como se efetua o ordenamento cronológico das várias etapas do processo, concluindo-se pela necessidade de prorrogação do prazo de elaboração da revisão do PDM por um período igual ao inicialmente estabelecido, proposta essa com suporte legal no disposto no artigo 76.º, n.º 6 do Decreto-Lei n.º 80/2015, de 14/05, diploma que aprovou o Regime Jurídico dos Instrumentos de Gestão Territorial.
+A Câmara Municipal deliberou, por unanimidade, aprovar a proposta de prorrogação do prazo de elaboração da revisão do PDM por um período igual ao inicialmente estabelecido.
+Reunião desta Câmara Municipal de Vila Nova de Cerveira de 30 de dezembro de 2021, o Presidente da Câmara Municipal, Rui Pedro Teixeira Ferreira da Silva.
+615837545
