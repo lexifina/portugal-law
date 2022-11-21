@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "270547",
+  "tipo": "Intervenção",
+  "orador": "Rodrigo Saraiva (IL)",
+  "data_registo": "2022-11-21",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "116989",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "152005",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova o Orçamento do Estado para 2023"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "152006",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova a Lei das Grandes Opções para 2022-2026"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Discussão, na especialidade, do artigo 2º da Proposta de Lei nº 38/XV/1.ª (GOV) — Aprova o Orçamento do Estado para 2023, em conjunto com a Proposta de Lei nº 37/XV/1.ª (GOV) — Aprova a Lei das Grandes Opções para 2022-2026.",
+        "duracao": "00:05:41:393",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_11_21_10_00_00_clean_14_plenario.xml&idsegmento=8"
+      }
+    ],
+    "DataReuniaoPlenaria": "2022-11-21",
+    "Debate": "Orçamento de Estado",
+    "Deputados": {
+      "GP": "IL",
+      "idCadastro": "6945",
+      "nome": "Rodrigo Saraiva"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "270547",
+    "IdDebate": "18727",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "270547",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-11-22",
+        "pubLeg": "XV",
+        "pubNr": "56",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/056/2022-11-22/8?pgs=8-9&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Artigo 2.º ",
+    "Sessao": "1",
+    "Sumario": "Aprova a Lei das Grandes Opções para 2022-2026; Orçamento do Estado para 2023.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
