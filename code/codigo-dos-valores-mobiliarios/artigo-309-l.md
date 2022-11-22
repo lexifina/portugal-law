@@ -6,7 +6,7 @@
 
 a) Os instrumentos financeiros produzidos, tendo em conta qualquer acontecimento que possa afetar significativamente o risco potencial para o mercado-alvo identificado;
 
-b) Se o instrumento financeiro continua a ser compatível às necessidades, características e objetivos do mercado-alvo;
+b) Se o instrumento financeiro continua a ser compatível com as necessidades, características e objetivos do mercado-alvo identificado, designadamente atendendo a eventuais objetivos relacionados com sustentabilidade;
 
 c) Se o instrumento financeiro está a ser distribuído pelo mercado-alvo ou clientes a cujas necessidades, características e objetivos o instrumento financeiro é compatível.
 
@@ -44,10 +44,12 @@ viii) Informar a autoridade competente relevante.
 
 3 - Os intermediários financeiros que distribuem instrumentos financeiros junto de clientes acompanham e reveem regularmente os instrumentos financeiros distribuídos, tendo em conta qualquer acontecimento que possa afetar de forma relevante o risco potencial para o mercado-alvo identificado, a fim de avaliar se o instrumento financeiro continua a satisfazer as necessidades do mercado-alvo identificado e se a estratégia de distribuição continua a ser adequada.
 
-4 - Para efeitos do número anterior, os intermediários financeiros devem:
+4 - Para efeitos do número anterior, os intermediários financeiros:
 
-a) Analisar regularmente os instrumentos financeiros que distribuem e os serviços que prestam, tendo em conta qualquer acontecimento que possa afetar de modo relevante o risco potencial para o mercado-alvo identificado, incluindo pelo menos, se o instrumento financeiro ou serviço continua a ser compatível com as necessidades, características e objetivos do mercado-alvo identificado e se a estratégia de distribuição continua a ser adequada;
+a) Analisam regularmente os instrumentos financeiros que distribuem e os serviços que prestam, tendo em conta qualquer acontecimento que possa afetar de modo relevante o risco potencial para o mercado-alvo identificado;
 
-b) Reconsiderar o mercado-alvo ou atualizar a política e procedimentos internos de aprovação da distribuição de instrumentos financeiros se tomarem conhecimento de que identificaram erradamente o mercado-alvo de um instrumento financeiro ou serviço específico ou que estes deixaram de corresponder às características do mercado-alvo identificado, nomeadamente se o instrumento financeiro se tornar ilíquido ou muito volátil devido a alterações no mercado;
+b) Avaliam, pelo menos, se o instrumento financeiro ou serviço continua a ser compatível com as necessidades, características e objetivos do mercado-alvo identificado, incluindo eventuais objetivos relacionados com a sustentabilidade, e se a estratégia de distribuição continua a ser adequada;
 
-c) Analisar e atualizar regularmente a política e procedimentos internos de aprovação da distribuição de instrumentos financeiros, a fim de assegurar que continuam a ser robustos e adequados à sua finalidade, adotando as medidas adequadas sempre que necessário.
+c) Ajustam o mercado-alvo ou atualizam a política e procedimentos internos de aprovação da distribuição de instrumentos financeiros quando tomem conhecimento de que identificaram erradamente o mercado-alvo de um instrumento financeiro ou serviço específico ou que estes deixaram de corresponder às características do mercado-alvo identificado, nomeadamente se o instrumento financeiro se tornar ilíquido ou muito volátil devido a alterações no mercado;
+
+d) Analisam e atualizam regularmente a política e procedimentos internos de aprovação da distribuição de instrumentos financeiros, para manter a sua solidez e adequação, adotando as medidas adequadas sempre que necessário.
