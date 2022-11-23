@@ -8,12 +8,12 @@ a) Exerçam atividade de pesca exclusivamente em águas territoriais portuguesas
 
 b) Não passem mais de 24 horas no mar, contadas desde o momento da partida até ao regresso ao porto.
 
-2 - A isenção prevista no número anterior não é aplicável às embarcações de pesca nacionais que:
+2 - Sem prejuízo das disposições específicas contidas nos planos plurianuais, a isenção prevista no número anterior não é aplicável às embarcações de pesca nacionais que:
 
-a) Exerçam a sua atividade no âmbito de planos plurianuais, definidos no n.º 24 do artigo 4.º do Regulamento (CE) n.º 1224/2009, do Conselho, de 20 de novembro;
+a) Exerçam atividade de pesca dirigida ou acessória de espécies no âmbito do Regulamento (UE) 2016/2336, do Parlamento Europeu e do Conselho, de 14 de dezembro de 2016, e do Regulamento (UE) 2016/1627, do Parlamento Europeu e do Conselho, de 14 de setembro de 2016;
 
 b) Efetuem descargas ou transbordos fora de portos nacionais; ou
 
-c) Detenham uma licença especial de pesca.
+c) (Revogada.)
 
 d) Se encontrem licenciadas para a pesca com arte de cerco.
