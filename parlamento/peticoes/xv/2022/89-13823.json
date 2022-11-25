@@ -1,0 +1,704 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13823",
+  "numero": "89",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2022-11-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-04-26",
+            "entidades": null,
+            "id": "128218",
+            "tipo": null,
+            "titulo": "Audição em 2023-04-26 com 1ºs Subscritores da Petição 89/XV-1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-06-21",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915167",
+                "obs": null,
+                "pag": [
+                  "23-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-24",
+                "pubLeg": "XV",
+                "pubNr": "90",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/090/2023-06-24/23?pgs=23-28&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2023-06-21",
+              "descricao": null,
+              "detalhe": null,
+              "id": "115255",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "46",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-01-10",
+        "DataArquivo": "2023-06-21",
+        "DataBaixaComissao": "2022-12-07",
+        "DataEnvioPAR": "2023-06-23",
+        "DataReaberta": "2023-01-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-01-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e68627938324e6a4a6c4d444d304e69316d596a59314c5451335a6a4d744f4449354e5331684e44417959544179595446694d6d4d756347526d&fich=662e0346-fb65-47f3-8295-a402a02a1b2c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-06-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e686279383059574d314e4452684d7930345a544e6b4c545269596a59744f4456684e433032597a4e6c4d7a63304d324d775a5749756347526d&fich=4ac544a3-8e3d-4bb6-85a4-6c3e3743c0eb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8335",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Ambiente e Energia",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-06-21",
+            "dataNomeacao": "2023-01-10",
+            "gp": "PS",
+            "id": "7194",
+            "motivoCessacao": "Apresentação do Relatório Final",
+            "nome": "Rosa Venâncio"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-06-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2022-12-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d3249355a446333597a59745957526c4e4330304d5449314c546c6b4e3255744e6a566b5a57466a59574d794d6a51304c6e426b5a673d3d&fich=3b9d77c6-ade4-4125-9d7e-65deacac2244.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "263670",
+      "263720",
+      "263775",
+      "263788",
+      "263798"
+    ],
+    "Iniciativasoriginadas": [
+      "263670",
+      "263720",
+      "263775",
+      "263788",
+      "263798",
+      "263839"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 79/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 100/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 123/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 132/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 140/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 154/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Salvem o perímetro florestal das dunas de Ovar (Movimento 2030);  Pela proteção do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo a manutenção e valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo medidas para a salvaguarda do perímetro florestal das dunas de Ovar; Recomenda a proteção e a valorização do perímetro florestal das dunas de Ovar; Recomenda ao Governo que reveja o plano de ordenamento florestal do perímetro florestal das dunas de Ovar.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13823",
+    "PetAssunto": "Salvem o Perímetro Florestal das Dunas de Ovar",
+    "PetDataEntrada": "2022-11-25",
+    "PeticoesAssociadas": null,
+    "PetId": "13823",
+    "PetLeg": "XV",
+    "PetNr": "89",
+    "PetNrAssinaturas": "18877",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36547",
+        "obs": null,
+        "pag": [
+          "39-47"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-06-22",
+        "pubLeg": "XVI",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/39?pgs=39-47&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915169",
+        "obs": null,
+        "pag": [
+          "22-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-01-14",
+        "pubLeg": "XV",
+        "pubNr": "57",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/057/2023-01-14/22?pgs=22-23&org=PLC"
+      }
+    ]
+  }
+}
