@@ -1,0 +1,134 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Resolução",
+  "numero": "302",
+  "id": "152091",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2022-11-25",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1594",
+        "nome": "Maria Antónia de Almeida Santos"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5933",
+        "nome": "Carla Sousa"
+      },
+      {
+        "GP": "L",
+        "idCadastro": "7337",
+        "nome": "Rui Tavares"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7015",
+        "nome": "Cristina Mendes da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4452",
+        "nome": "Isabel Alves Moreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6956",
+        "nome": "Sara Velez"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6543",
+        "nome": "Alexandra Leitão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7046",
+        "nome": "Joana Sá Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5759",
+        "nome": "Lina Lopes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6962",
+        "nome": "Susana Correia"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7349",
+        "nome": "Patrícia Gilvaz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6899",
+        "nome": "Marta Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5831",
+        "nome": "Diogo Leão"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "6875",
+        "nome": "Carla Castro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      },
+      {
+        "GP": "PAN",
+        "idCadastro": "6864",
+        "nome": "Inês de Sousa Real"
+      },
+      {
+        "GP": "IL",
+        "idCadastro": "7331",
+        "nome": "Rui Rocha"
+      }
+    ],
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "152091",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338305a6d4d7a4e7a55784e7930354e54426c4c5452694d444d744f54466a4e533079595459324e6a55324d6a63324f446b755a47396a65413d3d&fich=4fc37517-950e-4b03-91c5-2a6665627689.docx&Inline=true",
+    "IniNr": "302",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Contra os atos de violência sexual cometidos no quadro do conflito armado na Ucrânia",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
