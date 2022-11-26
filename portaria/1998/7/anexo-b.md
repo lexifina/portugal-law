@@ -2,4 +2,4 @@
 
 ### Tabela de pontuação
 
-Ver documento original
+(ver documento original)
