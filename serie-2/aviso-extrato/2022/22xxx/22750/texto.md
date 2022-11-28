@@ -1,0 +1,10 @@
+Aviso (extrato) n.º 22750/2022
+Sumário: Projeto do Regulamento Geral de Preços do Município de Miranda do Corvo.
+Projeto do Regulamento Geral de Preços do Município de Miranda do Corvo
+António Miguel Costa Baptista, Presidente da Câmara Municipal de Miranda do Corvo, torna público que a Câmara Municipal de Miranda do Corvo, em reunião de 10 de novembro de 2022, deliberou aprovar o Projeto do Regulamento Geral de Preços do Município de Miranda do Corvo.
+Mais faz saber que, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, em cumprimento e para efeitos do disposto no artigo 56.º do mesmo diploma legal, é submetido a consulta pública, o Projeto do Regulamento Geral de Preços do Município de Miranda do Corvo, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, durante o prazo de 30 dias a contar da data da publicação de Aviso em 2.ª série do Diário da República.
+O projeto ora aprovado, será divulgado no sítio do Município de Miranda do Corvo, por afixação de Edital nos Paços do Concelho e demais lugares de estilo.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo.
+Os contributos deverão ser dirigidos ao Presidente da Câmara Municipal, remetidos via CTT para a Câmara Municipal de Miranda do Corvo, ou entregues pessoalmente no Balcão de atendimento da Câmara Municipal ou ainda remetidos via correio eletrónico, para o seguinte endereço: camara@cm-mirandadocorvo.pt devendo os interessados colocar, como «Assunto», o seguinte texto: «Apresentação de Sugestões - Projeto de Regulamento Geral dos Preços do Município de Miranda do Corvo».
+11 de novembro de 2022. - O Presidente de Câmara Municipal, António Miguel Costa Baptista.
+315874198
