@@ -1,0 +1,8 @@
+Aviso n.º 22858/2022
+Sumário: Projeto do regulamento e tabela de taxas e licenças da União das Freguesias de São Miguel do Pinheiro, São Pedro de Sólis e São Sebastião dos Carros.
+Regulamento e tabela de taxas e licenças da União das Freguesias de São Miguel do Pinheiro, São Pedro de Sólis e São Sebastião dos Carros
+António José Alves Peleija, Presidente da União das Freguesias de São Miguel do Pinheiro, São Pedro de Sólis e São Sebastião dos Carros, torna público que, por deliberação da Junta de Freguesia, tomada em reunião extraordinária de 2 de novembro do corrente ano e para efeitos do disposto no n.º 1 do artigo 100.º e artigo 101.º do Código do Procedimento Administrativo (aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro), se submete a consulta pública, pelo prazo de 30 dias a contar da data de publicação do presente aviso, o Regulamento e Tabela de Taxas e Licenças da União das Freguesias de São Miguel do Pinheiro, São Pedro de Sólis, São Sebastião dos Carros.
+Durante este período poderão os/as interessados/as consultar o mencionado projeto de Regulamento, através da página eletrónica da Junta de Freguesia (https://uf-smpspsssc.pt) e a porta da sede onde estará disponível.
+Os/as interessados/as, no decurso desse prazo, poderão apresentar as sugestões, por escrito, dirigidas ao Senhor Presidente da Junta de Freguesia, para o seguinte endereço: Rua do Moinho, n.º 2, Apartado 4507, 7750-628 S. Miguel do Pinheiro, ou através de correio eletrónico para uniao.freguesias.geral@sapo.pt.
+7 de novembro de 2022. - O Presidente da União de Freguesias, António José Alves Peleija.
+315855243
