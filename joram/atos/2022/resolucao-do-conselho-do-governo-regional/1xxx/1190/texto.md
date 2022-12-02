@@ -1,0 +1,20 @@
+# Resolução do Conselho do Governo Regional n.º 1190/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 215/2022, 2.º suplemento, de 2022-12-02
+
+**Sumário:** Determina a manutenção da execução do contrato-programa celebrado entre a Região Autónoma da Madeira, através do Instituto de Administração da Saúde, IP-RAM e a ACIF - Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira, a 18 de junho de 2021, na sua atual redação, até a sua duração máxima, 31 de dezembro de 2022.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1190/2022
+Sumário: Determina a manutenção da execução do contrato-programa celebrado entre a Região Autónoma da Madeira, através do Instituto de Administração da Saúde, IP-RAM e a ACIF - Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira, a 18 de junho de 2021, na sua atual redação, até a sua duração máxima, 31 de dezembro de 2022.
+Texto: Resolução n.º 1190/2022 Considerando que no âmbito da prevenção, contenção e mitigação da doença Covid-19, foi celebrado um contrato programa entre a Região Autónoma da Madeira, através do Instituto de Administração da Saúde, IP-RAM e a ACIF - Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira, a 18 de junho de 2021, sujeito a sucessivas alterações, para a definição do processo de cooperação financeira para a promoção e coordenação de testagem por testes rápidos de antigénio (TRAg), para a SARS-CoV-2, aos cidadãos residentes na RAM e aos turistas/visitantes durante a sua estadia na Região, entre outros beneficiários; Considerando que, face à evolução positiva da situação epidemiológica da COVID-19, não foi renovada a declaração de situação de alerta na Região Autónoma da Madeira ao abrigo do Decreto Legislativo Regional n.º 16/2009/M, de 30 de junho, que aprova o regime jurídico do Sistema de Proteção Civil da Região Autónoma da Madeira, tendo a mesma terminado a 30 de setembro de 2022; Considerando que o Governo Regional entende ser prudente manter, pelo menos, até ao final do corrente ano, o direito à população residente e visitante de efetuar gratuitamente o teste TRAg de despiste de infeção por SARS-CoV-2, quando se apresentem com temperatura corporal igual ou superior a 38.ºC, a realizar nas entidades aderentes ao contrato-programa estabelecido, independentemente do seu estado vacinal, de modo a monitorizar a doença COVID-19 e a sua não propagação pela população; Considerando que compete ao Governo Regional implementar medidas de promoção e salvaguarda da saúde pública à população e que contribuam para a prevenção da doença COVID-19. O Conselho do Governo reunido em plenário em 30 de novembro de 2022, resolve:
+1- Determinar a manutenção da execução do contrato-programa celebrado entre a Região Autónoma da Madeira, através do Instituto de Administração da Saúde, IP-RAM e a ACIF - Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira, a 18 de junho de 2021, na sua atual redação, até a sua duração máxima, 31 de dezembro de 2022.
+
+2- Determinar, consequentemente, e nos termos do contrato-programa mencionado no número anterior, a manutenção do direito à população residente e visitante a efetuar gratuitamente o teste TRAg de despiste de infeção por SARS-CoV-2, nas seguintes situações: a) Quando apresentem temperatura corporal igual ou superior a 38.ºC; b) Ao 5.º dia para adultos com esquema de vacinação incompleta ou não vacinados que tenham tido contacto direto com casos positivos, independentemente de se tratar de profissionais, residentes ou visitas dos setores da saúde, educação, social e ERPIS; c) Ao 5.º dia para crianças e jovens até aos 17 anos de idade coabitantes de caso positivo, independentemente do seu esquema vacinal.
+
+3- A presente Resolução tem efeitos retroagidos a 1 de outubro de 2022.
+
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, no exercício da Presidência, Jorge Maria Abreu de Carvalho
