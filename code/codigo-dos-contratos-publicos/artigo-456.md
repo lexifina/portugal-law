@@ -13,3 +13,5 @@ c) A não apresentação de documentos comprovativos da titularidade de habilita
 d) A apresentação de documentos falsos de habilitação, de documentos que constituem a proposta e de documentos destinados à qualificação;
 
 e) A prestação de falsas declarações no decurso da fase de formação do contrato por qualquer candidato ou concorrente.
+
+f) A contratação de trabalhadores em violação do disposto no artigo 419.º-A.

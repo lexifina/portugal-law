@@ -8,9 +8,9 @@
 
 3 - Nos contratos em que não haja obrigações de correcção de defeitos pelo co-contratante, designadamente obrigações de garantia, o contraente público deve promover a liberação integral da caução destinada a garantir o exacto e pontual cumprimento das obrigações contratuais no prazo de 30 dias após o cumprimento de todas as obrigações do co-contratante.
 
-4 - Nos contratos em que haja obrigações de correcção de defeitos pelo co-contratante, designadamente obrigações de garantia, sujeitas a um prazo igual ou inferior a dois anos, o contraente público deve promover a liberação integral da caução destinada a garantir o exacto e pontual cumprimento das obrigações contratuais no prazo de 30 dias após o termo do respectivo prazo.
+4 - Nos contratos em que haja obrigações de correção de defeitos pelo cocontratante, designadamente obrigações de garantia, sujeitas a um prazo igual ou inferior a três anos, o contraente público deve promover a liberação integral da caução destinada a garantir o exato e pontual cumprimento das obrigações contratuais no prazo de 30 dias após o termo do respetivo prazo.
 
-5 - Nos contratos referidos no número anterior em que o prazo aí referido das obrigações de correção de defeitos seja superior a dois anos, o contraente público promove a liberação da caução destinada a garantir o exato e pontual cumprimento das obrigações contratuais, nos seguintes termos:
+5 - Nos contratos referidos no número anterior em que o prazo aí referido das obrigações de correção de defeitos seja superior a três anos, o contraente público promove a liberação da caução destinada a garantir o exato e pontual cumprimento das obrigações contratuais, nos seguintes termos:
 
 a) No final do primeiro ano, 30 % do valor da caução;
 

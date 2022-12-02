@@ -16,7 +16,7 @@ b) Que sejam apresentadas por concorrentes em violação do disposto no n.º 2 d
 
 c) Que sejam apresentadas por concorrentes relativamente aos quais ou, no caso de agrupamentos concorrentes, relativamente a qualquer dos seus membros, a entidade adjudicante tenha conhecimento que se verifica alguma das situações previstas no artigo 55.º;
 
-d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto nos n.os 1 e 2 do artigo 57.º;
+d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto nos n.os 1 e 2 do artigo 57.º e no n.º 1 do artigo 57.º-A;
 
 e) Que não cumpram o disposto nos n.os 4 e 5 do artigo 57.º ou nos n.os 1 e 2 do artigo 58.º;
 

@@ -22,7 +22,7 @@ c) A conciliação da vida profissional com a vida familiar e pessoal de todos o
 
 d) A inclusão de pessoas com deficiência no mercado de trabalho;
 
-e) A valorização da economia local e regional;
+e) (Revogada.)
 
 f) A promoção da economia circular e dos circuitos curtos de distribuição;
 
@@ -49,3 +49,5 @@ l) O combate ao trabalho precário.
 11 - Para efeito do disposto nos n.os 3 e 5, consideram-se aspetos submetidos à concorrência aqueles que correspondam a fatores ou subfatores que densificam o critério de adjudicação, e aspetos não submetidos à concorrência todos os demais.
 
 12 - A inclusão no caderno de encargos das condições elencadas no n.º 6 pode contemplar, nomeadamente, a fixação de quantidades mínimas de fornecimento de bens ou de prestação de serviços destinadas à promoção desses objetivos.
+
+13 - Os cadernos de encargos dos procedimentos de formação de contratos de concessão de obras públicas, de concessão de serviços públicos e de aquisição de serviços devem incluir uma cláusula determinando a obrigatoriedade de cumprimento do disposto no artigo 419.º-A.

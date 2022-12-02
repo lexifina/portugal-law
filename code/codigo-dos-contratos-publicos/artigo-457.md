@@ -11,3 +11,5 @@ b) A não comparência do adjudicatário no dia, na hora e no local fixados para
 c) A não remessa do contrato assinado eletronicamente, no prazo fixado pelo órgão competente para a decisão de contratar, em violação do disposto no n.º 3 do artigo 104.º;
 
 d) No caso de o adjudicatário ser um agrupamento, o facto de os seus membros não se associarem, antes da celebração do contrato, na modalidade jurídica prevista no programa do procedimento, em violação do disposto no n.º 4 do artigo 54.º
+
+e) O não suprimento de irregularidades das candidaturas ou propostas, no prazo fixado para o efeito, em violação do disposto no n.º 3 do artigo 72.º
