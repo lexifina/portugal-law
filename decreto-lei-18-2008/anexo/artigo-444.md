@@ -10,4 +10,4 @@
 
 4 - Para além das obrigações que resultam para o fornecedor do disposto nos números anteriores, pode o contrato estipular uma obrigação de garantia, cujas condições concretas, designadamente as respeitantes ao respectivo prazo e às obrigações do fornecedor, são fixadas no contrato, sendo aplicável nesta matéria o disposto na lei a que se refere o n.º 1.
 
-5 - O prazo da garantia a que se refere o número anterior não deve exceder dois anos, podendo ser superior quando, tratando-se de aspecto da execução do contrato submetido à concorrência pelo caderno de encargos, o fornecedor o tenha proposto.
+5 - O prazo da garantia a que se refere o número anterior não deve exceder três anos, podendo ser superior quando, tratando-se de aspeto da execução do contrato submetido à concorrência pelo caderno de encargos, o fornecedor o tenha proposto.

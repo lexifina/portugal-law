@@ -10,7 +10,7 @@
 
 2 - São excluídas as propostas cuja análise revele:
 
-a) Que não apresentam algum dos atributos ou algum dos termos ou condições, nos termos, respetivamente, do disposto nas alíneas b) e c) do n.º 1 do artigo 57.º;
+a) Que desrespeitam manifestamente o objeto do contrato a celebrar, ou que não apresentam algum dos atributos ou algum dos termos ou condições, nos termos, respetivamente, do disposto nas alíneas b) e c) do n.º 1 do artigo 57.º;
 
 b) Que apresentam algum dos atributos que violem os parâmetros base fixados no caderno de encargos ou que apresentem quaisquer termos ou condições que violem aspetos da execução do contrato a celebrar por aquele não submetidos à concorrência, sem prejuízo do disposto nos n.os 10 a 12 do artigo 49.º;
 

@@ -4,9 +4,9 @@
 
 1 - Qualquer que seja o objecto do contrato a celebrar, pode adoptar-se o ajuste directo quando:
 
-a) Em anterior concurso público ou concurso limitado por prévia qualificação, nenhum candidato se haja apresentado ou nenhum concorrente haja apresentado proposta, e desde que o caderno de encargos e, se for o caso, os requisitos mínimos de capacidade técnica e financeira não sejam substancialmente alterados em relação aos daquele concurso;
+a) Em anterior concurso público ou concurso limitado por prévia qualificação, nenhum concorrente tenha apresentado proposta, todas as propostas tenham sido excluídas com fundamento na primeira parte da alínea a) do n.º 2 do artigo 70.º, nenhum candidato se haja apresentado, ou todas as candidaturas tenham sido excluídas com fundamento nas alíneas c), j) ou l) do n.º 2 do artigo 184.º;
 
-b) Em anterior concurso público ou concurso limitado por prévia qualificação, todas as propostas apresentadas tenham sido excluídas, desde que o caderno de encargos não seja substancialmente alterado em relação ao daquele concurso;
+b) Em anterior concurso público ou concurso limitado por prévia qualificação para a formação de contratos de valor inferior aos limiares referidos nos n.os 2, 3 ou 4 do artigo 474.º, consoante o caso, todas as propostas ou todas as candidaturas tenham sido excluídas;
 
 c) Na medida do estritamente necessário e por motivos de urgência imperiosa resultante de acontecimentos imprevisíveis pela entidade adjudicante, não possam ser cumpridos os prazos inerentes aos demais procedimentos, e desde que as circunstâncias invocadas não sejam, em caso algum, imputáveis à entidade adjudicante;
 
@@ -22,23 +22,17 @@ iii) Seja necessário proteger direitos exclusivos, incluindo direitos de propri
 
 f) (Revogada.)
 
-2 - Para efeitos do disposto nas alíneas a) e b) do n.º 1, considera-se que o caderno de encargos e os requisitos mínimos de capacidade técnica e financeira são substancialmente alterados quando as alterações sejam susceptíveis de impedir a verificação das situações previstas nessas alíneas, nomeadamente quando sejam modificados os parâmetros base fixados no caderno de encargos.
+2 - Nos casos previstos nas alíneas a) e b) do n.º 1:
 
-3 - Para efeitos do disposto na alínea a) do n.º 1:
+a) O convite à apresentação de propostas e o caderno de encargos do ajuste direto não podem ser substancialmente alterados em relação ao programa do procedimento e ao caderno de encargos do anterior concurso;
 
-a) A decisão de escolha do ajuste direto só pode ser tomada no prazo de seis meses a contar do termo do prazo fixado para a apresentação de candidatura ou proposta, caducando se, durante esse prazo, não for formulado convite à apresentação de proposta;
+b) A decisão de escolha do ajuste direto só pode ser tomada no prazo de seis meses a contar do termo do prazo fixado para a apresentação de candidaturas ou de propostas ou da decisão de exclusão de todas as candidaturas ou propostas, caducando se, durante esse prazo, não for formulado convite à apresentação de proposta.
 
-b) As entidades adjudicantes devem comunicar à Comissão Europeia, a pedido desta, um relatório relativo aos contratos celebrados ao seu abrigo.
+3 - Para efeitos do disposto na alínea a) do número anterior, considera-se que o convite à apresentação de propostas e o caderno de encargos do ajuste direto são substancialmente alterados quando as alterações tivessem sido suscetíveis de impedir a falta de apresentação ou a exclusão de todas as candidaturas ou de todas as propostas no anterior concurso, nomeadamente por envolverem a modificação de aspetos da execução do contrato ou de requisitos mínimos de capacidade técnica e financeira.
 
-4 - Para efeitos do disposto na alínea b) do n.º 1:
+4 - As entidades adjudicantes devem comunicar à Comissão Europeia, a pedido desta, um relatório relativo aos contratos celebrados ao abrigo da alínea a) do n.º 1.
 
-a) A decisão de escolha do ajuste direto só pode ser tomada no prazo de seis meses a contar da decisão de exclusão de todas as propostas apresentadas, caducando se, durante esse prazo, não for formulado convite à apresentação de proposta;
-
-b) Se o anúncio do anterior concurso tiver sido publicado no Jornal Oficial da União Europeia, devem ser convidados todos e exclusivamente os concorrentes cujas propostas tenham sido excluídas apenas com fundamento no n.º 2 do artigo 70.º;
-
-c) Se o anúncio do anterior concurso não tiver sido publicado no Jornal Oficial da União Europeia, a escolha da entidade convidada a apresentar proposta cabe ao órgão competente para a decisão de contratar.
-
-5 - O disposto nas alíneas a) e b) do n.º 1 é também aplicável nos casos em que a falta de apresentação de candidaturas ou propostas ou a exclusão de todas as propostas apresentadas, consoante o caso, se verifique em relação a algum dos lotes em que se houvesse desdobrado o anterior concurso.
+5 - O disposto nas alíneas a) e b) do n.º 1 é também aplicável nos casos em que a falta de apresentação ou a exclusão de todas as candidaturas ou propostas se verifique em relação a algum dos lotes em que se houvesse desdobrado o anterior concurso.
 
 6 - Para efeitos do disposto na subalínea i) da alínea e) do n.º 1, incluem-se todos os bens, serviços ou obras conexos com a obra ou o espetáculo a adquirir, designadamente:
 
