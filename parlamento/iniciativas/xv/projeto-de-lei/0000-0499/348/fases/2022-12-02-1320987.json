@@ -1,0 +1,172 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "348",
+    "id": "152008",
+    "titulo": "Aprova o regime específico relativo à reparação dos danos emergentes de acidentes de trabalho dos praticantes desportivos profissionais"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2022-12-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "63223",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2023-03-01",
+            "id": "128025",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-03-08",
+            "id": "128042",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-03-15",
+            "id": "128082",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-12-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-01-26",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Ofício autorização PAR - prorrogação por mais 60 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249784d7a41304e5459354c546c6b4e7a63744e4745335a433034595759774c574e6a5a4445344e4441315954417a4e7935775a47593d&fich=b1304569-9d77-4a7d-8af0-ccd18405a037.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração do GP CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249314e6d557a4e574e684c57466a4d5451744e47566c4d4330345a47526d4c5759785a6a637a595445315a4441345a4335775a47593d&fich=b56e35ca-ac14-4ee0-8ddf-f1f73a15d08d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3256684d6d517a4d544a6c4c5459794d6d49744e444532596931684d546b304c544d345a6d4d345a5759784f474d794d4335775a47593d&fich=ea2d312e-622b-416b-a194-38fc8ef18c20.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de Alteração do GP PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5135595445334d446c6d4c54426a5a4755744e445a6c4f533035596a566c4c546b794e6a6b344f54686d596d466a4f4335775a47593d&fich=49a1709f-0cde-46e9-9b5e-9269898fbac8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251334d7a41774f44646b4c5467314d5455744e4445344f5330355a5467344c544d304d4755774d7a686a4d4745304e4335775a47593d&fich=d730087d-8515-4189-9e88-340e038c0a44.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Propostas de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a46685a5449304e6d45794c574930596a51744e4456694e6930354e6d46684c544e695a575a6c4d7a49325a5449784e4335775a47593d&fich=1ae246a2-b4b4-45b6-96aa-3befe326e214.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55774d6a59794e546b324c5451354e3251744e4467354e5331684d6d59354c574a6b5932526b59545a694e6a49334e7935775a47593d&fich=50262596-497d-4895-a2f9-bdcdda6b6277.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d305a5752694f4745304c5449324f4759744e44466c5a6931694e7a41334c5745794e47526c4e7a63334d6d566d4e5335775a47593d&fich=34edb8a4-268f-41ef-b707-a24de7772ef5.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8334",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8334",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-06-28",
+            "dataRemessa": "2023-06-28",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-12-02",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1320987",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996327",
+        "obs": "Relatório da discussão e votação  especialidade e texto final",
+        "pag": [
+          "6-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-06-28",
+        "pubLeg": "XV",
+        "pubNr": "250",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/250/2023-06-28/6?pgs=6-16&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
