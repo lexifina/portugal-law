@@ -22,7 +22,7 @@ d) Uma lista dos ensaios realizados, acompanhados de uma referência ao respecti
 
 6 - O certificado de exame «CE» de tipo deve ser revisto sempre que necessário, sobretudo em caso de alteração do processo de fabrico, das matérias-primas ou dos componentes do brinquedo, e, sistematicamente, de cinco em cinco anos.
 
-7 - O certificado de exame «CE» de tipo deve ser retirado se o brinquedo não cumprir os requisitos previstos no artigo 13.º e no anexo ii ao presente decreto-lei.
+7 - O certificado de exame «CE» de tipo deve ser retirado se o brinquedo não cumprir os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
 
 8 - Os organismos notificados não podem conceder certificados de exame «CE» de tipo a brinquedos relativamente aos quais se tenha recusado ou retirado um certificado.
 

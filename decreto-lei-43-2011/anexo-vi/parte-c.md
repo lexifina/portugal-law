@@ -1,7 +1,3 @@
-## Anexo VI
-
-## Requisitos, procedimentos e obrigações dos organismos notificados
-
 # Parte C
 
 ### Pedido de notificação

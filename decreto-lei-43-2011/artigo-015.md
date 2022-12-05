@@ -8,6 +8,6 @@
 
 3 - Os avisos devem ser precedidos do termo «Atenção» ou «Avisos».
 
-4 - Os avisos que determinem a decisão de compra, como os que especifiquem as idades mínimas e máximas dos utilizadores, e os restantes avisos aplicáveis referidos no anexo iii ao presente decreto-lei, devem ser afixados na embalagem ou ser bem visíveis para que o consumidor possa lê-los antes da compra.
+4 - Os avisos que determinem a decisão de compra, como os que especifiquem as idades mínimas e máximas dos utilizadores, e os restantes avisos aplicáveis referidos no anexo II à portaria a que se refere o artigo 40.º-A, devem ser afixados na embalagem ou ser bem visíveis para que o consumidor possa lê-los antes da compra.
 
 5 - O previsto no número anterior aplica-se, também, quando a compra é efectuada através da Internet.
