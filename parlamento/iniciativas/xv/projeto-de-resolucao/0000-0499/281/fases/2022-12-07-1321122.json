@@ -1,0 +1,690 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "281",
+    "id": "152044",
+    "titulo": "Apreciação do Relatório sobre “Portugal na União Europeia, 2021”"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2022-12-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "19079",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2022-12-07",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2022-12-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Secretário de Estado dos Assuntos Europeus",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Tiago Antunes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291401",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/58?pgs=58-60&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1735",
+                "nome": "João Paulo Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291402",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7015",
+                "nome": "Cristina Mendes da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291403",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "271",
+                "nome": "José Silvano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=66"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291404",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/63?pgs=63&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6935",
+                "nome": "Isabel Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=67"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291405",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/64?pgs=64&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=68"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291406",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/64?pgs=64-66&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7393",
+                "nome": "Bernardo Blanco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=69"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291407",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=70"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291408",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/67?pgs=67&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=71"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=72"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=73"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:12",
+            "horaTermo": "19:28",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_07_15_00_00_clean_14_plenario.xml&idsegmento=74"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "Secretário de Estado dos Assuntos Europeus",
+              "governo": "XXIII GOVERNO CONSTITUCIONAL",
+              "nome": "Tiago Antunes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "291412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-12-09",
+                "pubLeg": "XV",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/71?pgs=71-74&org=PLC"
+              }
+            ],
+            "sumario": "Relatório anual, enviado pelo Governo, sobre a participação de Portugal no processo de construção da União Europeia [ao abrigo da alínea c) do n.º 1 do artigo 4.º e do n.º 4 do artigo 5.º da Lei do acompanhamento, apreciação e pronúncia pela Assembleia da República; Apreciação do relatório sobre «Portugal na União Europeia, 2021».",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1321122",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "973651",
+        "obs": null,
+        "pag": [
+          "58-74"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-09",
+        "pubLeg": "XV",
+        "pubNr": "63",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/063/2022-12-09/58?pgs=58-74&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
