@@ -28,6 +28,8 @@ b) A competência para aplicação das coimas e sanções acessórias pertence a
 
 a) O levantamento e a notificação de auto de contraordenação, na sequência da participação, denúncia ou conhecimento próprio de contraordenação rodoviária;
 
-b) O levantamento e notificação de auto de contraordenação cujos factos constitutivos sejam conhecidos através de meios telemáticos de fiscalização automática.
+b) O levantamento e notificação de auto de contraordenação cujos factos constitutivos sejam conhecidos através de meios automáticos de fiscalização.
 
 7 - A competência para o processamento e aplicação de coimas nas contraordenações rodoviárias por infrações leves relativas a estacionamento proibido, indevido ou abusivo nos parques ou zonas de estacionamento, nas vias e nos demais espaços públicos quer dentro das localidades, quer fora das localidades, neste caso desde que estejam sob jurisdição municipal, é da respetiva câmara municipal.
+
+8 - Para efeitos do disposto na alínea b) do n.º 6, consideram-se meios automáticos de fiscalização os instrumentos de medição da velocidade instantânea ou da velocidade média, fixos ou móveis, e os demais sistemas que integram a Rede Nacional de Fiscalização Automática de Velocidade (SINCRO), com exceção dos sistemas de videovigilância para captação, gravação e tratamento de imagem e som.

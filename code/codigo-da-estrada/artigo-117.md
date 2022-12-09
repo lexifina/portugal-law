@@ -16,7 +16,7 @@
 
 5 - Os veículos a motor e os reboques que devam ser apresentados a despacho nas alfândegas pelas entidades que se dediquem à sua admissão, importação, montagem ou fabrico podem delas sair com dispensa de matrícula, nas condições fixadas em diploma próprio.
 
-6 - O processo de atribuição de matrícula, a composição do respetivo número, bem como as características da respetiva chapa e, quando haja adesão voluntária do proprietário do veículo nesse sentido, do dispositivo eletrónico de matrícula, são fixados nos termos previstos em regulamentos.
+6 - O processo de atribuição de matrícula, a composição do respetivo número, bem como as características da respetiva chapa são fixados nos termos previstos em regulamentos.
 
 7 - A entidade competente deve organizar, nos termos fixados em regulamento, um registo nacional de matrículas.
 

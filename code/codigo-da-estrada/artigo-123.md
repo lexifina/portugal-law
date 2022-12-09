@@ -8,11 +8,11 @@
 
 3 - Quem conduzir veículos de qualquer categoria ou tipo de veículo para os quais a respetiva carta de condução não confira habilitação é sancionado:
 
-a) Com coima de (euro) 120 a (euro) 600, se for apenas titular de b) Com coima de (euro) 700 a (euro) 3500, se for apenas titular de carta de condução da categoria AM ou A1;
+a) Com coima de (euro) 120 a (euro) 600, se for apenas titular de carta de condução da categoria T;
 
-c) Com coima de (euro) 500 a (euro) 2500, se for apenas titular de carta de condução carta de condução da categoria T;
+b) Com coima de (euro) 700 a (euro) 3500, se for apenas titular de carta de condução da categoria AM ou A1;
 
-de uma das categorias não previstas nas alíneas anteriores.
+c) Com coima de (euro) 500 a (euro) 2500, se for apenas titular de carta de condução de uma das categorias não previstas nas alíneas anteriores.
 
 4 - [Revogado.]
 

@@ -8,7 +8,7 @@ a) Nome completo ou, quando se trate de pessoa colectiva, denominação social;
 
 b) Domicílio fiscal;
 
-c) Número do documento legal de identificação pessoal, data e respectivo serviço emissor ou, quando se trate de pessoa colectiva, do número de pessoa colectiva;
+c) Número do documento legal de identificação pessoal, data e respetivo serviço emissor e número de identificação fiscal;
 
 d) Número do título de condução e respectivo serviço emissor;
 
