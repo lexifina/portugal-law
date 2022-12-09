@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "74",
+    "id": "121467",
+    "titulo": "Regula as condições em que a morte medicamente assistida não é punível, e altera o Código Penal"
+  },
+  "fase": "Requerimento de adiamento de Votação",
+  "codigo_fase": "244",
+  "data_registo": "2022-12-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338354e4751794d5449335a6931684d6a63344c5451794e5449744f545a6d4d53316c5a4759354d7a4d7a593259775a474d756347526d&fich=94d2127f-a278-4252-96f1-edf9333cf0dc.pdf&Inline=true",
+        "anexoNome": "Requerimento do PSD"
+      }
+    ],
+    "CodigoFase": "244",
+    "Comissao": null,
+    "DataFase": "2022-12-09",
+    "EvtId": "140",
+    "Fase": "Requerimento de adiamento de Votação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1321239",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "972902",
+        "obs": null,
+        "pag": [
+          "61-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-10",
+        "pubLeg": "XV",
+        "pubNr": "64",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/064/2022-12-10/61?pgs=61&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2022-12-09",
+        "descricao": "Requerimento, apresentado pelo PSD, solicitando o adiamento por uma semana da votação final global do Texto Final apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos Projetos de Lei n.ºs 5/XV/1.ª (BE); 74/XV/1.ª (PS); 83/XV/1.ª (PAN) e 111/XV/1.ª (IL)",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I>, <I> IL</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> PCP</I>",
+        "id": "103714",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "63",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
