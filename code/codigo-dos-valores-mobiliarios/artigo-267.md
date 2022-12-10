@@ -8,6 +8,8 @@ a) As instituições de crédito, as empresas de investimento e as instituiçõe
 
 b) As entidades públicas e as empresas que beneficiem de garantia do Estado.
 
+c) Os membros compensadores de uma contraparte central autorizada nos termos da legislação da União Europeia.
+
 2 - Existe participação indirecta sempre que uma instituição, uma contraparte central, um agente de liquidação, uma câmara de compensação ou um operador de sistema estabeleçam uma relação contratual com um participante num sistema que execute ordens de transferência, permitindo essa relação contratual ao participante indirecto executar ordens de transferência através do sistema.
 
 3 - Além do disposto no número anterior, a participação directa depende de o participante indirecto ser conhecido do operador do sistema.
