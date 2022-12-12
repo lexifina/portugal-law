@@ -1,0 +1,151 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "410",
+    "id": "152142",
+    "titulo": "Elimina a obrigatoriedade de explicitar «Chamada para a rede fixa nacional» e «Chamada para rede móvel nacional» nas linhas telefónicas para contacto do consumidor (Primeira alteração ao Decreto-Lei n.º 59/2021, de 14 de julho)\n\n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2022-12-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "63269",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2022-12-12",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-01-03",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59344f546b354e4463324c5745304f4455744e444d794d5331694d54466d4c546c68597a45335a5441775a6a63794f5335775a47593d&fich=68999476-a485-4321-b11f-9ac17e00f729.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANACOM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6b4f575a6b4d7a4a6a4c5459335a444d744e4755794f4331684e6d55304c5456694d7a63774d32526c4e324d33596935775a47593d&fich=2d9fd32c-67d3-4e28-a6e4-5b3703de7c7b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ASAE e DGC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566a597a646b4d324a684c544d774e6a67744e44466b5a6930354d6d4a6a4c575a6a5a5751794f44526a596d4d314e5335775a47593d&fich=5cc7d3ba-3068-41df-92bc-fced284cbc55.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CEOPPH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55794d5467314e6a45334c546c6a5a6a6b744e4468684d7931694d7a51314c544d7a4e7a5535596a4935596a6b785a5335775a47593d&fich=52185617-9cf9-48a3-b345-33759b29b91e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-13",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CPPME - PJL 410",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566d5a4755324f57457a4c5745774d7a59744e474d794d6931685a54426a4c5459774e5441314f544d79596a6b34597935775a47593d&fich=5fde69a3-a036-4c22-ae0c-60505932b98c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466b5a446c6a4e6d4e6d4c57466d597a41744e47497a4d7931684e7a63344c5441774d7a49324e5759335a5749304d5335775a47593d&fich=add9c6cf-afc0-4b33-a778-003265f7eb41.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-01-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466c4e5445335a57566a4c546b325a544d744e44466b4d7930345a5459314c57466959574e695a475a6d59575a6c4d4335775a47593d&fich=ae517eec-96e3-41d3-8e65-abacbdffafe0.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8330",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "Numero": "8330",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "7936",
+            "motivoCessacao": null,
+            "nome": "José Pedro Ferreira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2022-12-12",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1321335",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "973139",
+        "obs": null,
+        "pag": [
+          "39-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-01-11",
+        "pubLeg": "XV",
+        "pubNr": "144",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/144/2023-01-11/39?pgs=39-41&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
