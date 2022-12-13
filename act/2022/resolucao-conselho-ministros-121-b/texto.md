@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 121-B/2022
+Sumário: Atribui à Parque Escolar, E. P. E., uma contrapartida pela prestação dos serviços de interesse público no âmbito do Programa de Modernização do Parque Escolar destinado ao Ensino Secundário.
+O contrato-programa celebrado entre o Estado e a Parque Escolar, E. P. E., em 14 de outubro de 2009 define o âmbito da prestação de serviços de interesse público a cargo daquela entidade pública empresarial, bem como a correspondente remuneração, tal como decorre do Decreto-Lei n.º 167/2008, de 26 de agosto, na sua redação atual.
+Através da Resolução do Conselho de Ministros n.º 194/2021, de 30 de dezembro, foi autorizada a realização da despesa associada à 4.ª adenda ao contrato-programa celebrado entre o Estado e a Parque Escolar, E. P. E., a qual enquadra o serviço público prestado por esta entidade durante o triénio 2022-2024.
+Ocorre que a referida adenda ainda não iniciou a sua vigência, porquanto não foi possível assegurar a conclusão do respetivo processo administrativo-financeiro em tempo útil. Não obstante, a Parque Escolar, E. P. E., manteve a sua operação no ano de 2022, assegurando a prestação de serviço público que lhe cumpre no quadro dos compromissos do Estado no domínio da educação.
+O Orçamento do Estado para 2022, aprovado pela Lei n.º 12/2022, de 27 de junho, contempla a dotação a atribuir à Parque Escolar, E. P. E., pela prestação de serviço de interesse público.
+Neste contexto, importa assegurar o pagamento à Parque Escolar, E. P. E., pelos serviços prestados durante o presente ano.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do artigo 42.º do Decreto-Lei n.º 53/2022, de 12 de agosto, do Decreto-Lei n.º 167/2008, de 26 de agosto, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Atribuir à Parque Escolar, E. P. E., o montante de (euro) 92 688 167,82, que inclui o imposto sobre o valor acrescentado à taxa legal em vigor, como contrapartida pela prestação dos serviços de interesse público a cargo desta entidade pública empresarial no âmbito do Programa de Modernização do Parque Escolar destinado ao Ensino Secundário relativo ao ano de 2022 e autorizar a realização da respetiva despesa.
+2 - Estabelecer que os encargos financeiros decorrentes do número anterior são satisfeitos por verbas inscritas no orçamento dos estabelecimentos de educação e ensino básico e secundário objeto de investimento e/ou serviços de manutenção e conservação durante o ano de 2022.
+3 - Determinar que as transferências a que se refere o n.º 1 pressupõem a observância das condições de prestação do serviço público que as justificam.
+4 - Delegar nos membros do Governo responsáveis pelas áreas das finanças e da educação, com a faculdade de subdelegação, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+5 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 7 de dezembro de 2022. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+115965663
