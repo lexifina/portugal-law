@@ -1,0 +1,25 @@
+Portaria n.º 295/2022
+de 13 de dezembro
+Sumário: Determina a entrega nos cofres do Estado da receita proveniente do leilão para a atribuição de direitos de utilização de frequências nas faixas dos 700 MHz, 900 MHz, 1800 MHz, 2,1 GHz, 2,6 GHz e 3,6 GHz (Leilão 5G).
+Em 27 de outubro de 2021, após a realização de 1727 rondas, terminou a fase de licitação do leilão para a atribuição de direitos de utilização de frequências nas faixas dos 700 MHz, 900 MHz, 1800 MHz, 2,1 GHz, 2,6 GHz e 3,6 GHz (Leilão 5G), o qual foi realizado nos termos do Regulamento n.º 987-A/2020, de 5 de novembro, alterado pelo Regulamento n.º 596-A/2021, de 30 de junho, e pelo Regulamento n.º 867-A/2021, de 20 de setembro (Regulamento do Leilão).
+Nos termos do n.º 1 do artigo 38.º do Regulamento do Leilão, as entidades às quais sejam atribuídos direitos de utilização de frequências ficam obrigadas a efetuar o depósito do montante devido pela atribuição desses direitos, podendo, no entanto, optar por diferir o pagamento de metade do preço, nos termos previstos nos n.os 3 a 7 e 9 a 11 do citado artigo.
+Considerando o disposto no referido artigo 38.º do Regulamento do Leilão, as seis entidades às quais foram atribuídos direitos de utilização de frequências no âmbito do leilão procederam ao depósito inicial de (euro) 410 053 656,45, tendo três delas optado por diferir o pagamento de metade do preço.
+Na sequência desse depósito foram emitidos os títulos que consubstanciam os Direitos de Utilização de Frequências em todas as faixas (exceto nos 900 MHz que foram objeto de um processo distinto), em conformidade com o disposto no artigo 40.º do Regulamento do Leilão.
+De acordo com o disposto na alínea b) do n.º 13 do artigo 19.º do Decreto-Lei n.º 151-A/2000, de 20 de julho, alterado pelos Decretos-Leis n.os 167/2006, de 16 de agosto, e 264/2009, de 28 de setembro, e pelas Leis n.os 20/2012, de 14 de maio, e 16/2022, de 16 de agosto, e retificado pela Declaração de Retificação n.º 90/2009, de 25 de novembro, sempre que o procedimento de atribuição de frequências definido nos termos da lei pela ANACOM seja o leilão, o valor da contrapartida efetivamente paga pelos interessados pela atribuição das frequências constitui receita daquela Autoridade, nos termos dos respetivos estatutos, podendo o Governo, mediante portaria dos membros responsáveis pelas áreas das comunicações eletrónicas e das finanças, determinar a sua entrega nos cofres do Estado.
+Assim, manda o Governo, nos termos da alínea b) do n.º 13 do artigo 19.º do Decreto-Lei n.º 151-A/2000, de 20 de julho, na sua redação atual, e da Resolução do Conselho de Ministros n.º 104/2022, de 2 de novembro, pelo Ministro das Finanças e pelo Ministro das Infraestruturas e da Habitação, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria determina, nos termos da alínea b) do n.º 13 do artigo 19.º do Decreto-Lei n.º 151-A/2000, de 20 de julho, na sua redação atual, a entrega nos cofres do Estado de receita proveniente do leilão para a atribuição de direitos de utilização de frequências nas faixas dos 700 MHz, 900 MHz, 1800 MHz, 2,1 GHz, 2,6 GHz e 3,6 GHz (Leilão 5G), o qual foi realizado nos termos do Regulamento n.º 987-A/2020, de 5 de novembro, alterado pelo Regulamento n.º 596-A/2021, de 30 de junho, e pelo Regulamento n.º 867-A/2021, 20 de setembro (Regulamento do Leilão).
+Artigo 2.º
+Entrega nos cofres do Estado de receita proveniente do leilão para a atribuição de direitos de utilização de frequências nas faixas dos 700 MHz, 900 MHz, 1800 MHz, 2,1 GHz, 2,6 GHz e 3,6 GHz (Leilão 5G)
+1 - É entregue pela ANACOM nos cofres do Estado o montante máximo autorizado à Infraestruturas de Portugal, S. A. (IP, S. A.), nos termos da Resolução do Conselho de Ministros n.º 104/2022, de 2 de novembro, relativo à receita proveniente do leilão para a atribuição de direitos de utilização de frequências nas faixas dos 700 MHz, 900 MHz, 1800 MHz, 2,1 GHz, 2,6 GHz e 3,6 GHz (Leilão 5G), nos termos dos números seguintes.
+2 - Os valores a transferir referidos no n.º 1 são os definidos na alínea a) do n.º 2 da Resolução do Conselho de Ministros n.º 104/2022, de 2 de novembro, e que correspondem aos valores da execução do projeto para o ano de 2023.
+3 - As alterações do orçamento da ANACOM necessárias para permitir a realização de todas as entregas de verbas nos cofres do Estado, nos termos da presente portaria, são desde já aprovadas sem necessidade de adoção de qualquer outro procedimento, sendo o registo da receita efetuado nos termos seguintes:
+Registo da receita, relativamente aos recebimentos, na rubrica económica das taxas (13.01.99.99.99);
+Registo de um reembolso/restituição na mesma rubrica económica da receita (13.01.99.99.99), mediante abatimento à receita, aquando da entrega das verbas ao Estado.
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 12 de dezembro de 2022.
+O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - O Ministro das Infraestruturas e da Habitação, Pedro Nuno de Oliveira Santos.
+115961264
