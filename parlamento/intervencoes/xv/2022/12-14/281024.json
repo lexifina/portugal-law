@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "281024",
+  "tipo": "Declaração politica",
+  "orador": "Ricardo Pinheiro (PS)",
+  "data_registo": "2022-12-14",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "116997",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "116997",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Faz referência à transição energética e às alterações climáticas e elogia tudo quanto tem sido feito nos últimos anos em prol desta temática."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em Declaração Política, aborda a transição energética e as alterações climáticas e elogia as medidas tomadas pelo Governo nos últimos anos sobre esta temática.",
+        "duracao": "00:06:52:721",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=31"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Bruno Coimbra (PSD) e Bernardo Blanco (IL), no âmbito da Declaração Política em que abordou a transição energética e as alterações climáticas e elogiou as medidas tomadas pelo Governo nos últimos anos sobre esta temática.",
+        "duracao": "00:02:41:823",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=34"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Rita Matias (CH), Duarte Alves (PCP) e Pedro Filipe Soares (BE), no âmbito da Declaração Política em que abordou a transição energética e as alterações climáticas e elogiou as medidas tomadas pelo Governo nos últimos anos sobre esta temática.",
+        "duracao": "00:02:25:100",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_12_14_15_00_00_clean_14_plenario.xml&idsegmento=38"
+      }
+    ],
+    "DataReuniaoPlenaria": "2022-12-14",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "6552",
+      "nome": "Ricardo Pinheiro"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "281024",
+    "IdDebate": "6288",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "281024",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "29-30",
+          "32-32",
+          "35-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-12-15",
+        "pubLeg": "XV",
+        "pubNr": "66",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/066/2022-12-15/29?pgs=29-30,32,35-36&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde a pedidos de esclarecimentos dos Deputados Bruno Coimbra (PSD), Bernardo Blanco (IL), Rita Matias (CH), Duarte Alves (PCP) e Pedro Filipe Soares (BE).",
+    "Sessao": "1",
+    "Sumario": "Faz referência à transição energética e às alterações climáticas e elogia tudo quanto tem sido feito nos últimos anos em prol desta temática.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
