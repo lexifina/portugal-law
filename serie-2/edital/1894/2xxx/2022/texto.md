@@ -1,0 +1,14 @@
+Edital n.º 1894/2022
+Sumário: Declaração de não caducidade do procedimento de revisão do Plano de Pormenor das Penhas da Saúde - Zona Sul.
+Vítor Manuel Pinheiro Pereira, Presidente da Câmara Municipal da Covilhã, torna público, que a Câmara Municipal da Covilhã deliberou aprovar, em reunião de 23 de setembro de 2022, por maioria de votos, com abstenção dos Senhores Vereadores Pedro Miguel Santos Farromba, Ricardo Miguel Correia Leitão Ferreira da Silva e Jorge Humberto Martins Simões, a declaração de não caducidade do procedimento de Revisão do Plano de Pormenor das Penhas da Saúde - Zona Sul, com efeitos retroativos ao término do prazo fixado pelo Edital n.º 594/2020, publicado no Diário da República, 2.ª série, n.º 85, de 30 de abril de 2020 e prorrogado pelo Edital n.º 814/2021 publicado no Diário da República, 2.ª série, n.º 129, de 19 de julho de 2021, e suspender o prazo de elaboração da revisão do plano, por 309 dias, que resultam de atrasos não imputáveis à Câmara Municipal e dos prazos de suspensão estabelecidos no âmbito das medidas de resposta à situação pandémica do coronavírus e da doença do COVID-19.
+Deliberou ainda fixar o prazo limite para a conclusão dos trabalhos do procedimento em curso, o dia 7 de abril de 2023, considerando os atrasos e suspensões acima mencionados.
+E para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do costume e publicitados nos termos legais.
+10 de outubro de 2022. - O Presidente da Câmara Municipal da Covilhã, Vítor Manuel Pinheiro Pereira.
+A Câmara Municipal deliberou, com a abstenção dos Senhores Vereadores Pedro Miguel Santos Farromba, Ricardo Miguel Correia Leitão Ferreira da Silva e Jorge Humberto Martins Simões, aprovar:
+Declarar a não caducidade do procedimento de elaboração da revisão do Plano de Pormenor das Penhas da Saúde - Zona Sul, tendo por base os fundamentos e pressupostos apresentados, e com efeitos retroativos ao término dos prazos fixados.
+Suspender o prazo de elaboração do plano (de acordo com o exposto no ponto 10) por 309 dias.
+Que o prazo limite para a conclusão dos trabalhos do procedimento em curso, é o dia 07-04-2023, considerando as suspensões e atrasos atrás mencionados.
+Comunicar o teor da presente deliberação à CCDR C.
+Proceder à publicação da decisão, sob a forma de Aviso no Diário da República e divulgada na comunicação social e site institucional, bem como na Plataforma Colaborativa de Gestão Territorial (PCGT), nos termos e para os efeitos descritos no n.º 1 do artigo 76.º e na alínea c) do n.º 4 do artigo 191.º, ambos do RJIGT.
+23 de setembro de 2022. - O Presidente da Câmara Municipal da Covilhã, Vítor Manuel Pinheiro Pereira. - A Diretora do Departamento de Administração Geral e Coordenação Jurídica, Graça Robbins.
+615873493
