@@ -29,3 +29,5 @@ e) Garantir a articulação entre o Sistema de Segurança Interna e o planeament
 f) Articular as instituições nacionais com as de âmbito local, incluindo nomeadamente as polícias municipais e os conselhos municipais de segurança;
 
 g) Estabelecer ligação com estruturas privadas, incluindo designadamente as empresas de segurança privada.
+
+h) Coordenar os trabalhos preparatórios no âmbito do mecanismo de avaliação da aplicação do acervo de Schengen e acompanhar, em estreita articulação com as diversas entidades competentes, o seguimento das ações decorrentes das avaliações realizadas naquele âmbito.
