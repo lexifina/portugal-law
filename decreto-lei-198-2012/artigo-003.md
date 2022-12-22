@@ -67,3 +67,9 @@ d) Secção S, Classe 9602 - Atividades de salões de cabeleireiro e institutos 
 8 - As pessoas singulares que sejam sujeitos passivos de IVA devem também indicar no Portal das Finanças, a partir da data referida no n.º 5, quais as faturas que titulam aquisições efetuadas fora do âmbito da sua atividade empresarial ou profissional, sob pena de todas as faturas em que constam como adquirentes não serem elegíveis para o incentivo fiscal.
 
 9 - Os sujeitos passivos referidos no n.º 1, que durante o mês não tenham emitidos documentos, devem comunicar esse facto à AT, através do Portal das Finanças, no prazo referido no n.º 2.
+
+10 - Sem prejuízo do disposto no n.º 1, a obrigação de comunicação dos elementos das faturas emitidas nos termos do n.º 14 do artigo 29.º do Código do IVA pode ser cumprida pelo adquirente, desde que previsto no âmbito do acordo prévio de autofaturação previsto na alínea a) do n.º 11 do artigo 36.º do Código do IVA.
+
+11 - A obrigação de comunicação dos elementos das faturas emitidas nos termos do n.º 15 do artigo 29.º do Código do IVA deve ser cumprida pelo adquirente, tendo o transmitente dos bens ou prestador de serviços a faculdade de indicar, no Portal das Finanças, até ao dia 25 de fevereiro do ano seguinte ao da sua emissão, as faturas que não titulam transmissões de bens ou prestações de serviços por si realizadas.
+
+12 - A faculdade prevista no número anterior não exclui a possibilidade de o transmitente dos bens ou prestador de serviços efetuar prova da existência de faturas que não titulam transmissões de bens ou prestações de serviços por si realizadas.
