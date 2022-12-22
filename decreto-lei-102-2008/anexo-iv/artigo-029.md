@@ -60,7 +60,7 @@ d) Da obrigação referida na alínea e), os sujeitos passivos com sede, estabel
 
 14 - Para cumprimento do disposto na alínea b) do n.º 1, as faturas podem ser elaboradas pelo próprio adquirente dos bens ou serviços ou por um terceiro, em nome e por conta do sujeito passivo.
 
-15 - Os sujeitos passivos referidos nas alíneas i) e m) do n.º 1 do artigo 2.º são obrigados a emitir uma fatura por cada aquisição de bens ou de serviços aí mencionados quando o respetivo transmitente ou prestador não seja um sujeito passivo ou se encontre sujeito a IVA pela prática de uma só operação tributável nos termos da alínea a) do n.º 1 do artigo 2.º, não se aplicando, nesses casos, os condicionalismos previstos no n.º 11 do artigo 36.º
+15 - Os sujeitos passivos referidos nas alíneas i), m) e n) do n.º 1 do artigo 2.º são obrigados a emitir uma fatura por cada aquisição de bens ou de serviços aí mencionados quando o respetivo transmitente ou prestador não seja um sujeito passivo, se encontre sujeito a IVA pela prática de uma só operação tributável nos termos da alínea a) do n.º 1 do artigo 2.º ou cujo enquadramento no regime normal do imposto resulte unicamente das transmissões referidas na alínea n) do n.º 1 do artigo 2.º, não se aplicando, nesses casos, os condicionalismos previstos no n.º 11 do artigo 36.º
 
 16 - Ficam dispensados de apresentar a declaração de informação contabilística e fiscal, os anexos e os mapas recapitulativos a que se referem as alíneas d), e) e f) do n.º 1, os sujeitos passivos que reúnam qualquer das seguintes condições:
 

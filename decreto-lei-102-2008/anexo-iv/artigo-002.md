@@ -28,6 +28,8 @@ l) As pessoas singulares ou colectivas referidas na alínea a) que disponham de 
 
 m) As pessoas singulares ou coletivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional e que pratiquem operações que confiram o direito à dedução total ou parcial do imposto, quando sejam adquirentes de cortiça, madeira, pinhas e pinhões com casca.
 
+n) As pessoas singulares ou coletivas referidas na alínea i) do artigo 1.º que disponham de sede, estabelecimento estável ou domicílio em território nacional, quando sejam adquirentes de eletricidade produzida em unidades de produção para autoconsumo, com potência instalada igual ou inferior a 1 MW, nos termos definidos nas alíneas f) e vvv) do artigo 3.º do Decreto-Lei n.º 15/2022, de 14 de janeiro, na sua redação atual, a autoconsumidores cujo enquadramento no regime normal do imposto resulte unicamente da prática destas transmissões.
+
 2 - O Estado e demais pessoas colectivas de direito público não são, no entanto, sujeitos passivos do imposto quando realizem operações no exercício dos seus poderes de autoridade, mesmo que por elas recebam taxas ou quaisquer outras contraprestações, desde que a sua não sujeição não origine distorções de concorrência.
 
 3 - O Estado e as demais pessoas colectivas de direito público referidas no número anterior são, em qualquer caso, sujeitos passivos do imposto quando exerçam algumas das seguintes actividades e pelas operações tributáveis delas decorrentes, salvo quando se verifique que as exercem de forma não significativa:
