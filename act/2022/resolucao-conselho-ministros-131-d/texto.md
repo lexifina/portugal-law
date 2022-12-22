@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 131-D/2022
+Sumário: Autoriza a disponibilização de um montante extraordinário para apoio direto ao Orçamento Geral do Estado de São Tomé e Príncipe.
+Considerando a evolução positiva das relações entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, no plano bilateral e multilateral;
+Considerando os compromissos assumidos por ambos os Estados relativos à concretização da Agenda 2030, da Agenda de Ação de Adis Abeba sobre o Financiamento do Desenvolvimento e da Parceria Global para a Cooperação para o Desenvolvimento Eficaz, e demais compromissos internacionais em matéria de cooperação para o desenvolvimento, incluindo o Novo Acordo para o Envolvimento em Estados Frágeis, assim como os compromissos assumidos internacionalmente por ambos os Estados em matéria de direitos humanos;
+Considerando os impactos socioeconómicos da pandemia de COVID-19 e os efeitos à escala global decorrentes da invasão militar da Ucrânia pela Rússia;
+Considerando que o atual Programa Estratégico de Cooperação (PEC) Portugal-São Tomé e Príncipe, assinado para o período de 2021-2025, foi elaborado de acordo com as prioridades e objetivos de desenvolvimento de São Tomé e Príncipe e reconhecendo-se o valor acrescentado da Cooperação Portuguesa;
+E considerando o pedido de apoio orçamental formulado pelo Governo de São Tomé e Príncipe e a importância, neste contexto, de reforçar o apoio da Cooperação Portuguesa às áreas da educação, saúde e segurança alimentar, bem como ao robustecimento da democracia e do Estado de Direito:
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do n.º 1 do artigo 44.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a disponibilização de um montante extraordinário de (euro) 15 000 000 (quinze milhões de euros) para apoio direto ao Orçamento Geral do Estado de São Tomé e Príncipe, a desembolsar até ao final do ano de 2022, através do Camões - Instituto da Cooperação e da Língua, I. P., destinado a contribuir para o desenvolvimento nos setores da educação, saúde e segurança alimentar, bem como do robustecimento da democracia e do Estado de Direito, tendo em devida consideração as prioridades definidas por São Tomé e Príncipe nos seus programas estratégicos setoriais relevantes.
+2 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área dos negócios estrangeiros a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+3 - Estabelecer que a presente resolução entra em vigor a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 22 de dezembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+116004793
