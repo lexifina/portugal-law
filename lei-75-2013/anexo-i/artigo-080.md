@@ -1,11 +1,3 @@
-## Capítulo III
-
-## Comunidade intermunicipal
-
-## Secção I
-
-## Órgãos
-
 # Artigo 80.º
 
 ### Instituição e estatutos

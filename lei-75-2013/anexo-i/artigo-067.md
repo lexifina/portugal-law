@@ -10,7 +10,7 @@ b) Promover o planeamento e a gestão da estratégia de desenvolvimento económi
 
 c) Articular os investimentos municipais de caráter metropolitano;
 
-d) Participar na gestão de programas de apoio ao desenvolvimento regional, designadamente no âmbito do Quadro de Referência Estratégico Nacional (QREN);
+d) Participação na gestão de programas de apoio ao desenvolvimento regional, designadamente no âmbito de fundos europeus;
 
 e) Participar, nos termos da lei, na definição de redes de serviços e equipamentos de âmbito metropolitano;
 
