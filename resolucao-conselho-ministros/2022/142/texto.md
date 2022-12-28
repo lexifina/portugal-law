@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 142/2022
+Sumário: Autoriza a Autoridade Tributária e Aduaneira a realizar despesa com a aquisição de serviços de assistência técnica.
+Ao longo do tempo a Autoridade Tributária e Aduaneira (AT) tem vindo a dotar a sua infraestrutura com maior capacidade para dar resposta às crescentes solicitações internas e externas, adequando-a ao incremento exponencial de transações, consultas e volume de dados, tendo a componente de software de acompanhar esta constante evolução.
+Atendendo à criticidade dos sistemas tributários, é de extrema importância que as plataformas tecnológicas (hardware e software) que suportam a camada de serviços em produção estejam ao abrigo de contratos de assistência técnica.
+Sendo o software Oracle e serviços associados imprescindíveis ao suporte dos sistemas tributários e aduaneiros, bem como dos sistemas da Comunidade Europeia, dos quais se destacam portal das finanças, documentos de transporte, fatura eletrónica, trânsito comunitário, sistema de execuções fiscais, etc., é fundamental que se garanta a competente de assistência técnica de modo a não comprometer a operacionalidade dos sistemas da AT.
+Como tal, a aquisição dos referidos serviços está diretamente relacionada com a missão e atribuições da AT, uma vez que, pela elevada criticidade dos diversos sistemas informáticos, não pode haver disrupção do serviço prestado pela AT aos contribuintes e operadores económicos que provoque constrangimentos na arrecadação da receita fiscal.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 20.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve o seguinte:
+1 - Autorizar a Autoridade Tributária e Aduaneira a realizar despesa, no montante máximo de (euro) 4 700 751,42, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, com vista à aquisição de serviços de assistência técnica a software Oracle, por recurso ao procedimento de concurso público, com publicação de anúncio no Jornal Oficial da União Europeia.
+2 - Estabelecer que os encargos financeiros a que se refere o número anterior respeitam ao ano de 2022 e não podem exceder o montante total aí referido, de (euro) 4 700 751,42, a que acresce o IVA à taxa legal em vigor.
+3 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área das finanças a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 22 de dezembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+116006972
