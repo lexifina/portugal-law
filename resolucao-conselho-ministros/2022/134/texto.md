@@ -1,0 +1,25 @@
+Resolução do Conselho de Ministros n.º 134/2022
+Sumário: Autoriza a reprogramação da despesa decorrente da empreitada de conservação do Palácio Foz.
+Através da Resolução do Conselho de Ministros n.º 71/2022, de 18 de agosto, a Secretaria-Geral da Presidência do Conselho de Ministros foi autorizada a assumir o encargo referente à empreitada de reabilitação das coberturas do Palácio Foz, no período de 2022 a 2024.
+Neste seguimento, foi lançado um procedimento de concurso público com publicidade internacional para a reabilitação e conservação da cobertura do Palácio Foz. Sucede que, findo o prazo para apresentação de propostas, verificou-se fixarem-se todas acima do preço-base.
+Ora, o n.º 6 do artigo 70.º do Código dos Contratos Públicos (CCP) admite, no caso de concurso público ou concurso limitado por prévia qualificação em que todas as propostas tenham sido excluídas, que o órgão competente para a decisão de contratar possa, excecionalmente e por motivos de interesse público devidamente fundamentados, adjudicar aquela que, de entre as propostas que apenas tenham sido excluídas com fundamento na alínea d) do n.º 2 e cujo preço não exceda em mais de 20 % o montante do preço base, seja ordenada em primeiro lugar, de acordo com o critério de adjudicação, desde que:
+a) Essa possibilidade se encontre prevista no programa do procedimento e a modalidade do critério de adjudicação seja a referida na alínea a) do n.º 1 do artigo 74.º do CCP;
+b) O preço da proposta a adjudicar respeite os limites previstos no n.º 4 do artigo 47.º do CCP;
+c) A decisão de autorização da despesa já habilite ou seja revista no sentido de habilitar a adjudicação por esse preço.
+Verifica-se que, de entre as propostas apresentadas, existem propostas cujo preço se encontra contido dentro do aludido limite de 20 %. Ora, a falta de intervenção urgente acarreta uma aceleração da degradação do imóvel, agravada pelas condições atmosféricas adversas e consequentes inundações que se têm manifestado em Portugal, em particular na cidade de Lisboa.
+Assim, uma intervenção extemporânea nas coberturas do Palácio Foz exigirá não só a revisão da referida empreitada como originará prejuízos financeiros para o erário público muito superiores a 20 % do preço-base, daí resultando como mais benéfico para o Estado que se proceda à adjudicação, por razões de manifesto interesse público, da proposta que seja ordenada em primeiro lugar, ainda que o preço contratual ultrapasse o preço base até 20 %.
+Neste contexto, importa proceder à autorização de despesa adicional e à reprogramação dos encargos inicialmente previstos, com vista à reabilitação e reposição das condições de segurança e durabilidade originais das caraterísticas culturais e históricas do Palácio Foz, bem como proceder às reparações necessárias nas coberturas entretanto verificadas em consequência das recentes infiltrações.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, do n.º 6 do artigo 70.º do Código dos Contratos Públicos e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Alterar os n.os 2 e 4 da Resolução do Conselho de Ministros n.º 71/2022, de 18 de agosto, que passam a ter a seguinte redação:
+«2 - Autorizar a SGPCM a assumir os compromissos plurianuais e a realizar a despesa decorrente da empreitada de reabilitação das coberturas do Palácio Foz, no valor total de (euro) 2 625 769,78, ao qual acresce o IVA à taxa legal em vigor, distribuído da seguinte forma:
+a) Em 2022: (euro) 787 730,93;
+b) Em 2023: (euro) 940 051,69;
+c) Em 2024: (euro) 897 987,16.
+4 - Autorizar o Fundo de Reabilitação e Conservação Patrimonial a proceder à assunção de encargos plurianuais para a comparticipação do investimento relativo à realização da empreitada de reabilitação das coberturas do Palácio Foz, no montante global de (euro) 2 100 615,82, ao qual acresce o IVA à taxa legal em vigor, distribuído da seguinte forma:
+a) Em 2022: (euro) 630 184,74;
+b) Em 2023: (euro) 752 041,35;
+c) Em 2024: (euro) 718 389,73.»
+2 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
+Presidência do Conselho de Ministros, 22 de dezembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+116006494
