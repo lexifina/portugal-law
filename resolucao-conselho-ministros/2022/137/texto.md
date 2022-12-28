@@ -1,0 +1,22 @@
+Resolução do Conselho de Ministros n.º 137/2022
+Sumário: Autoriza a realização da despesa com a candidatura do Município de Matosinhos à solução de aquisição e reabilitação de 105 fogos no âmbito do Plano de Recuperação e Resiliência.
+A pandemia da doença COVID-19 originou uma situação de saúde pública, com grandes impactos a nível social e económico, à qual tem vindo a ser dada resposta ao longo dos últimos anos, designadamente através de um conjunto significativo de medidas de apoio ao emprego e aos rendimentos.
+A União Europeia, reconhecendo a severidade da crise pandémica e dos seus profundos efeitos nos diferentes Estados-Membros, promoveu uma resposta coletiva e concertada, tendo os Estados-Membros acordado em simultâneo o quadro financeiro plurianual para o período 2021-2027 e o instrumento de recuperação europeu, designado por Next Generation EU, no Conselho Europeu, em julho de 2020. Com efeito, os Estados-Membros comprometeram-se a garantir um futuro conjunto, por forma a mitigar os efeitos que decorreriam de uma capacidade de resposta assimétrica entre Estados-Membros.
+Neste contexto, a célere execução do Plano de Recuperação e Resiliência (PRR), para o período 2021-2026, no âmbito do Mecanismo de Recuperação e Resiliência, é determinante. Assim, cumpre lançar mão dos mecanismos legais que asseguram a adequada execução do PRR no quadro do Decreto-Lei n.º 53-B/2021, de 23 de junho, que estabelece o regime excecional de execução orçamental e de simplificação de procedimentos dos projetos aprovados no âmbito do PRR, através de subvenções a fundo perdido (que não incluem a despesa relativa ao imposto sobre o valor acrescentado), bem como as disposições necessárias e os respetivos procedimentos e competências.
+Na sequência da publicitação do Aviso n.º 01-RE-C02-i01/2021, investimento RE-C02-i01 - Programa de Apoio ao Acesso à Habitação, da componente 02 - Habitação do PRR, foi submetida pelo Município de Matosinhos uma candidatura.
+Esta candidatura, cuja execução se iniciou durante o ano de 2021, tem em vista, na globalidade, a aquisição e reabilitação de um total de 105 fogos na Rua Flor de Infesta, do referido Município, que foi aprovada pelo Instituto da Habitação e da Reabilitação Urbana, I. P., por cumprir os respetivos requisitos, sendo necessário assegurar a autorização para a realização da despesa e a assunção dos encargos plurianuais, a qual, em função do seu valor global, recai na competência do Conselho de Ministros, nos termos estabelecidos na alínea c) do n.º 1 do artigo 5.º e no n.º 1 do artigo 6.º do Decreto-Lei n.º 53-B/2021, de 23 de junho.
+Assim:
+Nos termos da alínea c) do n.º 1, do n.º 2 do artigo 5.º e do n.º 1 do artigo 6.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Instituto da Habitação e da Reabilitação Urbana, I. P., na qualidade de beneficiário intermediário, a realizar a despesa com os encargos relativos à candidatura n.º 59477, do Município de Matosinhos, na qualidade de beneficiário final, para a solução de aquisição e reabilitação destinada a 105 fogos na Rua Flor de Infesta, em Matosinhos, em execução da medida i01: Programa de Apoio ao Acesso à Habitação e do Aviso n.º 1-RE-CO2-i01/2021, investimento RE-C02-i01 - Programa de Apoio ao Acesso à Habitação, da componente 02 - Habitação, do Plano de Recuperação e Resiliência (PRR), até ao montante de (euro) 18 991 450,70, com o imposto sobre o valor acrescentado incluído à taxa legal em vigor.
+2 - Estabelecer que os encargos orçamentais decorrentes do disposto no número anterior não podem ultrapassar, em cada ano económico, os seguintes valores:
+a) Em 2021: (euro) 1 795 573,73;
+b) Em 2022: (euro) 3 244 532,84;
+c) Em 2023: (euro) 900 245,00;
+d) Em 2024: (euro) 5 401 471,00;
+e) Em 2025: (euro) 5 401 471,00;
+f) Em 2026: (euro) 2 248 157,13.
+3 - Estabelecer que o montante fixado no número anterior, para cada ano económico, pode ser acrescido do saldo apurado no ano que lhe antecede, dentro dos limites previstos no n.º 1 e do prazo de execução do PRR.
+4 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área das infraestruturas e da habitação a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+5 - Determinar que a presente resolução produz efeitos a 1 de março de 2021.
+Presidência do Conselho de Ministros, 22 de dezembro de 2022. - O Primeiro-Ministro, António Luís Santos da Costa.
+116006656
