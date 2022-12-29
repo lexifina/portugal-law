@@ -30,11 +30,11 @@ f) Não tomar imediatamente as medidas corretivas necessárias para colocar um e
 
 g) A falta de informação às autoridades de fiscalização do mercado de que existe um equipamento de rádio que apresente um risco, bem como o não fornecimento àquelas das informações relevantes para esse efeito, em violação do disposto na alínea h) do n.º 2 do artigo 14.º;
 
-h) Não facultar às autoridades de fiscalização do mercado, quando estas lho pedirem fundamentadamente, toda a informação e documentação necessárias para demonstrar a conformidade do equipamento de rádio, em papel ou, preferencialmente, em suporte eletrónico, numa língua facilmente compreensível pelas autoridades, em violação do disposto na alínea i) do n.º 2 do artigo 14.º;
+h) Não facultar às autoridades de fiscalização do mercado, quando estas lho pedirem fundamentadamente e no prazo fixado para o efeito, toda a informação e documentação necessárias para demonstrar a conformidade do equipamento de rádio, em papel ou, preferencialmente, em suporte eletrónico, numa língua facilmente compreensível pelas autoridades, em violação do disposto na alínea i) do n.º 2 do artigo 14.º;
 
 i) A falta de cooperação com as autoridades de fiscalização do mercado em qualquer ação de eliminação dos riscos decorrentes de equipamentos de rádio por si disponibilizados no mercado, em violação do disposto na alínea j) do n.º 2 do artigo 14.º e quer no n.º 7 do artigo 35.º, quer no n.º 2 do artigo 37.º;
 
-j) O incumprimento da obrigação de informação prevista no artigo 15.º
+j) O incumprimento de qualquer das obrigações previstas nos n.os 1 e 2 do artigo 15.º e no n.º 6 do artigo 40.º
 
 4 - As contraordenações leves são puníveis com as seguintes coimas:
 

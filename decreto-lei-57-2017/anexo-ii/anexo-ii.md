@@ -10,7 +10,7 @@ Controlo Interno da Produção
 
 2 - Documentação técnica
 
-O fabricante deve elaborar a documentação técnica de acordo com o artigo 20.º
+O fabricante deve elaborar a documentação técnica de acordo com o artigo 21.º
 
 3 - Fabrico
 

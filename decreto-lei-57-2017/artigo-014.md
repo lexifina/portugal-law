@@ -10,7 +10,7 @@ a) Verificar se o mesmo ostenta a marcação CE de acordo com os requisitos esta
 
 b) Verificar se o mesmo vem acompanhado dos documentos exigidos pelo presente decreto-lei e das instruções e informações de segurança, redigidas em língua portuguesa em linguagem clara;
 
-c) Verificar se o fabricante e o importador cumpriram os requisitos previstos, respetivamente, nas alíneas b) e j) e p) do n.º 1 do artigo 11.º e nas alíneas f) e g) do n.º 2 do artigo anterior;
+c) Verificar se o fabricante e o importador cumpriram os requisitos previstos, respetivamente, nas alíneas b) e j) a p) do n.º 1 do artigo 11.º e nas alíneas f) e g) do n.º 2 do artigo anterior;
 
 d) Abster-se de disponibilizar o equipamento de rádio até que seja resposta a conformidade, quando considere ou tenha motivos para crer que o mesmo não está conforme com os requisitos essenciais previstos no artigo 4.º;
 

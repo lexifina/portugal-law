@@ -4,7 +4,7 @@
 
 1 - Os equipamentos de rádio devem ser construídos de modo a assegurar:
 
-a) A proteção da saúde e da segurança das pessoas e dos animais domésticos e a proteção dos bens, incluindo as disposições relativas aos requisitos de segurança previstos no Decreto-Lei n.º 31/2017, de 22 de março com exceção das disposições relativas à aplicação dos limites de tensão;
+a) A proteção da saúde e da segurança das pessoas e dos animais domésticos e a proteção dos bens, incluindo as disposições relativas aos requisitos de segurança previstos no Decreto-Lei n.º 21/2017, de 21 de fevereiro, na sua redação atual, com exceção das disposições relativas à aplicação dos limites de tensão;
 
 b) Um nível adequado de compatibilidade eletromagnética, tal como estabelecido no Decreto-Lei n.º 31/2017, de 22 de março.
 

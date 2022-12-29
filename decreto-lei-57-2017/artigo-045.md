@@ -36,13 +36,13 @@ h) Não tomar imediatamente as medidas corretivas necessárias para colocar um e
 
 i) A falta de informação imediata às autoridades de fiscalização do mercado de que existe um equipamento de rádio que represente um risco, bem como o não fornecimento àquelas das informações relevantes para esse efeito, em violação do disposto na alínea l) do n.º 2 do artigo 13.º;
 
-j) Não disponibilizar às autoridades competentes a declaração UE de conformidade durante 10 anos a contar da data de colocação do equipamento de rádio no mercado, ou não assegurar que lhes é facultada toda a documentação técnica que aquelas requererem, em violação do disposto na alínea m) do n.º 2 do artigo 13.º;
+j) Não disponibilizar às autoridades competentes, no prazo fixado para o efeito, a declaração UE de conformidade durante 10 anos a contar da data de colocação do equipamento de rádio no mercado, ou não assegurar que lhes é facultada toda a documentação técnica que aquelas requererem, em violação do disposto na alínea m) do n.º 2 do artigo 13.º;
 
-k) Não disponibilizar às autoridades de fiscalização do mercado toda a informação e documentação necessárias, incluindo todos os elementos e condições exigidos pelo artigo 4.º, para demonstrar a conformidade do equipamento de rádio com o presente decreto-lei em língua facilmente compreensível por aquelas, em violação do disposto na alínea n) do n.º 2 do artigo 13.º e no n.º 3 do artigo 5.º;
+k) Não disponibilizar às autoridades de fiscalização do mercado, no prazo fixado para o efeito, toda a informação e documentação necessárias, incluindo todos os elementos e condições exigidos pelo artigo 4.º, para demonstrar a conformidade do equipamento de rádio com o presente decreto-lei em língua facilmente compreensível por aquelas, em violação do disposto na alínea n) do n.º 2 do artigo 13.º e no n.º 3 do artigo 5.º;
 
 l) A falta de cooperação com as autoridades de fiscalização do mercado, designadamente nos termos do disposto nos artigos 35.º e 37.º em qualquer ação de eliminação dos riscos decorrentes de equipamentos de rádio por si colocados no mercado, em violação do disposto na alínea o) do n.º 2 do artigo 13.º;
 
-m) O incumprimento das obrigações de informação prevista no artigo 15.º;
+m) O incumprimento de qualquer das obrigações previstas nos n.os 1 e 2 do artigo 15.º e no n.º 6 do artigo 40.º;
 
 n) A não realização, após determinação de uma autoridade de fiscalização do mercado, dentro do prazo determinado e a expensas suas, de um ensaio de um equipamento de rádio junto de um organismo aceite pelas autoridades de fiscalização do mercado, a fim de verificar a conformidade daquele com os requisitos essenciais, em violação do disposto no n.º 4 do artigo 21.º
 

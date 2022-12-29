@@ -10,7 +10,7 @@
 
 4 - A autoridade de fiscalização do mercado deve comunicar ao organismo notificado em causa os resultados da avaliação e as medidas exigidas ao operador económico nos termos no número anterior.
 
-5 - Para efeitos do número anterior, aplica-se o disposto no artigo 21.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.
+5 - Para efeitos do número anterior, aplica-se o disposto no artigo 21.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008, alterado pelo Regulamento (UE) 2019/1020, do Parlamento Europeu e do Conselho, de 20 de junho de 2019, que deve ser lido de acordo com a tabela de correspondência a que se refere o n.º 2 do artigo 39.º do Regulamento (UE) 2019/1020, do Parlamento Europeu e do Conselho, de 20 de junho de 2019.
 
 6 - Quando as autoridades de fiscalização do mercado considerem que a não conformidade não se limita ao território nacional, devem comunicar à Comissão Europeia e aos outros Estados-Membros os resultados da avaliação e as medidas que exigiu ao operador económico.
 

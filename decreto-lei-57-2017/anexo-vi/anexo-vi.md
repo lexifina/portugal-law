@@ -1,6 +1,6 @@
 # Anexo VI
 
-### [a que se refere a alínea a) do n.º 2 do artigo 18.º]
+### [a que se referem o n.º 3 do artigo 5.º e a alínea a) do n.º 2 do artigo 18.º]
 
 Declaração UE de Conformidade (N.º XXX)
 

@@ -6,7 +6,7 @@
 
 a) A falta de aviso que indique que o equipamento de rádio apresentado em ação de demonstração não pode ser disponibilizado no mercado ou colocado em serviço, em violação do disposto no n.º 2 do artigo 10.º;
 
-b) A elaboração de declaração UE de conformidade que não identifique as referências de publicação dos atos jurídicos da UE, em violação do disposto no n.º 6 do artigo 19.º
+b) A elaboração de declaração UE de conformidade que não identifique as referências de publicação dos atos jurídicos da UE, em violação do disposto no n.º 6 do artigo 18.º
 
 2 - Constituem contraordenações graves:
 
@@ -50,7 +50,7 @@ d) A colocação no mercado de equipamento de rádio que não esteja conforme co
 
 e) A colocação no mercado de equipamento de rádio que não possa ser utilizado em pelo menos um dos Estados-Membros da UE sem infringir as condições de utilização do espectro radioelétrico em vigor, em violação do disposto na alínea b) do n.º 1 do artigo 11.º;
 
-f) Não conservar a documentação técnica completa, a qual deve identificar com precisão o equipamento de rádio e o software que foram avaliados, que deve estar continuamente atualizada, em violação do disposto na alínea f) do n.º 1 do artigo 11.º, no n.º 3 do artigo 5.º e no artigo 21.º, ou não fornecer essa documentação às autoridades de fiscalização do mercado bem como toda a restante informação e documentação necessárias para demonstrar a conformidade do equipamento de rádio com o presente decreto-lei, quando solicitada, em papel ou, preferencialmente, em suporte eletrónico e numa língua facilmente compreensível pelas autoridades, ou a respetiva tradução, conforme previsto na alínea s) do n.º 1 do artigo 11.º e no n.º 3 do artigo 5.º, no n.º 4.2 do anexo II, no n.º 20 do Módulo B do anexo III, no n.º 6 do anexo IV e no anexo V;
+f) Não conservar a documentação técnica completa, a qual deve identificar com precisão o equipamento de rádio e o software que foram avaliados, que deve estar continuamente atualizada, em violação do disposto na alínea f) do n.º 1 do artigo 11.º, no n.º 3 do artigo 5.º e no artigo 21.º, ou não fornecer essa documentação às autoridades de fiscalização do mercado, bem como toda a restante informação e documentação necessárias para demonstrar a conformidade do equipamento de rádio com o presente decreto-lei, quando solicitada e no prazo fixado para o efeito, em papel ou, preferencialmente, em suporte eletrónico e numa língua facilmente compreensível pelas autoridades, ou a respetiva tradução, conforme previsto na alínea s) do n.º 1 do artigo 11.º e no n.º 3 do artigo 5.º, no n.º 4.2 do anexo ii, no n.º 20 do módulo B do anexo iii, no n.º 6 do anexo iv e no anexo v;
 
 g) Não efetuar nem mandar efetuar um dos procedimentos de avaliação de conformidade, em violação do disposto na alínea d) do n.º 1 do artigo 11.º, ou fazê-lo sem que sejam tidas em conta todas as condições de funcionamento previstas e ainda, quando aplicável, as condições razoavelmente previsíveis, em violação do disposto no n.º 2 do artigo 17.º;
 
@@ -70,7 +70,7 @@ n) Não informar imediatamente as autoridades de fiscalização do mercado dos E
 
 o) A falta de cooperação com as autoridades de fiscalização do mercado, designadamente nos termos dos artigos 35.º e 37.º, em qualquer ação de eliminação dos riscos decorrentes de equipamentos de rádio por si colocados no mercado, em violação do disposto na alínea t) do n.º 1 do artigo 11.º;
 
-p) O incumprimento da obrigação prevista nos n.os 1 e 2 do artigo 15.º;
+p) O incumprimento de qualquer das obrigações previstas nos n.os 1 e 2 do artigo 15.º e no n.º 6 do artigo 40.º;
 
 q) A elaboração de declaração UE de conformidade relativa a equipamento que não cumpra os requisitos essenciais, em violação do disposto na alínea n.º 1 do artigo 18.º;
 
