@@ -25,3 +25,7 @@ i) Apoiar a definição da política interna de formação, elaborar o plano anu
 j) Assegurar a gestão administrativa, documental e arquivística da DGEEC, sem prejuízo das competências da Secretaria-Geral;
 
 l) Implementar a política de comunicação interna e externa.
+
+m) Apoiar os utilizadores de instrumentos de suporte à produção de estatísticas e estudos;
+
+n) Apoiar os processos de recolha e tratamento de dados estatísticos.
