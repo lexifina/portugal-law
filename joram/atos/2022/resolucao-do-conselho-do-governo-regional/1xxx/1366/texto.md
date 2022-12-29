@@ -1,0 +1,14 @@
+# Resolução do Conselho do Governo Regional n.º 1366/2022
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 231/2022, 2.º suplemento, de 2022-12-29
+
+**Sumário:** Extingue, com efeitos a partir do dia 31 de dezembro de 2022, a estrutura de missão “INVEST MADEIRA - INTERNACIONALIZAÇÃO E INVESTIMENTO EXTERNO”.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1366/2022
+Sumário: Extingue, com efeitos a partir do dia 31 de dezembro de 2022, a estrutura de missão “INVEST MADEIRA - INTERNACIONALIZAÇÃO E INVESTIMENTO EXTERNO”.
+Texto: Resolução n.º 1366/2022. Considerando que a Secretaria Regional de Economia tem por missão, entre outras, o fomento do empreendedorismo, competitividade e inovação empresarial, bem como a promoção e captação de investimento privado e internacionalização empresarial; Considerando que a Resolução n.º 787/2016, de 31 de outubro, com a redação que lhe foi dada pelas Resoluções n.ºs 319/2018, de 25 de maio e 15/2020, de 21 de janeiro, criou uma estrutura de missão, denominada “INVEST MADEIRA-INTERNACIONALIZAÇÃO E INVESTIMENTO EXTERNO”, com o intuito de multiplicar, sistematizar e reforçar os contactos com investidores e capitais estrangeiros, e abrir novas oportunidades de negócio para os produtos e empresas madeirenses no mundo; Considerando a Resolução n.º 1009/2022, de 25 de outubro, que prorrogou pelo prazo de um ano a vigência da estrutura de missão “INVEST MADEIRA - INTERNACIONALIZAÇÃO E INVESTIMENTO EXTERNO; Considerando que a Resolução n.º 39/2020, de 14 de fevereiro, mandatou o Secretário Regional de Economia para encetar todas as diligências necessárias à criação de uma associação de direito privado, visando a promoção e valorização do tecido empresarial regional e o fortalecimento da sua atividade nos mercados interno e internacionais, bem como a captação de investimentos nacionais ou estrangeiros; Considerando que através da Resolução n.º 959/2022, de 11 de outubro, o Conselho do Governo aprovou a minuta dos estatutos da futura associação de direito privado denominada INVEST MADEIRA - AGÊNCIA PARA A INTERNACIONALIZAÇÃO DE DESENVOLVIMENTO, que visará a promoção e valorização da Região Autónoma da Madeira como destino de investimento; Considerando que aquela associação foi formalmente constituída em cartório notarial no passado dia 16 de dezembro; Considerando que se mostram assim esgotados os objetivos definidos no n.º 2 da Resolução n.º 787/2016, de 31 de outubro; Assim, o Conselho do Governo reunido em plenário em 28 de dezembro de 2022, resolve: Extinguir, com efeitos a partir do dia 31 de dezembro de 2022, a estrutura de missão “INVEST MADEIRA - INTERNACIONALIZAÇÃO E INVESTIMENTO EXTERNO”.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
