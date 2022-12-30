@@ -1,0 +1,58 @@
+Decreto-Lei n.º 87-C/2022
+de 29 de dezembro
+Sumário: Define, para o ano de 2023, as tarifas e demais valores cobrados no âmbito de sistemas multimunicipais de abastecimento de água e de saneamento.
+Em resultado do caráter excecional da situação resultante da pandemia da doença COVID-19, através do Decreto-Lei n.º 124/2021, de 30 de dezembro, foram definidos para o ano de 2022 as tarifas, os rendimentos tarifários e demais valores cobrados no âmbito dos sistemas multimunicipais de abastecimento de água e de saneamento do Centro Litoral de Portugal, do Norte de Portugal e do Vale do Tejo, do sistema multimunicipal de abastecimento de água do sul do Grande Porto e do sistema multimunicipal de saneamento do Grande Porto, a par da definição de outros aspetos relevantes da atividade desenvolvida pelas concessionárias, como a harmonização dos períodos tarifários e a estipulação de regras aplicáveis aos desvios de recuperação de gastos.
+Verifica-se, porém, que subsiste o quadro circunstancial, assim como os pressupostos subjacentes à aprovação do Decreto-Lei n.º 124/2021, de 30 de dezembro, agravados pela tensão inflacionista espoletada pela crise geopolítica decorrente do conflito armado na Ucrânia, que se traduz num nível de gastos acrescidos com impacto tarifário, que não se mostra passível de quantificar pelas diferentes variáveis que afeta, de que o aumento de encargos com a energia, combustíveis ou reagentes constituem três exemplos, pressionando os resultados das empresas do lado dos rendimentos e dos gastos e gerando um quadro de instabilidade para revisão das trajetórias tarifárias para cada concessão.
+Face a este contexto e à incerteza quanto ao seu desfecho e repercussões, afigura-se prematuro o reflexo imediato total ou parcial dos efeitos inflacionistas efetivos e estimados nas tarifas dos referidos sistemas e, consequentemente, nos custos dos fatores produtivos delas dependentes ou no rendimento das famílias, por forma a que os mesmos gastos não sejam refletidos integralmente nas tarifas do período 2023 a 2027.
+Em consequência, importa salvaguardar que os respetivos impactos são adequadamente avaliados nas análises da evolução da eficiência operacional das entidades gestoras dos sistemas referenciados, por não se tratarem de impactos controláveis por estas, ponderando corretamente todos os comparativos, e que também são plenamente acomodados pelos mecanismos contratuais existentes para a recuperação temporal de encargos, num quadro que procura manter assegurada a respetiva sustentabilidade económico-financeira.
+O contexto existente determina, assim, a necessidade de definir, para o ano de 2023, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão relativos aos sistemas multimunicipais de abastecimento de água e de saneamento do Centro Litoral de Portugal, do Norte de Portugal e do Vale do Tejo, bem como do sistema multimunicipal de abastecimento de água do sul do Grande Porto, do sistema multimunicipal de saneamento do Grande Porto e do sistema multimunicipal de abastecimento de água e de saneamento do Algarve.
+No caso dos sistemas multimunicipais do Norte de Portugal e do Vale do Tejo, prevê-se igualmente a manutenção, em 2023, da componente tarifária acrescida vigente em 2022, para permitir a conclusão do processo de apuramento das tarifas a prever nos estudos de viabilidade económico-financeiras preparados para efeito da revisão tarifária para o período de 2023 a 2027 e para as eventuais revisões extraordinárias que venham a ocorrer.
+As tarifas, rendimentos tarifários e demais valores a cobrar contratualmente, para o período tarifário de 2023 a 2027, devem observar a tramitação do procedimento de revisão de tarifas previsto na legislação, podendo ser complementadas com os mecanismos que se mostrarem adequados para fazer face aos efeitos das pressões inflacionistas e outras medidas de equidade e conciliação económica entre sistemas.
+Para o mesmo efeito, importa definir também as regras atinentes ao registo dos desvios de recuperação de gastos que se verifiquem no decurso de 2023, para que os efeitos do presente decreto-lei sejam incorporados de forma adequada naquele mecanismo contratual.
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Entidade Reguladora dos Serviços de Águas e Resíduos.
+Foi promovida a audição do Conselho Nacional do Consumo.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+1 - O presente decreto-lei define, para o ano de 2023, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão relativos:
+a) Ao sistema multimunicipal de abastecimento de água e de saneamento do Centro Litoral de Portugal, criado através do Decreto-Lei n.º 92/2015, de 29 de maio;
+b) Ao sistema multimunicipal de abastecimento de água e de saneamento do Norte de Portugal, criado através do Decreto-Lei n.º 93/2015, de 29 de maio, na sua redação atual;
+c) Ao sistema multimunicipal de abastecimento de água e de saneamento do Vale do Tejo, criado através do Decreto-Lei n.º 94/2015, de 29 de maio, na sua redação atual;
+d) Ao sistema multimunicipal de abastecimento de água do sul do Grande Porto, criado através do Decreto-Lei n.º 16/2017, de 1 de fevereiro, na sua redação atual;
+e) Ao sistema multimunicipal de saneamento do Grande Porto, criado através do Decreto-Lei n.º 16/2017, de 1 de fevereiro, na sua redação atual;
+f) Ao sistema multimunicipal de abastecimento de água e de saneamento do Algarve, criado através do Decreto-Lei n.º 93/2019, de 15 de julho.
+2 - O presente decreto-lei procede ainda à segunda alteração ao Decreto-Lei n.º 16/2021, de 24 de fevereiro, alterado pelo Decreto-Lei n.º 124/2021, de 30 de dezembro, que altera o regime dos sistemas multimunicipais de recolha, tratamento e rejeição de efluentes e introduz medidas relativas à geração e recuperação dos desvios de recuperação de determinados gastos.
+Artigo 2.º
+Tarifário aplicável em 2023
+1 - Mantêm-se vigentes, no ano de 2023, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão, aplicados em 2022, aos utilizadores municipais, utilizadores finais e clientes dos sistemas multimunicipais de abastecimento de água e de saneamento do Centro Litoral de Portugal, do Norte de Portugal, do Vale do Tejo e do Algarve, do sistema multimunicipal de abastecimento de água do sul do Grande Porto e do sistema multimunicipal de saneamento do Grande Porto.
+2 - Mantêm-se vigentes, no ano de 2023, as tarifas a que se referem os n.os 3 e 4 do artigo 36.º do Decreto-Lei n.º 94/2015, de 29 de maio, na sua redação atual, e previstas nos anexos IV e V ao referido decreto-lei, tal como aplicadas em 2022 por força do disposto no Decreto-Lei n.º 124/2021, de 30 de dezembro.
+3 - Os tarifários aplicáveis em 2023, referidos nos números anteriores, são atualizados de acordo com a previsão do índice harmonizado de preços no consumidor publicado pela entidade responsável pela sua divulgação, sem prejuízo dos acertos a que seja necessário proceder anualmente nos termos previstos nos contratos de concessão.
+4 - Excetua-se do disposto no número anterior:
+a) A tarifa aplicada pela EPAL - Empresa Portuguesa das Águas Livres, S. A., nas atividades em alta ao abrigo do contrato celebrado com a Águas do Vale do Tejo, S. A., cuja atualização obedece ao regime contratualmente estabelecido e constante da nota (4) do anexo IV ao Decreto-Lei n.º 94/2015, de 29 de maio, na sua redação atual;
+b) As trajetórias tarifárias, as tarifas, os rendimentos tarifários e os demais valores estabelecidos nos contratos de concessão para o ano de 2023, bem como as respetivas regras de atualização, do sistema multimunicipal de saneamento de águas residuais do Tejo Atlântico e do sistema multimunicipal de saneamento da Península de Setúbal, criados através do Decreto-Lei n.º 34/2017, de 24 de março.
+Artigo 3.º
+Componente tarifária acrescida
+1 - Mantém-se vigente, no ano de 2023, a componente tarifária acrescida prevista no Decreto-Lei n.º 94/2015, de 29 de maio, na sua redação atual, e a componente tarifária acrescida prevista no Decreto-Lei n.º 16/2017, de 1 de fevereiro, na sua redação atual, tal como aplicadas em 2022 por força do disposto no Decreto-Lei n.º 124/2021, de 30 de dezembro.
+2 - As componentes tarifárias acrescidas referidas no número anterior correspondem às que vigoraram em 2022, atualizadas de acordo com a previsão do índice harmonizado de preços no consumidor publicado pela entidade responsável pela sua divulgação, sem prejuízo dos acertos a que seja necessário proceder anualmente nos termos previstos nos contratos de concessão.
+Artigo 4.º
+Desvios de recuperação de gastos
+1 - As concessionárias dos sistemas multimunicipais referidas no n.º 1 do artigo 2.º devem registar nas suas contas os desvios de recuperação de gastos que se verifiquem no ano de 2023, nos termos estabelecidos no Decreto-Lei n.º 124/2021, de 30 de dezembro, e nos respetivos contratos de concessão.
+2 - Os desvios de recuperação de gastos referidos no número anterior consideram-se integrados no primeiro período tarifário das concessões para efeitos de aplicação do regime de recuperação estabelecido no Decreto-Lei n.º 16/2021, de 24 de fevereiro, na sua redação atual, no Decreto-Lei n.º 124/2021, de 30 de dezembro, e nos respetivos contratos de concessão.
+Artigo 5.º
+Alteração ao Decreto-Lei n.º 16/2021, de 24 de fevereiro
+O artigo 8.º do Decreto-Lei n.º 16/2021, de 24 de fevereiro, na sua redação atual, passa a ter a seguinte redação:
+«Artigo 8.º
+[...]
+1 - Os contratos de concessão dos sistemas multimunicipais criados através do Decreto-Lei n.º 92/2015, de 29 de maio, do Decreto-Lei n.º 93/2015, de 29 de maio, na sua redação atual, do Decreto-Lei n.º 94/2015, de 29 de maio, na sua redação atual, do Decreto-Lei n.º 16/2017, de 1 de fevereiro, na sua redação atual, do Decreto-Lei n.º 34/2017, de 24 de março, e do Decreto-Lei n.º 93/2019, de 15 de julho, devem ser alterados até 31 de dezembro de 2023, de modo a assegurar a conformidade com o disposto no presente decreto-lei.
+2 - [...]»
+Artigo 6.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - João Saldanha de Azevedo Galamba - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+Promulgado em 28 de dezembro de 2022.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 29 de dezembro de 2022.
+O Primeiro-Ministro, António Luís Santos da Costa.
+116022491
