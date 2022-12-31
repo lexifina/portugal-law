@@ -24,9 +24,9 @@ b) Quaisquer outras prestações compensatórias da perda ou inexistência de re
 
 9 - Para os efeitos previstos no n.º 1, as importâncias auferidas pelos bolseiros, pelos beneficiários de prestações compensatórias da perda ou inexistência de rendimentos, garantidas pelo sistema previdencial ou pelo subsistema de solidariedade da segurança social, ou garantidas por outros sistemas de protecção social obrigatória, são contabilizadas no apuramento dos rendimentos do candidato ou dos membros do agregado jovem, considerando-se o rendimento mensal bruto o correspondente a 1/12 dessas mesmas importâncias concedidas no ano imediatamente anterior ao da candidatura ou das candidaturas subsequentes, sem prejuízo das necessárias adaptações sempre que se verifique o disposto no n.º 5 do presente artigo.
 
-10 - Nos períodos de candidatura que decorram no 2.º semestre de cada ano, o candidato que concorra ao apoio pela primeira vez pode optar por apresentar o rendimento anual bruto do ano imediatamente anterior, de acordo com o presente artigo, ou apresentar os rendimentos dos seis meses anteriores à candidatura, incluindo os duodécimos referentes aos subsídios de férias e de Natal recebidos.
+10 - O candidato pode optar por apresentar o rendimento anual bruto do ano imediatamente anterior, nos termos do presente artigo, ou apresentar os rendimentos dos seis meses anteriores à candidatura, incluindo os duodécimos referentes aos subsídios de férias e de Natal recebidos.
 
-11 - No caso previsto no número anterior, quando os valores relevantes para a atribuição do apoio não forem confirmados por via electrónica junto dos competentes serviços públicos, o Instituto da Habitação e da Reabilitação Urbana (IHRU) solicita ao candidato a sua declaração de rendimentos, referente ao ano em que se candidatou.
+11 - O candidato é responsável pela veracidade e atualidade das informações prestadas ou obtidas através de mecanismos de interoperabilidade estabelecidos entre o Instituto da Habitação e da Reabilitação Urbana (IHRU), as entidades das áreas das finanças e da segurança social e as demais entidades públicas competentes na matéria.
 
 12 - Ao cálculo do RM, no caso de se optar por apresentar os rendimentos dos últimos seis meses, são aplicados os n.os 3 a 9, com as devidas adaptações.
 

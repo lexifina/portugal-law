@@ -28,6 +28,6 @@ l) artigo e fracção da matriz do imóvel arrendado e eventual identificação 
 
 m) Relação de parentesco entre os elementos do agregado e o titular do contrato de arrendamento.
 
-2 - A recolha dos dados referidos no número anterior é feita através do preenchimento do formulário electrónico existente na plataforma informática do programa, segundo modelo aprovado por despacho, no qual os jovens, os membros do seu agregado, bem como os ascendentes, sendo caso disso, autorizam o IHRU a confirmar os dados recolhidos junto da Direcção-Geral dos Impostos, do Instituto de Segurança Social ou de outras entidades para tal autorizadas, nos termos do artigo seguinte.
+2 - A recolha dos dados referidos no número anterior é feita através do preenchimento do formulário eletrónico existente na plataforma informática do programa, no qual os jovens, os membros do seu agregado, bem como os ascendentes, sendo caso disso, autorizam o IHRU a confirmar os dados recolhidos junto da Autoridade Tributária e Aduaneira, do Instituto de Segurança Social ou de outras entidades para tal autorizadas, nos termos do artigo seguinte.
 
 3 - A falta de autorização nos termos do número anterior, determina a rejeição liminar da candidatura.
