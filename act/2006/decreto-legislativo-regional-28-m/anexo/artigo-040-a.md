@@ -1,3 +1,11 @@
+## Capítulo V
+
+## Do Fundo de Estabilização Tributário da Região Autónoma da Madeira
+
+## Secção I
+
+## Da natureza e equilíbrio financeiro
+
 # Artigo 40.º-A
 
 ### Afetação de verbas do FET-M para a construção de obra social
