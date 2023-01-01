@@ -22,7 +22,7 @@
 
 3 - O valor anual dos rendimentos a considerar para efeitos do número anterior corresponde a 14 vezes o valor do IAS.
 
-4 - O montante do abono de família para crianças e jovens inseridos em agregados familiares monoparentais é majorado em 35 %.
+4 - O montante do abono de família para crianças e jovens inseridos em agregados familiares monoparentais é majorado em 50 %.
 
 5 - Nos primeiros 6 anos de vida, o montante do abono de família para crianças e jovens é majorado em função da idade, nos termos a fixar em portaria.
 
