@@ -4,11 +4,11 @@
 
 1 - São tributados à taxa autónoma de 28 %:
 
-a) As mais-valias previstas nas alíneas a) e d) do n.º 1 do artigo 10.º auferidas por não residentes em território português que não sejam imputáveis a estabelecimento estável nele situado;
+a) (Revogada.)
 
 b) Outros rendimentos auferidos por não residentes em território português que não sejam imputáveis a estabelecimento estável nele situado e que não sejam sujeitos a retenção na fonte às taxas liberatórias;
 
-c) O saldo positivo entre as mais-valias e menos-valias, resultante das operações previstas nas alíneas b), c), e), f), g) e h) do n.º 1 do artigo 10.º;
+c) O saldo positivo entre as mais-valias e menos-valias, resultante das operações previstas nas alíneas b), c), e), f), g), h) e k) do n.º 1 do artigo 10.º;
 
 d) Os rendimentos de capitais, tal como são definidos no artigo 5.º, quando não sujeitos a retenção na fonte, nos termos do artigo anterior;
 
@@ -44,7 +44,7 @@ b) Não obstante o disposto no número anterior, os rendimentos previstos nas al
 
 14 - Não obstante o disposto na alínea c) do n.º 1, o saldo entre as mais-valias e menos-valias, resultante das operações previstas na alínea b) do n.º 1 do artigo 10.º, incluindo os rendimentos referidos nas alíneas b) e c) do n.º 18, são obrigatoriamente englobados quando resultem de ativos detidos por um período inferior a 365 dias e o sujeito passivo tenha um rendimento coletável, incluindo este saldo, igual ou superior ao valor do último escalão do n.º 1 do artigo 68.º
 
-15 - Os residentes noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, desde que, neste último caso, exista intercâmbio de informações em matéria fiscal, podem optar, relativamente aos rendimentos referidos nas alíneas a), b) e e) do n.º 1 e no n.º 2, pela tributação desses rendimentos à taxa que, de acordo com a tabela prevista no n.º 1 do artigo 68.º, seria aplicável no caso de serem auferidos por residentes em território português.
+15 - Os residentes noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, desde que, neste último caso, exista intercâmbio de informações em matéria fiscal, podem optar, relativamente aos rendimentos referidos nas alíneas b) e e) do n.º 1 e no n.º 6, pela tributação desses rendimentos à taxa que, de acordo com a tabela prevista no n.º 1 do artigo 68.º, seria aplicável no caso de serem auferidos por residentes em território português.
 
 16 - Para efeitos de determinação da taxa referida no número anterior são tidos em consideração todos os rendimentos, incluindo os obtidos fora deste território, nas mesmas condições que são aplicáveis aos residentes.
 

@@ -44,6 +44,8 @@ s) As indemnizações que visem compensar perdas de rendimentos desta categoria;
 
 t) Os montantes pagos ou colocados à disposição do sujeito passivo por estruturas fiduciárias, quando tais montantes não estejam associados à sua liquidação, revogação ou extinção, e não tenham sido já tributados nos termos do n.º 3 do artigo 20.º
 
+u) Quaisquer formas de remuneração decorrentes de operações relativas a criptoativos.
+
 3 - Consideram-se ainda rendimentos de capitais a diferença positiva entre os montantes pagos a título de resgate, adiantamento ou vencimento de seguros e operações do ramo «Vida» e os respetivos prémios pagos ou importâncias investidas, bem como a diferença positiva entre os montantes pagos a título de resgate, remição ou outra forma de antecipação de disponibilidade por fundos de pensões ou no âmbito de outros regimes complementares de segurança social, incluindo os disponibilizados por associações mutualistas, e as respetivas contribuições pagas, sem prejuízo do disposto nas alíneas seguintes, quando o montante dos prémios, importâncias ou contribuições pagos na primeira metade da vigência dos contratos representar pelo menos 35 % da totalidade daqueles:
 
 a) São excluídos da tributação um quinto do rendimento, se o resgate, adiantamento, remição ou outra forma de antecipação de disponibilidade, bem como o vencimento, ocorrerem após cinco e antes de oito anos de vigência do contrato;
@@ -63,3 +65,5 @@ b) São excluídos da tributação três quintos do rendimento, se o resgate, ad
 9 - (Revogado.)
 
 10 - (Revogado.)
+
+11 - Os rendimentos previstos na alínea u) do n.º 2, quando assumam a forma de criptoativos, são tributados como mais-valia no momento da alienação dos criptoativos recebidos.

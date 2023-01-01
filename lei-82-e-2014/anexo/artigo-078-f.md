@@ -24,10 +24,16 @@ b) À mesma organização não-governamental de ambiente e à mesma pessoa colet
 
 c) À mesma pessoa coletiva de utilidade pública que desenvolva atividades de natureza e interesse cultural, constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista no artigo 152.º deste Código.
 
-3 - É ainda dedutível à coleta, concorrendo para o limite referido no n.º 1, um montante correspondente a 100 % do IVA suportado por qualquer membro do agregado familiar, com a aquisição de passes mensais para utilização de transportes públicos coletivos, emitidos por operadores de transportes públicos de passageiros com o CAE classe 49310, 49391, 49392, 50102 e 50300, todos da secção H, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira nos termos das disposições indicadas no n.º 1.
+3 - É ainda dedutível à coleta, concorrendo para o limite referido no n.º 1, um montante correspondente a 100 % do IVA suportado por qualquer membro do agregado familiar, com a aquisição de passes mensais ou de bilhetes para utilização de transportes públicos coletivos, emitidos por operadores de transportes públicos de passageiros com o CAE classe 49310, 49391, 49392, 50102 e 50300, todos da secção H, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira nos termos das disposições indicadas no n.º 1.
 
 4 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
 
 5 - Nas atividades previstas no n.º 1 consideram-se abrangidas as atividades equivalentes previstas na tabela a que se refere o artigo 151.º.
 
 6 - O disposto na alínea e) do n.º 1 inclui a aquisição de medicamentos de uso veterinário, concorrendo para o limite referido no n.º 1 um montante correspondente a 35 % do IVA suportado por qualquer membro do agregado familiar.
+
+7 - É ainda dedutível à coleta, concorrendo para o limite referido no n.º 1, um montante correspondente à totalidade do IVA suportado por qualquer membro do agregado familiar, que conste de faturas relativas a aquisição de assinaturas de publicações periódicas (jornais e revistas), incluindo digitais, tributados à taxa reduzida do IVA, comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
+
+a) Secção J, classe 58130 - Edição de jornais;
+
+b) Secção J, classe 58140 - Edição de revistas e de outras publicações periódicas.

@@ -16,10 +16,6 @@ a) (euro) 126 por cada dependente referido na alínea a) e (euro) 63 a cada suje
 
 b) (euro) 110 no caso de existir apenas um ascendente enquadrável na alínea c) nos termos previstos no número anterior.
 
-3 - Quando exista mais de um dependente, à dedução prevista nas alíneas a) e b) do n.º 1 somam-se os seguintes montantes:
-
-a) 300 (euro) e 150 (euro), respetivamente, para o segundo dependente e seguintes que não ultrapassem três anos de idade até 31 de dezembro do ano a que respeita o imposto, independentemente da idade do primeiro dependente;
-
-b) 150 (euro) e 75 (euro), respetivamente, para o segundo dependente e seguintes que, ultrapassando os três anos, não ultrapassem seis anos de idade até 31 de dezembro do ano a que respeita o imposto, independentemente da idade do primeiro dependente.
+3 - Quando exista mais de um dependente, à dedução prevista nas alíneas a) e b) do n.º 1 somam-se os montantes de (euro) 300 e (euro) 150, respetivamente, para o segundo dependente e seguintes que não ultrapassem seis anos de idade até 31 de dezembro do ano a que respeita o imposto, independentemente da idade do primeiro dependente.
 
 4 - As deduções referidas nos n.os 2 e 3 não são cumulativas.

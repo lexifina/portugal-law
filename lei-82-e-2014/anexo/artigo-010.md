@@ -34,6 +34,8 @@ i) Afetação de quaisquer bens do património particular, com exceção dos ben
 
 j) Cessão onerosa de direitos sobre estruturas fiduciárias, incluindo a cessão onerosa da posição de beneficiário.
 
+k) Alienação onerosa de criptoativos que não constituam valores mobiliários.
+
 2 - (Revogado.)
 
 3 - Os ganhos consideram-se obtidos no momento da prática dos atos previstos no n.º 1, sem prejuízo do disposto nas alíneas seguintes:
@@ -46,7 +48,7 @@ c) Nos contratos de permuta de bens presentes por bens futuros, a tributação a
 
 4 - O ganho sujeito a IRS é constituído:
 
-a) Pela diferença entre o valor de realização e o valor de aquisição, líquidos da parte qualificada como rendimento de capitais, sendo caso disso, nas situações previstas nas alíneas a), b), c) e i) do n.º 1;
+a) Pela diferença entre o valor de realização e o valor de aquisição, líquidos da parte qualificada como rendimento de capitais, sendo caso disso, nas situações previstas nas alíneas a), b), c), i), j) e k) do n.º 1, sem prejuízo do disposto no n.º 19;
 
 b) Pela importância recebida pelo cedente, deduzida do preço por que eventualmente tenha obtido os direitos e bens objeto de cessão, no caso previsto na alínea d) do n.º 1;
 
@@ -133,3 +135,15 @@ b) A exigência dos elementos de prova previstos nos n.os 5 e 6 do artigo 78.º 
 15 - (Revogado.)
 
 16 - Os ganhos obtidos com a alienação onerosa de direitos reais sobre bens imóveis que tenham estado afetos à atividade empresarial e profissional do sujeito passivo são tributados de acordo com as regras da categoria B, caso a alienação ocorra antes de decorridos três anos após a transferência para o património particular do sujeito passivo.
+
+17 - Para efeitos do presente Código, considera-se criptoativo toda a representação digital de valor ou direitos que possa ser transferida ou armazenada eletronicamente recorrendo à tecnologia de registo distribuído ou outra semelhante.
+
+18 - Excluem-se do disposto no número anterior os criptoativos únicos e não fungíveis com outros criptoativos.
+
+19 - São excluídos os ganhos obtidos, bem como as perdas incorridas, resultantes das operações previstas na alínea k) do n.º 1 relativas a criptoativos detidos por um período igual ou superior a 365 dias.
+
+20 - Quando não se aplique o disposto no número anterior e a contraprestação das alienações previstas na alínea k) do n.º 1, incluindo as relativas a criptoativos recebidos nos termos do disposto no n.º 11 do artigo 5.º, assuma a forma de criptoativos, não há lugar a tributação, atribuindo-se aos criptoativos recebidos o valor de aquisição dos criptoativos entregues, determinado nos termos deste Código.
+
+21 - O disposto nos n.os 19 e 20 não se aplica aos rendimentos auferidos por sujeitos passivos ou devidos por qualquer pessoa ou entidade quando uns ou outros não forem residentes para efeitos fiscais noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu ou noutro Estado ou jurisdição com o qual esteja em vigor convenção para evitar a dupla tributação internacional, acordo bilateral ou multilateral que preveja a troca de informações para fins fiscais.
+
+22 - Para efeitos do disposto na alínea k) do n.º 1, a perda da qualidade de residente em território português é equiparada a uma alienação onerosa.

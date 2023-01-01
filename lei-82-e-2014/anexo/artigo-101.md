@@ -16,9 +16,9 @@ e) 25 %, tratando-se de rendimentos da categoria F.
 
 2 - Tratando-se de rendimentos referidos no artigo 71.º, a retenção na fonte nele prevista cabe:
 
-a) Às entidades devedoras dos rendimentos referidos nos n.os 1 e 4 e na alínea c) do n.º 16 do artigo 71.º;
+a) Às entidades devedoras dos rendimentos referidos nos n.os 1 e 4 e na alínea c) do n.º 17 do artigo 71.º;
 
-b) Às entidades que paguem ou coloquem à disposição os rendimentos referidos na alínea b) do n.º 1 e nas alíneas a) e b) do n.º 16 do artigo 71.º
+b) Às entidades que paguem ou coloquem à disposição os rendimentos referidos na alínea b) do n.º 1 e nas alíneas a) e b) do n.º 17 do artigo 71.º;
 
 c) Às entidades gestoras de plataformas de financiamento colaborativo que paguem ou coloquem à disposição rendimentos referidos no n.º 1 do artigo 71.º e que tenham em território português a sua sede ou direção efetiva ou estabelecimento estável a que deva imputar-se o pagamento.
 

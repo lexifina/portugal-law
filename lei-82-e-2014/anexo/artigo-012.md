@@ -37,3 +37,9 @@ c) Os prémios em reconhecimento do valor e mérito de êxitos desportivos, nos 
 9 - São excluídos de tributação, até ao limite anual global de 5 vezes o valor do IAS, os rendimentos da categoria A provenientes de contrato de trabalho e os rendimentos de categoria B provenientes de contrato de prestação de serviços, incluindo atos isolados, por estudante considerado dependente, nos termos do artigo 13.º, a frequentar estabelecimento de ensino integrado no sistema nacional de educação ou reconhecidos como tendo fins análogos pelos ministérios competentes.
 
 10 - Para efeitos do disposto no número anterior, devem os sujeitos passivos submeter através do Portal das Finanças, até 15 de fevereiro do ano seguinte àquele a que o imposto respeita, documento comprovativo da frequência de estabelecimento de ensino oficial ou autorizado.
+
+11 - São excluídos, até ao limite de 1000 (euro), os rendimentos anuais resultantes das seguintes atividades:
+
+a) Transação da energia excedente produzida para autoconsumo a partir de fontes de energia renovável, por unidades de produção para o autoconsumo, até ao limite de 1 MW da respetiva potência instalada;
+
+b) Transação da energia produzida em unidades de pequena produção a partir de fontes de energia renovável, até ao limite de 1 MW da respetiva potência instalada.

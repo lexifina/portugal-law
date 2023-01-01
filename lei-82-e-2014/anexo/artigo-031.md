@@ -4,13 +4,13 @@
 
 1 - No âmbito do regime simplificado, a determinação do rendimento tributável obtém-se através da aplicação dos seguintes coeficientes:
 
-a) 0,15 às vendas de mercadorias e produtos, bem como às prestações de serviços efetuadas no âmbito de atividades de restauração e bebidas e de atividades hoteleiras e similares, com exceção daquelas que se desenvolvam no âmbito da atividade de exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento;
+a) 0,15 às vendas de mercadorias e produtos, às operações com criptoativos, com exceção da referida na alínea d), bem como às prestações de serviços efetuadas no âmbito de atividades de restauração e bebidas e de atividades hoteleiras e similares, com exceção daquelas que se desenvolvam no âmbito da atividade de exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento;
 
 b) 0,75 aos rendimentos das atividades profissionais especificamente previstas na tabela a que se refere o artigo 151.º;
 
 c) 0,35 aos rendimentos de prestações de serviços não previstos nas alíneas anteriores;
 
-d) 0,95 aos rendimentos provenientes de contratos que tenham por objeto a cessão ou utilização temporária da propriedade intelectual ou industrial ou a prestação de informações respeitantes a uma experiência adquirida no setor industrial, comercial ou científico, aos rendimentos de capitais imputáveis a atividades geradoras de rendimentos empresariais e profissionais, ao resultado positivo de rendimentos prediais, ao saldo positivo das mais e menos-valias e aos restantes incrementos patrimoniais;
+d) 0,95 aos rendimentos provenientes da mineração de criptoativos, de contratos que tenham por objeto a cessão ou utilização temporária da propriedade intelectual ou industrial ou a prestação de informações respeitantes a uma experiência adquirida no setor industrial, comercial ou científico, aos rendimentos de capitais imputáveis a atividades geradoras de rendimentos empresariais e profissionais, ao resultado positivo de rendimentos prediais, ao saldo positivo das mais e menos-valias e aos restantes incrementos patrimoniais;
 
 e) 0,30 aos subsídios ou subvenções não destinados à exploração;
 
@@ -75,3 +75,11 @@ b) Os imóveis afetos exclusiva ou parcialmente à sua atividade empresarial ou 
 c) As importações e aquisições intracomunitárias de bens e serviços efetuadas, específica e exclusivamente, no âmbito da sua atividade empresarial ou profissional são indicadas na declaração de rendimentos prevista no artigo 57.º
 
 16 - Sem prejuízo do disposto na alínea a) do número anterior, o sujeito passivo pode, na declaração de rendimentos a que se refere o artigo 57.º, declarar o valor das despesas e encargos aí referidos, bem como as despesas e encargos referidos na alínea b) do n.º 13, caso em que, o uso desta faculdade determina a consideração dos valores que sejam declarados pelo sujeito passivo, os quais substituem os que tenham sido comunicados pela Autoridade Tributária e Aduaneira nos termos da lei, não dispensando, porém, o cumprimento da obrigação de comprovar os montantes declarados nos termos gerais do artigo 128.º
+
+17 - Tratando-se de rendimentos decorrentes de operações com criptoativos, previstos nas alíneas a) e d) do n.º 1, os mesmos consideram-se obtidos no momento da alienação onerosa dos criptoativos, aplicando-se, com as devidas adaptações, o previsto no n.º 20 do artigo 10.º
+
+18 - Sem prejuízo do disposto no número anterior, é equiparada a uma alienação onerosa:
+
+a) A cessação de atividade;
+
+b) A perda da qualidade de residente em território português.

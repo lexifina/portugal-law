@@ -23,3 +23,5 @@ a) Não pode ser exercida por titulares que, no ano anterior, tenham auferido re
 b) Cessa no mês seguinte àquele em que tiver sido atingido o limite nela fixado.
 
 4 - Não obstante o disposto na alínea b) do n.º 1 do artigo 71.º, nas situações previstas nos n.os 4 a 6 do artigo 81.º, os rendimentos a que se aplicar o método de isenção estão dispensados de retenção na fonte.
+
+5 - Não obstante o disposto na alínea a) do n.º 1 do artigo 71.º, os rendimentos previstos na alínea u) do n.º 2 do artigo 5.º estão dispensados de retenção na fonte.

@@ -30,25 +30,27 @@ d) Os incrementos patrimoniais previstos nas alíneas b) e c) do n.º 1 do artig
 
 6 - Para efeitos do número anterior, o titular dos rendimentos deve comunicar à entidade devedora, através de declaração escrita, que não auferiu ou aufere o mesmo tipo de rendimentos de outras entidades residentes em território português ou de estabelecimentos estáveis de entidades não residentes neste território.
 
-7 - As taxas previstas nos números anteriores incidem sobre os rendimentos ilíquidos, exceto no que se refere às pensões, as quais beneficiam da dedução prevista no artigo 53.º, sem prejuízo do que se disponha na lei, designadamente no Estatuto dos Benefícios Fiscais.
+7 - Quando os rendimentos a que se refere o n.º 5 forem auferidos a título de trabalho suplementar, o limite previsto no n.º 5 é aplicável autonomamente em relação aos rendimentos auferidos nas primeiras 50 horas de trabalho ou serviços prestados a esse título, aplicando-se a taxa prevista no n.º 4 à parte que exceda aquele limite ou número de horas.
 
-8 - Os rendimentos a que se refere o n.º 1 podem ser englobados para efeitos da sua tributação, por opção dos respetivos titulares, residentes em território nacional, desde que obtidos fora do âmbito do exercício de atividades empresariais e profissionais.
+8 - As taxas previstas nos números anteriores incidem sobre os rendimentos ilíquidos, exceto no que se refere às pensões, as quais beneficiam da dedução prevista no artigo 53.º, sem prejuízo do que se disponha na lei, designadamente no Estatuto dos Benefícios Fiscais.
 
-9 - Feita a opção a que se refere o número anterior, a retenção que tiver sido efetuada tem a natureza de pagamento por conta do imposto devido a final.
+9 - Os rendimentos a que se refere o n.º 1 podem ser englobados para efeitos da sua tributação, por opção dos respetivos titulares, residentes em território nacional, desde que obtidos fora do âmbito do exercício de atividades empresariais e profissionais.
 
-10 - Os titulares de rendimentos referidos nas alíneas a) a d), f), m) e o) do n.º 1 do artigo 18.º sujeitos a retenção na fonte nos termos do presente artigo que sejam residentes noutro Estado membro da União Europeia ou do espaço económico europeu, neste último caso desde que exista obrigação de cooperação administrativa em matéria fiscal equivalente à estabelecida na União Europeia, podem solicitar a devolução, total ou parcial, do imposto retido e pago na parte em que seja superior ao que resultaria da aplicação da tabela de taxas prevista no n.º 1 do artigo 68.º, tendo em consideração todos os rendimentos, incluindo os obtidos fora deste território, nas mesmas condições que são aplicáveis aos residentes.
+10 - Feita a opção a que se refere o número anterior, a retenção que tiver sido efetuada tem a natureza de pagamento por conta do imposto devido a final.
 
-11 - Para os efeitos do disposto no número anterior, são dedutíveis até à concorrência dos rendimentos, os encargos devidamente comprovados necessários para a sua obtenção que estejam direta e exclusivamente relacionados com os rendimentos obtidos em território português ou, no caso dos rendimentos do trabalho dependente, as importâncias previstas no artigo 25.º
+11 - Os titulares de rendimentos referidos nas alíneas a) a d), f), m) e o) do n.º 1 do artigo 18.º sujeitos a retenção na fonte nos termos do presente artigo que sejam residentes noutro Estado membro da União Europeia ou do espaço económico europeu, neste último caso desde que exista obrigação de cooperação administrativa em matéria fiscal equivalente à estabelecida na União Europeia, podem solicitar a devolução, total ou parcial, do imposto retido e pago na parte em que seja superior ao que resultaria da aplicação da tabela de taxas prevista no n.º 1 do artigo 68.º, tendo em consideração todos os rendimentos, incluindo os obtidos fora deste território, nas mesmas condições que são aplicáveis aos residentes.
 
-12 - A devolução do imposto retido e pago deve ser requerida aos serviços competentes da Autoridade Tributária e Aduaneira, no prazo de dois anos contados do final do ano civil seguinte em que se verificou o facto tributário, devendo a restituição ser efetuada até ao fim do 3.º mês seguinte ao da apresentação dos elementos e informações indispensáveis à comprovação das condições e requisitos legalmente exigidos, acrescendo, em caso de incumprimento deste prazo, juros indemnizatórios a taxa idêntica à aplicável aos juros compensatórios a favor do Estado.
+12 - Para os efeitos do disposto no número anterior, são dedutíveis até à concorrência dos rendimentos, os encargos devidamente comprovados necessários para a sua obtenção que estejam direta e exclusivamente relacionados com os rendimentos obtidos em território português ou, no caso dos rendimentos do trabalho dependente, as importâncias previstas no artigo 25.º
 
-13 - (Revogado.)
+13 - A devolução do imposto retido e pago deve ser requerida aos serviços competentes da Autoridade Tributária e Aduaneira, no prazo de dois anos contados do final do ano civil seguinte em que se verificou o facto tributário, devendo a restituição ser efetuada até ao fim do 3.º mês seguinte ao da apresentação dos elementos e informações indispensáveis à comprovação das condições e requisitos legalmente exigidos, acrescendo, em caso de incumprimento deste prazo, juros indemnizatórios a taxa idêntica à aplicável aos juros compensatórios a favor do Estado.
 
 14 - (Revogado.)
 
-15 - A apresentação do requerimento referido no n.º 12 implica a comunicação espontânea ao Estado de residência do contribuinte do teor do pedido de devolução formulado e do respetivo montante.
+15 - (Revogado.)
 
-16 - Estão sujeitos a retenção na fonte a título definitivo, à taxa liberatória de 35 %:
+16 - A apresentação do requerimento referido no n.º 13 implica a comunicação espontânea ao Estado de residência do contribuinte do teor do pedido de devolução formulado e do respetivo montante.
+
+17 - Estão sujeitos a retenção na fonte a título definitivo, à taxa liberatória de 35 %:
 
 a) Todos os rendimentos referidos nos números anteriores sempre que sejam pagos ou colocados à disposição em contas abertas em nome de um ou mais titulares mas por conta de terceiros não identificados, exceto quando seja identificado o beneficiário efetivo, termos em que se aplicam as regras gerais;
 

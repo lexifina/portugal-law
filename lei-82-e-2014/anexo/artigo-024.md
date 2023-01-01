@@ -2,7 +2,7 @@
 
 ### Rendimentos em espécie
 
-1 - A equivalência pecuniária dos rendimentos em espécie faz-se de acordo com as seguintes regras, de aplicação sucessiva:
+1 - A equivalência pecuniária dos rendimentos em espécie, incluindo quando assumam a forma de criptoativos, faz-se de acordo com as seguintes regras, de aplicação sucessiva:
 
 a) Pelo preço tabelado oficialmente;
 
