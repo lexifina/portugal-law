@@ -46,6 +46,12 @@ i) As contrapartes centrais, instituições de crédito, sociedades financeiras 
 
 ii) O primeiro alienante domiciliado em território nacional, caso as operações não tenham sido intermediadas pelas entidades referidas na subalínea anterior.
 
+u) Os prestadores de serviços de criptoativos, nas operações previstas na verba n.º 30 da Tabela Geral, salvo se estes não forem domiciliados em território nacional, caso em que os sujeitos passivos do imposto são:
+
+i) Os prestadores de serviços de criptoativos domiciliados em território nacional que tenham intermediado as operações;
+
+ii) Os representantes que, para o efeito, são obrigatoriamente nomeados em Portugal, caso as operações não tenham sido intermediadas pelas entidades referidas na subalínea anterior.
+
 2 - Nas transmissões gratuitas, são sujeitos passivos do imposto as pessoas singulares para quem se transmitam os bens, sem prejuízo das seguintes regras:
 
 a) Nas sucessões por morte, o imposto é devido pela herança, representada pelo cabeça-de-casal, e pelos legatários;

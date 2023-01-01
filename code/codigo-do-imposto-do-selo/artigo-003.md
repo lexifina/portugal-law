@@ -52,6 +52,8 @@ u) (Revogada).
 
 v) Nas situações previstas na verba n.º 29 da Tabela Geral, os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário.
 
+w) Nas operações realizadas por ou com intermediação de prestador de serviços de criptoativos, o cliente destes;
+
 x) Nas situações previstas na verba n.º 29 da Tabela Geral, os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário.
 
 4 - (Revogado.)

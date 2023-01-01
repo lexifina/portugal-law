@@ -30,6 +30,10 @@ f) Direitos de crédito dos sócios sobre prestações pecuniárias não comerci
 
 g) Aquisição derivada de invalidade, distrate, renúncia ou desistência, resolução, ou revogação da doação entre vivos, com ou sem reserva de usufruto, salvo nos casos previstos nos artigos 970.º e 1765.º do Código Civil, relativamente aos bens e direitos enunciados nas alíneas antecedentes.
 
+h) Os valores distribuídos em resultado da liquidação, revogação ou extinção de estruturas fiduciárias a sujeitos passivos que não as constituíram.
+
+i) Criptoativos, tal como definidos nos n.os 17 e 18 do artigo 10.º do Código do IRS.
+
 4 - São consideradas simultaneamente como aquisições a título oneroso e gratuito as constantes do artigo 3.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT).
 
 5 - Para efeitos da verba 1.2 da tabela geral, não são sujeitas a imposto do selo as seguintes transmissões gratuitas:

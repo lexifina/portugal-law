@@ -28,7 +28,11 @@ c) Os direitos de crédito ou direitos patrimoniais sobre pessoas singulares ou 
 
 d) As participações sociais quando a sociedade participada tenha a sua sede, direcção efectiva ou estabelecimento estável em território nacional, desde que o adquirente tenha domicílio neste território;
 
-e) Os valores monetários depositados em instituições com sede, direcção efectiva ou estabelecimento estável em território nacional, ou, não se tratando de valores monetários depositados, o autor da transmissão tenha domicílio, sede, direcção efectiva ou estabelecimento estável neste território;
+e) Os valores monetários e os criptoativos depositados em instituições com sede, direção efetiva ou estabelecimento estável em território nacional, ou, não se tratando de valores monetários ou criptoativos depositados:
+
+i) Nas sucessões por morte, quando o autor da transmissão tenha domicílio em território nacional;
+
+ii) Nas restantes transmissões gratuitas, quando o beneficiário tenha domicílio em território nacional;
 
 f) Os direitos de propriedade industrial, direitos de autor e direitos conexos registados ou sujeitos a registo em território nacional.
 
@@ -39,3 +43,5 @@ f) Os direitos de propriedade industrial, direitos de autor e direitos conexos r
 7 - Nas situações previstas na verba n.º 29 da Tabela Geral, o imposto é devido sempre que os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário sejam constituídos e operem de acordo com a legislação nacional.
 
 8 - Nas operações previstas na verba 21 da Tabela Geral, o imposto é devido sempre que o primeiro adquirente ou o primeiro alienante sejam domiciliados em território nacional, considerando-se domicílio a sede, filial, sucursal ou estabelecimento estável que intervenham na realização das operações.
+
+9 - Nas operações previstas na verba n.º 30 da Tabela Geral, o imposto é devido sempre que o prestador de serviços de criptoativos, ou o cliente desses serviços, sejam domiciliados em território nacional, considerando-se domicílio a residência, sede, direção efetiva, filial, sucursal ou estabelecimento estável.

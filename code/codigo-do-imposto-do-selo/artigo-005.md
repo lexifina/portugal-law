@@ -52,4 +52,6 @@ v) Nas situações previstas na verba n.º 29 da Tabela Geral, no último dia do
 
 w) Nas situações previstas na verba n.º 29 da Tabela Geral, no último dia dos meses de março, junho, setembro e dezembro de cada ano.
 
+x) Nas operações previstas na verba n.º 30 da Tabela Geral, no momento da cobrança das comissões e outras contraprestações.
+
 2 - Caso os prémios referidos na alínea t) do número anterior sejam pagos de forma fracionada, a obrigação tributária considera-se constituída no momento de cada pagamento, por referência à parte proporcional do imposto calculado nos termos da verba 11.4 da Tabela Geral sobre a totalidade do prémio.
