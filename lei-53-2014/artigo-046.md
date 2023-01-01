@@ -4,7 +4,7 @@
 
 1 - O prazo máximo de utilização do empréstimo é de três anos.
 
-2 - A título excecional, o prazo referido no número anterior pode ser prorrogado até cinco anos, para os pagamentos decorrentes de ações judiciais identificadas no n.º 10 do artigo 23.º e condicionado à comprovação dos factos que lhe dão origem, nomeadamente o trânsito em julgado de sentenças condenatórias.
+2 - A título excecional, o prazo referido no número anterior pode ser prorrogado até sete anos, para os pagamentos decorrentes de ações judiciais identificadas no n.º 10 do artigo 23.º e condicionado à comprovação dos factos que lhe dão origem, nomeadamente o trânsito em julgado de sentenças condenatórias.
 
 3 - O início da amortização do empréstimo não pode ser diferido para além de dois anos.
 
