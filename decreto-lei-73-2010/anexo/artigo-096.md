@@ -2,7 +2,7 @@
 
 ### Produção de produtos petrolíferos e energéticos
 
-1 - Consideram-se estabelecimentos de produção de produtos petrolíferos e energéticos as instalações industriais onde os produtos referidos no n.º 2 do artigo 88.º são fabricados ou submetidos a um tratamento definido, na acepção da nota complementar 4 do capítulo 27 da NC.
+1 - Consideram-se estabelecimentos de produção de produtos petrolíferos e energéticos as instalações industriais onde os produtos referidos no n.º 2 do artigo 88.º são fabricados ou submetidos a um tratamento definido, na aceção da nota complementar 5 do capítulo 27 da NC.
 
 2 - Não se consideram produção de produtos petrolíferos e energéticos:
 

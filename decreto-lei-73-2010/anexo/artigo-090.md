@@ -6,7 +6,7 @@
 
 a) Produtos abrangidos pelos códigos NC 1507 a NC 1518;
 
-b) Produtos abrangidos pelos códigos NC 3824 90 55 e NC 3824 90 80 a NC 3824 90 97, para os respectivos componentes produzidos a partir da biomassa;
+b) Produtos abrangidos pelo código NC 3824 99 55, pelos códigos NC 3824 99 80, 3824 99 85, 3824 99 86, 3824 99 92, 3824 99 93 e 3824 99 96, com exceção de preparações antiferrugem que contenham aminas como elementos ativos e solventes e diluentes compósitos, inorgânicos, para vernizes e produtos semelhantes, e pelos códigos NC 3826 00 10 e 3826 00 90, para os respetivos componentes produzidos a partir de biomassa;
 
 c) Produtos abrangidos pelos códigos NC 2207 20 00 e NC 2905 11 00 que não sejam de origem sintética;
 

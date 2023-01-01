@@ -8,7 +8,7 @@ a) Apresentar memória descritiva das instalações com a respectiva planta e ca
 
 b) Submeter os depósitos e os instrumentos de medição ao controlo metrológico da entidade competente e possuir certificado de calibração dentro do prazo de validade;
 
-c) Apresentar um documento emitido pela Direcção-Geral de Energia e Geologia, atestando o cumprimento das obrigações em matéria de reservas de segurança, ou de ter sido demonstrada a existência de condições para o seu cumprimento, em caso de início de actividade.
+c) Apresentar um documento emitido pela entidade responsável pela constituição, gestão e manutenção das reservas estratégicas nacionais de petróleo e produtos petrolíferos, atestando o cumprimento das obrigações em matéria de reservas de segurança ou, em caso de início de atividade, de ter sido demonstrada a existência de condições para o seu cumprimento.
 
 2 - As autorizações para a constituição de entrepostos fiscais só podem ser concedidas a pessoas singulares ou colectivas que satisfaçam cumulativamente os seguintes requisitos económicos mínimos:
 

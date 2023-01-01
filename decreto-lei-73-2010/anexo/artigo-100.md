@@ -8,7 +8,7 @@ a) Os produtos abrangidos pelos códigos NC 1507 a 1518, quando destinados a ser
 
 b) Os produtos abrangidos pelos códigos NC 2707 10, 2707 20, 2707 30 e 2707 50;
 
-c) Os produtos abrangidos pelos códigos NC 2710 11 a 2710 19 69 e, no caso dos produtos abrangidos pelos códigos NC 2710 11 21, 2710 11 25 e 2710 19 29, as disposições em matéria de controlo e circulação são apenas aplicáveis à circulação comercial a granel;
+c) Os produtos abrangidos pelos códigos NC 2710 12 a 2710 19 68, 2710 20 a 2710 20 39, 2710 20 90, 2710 19 29 e 2710 20 90, apenas para os produtos dos quais menos de 90 % em volume, incluindo perdas, destile a 210ºC e 65 % ou mais em volume, incluindo perdas, destile a 250ºC pelo método ISO 3405, e no caso dos produtos abrangidos pelos códigos 2710 12 21, 2710 12 25, 2710 19 29 e 2710 20 90, as disposições em matéria de controlo e circulação são apenas aplicáveis à circulação comercial a granel;
 
 d) Os produtos abrangidos pelos códigos NC 2711, com excepção dos códigos 2711 11, 2711 21 e 2711 29;
 

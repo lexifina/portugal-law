@@ -24,7 +24,7 @@ h) No fabrico de produtos agro-alimentares desde que se trate de vinhos modifica
 
 3 - Está ainda isento do imposto o álcool:
 
-a) Utilizado em fins industriais, nos termos do artigo 68.º;
+a) Utilizado em fins industriais, nos termos do artigo 68.º, designadamente sempre que o álcool desnaturado tenha sido incorporado num produto não destinado ao consumo humano ou seja utilizado para a manutenção e limpeza do equipamento utilizado nesse processo de fabrico específico;
 
 b) Distribuído sob a forma de álcool totalmente desnaturado nos termos fixados pelo Regulamento de Execução (UE) n.º 162/2013, da Comissão, de 21 de fevereiro;
 
@@ -35,3 +35,15 @@ d) Destinado a testes laboratoriais e à investigação científica;
 e) Destinado a fins terapêuticos e sanitários;
 
 f) Utilizado no fabrico de medicamentos, tal como definidos na alínea ee) do artigo 3.º do Decreto-Lei n.º 176/2006, de 30 de Agosto.
+
+g) Utilizado no fabrico de suplementos alimentares que contenham álcool etílico se a embalagem individual do suplemento alimentar introduzido no consumo não exceder 0,15 litros e os referidos suplementos forem colocados no mercado em conformidade com a legislação aplicável.
+
+4 - Estão isentas do imposto e dispensadas de quaisquer obrigações, incluindo declarativas, a cerveja e outras bebidas fermentadas, tranquilas e espumantes, produzidas por um particular e consumidas pelo seu produtor, pelos membros do seu agregado familiar ou convidados, desde que tal não implique qualquer contrapartida onerosa.
+
+5 - Estão ainda isentas do imposto e dispensadas das respetivas obrigações declarativas as bebidas espirituosas à base de frutos, produzidas por um particular e consumidas pelo seu produtor, pelos membros do seu agregado familiar ou convidados, desde que tal não implique qualquer contrapartida onerosa e que:
+
+a) O particular produza até ao máximo de 50 litros anuais dessas bebidas;
+
+b) As bebidas sejam produzidas a partir de frutos pertencentes, produzidos e fornecidos pelo mesmo particular num terreno cujo título detenha; e
+
+c) A produção se realize em destilarias autorizadas ou o particular utilize um destilador simples e de pequena dimensão, devidamente registado junto da estância aduaneira competente.

@@ -1,26 +1,30 @@
 # Artigo 93.º-A
 
-### Reembolso parcial para o gasóleo profissional
+### Reembolso parcial para gasóleo e gás profissional
 
-1 - É parcialmente reembolsável o imposto sobre os produtos petrolíferos e energéticos suportado pelas empresas de transporte de mercadorias, com sede ou estabelecimento estável num Estado membro, relativamente ao gasóleo classificado pelos códigos NC 2710 19 41 a 2710 19 49, quando abastecido em veículos devidamente licenciados e destinados exclusivamente àquela atividade.
+1 - É parcialmente reembolsável o imposto sobre os produtos petrolíferos e energéticos suportado pelas empresas de transporte de mercadorias e de transporte coletivo de passageiros, com sede ou estabelecimento estável num Estado-Membro, relativamente ao gasóleo classificado pelos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19 e relativamente ao gás classificado pelos códigos NC 2711 11 00 e 2711 21 00, quando abastecido em veículos devidamente licenciados e destinados exclusivamente àquelas atividades.
 
 2 - O reembolso parcial previsto no número anterior aplica-se igualmente às demais imposições calculadas com base na quantidade de produtos petrolíferos introduzidos no consumo, sendo distribuído proporcionalmente por cada uma das imposições abrangidas com base nas respetivas taxas normais de tributação, excluindo-se o imposto sobre o valor acrescentado, ao qual se aplicam os procedimentos próprios deste imposto.
 
-3 - O reembolso previsto nos números anteriores é apenas aplicável às viaturas com um peso total em carga permitido não inferior a 7,5 toneladas, matriculadas num Estado membro, tributadas em sede de imposto único de circulação, ou tributação equivalente noutro Estado membro, nos escalões definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+3 - O reembolso previsto nos números anteriores é apenas aplicável:
 
-4 - Os valores unitários do imposto sobre os produtos petrolíferos e energéticos e demais imposições a reembolsar nos termos do presente artigo são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, respeitando o limiar mínimo de tributação estabelecido no artigo 7.º da Diretiva n.º 2003/96/CE, do Conselho, de 27 de outubro de 2003.
+a) Às viaturas com um peso total em carga permitido não inferior a 7,5 toneladas matriculadas num Estado-Membro e, no caso das empresas de transporte de mercadorias, às viaturas tributadas em sede de imposto único de circulação ou tributação equivalente noutro Estado-Membro, nos escalões definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia;
 
-5 - A portaria referida no número anterior fixa também o valor máximo de abastecimento anual, por veículo, elegível para reembolso, entre 25 000 e 40 000 litros.
+b) No caso das empresas de transporte coletivo de passageiros, além das condições previstas na alínea anterior, aos veículos destinados ao transporte coletivo de passageiros com lotação não inferior a 22 lugares, nos escalões definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia.
 
-6 - O reembolso parcial do imposto é devido ao adquirente, sendo processado em relação a cada abastecimento com observância do limite previsto no n.º 4 do artigo 15.º, através da comunicação por via eletrónica, a efetuar pelos emitentes de cartões frota ou outro mecanismo de controlo certificado à Autoridade Tributária e Aduaneira (AT), dos seguintes dados:
+4 - Os valores unitários do imposto sobre os produtos petrolíferos e energéticos e demais imposições a reembolsar nos termos do presente artigo são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia, respeitando o limiar mínimo de tributação estabelecido nos artigos 7.º e 15.º da Diretiva n.º 2003/96/CE, do Conselho, de 27 de outubro de 2003.
+
+5 - A portaria referida no número anterior fixa também o valor máximo de abastecimento anual, por veículo, elegível para reembolso, entre 25 000 e 40 000 litros, no caso do gasóleo, e entre 1500 e 2000 gigajoules, no caso do gás.
+
+6 - O reembolso parcial do imposto é devido ao adquirente, sendo processado com observância do limite previsto no n.º 4 do artigo 15.º atendendo aos abastecimentos mensais, através da comunicação por via eletrónica, a efetuar pelos emitentes de cartões frota ou outro mecanismo de controlo certificado à AT, dos seguintes dados:
 
 a) A matrícula da viatura abastecida e o Estado membro de emissão da mesma;
 
 b) A quilometragem da viatura no momento do abastecimento;
 
-c) O número de identificação fiscal (NIF) do adquirente do combustível, que seja proprietário, locatário financeiro ou locatário em regime de aluguer sem condutor da viatura abastecida e devidamente licenciada para o transporte rodoviário de mercadorias por conta de outrem;
+c) O número de identificação fiscal (NIF) do adquirente do combustível, que seja proprietário, locatário financeiro ou locatário em regime de aluguer sem condutor da viatura abastecida e devidamente licenciada para o transporte rodoviário de mercadorias por conta de outrem ou para o transporte coletivo de passageiros;
 
-d) O volume de litros abastecidos e o respetivo preço de venda;
+d) O volume de litros ou gigajoules abastecidos e o respetivo preço de venda;
 
 e) O tipo de combustível;
 
@@ -36,7 +40,7 @@ j) O peso total em carga permitido da viatura, quando matriculada noutro Estado 
 
 7 - O reembolso referido nos números anteriores depende da certificação pela AT dos sistemas de registo e comunicação de abastecimentos, bem como dos locais de abastecimento.
 
-8 - Os procedimentos de controlo deste mecanismo de reembolso são fixados por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, das finanças e da economia, na qual se determinam designadamente:
+8 - Os procedimentos de controlo deste mecanismo de reembolso são fixados por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, das finanças e da energia, na qual se determinam designadamente:
 
 a) As obrigações acessórias dos emitentes de cartões frota ou outro mecanismo de controlo certificado, dos revendedores e dos adquirentes de combustíveis;
 

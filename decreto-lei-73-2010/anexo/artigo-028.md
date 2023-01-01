@@ -12,7 +12,7 @@ a) Prestar uma garantia que cubra os riscos inerentes à introdução no consumo
 
 b) No termo da circulação, cumprir as formalidades aplicáveis à introdução no consumo em território nacional;
 
-c) Comunicar a nomeação ou a substituição de gerentes ou administradores, bem como qualquer alteração dos pressupostos subjacentes à concessão do estatuto;
+c) Comunicar a nomeação ou a substituição dos gerentes ou administradores, bem como qualquer alteração dos sócios ou dos pressupostos subjacentes à concessão do estatuto;
 
 d) Manter um registo contabilístico atualizado dos produtos recebidos em regime de suspensão de imposto e introduzidos no consumo, com indicação da sua proveniência, destino e elementos relevantes para o cálculo do imposto;
 

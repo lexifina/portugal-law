@@ -12,4 +12,4 @@
 
 5 - Os custos e encargos inerentes ao depósito, à inutilização ou à venda, incluindo análises e estudos, dos produtos apreendidos, abandonados ou declarados perdidos, são da responsabilidade das pessoas singulares ou colectivas que detinham os referidos produtos.
 
-6 - Para efeitos do n.º 4, o abandono dos produtos deve ser solicitado ao diretor da alfândega competente, no prazo previsto no n.º 2 do artigo seguinte.
+6 - Para efeitos do n.º 4, o abandono dos produtos deve ser solicitado junto da estância aduaneira competente no prazo de 30 dias após o término do prazo de pagamento do imposto.

@@ -32,12 +32,18 @@ f) Os produtos abrangidos pelo código NC 3811;
 
 g) Os produtos abrangidos pelo código NC 3817;
 
-h) Os produtos abrangidos pelos códigos NC 3824 90 91, 3824 90 97 e 2909 19 10, quando destinados a ser utilizados como carburante ou combustível.
+h) Os produtos, quando destinados a ser utilizados como carburante ou combustível, abrangidos pelos códigos NC 3824 99 86, 3824 99 92, 3824 99 93 e 3824 99 96, com exceção de preparações antiferrugem que contenham aminas como elementos ativos e solvente e diluentes, compósitos, inorgânicos, para vernizes e produtos semelhantes, e pelos códigos NC 2909 10 10, 3826 00 10 e 3826 00 90.
 
 3 - Para efeitos da alínea b) do n.º 1, é qualificado como uso como carburante a utilização de um produto como combustível em qualquer tipo de motor não estacionário.
 
 4 - Para efeitos da alínea c) do n.º 1, é qualificado como uso como combustível a utilização de um produto, através de combustão, desde que tal não seja considerado uso como carburante.
 
-5 - Para efeitos do imposto sobre produtos petrolíferos e energéticos considera-se nível de tributação o montante total do ISP e de outras imposições cobradas, com exclusão do IVA, calculadas, directa ou indirectamente, com base na quantidade de produtos petrolíferos e energéticos à data da sua introdução no consumo.
+5 - O imposto sobre os produtos petrolíferos e energéticos compreende os seguintes montantes:
 
-6 - Não estão sujeitos ao imposto os produtos petrolíferos e energéticos consumidos nas instalações de um estabelecimento de produção dos referidos produtos, excepto os usados para fins alheios a essa produção.
+a) As taxas unitárias do imposto sobre os produtos petrolíferos e energéticos, nos termos do artigo 92.º, que integram o montante consignado ao serviço rodoviário em território continental, nos termos definidos na legislação especial aplicável; e
+
+b) O montante cobrado a título de adicionamento sobre as emissões de CO(índice 2), nos termos do artigo 92.º-A.
+
+6 - Para efeitos do imposto sobre produtos petrolíferos e energéticos considera-se nível de tributação o montante total do ISP, nos termos definidos no número anterior, e de outras imposições cobradas, com exclusão do IVA, calculadas, direta ou indiretamente, com base na quantidade de produtos petrolíferos e energéticos à data da sua introdução no consumo.
+
+7 - Não estão sujeitos ao imposto os produtos petrolíferos e energéticos consumidos nas instalações de um estabelecimento de produção dos referidos produtos, excepto os usados para fins alheios a essa produção.

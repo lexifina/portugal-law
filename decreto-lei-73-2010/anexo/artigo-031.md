@@ -8,6 +8,6 @@
 
 a) Prestar-se a qualquer controlo que permita à autoridade aduaneira certificar-se da expedição dos produtos;
 
-b) Comunicar a nomeação ou a substituição de gerentes ou administradores, bem como qualquer alteração dos pressupostos subjacentes à concessão do estatuto;
+b) Comunicar a nomeação ou a substituição dos gerentes ou administradores, bem como qualquer alteração dos sócios ou dos pressupostos subjacentes à concessão do estatuto;
 
 c) Consoante os casos, prestar ou indicar uma garantia válida que cubra os riscos inerentes à introdução no consumo dos produtos sujeitos a impostos especiais de consumo que pretenda expedir.

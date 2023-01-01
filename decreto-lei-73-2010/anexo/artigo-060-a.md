@@ -8,7 +8,7 @@
 
 3 - O destinatário certificado deve cumprir as seguintes obrigações:
 
-a) Antes da expedição dos produtos com destino ao território nacional, presta uma garantia que cubra os riscos inerentes à introdução no consumo dos produtos que lhe sejam destinados, sendo a mesma válida em toda a União;
+a) Antes da expedição dos produtos com destino ao território nacional, presta uma garantia que cubra os riscos inerentes à introdução no consumo dos produtos que lhe sejam destinados;
 
 b) Paga o imposto devido após a receção dos produtos; e
 

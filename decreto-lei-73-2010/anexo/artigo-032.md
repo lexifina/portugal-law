@@ -2,11 +2,11 @@
 
 ### Aquisição do estatuto de expedidor registado
 
-1 - Os operadores económicos que pretendam obter o estatuto de expedidor registado devem apresentar o pedido dirigido à estância aduaneira competente, mediante preenchimento de formulário disponibilizado no sítio da Internet da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, e depende da verificação da idoneidade fiscal do interessado e demais requisitos fixados na lei.
+1 - Os operadores económicos que pretendam obter o estatuto de expedidor registado devem apresentar o pedido dirigido à estância aduaneira competente, mediante preenchimento de formulário disponibilizado no sítio da Internet da AT, estando dependente da verificação da idoneidade fiscal do interessado e demais requisitos fixados na lei.
 
 2 - Para efeitos do número anterior, são cumulativos para a concessão do estatuto os seguintes requisitos:
 
-a) O comerciante em nome individual ou qualquer dos gerentes ou administradores, no caso de pessoa colectiva, não ter sido condenado por crime tributário ou por contra-ordenação tributária punível com coima igual ou superior a (euro) 5000 nos últimos cinco anos;
+a) O comerciante em nome individual ou qualquer dos sócios, gerentes ou administradores, no caso de pessoa coletiva, não ter sido condenado por crime tributário ou por contraordenação tributária punível com coima igual ou superior a 5 000 (euro) nos últimos cinco anos;
 
 b) Inexistência de dívidas tributárias ou contributivas em fase de cobrança coerciva, sem que haja reclamação graciosa, impugnação judicial, recurso judicial, oposição à execução ou pagamento em prestações com prestação de garantia.
 

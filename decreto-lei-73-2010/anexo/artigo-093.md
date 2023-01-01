@@ -28,6 +28,6 @@ f) Motores frigoríficos autónomos, instalados em veículos pesados de transpor
 
 7 - Para efeitos deste artigo, entendem-se por motores fixos os motores que se destinem à produção de energia e que, cumulativamente, se encontrem instalados em plataformas inamovíveis.
 
-8 - Enquanto não existirem condições técnicas para a implementação do gasóleo de aquecimento com as características previstas no anexo vi do Decreto-Lei n.º 89/2008, de 30 de Maio, pode ser utilizado na Região Autónoma da Madeira, colorido e marcado, o gasóleo classificado pelos códigos NC 2710 19 41, 2710 19 45 e 2710 19 49.
+8 - (Revogado);
 
 9 - Na aquisição do gasóleo colorido e marcado na Região Autónoma da Madeira é dispensada a utilização do cartão electrónico, enquanto não existirem as condições técnicas descritas no número anterior.

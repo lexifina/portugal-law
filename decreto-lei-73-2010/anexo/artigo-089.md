@@ -8,23 +8,23 @@ a) Sejam utilizados para outros fins que não sejam em uso como carburante ou em
 
 b) Sejam utilizados na navegação aérea, com excepção da aviação de recreio privada;
 
-c) Sejam utilizados na navegação marítima costeira e na navegação interior, incluindo a pesca e a aquicultura, mas com exceção da navegação de recreio privada, no que se refere aos produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49 e 2710 19 61 a 2710 19 69;
+c) Sejam utilizados na navegação marítima costeira e na navegação interior, incluindo a pesca e a aquicultura, com exceção da navegação de recreio privada, no que se refere aos produtos classificados pelos códigos NC 2710 19 43 a 2710 19 48, 2710 20 11 a 2710 20 19, 2710 19 62 a 2710 19 67, 2710 20 32 e 2710 20 38;
 
-d) Sejam utilizados na produção de eletricidade, de eletricidade e calor (cogeração), ou de gás de cidade, por entidades que desenvolvam tais atividades como sua atividade principal, no que se refere aos produtos classificados pelos códigos NC 2710 19 61 a 2710 19 69, pelo código NC 2711, bem como os produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49, consumidos nas Regiões Autónomas dos Açores e da Madeira;
+d) Sejam utilizados na produção de eletricidade, de eletricidade e calor (cogeração), por entidades que desenvolvam tais atividades como sua atividade principal, no que se refere aos produtos classificados pelos códigos NC 2710 19 62 a 2710 19 67 e 2710 20 32 a 2710 20 38, pelo código NC 2711, bem como os produtos classificados pelos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19, consumidos nas Regiões Autónomas dos Açores e da Madeira;
 
 e) Sejam utilizados em transportes públicos de passageiros, no que se refere aos produtos classificados pelo código NC 2711;
 
-f) Sejam utilizados em instalações sujeitas ao regime de comércio europeu de emissão de licenças de gases com efeitos de estufa (CELE), identificadas no anexo ii do Decreto-Lei n.º 38/2013, de 15 de março, ou a um acordo de racionalização dos consumos de energia (ARCE), no que se refere aos produtos energéticos classificados pelos códigos NC 2701, 2702, 2704 e 2713, ao fuelóleo com teor de enxofre igual ou inferior a 1 %, classificado pelo código NC 2710 19 61 e aos produtos classificados pelo código NC 2711, com exceção das entidades que desenvolvam a atividade de produção de eletricidade, de eletricidade e calor (cogeração) ou de gás de cidade como sua atividade principal;
+f) Sejam utilizados em instalações sujeitas ao regime de comércio europeu de licenças de emissão de gases com efeitos de estufa (CELE), identificadas no anexo II do Decreto-Lei n.º 12/2020, de 6 de abril, ou a um acordo de racionalização dos consumos de energia (ARCE), no que se refere aos produtos energéticos classificados pelos códigos NC 2701, 2702, 2704 e 2713, ao fuelóleo com teor de enxofre igual ou inferior a 0,5 %, classificado pelos códigos NC 2710 19 62 e N NC 2710 19 66 e aos produtos classificados pelo código NC 2711, com exceção das entidades que desenvolvam a atividade de produção de eletricidade, de eletricidade e calor (cogeração) como sua atividade principal;
 
 g) Contidos nos reservatórios normais e nos contentores especiais dos veículos automóveis procedentes de outros Estados membros;
 
 h) (Revogada.)
 
-i) Sejam utilizados no transporte de passageiros e de mercadorias por caminhos de ferro, no que se refere aos produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49;
+i) Sejam utilizados no transporte de passageiros e de mercadorias por caminhos de ferro, no que se refere aos produtos classificados pelos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19;
 
 j) Sejam utilizados como carburantes no âmbito do fabrico, projecto, ensaio e manutenção de aeronaves e embarcações;
 
-l) Sejam utilizados pelos clientes finais economicamente vulneráveis, beneficiários da tarifa social, nos termos do Decreto-Lei n.º 101/2011, de 30 de setembro, no que se refere ao gás natural classificado pelo código NC 2711 21 00.
+l) Sejam utilizados pelos clientes finais economicamente vulneráveis, beneficiários de tarifa social, nos termos da legislação aplicável, no que se refere ao gás natural classificado pelos códigos NC 2711 11 00 e NC 2711 21 00.
 
 2 - Está isenta do imposto a electricidade que, comprovadamente, seja:
 
@@ -34,7 +34,7 @@ b) Produzida a bordo de embarcações;
 
 c) Utilizada para o transporte de passageiros e de mercadorias por via férrea em comboio, metropolitano ou eléctrico, e por trólei;
 
-d) Utilizada pelos clientes finais economicamente vulneráveis, beneficiários de tarifa social, nos termos do Decreto-Lei n.º 138-A/2010, de 28 de Dezembro;
+d) Utilizada pelos clientes finais economicamente vulneráveis, beneficiários de tarifa social, nos termos da legislação aplicável;
 
 e) Utilizada nas instalações previstas na alínea f) do número anterior;
 

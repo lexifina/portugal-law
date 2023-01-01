@@ -4,9 +4,9 @@
 
 1 - O imposto sobre os charutos e as cigarrilhas reveste a forma ad valorem, resultando da aplicação ao respetivo preço de venda ao público das percentagens seguintes:
 
-a) Charutos - 25 %;
+a) Charutos - 432,87 (euro) por milheiro;
 
-b) Cigarrilhas - 25 %;
+b) Cigarrilhas - 64,93 (euro) por milheiro.
 
 c) (Revogada.)
 

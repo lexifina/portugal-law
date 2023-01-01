@@ -8,7 +8,7 @@
 
 a) A não observância reiterada das obrigações estabelecidas neste Código ou nas disposições adoptadas para a sua aplicação;
 
-b) O não pagamento do imposto, na situação prevista no n.º 2 do artigo 13.º;
+b) O não pagamento do imposto, na situação prevista no n.º 1 do artigo 13.º;
 
 c) A não utilização do estatuto fiscal para os fins para que foi constituído;
 
@@ -21,3 +21,5 @@ e) A não observância superveniente dos requisitos fixados, consoante o caso, n
 4 - A decisão de revogação é notificada ao interessado, através de carta registada, após a audição prévia nos termos legais, podendo esta ser dispensada, mediante decisão do diretor-geral da AT, quando seja razoavelmente de prever que a diligência possa comprometer a execução ou a utilidade da decisão.
 
 5 - A estância aduaneira competente determina o procedimento e os prazos relativos à execução da decisão de revogação, nomeadamente o destino a atribuir aos produtos que se encontrem em regime de suspensão do imposto.
+
+6 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos estatutos previstos nos artigos 60.º-A e 60.º-B.
