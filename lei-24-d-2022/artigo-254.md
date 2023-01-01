@@ -1,0 +1,43 @@
+## Capítulo V
+
+## Lei Geral Tributária
+
+# Artigo 254.º
+
+### Alteração à Lei Geral Tributária
+
+O artigo 63.º da Lei Geral Tributária, aprovada em anexo ao Decreto-Lei n.º 398/98, de 17 de dezembro, passa a ter a seguinte redação:
+
+«Artigo 63.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) Aceder aos dados constantes do Registo Central do Beneficiário Efetivo.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...»
