@@ -18,7 +18,7 @@ c) Prédios urbanos - de 0,3 % a 0,45 %.
 
 3 - Salvo quanto aos prédios abrangidos pela alínea b) do n.º 2 do artigo 11.º, as taxas previstas nas alíneas b) e c) do n.º 1 são elevadas, anualmente, ao triplo nos casos:
 
-a) De prédios urbanos que se encontrem devolutos há mais de um ano, ou prédios em ruínas, como tal definidos em diploma próprio;
+a) De prédios urbanos que se encontrem devolutos há mais de um ano, ou prédios em ruínas, como tal definidos em diploma próprio, cujo estado de conservação não tenha sido motivado por desastre natural ou calamidade;
 
 b) Prédios urbanos parcialmente devolutos, incidindo o agravamento da taxa, no caso dos prédios não constituídos em propriedade horizontal, apenas sobre a parte do valor patrimonial tributário correspondente às partes devolutas.
 
@@ -34,7 +34,7 @@ b) Sejam, nos termos previstos no n.º 8 do artigo 17.º do Código do IMT, uma 
 
 7 - Os municípios, mediante deliberação da assembleia municipal, podem definir áreas territoriais correspondentes a freguesias ou zonas delimitadas de freguesias e fixar uma redução até 20% da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios urbanos arrendados, que pode ser cumulativa com a definida no número anterior.
 
-8 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até 30% a taxa aplicável a prédios urbanos degradados, considerando-se como tais os que, face ao seu estado de conservação, não cumpram satisfatoriamente a sua função ou façam perigar a segurança de pessoas e bens.
+8 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até 30 % a taxa aplicável a prédios urbanos degradados, considerando-se como tais os que, face ao seu estado de conservação, não cumpram satisfatoriamente a sua função ou façam perigar a segurança de pessoas e bens, exceto quando tal seja motivado por desastre natural ou calamidade.
 
 9 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até ao dobro a taxa aplicável aos prédios rústicos com áreas florestais que se encontrem em situação de abandono, não podendo da aplicação desta majoração resultar uma colecta de imposto inferior a (euro) 20 por cada prédio abrangido.
 
@@ -61,3 +61,11 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 17 - O disposto no n.º 4 não se aplica aos prédios que sejam propriedade de pessoas singulares.
 
 18 - Os municípios abrangidos por programa de apoio à economia local, ao abrigo da Lei n.º 43/2012, de 28 de agosto, ou programa de ajustamento municipal, ao abrigo da Lei n.º 53/2014, de 25 de agosto, alterada pela Lei n.º 69/2015, de 16 de julho, podem determinar que a taxa máxima do imposto municipal prevista na alínea c) do n.º 1, seja de 0,5 /prct., com fundamento na sua indispensabilidade para cumprir os objetivos definidos nos respetivos planos ou programas.
+
+19 - Os municípios, mediante deliberação da assembleia municipal, podem definir uma majoração da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios ou partes de prédio localizados em zonas de pressão urbanística, como tal definidas em diploma próprio, nos seguintes termos:
+
+a) Até 100 % nos casos em que estejam afetos a alojamento local;
+
+b) Até 25 % nos casos em que, tendo por destino a habitação, não se encontrem arrendados para habitação ou afetos a habitação própria e permanente do sujeito passivo.
+
+20 - A majoração prevista no número anterior é elevada a 50 % sempre que o sujeito passivo do imposto seja uma pessoa coletiva ou outra entidade fiscalmente equiparada.
