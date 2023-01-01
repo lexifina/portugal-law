@@ -14,7 +14,7 @@
 
 2 - A comunicação referida no número anterior é efectuada:
 
-a) Nas vinte e quatro horas anteriores ao início da produção de efeitos do contrato de trabalho;
+a) Nos 15 dias anteriores ao início da produção de efeitos do contrato de trabalho;
 
 b) Nas vinte e quatro horas seguintes ao início da actividade sempre que, por razões excepcionais e devidamente fundamentadas, ligadas à celebração de contratos de trabalho de muito curta duração ou à prestação de trabalho por turnos a comunicação não possa ser efectuada no prazo previsto na alínea anterior.
 
