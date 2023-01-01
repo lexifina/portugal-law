@@ -6,8 +6,6 @@
 
 a) Aos automóveis de passageiros;
 
-b) Aos automóveis ligeiros de utilização mista e aos automóveis ligeiros de mercadorias, que não sejam tributados pelas taxas reduzidas nem pela taxa intermédia.
-
 TABELA A
 
 Componente cilindrada
