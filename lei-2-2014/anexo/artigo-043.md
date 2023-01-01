@@ -58,4 +58,4 @@ c) Das normas internacionais de contabilidade adotadas pela União Europeia ou d
 
 14 - A condição a que se refere a alínea b) do n.º 4 pode deixar de se verificar desde que seja demonstrado que a diferenciação introduzida tem por base critérios objetivos, designadamente em caso de entidades sujeitas a processos de reestruturação empresarial, devendo esta alteração ser comunicada à Autoridade Tributária e Aduaneira até ao termo do período de tributação em que ocorra.
 
-15 - Consideram-se incluídos no n.º 1 os gastos suportados com a aquisição de passes sociais em benefício do pessoal do sujeito passivo, verificados os requisitos aí exigidos, os quais são considerados, para efeitos da determinação do lucro tributável, em valor correspondente a 130 %.
+15 - Consideram-se incluídos no n.º 1 os gastos suportados com a aquisição de passes sociais em benefício do pessoal do sujeito passivo, verificados os requisitos aí exigidos, os quais são considerados, para efeitos da determinação do lucro tributável, em valor correspondente a 150 %.

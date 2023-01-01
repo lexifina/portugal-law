@@ -10,7 +10,7 @@
 
 2 - Os prejuízos fiscais apurados relativamente ao exercício de atividades comerciais, industriais ou agrícolas só podem ser deduzidos, nos termos e condições da parte aplicável do artigo 52.º, aos rendimentos da mesma categoria num ou mais dos doze períodos de tributação posteriores;
 
-a) Os prejuízos fiscais apurados relativamente ao exercício de atividades comerciais, industriais ou agrícolas só podem ser deduzidos, nos termos e condições da parte aplicável do artigo 52.º, aos rendimentos da mesma categoria num ou mais dos cinco períodos de tributação posteriores;
+a) Os prejuízos fiscais apurados relativamente ao exercício de atividades comerciais, industriais ou agrícolas, só podem ser deduzidos, nos termos e condições da parte aplicável do artigo 52.º, aos rendimentos da mesma categoria num ou mais dos períodos de tributação posteriores;
 
 b) As menos-valias só podem ser deduzidas aos rendimentos da mesma categoria num ou mais dos cinco períodos de tributação posteriores.
 

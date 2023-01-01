@@ -20,6 +20,8 @@ g) Rendimentos prediais referidos na alínea c) do n.º 1 do artigo 94.º, quand
 
 h) Juros e outros rendimentos resultantes de contratos de suprimento, de papel comercial ou obrigações, de que seja devedora sociedade cujo capital social com direito de voto seja detido pelo sujeito passivo em mais de 10 %, diretamente, ou indiretamente através de outras sociedades em que o sujeito passivo seja dominante, desde que a participação no capital social tenha permanecido na sua titularidade, de modo ininterrupto, durante o ano anterior à data da sua colocação à disposição.
 
+i) Rendimentos provenientes da propriedade intelectual referidos na alínea a) do n.º 1 do artigo 94.º, quando obtidos por sociedades que tenham por objeto a criação, edição, produção, promoção, licenciamento, gestão ou distribuição de obras ou prestações ou outros conteúdos protegidos por direitos de autor e conexos, incluindo publicações de imprensa.
+
 2 - Não existe ainda obrigação de efetuar a retenção na fonte de IRC, no todo ou em parte, consoante os casos, quando os sujeitos passivos beneficiem de isenção, total ou parcial, relativa a rendimentos que seriam sujeitos a essa retenção na fonte, feita que seja a prova, perante a entidade pagadora, da isenção de que aproveitam, até ao termo do prazo estabelecido para a entrega do imposto que deveria ter sido deduzido.
 
 3 - Quando não seja efetuada a prova a que se refere o número anterior, fica o substituto tributário obrigado a entregar a totalidade do imposto que deveria ter sido deduzido nos termos da lei.

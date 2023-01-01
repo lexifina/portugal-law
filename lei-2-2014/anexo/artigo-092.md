@@ -21,3 +21,5 @@ f) O regime de dedução por lucros retidos e reinvestidos (DLRR), previsto no C
 g) O regime de remuneração convencional do capital social previsto no artigo 41.º-A do Estatuto dos Benefícios Fiscais.
 
 h) (Revogada).
+
+i) O regime fiscal de incentivo à capitalização das empresas, previsto no artigo 43.º-D do Estatuto dos Benefícios Fiscais.

@@ -89,3 +89,5 @@ c) Ao final do período de tributação anterior ao da verificação de qualquer
 14 - Para efeitos da contagem dos prazos previstos na alínea b) do n.º 3, bem como do previsto na alínea c) do n.º 4, nos casos em que a participação tiver sido adquirida no âmbito de processo de fusão, cisão ou entrada de ativos, considera-se o período durante o qual a participação tiver permanecido na titularidade das sociedades fundidas, cindidas ou da sociedade contribuidora, respetivamente.
 
 15 - A renúncia à taxa referida na alínea d) do n.º 4 deve ser mantida por um período mínimo de três anos.
+
+16 - Nas situações em que todas as sociedades do grupo tenham a sua sede e direção efetiva numa mesma região autónoma e não possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria noutra circunscrição, o requisito previsto na parte final da alínea a) do n.º 3 considera-se cumprido quando todas as sociedades do grupo estejam sujeitas à taxa de IRC mais elevada aplicável na região autónoma respetiva.

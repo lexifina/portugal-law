@@ -2,7 +2,7 @@
 
 ### Transmissibilidade dos prejuízos fiscais
 
-1 - Os prejuízos fiscais das sociedades fundidas podem ser deduzidos dos lucros tributáveis da nova sociedade ou da sociedade incorporante, nos termos e condições estabelecidos no artigo 52.º e até ao fim do período referido no n.º 1 do mesmo artigo, contado do período de tributação a que os mesmos se reportam.
+1 - Os prejuízos fiscais das sociedades fundidas podem ser deduzidos aos lucros tributáveis da nova sociedade ou da sociedade incorporante, nos termos e condições estabelecidos no artigo 52.º
 
 2 - (Revogado.)
 

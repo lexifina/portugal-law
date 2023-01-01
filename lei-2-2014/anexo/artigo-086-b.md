@@ -12,13 +12,15 @@ c) 0,10 dos restantes rendimentos de prestações de serviços e subsídios dest
 
 d) 0,30 dos subsídios não destinados à exploração;
 
-e) 0,95 dos rendimentos provenientes de contratos que tenham por objeto a cessão ou utilização temporária da propriedade intelectual ou industrial ou a prestação de informações respeitantes a uma experiência adquirida no setor industrial, comercial ou científico, dos outros rendimentos de capitais, do resultado positivo de rendimentos prediais, do saldo positivo das mais e menos-valias e dos restantes incrementos patrimoniais;
+e) 0,95 dos rendimentos provenientes da mineração de criptoativos, de contratos que tenham por objeto a cessão ou utilização temporária da propriedade intelectual ou industrial ou a prestação de informações respeitantes a uma experiência adquirida no setor industrial, comercial ou científico, dos outros rendimentos de capitais, do resultado positivo de rendimentos prediais, do saldo positivo das mais e menos-valias e dos restantes incrementos patrimoniais;
 
 f) 1,00 do valor de aquisição dos incrementos patrimoniais obtidos a título gratuito determinado nos termos do n.º 2 do artigo 21.º
 
 g) 0,50 dos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento, localizados em área de contenção;
 
 h) 0,35 dos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento não previstos na alínea anterior.
+
+i) 0,15 dos rendimentos relativos a criptoativos, excluindo os decorrentes da mineração, que não sejam considerados rendimentos de capitais, nem resultem do saldo positivo das mais e menos-valias e dos restantes incrementos patrimoniais.
 
 2 - (Revogado).
 

@@ -14,4 +14,4 @@ b) As depreciações ou amortizações sobre os elementos do ativo depreciáveis
 
 c) Os ajustamentos em inventários, as perdas por imparidade e as provisões que tiverem sido transferidos têm, para efeitos fiscais, o regime que lhes era aplicável para efeito de determinação do lucro tributável da pessoa singular.
 
-2 - Quando seja aplicável o regime estabelecido no n.º 1 do artigo 38.º do Código do IRS, os prejuízos fiscais relativos ao exercício pela pessoa singular de atividade empresarial ou profissional e ainda não deduzidos ao lucro tributável podem ser deduzidos nos lucros tributáveis da nova sociedade até ao fim do período referido no artigo 52.º, contado do período de tributação a que os mesmos se reportam, até à concorrência de 50 % de cada um desses lucros tributáveis.
+2 - Quando seja aplicável o regime estabelecido no n.º 1 do artigo 38.º do Código do IRS, os prejuízos fiscais relativos ao exercício pela pessoa singular de atividade empresarial ou profissional e ainda não deduzidos ao lucro tributável podem ser deduzidos aos lucros tributáveis da nova sociedade até à concorrência de 50 % de cada um desses lucros tributáveis.

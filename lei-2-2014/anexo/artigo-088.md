@@ -6,7 +6,7 @@
 
 2 - A taxa referida no número anterior é elevada para 70 % nos casos em que tais despesas sejam efetuadas por sujeitos passivos total ou parcialmente isentos, ou que não exerçam, a título principal, atividades de natureza comercial, industrial ou agrícola e ainda por sujeitos passivos que aufiram rendimentos enquadráveis no artigo 7.º
 
-3 - São tributados autonomamente os encargos efetuados ou suportados por sujeitos passivos que não beneficiem de isenções subjetivas e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola, relacionados com viaturas ligeiras de passageiros, viaturas ligeiras de mercadorias referidas na alínea b) do n.º 1 do artigo 7.º do Código do Imposto sobre Veículos, motos ou motociclos, excluindo os veículos movidos exclusivamente a energia elétrica, às seguintes taxas:
+3 - São tributados autonomamente os encargos efetuados ou suportados por sujeitos passivos que não beneficiem de isenções subjetivas e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola, relacionados com viaturas ligeiras de passageiros, viaturas ligeiras de mercadorias referidas na alínea b) do n.º 1 do artigo 7.º do Código do Imposto sobre Veículos, motos ou motociclos, às seguintes taxas:
 
 a) 10 % no caso de viaturas com um custo de aquisição inferior a 27 500 (euro);
 
@@ -50,12 +50,14 @@ b) Os gastos ou encargos relativos a bónus e outras remunerações variáveis p
 
 17 - O disposto no presente artigo não é aplicável relativamente às despesas ou encargos de estabelecimento estável situado fora do território português e relativos à atividade exercida por seu intermédio.
 
-18 - No caso de viaturas ligeiras de passageiros híbridas plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 gCO(índice 2)/km, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 5 %, 10 % e 17,5 %.
+18 - No caso de viaturas ligeiras de passageiros híbrida plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 gCO(índice 2)/km, e de viaturas ligeiras de passageiros movidas a gás natural veicular (GNV), as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 2,5 %, 7,5 % e 15 %.
 
-19 - No caso de viaturas ligeiras de passageiros movidas a GNV, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 7,5 %, 15 % e 27,5 %.
+19 - (Revogado.)
 
-20 - No caso de se verificar o incumprimento de qualquer das condições previstas na parte final da alínea b) do n.º 13, o montante correspondente à tributação autónoma que deveria ter sido liquidada é adicionado ao valor do IRC liquidado relativo ao período de tributação em que se verifique aquele incumprimento.
+20 - Os encargos relacionados com veículos movidos exclusivamente a energia elétrica apenas são sujeitos a tributação, à taxa autónoma de 10 %, caso o custo de aquisição destes veículos exceda o definido na portaria a que se refere a alínea e) do n.º 1 do artigo 34.º
 
-21 - Para efeitos do disposto no n.º 14, quando seja aplicável o regime especial de tributação dos grupos de sociedades estabelecido no artigo 69.º, é considerado o prejuízo fiscal apurado nos termos do artigo 70.º
+21 - No caso de se verificar o incumprimento de qualquer das condições previstas na parte final da alínea b) do n.º 13, o montante correspondente à tributação autónoma que deveria ter sido liquidada é adicionado ao valor do IRC liquidado relativo ao período de tributação em que se verifique aquele incumprimento.
 
-22 - A liquidação das tributações autónomas em IRC é efetuada nos termos previstos no artigo 89.º e tem por base os valores e as taxas que resultem do disposto nos números anteriores, não sendo efetuadas quaisquer deduções ao montante global apurado, ainda que essas deduções resultem de legislação especial.
+22 - Para efeitos do disposto no n.º 14, quando seja aplicável o regime especial de tributação dos grupos de sociedades estabelecido no artigo 69.º, é considerado o prejuízo fiscal apurado nos termos do artigo 70.º
+
+23 - A liquidação das tributações autónomas em IRC é efetuada nos termos previstos no artigo 89.º e tem por base os valores e as taxas que resultem do disposto nos números anteriores, não sendo efetuadas quaisquer deduções ao montante global apurado, ainda que essas deduções resultem de legislação especial.
