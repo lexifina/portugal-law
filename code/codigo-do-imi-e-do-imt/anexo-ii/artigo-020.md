@@ -4,7 +4,7 @@
 
 1 - Para efeitos da liquidação, deve o interessado fornecer os seguintes elementos:
 
-a) A identificação dos imóveis ou a indicação de estarem omissos nas matrizes, bem como o valor constante do acto ou do contrato;
+a) A identificação dos imóveis ou a indicação de estarem omissos nas matrizes, bem como o valor de cada prédio, da parte indivisa ou do direito a que o ato ou contrato respeitar, devendo também mencionar-se o valor global dos bens ou direitos transmitidos;
 
 b) O valor atribuído aos bens, com especificação do que corresponder às partes integrantes cujo valor não esteja compreendido no valor patrimonial tributário dos respectivos prédios;
 

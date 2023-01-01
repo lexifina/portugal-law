@@ -82,7 +82,7 @@ e) Pelo valor patrimonial tributário dos imóveis correspondente à participaç
 
 a) A importância em dinheiro paga a título de preço pelo adquirente;
 
-b) O valor dos móveis dados em troca, a determinar nos termos do Código do Imposto do Selo;
+b) O valor dos móveis, incluindo criptoativos, dados em troca, a determinar nos termos do Código do Imposto do Selo;
 
 c) Se, na sequência de dissolução da sociedade ou do fundo ou através de outras transmissões a título oneroso, todos ou alguns dos imóveis da sociedade ou do fundo de investimento imobiliário ficarem a pertencer ao sócio, sócios, acionista, acionistas, participante ou participantes que já tiverem sido tributados, o imposto respeitante à nova transmissão incide sobre a diferença entre o valor dos bens agora adquiridos e o valor pelo qual o imposto foi anteriormente liquidado;
 
@@ -95,3 +95,5 @@ f) A importância de rendas que o adquirente tiver pago adiantadamente, enquanto
 g) A importância das rendas acordadas, no caso da alínea b) do n.º 2 do artigo 2.º;
 
 h) Em geral, quaisquer encargos a que o comprador ficar legal ou contratualmente obrigado.
+
+6 - O disposto na regra 4.ª do n.º 4 fica sem efeito relativamente aos bens imóveis que sejam transmitidos no prazo de um ano a contar da data da permuta, caso em que o primitivo permutante que transmitiu o imóvel deve apresentar declaração de modelo oficial, no serviço de finanças competente, no prazo de 30 dias a contar da data da transmissão.
