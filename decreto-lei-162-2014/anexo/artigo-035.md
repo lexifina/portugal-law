@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Dedução por lucros retidos e reinvestidos
+
 ## Capítulo V
 
 ## Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
