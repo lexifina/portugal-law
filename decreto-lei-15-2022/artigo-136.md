@@ -68,7 +68,7 @@ v) Enviar à ERSE, nos termos da regulamentação daquela entidade, com periodic
 
 w) Publicitar os preços de referência relativos aos fornecimentos em BT que praticam, designadamente nos respetivos sítios na Internet e em conteúdos promocionais;
 
-x) Enviar à ERSE, nos termos e de acordo com a periodicidade a definir por esta entidade, os preços efetivamente praticados a todos os clientes no semestre anterior e a informação detalhada relativa aos contratos de fornecimento de eletricidade a prazo fixo e a preço fixo;
+x) Enviar à ERSE, de acordo com a periodicidade a definir por esta entidade, os preços efetivamente praticados a todos os clientes no semestre anterior;
 
 y) Manter, durante um período de cinco anos, os registos relativos a todas as transações relevantes de contratos de fornecimento de eletricidade com clientes grossistas, operadores de redes de transporte e distribuição e gestor global do SEN, assim como os respetivos suportes contratuais, nos termos a regulamentar pela ERSE, tendo em consideração as orientações adotadas pela Comissão Europeia;
 
@@ -76,8 +76,4 @@ z) Apresentar à ERSE, através do balcão único eletrónico dos serviços, um 
 
 aa) Enviar à DGEG as informações necessárias para o exercício das suas competências em matéria estatística, identificadas em despacho do diretor-geral da DGEG;
 
-bb) Facultar à ERSE toda a documentação necessária para o exercício das suas competências, incluindo a documentação económica e financeira, e o acesso direto aos registos e outros documentos que suportam a informação prestada e a informação relativa aos contratos de eletricidade a preços dinâmicos;
-
-cc) Disponibilizar contratos de fornecimento de eletricidade a prazo fixo e a preço fixo, com a duração mínima de um ano, quando tenham mais de 200 000 clientes, garantindo que as respetivas condições contratuais não são objeto de alteração unilateral pelo comercializador durante todo o período contratual e de que os referidos contratos não são objeto de denúncia antecipada;
-
-dd) Cumprir as obrigações de gestão de riscos referidas no artigo seguinte.
+bb) Facultar à ERSE toda a documentação necessária para o exercício das suas competências, incluindo a documentação económica e financeira, e o acesso direto aos registos e outros documentos que suportam a informação prestada e a informação relativa aos contratos de eletricidade a preços dinâmicos.

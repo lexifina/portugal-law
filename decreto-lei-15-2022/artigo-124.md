@@ -72,6 +72,4 @@ c) Os padrões de segurança para planeamento da RNT e demais exigências técni
 
 d) O planeamento das redes com que se interliga, nomeadamente com a rede de distribuição em MT e AT e com as redes de sistemas vizinhos;
 
-e) As solicitações de reforço de capacidade de entrega e de painéis de ligação formuladas pelo operador da RND, o planeamento da rede de distribuição em AT e MT e a capacidade de injeção atribuída, bem como outros pedidos de ligação à rede de centros eletroprodutores;
-
-f) Uma análise da RNT no quadro da sua segurança operacional, com a definição de medidas preventivas e corretivas destinadas a assegurar a sua estabilidade operacional.
+e) As solicitações de reforço de capacidade de entrega e de painéis de ligação formuladas pelo operador da RND, o planeamento da rede de distribuição em AT e MT e a capacidade de injeção atribuída, bem como outros pedidos de ligação à rede de centros eletroprodutores.

@@ -9,9 +9,3 @@
 3 - São reaproveitados todos os elementos documentais que constem do processo administrativo do centro eletroprodutor a converter.
 
 4 - O registo do centro eletroprodutor como UPAC determina a caducidade dos registos preexistentes.
-
-5 - As unidades de produção de eletricidade a partir de fontes de energia renováveis, baseada em uma só tecnologia de produção, com capacidade máxima instalada até 1 MW e destinada à venda total de energia à rede, registadas ao abrigo do Decreto-Lei n.º 172/2006, de 23 de agosto, na redação que lhe foi conferida pelo Decreto-Lei n.º 76/2019, de 3 de junho, que se encontrem em exploração, podem ser convertidas num único centro eletroprodutor, com salvaguarda de todos os direitos previamente adquiridos, desde que pertençam ao mesmo titular e utilizem o mesmo ponto de ligação à RESP.
-
-6 - A conversão referida no número anterior depende de requerimento do titular das instalações de produção em causa, apresentado à DGEG por via eletrónica.
-
-7 - Verificados os requisitos previstos n.º 5, a DGEG emite um único título de controlo prévio correspondente à capacidade total instalada, caducando os registos preexistentes.

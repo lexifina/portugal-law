@@ -12,7 +12,7 @@ b) Por operador da RESP;
 
 c) Por produção com injeção total na RESP e produção para autoconsumo.
 
-3 - Os pedidos para a celebração de acordo são apresentados, até ao dia 15 de abril, ao operador da RESP, não podendo incidir sobre pontos de injeção na RESP integrados na modalidade de procedimento concorrencial.
+3 - Os pedidos para a celebração de acordo são apresentados até ao dia 15 de março à DGEG, que os remete, no prazo de cinco dias, ao operador da RESP, não podendo incidir sobre pontos de injeção na RESP integrados na modalidade de procedimento concorrencial.
 
 4 - Com a apresentação do pedido, o interessado remete à DGEG o documento de prestação de caução nos termos estabelecidos no artigo 13.º, sob pena de rejeição imediata do pedido.
 
@@ -24,7 +24,7 @@ b) Critérios de sustentabilidade de caráter territorial e ambiental, designada
 
 c) Metas a que Portugal esteja obrigado em função da tecnologia aplicável.
 
-6 - A densificação dos critérios referidos no número anterior e ponderação relativa a atribuir a cada um são estabelecidos pelos operadores da RESP.
+6 - A densificação dos critérios referidos no número anterior e ponderação relativa a atribuir a cada um são estabelecidos por despacho do diretor-geral da DGEG, no prazo de 30 dias a contar da data da entrada em vigor do presente decreto-lei, ouvidos os operadores da RESP.
 
 7 - Até 10 de agosto, o operador de rede, após articulação com o gestor global do SEN ou com o gestor integrado das redes de distribuição, consoante o caso, procede à hierarquização dos pedidos de acordo com os critérios estabelecidos nos termos do presente artigo, propondo a aprovação da lista provisória com os pedidos aceites e excluídos, incluindo a respetiva fundamentação e respeitando o limite definido nos termos do n.º 2.
 

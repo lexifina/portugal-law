@@ -13,5 +13,3 @@ a) Utilizar, nas condições definidas pela legislação aplicável, os bens do 
 b) Solicitar a expropriação, por utilidade pública e urgente, nos termos do Código das Expropriações, aprovado em anexo à Lei n.º 168/99, de 18 de setembro, na sua redação atual, dos imóveis necessários ao estabelecimento das partes integrantes da RESP;
 
 c) Solicitar a constituição de servidões sobre os imóveis necessários ao estabelecimento das partes integrantes da RESP, incluindo os necessários à instalação de linhas dedicadas para ligação aos produtores, sempre que a construção das referidas linhas seja cometida às concessionárias da RNT ou da RND, nos termos da legislação aplicável.
-
-4 - Os projetos de investimentos na RESP devidamente aprovados não estão sujeitos a qualquer tipo de demonstração de interesse municipal.

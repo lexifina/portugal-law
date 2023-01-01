@@ -14,7 +14,7 @@ b) Adquirir energia nas condições estabelecidas na lei;
 
 c) Assegurar o fornecimento de eletricidade em locais onde não exista oferta dos comercializadores de eletricidade em regime de mercado, pelo tempo em que essa ausência se mantenha;
 
-d) Fornecer eletricidade aos clientes cujo comercializador tenha cessado ou ficado impedido de exercer a atividade de comercializador de eletricidade, nos termos dos n.os 6 a 8;
+d) Fornecer eletricidade aos clientes cujo comercializador tenha ficado impedido de exercer a atividade de comercializador de eletricidade, nos termos dos n.os 6 a 8;
 
 e) Assegurar o fornecimento de eletricidade aos clientes finais cujos comercializadores em regime livre tenham recusado aplicar o regime de preços equiparados ao CUR, nos termos da lei;
 
@@ -24,28 +24,18 @@ g) Enviar às entidades competentes a informação prevista na legislação e na
 
 h) Cumprir todas as disposições legais e regulamentares aplicáveis ao exercício da atividade.
 
-i) Garantir que os clientes finais recebem informações e são incentivados a mudar para uma oferta baseada no mercado, nos termos a regulamentar pela ERSE.
-
 4 - Nas situações previstas nas alíneas c) e d) do número anterior, o CUR aplica as tarifas reguladas ou as tarifas transitórias legalmente estabelecidas e, após a extinção destas, a tarifa de referência de venda a clientes finais, nos termos do Regulamento Tarifário.
 
-5 - Verificando-se as situações previstas nas alíneas c) e d) do n.º 3, o CUR notifica os clientes finais abrangidos, dando conhecimento de que é a entidade responsável pelo fornecimento de eletricidade durante um período de seis meses ou, quando aplicável, até cessar a situação de ausência de oferta de comercializadores de eletricidade em regime de mercado, de acordo com regras definidas na regulamentação da ERSE.
+5 - Verificando-se a situação prevista na alínea d) do n.º 3, o CUR notifica os clientes abrangidos, dando conhecimento de que é a entidade responsável pelo fornecimento de eletricidade durante um período máximo de quatro meses, devendo os clientes até ao final desse período contratualizar com um comercializador registado o fornecimento de eletricidade, de acordo com regras definidas na regulamentação da ERSE.
 
-6 - A notificação referida no número anterior deve conter de forma clara:
+6 - Decorrido o período previsto no número anterior sem que o cliente tenha celebrado novo contrato de fornecimento de eletricidade com um comercializador registado, aplicam-se as regras definidas na regulamentação da ERSE.
 
-a) Os termos e as condições de fornecimento pelo CUR;
-
-b) A indicação de que os clientes finais beneficiam de todos os direitos que lhes são reconhecidos por lei;
-
-c) A menção de que os clientes finais devem, até ao final do período referido no número anterior ou após cessar a situação de ausência de oferta em regime de mercado, contratualizar o fornecimento de eletricidade com um comercializador.
-
-7 - Cessada a situação de ausência de oferta, ou decorrido o período previsto no n.º 5, sem que o cliente tenha celebrado novo contrato de fornecimento de eletricidade com um comercializador registado, aplicam-se as regras definidas na regulamentação da ERSE.
-
-8 - O CUR deve observar os seguintes critérios de independência:
+7 - O CUR deve observar os seguintes critérios de independência:
 
 a) Os administradores e os quadros de gestão do CUR não podem integrar os órgãos sociais ou participar nas estruturas de empresas que exerçam quaisquer outras atividades do SEN;
 
 b) Cada CUR deve dispor de um código de boa conduta que assegure princípios de independência funcional da gestão e proceder à sua publicitação.
 
-9 - O fornecimento, salvo casos fortuitos ou de força maior, só pode ser interrompido por razões de interesse público, de serviço ou de segurança, ou por facto imputável ao cliente ou a terceiros, nos termos previstos no Regulamento de Relações Comerciais.
+8 - O fornecimento, salvo casos fortuitos ou de força maior, só pode ser interrompido por razões de interesse público, de serviço ou de segurança, ou por facto imputável ao cliente ou a terceiros, nos termos previstos no Regulamento de Relações Comerciais.
 
-10 - O CUR deve diferenciar a sua imagem e comunicação das restantes entidades que atuam no âmbito do SEN, nos termos estabelecidos no Regulamento de Relações Comerciais.
+9 - O CUR deve diferenciar a sua imagem e comunicação das restantes entidades que atuam no âmbito do SEN, nos termos estabelecidos no Regulamento de Relações Comerciais.

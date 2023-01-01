@@ -16,7 +16,7 @@ c) Depósito bancário, em conta titulada pela entidade licenciadora, destinada 
 
 a) Na modalidade de acesso geral, ao valor de (euro) 10 000,00 por megavolt-ampere (MVA) de reserva de capacidade a atribuir, com o limite máximo de (euro) 10 000 000,00 pelo prazo mínimo de 30 meses, sendo prorrogada, até à entrada em funcionamento do centro eletroprodutor, da UPAC ou da instalação de armazenamento, sob pena de caducidade do procedimento;
 
-b) Na modalidade de acordo entre o interessado e o operador da RESP, ao valor de € 10 000,00 por MVA de reserva de capacidade a atribuir, com o limite máximo de € 10 000 000,00, pelo prazo mínimo de 30 meses, sendo prorrogada, até à entrada em funcionamento do centro eletroprodutor, instalação de armazenamento ou UPAC, sob pena de caducidade do procedimento;
+b) Na modalidade de acordo entre o interessado e o operador da RESP, ao valor de (euro) 15 000,00 por MVA de reserva de capacidade a atribuir, com o limite máximo de (euro) 10 000 000,00, pelo prazo de 24 meses;
 
 c) Na modalidade de procedimento concorrencial, o valor da caução, o prazo, o modo de prestação e a entidade a quem é prestada são estabelecidos nas peças do procedimento.
 
@@ -51,8 +51,6 @@ d) Com a recusa, pelo interessado, do orçamento para a realização dos estudos
 e) Com a recusa, pelo interessado e após mediação da DGEG, do orçamento referente aos custos de realização da infraestrutura de rede ou do seu reforço;
 
 f) Com a celebração do acordo entre o interessado e o operador de RESP, sem prejuízo da possibilidade de prestação das garantias estipuladas no acordo ao operador da RESP.
-
-g) Quando não ocorra a celebração do acordo entre o interessado e o operador da RESP, por motivo imputável a este último.
 
 9 - Com a emissão do título de reserva de capacidade de injeção na RESP no caso referido na alínea a) do n.º 3, a caução prestada mantém-se para assegurar a emissão dos títulos de controlo prévio previstos no presente decreto-lei necessários à entrada em funcionamento do centro eletroprodutor, da instalação de armazenamento ou da UPAC, nos casos aplicáveis.
 

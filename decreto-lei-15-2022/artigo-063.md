@@ -1,3 +1,7 @@
+## Secção XI
+
+## Sobre-equipamento, reequipamento, híbridos e hibridização
+
 ## Subsecção I
 
 ## Sobre-equipamento
@@ -6,7 +10,7 @@
 
 ### Energia adicional
 
-1 - Os centros eletroprodutores eólicos podem injetar, na rede a que se encontrem ligados, a energia adicional resultante do respetivo título de controlo prévio, nos termos do presente decreto-lei, do Regulamento das Redes e dos regulamentos aplicáveis emitidos pela ERSE.
+1 - Os centros eletroprodutores eólicos em funcionamento à data da entrada em vigor do presente decreto-lei podem injetar, na rede a que se encontrem ligados, a energia adicional resultante do respetivo título de controlo prévio, nos termos do presente decreto-lei, do Regulamento das Redes e dos regulamentos aplicáveis emitidos pela ERSE.
 
 2 - O operador de rede a que se encontre ligado o centro eletroprodutor, em coordenação com o gestor global do SEN, define, no acordo de ligação, as condições técnicas a que fica sujeita a injeção da energia adicional, por forma a prevenir eventuais quebras do fornecimento ou a instabilidade na rede.
 

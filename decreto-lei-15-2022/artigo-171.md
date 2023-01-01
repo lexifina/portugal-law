@@ -4,7 +4,7 @@
 
 O gestor de garantias obedece aos seguintes princípios:
 
-a) Prossecução do interesse público, adotando medidas para a limitação dos riscos de descontinuidade de fornecimento pelos comercializadores a atuar no SEN;
+a) Prossecução do interesse público;
 
 b) Imparcialidade e independência na sua atuação;
 

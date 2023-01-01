@@ -6,15 +6,13 @@
 
 ### Comunidades de energia renovável
 
-1 - A CER é uma pessoa coletiva autónoma, constituída nos termos do presente decreto-lei, mediante adesão aberta e voluntária dos seus membros, sócios ou acionistas, os quais podem ser pessoas singulares ou coletivas, de natureza pública ou privada, incluindo, nomeadamente, autarquias locais ou pequenas e médias empresas, por estes controlada e que, cumulativamente:
+1 - A CER é uma pessoa coletiva constituída nos termos do presente decreto-lei, mediante adesão aberta e voluntária dos seus membros, sócios ou acionistas, os quais podem ser pessoas singulares ou coletivas, de natureza pública ou privada, incluindo, nomeadamente, pequenas e médias empresas ou autarquias locais, por estes controlada e que, cumulativamente:
 
-a) Os membros ou participantes estejam localizados na proximidade dos projetos de energia renovável;
+a) Os membros ou participantes estejam localizados na proximidade dos projetos de energia renovável ou desenvolvam atividades relacionadas com os projetos de energia renovável da respetiva comunidade de energia, incluindo necessariamente UPAC;
 
-b) Os referidos projetos sejam detidos e desenvolvidos pela CER;
+b) Os referidos projetos sejam detidos e desenvolvidos pela CER ou por terceiros, desde que em benefício e ao serviço daquela;
 
-c) A CER tenha por objetivo principal propiciar aos membros ou às localidades onde opera a comunidade benefícios ambientais, económicos e sociais em vez de lucros financeiros;
-
-d) A participação na CER não constitua a principal atividade comercial ou profissional dos seus membros ou participantes.
+c) A CER tenha por objetivo principal propiciar aos membros ou às localidades onde opera a comunidade benefícios ambientais, económicos e sociais em vez de lucros financeiros.
 
 2 - As CER têm a faculdade de:
 

@@ -2,7 +2,7 @@
 
 ### Entidades instaladoras de unidade de produção para autoconsumo
 
-1 - A instalação de UPAC com potência instalada superior a 800 W é obrigatoriamente executada por entidade instaladora de instalações elétricas de serviço particular ou técnicos responsáveis pela execução de instalações elétricas, nos termos da Lei n.º 14/2015, de 16 de fevereiro, e do Decreto-Lei n.º 96/2017, de 10 de agosto.
+1 - A instalação de UPAC com potência instalada superior a 700 W é obrigatoriamente executada por entidade instaladora de instalações elétricas de serviço particular ou técnicos responsáveis pela execução de instalações elétricas, nos termos da Lei n.º 14/2015, de 16 de fevereiro, e do Decreto-Lei n.º 96/2017, de 10 de agosto, ambos na sua redação atual.
 
 2 - Excetua-se do disposto no número anterior a UPAC composta por equipamentos que não careçam de instalação, desde que se encontrem certificados nos termos do disposto nos n.os 2 e seguintes do artigo 96.º e disponham de capacidade instalada inferior a 1,5 kW.
 

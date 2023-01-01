@@ -10,14 +10,6 @@
 
 4 - Os requisitos a observar nos procedimentos referidos no número anterior são definidos em regulamentação da ERSE.
 
-5 - Durante a apreciação de uma reclamação ou na pendência de um procedimento de resolução extrajudicial de litígios relativos à faturação devem ser suspensas eventuais ordens de interrupção relativamente à fatura reclamada, nos termos regulamentados pela ERSE.
+5 - A ERSE publica no seu sítio na Internet as conclusões dos relatórios apresentados pelos comercializadores e pelos agregadores nos termos do disposto na alínea z) do n.º 3 do artigo 136.º com a indicação do volume de reclamações recebidas pela ERSE e a identificação do comercializador em causa.
 
-6 - A suspensão referida no número anterior mantém-se nas situações em que é solicitada a intervenção da ERSE e até à sua resposta.
-
-7 - A suspensão referida nos números anteriores não se aplica quando a fatura em causa foi objeto de reclamação ou de procedimento de resolução extrajudicial de litígios anterior.
-
-8 - A apresentação da reclamação ou o início do procedimento de resolução extrajudicial de litígios referidos no n.º 5 interrompe os prazos previstos no artigo 10.º da Lei n.º 23/96, de 26 de julho, que se reiniciam com a decisão final sobre a reclamação ou o encerramento do referido procedimento.
-
-9 - A ERSE publica no seu sítio na Internet as conclusões dos relatórios apresentados pelos comercializadores e pelos agregadores nos termos do disposto na alínea z) do n.º 3 do artigo 136.º com a indicação do volume de reclamações recebidas pela ERSE e a identificação do comercializador em causa.
-
-10 - Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa e promoção dos direitos dos consumidores, os litígios de consumo estão sujeitos a arbitragem necessária quando, por opção expressa dos consumidores, sejam submetidos à apreciação do tribunal arbitral dos centros de arbitragem de conflitos de consumo legalmente autorizados, nos termos previstos no artigo 15.º da Lei n.º 23/96, de 26 de julho, na sua redação atual.
+6 - Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa e promoção dos direitos dos consumidores, os litígios de consumo estão sujeitos a arbitragem necessária quando, por opção expressa dos consumidores, sejam submetidos à apreciação do tribunal arbitral dos centros de arbitragem de conflitos de consumo legalmente autorizados, nos termos previstos no artigo 15.º da Lei n.º 23/96, de 26 de julho, na sua redação atual.

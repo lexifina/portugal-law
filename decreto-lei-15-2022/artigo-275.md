@@ -6,7 +6,7 @@
 
 ### Taxas administrativas
 
-1 - Pelos atos previstos no presente decreto-lei relativos aos procedimentos de controlo prévio, respetivas alterações ou averbamentos, a autorizações e a licenças, registos e concessões são devidas taxas, a estabelecer por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia, com base nos princípios da transparência e da proporcionalidade.
+1 - Pelos atos previstos no presente decreto-lei relativos aos procedimentos de controlo prévio, respetivas alterações ou averbamentos, a autorizações e a licenças, registos e concessões são devidas taxas, a estabelecer por portaria do membro do Governo responsável pela área da energia.
 
 2 - Pelo procedimento de controlo prévio de registo e respetivos averbamentos, bem como pelo registo de comercializadores, são devidas taxas, que constituem receita própria da DGEG.
 

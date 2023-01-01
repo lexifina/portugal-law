@@ -26,14 +26,12 @@ d) As perspetivas de segurança do fornecimento de eletricidade para um período
 
 e) As intenções de investimento em capacidade de interligação transfronteiriça pelo menos para os próximos cinco anos;
 
-f) As medidas adotadas e a adotar com vista a reforçar a segurança do abastecimento e, nomeadamente, o tipo de fontes primárias e prioridades da sua utilização, o seu peso na produção de eletricidade, bem como a capacidade de armazenamento, disponível e necessária;
-
-g) A análise de segurança operacional do SEN ao nível da identificação das necessidades de flexibilidade do sistema eletroprodutor no médio e longo prazo, especificamente a determinação dos indicadores de integração de renováveis (desperdício de energia renovável), capacidade de respostas a rampas de consumo e de geração e necessidades de reserva de resposta de curto prazo, assim como avaliar a probabilidade e o impacto da ocorrência destes indicadores e verificar se os meios existentes fazem face ou não às necessidades de flexibilidade identificadas.
+f) As medidas adotadas e a adotar com vista a reforçar a segurança do abastecimento e, nomeadamente, o tipo de fontes primárias e prioridades da sua utilização, o seu peso na produção de eletricidade, bem como a capacidade de armazenamento, disponível e necessária.
 
 6 - O RMSA é elaborado em estreita colaboração com o operador da RNT e o gestor global do SEN que fornecem a informação necessária e disponível que lhes seja solicitada pela DGEG e que, quando adequado, consulta os operadores da rede de transporte vizinhos.
 
 7 - Todos os intervenientes no SEN têm o dever de prestar à DGEG, ao operador da RNT e ao gestor global do SEN a informação relevante para a elaboração do RMSA, devendo estas entidades assegurar a preservação da confidencialidade dos dados utilizados.
 
-8 - Os relatórios referidos nos n.ºs 1 e 2 são remetidos pela DGEG ao membro do Governo responsável para área da energia e à ERSE e publicitados no sítio na Internet da DGEG.
+8 - Os relatórios referidos nos n.os 1 e 2 são remetidos pela DGEG ao membro do Governo responsável para área da energia e à ERSE e publicitados no sítio na Internet da DGEG.
 
 9 - A DGEG remete o relatório referido no n.º 1 à Comissão Europeia.

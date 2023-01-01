@@ -6,11 +6,11 @@
 
 a) 31 de dezembro de 2022, no caso de clientes finais com consumos em BTE;
 
-b) 31 de dezembro de 2027, no caso de clientes finais com consumos em BTN > 20,7 kVA e de clientes finais com consumos em BTN ≤ 20,7 kVA.
+b) 31 de dezembro de 2025, no caso de clientes finais com consumos em BTN.
 
 2 - Na situação referida no número anterior é aplicada uma tarifa transitória de venda, fixada pela ERSE, determinada pela soma das tarifas de energia, de acesso às redes e de comercialização, sem qualquer fator de agravamento.
 
-3 - Até ao final do prazo referido na alínea b) do n.º 1, os clientes com contratos em regime de preço livre podem optar por um regime equiparado ao das tarifas transitórias, para fornecimento de eletricidade aos clientes finais de BTN, nos termos da Portaria n.º 348/2017, de 14 de novembro.
+3 - Até ao final do prazo referido na alínea c) do n.º 1, os clientes com contratos em regime de preço livre podem optar por um regime equiparado ao das tarifas transitórias, para fornecimento de eletricidade aos clientes finais de BTN, nos termos da Portaria n.º 348/2017, de 14 de novembro.
 
 4 - A partir das datas previstas no n.º 1 os novos contratos de venda de eletricidade a clientes finais são obrigatoriamente celebrados em regime de preços livres, sem prejuízo do estabelecido no n.º 6.
 

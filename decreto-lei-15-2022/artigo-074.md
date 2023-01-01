@@ -15,5 +15,3 @@
 4 - O disposto no número anterior não prejudica a caducidade do subsequente título de controlo prévio decorrente da extinção do título de utilização dos recursos hídricos ou de título de utilização do espaço marítimo nos casos em que a hibridização deles careça.
 
 5 - No procedimento de controlo prévio referido nos números anteriores, a entidade licenciadora informa o requerente dos elementos instrutórios já entregues e existentes no âmbito do procedimento de controlo prévio inicial que se mantêm válidos.
-
-6 - A hibridização através de novas unidades de armazenamento está sujeita ao procedimento previsto no n.º 3 do artigo 79.º

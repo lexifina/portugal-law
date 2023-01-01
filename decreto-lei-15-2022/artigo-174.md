@@ -12,4 +12,4 @@
 
 3 - A atividade de emissão de garantias de origem abrange o território nacional continental.
 
-4 - O modo de exercício das funções da EEGO e o procedimento aplicável ao registo dos produtores consta de um manual de procedimentos por esta elaborado, cumprindo com os requisitos da norma CEN-EN 16325, e aprovado pela ERSE no prazo de 90 dias após a atribuição da licença prevista no artigo seguinte.
+4 - O modo de exercício das funções da EEGO e o procedimento aplicável ao registo dos produtores consta de um manual de procedimentos elaborado pela EEGO e aprovado pela ERSE no prazo de 90 dias após a atribuição da licença prevista no artigo seguinte.

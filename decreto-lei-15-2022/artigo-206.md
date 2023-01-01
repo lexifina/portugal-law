@@ -28,12 +28,8 @@ e) Relatar anualmente a sua atividade e o cumprimento das suas obrigações à A
 
 f) Apresentar anualmente ao membro do Governo responsável pela área da energia um relatório sobre o funcionamento do mercado de eletricidade e sobre o grau de concorrência efetiva, com indicação das medidas adotadas e a adotar para reforçar a eficácia e a eficiência do mercado, dando conhecimento do mesmo à Assembleia da República e à Comissão Europeia e disponibilizando-o no seu sítio eletrónico;
 
-g) Elaborar e publicar, por um período de 10 anos, um relatório anual de monitorização sobre os principais desenvolvimentos dos contratos a preços dinâmicos, a prazo fixo e a preço fixo, incluindo as ofertas de mercado e o impacto nas faturas dos consumidores, especificamente no nível de volatilidade dos preços, assim como uma comparação dos vários tipos de contratos;
+g) Elaborar e publicar, por um período de 10 anos, um relatório anual de monitorização sobre os principais desenvolvimentos dos contratos a preços dinâmicos, incluindo as ofertas de mercado e o impacto nas faturas dos consumidores, especificamente no nível de volatilidade dos preços;
 
 h) Monitorizar o cumprimento das obrigações do operador da RNT e da empresa verticalmente integrada e a relação entre ambos relativamente a competências que lhe são atribuídas por lei quando, no âmbito do processo de certificação do operador da RNT, este for sujeito às obrigações previstas no artigo 232.º;
 
-i) Definir o modelo de separação contabilística das atividades a adotar pelas entidades reguladas ou sob supervisão;
-
-j) Assegurar, em estreita coordenação com as restantes entidades reguladoras a nível europeu, que a plataforma única de atribuição criada em conformidade com o Regulamento (UE) 2016/1719, da Comissão, de 26 de setembro de 2016, a REORT-E e a entidade para a cooperação dos Operadores de Redes de Distribuição da União Europeia (ORDUE) cumprem as obrigações que lhes incubem por força da Diretiva (UE) 2019/944, do Parlamento Europeu e do Conselho, de 5 de junho de 2019, do Regulamento (UE) 2019/943, Parlamento Europeu e do Conselho, de 5 de junho de 2019, dos códigos de rede, das decisões da ACER e de outras disposições aplicáveis do direito da União Europeia, identificando, conjuntamente, qualquer não conformidade verificada;
-
-k) Monitorizar o investimento em capacidades de produção e de armazenamento de eletricidade, tendo por objetivo assegurar a segurança do abastecimento.
+i) Definir o modelo de separação contabilística das atividades a adotar pelas entidades reguladas ou sob supervisão.

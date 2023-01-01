@@ -1,4 +1,4 @@
-## Secção XVII
+## Secção XVI
 
 ## Garantia do abastecimento e situações de emergência
 
@@ -14,4 +14,4 @@
 
 4 - Os encargos associados aos mecanismos de capacidade são suportados por todos os consumidores de energia elétrica, devendo ser repercutidos na tarifa de uso global de sistema ou noutra tarifa aplicável à globalidade dos consumidores de energia elétrica, nos termos a definir no Regulamento Tarifário do setor elétrico.
 
-5 - A DGEG, após proposta do operador da RNT e ouvida a ERSE, define a norma de fiabilidade, que deve indicar de forma transparente o nível necessário de segurança de abastecimento e as condições de aplicação da metodologia de avaliação europeia de adequação de recursos no âmbito nacional e a sua aplicação à justificação da necessidade de mecanismos de capacidade em respeito dos princípios constantes do Regulamento (UE) 2019/943, do Parlamento Europeu e do Conselho, de 5 de junho de 2019.
+5 - A DGEG, ouvida a ERSE, e com a colaboração do operador da RNT, define a norma de fiabilidade, que deve indicar de forma transparente o nível necessário de segurança de abastecimento e as condições de aplicação da metodologia de avaliação europeia de adequação de recursos no âmbito nacional e a sua aplicação à justificação da necessidade de mecanismos de capacidade em respeito dos princípios constantes do Regulamento (UE) 2019/943 do Parlamento Europeu e do Conselho, de 5 de junho de 2019.
