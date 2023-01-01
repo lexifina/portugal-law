@@ -25,3 +25,5 @@ b) Nos casos de sujeitos passivos já registados e abrangidos pelo regime normal
 7 - Sem prejuízo do disposto no n.º 2, a mudança de periodicidade só se verifica por iniciativa da Direcção-Geral dos Impostos, que, para o efeito, notifica o sujeito passivo da data a partir da qual a referida mudança de periodicidade produz efeitos.
 
 8 - Para efeitos do disposto no n.º 1, consideram-se cumpridos os prazos aí previstos desde que a data da sua transmissão tenha ocorrido até ao termo desses prazos.
+
+9 - As declarações periódicas, nos termos da alínea a) do n.º 1, relativas ao mês de junho, e nos termos da alínea b) do n.º 1, relativas ao segundo trimestre, devem ser enviadas até 20 de setembro.

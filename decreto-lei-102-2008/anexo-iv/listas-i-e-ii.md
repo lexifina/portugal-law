@@ -38,7 +38,7 @@ Bens e serviços sujeitos a taxa reduzida
 
 1.3.1 – Peixe fresco (vivo ou morto), refrigerado, congelado, seco, salgado ou em salmoura, com exclusão do peixe fumado, do espadarte, do esturjão e do salmão, quando secos, salgados ou em conserva e preparados de ovas (caviar);
 
-1.3.2 – Conservas de peixes (inteiros, em pedaços, filetes ou pasta), com exceção do peixe fumado, do espadarte, do esturjão e do salmão, quando secos, salgados ou em conserva e preparados de ovas (caviar);
+1.3.2 - Conservas à base de peixes e moluscos (inteiros, em filetes ou pedaços, em água, azeite, óleo ou outros molhos, em caldeirada, escabeche, recheadas e similares, em qualquer embalagem), com teor de peixe ou molusco superior a 50 %, com exceção do peixe fumado, do espadarte e do esturjão, quando secos, salgados ou em conserva e preparados de ovas (caviar).
 
 1.3.3 – Moluscos, ainda que secos ou congelados.
 
@@ -48,7 +48,7 @@ Bens e serviços sujeitos a taxa reduzida
 
 1.4.2 – Leites dietéticos;
 
-1.4.3 – Manteiga, com ou sem adição de outros produtos;
+1.4.3 - Manteiga, margarina e creme vegetal para barrar obtido a partir de gorduras de origem vegetal, com ou sem adição de outros produtos.
 
 1.4.4 – Queijos;
 
@@ -60,7 +60,7 @@ Bens e serviços sujeitos a taxa reduzida
 
 1.4.8 – (Revogado);
 
-1.4.9 – Bebidas e iogurtes de soja, incluindo tofu.
+1.4.9 - Bebidas e iogurtes de base vegetal, sem leite e laticínios, produzidos à base de frutos secos, cereais, preparados à base de cereais, frutas, legumes ou produtos hortícolas.
 
 1.5 – Gorduras e óleos gordos:
 
@@ -172,7 +172,7 @@ A taxa reduzida aplica-se exclusivamente ao preço do alojamento, incluindo o pe
 
 2.24 – As empreitadas de reabilitação de imóveis que, independentemente da localização, sejam contratadas diretamente para o Fundo Nacional de Reabilitação do Edificado pela sua sociedade gestora, pelo Instituto da Habitação e da Reabilitação Urbana, IP (IHRU, IP), pelo Investimentos Habitacionais da Madeira, EPERAM (IHM), ou pela Direção Regional de Habitação dos Açores, bem como as que sejam realizadas no âmbito de regimes especiais de apoio financeiro ou fiscal à reabilitação de edifícios ou ao abrigo de programas apoiados financeiramente pelo IHRU, IP, pelo IHM ou pela Direção Regional de Habitação dos Açores.
 
-2.25 – As empreitadas de construção de imóveis e os contratos de prestações de serviços com ela conexas cujos promotores sejam cooperativas de habitação e construção, incluindo as realizadas pelas uniões de cooperativas de habitação e construção económica às cooperativas suas associadas no âmbito do exercício das suas atividades estatutárias, desde que as habitações se integrem no âmbito da política social de habitação, designadamente quando respeitem o conceito e os parâmetros de habitação de custos controlados, majorados em 20%, desde que certificadas pelo Instituto Nacional de Habitação.
+2.25 - As empreitadas de construção de imóveis e os contratos de prestações de serviços com ela conexas cujos promotores sejam cooperativas de habitação e construção, incluindo as realizadas pelas uniões de cooperativas de habitação e construção económica às cooperativas suas associadas no âmbito do exercício das suas atividades estatutárias, desde que as habitações se integrem no âmbito da política social de habitação, designadamente quando respeitem o conceito e os parâmetros de habitação de custos controlados, majorados em 20 %, desde que certificadas pelo IHRU, I. P., ou, quando promovidas na Região Autónoma da Madeira ou na Região Autónoma dos Açores, pelo IHM ou pela Direção Regional de Habitação dos Açores, respetivamente.
 
 2.26 – As empreitadas de conservação, reparação e beneficiação dos prédios ou parte dos prédios urbanos habitacionais, propriedade de cooperativas de habitação e construção cedidos aos seus membros em regime de propriedade coletiva, qualquer que seja a respetiva modalidade.
 
@@ -186,7 +186,7 @@ A taxa reduzida não abrange os materiais incorporados, salvo se o respetivo val
 
 2.30 – Prestações de serviços de locação, manutenção ou reparação de próteses, equipamentos, aparelhos, artefactos e outros bens referidos nas verbas 2.6, 2.8 e 2.9.
 
-2.31 – Serviços de reparação de velocípedes.
+2.31 - Aquisição e reparação de velocípedes.
 
 2.32 – Entradas em espetáculos de canto, dança, música, teatro, cinema, circo, entradas em exposições, entradas em jardins zoológicos, botânicos e aquários públicos, desde que não beneficiem da isenção prevista no n.º 13 do artigo 9.º do Código do IVA, excetuando -se as entradas em espetáculos de caráter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.
 
@@ -199,6 +199,12 @@ A taxa reduzida não abrange os materiais incorporados, salvo se o respetivo val
 2.36 – As prestações de serviços de reparações de aparelhos domésticos.
 
 2.37 – Entrega e instalação de painéis solares térmicos e fotovoltaicos.
+
+2.39 - Acesso à transmissão em direto de espetáculos e eventos de teatros, feiras, parques de diversões, concertos, museus, cinemas ou outros similares.
+
+2.40 - Fornecimento e instalação de aquecedores de ambiente local a biomassa sólida com potência calorífica nominal não superior a 50 kW e caldeiras a biomassa sólida com uma potência calorífica nominal não superior a 500 kW, incluindo as integradas em sistemas mistos compostos por uma caldeira a combustível sólido, aquecedores complementares, dispositivos de controlo da temperatura e dispositivos solares, aos quais tenha sido atribuída uma etiqueta energética da União Europeia de uma das duas classes de eficiência energética mais elevadas e que cumpram os valores de referência indicativos previstos nos respetivos requisitos específicos de conceção ecológica.
+
+2.41 - Péletes e briquetes produzidos a partir de biomassa.
 
 3 – Bens utilizados normalmente no âmbito das atividades de produção agrícola e aquícola:
 

@@ -35,3 +35,5 @@ c) Pratiquem exclusivamente operações sujeitas e não isentas ou isentas com d
 d) Não beneficiem, à data em que a opção produza efeitos, de diferimento do pagamento do IVA relativo a anteriores importações.
 
 9 - A forma e prazo de exercício da opção prevista no número anterior são reguladas por portaria do membro do Governo responsável pela área das finanças.
+
+10 - O prazo de entrega do montante de imposto exigível, nos termos da alínea a) do n.º 1, relativo ao mês de junho, e nos termos da alínea b) do n.º 1, relativo ao segundo trimestre, é prolongado até 25 de setembro.
