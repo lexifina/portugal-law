@@ -16,7 +16,9 @@ a) As instituições financeiras reportantes devem comunicar as informações a 
 
 i) Ao dia 31 de julho de 2017, no que respeita às informações relativas ao período de tributação a que se refere a alínea a) do número anterior;
 
-ii) Ao dia 31 de julho de 2018 e dos anos subsequentes, no que respeita às informações relativas a períodos de tributação seguintes;
+ii) Ao dia 31 de julho de 2018, 2019, 2020, 2021 e 2022 no que respeita às informações relativas aos períodos de tributação iniciados a 1 de janeiro de 2017, 2018, 2019, 2020 e 2021, respetivamente;
+
+iii) Ao dia 31 de maio de 2023 e dos anos subsequentes, no que respeita às informações relativas a períodos de tributação seguintes;
 
 b) A Autoridade Tributária a Aduaneira deve concretizar a troca de informação a que se referem os n.os 3 a 5 do artigo 6.º até:
 
