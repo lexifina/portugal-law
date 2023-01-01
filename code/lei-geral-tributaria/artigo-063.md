@@ -16,6 +16,8 @@ e) Requisitar documentos dos notários, conservadores e outras entidades oficiai
 
 f) Utilizar as suas instalações quando a utilização for necessária ao exercício da acção inspectiva.
 
+g) Aceder aos dados constantes do Registo Central do Beneficiário Efetivo.
+
 2 - O acesso à informação protegida pelo segredo profissional ou qualquer outro dever de sigilo legalmente regulado depende de autorização judicial, nos termos da legislação aplicável.
 
 3 - Sem prejuízo do número anterior, o acesso à informação protegida pelo sigilo bancário e pelo sigilo previsto no Regime Jurídico do Contrato de Seguro faz-se nos termos previstos nos artigos 63.º-A, 63.º-B e 63.º-C.
