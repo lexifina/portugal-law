@@ -78,9 +78,13 @@ c) 'Estado de conservação' o estado do edifício ou da habitação determinado
 
 26 - (Revogado.)
 
-27 - Ficam isentos de tributação em IRS e em IRC, pelo período de duração dos respetivos contratos, os rendimentos prediais obtidos no âmbito dos programas municipais de oferta para arrendamento habitacional a custos acessíveis, sendo, para efeitos de IRS, os rendimentos isentos obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, quando o sujeito passivo opte pelo englobamento dos rendimentos prediais.
+27 - Ficam isentos de tributação em IRS e em IRC, pelo período de duração dos respetivos contratos, os rendimentos prediais obtidos no âmbito dos programas municipais de oferta para arrendamento habitacional a custos acessíveis e para alojamento estudantil, sendo, para efeitos de IRS, os rendimentos isentos obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, quando o sujeito passivo opte pelo englobamento dos rendimentos prediais.
 
-28 - Para efeitos do disposto no número anterior, consideram-se programas municipais de oferta para arrendamento habitacional a custos acessíveis os programas de iniciativa municipal que tenham por objeto contratos de arrendamento e subarrendamento habitacional por um prazo mínimo de arrendamento não inferior a cinco anos e cujo limite geral de preço de renda por tipologia não exceda o definido nas tabelas 1 e 2 do anexo I à Portaria n.º 176/2019, de 6 de junho.
+28 - Para efeitos do disposto no número anterior, consideram-se:
+
+a) «Programas municipais de oferta para arrendamento habitacional a custos acessíveis», os programas de iniciativa municipal que tenham por objeto contratos de arrendamento e subarrendamento habitacional por um prazo mínimo de arrendamento não inferior a cinco anos e cujo limite geral de preço de renda por tipologia não exceda o definido nas tabelas 1 e 2 do anexo i à Portaria n.º 176/2019, de 6 de junho;
+
+b) «Programas municipais de oferta para alojamento estudantil», os programas de iniciativa municipal que tenham por objeto contratos de arrendamento e subarrendamento dirigido a estudantes deslocados e cujo limite geral de preço de renda por tipologia não exceda o definido pela portaria a que se refere a alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio.
 
 29 - Em tudo o que não esteja previsto nos n.os 27 e 28 aplica-se o regime constante do Decreto-Lei n.º 68/2019, de 22 de maio, com as necessárias adaptações.
 

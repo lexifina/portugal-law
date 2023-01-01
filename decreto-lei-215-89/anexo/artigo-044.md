@@ -48,7 +48,7 @@ b) Relativamente às situações previstas nas alíneas e) e f), a partir do ano
 
 c) Nos casos previstos nas alíneas j) e l), no ano, inclusive, em que se verifique a cedência;
 
-d) Relativamente às situações previstas na alínea n), no ano, inclusive, em que ocorra a classificação.
+d) Relativamente às situações previstas na alínea n), no ano, inclusive, em que ocorra a classificação ou se verifique o reconhecimento da isenção pelo município, consoante os casos;
 
 e) Relativamente às situações previstas na alínea q) no ano em que se verifique o reconhecimento pelo município e a integração no inventário nacional dos estabelecimentos e entidades de interesse histórico e cultural ou social local.
 
@@ -56,13 +56,13 @@ e) Relativamente às situações previstas na alínea q) no ano em que se verifi
 
 4 - As isenções a que se refere a alínea b) do n.º 2 são reconhecidas oficiosamente, desde que se verifique a inscrição na matriz em nome das entidades beneficiárias, que os prédios se destinem directamente à realização dos seus fins e que seja feita prova da respectiva natureza jurídica.
 
-5 - As isenções a que se referem as alíneas n) e q) do n.º 1 são de caráter automático, operando mediante comunicação da classificação como monumentos nacionais ou da classificação individualizada como imóveis de interesse público ou de interesse municipal, do reconhecimento pelo município como estabelecimentos de interesse histórico e cultural ou social local e de que integram o inventário nacional dos estabelecimentos e entidades de interesse histórico e cultural ou social local, respetivamente, a efetuar pela Direção-Geral do Património Cultural ou pelas câmaras municipais, conforme o caso, vigorando enquanto os prédios estiverem classificados ou reconhecidos e integrados, mesmo que estes venham a ser transmitidos.
+5 - A isenção a que se refere a alínea n) do n.º 1 vigora mesmo que os prédios venham a ser transmitidos e é:
 
-6 - Para os efeitos previstos no número anterior, os serviços do Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P., e as câmaras municipais procedem à referida comunicação, relativamente aos imóveis já classificados à data da entrada em vigor da presente lei:
+a) Automática e comunicada pela Direção-Geral do Património Cultural à Autoridade Tributária e Aduaneira, nos casos das classificações como monumentos nacionais ou como imóveis de interesse público;
 
-a) Oficiosamente, no prazo de 60 dias; ou
+b) Dependente de reconhecimento pelo município, nos casos das classificações como imóveis de interesse municipal, operando mediante a comunicação à Autoridade Tributária e Aduaneira, nos termos e prazos previstos no artigo 16.º da Lei n.º 73/2013, de 3 de setembro.
 
-b) A requerimento dos proprietários dos imóveis, no prazo de 30 dias a contar da data de entrada do requerimento nos respectivos serviços.
+6 - A isenção a que se refere a alínea q) do n.º 1 é automática e é aplicada aos prédios que, de acordo com a comunicação da Direção-Geral das Atividades Económicas à Autoridade Tributária e Aduaneira, integrem o inventário nacional dos estabelecimentos e entidades de interesse histórico e cultural ou social local, vigorando mesmo que os prédios venham a ser transmitidos.
 
 7 - A isenção a que se refere a alínea g) do n.º 1 é reconhecida pelo director-geral dos Impostos, em requerimento devidamente documentado, que deve ser apresentado pelos sujeitos passivos no serviço de finanças da área da situação do prédio, no prazo de 60 dias contados da verificação do facto determinante da isenção.
 
@@ -70,16 +70,18 @@ b) A requerimento dos proprietários dos imóveis, no prazo de 30 dias a contar 
 
 9 - Nas situações abrangidas nos n.os 7 e 8, se o pedido for apresentado para além do prazo aí referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação
 
-10 - Os benefícios constantes das alíneas b) a m), o) e p) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, e os constantes das alíneas n) e q) do n.º 1 cessam no ano, inclusive, em que os prédios venham a ser desclassificados ou deixem de estar reconhecidos pelo município e integrados no inventário nacional de estabelecimentos e entidades com interesse histórico e cultural ou social local, respetivamente, ou sejam considerados devolutos ou em ruínas, nos termos do n.º 3 do artigo 112.º do Código do Imposto Municipal sobre Imóveis.
+10 - Os benefícios do n.º 1 cessam:
+
+a) Nos casos das alíneas b) a m), o) e p), logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, aprovado em anexo ao Decreto-Lei n.º 287/2003, de 12 de novembro;
+
+b) Nos casos da alínea n), no ano, inclusive, em que os prédios venham a ser desclassificados ou em que o benefício deixe de estar reconhecido pelo município, ou sejam considerados devolutos ou em ruínas, nos termos do n.º 3 do artigo 112.º e do artigo 112.º-B do Código do Imposto Municipal sobre Imóveis;
+
+c) Nos casos da alínea q), no ano, inclusive, em que os prédios deixem de estar reconhecidos pelo município e integrados no inventário nacional de estabelecimentos e entidades com interesse histórico e cultural ou social local, ou sejam considerados devolutos ou em ruínas, nos termos do n.º 3 do artigo 112.º e do artigo 112.º-B do Código do Imposto Municipal sobre Imóveis.
 
 11 - As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
 
-12 - O benefício previsto na alínea g) do n.º 1 não é aplicável às entidades que exerçam atividades de
+12 - O benefício previsto na alínea g) do n.º 1 não é aplicável às entidades que exerçam atividades de intermediação financeira, de seguros e às instituições auxiliares de intermediação financeira e de seguros (NACE Rev. 1.1, secção J, códigos 65, 66 e 67) e do tipo «serviços intragrupo»,
 
-intermediação financeira, de seguros e às instituições auxiliares de intermediação financeira e de
+designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev. 1.1, secção K, código 74).
 
-seguros (NACE Rev. 1.1, secção J, códigos 65, 66 e 67) e do tipo «serviços intragrupo»,
-
-designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev. 1.1, secção K,
-
-código 74).
+13 - O disposto na alínea n) do n.º 1 não é aplicável aos prédios individualmente considerados que integrem conjuntos ou sítios classificados como monumentos nacionais, sem prejuízo dos poderes tributários próprios dos municípios e do reconhecimento e da comunicação pelo município competente à Autoridade Tributária e Aduaneira, nos termos e prazos previstos no artigo 16.º da Lei n.º 73/2013, de 3 de setembro.
