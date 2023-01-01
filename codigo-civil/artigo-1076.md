@@ -2,6 +2,6 @@
 
 ### Antecipação de rendas
 
-1 - O pagamento da renda pode ser antecipado, havendo acordo escrito, por período não superior a três meses.
+1 - O pagamento da renda pode ser antecipado, havendo acordo escrito, por período não superior a dois meses.
 
-2 - As partes podem caucionar, por qualquer das formas legalmente previstas, o cumprimento das obrigações respectivas.
+2 - As partes podem caucionar, por qualquer das formas legalmente previstas, o cumprimento das obrigações respetivas, até ao valor correspondente a duas rendas.
