@@ -1,0 +1,17 @@
+# Resolução do Conselho do Governo Regional n.º 2/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 4/2023, 4.º suplemento, de 2023-01-06
+
+**Sumário:** Autoriza a isenção do pagamento das tarifas estabelecidas na Portaria n.º 66/2012, de 28 de maio, relativas ao fornecimento de fruteiras processadas e multiplicadas no laboratório de micropropagação e ou em viveiros, aos agricultores da ilha do Porto Santo, durante o ano de 2023.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 2/2023
+Sumário: Autoriza a isenção do pagamento das tarifas estabelecidas na Portaria n.º 66/2012, de 28 de maio, relativas ao fornecimento de fruteiras processadas e multiplicadas no laboratório de micropropagação e ou em viveiros, aos agricultores da ilha do Porto Santo, durante o ano de 2023.
+Texto: Resolução n.º 2/2023. Considerando que pela Resolução do Conselho do Governo Regional n.º 4/2022, de 6 de janeiro, renumeração produzida pela Declaração de Retificação n.º 2/2022, de 18 de janeiro, foi decidido isentar durante o ano de 2022, e em face de prescrição agronómica dos serviços competentes da Secretaria Regional de Agricultura e Desenvolvimento Rural, os agricultores da ilha do Porto Santo do pagamento das tarifas estabelecidas na Portaria n.º 66/2012, de 28 de maio, relativas ao fornecimento de fruteiras processadas e multiplicadas no laboratório de micropropagação e ou em viveiros, sob a tutela ou à responsabilidade da Direção Regional de Agricultura e Desenvolvimento Rural; Considerando que este apoio visou impulsionar a construção de sebes vivas com a instalação de árvores de fruto nos terrenos agrícolas da ilha do Porto Santo, infraestruturas ecológicas para ali altamente recomendadas, já que permitindo minorar algumas das condicionantes naturais ao desenvolvimento da agricultura local, designadamente a erosão eólica; Considerando que é importante prosseguir com a instalação de sebes vivas em terrenos ainda não abrangidos, como também substituir plantas que não vingaram nas já infraestruturadas; Considerando que o n.º 2 da Resolução n.º 4/2022, de 6 de janeiro, prevê que o prazo para o apoio que concede possa ser prorrogado por Resolução do Conselho do Governo Regional. Nestes termos, o Conselho do Governo reunido em plenário em 5 de janeiro de 2023, resolve:
+1- Ao abrigo do disposto nas alíneas a) e b) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, com as alterações introduzidas pelas Leis n.ºs 130/99, de 21 de agosto e 12/2000, de 21 de junho, e do n.º 2 da Resolução n.º 4/2022, de 6 de janeiro, isentar, durante o ano de 2023, e em face de prescrição agronómica da Direção de Serviços de Desenvolvimento Agronómico da Direção Regional de Agricultura e Desenvolvimento Rural, os agricultores da ilha do Porto Santo do pagamento das tarifas estabelecidas na Portaria n.º 66/2012, de 28 de maio, relativas ao fornecimento de fruteiras processadas e multiplicadas no laboratório de micropropagação e ou em viveiros, sob a tutela ou à responsabilidade da Direção Regional de Agricultura e Desenvolvimento Rural da Secretaria Regional de Agricultura e Desenvolvimento Rural.
+2- O prazo referido no número anterior pode ser prorrogado por Resolução do Conselho do Governo.
+3- A presente Resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
