@@ -8,6 +8,6 @@ a) Sernadas, Palheiros de Baixo, Ortigosa, Eirigo, Paredes, Carvalhal, Aveleira,
 
 b) Covas, Vila Nova de Oliveirinha, Vale de Gaios e Covelo, localizadas no concelho de Tábua;
 
-c) Tondela e Campo de Besteiros, localizadas no concelho de Tondela.
+c) Campo de Besteiros, localizada no concelho de Tondela.
 
 2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, que dela faz parte integrante.

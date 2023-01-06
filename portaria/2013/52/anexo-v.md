@@ -1,10 +1,10 @@
 # Anexo V
 
-### Planta de localização das zonas de proteção
+### Plantas com a representação das zonas de proteção
 
 (a que se refere o artigo 5.º)
 
-Extrato da Carta Militar de Portugal - 1:25000 (IGeoE)
+Base: Extrato da Carta Militar de Portugal - 1:25000 (IGeoE)
 
 Captação de Sernadas
 
@@ -63,10 +63,6 @@ Captação de Vale de Gaios
 (ver documento original)
 
 Captação de Covelo
-
-(ver documento original)
-
-Captação de Tondela
 
 (ver documento original)
 
