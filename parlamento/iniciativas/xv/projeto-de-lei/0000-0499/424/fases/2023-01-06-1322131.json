@@ -1,0 +1,155 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "424",
+    "id": "152177",
+    "titulo": "Cria incentivos ao investimento empresarial na sustentabilidade ambiental, procedendo à alteração do Código Fiscal do Investimento e do Decreto-Lei n.º 8/2007, de 17 de janeiro"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2023-01-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "63413",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-01-06",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-03-17",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer AICEP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566a4d6a67784d474d344c54637a4d7a63744e44566d4d4331684e5451334c546c685a5445344d546c6b4d7a566d4e7935775a47593d&fich=5c2810c8-7337-45f0-a547-9ae1819d35f7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-17",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer APSU",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255334e475a6b4e7a5a6b4c546c69596d55744e475a685a69316859545a6a4c546c6c4e474d354d57466b4f4759324e5335775a47593d&fich=e74fd76d-9bbe-4faf-aa6c-9e4c91ad8f65.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Agência Nacional de Inovação (ANI)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e694d5467794d6a59324c5759354d7a41744e4451354d533168593255784c544e684d324a6d5a5455354e5751344f4335775a47593d&fich=cb182266-f930-4491-ace1-3a3bfe595d88.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Comissão dos Mercados e Valores Mobiliários (CMVM)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a517a4d6d56685a44557a4c5463785a546b744e475a6d5a5331694d7a497a4c5455795a5459334d6a566b596a5530597935775a47593d&fich=432ead53-71e9-4ffe-b323-52e6725db54c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-05",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer IAPMEI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3246695a5455304f474a6b4c5755324e3245744e44566c4e5331694d574e6c4c5751354d57466a4f54646a5a54686c5a4335775a47593d&fich=abe548bd-e67a-45e5-b1ce-d91ac97ce8ed.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "CMVM - Comissão de Mercados e Valores Mobiliários em 2023-04-03"
+          },
+          {
+            "link": "",
+            "nome": "ANI - Agência Nacional de Inovação em 2023-03-21"
+          },
+          {
+            "link": "",
+            "nome": "AICEP - Agência para o Investimento  e Comércio Externo de Portugal em 2023-03-17"
+          },
+          {
+            "link": "",
+            "nome": "IAPMEI - Agência para a Competitividade e Inovação. I.P. em 2023-04-05"
+          },
+          {
+            "link": "",
+            "nome": "APSU - Associação Portuguesa de StartUps em 2023-03-17"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "CMVM - Comissão de Mercados e Valores Mobiliários em 2023-03-08"
+          },
+          {
+            "link": "",
+            "nome": "ANI - Agência Nacional de Inovação em 2023-03-08"
+          },
+          {
+            "link": "",
+            "nome": "AICEP - Agência para o Investimento  e Comércio Externo de Portugal em 2023-03-08"
+          },
+          {
+            "link": "",
+            "nome": "IAPMEI - Agência para a Competitividade e Inovação. I.P. em 2023-03-08"
+          },
+          {
+            "link": "",
+            "nome": "APSU - Associação Portuguesa de StartUps em 2023-03-08"
+          },
+          {
+            "link": "",
+            "nome": "ZERO - Associação Sistema Terrestre Sustentável em 2023-03-08"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-01-06",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1322131",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
