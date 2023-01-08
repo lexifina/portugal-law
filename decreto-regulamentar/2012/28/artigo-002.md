@@ -20,4 +20,6 @@ f) Uniformizar e coordenar a ação fiscalizadora das demais entidades interveni
 
 g) Contribuir financeiramente, em colaboração com a Direção-Geral de Infraestruturas e Equipamentos do Ministério da Administração Interna, para a aquisição de equipamentos e aplicações a utilizar pelas entidades do MAI intervenientes em matéria rodoviária, segundo orientação superior.
 
+h) Promover e apoiar iniciativas que visem melhorar o socorro a vítimas de acidentes de trânsito, nomeadamente através do apoio financeiro, segundo orientação superior, à aquisição de veículos de socorro e de desencarceramento, a operar por entidades públicas ou privadas.
+
 3 - O regulamento dos apoios financeiros a atribuir a entidades públicas e privadas sem fins lucrativos, no âmbito do previsto na alínea c) do número anterior, é aprovado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da administração interna.
