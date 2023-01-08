@@ -44,7 +44,7 @@ d) Quando o veículo deixe de ser utilizado na via pública, mediante apresenta�
 
 10 - Não podem ser repostas ou atribuídas novas matrículas a veículos quando o cancelamento da matrícula anterior tenha tido por fundamento a destruição do mesmo.
 
-11 - Quando tiver lugar o cancelamento da matrícula de um veículo que tenha instalado dispositivo eletrónico de matrícula, o proprietário, ou quem o represente para o efeito, deve proceder à entrega daquele dispositivo nos serviços competentes, onde o processo de cancelamento da matrícula tiver lugar.
+11 - (Revogado.)
 
 12 - O titular do registo de propriedade pode ainda requerer o cancelamento da matrícula, quando tenha transferido a propriedade do veículo a terceiro há mais de um ano e este não tenha procedido à respetiva atualização do registo de propriedade, mediante apresentação de pedido de apreensão de veículo, apresentado há mais de seis meses.
 
