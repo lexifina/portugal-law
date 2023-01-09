@@ -1,0 +1,128 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "481",
+  "id": "152277",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-01-09",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338344f546b784d7a566a596930314e47557a4c5451304e44597459545a6d4e6930344e7a6b35596d49334e7a417a4e6a67756347526d&fich=899135cb-54e3-4446-a6f6-8799bb770368.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "7395",
+        "nome": "Joaquim Miranda Sarmento"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3918",
+        "nome": "Paula Cardoso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4299",
+        "nome": "Clara Marques Mendes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6531",
+        "nome": "Mónica Quintela"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6885",
+        "nome": "Ofélia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1905",
+        "nome": "Fernando Negrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6119",
+        "nome": "Emília Cerqueira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6176",
+        "nome": "Sara Madruga da Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6539",
+        "nome": "André Coelho Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7381",
+        "nome": "Cristiana Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6595",
+        "nome": "Márcia Passos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7274",
+        "nome": "Hugo Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6901",
+        "nome": "Catarina Rocha Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7128",
+        "nome": "Sofia Matos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7530",
+        "nome": "Joaquim Pinto Moreira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "152277",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338775a57497a4f4441304e6931694d7a55324c54526a4f574d74595445344e7930324d3249334e4759774d7a4d325a5745755a47396a65413d3d&fich=0eb38046-b356-4c9c-a187-63b74f0336ea.docx&Inline=true",
+    "IniNr": "481",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Isenta de taxa na emissão de código de acesso ao registo criminal ou de certificado de registo criminal as pessoas singulares que exerçam, no âmbito do voluntariado, funções ou atividades que envolvam contacto regular com menores, procedendo à quinta alteração ao Decreto-Lei n.º 171/2015, de 25 de agosto, que regulamenta e desenvolve o regime jurídico da identificação criminal, aprovado pela Lei n.º 37/2015, de 5 de maio",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
