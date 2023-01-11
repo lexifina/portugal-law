@@ -1,0 +1,7 @@
+Aviso n.º 623/2023
+Sumário: Consulta pública dos projetos de Regulamento Municipal dos Serviços de Abastecimento de Água, Saneamento e Águas Residuais e Regulamento Municipal de Gestão dos Resíduos Urbanos.
+Consulta pública dos projetos de Regulamento Municipal dos Serviços de Abastecimento de Água, Saneamento e Águas Residuais e Regulamento Municipal de Gestão dos Resíduos Urbanos
+Nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo e do disposto no artigo 241.º da Constituição da Republica Portuguesa, torna-se público que a Câmara Municipal, em reunião de dezasseis de dezembro de dois mil e vinte e dois, deliberou submeter a consulta pública, pelo prazo de 30 dias, a contar da data de publicação do presente Aviso em 2.ª série do Diário da República o projeto de Regulamento Municipal dos Serviços de Abastecimento de Água, Saneamento e Águas Residuais e Regulamento Municipal de Gestão dos Resíduos Urbanos, estando o texto disponível no sitio eletrónico do Município www.cm-armamar.pt ou presencialmente nos Serviços de Atendimento da Câmara Municipal.
+Os interessados poderão dirigir por escrito as suas sugestões endereçadas ao Presidente da Câmara Municipal, Praça da República, 5110-127 Armamar ou remeter por correio eletrónico para o endereço atendimentol@cm-armamar.pt no período acima mencionado.
+21 de dezembro de 2022. - O Presidente da Câmara Municipal de Armamar, João Paulo Soares Carvalho Pereira da Fonseca.
+315998217
