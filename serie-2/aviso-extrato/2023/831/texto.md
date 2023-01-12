@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 831/2023
+Sumário: Aprova o Regulamento e Tabela Geral de Taxas e Outras Receitas 2023 da Freguesia da União de Freguesias de Pontinha e Famões.
+Jorge Nunes, Presidente da Junta de Freguesias da União de Freguesias de Pontinha e Famões, torna público que, de acordo com a deliberação tomada em reunião de executivo de 15 de Novembro 2022 e nos termos e para os feitos do disposto no art. 56.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de Setembro, conjugado com o art. 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de Janeiro, é submetido a consulta pública, durante o prazo de 30 dias úteis a contar da data de publicação do presente Aviso no Diário da República, 2.ª série, o Projeto de Regulamento e Tabela Geral de Taxas e Outras Receitas 2023 da Freguesia da União de Freguesias de Pontinha e Famões, encontrando-se o mesmo disponível para consulta na página eletrónica da freguesia em https://jf-pontinhafamoes.pt/.
+12 de dezembro de 2022. - O Presidente da Junta de Freguesias da União de Freguesias de Pontinha e Famões, Dr. Jorge Nunes.
+316000831
