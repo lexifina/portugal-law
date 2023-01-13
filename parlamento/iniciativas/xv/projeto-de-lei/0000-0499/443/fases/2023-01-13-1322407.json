@@ -1,0 +1,159 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "443",
+    "id": "152197",
+    "titulo": "Introduz medidas promotoras de transparência na informação pré-contratual relativa à comercialização à distância de serviços financeiros"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-01-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "63451",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-01-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-02-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Direção-Geral do Consumidor",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d774d4445334e544a6a4c5441304e444d744e444d334f4331685a6a526d4c546c6c4d57597a4d4459315a4749344e5335775a47593d&fich=c001752c-0443-4378-af4f-9e1f3065db85.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Associação Portuguesa de Bancos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b35596d4d785a6a4d334c546b3159546b744e4745784f4331684e44566a4c546c684f5445774d575269596a426c596935775a47593d&fich=99bc1f37-95a9-4a18-a45c-9a9101dbb0eb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-22",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Banco de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49775a5441305a4463304c5751324d7a55744e47566c4d793168597a45314c544e6a4f47457a4e7a5930595445334e7935775a47593d&fich=20e04d74-d635-4ee3-ac15-3c8a3764a177.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-22",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251344e7a6b354e544d794c546b324e5467744e444a684f4331684d7a49794c545a684d6a4e684d3252684e6a4935595335775a47593d&fich=d8799532-9658-42a8-a322-6a23a3da629a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-22",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45325a4455774e4759324c574d79593245744e44597a595331694d446b7a4c574e68597a49794f4745345a6a426d4e7935775a47593d&fich=16d504f6-c2ca-463a-b093-cac228a8f0f7.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Banco de Portugal em 2023-02-22"
+          },
+          {
+            "link": "",
+            "nome": "APB - Associação Portuguesa de Bancos em 2023-02-16"
+          },
+          {
+            "link": "",
+            "nome": "DECO - Associação Portuguesa para a Defesa do Consumidor em 2023-02-14"
+          },
+          {
+            "link": "",
+            "nome": "DGC - Direção-Geral do Consumidor em 2023-02-16"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Banco de Portugal em 2023-02-06"
+          },
+          {
+            "link": "",
+            "nome": "APB - Associação Portuguesa de Bancos em 2023-02-06"
+          },
+          {
+            "link": "",
+            "nome": "DECO - Associação Portuguesa para a Defesa do Consumidor em 2023-02-06"
+          },
+          {
+            "link": "",
+            "nome": "DGC - Direção-Geral do Consumidor em 2023-02-06"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": [
+              "BE",
+              "PAN"
+            ],
+            "data": "2023-03-22",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PCP</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> IL</I><BR>Abstenção:<I>PSD</I>, <I> CH</I><BR>Ausência: <I>BE</I>, <I> PAN</I>",
+            "id": "104551",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "90",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2023-01-13",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1322407",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
