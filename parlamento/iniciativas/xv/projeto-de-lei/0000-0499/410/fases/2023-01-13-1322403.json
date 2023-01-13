@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "410",
+    "id": "152142",
+    "titulo": "Elimina a obrigatoriedade de explicitar «Chamada para a rede fixa nacional» e «Chamada para rede móvel nacional» nas linhas telefónicas para contacto do consumidor (Primeira alteração ao Decreto-Lei n.º 59/2021, de 14 de julho)\n\n"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-01-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "63449",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-01-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-02-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - APHORT",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41304d5459305a6d59794c575669595441744e445133597931694d5463354c544979593251324d444e6c4f44426c4d5335775a47593d&fich=04164ff2-eba0-447c-b179-22cd603e80e1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-09",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - APRITEL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5130596a45314d32466a4c544a6a4f4445744e474d335a6930354e3255304c57526a4f5449774e4749325a6a45794d6935775a47593d&fich=44b153ac-2c81-4c7f-97e4-dc9204b6f122.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59794d6a49324d54566c4c5463774e5755744e446c6b4e7931694f5449774c544a6b5a6a566c4e6d51334e6a466c595335775a47593d&fich=6222615e-705e-49d7-b920-2df5e6d761ea.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - C1 - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466a4e474534596a67354c57526d59544d744e44566d4e6930344e44526b4c5759794d444179596a526c4e3249314e6935775a47593d&fich=ac4a8b89-dfa3-45f6-844d-f2002b4e7b56.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - C2 - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d774e54426d4f4455354c546c694d3251744e4456694f4331685a5451354c546c6d4e6a4a6a4f544d304d4463795a4335775a47593d&fich=c050f859-9b3d-45b8-ae49-9f62c934072d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração - C3 - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466d4e4455315a5464694c54686d4e4467744e44426b4d433169596a67774c574d344d6a51784e5451774d6a55324f4335775a47593d&fich=1f455e7b-8f48-40d0-bb80-c82415402568.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-01",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249344e6a63324e7a4e684c5749774d7a6b744e446c6b597930345a5755314c575135597a686a4d5449345a574a6d4e7935775a47593d&fich=b867673a-b039-49dc-8ee5-d9c8c128ebf7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-01",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55354e47457a4d5449334c574d784f574d744e444e6d596930354e7a526b4c544268597a4a6b4d7a4e6c59575934595335775a47593d&fich=594a3127-c19c-43fb-974d-0ac2d33eaf8a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8330",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "Numero": "8330",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-01-13",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1322403",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "974689",
+        "obs": null,
+        "pag": [
+          "6-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-01",
+        "pubLeg": "XV",
+        "pubNr": "175",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/175/2023-03-01/6?pgs=6-9&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
