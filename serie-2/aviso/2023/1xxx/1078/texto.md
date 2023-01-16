@@ -1,0 +1,6 @@
+Aviso n.º 1078/2023
+Sumário: Discussão pública de alteração ao Regulamento Municipal de Incentivo às Famílias.
+Luís dos Santos Fernandes, Presidente da Câmara Municipal de Vinhais, ao abrigo da competência constante na alínea t), do n.º 1 do artigo 35.º e para efeitos do estatuído pelo artigo 56.º do Anexo I à Lei n.º 75/2013 de 12 de setembro, na sua atual redação, torna público que, na sua reunião ordinária de vinte e um de dezembro de dois mil e vinte e dois, deliberou submeter a discussão pública, pelo prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República, a proposta de "Alteração ao Regulamento Municipal de Incentivo às Famílias", em cumprimento do artigos 100.º e 101.º do Código do Procedimento Administrativo, na sua atual redação.
+Durante este período poderão os interessados consultar as alterações do Regulamento suprarreferido e apresentar sugestões sobre o mesmo, na Unidade de Desenvolvimento e Cooperação Social, Paços do Município, Rua das Freiras n.º 13, 5320-326 Vinhais, todos os dias úteis das 9.00 horas às 16.30 horas, o qual ficará igualmente disponível na página eletrónica do município www.cm-vinhais.pt.
+4 de janeiro de 2023. - O Presidente da Câmara Municipal, Luís dos Santos Fernandes.
+316035679
