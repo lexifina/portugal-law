@@ -1,0 +1,19 @@
+# Resolução do Conselho do Governo Regional n.º 13/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 11/2023, 2.º suplemento, de 2023-01-17
+
+**Sumário:** Cria o Programa de Apoio à Garantia de Estabilidade Social 2023 (PROAGES - 2023), visando incrementar um apoio suplementar ao rendimento das famílias, atendendo à subida da taxa de inflação e ao consequente aumento dos preços e dos encargos mensais a suportar pelos agregados familiares, decorrentes do conflito bélico entre a Rússia e a Ucrânia, no montante de € 2.500.000,00, cuja entidade gestora será a Direção Regional da Cidadania e dos Assuntos Sociais.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 13/2023
+Sumário: Cria o Programa de Apoio à Garantia de Estabilidade Social 2023 (PROAGES - 2023), visando incrementar um apoio suplementar ao rendimento das famílias, atendendo à subida da taxa de inflação e ao consequente aumento dos preços e dos encargos mensais a suportar pelos agregados familiares, decorrentes do conflito bélico entre a Rússia e a Ucrânia, no montante de € 2.500.000,00, cuja entidade gestora será a Direção Regional da Cidadania e dos Assuntos Sociais.
+Texto: Resolução n.º 13/2023. Considerando que, através da Resolução do Conselho do Governo n.º 80/2022, de 18 de fevereiro, foi criado o Programa de Apoio à Garantia de Estabilidade Social 2022 (PROAGES - 2022), tendo sido executado em parceria com as Entidades de Economia Social da Região Autónoma da Madeira; Considerando que o referido programa contemplava duas medidas de apoio que foram estabelecidas em dois eixos de atuação, um vocacionado para o apoio suplementar ao rendimento de trabalho dos agregados familiares a recuperar da crise pandémica e o outro para esbater as assimetrias geográficas na Região Autónoma da Madeira; Considerando, no momento atual, a subida da taxa de inflação e o consequente aumento dos preços e dos encargos mensais a suportar pelos agregados familiares, decorrentes do conflito bélico entre a Rússia e a Ucrânia; Considerando que, nesse sentido, existem famílias que continuam a necessitar de apoio e estímulo para restabelecer os seus rendimentos e estabilizar a economia familiar; Considerando ainda que, face à experiência adquirida, decorrente da execução do PROAGES-2022 e atendendo a questões operacionais que pressupõem a articulação entre várias entidades oficiais, justifica-se a autonomização dos sobreditos eixos, em programas distintos. Nestes termos, o Conselho do Governo, reunido em plenário de 12 de janeiro de 2023, resolve:
+1. Criar o Programa de Apoio à Garantia de Estabilidade Social 2023 (PROAGES - 2023), visando incrementar um apoio suplementar ao rendimento das famílias, atendendo à subida da taxa de inflação e ao consequente aumento dos preços e dos encargos mensais a suportar pelos agregados familiares, decorrentes do conflito bélico entre a Rússia e a Ucrânia, no montante de € 2.500.000,00 (dois milhões, quinhentos mil euros), cuja entidade gestora será a Direção Regional da Cidadania e dos Assuntos Sociais.
+2. Determinar que o PROAGES - 2023 será executado em parceria com as Entidades de Economia Social da Região Autónoma da Madeira, desde que devidamente constituídas, cujo âmbito de atuação, consagrado estatutariamente, preveja o apoio social.
+3. Delegar na Secretária Regional de Inclusão Social e Cidadania a competência para a aprovação da regulamentação do referido programa.
+4. A presente despesa tem dotação orçamental na Direção Regional dos Assuntos Sociais, na Classificação Orgânica 48.9.50.01.05, Programa 049, Medida 020, Projeto 52911, Centro Financeiro M100805, Classificação Económica, 04.07.01.FE.00, Fonte de Financiamento 381.
+5. A presente Resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
