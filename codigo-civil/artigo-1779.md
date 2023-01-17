@@ -8,4 +8,6 @@
 
 1 - No processo de divórcio sem consentimento de um dos cônjuges haverá sempre uma tentativa de conciliação dos cônjuges.
 
-2 - Se a tentativa de conciliação não resultar, o juiz procurará obter o acordo dos cônjuges para o divórcio por mútuo consentimento; obtido o acordo ou tendo os cônjuges, em qualquer altura do processo, optado por essa modalidade do divórcio, seguir-se-ão os termos do processo de divórcio por mútuo consentimento, com as necessárias adaptações.
+2 - Nos casos em que um dos cônjuges seja arguido ou tenha sido condenado pela prática de crime de violência doméstica contra o cônjuge requerente do divórcio, este tem a faculdade de prescindir da tentativa de conciliação.
+
+3 - Se a tentativa de conciliação não resultar, o juiz procurará obter o acordo dos cônjuges para o divórcio por mútuo consentimento; obtido o acordo ou tendo os cônjuges, em qualquer altura do processo, optado por essa modalidade do divórcio, seguir-se-ão os termos do processo de divórcio por mútuo consentimento, com as necessárias adaptações.
