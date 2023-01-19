@@ -1,0 +1,29 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-01-19, processo 0214/05.7BELRS
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0214/05.7BELRS
+
+**Data do Acordão:** 01/19/2023
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** JOSÉ VELOSO
+
+**Descritores:** RECURSO DE REVISTA EXCEPCIONAL; APRECIAÇÃO PRELIMINAR
+
+**Nº Convencional:** JSTA000P30472
+
+**Nº do Documento:** SA1202301190214/05
+
+**Data de Entrada:** 01/10/2023
+
+**Recorrente:** MUNICÍPIO DE TORRES VEDRAS
+
+**Recorrido 1:** MINISTÉRIO PÚBLICO
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+Não é de admitir a revista se a questão suscitada desmerece tanto por não se divisar a necessidade de uma melhor aplicação do direito, como por, face aos contornos particulares do caso concreto, ela não ter vocação «universalista».
