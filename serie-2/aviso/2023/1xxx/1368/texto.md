@@ -1,0 +1,17 @@
+Aviso n.º 1368/2023
+Sumário: Alteração ao Plano de Pormenor da Zona Industrial do Crato.
+Torna-se público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, que a Câmara Municipal deliberou, em reunião pública, de 16 de Dezembro de 2022, determinar o início do procedimento relativo à alteração do Plano de Pormenor da Zona Industrial do Crato/Flor da Rosa também designado como Plano de Pormenor da Zona Industrial do Crato, ratificado pela Portaria n.º 451/95, de 13 de maio, publicada no Diário da República, 1.ª série-B, n.º 111, de 13 de maio de 1995, e posteriormente, alterado pela a Assembleia Municipal do Crato, por deliberação de 30 de setembro de 1999, publicada através da Declaração n.º 88/2000, no Diário da República, 2.ª série, n.º 64 de 16 de março de 2000, que deverá estar concluído no prazo de 12 meses.
+A alteração tem por objetivos a necessidade de adequação à evolução das condições ambientais, económicas, sociais e culturais, que determinaram a elaboração do plano desde o ano de 1995.
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do mesmo diploma, é estabelecido o período de 15 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página oficial da Câmara Municipal do Crato em www.cm-crato.pt e na divisão de serviços técnicos, desta Câmara Municipal.
+Os interessados podem apresentar eventuais sugestões e ou pedido de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Exmo. Sr. Presidente da Câmara Municipal do Crato e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações desta Câmara Municipal, enviadas por via postal para a morada Praça do Município, s/n, 7430-999 Crato, ou por via eletrónica para geral@cm-crato.pt.
+Para constar, publica-se o presente aviso que vai ser afixado nos lugares de estilo, bem como publicado em 2.ª série de Diário da República e na imprensa.
+26 de dezembro de 2022. - O Presidente da Câmara Municipal, Dr. Joaquim Bernardo dos Santos Diogo.
+Deliberação
+Em reunião ordinária, realizada em 16 de dezembro de 2022, a Câmara Municipal deliberou por unanimidade:
+1) Iniciar o procedimento relativo à alteração do Plano de Pormenor da Zona Industrial do Crato/Flor da Rosa também designado como Plano de Pormenor da Zona Industrial do Crato, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, que aprovou o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), seguindo os procedimentos legais definidos no mesmo diploma legal;
+2) Aprovar os termos de referência para a elaboração do plano;
+3) Determinar que a alteração do plano não está sujeito a Avaliação Ambiental, uma vez que se refere a alterações regulamentares sem efeitos significativos no ambiente, conforme o previsto no artigo 4.º do Decreto-Lei n.º 232/2007, de 5 de junho, conjugado com o artigo 20.º do RJIGT;
+4) Proceder à abertura do período de participação pública, nos termos do n.º 2 do artigo 88.º da RJIGT, estabelecendo o período de 15 dias úteis para o efeito, contados a partir da publicação, no Diário da República, da presente deliberação;
+5) Definir o prazo máximo de 12 meses para a conclusão da alteração em causa;
+26 de dezembro de 2022. - O Presidente da Câmara Municipal, Dr. Joaquim Bernardo dos Santos Diogo.
+616038708
