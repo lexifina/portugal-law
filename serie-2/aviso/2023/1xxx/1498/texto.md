@@ -1,0 +1,19 @@
+Aviso n.º 1498/2023
+Sumário: Abertura do período de discussão pública da proposta de alteração do Plano Diretor Municipal de Lisboa.
+Abertura do período de discussão pública da proposta de alteração do Plano Diretor Municipal de Lisboa
+Nos termos da subdelegação de competências - Despacho n.º 4/DMU/CML/2022, publicado no 1.º Suplemento ao Boletim Municipal n.º 1464, de 10 de março de 2022, torna-se público que, nos termos do n.º 1 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro (Regime Jurídico das Autarquias Locais) e dos n.os 1 e 2 do artigo 89.º, em articulação com o artigo 119.º n.º 1, ambos do Decreto-Lei n.º 80/2015, de 14 de maio, na redação atual, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), a Câmara Municipal de Lisboa, na sua reunião pública de 21 de dezembro de 2022, de acordo com a Deliberação n.º 842/CM/2022, deliberou por unanimidade proceder à abertura de um período de Discussão Pública da proposta de Alteração do Plano Diretor Municipal de Lisboa.
+Torna-se ainda público que, nos termos do n.º 2 do artigo 89.º e da alínea a) do n.º 4 do artigo 191.º do citado Regime Jurídico dos Instrumentos de Gestão Territorial, terá início no 5.º (quinto) dia, após a publicação do presente Aviso no Diário da República, 2.ª série, um período de 30 (trinta) dias úteis, para apresentação de reclamações, observações ou sugestões por qualquer interessado sobre quaisquer questões que possam ser consideradas no âmbito do procedimento.
+Os interessados poderão consultar a proposta de Alteração do Plano Diretor Municipal de Lisboa e a documentação que a acompanha, no sítio eletrónico da Câmara Municipal de Lisboa, na Secção Planeamento Urbano - https://www.lisboa.pt/cidade/urbanismo/planeamento-urbano/plano-diretor-municipal ou nos locais a seguir identificados:
+Centro de Informação Urbana de Lisboa (CIUL), sito no Picoas Plaza, Rua Viriato, n.º 13 E, Núcleo 6 - 2.º, 1050-233 Lisboa;
+Centro de Documentação, sito no Edifício Central do Município, no Campo Grande, n.º 25, Piso 1.º F, 1749-099 Lisboa;
+Junta de Freguesia de Alvalade, sita no Largo Machado de Assis, 1700-116 Lisboa.
+As reclamações, observações ou sugestões, devem ser apresentadas por escrito, até ao termo do referido período e dirigidas ao Presidente da Câmara Municipal de Lisboa, utilizando para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou no sítio eletrónico da CML - https://www.lisboa.pt/cidade/urbanismo/planeamento-urbano/plano-diretor-municipal e deverão ser entregues por via eletrónica, através do endereço eletrónico dmu.dpu.dpdm@cm-lisboa.pt ou apresentadas presencialmente nos seguintes locais:
+Loja Lisboa - Alcântara, sita na Rua da Cozinha Económica, 36A - loja E;
+Loja Lisboa - Baixa, sita no Largo de S. Julião n.º 8;
+Loja Lisboa - Entrecampos, sita no Edifício Central do Município, Campo Grande, 25;
+Loja Lisboa - Marvila, sita na Loja do Cidadão de Marvila, Centro Comercial Pingo Doce da Bela Vista, Av. Santo Condestável, lote 8 - loja 34.
+9 de janeiro de 2023. - O Diretor do Departamento de Planeamento Urbano, Paulo Pardelha.
+Deliberação
+Nos termos da subdelegação de competências - Despacho n.º 4/DMU/CML/2022, publicado no 1.º Suplemento ao Boletim Municipal n.º 1464, de 10 de março de 2022, torna-se público que através da Deliberação n.º 842/CM/2022, de 21 dezembro de 2022, a Câmara Municipal de Lisboa aprovou, por unanimidade, a abertura de um período de Discussão Pública da Alteração do Plano Diretor Municipal de Lisboa, por um prazo de 30 (trinta) dias úteis, ao abrigo do disposto nos n.os 1 e 2 do artigo 89.º, em articulação com o n.º 1 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, na redação atual, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial.
+Lisboa, 9 de janeiro de 2023. - O Diretor do Departamento de Planeamento Urbano, Paulo Pardelha.
+616054624
