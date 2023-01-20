@@ -1,0 +1,240 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "465",
+    "id": "152259",
+    "titulo": "Põe fim à cobrança de comissões bancárias abusivas a todos os titulares de crédito, procedendo à primeira alteração à Lei n.º 57/2020, de 28 de agosto"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2023-01-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "63520",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-01-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-02-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da ANAI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45794e7a4d314f5468684c54566c5a6a67744e446c6d5a4331684d4445354c5441344e54457a59546334596d466b4e4335775a47593d&fich=1273598a-5ef8-49fd-a019-08513a78bad4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da SIBS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a553359324e685a6a67344c545a6a4f5449744e474a684d5330344d3249344c5467784d6d4534597a51784e5745334e5335775a47593d&fich=57ccaf88-6c92-4ba1-83b8-812a8c415a75.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer ASAVAL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a68694f574a684d6d4d784c5745324d7a55744e44646c4d5330354e5752684c5745354e6a68684d6a45344e6a6c684d7935775a47593d&fich=8b9ba2c1-a635-47e1-95da-a968a21869a3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-10",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer APB",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b774d5746694f5459324c5755314d6d45744e474a6a4d5330344f4755324c54597a595442694e4446684d6a59344d4335775a47593d&fich=901ab966-e52a-4bc1-88e6-63a0b41a2680.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-02-17",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer BdP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4932596d4e69597a45304c545a6d595751744e444a6d4e6930344f4745784c5751344f4445774e5749305a6d49324e7935775a47593d&fich=26bcbc14-6fad-42f6-88a1-d88105b4fb67.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-24",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b795a5756684e44426c4c5755794d5751744e44426a5a5331694f4463304c57493059546c6b596a4579597a51304f4335775a47593d&fich=92eea40e-e21d-40ce-b874-b4a9db12c448.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Comentários adicionais APB",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6378597a566d4e5459794c54646d4d324d744e44686d4e7930344d474d784c544a694e7a4133596a513159324e6d4d7935775a47593d&fich=71c5f562-7f3c-48f7-80c1-2b707b45ccf3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466a595745354e6a41324c5745774f4749744e4755794e69303459544e6d4c5459314f5442694e5441334e574d354f4335775a47593d&fich=acaa9606-a08b-4e26-8a3f-6590b5075c98.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração PSD - 1.ª substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55335a6d49315954457a4c545933595759744e44466959793168595759304c546378596d566c597a566a4d5756684e5335775a47593d&fich=57fb5a13-67af-41bc-aaf4-71beec5c1ea5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-11",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resultado das votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466a4d7a6b354e6a686b4c5755304e7a41744e4751305a6931684d7a5a6c4c5441785a6d5a6d5a4467774e6a56684f4335775a47593d&fich=ac39968d-e470-4d4f-a36e-01fffd8065a8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-11",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63314d6d51344e3252694c5746684d7a63744e47457a4d5330354f544e694c575935596d4d355a6a6c695a6d55345a5335775a47593d&fich=752d87db-aa37-4a31-993b-f9bc9f9bfe8e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-19",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Posição da Associação de Instituições de Crédito Especializado (ASFAC) ao texto aprovado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a417a4e474d794d575a694c546335596a51744e474e685953316959575a6a4c5463784e5745774e7a526a5a54526b5a5335775a47593d&fich=034c21fb-79b4-4caa-bafc-715a074ce4de.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6c4f475178596a5a6d4c5745304d4455744e474a685a4331694e6a45334c545a6b595755354e6a517759324d7a4d5335775a47593d&fich=6e8d1b6f-a405-4bad-b617-6dae9640cc31.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Banco de Portugal em 2023-02-17"
+          },
+          {
+            "link": "",
+            "nome": "APB - Associação Portuguesa de Bancos em 2023-02-10"
+          },
+          {
+            "link": "",
+            "nome": "SIBS em 2023-02-10"
+          },
+          {
+            "link": "",
+            "nome": "MasterCard em 2023-02-10"
+          },
+          {
+            "link": "",
+            "nome": "ASAVAL - Associação das Sociedades de Avaliação e Avaliadores de Portugal em 2023-02-10"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Avaliadores Imobiliários em 2023-02-08"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Banco de Portugal em 2023-02-02"
+          },
+          {
+            "link": "",
+            "nome": "APB - Associação Portuguesa de Bancos em 2023-02-02"
+          },
+          {
+            "link": "",
+            "nome": "AFIP - Associação FinTech e InsurTech em Portugal em 2023-02-02"
+          },
+          {
+            "link": "",
+            "nome": "SIBS em 2023-02-02"
+          },
+          {
+            "link": "",
+            "nome": "VISA em 2023-02-02"
+          },
+          {
+            "link": "",
+            "nome": "MasterCard em 2023-02-02"
+          },
+          {
+            "link": "",
+            "nome": "ASAVAL - Associação das Sociedades de Avaliação e Avaliadores de Portugal em 2023-02-02"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Avaliadores Imobiliários em 2023-02-02"
+          },
+          {
+            "link": "",
+            "nome": "Revolut em 2023-02-03"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-04-11",
+            "dataRemessa": "2023-04-11",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto de Substituição"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2023-04-11",
+            "descricao": "Votação do Texto de substituição ",
+            "detalhe": null,
+            "id": "104720",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "94",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2023-01-20",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1322768",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
