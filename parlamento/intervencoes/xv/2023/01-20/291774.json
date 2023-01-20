@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "291774",
+  "tipo": "Intervenção",
+  "orador": "Rui Paulo Sousa (CH)",
+  "data_registo": "2023-01-20",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "116966",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "152022",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Recomenda ao Governo que garanta um apoio a todas as famílias, correspondente a 40% do aumento da prestação com crédito habitação provocado pela subida da Taxa Euribor"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "152243",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Aprova um regime transitório de isenção de execução de penhora de bens imóveis para a satisfação de garantia real de créditos hipotecários"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Apresenta o Projeto de Resolução n.º 274/XV/1.ª (CH) — Recomenda ao Governo que garanta um apoio a todas as famílias, correspondente a 40 % do aumento da prestação com crédito à habitação provocado pela subida da Taxa Euribor, no âmbito da discussão conjunta, na generalidade, com o Projeto de Lei n.º 460/XV/1.ª (PAN) — Aprova um regime transitório de isenção de execução de penhora de bens imóveis para a satisfação de garantia real de créditos hipotecários.",
+        "duracao": "00:04:36:326",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_01_20_10_00_00_clean_14_plenario.xml&idsegmento=23"
+      }
+    ],
+    "DataReuniaoPlenaria": "2023-01-20",
+    "Debate": "Projeto de Resolução n.º 274/XV/1ª e Projeto de Lei n.º 460/XV/1ª - Créditos hipotecários",
+    "Deputados": {
+      "GP": "CH",
+      "idCadastro": "7342",
+      "nome": "Rui Paulo Sousa"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "291774",
+    "IdDebate": "18622",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "291774",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "26-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-01-21",
+        "pubLeg": "XV",
+        "pubNr": "80",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/080/2023-01-21/26?pgs=26&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Apresenta o Projeto de Resolução n.º 274/XV/1ª",
+    "Sessao": "1",
+    "Sumario": "Recomenda ao Governo que garanta um apoio a todas as famílias, correspondente a 40 % do aumento da prestação com crédito habitação provocado pela subida da taxa euribor; Aprova um regime transitório de isenção de execução de penhora de bens imóveis para a satisfação de garantia real de créditos hipotecários.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
