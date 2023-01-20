@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "470",
+    "id": "152264",
+    "titulo": "Cria um programa de apoio aos jovens para compra de habitação própria e permanente"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2023-01-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "63517",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-01-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XV",
+            "nome": "Grupo de Trabalho-Habitação",
+            "num": "29",
+            "orgId": "8372",
+            "publicacao": null,
+            "sigla": "GT-H"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2023-01-24",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - DECO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45344d6a466a5a4459784c546778596a67744e4455304d79316859324a684c54597a4e6d557a5a4451305a5452694e7935775a47593d&fich=1821cd61-81b8-4543-acba-636e3d44e4b7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Subida a Plenário",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526c4f4467314d44686b4c5459794f5755744e444e6b595330344e5441774c5759774f5459354e7a4a685a575a694e4335775a47593d&fich=de88508d-629e-43da-8500-f096972aefb4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Sugestão à Comissão de subida de iniciativa a Plenário (PJL 470/XV/1.ª)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566c593249314e7a67344c5749795a5755744e44466a4d4330344d5455784c54557759575a6b596a4e6b5a6d4a6c596935775a47593d&fich=5ecb5788-b2ee-41c0-8151-50afdb3dfbeb.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8330",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "Numero": "29",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-01-20",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1322757",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
