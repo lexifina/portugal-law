@@ -1,0 +1,725 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13837",
+  "numero": "103",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-01-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-03-14",
+            "entidades": null,
+            "id": "128089",
+            "tipo": null,
+            "titulo": "Audição em 2023-03-14 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915161",
+                "obs": null,
+                "pag": [
+                  "16-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-07",
+                "pubLeg": "XV",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/074/2023-04-07/16?pgs=16-20&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-02-22",
+        "DataArquivo": "2023-04-05",
+        "DataBaixaComissao": "2023-02-03",
+        "DataEnvioPAR": "2023-04-05",
+        "DataReaberta": "2023-02-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-02-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a59546c6b4d4451334d7931694d7a526c4c54526d4e446b74596a677a4e5330795957466a5a4442684e6a686a4e6d4d756347526d&fich=ca9d0473-b34e-4f49-b835-2aacd0a68c6c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b5a5455354d6a68694d6931684e5755324c545134595459744f5459334e5331694f4445774d475a6d4d4759774e4451756347526d&fich=de5928b2-a5e6-48a6-9675-b8100ff0f044.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d596d5a6c5a4746684e6931684e7a417a4c5451355a574d744f5467354e7930304e6a45304f54526a597a417a597a67756347526d&fich=fbfedaa6-a703-49ec-9897-461494cc03c8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324e57566a4d545134597930304d546b774c5452684e7a4d744f446c6a4f4330344e57466a4f5755784e546b324e6d49756347526d&fich=65ec148c-4190-4a73-89c8-85ac9e15966b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684e7a6b784f444d7a4d6930324d5451774c54526a4d6d49744f474e694e7931694f5755355957526d4e7a49354e6d51756347526d&fich=a7918332-6140-4c2b-8cb7-b9e9adf7296d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4f574d334f5459794f5330344d6a426a4c5451314e325174595449334d79307a4d6a566a4d32466a4f44637a5a4445756347526d&fich=d9c79629-820c-457d-a273-325c3ac873d1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793835597a6b314e4755354d6930785a544d334c54517859575974596a6b354e4330315a57566b4d5746684e44677a596a51756347526d&fich=9c954e92-1e37-41af-b994-5eed1aa483b4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939695a4455784e5451334e4330334e7a646d4c5451305a44417459574d305a6930355932557a5a6a466c4d324e6b4d6d45756347526d&fich=bd515474-777f-44d0-ac4f-9ce3f1e3cd2a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793968596d55354d7a5534595330314d7a55774c54526d5a5449744f4749774f4331694d7a526a5a54426d59544a6b4e6d45756347526d&fich=abe9358a-5350-4fe2-8b08-b34ce0fa2d6a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774f47566a4f5441794e5330334f575a6d4c5452684e5759745954646b5a43316a596a4d35596d55344e4449324e5445756347526d&fich=08ec9025-79ff-4a5f-a7dd-cb39be842651.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4d6d457a4e57566c4e533077596d4d304c5451794d7a6b744f5455354d79316a597a686a5a6d45325a44426b4f546b756347526d&fich=f2a35ee5-0bc4-4239-9593-cc8cfa6d0d99.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4e324668596a4d35597930784e6d59774c545134593245744f574a6d5a5330304d7a6b30595749784e7a466b4d6a67756347526d&fich=d7aab39c-16f0-48ca-9bfe-4394ab171d28.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4d7a59795a6a646b595330354d5459784c5451354d6d49744f574a6d5a5330324e6a646c5a4463304d6a49355a4751756347526d&fich=d362f7da-9161-492b-9bfe-667ed74229dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a5a6a6b774f574a684d79307a4e7a6b344c5452685a6d5574596a64695953307a4e7a466c4e54526a5a6a59334e6a55756347526d&fich=cf909ba3-3798-4afe-b7ba-371e54cf6765.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a5a444d794d475133595331694e5751324c54526d4e6a4d74595755305979316c5a44646d4e545a6a4d474d305a5745756347526d&fich=cd320d7a-b5d6-4f63-ae4c-ed7f56c0c4ea.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793878596d49324e6a6c694d6930794d4749354c5451334f5445744f5751325953307a4d54557a4d5467345a6d45304d6a45756347526d&fich=1bb669b2-20b9-4791-9d6a-3153188fa421.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938305954413359324d354f5330335a5449334c54526d4d4455744f5451794e43316d4e4456684e4459305a4467794d7a51756347526d&fich=4a07cc99-7e27-4f05-9424-f45a464d8234.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793835597a6b354d7a4a6c5a6930305a6d55324c54526a4d4749744f5749354d4331695a6d59304f4455794e54526d4d4749756347526d&fich=9c9932ef-4fe6-4c0b-9b90-bff485254f0b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684d6d4e6a5a4446694d7930344d6a457a4c5451314d446774596a56694d5330324f5455305a6d4e684d4745315a446b756347526d&fich=a2ccd1b3-8213-4508-b5b1-6954fca0a5d9.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-04-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324d57597a4f575a684d53307a4f546b344c54526d4f574574596a4d774d79316a5a546b7a5957466a4e6a686c5a5451756347526d&fich=61f39fa1-3998-4f9a-b303-ce93aac68ee4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-03-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938785a4759794e5449314e6931684d54517a4c54526b4e7a6774595749794d5331685a4755324f5468684d7a497a595751756347526d&fich=1df25256-a143-4d78-ab21-ade698a323ad.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939694d474e6d595455315a6930314e3249344c5452685a6d59744f44466b5a5330335a44646d5a44466d4e7a46694e6a6b756347526d&fich=b0cfa55f-57b8-4aff-81de-7d7fd1f71b69.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a4d6a457a5a6a637a4d43307a4d6d59314c54526b4d4459744f5468685953316b5a575579596d49314d445a6a4e6a59756347526d&fich=c213f730-32f5-4d06-98aa-dee2bb506c66.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938794e544a6c4e4451335969316c596d59324c5451775a47517459544a6c4e5330774e57557a5a4756694f575a6a4d4467756347526d&fich=252e447b-ebf6-40dd-a2e5-05e3deb9fc08.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b595441785a6d45774d53316a5a446c684c5451354e324974596a413459693031596a59784e7a49784f5756694e6a6b756347526d&fich=da01fa01-cd9a-497b-b08b-5b617219eb69.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4d3246685a6d51335a5330794f544d794c54526c5a5455744f54513259693035596a426c4e5455785a6a49304d4459756347526d&fich=e3aafd7e-2932-4ee5-946b-9b0e551f2406.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324d7a6c694f5467304d793078596d51794c54526c4d545974596a4d795a53316d5a6d466a59546c6c4e4467794f5441756347526d&fich=639b9843-1bd2-4e16-b32e-ffaca9e48290.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774e545a6b4f4749314e53303359546b304c5451304e6a41744f446734596930314f544d77593249334f4468685a6a4d756347526d&fich=056d8b55-7a94-4460-888b-5930cb788af3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938795954417a596d51314d7930344f475a6d4c54517a4d4755744f5451304e533031593249334f5755344e6d4e69593251756347526d&fich=2a03bd53-88ff-430e-9445-5cb79e86cbcd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c5a4749345a6a59354e693033595745354c5451344d7a517459544d784f5331684d6a6b774d6a5a6d5a6a49794d6d51756347526d&fich=edb8f696-7aa9-4834-a319-a29026ff222d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279383559324d345a4759795a43316d595745304c5451344e5749744f4451305a53316a596d4a6b596d466a4f5455785a5751756347526d&fich=9cc8df2d-faa4-485b-844e-cbbdbac951ed.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793832597a51314d7a4932597930304e444e694c545269596d457459574a684e5330794d6a49334e6d4934595449304e6d51756347526d&fich=6c45326c-443b-4bba-aba5-22276b8a246d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396959544d354e6d557a5969316b597a67314c5451324d6d4d744f4467315a6931684d7a4e6a4d6a6b354d6a49324f4459756347526d&fich=ba396e3b-dc85-462c-885f-a33c29922686.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8332",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-04-04",
+            "dataNomeacao": "2023-02-23",
+            "gp": "PSD",
+            "id": "6571",
+            "motivoCessacao": "Entrega do relatório",
+            "nome": "António Cunha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-10-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-02-06",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a44426c5a446c6b5a6a45745a5451304f5330304d5455354c5749794d544d74596a45304d324d354d545a685a544a6a4c6e426b5a673d3d&fich=d0ed9df1-e449-4159-b213-b143c916ae2c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "243312",
+      "243317",
+      "172966",
+      "233272",
+      "243299",
+      "243300"
+    ],
+    "Iniciativasoriginadas": [
+      "243312",
+      "243317",
+      "172966",
+      "233272",
+      "243299",
+      "243300"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_03_15_00_00_clean_14_plenario.xml&idsegmento=36"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_03_15_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346326",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33",
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-04",
+                "pubLeg": "XV",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/009/2023-10-04/32?pgs=32-33,41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa dos nossos Professores!; Recuperação integral do tempo de serviço cumprido, em defesa da escola pública; Assegura os direitos dos professores no que diz respeito à valorização da sua carreira; Recomenda ao Governo a revisão e alteração do novo regime de gestão e recrutamento do pessoal docente; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Pela valorização e qualificação das carreiras de assistente técnico e de assistente operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_03_15_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346328",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-04",
+                "pubLeg": "XV",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/009/2023-10-04/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa dos nossos Professores!; Recuperação integral do tempo de serviço cumprido, em defesa da escola pública; Assegura os direitos dos professores no que diz respeito à valorização da sua carreira; Recomenda ao Governo a revisão e alteração do novo regime de gestão e recrutamento do pessoal docente; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Pela valorização e qualificação das carreiras de assistente técnico e de assistente operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_03_15_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346329",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-04",
+                "pubLeg": "XV",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/009/2023-10-04/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa dos nossos Professores!; Recuperação integral do tempo de serviço cumprido, em defesa da escola pública; Assegura os direitos dos professores no que diz respeito à valorização da sua carreira; Recomenda ao Governo a revisão e alteração do novo regime de gestão e recrutamento do pessoal docente; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Pela valorização e qualificação das carreiras de assistente técnico e de assistente operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_03_15_00_00_clean_14_plenario.xml&idsegmento=39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-04",
+                "pubLeg": "XV",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/009/2023-10-04/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa dos nossos Professores!; Recuperação integral do tempo de serviço cumprido, em defesa da escola pública; Assegura os direitos dos professores no que diz respeito à valorização da sua carreira; Recomenda ao Governo a revisão e alteração do novo regime de gestão e recrutamento do pessoal docente; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Pela valorização e qualificação das carreiras de assistente técnico e de assistente operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_03_15_00_00_clean_14_plenario.xml&idsegmento=40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-04",
+                "pubLeg": "XV",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/009/2023-10-04/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa dos nossos Professores!; Recuperação integral do tempo de serviço cumprido, em defesa da escola pública; Assegura os direitos dos professores no que diz respeito à valorização da sua carreira; Recomenda ao Governo a revisão e alteração do novo regime de gestão e recrutamento do pessoal docente; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Pela valorização e qualificação das carreiras de assistente técnico e de assistente operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_03_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-04",
+                "pubLeg": "XV",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/009/2023-10-04/37?pgs=37-39&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa dos nossos Professores!; Recuperação integral do tempo de serviço cumprido, em defesa da escola pública; Assegura os direitos dos professores no que diz respeito à valorização da sua carreira; Recomenda ao Governo a revisão e alteração do novo regime de gestão e recrutamento do pessoal docente; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Pela valorização e qualificação das carreiras de assistente técnico e de assistente operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_03_15_00_00_clean_14_plenario.xml&idsegmento=42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "346333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-04",
+                "pubLeg": "XV",
+                "pubNr": "9",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/009/2023-10-04/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa dos nossos Professores!; Recuperação integral do tempo de serviço cumprido, em defesa da escola pública; Assegura os direitos dos professores no que diz respeito à valorização da sua carreira; Recomenda ao Governo a revisão e alteração do novo regime de gestão e recrutamento do pessoal docente; Recomenda a adoção de medidas de valorização dos trabalhadores da educação e da escola pública; Pela valorização e qualificação das carreiras de assistente técnico e de assistente operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Pela vinculação, contabilização do tempo de serviço docente e fim do bloqueio na progressão da carreira.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": [
+      {
+        "DataDocumento": "2023-02-06",
+        "TipoDocumento": "Link",
+        "URL": "https://peticaopublica.com/pview.aspx?pi=PT114819"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13837",
+    "PetAssunto": "Em defesa dos nossos Professores!",
+    "PetDataEntrada": "2023-01-26",
+    "PeticoesAssociadas": null,
+    "PetId": "13837",
+    "PetLeg": "XV",
+    "PetNr": "103",
+    "PetNrAssinaturas": "15204",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16477",
+        "obs": null,
+        "pag": [
+          "32-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-04",
+        "pubLeg": "XV",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/009/2023-10-04/32?pgs=32-42&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915183",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-02-25",
+        "pubLeg": "XV",
+        "pubNr": "67",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/067/2023-02-25/13?pgs=13-14&org=PLC"
+      }
+    ]
+  }
+}
