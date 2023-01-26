@@ -1,0 +1,7 @@
+Edital n.º 174/2023
+Sumário: Proposta de regulamento do orçamento participativo da Freguesia de Santa Maria, São Pedro e Sobral da Lagoa.
+João Paulo Herculano Rodrigues, Presidente da Junta de Freguesia de Santa Maria, São Pedro e Sobral da Lagoa, do Concelho de Óbidos, no uso da sua competência faz público que, em reunião ordinária da Junta de Freguesia, realizada em 20/12/2022 e em reunião ordinária da Assembleia de Freguesia, realizada em 21/12/2022, foi deliberado em aprovar a proposta de Regulamento do Orçamento Participativo da Freguesia de Santa Maria, São Pedro e Sobral da Lagoa e proceder à consulta pública nos termos do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, pelo prazo de 30 dias úteis, contados do dia seguinte à publicação do presente edital no Diário da República.
+Durante este período, poderão os interessados, consultar a proposta do regulamento acima referido, em versão integral, na página da Internet da junta de freguesia (www.jfsmariapedrosobral.pt) ou na sede da junta de freguesia, sito em Largo São João de Deus, 2510-087 Óbidos, durante o horário de funcionamento.
+Mais se torna público que as observações tidas por convenientes devem ser formuladas por escrito e endereçadas à Junta de Freguesia de Santa Maria, São Pedro e Sobral da Lagoa, Largo de São João de Deus, 2510-087 Óbidos ou entregues diretamente na sede da junta de freguesia durante o horário de funcionamento.
+10 de janeiro de 2023. - O Presidente, João Paulo Herculano Rodrigues.
+316052137
