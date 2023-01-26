@@ -1,0 +1,12 @@
+Declaração n.º 15/2023
+Sumário: Primeira correção material do Plano de Pormenor da Área Urbana Degradada de Sernancelhe.
+Primeira Correção Material do Plano de Pormenor da Área Urbana Degradada de Sernancelhe
+Carlos Manuel Ramos dos Santos, Vice-Presidente da Câmara Municipal de Sernancelhe, torna público, que a Câmara Municipal na sua reunião ordinária realizada em 14 de outubro de 2022, deliberou proceder à primeira correção material do Plano de Pormenor da Área Urbana Degradada de Sernancelhe (PPAUDS ou Plano), publicado no Diário da República, n.º 215, 2.ª série de 16 de setembro de 1996, através de Declaração do Ministério do Equipamento, do Planeamento e da Administração do Território, tendo a primeira alteração do Plano sido aprovada em 18 de dezembro de 2020 e adquirido eficácia a 3 de fevereiro de 2021 por força do Aviso n.º 1980/2021, publicado no Diário da República, n.º 20, 2.ª série, de 29 de janeiro de 2021.
+Nos termos do disposto na alínea a) do n.º 1 do artigo 122.º do novo Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) na sua redação atual, a correção material incide na exclusão de 521,80 m2 da área de intervenção do PPAUDS, a que corresponde 181,10 m2 da área do loteamento urbano sito na confluência da avenida das Tílias com a rua da Calçada e 340,70 m2 da área de terreno afeta ao processo administrativo n.º 47/2021, ambos em Sernancelhe, como também na inclusão de 28,30 m2 na área de intervenção do Plano, correspondentes à parte de uma parcela adjacente ao terreno associado ao processo administrativo atrás identificado.
+Tal implica a alteração das Plantas de Implantação e de Condicionantes (ambas à escala 1/1.000) do PPAUDS, assim como, da carta base que acompanhou a primeira alteração do Plano.
+Para efeitos de eficácia a que alude o n.º 1 do artigo 191.º do RJIGT, bem como, tendo em consideração o disposto dos n.os 2 e 3 do artigo 122.º do mesmo dispositivo regimental, publica-se a presente correção material que foi previamente transmitida à Assembleia Municipal de Sernancelhe e posteriormente à Comissão de Coordenação e Desenvolvimento Regional do Norte.
+11 de janeiro de 2023. - O Vice-Presidente da Câmara Municipal, Carlos Manuel Ramos dos Santos.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+67193 - https://ssaigt.dgterritorio.pt/i/PCond_67193_1818_Condicio.jpg
+67194 - https://ssaigt.dgterritorio.pt/i/PImp_67194_1818_Implanta.jpg
+616059833
