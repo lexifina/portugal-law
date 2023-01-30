@@ -1,0 +1,8 @@
+Aviso n.º 2024/2023
+Sumário: Abertura do período de publicitação e divulgação de proposta de alteração simplificada do Plano de Pormenor da Zona Industrial de Messejana (PPZIM).
+Abertura do período de publicitação e divulgação de proposta de Alteração Simplificada do Plano de Pormenor da Zona Industrial de Messejana (PPZIM)
+Carlos Miguel Castanho Espada Teles, Presidente da Câmara Municipal de Aljustrel, torna público, nos termos do n.º 4 do artigo 123.º do Decreto-Lei n.º 80/2015 (RJIGT), de 14 de maio, na sua atual redação, que em cumprimento da deliberação tomada na reunião da Câmara Municipal, realizada no dia 4 de janeiro de 2023, se abre um procedimento de alteração simplificada do PPZIM, tendo sido aceite uma proposta relativa a essa alteração e se concede um prazo de 10 dias para publicitação e divulgação da mesma, a contar da data de publicação do presente aviso no Diário da República.
+Mais se informa que, os elementos que integram a proposta de alteração simplificada do PPZIM poderão ser consultados na página eletrónica da Câmara Municipal de Aljustrel (www.mun-aljustrel.pt) e na secretaria da Divisão Técnica da Câmara Municipal, sita na Av. 1.º de maio, todos os dias úteis durante as horas normais de expediente.
+Durante o referido período de publicitação e divulgação, qualquer interessado poderá apresentar reclamações, observações ou sugestões que deverão ser formuladas por escrito, podendo estas ser enviadas por carta registada com aviso de receção para a Av. 1.º de maio, 7600-010 Aljustrel, ou aí entregues pessoalmente, bem como remetidas através do correio eletrónico div-tecnica@mun-aljustrel.pt.
+16 de janeiro de 2023. - O Presidente da Câmara, Carlos Miguel Castanho Espada Teles.
+316072841
