@@ -1,0 +1,7 @@
+Aviso n.º 2217/2023
+Sumário: Projeto do Regulamento da Urbanização e Edificação do Município de Palmela.
+Projeto de Regulamento da Urbanização e Edificação do Município de Palmela
+Álvaro Manuel Balseiro Amaro, Presidente da Câmara Municipal de Palmela, torna público que, conforme deliberação tomada em reunião ordinária da Câmara Municipal de 21 de dezembro de 2022, e nos termos e em cumprimento do disposto no artigo 56.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, conjugado com o artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, se submete a consulta pública, durante o prazo de 30 dias úteis a contar da data da publicação do presente aviso no Diário da República, 2.ª série, o Projeto de Regulamento da Urbanização e Edificação do Município de Palmela, cujo texto integral se encontra disponível no sítio eletrónico oficial do município www.cm-palmela.pt.
+Qualquer interessado poderá apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente projeto, conforme disposto no n.º 2 do citado artigo 101.º, dirigidas à Câmara Municipal, via correio normal (Largo do Município 2954-001 Palmela) ou via correio eletrónico (geral@cm-palmela.pt).
+9 de janeiro de 2023. - O Presidente da Câmara, Álvaro Manuel Balseiro Amaro.
+316046979
