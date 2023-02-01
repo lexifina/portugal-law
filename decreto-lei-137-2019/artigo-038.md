@@ -2,27 +2,25 @@
 
 ### Unidade de Cooperação Internacional
 
-1 - Na estrutura interna da PJ, compete à UCI assegurar o funcionamento da Unidade Nacional da EUROPOL e do Gabinete Nacional INTERPOL, nos termos do disposto na alínea a) do n.º 2 do artigo 5.º
+1 - Na estrutura interna da PJ, compete à UCI, designadamente:
 
-2 - No desenvolvimento do número anterior, compete à UCI, designadamente:
+a) Assegurar a representação externa no âmbito das áreas de intervenção reservadas da PJ;
 
-a) Garantir a operacionalidade dos mecanismos em matéria de coadjuvação às autoridades judiciárias na cooperação judiciária internacional em matéria penal, no âmbito da Organização Internacional de Polícia Criminal (OIPC/INTERPOL), da EUROPOL e de outros organismos internacionais da mesma natureza;
+b) Auxiliar as autoridades judiciárias nos termos da lei processual penal no âmbito da cooperação judiciária internacional em matéria penal, no respeito pelo quadro legal de competências próprias do PUC-CPI;
 
-b) Assegurar a representação externa, nas instâncias europeias internacionais em matéria das competências da OIPC/INTERPOL e da EUROPOL no âmbito das áreas de intervenção reservadas da PJ;
+c) Desenvolver, acompanhar e analisar processos, projetos e missões no plano internacional e da cooperação institucional com outras entidades congéneres, em especial com as de língua oficial portuguesa;
 
-c) Auxiliar as autoridades judiciárias nos termos da lei processual penal no âmbito da cooperação judiciária internacional em matéria penal.
+d) Garantir a prossecução dos pedidos de detenção provisória que devam ser executados em processos de extradição no âmbito das competências da PJ;
 
-3 - Compete, ainda, à UCI:
+e) Coordenar a participação da PJ nas instâncias competentes no quadro da cooperação policial da União Europeia;
 
-a) Desenvolver, acompanhar e analisar processos, projetos e missões no plano internacional e da cooperação institucional com outras entidades congéneres, em especial com as de língua oficial portuguesa;
+f) Garantir o acolhimento e acompanhamento das entidades de polícia congéneres que se deslocam em serviço ao território nacional;
 
-b) Receber e encaminhar os pedidos de detenção provisória que devam ser executados em processos de extradição no âmbito das competências da PJ;
+g) Proceder à gestão relativa à colocação e comissões de serviço dos oficiais de ligação da PJ.
 
-c) Coordenar a participação da PJ nas instâncias competentes no quadro da cooperação policial da União Europeia;
+2 - (Revogado.)
 
-d) Garantir o acolhimento e acompanhamento das entidades de polícia congéneres que se deslocam em serviço ao território nacional;
-
-e) Proceder à gestão relativa à colocação e comissões de serviço dos oficiais de ligação da PJ.
+3 - (Revogado.)
 
 4 - O Ministério Público promove o envio à UCI das certidões das sentenças proferidas contra cidadãos estrangeiros condenados, para efeitos de comunicação ao país de origem, devendo a PJ assegurar a partilha de informação no âmbito do PUC-CPI.
 
