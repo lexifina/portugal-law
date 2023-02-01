@@ -12,6 +12,4 @@ c) Cuidados continuados integrados, que se centram em intervenções sequenciais
 
 2 - As intervenções ao nível da saúde pública e dos cuidados paliativos integram o SNS, independentemente do nível de cuidados em que são realizadas.
 
-3 - Às intervenções no domínio dos comportamentos aditivos e das dependências, abrangendo a sua prevenção, tratamento, redução de riscos e minimização de danos e reinserção, aplica-se o disposto no número anterior.
-
-4 - Sempre que possível, devem ser apoiados e desenvolvidos os cuidados no domicílio.
+3 - Sempre que possível, devem ser apoiados e desenvolvidos os cuidados no domicílio.

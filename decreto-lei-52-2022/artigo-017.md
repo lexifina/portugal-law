@@ -6,7 +6,7 @@
 
 2 - É também da competência do órgão máximo de gestão dos estabelecimentos e serviços do SNS a celebração de contratos de trabalho a termo resolutivo incerto, nos termos da LTFP ou do Código do Trabalho, consoante o caso, para substituição de profissionais de saúde temporariamente ausentes.
 
-3 - Para além do disposto nos números anteriores, é, ainda, da competência do órgão máximo de gestão dos serviços e estabelecimentos de saúde integrados no setor empresarial do Estado a celebração de contratos de trabalho sem termo, ao abrigo do Código do Trabalho, sempre que esteja em causa o recrutamento dos trabalhadores necessários ao preenchimento dos postos de trabalho previstos no mapa de pessoal e no plano de desenvolvimento organizacional aprovados.
+3 - Para além do disposto nos números anteriores, é, ainda, da competência do órgão máximo de gestão dos serviços e estabelecimentos de saúde integrados no setor empresarial do Estado a celebração de contratos de trabalho sem termo, ao abrigo do Código do Trabalho, sempre que esteja em causa o recrutamento dos trabalhadores necessários ao preenchimento dos postos de trabalho previstos no mapa de pessoal e no plano de atividades e orçamento aprovados.
 
 4 - Nos casos a que se refere o número anterior, em situações excecionais e devidamente fundamentadas e quando estejam em causa prestadores diretos de cuidados de saúde, a determinação da posição remuneratória inicial pode ser negociada com o trabalhador e submetida a autorização do membro do Governo responsável pela área da saúde, sem prejuízo do disposto no artigo 270.º do Código do Trabalho.
 

@@ -16,13 +16,7 @@ b) Um máximo de quatro vogais executivos, em função da dimensão e complexida
 
 a) Um presidente;
 
-b) Um máximo de seis vogais executivos, em função da dimensão e complexidade do estabelecimento de saúde, E. P. E., que assuma o modelo de ULS, incluindo:
-
-i) Até dois diretores-clínicos;
-
-ii) Um enfermeiro-diretor, um vogal proposto pelo membro do Governo responsável pela área das finanças; e
-
-iii) Um vogal proposto pelos municípios abrangidos pela ULS ou, quando exista correspondência exata com a circunscrição territorial de uma Comunidade Intermunicipal ou de uma Área Metropolitana, pela respetiva entidade intermunicipal.
+b) Um máximo de cinco vogais executivos, incluindo até dois diretores-clínicos, um enfermeiro-diretor, um vogal proposto pelo membro do Governo responsável pela área das finanças e um vogal proposto pela Comunidade Intermunicipal, ou pela Área Metropolitana, consoante a localização do estabelecimento de saúde, E. P. E., em causa.
 
 3 - Os membros do conselho de administração são designados, mediante proposta da Direção Executiva do SNS, de entre individualidades que reúnam os requisitos previstos no Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, na sua redação atual, e possuam formação em Administração ou Gestão, preferencialmente na área da saúde, e experiência profissional adequada, sendo o diretor clínico um médico, e o enfermeiro-diretor um enfermeiro.
 

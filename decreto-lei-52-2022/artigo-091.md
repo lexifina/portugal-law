@@ -4,7 +4,7 @@
 
 1 - Os CRI são constituídos por equipas multidisciplinares de profissionais de saúde, de acordo com a área ou áreas de especialidade.
 
-2 - O regulamento interno do CRI é aprovado pelo conselho de administração no ato da criação, de acordo com o modelo aprovado por despacho do membro do Governo responsável pela área da saúde, sob proposta da ACSS, I. P.
+2 - O regulamento interno do CRI é aprovado pelo conselho de administração no ato da criação, de acordo com o modelo definido pela ACSS, I. P.
 
 3 - Os CRI orientam a sua atividade de acordo com os seguintes princípios:
 
