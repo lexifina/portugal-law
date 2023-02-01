@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 2314/2023
+Sumário: Proposta do Regulamento de Atribuição de Medalha de Mérito.
+Sérgio Duarte Oliveira Maia, Presidente da Freguesia de Murtede, torna público no uso das competências previstas nos artigos 100.º e 101.º do Código de Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que o órgão executivo da freguesia deliberou na sua reunião de 29 de Dezembro de 2022, submeter a consulta pública pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente anúncio na 2.ª série do Diário da República, o Regulamento da Atribuição da Medalha de Mérito da Freguesia de Murtede, cujo texto pode ser consultado nas instalações da Freguesia de Murtede bem como através do site oficial desta Autarquia.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do artigo 101.º do Código do Procedimento Administrativo, endereçados ao Presidente da Freguesia de Murtede, entregues nas instalações sitas Rua da Fonte n.º 5, 3060-408 Murtede, ou ainda através do e-mail freguesiamurtede@gmail.com.
+29 de dezembro de 2022. - O Presidente da Freguesia de Murtede, Sérgio Duarte Oliveira Maia.
+316097255
