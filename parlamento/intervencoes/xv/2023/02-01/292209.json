@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "292209",
+  "tipo": "Intervenção",
+  "orador": "Carlos Guimarães Pinto (IL)",
+  "data_registo": "2023-02-01",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "116973",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "152246",
+        "tipo": "INI",
+        "titulo": "Inquérito Parlamentar - Comissão parlamentar de inquérito à gestão da TAP e à utilização dos fundos públicos que lhe foram atribuídos, nomeadamente o pagamento de bónus e indemnizações aos titulares de cargos de gestão e administração da empresa"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "152255",
+        "tipo": "INI",
+        "titulo": "Inquérito Parlamentar - Comissão Eventual de Inquérito Parlamentar à Tutela Política da Gestão da TAP"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Apreciação conjunta do Inquérito Parlamentar n.º 6/XV/1.ª (CH) — Comissão parlamentar de inquérito à gestão da TAP e à utilização dos fundos públicos que lhe foram atribuídos, nomeadamente o pagamento de bónus e indemnizações aos titulares de cargos de gestão e administração da empresa e Inquérito Parlamentar n.º 7/XV/1.ª (BE) — Comissão eventual de inquérito parlamentar à tutela política da gestão da TAP.",
+        "duracao": "00:06:45:237",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_02_01_15_00_00_clean_14_plenario.xml&idsegmento=14"
+      }
+    ],
+    "DataReuniaoPlenaria": "2023-02-01",
+    "Debate": "Inquérito Parlamentar n.º 6/XV/1ª e Inquérito Parlamentar n.º 7/XV/1ª - Gestão da TAP",
+    "Deputados": {
+      "GP": "IL",
+      "idCadastro": "7343",
+      "nome": "Carlos Guimarães Pinto"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "292209",
+    "IdDebate": "18649",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "292209",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-02-01",
+        "pubLeg": "XV",
+        "pubNr": "83",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/083/2023-02-01/13?pgs=13-14&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Comissão parlamentar de inquérito à gestão da TAP e à utilização dos fundos públicos que lhe foram atribuídos, nomeadamente o pagamento de bónus e indemnizações aos titulares de cargos de gestão e administração da empresa; Comissão eventual de inquérito parlamentar à tutela política da gestão da TAP.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
