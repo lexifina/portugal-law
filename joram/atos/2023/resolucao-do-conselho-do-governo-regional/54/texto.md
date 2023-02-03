@@ -1,0 +1,18 @@
+# Resolução do Conselho do Governo Regional n.º 54/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 24/2023, suplemento, de 2023-02-03
+
+**Sumário:** Louva publicamente o Agente Coordenador, Carlos Jorge Gouveia e Silva, a prestar serviço no Corpo de Segurança Pessoal, da Força Destacada da Unidade Especial da Polícia, instalada no Comando Regional da PSP da Madeira, pela inatacável competência, pela dedicação, profissionalismo e elevado sentido de responsabilidade, bem como pelas extraordinárias qualidades humanas no desempenho das missões que lhe foram atribuídas, nos anos de 2015 a 2021.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 54/2023
+Sumário: Louva publicamente o Agente Coordenador, Carlos Jorge Gouveia e Silva, a prestar serviço no Corpo de Segurança Pessoal, da Força Destacada da Unidade Especial da Polícia, instalada no Comando Regional da PSP da Madeira, pela inatacável competência, pela dedicação, profissionalismo e elevado sentido de responsabilidade, bem como pelas extraordinárias qualidades humanas no desempenho das missões que lhe foram atribuídas, nos anos de 2015 a 2021.
+Texto: Resolução n.º 54/2023. Considerando que o Agente Coordenador, Carlos Jorge Gouveia e Silva, a prestar serviço no Corpo de Segurança Pessoal, da Força Destacada da Unidade Especial da Polícia, instalada no Comando Regional da PSP da Madeira, demonstrou inegáveis qualidades pessoais e profissionais no desempenho das suas missões, aquando da proteção física e pessoal do Presidente do Governo Regional, durante o cumprimento das funções executivas deste, nos anos de 2015 a 2021; Considerando a demonstração inequívoca de competência no aliar, de forma ímpar, as capacidades de trabalho, de organização e de entrega total à causa pública, dignificando e projetando positivamente a imagem institucional do Governo Regional, não se poupando a esforços no cumprimento rigoroso das missões desenvolvidas desde a mencionada data até ao presente, independentemente do grau de complexidade ou das dificuldades que teve de ultrapassar;
+
+Considerando a forma eficiente e de indubitável mestria e diligência, como este oficial exerceu as suas funções por ocasião das celebrações do dia 10 de junho, Dia de Portugal, de Camões e das Comunidades Portuguesas, na Cidade do Funchal no ano de 2021;
+Considerando a forma exemplar como tem atuado nas diversas missões de acompanhamento e defesa das entidades nacionais e estrangeiras, que se deslocam à Região Autónoma da Madeira, relativamente às quais incumbe a obrigação de prestação de proteção pessoal.
+O Conselho do Governo reunido em plenário em 2 de fevereiro de 2023, resolve: Louvar publicamente o Agente Coordenador, Carlos Jorge Gouveia e Silva, a prestar serviço no Corpo de Segurança Pessoal, da Força Destacada da Unidade Especial da Polícia, instalada no Comando Regional da PSP da Madeira, pela inatacável competência, pela dedicação, profissionalismo e elevado sentido de responsabilidade, bem como pelas extraordinárias qualidades humanas no desempenho das missões que lhe foram atribuídas, nos anos de 2015 a 2021, considerando os serviços por ele prestados, como relevantes e de elevado mérito.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
