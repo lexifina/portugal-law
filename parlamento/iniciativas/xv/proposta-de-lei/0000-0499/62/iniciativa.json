@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Proposta de Lei",
+  "numero": "62",
+  "id": "152441",
+  "fases": 22,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-02-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338794d444d354d44637a4e7930324e47597a4c5451784e6d4574596d4e685a5330304e546869597a517a4d7a5a684e7a55756347526d&fich=20390737-64f3-416a-bcae-458bc4336a75.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684d32497a4e474e6c4d5330304d6d566b4c54526b4d475974596a677959693035595751774d7a6779597a49344e4751756347526d&fich=a3b34ce1-42ed-4d0f-b82b-9ad0382c284d.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774f544e6a596d4d7a4e79316d4e574e694c5451794d7a6774596d4d7a5a4330774f54466d5a6a4d7a4e6a46694d6a59756347526d&fich=093cbc37-f5cb-4238-bc3d-091ff3361b26.pdf&Inline=true",
+        "anexoNome": "Parecer ALRAM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b4e5446695a47466a4e79316b4f5449354c5451774d6d4974596a51355a5330334e3245775a6a677a4e6a5a694d6a59756347526d&fich=d51bdac7-d929-402b-b49e-77a0f8366b26.pdf&Inline=true",
+        "anexoNome": "Parecer ANMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4e4752694e5463784d6930344d3249344c5452684e575174596a686d5a53316c4e7a55344e6a6c6c4e474d314e5751756347526d&fich=f4db5712-83b8-4a5d-b8fe-e75869e4c55d.pdf&Inline=true",
+        "anexoNome": "Parecer APDD"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533834595746684d5751304e5330334e3251304c54526a4e7a5174596a42694d7931684e3245784e7a6c684e7a55784f4463756347526d&fich=8aaa1d45-77d4-4c74-b0b3-a7a179a75187.pdf&Inline=true",
+        "anexoNome": "Parecer CAO"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338784e444978595463304d4330775a44526c4c54517a4e44677459545a6c4e7930784e6a4d7a5a6a686b5a544d315a5759756347526d&fich=1421a740-0d4e-4348-a6e7-1633f8de35ef.pdf&Inline=true",
+        "anexoNome": "Parecer CMVM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338305a445269595746695969316b4e5759354c5451304e6d45744f4755314e7930784e32526c596a63794e5759314e444d756347526d&fich=4d4baabb-d5f9-446a-8e57-17deb725f543.pdf&Inline=true",
+        "anexoNome": "Parecer COP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338344d7a426d597a6b33596931684f4467794c54517a5a6a417459544d785953316d5a6a677959545a6d4d5441344f4463756347526d&fich=830fc97b-a882-43f0-a31a-ff82a6f10887.pdf&Inline=true",
+        "anexoNome": "Parecer FPB"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4d6d4668596d45784f4330784e5749354c545179596d4d745954457a597930304d444d344e474e684e7a5134596d45756347526d&fich=f2aaba18-15b9-42bc-a13c-40384ca748ba.pdf&Inline=true",
+        "anexoNome": "Parecer FPF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339694d446b784d6a4a6b4d53307859544d334c54526a5a546b7459574d334e693078596a5a684d7a63784d57497a5a5749756347526d&fich=b09122d1-1a37-4ce9-ac76-1b6a3711b3eb.pdf&Inline=true",
+        "anexoNome": "Parecer Liga Portugal"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338314e6a513459546c6c5a53316c4d7a63344c54526c4e6d49744f444d345a4330314e4467304f54497a4f44526a4d5441756347526d&fich=5648a9ee-e378-4e6b-838d-548492384c10.pdf&Inline=true",
+        "anexoNome": "Parecer SRECT RAM"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "152441",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338794f574e684f474d795a693033597a59794c54526b4d44557459574535595330794d4455334d5456685a5755305a6d55755a47396a65413d3d&fich=29ca8c2f-7c62-4d05-aa9a-205715aee4fe.docx&Inline=true",
+    "IniNr": "62",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Estabelece o regime jurídico das sociedades desportivas",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
