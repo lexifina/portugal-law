@@ -1,0 +1,10 @@
+Aviso n.º 2716/2023
+Sumário: Prorrogação do prazo de suspensão parcial do Plano Diretor Municipal de Valongo e estabelecimento de medidas preventivas para o regime dos espaços de atividades económicas.
+Prorrogação do prazo de Suspensão Parcial do PDM de Valongo e estabelecimento de Medidas Preventivas para o regime dos Espaços de Atividades Económicas (EE.II) estabelecido pelos artigos 40.º e 41.º do Regulamento do PDMV
+Torna-se público que, sob proposta da Câmara Municipal de Valongo, conjuntamente com parecer favorável da CCDRN, a Assembleia Municipal de Valongo deliberou, em reunião de 09.01.2023, por maioria, aprovar a prorrogação por mais um ano, a contar de 09.01.2023, do prazo de Suspensão Parcial do PDM de Valongo e estabelecimento de Medidas Preventivas para o regime dos Espaços de Atividades Económicas (EE.II), estabelecido pelos artigos 40.º e 41.º do Regulamento do PDMV, de acordo com o previsto no n.º 3 do Aviso n.º 16776/2020, de 22 de outubro, e nos termos das disposições conjugadas da alínea b) do n.º 1 e n.º 6 do artigo 126.º, do artigo 134.º e dos n.os 1 e 7 do artigo 141.º, todos do Regime Jurídico dos instrumentos de Gestão Territorial - RJIGT (Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual).
+11 de janeiro de 2023. - O Presidente da Câmara Municipal, José Manuel Ribeiro.
+Deliberação
+Em reunião, realizada em 09 de janeiro de 2022, a Assembleia Municipal de Valongo deliberou, por maioria, aprovar a prorrogação do prazo de Suspensão Parcial do PDM de Valongo e estabelecimento de Medidas Preventivas para o regime dos Espaços de Atividades Económicas (EE.II) estabelecido pelos artigos 40.º e 41.º do Regulamento do PDMV, com 24 votos a favor e 6 abstenções sendo 5 do Grupo Municipal do PPD/PSD e 1 do Grupo Municipal do CHEGA.
+A deliberação foi aprovada em minuta, por unanimidade, nos termos do n.º 3 do artigo 57.º do Anexo à Lei n.º 75/2013, de 12 de setembro, para efeitos de execução imediata.
+11 de janeiro de 2023. - O Presidente da Câmara Municipal, José Manuel Ribeiro.
+616062343
