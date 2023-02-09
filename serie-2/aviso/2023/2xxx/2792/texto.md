@@ -1,0 +1,12 @@
+Aviso n.º 2792/2023
+Sumário: Alteração do Plano Diretor Municipal de Vila Velha de Ródão - período de participação preventiva.
+Alteração da 1.ª Revisão do Plano Diretor Municipal de Vila Velha de Ródão Prorrogação do prazo de elaboração
+Luís Miguel Ferro Pereira, Presidente da Câmara Municipal de Vila Velha de Ródão, torna público que, em cumprimento do disposto no artigo 76.º, conjugado com o artigo 119.º, ambos do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) em vigor, a Câmara Municipal de Vila Velha de Ródão deliberou, por unanimidade, na reunião realizada em 11 de novembro de 2022, a prorrogação do prazo para a elaboração da Alteração da 1.ª Revisão do Plano Diretor Municipal de Vila Velha de Ródão, por um período de 12 meses, a contar da data do fim do prazo anteriormente estabelecido através da deliberação do executivo de 12 de novembro de 2021, publicitada através do Aviso n.º 2546/2022, publicado na 2.ª série do Diário da República, do dia 7 de fevereiro de 2022.
+Para constar e para os devidos efeitos legais, se publica o presente aviso na 2.ª série do Diário da República e se procede à sua divulgação através da plataforma colaborativa de gestão territorial e no sítio da Internet deste Município, para além da sua afixação nos lugares de estilo.
+14 de novembro de 2022. - O Presidente da Câmara Municipal de Vila Velha de Ródão, Luís Miguel Ferro Pereira.
+Deliberação
+Alteração da 1.ª Revisão do Plano Diretor Municipal de Vila Velha de Ródão Prorrogação do prazo de elaboração
+Luís Miguel Ferro Pereira, Presidente da Câmara Municipal de Vila Velha de Ródão, certifica que esta Câmara Municipal, em sessão ordinária de 11 de novembro de 2022, deliberou, por unanimidade, e em cumprimento do disposto no artigo 76.º conjugado com o artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) em vigor, a prorrogação do prazo para a elaboração da Alteração da 1.ª Revisão do Plano Diretor Municipal de Vila Velha de Ródão, por um período de 12 meses, a contar da data do fim do prazo anteriormente estabelecido através da deliberação do executivo de 12 de novembro de 2021, publicitada através do Aviso n.º 2546/2022, publicado na 2.ª série do Diário da República, do dia 7 de fevereiro de 2022.
+A presente deliberação foi aprovada em minuta.
+14 de novembro de 2022. - O Presidente da Câmara Municipal de Vila Velha de Ródão, Luís Miguel Ferro Pereira.
+615882702
