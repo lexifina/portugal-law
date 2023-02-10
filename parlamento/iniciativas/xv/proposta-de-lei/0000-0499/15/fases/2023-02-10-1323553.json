@@ -1,0 +1,887 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "15",
+    "id": "121579",
+    "titulo": "Procede à alteração de legislação laboral no âmbito da agenda de trabalho digno"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2023-02-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2023-02-10",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Texto Final apresentado pela Comissão de Trabalho, Segurança Social e Inclusão relativo à Proposta de Lei n.º 15/XV/1.ª (GOV) e Projeto de Lei n.º 175/XV/1.ª (PAN) ",
+    "OevId": "1323553",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "973916",
+        "obs": null,
+        "pag": [
+          "61-66"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-02-11",
+        "pubLeg": "XV",
+        "pubNr": "88",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/61?pgs=61-66&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – substituição do artigo 3.º do Código do trabalho, constante do artigo 2.º da Proposta de Lei n.º 15/XV/1.ª (GOV)",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> IL</I>",
+        "id": "104192",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926523",
+            "obs": null,
+            "pag": [
+              "61-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/61?pgs=61&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – eliminação da alínea s) do n.º 3 do artigo 106.º do Código do Trabalho, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I>, <I> PCP</I><BR>Contra:<I>PS</I>, <I> CH</I>, <I> BE</I>, <I> PAN</I>, <I> L</I>",
+        "id": "104193",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926524",
+            "obs": null,
+            "pag": [
+              "61-61",
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/61?pgs=61,67&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – eliminação do n.º 4 do artigo 111.º do Código do Trabalho, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I><BR>Contra:<I>PS</I>, <I> CH</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I>",
+        "id": "104194",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926525",
+            "obs": null,
+            "pag": [
+              "62-62"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/62?pgs=62&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – eliminação dos n.ºs 5 e 6 do artigo 112.º do Código do Trabalho, constante do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I>, <I> PCP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> PAN</I><BR>Abstenção:<I>CH</I>, <I> L</I>",
+        "id": "104195",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926526",
+            "obs": null,
+            "pag": [
+              "62-62"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/62?pgs=62&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – emenda do n.º 5 do artigo 166.º-A do Código do Trabalho, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>",
+        "id": "104196",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926527",
+            "obs": null,
+            "pag": [
+              "62-62"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/62?pgs=62&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Avocação do BE - N.ºs 3 e 4 do artigo 168.º do Código do Trabalho, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>IL</I>",
+        "id": "104197",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926528",
+            "obs": null,
+            "pag": [
+              "62-62"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/62?pgs=62&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – emenda dos n.ºs 1 e 4 do artigo 203.º do Código do Trabalho",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> IL</I><BR>Abstenção:<I>CH</I>",
+        "id": "104198",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926529",
+            "obs": null,
+            "pag": [
+              "62-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/62?pgs=62-63&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – emenda do n.º 3 do artigo 337.º do Código do Trabalho, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>CH</I>",
+        "id": "104199",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926530",
+            "obs": null,
+            "pag": [
+              "63-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/63?pgs=63&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Avocação do BE - N.º 3 do artigo 337.º do Código do Trabalho, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> CH</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PSD</I>, <I> IL</I>",
+        "id": "104200",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926531",
+            "obs": null,
+            "pag": [
+              "63-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/63?pgs=63&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Avocação do BE - N.º 2 do artigo 344.º do Código do Trabalho, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> CH</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PSD</I>, <I> IL</I><BR>Abstenção:<I>PCP</I>",
+        "id": "104201",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926532",
+            "obs": null,
+            "pag": [
+              "63-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/63?pgs=63&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – emenda do n.º 1 do artigo 366.º do Código do Trabalho",
+        "detalhe": "A Favor: <I>CH</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> IL</I>",
+        "id": "104202",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926533",
+            "obs": null,
+            "pag": [
+              "63-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/63?pgs=63&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – revogação dos n.ºs 2, 4, 5 e 6 do artigo 366.º do Código do Trabalho",
+        "detalhe": "A Favor: <I>CH</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> IL</I>",
+        "id": "104203",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926534",
+            "obs": null,
+            "pag": [
+              "63-64"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/63?pgs=63-64&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – aditamento de um novo n.º 7 ao artigo 366.º do Código do Trabalho",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> IL</I>",
+        "id": "104204",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926535",
+            "obs": null,
+            "pag": [
+              "64-64"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/64?pgs=64&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – emenda do n.º 7 do artigo 366.º do Código do Trabalho",
+        "detalhe": "A Favor: <I>CH</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> IL</I>",
+        "id": "104205",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926536",
+            "obs": null,
+            "pag": [
+              "64-64"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/64?pgs=64&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Avocação do BE - Alínea j) do n.º 1 do artigo 424.º do Código do Trabalho, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> CH</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>IL</I><BR>Abstenção:<I>PSD</I>, <I> PCP</I>",
+        "id": "104206",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926537",
+            "obs": null,
+            "pag": [
+              "64-64"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/64?pgs=64&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – substituição do artigo 500.º do Código do Trabalho, constante do artigo 2.º da Proposta de Lei n.º 15/XV/1.ª (GOV)",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> CH</I>, <I> IL</I><BR>Abstenção:<I>PSD</I>",
+        "id": "104207",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926538",
+            "obs": null,
+            "pag": [
+              "64-64"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/64?pgs=64&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – substituição do artigo 502.º do Código do Trabalho",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> IL</I>",
+        "id": "104208",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926539",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – eliminação do artigo 106.º-A do Regime Geral das Infrações Tributárias, constante do artigo 13.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I><BR>Contra:<I>PS</I>, <I> CH</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I>",
+        "id": "104209",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926540",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – eliminação do artigo 12.º-A do Código do Trabalho, constante do artigo 14.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I>, <I> PCP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>CH</I>",
+        "id": "104210",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926541",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Avocação do BE - N.ºs 9 e 12 do artigo 12.º-A do Código do Trabalho, constante do artigo 14.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PSD</I>, <I> IL</I><BR>Abstenção:<I>CH</I>, <I> PCP</I>",
+        "id": "104211",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926542",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – eliminação do artigo 338.º-A do Código do Trabalho, constante do artigo 14.º do texto final",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Abstenção:<I>CH</I>",
+        "id": "104212",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926543",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Avocação do BE - Artigo 338.º-A do Código do Trabalho, constante do artigo 14.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PSD</I>, <I> IL</I><BR>Abstenção:<I>CH</I>",
+        "id": "104213",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926544",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do BE – emenda do artigo 32.º, n.º 3 do Texto Final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PSD</I>, <I> IL</I><BR>Abstenção:<I>CH</I>",
+        "id": "104214",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926545",
+            "obs": null,
+            "pag": [
+              "65-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/65?pgs=65-66&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PCP – emenda da alínea a) do artigo 31.º da Proposta de Lei n.º 15/XV/1.ª (GOV) (artigo 33.º do texto final)",
+        "detalhe": "A Favor: <I>PCP</I>, <I> PAN</I>, <I> L</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CH</I>, <I> IL</I><BR>Abstenção:<I>BE</I>",
+        "id": "104215",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926546",
+            "obs": null,
+            "pag": [
+              "66-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/66?pgs=66&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-02-10",
+        "descricao": "Proposta de alteração do PSD – emenda do n.º 1 do artigo 37.º do texto final ",
+        "detalhe": "A Favor: <I>PSD</I>, <I> IL</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PAN</I><BR>Abstenção:<I>CH</I>, <I> L</I>",
+        "id": "104216",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926547",
+            "obs": null,
+            "pag": [
+              "66-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-02-11",
+            "pubLeg": "XV",
+            "pubNr": "88",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/088/2023-02-11/66?pgs=66&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
