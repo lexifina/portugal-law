@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "564",
+  "id": "152458",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-02-10",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953383259324d324e6d5530597931684e7a566a4c5452695a544d74596a49774d4330774d7a68684e6d52694f474d354d6d45756347526d&fich=6cc66e4c-a75c-4be3-b200-038a6db8c92a.pdf&Inline=true",
+        "anexoNome": "A. I. G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "7395",
+        "nome": "Joaquim Miranda Sarmento"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7335",
+        "nome": "Sónia Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6571",
+        "nome": "António Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7388",
+        "nome": "Inês Barroso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7240",
+        "nome": "Alexandre Poço"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6529",
+        "nome": "Cláudia André"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4436",
+        "nome": "Joana Barata Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4094",
+        "nome": "Maria Emília Apolinário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5492",
+        "nome": "Rui Cruz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7329",
+        "nome": "António Topa Gomes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1529",
+        "nome": "João Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7007",
+        "nome": "Carla Madureira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1580",
+        "nome": "Firmino Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7011",
+        "nome": "Gabriela Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "8016",
+        "nome": "Rosina Ribeiro Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6542",
+        "nome": "Hugo Martins de Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6909",
+        "nome": "Fernanda Velez"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7402",
+        "nome": "Dinis Ramos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "152458",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c596d59784d6d526b4e79316c4f4445334c5451794d546774596a6731597930304d475a6c4f4445784f54466c4e6d55755a47396a65413d3d&fich=ebf12dd7-e817-4218-b85c-40fe81191e6e.docx&Inline=true",
+    "IniNr": "564",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Alteração da Avaliação externa das Aprendizagens: introdução de provas de aferição nos 4.º e 6.º ano",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
