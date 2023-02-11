@@ -2,4 +2,4 @@
 
 ### Pedido de autorização
 
-Com excepção dos casos de captação de águas para consumo humano, o pedido de autorização considera-se tacitamente deferido na ausência de decisão expressa no prazo de dois meses a contar da data da sua apresentação e desde que não se verifique qualquer dos pressupostos que impusesse o indeferimento.
+Com exceção dos casos de captação de águas para consumo humano, bem como de captação de água em áreas que, aquando do pedido, estejam em situação de seca severa ou extrema, o pedido de autorização considera-se tacitamente deferido na ausência de decisão expressa notificada no prazo de 45 dias a contar da data da sua apresentação.

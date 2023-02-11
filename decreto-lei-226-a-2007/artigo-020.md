@@ -26,6 +26,6 @@ a) Garantam as atuais parcerias e contribuam para a continuação da realizaçã
 
 b) Se estiverem associadas a propriedade e a manutenção de instalações construídas e infraestruturas de apoio, na natureza desses protocolos a estabelecer entre associações sem fins lucrativos e as entidades competentes, os usufrutuários sejam responsáveis por planos de conservação desses meios e da envolvente próxima, no estrito âmbito da utilização dos recursos hídricos.
 
-3 - Atendendo à natureza e à dimensão dos investimentos associados, bem como à sua relevância sociocultural e económica, desde que se mantenham os pressupostos que originaram o direito privativo de utilização dos recursos hídricos e não tenha existido gestão danosa dos recursos hídricos, o prazo da licença de utilização para as entidades constantes da alínea b) do n.º 1 do presente artigo, é de 10 anos, sucessivamente renovável, por iguais períodos, a pedido das associações, nos termos do n.º 4 do artigo 34.º
+3 - Desde que se mantenham os pressupostos que originaram o direito privativo de utilização dos recursos hídricos e não tenha existido gestão danosa dos recursos hídricos, o prazo da licença de utilização para as entidades constantes da alínea b) do n.º 1 é de 10 anos, sucessivamente renovável, por iguais períodos, a pedido das associações, nos termos do n.º 4 do artigo 34.º.
 
-4 - O pedido é apreciado e decidido no prazo de 45 dias a contar do termo da fase de consultas prevista no artigo 15.º do presente decreto-lei.
+4 - O pedido é apreciado e decidido no prazo de 45 dias a contar da data da sua apresentação.
