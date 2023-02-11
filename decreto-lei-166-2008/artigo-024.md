@@ -14,7 +14,7 @@
 
 6 - (Revogado.)
 
-7 - Quando a pretensão em causa esteja sujeita a procedimento de avaliação de impacte ambiental ou de avaliação de incidências ambientais, a pronúncia favorável da comissão de coordenação e desenvolvimento regional no âmbito desses procedimentos determina a não rejeição da comunicação prévia.
+7 - Quando a pretensão em causa esteja sujeita a procedimento de avaliação de impacte ambiental ou de avaliação de incidências ambientais em fase de projeto de execução, a pronúncia favorável expressa ou tácita da comissão de coordenação e desenvolvimento regional no âmbito desses procedimentos, incluindo na fase de verificação da conformidade ambiental do projeto de execução, dispensa a comunicação prévia.
 
 8 - (Revogado.)
 
