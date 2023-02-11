@@ -6,9 +6,9 @@
 
 2 - A decisão de prorrogação referida no número anterior é notificada ao interessado pelo responsável pela direção do procedimento.
 
-3 - O prazo referido no n.º 1 conta-se, na falta de disposição especial, da data de entrada do requerimento ou petição no serviço competente, salvo quando a lei imponha formalidades especiais para a fase preparatória da decisão e fixe prazo para a respetiva conclusão.
+3 - O prazo referido no n.º 1 conta-se a partir da data de entrada do requerimento ou petição em qualquer entidade competente para o receber, independentemente da existência de formalidades especiais para a fase preparatória da decisão.
 
-4 - No caso previsto na parte final do número anterior, o prazo conta-se do termo do prazo fixado para a conclusão daquelas formalidades.
+4 - (Revogado.)
 
 5 - Para eventual apuramento de responsabilidade disciplinar, a inobservância dos prazos referidos nos números anteriores deve ser justificada pelo órgão responsável dentro dos 10 dias seguintes ao termo dos mesmos prazos.
 

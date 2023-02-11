@@ -18,9 +18,9 @@ f) Informação sobre os meios de reação judiciais e extrajudiciais de resolu�
 
 2 - Os balcões eletrónicos devem poder intermediar nos procedimentos a serem desenvolvidos entre os interessados e as autoridades administrativas competentes, recebendo os atos de uns e outros, mediante a entrega do correspondente recibo, e transmitindo-o imediatamente.
 
-3 - O tempo que medeia entre a receção pelo balcão eletrónico dos documentos apresentados e a sua entrega ao destinatário é descontado nos prazos procedimentais em caso de justo impedimento, designadamente quando ocorra, de modo comprovado, uma interrupção técnica do funcionamento dos meios eletrónicos indispensáveis à transmissão, que não seja imputável ao órgão competente.
+3 - Os prazos procedimentais iniciam a sua contagem com a submissão do requerimento no balcão eletrónico.
 
-4 - Salvo o disposto em lei especial, os balcões eletrónicos asseguram a emissão automatizada de atos meramente certificativos e a notificação de decisões que incidam sobre os requerimentos formulados através daquele suporte eletrónico.
+4 - Os balcões eletrónicos asseguram a emissão automatizada de atos meramente certificativos e a notificação de decisões que incidam sobre os requerimentos formulados e podem proceder à emissão automatizada de atos.
 
 5 - Sem prejuízo do exercício imediato dos direitos ou interesses legalmente protegidos do interessado no procedimento, não são devidas taxas quando, sempre que tal esteja legalmente previsto, os respetivos valores ou fórmulas de cálculo não sejam introduzidos nas plataformas eletrónicas no âmbito das quais correm os procedimentos a que dizem respeito.
 
