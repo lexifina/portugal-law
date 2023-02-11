@@ -192,7 +192,7 @@ g) O incumprimento da obrigação de reporte da informação, por parte dos fabr
 
 h) O não cumprimento da obrigação de comunicação à APA, I. P., das alterações do registo e do cancelamento do mesmo, nos termos do n.º 9 do artigo 19.º;
 
-i) A nomeação de representante autorizado sem observância dos requisitos estabelecidos nos n.os 4 e 5 do artigo 20.º;
+i) (Revogada.)
 
 j) O incumprimento da obrigação de comunicação à APA, I. P., nos termos do n.º 6 do artigo 20.º;
 
