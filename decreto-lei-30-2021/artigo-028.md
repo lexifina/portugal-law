@@ -8,7 +8,7 @@ a) Incumprimento das obrigações decorrentes dos contratos anteriores de atribu
 
 b) Falta de comprovação da idoneidade e ou da capacidade técnica e ou financeira da pessoa coletiva a favor da qual é requerida a concessão.
 
-2 - Concluído o saneamento liminar do pedido, a DGEG promove, no prazo de 10 dias, a consulta obrigatória à autoridade de avaliação de impacte ambiental quanto à necessidade de realização desse procedimento, mesmo quando o projeto não esteja abrangido pelos limiares fixados nos anexos i e ii ao regime jurídico de avaliação de impacte ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual, e independentemente de o mesmo se localizar ou não em área sensível.
+2 - [Revogado.]
 
 3 - Nos casos em que a autoridade competente tiver determinado a realização de avaliação de impacte ambiental, o contrato de concessão de exploração condiciona a realização de quaisquer trabalhos de exploração à obtenção de uma decisão favorável ou favorável condicionada em sede de avaliação de impacte ambiental, nos termos do Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual.
 
