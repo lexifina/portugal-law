@@ -45,3 +45,5 @@ e) Necessidade de obtenção de alvará para realização de operação de gest�
 5 - Sempre que num estabelecimento industrial se verifiquem circunstâncias a que correspondam tipos diferentes, o estabelecimento é incluído no tipo mais exigente.
 
 6 - A alteração superveniente de alguma das circunstâncias previstas no n.º 3, que determine a inclusão do estabelecimento industrial como tipo 2 só determina um novo processo de licenciamento quando as mesmas perdurarem por um período superior a seis meses.
+
+7 - A substituição de matérias-primas por resíduos, sempre que o processo permita a valorização dos mesmos, não altera a tipologia do estabelecimento industrial.

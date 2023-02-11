@@ -32,7 +32,7 @@ d) De tipo 1 ou 2 que, não se encontrando abrangida pelo n.º 1, implique, por 
 
 e) De tipo 3 que implique a sua classificação como estabelecimento de tipo 2;
 
-f) De qualquer tipo, que implique a alteração do título de emissões para o ar na aceção do Regime da prevenção e controlo das emissões de poluentes para o ar, e das características de efluentes rejeitados após tratamento ou dos volumes titulados, bem como das áreas do domínio hídrico ocupadas, nos termos do disposto no regime de utilização de recursos hídricos.
+f) De qualquer tipo que implique a alteração do título de emissões para o ar na aceção do regime da prevenção e controlo das emissões de poluentes para o ar, bem como das áreas do domínio hídrico ocupadas, nos termos do disposto no regime de utilização de recursos hídricos.
 
 4 - Fica sujeita a procedimento de mera comunicação prévia a alteração a estabelecimento industrial de tipo 3 que não se encontre abrangida pelo disposto nos n.os 1 e 3, que implique a alteração da atividade económica, classificada de acordo com a respetiva CAE, exercida no estabelecimento.
 

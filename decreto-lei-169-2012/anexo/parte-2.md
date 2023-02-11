@@ -1,7 +1,3 @@
-## Capítulo X
-
-## Disposição final
-
 # Parte 2
 
 ### Estabelecimentos a que se referem os n.ºs 6 e 7 do artigo 18.º e o n.º 3 do artigo 33.º

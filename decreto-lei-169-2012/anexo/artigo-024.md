@@ -24,9 +24,9 @@ d) Indeferimento do pedido de título de emissão de gases com efeito de estufa,
 
 e) Indeferimento de título ou de decisão sobre o pedido de informação prévia de utilização de recurso hídricos em instalações industriais, inscrito no TUA;
 
-f) Indeferimento do pedido de alvará de operação de gestão de resíduos, inscrito no TUA;
+f) [Revogada.]
 
-g) (Revogada.)
+g) [Revogada.]
 
 h) Decisão desfavorável quanto à atribuição do número de controlo veterinário ou número de identificação individual, consoante se trate de operador no setor dos géneros alimentícios ou subprodutos de origem animal ou do setor dos alimentos para animais, respetivamente, quando tal atribuição seja exigível nos termos da legislação aplicável;
 
