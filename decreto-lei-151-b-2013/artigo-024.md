@@ -10,7 +10,7 @@
 
 4 - A decisão de prorrogação do prazo de validade da decisão sobre a conformidade ambiental do projeto de execução é proferida pela autoridade de AIA no prazo máximo de 50 dias a contar da data do pedido, e comunicada à entidade licenciadora ou competente para a autorização e ao proponente.
 
-5 - A autoridade de AIA pode solicitar, por uma única vez, elementos adicionais necessários à análise do pedido de prorrogação referidos nos números anteriores, suspendendo-se o prazo de decisão da prorrogação durante o período que for fixado para a resposta do proponente ao solicitado.
+5 - A autoridade de AIA pode solicitar, por uma única vez, elementos adicionais necessários à análise do pedido de prorrogação referidos nos números anteriores.
 
 6 - Terminado o prazo fixado para apresentação dos elementos mencionados no número anterior sem que os mesmos tenham sido apresentados ou sem que tenha sido solicitada a extensão do referido prazo, o pedido de prorrogação é dado sem efeito e o procedimento extinto.
 

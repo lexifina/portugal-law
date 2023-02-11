@@ -1,4 +1,4 @@
-## Capítulo V
+## Capítulo VI
 
 ## Fiscalização e sanções
 

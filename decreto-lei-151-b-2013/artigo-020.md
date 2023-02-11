@@ -8,7 +8,11 @@
 
 1 - O projeto de execução está sujeito à verificação de conformidade ambiental com a DIA sempre que o procedimento de AIA ocorra em fase de estudo prévio ou de anteprojeto.
 
-2 - Para efeitos do disposto no número anterior o proponente apresenta, junto da entidade licenciadora ou competente para a autorização do projeto, o projeto de execução, acompanhado do RECAPE, os quais são remetidos, no prazo de cinco dias, à autoridade de AIA.
+2 - Para efeitos do disposto no número anterior, o proponente apresenta o projeto de execução, acompanhado do RECAPE:
+
+a) Através de uma plataforma eletrónica da entidade licenciadora ou competente para a autorização do projeto; ou
+
+b) Caso a entidade licenciadora ou competente para autorização do projeto não disponha de plataforma eletrónica ou o projeto em causa não esteja sujeito a procedimento de licenciamento ou autorização, o proponente deve submeter o RECAPE através da plataforma SILiAmb, a qual comunica o RECAPE, no prazo de um dia, à entidade licenciadora ou competente para autorização do projeto.
 
 3 - Excetuam-se do disposto no número anterior os projetos para os quais não se encontram definidos procedimentos de licenciamento ou autorização, caso em que o proponente apresenta a documentação diretamente na autoridade de AIA.
 

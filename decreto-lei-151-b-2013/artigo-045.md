@@ -1,4 +1,4 @@
-## Capítulo VI
+## Capítulo VII
 
 ## Disposições finais
 
@@ -17,3 +17,5 @@
 5 - Sempre que o projeto respeite a uma instalação abrangida pelo regime aplicável à prevenção e controlo integrados da poluição, a informação resultante do procedimento de AIA realizado ao abrigo do presente decreto-lei pode ser utilizada para efeito dos pedidos de licenciamento previstos no Decreto-Lei n.º 127/2013, de 30 de agosto, na sua redação atual, sem prejuízo do previsto deste regime em matéria de articulação com o procedimento de AIA.
 
 6 - Sem prejuízo do disposto nos números anteriores, o proponente deve ter em conta, na informação a apresentar para efeitos de cumprimento das obrigações constantes no presente regime, e sempre que pertinente, os resultados disponíveis de outras avaliações de natureza ambiental.
+
+7 - A avaliação ambiental nos termos do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual, dos parques ou polos de desenvolvimento industrial, zonas industriais e logísticas e plataformas logísticas dispensa a necessidade de AIA e de análise caso a caso dos mesmos, ao abrigo do presente decreto-lei, sem prejuízo da eventual necessidade de AIA relativamente aos projetos específicos aí a instalar.

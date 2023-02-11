@@ -20,7 +20,7 @@ i) Estejam abrangidos pelos limiares fixados; ou
 
 ii) Se localizem, parcial ou totalmente, em área sensível e sejam considerados, por decisão da autoridade de AIA nos termos do n.º 6 do artigo 3.º, como suscetíveis de provocar impacte significativo no ambiente em função da sua localização, dimensão ou natureza, de acordo com os critérios estabelecidos no anexo III ao presente decreto-lei, do qual faz parte integrante; ou
 
-iii) Não estando abrangidos pelos limiares fixados, nem se localizando em área sensível, sejam considerados, por decisão da entidade licenciadora ou competente para a autorização do projeto nos termos do artigo 3.º, como suscetíveis de provocar impacte significativo no ambiente em função da sua localização, dimensão ou natureza, de acordo com os critérios estabelecidos no anexo III;
+iii) Não estando abrangidos pelos limiares fixados, não se localizando em área sensível, nem se encontrando abrangidos pelas exclusões expressamente previstas para o caso geral no anexo ii do presente decreto-lei, sejam considerados, por decisão da entidade licenciadora ou competente para a autorização do projeto nos termos do artigo 3.º, como suscetíveis de provocar impacte significativo no ambiente em função da sua localização, dimensão ou natureza, de acordo com os critérios estabelecidos no anexo iii do presente decreto-lei;
 
 c) Os projetos que em função da sua localização, dimensão ou natureza sejam considerados, por decisão conjunta do membro do Governo competente na área do projeto em razão da matéria e do membro do Governo responsável pela área do ambiente, como suscetíveis de provocar um impacte significativo no ambiente, tendo em conta os critérios estabelecidos no anexo III.
 
@@ -42,10 +42,32 @@ i) Corresponda a um aumento igual ou superior a 20 % do limiar e que seja consid
 
 ii) Não estando fixado limiar para a tipologia em causa ou não se caracterizando a alteração ou ampliação por um aumento desse limiar, seja considerada, com base em análise caso a caso nos termos do artigo 3.º, como suscetível de provocar impacte significativo no ambiente.
 
-5 - Estão igualmente sujeitos a AIA os projetos do anexo I que se destinem exclusiva ou essencialmente a desenvolver e ensaiar novos métodos ou produtos e que não sejam utilizados durante mais de dois anos, considerados, com base em análise caso a caso nos termos do artigo 3.º, como suscetíveis de provocar impacte significativo no ambiente.
+5 - Não estão sujeitas a AIA nem a análise caso a caso as alterações ou ampliações de projetos incluídos nas tipologias dos n.os 3 a 9 do anexo ii do presente decreto-lei, executados ou em execução, que, tendo sido submetidos a AIA, já foram autorizados, desde que, cumulativamente:
 
-6 - Nos termos do n.º 2 do artigo 59.º do anexo ao Decreto-Lei n.º 169/2012, de 1 de agosto, que criou o Sistema da Indústria Responsável, os estabelecimentos industriais a instalar em Zona Empresarial Responsável (ZER) não são sujeitos a procedimento de AIA no caso de o Estudo de Impacte Ambiental (EIA) da ZER ter incluído os requisitos de informação necessários ao EIA do estabelecimento em causa.
+a) O projeto inicial e a alteração ou ampliação não se localizem em área sensível;
 
-7 - O presente decreto-lei não se aplica a projetos destinados unicamente à defesa nacional, ou à proteção civil sempre que os membros do Governo responsáveis pelas áreas da defesa nacional ou da administração interna, respetivamente, reconheçam que o procedimento de AIA tem efeitos adversos sobre os objetivos desses projetos, sem prejuízo de a aprovação e execução dos mesmos ter em consideração o respetivo impacte ambiental.
+b) Se desenvolvam na área do projeto objeto de DIA favorável ou favorável condicionada;
+
+c) Não correspondam a uma alteração da atividade e/ou substâncias ou misturas utilizadas ou produzidas, relativamente aos códigos de atividade económica autorizados; e
+
+d) Não incluam a concretização de uma componente que corresponda em si mesma a outra tipologia distinta do projeto inicial.
+
+6 - Não estão sujeitas a AIA nem a análise caso a caso as alterações a projetos que anteriormente tenham obtido DIA favorável ou favorável condicionada, que resultem da substituição de equipamentos, com ou sem alteração da capacidade instalada, quando:
+
+a) Se incluam nas tipologias dos n.os 3 a 9 do anexo ii do presente decreto-lei;
+
+b) Se desenvolvam na área do projeto objeto de DIA favorável ou favorável condicionada;
+
+c) Sejam cumpridas as condições da DIA;
+
+d) O projeto inicial e a alteração não se localizem em área sensível; e
+
+e) Não se verifique uma alteração da atividade e/ou das substâncias ou misturas utilizadas ou produzidas, com referência aos códigos de atividade económica autorizados.
+
+7 - Estão igualmente sujeitos a AIA os projetos do anexo I que se destinem exclusiva ou essencialmente a desenvolver e ensaiar novos métodos ou produtos e que não sejam utilizados durante mais de dois anos, considerados, com base em análise caso a caso nos termos do artigo 3.º, como suscetíveis de provocar impacte significativo no ambiente.
 
 8 - [Revogado].
+
+9 - Nos termos do n.º 2 do artigo 59.º do anexo ao Decreto-Lei n.º 169/2012, de 1 de agosto, que criou o Sistema da Indústria Responsável, os estabelecimentos industriais a instalar em Zona Empresarial Responsável (ZER) não são sujeitos a procedimento de AIA no caso de o Estudo de Impacte Ambiental (EIA) da ZER ter incluído os requisitos de informação necessários ao EIA do estabelecimento em causa.
+
+10 - O presente decreto-lei não se aplica a projetos destinados unicamente à defesa nacional, ou à proteção civil sempre que os membros do Governo responsáveis pelas áreas da defesa nacional ou da administração interna, respetivamente, reconheçam que o procedimento de AIA tem efeitos adversos sobre os objetivos desses projetos, sem prejuízo de a aprovação e execução dos mesmos ter em consideração o respetivo impacte ambiental.
