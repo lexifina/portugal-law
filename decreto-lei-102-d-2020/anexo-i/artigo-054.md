@@ -16,6 +16,4 @@ e) Efetuar e manter, conjuntamente com o livro de obra eletrónico, o registo de
 
 f) Anexar ao registo de dados cópia das e-GAR concluídas.
 
-2 - É condição do auto de receção provisória de obras a limpeza da área, a correta gestão dos RCD produzidos e a eventual reparação de estragos ou deteriorações que tenha causado, incluindo a avaliação da contaminação do solo, em caso de existência de indícios ou evidências de que se encontra contaminado.
-
-3 - O registo de dados deve estar disponível no local da obra para efeitos de fiscalização pelas entidades competentes e ser do conhecimento de todos os intervenientes na execução da obra.
+2 - É condição da emissão do alvará de autorização de utilização ou da receção provisória de obras a limpeza da área, a correta gestão dos RCD produzidos e a eventual reparação de estragos ou deteriorações que tenha causado.

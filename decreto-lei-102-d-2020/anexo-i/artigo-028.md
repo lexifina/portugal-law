@@ -14,12 +14,8 @@ a) Informações sobre os resíduos gerados pelos produtos que fabricam, importa
 
 b) Elementos que justifiquem a taxa de incorporação de material reciclado nos seus produtos e informação relativa à possível presença de substâncias perigosas nos seus produtos, os métodos de gestão dos resíduos resultantes e as consequências de sua implementação.
 
-5 - É obrigatória a utilização de pelo menos 10 % de materiais reciclados ou que incorporem materiais reciclados relativamente à quantidade total de materiais aplicados em obra, no âmbito da contratação de empreitadas de construção e de manutenção de infraestruturas, nos termos do disposto no Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.
+5 - É obrigatória a utilização de pelo menos 10 % de materiais reciclados ou que incorporem materiais reciclados relativamente à quantidade total de matérias-primas usadas em obra, no âmbito da contratação de empreitadas de construção e de manutenção de infraestruturas ao abrigo do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual (CCP).
 
 6 - A ANR, em articulação com os serviços ou organismos das áreas governativas competentes, estabelece metas de crescimento gradual da incorporação de materiais reciclados em obras públicas.
 
-7 - Os materiais reciclados referidos no n.º 5 devem ser certificados pelas entidades competentes, nacionais ou europeias, de acordo com a legislação em vigor, podendo ser apresentada em alternativa documentação comprovativa, que ateste de forma fundamentada a incorporação de reciclados.
-
-8 - Para efeitos do disposto no n.º 5 são igualmente considerados os resíduos valorizados em obra.
-
-9 - Caso não seja possível a utilização de matérias prevista no n.º 5, o Plano de Prevenção e Gestão de RCD (PPGRCD) deve referir expressamente esta impossibilidade acompanhada da respetiva justificação técnica.
+7 - Os materiais referidos no n.º 5 devem ser certificados pelas entidades competentes, nacionais ou europeias, de acordo com a legislação aplicável.

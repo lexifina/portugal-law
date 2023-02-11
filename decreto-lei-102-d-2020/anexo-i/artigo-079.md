@@ -18,8 +18,4 @@ d) O aumento superior a 30 %, por si mesmo ou por efeito acumulado de anteriores
 
 4 - A alteração do responsável técnico ambiental é comunicada pelo operador à ANR no módulo LUA e averbada no TUA, previamente ao seu início de funções.
 
-5 - A introdução de resíduos com novos códigos LER, não contemplados nos termos do disposto na alínea b) do n.º 1, a sua eliminação, as alterações referidas na alínea c), caso não envolva a realização de operações urbanísticas, e na alínea d) do mesmo número, abaixo dos limiares aí referidos, são comunicadas pelo operador no módulo LUA, acompanhada por termo de responsabilidade cujo modelo consta no anexo II ao presente regime e do qual faz parte integrante e averbadas no TUA pela entidade licenciadora no prazo de 10 dias.
-
-6 - No caso da alteração não substancial de estabelecimentos de tratamento de resíduos licenciados nos termos do procedimento geral ou simplificado que envolva a realização de operações urbanísticas, o operador apresenta à entidade licenciadora a descrição do projeto, bem como as respetivas autorizações de construção, no prazo de 10 dias antes do seu início, para averbamento no TUA.
-
-7 - Quando pretenda iniciar a exploração da instalação de tratamento objeto de alteração não substancial que envolva uma operação urbanística o operador deve requerer a vistoria, efetuada nos termos do artigo 73.º, com as necessárias adaptações.
+5 - A introdução de resíduos com novos códigos LER, não contempladas na alínea b) do n.º 1, bem como as alterações constantes nas alíneas c) e d) do n.º 1, abaixo dos limiares aí referidos, são comunicadas pelo operador no módulo LUA e averbadas no TUA pela entidade licenciadora no prazo de 10 dias.

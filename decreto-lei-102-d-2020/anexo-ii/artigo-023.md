@@ -2,6 +2,6 @@
 
 ### Alteração do aterro
 
-1 - A licença de exploração da atividade de deposição de resíduos em aterro pode ser alterada por solicitação do operador, nos termos definidos no artigo 79.º do RGGR.
+1 - Quando pretenda alterar a configuração do aterro, designadamente através da modificação ou ampliação da área correspondente, ou as condições de funcionamento do mesmo, designadamente através de modificação ou ampliação, o operador deve solicitar a alteração da licença de operação nos termos do artigo 79.º do RGGR.
 
-2 - Sem prejuízo do disposto na alínea c) do n.º 1 do artigo 79.º do RGGR, para efeitos de aplicação do presente regime, considera-se que o aumento da área total do aterro configura uma alteração substancial nos termos do disposto no artigo 79.º do RGGR.
+2 - Para efeitos do disposto no artigo 79.º do RGGR, há sempre lugar à alteração da licença de exploração em caso de aumento da área ocupada pelo estabelecimento ou instalação.

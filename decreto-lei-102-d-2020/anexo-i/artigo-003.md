@@ -24,7 +24,7 @@ i) «Detentor», o produtor de resíduos ou a pessoa singular ou coletiva que te
 
 j) «Eliminação», qualquer operação de tratamento de resíduos que não seja de valorização, nomeadamente as incluídas no anexo i ao presente regime, ainda que se verifique como consequência secundária a recuperação de substâncias ou de energia;
 
-k) ‘Enchimento’, qualquer operação de valorização em que, para efeitos de recuperação em zonas escavadas ou para fins de engenharia paisagística, são empregues resíduos não perigosos adequados para esse fim em substituição de outros materiais que não são resíduos, limitando-se às quantidades estritamente necessárias para esse efeito;
+k) 'Enchimento', qualquer operação de valorização em que, para efeitos de recuperação em zonas escavadas ou para fins de engenharia paisagística, são empregues exclusivamente materiais provenientes da atividade extrativa mineral ou da sua transformação, incluindo Resíduos de Construção e Demolição (RCD), que não apresentem características de perigosidade, testados segundo os valores de referência estabelecidos no Guia Técnico da APA, I. P., para Solos Contaminados (2019), limitando-se às quantidades estritamente necessárias para esses efeitos;
 
 l) «Entidade coordenadora», a entidade a quem compete, nos termos da legislação aplicável, a coordenação do procedimento de licenciamento ou autorização de estabelecimentos onde são efetuadas atividades de tratamento de resíduos abrangidos por outros regimes específicos de licenciamento de atividades económicas e a emissão da autorização ou da licença para a instalação, alteração e exploração desses estabelecimentos;
 
@@ -70,17 +70,17 @@ aa) «Resíduos», quaisquer substâncias ou objetos de que o detentor se desfaz
 
 bb) «Resíduos alimentares», todos os géneros alimentícios na aceção do artigo 2.º do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que se tornaram resíduos;
 
-cc) ‘Resíduo de construção e demolição’, o resíduo proveniente de atividades de construção, reconstrução, ampliação, alteração, conservação e demolição e da derrocada de edificações incluindo os resíduos provenientes de pequenas atividades de bricolagem que envolvam atividades de construção e demolição em habitações particulares, correspondendo aos tipos de resíduos incluídos no capítulo 17 da lista de resíduos estabelecida pela Decisão 2014/955/UE da Comissão, de 18 de dezembro de 2014, na sua redação atual;
+cc) «Resíduo de construção e demolição», o resíduo proveniente de atividades de construção, reconstrução, ampliação, alteração, conservação e demolição e da derrocada de edificações;
 
 dd) «Resíduo perigoso», o resíduo que apresenta uma ou mais características de perigosidade constantes do Regulamento (UE) n.º 1357/2014, da Comissão, de 18 de dezembro de 2014;
 
-ee) ‘Resíduo urbano’, o resíduo classificado no subcapítulo 15 01 e no capítulo 20, com exceção dos códigos 20 02 02, 20 03 04 e 20 03 06, da Lista Europeia de Resíduos (LER) estabelecida pela Decisão da Comissão 2014/955/UE, de 18 de dezembro de 2014, na sua redação atual, incluindo, ainda, os resíduos urbanos após tratamento classificados com os códigos enumerados no capítulo 19 da LER:
+ee) «Resíduo urbano», o resíduo:
 
 i) De recolha indiferenciada e de recolha seletiva das habitações, incluindo papel e cartão, vidro, metais, plásticos, biorresíduos, madeira, têxteis, embalagens, resíduos de equipamentos elétricos e eletrónicos, resíduos de pilhas e acumuladores, bem como resíduos volumosos, incluindo colchões e mobiliário; e
 
-ii) De recolha indiferenciada e de recolha seletiva provenientes de outras origens, como de estabelecimentos de comércio a retalho, serviços e restauração, de estabelecimentos escolares, de unidades de prestação de cuidados de saúde e de empreendimentos turísticos, ou outras, caso sejam semelhantes aos resíduos das habitações pela sua natureza e composição;
+ii) De recolha indiferenciada e de recolha seletiva provenientes de outras origens, caso sejam semelhantes aos resíduos das habitações na sua natureza e composição;
 
-ff) (Revogada.)
+ff) «Resíduo urbano indiferenciado», o resíduo urbano que permanece após as frações específicas de resíduos terem sido recolhidas seletivamente na origem;
 
 gg) «Resíduo agrícola», o resíduo proveniente de exploração agrícola e/ou pecuária ou similar;
 
@@ -90,13 +90,11 @@ ii) «Resíduo hospitalar», o resíduo resultante de atividades de prestação 
 
 jj) Resíduo industrial», o resíduo resultante de atividades industriais, bem como o que resulte das atividades de produção e distribuição de eletricidade, gás e água;
 
-kk) ‘Resíduo não perigoso’, o resíduo não abrangido pela alínea dd);
+kk) «Responsável técnico ambiental», o técnico designado pelo operador, competente para a gestão ambiental do estabelecimento ou da instalação de tratamento de resíduos e/ou interlocutor preferencial, tanto durante o procedimento de licenciamento, como para acompanhamento das licenças emitidas ao abrigo do presente regime;
 
-ll) «Responsável técnico ambiental», o técnico designado pelo operador, competente para a gestão ambiental do estabelecimento ou da instalação de tratamento de resíduos e/ou interlocutor preferencial, tanto durante o procedimento de licenciamento, como para acompanhamento das licenças emitidas ao abrigo do presente regime;
+ll) «Reutilização», qualquer operação mediante a qual produtos ou componentes que não sejam resíduos são utilizados novamente para o mesmo fim para que foram concebidos;
 
-mm) «Reutilização», qualquer operação mediante a qual produtos ou componentes que não sejam resíduos são utilizados novamente para o mesmo fim para que foram concebidos;
-
-nn) «Transferência», o transporte de resíduos com vista à valorização ou à eliminação que se efetue ou esteja previsto:
+mm) «Transferência», o transporte de resíduos com vista à valorização ou à eliminação que se efetue ou esteja previsto:
 
 i) Entre dois países;
 
@@ -112,40 +110,18 @@ vi) No interior de um país, transitando por qualquer uma das áreas supramencio
 
 vii) Numa área geográfica não sujeita à jurisdição de qualquer país, com destino a um país;
 
-oo) «Tratamento», qualquer operação de valorização ou de eliminação de resíduos, incluindo a preparação prévia à valorização ou eliminação;
+nn) «Tratamento», qualquer operação de valorização ou de eliminação de resíduos, incluindo a preparação prévia à valorização ou eliminação;
 
-pp) «Triagem», o ato de separação de resíduos mediante processos manuais ou mecânicos, sem alteração das suas características, com vista ao seu tratamento;
+oo) «Triagem», o ato de separação de resíduos mediante processos manuais ou mecânicos, sem alteração das suas características, com vista ao seu tratamento;
 
-qq) «Triagem preliminar», o ato de separação de resíduos mediante processos manuais, sem alteração das suas características, enquanto parte do processo de recolha, com vista ao seu envio para tratamento;
+pp) «Triagem preliminar», o ato de separação de resíduos mediante processos manuais, sem alteração das suas características, enquanto parte do processo de recolha, com vista ao seu envio para tratamento;
 
-rr) «Valorização», qualquer operação de tratamento de resíduos, nomeadamente as constantes do anexo ii ao presente regime, cujo resultado principal seja a utilização, com ou sem transformação, dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico ou a preparação dos resíduos para esse fim na instalação ou conjunto da economia;
+qq) «Valorização», qualquer operação de tratamento de resíduos, nomeadamente as constantes do anexo ii ao presente regime, cujo resultado principal seja a utilização, com ou sem transformação, dos resíduos de modo a servirem um fim útil, substituindo outros materiais que, caso contrário, teriam sido utilizados para um fim específico ou a preparação dos resíduos para esse fim na instalação ou conjunto da economia;
 
-ss) «Valorização material», qualquer operação de valorização, que não seja a valorização energética nem o reprocessamento em materiais que são utilizados como combustíveis ou outros meios de produção de energia, incluindo, entre outras, a preparação para reutilização a reciclagem e o enchimento.
+rr) «Valorização material», qualquer operação de valorização, que não seja a valorização energética nem o reprocessamento em materiais que são utilizados como combustíveis ou outros meios de produção de energia, incluindo, entre outras, a preparação para reutilização a reciclagem e o enchimento.
 
 2 - Para efeitos do presente regime, mais se entende por:
 
 a) «Estabelecimento», «instalação» e «licença de exploração», as mesmas expressões, tal como definidas no Regime de Licenciamento Único de Ambiente (LUA), aprovado pelo Decreto-Lei n.º 75/2015, de 11 de maio, na sua redação atual;
 
 b) «Melhores técnicas disponíveis», as melhores técnicas disponíveis, tal como definidas no Decreto-Lei n.º 127/2013, de 30 de agosto.
-
-3 - Os resíduos urbanos referidos na alínea ee) do n.º 1 não incluem os:
-
-a) Resíduos do processo produtivo;
-
-b) Resíduos da agricultura;
-
-c) Resíduos da silvicultura;
-
-d) Resíduos das pescas;
-
-e) Resíduos de fossas séticas ou redes de saneamento e tratamento, incluindo as lamas de depuração;
-
-f) Os veículos em fim de vida;
-
-g) Resíduos de construção e demolição;
-
-h) Resíduos da indústria;
-
-i) Resíduos do comércio grossista; e
-
-j) Resíduos de outras atividades não previstos na subalínea ii) da alínea ee) do n.º 1.

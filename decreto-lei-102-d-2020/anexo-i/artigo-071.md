@@ -34,6 +34,6 @@ i) Desconformidade do estabelecimento ou instalação com condições legais e r
 
 7 - Sem prejuízo dos meios de garantia jurisdicional ao dispor do requerente para reagir à omissão administrativa, na falta da comunicação de decisão final pela entidade licenciadora no prazo referido no n.º 2 pode o requerente notificá-la para, no prazo de oito dias contados da receção da notificação, se pronunciar, equivalendo a falta de pronúncia à emissão de decisão favorável ao projeto.
 
-8 - São nulos os atos que autorizem ou licenciem a realização de qualquer projeto, incluindo a construção, relativo a operações de tratamento de resíduos sem que tenha sido previamente emitida a decisão favorável a que se refere o n.º 1 ou se tenha verificado a produção do deferimento tácito nos termos previstos no número anterior.
+8 - São nulos os atos que autorizem ou licenciem a realização de qualquer projeto relativo a operações de tratamento de resíduos sem que tenha sido previamente emitida a decisão favorável a que se refere o n.º 1 ou se tenha verificado a produção do deferimento tácito nos termos previstos no número anterior.
 
 9 - A decisão referida no n.º 1 é averbada no TUA, quando aplicável.

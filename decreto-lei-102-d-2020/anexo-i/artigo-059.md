@@ -22,7 +22,7 @@ a) Se desenvolvam atividades licenciadas exclusivamente ao abrigo do Regime do L
 
 b) Se desenvolvam atividades licenciadas ao abrigo de regimes diferentes do previsto na alínea anterior, e que integram uma ou mais instalações de tratamento de resíduos.
 
-5 - (Revogado.)
+5 - Nos casos previstos na alínea b) do número anterior, em que o licenciamento da atividade abrange o tratamento de resíduos, cada entidade licenciadora de operações de tratamento de resíduos emite parecer vinculativo, a integrar no título de exploração a emitir pela entidade coordenadora do procedimento respetivo, caducando os pareceres emitidos com a extinção, por qualquer razão, da licença, autorização ou título de exploração a emitir pela entidade coordenadora.
 
 6 - Podem ser isentas de licenciamento, desde que previstas por regras gerais aprovadas nos termos do artigo 66.º:
 
@@ -31,9 +31,3 @@ a) Operações de valorização de resíduos;
 b) Operações de eliminação de resíduos não perigosos efetuadas pelo seu produtor no local de produção.
 
 7 - Consideram-se isentas de licenciamento, nos termos do presente capítulo, as atividades de criação artística (CAE 90030) bem como as atividades artesanais que envolvam resíduos não perigosos.
-
-8 - São ainda isentas de licenciamento as atividades de tratamento de resíduos realizadas a título experimental, quando efetuadas por instituições do Sistema Científico e Tecnológico Nacional, referidas no artigo 3.º do Decreto-Lei n.º 57/2016, de 29 de agosto, por um período máximo de um ano.
-
-9 - As atividades de tratamento de resíduos referidas no número anterior são sujeitas a comunicação de informação nos termos a definir no sítio da ANR na Internet.
-
-10 - A isenção de licenciamento não é aplicável, caso a ANR ou ARR considerem que a operação em causa tem consequências negativas no ambiente ou na saúde, ou que carece de validação por outras entidades com competência na matéria.

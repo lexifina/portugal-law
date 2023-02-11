@@ -6,7 +6,7 @@
 
 a) Verificação do cumprimento das condições legais ou constantes da licença de exploração;
 
-b) (Revogado.)
+b) Instrução e apreciação de alterações ao estabelecimento;
 
 c) Análise de reclamações e recursos hierárquicos;
 

@@ -1,9 +1,3 @@
-Decreto-Lei n.º 102-D/2020
-
-de 10 de dezembro
-
-Sumário: Aprova o regime geral da gestão de resíduos, o regime jurídico da deposição de resíduos em aterro e altera o regime da gestão de fluxos específicos de resíduos, transpondo as Diretivas (UE) 2018/849, 2018/850, 2018/851 e 2018/852.
-
 As políticas relativas à gestão de resíduos têm evoluído no sentido da gestão sustentável dos materiais, a fim de proteger, preservar e melhorar a qualidade do ambiente, proteger a saúde humana, assegurar uma utilização prudente, eficiente e racional dos recursos naturais, reduzir a pressão sobre a capacidade regenerativa dos ecossistemas, promover os princípios da economia circular, reforçar a utilização da energia renovável, aumentar a eficiência energética, reduzir a dependência de recursos importados, proporcionar novas oportunidades económicas e contribuir para a competitividade a longo prazo.
 
 Em 2018 foram revisitados alguns instrumentos da União Europeia em matéria de gestão de resíduos, através da Diretiva (UE) 2018/849, do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera as Diretivas 2000/53/CE relativa aos veículos em fim de vida, 2006/66/CE relativa às pilhas e acumuladores e respetivos resíduos, e 2012/19/UE relativa aos resíduos de equipamentos elétricos e eletrónicos, a Diretiva (UE) 2018/850, do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera a Diretiva 1999/31/CE relativa à deposição de resíduos em aterros, a Diretiva (UE) 2018/851, do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera a Diretiva 2008/98/CE relativa aos resíduos, e a Diretiva (UE) 2018/852 do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera a Diretiva 94/62/CE relativa a embalagens e resíduos de embalagens.

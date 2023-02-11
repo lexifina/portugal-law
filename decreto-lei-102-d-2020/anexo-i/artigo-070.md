@@ -14,9 +14,7 @@ d) Municípios em cujo território se localize o estabelecimento ou instalação
 
 e) Autoridade de saúde de âmbito regional territorialmente competente;
 
-f) Direção-Geral da Saúde no âmbito dos processos de tratamento de resíduos hospitalares;
-
-g) Outras entidades públicas cuja intervenção se revele necessária à instalação, alteração e ou exploração do estabelecimento ou instalação, ou quando tal se encontre previsto em legislação específica.
+f) Outras entidades públicas cuja intervenção se revele necessária à instalação, alteração e ou exploração do estabelecimento ou instalação, ou quando tal se encontre previsto em legislação específica.
 
 2 - Recebido o pedido de parecer, as entidades referidas no número anterior pronunciam-se no prazo máximo de 30 dias, sem prejuízo do disposto nos números seguintes.
 

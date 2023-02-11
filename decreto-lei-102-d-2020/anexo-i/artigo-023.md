@@ -13,5 +13,3 @@
 5 - Para efeitos do número anterior podem estas entidades estabelecer acordos de doação de alimentos, designadamente com instituições de solidariedade social, sendo as entidades referidas responsáveis pela qualidade dos produtos doados até ao momento da entrega ao cliente final ou a quem procede à recolha dos produtos.
 
 6 - Os planos municipais, intermunicipais ou multimunicipais referidos no artigo 18.º devem integrar medidas tendentes à redução do desperdício alimentar.
-
-7 - A medição dos níveis de resíduos alimentares é efetuada pelo Instituto Nacional de Estatística nos termos da Decisão Delegada (UE) 2019/1597 da Comissão, de 3 de maio de 2019, que complementa a Diretiva 2008/98/CE do Parlamento Europeu e do Conselho, no que diz respeito a uma metodologia comum e a requisitos mínimos de qualidade para a medição uniforme dos níveis de resíduos alimentares.

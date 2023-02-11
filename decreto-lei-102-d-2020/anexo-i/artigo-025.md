@@ -6,7 +6,7 @@
 
 2 - A Administração Pública adota, sempre que possível, as medidas necessárias para incentivar o consumo de água da torneira, nomeadamente disponibilizar apenas água da torneira nas suas instalações e em eventos da sua responsabilidade, em condições que garantam a higiene e segurança alimentar.
 
-3 - A partir de 1 de janeiro de 2025, a menos que o cliente solicite o contrário, é proibida a impressão e distribuição sistemática de:
+3 - A partir de 1 de janeiro de 2024, a menos que o cliente solicite o contrário, é proibida a impressão e distribuição sistemática de:
 
 a) Recibos nas áreas de vendas e em estabelecimentos abertos ao público;
 

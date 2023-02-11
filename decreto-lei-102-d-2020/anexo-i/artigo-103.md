@@ -18,7 +18,7 @@ d) Acompanhar o funcionamento do mercado de resíduos e auxiliar a ANR a disponi
 
 e) Auxiliar a ANR na disponibilização de informação técnica fiável relacionada com produtos fabricados com materiais reciclados através de uma base de dados online;
 
-f) Assegurar a definição, regulamentação e supervisão dos mecanismos de alocação e compensação entre as entidades gestoras dos fluxos específicos de resíduos, nos termos previstos no regime unificado de fluxos específicos de resíduos, aprovado pelo Decreto-Lei n.º 152-D/2017, de 11 de dezembro, na sua redação atual.
+f) Assegurar a definição, regulamentação e supervisão dos mecanismos de alocação e compensação entre as entidades gestoras dos fluxos específicos de resíduos.
 
 2 - Podem ser constituídos, no âmbito da CAGER, grupos de trabalho e comissões de acompanhamento de gestão em função dos tipos de resíduos e das operações de gestão de resíduos.
 

@@ -12,6 +12,6 @@
 
 5 - No caso das transferências abrangidas pelo número anterior, deve ser ainda previamente submetida através do SIRER cópia do contrato referido no n.º 2 do artigo 18.º do Regulamento MTR.
 
-6 - (Revogado.)
+6 - As regras relativas à utilização do SIRER encontram-se publicitadas no sítio na Internet da ANR.
 
 7 - Na impossibilidade de funcionamento da plataforma eletrónica sobre a qual funciona o SIRER, a ANR disponibiliza meios alternativos que possibilitem as submissões previstas nos números anteriores, cuja utilização tem de ser previamente autorizada pela ANR.

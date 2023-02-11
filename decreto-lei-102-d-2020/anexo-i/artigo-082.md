@@ -2,7 +2,7 @@
 
 ### Suspensão e cessação da atividade pelo operador
 
-1 - A suspensão da atividade de tratamento de resíduos e o respetivo reinício devem ser comunicados pelo operador à entidade licenciadora, no módulo LUA, no prazo de cinco dias a contar dessa data.
+1 - A suspensão da atividade e o respetivo reinício, ou a cessação do exercício da atividade de tratamento de resíduos devem ser comunicados pelo operador à entidade licenciadora, no módulo LUA, no prazo de cinco dias a contar dessa data.
 
 2 - Sempre que o período de inatividade de estabelecimento seja superior a um ano e inferior a três anos, o requerente apresenta, antes de reiniciar a exploração, um pedido de vistoria de conformidade, podendo a entidade licenciadora impor novas condições de exploração através de decisão fundamentada.
 

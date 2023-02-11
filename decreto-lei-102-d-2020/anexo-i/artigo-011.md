@@ -2,28 +2,10 @@
 
 ### Recolha complementar de resíduos
 
-1 - Os sistemas municipais e multimunicipais podem recolher resíduos urbanos não abrangidos pela reserva de serviço público referida no n.º 2 do artigo 9.º, bem como resíduos não urbanos, se cumulativamente:
+1 - Os sistemas municipais e multimunicipais podem recolher resíduos classificados com o código LER 1501 e 20 fora do âmbito do serviço público referido no n.º 2 do artigo 9.º, se o produtor do resíduo ou o seu detentor o solicitar, na sequência de comprovação de ausência de operadores privados, nos termos do n.º 2, que assegurem a recolha dos resíduos e o seu encaminhamento adequado, desde que estes sejam adequados em qualidade e quantidade para transporte ou tratamento no sistema de gestão dos resíduos municipal ou multimunicipal.
 
-a) O produtor do resíduo ou o seu detentor o solicitar;
+2 - A atividade referida no número anterior carece de autorização da ANR, a qual não pode ter duração superior a três anos e pode ser revogada se no mercado surgir capacidade provada que satisfaça a procura, sendo precedida de pareceres obrigatórios da Autoridade da Concorrência e da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR), as quais avaliam a harmonização da recolha complementar com os objetivos de serviço público a que a entidade gestora se encontra vinculada.
 
-b) Comprovar, nos termos do n.º 2, a ausência de operadores privados que assegurem a recolha e tratamento dos resíduos e o seu encaminhamento adequado; e
+3 - A recolha complementar referida no n.º 1 é sujeita a uma tarifa própria, acordada entre o produtor dos resíduos ou o seu detentor e o sistema de gestão dos resíduos municipal ou multimunicipal, a qual cobre obrigatoriamente todos os custos associados.
 
-c) Os resíduos sejam adequados em qualidade e quantidade para transporte ou tratamento no sistema de gestão dos resíduos municipal ou multimunicipal.
-
-2 - Para efeitos do número anterior, o pedido do produtor do resíduo ou o seu detentor é acompanhado de evidência de recusa de fornecimento do serviço de recolha após consulta ao mercado aos cinco operadores privados licenciados mais próximos da localização do produtor.
-
-3 - A atividade referida no n.º 1 carece de autorização da entidade titular do sistema municipal ou multimunicipal em causa, a qual não pode ter duração superior a três anos e pode ser revogada caso surja capacidade no mercado que satisfaça a respetiva procura.
-
-4 - A autorização prevista no número anterior é precedida de pareceres obrigatórios da Autoridade da Concorrência, da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR) e da ANR, com vista a avaliar:
-
-a) Os efeitos da atividade objeto de autorização na concorrência e a sua harmonização com os objetivos de serviço público;
-
-b) A distância máxima de transporte dos resíduos e o cumprimento da hierarquia de resíduos; e
-
-c) A tarifa que a entidade gestora se propõe praticar.
-
-5 - (Anterior n.º 3.)
-
-6 - Os sistemas municipais e multimunicipais asseguram uma contabilização autónoma das quantidades de resíduos recolhidos e tratados ao abrigo do disposto no presente artigo, bem como dos custos associados às respetivas atividades de recolha complementar.
-
-7 - Caso seja autorizada a recolha complementar de resíduos, o produtor encaminha os resíduos urbanos que produz para o sistema municipal ou multimunicipal.
+4 - Os sistemas municipais ou multimunicipais asseguram uma contabilização autónoma das quantidades de resíduos recolhidos e tratados, bem como dos custos associados às atividades de recolha complementar.
