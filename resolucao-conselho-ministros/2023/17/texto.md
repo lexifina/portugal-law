@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 17/2023
+Sumário: Autoriza a despesa e a respetiva reprogramação com a aquisição de veículos e equipamentos operacionais para a Autoridade Nacional de Emergência e Proteção Civil.
+O Mecanismo de Recuperação e Resiliência determina que os planos de recuperação e resiliência dos Estados-Membros se traduzam em medidas para a implementação de reformas e investimentos, alinhados com os objetivos do Semestre Europeu e com as recomendações específicas por país que dali decorrem.
+Tendo como referência as opções e prioridades estabelecidas na Estratégia Portugal 2030, aprovada pela Resolução do Conselho de Ministros n.º 98/2020, de 13 de novembro, e em articulação com os princípios de programação do quadro financeiro plurianual 2021-2027, aprovados pela Resolução do Conselho de Ministros n.º 97/2020, de 13 de novembro, a programação do Plano de Recuperação e Resiliência está a ser desenvolvida em articulação com a programação do acordo de parceria e dos respetivos programas operacionais, maximizando, assim, as sinergias e complementaridades entre as duas mais importantes fontes de financiamento europeu das políticas públicas para a próxima década.
+A Componente 08 - Florestas prevê, na dimensão resiliência, o investimento RE-C08-i05 designado por «Programa MAIS Floresta», no qual se integra o subinvestimento C08-i05.01 designado «Programa MAIS Floresta: Reforma do sistema de prevenção e combate de incêndios». Este subinvestimento será concretizado por uma série de medidas, nomeadamente pelo reforço das entidades do Ministério da Administração Interna com veículos e equipamentos operacionais, conforme identificado na orientação técnica n.º 9/C08-i05.01/2022.
+Neste contexto, foi autorizada através da Resolução do Conselho de Ministros n.º 73/2022, de 19 de agosto, a realização da despesa decorrente do contrato de aquisição de 59 veículos da tipologia VFCI e 22 da tipologia VTTF, até ao montante máximo de (euro) 12 600 400,00, ao qual acresce o imposto sobre o valor acrescentado à taxa legal em vigor, e o respetivo escalonamento plurianual, para os anos de 2022, 2023 e 2024.
+Não obstante, face à necessidade de atualizar os custos unitários dos veículos aos preços atuais de mercado, torna-se necessário autorizar o aumento do valor do encargo.
+Assim:
+Nos termos dos artigos 5.º e 6.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Alterar os n.os 1 e 2 da Resolução do Conselho de Ministros n.º 73/2022, de 19 de agosto, com a seguinte redação:
+«1 - Autorizar a Secretaria-Geral do Ministério da Administração Interna (SGMAI) a realizar a despesa relativa ao contrato a celebrar, na qualidade de beneficiário intermediário, com a Autoridade Nacional de Emergência e Proteção Civil (ANEPC), para aquisição de 59 veículos da tipologia VFCI e 22 veículos da tipologia VTTF, em execução da submedida «Reforço das entidades do Ministério da Administração Interna (MAI) com veículos e equipamentos operacionais, integrada no subinvestimento C08-i05.01 do investimento RE-C08-i05 da Componente 08 - Florestas, do Plano de Recuperação e Resiliência (PRR), até ao montante máximo de (euro) 14 034 000,00, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
+2 - [...]
+a) 2022 - (euro) 1 638 052,00;
+b) 2023 - (euro) 7 798 748,00;
+c) 2024 - (euro) 4 597 200,00.»
+2 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 2 de fevereiro de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+116153014
