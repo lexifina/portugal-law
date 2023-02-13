@@ -8,14 +8,18 @@
 
 1 - Os produtos já introduzidos no consumo noutro Estado membro que forem adquiridos para fins comerciais ou para consumo próprio, que não seja considerado uma aquisição para uso pessoal, nos termos do artigo seguinte, estão sujeitos a imposto no território nacional.
 
-2 - Os produtos referidos no número anterior circulam entre o território dos outros Estados membros e o território nacional a coberto do documento de acompanhamento previsto no ,Regulamento (CEE) n.º 3649/92 da Comissão, de 17 de Dezembro.
+2 - Os produtos referidos no número anterior podem circular entre o território dos outros Estados-Membros e o território nacional, a coberto de um documento administrativo simplificado eletrónico, desde que provenientes de um expedidor certificado para um destinatário certificado.
 
-3 - O adquirente dos produtos referidos no n.º 1 deve cumprir as seguintes obrigações:
+3 - O destinatário certificado e o expedidor certificado devem cumprir as obrigações previstas nos artigos 60.º-A e 60.º-B, respetivamente.
 
-a) Antes da expedição dos produtos com destino ao território nacional, apresentar uma declaração junto da estância aduaneira competente do local de recepção e garantir o pagamento do imposto;
+4 - Para efeitos do número anterior, o depositário autorizado, o expedidor registado e o destinatário registado podem igualmente obter os estatutos de expedidor ou destinatário certificados.
 
-b) Após a recepção dos produtos, apresentar nessa estância aduaneira cópia do documento previsto no número anterior e pagar o imposto devido;
+5 - À circulação referida no n.º 2 são aplicáveis as regras previstas nos artigos 36.º a 41.º e 43.º a 46.º, com as necessárias adaptações.
 
-c) Prestar-se a todos os controlos que permitam à autoridade aduaneira comprovar a efectiva recepção dos produtos, bem como o pagamento do imposto devido.
+6 - A circulação ao abrigo do presente artigo tem início na data em que os produtos saem das instalações do expedidor certificado e termina na data de entrega dos mesmos ao destinatário certificado.
 
-4 - À circulação de produtos já introduzidos no consumo entre o continente e as Regiões Autónomas dos Açores e da Madeira, e vice-versa, e entre as Regiões Autónomas, são aplicáveis as regras previstas nos números anteriores, com as devidas adaptações.
+7 - São aplicáveis aos casos de perda ou inutilização dos produtos ocorridas na circulação as regras constantes dos artigos 47.º, 49.º e 50.º, com as necessárias adaptações.
+
+8 - À circulação de produtos já introduzidos no consumo entre o continente e as Regiões Autónomas dos Açores e da Madeira, e vice-versa, e entre as Regiões Autónomas, são aplicáveis as regras previstas nos números anteriores, com as devidas adaptações.
+
+9 - Para efeitos do presente artigo, entendem-se por 'entregues para fins comerciais' os produtos que tiverem sido introduzidos no consumo noutro Estado-Membro, expedidos para o território nacional e forem entregues a uma pessoa que não seja um particular ou a um particular se a circulação não estiver abrangida pelos artigos 61.º a 63.º

@@ -40,4 +40,4 @@ j) (Revogada);
 
 l) (Revogada).
 
-4 - À entrada e à saída de produtos sujeitos a impostos especiais de consumo provenientes ou destinados a um dos territórios referidos no número anterior são aplicáveis, respectivamente, as formalidades estabelecidas pelas disposições aduaneiras comunitárias para a entrada e a saída de produtos no território aduaneiro da Comunidade.
+4 - À entrada e à saída de produtos sujeitos a impostos especiais de consumo provenientes ou destinados a um dos territórios referidos no número anterior são aplicáveis, respetivamente, as formalidades estabelecidas pelas disposições aduaneiras da União Europeia para a entrada e a saída de produtos no território aduaneiro da União Europeia, com as necessárias adaptações.

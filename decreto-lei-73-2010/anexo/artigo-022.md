@@ -2,7 +2,7 @@
 
 ### Estatuto de depositário autorizado
 
-1 - Constitui depositário autorizado a pessoa singular ou colectiva autorizada pela autoridade aduaneira, no exercício da sua profissão, a produzir, transformar, deter, receber e expedir, num entreposto fiscal, produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto.
+1 - Adquire o estatuto de depositário autorizado a pessoa singular ou coletiva autorizada pela autoridade aduaneira, no exercício da sua atividade, a produzir, transformar, deter, armazenar, receber e expedir, num entreposto fiscal, produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto.
 
 2 - O depositário autorizado enquanto sujeito passivo de imposto é responsável pelas obrigações de declaração, mesmo relativamente a produtos de que não seja proprietário.
 
@@ -16,6 +16,6 @@ c) Introduzir os produtos no entreposto fiscal e inscrevê-los na contabilidade 
 
 d) Prestar-se aos varejos e outros controlos determinados pela autoridade aduaneira;
 
-e) Comunicar a nomeação ou a substituição de gerentes ou administradores, bem como qualquer alteração dos pressupostos subjacentes à concessão do estatuto;
+e) Comunicar a nomeação ou a substituição dos gerentes ou administradores, bem como qualquer alteração dos sócios ou dos pressupostos subjacentes à concessão do estatuto;
 
 f) Cumprir os demais procedimentos prescritos pela autoridade aduaneira.

@@ -22,7 +22,7 @@
 
 a) Ao território nacional;
 
-b) A outro Estado membro, com o acordo desse Estado.
+b) A outro Estado-Membro ou, quando expedidos por via marítima, com o acordo desse Estado.
 
 10 - No caso da circulação ocorrida integralmente no território nacional, estão ainda dispensados da prestação de garantia os organismos e entidades referidos no n.º 2 do artigo anterior, bem como os produtos tributados à taxa zero.
 

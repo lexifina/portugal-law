@@ -8,13 +8,15 @@ a) A ser utilizados no âmbito das relações diplomáticas ou consulares;
 
 b) A organismos internacionais reconhecidos como tal pelo Estado Português, bem como aos membros desses organismos, dentro dos limites e nas condições fixadas pelas convenções internacionais que criam esses organismos ou pelos acordos de sede;
 
-c) Às forças de outros Estados que sejam Partes no Tratado do Atlântico Norte para uso dessas forças ou dos civis que as acompanhem ou para o abastecimento das suas messes ou cantinas, excluindo os membros dessa força que tenham nacionalidade portuguesa;
+c) Às forças armadas de outros Estados que sejam partes no Tratado do Atlântico Norte para uso dessas forças ou dos civis que as acompanhem ou para o aprovisionamento das suas messes ou cantinas, excluindo os membros dessa força que tenham nacionalidade portuguesa;
 
 d) A ser consumidos no âmbito de um acordo concluído com países terceiros ou com organismos internacionais, desde que esse acordo seja admitido ou autorizado em matéria de isenção do imposto sobre o valor acrescentado;
 
 e) A ser expedidos ou exportados;
 
 f) A ser consumidos como abastecimentos, sem prejuízo dos limites e condições fixados no n.º 3 para as provisões de bordo.
+
+g) Às forças armadas de qualquer Estado-Membro, que não seja aquele no qual o imposto é exigível, para utilização dessas forças ou do elemento civil que as acompanha, ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças armadas se encontrem afetas a um esforço de defesa realizado para a execução de uma atividade da União Europeia no âmbito da política comum de segurança e defesa.
 
 2 - As Forças Armadas e organismos referidos no número anterior estão autorizados a receber produtos sujeitos a impostos especiais de consumo provenientes de outros Estados membros, em regime de suspensão do imposto, a coberto do documento administrativo eletrónico previsto no artigo 36.º, desde que os produtos sejam acompanhados pelo certificado de isenção previsto no anexo ii ao Regulamento de Execução (UE) n.º 282/2011, do Conselho, de 15 de março.
 

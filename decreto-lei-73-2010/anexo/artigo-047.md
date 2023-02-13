@@ -6,9 +6,9 @@
 
 ### Regras gerais
 
-1 - A perda irreparável ou a inutilização total dos produtos em regime de suspensão do imposto não é tributável, desde que ocorra por causa inerente à própria natureza dos produtos, devido a caso fortuito ou de força maior, ou na sequência de autorização da estância aduaneira competente.
+1 - A perda irreparável ou a inutilização total dos produtos em regime de suspensão do imposto não é tributável, quando devida a caso fortuito ou de força maior, nos termos do artigo 50.º, ou na sequência de autorização da estância aduaneira competente.
 
-2 - A perda irreparável de produtos pode ocorrer por causa inerente à própria natureza, nos termos e nos limites fixados no artigo seguinte e no artigo 49.º, ou por caso fortuito ou de força maior, nos termos do artigo 50.º
+2 - A perda parcial de produtos pode ocorrer por causa inerente à sua própria natureza, nos termos e nos limites fixados nos artigos 48.º e 49.º
 
 3 - A inutilização de produtos deve efectuar-se sob controlo aduaneiro nos termos do artigo 52.º
 

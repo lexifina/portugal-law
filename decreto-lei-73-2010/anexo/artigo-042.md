@@ -2,4 +2,8 @@
 
 ### Termo da operação de circulação
 
-A circulação em regime de suspensão do imposto termina, nos casos referidos nas alíneas a), b) e c) do n.º 1, nas alíneas a), b) e c) do n.º 2 e no n.º 4 do artigo 35.º, no momento da entrega do relatório de receção pelo destinatário e, nos casos referidos na alínea d) do n.º 1 e no n.º 3 do mesmo artigo, no momento em que os produtos saem do território aduaneiro da Comunidade.
+A circulação em regime de suspensão do imposto termina:
+
+a) Nos casos referidos nas alíneas a) a c) do n.º 1 do artigo 35.º, e nos casos análogos ao abrigo dos n.os 2 e 4 do mesmo artigo, na data da entrega do relatório de receção pelo destinatário; ou
+
+b) Nos casos referidos na alínea d) e e) do n.º 1 do artigo 35.º, e nos casos análogos ao abrigo dos n.os 2 e 3 do mesmo artigo, na data em que os produtos saem do território aduaneiro da União Europeia ou são sujeitos ao regime de trânsito externo.
