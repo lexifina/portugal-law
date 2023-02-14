@@ -1,0 +1,145 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "63",
+    "id": "152451",
+    "titulo": "Autoriza o Governo a aprovar um novo regime jurídico do serviço público de transporte de passageiros em táxi"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-02-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "63689",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-02-14",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-02-28",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45324f5759334e474e6d4c545a6b4f5451744e4441785a4331694d6a46694c544d324e474d344e7a63345a4755775a6935775a47593d&fich=169f74cf-6d94-401d-b21b-364c8778de0f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a517a4d546b30596a526c4c5752695a6d45744e4451355a4331695954566b4c574d344d6a426d4e7a6b324e6d49354e4335775a47593d&fich=43194b4e-dbfa-449d-ba5d-c820f7966b94.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6732596d4e6d4d6a56694c544268597a51744e44526b4d5331695a6a466d4c574d325a444534595759304e6a5a6b4e6935775a47593d&fich=86bcf25b-0ac4-44d1-bf1f-c6d18af466d6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CEOPPH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259775a6d4e6b5a6a67334c5464694f4441744e44597a4d533034593246694c545130597a4e6a5a5449334e6d5a6b4f4335775a47593d&fich=f0fcdf87-7b80-4631-8cab-44c3ce276fd8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CNPD ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a646c59546c6b4d3245334c5746694e4459744e446335597930345a5459304c5755324e6d597a5a6d4a6c5a6a6b775a4335515245593d&fich=7ea9d3a7-ab46-479c-8e64-e66f3fbef90d.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - DECO ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b324f54426c4f54426d4c5463304d6a67744e4755784f5330345a47526b4c545a6b4e6a4e684e4456694f5445784f5335775a47593d&fich=9690e90f-7428-4e19-8ddd-6d63a45b9119.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8330",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "Numero": "8330",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-02-14",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1323623",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "985670",
+        "obs": null,
+        "pag": [
+          "10-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-05-25",
+        "pubLeg": "XV",
+        "pubNr": "232",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/232/2023-05-25/10?pgs=10-14&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
