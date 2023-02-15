@@ -1,0 +1,44 @@
+Portaria n.º 47/2023
+de 15 de fevereiro
+Sumário: Aprova os modelos de impressos destinados ao cumprimento da obrigação declarativa prevista no n.º 1 do artigo 57.º do Código do IRS e respetivas instruções de preenchimento.
+Nos termos do artigo 57.º do Código do Imposto sobre o Rendimento de Pessoas Singulares (Código do IRS), os sujeitos passivos devem apresentar anualmente uma declaração de modelo oficial relativa aos rendimentos do ano anterior, de modo a que a Autoridade Tributária e Aduaneira (AT) possa proceder à liquidação do imposto.
+Considerando em especial as alterações introduzidas pela Lei n.º 12/2022, de 27 de junho (Lei de Orçamento do Estado para o ano de 2022) ao regime fiscal aplicável a ex-residentes (artigo 12.º-A do Código do IRS), ao regime do IRS jovem (artigo 12.º-B do Código do IRS), ao conceito de dependente em IRS [alínea d) do n.º 5 do artigo 13.º do Código do IRS], mostra-se necessário reformular a declaração modelo 3 e alguns dos seus anexos em conformidade, bem como atualizar as respetivas instruções de preenchimento.
+Num contexto de simplificação administrativa e de reduzir a necessidade de interações dos contribuintes no Portal das Finanças, estabelece-se a faculdade dos sujeitos passivos poderem indicar, na declaração de rendimentos a submeter por transmissão eletrónica de dados, para além do Número Internacional de Conta Bancária (IBAN) referente à conta bancária a utilizar para recebimento de eventual reembolso de IRS, se pretendem que o IBAN indicado, caso não esteja registado nos seus dados de identificação de NIF, seja associado aos seus dados de identificação de NIF para utilização em pagamentos de reembolsos e restituições a efetuar pela AT.
+Assim, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de novembro, o seguinte:
+Artigo 1.º
+Objeto
+1 - São aprovados os seguintes modelos de impressos destinados ao cumprimento da obrigação declarativa prevista no n.º 1 do artigo 57.º do Código do IRS, que se publicam em anexo à presente portaria e que dela fazem parte integrante:
+a) Declaração modelo 3 e respetivas instruções de preenchimento;
+b) Anexo A - rendimentos do trabalho dependente e de pensões - e respetivas instruções de preenchimento;
+c) Anexo B - rendimentos empresariais e profissionais auferidos por sujeitos passivos abrangidos pelo regime simplificado ou que tenham praticado atos isolados - e respetivas instruções de preenchimento;
+d) Anexo C - rendimentos empresariais e profissionais auferidos por sujeitos passivos tributados com base na contabilidade organizada - e respetivas instruções de preenchimento;
+e) Anexo D - imputação de rendimentos de entidades sujeitas ao regime de transparência fiscal e de herança indivisas - e respetivas instruções de preenchimento;
+f) Anexo G - mais-valias e outros incrementos patrimoniais - e respetivas instruções de preenchimento;
+g) Anexo I - rendimentos de herança indivisa - e respetivas instruções de preenchimento;
+h) Anexo J - rendimentos obtidos no estrangeiro - e respetivas instruções de preenchimento.
+2 - É mantido em vigor o modelo de impresso relativo ao anexo H - benefícios fiscais e deduções da declaração modelo 3, aprovado pela Portaria n.º 8/2021, de 7 de janeiro, sendo, não obstante, aprovadas novas instruções de preenchimento relativas a este impresso, que se publicam em anexo à presente portaria e que dela fazem parte integrante.
+3 - São mantidas em vigor as instruções de preenchimento relativas ao anexo G1, aprovadas pela Portaria n.º 303/2021, de 17 de dezembro, sendo, não obstante, aprovado o novo modelo de impresso anexo G1 - mais-valias não tributadas, que se publica em anexo à presente portaria e que dela faz parte integrante.
+4 - São mantidos em vigor os seguintes modelos de impressos e respetivas instruções de preenchimento, aprovados pela Portaria n.º 8/2021, de 7 de janeiro:
+a) Anexo E - rendimentos de capitais - e respetivas instruções de preenchimento;
+b) Anexo F - rendimentos prediais - e respetivas instruções de preenchimento, tendo estas sido aprovadas pela Portaria n.º 303/2021, de 17 de dezembro;
+c) Anexo L - rendimentos obtidos por residentes não habituais - e respetivas instruções de preenchimento.
+5 - Os modelos de impressos e instruções aprovados destinam-se a declarar rendimentos dos anos 2015 e seguintes.
+Artigo 2.º
+Cumprimento da obrigação
+1 - A declaração modelo 3 e quaisquer dos seus anexos é obrigatoriamente entregue por transmissão eletrónica de dados.
+2 - Para efeitos do disposto no número anterior, o sujeito passivo e o contabilista certificado, nos casos em que a declaração deva por este ser assinada, são identificados por senhas atribuídas pela Autoridade Tributária e Aduaneira.
+3 - Os modelos aprovados pela Portaria n.º 366/2015, de 16 de outubro, bem como as respetivas instruções de preenchimento, para declarar rendimentos dos anos de 2001 a 2014, mantêm-se em vigor, devendo a declaração modelo 3 e seus anexos ser obrigatoriamente entregues por transmissão eletrónica de dados.
+4 - Aos sujeitos passivos é ainda facultada, na declaração de rendimentos a submeter por transmissão eletrónica de dados, para além da identificação do Número Internacional de Conta Bancária (IBAN) referente à conta bancária a utilizar para recebimento de eventual reembolso de IRS, a possibilidade de indicarem se pretendem que o IBAN indicado seja associado aos seus dados de identificação do NIF, caso ainda não esteja, para utilização em pagamentos de reembolsos e restituições a efetuar pela AT, o que, porém, não inclui o IBAN afeto à atividade por conta própria caso exista.
+Artigo 3.º
+Procedimento
+1 - Os sujeitos passivos para utilização de transmissão eletrónica de dados devem:
+a) Efetuar o registo, caso ainda não disponham de senha de acesso, através do Portal das Finanças, no endereço www.portaldasfinancas.gov.pt;
+b) Efetuar o envio de acordo com os procedimentos indicados no referido portal.
+2 - A declaração considera-se apresentada na data em que é submetida, sob condição de correção de eventuais erros no prazo de 30 dias.
+3 - Findo o prazo referido no número anterior sem que se mostrem corrigidos os erros detetados, a declaração é considerada sem efeito.
+Artigo 4.º
+Entrada em vigor e produção de efeitos
+A presente portaria entra em vigor no dia seguinte à sua publicação e produz efeitos a 1 de janeiro de 2023.
+O Secretário de Estado dos Assuntos Fiscais, Nuno Miguel Bernardes Coelho Santos Félix, em 10 de fevereiro de 2023.
+(ver documento original)
+116165035
