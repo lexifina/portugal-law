@@ -1,0 +1,67 @@
+Despacho Normativo n.º 4/2023
+Sumário: Cria medida complementar ao Apoiar Turismo.
+Na sequência da celebração, em 9 de outubro de 2022, do Acordo de Médio Prazo para a Melhoria dos Rendimentos, dos Salários e da Competitividade, entre o Governo e os Parceiros Sociais, foi criada, no contexto do Programa APOIAR e através da Portaria n.º 295-A/2022, de 13 de dezembro, a medida Apoiar Turismo.
+Através dessa medida, 22.839 empresas do turismo receberam no final de 2022 o montante de 70 milhões de euros, correspondente a um reforço de 12,53 % sobre os valores anteriormente recebidos no âmbito do Programa APOIAR, nas medidas «APOIAR.PT», «APOIAR + SIMPLES» e «APOIAR RESTAURAÇÃO».
+Assim, no que respeita à medida Apoiar Turismo, cujo acompanhamento se encontra expressamente afeto ao Turismo de Portugal, I. P., foram consideradas elegíveis as atividades económicas desenvolvidas a título principal, identificadas pela respetiva CAE, de acordo com o Anexo C do Regulamento do Programa APOIAR, aprovado pela Portaria n.º 271-A/2020, de 24 de novembro, na sua atual redação.
+No referido Anexo, a CAE 49392 (Outros Transportes Terrestres de Passageiros) não se encontra afeta ao acompanhamento por parte do Turismo de Portugal, I. P., razão pela qual não foi abrangida pela medida Apoiar Turismo.
+Contudo, quando, nessa atividade, pelo menos 50 % do respetivo volume de negócios resulta do transporte de turistas, entende-se que a mesma assume uma vocação turística. Por essa razão e nesses casos específicos, essa atividade económica é expressamente abrangida por instrumentos de apoio a empresas do turismo, como é o caso do Adaptar Turismo, criado pelo Despacho Normativo n.º 24/2021, de 7 de outubro, publicado no Diário da República, 2.ª série, n.º 201, de 15 de outubro de 2021, ou mesmo da Linha de Apoio às Micro e Pequenas Empresas do Turismo - COVID-19, criada pelo Despacho Normativo n.º 4/2020, de 18 de março, publicado no Diário da República, 2.ª série, n.º 60, de 25 de março de 2020.
+Neste sentido, e tendo presente o teor do Acordo de Médio Prazo para a Melhoria dos Rendimentos, dos Salários e da Competitividade, celebrado no dia 9 de outubro de 2022, na parte que diz respeito à medida de reforço do Programa APOIAR, em que se viria a consubstanciar a medida Apoiar Turismo, entende-se que se justifica a criação de uma medida complementar ao Apoiar Turismo, que tenha precisamente por destinatários as empresas que exerçam a sua atividade na CAE 49392 e a mesma dimensão do apoio concedido a cada empresa no Apoiar Turismo, desde que pelo menos 50 % do respetivo volume de negócios resulte do transporte de turistas.
+Assim, ao abrigo do disposto na alínea b) do n.º 8 do artigo 20.º do Decreto-Lei n.º 32/2022, de 9 de maio, que aprovou o regime de organização e funcionamento do XXIII Governo Constitucional, assim como no n.º 2 do artigo 1.º e na alínea e) do n.º 2 do artigo 3.º, ambos do Decreto-Lei n.º 129/2012, de 22 de junho, na redação em vigor, e no exercício da competência que me foi delegada pelo Ministro da Economia e do Mar, através do Despacho n.º 14724-B/2022, de 21 de dezembro, publicado no Diário da República, 2.ª série, n.º 248, de 27 de dezembro de 2022, determino o seguinte:
+Artigo 1.º
+Objeto e âmbito
+O presente Despacho Normativo aprova e regulamenta a criação de uma medida de apoio complementar à medida Apoiar Turismo, criada pela Portaria n.º 295-A/2022, de 13 de dezembro, que se destina a apoiar a continuação da atividade económica das empresas com a CAE principal 49392 (Outros Transportes Terrestres de Passageiros) e cujo volume de negócios resulte em, pelo menos, 50 % do transporte de turistas, no contexto do aumento dos custos energéticos.
+Artigo 2.º
+Definições
+Para efeitos de aplicação da presente medida, entende-se por:
+a) «Empresa» qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado;
+b) «Atividade económica da empresa» o código da atividade principal da empresa, de acordo com a Classificação Portuguesa das Atividades Económicas (CAE Rev. 3), registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas (SICAE);
+c) «PME» empresa que emprega menos de 250 pessoas e cujo volume de negócios anual não excede 50 milhões de euros ou cujo balanço total anual não excede 43 milhões de euros e que detenha a correspondente certificação eletrónica atualizada, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual.
+Artigo 3.º
+Âmbito territorial
+A presente medida tem aplicação em todo o território de Portugal continental.
+Artigo 4.º
+Beneficiários e dotação
+1 - São beneficiárias da presente medida as empresas ou os empresários em nome individual (ENI) que, cumprindo as condições de elegibilidade previstas no artigo seguinte, desenvolvam atividade económica principal inserida na subclasse 49392 (Outros Transportes Terrestres de Passageiros Diversos, n.e.) e tenham tido uma candidatura aprovada ao abrigo das medidas «APOIAR.PT» ou «APOIAR + SIMPLES» do Programa APOIAR.
+2 - A dotação para financiamento da presente medida é assegurada, exclusivamente, por receitas próprias do Turismo de Portugal, I. P.
+Artigo 5.º
+Condições de elegibilidade dos beneficiários e condições de acesso
+1 - São exigíveis os seguintes critérios e condições de acesso relativos aos beneficiários, a cumprir à data da formalização do pedido:
+a) Desenvolver atividade económica principal na CAE 49392 (Outros Transportes Terrestres de Passageiros);
+b) Pelo menos 50 % do respetivo volume de negócios, no ano de 2022, resultar do transporte de turistas;
+c) Ter tido uma candidatura aprovada ao abrigo das medidas «APOIAR.PT» e «APOIAR + SIMPLES», do Programa APOIAR;
+d) Encontrar-se em atividade;
+e) Ter a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;
+f) Ter a situação regularizada perante a segurança social e a administração fiscal;
+g) Não ter sido objeto de um processo de insolvência, nos termos do Código da Insolvência e Recuperação de Empresas.
+2 - A comprovação das condições de elegibilidade previstas nas alíneas b), d) e g) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo beneficiário sob compromisso de honra, sendo as restantes condições confirmadas através de procedimentos automáticos do Balcão 2020.
+3 - Sem prejuízo do disposto no número anterior, os beneficiários devem manter, desde a data da formalização do pedido de apoio, declaração subscrita pelo respetivo contabilista certificado comprovativa do cumprimento do requisito previsto na alínea b) do n.º 1 do presente artigo, e respetivas evidências.
+Artigo 6.º
+Taxa de financiamento e forma de apoio
+1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
+2 - O apoio a conceder corresponde a 12,56 % do apoio financeiro final pago e recebido, cumulativamente, por cada empresa beneficiária no âmbito das medidas «APOIAR.PT» ou «APOIAR + SIMPLES» do Programa APOIAR.
+Artigo 7.º
+Pedido de apoio e pagamentos aos beneficiários
+1 - O pedido de apoio ao abrigo da presente medida, único por cada beneficiário, é apresentado através de formulário eletrónico simplificado disponível no Balcão dos Fundos, até sete dias úteis após a entrada em vigor do presente diploma.
+2 - No pedido de apoio a que se refere o número anterior, o beneficiário:
+a) Confirma o pedido do apoio e o respetivo IBAN;
+b) Declara o cumprimento dos critérios de elegibilidade e das condições de acesso referidos nas alíneas b), d) e g) do n.º 1 do artigo 5.º do presente diploma;
+c) Aceita o cumprimento das obrigações a que se refere o artigo 8.º do presente diploma.
+3 - Após a submissão dos pedidos de apoio e a validação das condições de elegibilidade e apuramento do valor do incentivo nos termos do artigo 6.º do presente do diploma, o Turismo de Portugal, I. P., profere decisão sobre os pedidos de concessão de apoio.
+4 - O prazo referido no n.º 1 do presente artigo pode ser prorrogado pelo membro do Governo com tutela sobre o setor do turismo.
+5 - Os pagamentos aos beneficiários são processados pelo Turismo de Portugal, I. P.
+6 - Previamente ao pagamento, compete ao Turismo de Portugal, I. P., a validação junto da Agência para o Desenvolvimento e Coesão, I. P., do enquadramento em matéria de regras de auxílios de minimis.
+7 - Sempre que se verifique o incumprimento de qualquer das obrigações constantes do artigo seguinte ou a ocorrência de qualquer irregularidade, nomeadamente a prestação de falsas declarações no âmbito da concessão do apoio, pode haver lugar à recuperação dos apoios por parte do Turismo de Portugal, I. P.
+Artigo 8.º
+Obrigações dos beneficiários
+Durante o período de concessão do apoio, contado a partir da data de submissão do pedido de pagamento do apoio, e nos 60 dias úteis subsequentes ao mesmo, o beneficiário não pode:
+a) Distribuir lucros e dividendos, sob qualquer forma, nomeadamente a título de levantamento por conta;
+b) Fazer cessar contratos de trabalho ao abrigo das modalidades de despedimento coletivo, de despedimento por extinção do posto de trabalho, ou de despedimento por inadaptação, previstos nos artigos 359.º, 367.º e 373.º do Código do Trabalho, respetivamente, nem iniciar os respetivos procedimentos;
+c) Cessar a atividade.
+Artigo 9.º
+Controlo de auditoria
+A função de controlo e auditoria visa assegurar que os recursos financeiros são utilizados de acordo com os seus objetivos, devendo o Turismo de Portugal, I. P., desencadear as ações que, neste contexto, se revelem as adequadas, numa base amostral de controlo e de auditoria sobre as operações.
+Artigo 10.º
+Enquadramento europeu
+Este instrumento de apoio respeita o regime de auxílios de Estado, ao abrigo do Regulamento (UE) n.º 1407/2013, de 18 de dezembro, relativo aos auxílios de minimis.
+8 de fevereiro de 2023. - O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida.
+316152586
