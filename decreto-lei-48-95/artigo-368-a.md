@@ -12,7 +12,7 @@ c) Falsidade informática, contrafação de cartões ou outros dispositivos de p
 
 d) Associação criminosa;
 
-e) Terrorismo;
+e) Infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo;
 
 f) Tráfico de estupefacientes e substâncias psicotrópicas;
 
