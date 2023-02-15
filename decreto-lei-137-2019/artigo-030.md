@@ -10,7 +10,7 @@
 
 2 - A UNCT tem competências em matéria de prevenção, deteção, investigação criminal e de coadjuvação das autoridades judiciárias relativamente aos seguintes crimes e outros cuja competência lhe seja atribuída pelo diretor nacional:
 
-a) Terrorismo, terrorismo internacional, organizações terroristas, financiamento do terrorismo e, em articulação com a UNC3T, de ciberterrorismo;
+a) Infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo e, em articulação com a UNC3T, de ciberterrorismo;
 
 b) Contra a segurança do Estado, com exceção dos que respeitem ao processo eleitoral;
 
