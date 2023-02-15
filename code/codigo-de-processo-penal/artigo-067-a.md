@@ -24,7 +24,7 @@ d) 'Criança ou jovem', uma pessoa singular com idade inferior a 18 anos.
 
 2 - Para os efeitos previstos na subalínea ii) da alínea a) do n.º 1 integram o conceito de vítima, pela ordem e prevalência seguinte, o cônjuge sobrevivo não separado judicialmente de pessoas e bens, ou a pessoa que convivesse com a vítima em condições análogas às dos cônjuges, os descendentes e os ascendentes, na medida estrita em que tenham sofrido um dano com a morte, com exceção do autor dos factos que provocaram a morte.
 
-3 - As vítimas de criminalidade violenta e de criminalidade especialmente violenta são sempre consideradas vítimas especialmente vulneráveis para efeitos do disposto na alínea b) do n.º 1.
+3 - As vítimas de criminalidade violenta, de criminalidade especialmente violenta e de terrorismo são sempre consideradas vítimas especialmente vulneráveis para efeitos do disposto na alínea b) do n.º 1.
 
 4 - Assistem à vítima os direitos de informação, de assistência, de proteção e de participação ativa no processo penal, previstos neste Código e no Estatuto da Vítima.
 

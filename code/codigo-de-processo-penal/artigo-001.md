@@ -22,7 +22,7 @@ g) Relatório social: informação sobre a inserção familiar e sócio-profissi
 
 h) Informação dos serviços de reinserção social: resposta a solicitações concretas sobre a situação pessoal, familiar, escolar, laboral ou social do arguido e, eventualmente, da vítima, elaborada por serviços de reinserção social, com o objectivo referido na alínea anterior, para os efeitos e nos casos previstos neste diploma.
 
-i) «Terrorismo» as condutas que integram os crimes de organizações terroristas, terrorismo, terrorismo internacional e financiamento do terrorismo;
+i) 'Terrorismo' as condutas que integram os crimes de infrações terroristas, infrações relacionadas com um grupo terrorista, infrações relacionadas com atividades terroristas e financiamento do terrorismo;
 
 j) 'Criminalidade violenta' as condutas que dolosamente se dirigirem contra a vida, a integridade física, a liberdade pessoal, a liberdade e autodeterminação sexual ou a autoridade pública e forem puníveis com pena de prisão de máximo igual ou superior a 5 anos;
 
