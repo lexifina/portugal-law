@@ -1,0 +1,15 @@
+Edital n.º 253/2023
+Sumário: Reinício do procedimento de revisão do Plano de Pormenor das Penhas da Saúde - Zona Sul.
+Vítor Manuel Pinheiro Pereira, Presidente da Câmara Municipal da Covilhã, torna público, que a Câmara Municipal da Covilhã, deliberou, em reunião de 13 de janeiro de 2023, aprovar o reinício do procedimento de Revisão do Plano de Pormenor das Penhas da Saúde - Zona Sul, com recurso a Contrato para Planeamento (celebrado a 02 de abril de 2019), com aproveitamento de todo o conteúdo material e documental produzido até ao momento (incluindo os Termos de Referência e relatório de Dispensa de Avaliação Ambiental Estratégica - AAE), e de todos os atos e formalidades praticados no âmbito do mesmo, nos termos do n.º 7 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação em vigor (RJIGT).
+Deliberou ainda fixar, nos termos e para os efeitos do disposto no artigo 76.º do RJIGT, o prazo de 365 dias para a sua conclusão, prazo este cuja contagem se iniciará a partir da data do dia seguinte à publicação da deliberação da Câmara Municipal no Diário da República.
+E para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do costume e publicitados nos termos legais.
+24 de janeiro de 2023. - O Presidente da Câmara Municipal da Covilhã, Dr. Vítor Manuel Pinheiro Pereira.
+Deliberação
+A Câmara deliberou, nos termos da proposta dos serviços, aprovar:
+Retificar os dias de suspensão do prazo de elaboração da revisão do plano e do prazo limite para conclusão dos trabalhos definidos pela deliberação da Câmara Municipal de 23-09-2022, para 223 dias e 08-12-2022, respetivamente.
+Reiniciar o procedimento de Revisão do Plano de Pormenor das Penhas da Saúde - Zona Sul, com recurso a Contrato para Planeamento (celebrado a 02-04-2019), com aproveitamento de todo o conteúdo material e documental produzido até ao momento (incluindo os Termos de Referência e Relatório de Dispensa de AAE), e de todos os atos e formalidades praticados no âmbito do mesmo, nos termos do n.º 7 do artigo 76.º do RJIGT.
+Fixar, nos termos e para os efeitos do disposto no artigo 76.º do RJIGT o prazo de 365 dias para a sua conclusão, prazo este cuja contagem se iniciará a partir da data do dia seguinte à publicação da deliberação da Câmara Municipal no Diário da República.
+A não sujeição da revisão do plano a procedimento de Avaliação Ambiental Estratégica - AAE de acordo com o n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15/06, na sua redação em vigor, cf. relatório de Fundamentação da Dispensa de Avaliação Ambiental Estratégica (AAE), e pareceres das entidades da CCDRC, ICNF e APA emitidos no âmbito do procedimento anterior.
+Proceder à publicação da decisão sob a forma de Edital no Diário da República, nos termos e para os efeitos descritos no n.º 1 do artigo 76.º e na alínea c) do n.º 4 do artigo 191.º, ambos do RJIGT.
+13 de janeiro de 2023. - O Presidente da Câmara Municipal da Covilhã, Vítor Manuel Pinheiro Pereira. - A Diretora do Departamento de Administração Geral e Coordenação Jurídica, Graça Robbins.
+616122478
