@@ -29,3 +29,5 @@ b) Nos casos em que o sujeito da obrigação de registo beneficie de uma pensão
 5 - O pagamento da taxa é efetuado no momento da inscrição, segundo as instruções constantes do formulário a disponibilizar pela ERS.
 
 6 - Não sendo efetuado o pagamento da taxa de registo no prazo concedido para o efeito, a nota de liquidação da dívida serve de base à execução fiscal da mesma, a promover pela ERS.
+
+7 - Estão isentas do pagamento da taxa de registo as farmácias de oficina, cujo regime jurídico consta do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual.

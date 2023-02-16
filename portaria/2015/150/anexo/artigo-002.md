@@ -2,7 +2,7 @@
 
 ### Contribuição regulatória
 
-1 - Estão sujeitos ao pagamento de uma contribuição regulatória todos os estabelecimentos prestadores de cuidados de saúde sob jurisdição regulatória da ERS, nos termos do n.º 2 do artigo 4.º dos estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto.
+1 - Estão sujeitos ao pagamento de uma contribuição regulatória todos os estabelecimentos prestadores de cuidados de saúde sob jurisdição regulatória da ERS, nos termos do n.º 2 do artigo 4.º dos estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto, sem prejuízo do disposto no n.º 9.
 
 2 - A contribuição regulatória visa remunerar os custos específicos incorridos pela ERS no exercício da sua atividade de regulação, de supervisão e de promoção e defesa da concorrência respeitantes às atividades económicas na área da saúde dos sectores privado, público, cooperativo e social.
 
@@ -21,3 +21,5 @@ com um limite mínimo de 500 euros e um limite máximo de 25 000 euros, sendo CR
 7 - A contribuição regulatória é liquidada anualmente, vencendo-se 12 meses após a data da constituição da obrigação legal de registo no SRER.
 
 8 - Após a data de vencimento do pagamento referido no número anterior, o sujeito é notificado para proceder ao mesmo, após o que, caso não o faça, passados que sejam 60 dias contados da notificação, a nota de liquidação da dívida serve de base à execução fiscal da mesma, a promover pela ERS.
+
+9 - Estão isentas do pagamento de contribuição regulatória as farmácias de oficina, cujo regime jurídico consta do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual.
