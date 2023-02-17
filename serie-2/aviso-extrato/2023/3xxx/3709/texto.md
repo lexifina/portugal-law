@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 3709/2023
+Sumário: Proposta de Regulamento de Tabelas e Taxas Gerais.
+Nuno Miguel Pessoa Caldeira, Presidente da União das Freguesias de Cantanhede e Pocariça, torna público no uso das competências previstas nos artigos 100.º e 101.º do Código de Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que o órgão executivo da freguesia deliberou, submeter a consulta pública pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente anúncio na 2.ª série do Diário da República, a Proposta do Regulamento de Tabelas e Taxas Gerais, cujo texto pode ser consultado nas instalações da União das Freguesias de Cantanhede e Pocariça bem como através do site oficial desta Autarquia.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do artigo 101.º do Código do Procedimento Administrativo, endereçados ao Presidente da União das Freguesias de Cantanhede e Pocariça, entregues nas instalações sitas R. Bombeiros Voluntários 1, 3060-163 Cantanhede, ou ainda através do e-mail junta.cantanhede@gmail.com
+31 de janeiro de 2023. - O Presidente da União das Freguesias de Cantanhede e Pocariça, Nuno Miguel Pessoa Caldeira.
+316123847
