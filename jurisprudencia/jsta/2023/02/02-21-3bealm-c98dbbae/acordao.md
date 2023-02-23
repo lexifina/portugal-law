@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-02-23, processo 02/21.3BEALM
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 02/21.3BEALM
+
+**Data do Acordão:** 02/23/2023
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ANABELA RUSSO
+
+**Descritores:** VALIDADE; EFICÁCIA; ACTO; REPERCUSSÃO; JUROS INDEMNIZATÓRIOS; TAXA DE OCUPAÇÃO DO SUBSOLO
+
+**Nº Convencional:** JSTA00071675
+
+**Nº do Documento:** SA22023022302/21
+
+**Data de Entrada:** 07/14/2022
+
+**Recorrente:** A..., S.A.
+
+**Recorrido 1:** B... S.A. – SUCURSAL EM PORTUGAL
+
+**Votação:** UNANIMIDADE
+
+**Legislação Nacional:** ART.70.º DL n.º 25/2007, de 03/03;; ARTS. 35.º e 43.º LGT
+
+## Sumário
+
+I – Nos termos do artigo 85.º, n.º 3 da Lei n.º 42/2016, de 28 de Dezembro (Lei do Orçamento do Estado para o ano de 2017), a taxa municipal de direitos de passagem e de ocupação do subsolo são pagas pelas empresas operadoras de infraestruturas, não podendo ser reflectidas na factura dos consumidores.
+
+II – Sendo a referida norma válida e eficaz desde 1 de Janeiro de 2017, há que julgar ilegal o acto de repercussão integrado em factura relativa ao ano de 2018.
+
+III - A actividade ou prestação de um serviço público essencial não perde a sua natureza pública administrativa pela circunstância de ser desenvolvida por uma pessoa colectiva de direito privado (no caso constituída sob a forma de sociedade anónima), nem o acto de repercussão, realizado ao abrigo de um direito legalmente reconhecido, deixa de ser materialmente tributário apenas por ter sido praticado por uma concessionária (de serviço público essencial), pelo que, os valores cobrados ao consumidor na parte que respeitam à contrapartida da utilização pela concessionária do bem de domínio público ainda possuem a natureza de créditos tributários.
+
+IV – Não determinando a natureza privada da entidade que praticou o acto lesivo (repercussão ilegal) a sua exclusão do conceito de “serviços” previsto no artigo 43.º da LGT e estando verificados os demais pressupostos para atribuição de juros indemnizatórios previstos no mesmo preceito, deve concluir-se que não existe qualquer obstáculo a que seja reconhecido à repercutida (consumidor final) o direito a reaver o que ilegalmente lhe foi exigido e pagou e, bem assim, o direito a receber o valor correspondente aos juros indemnizatórios, calculados à taxa de 4%, desde a data em que esse pagamento indevido se verificou até efectivo e integral pagamento.
