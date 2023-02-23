@@ -1,0 +1,319 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2023-02-23, processo 1304/22.7BELSB
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 1304/22.7BELSB
+
+**Secção:** CA
+
+**Data do Acordão:** 02/23/2023
+
+**Relator:** PEDRO NUNO FIGUEIREDO
+
+**Descritores:** ASILO; RETOMA A CARGO; FALHAS SISTÉMICAS
+
+**Aditamento:** 1
+
+## Sumário
+
+I. Caso se apure que o requerente de proteção internacional em Portugal formulou anterior pedido em outro Estado-Membro, impõe-se a retoma do requerente a cargo deste Estado-Membro, nos termos do artigos 3.º, n.º 2, e 18.º, n.º 1, al. a), do Regulamento n.º 604/2013, do Parlamento Europeu e do Conselho, de 26 de junho.
+
+II. À transferência do requerente para o Estado-Membro competente pode obstar a existência de motivos válidos para crer que aí existam falhas sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes, que impliquem o risco de tratamento desumano ou degradante na aceção do artigo 4.º da Carta dos Direitos Fundamentais da União Europeia.
+
+III. Sem que constem dos autos elementos que indiciem a existência de motivos válidos do requerente ter sido vítima de tais falhas e tratamento desumano ou degradante, não estava o Serviço de Estrangeiros e Fronteiras obrigado a fazer quaisquer averiguações quanto às condições do Estado-Membro em questão.
+
+## Decisão Texto Integral
+
+Acordam na Secção do Contencioso Administrativo do Tribunal Central Administrativo Sul
+
+I. RELATÓRIO
+
+A....., nacional da Costa do Marfim, intentou ação administrativa urgente contra o Ministério da Administração Interna, visando o despacho do Diretor Nacional Adjunto do SEF de 14/03/2022, que considerou inadmissível o pedido de proteção internacional que havia apresentado e determinou a sua transferência para Itália, pedindo que o SEF seja condenado a admitir e deferir a concessão da proteção internacional ou, subsidiariamente, a concessão de direito de residência por razões humanitárias.
+
+Por sentença de 31/10/2022, o TAC de Lisboa julgou a ação improcedente e, em consequência, absolveu a entidade demandada do pedido.
+
+Inconformado, o autor interpôs recurso daquela decisão, terminando as alegações com a formulação das conclusões que seguidamente se transcrevem:
+
+“A. O Recorrente é apoiante do ex-Presidente L..... e foi perseguido durante anos precisamente por sua militância. Fugindo da Costa do Marfim por causa de problemas étnicos e políticos e temendo pela sua própria vida, o Recorrente partiu de seu país para o Mali, Níger, Líbia e, deste último, de barco para a Itália.
+
+B. Ao chegar na Itália, o Recorrente pediu proteção, porém, apesar de ter alojamento, as condições eram inumanas. O campo era sobrelotado, a comida insalubre, em muitas situações as circunstâncias impossibilitavam o Recorrente de dormir. Fazia frio e, em pleno inverno, não havia qualquer aquecimento. Não havia acesso efetivo à saúde nem à medicação dado que as consultas eram escassas e havia apenas um médico para um campo sobrelotado. Quanto à alimentação, a comida era precária e casos de intoxicação alimentar acontecia amiúde.
+
+C. A saída do campo só era permitida com a autorização da diretora do local, a qual era dada de forma discricionária e podia em um dia ser concedida e no seguinte não, sem que houvesse qualquer alteração de circunstâncias. O Recorrente informou que possui problemas de saúde, porém, como buscar tratamento com todas essas limitações?
+
+D. Fugindo deste tratamento desumano, o Recorrente, buscou proteção em França e, posteriormente, em Portugal, aos 07 de fevereiro de 2022 perante o Gabinete de Asilo e Refugiados (GAR).
+
+E. Posteriormente, o pedido do Requente foi considerado inadmissível e determinada a sua transferência para a Itália, pelo que, discordando com o teor da decisão proferida, o Recorrente apresentou ação administrativa para que o ato seja anulado e reconhecida a proteção de seus direitos, liberdades e garantias.
+
+F. A meritíssima Juíza a quo julgou a ação improcedente pelo suposto facto de o Recorrente não apresentar um grau de verosimilhança que leve a admitir a sua credibilidade. Porém, salvo o devido respeito, a douta sentença recorrida faz uma equivocada interpretação e aplicação do direito.
+
+G. O artigo 3.º/2, do Regulamento Dublin III, prevê a “cláusula de salvaguarda”, a qual garante que, “Caso seja impossível transferir um requerente para o Estado-Membro inicialmente designado responsável por existirem motivos válidos para crer que há falhas sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes nesse Estado-Membro, que impliquem o risco de tratamento desumano ou degradante na aceção do artigo 4.º da Carta dos Direitos Fundamentais da União Europeia, o Estado-Membro que procede à determinação do Estado-Membro responsável prossegue a análise dos critérios estabelecidos no Capítulo III a fim de decidir se algum desses critérios permite que outro Estado-Membro seja designado responsável. Caso não possa efetuar-se uma transferência ao abrigo do presente número para um Estado-Membro designado com base nos critérios estabelecidos no Capítulo III ou para o primeiro Estado-Membro onde foi apresentado o pedido, o Estado-Membro que procede à determinação do Estado-Membro responsável passa a ser o Estado-Membro responsável”.
+
+H. São muitas as informações veiculadas pela comunicação social e por organizações não-governamentais sobre a enorme afluência de refugiados na Itália e as péssimas condições de acolhimento e permanência dos requerentes de proteção internacional no mesmo.
+
+I. Em 9 de novembro de 2022, o diário de notícias El Confidencial expôs a postura da atual PM da Itália. O governo Meloni endureceu a política italiana em relação às ONG, que acusa de encorajar o influxo de África, e emitiu um decreto que permite apenas aos mais vulneráveis aterrar no seu território, enquanto os restantes devem permanecer no seu interior e depois ser devolvidos às águas internacionais. Estes "desembarques seletivos" têm sido descritos pelas ONG, pela oposição e mesmo pelos bispos italianos como "ilegais" e "desumanos". O governo francês descreveu como "inaceitável" as ações do governo italiano.
+
+J. Existem recomendações em relatórios internacionais de entidades oficiais ou ONG acreditadas para que os Estados Membros não transfiram pessoas para a Itália, sinalizando que, em qualquer outro caso, as autoridades responsáveis devem ainda realizar uma avaliação individual detalhada, solicitando, inclusive às autoridades italianas informações precisas sobre a instalação de receção alocada à pessoa, na mesma linha, aliás, da jurisprudência do Tribunal Europeu de Direitos Humanos (TEDH).
+
+K. Neste aresto, o TEDH concluiu que os Estados-Membros deveriam obter garantias, in casu, das autoridades italianas, de que os requerentes de asilo seriam acomodados adequadamente antes de realizar uma transferência.
+
+L. Não se pode ignorar os pareceres emitidos pelos Conselhos para os Refugiados dinamarquês, suíço e português, que se encontram junto a numerosos processos, e que dão conta das péssimas condições de acolhimento dos refugiados em Itália, ainda que na condição de “retornados” e que não excluem que os requerentes não vulneráveis, por estarem em boas condições de saúde, posam ser sujeitos a tratos desumanos ou degradantes naquele país, tratamentos esses que não se resumem à prática da tortura, a qual não é praticada na geografia europeia ocidental.
+
+M. De acordo com o International Rescue Committee (IRC), “A Itália continua a receber a maior parte dos que chegam à Europa atravessando o Mar Mediterrâneo usando contrabandistas. A Itália recebeu mais de 40% das chegadas à Europa em 2020, 14% das quais são crianças viajando sozinhas. A Itália acolhe cerca de 41% das pessoas deslocadas que vivem em centros de acolhimento em toda a Europa. Sem apoio suficiente de outros estados membros da União Europeia, a Itália está assumindo a maior parte da responsabilidade por seu bem-estar e está sobrecarregada. A Itália enfrenta uma infinidade de desafios ao responder às necessidades de refugiados e migrantes que desembarcaram em suas costas. O processo de asilo é longo e demorado. Enquanto os requerentes de asilo esperam, vivem em centros de acolhimento espalhados por toda a Itália.
+
+N. Os Estados que pretendam executar transferências estão obrigados a não transferir requerentes de asilo para os Estados responsáveis de acordo com os critérios do Regulamento Dublin III quando, nesses Estados, se verifiquem deficiências sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes, que impliquem o risco de ser desrespeitado o direito absoluto dos requerentes a não ser sujeitos a penas ou tratamentos cruéis, degradantes ou desumanos, impondo, assim, ao Estado português, a referida cláusula de soberania, prevista no artigo 3°. do Regulamento Dublin III, um juízo de prognose relativamente à situação a que o Recorrente ficará exposto após a transferência, caso esta ocorra.
+
+O. A situação económica e social em que se encontra atualmente o Estado italiano não deve ser analisada de forma superficial, designadamente, quanto às deficiências sistémicas nas medidas de acolhimento dos requerentes de asilo ou de proteção internacional, sendo que o contexto de pressão migratória, como aquele com que, desde 2015, os Estados Membros se confrontam não pode resultar numa diminuição das garantias previstas nos vários normativos que vinculam os estados membros da União Europeia, o que acontece com os requerentes de asilo e de proteção internacional em Itália.
+
+P. Como relatado durante a entrevista, o campo era sobrelotado, a comida insalubre, em muitas situações as circunstâncias impossibilitavam o Recorrente de dormir, fazia frio e, em pleno inverno, não havia qualquer aquecimento. Não havia acesso efetivo à saúde dado que as visitas ao médico eram escassas porque havia apenas um médico para o campo inteiro, que estava sobrelotado, e não tinham qualquer acesso a medicação. Quanto à alimentação, a comida era precária e casos de intoxicação alimentar acontecia amiúde.
+
+Q. O Estado italiano não tem capacidade sistémica, organizacional, social e económica para receber tantos requerimentos de apoio internacional, o que levanta a questão do destino dos requerentes, que não poderá ser no sentido voltarem ao país de origem, no caso porquanto tal decisão consubstanciaria uma violação do princípio da não expulsão, previsto no artigo 33.º, n.º 1, 1.ª parte, da Convenção de Genebra de 1951.
+
+R. Nos termos do art.º 4º da CDFUE “Ninguém pode ser submetido a tortura, nem a tratos ou penas, desumanos ou degradantes”. Assim sendo, faz-se necessário averiguar as concretas condições de acolhimento do recorrido em Itália, indagando, no mínimo, juntos das suas congéneres italianas quais irão ser as concretas condições de acolhimento, em termos de habitação, alimentação, vestuário, saúde, dinheiro de bolso, o que não fez, alheando-se da situação do recorrido e confiando na sorte.
+
+S. In casu, face à concreta situação alegada e provada nos autos, se indicam claramente as falhas sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes de proteção internacional no Estado italiano, que implicarão para o Recorrente, caso seja transferido, num período indeterminado de internamento noutro campo de refugiados com sérias dúvidas quanto ao seu futuro.
+
+T. Diante de todo o exposto, resta claro que houve um equívoco na decisão da meritíssima Juíza a quo., razão pela qual deverá ser concedido provimento ao recurso, revogada a douta sentença recorrida e substituída por outra que julgue totalmente procedente a presente ação e, em consequência, reconstituir o procedimento sobre o pedido de proteção internacional formulado pelo Recorrente, averiguando-se sobre as condições de acolhimento de refugiados em Itália e, subsequentemente, conceder a proteção internacional ou, subsidiariamente, o direito de residência por razões humanitárias ao Recorrente.”
+
+Não foram apresentadas contra-alegações.
+
+O Ministério Público apresentou douto parecer no qual conclui dever ser negado provimento ao recurso, por entender que o discurso jurídico fundamentador exarado na decisão recorrida coloca a questão jurídica nos seus devidos parâmetros, pois que nada alegando o requerente, de forma credível, que permita concluir pela existência de motivos válidos para afastar o regime legal da retoma da apreciação do pedido de proteção internacional por outro Estado-membro, será de manter a decisão impugnada.
+
+Perante as conclusões das alegações do recorrente, sem prejuízo do que seja de conhecimento oficioso, cumpre aferir do erro de julgamento da sentença ao decidir que o SEF não tinha de reconstituir o procedimento sobre o pedido de proteção internacional por si formulado, com averiguação sobre as condições de acolhimento de refugiados em Itália.
+
+Dispensados os vistos legais, atenta a natureza urgente do processo, cumpre apreciar e decidir.
+
+*
+
+II. FUNDAMENTOS
+
+II.1 DECISÃO DE FACTO
+
+Nos termos do disposto no artigo 663.º, n.º 6, do CPC, ex vi artigos 1.º e 140.º, n.º 3, do CPTA, por não ter sido impugnada, remete-se a matéria de facto para os termos em que foi decidida pela 1.ª instância.
+
+*
+
+II.2 APRECIAÇÃO DO OBJETO DO RECURSO
+
+Conforme supra enunciado, a questão a decidir cinge-se a saber se ocorre erro de julgamento da sentença ao decidir que o SEF não tinha de instruir oficiosamente o procedimento, com informação fidedigna atualizada sobre o funcionamento do procedimento de asilo em Itália e as condições de acolhimento dos requerentes de proteção internacional naquele país.
+
+Quanto à invocada questão do défice instrutório, vejamos o direito aplicável e relevante para a sua solução.
+
+Nos termos do disposto no artigo 33.º, n.º 8, da Constituição da República Portuguesa (CRP), “[é] garantido o direito de asilo aos estrangeiros e aos apátridas perseguidos ou gravemente ameaçados de perseguição, em consequência da sua atividade em favor da democracia, da libertação social e nacional, da paz entre os povos, da liberdade e dos direitos da pessoa humana.”
+
+Concretizando o direito de asilo aí consagrado, a Lei n.º 27/2008, de 30 de junho (Lei do asilo e proteção subsidiária, com as alterações introduzidas pela Lei n.º 26/2014, de 5 de maio), veio estabelecer as condições e procedimentos de concessão de asilo ou proteção subsidiária e os estatutos de requerente de asilo, de refugiado e de proteção subsidiária, transpondo as Diretivas n.º 2011/95/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro, n.º 2013/32/UE, do Parlamento Europeu e do Conselho, de 26 de junho, e n.º 2013/33/UE, do Parlamento Europeu e do Conselho, de 26 de junho, e implementar a nível nacional o Regulamento (UE) n.º 603/2013 do Parlamento Europeu e do Conselho, de 26 de junho para efeitos de aplicação efetiva do Regulamento (UE) n.º 604/2013 do Parlamento Europeu e do Conselho, de 26 de junho.
+
+Esta Lei prevê um procedimento especial de determinação do Estado responsável pela análise do pedido de proteção internacional, no respetivo capítulo IV, que tem lugar “quando se considere que a responsabilidade pela análise do pedido de proteção internacional pertence a outro Estado-membro, de acordo com o previsto no Regulamento (UE) n.º 604/2013, do Parlamento Europeu e do Conselho, de 26 de junho, o SEF solicita às respetivas autoridades a sua tomada ou retoma a cargo” – artigo 37.º, n.º 1.
+
+E segundo o respetivo n.º 2, “[a]ceite a responsabilidade pelo Estado requerido, o diretor nacional do SEF profere, no prazo de cinco dias, decisão nos termos da alínea a) do n.º 1 do artigo 19.º-A e do artigo 20.º, que é notificada ao requerente, numa língua que compreenda ou seja razoável presumir que compreenda, e é comunicada ao representante do ACNUR e ao CPR enquanto organização não governamental que atue em seu nome, mediante pedido apresentado, acompanhado do consentimento do requerente.”
+
+O referido artigo 19.º-A, n.º 1, al. a), prevê que o pedido é considerado inadmissível, quando se verifique que está sujeito ao procedimento especial de determinação do Estado responsável pela análise do pedido de proteção internacional, e o n.º 2 que se prescinde da análise das condições a preencher para beneficiar do estatuto de proteção internacional. Segundo o artigo 20.º, n.º 1, cabe ao Diretor Nacional do SEF tomar tal decisão.
+
+Como se vê, a Lei do asilo e proteção subsidiária remete para o Regulamento (UE) n.º 604/2013, o apuramento da responsabilidade pela análise do pedido de proteção internacional, posto que são aí estabelecidos os critérios e mecanismos de determinação do Estado-Membro responsável pela análise de pedidos de proteção internacional apresentados num dos Estados-Membros por nacionais de países terceiros ou apátridas.
+
+O artigo 3.º deste Regulamento, sob a epígrafe ‘acesso ao procedimento de análise de um pedido de proteção internacional’, prevê o seguinte:
+
+“1. Os Estados-Membros analisam todos os pedidos de proteção internacional apresentados por nacionais de países terceiros ou por apátridas no território de qualquer Estado-Membro, inclusive na fronteira ou nas zonas de trânsito. Os pedidos são analisados por um único Estado-Membro, que será aquele que os critérios enunciados no Capítulo III designarem como responsável.
+
+2. Caso o Estado-Membro responsável não possa ser designado com base nos critérios enunciados no presente regulamento, é responsável pela análise do pedido de proteção internacional o primeiro Estado-Membro em que o pedido tenha sido apresentado.
+
+Caso seja impossível transferir um requerente para o Estado-Membro inicialmente designado responsável por existirem motivos válidos para crer que há falhas sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes nesse Estado-Membro, que impliquem o risco de tratamento desumano ou degradante na aceção do artigo 4.º da Carta dos Direitos Fundamentais da União Europeia, o Estado-Membro que procede à determinação do Estado-Membro responsável prossegue a análise dos critérios estabelecidos no Capítulo III a fim de decidir se algum desses critérios permite que outro Estado-Membro seja designado responsável.
+
+Caso não possa efetuar-se uma transferência ao abrigo do presente número para um Estado-Membro designado com base nos critérios estabelecidos no Capítulo III ou para o primeiro Estado-Membro onde foi apresentado o pedido, o Estado-Membro que procede à determinação do Estado-Membro responsável passa a ser o Estado-Membro responsável.
+
+3. Os Estados-Membros mantêm a faculdade de enviar um requerente para um país terceiro seguro, sem prejuízo das regras e garantias previstas na Diretiva 2013/32/UE.”
+
+Veja-se ainda que, de acordo com o artigo 17.º, n.º 1, do Regulamento, “[e]m derrogação do artigo 3.º, n.º 1, cada Estado-Membro pode decidir analisar um pedido de proteção internacional que lhe seja apresentado por um nacional de um país terceiro ou por um apátrida, mesmo que essa análise não seja da sua competência por força dos critérios definidos no presente regulamento.”
+
+A fim de facilitar o processo de determinação do Estado-Membro responsável, exige o artigo 5.º do Regulamento que seja realizada uma entrevista pessoal com o requerente, antes de ser adotada qualquer decisão relativa à sua transferência para o Estado-Membro responsável. Mais aí se exige a elaboração de um resumo escrito do qual constem, pelo menos, as principais informações facultadas pelo requerente durante a entrevista, que pode ser feito sob a forma de relatório ou formulário-tipo, a que o requerente (ou um seu representante) tenha acesso em tempo útil.
+
+No artigo 18.º do Regulamento estabelecem-se as seguintes obrigações do Estado-Membro responsável:
+
+“1. O Estado-Membro responsável por força do presente regulamento é obrigado a:
+
+a) Tomar a cargo, nas condições previstas nos artigos 21.º, 22.ºe 29.º, o requerente que tenha apresentado um pedido noutro Estado-Membro;
+
+b) Retomar a cargo, nas condições previstas nos artigos 23.º, 24.º, 25.º e 29.º, o requerente cujo pedido esteja a ser analisado e que tenha apresentado um pedido noutro Estado-Membro, ou que se encontre no território de outro Estado-Membro sem possuir um título de residência;
+
+c) Retomar a cargo, nas condições previstas nos artigos 23.º, 24.º, 25.º e 29.º, o nacional de um país terceiro ou o apátrida que tenha retirado o seu pedido durante o processo de análise e que tenha formulado um pedido noutro Estado-Membro, ou que se encontre no território de outro Estado-Membro sem possuir um título de residência;
+
+d) Retomar a cargo, nas condições previstas nos artigos 23.º, 24.º, 25.º e 29.º, o nacional de um país terceiro ou o apátrida cujo pedido tenha sido indeferido e que tenha apresentado um pedido noutro Estado-Membro, ou que se encontre no território de outro Estado-Membro sem possuir um título de residência.
+
+2. Nos casos abrangidos pelo n.º 1, alíneas a) e b), o Estado-Membro responsável deve analisar ou finalizar a análise do pedido de proteção internacional apresentado pelo requerente.
+
+Nos casos abrangidos pelo n.º 1, alínea c), se o Estado-Membro responsável tiver interrompido a análise de um pedido na sequência da sua retirada pelo requerente antes de ter sido adotada em primeira instância uma decisão quanto ao mérito, esse Estado-Membro assegura que o requerente tenha direito a pedir que a análise do seu pedido seja finalizada ou a introduzir novo pedido de proteção internacional, que não deverá ser tratado como um pedido subsequente tal com previsto na Diretiva 2013/32/UE. Em tais casos, os Estados-Membros asseguram que a análise do pedido seja finalizada.
+
+Nos casos abrangidos pelo n.º 1, alínea d), se o pedido tiver sido indeferido apenas na primeira instância, o Estado-Membro responsável assegura que a pessoa em causa tenha, ou tenha tido, a oportunidade de se valer de recurso efetivo nos termos do artigo 46.º da Diretiva 2013/32/UE.”
+
+A Secção III do Regulamento prevê os procedimentos aplicáveis aos pedidos de retomada a cargo, como segue:
+
+“Artigo 23.º
+
+Apresentação de um pedido de retomada a cargo em caso de apresentação de um novo pedido no Estado-Membro requerente
+
+1. Se o Estado-Membro ao qual foi apresentado um novo pedido de proteção internacional pela pessoa referida no artigo 18.º, n.º 1, alíneas b), c) ou d), considerar que o responsável é outro Estado-Membro, nos termos do artigo 20.º, n.º 5, e do artigo 18.º, n.º 1, alíneas b), c) ou d), pode solicitar a esse outro Estado-Membro que retome essa pessoa a seu cargo.
+
+2. O pedido de retomada a cargo é apresentado o mais rapidamente possível e, em qualquer caso, no prazo de dois meses após a receção do acerto do Eurodac, nos termos do artigo 9.º, n.º 5, do Regulamento (UE) n.º 603/2013.
+
+Se o pedido de retomada a cargo se basear em elementos de prova diferentes dos dados obtidos através do sistema Eurodac, deve ser enviado ao Estado-Membro requerido no prazo de três meses a contar da data de apresentação do pedido de proteção internacional, na aceção do artigo 20.º, n.º 2.
+
+3. Se o pedido de retomada a cargo não for apresentado nos prazos previstos no n.º 2, a responsabilidade pela análise do pedido de proteção internacional cabe ao Estado-Membro em que o pedido tiver sido apresentado.
+
+4. Os pedidos de retomada a cargo são feitos num formulário-tipo e devem conter as provas ou indícios descritos nas duas listas a que se refere o artigo 22.º, n.º 3, e/ou os elementos relevantes das declarações da pessoa em causa, que permitam às autoridades do Estado-Membro requerido verificar se é responsável com base nos critérios definidos no presente regulamento.
+
+A Comissão adota atos de execução relativos à aplicação uniforme das regras de preparação e apresentação dos pedidos de retomada a cargo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 44.º, n.º 2.
+
+Artigo 24.º
+
+Apresentação de um pedido de retomada a cargo sem que tenha sido apresentado um novo pedido no Estado-Membro requerente
+
+1. Se o Estado-Membro em cujo território se encontre, sem possuir um título de residência, a pessoa referida no artigo 18.º, n.º 1, alíneas b), c) ou d), e em que não foi apresentado nenhum novo pedido de proteção internacional, considerar que o Estado Membro responsável é outro, nos termos do artigo 20.º, n.º 5, e do artigo 18.º, n.º 1, alíneas b), c), ou d), pode solicitar a esse outro Estado-Membro que retome essa pessoa a seu cargo.
+
+2. Em derrogação do artigo 6.º, n.º 2, da Diretiva 2008/115/CE do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativa a normas e procedimentos comuns nos Estados-Membros para o regresso de nacionais de países terceiros em situação irregular, se o Estado-Membro, em cujo território se encontre, sem possuir um título de residência, a pessoa, decidir pesquisar o sistema Eurodac nos termos do artigo 17.o do Regulamento (UE) n.º 603/2013, o pedido de retomada a cargo de uma pessoa referida no artigo 18.º, n.º 1, alíneas b) ou c) do presente regulamento, ou de uma pessoa referida no artigo 18.o, n.o 1, alínea d), cujo pedido de proteção internacional não tenha sido indeferido por decisão definitiva, é apresentado o mais rapidamente possível e, em qualquer caso, no prazo de dois meses após a receção do acerto do Eurodac, nos termos do artigo 17.º, n.º 5, do Regulamento (UE) n.º 603/2013.
+
+Se o pedido de retomada a cargo se basear em elementos de prova diferentes dos dados obtidos através do sistema Eurodac, deve ser enviado ao Estado-Membro requerido no prazo de três meses a contar da data em que o Estado-Membro requerente toma conhecimento de que outro Estado-Membro pode ser responsável pela pessoa em causa.
+
+3. Se o pedido de retomada a cargo não for apresentado nos prazos previstos no n.º 2, o Estado-Membro em cujo território a pessoa em causa se encontre sem possuir um título de residência deve dar-lhe a oportunidade de apresentar novo pedido.
+
+4. Se a pessoa referida no artigo 18.º, n.º 1, alínea d), do presente regulamento, cujo pedido de proteção internacional foi indeferido por decisão definitiva num Estado-Membro, se encontrar no território de outro Estado-Membro sem título de residência, o segundo Estado-Membro pode solicitar ao primeiro que retome a seu cargo a pessoa em causa ou conduza um procedimento de retorno nos termos da Diretiva 2008/115/CE.
+
+Se o segundo Estado-Membro tiver decidido solicitar ao primeiro Estado-Membro que retome a seu cargo a pessoa em causa, não se aplicam as regras estabelecidas na Diretiva 2008/115/CE.
+
+5. Os pedidos de retomada a cargo de uma pessoa referida no artigo 18.º, n.º 1, alíneas b), c) ou d), são feitos num formulário-tipo e devem conter as provas ou indícios descritos nas duas listas a que se refere o artigo 22.º, n.º 3, e/ou os elementos relevantes das declarações da pessoa em causa, que permitam às autoridades do Estado-Membro requerido verificar se é responsável, com base nos critérios definidos no presente regulamento;
+
+A Comissão adota atos de execução relativos à elaboração e revisão periódica de duas listas com os elementos de prova e os indícios, de acordo com os critérios estabelecidos no artigo 22.º, n.º 3, alíneas a) e b), e à aplicação uniforme das regras de preparação e apresentação dos pedidos de retomada a cargo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 44.º, n.º 2.
+
+Artigo 25.º
+
+Resposta a um pedido de retomada a cargo
+
+1. O Estado-Membro requerido procede às verificações necessárias e toma uma decisão sobre o pedido de retomar a pessoa em causa a cargo o mais rapidamente possível e, em qualquer caso, dentro do prazo de um mês a contar da data em que o pedido foi recebido. Quando o pedido se baseie em dados obtidos através do sistema Eurodac, o prazo é reduzido para duas semanas.
+
+2. A falta de uma decisão no prazo de um mês ou no prazo de duas semanas referidos no n.º 1 equivale à aceitação do pedido, e tem como consequência a obrigação de retomar a pessoa em causa a cargo, incluindo a obrigação de tomar as providências adequadas para a sua chegada.”
+
+Haverá ainda que ter em consideração o invocado princípio de não repulsão ou non-refoulement, princípio de direito de asilo internacional, consagrado no artigo 33.º da Convenção de Genebra relativa ao Estatuto dos Refugiados, de 28/07/1951, nos termos do qual os requerentes de asilo devem ser protegidos contra a expulsão ou repulsão, direta ou indireta, para um local onde a sua vida ou liberdade estejam ameaçadas em virtude da sua raça, religião, nacionalidade, filiação em certo grupo social ou opiniões políticas, não se aplicando esta proteção a quem constitua uma ameaça para a segurança nacional ou tenha sido objeto de uma condenação definitiva por um crime ou delito particularmente grave (cf. artigo 2.º, n.º 1, al. aa) da Lei de asilo e proteção subsidiária).
+
+Da decisão recorrida consta a seguinte fundamentação:
+
+“[C]ompulsados os autos, constata-se que, pese embora o Requerente faça alusão às deficiências sistémicas em Itália no acolhimento dos requerentes de asilo, as mesmas não constituem um óbice à sua transferência para Itália.
+
+Com efeito, em sede de entrevista declarou que, em solo italiano lhe deram alojamento, alimentação, cerca de 80€ mensais e acesso a cuidados de saúde.
+
+E, pese embora em sede de audiência prévia o Requerente tenha alegado as insalubres e sobrelotadas condições de alojamento, a má qualidade da alimentação, o deficiente acesso a cuidados de saúde e o encarceramento, em virtude de não poder sair do campo sem autorização discricionária da directora do mesmo, o certo é que nada relatou acerca da forma como conseguiu (e com que meios) sair por duas vezes do citado campo em Itália, uma das quais apenas dois dias após ser transferido de França para aquele país.
+
+Facto que é susceptível de abalar a credibilidade do seu relato.
+
+Ora, os factos alegados pelo Requerente de asilo e de autorização de residência por razões humanitárias, não tendo necessariamente de ser comprovados, devem apresentar um grau de verosimilhança que leve a admitir a sua credibilidade, o que, face ao supra exposto, não podemos concluir no caso dos autos.
+
+E, nesta medida, não se vislumbra que, em termos concretos, o Requerente tenha sido vítima de abusos, maus tratos por parte das autoridades italianas que pudessem obstar ou determinar o Estado português a admitir e decidir o seu pedido de protecção internacional.
+
+A este respeito já se pronunciou o TJUE, no Comunicado de Imprensa n.º 33/2019, de 19/03/2019, no âmbito dos Acórdãos proferidos nos processos C-163/17 JAWO e nos processos apensos C-297/17, C-318/17 Ibrahim, C-319/17 Sharqawi e C-438/17 Magamadov (…)
+
+Nada do declarado pelo Requerente evidencia, credivelmente, a existência de falhas sistémicas no acolhimento dos requerentes de protecção pelas autoridades italianas e muito menos do exigido “nível particularmente elevado de gravidade” dessas eventuais falhas, demonstrativo da existência do risco de um tratamento desumano ou degradante em Itália, pelo que é de manter a decisão impugnada.
+
+Mais aduz o Requerente que o acto sindicado padece de défice instrutório.
+
+No entanto, neste conspecto o Requerente nada consubstanciou credivelmente ou logrou provar que a sua transferência para Itália se traduza um risco real de ser sujeito a tratos desumanos ou degradantes ou que tenha sido alvo dos mesmos.
+
+A este respeito o Supremo Tribunal Administrativo já se pronunciou em vários outros casos idênticos ao dos presentes autos, em que também se questionava a necessidade de uma específica actividade instrutória do SEF, antes da determinação de transferência, tendente ao apuramento da verificação, ou não, de falhas sistémicas em Itália nos procedimentos de asilo e nas condições de acolhimento dos requerentes de proteção internacional implicando um risco de tratamento desumano ou degradante, tendo-se pronunciado, de forma unânime, pela desnecessidade – ou, mesmo, inconveniência – de uma tal actividade instrutória por parte do SEF
+
+Com efeito, em acórdão, de 16.1.2020, proferido no processo nº 2240/18.7BELSB, o STA considerou que as notícias sobre a situação de acolhimento de estrangeiros em Itália, «não são, atento todo o circunstancialismo em que surgem, de forma a impor a condenação [do SEF a instruir o pedido com informação atualizada sobre as condições de acolhimento dos refugiados e requerentes de proteção internacional em Itália]. Não poderemos escamotear o facto delas se referirem a um Estado-membro da «União Europeia», tal como o Estado Português, responsável desde logo pelo cumprimento da respetiva Carta dos Direitos Fundamentais, bem como noticiarem ocorrências relativas a uma situação inusitada: a do fluxo anormal de imigração ilegal de cidadãos de países africanos para a Europa, via Itália. / Esta «imigração ilegal», que ocorre por muitos e variados motivos, visando todos eles a melhoria das condições de vida do imigrante, não se pode confundir simplesmente com a situação do refugiado. Este, que em sentido amplo não deixa de ser imigrante, busca refúgio em país estrangeiro por recear, com razão, ser perseguido no seu país de origem em consequência de atividade exercida em favor da democracia, da liberdade social e nacional, da paz entre os povos, da liberdade e dos direitos da pessoa humana, ou em virtude da sua raça, nacionalidade, convicções políticas ou pertença a determinado grupo social [ver artigo 2º, alínea ac), da Lei nº27/2018, de 30.06, redação dada pela Lei nº 26/2014, de 05.05]. /Foi esta avalancha de imigração ilegal, constituída por um universo de imigrantes onde se integrarão potenciais refugiados mas não só, que provocou um deficit nas condições do seu acolhimento por parte de Itália, e terá provocado uma reação política hostil na mira de suscitar a participação solidária dos demais Estados-membros na resolução do problema. / Assim, os epifenómenos traduzidos nas notícias oficiosamente respigadas pelo tribunal, refletem toda essa inusitada situação vivida, nomeadamente, em Itália, mas não são aptos a implicar o risco de tratamento desumano ou degradante, mormente tortura, dos requerentes de proteção internacional por parte do Estado Italiano» - apud Acórdão do TCA Sul, de 30/01/2020, proferido no proc. 1662/19.8 BELSB, cujo excerto ora se transcreve por adesão à sua proficiente fundamentação:
+
+“Ora, no caso em apreço, em que o requerente e recorrente cinge as razões do recurso apenas e somente em notícias, dados estatísticos, falhas sistémicas de conhecimento geral e público, acolhendo os ensinamentos do STA, obviamente, a respetiva alegação não evidencia um risco real de falhas sistémicas no procedimento de asilo e nas condições de acolhimento do requerente de proteção internacional no Estado italiano.
+
+De tal modo que, nas circunstâncias do caso concreto, não resulta deficit instrutório no procedimento especial de determinação do Estado responsável pela análise do pedido de asilo do requerente e recorrente.
+
+O que significa que não incumbia ao SEF, primeiro, diligenciar por informação atualizada sobre as condições de acolhimento dos requerentes de proteção internacional em Itália para, de seguida, aferir da existência ou não de deficiências sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes em Itália e, por fim, decidir se procede ou não à transferência do recorrente para a Itália.
+
+Pois, nos termos do art 3º, nº 2, §2 do Regulamento, quando se verifiquem deficiências sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes e estas sejam de tal modo evidentes que os Estados-membros não possam ignorá-las, os Estados não podem proceder a transferências Dublin para esses Estados com sistemas em colapso ou com dificuldades.
+
+Como cita a sentença recorrida, o Tribunal de Justiça da União Europeia decidiu que as falhas sistémicas «devem ter um nível particularmente elevado de gravidade, que depende do conjunto dos dados da causa».
+
+Porém, a verdade é que mesmo as alegadas notícias sobre o acolhimento de migrantes no Estado Italiano não demonstram o risco de tratamento desumano ou degradante dos requerentes de proteção internacional por parte desse Estado, suscetíveis de integrar, no caso concreto, a previsão legal do art 3º, nº 2, §2 do Regulamento.
+
+Por conseguinte, nas circunstâncias da situação concreta deste requerente e de acordo com as normas aplicáveis ao procedimento, o SEF não carecia de analisar e decidir sobre a ocorrência de deficiências no acolhimento dos refugiados em Itália. Apenas lhe competia, como fez, proferir decisão de transferência do recorrente para Itália.”
+
+No mesmo sentido, vejam-se os Acórdãos daquele Venerando Supremo Tribunal Administrativo de de 4/6/2020 (proc. 1322/19); de 2/7/2020 (proc. 01088/19); de 2/7/2020 (proc. 1786/19); de 9/7/2020 (proc. 01419/19); e de 10.09.2020 (03421/19).
+
+Donde, atentas concretas circunstâncias do Requerente e de acordo com as normas aplicáveis ao procedimento, o SEF não carecia de analisar e decidir sobre a ocorrência de deficiências no acolhimento dos refugiados em Itália. Apenas lhe competia, como fez, proferir decisão de transferência do Requerente para Itália.
+
+Termos em que se julga improcedente o arguido vício.
+
+Em sede de entrevista o Requerente referiu ainda ter problemas de saúde relacionados com dores nas costas.
+
+Contudo, não se afigura que o seu estado de saúde constitua um óbice à decisão sindicada, na medida em que o Requerente, viveu em Itália e em França durante vários meses, sem que tais problemas constituíssem um obstáculo, vislumbrando-se que o seu objectivo foi chegar a Portugal, país que traçou como sendo o de destino para efeitos migratórios, após ter saído de Itália e na sequencia da recusa do seu pedido de proteção internacional por parte da França.
+
+Assim, mostra-se que a alegação conexa com motivos de saúde não é susceptível de obstar ao acto ora em crise.
+
+Em suma: tendo o Requerente formulado pedido de asilo e tendo a Itália aceite o pedido de retomada a cargo efectuado pelo Serviço de Estrangeiros e Fronteiras, nada alegando o Requerente., credivelmente, que permita concluir pela existência desses motivos válidos para afastar o regime legal da retoma da apreciação do pedido de protecção internacional por outro Estado-membro, é de manter a decisão impugnada.
+
+Assim sendo, resta concluir pela total improcedência da presente acção.”
+
+Contra a mesma insurge-se o recorrente, por entender que incumbia ao SEF averiguar acerca do procedimento de asilo e das condições de acolhimento em Itália.
+
+Vejamos.
+
+No caso vertente, temos que o recorrente já apresentou dois pedidos de proteção internacional em Itália e mais tarde um terceiro pedido em França.
+
+Seguiu depois para Portugal, onde apresentou um quarto pedido de proteção internacional.
+
+O pedido de retoma a cargo do recorrente às autoridades italianas foi aceite.
+
+Nos termos definidos no citado Regulamento n.º 604/2013, apenas um Estado-membro é responsável pela análise de um pedido de asilo, que à partida será o primeiro Estado-membro em que o pedido tenha sido apresentado.
+
+À luz do artigo 33.º da Lei do asilo e proteção subsidiária, o recorrente podia apresentar um pedido de proteção subsequente, configurado como tal por o requerente dispor de novos meios de prova ou por se terem alterado as circunstâncias com base nas quais formulara o pedido inicial, o que não foi feito.
+
+Trata-se, pois, de um pedido de proteção internacional, quando já formulara dois outros pedidos de proteção internacional em dois Estados-Membros.
+
+Tem aplicação a estes casos o já citado artigo 18.º, n.º 1, al. d), do Regulamento n.º 604/2013, que impõe a retoma do requerente a cargo do Estado-membro onde foi apresentado o primeiro pedido de proteção internacional.
+
+É verdade que a já citada cláusula de salvaguarda prevista no artigo 3.º, n.º 2, do Regulamento n.º 604/2013, prevê que à transferência do requerente para o Estado-membro competente pode obstar a existência de motivos válidos para crer que há falhas sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes nesse Estado-Membro, que impliquem o risco de tratamento desumano ou degradante na aceção do artigo 4.º da Carta dos Direitos Fundamentais da União Europeia. Caso em que, de acordo com o respetivo artigo 17.º, n.º 1, seria de derrogar o artigo 3.º, n.º 1, podendo Portugal decidir analisar o pedido de proteção internacional, ainda que essa análise não seja da sua competência.
+
+Contudo, como já se reconheceu em recentes acórdãos deste TCAS(1), nos casos em que o pedido de um requerente de proteção internacional já foi decidido por outro Estado-membro, não tem aplicação a referida cláusula de salvaguarda, que pressupõe estar em curso o procedimento no Estado do primeiro pedido, daí que se equacione a possibilidade do Estado em que foi formulado o segundo pedido chamar a si a respetiva análise e, claro está, a sua decisão.
+
+O que não impede, como se reconhece nos mesmos arestos, que o SEF esteja obrigado a apurar as condições de acolhimento e do procedimento de asilo em país relativamente ao qual sejam fundadamente invocadas falhas sistémicas, ao abrigo do já citado princípio do non-refoulement, a par da proibição da tortura e dos tratos ou penas desumanos ou degradantes, plasmada no artigo 4.º da Carta dos Direitos Fundamentais da União Europeia (veja-se, neste sentido, a jurisprudência do TEDH, citada no invocado acórdão do TCAS de 02/07/2020).
+
+Quanto à questão das invocadas falhas sistémicas, atente-se que a jurisprudência do Tribunal de Justiça da União Europeia tem-se orientado consensualmente no sentido do sistema de asilo comum assentar no princípio da confiança mútua, presumindo-se que o tratamento dado aos requerentes de asilo em cada estado membro está em conformidade com as exigências da Carta dos Direitos Fundamentais da União Europeia, com a Convenção de Genebra de 1951 relativa ao Estatuto dos Refugiados e com a Convenção Europeia dos Direitos do Homem.
+
+Quanto à presente questão, existe orientação jurisprudencial consolidada do STA, no sentido do SEF não se encontrar obrigado a fazer quaisquer averiguações sobre eventuais falhas sistémicas do sistema de acolhimento quando, no caso concreto, não existam indícios de que o requerente tenha sido ou venha a ser vítima das mesmas (cf. os acórdãos de 16/01/2020, proc. n.º 02240/18.7BELSB, de 23/04/2020, proc. n.º 0916/19.0BELSB, de 21/05/2020, proc. n.º 1300/19, de 04/06/2020, proc. n.º 01322/19.2BELSB, de 02/07/2020, proc. n.º 01786/19.4BELSB, de 02/07/2020, proc. n.º 01088/19.6BELSB, de 09/07/2020, proc. n.º 01419/19.9BELSB, de 10/09/2020, proc. n.º 01108/19.4BELSB, de 10/09/2020, proc. n.º 01932/19.8BELSB, de 10/09/2020, proc. n.º 01705/19.8BELSB, de 10/09/2020, proc. n.º 02194/19.2BELSB, de 05/11/2020, proc. n.º 01108/19.4BELSB, de 05/11/2020, proc. n.º 01932/19.8BELSB, de 05/11/2020, proc. n.º 02364/18.0BELSB, de 19/11/2020, proc. n.º 01301/19.0BELSB, de 27/05/2021, proc. n.º 01357/19.5BELSB, de 24/02/2022, proc. n.º 0878/21.4BELSB, e de 21/04/2022, proc. n.º 0545/21.9BELSB, todos disponíveis em www.dgsi.pt).
+
+No caso vertente, igualmente será de concluir no sentido de não recair sobre a entidade recorrida a obrigação de averiguar acerca das condições no procedimento de asilo e no acolhimento em Itália.
+
+Para aí apontando o que consta dos autos, posto que o recorrente não aportou suficientes elementos que indiciem a existência de motivos válidos que levassem a entidade demandada a crer que tenha sido vítima de falhas sistémicas no procedimento de asilo e nas condições de acolhimento dos requerentes em Itália, implicando o risco de tratamento desumano ou degradante.
+
+Não se olvida a invocação do recorrente quanto a sentir-se um prisioneiro no campo de refugiados, assim como das precárias condições em que os requerentes de proteção internacional.
+
+Contudo, sabemos pelo seu relato que recebeu alojamento, alimentação, ajuda financeira mensal e acesso a cuidados de saúde.
+
+Para além de que terá saído do campo em questão em pelo menos duas ocasiões, circunstâncias que não abonam a favor da credibilidade do seu relato, como igualmente se releva na decisão recorrida.
+
+O que necessariamente afeta a apreciação dos indícios quanto à falta de capacidade sistémica do sistema de acolhimento italiano, sem que se deixe de reconhecer as grandes dificuldades a que ali se encontram sujeitos os requerentes de proteção internacional por força do enorme fluxo migratório que ali ocorre. De todo o modo, do que vem de se descrever, não se afigura possível concluir que, no caso concreto, o ora recorrente aí tenha estado ou venha a estar sujeito ao risco de tratamento desumano ou degradante.
+
+E quanto à invocação da mais recente política migratória seguida em Itália, está em causa a entrada em território italiano, ou a sua proibição, não as condições existentes para quem já se encontra neste país.
+
+Como se aduz no já citado acórdão do STA de 05/11/2020, “o SEF e depois os tribunais tratam e decidem situações concretas de requerentes de proteção internacional e devem fazê-lo atendendo às suas circunstâncias pessoais específicas e no estrito cumprimento da disciplina jurídica existente e vigente, não lhes cabendo imiscuir-se em políticas migratórias, porque elas são discutidas e decididas, além de no plano interno de cada Estado, no âmbito das instituições competentes da União Europeia”. E não se deve partir do princípio “de que as condições deficientes de acolhimento existentes num determinado país são necessariamente prova de que todos os refugiados são tratados de forma desumana e degradante nesse mesmo país”.
+
+No caso presente, como conclui o Ministério Público no seu parecer e secundando o discurso jurídico fundamentador que consta da sentença recorrida, verifica-se que a mesma colocou a questão jurídica nos seus devidos parâmetros, pois que nada alegando o requerente, de forma credível, que permita concluir pela existência de motivos válidos para afastar o regime legal da retoma da apreciação do pedido de proteção internacional por outro Estado-Membro, será de manter a decisão da entidade administrativa recorrida.
+
+Pelo que se impõe, em aplicação do princípio do non refoulement, que a apreciação do risco que comportará o regresso do recorrente ao seu país de origem terá de competir, em exclusivo, ao Estado-Membro Itália, por ser, à luz do Regulamento, o responsável pela apreciação do pedido de proteção internacional, sob pena de se afrontar o Sistema Europeu Comum de Asilo.
+
+Em face do exposto, verifica-se que bem andou a sentença recorrida ao julgar improcedente a presente ação.
+
+Como tal, será de negar provimento ao presente recurso.
+
+*
+
+III. DECISÃO
+
+Pelo exposto, acordam os juízes deste Tribunal Central Administrativo Sul em negar provimento ao recurso, confirmando a decisão recorrida.
+
+Sem custas, atento o disposto no artigo 84.º da Lei do Asilo.
+
+Lisboa, 23 de fevereiro de 2023
+
+(Pedro Nuno Figueiredo)
+
+(Ana Cristina Lameira)
+
+O relator consigna e atesta que o Juiz Desembargador Ricardo Ferreira Leite, devido a impossibilidade técnica, se encontra impossibilitado de assinar e tem voto de conformidade com o presente acórdão.
+
+(1)v.g., os acórdãos de 02/07/2020, proc. n.º 61/20.6BELSB, e de 10/09/2020, proc. n.º 115/20.9BELSB, disponíveis em www.dgsi.pt
