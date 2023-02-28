@@ -8,11 +8,13 @@
 
 1 - É constituída uma comissão que define e propõe fórmulas de financiamento das despesas cujas competências são transferidas para os municípios ao abrigo do presente decreto-lei.
 
-2 - Para efeitos do número anterior consideram-se as despesas com:
+2 - Para efeitos do número anterior, consideram-se despesas com:
 
-a) Equipamento, conservação e manutenção de edifícios e residências escolares:
+a) Equipamento, apetrechamento, conservação e manutenção de edifícios e residências escolares;
 
 b) Transporte escolar.
+
+c) O pessoal não docente tendo por referência a respetiva dotação máxima por agrupamento de escolas ou escola não agrupada.
 
 3 - A comissão é ainda encarregue de desenvolver trabalho técnico a fim de definir e propor novos critérios e a respetiva fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escolas não agrupadas.
 

@@ -24,4 +24,4 @@ c) Os diretores dos agrupamentos de escolas e de escolas não agrupadas da área
 
 6 - A comissão de acompanhamento e monitorização aprova o respetivo regulamento interno.
 
-7 - A comissão de acompanhamento e monitorização extingue-se após a publicação do relatório referido no n.º 5 referente ao ano de 2021.
+7 - A comissão de acompanhamento e monitorização mantém-se em funcionamento até 31 de dezembro de 2026.
