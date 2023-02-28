@@ -24,7 +24,7 @@ i) «Muro de pedra posta», a estrutura artificial de pedra posta ligando dois l
 
 j) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no iSIP, classificada em função da categoria de ocupação de solo;
 
-k) 'Período de retenção', o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril de cada ano para os bovinos, ovinos e caprinos.
+k) 'Período de retenção', o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril para bovinos, ovinos e caprinos, e compreendido entre 1 de janeiro e 31 de dezembro para suínos e equídeos, e compreendido entre 15 de novembro e 31 de dezembro para os porcos de montanheira;
 
 l) «Plano de gestão florestal (PGF)», o plano que, de acordo com as orientações definidas no plano regional de ordenamento florestal, determina, no espaço e no tempo, as intervenções de natureza cultural e de exploração dos recursos, visando a produção sustentada dos bens e serviços por eles proporcionados e tendo em conta as atividades e os usos dos espaços envolventes;
 
@@ -43,3 +43,5 @@ r) «Superfície agrícola», qualquer subparcela de terras aráveis, prados e p
 s) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;
 
 t) «Terras aráveis», as subparcelas cultivadas para produção vegetal ou disponíveis para produção vegetal, ainda que se encontrem em pousio.
+
+u) 'Área condicionada tipo 3', a área classificada ao abrigo das Diretivas Aves e Habitats no âmbito da Rede Natura 2000, sujeita a restrição de não florestação de superfícies agrícolas e a restrição de intensificação da atividade agrícola em zona crítica.

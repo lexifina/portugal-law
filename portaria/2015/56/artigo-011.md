@@ -6,7 +6,7 @@
 
 a) Manter os critérios de elegibilidade;
 
-b) Manter, durante o período de retenção para cada espécie, um efetivo pecuário de bovinos, ovinos e caprinos, em pastoreio, do próprio ou de outrem, expresso em CN por hectare (ha), com um encabeçamento igual ou inferior a:
+b) Manter, durante o período de retenção para cada espécie, um efetivo pecuário de bovinos, ovinos, caprinos, suínos e equídeos, em pastoreio, do próprio ou de terceiro expressos em CN por hectare (ha), com um encabeçamento igual ou inferior a:
 
 i) 3 CN/ha de superfície agrícola, no caso de explorações com dimensão igual ou inferior a 2 ha de superfície agrícola;
 
