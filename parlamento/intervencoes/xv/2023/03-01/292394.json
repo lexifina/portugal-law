@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "292394",
+  "tipo": "Intervenção",
+  "orador": "Maria Begonha (PS)",
+  "data_registo": "2023-03-01",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "127079",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "127079",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Destaca as medidas, recentemente apresentadas pelo Governo, que pretendem responder à crise da habitação em Portugal, tendo sublinhado que estas se encontram em consulta pública"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Em Declaração Política, destaca as medidas, recentemente apresentadas pelo Governo, que pretendem responder à crise da habitação em Portugal, tendo sublinhado que estas se encontram em consulta pública. ",
+        "duracao": "00:07:13:841",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_01_15_00_00_clean_14_plenario.xml&idsegmento=3"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Márcia Passos (PSD), Mariana Mortágua (BE) e Filipe Melo (CH) e Bruno Dias (PCP), no âmbito da Declaração Política em que destacou as medidas, recentemente apresentadas pelo Governo, que pretendem responder à crise da habitação em Portugal, tendo sublinhado que estas se encontram em consulta pública.",
+        "duracao": "00:03:55:028",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_01_15_00_00_clean_14_plenario.xml&idsegmento=8"
+      },
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Rui Tavares (L), Inês de Sousa Real (PAN) e João Cotrim Figueiredo (IL), no âmbito da Declaração Política em que destacou as medidas, recentemente apresentadas pelo Governo, que pretendem responder à crise da habitação em Portugal, tendo sublinhado que estas se encontram em consulta pública.",
+        "duracao": "00:04:19:644",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_01_15_00_00_clean_14_plenario.xml&idsegmento=12"
+      }
+    ],
+    "DataReuniaoPlenaria": "2023-03-01",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "6893",
+      "nome": "Maria Begonha"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "292394",
+    "IdDebate": "16360",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "292394",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "12-13",
+          "3-5",
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-02",
+        "pubLeg": "XV",
+        "pubNr": "95",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/095/2023-03-02/3?pgs=3-5,8-9,12-13&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Respondeu a pedidos de esclarecimento dos deputados Márcia Passos (PSD), Mariana Mortágua (BE) e Filipe Melo (CH), Bruno Dias (PCP),  Rui Tavares (L), Inês de Sousa Real (PAN) e João Cotrim Figueiredo (IL)",
+    "Sessao": "1",
+    "Sumario": "Destaca as medidas, recentemente apresentadas pelo Governo, que pretendem responder à crise da habitação em Portugal, tendo sublinhado que estas se encontram em consulta pública",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
