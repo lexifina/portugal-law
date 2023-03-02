@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "414",
+    "id": "152357",
+    "titulo": "Recomenda ao Governo que assegure as condições necessárias para a captação pelos Municípios de receitas no quadro da exploração económica dos aproveitamentos hidroelétricos neles situados"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2023-03-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4e4455334f444530595330774d7a686a4c54513159325174596a517a4d6930314e7a46684e54566b4f4752685a6a6b756347526d&fich=3457814a-038c-45cd-b432-571a55d8daf9.pdf&Inline=true",
+        "anexoNome": "Requerimento apresentado pelo PSD"
+      }
+    ],
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2023-03-02",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1324420",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "974582",
+        "obs": null,
+        "pag": [
+          "61-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-04",
+        "pubLeg": "XV",
+        "pubNr": "97",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/097/2023-03-04/61?pgs=61&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2023-03-03",
+        "descricao": "Requerimento, apresentado pelo PSD, de avocação pelo Plenário da votação na especialidade da sua proposta de alteração ao Projeto de Resolução n.º 414/XV/1.ª (PS)",
+        "detalhe": null,
+        "id": "104436",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "96",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
