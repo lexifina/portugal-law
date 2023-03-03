@@ -1,0 +1,9 @@
+Aviso n.º 4655/2023
+Sumário: Projeto do Regulamento do Parque de Merendas de Amor.
+Projeto de Regulamento do Parque de Merendas de Amor
+Adriano Barbeiro Neto, Presidente da Junta de Freguesia de Amor, em cumprimento do disposto nos n.os 1 e 2 do artigo 56.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, torna pública a deliberação tomada pela Junta de Freguesia, em sua reunião de 27 de outubro de 2022, relativa ao Projeto de Regulamento do Parque de Merendas de Amor que abaixo se transcreve:
+Deliberação: A Junta de Freguesia, depois de analisar o Projeto de Regulamento do Parque de Merendas de Amor no uso das competências fixadas pela alínea h) do n.º 1 do artigo 16.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, deliberou por unanimidade, submeter o mesmo à apreciação pública, nos termos do disposto no artigo 118.º do Código do Procedimento Administrativo, por um período de trinta dias seguidos contados da sua publicação no Diário da República, procedendo igualmente à sua publicitação por edital a afixar nos locais de estilo (em anexo), no sítio na Internet da Freguesia, em www.jf-amor.pt.
+Mais deliberou, por unanimidade, dar conhecimento de que, no âmbito da modernização administrativa e em cumprimento do disposto nos n.os 1 e 2 do artigo 26.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado, as sugestões apresentadas em sede de apreciação pública poderão ser remetidas à Freguesia, através de correio eletrónico para o endereço geral@jf-amor.pt.
+Mais torna público que, durante o período de discussão pública, o processo administrativo relativo ao Projeto de Regulamento do Parque de Merendas de Amor pode ser consultado no Edifício da Sede da Junta de Freguesia, nos dias úteis de segunda a sexta-feira, das 9 horas às 13 horas e das 14 horas às 17 horas.
+20 de fevereiro de 2023. - O Presidente da Junta de Freguesia, Adriano Barbeiro Neto.
+316196278
