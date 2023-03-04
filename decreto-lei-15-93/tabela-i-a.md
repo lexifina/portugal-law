@@ -50,6 +50,8 @@ Betaprodina (beta-1,3-dimetil-4-fenil-4-propionoxipiperidina).
 
 Bezitramida (1-(3-ciano-3,3-difenilpropil)-4-(2-oxo-3-propionil-1-benzimidazolinil)-piperidina).
 
+Brorfina (1-{1-[1-(4-bromofenil)etil]piperidina-4-il}-1,3-di-hidro-2H-benzimidazole-2-ona).
+
 Butirato de dioxafetilo (etil-4-morfolino-2,2-difenilbutirato).
 
 Butirfentanilo (N-fenil-N-[1-(2-feniletil)-4-iperidinil]butanamida).
@@ -165,6 +167,8 @@ Metildesorfina (6-metil-delta-6-desoximorfina ou 3-hidroxi-4,5-epoxi-6,17-dimeti
 Metildiidromorfina (6-metil-diidromorfina ou 3,6-diidroxi-4,5-epoxi-6,17-dimetilmorfinano).
 
 3-metilfentanil (N-(3-metil-1-fenetil-4-piperidil) propionanilida e os seus dois isómeros cis e trans).
+
+Metonitazeno (N,N-dietilo-2-[(4-metoxifenilo)metilo]-5-nitro-1H-benzimidazole-1-etanamina).
 
 Metoxiacetilfentanilo (2-metoxi-N-fenil-N- [1-(2-feniletil)piperidin-4-il]acetamida).
 

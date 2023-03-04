@@ -28,6 +28,8 @@ Clobenzorex ((+)-N-(o-clorobenzil)-(alfa)-metilfenetilamina).
 
 Clonazepam (7-nitro-5-(2-clorofenil)-3H-1,4-benzodiazepina-2(1H)-ona).
 
+Clonazolam (6-(2-Clorofenil)-1-metil-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina).
+
 Clorazepato (ácido 7-cloro-2,3-dihidro-2,2-dihidroxi-5-fenil-1H-1,4-benzodiazepina-3-carboxílico).
 
 Clordiazepóxido (7-cloro-2-metilamino-5-fenil-3H-1,4-benzodiazepina-4-óxido).
@@ -36,11 +38,13 @@ Clordesmetildiazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina
 
 Clotiazepam (5-(2-clorofenil)-7-etil-1,3-dihidro-1-metil-2H-tieno[2,3-e]-1,4-diazepina-2-ona.
 
-Cloxazolam (10-cloro-11b-(2-clorofenil)-2,3,7,11b-tetra-hidrooxa-zolo[3,2-d][1,4]benzodiaze-pina-6(5H)-ona.
+Cloxazolam (10-cloro-11b-(2-clorofenil)-2,3,7,11b-tetra-hidrooxa-zolo[3,2-d][1,4]benzodia-zepina-6(5H)-ona.
 
 Delorazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
 
 Diazepam (7-cloro-1,3-dihidro-1-1-metil-5-fenil-2H-1,4-benzodiazepina-2-ona).
+
+Diclazepam (7-Cloro-5-(2-clorofenil)-1-metil-1,3-dihidro-2H-1,4-benzodiazepin-2-ona).
 
 Estazolam (8-cloro-6-fenil-4H-s-triazolo[4,3-(alfa)][1,4]benzodiazepina).
 
@@ -64,6 +68,8 @@ Fenproporex ((mais ou menos)-3-[(alfa)-metilfenitilamina]propionitrilo).
 
 Flualprazolam (8-cloro-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina).
 
+Flubromazolam (8-bromo-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a] [1,4]benzodiazepina).
+
 Fludiazepam (7-cloro-5-(2-fluorofenil)-1,3-dihidro-1-metil-2H-1,4-benzodiazepina-2-ona).
 
 Flurazepam (7-cloro-1-[2-(dietilamino)etil]-5-(2-fluorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
@@ -76,7 +82,7 @@ Loprazolam (6-2(clorofenil)-2,4-dihidro-2-[(4-metil-1-piperazinil)metileno]-8-ni
 
 Lorazepam (7-cloro-5(2-clorofenil)-1,3-dihidro-3-hidroxi-2H-1,4-benzodiazepina-2-ona).
 
-Lormetazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-3-hidroxi-1-metil-2H-1,4-benzodiazepina-2-ona).
+Lormetazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-3-hidroxi-1-metil-2H-1,4-benzodiazepina-2-o-na).
 
 Mazindol (5-(p-clorofenil)-2,5-dihidro-3N-imidazol(2,1-a)-isoindol-5-ol).
 
@@ -116,7 +122,7 @@ Prazepam (7-cloro-1-(ciclopropilmetil)-1,3-dihidro-5-fenil-2H-1,4-benzodiazepina
 
 Propilhexedrina ((mais ou menos)-1-ciclo-hexil-2-metilaminopropano).
 
-Quazepan (7-cloro-5-(2-fluorofenil)-1,3-dihidro-1-(2,2,2-trifluoroetil)-2H-1,4-benzodiaze-pina -2-tiona).
+Quazepan (7-cloro-5-(2-fluorofenil)-1,3-dihidro-1-(2,2,2-trifluoroetil)-2H-1,4-benzodiaze-pina-2-tiona).
 
 Secbutabarbital (ácido secbutil-5-etilbarbitúrico).
 

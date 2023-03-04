@@ -24,7 +24,11 @@ Isosafrole.
 
 N-ácido-acetilantranílico.
 
+N-Fenil-4-piperidinamina (4-AP).
+
 Norefedrina.
+
+Norfentanilo.
 
 Piperonal.
 
@@ -33,5 +37,7 @@ PMK-glicidato (3,4-MDP-2-P-metilglicidato).
 Pseudo-efedrina.
 
 Safrole.
+
+tert-Butil 4-(fenilamino)piperidina-1-carboxilato (1-boc-4-AP).
 
 Os sais, os esterioisómeros e os isómeros óticos das substâncias inscritas na presente tabela em todos os casos em que a existência desses sais seja possível.
