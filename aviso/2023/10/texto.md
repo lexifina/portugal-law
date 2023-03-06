@@ -1,0 +1,13 @@
+Aviso n.º 10/2023
+Sumário: O Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Nicarágua formulado uma reserva relativamente à Convenção Relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e de Medidas de Proteção das Crianças, adotada na Haia, em 19 de outubro de 1996.
+Por ordem superior se torna público que, por notificação de 23 de novembro de 2021, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Nicarágua formulado uma reserva em conformidade com o artigo 63.º, relativamente à Convenção Relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e de Medidas de Proteção das Crianças, adotada na Haia, em 19 de outubro de 1996.
+(tradução)
+Aceitação de reservas tardias
+Com referência à notificação depositária Proteção das Crianças n.º 01/2020, de 13 de maio de 2020, relativamente às reservas tardias feitas pela Nicarágua à notificação depositária Proteção das Crianças n.º 04/2020 CORR, de 19 de novembro de 2020, relativa à alteração de uma das reservas tardias da Nicarágua, e à notificação depositária Proteção das Crianças n.º 05/2021, de 17 de maio de 2021, relativa à aceitação de duas das reservas tardias feitas pela Nicarágua, a 17 de maio de 2021, o depositário comunica o seguinte:
+Até 19 de novembro de 2021, ou seja, o termo do prazo de um ano a contar da data da referida notificação depositária Proteção das Crianças n.º 04/2020 CORR, não foi recebida qualquer objeção por parte dos Estados Contratantes à Convenção.
+Consequentemente, a reserva tardia alterada relativamente à alínea b) do n.º 1 do artigo 55.º, foi aceite para depósito mediante o termo do período de um ano estipulado, ou seja, em 19 de novembro de 2021.
+A República Portuguesa é Parte na Convenção, a qual foi aprovada pelo Decreto n.º 52/2008, publicado no Diário da República, 1.ª série, n.º 221, de 13 de novembro de 2008.
+Nos termos da alínea a) do n.º 2 do artigo 61.º da Convenção, esta encontra-se em vigor para a República Portuguesa desde 1 de agosto de 2011.
+A Autoridade Central é a Direção-Geral de Reinserção e Serviços Prisionais do Ministério da Justiça que, nos termos do artigo 34.º do Decreto-Lei n.º 215/2012, publicado no Diário da República, 1.ª série, n.º 189, de 28 de setembro de 2012, sucedeu nas competências à Direção-Geral de Reinserção Social do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 28 de fevereiro de 2023. - A Diretora, Patrícia Galvão Teles.
+116218941
