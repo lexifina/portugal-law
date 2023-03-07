@@ -1,0 +1,134 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Resolução",
+  "numero": "529",
+  "id": "152612",
+  "fases": 12,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-03-07",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "6899",
+        "nome": "Marta Freitas"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6886",
+        "nome": "Cristina Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7341",
+        "nome": "Francisco César"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2445",
+        "nome": "Tiago Barbosa Ribeiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7018",
+        "nome": "Mara Lagriminha Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7297",
+        "nome": "Sérgio Monte"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7212",
+        "nome": "Fernando José"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7913",
+        "nome": "Ana Bernardo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2753",
+        "nome": "Jorge Gabriel Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6057",
+        "nome": "Ana Isabel Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2273",
+        "nome": "Rita Borges Madeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7483",
+        "nome": "Gilberto Anjos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7239",
+        "nome": "Maria de Fátima Fonseca"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7866",
+        "nome": "Paula Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7015",
+        "nome": "Cristina Mendes da Silva"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "152612",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4d7a67344e324930596930775a6d45784c54526c4e54677459546378597930354d446c6a4f5455335a54466c4d7a63755a47396a65413d3d&fich=f3887b4b-0fa1-4e58-a71c-909c957e1e37.docx&Inline=true",
+    "IniNr": "529",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título da iniciativa a pedido do autor em 2023-05-03.",
+    "IniTipo": "R",
+    "IniTitulo": "Consagra o dia 10 de maio como Dia Nacional da Pessoa com Deficiência Intelectual",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Criação do Dia Nacional da Pessoa com Deficiência Intelectual",
+        "dcl": null,
+        "descTipo": null,
+        "id": "13789",
+        "legislatura": "XV",
+        "numero": "56",
+        "sessao": "1",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
