@@ -1,0 +1,9 @@
+Aviso n.º 4843/2023
+Sumário: Alteração do Plano Diretor Municipal de Loures para adequação ao regime jurídico dos instrumentos de gestão territorial - período de discussão pública.
+Alteração do Plano Diretor Municipal de Loures para adequação ao regime jurídico dos instrumentos de gestão territorial - Período de discussão pública
+Nuno Ricardo Conceição Dias, Vereador da Câmara Municipal de Loures, torna público, nos termos e para os efeitos do disposto no artigo 89.º e na alínea a) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Loures, na sua 35.ª reunião ordinária, realizada em 15 de fevereiro de 2023, de acordo com a proposta n.º 99/2023, deliberou por maioria de votos submeter a discussão pública a proposta de alteração do Plano Diretor Municipal de Loures para adequação ao regime jurídico dos instrumentos de gestão territorial.
+O período de discussão pública, de 30 dias, terá início no 5.º dia útil após a publicação do presente Aviso no Diário da República, e no seu decurso serão realizadas 3 sessões públicas de apresentação da proposta, a divulgar oportunamente.
+Esta proposta encontra-se disponível para consulta na página da Internet da Câmara Municipal (www.cm-loures.pt) e na Divisão do Plano Diretor Municipal, sita na Rua Ilha da Madeira, n.º 4, em Loures, todos os dias úteis das 09:00 às 16:00 horas.
+A apresentação de reclamações, observações ou sugestões deve ser submetida através do Balcão Único/Exposições (https://balcaounico.cm-loures.pt), do endereço de correio eletrónico da Divisão do Plano Diretor Municipal, discussaopublica_dpdm@cm-loures.pt, por correio ou entregues pessoalmente no Departamento de Planeamento Urbano, na Rua Ilha da Madeira, n.º 4, 2674-501 Loures.
+16 de fevereiro de 2023. - O Vereador, Nuno Ricardo Conceição Dias.
+616188712
