@@ -1,0 +1,1 @@
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Junho de 2009. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 9 de Julho de 2009. - Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto e da Saúde, em 11 de Junho de 2009.
