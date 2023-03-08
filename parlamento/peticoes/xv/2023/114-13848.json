@@ -1,0 +1,855 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13848",
+  "numero": "114",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-03-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-06-16",
+            "entidades": null,
+            "id": "128378",
+            "tipo": null,
+            "titulo": "Audição em 2023-06-16 com Peticionários da Petição n.º 114/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915164",
+                "obs": null,
+                "pag": [
+                  "6-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-07-15",
+                "pubLeg": "XV",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/094/2023-07-15/6?pgs=6-16&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-04-12",
+        "DataArquivo": "2023-07-12",
+        "DataBaixaComissao": "2023-03-08",
+        "DataEnvioPAR": "2023-07-13",
+        "DataReaberta": "2023-04-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-04-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e515a585270593246764c3251315a5755774e324a6a4c5459335a4467744e4464684e4331685a474a694c5463784f444a6a5a4749334d5441345a6935775a47593d&fich=d5ee07bc-67d8-47a4-adbb-7182cdb7108f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-07-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e515a585270593246764c3249344f44557a596a52684c5455794d6a51744e4452685a6930354e446c6d4c545a6d5a575a6b4f4745324d54526b4e7935775a47593d&fich=b8853b4a-5224-44af-949f-6fefd8a614d7.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8333",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-07-12",
+            "dataNomeacao": "2023-04-12",
+            "gp": "PS",
+            "id": "426",
+            "motivoCessacao": null,
+            "nome": "Berta Nunes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-06-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-03-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f44466a4f446c6c4e4467744e324e694e4330304e5745314c546b304d6d55744e446c6d4e7a677a5a6d59314f54517a4c6e426b5a673d3d&fich=81c89e48-7cb4-45a5-942e-49f783ff5943.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "263776",
+      "263777",
+      "263791",
+      "263797",
+      "263776",
+      "263777",
+      "263791",
+      "263797"
+    ],
+    "Iniciativasoriginadas": [
+      "263776",
+      "263777",
+      "263791",
+      "263797"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 124/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 133/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/60?pgs=60&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 125/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 139/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/61?pgs=61-63&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": "À Deputada Sofia Andrade (PS)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/64?pgs=64&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": "Responde ao pedido de esclarecimento do Deputado Mário Amorim Lopes (IL)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/66"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/67"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": "À Deputada Isabel Fernandes (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": "Responde ao pedido de esclarecimento da Deputada Marta Martins da Silva (CH)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379786",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-06-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/28/71"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "379788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-22",
+                "pubLeg": "XVI",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/69?pgs=69&org=PLC"
+              }
+            ],
+            "Sumario": "Petição para revisão de decisão – Programa de acesso precoce ao Pembrolizumab (Vera Lúcia Domingos de Almeida e outros), Recomenda a imediata adoção de medidas com vista à redução do tempo médio de disponibilização e autorização de introdução do mercado de medicamentos inovadores no tratamento do cancro da mama, Recomenda ao Governo que adote medidas de alargamento do rastreio do cancro da mama e de acesso a medicamentos e terapêuticas inovadoras no tratamento da doença, Celeridade e transparência na disponibilização e acesso a terapêuticas inovadoras, Recomenda a adoção de medidas que visem melhorar as condições de acesso a medicamentos inovadores.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13848",
+    "PetAssunto": "Petição para revisão de decisão - Programa de acesso precoce ao Pembrolizumab",
+    "PetDataEntrada": "2023-03-08",
+    "PeticoesAssociadas": null,
+    "PetId": "13848",
+    "PetLeg": "XV",
+    "PetNr": "114",
+    "PetNrAssinaturas": "29509",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36549",
+        "obs": null,
+        "pag": [
+          "58-69"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-06-22",
+        "pubLeg": "XVI",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/028/2024-06-22/58?pgs=58-69&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915213",
+        "obs": null,
+        "pag": [
+          "8-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-15",
+        "pubLeg": "XV",
+        "pubNr": "76",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/076/2023-04-15/8?pgs=8-10&org=PLC"
+      }
+    ]
+  }
+}
