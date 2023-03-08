@@ -1,0 +1,25 @@
+Aviso n.º 4965/2023
+Sumário: 2.ª alteração do Plano de Pormenor do Novo Polo Industrial da Guarda.
+Torna-se público, nos termos do artigo 170.º do Código do Procedimento Administrativo (CPA), que a Câmara Municipal deliberou, por unanimidade, em reunião ordinária datada de 9 de janeiro de 2023, declarar nula a deliberação datada de 11 de abril de 2022, através do Aviso n.º 15363/2022, de 4 de agosto, por não ter sido estabelecido o prazo de elaboração da 2.ª Alteração do Plano de Pormenor do Novo Polo Industrial da Guarda, conforme definido nos termos do n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT).
+Assim, em cumprimento do disposto do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, torna-se publico que a Câmara Municipal deliberou por unanimidade, em reunião ordinária datada de 9 de janeiro de 2023, determinar o início do procedimento relativo à elaboração da 2.ª Alteração do Plano de Pormenor do Novo Polo Industrial da Guarda, que deverá estar concluído no prazo de 15 meses.
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do mesmo diploma, é estabelecido o período de 15 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página oficial da Câmara Municipal da Guarda em www.mun-guarda.pt e na Divisão de Planeamento e Gestão Urbanística desta Câmara Municipal.
+Os interessados podem apresentar eventuais sugestões e ou pedidos de esclarecimento sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Exmo. Sr. Presidente da Câmara Municipal da Guarda e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações desta Câmara Municipal, enviadas por via postal para a morada Praça do Município, 6301-854 Guarda ou por via eletrónica para planeamento@mun-guarda.pt.
+Para conhecimento geral, foi ainda deliberado, proceder à publicação da referida deliberação no Diário da República, bem como à sua divulgação na comunicação social, na Plataforma Colaborativa de Gestão Territorial e no sítio da Internet da Câmara Municipal, em www.mun-guarda.pt.
+8 de fevereiro de 2023. - O Presidente da Câmara Municipal, Sérgio Fernando da Silva Costa.
+Deliberação
+Em reunião ordinária, realizada em 9 de janeiro de 2023, a Câmara Municipal deliberou por unanimidade:
+a) Declarar a anulação da deliberação datada de 11 de abril de 2022, publicada no Diário da República, 2.ª série, através do Aviso n.º 15363/2022, de 4 de agosto;
+b) Dar início ao procedimento de alteração do PPNPIG, aprovando os respetivos Termos de Referência:
+Rever vários aspetos do "Plano de Pormenor do Novo Polo Industrial da Guarda" no sentido de encontrar soluções que permitam otimizar a solução urbanística do em vigor, de forma a possibilitar a criação de novas parcelas/lotes adequados à atual procura;
+Diversificar o tipo de oferta de lotes/parcelas e criação de condições adequadas à fixação de novas empresas no concelho (ou eventual relocalização de algumas das existentes);
+Eliminar situações em que as normas e disposições do plano em vigor possam ser revistas no sentido de melhor poderem vir a acolher as respetivas pretensões;
+Eliminar desnecessários constrangimentos à sua instalação e funcionamento das empresas, designadamente quando estão em causa situações de criação dos necessários acessos, a partir da via pública, ao interior dos lotes ou parcelas;
+Otimizar a oferta de estacionamento público para viaturas ligeiras e pesadas, incluindo no Parque TIR já existente;
+Reconfiguração das áreas do domínio público.
+c) Estabelecer o prazo de 15 meses, a contar da data da publicação da deliberação no Diário da República, para a conclusão do procedimento de alteração do PPNPIG;
+d) Estabelecer o prazo de 15 dias úteis, a contar da data da publicação da deliberação no Diário da República, para que todos os interessados possam proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração;
+e) Promover, para efeitos do n.º 3 do artigo 3.º do Decreto-Lei n.º 232/2007, de 15 de junho, a consulta às entidades com responsabilidades ambientais especificas (ERAE) quanto à sujeição da alteração ao PPNPIG a avaliação ambiental estratégica;
+f) Promover os procedimentos necessários à aquisição de cartografia vetorial homologada, nos termos do disposto no artigo 15.º-A do Decreto-Lei n.º 193/95, de 28 de julho, na redação do Decreto-Lei n.º 130/2019, de 30 de agosto;
+g) Proceder à respetiva publicitação da deliberação nos termos e formas legalmente previstos, designadamente através de aviso a publicar no Diário da República, na plataforma colaborativa de gestão territorial, página da internet da Câmara Municipal e comunicação social.
+8 de fevereiro de 2023. - O Presidente da Câmara Municipal, Sérgio Fernando da Silva Costa.
+616175817
