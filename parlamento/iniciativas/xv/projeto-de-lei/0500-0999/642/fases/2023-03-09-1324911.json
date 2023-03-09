@@ -1,0 +1,204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "642",
+    "id": "152625",
+    "titulo": "Retira ao Instituto de Gestão Financeira da Segurança Social, I. P. a competência para a instauração e instrução de processos de execução por dívidas à Caixa de Previdência dos Advogados e Solicitadores"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-03-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "63884",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-03-09",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-04-19",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245344e44466c4d6a55784c54466c4e3251744e446c694f5330345a6a4a6d4c544d77595459794e6a51324d444a6c5a5335775a47593d&fich=a841e251-1e7d-49b9-8f2f-30a6264602ee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6b4d474a6a4f4451774c54426d4f5749744e445a6b4d5331694d4446694c54426a4d446332595441784d6a45325a5335775a47593d&fich=bd0bc840-0f9b-46d1-b01b-0c076a01216e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-24",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Solicitadores e dos Agentes de Execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41354e6a55774e4751344c5441784e5467744e444d784e6930354d4441344c5449354f444e684e4441355a574d77596935775a47593d&fich=096504d8-0158-4316-9008-2983a409ec0b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-27",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - \tConselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6c5a544669597a51324c5749354d7a59744e4749784e4331685a6a51774c5751344d474e6c4f4463344d3259335a4335775a47593d&fich=2ee1bc46-b936-4b14-af40-d80ce8783f7d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - \tCaixa de Previdência dos Advogados e Solicitadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a684e44517a4d7a55324c5445305a6a45744e444d7a596931685a546b324c57497a596a466c4f54566b4d544e685a4335775a47593d&fich=2a443356-14f1-433b-ae96-b3b1e95d13ad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466a4d6a4a694e57466d4c546b354f4449744e4449305a6930354d4756684c5449775932526c4f546b794d6d5130595335775a47593d&fich=ac22b5af-9982-424f-90ea-20cde9922d4a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-04-18"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-03-27"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Solicitadores e dos Agentes de Execução em 2023-03-24"
+          },
+          {
+            "link": "",
+            "nome": "Caixa de Previdência dos Advogados e Solicitadores em 2023-04-11"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-03-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-03-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-03-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Solicitadores e dos Agentes de Execução em 2023-03-15"
+          },
+          {
+            "link": "",
+            "nome": "Caixa de Previdência dos Advogados e Solicitadores em 2023-03-30"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "6531",
+            "motivoCessacao": null,
+            "nome": "Mónica Quintela"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-04-19",
+            "dataRemessa": "2023-04-19",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2023-04-19",
+            "descricao": null,
+            "detalhe": null,
+            "id": "114747",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "72",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2023-03-09",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1324911",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "975208",
+        "obs": null,
+        "pag": [
+          "3-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-19",
+        "pubLeg": "XV",
+        "pubNr": "208",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/208/2023-04-19/3?pgs=3-5&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
