@@ -1,0 +1,13 @@
+Aviso n.º 5157/2023
+Sumário: Abertura do período de discussão pública da alteração do Plano Diretor Municipal de Beja.
+Abertura do período de discussão pública da alteração do Plano Diretor Municipal de Beja
+Rui Marreiros, Vereador do Pelouro do Urbanismo da Câmara Municipal de Beja, no uso de competência delegada por despacho do Presidente da Câmara Municipal de 25.10.2021, publicado através do Edital de 26.10.2021 no Boletim Municipal Eletrónico, torna público que, nos termos e para os efeitos do disposto no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, em reunião ordinária realizada no dia 22 de fevereiro de 2023, a Câmara Municipal deliberou proceder à abertura do período de discussão pública do projeto de alteração do Plano Diretor Municipal de Beja (PDMB), período esse que se fixa em 30 (trinta) dias úteis contados do quinto (5.º) dia após a publicação do respetivo Aviso no Diário da República.
+Em cumprimento do disposto no artigo 89.º, n.º 1 e no artigo 191.º, n.º 4 do Decreto-Lei n.º 80/2015, de 14 de maio, procede-se à publicação do presente Aviso na 2.ª série do Diário da República e divulgação na comunicação social, na plataforma colaborativa de gestão territorial e no sítio eletrónico do Município de Beja.
+A proposta de alteração do Plano está disponível para consulta todos os dias na página eletrónica do Município de Beja, em www.cm-beja.pt encontrando-se ainda disponível para consulta dos interessados na Divisão de Administração Urbanística (DAU), mediante marcação prévia através do n.º 284311874 entre as 10h e as 12h, todos os dias úteis.
+Os interessados, no decorrer do período de discussão pública, deverão apresentar os seus comentários, observações e sugestões, através de requerimento disponibilizado na página eletrónica do Município de Beja e no Balcão de Atendimento situado na Rua de Angola n.º 5 em Beja, por correio para morada Câmara Municipal de Beja, Praça da República, 7800-427 Beja, sob a referência "alteração do PDM de Beja - discussão Pública", através de correio eletrónico para o endereço alteracaopdm@cm-beja.pt, ou presencialmente no Balcão Único de Atendimento.
+23 de fevereiro de 2023. - O Vereador do Pelouro do Urbanismo, Rui Marreiros.
+Deliberação
+João Daniel Frazão Felicio, Assistente Técnico, certifica que da ata da reunião ordinária desta Câmara Municipal, realizada em 22 de fevereiro de 2023, com aprovação em minuta, consta entre outras uma deliberação com o seguinte teor: A Câmara Municipal deliberou, por unanimidade, aprovar a abertura do período de discussão pública do Plano Diretor Municipal de Beja.
+Por ser verdade e me ter sido pedido, passei a presente Certidão.
+23 de fevereiro de 2023. - O Assistente Técnico, João Daniel Frazão Felício.
+616212639
