@@ -1,0 +1,259 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13851",
+  "numero": "117",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-03-10",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-04-11",
+            "entidades": null,
+            "id": "128173",
+            "tipo": null,
+            "titulo": "Audição em 2023-04-11 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-03-21",
+        "DataArquivo": "2023-05-03",
+        "DataBaixaComissao": "2023-03-14",
+        "DataEnvioPAR": "2023-05-03",
+        "DataReaberta": "2023-03-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-03-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939694e5749345a54646c4f53316c597a4a6b4c54526b5a6a5974595445344f43316b4d5451355a4445774f445a6a4d7a41756347526d&fich=b5b8e7e9-ec2d-4df6-a188-d149d1086c30.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938355a474d334e6a5a6d4f5330354d444e6b4c5451785a6a55744f4751334e6930774d474d304d324a6a4e54566c5a4445756347526d&fich=9dc766f9-903d-41f5-8d76-00c43bc55ed1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4d6a517a4d6a466a596931684e7a49324c54526c595745744f44526b4d4330314e6a67784e4756694e6a4e6a4e4459756347526d&fich=e24321cb-a726-4eaa-84d0-56814eb63c46.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4d5445794d6d4d344d53316a4e7a426a4c54526c4d7a51744f474a684e5330304e32597a4e5445785a6a417a5a6a4d756347526d&fich=f1122c81-c70c-4e34-8ba5-47f3511f03f3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774e57557a5a5751344e7930774e446b344c5451354e474d744f47566b4d4330785a6d46684d6a56695a4445784d5451756347526d&fich=05e3ed87-0498-494c-8ed0-1faa25bd1114.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939685a474a6d5a6d526b4e5330304e7a64694c545131593249744f4459335a4331694d4451794d7a41774d574d35597a6b756347526d&fich=adbffdd5-477b-45cb-867d-b0423001c9c9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4d475a6c4e6a63794e7931695a4451314c5452685a6a4d744f47526b4f4330334d6a4d345a4449775a446b34593245756347526d&fich=f0fe6727-bd45-4af3-8dd8-7238d20d98ca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4f44417a4d7a55304d43303259545a6c4c54526b4f4451744f574530595330324e3259345a6d4935596d4e694d7a55756347526d&fich=f8033540-6a6e-4d84-9a4a-67f8fb9bcb35.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793969596a49794d5759344f5330304d7a67344c54517a4f444d74596a49335a53316d4e6a49304d324d77593259795a5455756347526d&fich=bb221f89-4388-4383-b27e-f6243c0cf2e5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793878597a4133596a4d304e793032596d45334c54526d5a6d51744f5463344e43316d5957526a4e6a4d775a6a4d304d446b756347526d&fich=1c07b347-6ba7-4ffd-9784-fadc630f3409.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4e7a6b335a4455315969316c5a544d334c5451304d6d45744f4451314d6930784f5751334f5751784f47513559546b756347526d&fich=d797d55b-ee37-442a-8452-19d79d18d9a9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a4e7a4a6d59574d794e433169593259344c54526b4e3259744f5445305953316c4f54686c59544a694e6a6b775a444d756347526d&fich=372fac24-bcf8-4d7f-914a-e98ea2b690d3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d59544a6a4d44526b4d53316b4e6a41334c54526b4e6d49744f5751315a53307a4e47593059546c6b4e3249355a6a59756347526d&fich=fa2c04d1-d607-4d6b-9d5e-34f4a9d7b9f6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-04-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684f57593259574d334d5331684e32457a4c5451774e544d74595455335a43316b4e7a67784d475133596a646b4d4749756347526d&fich=a9f6ac71-a7a3-4053-a57d-d7810d7b7d0b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-05-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793835593251794e6a4d324d69316d5a5451344c5451314d324d744f5755304d5331694e575933596a67774f5749774d5759756347526d&fich=9cd26362-fe48-453c-9e41-b5f7b809b01f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-04-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793835596d4e69596a59344d5330344d5441314c5451795a544574595751324e53316c4d6a63324d44457a4e6a51784e6a55756347526d&fich=9bcbb681-8105-42e1-ad65-e27601364165.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-04-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354e7a646c4f4749784e5331684e7a4d784c54526b4e32497459574d794f533078596d45315954646d4f5451324e5755756347526d&fich=977e8b15-a731-4d7b-ac29-1ba5a7f9465e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-04-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938354f444177596a49304d43316a5957526d4c5452694e7a4974596a42694d6930324d6a49345a54646a593255784d7a67756347526d&fich=9800b240-cadf-4b72-b0b2-6228e7cce138.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-03-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793831596a4d774e7a466c5969316859544e6b4c5451304e574974596d497a595330304f4467315a5756694f44426b4d3259756347526d&fich=5b3071eb-aa3d-445b-bb3a-4885eeb80d3f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-04-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793832596d466a5a6d4d354d7930784e6d59354c5451314e4751745957497a5a43316c4d3249324d5441354e5459324e7a41756347526d&fich=6bacfc93-16f9-454d-ab3d-e3b610956670.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-04-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684f54497a4e6d466c5a53316b5a6d59304c5451324d7a5174596d59314e5330334d4463785a54497a4e446b354d7a49756347526d&fich=a9236aee-dff4-4634-bf55-7071e2349932.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-04-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314d6d4a6b4f4449774d53307a4e44686a4c545135595463744f5464684d43316d5a44637a4e544979593246695a546b756347526d&fich=52bd8201-348c-49a7-97a0-fd73522cabe9.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8332",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-05-02",
+            "dataNomeacao": "2023-04-06",
+            "gp": "PS",
+            "id": "7194",
+            "motivoCessacao": "Entrega do relatório",
+            "nome": "Rosa Venâncio"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2023-03-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d324a6d4e6d59334e6d51744d57466d4d7930304e4756694c574a694e6a41744d4751344f444d7a5a4759304e6a6b794c6e426b5a673d3d&fich=3bf6f76d-1af3-44eb-bb60-0d8833df4692.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2023-03-15",
+        "TipoDocumento": "Link",
+        "URL": "https://tvi.iol.pt/doisas10/dois-as-10/ricardo-oliveira/professor-com-filha-austista-revoltado-por-nao-ter-colocacao-o-ministerio-esta-a-passar-uma-mensagem-terrivel"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13851",
+    "PetAssunto": "Pelo direito a um regime de mobilidade de docentes por motivo de doença para todos os professores",
+    "PetDataEntrada": "2023-03-10",
+    "PeticoesAssociadas": null,
+    "PetId": "13851",
+    "PetLeg": "XV",
+    "PetNr": "117",
+    "PetNrAssinaturas": "1191",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915172",
+        "obs": null,
+        "pag": [
+          "9-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-25",
+        "pubLeg": "XV",
+        "pubNr": "72",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/072/2023-03-25/9?pgs=9-12&org=PLC"
+      }
+    ]
+  }
+}
