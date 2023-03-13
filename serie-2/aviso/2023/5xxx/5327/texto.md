@@ -1,0 +1,14 @@
+Aviso n.º 5327/2023
+Sumário: Aprovação da alteração do prazo para a conclusão do procedimento de revisão do Plano Diretor Municipal de Vila do Bispo.
+A Presidente da Câmara Municipal de Vila do Bispo, Rute Maria Dias Maia Nunes da Silva, torna público que:
+Nos termos e para os efeitos previstos no n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, a câmara municipal de Vila do Bispo, na sua reunião de 27 de dezembro de 2022, deliberou aprovar a alteração do prazo para a conclusão do procedimento de revisão do Plano Diretor Municipal de Vila do Bispo, fixando o seguinte:
+a) Prazo limite para a conclusão do procedimento de revisão do PDM: 18 (dezoito) meses, no sentido de adequar o mesmo às alterações legislativas que, entretanto, ocorreram, considerando o conjunto de conteúdos documentais e materiais já produzidos;
+b) Período de participação pública: 15 (quinze) dias úteis, contados a partir da publicação do Aviso no Diário da República, nos termos do previsto no n.º 3 do artigo 119.º, conjugado com o n.º 1 do artigo 76.º e com o n.º 2 do artigo 88.º, todos do RJIGT.
+Durante esse período, qualquer interessado poderá apresentar, por escrito, as suas sugestões ou informações, dirigidas à Presidente da Câmara Municipal de Vila do Bispo, Paços do Concelho, 8650-432 Vila do Bispo, ou por correio eletrónico (geral@cm-viladobispo.pt). Para o efeito, os documentos relativos a este procedimento estarão disponíveis para consulta na divisão de urbanismo municipal, durante as horas de expediente, bem como na página da internet do município, em www.cm-viladobispo.pt.
+12 de janeiro de 2023. - A Presidente da Câmara Municipal, Rute Maria Dias Maia Nunes da Silva.
+Câmara Municipal de Vila do Bispo
+Ata
+Revisão do Plano Diretor Municipal de Vila do Bispo - Reabertura do procedimento
+Nos termos da informação com o MGD n.º 77756/2022, prestada pela Chefe da Divisão de Urbanismo Municipal, a Câmara deliberou por unanimidade aprovar a alteração do prazo para a conclusão do procedimento de revisão do Plano Diretor Municipal de Vila do Bispo, no sentido de adequar o mesmo às alterações legislativas que, entretanto, ocorreram, considerando o conjunto de conteúdos documentais e materiais já produzidos, fixando assim um prazo limite de 18 meses para a conclusão do procedimento de revisão do PDM, bem como, estabelecer o prazo para a abertura de um período de participação pública de 15 (quinze) dias úteis, contados a partir da publicação do Aviso no Diário da República, nos termos previstos no n.º 3 do artigo 119.º, conjugado com o n.º 1 do artigo 76.º e com o n.º 2 do artigo 88.º, todos do RJIGT.
+27 de dezembro de 2022. - A Presidente da Câmara Municipal, Rute Maria Dias Maia Nunes da Silva.
+616112003
