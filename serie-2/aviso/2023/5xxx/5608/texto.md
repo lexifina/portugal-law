@@ -1,0 +1,8 @@
+Aviso n.º 5608/2023
+Sumário: Alteração ao Plano Diretor Municipal de Alter do Chão.
+Alteração do Plano Diretor Municipal de Alter do Chão
+Francisco José Cordeiro Miranda, Presidente da Câmara Municipal de Alter do Chão, torna público, para efeitos do disposto no nos termos do n.º 1 do artigo 89.º do decreto-lei. n.º 80/2015, de 14 de maio, na sua atual redação, que esta Câmara Municipal deliberou, na reunião de 11 de agosto de 2017, dar inicio à abertura do período de discussão pública da alteração ao Plano Diretor Municipal de Alter do Chão, pelo período de 30 dias úteis, contados a partir do 5.º dia útil após a data de publicação deste aviso no Diário da República, no qual os interessados se poderão pronunciar sobre a proposta de alteração do plano, encontrando-se o processo disponível para consulta todos os dias úteis, durante o horário de expediente, na Unidade Orgânica Flexível de Obras, Urbanismo e Serviços Urbanos, sita na Rua Almirante Azevedo Coutinho, assim como os elementos fundamentais do plano estão disponíveis para consulta na página da Internet da Câmara Municipal de Alter do Chão (www.cm-alter-chao.pt).
+As sugestões e outras informações atrás referidas deverão ser apresentadas por escrito, endereçadas à Unidade Orgânica Flexível de Obras, Urbanismo e Serviços Urbanos, da Câmara Municipal de Alter do Chão, sita no Largo do Município, n.º 2, 7440-026 Alter do Chão, ou para o seguinte e-mail: geral@cm-alter-chao.pt.
+Para os devidos efeitos se publica o presente aviso no Diário da República, sendo também publicado na comunicação social e na página da Internet da Câmara Municipal de Alter do Chão.
+2 de março de 2023. - O Presidente da Câmara, Francisco José Cordeiro Miranda.
+616226214
