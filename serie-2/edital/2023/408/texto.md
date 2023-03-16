@@ -1,0 +1,9 @@
+Edital n.º 408/2023
+Sumário: Projeto do Regulamento dos Cemitérios da Freguesia de Moreira do Rei e Várzea Cova.
+Projeto do Regulamento dos Cemitérios da Freguesia de Moreira do Rei e Várzea Cova
+Júlio Tiago Castro Alves, Presidente da Junta de Freguesia da Freguesia de Moreira do Rei e Várzea Cova, torna público, conforme deliberação tomada em reunião do Executivo, realizada em 19 de janeiro de 2023, nos termos da alínea f) do n.º 1 do artigo 18.º, da Lei n.º 75/2013, de 12 de dezembro, conjugado com o artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que é submetido a consulta pública o projeto de «Regulamento dos Cemitérios da Freguesia de Moreira do Rei e Várzea Cova», durante o prazo de 30 dias a contar da publicitação no Diário da República, e que se encontra disponível para consulta no sítio institucional da Freguesia de Moreira do Rei e Várzea Cova em
+www.moreiradoreivarzeacova.pt.
+Qualquer interessado poderá apresentar, durante o período da consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do procedimento, conforme disposto no n.º 2 do artigo 101.º do CPA dirigida ao Presidente da Junta de Freguesia, via correio normal (Rua da Feira n.º 96, 4820-533 Moreira do Rei) ou via correio eletrónico (f.moreiradoreievarzeacova@gmail.com).
+E, para que conste, mandei publicar este Edital no Diário da República e outros de igual teor, que serão publicitados na Internet, no sítio institucional da Freguesia de Moreira do Rei e Várzea Cova e nos lugares de estilo.
+2 de março de 2023. - O Presidente da Junta de Freguesia da Freguesia de Moreira do Rei e Várzea Cova, Júlio Tiago Castro Alves.
+316226977
