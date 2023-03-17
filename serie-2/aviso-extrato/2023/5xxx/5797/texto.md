@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 5797/2023
+Sumário: Projetos dos Regulamentos do Cemitério e da Liquidação e Cobrança de Taxas e Preços e respetivas tabelas - consulta pública.
+Projetos de regulamento do cemitério e da liquidação e cobrança de taxas e preços e respetivas tabelas - Consulta Pública
+Márcio Ismael Magalhães de Sousa, presidente da junta de freguesia de Folgosa, ao abrigo e para os efeitos do disposto na alínea f) do n.º 1 do artigo 18.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, torna público que, a junta de freguesia de Folgosa, na reunião realizada no dia 27 de fevereiro de 2023, deliberou submeter a consulta pública os projetos de regulamento do cemitério e da liquidação e cobrança de taxas e preços e respetivas tabelas [nos termos do artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro] durante 30 dias a contar da data desta publicação.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito dos presentes procedimentos, conforme o disposto no n.º 2 do citado artigo 101.º do CPA, endereçadas ao presidente da junta de freguesia de Folgosa, entregues ou remetidas ao edifício sede da freguesia de Folgosa.
+28 de fevereiro de 2023. - O Presidente da Junta de Freguesia de Folgosa, Márcio Ismael Magalhães de Sousa.
+316229828
