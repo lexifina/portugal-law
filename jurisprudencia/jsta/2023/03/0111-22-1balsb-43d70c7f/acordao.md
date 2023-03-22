@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-03-22, processo 0111/22.1BALSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0111/22.1BALSB
+
+**Data do Acordão:** 03/22/2023
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** ANABELA RUSSO
+
+**Descritores:** RECURSO PARA UNIFORMIZAÇÃO DE JURISPRUDÊNCIA; MESMA QUESTÃO FUNDAMENTAL DE DIREITO
+
+**Nº Convencional:** JSTA000P30747
+
+**Nº do Documento:** SAP202303220111/22
+
+**Data de Entrada:** 09/12/2022
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** BANCO 1... S.A.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O recurso para o Supremo Tribunal Administrativo de decisão arbitral pressupõe, para além do mais, que se verifique, entre a decisão arbitral recorrida e o acórdão invocado como fundamento, oposição quanto à mesma questão fundamental de direito (cfr. o n.º 2 do artigo 25.º RJAT), o que pressupõe uma identidade substancial das situações fácticas relevantes para a decisão.
+
+II - Para apurar da existência de contradição sobre a mesma questão fundamental de direito entre a decisão arbitral recorrida e a decisão invocada como fundamento devem adoptar-se os critérios já firmados por este STA, quais sejam: (i) identidade da questão de direito sobre que recaíram as decisões em confronto, que supõe estar-se perante uma situação de facto substancialmente idêntica; (ii) que não tenha havido alteração substancial da regulamentação jurídica; (iii) que se tenha perfilhado, nos dois arestos, solução oposta; (iv) a oposição decorra de decisões expressas, não bastando a pronúncia implícita ou a mera consideração colateral, tecida no âmbito da apreciação de questão distinta.
+
+III - Tendo presente que, nestes autos, a Recorrente reclama que o quadro legal vigente apenas contempla o direito a juros indemnizatórios, decorrido um ano da data da apresentação da Revisão Oficiosa, resulta claro que, perante a factualidade dada como assente no Acórdão fundamento e na decisão arbitral recorrida, afigura-se-nos que embora as situações de facto revelem pontos em comum, certo é que as situações divergem no que respeita ao facto de existir decisão ou não dos pedidos de revisão no referido prazo de um ano, o que por si só, constitui fundamento para depararmos com soluções jurídicas diversas da questão de direito que foi enunciada.
+
+IV - Assim, tem de concluir-se que o que determinou a divergência nas decisões foi a diferença relacionada com o elemento de facto posto em destaque, o que significa que não podemos, pois, afirmar que as decisões em confronto tenham decidido a mesma questão fundamental de direito em sentido diverso, pois que a situação em causa não tem os mesmos contornos no que diz respeito ao elemento essencial para a sorte dos autos, em função da pretensão formulada pela Recorrente, divergência essa que serviria de fundamento ao presente recurso para uniformização de jurisprudência, pelo que, não se mostram reunidos os pressupostos legais para que este Supremo Tribunal possa conhecer deste recurso.
