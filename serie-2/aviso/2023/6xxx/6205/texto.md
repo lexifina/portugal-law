@@ -1,0 +1,8 @@
+Aviso n.º 6205/2023
+Sumário: Abertura do período de consulta pública relativa a propostas de regulamentos municipais.
+Abertura do período de consulta pública relativa a propostas de regulamentos municipais
+João Carlos Ventura Crespo, Presidente da Câmara Municipal de Arronches, faz saber que esta edilidade deliberou, em reunião de 13 do mês em curso, aprovar os seguintes projetos de Regulamentos Municipais, e submetê-los a consulta pública, nos termos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, durante os 30 dias úteis seguintes à data da publicação do presente Aviso no Diário da República: I. Regulamento de utilização e funcionamento da Casa de Férias de Arronches; J. Regulamento do Ninho de Empresas de Arronches; K. Regulamento municipal de toponímia e numeração de polícia do município de Arronches; L. Regulamento de gestão do parque habitacional do município de Arronches; M. Programa de incentivos à recuperação de habitações no centro histórico e de atribuição de materiais de construção; N. Regulamento de utilização e cedência de viaturas municipais.
+Os projetos de Regulamentos, encontram-se disponíveis para consulta dos interessados na Câmara Municipal de Arronches, durante o período de atendimento ao público (dias úteis das 09:00h às 17:00h) e no sítio da internet do Município em www.cm-arronches.pt.
+Os interessados podem formular, por escrito, as suas sugestões, dirigidas ao Presidente da Câmara Municipal de Arronches, para o endereço postal: Praça da República, Apartado 8, 7340-012 Arronches, ou entregues diretamente no atendimento da autarquia, ou ainda por correio eletrónico para o endereço geral@cm-arronches.pt.
+14 de março de 2023. - O Presidente da Câmara, João Carlos Ventura Crespo.
+316271542
