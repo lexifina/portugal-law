@@ -1,0 +1,8 @@
+Edital n.º 477/2023
+Sumário: Aprova o Regulamento Municipal de Atribuição e Gestão da Habitação Social do Município de Monção.
+Regulamento Municipal de Atribuição e Gestão da Habitação Social
+António José Fernandes Barbosa, Presidente da Câmara Municipal de Monção, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, torna público que a Assembleia Municipal de Monção, na sua sessão ordinária de 28 de fevereiro de 2023, no uso da competência prevista na alínea g) do n.º 1 do artigo 25.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, aprovou o Regulamento Municipal de Atribuição e Gestão da Habitação Social, sob proposta da Câmara Municipal de Monção aprovada na reunião ordinária de 22 de fevereiro de 2023, no uso da competência que lhe confere a alínea k) do n.º 1 do artigo 33.º do Anexo I da Lei n.º 75/2013, de 12 de setembro.
+Mais torna público que o projeto de Regulamento Municipal de Atribuição e Gestão da Habitação Social foi objeto de audiência dos interessados e consulta pública pelo período de 30 dias, nos termos previsto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, e publicado na 2.ª série do Diário da República de 22 de novembro de 2022.
+O referido Regulamento entrará em vigor 15 dias após a publicação do presente edital no Diário da República. Para conhecimento geral publica-se este edital e outros de igual teor, que vão ser afixados no edifício do Loreto e nos habituais locais de estilo do concelho de Monção, no Diário da República e no sítio da Internet do Município de Monção.
+8 de março de 2023. - O Presidente da Câmara Municipal, António José Fernandes Barbosa.
+316248174
