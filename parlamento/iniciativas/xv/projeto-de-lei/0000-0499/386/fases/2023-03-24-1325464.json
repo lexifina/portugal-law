@@ -1,0 +1,163 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "386",
+    "id": "152112",
+    "titulo": "Aprova os Estatutos da Casa do Douro"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-03-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "63978",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2023-12-12",
+            "id": "148677",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-12-14",
+            "id": "148682",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-03-24",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2024-01-04",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5759794e6d59354e5759744f47497a4f5330304e444a684c57466d596d59744d5749314d545a69596a4577596a6b774c6e426b5a673d3d&fich=1f26f95f-8b39-442a-afbf-1b516bb10b90.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - ProDouro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a6c6b4d7a646c4e6a6374596a4d324d4330304d6d4e684c574930593245744e475a694e575a6d595446695a6a686c4c6e426b5a673d3d&fich=39d37e67-b360-42ca-b4ca-4fb5ffa1bf8e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-08",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f574e685a54637a4d5745745a57466d596930305a444a6b4c546b345a6d51744d4751305a5759784f4441775a5755334c6e426b5a673d3d&fich=9cae731a-eafb-4d2d-98fd-0d4ef1800ee7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - AEVP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5449345a6d51354d7a51745a5467774e6930305a4759794c546b785a6a59744e6d566a5a575a6b5a5449334e4752684c6e426b5a673d3d&fich=928fd934-e806-4df2-91f6-6ecefde274da.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Manuel Cordeiro - CM São João da Pesqueira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4455794f5441794e7a6b744d6a55774d7930304f544a6a4c546b344e5445744f4455784d5745324f444668595759774c6e426b5a673d3d&fich=05290279-2503-492c-9851-8511a681aaf0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-20",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - CCDR Norte",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d4d31596a526d5a5441744f4467344d5330304d6d59304c5745344e7a63744d7a51304f546b774f545a6a4e4749794c6e426b5a673d3d&fich=fc5b4fe0-8881-42f4-a877-34499096c4b2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - FRD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5441324f54526d596d59745a44566c597930304d4463794c546735593249744d7a51335a546b335a545932597a64684c6e426b5a673d3d&fich=50694fbf-d5ec-4072-89cb-347e97e66c7a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - FRD/ALD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d574e6c4d545577596d5174596a4530595330304d4745324c57466d5a4455744d5467794d4441325a6a466a4e546c6a4c6e426b5a673d3d&fich=1ce150bd-b14a-40a6-afd5-182006f1c59c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-03",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - ADVID",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5755315932517a4e7a49745a5752695a693030597a686b4c546c684f544d744d6a6c6d4e7a686b4e475a6d5a4441324c6e426b5a673d3d&fich=9e5cd372-edbf-4c8d-9a93-29f78d4ffd06.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - José Manuel Gonçalves (Presidente C. M Peso da Régua)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e304e425547567a4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d325a6b5a4755354d6d59745a4445354e5330304d44517a4c5467775a5451745a57466b597a426a4e7a51324e544e6b4c6e426b5a673d3d&fich=3fdde92f-d195-4043-80e4-eadc0c74653d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8331",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Agricultura e Pescas",
+        "Numero": "8331",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2024-01-04",
+            "descricao": null,
+            "detalhe": null,
+            "id": "126127",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "84",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2023-03-24",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1325464",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
