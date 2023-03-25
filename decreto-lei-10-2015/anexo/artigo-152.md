@@ -2,7 +2,7 @@
 
 ### Modo de recolha
 
-1 - O cadastro comercial é alimentado com informação das permissões administrativas, das meras comunicações prévias, das comunicações obrigatórias e demais informações obtidas pelo acompanhamento do exercício de uma atividade pelas entidades com poder de fiscalização, bem como com informação na posse de outros organismos da Administração Pública, através de consulta às bases de dados de organismos detentores da informação necessária, garantindo-se um aproveitamento máximo da informação, meios, infraestruturas e custos.
+1 - O cadastro comercial é alimentado com informação das permissões administrativas, das meras comunicações prévias, das comunicações obrigatórias, das informações obtidas pelas entidades com poder de fiscalização, bem como com informação na posse de outros organismos da Administração Pública, através da comunicação dessa informação à DGAE, ou permissão para consulta das respetivas bases de dados, realizada através da Plataforma de Interoperabilidade da Administração Pública, garantindo-se um aproveitamento máximo da informação, meios, infraestruturas e custos.
 
 2 - A informação na posse de outros organismos a ser utilizada para efeitos do cadastro comercial inclui:
 
@@ -10,7 +10,7 @@ a) Os dados constantes da informação empresarial simplificada entregue anualme
 
 b) Os dados constantes da base de dados do registo comercial e do registo nacional de pessoas coletivas;
 
-c) Os dados constantes da base de dados da AT para obtenção de informação sobre identificação e localização, data de início e fim de atividade das pessoas singulares, e respetiva CAE;
+c) Os dados constantes das bases da AT para obtenção da informação sobre identificação e localização, data de início, de alteração e fim da atividade das pessoas singulares e respetivos códigos CAE ou códigos das atividades constantes da tabela a que se refere o artigo 151.º do Código do IRS, conforme o caso;
 
 d) Os dados constantes da base de dados relativa às IPSS para obtenção e informação sobre o seu exercício da atividade funerária;
 
@@ -18,7 +18,7 @@ e) Os dados constantes de outras bases de dados da Administração Pública, a d
 
 3 - O acesso à base de dados do registo comercial, do registo nacional de pessoas coletivas e à informação constante da informação empresarial simplificada é regulado através de protocolo a celebrar entre o IRN, I. P., a Agência para a Modernização Administrativa, I. P. (AMA), e a DGAE, nos termos da legislação aplicável.
 
-4 - A informação relativa à identificação e localização, data de início e fim de atividade das pessoas singulares, e respetiva CAE, é confirmada através de ligação à base de dados da AT, nos termos da legislação em vigor, e nos termos a definir por protocolo a celebrar entre a AT, a AMA, e a DGAE.
+4 - A informação a que se referem as alíneas a) a c) do n.º 2, para as pessoas singulares, bem como a que se refere a alínea d) do n.º 2, para as pessoas singulares e coletivas, do artigo anterior é comunicada pela AT ou consultada junto da mesma, nos termos da legislação em vigor e nos termos a definir por protocolo a celebrar entre a AT, AMA e DGAE.
 
 5 - A informação relativa ao exercício da atividade funerária pelas IPSS ou entidades equiparadas é efetuada nos termos a definir em protocolo a estabelecer entre a DGAE, a Direção-Geral da Segurança Social e o Instituto da Segurança Social, I. P.
 

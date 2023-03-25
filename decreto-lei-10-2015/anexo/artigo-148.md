@@ -10,4 +10,4 @@
 
 ### Base de dados de registos setoriais do comércio, serviços e restauração
 
-A base de dados de registos setoriais de comércio, serviços e restauração, designada de «Cadastro comercial», é gerida pela DGAE e integra informação sobre atividades e estabelecimentos de comércio, serviços e restauração ou de bebidas, nomeadamente os abrangidos pelo presente decreto-lei.
+A base de dados de registos setoriais de comércio, serviços e restauração, designada por 'Cadastro comercial', é gerida pela DGAE e integra informação sobre atividades e estabelecimentos de comércio, serviços e restauração ou de bebidas identificadas no anexo ii ao presente decreto-lei e do qual é parte integrante
