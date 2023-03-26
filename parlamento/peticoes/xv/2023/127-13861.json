@@ -1,0 +1,857 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "13861",
+  "numero": "127",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-03-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8460",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Infraestruturas, Mobilidade e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "14",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-03-13",
+            "entidades": null,
+            "id": "159448",
+            "tipo": null,
+            "titulo": "Audição em 2025-03-13 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-24",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2025-03-19",
+        "DataReaberta": "2024-04-24",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5547563061574e686279396a4e6d4978596a59785a5330324d7a41324c54526b4d5745744f544d775953307a4e6d4e684e57557a4d47466c4e4759756347526d&fich=c6b1b61e-6306-4d1a-930a-36ca5e30ae4f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8398",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Economia, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-04-24",
+            "gp": "PSD",
+            "id": "4090",
+            "motivoCessacao": null,
+            "nome": "Margarida Saavedra"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-04-19",
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2023-03-30",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2023-04-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-04-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e68627938344d7a6b32593259355979316b5a5468684c5451305a475174596a67784e43307a596a45794e32526b4e7a49325a6a45756347526d&fich=8396cf9c-de8a-44dd-b814-3b127dd726f1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8330",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-04-19",
+            "gp": "PSD",
+            "id": "6595",
+            "motivoCessacao": null,
+            "nome": "Márcia Passos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2026-06-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-03-31",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76593245784e6a6b344e4445744f5456684d6930304e3245354c546c6c4f4467744d7a5978593251334f47566c4f57566b4c6e426b5a673d3d&fich=ca169841-95a2-47a9-9e88-361cd78ee9ed.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-03-31",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6d45355a4459794e5749744f546777596930305a4463344c5467344e544d745a6d5a6d4d444e6a596a4669596a64684c6e426b5a673d3d&fich=fa9d625b-980b-4d78-8853-fff03cb1bb7a.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-03-31",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76596a417a4d6d49314d3251745a5751775a6930305a4451334c5745315a5751744e325a695a5441774d57566a5a5455304c6e426b5a673d3d&fich=b032b53d-ed0f-4d47-a5ed-7fbe001ece54.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315331",
+      "356812",
+      "315446",
+      "356785",
+      "356787",
+      "356789",
+      "356801",
+      "356806"
+    ],
+    "Iniciativasoriginadas": [
+      "315331",
+      "356812",
+      "315446",
+      "356785",
+      "356787",
+      "356789",
+      "356801",
+      "356806"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/108"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/109"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/77?pgs=77&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/110"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/111"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/112"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/113"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/80?pgs=80&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/115"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/116"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/117"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/83?pgs=83&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/118"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/84?pgs=84&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-06-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/99/119"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "504081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-06-03",
+                "pubLeg": "XVII",
+                "pubNr": "99",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/84?pgs=84-85&org=PLC"
+              }
+            ],
+            "Sumario": "Pela recuperação e utilização dos imóveis devolutos do Estado; Pelo direito à habitação em Portugal; Procede ao alargamento da isenção de IMT prevista no Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (CIMT); Promoção de verdadeiras rendas moderadas (altera o Decreto-Lei n.º 97/2026, de 30 de maio de 2026); Recomenda a realização urgente do levantamento exaustivo das famílias em situação de vulnerabilidade habitacional; Recomenda a criação de um regime de cedência de imóveis devolutos do Estado para valorização e arrendamento; Recomenda ao Governo a criação de um programa nacional de levantamento, transferência e reabilitação de património público habitacional devoluto, com prioridade aos bairros do Estado abandonados; Recomenda ao Governo a adoção de medidas urgentes para garantir o direito à habitação e a disponibilização do património público devoluto para fins habitacionais; Recomenda a afetação de património devoluto do Estado para o parque público de habitação; Travar a especulação, garantir e proteger o direito à habitação",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13861",
+    "PetAssunto": "Programa Mais Habitação - Pela recuperação e utilização dos Imóveis Devolutos do Estado",
+    "PetDataEntrada": "2023-03-26",
+    "PeticoesAssociadas": null,
+    "PetId": "13861",
+    "PetLeg": "XV",
+    "PetNr": "127",
+    "PetNrAssinaturas": "7748",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura. ",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "76901",
+        "obs": null,
+        "pag": [
+          "76-85"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-06-03",
+        "pubLeg": "XVII",
+        "pubNr": "99",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/099/2026-06-03/76?pgs=76-85&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
