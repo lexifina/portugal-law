@@ -1,0 +1,7 @@
+Aviso n.º 6382/2023
+Sumário: Projeto de Regulamento da Liquidação e Cobrança de Taxas e Preços e respetivas tabelas - consulta pública.
+Projeto de Regulamento da Liquidação e Cobrança de Taxas e Preços e respetivas tabelas - Consulta pública
+Alberto Rocha Afonso, presidente da junta de freguesia da União das Freguesias de Vila Nova de Paiva, Alhais e Fráguas, ao abrigo e para os efeitos do disposto na alínea f) do n.º 1 do artigo 18.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, torna público que, a junta de freguesia da União das Freguesias de Vila Nova de Paiva, Alhais e Fráguas, na reunião realizada no dia 23 de fevereiro de 2023, deliberou submeter a consulta pública o projeto de regulamento da liquidação e cobrança de taxas e preços e respetivas tabelas (nos termos do artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro) durante 30 dias a contar da data desta publicação.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito dos presentes procedimentos, conforme o disposto no n.º 2 do citado artigo 101.º do CPA, endereçadas ao presidente da junta de freguesia da União das Freguesias de Vila Nova de Paiva, Alhais e Fráguas, entregues ou remetidas ao edifício sede da freguesia da União das Freguesias de Vila Nova de Paiva, Alhais e Fráguas.
+8 de março de 2023. - O Presidente da Junta de Freguesia, Alberto Rocha Afonso.
+316251187
