@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-03-29, processo 0762/20.9BEALM
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0762/20.9BEALM
+
+**Data do Acordão:** 03/29/2023
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** TAXA DE OCUPAÇÃO DO SUBSOLO; REPERCUSSÃO FISCAL; CONSUMIDORES; JUROS INDEMNIZATÓRIOS
+
+**Nº Convencional:** JSTA000P30789
+
+**Nº do Documento:** SA2202303290762/20
+
+**Data de Entrada:** 07/15/2022
+
+**Recorrente:** A..., S.A.
+
+**Recorrido 1:** B... S.A. – SUCURSAL EM PORTUGAL
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A taxa pode definir-se como uma prestação coactiva, devida a entidades públicas, com vista à compensação de prestações efectivamente provocadas ou aproveitadas pelos sujeitos passivos. Em contraste com o imposto, de características unilaterais, a taxa caracteriza-se pela sua natureza comutativa ou bilateral, devendo o seu valor concreto ser fixado de acordo com o princípio da equivalência jurídica. A natureza do facto constitutivo que baseia o aparecimento da taxa pode consistir na prestação de uma actividade pública, na utilização de bens do domínio público ou na remoção de um limite jurídico à actividade dos particulares (cfr.artº.4, nºs.1 e 2, da L.G.Tributária).
+
+II - Relativamente à taxa de ocupação do subsolo (TOS) deve vincar-se que a jurisprudência, do Tribunal Constitucional e do S.T.A., é uniforme no sentido de concluir que os tributos liquidados visando a ocupação de via pública e, mais especificamente, o subsolo, revestem a natureza de taxas.
+
+III - A repercussão fiscal consiste na transferência do imposto que legalmente incide sobre um sujeito passivo, para um terceiro, alheio à relação jurídica tributária, com quem aquele tem relações económicas. Nas palavras de alguns autores, o repercutido será um mero "contribuinte de facto" (titular da capacidade contributiva), por contraposição ao "contribuinte de direito", aquele a quem é juridicamente exigível o pagamento do tributo.
+
+IV - A norma constante do artº.85, nº.3, da Lei do OE/2017 para 2017 (Lei 42/2016, de 28/12), ostenta validade ou conformidade constitucional e plena eficácia, assim produzindo efeitos desde 1/01/2017, passando a ser ilegal a repercussão da TOS nos consumidores.
+
+V - A circunstância da entidade que praticou o acto lesivo (repercussão ilegal) ser uma entidade privada, uma sociedade anónima, não determina a sua exclusão do âmbito de aplicação do artº.43, nº.1, da L.G.T., interpretado em conformidade com o artº.22, da C.R.Portuguesa.
+
+VI - No contexto de facto e de direito que emerge dos autos, é de considerar a sociedade comercializadora de gás ora recorrida integrada no conceito de "serviços" consagrado no citado artº.43, nº.1, da L.G.T. Em consequência, entendemos que não existe qualquer obstáculo em reconhecer à sociedade recorrente o direito de reaver o que ilegalmente lhe foi exigido e pagou e, bem assim, o direito a receber o valor correspondente aos juros indemnizatórios.
+
+(sumário da exclusiva responsabilidade do relator)
