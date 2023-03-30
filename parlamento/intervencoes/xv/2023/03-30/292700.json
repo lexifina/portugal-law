@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "292700",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Rui Tavares (L)",
+  "data_registo": "2023-03-30",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "127050",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "127050",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Ao lembrar o Congresso da Oposição Democrática, realizado em abril de 1973 em Aveiro, sublinha o papel central do PCP na luta contra a ditadura e apela à preservação da democracia em Portugal."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Dirige Pedido de Esclarecimento a Manuel Loff (PCP), no âmbito da Declaração Política em que este, ao lembrar o Congresso da Oposição Democrática, realizado em abril de 1973 em Aveiro, sublinhou o papel central do PCP na luta contra a ditadura e apelou à preservação da democracia em Portugal. ",
+        "duracao": "00:02:21:556",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_03_30_15_00_00_clean_14_plenario.xml&idsegmento=19"
+      }
+    ],
+    "DataReuniaoPlenaria": "2023-03-30",
+    "Debate": null,
+    "Deputados": {
+      "GP": "L",
+      "idCadastro": "7337",
+      "nome": "Rui Tavares"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "292700",
+    "IdDebate": "16340",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "292700",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "25-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-03-31",
+        "pubLeg": "XV",
+        "pubNr": "108",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/108/2023-03-31/25?pgs=25&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao Deputado Manuel Loff (PCP)",
+    "Sessao": "1",
+    "Sumario": "Ao lembrar o Congresso da Oposição Democrática, realizado em abril de 1973 em Aveiro, sublinha o papel central do PCP na luta contra a ditadura e apela à preservação da democracia em Portugal.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
