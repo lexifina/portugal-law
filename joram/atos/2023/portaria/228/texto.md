@@ -1,0 +1,115 @@
+# Portaria n.º 228/2023
+
+**Emissor:** SECRETARIA REGIONAL DE ECONOMIA
+
+**Publicação:** JORAM, I série, n.º 63/2023, 4.º suplemento, de 2023-03-31
+
+**Sumário:** Procede à criação do Sistema de Apoio à Liquidez das Empresas da Região Autónoma da Madeira, especialmente afetadas pelo aumento dos custos energéticos, como consequência da agressão da Ucrânia pela Rússia, doravante designado por “Programa Apoiar + Liquidez”, bem como aprova o respetivo Regulamento Específico.
+
+## Texto
+
+Portaria n.º 228/2023
+de 31 de março
+Sumário: Procede à criação do Sistema de Apoio à Liquidez das Empresas da Região Autónoma da Madeira, especialmente afetadas pelo aumento dos custos energéticos, como consequência da agressão da Ucrânia pela Rússia, doravante designado por “Programa Apoiar + Liquidez”, bem como aprova o respetivo Regulamento Específico.
+Texto: Atendendo ao contexto geopolítico na Europa decorrente da agressão militar na Ucrânia pela Rússia e considerando os efeitos diretos e indiretos que este conflito tem vindo a provocar, nomeadamente em termos de perturbação grave da economia ao nível dos fluxos comerciais e das cadeias de abastecimento, que conduziram a preços elevados e inesperados dos fatores de produção, afetando as empresas ativas na União Europeia, a Comissão Europ eia, a 24 de março de 2022, emitiu a Comunicação 2022/C 131 I/01, alterada pelas Comunicações da Comissão 2022/C 280/01 e 2022/C 426/01, adotando um «Quadro Temporário de Crise relativo a medidas de auxílio estatal em apoio da economia na sequência da agressão da Ucrânia pela Rússia», no qual são previstas medidas para garantir a liquidez e o acesso ao financiamento por parte das empresas, em especial das pequenas e médias empresas que enfrentam desafios económicos em razão da atual crise. Considerando que este contexto político exige medidas extraordinárias que respondam à referida perturbação económica e que atenuem os efeitos do aumento dos fatores de produção, em especial do aumento dos custos energéticos, de forma que as empresas mais afetadas pela crise se mantenham em atividade, preservando os seus postos de trabalho; Considerando que, mediante Resoluções de Conselho de Governo Regional números 36/2023, de 30 de janeiro e 198/2023 de 21 de março, o Secretário Regional de Economia juntamente com o Inst ituto de Desenvolvimento Empresarial, IP-RAM (IDE, IP-RAM) foram mandatados para praticar todos os atos exigidos à criação de um apoio financeiro, excecional e a fundo perdido, destinado a reforçar a liquidez das empresas ativas, com estabelecimento localizado na Região Autónoma da Madeira (RAM), afetadas pelos aumentos acentuados dos fatores de produção, em especial o aumento dos custos energéticos, causados pela agressão da Ucrânia pela Rússia, que facilite a continuidade da atividade económica e a preservação das capacidades produtivas e do emprego, em respeito pelo referido “Quadro Temporário de Crise”. Na sequência da decisão de autorização da Comissão Europeia comunicada em 24 de fevereiro de 2023, no âmbito do processo de notificação State Aid SA 106278 (2023/N) - Portugal, o presente diploma estabelece, assim, um sistema de apoio à liquidez das empresas especialmente afetadas pelo aumento acentuado dos custos energéticos, na sequência da agressão da Ucrânia pela Rússia, designado por “Programa Apoiar + Liquidez”, em respeito pelo regime de auxílios de Estado fixado ao abrigo da referida Comunicação da Comissão Europeia. Assim, manda o Governo Regional, pelo Secretário Regional de Economia, ao abrigo do disposto nas Resoluções de Conselho de Governo Regional números 36/2023, de 30 de janeiro e 198/2023, de 21 de março, o seguinte:
+Artigo 1.º Objeto
+É criado o Sistema de Apoio à Liquidez das Empresas da Região Autónoma da Madeira, especialmente afetadas pelo aumento dos custos energéticos, como consequência da agressão da Ucrânia pela Rússia, doravante designado por “Programa Apoiar + Liquidez”, cujo Regulamento Específico é aprovado e publicado em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 2.º Entrada em vigor
+A presente portaria entra em vigor no dia útil seguinte ao da sua publicação.
+Secretaria Regional de Economia do Governo Regional da Madeira, aos 24 dias do mês de março de 2023.
+O SECRETÁRIO REGIONAL DE ECONOMIA, Rui Miguel da Silva Barreto
+
+ANEXO
+Regulamento Específico do Sistema de Apoio à Liquidez das Empresas da Região Autónoma da Madeira na sequência da agressão da Ucrânia pela Rússia
+(“Programa Apoiar + Liquidez”)
+CAPÍTULO I Disposições gerais
+Artigo 1.º Objeto e objetivo
+O presente Regulamento específico estabelece as regras aplicáveis ao Sistema de Apoio à Liquidez das Empresas da Região Autónoma da Madeira especialmente afetadas pelo aumento do preço dos fatores de produção, em especial dos custos energéticos, decorrente da grave perturbação da economia causada pela agressão militar russa contra a Ucrânia, o qual visa atenuar o impacto desse aumento, apoiando a continuidade da atividade económica e a preservação das capacidades produtivas e do emprego, em cumprimento das regras definidas no «Quadro Temporário de Crise relativo a medidas de auxílio estatal em apoio da economia na sequência da agressão da Ucrânia pela Rússia», na sua atual redação.
+Artigo 2.º Tipologia de beneficiários e âmbito setorial
+1. São beneficiários do “Programa Apoiar + Liquidez” as empresas que, independentemente da sua natureza e forma jurídica, exerçam uma atividade económica enquadrada em código de atividade económica registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas e que não diga respeito a serviços de interesse económico geral.
+2. Para efeitos do disposto no número anterior, entende-se por serviços de interesse económico geral as atividades de serviço comercial que preenchem missões de interesse geral, estando, por conseguinte sujeitas a obrigações específicas de serviço público (artigo 106.º do Tratado sobre o Funcionamento da União Europeia). É o caso das empresas encarregadas da gestão de serviços de interesse económico geral, nomeadamente, dos serviços em rede de transportes, de energia e de comunicações.
+3. Estão também excluídas as empresas que integrem os seguintes setores: a) Produção de energia; b) Refinação de derivados de petróleo; c) Financeiras e seguros - divisões 64 a 66; d) Pesca e aquicultura - divisão 03; e) Produção primária de produtos agrícolas e florestais; f) Transformação e comércio de produtos agrícolas constantes do anexo I do Tratado de Funcionamento da União Europeia e transformação e comércio de produtos florestais.
+4. Não beneficiam do “Programa Apoiar + Liquidez” as empresas que estiverem sujeitas a sanções adotadas pela União Europeia na sequência da agressão da Ucrânia pela Rússia, nomeadamente, mas não exclusivamente: a) As que estiverem especificamente designadas nos atos jurídicos que impõem essas sanções; b) As que sejam detidas ou controladas por pessoas, entidades ou organismos visados pelas sanções adotadas pela União Europeia; c) As que sejam ativas em setores visados pelas sanções adotadas pela União Europeia, na medida em que o apoio comprometa os objetivos das sanções em causa.
+5. Não são elegíveis as candidaturas apresentadas pelo setor público empresarial.
+Artigo 3.º Área geográfica de aplicação
+O “Programa Apoiar + Liquidez” tem a sua aplicação na Região Autónoma da Madeira (RAM).
+Artigo 4.º Critérios de elegibilidade do beneficiário e condições de acesso
+1. Só podem beneficiar do “Programa Apoiar + Liquidez”, as empresas que satisfizerem, cumulativamente, à data da candidatura, os seguintes critérios e condições de acesso: a) Empresas legalmente constituídas e que cumpram as condições necessárias para o exercício da atividade, quando aplicável; b) Com estabelecimento localizado na RAM; c) Com contabilidade organizada, nos termos da legislação aplicável;
+
+d) Possuir o registo atualizado dos elementos de identificação do beneficiário efetivo, nos termos previstos na Lei n.º 89/2017, de 21 de agosto, alterada pela Lei n.º 58/2020, de 31 de agosto.
+e) Com situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;
+f) Com situação regularizada em matéria de reposições e/ou reembolsos em projetos apoiados com cofinanciamento dos Fundos Europeus Estruturais e de Investimento (FEEI) e outros apoios financeiros sob gestão do IDE, IP-RAM;
+g) Com capitais próprios positivos à data de 31 de dezembro de 2022, exceto no caso de empresas que tenham iniciado a sua atividade a partir de 1 de janeiro de 2023, inclusive;
+h) Com atividade económica na RAM prevista no artigo 2.º do presente Regulamento; i) Possuam, relativamente ao estabelecimento mencionado na alínea b), contrato de fornecimento de eletricidade
+em vigor com a EEM - Empresa de Eletricidade da Madeira, S.A., nas modalidades de baixa tensão especial (BTE) ou média tensão (MT), na qualidade de consumidor final, fazendo constar no processo de candidatura, o correspondente CPE - Código de Ponto de Entrega.
+2. A comprovação das condições previstas nas alíneas a), b) e h) do n.º 1 é feita mediante entrega de declaração de cumprimento subscrita pelo beneficiário, sob compromisso de honra, a anexar ao formulário de candidatura.
+3. A comprovação das condições previstas nas alíneas c) e g) do n.º 1 é feita mediante a entrega de declaração de cumprimento, subscrita por contabilista certificado ou revisor oficial de contas, responsável pela contabilidade da empresa, a anexar ao formulário de candidatura.
+4. A comprovação da condição prevista na alínea d) do n.º 1 é feita mediante a entrega de documento a anexar ao formulário de candidatura.
+5. Para efeitos de cumprimento da condição prevista na alínea e) do n.º 1, a beneficiária deverá prestar, preferencialmente, consentimento ao IDE, IP-RAM, para efeitos de consulta da respetiva situação tributária e contributiva.
+6. Para efeitos de verificação do cumprimento da condição estabelecida na alínea i) do n.º 1, o beneficiário deve autorizar o IDE, IP-RAM a proceder à verificação do apuramento do aumento do preço, junto da EEM - Empresa de Eletricidade da Madeira, S.A., nos termos previstos na alínea b) do artigo 13.º do presente Regulamento, mediante declaração a anexar ao formulário de candidatura.
+Artigo 5.º Forma e taxas de apoio
+1. O apoio a conceder reveste a forma de incentivo não reembolsável.
+2. A taxa de apoio é de 25% sobre o custo elegível.
+3. O custo elegível será apurado pela diferença entre o preço da energia elétrica num determinado mês de 2023 e o correspondente preço em vigor a 31/12/2022, em função do consumo de energia elétrica em cada mês do ano de 2023, excluindo-se impostos e demais taxas.
+4. O apuramento do apoio será realizado trimestralmente.
+5. Entende-se por período elegível o período temporal a definir em Aviso por concurso para apresentação de candidaturas, compreendido entre 1 de janeiro de 2023 e 31 de dezembro de 2023.
+Artigo 6.º Modalidade de candidatura
+1. A candidatura assume a natureza de projeto individual, apresentado por uma empresa e segue um regime simplificado.
+2. Para efeitos do número anterior, entende-se por regime simplificado a formalização do processo de candidatura apenas com a apresentação do formulário de candidatura e documentação comprovativa dos critérios de elegibilidade e condições de acesso.
+Artigo 7.º Apresentação de candidaturas
+1. As candidaturas são apresentadas no âmbito de um Aviso por concurso e são submetidas através de formulário eletrónico simplificado, disponível no sítio da Internet do IDE, IP-RAM (http://www.ideram.pt/apoiarmaisliquidez).
+2. Os Avisos por concurso para apresentação de candidaturas são definidos pelo IDE, IP-RAM enquanto organismo responsável pela gestão dos sistemas de incentivos às empresas na RAM.
+
+3. Os Avisos por concurso para a apresentação de candidaturas devem conter os seguintes elementos, nomeadamente: a) A tipologia dos beneficiários; b) Âmbito setorial; c) Os critérios de elegibilidade e condições de acesso a observar pelo beneficiário; d) Modalidade e limite ao número de candidaturas a apresentar por beneficiário; e) As condições de atribuição do apoio, nomeadamente a respetiva natureza e taxa; f) O prazo fixado para a apresentação de candidaturas e a calendarização do processo de decisão; g) A respetiva dotação financeira indicativa; h) O ponto de contacto onde poderão ser obtidas informações adicionais.
+4. Os elementos referidos no número anterior poderão ser objeto de alteração em sede de Aviso por concurso.
+Artigo 8.º Procedimentos de análise, seleção, decisão das candidaturas e aceitação da decisão
+1. As candidaturas são avaliadas com base nos critérios e condições de acesso previstos no artigo 4.º do presente Regulamento.
+2. As candidaturas que cumpram os referidos critérios e condições de acesso são analisadas e selecionadas pelo IDE, IP-RAM, considerando o momento de entrada da candidatura, até ao limite orçamental estabelecido no Aviso por concurso para apresentação de candidaturas.
+3. A decisão final de financiamento fundamentada sobre as candidaturas é proferida pelo Secretário Regional de Economia, no prazo de 60 dias úteis a contar da data-limite do encerramento do procedimento concursal, sob proposta do IDE, IP-RAM, podendo esta ser favorável ou desfavorável.
+4. O critério de desempate entre candidaturas é feito em função da data de entrada mais antiga (dia/hora/minuto/segundo).
+5. No caso de proposta de não aprovação e antes de ser adotada a decisão final, os beneficiários são ouvidos nos termos e para os efeitos previstos nos artigos 121.º e seguintes do Código de Procedimento Administrativo, suspendendo-se a contagem do prazo fixado no n.º 3.
+6. O prazo a que se refere o n.º 3 suspende-se na pendência de resposta aos esclarecimentos solicitados pelo IDE, IP-RAM, não podendo, em qualquer caso, ultrapassar a data de 31 de dezembro de 2023, conforme determina o «Quadro Temporário de Crise relativo a medidas de auxílio estatal em apoio da economia na sequência da agressão da Ucrânia pela Rússia», na sua atual redação.
+7. Sem prejuízo do estabelecido no número anterior, o referido poderá ser objeto de alteração em função da prorrogação, pela Comissão Europeia, do “Quadro Temporário de Crise relativo a medidas de auxílio estatal em apoio da economia na sequência da agressão da Ucrânia pela Rússia», bastando tal alteração constar do Aviso por concurso para apresentação de candidaturas.
+8. A não apresentação pelo beneficiário dos esclarecimentos, informações ou documentos solicitados nos termos do número 6.º, no prazo de 10 dias úteis, determina a desistência da candidatura.
+9. O IDE, IP-RAM pode suspender ou cancelar, a qualquer momento, a receção de candidaturas, devido ao esgotamento da dotação financeira prevista no Aviso por concurso para apresentação de candidaturas, através de comunicação prévia a publicar no seu sítio da Internet, com a antecedência mínima de 2 dias úteis.
+10. Concluída a análise, a proposta de decisão é enviada ao Secretário Regional de Economia para decisão final, da qual será notificado o beneficiário.
+11. A aceitação da decisão da concessão do apoio é feita mediante a confirmação eletrónica do termo de aceitação por parte do beneficiário, nos termos a definir no Aviso por concurso para apresentação de candidatura.
+12. A decisão de aprovação caduca, automaticamente, caso o termo de aceitação não seja confirmado pelo beneficiário no prazo máximo de 10 dias úteis, a contar da data da notificação da decisão final, não sendo este prazo prorrogável.
+13. Com a aceitação do termo de aceitação pelo beneficiário, os titulares dos órgãos de direção, de administração ou de gestão e outras pessoas que exerçam funções de administração ou de gestão ficam, subsidiariamente, responsáveis pelo cumprimento das obrigações inerentes à candidatura e à decisão de aprovação do apoio.
+14. O termo de aceitação não produz efeitos e como tal não poderá ser aceite pelo beneficiário, quando não se verifique a sua situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social e, em caso de situação não regularizada em termos de matéria de reposições e/ou reembolsos em projetos apoiados com cofinanciamento dos Fundos Europeus Estruturais e de Investimento (FEEI) e de outros apoios financeiros sob gestão do IDE, IP-RAM.
+
+Artigo 9.º Obrigações dos beneficiários
+1. Durante o período de concessão do apoio, contado a partir da data de submissão da candidatura, e nos 60 dias úteis subsequentes ao respetivo pagamento, o beneficiário não pode: a) Distribuir lucros e dividendos, sob qualquer forma, nomeadamente a título de levantamento por conta; b) Fazer cessar contratos de trabalho ao abrigo das modalidades de despedimento coletivo, de despedimento por extinção do posto de trabalho, ou de despedimento por inadaptação, previstos nos artigos 359.º, 367.º e 373.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, respetivamente, nem iniciar os respetivos procedimentos; c) Cessar a atividade.
+2. Para efeitos do presente Regulamento, deverá o beneficiário constituir um dossier (eletrónico e/ou físico) com toda a documentação necessária à demonstração das declarações e informações da candidatura.
+Artigo 10.º Pagamentos aos beneficiários
+1. O pagamento do apoio é efetuado pelo IDE, IP-RAM, no âmbito do presente Regulamento.
+2. Após aceitação da decisão pelo beneficiário é processado, pelo IDE, IP-RAM, o pagamento único do apoio no montante equivalente à totalidade do apoio aprovado, não necessitando o beneficiário, para o efeito, de submeter eletronicamente o respetivo pedido, sem prejuízo do estabelecido no número seguinte.
+3. O referido pagamento só poderá ser efetuado após verificação da respetiva situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social e da situação regularizada em termos de matéria de reposições e/ou reembolsos em projetos apoiados com cofinanciamento dos Fundos Europeus Estruturais e de Investimento (FEEI) e de outros apoios financeiros sob gestão do IDE, IP-RAM.
+Artigo 11.º Incumprimento e Recuperação do apoio
+1. O incumprimento dos critérios de elegibilidade do beneficiário, condições de acesso e obrigações previstos no presente Regulamento Específico determina a não aprovação ou revogação da candidatura.
+2. Os montantes indevidamente recebidos, designadamente por incumprimento das obrigações legais ou contratuais, pela ocorrência de qualquer irregularidade ou anomalia, nomeadamente a prestação de falsas declarações no âmbito da concessão do apoio bem como a inexistência ou a perda de qualquer requisito de concessão do apoio financeiro, constituem dívida das entidades que deles beneficiaram.
+3. Para efeitos do disposto no número anterior, o IDE, IP-RAM notifica o beneficiário do montante da dívida e da respetiva fundamentação, nos termos do Código do Procedimento Administrativo.
+4. O disposto no n.º 1 gera, para além das demais consequências previstas na lei, a obrigação, por parte do beneficiário, de devolver ao IDE, IP-RAM, o apoio financeiro concedido, no prazo de 30 dias úteis, a contar da receção da notificação efetuada para o efeito.
+5. O prazo de reposição é de 30 dias úteis, a contar da data da receção da notificação a que se refere o número anterior, sendo que, em caso de mora, ao valor em dívida acrescem juros, os quais são contabilizados à taxa legal fixada nos termos do número 1 do artigo 559.º do Código Civil, desde o termo do prazo para pagamento voluntário até ao efetivo e integral reembolso do montante devido.
+6. Na falta de pagamento voluntário no prazo fixado, por parte do beneficiário, a recuperação do montante do apoio em dívida pode ser realizada coercivamente com recurso ao processo de execução fiscal previsto no Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, na sua redação atual.
+Artigo 12.º Acompanhamento e controlo
+1. A função de controlo e auditoria é da responsabilidade do IDE, IP-RAM, que desencadeia, por amostragem, ações adequadas de controlo e de auditoria sobre as candidaturas.
+2. A função de controlo e auditoria visa verificar se os beneficiários deram cumprimento à legislação aplicável.
+Artigo 13.º Entidades intervenientes
+São entidades intervenientes no presente sistema de apoio: a) O IDE, IP-RAM, a quem compete assegurar a gestão do presente sistema de apoio, designadamente a análise das
+candidaturas e emissão das respetivas propostas de decisão, podendo, para o efeito, solicitar pareceres a outras
+
+entidades, a contratação, o pagamento do apoio e o acompanhamento e encerramento das candidaturas, bem como a interlocução com o beneficiário; b) EEM - Empresa de Eletricidade da Madeira, S.A., em conformidade com o Protocolo de Colaboração a celebrar com o IDE, IP-RAM; c) Secretaria Regional de Economia, a quem compete decidir nos termos previstos no nº 3 do artigo 8.º do presente Regulamento.
+Artigo 14.º Regime de auxílios e enquadramento europeu de auxílios de estado
+O “Programa Apoiar + Liquidez” é implementado ao abrigo da decisão de autorização da Comissão Europeia comunicada em 24 de fevereiro de 2023, no âmbito do processo de notificação State Aid SA 106278 (2023/N) - Portugal e cumpre o disposto na Comunicação 2022/C 131 I/01, alterada pelas Comunicações da Comissão 2022/C 280/01 e 2022/C 426/01 final referente ao «Quadro Temporário de Crise relativo a medidas de auxílio estatal em apoio da economia na sequência da agressão da Ucrânia pela Rússia - Secção 2.1 «Montantes de auxílio limitados».
+Artigo 15.º Dotação e cobertura orçamental
+1. A dotação financeira prevista para o presente sistema de apoio, sujeita a alterações, é de € 1.057.874,00 (um milhão cinquenta e sete mil oitocentos e setenta e quatro euros) assegurada pelo orçamento regional.
+2. Os encargos decorrentes da aplicação do “Programa Apoiar + Liquidez” são inscritos anualmente no orçamento do IDE, IP-RAM.
+3. Só podem ser processados os apoios quando o respetivo encargo tenha cabimento orçamental.
+4. Caso a dotação financeira prevista no número 1 seja ultrapassada, o financiamento do presente sistema poderá ser reforçado, desde que aprovado por Resolução do Conselho de Governo.
+Artigo 16.º Obrigações Legais
+A concessão do apoio previsto neste Regulamento não isenta os beneficiários do cumprimento de outras obrigações legais a que estejam sujeitos.
+Artigo 17.º Ponto de contacto
+Para obtenção de informações adicionais, nomeadamente legislação aplicável e pontos de contacto, os beneficiários devem aceder ao sítio do IDE, IP-RAM (www.ideram.pt).
+Artigo 18.º Período de Vigência
+O período de vigência do presente sistema de apoio coincide com o período estabelecido no “Quadro Temporário de Crise relativo a medidas de auxílio estatal em apoio da economia na sequência da agressão da Ucrânia pela Rússia”, na sua atual redação.
