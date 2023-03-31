@@ -1,0 +1,10 @@
+Resolução da Assembleia da República n.º 25/2023
+Sumário: Recomenda ao Governo que apoie as iniciativas internacionais que visem condenar o Afeganistão pelas decisões que impedem as meninas, raparigas e mulheres de frequentar o ensino médio e o ensino superior, apelando à respetiva revogação, e que adote medidas que promovam a sua integração em instituições de ensino nacionais.
+Recomenda ao Governo que apoie as iniciativas internacionais que visem condenar o Afeganistão pelas decisões que impedem as meninas, raparigas e mulheres de frequentar o ensino médio e o ensino superior, apelando à respetiva revogação, e que adote medidas que promovam a sua integração em instituições de ensino nacionais.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+a) Apoie, no âmbito das organizações internacionais de que faça parte, e, em especial, do Conselho de Direitos Humanos da ONU, as iniciativas internacionais que visem condenar o Afeganistão pelas decisões que, de forma sistemática, põem em causa a liberdade das mulheres de escolherem o próprio destino e as excluem de todos os aspetos da vida pública e política, apelando à revogação imediata das decisões que impedem as meninas, raparigas e mulheres de frequentar o ensino médio e o ensino superior;
+b) Incentive as instituições de ensino superior a implementarem programas de acolhimento e apoio a estudantes, investigadores e professores, provenientes do Afeganistão, que sejam impedidos de estudar, estejam em risco ou forçados à deslocação, promovendo a solidariedade e a sua inclusão em contexto académico;
+c) Avalie, em articulação com a União Europeia, a criação de um programa de bolsas de estudo para os ensinos básico, secundário e superior, destinado a meninas, raparigas e mulheres afegãs, bem como a criação de um regime especial que facilite a respetiva viagem, concessão de estatuto de refugiado e integração nas instituições de ensino portuguesas.
+Aprovada em 10 de março de 2023.
+O Presidente da Assembleia da República, Augusto Santos Silva.
+116322961
