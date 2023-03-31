@@ -1,0 +1,159 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "70",
+    "id": "152716",
+    "titulo": "Procede à aplicação transitória de isenção de IVA a certos produtos alimentares"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-03-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64030",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-03-31",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259775954426c4f54497a4c544534596a63744e475a68597930344f575a694c5755304e6a6c6b4d7a67794d44417a5a6935775a47593d&fich=f0a0e923-18b7-4fac-89fb-e469d382003f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a685a6a646a4f446b784c574a6a596d45744e446b334e4331684f4451794c546332596a67784e6d4e6d4f474a6b4d4335775a47593d&fich=faf7c891-bcba-4974-a842-76b816cf8bd0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração PAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49784d6a6c6c597a417a4c546b324e6a55744e4441304e6930355a47466c4c54686b4f4759354d7a59344f4451794d4335775a47593d&fich=2129ec03-9665-4046-9dae-8d8f93688420.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a646b596a497a5a6a49344c5751304d6a55744e4756684d6931684d6a59344c5463304e7a426b4d6a457a4e7a67334d4335775a47593d&fich=7db23f28-d425-4ea2-a268-7470d2137870.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686c593245324f4455354c5445344d6a63744e44686a597931694d5451774c546b315a6a5a684d5759355a474d774d7935775a47593d&fich=8eca6859-1827-48cc-b140-95f6a1f9dc03.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-03-31",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245304e6a67784e7a417a4c546b314d3255744e446b774d4330344e7a4d314c544534595459315a546b774d7a41334d7935775a47593d&fich=a4681703-953e-4900-8735-18a65e903073.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração PSD - 1.ª substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49794e6d59774d7a6b314c546b324f4459744e4455324d6930344e6a45314c546778596a646c5a5449344e44637a4e4335775a47593d&fich=226f0395-9686-4562-8615-81b7ee284734.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-03",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d314d475269595467344c574d7a597a63744e4459794d533035597a686c4c575934597a5a6b5a6a45345a4463774e4335775a47593d&fich=c50dba88-c3c7-4621-9c8e-f8c6df18d704.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração PAN  (artigo 2.º) - 1.ª substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d344e7a52684d3251344c546b33596a45744e474d314d7930345a6d4d304c574d78595467305a4745335a474e6c595335775a47593d&fich=c874a3d8-97b1-4c53-8fc4-c1a84da7dcea.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração PSD - alteração de redação al. l), n.º1, Art. 2.º",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6a4e5451304d544a684c5749325a6a55744e474e6d4f4330345a6d4d334c54557a4d4751794e6a52684d6d4a6b597935775a47593d&fich=2c54412a-b6f5-4cf8-8fc7-530d264a2bdc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-04",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45334d6a55774d6a59784c574934596a51744e474e6b4d7931694d4442684c5459314e6d566d4e6a4d794e54686a4e4335775a47593d&fich=17250261-b8b4-4cd3-b00a-656ef63258c4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-04",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Resultado das votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e554e505269394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a646b4e446b795a6d466c4c544e6c4e5755744e475934596931684f4459324c5749324d7a67305a5449315a6a4a6a4f5335775a47593d&fich=7d492fae-3e5e-4f8b-a866-b6384e25f2c9.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8329",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento e Finanças",
+        "Numero": "8329",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-04-04",
+            "dataRemessa": "2023-04-04",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-03-31",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1325819",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
