@@ -2,7 +2,7 @@
 
 ### Prestação de serviços durante o período de livre resolução
 
-1 - Sempre que o consumidor pretenda que a prestação do serviço se inicie durante o prazo previsto no artigo 10.º e o contrato imponha uma obrigação de pagamento, o prestador do serviço deve exigir que o consumidor apresente um pedido expresso através de suporte duradouro e solicitar-lhe o reconhecimento de que, se o contrato for plenamente executado, o consumidor perde o direito de livre resolução.
+1 - Se o consumidor pretender que a prestação do serviço, o fornecimento de água, gás ou eletricidade não limitado em volume ou quantidade, ou o fornecimento de aquecimento urbano se inicie durante o prazo previsto no artigo 10.º, e o contrato impuser uma obrigação de pagamento, o prestador do serviço exige ao consumidor a apresentação de um pedido expresso e o reconhecimento de que, se o contrato for plenamente executado, o consumidor perde o direito de livre resolução.
 
 2 - Se o consumidor exercer o direito de livre resolução, após ter apresentado o pedido previsto no número anterior, deve ser pago ao prestador do serviço um montante proporcional ao que foi efetivamente prestado até ao momento da comunicação da resolução, em relação ao conjunto das prestações previstas no contrato.
 
@@ -26,4 +26,6 @@ ii) O consumidor não tiver reconhecido que perde o seu direito de livre resolu�
 
 iii) O fornecedor de bens não tiver fornecido a confirmação do consentimento prévio e expresso do consumidor.
 
-6 - Quando se trate de contrato celebrado à distância de prestação de serviços ou o fornecimento de água, gás ou eletricidade, caso não sejam postos à venda em volume ou quantidade limitados, ou de aquecimento urbano, sempre que o consumidor pretenda que a prestação ou o fornecimento desses serviços se inicie durante o prazo de retratação previsto no artigo 10.º, o profissional deve exigir que o consumidor apresente um pedido expresso.
+6 - (Revogado.)
+
+7 - Quando se trate de contratos celebrados fora do estabelecimento comercial, o pedido previsto no n.º 1 é apresentado em suporte duradouro.

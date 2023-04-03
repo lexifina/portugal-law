@@ -16,9 +16,9 @@ iii) Do dia em que o consumidor ou um terceiro por ele indicado, que não seja o
 
 c) Do dia da celebração do contrato, no caso dos contratos de fornecimento de água, gás ou eletricidade, que não estejam à venda em volume ou quantidade limitados, de aquecimento urbano ou de conteúdos digitais que não sejam fornecidos num suporte material.
 
-2 - Se o fornecedor de bens ou prestador de serviços não cumprir o dever de informação pré-contratual determinado na alínea l) do n.º 1 do artigo 4.º, o prazo para o exercício do direito de livre resolução é de 12 meses a contar da data do termo do prazo inicial a que se refere o número anterior.
+2 - Se o fornecedor de bens ou prestador de serviços não cumprir o dever de informação pré-contratual determinado na alínea m) do n.º 1 do artigo 4.º, o prazo para o exercício do direito de livre resolução é de 12 meses a contar da data do termo do prazo inicial a que se refere o número anterior.
 
-3 - Se, no decurso do prazo previsto no número anterior, o fornecedor de bens ou prestador de serviços cumprir o dever de informação pré-contratual a que se refere a alínea n) do n.º 1 do artigo 4.º, o consumidor dispõe de 14 dias ou, nos contratos celebrados fora do estabelecimento comercial a que se referem as subalíneas ii) e v) da alínea i) do artigo 3.º, de 30 dias para resolver o contrato a partir da data de receção dessa informação.
+3 - Se, no decurso do prazo previsto no número anterior, o fornecedor de bens ou prestador de serviços cumprir o dever de informação pré-contratual a que se refere a alínea m) do n.º 1 do artigo 4.º, o consumidor dispõe de 14 dias ou, nos contratos celebrados fora do estabelecimento comercial a que se referem as subalíneas ii) e v) da alínea i) do artigo 3.º, de 30 dias para resolver o contrato a partir da data de receção dessa informação.
 
 4 - O disposto no n.º 1 não impede a fixação, entre as partes, de prazo mais alargado para o exercício do direito de livre resolução.
 

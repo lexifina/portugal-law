@@ -30,7 +30,7 @@ j) Celebrados em hasta pública;
 
 k) Fornecimento de alojamento, para fins não residenciais, transporte de bens, serviços de aluguer de automóveis, restauração ou serviços relacionados com atividades de lazer se o contrato previr uma data ou período de execução específicos;
 
-l) Fornecimento de conteúdos digitais não fornecidos em suporte material com uma obrigação de pagamento quando:
+l) Fornecimento, que não em suporte material, de conteúdos digitais, se a execução do contrato tiver tido início e do mesmo resultar para o consumidor a obrigação de pagar, quando:
 
 i) O consumidor consentir prévia e expressamente que a execução tenha início durante o prazo de livre resolução e reconhecer que o seu consentimento implica a perda do direito de livre resolução; e
 

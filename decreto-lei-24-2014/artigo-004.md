@@ -8,7 +8,7 @@
 
 1 - Antes de o consumidor se vincular a um contrato celebrado à distância ou fora do estabelecimento comercial, ou por uma proposta correspondente, o fornecedor de bens ou prestador de serviços deve facultar-lhe, em tempo útil e de forma clara e compreensível, as seguintes informações:
 
-a) Identidade do fornecedor de bens ou do prestador de serviços, incluindo o nome, a firma ou denominação social, o endereço físico onde se encontra estabelecido, o número de telefone e o endereço eletrónico, caso existam, de modo a permitir ao consumidor contactá-lo e comunicar de forma rápida e eficaz;
+a) Identidade do fornecedor de bens ou do prestador de serviços, incluindo o nome, a firma ou denominação social, o endereço físico onde se encontra estabelecido, o número de telefone e o endereço eletrónico, de modo a permitir ao consumidor contactá-lo e comunicar de forma rápida e eficaz;
 
 b) Quando aplicável, o endereço físico e identidade do profissional que atue por conta ou em nome do fornecedor de bens ou prestador de serviços;
 
@@ -60,7 +60,7 @@ bb) A possibilidade de acesso a um mecanismo extrajudicial de reclamação e rec
 
 2 - Sem prejuízo do disposto na alínea a) do número anterior, no caso de o fornecedor de bens ou prestador de serviços fornecer outro meio de comunicação em linha que permita ao consumidor conservar toda a correspondência escrita mantida, inclusive a data e a hora da correspondência, num suporte duradouro, a informação deve incluir dados pormenorizados sobre esse outro meio que deve permitir o contacto rápido e eficaz com o profissional.
 
-3 - As informações determinadas nas alíneas l), m) e n) do número anterior podem ser prestadas mediante o modelo de informação sobre o direito de livre resolução constante da parte A do anexo ao presente decreto-lei, do qual faz parte integrante, considerando-se que o fornecedor de bens ou prestador de serviços cumpriu o dever de informação quanto a esses elementos, se tiver entregado essas instruções ao consumidor corretamente preenchidas.
+3 - As informações determinadas nas alíneas m), n) e o) do n.º 1 podem ser prestadas mediante o modelo de informação sobre o direito de livre resolução constante da parte A do anexo ao presente decreto-lei, do qual faz parte integrante, considerando-se que o fornecedor de bens ou prestador de serviços cumpriu o dever de informação quanto a esses elementos se tiver entregado ao consumidor essas instruções corretamente preenchidas.
 
 4 - As informações a que se refere o n.º 1 integram o contrato celebrado à distância ou fora do estabelecimento comercial, não podendo o respetivo conteúdo ser alterado, salvo acordo expresso das partes em contrário anterior à celebração do contrato.
 

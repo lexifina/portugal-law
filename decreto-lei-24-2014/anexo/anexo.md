@@ -1,6 +1,6 @@
 # Anexo
 
-### (a que se refere alínea j) do n.º 1 do artigo 4.º)
+### [a que se refere a alínea m) do n.º 1 do artigo 4.º]
 
 A. Formulário de informação sobre o direito de livre resolução
 
@@ -38,7 +38,7 @@ d) No caso de um contrato relativo à entrega de um bem constituído por vários
 
 e) No caso de um contrato de entrega periódica de bens durante um determinado período: «em que adquire ou um terceiro por si indicado, que não seja o transportador, adquire a posse física do primeiro bem.».
 
-(2) Inserir aqui o seu nome, endereço geográfico e, eventualmente, número de telefone, e endereço de correio eletrónico.
+(2) Inserir aqui o seu nome, endereço geográfico, número de telefone e endereço de correio eletrónico.
 
 (3) Se der ao consumidor a possibilidade de preencher e apresentar por via eletrónica informação sobre a resolução do contrato através do seu sítio Internet, inserir o seguinte: «Dispõe também da possibilidade de preencher e apresentar por via eletrónica o modelo de formulário de livre resolução ou qualquer outra declaração inequívoca de resolução através do nosso sítio Internet [inserir endereço Internet]. Se fizer uso dessa possibilidade, enviar-lhe-emos sem demora, num suporte duradouro (por exemplo, por correio eletrónico), um aviso de receção do pedido de resolução.».
 
@@ -70,7 +70,7 @@ B. Modelo de formulário de livre resolução
 
 (só deve preencher e devolver o presente formulário se quiser resolver o contrato)
 
-- Para [inserir aqui o nome, o endereço geográfico e, eventualmente, e o endereço de correio eletrónico do profissional]:
+- Para [inserir aqui o nome, o endereço geográfico e o endereço de correio eletrónico do profissional]:
 
 - Pela presente comunico/comunicamos (*) que resolvo/resolvemos (*) do meu/nosso (*) contrato de compra e venda relativo ao seguinte bem/para a prestação do seguinte serviço (*)
 
