@@ -1,0 +1,31 @@
+# Artigo 15.º
+
+### Prestação de serviços durante o período de livre resolução
+
+1 - Se o consumidor pretender que a prestação do serviço, o fornecimento de água, gás ou eletricidade não limitado em volume ou quantidade, ou o fornecimento de aquecimento urbano se inicie durante o prazo previsto no artigo 10.º, e o contrato impuser uma obrigação de pagamento, o prestador do serviço exige ao consumidor a apresentação de um pedido expresso e o reconhecimento de que, se o contrato for plenamente executado, o consumidor perde o direito de livre resolução.
+
+2 - Se o consumidor exercer o direito de livre resolução, após ter apresentado o pedido previsto no número anterior, deve ser pago ao prestador do serviço um montante proporcional ao que foi efetivamente prestado até ao momento da comunicação da resolução, em relação ao conjunto das prestações previstas no contrato.
+
+3 - O montante proporcional a que se refere o número anterior é calculado com base no preço contratual total.
+
+4 - Se o preço total for excessivo, o montante proporcional é calculado com base no valor de mercado do que foi prestado.
+
+5 - O consumidor não suporta quaisquer custos:
+
+a) Relativos à execução dos serviços durante o prazo de livre resolução, se:
+
+i) O prestador do serviço não tiver cumprido o dever de informação pré-contratual previsto nas alíneas l) ou n) do n.º 1 do artigo 4.º; ou
+
+ii) O consumidor não tiver solicitado expressamente o início do serviço durante o prazo de livre resolução; ou
+
+b) Relativos ao fornecimento, na totalidade ou em parte, de conteúdos digitais que não sejam fornecidos num suporte material, se:
+
+i) O consumidor não tiver dado o seu consentimento prévio para que a execução tenha início antes do fim do prazo de 14 dias ou de 30 dias referido no artigo 10.º;
+
+ii) O consumidor não tiver reconhecido que perde o seu direito de livre resolução ao dar o seu consentimento, ou
+
+iii) O fornecedor de bens não tiver fornecido a confirmação do consentimento prévio e expresso do consumidor.
+
+6 - (Revogado.)
+
+7 - Quando se trate de contratos celebrados fora do estabelecimento comercial, o pedido previsto no n.º 1 é apresentado em suporte duradouro.
