@@ -1,0 +1,200 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "707",
+    "id": "152751",
+    "titulo": "Proíbe práticas atentatórias contra pessoas LGBT+ através das denominadas «terapias de conversão sexual»"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-04-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "64051",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-04-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-04-19",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d33596a677a4d6a417a4c5455335a574d744e444d785a5330344e545a6d4c5745305a6a49794f4755314d5449304f5335775a47593d&fich=37b83203-57ec-431e-856f-a4f228e51249.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45794d7a633259546b304c5459324d6a55744e4755794d4331684e7a45304c546c6d4e446b774d4455344e7a4e6d5a6935775a47593d&fich=12376a94-6625-4e20-a714-9f49005873ff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6a59574d354e6a51304c546c694e6a51744e474e69597930344d7a45354c546b354d54526d5a6d4e6d59325933597935775a47593d&fich=6cac9644-9b64-4cbc-8319-9914ffcfcf7c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249775a6d566c4f544e694c5451354f4759744e444d345a693168596d59354c574a6d4f546c6b593249355a5751315a5335775a47593d&fich=b0fee93b-498f-438f-abf9-bf99dcb9ed5e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-04-26",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d794e474e6d4f4455334c546c694d6a63744e4745774e6931684f444e6a4c544e6c4d5455324d6d566b4f544d334f4335775a47593d&fich=c24cf857-9b27-4a06-a83c-3e1562ed9378.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - CNECV - Conselho Nacional de Ética para as Ciências da Vida",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45774e4449785a4749784c544e6b5a5441744e446c6b4e7931684d7a41784c5751314e44566c5a47497a4e324d7a5a6935775a47593d&fich=10421db1-3de0-49d7-a301-d545edb37c3f.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-04-18"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-04-26"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-04-14"
+          },
+          {
+            "link": "",
+            "nome": "CNECV - Conselho Nacional de Ética para as Ciências da Vida em 2023-05-15"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-04-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-04-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-04-05"
+          },
+          {
+            "link": "",
+            "nome": "CNECV - Conselho Nacional de Ética para as Ciências da Vida em 2023-04-05"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CH",
+            "id": "7336",
+            "motivoCessacao": null,
+            "nome": "Pedro Pinto"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-04-19",
+            "dataRemessa": "2023-04-19",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2023-04-19",
+            "descricao": null,
+            "detalhe": null,
+            "id": "114744",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "72",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2023-04-04",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1325941",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "975214",
+        "obs": null,
+        "pag": [
+          "16-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-19",
+        "pubLeg": "XV",
+        "pubNr": "208",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/208/2023-04-19/16?pgs=16-21&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
