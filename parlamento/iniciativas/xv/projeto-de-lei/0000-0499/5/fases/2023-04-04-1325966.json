@@ -1,0 +1,102 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "5",
+    "id": "121331",
+    "titulo": "Regula as condições em que a morte medicamente assistida não é punível e altera o Código Penal"
+  },
+  "fase": "Envio à Comissão para fixação da Redação final",
+  "codigo_fase": "348",
+  "data_registo": "2023-04-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338344d44426d4e6a4e694f433035595751334c5451784d474d744f4745775979316b4d444d315a6a4e6b4e546733596a6b755a47396a65413d3d&fich=800f63b8-9ad7-410c-8a0c-d035f3d587b9.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4f546779595455345a5331684e4446684c54526a4e6d45744f4468684d79316c4e446b324e6d4e6d4e324a6a4f544d755a47396a&fich=c982a58e-a41a-4c6a-88a3-e4966cf7bc93.doc&Inline=true",
+        "anexoNome": "Projeto de Decreto"
+      }
+    ],
+    "CodigoFase": "348",
+    "Comissao": [
+      {
+        "AccId": "64064",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-04-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-04-12",
+            "TipoDocumento": "Redação final",
+            "TituloDocumento": "Redação Final - Decreto da Assembleia da República n.º 23/XV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566d4e7a49304e5759784c545668596a41744e4756694d5331685a44566b4c5468694d47597a4e6a526c5a475135596935775a47593d&fich=5f7245f1-5ab0-4eb1-ad5d-8b0f364edd9b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-04-12",
+            "dataRemessa": "2023-04-12",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Redação Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-04-04",
+    "EvtId": "133",
+    "Fase": "Envio à Comissão para fixação da Redação final",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1325966",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
