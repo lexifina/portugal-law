@@ -21,3 +21,11 @@
 9 - É aplicável à mediação o disposto no artigo 527.º, com as necessárias adaptações.
 
 10 - É aplicável, ao local em que decorre a mediação e ao seu apoio administrativo, o disposto em legislação específica sobre o local de funcionamento e apoio administrativo do tribunal arbitral, com as necessárias adaptações.
+
+11 - Qualquer das partes pode requerer imediatamente a arbitragem necessária prevista no artigo 510.º:
+
+a) Caso a negociação não seja remetida para mediação nos termos do disposto no n.º 4;
+
+b) Nas situações em que haja mediação, mas esta se conclua sem acordo quanto à revisão total ou parcial da convenção coletiva.
+
+12 - No caso previsto no número anterior, suspende-se o período de sobrevigência até à decisão arbitral proferida em sede de arbitragem necessária.

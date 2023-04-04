@@ -18,7 +18,11 @@ c) Apresentação de proposta de revisão da convenção que inclua a revisão d
 
 5 - Para efeitos dos n.os 3 e 4 o período de negociação, com suspensão, não pode exceder o prazo de 18 meses.
 
-6 - Decorrido o período referido nos n.os 3 e 5, consoante o caso, a convenção mantém-se em vigor durante 45 dias após qualquer das partes comunicar ao ministério responsável pela área laboral e à outra parte que o processo de negociação terminou sem acordo, após o que caduca.
+6 - Decorrido o período referido nos n.os 3 e 5, consoante o caso, a convenção mantém-se em vigor durante 45 dias após qualquer das partes comunicar ao ministério responsável pela área laboral e à outra parte que o processo de negociação terminou sem acordo, após o que caduca, produzindo a caducidade efeitos:
+
+a) No dia seguinte à publicação referida no n.º 9 do artigo 502.º; ou
+
+b) Decorridos 90 dias daquela comunicação, devendo, neste caso, a entidade empregadora publicitar o facto nos termos do n.º 1 do artigo 480.º e informar os serviços competentes do ministério responsável pela área laboral da data dessa publicitação.
 
 7 - Na ausência de acordo anterior sobre os efeitos decorrentes da convenção em caso de caducidade, o ministro responsável pela área laboral notifica as partes, dentro do prazo referido no número anterior, para que, querendo, acordem esses efeitos, no prazo de 15 dias.
 
