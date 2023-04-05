@@ -1,0 +1,475 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "676",
+    "id": "152683",
+    "titulo": "Cria a Carta dos Direitos da Cidadania Sénior"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2023-04-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "18936",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2023-04-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "151997",
+        "leg": "XV",
+        "nr": "262",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16361",
+            "obs": null,
+            "pag": [
+              "75-82"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-04-06",
+            "pubLeg": "XV",
+            "pubNr": "110",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/75?pgs=75-82&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pelo reforço da Rede de Equipamentos e Serviços de Apoio aos Idosos e valorização das Associações de Reformados, Pensionistas e Idosos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-04-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1777",
+                "nome": "Manuel Loff"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_05_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_05_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76",
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-06",
+                "pubLeg": "XV",
+                "pubNr": "110",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/75?pgs=75-76,82&org=PLC"
+              }
+            ],
+            "sumario": "Pelo reforço da rede de equipamentos e serviços de apoio aos idosos e valorização das associações de reformados, pensionistas e idosos; Cria a carta dos direitos da cidadania sénior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_05_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-06",
+                "pubLeg": "XV",
+                "pubNr": "110",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/76?pgs=76&org=PLC"
+              }
+            ],
+            "sumario": "Pelo reforço da rede de equipamentos e serviços de apoio aos idosos e valorização das associações de reformados, pensionistas e idosos; Cria a carta dos direitos da cidadania sénior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7866",
+                "nome": "Paula Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_05_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-06",
+                "pubLeg": "XV",
+                "pubNr": "110",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/76?pgs=76-78&org=PLC"
+              }
+            ],
+            "sumario": "Pelo reforço da rede de equipamentos e serviços de apoio aos idosos e valorização das associações de reformados, pensionistas e idosos; Cria a carta dos direitos da cidadania sénior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5492",
+                "nome": "Rui Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_05_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-06",
+                "pubLeg": "XV",
+                "pubNr": "110",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "sumario": "Pelo reforço da rede de equipamentos e serviços de apoio aos idosos e valorização das associações de reformados, pensionistas e idosos; Cria a carta dos direitos da cidadania sénior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_05_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-06",
+                "pubLeg": "XV",
+                "pubNr": "110",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "sumario": "Pelo reforço da rede de equipamentos e serviços de apoio aos idosos e valorização das associações de reformados, pensionistas e idosos; Cria a carta dos direitos da cidadania sénior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6875",
+                "nome": "Carla Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_05_15_00_00_clean_14_plenario.xml&idsegmento=62"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-06",
+                "pubLeg": "XV",
+                "pubNr": "110",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "sumario": "Pelo reforço da rede de equipamentos e serviços de apoio aos idosos e valorização das associações de reformados, pensionistas e idosos; Cria a carta dos direitos da cidadania sénior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "6864",
+                "nome": "Inês de Sousa Real"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "19:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_05_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "323285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-04-06",
+                "pubLeg": "XV",
+                "pubNr": "110",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Pelo reforço da rede de equipamentos e serviços de apoio aos idosos e valorização das associações de reformados, pensionistas e idosos; Cria a carta dos direitos da cidadania sénior.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1325897",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "985836",
+        "obs": null,
+        "pag": [
+          "75-82"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-06",
+        "pubLeg": "XV",
+        "pubNr": "110",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/110/2023-04-06/75?pgs=75-82&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
