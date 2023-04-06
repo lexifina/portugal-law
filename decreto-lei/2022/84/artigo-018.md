@@ -12,11 +12,11 @@ a) Proceder ao registo dos operadores económicos referidos nos n.os 1, 2, 3 e 5
 
 b) Proceder à verificação do cumprimento dos critérios de sustentabilidade e de redução de emissões de GEE dos combustíveis de baixo teor em carbono, dos biolíquidos, dos combustíveis biomássicos, bem como dos critérios de redução de GEE dos combustíveis líquidos e gasosos renováveis de origem não biológica para transportes e dos combustíveis de carbono reciclado;
 
-c) Realizar as ações necessárias para a verificação dos requisitos para cumprimento dos critérios de sustentabilidade e de redução das emissões GEE e para assegurar a validade e precisão da informação reportada pelos operadores económicos referidos na alínea a), comunicando à Entidade Nacional para o Setor Energético, E. P. E. (ENSE, E. P. E.), o seu resultado;
+c) Realizar as ações necessárias para a verificação dos requisitos para cumprimento dos critérios de sustentabilidade e de redução das emissões GEE e para assegurar a validade e precisão da informação reportada pelos operadores económicos referidos na alínea a), comunicando à ENSE, E. P. E., o seu resultado;
 
 d) Criar e coordenar um regime nacional de verificação do cumprimento dos critérios de sustentabilidade e de redução das emissões de GEE, a notificar à Comissão nos termos do disposto no n.º 6 do artigo 30.º da Diretiva (UE) 2018/2001;
 
-e) Adaptar, manter e gerir, conjuntamente com a Entidade Nacional para o Mercado de Combustíveis, E. P. E. (ENSE, E. P. E.), o Balcão Único da Energia, com o objetivo de assegurar a rastreabilidade dos biocombustíveis líquidos e gasosos para transportes, dos combustíveis líquidos e gasosos renováveis de origem não biológica para transportes e dos combustíveis de carbono reciclado produzidos, importados, exportados e consumidos em território nacional, a ligar à base de dados da União Europeia a que se refere o n.º 2 do artigo 28.º da Diretiva (UE) 2018/2001;
+e) Adaptar, manter e gerir, conjuntamente com a ENSE, E. P. E., o Balcão Único da Energia, com o objetivo de assegurar a rastreabilidade dos biocombustíveis líquidos e gasosos para transportes, dos combustíveis líquidos e gasosos renováveis de origem não biológica para transportes e dos combustíveis de carbono reciclado produzidos, importados, exportados e consumidos em território nacional, a ligar à base de dados da União Europeia a que se refere o n.º 2 do artigo 28.º da Diretiva (UE) 2018/2001;
 
 f) Assegurar, conjuntamente com a ENSE, E. P. E., o registo dos biolíquidos e dos combustíveis biomássicos utilizados em instalações de produção de eletricidade, de aquecimento e arrefecimento ou de combustíveis consumidos em território nacional, através do Balcão Único da Energia;
 

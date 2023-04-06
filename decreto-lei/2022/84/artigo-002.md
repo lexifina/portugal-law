@@ -26,7 +26,7 @@ j) «Consumo final bruto de energia proveniente de todas as fontes», o consumo 
 
 k) «Fornecedor de combustíveis», a entidade que introduz no consumo combustíveis rodoviários líquidos e/ou gasosos, processando as declarações de introdução no consumo (DIC), ou, no ato de importação, através da respetiva declaração aduaneira, nos termos do Código dos Impostos Especiais de Consumo (CIEC) ou outra entidade que seja responsável pelo pagamento do correspondente imposto sobre produtos petrolíferos e energéticos (ISP);
 
-l) «Gases de baixo teor de carbono», os combustíveis gasosos produzidos a partir de um processo que utilize energia de fontes de origem não renovável, cujas emissões de carbono sejam inferiores a 36,4 gCO(índice 2)-eq/MJ;
+l) 'Gases de baixo teor de carbono', os combustíveis gasosos produzidos a partir de um processo que utilize energia de fontes de origem não renovável, cujas emissões de carbono sejam inferiores a 36,4 g CO(índice 2) eq/MJ;
 
 m) «Gases de origem renovável», os combustíveis gasosos produzidos de processos que utilizem energia de fontes de origem renovável na aceção da Diretiva (UE) 2018/2001;
 
@@ -50,4 +50,4 @@ v) «Terrenos de pastagem ricos em biodiversidade», os terrenos de pastagem nat
 
 w) «Valor real», a redução de emissões de GEE resultante de todas ou algumas das fases de um determinado processo de produção de biocombustível, de biolíquido ou de combustível biomássico, calculada nos termos da portaria prevista na alínea a) do n.º 3 do artigo 4.º
 
-2 - Para efeitos do disposto no presente decreto-lei, são, ainda, aplicáveis as definições constantes das alíneas 1), 3), 5), 19), 27), 30), 31), 32), 33), 36), 39), 40), 41), 42), 43), 44), 46) e 47) do artigo 2.º e nas alíneas a) e b) do n.º 4 do artigo 29.º da Diretiva (UE) 2018/2001.
+2 - Para efeitos do disposto no presente decreto-lei, são, ainda, aplicáveis as definições constantes das alíneas 1), 2), 3), 5), 6), 7), 8), 9), 13), 19), 20), 25), 26), 27), 30), 31), 32), 33), 36), 39), 40), 41), 42), 43), 44), 46) e 47) do artigo 2.º e das alíneas a) e b) do n.º 4 do artigo 29.º da Diretiva (UE) 2018/2001.

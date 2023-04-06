@@ -2,7 +2,7 @@
 
 ### Plataforma de transação de títulos de biocombustível bonificados
 
-1 - Pelo menos 5 % das transações de TdB bonificados identificados no artigo anterior artigo devem ser efetuadas numa plataforma eletrónica, a criar no âmbito do Balcão Único da Energia, no formato de bolsa de títulos, baseada em licitações de procura e oferta ajustáveis.
+1 - Pelo menos 5 % das transações de TdB bonificados identificados no artigo anterior devem ser efetuadas numa plataforma eletrónica, a criar no âmbito do Balcão Único da Energia, no formato de bolsa de títulos, baseada em licitações de procura e oferta ajustáveis.
 
 2 - A plataforma referida no número anterior é gerida pela ENSE, E. P. E.
 

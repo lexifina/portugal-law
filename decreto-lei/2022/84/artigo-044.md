@@ -10,7 +10,7 @@ b) Tenha a sua produção com origem no aproveitamento de, no mínimo 80 % em ma
 
 c) Coloque toda a sua produção em frotas e consumidores cativos, devidamente identificados, incluindo o número de identificação fiscal;
 
-d) Cumpra os critérios de sustentabilidade e de emissões de redução de GEE previstos no presente decreto-lei.
+d) Cumpra os critérios de sustentabilidade e de redução de emissões de GEE previstos no presente decreto-lei.
 
 2 - Considera-se ainda PPD a autarquia local ou o conjunto de autarquias, o serviço ou organismo dependente de uma ou mais autarquias locais e a empresa do setor empresarial local, tal como definida no artigo 2.º da Lei n.º 50/2012, de 31 de agosto, na sua redação atual, que, cumulativamente:
 
@@ -27,3 +27,5 @@ d) Cumpra os requisitos de sustentabilidade previstos nos artigos 10.º a 16.º
 4 - Os PPD devem comunicar à DGEG e à AT, até ao dia 20 dos meses de janeiro e julho, as quantidades de biocombustíveis ou de outros combustíveis renováveis por si produzidas e introduzidas no consumo no semestre anterior, bem como a identificação dos consumidores e das respetivas quantidades que lhes tenham sido fornecidas.
 
 5 - Os TdB correspondentes aos biocombustíveis introduzidos no consumo pelos PPD que beneficiem de isenção de ISP, nos termos do CIEC, revertem para a DGEG.
+
+6 - O reconhecimento como PPD é objeto de despacho conjunto do diretor-geral da AT e do diretor-geral da DGEG.

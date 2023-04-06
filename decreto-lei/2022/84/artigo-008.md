@@ -20,7 +20,7 @@ e) A partir de 2029, 16 %.
 
 a) Em 2022, 0,2 %;
 
-b) Em 2023, 0,7 %;
+b) Em 2023 e 2024, 0,7 %;
 
 c) Em 2025 e 2026, 2,0 %;
 
@@ -39,3 +39,11 @@ f) Em 2030, 10 %.
 7 - A verificação do cumprimento do disposto nos n.os 1 e 3 é efetuada trimestralmente, devendo os fornecedores de combustíveis apresentar à Entidade Nacional para o Sector Energético, E. P. E. (ENSE, E. P. E.), TdB e TdC comprovativos do cumprimento das suas obrigações de incorporação até ao final do mês seguinte ao trimestre a que esta respeita.
 
 8 - A ENSE, E. P. E., procede ao cancelamento dos TdB e TdC apresentados ao abrigo do número anterior.
+
+9 - Para o cumprimento das metas fixadas no n.º 1:
+
+a) A quota de biocombustíveis e biogás produzidos a partir de culturas alimentares para consumo humano e animal não pode ser superior à percentagem estabelecida na alínea a) do n.º 3 do artigo 6.º sobre a quantidade de combustíveis rodoviários introduzidos no consumo pelo fornecedor de combustíveis;
+
+b) A quota de biocombustíveis e biogás produzidos a partir das matérias-primas enumeradas na parte B do anexo i do presente decreto-lei não pode ser superior à percentagem a estabelecer pela portaria referida na subalínea ii) da alínea a) do n.º 1 do artigo 6.º;
+
+c) Aplica-se o multiplicador referido na alínea f) do n.º 3 do artigo 6.º aos TdB relativos aos combustíveis de baixo carbono destinados aos transportes marítimos e aéreos.

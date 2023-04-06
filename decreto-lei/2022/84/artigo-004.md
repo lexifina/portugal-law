@@ -36,13 +36,13 @@ a) Transferida para outro Estado-Membro ao abrigo de uma transferência estatís
 
 b) Objeto de notificação para a sua contabilização por outro Estado-Membro ao abrigo da celebração de um projeto conjunto nos termos do artigo 21.º
 
-8 - Para efeitos do disposto no n.º 4, no cálculo previsto no n.º 1 deve ser adicionada a energia que for:
+8 - Para efeitos do disposto no n.º 6, no cálculo previsto no n.º 1 deve ser adicionada a energia que for:
 
 a) Transferida para efeitos da sua contabilização na meta nacional prevista no artigo anterior ao abrigo de uma transferência estatística acordada nos termos do artigo 20.º;
 
 b) Objeto de notificação para a sua contabilização na meta nacional prevista no artigo anterior ao abrigo da celebração de um projeto conjunto nos termos dos artigos 21.º e 24.º
 
-9 - No cálculo da quota de energia proveniente de fontes renováveis prevista no n.º 6 só são considerados os biocombustíveis, os biolíquidos e os combustíveis biomássicos que cumpram os critérios de sustentabilidade previstos no presente decreto-lei.
+9 - No cálculo da quota de energia proveniente de fontes renováveis prevista no n.º 6 só são considerados os biocombustíveis, os biolíquidos e os combustíveis biomássicos que cumpram o disposto no artigo 10.º
 
 10 - No cálculo do consumo final bruto de energia para efeitos de avaliação do cumprimento das metas fixadas no artigo anterior, a quantidade de energia consumida pela aviação é considerada como não excedendo 6,18 % do consumo final bruto de energia em termos nacionais.
 

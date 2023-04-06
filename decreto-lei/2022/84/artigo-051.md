@@ -2,7 +2,7 @@
 
 ### Instrução de decisão e produto das coimas
 
-1 - Compete à ENSE, E. P. E., proceder à instauração, instrução e decisão dos processos de contraordenação nos termos previstos no artigo anterior.
+1 - Compete à ENSE, E. P. E., proceder à instauração, instrução e decisão dos processos de contraordenação nos termos previstos nos artigos 48.º a 50.º
 
 2 - A aplicação de coimas e sanções acessórias, compete ao presidente do conselho de administração da ENSE, E. P. E.
 
