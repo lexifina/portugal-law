@@ -28,7 +28,7 @@ k) «Exploração florestal» o prédio ou conjunto de prédios, de forma contí
 
 l) «Fogo controlado» o uso do fogo na gestão de espaços florestais, sob condições, normas e procedimentos conducentes à satisfação de objetivos específicos e quantificáveis e que é executada sob responsabilidade de técnico credenciado, nos termos da legislação especial aplicável;
 
-m) 'Intervenções com escala territorial relevante', as intervenções que abranjam áreas mínimas de 750 ha, ou que, no caso da operação 8.1.4, incidam em áreas afetadas superiores a 750 ha identificadas pelo ICNF, I. P., para efeitos de estabilização da emergência, sem prejuízo do disposto no artigo seguinte;
+m) 'Intervenções com escala territorial relevante', as intervenções que abranjam áreas mínimas de 750 ha, ou que, no caso da operação n.º 8.1.4, incidam em áreas afetadas superiores a 500 ha identificadas pelo ICNF, I. P., para efeitos de estabilização da emergência, sem prejuízo do disposto no artigo seguinte;
 
 n) (Revogada);
 
