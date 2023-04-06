@@ -86,15 +86,11 @@ a) Soldas,
 
 b) Revestimentos de pontos terminais de componentes elétricos e eletrónicos e placas de circuito impresso,
 
-c) Ligações de cabos elétricos, blindagens e conectores protegidos,
+c) Bobinas de IRM não integradas, para as quais a declaração de conformidade deste modelo seja emitida pela primeira vez antes de 23 de setembro de 2022; ou
 
-Que são utilizados em
+d) Dispositivos de IRM, incluindo bobinas integradas, utilizados em campos magnéticos dentro de uma esfera com 1 m de raio em torno do isocentro do íman em equipamentos médicos de imagiologia por ressonância magnética, para os quais a declaração de conformidade seja emitida pela primeira vez antes de 30 de junho de 2024.
 
-a) Campos magnéticos situados numa esfera de 1 m de raio em torno do isocentro do íman em equipamentos médicos de imagem por ressonância magnética, incluindo os monitores de paciente concebidos para serem usados dentro dessa esfera, ou
-
-b) Campos magnéticos situados até 1 m de distância das superfícies externas dos ímanes do ciclotrão ou dos ímanes que servem para o transporte de feixes e o controlo da direção dos feixes utilizados na terapia com partículas.
-
-Caduca em 30 de junho de 2020.
+Caduca em 30 de junho de 2027.
 
 28 - Chumbo em soldas para a montagem de detetores digitais de telureto de cádmio e de telureto de cádmio e zinco em placas de circuito impresso. Caduca em 31 de dezembro de 2017.
 
@@ -193,3 +189,7 @@ Caduca em 1 de janeiro de 2024.
 47 - Ftalato de bis(2-etil-hexilo) (DEHP), ftalato de benzilo e butilo (BBP), ftalato de dibutilo (DBP) e ftalato de di-isobutilo (DIBP) em peças sobresselentes recuperadas de dispositivos médicos, incluindo dispositivos médicos de diagnóstico in vitro, e de acessórios destes, e utilizadas para a reparação ou renovação desses equipamentos, desde que a reutilização ocorra em sistemas fechados de retorno interempresas, passíveis de controlo, e que o cliente seja informado de cada reutilização de peças.
 
 Caduca em 21 de julho de 2028.
+
+48 - Chumbo em cabos e fios supercondutores de óxido de bismuto, estrôncio, cálcio e cobre (BSCCO) e nas ligações elétricas a esses cabos e fios.
+
+Caduca em 30 de junho de 2027.
