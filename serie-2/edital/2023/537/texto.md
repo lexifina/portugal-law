@@ -1,0 +1,8 @@
+Edital n.º 537/2023
+Sumário: Consulta pública da proposta de regulamento interno do Serviço de Atendimento e Acompanhamento Social de Óbidos (SAAS).
+Filipe Miguel Alves Correia Daniel, Presidente da Câmara Municipal de Óbidos:
+Torna público que, em reunião ordinária da Câmara Municipal realizada em 24 de março de 2023, foi deliberado aprovar a Proposta de Regulamento Interno do Serviço de Atendimento e Acompanhamento Social de Óbidos - (SAAS) e proceder à consulta pública nos termos do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, pelo prazo de 30 dias úteis, contados do dia seguinte à publicação do presente Edital no Diário da República.
+Durante este período, poderão os interessados, consultar a proposta de regulamento acima referido, em versão integral, na página da Internet do Município (www.cm-obidos.pt), no Balcão Único do Município de Óbidos, junto à Secção Administrativa Central no Edifício Paços do Concelho, Largo de São Pedro - 2510-086 Óbidos e nas instalações do SAAS (Serviço de Atendimento e Acompanhamento Social) durante o horário normal de expediente.
+Mais se torna público que as observações tidas por convenientes devem ser formuladas por escrito, dirigidas ao Presidente da Câmara Municipal de Óbidos, e endereçadas ao Município de Óbidos - Largo de São Pedro - 2510-086 Óbidos ou entregues diretamente na Secção Administrativa Central deste Município, junto no Balcão Único, durante o horário normal de expediente.
+27 de março de 2023. - O Presidente da Câmara, Eng.º Filipe Miguel Alves Correia Daniel.
+316320206
