@@ -1,0 +1,22 @@
+# Resolução do Conselho do Governo Regional n.º 286/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 67/2023, 4.º suplemento, de 2023-04-10
+
+**Sumário:** Autoriza a celebração de um contrato-programa com a Casa do Povo da Ponta do Sol tendo em vista comparticipar nos custos que esta incorreu com a organização da edição de 2023 da “Feira Regional da Cana-de-açúcar e seus derivados”, mediante uma comparticipação financeira que não excederá o montante de € 22.350,00.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 286/2023
+Sumário: Autoriza a celebração de um contrato-programa com a Casa do Povo da Ponta do Sol tendo em vista comparticipar nos custos que esta incorreu com a organização da edição de 2023 da “Feira Regional da Cana-de-açúcar e seus derivados”, mediante uma comparticipação financeira que não excederá o montante de € 22.350,00.
+Texto: Resolução n.º 286/2023 Considerando que as instituições privadas sem fins lucrativos, que atuam sobre a ruralidade e as suas emanações, têm desempenhado um papel decisivo na divulgação e valorização das produções das atividades económicas e culturais desenvolvidas nos territórios e pelas populações que abrangem; Considerando que esta dinâmica vem concretizando-se na realização, designadamente de eventos de promoção e divulgação, quer da cultura e das tradições associadas à agricultura e à ruralidade, quer dos produtos agrícolas e agroalimentares de maior relevância local; Considerando que, no âmbito das ações atrás referidas, a Casa do Povo da Ponta do Sol, realizou a edição de 2023 da “Feira Regional da Cana-de-açúcar e Seus Derivados”; Considerando que esta iniciativa muito contribuiu para manter viva a importância económica e cultural que o cultivo da cana-de-açúcar assume no contexto da agricultura regional e, em particular, no concelho da Ponta do Sol; Considerando que as receitas próprias da Casa do Povo da Ponta do Sol são manifestamente insuficientes para fazer face ao total das despesas inerentes à realização do evento em causa; Considerando a importância de que se reveste o associativismo e o voluntariado dos sócios da Casa do Povo da Ponta do Sol, muito concorrendo para a sustentabilidade e o desenvolvimento rural, sendo por isso do interesse público assegurar a viabilização dos projetos de promoção que desenvolvem. O Conselho do Governo reunido em plenário em 5 de abril de 2023, resolve:
+1. Ao abrigo das disposições conjugadas dos n.ºs 2 e 10 do artigo 34.º e do artigo 37.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, que Aprova o Orçamento da Região Autónoma da Madeira para 2023, e da Resolução n.º 154/2023, de 9 de março, que aprova o Regulamento de Atribuição do Apoio Financeiro às Casas do Povo da Região Autónoma da Madeira, suas Associações, e a outras entidades privadas sem fins lucrativos, no âmbito
+
+do desenvolvimento rural, autorizar a celebração de contrato-programa com a Casa do Povo da Ponta do Sol tendo em vista comparticipar nos custos que esta incorreu com a organização da edição de 2023 da “Feira Regional da Cana-deaçúcar e Seus Derivados”.
+2. Para a prossecução do previsto no número anterior, conceder à Casa do Povo da Ponta do Sol uma comparticipação financeira que não excederá o montante de € 22.350,00 (vinte e dois mil, trezentos e cinquenta euros).
+3. O contrato-programa produz efeitos desde a data da sua assinatura até 31 de dezembro de 2023.
+4. Aprovar a minuta do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+5. Mandatar o Secretário Regional de Agricultura e Desenvolvimento Rural para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o contrato-programa.
+6. As verbas que asseguram a execução deste contrato-programa, em 2023, são inscritas no Orçamento da Secretaria Regional de Agricultura e Desenvolvimento Rural, na classificação orgânica 51 9 50 02 00, classificação funcional 42, classificação económica D.04.07.01.FA.K0, fonte de financiamento 381, programa 44, medida 12, projeto 52990, fundo 4381000412, centro financeiro M100607, centro de custo M100A63100, cabimento n.º CY42308344 e compromisso n.º CY52308057.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, NO EXERCÍCIO DA PRESIDÊNCIA, Jorge Maria Abreu de Carvalho
