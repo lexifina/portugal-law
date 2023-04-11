@@ -30,7 +30,7 @@ b) Resulte de uma prática estável e consolidada na União Europeia.
 
 8 - O ciclo de estudos a que se refere o número anterior pode ser organizado em etapas, podendo o estabelecimento de ensino atribuir o grau de licenciado aos que tenham concluído um período de estudos com duração não inferior a seis semestres.
 
-9 - O grau de doutor é conferido no ensino universitário.
+9 - O grau de doutor é conferido no ensino universitário e politécnico.
 
 10 - Têm acesso ao ciclo de estudos conducente ao grau de doutor:
 
@@ -40,4 +40,4 @@ b) Os detentores de um currículo escolar, científico ou profissional que seja 
 
 11 - Só podem conferir um dado grau académico numa determinada área os estabelecimentos de ensino superior que disponham de um corpo docente próprio, qualificado nessa área, e dos demais recursos humanos e materiais que garantam o nível e a qualidade da formação adquirida.
 
-12 - Só podem conferir o grau de doutor numa determinada área os estabelecimentos de ensino superior universitário que, para além das condições a que se refere o número anterior, demonstrem possuir, nessa área, os recursos humanos e organizativos necessários à realização de investigação e uma experiência acumulada nesse domínio sujeita a avaliação e concretizada numa produção científica e académica relevantes.
+12 - Só podem conferir o grau de doutor numa determinada área os estabelecimentos de ensino superior que, para além das condições a que se refere o número anterior, demonstrem possuir, nessa área, os recursos humanos e organizativos necessários à realização de investigação e uma experiência acumulada nesse domínio sujeita a avaliação e concretizada numa produção científica e académica relevantes.
