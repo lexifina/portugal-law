@@ -1,0 +1,395 @@
+Portaria n.º 103-A/2023
+de 12 de abril
+Sumário: Adota o Regulamento Específico da Área Temática Inovação e Transição Digital, no âmbito dos Sistemas de Incentivos do Portugal 2030.
+No âmbito do enquadramento decorrente do Decreto-Lei n.º 5/2023, de 25 de janeiro, que define o modelo de governação dos fundos europeus para o período de programação 2021-2027, designadamente do Portugal 2030, o Decreto-Lei n.º 20-A/2023, de 22 de março, veio estabelecer o regime geral de aplicação do Portugal 2030 e dos respetivos fundos, nomeadamente no que respeita à regulamentação aplicável, aos requisitos associados à elegibilidade, às obrigações dos beneficiários e às modalidades e formas de financiamento, de acordo com a regulamentação europeia, prevendo as regras gerais relativas aos procedimentos de análise, seleção e decisão das operações a financiar e ao circuito financeiro e impondo, a todas as entidades envolvidas na implementação dos fundos europeus, o respeito pela Carta dos Direitos Fundamentais da União Europeia, pela Convenção das Nações Unidas sobre os Direitos das Pessoas com Deficiência, bem como o dever de contribuir para o desenvolvimento sustentável e para preservar, proteger e melhorar a qualidade do ambiente, tendo em conta o princípio do poluidor-pagador e o princípio «não prejudicar significativamente».
+O regime jurídico aplicável aos programas financiados pelos fundos europeus é ainda constituído pela regulamentação específica aprovada pela Comissão Interministerial de Coordenação do Portugal 2030, proposta pelas respetivas autoridades de gestão e elaborada conjuntamente pelo órgão de coordenação técnica e pelas autoridades de gestão.
+A regulamentação específica do Portugal 2030 é desenvolvida por área temática, permitindo aos promotores dispor, de forma consolidada, das regras aplicáveis aos instrumentos de apoio com objetivos e naturezas similares.
+O presente Regulamento Específico da Área Temática Inovação e Transição Digital estabelece desde já as regras aplicáveis aos Sistemas de Incentivos do Portugal 2030, pretendendo-se, no entanto, que o mesmo venha a ser consolidado, de forma incremental, com o envolvimento dos vários atores relevantes, com o consequente alargamento do respetivo âmbito.
+O Regulamento Específico foi proposto pelas autoridades de gestão do Programa Temático Inovação e Transição Digital e dos programas regionais do continente, com base no contributo das entidades públicas e de outros atores relevantes, tendo sido desenvolvido em conjunto com a Agência para o Desenvolvimento e Coesão, I. P., enquanto órgão de coordenação técnica no âmbito da governação do Portugal 2030.
+Os Sistemas de Incentivos, consubstanciando apoios diretos às empresas, constituem uma parte muito relevante dos apoios dos fundos europeus, tendo contribuído para a transformação do tecido produtivo nacional, apoiando a criação de bens e serviços inovadores e de maior valor acrescentado, para a qualificação das empresas, fomentando o investimento em fatores imateriais de competitividade, e para a internacionalização da economia, promovendo as exportações.
+No âmbito do Portugal 2030, os Sistemas de Incentivos mantêm a respetiva importância estratégica, evoluindo em função dos novos desafios, com uma aposta reforçada nas parcerias e na transferência e valorização do conhecimento e nos desafios do crescimento verde e sustentável.
+Atuando sobre a envolvente empresarial, a par dos apoios diretos às empresas, o Portugal 2030 disporá de outros instrumentos na área temática Inovação e Transição Digital, designadamente os apoios à criação do conhecimento ou as ações coletivas.
+Foram ouvidos os parceiros sociais.
+Nos termos do n.º 7 do artigo 9.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, as deliberações da Comissão de Coordenação do Portugal 2030, no exercício da aprovação de regulamentação específica, são adotadas por portaria do membro do Governo responsável pela gestão global dos fundos europeus.
+Assim:
+Manda o Governo, pela Ministra da Presidência, o seguinte:
+1 - Adotar o Regulamento Específico da Área Temática Inovação e Transição Digital, no âmbito dos Sistemas de Incentivos do Portugal 2030, em anexo à presente portaria, da qual faz parte integrante, e que foi aprovado por deliberação da Comissão Interministerial de Coordenação do Portugal 2030, de 10 de abril de 2023.
+2 - Determinar que o Regulamento Específico entra em vigor no dia seguinte ao da publicação da presente portaria.
+A Ministra da Presidência, Mariana Guimarães Vieira da Silva, em 11 de abril de 2023.
+ANEXO
+REGULAMENTO ESPECÍFICO DA ÁREA TEMÁTICA INOVAÇÃO E TRANSIÇÃO DIGITAL, NO ÂMBITO DOS SISTEMAS DE INCENTIVOS DO PORTUGAL 2030
+TÍTULO I
+Disposições gerais
+Artigo 1.º
+Objeto
+O presente Regulamento estabelece, na área temática Inovação e Transição Digital:
+a) As disposições comuns aplicáveis aos Sistemas de Incentivos do Portugal 2030, para o período de programação 2021-2027, financiados pelo Fundo Europeu de Desenvolvimento Regional (FEDER) e pelo Fundo Social Europeu Mais (FSE+), para apoio a operações que contribuam para os objetivos associados a uma Europa Mais Competitiva e Inteligente, Mais Verde e Mais Social, e pelo Fundo para uma Transição Justa (FTJ), para apoio a operações que contribuam para os objetivos de transição para a neutralidade carbónica e climática;
+b) As disposições específicas aplicáveis ao Sistema de Incentivos à Competitividade Empresarial.
+Artigo 2.º
+Âmbito
+1 - No âmbito do Portugal 2030 são criados os seguintes Sistemas de Incentivos:
+a) Sistema de Incentivos à Competitividade Empresarial;
+b) Sistema de Incentivos à Investigação e Desenvolvimento;
+c) Sistema de Incentivos de Base Territorial;
+d) Sistema de Incentivos à Transição Climática e Energética;
+e) Sistema de Incentivos à Qualificação de Recursos Humanos.
+2 - Os Sistemas de Incentivos do Portugal 2030 são financiados através dos seguintes programas:
+a) Programa Temático Inovação e Transição Digital;
+b) Programa Regional do Norte;
+c) Programa Regional do Centro;
+d) Programa Regional de Lisboa;
+e) Programa Regional do Alentejo;
+f) Programa Regional do Algarve.
+3 - Os programas referidos no número anterior são financiados pelo FEDER, pelo FSE+ e, no que se refere aos programas previstos nas alíneas b), c) e e), também pelo FTJ.
+4 - O disposto no presente Regulamento tem aplicação em todo o território de Portugal continental e obedece aos critérios de delimitação de intervenção dos programas constantes do anexo i, que constitui parte integrante do presente Regulamento.
+5 - Os Sistemas de Incentivos do Portugal 2030 podem ser financiados por outras fontes de financiamento para além das previstas no n.º 3, designadamente através de reembolsos gerados através de instrumentos financeiros ou subvenções reembolsáveis, nos termos do artigo 8.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, e do artigo 32.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+Artigo 3.º
+Definições
+Para efeitos do disposto no presente Regulamento, e sem prejuízo das definições constantes do artigo 3.º do Decreto-Lei n.º 20-A/2023, de 22 de março, entende-se por:
+a) «Atividade económica da operação», o código de atividade da Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE Rev.3) onde se insere a operação, podendo o mesmo corresponder à CAE principal ou secundária da empresa ou a uma nova CAE da empresa, devendo, neste último caso, o beneficiário demonstrar na conclusão da operação a existência de volume de negócios na CAE selecionada;
+b) «Bens em estado de uso» ou «bens em segunda mão», todos os bens suscetíveis de reutilização no estado em que se encontram ou após reparação, com exclusão dos objetos de arte, de coleção, das antiguidades e da aquisição de ativos pertencentes a um estabelecimento que tenha cessado a sua atividade e cuja aquisição, inicial ou subsequente, não tenha sido apoiada por fundos europeus;
+c) «Data de conclusão financeira da operação», a data de emissão da última fatura ou documento equivalente, imputável à operação, com exceção das faturas ou documento equivalente do contabilista certificado ou revisor oficial de contas, no âmbito da validação da despesa dos pedidos de pagamento;
+d) «Efeito de incentivo», considera-se que os auxílios têm um efeito de incentivo se o beneficiário tiver apresentado candidatura ou pedido de auxílio em data anterior ao início dos trabalhos relativos à operação, conforme definição estabelecida na alínea i);
+e) «Empresa», qualquer entidade que se enquadre na definição de empresa da Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio;
+f) «Empresa de pequena-média capitalização (Small Mid Cap)», a empresa que não preenche os critérios de PME e cujo número de trabalhadores não excede 499, cujo volume de negócios anual não excede 100 milhões de euros ou cujo balanço anual não excede 86 milhões de euros, conforme previsto no ponto 103-E do artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual;
+g) «Entidade não empresarial do sistema de Investigação e Inovação - I&I (ENESII)», a entidade, de direito público ou privado, que, independentemente do modo de financiamento, exerça de forma independente, ou no âmbito de uma colaboração efetiva, investigação fundamental, investigação industrial, desenvolvimento experimental ou divulgação ampla dos resultados dessas atividades através do ensino, de publicações ou da transferência de conhecimentos;
+h) «Grandes empresas», as empresas que não preencham os critérios de PME previstos na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio;
+i) «Início dos trabalhos», o início dos trabalhos de construção relacionados com o investimento, ou o primeiro compromisso firme de encomenda de equipamentos ou qualquer outro compromisso que torne o investimento irreversível, consoante o que acontecer primeiro. A compra de terrenos e os trabalhos preparatórios, como a obtenção de licenças e a realização de estudos de viabilidade, não são considerados início dos trabalhos. No caso de aquisições, por «início dos trabalhos» entende-se o momento da aquisição dos ativos diretamente ligados ao estabelecimento adquirido;
+j) «Localização geográfica da operação», local especificado no aviso para apresentação de candidaturas, ou, supletivamente, o local onde se realiza o investimento;
+k) «Micro, pequenas e médias empresas (PME)», as micro, pequenas e médias empresas que preencham os critérios previstos na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio;
+l) «Recursos humanos qualificados», corresponde aos recursos humanos titulares de nível de qualificação igual ou superior a vi;
+m) «Terceiros não relacionados com o adquirente», os terceiros sobre os quais o adquirente não tenha a possibilidade de exercer controlo ou vice-versa, decorrendo o controlo dos direitos, contratos ou outros meios que conferem, isoladamente ou em conjunto, e tendo em conta as circunstâncias de facto e de direito, a possibilidade de exercer uma influência determinante sobre uma empresa, através de:
+i) Direitos de propriedade ou de uso ou de fruição sobre a totalidade ou parte dos ativos de uma empresa;
+ii) Direitos ou contratos que conferem uma influência determinante na composição, nas deliberações ou nas decisões dos órgãos de uma empresa;
+O controlo é adquirido pelas pessoas ou pelas empresas que sejam titulares desses direitos ou beneficiários desses contratos ou que, não sendo titulares desses direitos nem beneficiários desses contratos, tenham o poder de exercer os direitos deles decorrentes.
+TÍTULO II
+Sistemas de Incentivos
+CAPÍTULO I
+Disposições comuns
+Artigo 4.º
+Âmbito setorial
+1 - Nos Sistemas de Incentivos do Portugal 2030 são elegíveis as operações inseridas em todas as atividades económicas, de acordo com a CAE Rev.3, com exceção das seguintes:
+a) Financeiras e de seguros;
+b) Defesa;
+c) Lotarias e outros jogos de aposta.
+2 - Nos Sistemas de Incentivos do Portugal 2030 não são elegíveis:
+a) As operações financiadas pelo FEDER enquadráveis no disposto no artigo 7.º do Regulamento (UE) 2021/1058, do Parlamento e do Conselho, de 24 de junho;
+b) As operações financiadas pelo FTJ enquadráveis no disposto no artigo 9.º do Regulamento (UE) 2021/1056, do Parlamento e do Conselho, de 24 de junho;
+c) As operações no âmbito das atividades abrangidas pelos setores sujeitos a restrições setoriais, nos termos constantes no anexo ii, que constitui parte integrante do presente Regulamento;
+d) Os investimentos previstos no âmbito de contratos de concessão com a administração central ou local, ou decorrentes do cumprimento de obrigações legais aplicáveis às atividades das empresas candidatas.
+Artigo 5.º
+Aviso para apresentação de candidaturas
+1 - As candidaturas aos apoios são apresentadas no âmbito de avisos para apresentação de candidaturas, conforme previsto no artigo 12.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+2 - Os avisos para apresentação de candidaturas podem, nos termos previstos no artigo 12.º do Decreto-Lei n.º 20-A/2023, de 22 de março, conjugar diferentes tipologias de intervenção ou de operação, bem como estabelecer regras específicas e clarificar as condições fixadas no presente Regulamento.
+3 - A candidatura a aviso de pré-qualificação na modalidade de pedido de auxílio corresponde a um pedido escrito, formulado pelo candidato, com vista a sinalizar a intenção de investimento e a sua data de início, devendo observar as condições previstas no artigo 6.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual.
+4 - Após o registo de pedido de auxílio referido no número anterior deve ser apresentada, pelo candidato que o submeteu, candidatura ao primeiro aviso para apresentação de candidaturas subsequente à data do pedido de auxílio correspondente, respeitando a configuração e o calendário apresentados, sem prejuízo das alterações aceites no âmbito de decisão sobre a atribuição de financiamento.
+5 - Pode verificar-se a suspensão de aviso para registo de pedidos de auxílio ou para apresentação de candidaturas, em casos devidamente fundamentados, nos termos da alínea b) do n.º 8 do artigo 12.º do Decreto-Lei n.º 20-A/2023, de 22 de março, designadamente decorrentes de situações de dotações orçamentais insuficientes para a abertura de novos concursos.
+Artigo 6.º
+Elegibilidade dos beneficiários
+Sem prejuízo do disposto no artigo 14.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e de outros especificamente referidos para cada Sistema de Incentivos, são exigíveis à data da candidatura e até à conclusão da operação os seguintes requisitos:
+a) Não ser uma empresa em dificuldade, de acordo com a definição prevista no ponto 18 do artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual;
+b) Apresentar uma situação económico-financeira equilibrada e demonstrar ter capacidade de financiamento da operação, nos termos definidos no anexo iii, que constitui parte integrante do presente Regulamento;
+c) Apresentar, quando aplicável, Certificação Eletrónica que comprove o estatuto PME, nos termos previstos no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, no momento da aprovação;
+d) Declarar que não tem salários em atraso.
+Artigo 7.º
+Elegibilidade das operações
+Sem prejuízo do disposto no artigo 19.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e de outros especificamente referidos para cada Sistema de Incentivos, as operações devem ainda satisfazer os seguintes requisitos:
+a) Demonstrar o cumprimento do efeito de incentivo, conforme previsto na alínea d) do artigo 3.º;
+b) Demonstrar, mediante declaração subscrita pelo beneficiário, não ter obtido financiamento por qualquer outro tipo de instrumento, ou, quando incluir atividades apoiadas por outros instrumentos, evidenciar a inexistência de sobreposição de financiamentos, permitindo identificar a necessária segregação desses custos.
+Artigo 8.º
+Princípio «não prejudicar significativamente» e metas climáticas e ambientais
+1 - O princípio «não prejudicar significativamente» (DNSH), previsto na alínea d) do artigo 4.º do Decreto-Lei n.º 20-A/2023, de 22 de março, visa garantir que o impacto ambiental gerado pela atividade económica e pelos produtos e serviços ao longo de todo o seu ciclo de vida respeita as normas e prioridades da União Europeia em matéria de clima e ambiente e não prejudica significativamente, nos termos do artigo 17.º do Regulamento (UE) 2020/852, de 18 de junho, do Parlamento e do Conselho, nenhum dos objetivos ambientais estabelecidos no artigo 9.º do mesmo Regulamento.
+2 - Os critérios ambientais são aplicáveis às tipologias de ação identificadas na avaliação do cumprimento do princípio «não prejudicar significativamente» dos programas, sendo nesse caso incorporados nas condições de elegibilidade específicas.
+3 - Os avisos para apresentação de candidaturas podem igualmente estabelecer obrigações e requisitos adicionais a verificar no âmbito do princípio «não prejudicar significativamente», bem como para efeitos do cumprimento das metas climáticas e das metas ambientais previstas nos programas.
+Artigo 9.º
+Elegibilidade das despesas
+1 - Sem prejuízo do estabelecido no n.º 5 do artigo 20.º do Decreto-Lei n.º 20-A/2023, de 22 de março, bem como de outras despesas definidas para cada uma das tipologias dos Sistemas de Incentivos previstos no presente Regulamento, são consideradas não elegíveis as seguintes despesas:
+a) Custos normais de funcionamento do beneficiário e investimentos de manutenção e substituição, bem como os custos relacionados com atividades de tipo periódico ou contínuo, como publicidade corrente, despesas de consultoria fiscal de rotina e serviços jurídicos e administrativos;
+b) Custos referentes a investimentos diretos no estrangeiro;
+c) Custos diretamente relacionados com a atividade de exportação, tais como os associados às quantidades exportadas, ao funcionamento de redes de distribuição no exterior ou outros custos correntes ligados à atividade de exportação;
+d) Trabalhos da empresa para si própria;
+e) Compra de imóveis, incluindo terrenos;
+f) Trespasse e direitos de utilização de espaços;
+g) Aquisição de bens em estado de uso ou em segunda mão;
+h) Aquisição de veículos automóveis, aeronaves e outro material de transporte, exceto quando expressamente previsto no presente Regulamento ou em aviso para apresentação de candidaturas;
+i) Fundo de maneio;
+j) Transações entre beneficiários da mesma operação;
+k) Formação de recursos humanos para cumprimento de normas legalmente obrigatórias.
+2 - Sem prejuízo do disposto no número anterior, apenas é elegível a despesa declarada pelo beneficiário que seja considerada adequada, tendo em conta a sua razoabilidade, incluindo face às condições de mercado, e que resulte de aquisições a terceiros não relacionados com o adquirente.
+3 - Podem ser elegíveis, nos termos do enquadramento em matéria de elegibilidade territorial na aplicação dos fundos europeus e dos programas financiadores, as despesas com pessoal técnico do beneficiário e os encargos salariais com a contratação de recursos humanos em regime de teletrabalho, desde que associado à realização de atividades ou funções compatíveis com este regime, e quando expressamente previsto nos avisos para apresentação de candidaturas.
+Artigo 10.º
+Cumulação de incentivos
+1 - Para as mesmas despesas elegíveis, os apoios concedidos ao abrigo dos Sistemas de Incentivos previstos no presente Regulamento não são cumuláveis com quaisquer outros da mesma natureza.
+2 - No caso de uma operação beneficiar de incentivos de outra natureza, nomeadamente benefícios fiscais ou instrumentos financeiros, o incentivo total acumulado deve respeitar os limites aplicáveis em matéria de regras de auxílios de Estado.
+Artigo 11.º
+Obrigações dos beneficiários
+1 - Para além das obrigações previstas no artigo 15.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e de outras específicas fixadas no presente Regulamento para cada Sistema de Incentivos, constituem ainda obrigações dos beneficiários:
+a) Disponibilizar, nos prazos estabelecidos, os elementos que lhes forem solicitados pelas entidades com competências para o acompanhamento, avaliação de resultados, controlo e auditoria;
+b) Solicitar autorização para todas as alterações ou ocorrências relevantes para a aprovação da operação;
+c) Não afetar a outras finalidades, locar, alienar ou por qualquer outro modo onerar os bens e serviços adquiridos no âmbito das operações apoiadas, sem prévia autorização da entidade competente para a decisão de aprovação da candidatura, durante o período que venha a ser definido na formalização da concessão do incentivo;
+d) Cumprir os normativos em matéria de contratação pública relativamente à execução das operações, quando aplicável;
+e) Iniciar a execução da operação no prazo máximo de 90 dias úteis após a comunicação da decisão de financiamento, salvo por motivo devidamente fundamentado e aceite pela autoridade de gestão;
+f) Assegurar que os investimentos realizados se encontram alinhados com o princípio «não prejudicar significativamente», conforme previsto no artigo 8.º
+2 - Sem prejuízo do disposto na alínea c) do número anterior, a oneração dos bens adquiridos no âmbito das operações apoiadas, com a finalidade de garantir financiamento bancário, apenas é autorizada quando partilhada com as entidades públicas financiadoras.
+Artigo 12.º
+Pagamentos
+1 - Os pagamentos a efetuar aos beneficiários observam o regime previsto no artigo 28.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e o disposto em aviso para apresentação de candidaturas.
+2 - Sem prejuízo do referido no número anterior, os pedidos de pagamento apresentados pelo beneficiário, com base em custos reais, têm de ser justificados através de faturas eletrónicas pagas ou de documentos fiscalmente equivalentes ou de outros documentos contabilísticos de valor probatório equivalente.
+Artigo 13.º
+Condições de alteração dos projetos
+1 - O calendário de realização das operações pode ser objeto de atualização até à assinatura do termo de aceitação, desde que não seja alterada a duração aprovada em sede de decisão e que o adiamento do prazo de início de execução da operação respeite o disposto no n.º 2 do artigo 27.º do Decreto-Lei n.º 20-A/2023, de 22 de março, sem prejuízo do previsto no n.º 3 do mesmo artigo.
+2 - Após a assinatura do termo de aceitação, os resultados contratados, o calendário de realização, o momento de avaliação e as metas aprovadas podem ser objeto de revisão, em casos excecionais devidamente fundamentados, nos termos do n.º 8 do artigo 25.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+Artigo 14.º
+Critérios de seleção
+A seleção das operações respeita a metodologia e critérios aprovados pelos comités de acompanhamento dos programas financiadores e pondera fatores como a adequação à estratégia, a qualidade e o impacto da operação, e a capacidade de execução.
+CAPÍTULO II
+Disposições específicas
+SECÇÃO I
+Sistema de Incentivos à Competitividade Empresarial
+SUBSECÇÃO I
+Normas gerais
+Artigo 15.º
+Objetivos
+1 - O presente Sistema de Incentivos visa:
+a) Promover a alteração do perfil de especialização da economia portuguesa e reforçar a respetiva competitividade externa, através da melhoria das capacidades produtivas das empresas, do incremento do investimento empresarial no desenvolvimento de soluções inovadoras, digitais e sustentáveis, sobretudo baseadas nos resultados de Investigação e Desenvolvimento (I&D) e no aumento do emprego qualificado;
+b) Promover a capacitação empresarial e a orientação exportadora das PME, através da aposta na qualificação, digitalização e internacionalização dos modelos de negócio e da oferta produtiva, apoiando a adoção de estratégias de negócio mais avançadas, que privilegiem o uso de fatores imateriais de competitividade e que aumentem a capacidade de integração em cadeias de valor globais.
+2 - Os apoios atribuídos ao abrigo do presente Sistema de Incentivos enquadram-se no FEDER, no objetivo específico 1.3 «Reforçar o crescimento sustentável e a competitividade das PME, bem como a criação de emprego nas PME, inclusive através de investimentos produtivos», e no FTJ, no objetivo específico único de «permitir às regiões e às pessoas abordar os impactos sociais, no emprego, económicos e ambientais da transição para as metas em matéria de energia e de clima da União para 2030 e para uma economia da União com impacto neutro no clima até 2050, com base no Acordo de Paris».
+Artigo 16.º
+Tipologias de intervenção
+No Sistema de Incentivos à Competitividade Empresarial são apoiadas as seguintes tipologias de intervenção:
+a) Inovação Produtiva;
+b) Qualificação e Internacionalização das PME.
+Artigo 17.º
+Operações de regime simplificado
+O apoio à aquisição de serviços de consultoria de inovação ou na área de prospeção de mercado pode ser enquadrado num regime simplificado, ao abrigo do regime de auxílios de minimis, nos termos e condições a fixar em aviso para apresentação de candidaturas.
+Artigo 18.º
+Elegibilidade das operações
+Para além dos requisitos de elegibilidade fixados no artigo 19.º do Decreto-Lei n.º 20-A/2023, de 22 de março, no caso das candidaturas apresentadas individualmente, as operações devem ser sustentadas por uma análise estratégica da empresa que identifique as áreas de competitividade críticas e que fundamente as opções de investimento consideradas.
+SUBSECÇÃO II
+Inovação Produtiva
+Artigo 19.º
+Tipologias de operação
+1 - Na tipologia de intervenção «Inovação Produtiva» é suscetível de apoio a tipologia de operação «Investimento Empresarial Produtivo», que visa:
+a) A produção de novos bens e serviços ou melhorias significativas da produção atual através da transferência e aplicação de conhecimento;
+b) A adoção de novos, ou significativamente melhorados, processos ou métodos de fabrico, de logística e distribuição, bem como modelos de negócio, métodos organizacionais ou de marketing.
+2 - Consideram-se enquadráveis na tipologia de operação referida no número anterior os investimentos de natureza inovadora que se traduzam na produção de bens e serviços transacionáveis e internacionalizáveis e com elevado valor acrescentado e nível de incorporação nacional, que correspondam a um investimento inicial, conforme definido no n.º 49 do artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, relacionados com:
+a) A criação de um novo estabelecimento;
+b) O aumento da capacidade de um estabelecimento já existente, nos termos a definir em aviso para apresentação de candidaturas;
+c) A diversificação da produção de um estabelecimento para produtos não produzidos anteriormente no estabelecimento; ou
+d) A alteração fundamental do processo global de produção de um estabelecimento existente, nos termos a definir em aviso para apresentação de candidaturas.
+Artigo 20.º
+Modalidade de apresentação de candidaturas
+Na tipologia de intervenção «Inovação Produtiva» deve ser adotada a modalidade de apresentação individual de candidaturas.
+Artigo 21.º
+Elegibilidade específica das operações
+1 - Para além do cumprimento dos requisitos de elegibilidade previstos no artigo 19.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e nos artigos 7.º e 18.º, as operações elegíveis na tipologia de intervenção «Inovação Produtiva» devem ainda cumprir, à data da candidatura, os seguintes requisitos:
+a) Demonstrar a viabilidade económico-financeira da operação;
+b) Assegurar o financiamento de pelo menos 25 % dos custos elegíveis através de recursos próprios ou alheios, sem que incluam qualquer financiamento estatal, conforme previsto no n.º 14 do artigo 14.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual;
+c) Nos casos em que as operações preveem despesas enquadradas no n.º 3 do artigo 25.º, encontrar-se o respetivo projeto de arquitetura aprovado pelas entidades competentes, quando seja legalmente exigida a instrução de um procedimento de licença administrativa, ou ter sido apresentada a comunicação prévia na entidade competente, quando seja legalmente permitido o procedimento de comunicação prévia, e devidamente instruídos com os pareceres legalmente exigíveis;
+d) No caso das operações do setor do turismo, estar alinhadas com as respetivas estratégias nacional e regionais para o setor do turismo.
+2 - No caso dos incentivos concedidos a favor da diversificação de um estabelecimento já existente, os custos elegíveis devem exceder em, pelo menos, 200 % o valor contabilístico dos ativos que são reutilizados, tal como registado no exercício fiscal que precede o início dos trabalhos, conforme previsto no n.º 7 do artigo 14.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual.
+3 - No âmbito do cumprimento do princípio «não prejudicar significativamente», e para além de eventuais requisitos específicos estabelecidos em aviso para apresentação de candidaturas, as operações que prevejam obras de construção, remodelação ou expansão de edifícios ou a aquisição de equipamentos devem, quando aplicável:
+a) Adotar as melhores tecnologias disponíveis no apetrechamento das infraestruturas empresariais e industriais, assim como instalar equipamentos tecnologicamente avançados e de elevado desempenho ambiental;
+b) Cumprir, caso aplicável, o regime jurídico de Avaliação de Impacte Ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente, nos termos do Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual;
+c) Adotar comportamentos e práticas de sustentabilidade ambiental no planeamento e realização de obras de construção, remodelação ou expansão de edificado, designadamente:
+i) Cumprir o Decreto-Lei n.º 102-D/2020, de 10 de dezembro, que aprova o novo Regime Geral de Gestão de Resíduos e o novo Regime Jurídico de Deposição de Resíduos em Aterro;
+ii) Cumprir as normas EN 16516 e ISO 16000-3, sendo proibida a utilização de materiais que contenham substâncias danosas para o ambiente e as pessoas;
+iii) Incluir medidas de supressão de ruído e mitigação de poeiras, provenientes dos trabalhos de construção;
+iv) Garantir que das obras efetuadas resultará a redução do uso de energia e o aumento da eficiência energética e térmica do edificado;
+v) Garantir que as infraestruturas estão preparadas para riscos climáticos, através de medidas de mitigação ou de adaptação às alterações climáticas;
+vi) Garantir que os investimentos asseguram a eficiência no consumo de água nos edifícios a intervencionar, contribuindo para a conservação dos recursos hídricos e para a redução de consumos energéticos associados ao ciclo urbano da água.
+4 - No caso das operações financiadas pelo FTJ, as operações devem, adicionalmente, observar os seguintes requisitos:
+a) Se os beneficiários forem grandes empresas e os incentivos forem concedidos a favor de uma alteração fundamental no processo de produção, os custos elegíveis devem exceder a amortização e depreciação dos ativos associados à atividade a modernizar no decurso dos três exercícios fiscais precedentes, conforme previsto no n.º 7 do artigo 14.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual;
+b) Sempre que seja prestado apoio a investimentos destinados a reduzir as emissões de gases com efeito de estufa (GEE) provenientes das atividades enumeradas no anexo ii do Decreto-Lei n.º 12/2020, de 6 de abril, na sua redação atual, é exigida uma justificação de como as operações contribuem para a transição para uma economia com impacto neutro no clima e conduzem a uma redução substancial das emissões de GEE situada substancialmente abaixo dos parâmetros de referência estabelecidos para a atribuição de licenças a título gratuito, e desde que estas operações sejam necessárias para a proteção de um número significativo de postos de trabalho.
+Artigo 22.º
+Natureza e elegibilidade dos beneficiários
+1 - São beneficiárias da tipologia de intervenção «Inovação Produtiva» as PME.
+2 - No caso das operações financiadas pelo FTJ, são igualmente beneficiárias as grandes empresas, nos termos previstos nos Planos Territoriais para uma Transição Justa (PTTJ) aprovados para as respetivas áreas geográficas de aplicação.
+3 - Para além dos requisitos estabelecidos no artigo 14.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e no artigo 6.º, os beneficiários devem ainda, à data da candidatura, cumprir os seguintes requisitos:
+a) Ter concluído as operações aprovadas ao abrigo da presente subsecção para o mesmo estabelecimento da empresa, sem prejuízo dos casos excecionados em aviso para apresentação de candidaturas;
+b) Confirmar que não efetuaram uma relocalização para o estabelecimento em que se realizará a operação prevista na candidatura, nos dois anos anteriores à data da sua apresentação, e comprometer-se a não o fazer por um período de dois anos após a conclusão da operação, conforme estabelecido no n.º 16 do artigo 14.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual.
+Artigo 23.º
+Forma de apoio
+1 - Os incentivos a conceder na tipologia de intervenção «Inovação Produtiva» podem assumir a forma de subvenção ou um formato híbrido, integrando uma subvenção e uma componente de empréstimo, podendo esta última ser concedida através de um Instrumento Financeiro financiado pelo Portugal 2030.
+2 - As subvenções assumem a forma de custos reais e/ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
+Artigo 24.º
+Taxas de financiamento
+1 - A taxa de financiamento das despesas elegíveis, nas operações da tipologia de operação «Investimento Empresarial Produtivo», com exceção dos custos com a formação de recursos humanos, é obtida a partir da soma das parcelas seguintes, até ao limite máximo de 75 %:
+a) Taxa Base: até 30 p.p. para grandes empresas, até 40 p.p. para médias empresas e até 50 p.p. para micro e pequenas empresas, podendo estes limites, de acordo com o mapa de auxílios com finalidade regional 2022-2027, ser superiores em 10 p.p. para as sub-regiões do Alto Alentejo, Beiras e Serra da Estrela;
+b) Majorações:
+i) «Prioridades de políticas setoriais ou territoriais»: até 20 p.p. para operações orientadas para temáticas com especial relevância para políticas públicas setoriais, transversais ou territoriais, ou outras a definir em aviso para apresentação de candidatura;
+ii) «Criação de emprego qualificado»: até 5 p.p. a atribuir a operações que gerem postos de trabalho qualificados, nos termos a definir em aviso para apresentação de candidatura;
+iii) «Capitalização PME»: até 5 p.p. a atribuir a operações cuja componente privada seja financiada maioritariamente por capitais próprios, nos termos a definir em aviso para apresentação de candidatura;
+iv) «Qualificação da gestão»: até 5 p.p. a atribuir a operações que incluam ações que visem a formação de empresários, gestores ou outros dirigentes, nos termos a definir em aviso para apresentação de candidatura.
+2 - Sem prejuízo do limite máximo referido no número anterior, a taxa de incentivo a atribuir não pode exceder as taxas máximas expressas em equivalente de subvenção bruta (ESB) conforme mapa de auxílios com finalidade regional 2022-2027 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 100752), sendo o ajustamento, quando necessário, efetuado na componente de subvenção.
+3 - No caso das operações localizadas nos territórios da região NUTS II do Algarve e da Área Metropolitana de Lisboa não previstos no mapa dos auxílios com finalidade regional 2022-2027 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 100752), as taxas de financiamento dos investimentos produtivos são as que decorrem dos enquadramentos de auxílios estabelecidos no artigo 28.º
+4 - Aos custos elegíveis com a formação de recursos humanos é concedido um incentivo calculado através da aplicação de uma taxa base de até 50 %, que pode ser acrescida das seguintes majorações, não podendo, em qualquer caso, ultrapassar o limite máximo de 70 %:
+a) Em 10 p.p. se a formação for dada a trabalhadores com deficiência ou desfavorecidos;
+b) Em 10 p.p. se o incentivo for concedido a médias empresas; e
+c) Em 20 p.p. se for concedido a micro e pequenas empresas.
+Artigo 25.º
+Elegibilidade das despesas
+1 - Consideram-se elegíveis as seguintes despesas, desde que diretamente relacionadas com o desenvolvimento da operação:
+a) Ativos corpóreos, incluindo a aquisição de máquinas e equipamentos, custos diretamente atribuíveis para os colocar na localização e condições necessárias para os mesmos serem capazes de funcionar, bem como a aquisição de equipamentos informáticos, incluindo o software necessário ao seu funcionamento;
+b) Ativos incorpóreos, incluindo a transferência de tecnologia através da aquisição de direitos de patentes, nacionais e internacionais, licenças, conhecimentos técnicos não protegidos por patente, e software standard ou desenvolvido especificamente para determinado fim;
+c) Outras despesas de investimento, incluindo despesas com a intervenção de contabilistas certificados ou revisores oficiais de contas, na validação da despesa dos pedidos de pagamento, serviços de engenharia, estudos, diagnósticos, auditorias, planos de marketing e projetos de arquitetura e de engenharia;
+d) Formação de recursos humanos, quando previsto em aviso para apresentação de candidaturas e nos termos aí definidos.
+2 - As despesas referidas no número anterior apenas são elegíveis se os bens e serviços adquiridos preencherem cumulativamente as seguintes condições:
+a) Serem exclusivamente utilizados no estabelecimento do beneficiário onde se desenvolve a operação;
+b) Serem adquiridos a entidades fornecedoras com capacidade para o efeito;
+c) Não serem adquiridos a empresas sedeadas em países, territórios e regiões com regimes de tributação privilegiada, conforme lista constante da Portaria n.º 150/2004, de 13 de fevereiro, na sua redação atual, em conformidade com o n.º 1 do artigo 63.º-D da Lei Geral Tributária, aprovada em anexo ao Decreto-Lei n.º 398/98, de 17 de dezembro, na sua redação atual;
+d) Para as despesas das alíneas a) e b) do número anterior, serem amortizáveis e incluídas nos ativos da empresa beneficiária.
+3 - Em casos devidamente justificados, as operações podem ainda incluir a construção de edifícios, obras de remodelação e outras construções.
+4 - Os avisos para apresentação de candidaturas podem ainda, para operações do setor do turismo, em determinadas localizações e em casos devidamente justificados no âmbito do exercício da respetiva atividade turística, prever como despesas elegíveis o material circulante que constitua a própria atividade turística a desenvolver, desde que diretamente relacionadas com o exercício dessa atividade e desde que não movidos por combustíveis fósseis.
+5 - Em alternativa às despesas elegíveis previstas nas alíneas a) e b) do n.º 1, podem ser considerados os custos salariais estimados decorrentes da criação líquida de postos de trabalho, em virtude do investimento inicial em causa, calculados ao longo de um período de dois anos, conforme previsto na alínea b) do n.º 4 do artigo 14.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, e no respeito das condições fixadas no n.º 9 do mesmo artigo, sendo que esta alternativa deve estar prevista no aviso para apresentação de candidaturas.
+6 - Nos casos em que o apoio assume um formato híbrido, as despesas elegíveis são divididas entre o apoio concedido através do presente Sistema de Incentivos à inovação produtiva e o Instrumento Financeiro, assegurando a não cumulação de apoios e os limites de auxílios em cada componente.
+7 - Não são elegíveis as despesas relacionadas com empreendimentos turísticos ou unidades de alojamento exploradas em regime de direito de habitação periódica, de natureza real ou obrigacional.
+Artigo 26.º
+Obrigações dos beneficiários
+Para além das obrigações previstas no artigo 11.º, é ainda exigível, na tipologia de intervenção «Inovação Produtiva», a manutenção dos postos de trabalho, criados nos termos previstos no n.º 5 do artigo anterior, na localização da operação, durante um período mínimo de três anos a contar da data da respetiva contratação, não podendo ainda o beneficiário, durante a execução da operação, reduzir o número total de trabalhadores ao serviço da empresa.
+Artigo 27.º
+Indicadores de realização e de resultado
+1 - Os avisos para apresentação de candidaturas estabelecem os indicadores de realização e/ou de resultado associados à aprovação do financiamento, com base nos quais são fixados os compromissos a alcançar em cada operação, bem como os mecanismos de bonificação ou penalização, em função do grau de cumprimento dos resultados contratualizados, definindo os indicadores que relevam para efeitos de aplicação dos referidos mecanismos, nos termos do artigo 22.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+2 - Em caso de incumprimento dos resultados contratualizados pode aplicar-se uma redução ou revogação do incentivo atribuído, sendo a fórmula de cálculo da correção financeira estabelecida no aviso para apresentação de candidaturas, nos termos do disposto na alínea c) do n.º 2 do artigo 33.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+Artigo 28.º
+Enquadramento europeu de auxílios de Estado
+1 - As operações enquadradas na tipologia de operação «Investimento Empresarial Produtivo» respeitam o enquadramento europeu de auxílios de Estado, nos termos estabelecidos nos números seguintes.
+2 - As despesas previstas nas alíneas a) e b) do n.º 1 e nos n.os 3 a 5 do artigo 25.º:
+a) Para os territórios previstos no mapa de auxílios com finalidade regional 2022-2027, aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 100752), respeitam:
+i) As orientações relativas aos auxílios estatais com finalidade regional para 2022-2027 (Comunicação 2021/C 153/01), para as operações que ultrapassem os limiares de notificação previstos no artigo 4.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual;
+ii) Os artigos 13.º e 14.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, para as operações que não ultrapassem os limiares de notificação previstos no artigo 4.º do mesmo Regulamento, podendo ainda, no caso de operações localizadas nos territórios das NUTS II do Algarve e da Área Metropolitana de Lisboa, respeitar o Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro, relativo aos auxílios de minimis, na sua redação atual;
+b) Para os territórios não previstos no mapa de auxílios com finalidade regional, respeitam o artigo 17.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, ou o Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro, relativo aos auxílios de minimis, na sua redação atual, sem prejuízo do previsto no artigo 4.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual.
+3 - As despesas previstas na alínea c) do n.º 1 do artigo 25.º respeitam o artigo 28.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual.
+4 - As despesas previstas na alínea d) do n.º 1 do artigo 25.º respeitam o artigo 31.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual.
+SUBSECÇÃO III
+Qualificação e internacionalização das PME
+Artigo 29.º
+Tipologias de operação
+1 - Na tipologia de intervenção «Qualificação e Internacionalização das PME», são suscetíveis de apoio a tipologia de operação «Qualificação das PME» e a tipologia de operação «Internacionalização das PME».
+2 - A tipologia de operação «Qualificação das PME» inclui o apoio em domínios imateriais de competitividade, designadamente:
+a) Inovação organizacional, de gestão e logística;
+b) Digitalização e transformação digital, incluindo cibersegurança e proteção de dados;
+c) Capacitação para o desenvolvimento de produtos, serviços e processos;
+d) Qualidade e certificação;
+e) Criação de marcas e de design, excluindo as alterações periódicas e outras de natureza cíclica e sazonal;
+f) Proteção de propriedade industrial;
+g) Transferência de conhecimento e tecnologia;
+h) Sustentabilidade e ecoinovação.
+3 - A tipologia de operação «Internacionalização das PME» inclui, nomeadamente, o apoio a ações no domínio de:
+a) Conhecimento, prospeção e presença em mercados externos;
+b) Marketing internacional;
+c) Presença online e e-commerce;
+d) Criação e promoção internacional de marcas;
+e) Inovação organizacional relacionada com as práticas comerciais ou relações externas;
+f) Qualidade e certificação específica para os mercados externos.
+Artigo 30.º
+Modalidade de apresentação de candidaturas
+No âmbito da tipologia de intervenção «Qualificação e Internacionalização das PME» as candidaturas podem ser apresentadas individualmente ou em conjunto.
+Artigo 31.º
+Elegibilidade específica das operações
+Para além do cumprimento dos requisitos de elegibilidade previstos no artigo 19.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e nos artigos 7.º e 18.º, as operações elegíveis na tipologia de intervenção «Qualificação e Internacionalização das PME» devem ainda cumprir os seguintes requisitos:
+a) Não incluir as mesmas ações em operações distintas, designadamente em candidatura apresentada em conjunto e individualmente;
+b) No caso de candidatura em conjunto, serem sustentadas por um plano de ação conjunto nos termos previstos na subalínea ii) da alínea b) do n.º 2 do artigo 23.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e cumprir as condições estabelecidas em aviso para apresentação de candidaturas relativas à abrangência e participação das PME.
+Artigo 32.º
+Natureza e elegibilidade dos beneficiários
+1 - Nas candidaturas apresentadas individualmente são beneficiárias as PME.
+2 - Nas candidaturas apresentadas em conjunto são beneficiárias as entidades públicas ou privadas sem fins lucrativos, de natureza associativa e com atividades dirigidas às PME, nomeadamente, associações empresariais, câmaras de comércio e indústria, agências regionais de promoção turística e outras entidades não empresariais do sistema de I&I, bem como as empresas PME participantes que incorram em custos individuais, nos termos previstos na alínea b) do n.º 2 do artigo 23.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+3 - Para além dos critérios estabelecidos no artigo 14.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e no artigo 6.º, os beneficiários devem, à data da candidatura, ter concluído as operações aprovadas ao abrigo da presente subsecção para o mesmo estabelecimento da empresa, sem prejuízo dos casos excecionados em aviso para apresentação de candidaturas.
+Artigo 33.º
+Forma de apoio
+Os incentivos a conceder no âmbito da tipologia de intervenção «Qualificação e Internacionalização das PME» assumem a natureza de subvenções, na forma de custos reais e/ou opções de custos simplificados (OCS), nos termos a definir em aviso para apresentação de candidaturas.
+Artigo 34.º
+Taxas de financiamento
+1 - A taxa de financiamento das operações no âmbito da tipologia de intervenção «Qualificação e Internacionalização das PME» é de até 50 %, sem prejuízo do estabelecido nos números seguintes.
+2 - No caso dos custos elegíveis com a formação de recursos humanos, a taxa base de até 50 % pode ser acrescida das seguintes majorações, não podendo, em qualquer caso, ultrapassar o limite máximo de 70 %:
+a) Em 10 p.p. se a formação for dada a trabalhadores com deficiência ou desfavorecidos;
+b) Em 10 p.p. se o incentivo for concedido a médias empresas;
+c) Em 20 p.p. se for concedido a micro e pequenas empresas.
+3 - No caso das candidaturas em conjunto, a taxa de financiamento dos custos elegíveis com o acompanhamento e desenvolvimento da operação pode ser de até 75 %.
+Artigo 35.º
+Elegibilidade das despesas
+1 - Consideram-se elegíveis as seguintes despesas, desde que diretamente relacionadas com o desenvolvimento da operação:
+a) Custos dos equipamentos necessários para a aplicação de novos métodos organizacionais, incluindo software, na medida em que sejam utilizados na operação, e durante a execução da mesma, e apenas se forem utilizados exclusivamente no estabelecimento do beneficiário;
+b) Custos salariais com a contratação de recursos humanos qualificados, incluindo o salário base e encargos sociais obrigatórios, nos termos a definir em aviso para apresentação de candidaturas;
+c) Custos incorridos com a participação em feiras e exposições no exterior, incluindo o aluguer do espaço, a construção e o funcionamento do stand;
+d) Custos dos serviços de consultoria especializados, prestados por consultores externos, que não constituam uma atividade contínua nem periódica, nem estejam relacionados com o normal funcionamento dos beneficiários, incluindo campanhas de marketing nos mercados externos, despesas com a intervenção de contabilistas certificados ou revisores oficiais de contas, na validação da despesa dos pedidos de pagamento, custos associados à certificação de produtos, processos ou serviços, custos de conceção e registo de novas marcas, custos associados à domiciliação e subscrição de aplicações, adesão a plataformas eletrónicas ou inclusão em diretórios e motores de busca;
+e) Custos de obtenção, validação e defesa de patentes e outros registos de propriedade industrial;
+f) Formação de recursos humanos;
+g) Outras despesas relacionadas com a promoção da internacionalização, incluindo a prospeção e captação de novos clientes e ações de promoção realizadas em mercados externos;
+h) No caso das candidaturas em conjunto, custos com o acompanhamento e desenvolvimento da operação, incluindo ações de divulgação, sensibilização e disseminação dos resultados, estudos e custos com pessoal.
+2 - Não são elegíveis custos diretamente relacionados com a área produtiva ou operacional dos beneficiários.
+Artigo 36.º
+Obrigações dos beneficiários
+Para além das obrigações previstas no artigo 11.º, são ainda exigíveis, para a tipologia de intervenção «Qualificação e Internacionalização das PME», a manutenção no beneficiário dos postos de trabalho apoiados, durante três anos a partir da data da conclusão da operação, podendo os quadros técnicos contratados ser substituídos, desde que por outros com qualificação mínima equivalente.
+Artigo 37.º
+Indicadores de realização e de resultado
+1 - Os avisos para apresentação de candidaturas estabelecem os indicadores de realização e/ou de resultado associados à aprovação do financiamento, com base nos quais são fixados os compromissos a alcançar em cada operação, bem como os mecanismos de bonificação ou penalização, em função do grau de cumprimento dos resultados contratualizados, definindo os indicadores que relevam para efeitos de aplicação dos referidos mecanismos, nos termos do artigo 22.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+2 - Em caso de incumprimento dos resultados contratualizados pode aplicar-se uma redução ou revogação do incentivo atribuído, sendo a fórmula de cálculo da correção financeira estabelecida em aviso para apresentação de candidaturas, nos termos do disposto na alínea c) do n.º 2 do artigo 33.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+3 - Os beneficiários devem apresentar no pedido de pagamento de saldo final uma autoavaliação qualitativa das realizações e resultados atingidos, nos termos do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 20-A/2023, de 22 de março.
+Artigo 38.º
+Enquadramento europeu de auxílios de Estado
+As operações apoiadas na tipologia de intervenção «Qualificação e Internacionalização das PME» respeitam o seguinte enquadramento europeu de auxílios de Estado:
+a) O artigo 29.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, o Regulamento (UE) n.º 1408/2013, de 18 de dezembro, na sua redação atual, relativo aos auxílios de minimis no setor agrícola, ou o Regulamento (UE) n.º 717/2014, de 27 de junho, na sua redação atual, relativo aos auxílios de minimis no setor das pescas e da aquicultura, para as despesas previstas nas alíneas a) e b) do n.º 1 do artigo 35.º;
+b) O artigo 19.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, o Regulamento (UE) n.º 1408/2013, de 18 de dezembro, na sua redação atual, relativo aos auxílios de minimis no setor agrícola, ou o Regulamento (UE) n.º 717/2014, de 27 de junho, na sua redação atual, relativo aos auxílios de minimis no setor das pescas e da aquicultura, para as despesas previstas na alínea c) do n.º 1 do artigo 35.º;
+c) O artigo 18.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, ou o Regulamento (UE) n.º 717/2014, de 27 de junho, na sua redação atual, relativo aos auxílios de minimis no setor das pescas e da aquicultura, para as despesas previstas na alínea d) do n.º 1 do artigo 35.º;
+d) O artigo 28.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, para as despesas previstas na alínea e) do n.º 1 do artigo 35.º;
+e) O artigo 31.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, o Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro, na sua redação atual, relativo aos auxílios de minimis, o Regulamento (UE) n.º 1408/2013, de 18 de dezembro, na redação atual, relativo aos auxílios de minimis no setor agrícola, ou o Regulamento (UE) n.º 717/2014, de 27 de junho, na sua redação atual, relativo aos auxílios de minimis no setor das pescas e da aquicultura, para as despesas previstas na alínea f) do n.º 1 do artigo 35.º;
+f) O Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro, na sua redação atual, relativo aos auxílios de minimis, para as despesas previstas nas alíneas g) e h) do n.º 1 do artigo 35.º
+ANEXO I
+Critérios de delimitação da intervenção dos programas no âmbito de tipologias de operação comuns
+(a que se refere o n.º 4 do artigo 2.º)
+Sistema de Incentivos à Competitividade Empresarial
+1 - «Inovação Produtiva»
+Na presente tipologia de intervenção, são critérios de delimitação dos programas os seguintes:
+a) Para as regiões menos desenvolvidas NUTS II (Norte, Centro e Alentejo), o financiamento é assegurado:
+i) Pelo Programa Inovação e Transição Digital, no caso de operações multirregião e de operações individuais com investimento total superior ao limite definido em aviso para apresentação de candidaturas;
+ii) Pelos programas regionais do continente, no caso das operações realizadas na respetiva NUTS II e com montante de investimento total igual ou inferior ao limite a definir em aviso para apresentação de candidaturas;
+b) O financiamento dos investimentos localizados nas regiões de Lisboa e Algarve é assegurado pelo respetivo programa regional;
+c) Sempre que existam, numa mesma operação, investimentos localizados nas regiões de Lisboa ou Algarve e investimentos localizados em regiões menos desenvolvidas, cada componente dará lugar a uma operação distinta, com códigos de operação distintos, e será financiada nos termos fixados nas anteriores alíneas a) e b);
+d) Para os territórios previstos nos PTTJ as fronteiras entre os investimentos de PME cofinanciados pelo FEDER e pelo FTJ são definidas em aviso para apresentação de candidaturas, sendo que uma operação apenas pode ser financiada por um único fundo.
+2 - «Qualificação e Internacionalização das PME»
+Na presente tipologia de intervenção, são critérios de delimitação dos programas os seguintes:
+a) Para as regiões menos desenvolvidas NUTS II (Norte, Centro e Alentejo), o financiamento é assegurado pelo Programa Inovação e Transição Digital;
+b) O financiamento dos investimentos localizados nas regiões de Lisboa e Algarve é assegurado pelo respetivo programa regional;
+c) Sempre que existam, numa mesma operação, investimentos localizados nas regiões de Lisboa ou Algarve e investimentos localizados em regiões menos desenvolvidas, cada componente dará lugar a uma operação distinta, com códigos de operação distintos, e será financiada nos termos fixados nas anteriores alíneas a) e b).
+ANEXO II
+Restrições setoriais
+[a que se refere a alínea c) do n.º 2 do artigo 4.º]
+Sistema de Incentivos à Competitividade Empresarial
+São excluídos do âmbito de aplicação da tipologia de intervenção «Inovação Produtiva» os incentivos concedidos nos seguintes setores:
+1 - Setores sujeitos a restrições europeias específicas em matéria de auxílios estatais:
+a) Setores siderúrgico, da lenhite, do carvão, dos transportes e das infraestruturas conexas, da produção, armazenamento, transporte, distribuição e infraestruturas energéticas, de acordo com o previsto nas alíneas a) e b) do artigo 13.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual;
+b) Setor da pesca e da aquicultura, nos termos do Regulamento (UE) n.º 1379/2013, do Parlamento Europeu e do Conselho, que estabelece a organização comum dos mercados dos produtos da pesca e da aquicultura, altera os Regulamentos (CE) n.º 1184/2006 e (CE) n.º 1224/2009, do Conselho, e revoga o Regulamento (CE) n.º 104/2000, do Conselho;
+c) Setor da produção agrícola primária, de acordo com o previsto na alínea b) do n.º 3 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual;
+d) Setor de transformação e comercialização de produtos agrícolas, de acordo com o previsto na alínea c) do n.º 3 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual.
+2 - Setores sujeitos a delimitação da intervenção entre o FEDER, o FEADER, ou o FEAMPA, de acordo com as fronteiras estabelecidas no Acordo de Parceria, passíveis de densificação em orientação de gestão, designadamente:
+a) Setor de transformação e comercialização de produtos agrícolas previsto no anexo i do Tratado da UE e produtos florestais, para operações com investimento total igual ou inferior a 4 milhões de euros ou, quando superior, que sejam desenvolvidas em explorações agrícolas em que a matéria-prima provém maioritariamente da exploração agrícola ou que sejam desenvolvidas por organizações de produtores, ambos a financiar pelo FEADER;
+b) Setores da aquicultura e da transformação e comercialização de produtos da pesca e da aquicultura, para operações com investimento total igual ou inferior a 20 milhões de euros (com exceção da Região do Algarve, em que o limiar de investimento é de 4 milhões de euros), ou, quando superior, que sejam desenvolvidas por organizações de produtores, ambos a financiar pelo FEAMPA.
+3 - São excluídos do âmbito de aplicação da tipologia de intervenção «Qualificação e Internacionalização das PME» os incentivos concedidos nos seguintes setores:
+a) Setor da pesca e da aquicultura, nos termos do Regulamento (UE) n.º 1379/2013, do Parlamento Europeu e do Conselho, que estabelece a organização comum dos mercados dos produtos da pesca e da aquicultura, altera os Regulamentos (CE) n.º 1184/2006 e (CE) n.º 1224/2009, do Conselho, e revoga o Regulamento (CE) n.º 104/2000, do Conselho, com exceção dos apoios enquadrados nos artigos 28.º e 31.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual;
+b) Setor da produção agrícola primária, de acordo com o previsto na alínea b) do n.º 3 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual, com exceção dos apoios enquadrados nos artigos 18.º, 28.º e 31.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho, na sua redação atual.
+ANEXO III
+Situação económico-financeira equilibrada
+[a que se refere a alínea b) do artigo 6.º]
+1 - Para efeitos do disposto na alínea b) do artigo 6.º, considera-se que os beneficiários possuem uma situação económico-financeira equilibrada quando, em relação às tipologias de intervenção e/ou de operação dos Sistemas de Incentivos a que sejam candidatos:
+a) Tratando-se de grandes empresas, apresentem um rácio de autonomia financeira não inferior a 0,20;
+b) Tratando-se de PME e de Small Mid Caps, apresentem um rácio de autonomia financeira não inferior a 0,15;
+c) Tratando-se de entidades não empresariais do sistema de I&I (ENESII) e de outras instituições sem fins lucrativos:
+i) De natureza privada, apresentarem situação líquida positiva;
+ii) De natureza pública, demonstrarem ter capacidade de financiamento da operação.
+2 - O rácio de autonomia financeira referido no n.º 1 é calculado através da seguinte fórmula, sendo o valor arredondado à centésima:
+AF = CP(índice e)/AT
+em que:
+AF - autonomia financeira da empresa;
+CP(índice e) - capital próprio da empresa, incluindo os suprimentos desde que estes venham a ser incorporados em capital próprio até à data da assinatura do termo de aceitação;
+AT - ativo total da empresa.
+3 - Para o cálculo dos indicadores referidos nos números anteriores será utilizado o balanço referente ao ano pré-projeto ou balanço intercalar posterior, certificado por um revisor oficial de contas, reportado até à data da candidatura.
+4 - Em casos devidamente fundamentados, é admissível a apresentação de um balanço corrigido, através do qual se contemplem as especificidades relacionadas com práticas habituais no mercado, nomeadamente no que se refere a situações caracterizadas por ciclos de produção longos ou resultantes de concursos públicos.
+5 - As PME que, à data da candidatura, tenham menos de um ano de atividade, assim como as PME que apresentem operações de elevada intensidade tecnológica, em alternativa ao cumprimento do n.º 1, devem demonstrar capacidade de financiamento da operação com capitais próprios igual ou superior a 20 % das despesas elegíveis, através do seguinte rácio:
+FCP = (CP(índice p)/DE(índice p)) x 100
+em que:
+FCP - financiamento por capitais próprios;
+CP(índice p) - capital próprio da operação, incluindo novas entradas de capital (capital social, incorporação de suprimentos e prestações suplementares de capital), desde que venham a ser incorporados em capital próprio até à conclusão material e financeira da operação;
+DE(índice p) - montante da despesa elegível da operação.
+6 - Para efeitos da aferição do cumprimento do financiamento adequado com capitais próprios em sede de encerramento financeiro, as novas entradas de capital social, prestações suplementares e empréstimos de sócios e acionistas podem ser substituídas pelo montante dos resultados líquidos gerados pela empresa e retidos durante o período de realização da operação.
+116363283
