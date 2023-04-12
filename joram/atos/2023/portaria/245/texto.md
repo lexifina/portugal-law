@@ -1,0 +1,33 @@
+# Portaria n.º 245/2023
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS, DE AMBIENTE, RECURSOS NATURAIS E ALTERAÇÕES CLIMÁTICAS E DE MAR E PESCAS
+
+**Publicação:** JORAM, I série, n.º 69/2023, de 2023-04-12
+
+**Sumário:** Estabelece a taxa devida pela extração de materiais inertes no leito das águas do mar, o valor máximo de venda ao público de materiais inertes e a quota de extração de materiais inertes, para vigorar durante o ano de 2023 e define, ainda, as regras a aplicar na recolha de calhau rolado nas praias da Região.
+
+## Texto
+
+Portaria n.º 245/2023
+de 12 de abril
+Sumário: Estabelece a taxa devida pela extração de materiais inertes no leito das águas do mar, o valor máximo de venda ao público de materiais inertes e a quota de extração de materiais inertes, para vigorar durante o ano de 2023 e define, ainda, as regras a aplicar na recolha de calhau rolado nas praias da Região.
+Texto: O Decreto Legislativo Regional n.º 22/2018/M, de 12 de dezembro, alterado pelo Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, estabelece o regime jurídico da extração comercial de materiais inertes no leito das águas costeiras, territoriais e das águas interiores sujeitas à influência das marés da Região Autónoma da Madeira (RAM) e cria um conjunto de regras indispensáveis para garantir a gestão sustentável destes recursos. Nos termos dos artigos 4.º e 10.º do referido diploma legal, é possível, mediante obtenção de licença prévia, a extração de materiais inertes do domínio público, tendo como contrapartida o pagamento de uma taxa de recursos hídricos, cujo valor deve ser fixado anualmente, por aplicação do índice de preços do consumidor publicado pelo organismo regional competente em matéria de Estatística. Neste domínio, dispõe ainda o seu artigo 14.º, a necessidade de ser fixado anualmente o valor da venda ao público dos materiais inertes. Concomitantemente, a fim de garantir a utilização sustentável dos recursos hídricos em articulação com um elevado nível de proteção da orla costeira e em obediência ao princípio da dimensão ambiental da água e do princípio de gestão integrada das águas, o mencionado diploma prevê, no n.º 1 do seu artigo 12.º, a necessidade de ser fixada anualmente a quota global de extração de materiais inertes. O diploma acima referido veio derrogar as normas constantes do Decreto Legislativo Regional n.º 28/2008/M, de 12 de agosto, na redação dada pelo Decreto Legislativo Regional n.º 14/2013/M, de 12 de abril, e pelo Decreto Legislativo Regional n.º 17/2016/M, de 23 de março, que lhe são contrárias, mantendo, no entanto, em vigor, as normas referentes à recolha de calhau rolado. A parte não derrogada do Decreto Legislativo Regional n.º 28/2008/M, de 12 de agosto, alterado pelo Decreto Legislativo Regional n.º 14/2013/M, de 12 de abril, e pelo Decreto Legislativo Regional n.º 17/2016/M, de 23 de março, prevê igualmente nos seus artigos 9.º e 10.º, a fixação anual da taxa de recursos hídricos e da quota de recolha de calhau rolado nas praias, mediante obtenção de licença prévia. Assim: Ao abrigo do n.º 1 e n.º 2 do artigo 10.º, do n.º 1 do artigo 12.º e do artigo 14.º do Decreto Legislativo Regional n.º 22/2018/M, de 12 de dezembro, alterado pelo Decreto Legislativo Regional n.º 18/2020/M, de 31 de dezembro, do n.º 2 do artigo 9.º, do n.º 2 do artigo 10.º do Decreto Legislativo Regional n.º 28/2008/M, de 12 de agosto, alterado pelo Decreto Legislativo Regional n.º 14/2013/M, de 12 de abril, e pelo Decreto Legislativo Regional n.º 17/2016/M, de 23 de março, da alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.ºs 130/99, de 21 de agosto, e 12/2000, de 21 de julho, bem como do artigo 5.º, da alínea d) do n.º 1 do artigo 9.º e da alínea e) do artigo 10.º, do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, na sua redação atual, manda o Governo Regional da Madeira, pelo Secretário Regional das Finanças, pela Secretária Regional de Ambiente, Recursos Naturais e Alterações Climáticas e pelo Secretário Regional de Mar e Pescas, aprovar o seguinte:
+1. A taxa devida pela extração de materiais inertes no leito das águas do mar, para vigorar durante o ano de 2023, é de € 1,01 por metro cúbico.
+2. O valor máximo de venda ao público de materiais inertes, para vigorar durante o ano de 2023, é de € 24,42 por metro cúbico.
+3. A quota de extração de materiais inertes, para vigorar durante o ano de 2023, é fixada em 205.381 m3, sem prejuízo do seu valor poder vir a ser alterado, por razões de necessidades temporárias da Região.
+4. A recolha de calhau rolado nas praias da RAM é apenas autorizada para as seguintes situações:
+4.1. Recuperação de património classificado e inventariado de acordo com a Lei n.º 107/2001, de 8 de setembro, com as alterações introduzidas pela Lei n.º 36/2021, de 14 de junho, que estabelece as bases da política e do regime de proteção e valorização do património cultural, mediante a apresentação de documento comprovativo pelo requerente.
+4.2. A utilização daqueles materiais em imóveis não incluídos no número anterior, carecem de parecer prévio favorável da Direção Regional da Cultura, que ateste o interesse patrimonial e cultural da sua aplicação.
+4.3. A aferição das quantidades necessárias é efetuada pelos serviços do departamento do Governo Regional com competência em matéria de litoral.
+
+5. A taxa devida pela recolha de calhau rolado, para vigorar durante o ano de 2023, é de € 298,80 por metro cúbico.
+6. A utilização do calhau rolado em espaços públicos não está sujeita ao pagamento da taxa a que se refere o número anterior.
+7. A quota de recolha de calhau rolado, para vigorar durante o ano de 2023, é fixada em 100 m3, independentemente da natureza jurídica do requerente.
+8. Não é permitida a venda de calhau rolado ao público.
+9. A recolha de calhau rolado nas praias, sem a respetiva licença, constitui contraordenação ambiental muito grave, nos termos da alínea a) do nº 3 do artigo 22.º do Decreto Legislativo Regional n.º 28/2008/M, de 12 de agosto, na sua atual redação.
+10. É revogada a Portaria n.º 405/2022, de 27 de julho.
+11. O presente diploma entra em vigor no dia seguinte à sua publicação, produzindo efeitos retroativos a 1 de janeiro de 2023.
+Assinada em 05 de abril de 2023.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
+A SECRETÁRIA REGIONAL DE AMBIENTE, RECURSOS NATURAIS E ALTERAÇÕES CLIMÁTICAS, Susana Luísa Rodrigues Nascimento Prada
+O SECRETÁRIO REGIONAL DE MAR E PESCAS, Teófilo Alírio Reis Cunha
