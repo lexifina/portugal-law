@@ -1,0 +1,23 @@
+Aviso n.º 7551/2023
+Sumário: Alteração ao Plano Diretor Municipal das Caldas da Rainha - limites da área urbana consolidada.
+Alteração ao Plano Diretor Municipal das Caldas da Rainha - limites da área urbana consolidada
+Vítor Manuel Calisto Marques, Presidente da Câmara Municipal das Caldas da Rainha torna público que, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 4 de maio, a Câmara Municipal deliberou por maioria do Executivo Municipal, com 4 votos a favor e 3 abstenções, em reunião pública, de 6 de março de 2023, determinar o início do procedimento relativo a alteração ao Plano Diretor Municipal, publicado pela Resolução do Conselho de Ministros n.º 101/2002, publicada na 1.ª série-B do Diário da República de 18 de junho de 2002.
+Esta alteração deverá estar concluída no prazo de 12 meses, tendo como objetivo a consolidação as áreas incluídas no interior da cidade, entre a Av. General Pedro Cardoso e a Rua 31 de Janeiro, e fomentar o equilíbrio entre um desenho urbano moderno, funcional e facilitador da fruição do espaço público.
+Para a participação pública, nos termos do n.º 2 do artigo 88.º do referido decreto-lei, é estabelecido o período de 15 dias úteis, contados a partir da publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram na página da internet da Câmara Municipal e na divisão de gestão urbanística e planeamento.
+Assim, convidam-se todos os interessados a apresentar eventuais sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Exmo. Sr. Presidente da Câmara Municipal das Caldas da Rainha e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações desta Câmara Municipal; enviadas por via postal para a morada Câmara Municipal de Caldas da Rainha, Praça 25 de Abril ou por via eletrónica para planeamento@mcr.pt.
+29 de março de 2023. - O Presidente da Câmara, Vítor Manuel Calisto Marques.
+Deliberação
+Procedimento de Alteração ao Plano Diretor Municipal das Caldas da Rainha - limites da área urbana consolidada
+Em reunião ordinária, realizada em 6 de março de 2023, a Câmara Municipal das Caldas da Rainha deliberou, por maioria do Executivo Municipal, com 4 votos a favor e 3 abstenções:
+"1 - Que se inicie o procedimento de alteração ao PDM das Caldas da Rainha - limites da área urbana consolidada, de acordo com os artigos 118.º e 119.º do RJIGT (Decreto-Lei n.º 80/2015, de 14 de maio);
+2 - Aprovar, os Termos de Referência com a definição dos objetivos e oportunidades da alteração ao PDM das Caldas da Rainha - limites da área urbana consolidada;
+3 - Estabelecer, de acordo com o n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, um período de 15 dias úteis para participação pública, para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento;
+4 - Estabelecer o prazo de 12 meses para a elaboração da alteração ao PDM;
+5 - Formalizar a proposta de alteração ao PDM, contemplando o objetivo de consolidar as áreas incluídas no interior da cidade, entre a Av. General Pedro Cardoso e a Rua 31 de Janeiro, e fomentar o equilíbrio entre um desenho urbano moderno, funcional e facilitador da fruição do espaço público;
+6 - Estabelecer que a alteração ao PDM não seja sujeita a Avaliação Ambiental, uma vez que se refere a pequenas alterações de nível local sem efeitos significativos no ambiente, de acordo com o previsto no artigo 120.º do Decreto-Lei n.º 80/2015, de 14 de maio e no n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, na sua atual redação dada pelo Decreto-Lei n.º 58/2011, de 4 de maio e conforme a fundamentação e ponderação efetuada aos critérios aí estabelecidos;
+7 - Publicar a presente deliberação na 2.ª série do Diário da República, divulgando-a através da Comunicação Social, da plataforma colaborativa de gestão territorial e no sítio da Internet da Câmara Municipal, de acordo com a alínea c do n.º 4 do artigo 191.º do RJIGT."
+A presente deliberação foi tomada por maioria do Executivo Municipal, com 4 votos a favor e 3 abstenções.
+Votaram a favor o Vice-Presidente Joaquim Beato Caetano e os Vereadores Maria da Conceição do Couto Henriques Velez de Lima, António Guilherme Rocha Reis Vidigal e Luís Miguel Simões de Albuquerque Patacho.
+Abstiveram-se os Vereadores Fernando Manuel Tinta Ferreira, Hugo Patrício Martinho de Oliveira e Maria João Morais Domingos".
+6 de março de 2023. - O Presidente da Câmara, Vítor Manuel Calisto Marques.
+616329206
