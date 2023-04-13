@@ -1,0 +1,12 @@
+Aviso (extrato) n.º 7554/2023
+Sumário: Prorrogação do prazo de elaboração do procedimento de revisão do Plano de Pormenor da Zona ZUE-W (Quinta do Bosque) - Castelo Branco.
+Dr. Leopoldo Martins Rodrigues, Presidente da Câmara Municipal, faz saber que, em cumprimento do disposto no n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, a Câmara Municipal de Castelo Branco deliberou, por unanimidade, na sua reunião pública do Órgão Executivo, realizada em 17 de março de 2023, prorrogar o prazo de elaboração do procedimento de Revisão do Plano de Pormenor da Zona ZUE-W (Quinta do Bosque) do Plano Geral de Urbanização de Castelo Branco por um período de 2 anos, contabilizados a partir do final do prazo previamente estabelecido na reunião realizada em 23 de abril de 2021, nos termos do disposto no n.º 6 do artigo 76.º do citado decreto-lei.
+Mais deliberou determinar a publicação no Diário da República, a divulgação na comunicação social, na plataforma colaborativa de gestão territorial e no sítio da Internet da Câmara Municipal de Castelo Branco, do presente aviso que divulga o teor da citada prorrogação do prazo de elaboração, nos termos do disposto no n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação.
+17 de março de 2023. - O Presidente da Câmara, Dr. Leopoldo Martins Rodrigues.
+Deliberação
+Roberto António Reixa Nabais, Diretor do Departamento de Administração Geral da Câmara Municipal de Castelo Branco e Secretário do Órgão Executivo do Município de Castelo Branco:
+Declara que, na ata da reunião da Câmara Municipal de Castelo Branco, realizada no dia dezassete de março de dois mil e vinte e três, consta uma deliberação do seguinte teor:
+Ponto 3.1. Revisão do Plano de Pormenor da Zona ZUE-W (Quinta do Bosque) do Plano Geral de Urbanização de Castelo Branco. Prorrogação do Prazo de Elaboração do Procedimento de Revisão, em Conformidade com o n.º 6 do Artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial
+A Câmara Municipal deliberou, por unanimidade, prorrogar o prazo de elaboração da Revisão do Plano de Pormenor da Zona ZUE-W (Quinta do Bosque) do Plano Geral de Urbanização de Castelo Branco por um período de 2 anos e determinar a publicação da deliberação nos seus devidos termos.
+Paços do Município de Castelo Branco, 17 de março de 2023. - O Diretor do Departamento de Administração Geral e Secretário do Órgão Executivo do Município de Castelo Branco, Roberto António Reixa Nabais.
+616304485
