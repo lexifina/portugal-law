@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 7759/2023
+Sumário: Consulta pública do projeto de Regulamento de Apoio à Disponibilização de Habitação Social da Freguesia de São Marcos da Serra.
+Consulta pública do projeto de Regulamento de Apoio à Disponibilização de Habitação Social da Freguesia de São Marcos da Serra
+Luís Manuel Viegas Cabrita, Presidente da Junta de Freguesia de São Marcos da Serra, torna público, nos termos e para efeitos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Junta de Freguesia deliberou, na sua reunião realizada em 9 de março de 2023, aprovar o projeto de Regulamento de Apoio à Disponibilização de Habitação Social da Freguesia de São Marcos da Serra e submeter o mesmo a consulta pública pelo prazo de trinta dias, contados a partir da data da publicação do presente aviso, na 2.ª série do Diário da República.
+Mais torna público, que o referido projeto de regulamento poderá ser consultado na secretaria da Junta de Freguesia, todos os dias úteis, durante o horário de expediente, ou na página eletrónica, em www.freguesiadesaomarcosdaserra.pt.
+As eventuais sugestões e/ou reclamações deverão ser formuladas por escrito até ao final do mencionado período, dirigidas ao Presidente da Junta de Freguesia de São Marcos da Serra, e poderão ser apresentadas por escrito e entregues em mão, na sede, enviadas por correio para o endereço (Largo da Igreja, 8375-252 São Marcos da Serra) ou através do e-mail freguesiadesaomarcosdaserra@gmail.com.
+27 de março de 2023. - O Presidente da Junta de Freguesia de São Marcos da Serra, Luís Manuel Viegas Cabrita.
+316330761
