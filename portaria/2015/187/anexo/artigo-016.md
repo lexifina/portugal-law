@@ -1,5 +1,5 @@
 # Artigo 16.º
 
-### Colocação
+### Desempate
 
-A colocação dos candidatos nas vagas fixadas para cada ramo é feita por ordem decrescente das listas seriadas elaboradas nos termos do artigo anterior.
+Sempre que dois ou mais candidatos em situação de empate resultante da aplicação dos critérios de seriação a que se refere o artigo 14.º disputem a última vaga ou o último conjunto de vagas de um ramo, são abertas tantas vagas adicionais quanto as necessárias para os admitir.

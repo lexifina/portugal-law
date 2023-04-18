@@ -1,11 +1,19 @@
 # Artigo 13.º
 
-### Júri das provas
+### Edital
 
-1 - A organização das provas é da competência de um júri designado pelo presidente da Escola, ouvidas a direção e a comissão técnico-científica do Departamento de Teatro.
+Por edital do presidente da Escola, publicado no sítio desta na Internet, são divulgados, designadamente:
 
-2 - Compete ao júri, designadamente:
+a) O calendário do concurso;
 
-a) Dar execução às provas e proceder à sua apreciação de acordo com as normas e critérios de avaliação fixados no presente Regulamento;
+b) O horário de realização das provas;
 
-b) Proceder às operações de seleção e seriação dos candidatos.
+c) A composição do júri de cada uma das provas;
+
+d) As vagas por ramo;
+
+e) A informação sobre a instrução de processos de candidatura;
+
+f) A informação sobre a instrução de processos de reclamação;
+
+g) Os emolumentos devidos.

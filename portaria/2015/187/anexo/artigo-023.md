@@ -1,11 +1,5 @@
 # Artigo 23.º
 
-### Exclusão dos candidatos
+### Comunicação à Direção-Geral do Ensino Superior
 
-1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:
-
-a) Prestem falsas declarações;
-
-b) Atuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objetivos daquelas.
-
-2 - A decisão a que se refere o número anterior é da competência do presidente da Escola e deve ser fundamentada.
+Findo o prazo de matrícula e inscrição, a Escola envia à Direção-Geral do Ensino Superior, nos termos e nos prazos por esta fixados, uma lista onde constem todos os candidatos que procederam à mesma, com a indicação do nome, número do documento de identificação e data de nascimento.

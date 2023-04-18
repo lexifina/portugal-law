@@ -1,5 +1,13 @@
 # Artigo 18.º
 
-### Competência
+### Resultado final
 
-As decisões sobre a candidatura a que se refere o presente Regulamento são da competência do presidente da Escola.
+1 - O resultado final exprime-se através de uma das seguintes situações:
+
+a) Colocado;
+
+b) Não colocado;
+
+c) Excluído.
+
+2 - As menções de Não colocado e Excluído são acompanhadas da respetiva fundamentação.

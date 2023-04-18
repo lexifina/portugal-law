@@ -6,7 +6,7 @@
 
 a) Uma prova prática de desenho de representação que se destina a avaliar as capacidades de observação, de representação e de expressão dos candidatos;
 
-b) A apresentação de uma seleção de trabalhos, em formato A3 ou A4, até ao máximo de 10, que tenham sido realizados pelo candidato, relevantes e relacionados com os estudos em artes visuais;
+b) A apresentação de uma seleção de trabalhos, até ao máximo de 10, que tenham sido realizados pelo candidato, relevantes e relacionados com os estudos em artes visuais;
 
 c) Uma entrevista, através da qual se pretende avaliar, através da análise de uma ficha de inquérito, as competências e motivações artísticas adquiridas no percurso escolar e ou profissional que levam o candidato a escolher este curso.
 
@@ -14,7 +14,7 @@ c) Uma entrevista, através da qual se pretende avaliar, através da análise de
 
 CFS = Pdr x 0,65 + At x 0,05 + E x 0,30
 
-Em que:
+em que:
 
 CFS = classificação final da seleção;
 

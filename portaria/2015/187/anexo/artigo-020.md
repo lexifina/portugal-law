@@ -1,15 +1,11 @@
 # Artigo 20.º
 
-### Comunicação do resultado final
+### Reclamações
 
-1 - O resultado final é divulgado através de edital afixado na Escola e publicado no respetivo sítio da Internet no prazo fixado nos termos do artigo 25.º
+1 - Do resultado final, podem os candidatos apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 24.º, mediante exposição dirigida ao presidente da Escola.
 
-2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso, os seguintes elementos:
+2 - A reclamação deve ser entregue no local onde o reclamante apresentou a candidatura.
 
-a) Nome;
+3 - Ao procedimento relativo à apresentação e decisão da reclamação aplica-se o disposto no Código do Procedimento Administrativo.
 
-b) Número de documento de identificação;
-
-c) Nota de candidatura a que se refere o artigo 15.º e valores das suas componentes;
-
-d) Resultado final.
+4 - As decisões sobre as reclamações são notificadas aos reclamantes por via eletrónica.

@@ -1,21 +1,5 @@
 # Artigo 15.º
 
-### Seriação
+### Colocação
 
-1 - A seriação dos candidatos à matrícula e inscrição em cada um dos ramos do curso é realizada com base numa nota de candidatura.
-
-2 - A nota de candidatura é a resultante do cálculo da seguinte expressão:
-
-Nc = CFS x 0,9 + Ha x 0,1
-
-Em que:
-
-Nc = nota de candidatura;
-
-CFS = classificação da fase de seleção;
-
-Ha = classificação da habilitação com que se candidata.
-
-3 - O cálculo da expressão a que se refere o número anterior é arredondado às centésimas.
-
-4 - Os candidatos com nota de candidatura inferior a 10,00 valores são excluídos.
+A colocação dos candidatos nas vagas fixadas para cada ramo é feita por ordem decrescente das listas seriadas elaboradas nos termos do artigo anterior.

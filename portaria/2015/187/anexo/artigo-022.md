@@ -1,11 +1,11 @@
 # Artigo 22.º
 
-### Matrícula e inscrição
+### Exclusão dos candidatos
 
-1 - Os candidatos colocados têm o direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 25.º
+1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:
 
-2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado.
+a) Prestem falsas declarações;
 
-3 - No caso de algum candidato colocado desistir expressamente da matrícula e inscrição, ou não comparecer a realizar a mesma, os serviços académicos da Escola, no prazo de dois dias úteis após o termo do período de matrícula e inscrição, convocam, por via eletrónica, para a matrícula e inscrição, o(s) candidato(s) não colocado(s) na lista ordenada, por ordem decrescente de classificação, até esgotar as vagas ou os candidatos.
+b) Atuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objetivos daquelas.
 
-4 - Os candidatos a que se refere o número anterior têm um prazo improrrogável de dois dias úteis após a receção da notificação para procederem à matrícula e inscrição.
+2 - A decisão a que se refere o número anterior é da competência do presidente da Escola e deve ser fundamentada.

@@ -1,13 +1,13 @@
 # Artigo 19.º
 
-### Resultado final
+### Comunicação do resultado final
 
-1 - O resultado final exprime-se através de uma das seguintes situações:
+1 - O resultado final é divulgado através de edital afixado na Escola e publicado no respetivo sítio da Internet no prazo fixado nos termos do artigo 24.º
 
-a) Colocado;
+2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso, os seguintes elementos:
 
-b) Não colocado;
+a) Nome;
 
-c) Excluído.
+b) Nota de candidatura a que se refere o artigo 15.º e valores das suas componentes;
 
-2 - As menções de Não colocado e Excluído são acompanhadas da respetiva fundamentação.
+c) Resultado final.
