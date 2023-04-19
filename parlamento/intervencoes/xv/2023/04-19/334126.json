@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "334126",
+  "tipo": "Intervenção",
+  "orador": "João Galamba (Ministro das Infraestruturas)",
+  "data_registo": "2023-04-19",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "127002",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "127002",
+        "tipo": "DEB",
+        "titulo": "Debate de atualidade - A situação da ferrovia nacional"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Abre o debate de atualidade, requerido pelo PCP, sobre «A situação da ferrovia nacional».",
+        "duracao": "00:08:01:855",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_19_15_00_00_clean_14_plenario.xml&idsegmento=4"
+      },
+      {
+        "assunto": "Debate de atualidade, requerido pelo PCP, sobre «A situação da ferrovia nacional».",
+        "duracao": "00:08:11:028",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_19_15_00_00_clean_14_plenario.xml&idsegmento=14"
+      },
+      {
+        "assunto": "Debate de atualidade, requerido pelo PCP, sobre «A situação da ferrovia nacional».",
+        "duracao": "00:12:57:896",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_04_19_15_00_00_clean_14_plenario.xml&idsegmento=27"
+      }
+    ],
+    "DataReuniaoPlenaria": "2023-04-19",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "334126",
+    "IdDebate": "16293",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": "Ministro das Infraestruturas",
+      "governo": "XXIII GOVERNO CONSTITUCIONAL",
+      "nome": "João Galamba"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "334126",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "18-21",
+          "32-37",
+          "5-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-20",
+        "pubLeg": "XV",
+        "pubNr": "115",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/115/2023-04-20/5?pgs=5-7,18-21,32-37&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "A situação da ferrovia nacional",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
