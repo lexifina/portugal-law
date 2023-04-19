@@ -1,0 +1,7 @@
+Despacho n.º 4706/2023
+Sumário: Aprova o Regulamento Definitivo do Bloco de Évora, e anexos correspondentes.
+O Bloco de Évora, integrado no Empreendimento de Fins Múltiplos de Alqueva é uma obra de aproveitamento de águas do domínio público para o regadio dos prédios ou parcelas de prédios incluídos na área beneficiada e descritos no respetivo cadastro, através de infraestruturas de captação e distribuição de água para rega.
+Situado no concelho e distrito de Évora, nas freguesias de Torre de Coelheiros e de Nossa Senhora de Machede, na União de Freguesias de Malagueira e Horta das Figueiras e na União de Freguesias de São Manços e São Vicente do Pigeiro, este Bloco possui um total de área beneficiada de 2956 hectares, cuja origem da água é a albufeira de Alqueva, através do Subsistema de Alqueva, sendo que o circuito hidráulico tem a sua origem na Estação Elevatória EE2 do perímetro de rega do Monte Novo, podendo assegurar o fornecimento de água para atividades não agrícolas, desde que devidamente licenciadas.
+Assim, e ao abrigo do disposto no n.º 2 do artigo 20.º e da alínea a) do artigo 55.º, ambos do Decreto-Lei n.º 269/82, de 10 de julho, na sua redação atual, aprovo o Regulamento Definitivo do Bloco de Évora, e anexos correspondentes, cuja publicitação será efetuada no sítio da Direção-Geral de Agricultura e Desenvolvimento Rural.
+11 de abril de 2023. - O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues.
+316363834
