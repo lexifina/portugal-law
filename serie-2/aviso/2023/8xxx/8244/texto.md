@@ -1,0 +1,7 @@
+Aviso n.º 8244/2023
+Sumário: Projeto de Regulamento Municipal de Trânsito e Estacionamento - consulta pública.
+Aires Henrique do Couto Pereira, Presidente da Câmara Municipal da Póvoa de Varzim, nos termos e para os efeitos previstos nos artigos 56.º do Regime Jurídico das Autarquias Locais e 101.º do Código do Procedimento Administrativo, e ao abrigo da alínea k) do n.º 1 do artigo 33.º do referido Regime Jurídico, torna público que a Câmara Municipal da Póvoa de Varzim, na sua reunião de 4 de abril de 2023, deliberou submeter a consulta pública o Projeto de Regulamento Municipal de Trânsito e Estacionamento.
+O Projeto de Regulamento está disponível no Portal Municipal - www.cm-pvarzim.pt - e encontra-se ainda no Centro de Atendimento Municipal, onde poderá ser consultado por qualquer interessado.
+A consulta pública decorrerá pelo prazo de 30 (trinta) dias úteis, contados a partir da publicação do presente Edital no sítio institucional do Município - efetuada em 5 de abril de 2023 - e as sugestões, dirigidas ao Presidente da Câmara Municipal da Póvoa de Varzim, deverão ser formuladas por escrito, podendo ser apresentadas no Centro de Atendimento Municipal, ou remetidas por via postal para a morada Praça do Almada 4490-438 Póvoa de Varzim, ou ainda por correio eletrónico para o endereço regulamentos@cm-pvarzim.pt, dentro do prazo suprarreferido.
+5 de abril de 2023. - O Presidente da Câmara Municipal, Aires Henrique do Couto Pereira.
+316348169
