@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "707",
+    "id": "152751",
+    "titulo": "Proíbe práticas atentatórias contra pessoas LGBT+ através das denominadas «terapias de conversão sexual»"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-04-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64176",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-04-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-06-05",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466a4d32566b4f5451784c57466b4e546b744e4751794d7931684d6a41344c5459334d54526a5a6a55314e5751325a6935775a47593d&fich=1c3ed941-ad59-4d23-a208-6714cf555d6f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de substituição integral PJLs n.ºs 72XV (BE), 209XV (L), 699XV (PAN) e 707XV (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6d4f47597a4d6a63314c5463344d4751744e444d305a6931685a6d56694c546b324d54526b4e5451784f5745784f5335775a47593d&fich=ff8f3275-780d-434f-afeb-9614d5419a19.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-13",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Retificação da Proposta de substituição integral PJLs n.ºs 72XV (BE), 209XV (L), 699XV (PAN) e 707XV (PS) - (substituída)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45325a4756694e6a526c4c5449774f5751744e4455314d4331695954466a4c544d334e57526b5a6a51314d5752684d4335775a47593d&fich=16deb64e-209d-4550-ba1c-375ddf451da0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de substituição integral PJLs n.ºs 72XV (BE), 209XV (L), 699XV (PAN) e 707XV (PS)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41355a4449354f5463344c54557a4f5759744e446c694d6931695a444d354c5441774e5463795a4467774f5467334d4335775a47593d&fich=09d29978-539f-49b2-bd39-00572d809870.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-20",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e o Relatório da Discussão e Votação na Especialidade CACDLG ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a64684e6d55304d7a646d4c5746694f5751744e444a694d5330354d6d55344c54426a4e3249794e4745304e325131596935775a47593d&fich=7a6e437f-ab9d-42b1-92e8-0c7b24a47d5b.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-12-20",
+            "dataRemessa": "2023-12-20",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-04-21",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1346523",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997630",
+        "obs": null,
+        "pag": [
+          "22-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-20",
+        "pubLeg": "XV",
+        "pubNr": "51",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/02/051/2023-12-20/22?pgs=22-28&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
