@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GfAjXt6jfv8tqRnvwVRrojDEIo%2b7p1v6jaTnZYOUpHxKyyI5yEhP0uHRQMKVu75VaWCiut7FIhwMCYWUwyV9Pvk2gPUTnwyfs%2bbXGr6%2bvekGCeM3FNBTDdZ9UOgLk4z7DKxI7fTmgeSr1D0qmHp1Kp3UNwCklnqX8UVQnT569TNoVlG6EUc6VlxZbYFDunnEzjGg0%2f1PrtkhNrFKx3DELdUX7lIWZb9PBk84Ov3T1k2pRFpWmnJz%2bPe%2fWp8L%2bxjk%2bMkpy%2bHWNGXd8jKujFJEposFCwbq9kyVjOyhJ4ug3OuGADTdPu2bEB5QwH6MlttrJpamg5h3FYpDHP%2bXI0gXRlCwYV44fesCLhEry4jQImg%3d&fich=DiplomasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "1c1078c10448c22aca421ebfa8d69a53be6d45d3cdef4ecf77f8a6b7fe4ac80e",
+  "legislatura": "XV",
+  "id": "43901",
+  "tipo": "Decreto da Assembleia da República",
+  "numero": "45",
+  "data_registo": "2023-04-21",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2023",
+    "Id": "43901",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "131727",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338314d5749774d6a45345a43316a5a6a67344c5452694d6d45744f57597a4d4330354f4755304d6a59774f5751774d546b755a47396a65413d3d&fich=51b0218d-cf88-4b2a-9f30-98e42609d019.docx&Inline=true",
+        "IniNr": "216",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "J",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XV",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c324d315a44566d4f545a6a4c54686b4f4749744e444e6b4e4330355a6d4a6a4c574e684d47466d4e6a49334f544d335a53356b62324d3d&fich=c5d5f96c-8d8b-43d4-9fbc-ca0af627937e.doc&Inline=true",
+    "Numero": "45",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "947266",
+        "obs": null,
+        "pag": [
+          "2-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-04-21",
+        "pubLeg": "XV",
+        "pubNr": "210",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/210S1/2023-04-21/2?pgs=2-5&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Decreto da Assembleia da República",
+    "Titulo": "Assegura o acesso às campanhas de publicidade institucional do Estado aos órgãos de comunicação social direcionados às comunidades portuguesas no estrangeiro, alterando a Lei n.º 95/2015, de 17 de agosto",
+    "Tp": "D",
+    "Versao": "1"
+  }
+}
