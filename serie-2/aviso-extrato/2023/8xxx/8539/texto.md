@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 8539/2023
+Sumário: Aprova o Regulamento de Apoio ao Associativismo da Vila de Cortegaça.
+Aprova o Regulamento de Apoio ao Associativismo da Vila de Cortegaça
+Sérgio Vicente Prata Oliveira, Presidente da Freguesia de Cortegaça, ao abrigo da competência que lhe confere a alínea h), do n.º 1, do artigo 16.º, do Anexo I à Lei n.º 75/2013, de 12 de setembro, para os efeitos do disposto no artigo 56.º, do Anexo I à Lei n.º 75/2013, de 12 de setembro e nos termos do artigo 139.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, nas suas versões mais recentes, torna público que por deliberação tomada na reunião da Junta de Freguesia e apreciação pela Assembleia de Freguesia, foi aprovado o Regulamento de Apoio ao Associativismo da Vila de Cortegaça, o qual entra em vigor no primeiro dia útil seguinte à publicação do presente aviso no Diário da República.
+Mais se torna público que o projeto do Regulamento foi submetido a consulta pública nos termos previstos no artigo 101.º do CPA, por publicação no Diário da República n.º 49, de 09 de março de 2023, 2.ª série, parte H, Aviso (extrato) n.º 5104/2023, e ainda por edital e publicação no respetivo site da Junta de Freguesia pelo prazo de 30 dias, não se tendo verificado qualquer sugestão no referido prazo.
+13 de abril de 2023. - O Presidente da Freguesia de Cortegaça, Sérgio Vicente Prata Oliveira.
+316369707
