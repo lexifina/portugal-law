@@ -2,7 +2,7 @@
 
 ### Suplemento de piquete
 
-1 - O suplemento de piquete a que tem direito o pessoal da Polícia Judiciária é fixado em percentagens do índice 100 da escala salarial do pessoal de investigação criminal:
+1 - O suplemento de piquete a que tem direito o pessoal da Polícia Judiciária é fixado nas seguintes percentagens do nível remuneratório 19 da Tabela Remuneratória Única:
 
 a) Dias úteis:
 
