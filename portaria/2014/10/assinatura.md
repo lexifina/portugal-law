@@ -1,0 +1,1 @@
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 14 de janeiro de 2014. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 13 de janeiro de 2014.
