@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 8657/2023
+Sumário: Alteração do Regulamento de Organização dos Serviços da Câmara Municipal.
+Para os devidos e legais efeitos torna-se público que por despacho do Presidente da Câmara, datado de 30 de março de 2023 e ratificado por deliberação da Câmara Municipal, datada de 5 de abril de 2023 foi aprovada a primeira alteração ao Regulamento orgânico em que foi cometida à Unidade Orgânica de Serviços Urbanos e Ambiente, as competências de gerir o cumprimento dos contratos referentes às obras por empreitada, elaborando os respetivos autos de medição, revisão de preços, autos de consignação, receção, bem como assim, assegurar o controlo da execução das empreitadas e assegurar o serviço de águas e saneamento e o respetivo apoio administrativo. Tais competências deixaram de estar acometidas, respetivamente, às Unidade Orgânica de Desenvolvimento Estratégico e à Unidade Orgânica de Gestão Urbanística e Atendimento.
+10 de abril de 2023. - O Presidente da Câmara, José Manuel Carvalho Penedo Martins Efigénio.
+316356755
