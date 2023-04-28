@@ -1,0 +1,17 @@
+# Resolução do Conselho do Governo Regional n.º 451/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 80/2023, 4.º suplemento, de 2023-04-28
+
+**Sumário:** Autoriza dar de arrendamento por ajuste direto a José Orlando Pereira de Sousa, a moradia unifamiliar, de tipologia T1, inserida no Posto Agrário do Bom Sucesso, localizada ao Caminho das Voltas n.º 15, sítio do Bom Sucesso, freguesia de Santa Maria Maior, município do Funchal.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 451/2023
+Sumário: Autoriza dar de arrendamento por ajuste direto a José Orlando Pereira de Sousa, a moradia unifamiliar, de tipologia T1, inserida no Posto Agrário do Bom Sucesso, localizada ao Caminho das Voltas n.º 15, sítio do Bom Sucesso, freguesia de Santa Maria Maior, município do Funchal.
+Texto: Resolução n.º 451/2023 Considerando que a Região Autónoma da Madeira é proprietária de uma moradia inserida no Posto Agrário do Bom Sucesso, localizada ao Caminho das Voltas n.º 15, freguesia de Santa Maria Maior, concelho do Funchal; Considerando que na citada moradia, que serviu de casa de função, residiu, desde fevereiro de 1995, até o seu falecimento no passado mês de novembro de 2021, uma funcionária da Direção Regional de Agricultura; Considerando que a moradia em referência, não é suscetível de utilização pelos serviços da Direção Regional de Agricultura e Desenvolvimento Rural, tal como está configurada, pelo que aquela Direção Regional considerou que a mesma pode permanecer como residência do cônjuge sobrevivo, mediante a regularização da ocupação, por contrato de arrendamento, tendo em consideração a situação económica e social do mesmo; Considerando que, nos termos do disposto no n.º 2, do artigo 94.º do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 24/2017/M, de 3 de agosto, as ocupações sem título das casas de função, podem ser regularizadas nos termos gerais; Considerando que, ao abrigo do disposto na alínea e) do n.º 1, do artigo 36.º do citado diploma regional, o arrendamento em apreço, obteve a autorização prévia de Sua Excelência, o Secretário Regional das Finanças, por tratar-se de um imóvel ocupado há mais de cinco anos e o arrendatário é o próprio ocupante; Considerando que está assim plenamente salvaguardado o interesse público. O Conselho do Governo reunido em plenário em 27 de abril de 2023, resolve:
+1. Autorizar, nos termos do disposto no artigo 36.º, conjugado com o n.º 2, do artigo 94.º e, alínea e), do n.º 1, do artigo 38.º todos do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 24/2017/M, de 3 de agosto, dar de arrendamento por ajuste direto a José Orlando Pereira de Sousa, a moradia unifamiliar, de tipologia T1, inserida no Posto Agrário do Bom Sucesso, localizada ao Caminho das Voltas n.º 15, sítio do Bom Sucesso, freguesia de Santa Maria Maior, concelho do Funchal, descrita na Conservatória do Registo Predial do Funchal sob o n.º 3323/20090401.
+2. Aprovar a minuta do contrato de arrendamento, que faz parte integrante desta Resolução e fica arquivada na Secretaria - Geral da Presidência.
+3. Mandatar o Secretário Regional das Finanças para, em representação da Região Autónoma da Madeira, outorgar o contrato de arrendamento.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
