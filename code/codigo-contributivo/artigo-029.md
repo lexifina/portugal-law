@@ -20,10 +20,12 @@ b) Nas vinte e quatro horas seguintes ao início da actividade sempre que, por r
 
 3 - Com a comunicação a entidade empregadora declara à instituição de segurança social o NISS, se o houver, se o contrato de trabalho é a termo resolutivo ou sem termo e os demais elementos necessários ao enquadramento do trabalhador.
 
-4 - Sem prejuízo do disposto no n.º 6, na falta de cumprimento da obrigação prevista no n.º 1, presume-se que o trabalhador iniciou a prestação de trabalho ao serviço da entidade empregadora faltosa no 1.º dia do 6.º mês anterior ao da verificação do incumprimento.
+4 - Sem prejuízo do disposto no n.º 6, na falta de cumprimento da obrigação prevista no n.º 1, presume-se que o trabalhador iniciou a prestação de trabalho ao serviço da entidade empregadora faltosa no primeiro dia do décimo segundo mês anterior ao da verificação do incumprimento.
 
 5 - Na falta da comunicação da admissão do trabalhador no caso de o mesmo se encontrar a receber prestações de doença ou de desemprego, presume-se que a prestação de trabalho teve início na data em que começaram a ser concedidas as referidas prestações, sendo a entidade empregadora solidariamente responsável pela devolução da totalidade dos montantes indevidamente recebidos pelo trabalhador.
 
 6 - A presunção referida nos n.os 4 e 5 é elidível por prova de que resulte a data em que teve, efectivamente, início a prestação do trabalho.
 
-7 - A violação do disposto nos n.os 1 a 3 constitui contra-ordenação leve quando seja cumprida nas vinte e quatro horas subsequentes ao termo do prazo e constitui contra-ordenação grave nas demais situações.
+7 - A violação do disposto nos n.os 1 a 3 constitui contraordenação leve, quando seja cumprida nas 24 horas subsequentes ao termo do prazo, e constitui contraordenação muito grave nas demais situações.
+
+8 - A verificação da presunção prevista n.º 4 deve ser comunicada pelo serviço competente da segurança social ao serviço com competência inspetiva do ministério responsável pela área laboral, para efeitos da aplicação da respetiva contraordenação.
