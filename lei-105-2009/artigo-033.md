@@ -1,5 +1,7 @@
 ## Capítulo x
 
+## Disposições finais e transitórias
+
 # Artigo 33.º
 
 ### Informação sobre prestadores de serviço
