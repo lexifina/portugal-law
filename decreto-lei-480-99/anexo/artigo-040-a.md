@@ -8,4 +8,4 @@ a) Se o trabalhador não propuser a ação de impugnação do despedimento indiv
 
 b) Nos demais casos previstos no Código de Processo Civil que não sejam incompatíveis com a natureza do processo do trabalho.
 
-2 - O disposto na alínea a) do número anterior não é aplicável quando for requerida a impugnação da regularidade e licitude do despedimento, nos termos do n.º 4 do artigo 34.º e do artigo 98.º-C.
+2 - O disposto na alínea a) do número anterior não é aplicável quando for requerida a impugnação da regularidade e licitude do despedimento, nos termos do n.º 5 do artigo 34.º e do artigo 98.º-C.
