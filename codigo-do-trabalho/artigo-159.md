@@ -8,4 +8,6 @@
 
 3 - A antecedência a que se refere o n.º 1 não pode ser inferior a 30 dias na situação do n.º 1 do artigo seguinte e a 20 dias nos restantes casos.
 
-4 - Constitui contra-ordenação grave a violação do disposto no número anterior.
+4 - Em caso de incumprimento do empregador do disposto nos números anteriores, o trabalhador não é obrigado a prestar trabalho nem pode ser prejudicado por esse motivo.
+
+5 - Constitui contraordenação grave a violação do disposto no n.º 3.

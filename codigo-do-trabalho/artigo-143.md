@@ -2,7 +2,7 @@
 
 ### Sucessão de contrato de trabalho a termo
 
-1 - A cessação de contrato de trabalho a termo, por motivo não imputável ao trabalhador, impede nova admissão ou afectação de trabalhador através de contrato de trabalho a termo ou de trabalho temporário cuja execução se concretize no mesmo posto de trabalho, ou ainda de contrato de prestação de serviços para o mesmo objecto, celebrado com o mesmo empregador ou sociedade que com este se encontre em relação de domínio ou de grupo, ou mantenha estruturas organizativas comuns, antes de decorrido um período de tempo equivalente a um terço da duração do contrato, incluindo renovações.
+1 - A cessação de contrato de trabalho a termo, por motivo não imputável ao trabalhador, impede nova admissão ou afetação de trabalhador através de contrato de trabalho a termo ou de trabalho temporário cuja execução se concretize no mesmo posto de trabalho ou atividade profissional, ou ainda de contrato de prestação de serviços para o mesmo objeto ou atividade, celebrado com o mesmo empregador ou sociedade que com este se encontre em relação de domínio ou de grupo, ou mantenha estruturas organizativas comuns, antes de decorrido um período de tempo equivalente a um terço da duração do contrato, incluindo renovações.
 
 2 - O disposto no número anterior não é aplicável nos seguintes casos:
 

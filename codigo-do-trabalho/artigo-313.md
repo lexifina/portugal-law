@@ -23,3 +23,5 @@ h) Celebrar contratos de mútuo na qualidade de mutuante;
 i) Proceder a levantamentos de tesouraria para fim alheio à actividade da empresa.
 
 2 - A proibição a que se refere qualquer das alíneas d) a g) do número anterior cessa em caso de declaração expressa neste sentido, por escrito, de dois terços dos trabalhadores abrangidos.
+
+3 - Constitui contraordenação grave a violação do disposto no presente artigo.

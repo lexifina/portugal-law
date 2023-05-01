@@ -26,6 +26,10 @@ b) 15 dias em caso de contrato a termo certo com duração inferior a seis meses
 
 4 - O período experimental, de acordo com qualquer dos números anteriores, é reduzido ou excluído, consoante a duração de anterior contrato a termo para a mesma atividade, de contrato de trabalho temporário executado no mesmo posto de trabalho, de contrato de prestação de serviços para o mesmo objeto, ou ainda de estágio profissional para a mesma atividade, tenha sido inferior ou igual ou superior à duração daquele, desde que em qualquer dos casos sejam celebrados pelo mesmo empregador.
 
-5 - A duração do período experimental pode ser reduzida por instrumento de regulamentação colectiva de trabalho ou por acordo escrito entre partes.
+5 - O período experimental previsto na subalínea iii) da alínea b) do n.º 1 é reduzido ou excluído consoante a duração de anterior contrato de trabalho a termo, celebrado com empregador diferente, tenha sido igual ou superior a 90 dias.
 
-6 - A antiguidade do trabalhador conta-se desde o início do período experimental.
+6 - O período experimental é reduzido consoante a duração do estágio profissional com avaliação positiva, para a mesma atividade e empregador diferente, tenha sido igual ou superior a 90 dias, nos últimos 12 meses.
+
+7 - A duração do período experimental pode ser reduzida por instrumento de regulamentação colectiva de trabalho ou por acordo escrito entre partes.
+
+8 - A antiguidade do trabalhador conta-se desde o início do período experimental.

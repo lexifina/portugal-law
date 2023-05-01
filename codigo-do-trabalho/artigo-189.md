@@ -10,4 +10,4 @@
 
 4 - A empresa de trabalho temporário deve incluir a informação relativa a trabalhador temporário no mapa do quadro de pessoal e nos relatórios anuais da formação profissional e da actividade dos serviços de segurança e saúde no trabalho.
 
-5 - Constitui contra-ordenação leve a violação do disposto no n.º 3.
+5 - Constitui contraordenação leve a violação do disposto nos n.os 3 ou 4.

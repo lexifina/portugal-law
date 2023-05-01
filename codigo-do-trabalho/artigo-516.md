@@ -6,6 +6,6 @@
 
 2 - O ministro responsável pela área laboral manda publicar o projecto de portaria de extensão no Boletim do Trabalho e Emprego.
 
-3 - Qualquer pessoa singular ou colectiva que possa ser, ainda que indirectamente, afectada pela extensão pode deduzir oposição fundamentada, por escrito, nos 15 dias seguintes à publicação do projecto.
+3 - Qualquer pessoa singular ou coletiva que possa ser, ainda que indiretamente, afetada pela extensão pode deduzir oposição fundamentada, por escrito, nos 10 dias seguintes à publicação do projeto.
 
 4 - O Código do Procedimento Administrativo é subsidiariamente aplicável.

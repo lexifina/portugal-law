@@ -12,7 +12,7 @@ c) Local e período normal de trabalho;
 
 d) Data de início do trabalho;
 
-e) Indicação do termo estipulado e do respectivo motivo justificativo;
+e) Indicação do termo estipulado, ou da duração previsível do contrato, e do respetivo motivo justificativo, consoante se trate, respetivamente, de contrato a termo certo ou incerto;
 
 f) Datas de celebração do contrato e, sendo a termo certo, da respectiva cessação.
 

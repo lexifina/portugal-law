@@ -24,11 +24,7 @@ g) Datas da celebração do contrato e do início da prestação de actividade.
 
 4 - O exemplar do contrato que ficar com o empregador deve ter apensos documentos comprovativos do cumprimento das obrigações legais relativas à entrada e à permanência ou residência do cidadão estrangeiro ou apátrida em Portugal, sendo apensas cópias dos mesmos documentos aos restantes exemplares.
 
-5 - O empregador deve comunicar ao serviço com competência inspectiva do ministério responsável pela área laboral, mediante formulário electrónico:
-
-a) A celebração de contrato de trabalho com trabalhador estrangeiro ou apátrida, antes do início da sua execução;
-
-b) A cessação de contrato, nos 15 dias posteriores.
+5 - [Revogado.]
 
 6 - O disposto neste artigo não é aplicável a contrato de trabalho de cidadão nacional de país membro do Espaço Económico Europeu ou de outro Estado que consagre a igualdade de tratamento com cidadão nacional em matéria de livre exercício de actividade profissional.
 

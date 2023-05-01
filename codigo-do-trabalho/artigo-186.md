@@ -26,4 +26,4 @@ d) O modo de o médico do trabalho ou o técnico de higiene e segurança da empr
 
 8 - O utilizador deve comunicar o início da actividade de trabalhador temporário, nos cinco dias úteis subsequentes, aos serviços de segurança e saúde no trabalho, aos representantes dos trabalhadores para a segurança e saúde no trabalho, aos trabalhadores com funções específicas neste domínio e à comissão de trabalhadores.
 
-9 - Constitui contra-ordenação muito grave a violação do disposto no n.º 7, constitui contra-ordenação grave a violação do disposto nos n.os 4, 5 ou 6 e constitui contra-ordenação leve a violação do disposto nos n.os 3 ou 8.
+9 - Constitui contraordenação muito grave a violação do disposto no n.º 7, constitui contraordenação grave a violação do disposto nos n.os 4, 5 ou 6 e constitui contraordenação leve a violação do disposto nos n.os 2, 3 ou 8.

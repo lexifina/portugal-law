@@ -34,7 +34,9 @@ l) Capítulo sobre prevenção e reparação de acidentes de trabalho e doenças
 
 m) Transmissão de empresa ou estabelecimento;
 
-n) Direitos dos representantes eleitos dos trabalhadores.
+n) Direitos dos representantes eleitos dos trabalhadores;
+
+o) Uso de algoritmos, inteligência artificial e matérias conexas, nomeadamente no âmbito do trabalho nas plataformas digitais.
 
 4 - As normas legais reguladoras de contrato de trabalho só podem ser afastadas por contrato individual que estabeleça condições mais favoráveis para o trabalhador, se delas não resultar o contrário.
 

@@ -42,6 +42,6 @@ b) A conduta do transmitente ou do adquirente que não reconheça ter havido tra
 
 12 - A decisão condenatória pela prática de contraordenação referida na alínea a) ou na alínea b) do número anterior deve declarar, respetivamente, que a posição do empregador nos contratos de trabalho dos trabalhadores não se transmitiu, ou que a mesma se transmitiu.
 
-13 - Constitui contraordenação grave a violação do disposto nos n.os 7, 8 ou 9.
+13 - Constitui contraordenação grave a violação do disposto nos n.os 1, 2, 3, 7, 8 ou 9.
 
 14 - Aos trabalhadores das empresas ou estabelecimentos transmitidos ao abrigo do presente artigo aplica-se o disposto na alínea m) do n.º 1 do artigo 3.º e no artigo 498.º

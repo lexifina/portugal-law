@@ -10,6 +10,8 @@ b) Durante o horário de trabalho da generalidade dos trabalhadores até um per�
 
 2 - É aplicável à realização de reunião referida no número anterior o disposto no artigo 420.º, com as necessárias adaptações.
 
-3 - Os membros de direcção de associações sindicais representativas dos trabalhadores que não trabalhem na empresa podem participar na reunião, mediante comunicação dos promotores ao empregador com a antecedência mínima de seis horas.
+3 - Nas empresas com menos de 50 trabalhadores sindicalizados, a convocação prevista no n.º 1 pode ser efetuada pelo delegado sindical.
 
-4 - O empregador que proíba reunião de trabalhadores no local de trabalho ou o acesso de membro de direcção de associação sindical a instalações de empresa onde decorra reunião de trabalhadores comete contra-ordenação muito grave.
+4 - Os membros de direcção de associações sindicais representativas dos trabalhadores que não trabalhem na empresa podem participar na reunião, mediante comunicação dos promotores ao empregador com a antecedência mínima de seis horas.
+
+5 - O empregador que proíba reunião de trabalhadores no local de trabalho ou o acesso de membro de direcção de associação sindical a instalações de empresa onde decorra reunião de trabalhadores comete contra-ordenação muito grave.

@@ -16,8 +16,8 @@ d) Reforma antecipada ou pré-reforma.
 
 3 - A aplicação de medida prevista na alínea c) ou d) do n.º 1 depende de acordo do trabalhador.
 
-4 - O empregador e a estrutura representativa dos trabalhadores podem fazer-se assistir cada qual por um perito nas reuniões de negociação.
+4 - O empregador e a estrutura representativa dos trabalhadores podem fazer-se assistir cada qual por um perito nas reuniões da fase de informações e negociação.
 
-5 - Deve ser elaborada acta das reuniões de negociação, contendo a matéria acordada, bem como as posições divergentes das partes e as opiniões, sugestões e propostas de cada uma.
+5 - Deve ser elaborada ata das reuniões da fase de informações e negociação, contendo a matéria acordada, bem como as posições divergentes das partes e as opiniões, sugestões e propostas de cada uma.
 
 6 - Constitui contra-ordenação grave o despedimento efectuado com violação do disposto nos n.os 1 ou 3.

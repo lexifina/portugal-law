@@ -36,6 +36,8 @@ c) Os aspetos referidos no n.º 4 do artigo 208.º
 
 a) Trabalhador abrangido por convenção coletiva que disponha de modo contrário a esse regime ou, relativamente ao regime referido no n.º 1, a trabalhador representado por associação sindical que tenha deduzido oposição a portaria de extensão da convenção coletiva em causa; ou
 
-b) Trabalhador com filho menor de 3 anos de idade que não manifeste, por escrito, a sua concordância.
+b) Salvo manifestação, por escrito, da sua concordância, trabalhador com filho menor de três anos ou, independentemente da idade, filho com deficiência ou doença crónica;
+
+c) Trabalhador com filho entre os três e os seis anos, que apresente declaração de que o outro progenitor exerce atividade profissional e está impossibilitado de prestar assistência.
 
 14 - Constitui contraordenação grave a prática de horário de trabalho em violação do disposto neste artigo.

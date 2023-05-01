@@ -8,4 +8,6 @@ a) Fora do horário de trabalho da generalidade dos trabalhadores, sem prejuízo
 
 b) Durante o horário de trabalho da generalidade dos trabalhadores até um período máximo de quinze horas por ano, que conta como tempo de serviço efectivo, desde que seja assegurado o funcionamento de serviços de natureza urgente e essencial.
 
-2 - O empregador que proíba reunião de trabalhadores no local de trabalho comete contra-ordenação muito grave.
+2 - O disposto no número anterior é aplicável à convocação e realização de reuniões com recurso a tecnologias de informação e comunicação, bem como o procedimento a que se refere o artigo seguinte.
+
+3 - O empregador que proíba reunião de trabalhadores no local de trabalho comete contra-ordenação muito grave.

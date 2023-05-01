@@ -2,7 +2,7 @@
 
 ### Compensação por despedimento colectivo
 
-1 - Em caso de despedimento coletivo, o trabalhador tem direito a compensação correspondente a 12 dias de retribuição base e diuturnidades por cada ano completo de antiguidade.
+1 - Em caso de despedimento coletivo, o trabalhador tem direito a compensação correspondente a 14 dias de retribuição base e diuturnidades por cada ano completo de antiguidade.
 
 2 - A compensação prevista no número anterior é determinada do seguinte modo:
 
@@ -14,7 +14,7 @@ c) O valor diário de retribuição base e diuturnidades é o resultante da divi
 
 d) Em caso de fração de ano, o montante da compensação é calculado proporcionalmente.
 
-3 - O empregador é responsável pelo pagamento da totalidade da compensação, sem prejuízo do direito ao reembolso, por aquele, junto do fundo de compensação do trabalho ou de mecanismo equivalente e do direito do trabalhador a acionar o fundo de garantia de compensação do trabalho, nos termos previstos em legislação específica.
+3 - O empregador é responsável pelo pagamento da totalidade da compensação, sem prejuízo do direito do trabalhador a acionar o FGCT, nos termos previstos em legislação específica.
 
 4 - Presume-se que o trabalhador aceita o despedimento quando recebe do empregador a totalidade da compensação prevista neste artigo.
 

@@ -24,11 +24,11 @@ i) Dispensa de prestação de trabalho no período nocturno;
 
 j) Dispensa da prestação de trabalho por parte de trabalhadora grávida, puérpera ou lactante, por motivo de protecção da sua segurança e saúde;
 
-k) Dispensa para avaliação para adopção.
+k) Dispensa no âmbito dos processos de adoção e de acolhimento familiar;
 
 l) Dispensa do acompanhante da mulher grávida, que se encontre numa das ilhas das regiões autónomas sem unidade hospitalar, nas deslocações desta à unidade hospitalar onde decorrerá o parto.
 
-2 - A dispensa para consulta de PMA ou pré-natal, amamentação ou aleitação não determina perda de quaisquer direitos e é considerada como prestação efetiva de trabalho.
+2 - A falta por luto gestacional, bem como a dispensa para consulta de PMA ou pré-natal, amamentação ou aleitação não determinam a perda de quaisquer direitos e são consideradas como prestação efetiva de trabalho.
 
 3 - As licenças por situação de risco clínico durante a gravidez, para deslocação a unidade hospitalar localizada fora da ilha de residência para realização de parto, por interrupção de gravidez, por adoção e licença parental em qualquer modalidade:
 
@@ -52,4 +52,4 @@ d) Terminam com a cessação da situação que originou a respectiva licença qu
 
 6 - A licença para assistência a filho ou para assistência a filho com deficiência, doença crónica ou doença oncológica suspende os direitos, deveres e garantias das partes na medida em que pressuponham a efetiva prestação de trabalho, designadamente a retribuição, mas não prejudica os benefícios complementares de assistência médica e medicamentosa a que o trabalhador tenha direito.
 
-7 - Constitui contra-ordenação grave a violação do disposto nos n.os 1, 2, 3 ou 4.
+7 - Constitui contraordenação grave a violação do disposto no presente artigo.

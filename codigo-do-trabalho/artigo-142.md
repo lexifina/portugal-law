@@ -7,3 +7,5 @@
 2 - Nos casos previstos no número anterior, a duração total de contratos de trabalho a termo celebrados entre o mesmo trabalhador e empregador não pode exceder 70 dias de trabalho no ano civil.
 
 3 - Em caso de violação do disposto em qualquer dos números anteriores, o contrato considera-se celebrado pelo prazo de seis meses, contando-se neste prazo a duração de contratos anteriores celebrados ao abrigo dos mesmos preceitos.
+
+4 - Constitui contraordenação leve a violação do dever de comunicação previsto no n.º 1.

@@ -6,7 +6,7 @@
 
 2 - É nulo o contrato celebrado entre empresas de trabalho temporário pelo qual uma cede à outra um trabalhador para que este seja posteriormente cedido a terceiro.
 
-3 - No caso previsto no n.º 1, considera-se que o trabalho é prestado à empresa de trabalho temporário em regime de contrato de trabalho sem termo.
+3 - No caso previsto no n.º 1, considera-se que o trabalho é prestado ao utilizador em regime de contrato de trabalho sem termo.
 
 4 - No caso previsto no n.º 2, considera-se que o trabalho é prestado à empresa que contrate o trabalhador em regime de contrato de trabalho sem termo.
 

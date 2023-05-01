@@ -22,7 +22,7 @@ h) Dispensa da prestação de trabalho por parte de trabalhadora grávida, puér
 
 i) Dispensa para consulta pré-natal;
 
-j) Dispensa para avaliação para adopção;
+j) Dispensa no âmbito dos processos de adoção e de acolhimento familiar;
 
 k) Dispensa para amamentação ou aleitação;
 
@@ -44,4 +44,4 @@ s) Dispensa de prestação de trabalho suplementar;
 
 t) Dispensa de prestação de trabalho no período nocturno.
 
-2 - Os direitos previstos no número anterior apenas se aplicam, após o nascimento do filho, a trabalhadores progenitores que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com excepção do direito de a mãe gozar 14 semanas de licença parental inicial e dos referentes a protecção durante a amamentação.
+2 - Os direitos previstos no número anterior apenas se aplicam, após o nascimento do filho, a trabalhadores progenitores que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com exceção do direito ao gozo de 42 dias consecutivos de licença parental exclusiva da mãe e dos referentes a proteção durante a amamentação.

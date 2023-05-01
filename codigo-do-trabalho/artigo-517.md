@@ -8,4 +8,4 @@
 
 1 - Quando circunstâncias sociais e económicas o justifiquem, não exista associação sindical ou de empregadores nem seja possível a portaria de extensão, pode ser emitida portaria de condições de trabalho.
 
-2 - A portaria de condições de trabalho só pode ser emitida na falta de instrumento de regulamentação colectiva de trabalho negocial.
+2 - A portaria de condições de trabalho só pode ser aplicada na falta de instrumento de regulamentação coletiva de trabalho negocial.

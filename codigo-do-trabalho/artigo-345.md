@@ -8,11 +8,7 @@
 
 3 - Na falta da comunicação a que se refere o n.º 1, o empregador deve pagar ao trabalhador o valor da retribuição correspondente ao período de aviso prévio em falta.
 
-4 - Em caso de caducidade de contrato de trabalho a termo incerto, o trabalhador tem direito a compensação que corresponde à soma dos seguintes montantes:
-
-a) A 18 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, no que respeita aos três primeiros anos de duração do contrato;
-
-b) A 12 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, nos anos subsequentes.
+4 - Em caso de caducidade de contrato de trabalho a termo incerto, o trabalhador tem direito a compensação correspondente a 24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade.
 
 5 - A compensação prevista no número anterior é calculada nos termos do artigo 366.º
 

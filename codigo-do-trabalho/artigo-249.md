@@ -20,12 +20,14 @@ f) A motivada pelo acompanhamento de grávida que se desloque a unidade hospital
 
 g) A motivada por deslocação a estabelecimento de ensino de responsável pela educação de menor por motivo da situação educativa deste, pelo tempo estritamente necessário, até quatro horas por trimestre, por cada um;
 
-h) A de trabalhador eleito para estrutura de representação colectiva dos trabalhadores, nos termos do artigo 409.º;
+h) A motivada por luto gestacional, nos termos do artigo 38.º-A;
 
-i) A de candidato a cargo público, nos termos da correspondente lei eleitoral;
+i) A de trabalhador eleito para estrutura de representação colectiva dos trabalhadores, nos termos do artigo 409.º;
 
-j) A autorizada ou aprovada pelo empregador;
+j) A de candidato a cargo público, nos termos da correspondente lei eleitoral;
 
-k) A que por lei seja como tal considerada.
+k) A autorizada ou aprovada pelo empregador;
+
+l) A que por lei seja como tal considerada.
 
 3 - É considerada injustificada qualquer falta não prevista no número anterior.

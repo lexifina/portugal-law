@@ -4,9 +4,9 @@
 
 1 - O trabalhador pode faltar justificadamente:
 
-a) Até 20 dias consecutivos, por falecimento de descendente ou afim no 1.º grau na linha reta;
+a) Até 20 dias consecutivos, por falecimento de cônjuge não separado de pessoas e bens ou equiparado, filho ou enteado;
 
-b) Até cinco dias consecutivos, por falecimento de cônjuge não separado de pessoas e bens ou de parente ou afim ascendente no 1.º grau na linha reta;
+b) Até cinco dias consecutivos, por falecimento de parente ou afim no 1.º grau na linha reta não incluídos na alínea anterior;
 
 c) Até dois dias consecutivos, por falecimento de outro parente ou afim na linha recta ou no 2.º grau da linha colateral.
 

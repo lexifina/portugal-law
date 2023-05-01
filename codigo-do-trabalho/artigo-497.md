@@ -10,4 +10,6 @@
 
 4 - O trabalhador pode revogar a escolha, cessando a aplicação da convenção seis meses após a comunicação dessa revogação ou antes se, entretanto, se esgotar o prazo referido no número anterior.
 
-5 - O trabalhador só pode fazer uso da faculdade prevista no n.º 1 uma vez enquanto estiver ao serviço do mesmo empregador, ou de outro a que sejam aplicáveis as mesmas convenções coletivas ou decisões arbitrais.
+5 - A escolha não poderá ocorrer se o trabalhador já se encontrar abrangido por portaria de extensão de convenção coletiva aplicável no mesmo âmbito do setor de atividade, profissional e geográfico.
+
+6 - O trabalhador só pode fazer uso da faculdade prevista no n.º 1 uma vez enquanto estiver ao serviço do mesmo empregador, ou de outro a que sejam aplicáveis as mesmas convenções coletivas ou decisões arbitrais.

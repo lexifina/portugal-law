@@ -12,8 +12,10 @@
 
 5 - Cabe a quem alega discriminação indicar o trabalhador ou trabalhadores em relação a quem se considera discriminado, incumbindo ao empregador provar que a diferença de tratamento não assenta em qualquer factor de discriminação.
 
-6 - O disposto no número anterior é designadamente aplicável em caso de invocação de qualquer prática discriminatória no acesso ao trabalho ou à formação profissional ou nas condições de trabalho, nomeadamente por motivo de dispensa para consulta pré-natal, protecção da segurança e saúde de trabalhadora grávida, puérpera ou lactante, licenças por parentalidade ou faltas para assistência a menores.
+6 - O disposto no número anterior é aplicável em caso de invocação de qualquer prática discriminatória no acesso ao trabalho, à formação profissional ou nas condições de trabalho, nomeadamente por motivo de gozo de direitos na parentalidade, de outros direitos previstos no âmbito da conciliação da atividade profissional com a vida familiar e pessoal e dos direitos previstos para o trabalhador cuidador.
 
-7 - É inválido o acto de retaliação que prejudique o trabalhador em consequência de rejeição ou submissão a acto discriminatório.
+7 - São ainda consideradas práticas discriminatórias, nos termos do número anterior, nomeadamente, discriminações remuneratórias relacionadas com a atribuição de prémios de assiduidade e produtividade, bem como afetações desfavoráveis em termos de avaliação e progressão na carreira.
 
-8 - Constitui contra-ordenação muito grave a violação do disposto nos n.os 1 ou 7.
+8 - É inválido o acto de retaliação que prejudique o trabalhador em consequência de rejeição ou submissão a acto discriminatório.
+
+9 - Constitui contraordenação muito grave a violação do disposto nos n.os 1 ou 8.

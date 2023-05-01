@@ -6,7 +6,7 @@
 
 2 - O empregador deve comunicar, nos termos previstos em portaria do ministro responsável pela área laboral, ao serviço com competência inspectiva do ministério responsável pela área laboral os elementos a que se refere o número anterior.
 
-3 - O empregador deve comunicar à entidade com competência na área da igualdade de oportunidades entre homens e mulheres, com a antecedência mínima de cinco dias úteis à data do aviso prévio, o motivo da não renovação de contrato de trabalho a termo sempre que estiver em causa uma trabalhadora grávida, puérpera ou lactante ou um trabalhador no gozo de licença parental.
+3 - O empregador deve comunicar à entidade com competência na área da igualdade de oportunidades entre homens e mulheres, com a antecedência mínima de cinco dias úteis a contar da data do aviso prévio, o motivo da não renovação de contrato de trabalho a termo sempre que estiver em causa uma trabalhadora grávida, puérpera ou lactante, ou um trabalhador no gozo de licença parental, ou um trabalhador cuidador.
 
 4 - O empregador deve afixar informação relativa à existência de postos de trabalho permanentes que estejam disponíveis na empresa ou estabelecimento.
 

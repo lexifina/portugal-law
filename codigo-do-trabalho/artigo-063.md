@@ -26,4 +26,4 @@ d) Depois das consultas referidas no artigo 377.º, no despedimento por inadapta
 
 8 - Se o despedimento for declarado ilícito, o empregador não se pode opor à reintegração do trabalhador nos termos do n.º 1 do artigo 392.º e o trabalhador tem direito, em alternativa à reintegração, a indemnização calculada nos termos do n.º 3 do referido artigo.
 
-9 - Constitui contra-ordenação grave a violação do disposto nos n.os 1 ou 6.
+9 - Constitui contraordenação grave a violação do disposto nos n.os 1, 6 ou 8.

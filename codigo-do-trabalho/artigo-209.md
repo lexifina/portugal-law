@@ -11,3 +11,5 @@ b) Por instrumento de regulamentação colectiva para estabelecer um horário de
 2 - Aos trabalhadores abrangidos por regime de horário de trabalho concentrado não pode ser simultaneamente aplicável o regime de adaptabilidade.
 
 3 - O instrumento de regulamentação colectiva de trabalho que institua o horário concentrado regula a retribuição e outras condições da sua aplicação.
+
+4 - Constitui contraordenação grave a violação do disposto no n.º 2.

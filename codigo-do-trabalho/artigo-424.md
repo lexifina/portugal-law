@@ -20,6 +20,8 @@ g) Modalidades de financiamento;
 
 h) Encargos fiscais e parafiscais;
 
-i) Projecto de alteração do objecto, do capital social ou de reconversão da actividade da empresa.
+i) Projecto de alteração do objecto, do capital social ou de reconversão da actividade da empresa;
+
+j) Parâmetros, critérios, regras e instruções em que se baseiam os algoritmos ou outros sistemas de inteligência artificial que afetam a tomada de decisões sobre o acesso e a manutenção do emprego, assim como condições de trabalho, incluindo a elaboração de perfis e o controlo da atividade profissional.
 
 2 - Constitui contra-ordenação grave a violação do disposto no número anterior.

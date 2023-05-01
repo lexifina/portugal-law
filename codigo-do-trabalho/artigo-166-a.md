@@ -4,7 +4,7 @@
 
 1 - Verificadas as condições previstas no n.º 1 do artigo 195.º, o trabalhador tem direito a passar a exercer a atividade em regime de teletrabalho, quando este seja compatível com a atividade desempenhada.
 
-2 - Além das situações referidas no número anterior, o trabalhador com filho com idade até 3 anos tem direito a exercer a atividade em regime de teletrabalho, quando este seja compatível com a atividade desempenhada e o empregador disponha de recursos e meios para o efeito.
+2 - Além das situações referidas no número anterior, o trabalhador com filho com idade até três anos ou, independentemente da idade, com deficiência, doença crónica ou doença oncológica que com ele viva em comunhão de mesa e habitação, tem direito a exercer a atividade em regime de teletrabalho, quando este seja compatível com a atividade desempenhada e o empregador disponha de recursos e meios para o efeito.
 
 3 - O direito previsto no número anterior pode ser estendido até aos 8 anos de idade nas seguintes situações:
 

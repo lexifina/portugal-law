@@ -1,5 +1,7 @@
 # Artigo 45.º
 
-### Dispensa para avaliação para a adopção
+### Dispensa no âmbito dos processos de adoção e acolhimento familiar
 
-Para efeitos de realização de avaliação para a adopção, os trabalhadores têm direito a três dispensas de trabalho para deslocação aos serviços da segurança social ou recepção dos técnicos em seu domicílio, devendo apresentar a devida justificação ao empregador.
+1 - Os trabalhadores que sejam candidatos a adoção ou a família de acolhimento têm direito a dispensas de trabalho para realização de avaliação ou para cumprimento das obrigações e procedimentos previstos na lei para os respetivos processos, devendo apresentar a devida justificação ao empregador.
+
+2 - Constitui contraordenação grave a violação do disposto no presente artigo.

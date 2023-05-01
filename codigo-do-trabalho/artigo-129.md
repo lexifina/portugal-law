@@ -24,4 +24,8 @@ i) Explorar, com fim lucrativo, cantina, refeitório, economato ou outro estabel
 
 j) Fazer cessar o contrato e readmitir o trabalhador, mesmo com o seu acordo, com o propósito de o prejudicar em direito ou garantia decorrente da antiguidade.
 
-2 - Constitui contra-ordenação muito grave a violação do disposto neste artigo.
+k) Obstar a que o trabalhador exerça outra atividade profissional, salvo com base em fundamentos objetivos, designadamente segurança e saúde ou sigilo profissional, ou tratá-lo desfavoravelmente por causa desse exercício.
+
+2 - O disposto na alínea k) do número anterior não isenta o trabalhador do dever de lealdade previsto na alínea f) do n.º 1 do artigo anterior nem do disposto em legislação especial quanto a impedimentos e incompatibilidades.
+
+3 - Constitui contra-ordenação muito grave a violação do disposto neste artigo.

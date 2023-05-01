@@ -42,4 +42,4 @@ i) Acidente ou risco de acidente iminente.
 
 3 - Sem prejuízo do disposto em instrumento de regulamentação colectiva de trabalho, o período de referência apenas pode ser alterado durante o seu decurso quando circunstâncias objectivas o justifiquem e o total de horas de trabalho prestadas não seja superior às que teriam sido realizadas caso não vigorasse o regime de adaptabilidade, aplicando-se com as necessárias adaptações o disposto no n.º 3 do artigo 205.º
 
-4 - Constitui contra-ordenação grave a violação do disposto no número anterior.
+4 - Constitui contraordenação leve a violação do disposto no n.º 1 e contraordenação grave a violação do disposto no n.º 3.

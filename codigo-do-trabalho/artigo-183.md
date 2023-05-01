@@ -20,4 +20,4 @@ d) Retribuição mínima durante as cedências que ocorram, nos termos do artigo
 
 3 - Na falta de documento escrito ou no caso de omissão ou insuficiência das menções referidas na alínea b) ou c) do n.º 1, considera-se que o trabalho é prestado à empresa de trabalho temporário em regime de contrato de trabalho sem termo, sendo aplicável o disposto no n.º 6 do artigo 173.º
 
-4 - Constitui contra-ordenação grave a violação do disposto na alínea b) do n.º 1.
+4 - Constitui contraordenação grave a violação do disposto na alínea b) do n.º 1 ou no n.º 2.

@@ -34,8 +34,8 @@ l) Instaurar procedimento disciplinar sempre que tiver conhecimento de alegadas 
 
 4 - O empregador deve afixar nas instalações da empresa toda a informação sobre a legislação referente ao direito de parentalidade ou, se for elaborado regulamento interno a que alude o artigo 99.º, consagrar no mesmo toda essa legislação.
 
-5 - (Revogado).
+5 - (Revogado.)
 
-6 - O empregador deve comunicar ao serviço com competência inspetiva do ministério responsável pela área laboral a adesão ao fundo de compensação do trabalho ou a mecanismo equivalente, previstos em legislação específica.
+6 - (Revogado.)
 
-7 - Constitui contraordenação grave a violação do disposto nas alíneas k) e l) do n.º 1 e contraordenação leve a violação do disposto na alínea j) do n.º 1 e nos n.os 5 e 6.
+7 - Constitui contraordenação grave a violação do disposto nas alíneas k) e l) do n.º 1 e contraordenação leve a violação do disposto na alínea j) do n.º 1 e no n.º 4.

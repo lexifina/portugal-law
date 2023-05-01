@@ -4,7 +4,7 @@
 
 O despedimento colectivo é ainda ilícito se o empregador:
 
-a) Não tiver feito a comunicação prevista nos n.os 1 ou 4 do artigo 360.º ou promovido a negociação prevista no n.º 1 do artigo 361.º;
+a) Não tiver feito a comunicação prevista nos n.os 1, 3 ou 4 do artigo 360.º ou promovido a fase de informações e negociação prevista no n.º 1 do artigo 361.º;
 
 b) Não tiver observado o prazo para decidir o despedimento, referido no n.º 1 do artigo 363.º;
 

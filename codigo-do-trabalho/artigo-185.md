@@ -16,7 +16,7 @@
 
 5 - O trabalhador tem direito à retribuição mínima de instrumento de regulamentação colectiva de trabalho aplicável à empresa de trabalho temporário ou ao utilizador que corresponda às suas funções, ou à praticada por este para trabalho igual ou de valor igual, consoante a que for mais favorável.
 
-6 - O trabalhador tem direito, em proporção da duração do respectivo contrato, a férias, subsídios de férias e de Natal, bem como a outras prestações regulares e periódicas a que os trabalhadores do utilizador tenham direito por trabalho igual ou de valor igual.
+6 - O trabalhador tem direito a férias, subsídios de férias e de Natal, bem como a outras prestações regulares e periódicas, em dinheiro ou em espécie, a que os trabalhadores do utilizador tenham direito por trabalho igual ou de valor igual.
 
 7 - A retribuição do período de férias e os subsídios de férias e de Natal de trabalhador contratado por tempo indeterminado para cedência temporária são calculados com base na média das retribuições auferidas nos últimos 12 meses, ou no período de execução do contrato se este for inferior, excluindo as compensações referidas no artigo 184.º e os períodos correspondentes.
 
@@ -28,4 +28,4 @@
 
 11 - O utilizador deve informar o trabalhador temporário dos postos de trabalho disponíveis na empresa ou estabelecimento para funções idênticas às exercidas por este, com vista à sua candidatura.
 
-12 - Constitui contra-ordenação grave a violação do disposto no n.º 3 e o exercício de poder disciplinar por parte do utilizador ou a violação do disposto no número anterior.
+12 - Constitui contraordenação grave a violação do disposto nos n.os 3, 5, 8 ou 11 e o exercício de poder disciplinar por parte do utilizador.

@@ -15,3 +15,5 @@
 4 - No caso de contrato a termo incerto, para efeito do prazo de aviso prévio a que se refere o número anterior, atende-se à duração do contrato já decorrida.
 
 5 - É aplicável à denúncia o disposto no n.º 4 do artigo 395.º
+
+6 - O trabalhador a quem tenha sido reconhecido o estatuto de vítima de violência doméstica, nos termos de legislação específica, fica dispensado do cumprimento do aviso prévio previsto nos números anteriores.

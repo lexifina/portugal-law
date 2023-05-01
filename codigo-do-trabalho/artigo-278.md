@@ -12,4 +12,4 @@
 
 5 - O empregador fica constituído em mora se o trabalhador, por facto que não lhe seja imputável, não puder dispor do montante da retribuição na data do vencimento.
 
-6 - Constitui contra-ordenação grave a violação do disposto no n.º 4.
+6 - Constitui contraordenação grave a violação do disposto nos n.os 2, 3 ou 4.

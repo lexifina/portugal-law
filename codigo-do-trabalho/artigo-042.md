@@ -2,7 +2,7 @@
 
 ### Licença parental inicial a gozar por um progenitor em caso de impossibilidade do outro
 
-1 - O pai ou a mãe tem direito a licença, com a duração referida nos n.os 1, 3, 4, 5, 6 ou 7 do artigo 40.º, ou do período remanescente da licença, nos casos seguintes:
+1 - O pai ou a mãe tem direito a licença com a duração referida nos n.os 1, 3, 6, 7, 8 ou 9 do artigo 40.º, ou do período remanescente da licença, nos casos seguintes:
 
 a) Incapacidade física ou psíquica do progenitor que estiver a gozar a licença, enquanto esta se mantiver;
 

@@ -24,4 +24,4 @@ c) A exercer outra actividade remunerada.
 
 8 - Em caso de não pagamento pontual do montante previsto na alínea a) do n.º 1 durante o período de redução, o trabalhador tem direito a suspender o contrato nos termos do artigo 325.º
 
-9 - Constitui contraordenação grave a violação do disposto na alínea b) do n.º 1.
+9 - Constitui contraordenação grave a violação do disposto no n.º 1.

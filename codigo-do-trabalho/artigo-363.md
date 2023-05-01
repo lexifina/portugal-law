@@ -2,7 +2,7 @@
 
 ### Decisão de despedimento colectivo
 
-1 - Celebrado o acordo ou, na falta deste, após terem decorrido 15 dias sobre a prática do acto referido nos n.os 1 ou 4 do artigo 360.º ou, na falta de representantes dos trabalhadores, da comunicação referida no n.º 3 do mesmo artigo, o empregador comunica a cada trabalhador abrangido a decisão de despedimento, com menção expressa do motivo e da data de cessação do contrato e indicação do montante, forma, momento e lugar de pagamento da compensação, dos créditos vencidos e dos exigíveis por efeito da cessação do contrato de trabalho, por escrito e com antecedência mínima, relativamente à data da cessação, de:
+1 - Celebrado o acordo ou, na falta deste, após terem decorrido 15 dias sobre a prática do ato referido nos n.os 1, 3 ou 4 do artigo 360.º, o empregador comunica a cada trabalhador abrangido a decisão de despedimento, com menção expressa do motivo e da data de cessação do contrato e indicação do montante, forma, momento e lugar de pagamento da compensação, dos créditos vencidos e dos exigíveis por efeito da cessação do contrato de trabalho, por escrito e com antecedência mínima, relativamente à data da cessação, de:
 
 a) 15 dias, no caso de trabalhador com antiguidade inferior a um ano;
 
@@ -16,7 +16,7 @@ d) 75 dias, no caso de trabalhador com antiguidade igual ou superior a 10 anos.
 
 3 - Na data em que envia a comunicação aos trabalhadores, o empregador remete:
 
-a) Ao serviço competente do ministério responsável pela área laboral, a acta das reuniões de negociação ou, na sua falta, informação sobre a justificação de tal falta, as razões que obstaram ao acordo e as posições finais das partes, bem como relação de que conste o nome de cada trabalhador, morada, datas de nascimento e de admissão na empresa, situação perante a segurança social, profissão, categoria, retribuição, a medida decidida e a data prevista para a sua aplicação;
+a) Ao serviço do ministério responsável pela área laboral com competência para o acompanhamento e fomento da contratação coletiva, a ata das reuniões da fase de informações e negociação ou, na sua falta, informação sobre a justificação de tal falta, as razões que obstaram ao acordo e as posições finais das partes, bem como relação de que conste o nome de cada trabalhador, morada, datas de nascimento e de admissão na empresa, situação perante a segurança social, profissão, categoria, retribuição, a medida decidida e a data prevista para a sua aplicação;
 
 b) À estrutura representativa dos trabalhadores, cópia da relação referida na alínea anterior.
 
@@ -24,4 +24,4 @@ b) À estrutura representativa dos trabalhadores, cópia da relação referida n
 
 5 - O pagamento da compensação, dos créditos vencidos e dos exigíveis por efeito da cessação do contrato de trabalho deve ser efectuado até ao termo do prazo de aviso prévio, salvo em situação prevista no artigo 347.º ou regulada em legislação especial sobre recuperação de empresas e reestruturação de sectores económicos.
 
-6 - Constitui contra-ordenação grave o despedimento efectuado com violação do disposto nos n.os 1, 2 ou 5 e constitui contra-ordenação leve a violação do disposto no n.º 3.
+6 - Constitui contraordenação grave o despedimento efetuado com violação do disposto nos n.os 1, 2, 3 ou 5.

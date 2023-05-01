@@ -6,7 +6,7 @@
 
 a) Dispensa para aleitação;
 
-b) Licença parental complementar em qualquer das modalidades, licença para assistência a filho e licença para assistência a filho com deficiência ou doença crónica;
+b) Licença parental inicial, licença parental complementar em qualquer das modalidades, licença para assistência a filho e licença para assistência a filho com deficiência ou doença crónica;
 
 c) Falta para assistência a filho ou a neto;
 

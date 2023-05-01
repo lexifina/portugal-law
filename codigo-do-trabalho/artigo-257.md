@@ -9,3 +9,7 @@ a) Por renúncia a dias de férias em igual número, até ao permitido pelo n.º
 b) Por prestação de trabalho em acréscimo ao período normal, dentro dos limites previstos no artigo 204.º quando o instrumento de regulamentação colectiva de trabalho o permita.
 
 2 - O disposto no número anterior não implica redução do subsídio de férias correspondente ao período de férias vencido.
+
+3 - O empregador não pode opor-se ao pedido do trabalhador nos termos do n.º 1.
+
+4 - Constitui contraordenação grave a violação do disposto no número anterior.

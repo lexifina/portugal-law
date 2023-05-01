@@ -14,8 +14,10 @@ b) O disposto na alínea anterior se aplique enquanto os trabalhadores da equipa
 
 4 - Excetua-se a aplicação do regime de adaptabilidade instituído nos termos dos n.os 1 ou 2 nas seguintes situações:
 
-a) Trabalhador abrangido por convenção coletiva que disponha de modo contrário a esse regime ou, relativamente a regime referido no n.º 1, a trabalhador representado por associação sindical que tenha deduzido oposição a portaria de extensão da convenção coletiva em causa; ou
+a) Trabalhador abrangido por convenção coletiva que disponha de modo contrário a esse regime ou, relativamente a regime referido no n.º 1, a trabalhador representado por associação sindical que tenha deduzido oposição a portaria de extensão da convenção coletiva em causa;
 
-b) Trabalhador com filho menor de 3 anos de idade que não manifeste, por escrito, a sua concordância.
+b) Trabalhador com filho menor de três anos ou, independentemente da idade, com deficiência ou doença crónica, salvo manifestação, por escrito, da sua concordância; ou
+
+c) Trabalhador com filho entre os três e os seis anos, que apresente declaração de que o outro progenitor exerce atividade profissional e está impossibilitado de prestar assistência.
 
 5 - Constitui contra-ordenação grave a prática de horário de trabalho em violação do disposto neste artigo.

@@ -11,3 +11,5 @@
 a) Prova do carácter imprescindível e da duração da deslocação para o parto;
 
 b) Declaração comprovativa passada pelo estabelecimento hospitalar onde se realize o parto.
+
+4 - Constitui contraordenação grave a violação do disposto no n.º 1.

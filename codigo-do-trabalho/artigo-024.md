@@ -14,7 +14,7 @@ c) A retribuição e outras prestações patrimoniais, promoção a todos os ní
 
 d) A filiação ou participação em estruturas de representação colectiva, ou em qualquer outra organização cujos membros exercem uma determinada profissão, incluindo os benefícios por elas atribuídos.
 
-3 - O disposto nos números anteriores não prejudica a aplicação:
+3 - O disposto nos números anteriores também se aplica no caso de tomada de decisões baseadas em algoritmos ou outros sistemas de inteligência artificial e não prejudica a aplicação:
 
 a) De disposições legais relativas ao exercício de uma actividade profissional por estrangeiro ou apátrida;
 

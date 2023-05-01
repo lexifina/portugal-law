@@ -28,6 +28,6 @@ d) 75 dias, no caso de trabalhador com antiguidade igual ou superior a 10 anos.
 
 4 - O pagamento da compensação, dos créditos vencidos e dos exigíveis por efeito da cessação do contrato de trabalho deve ser efectuado até ao termo do prazo de aviso prévio.
 
-5 - Constitui contraordenação grave o despedimento efetuado com violação do disposto nos n.os 1 e 2, assim como a falta de comunicação ao trabalhador referida no n.º 3;
+5 - Constitui contraordenação grave o despedimento efetuado com violação do disposto nos n.os 1 e 2, assim como a falta de comunicação ao trabalhador referida no n.º 3 e a falta de pagamento ao trabalhador no prazo referido no n.º 4.
 
 6 - Constitui contraordenação leve a falta de comunicação às entidades e ao serviço referidos no n.º 3.
