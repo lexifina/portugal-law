@@ -4,7 +4,7 @@
 
 1 - A agência deve comunicar ao serviço público de emprego através do balcão único eletrónico dos serviços, as seguintes informações:
 
-a) A alteração do domicílio, sede ou estabelecimento principal em Portugal, no prazo de 15 dias;
+a) A alteração do domicílio, sede ou estabelecimento principal em Portugal, e dos contactos telefónicos e de correio eletrónico no prazo de 15 dias;
 
 b) A cessação da atividade em território nacional, quando neste estabelecida, ou no Estado membro de origem, quando opere a essa data em território nacional nos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 92/2010, de 26 de julho, no prazo de 15 dias;
 
