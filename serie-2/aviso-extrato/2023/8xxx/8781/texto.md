@@ -1,0 +1,13 @@
+Aviso (extrato) n.º 8781/2023
+Sumário: 2.ª alteração à 1.ª revisão do Plano Diretor Municipal da Batalha - discussão pública.
+2.ª alteração à 1.ª revisão do Plano Diretor Municipal da Batalha - Discussão pública
+Carlos Agostinho Costa Monteiro, na qualidade de Vice-Presidente da Câmara Municipal da Batalha, torna público, nos termos do n.º 1 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro (Regime Jurídico das Autarquias Locais) e do n.º 1 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, que a Câmara Municipal deliberou, por maioria, em reunião pública de 17 de abril de 2023, submeter a discussão pública a 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal da Batalha.
+O período de discussão pública terá início no 5.º dia útil após a publicação do presente aviso no Diário da República e terá a duração de 30 dias úteis.
+Durante o período de discussão pública, os interessados podem proceder à formulação de sugestões bem como à apresentação de reclamações e observações, no sítio da Internet, em http://pdm.cm-batalha.pt/ ou mediante requerimento dirigido ao Presidente da Câmara, devidamente identificado, entregue diretamente nos serviços da Câmara Municipal da Batalha, ou remetido por meio de correio registado para a morada - Rua Infante D. Fernando, 2440-118 Batalha, ou por via do correio eletrónico para o endereço pdm@cm-batalha.pt.
+Os interessados podem consultar todos os documentos relativos à 2.ª alteração à 1.ª Revisão do Plano Diretor Municipal da Batalha na Divisão de Ordenamento Território da Câmara Municipal da Batalha, localizada na Rua Infante D. Fernando, 2440-118 Batalha, todos os dias úteis entre as 09.00h e as 12.00h e as 14.00h e as 17:00h, ou no portal eletrónico do Município da Batalha, em http://pdm.cm-batalha.pt/.
+18 de abril de 2023. - O Vice-Presidente da Câmara Municipal da Batalha, Carlos Agostinho Costa Monteiro.
+Deliberação
+2.ª alteração à 1.ª revisão do PDM da Batalha - Abertura do período de discussão pública
+A Câmara Municipal da Batalha deliberou, por maioria, em reunião pública de 17 de abril de 2023, proceder à abertura do período de Discussão Pública da 2.ª Alteração à 1.ª Revisão do PDM da Batalha, com duração de 30 dias úteis, contados a partir do 5.º dia útil a seguir à publicação do respetivo aviso no Diário da República, de acordo com o disposto nos n.os 1 e 2 do artigo 89.º do Regime Jurídico dois Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação.
+18 de abril de 2023. - O Vice-Presidente da Câmara Municipal, Carlos Agostinho Costa Monteiro.
+616388904
