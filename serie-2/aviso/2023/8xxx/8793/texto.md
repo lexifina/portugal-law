@@ -1,0 +1,7 @@
+Aviso n.º 8793/2023
+Sumário: Projeto de Regulamento de Funcionamento e Utilização do Ginásio Municipal.
+Joaquim Manuel dos Santos Baptista, Presidente da Câmara Municipal da Murtosa, torna público que, nos termos e para os efeitos do disposto do artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, durante o período de 30 dias úteis, a contar da data da publicação do presente aviso na 2.ª série do Diário da República, é submetido a consulta pública, o Projeto de Regulamento de Funcionamento e Utilização do Ginásio Municipal, aprovado por deliberação da Câmara Municipal de 06 de abril de 2023.
+Durante esse período, poderão os interessados, consultar o referido Projeto de Regulamento, no Serviço de Atendimento Administrativo e Gestão de Arquivo da Câmara Municipal da Murtosa e na Internet, no sítio eletrónico da Câmara Municipal (www.cm-murtosa.pt).
+Os interessados deverão enviar as suas sugestões por escrito, dentro do período acima mencionado, dirigidas ao Presidente da Câmara Municipal e remetidas por correio registado para a Câmara Municipal, sita na Praça do Município 1, 3870-101 Murtosa, ou entregue em mão, durante o horário normal de expediente, de segunda a sexta-feira, das 9h00 às 12h30 e das 13h30 às 16h30, ou por correio eletrónico para geral@cm-murtosa.pt.
+14 de abril de 2023. - O Presidente da Câmara Municipal da Murtosa, Joaquim Manuel dos Santos Baptista.
+316382861
