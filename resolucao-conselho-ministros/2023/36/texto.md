@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 36/2023
+Sumário: Prorroga o período de vigência da Estratégia Nacional para a Integração das Comunidades Ciganas.
+Em 2013 foi elaborada a Estratégia Nacional para a Integração das Comunidades Ciganas 2013-2020 (ENICC), aprovada pela Resolução do Conselho de Ministros n.º 25/2013, de 17 de abril, alinhada com a Comunicação da Comissão Europeia «Um quadro europeu para as estratégias nacionais de integração dos ciganos até 2020», de 5 de abril 2011, com o objetivo de promover a melhoria dos indicadores de bem-estar e de integração das pessoas ciganas, o conhecimento mútuo, a interação positiva e a desconstrução de estereótipos.
+Na elaboração da ENICC trabalhou-se a articulação de políticas públicas existentes, mas dispersas, que visam corrigir problemas e desigualdades sociais e pretendeu-se ir mais além, com novas medidas específicas e com a promoção de um estudo nacional que, com pleno respeito pelos princípios constitucionais da proibição da discriminação e da reserva da intimidade, dê a conhecer as reais necessidades das comunidades ciganas portuguesas.
+A ENICC conferiu, assim, o enquadramento necessário ao diálogo entre a Administração Pública, as pessoas ciganas e as organizações da sociedade civil que trabalham para e com estas comunidades.
+Em 2018, através da Resolução do Conselho de Ministros n.º 154/2018, de 29 de novembro, o Governo procedeu à revisão da ENICC, tendo em vista ajustar os seus objetivos e metas e potenciar o seu impacto na melhoria das condições de vida das pessoas e das comunidades envolvidas. Neste sentido, e para este efeito, o mesmo diploma procedeu à prorrogação do período de vigência da ENICC até 2022.
+Estando em preparação o procedimento atinente à avaliação final externa e independente, nos termos previstos na alínea f) do n.º 11 da Resolução do Conselho de Ministros n.º 154/2018, de 29 de novembro, cuja conclusão é absolutamente indispensável para a prossecução dos objetivos da ENICC e para a definição de estratégias políticas e legislativas futuras neste âmbito, afigura-se necessário prorrogar o seu período de vigência até 31 de dezembro de 2023.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Prorrogar até 31 de dezembro de 2023 o período de vigência da Estratégia Nacional para a Integração das Comunidades Ciganas, previsto na Resolução do Conselho de Ministros n.º 154/2018, de 29 de novembro.
+2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 1 de janeiro de 2023.
+Presidência do Conselho de Ministros, 20 de abril de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+116402202
