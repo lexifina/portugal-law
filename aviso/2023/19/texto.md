@@ -1,0 +1,7 @@
+Aviso n.º 19/2023
+Sumário: Torna público terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República Democrática de São Tomé e Príncipe no Domínio da Fiscalização Conjunta de Espaços Marítimos sob Soberania ou Jurisdição da República Democrática de São Tomé e Príncipe.
+Por ordem superior se torna público que, em 19 de novembro de 2014 e 12 de abril de 2023, foram respetivamente emitidas, pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério dos Negócios Estrangeiros, Cooperação e Comunidades da República Democrática de São Tomé e Príncipe, notas em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República Democrática de São Tomé e Príncipe no Domínio da Fiscalização Conjunta de Espaços Marítimos sob Soberania ou Jurisdição da República Democrática de São Tomé e Príncipe, assinado em São Tomé, em 17 de junho de 2013.
+Por parte da República Portuguesa, o referido Acordo foi aprovado pela Resolução da Assembleia da República n.º 97/2014 e ratificado pelo Decreto do Presidente da República n.º 106/2014, ambos publicados no Diário da República, 1.ª série, n.º 224, de 19 de novembro de 2014.
+Nos termos do artigo 25.º do referido Acordo, este entrou em vigor em 13 de abril de 2023.
+Direção-Geral de Política Externa, 26 de abril de 2023. - A Subdiretora-Geral, Cristina Castanheta.
+116408205
