@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "292766",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Bernardo Blanco (IL)",
+  "data_registo": "2023-05-04",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "127060",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "127060",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Fala sobre o agravamento das condições de vida, lamenta um alinhamento entre os partidos de direita e o PS na falta de respostas aos problemas laborais, económicos e sociais, bem como na questão da privatização da TAP."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Dirige Pedido de Esclarecimento a Paula Santos (PCP), no âmbito da Declaração Política em que esta abordou o agravamento das condições de vida, tendo lamentado o alinhamento entre os partidos de direita e o PS na falta de respostas aos problemas laborais, económicos e sociais, bem como na questão da privatização da TAP.",
+        "duracao": "00:02:20:855",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_05_04_15_00_00_clean_14_plenario.xml&idsegmento=8"
+      }
+    ],
+    "DataReuniaoPlenaria": "2023-05-04",
+    "Debate": null,
+    "Deputados": {
+      "GP": "IL",
+      "idCadastro": "7393",
+      "nome": "Bernardo Blanco"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "292766",
+    "IdDebate": "16350",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "292766",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "11-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-05-05",
+        "pubLeg": "XV",
+        "pubNr": "124",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/124/2023-05-05/11?pgs=11-12&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "À Deputada Paula Santos (PCP)",
+    "Sessao": "1",
+    "Sumario": "Fala sobre o agravamento das condições de vida, lamenta um alinhamento entre os partidos de direita e o PS na falta de respostas aos problemas laborais, económicos e sociais, bem como na questão da privatização da TAP.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
