@@ -1,0 +1,165 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "717",
+    "id": "152797",
+    "titulo": "Fixa em 35% a quota de difusão de música portuguesa na rádio (3.ª alteração à Lei n.º 54/2010, de 24 de dezembro)\n"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-05-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64243",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2023-06-21",
+            "id": "128381",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-06-21",
+            "id": "128380",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-05-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-12-13",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Mapa de votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a497a5a475a6b595449354c5455794e6a41744e4746694e7931684d57497a4c5459795a5755314e5755774f5749344e4335775a47593d&fich=23dfda29-5260-4ab7-a1b3-62ee55e09b84.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-07",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Propostas de alteração do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59774e7a55344f47526d4c574d79596d55744e4463315a4331694e5749794c574d794e54426c5a544a6c5a4446695a6935775a47593d&fich=607588df-c2be-475d-b5b2-c250ee2ed1bf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-11",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Propostas de alteração do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d4e4759794d47526a4c546b345a4463744e474a6c5a693169593255314c574a684e3252685954417959574d334e7935775a47593d&fich=9f4f20dc-98d7-4bef-bce5-ba7daa02ac77.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-11",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3246684d7a4d354d6a466c4c54597a593251744e446c6c597931685932566d4c544d354d5449304e7a59334e47466a4f4335775a47593d&fich=aa33921e-63cd-49ec-acef-391247674ac8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-13",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3256694d7a56684e54646d4c57466b4d4463744e44597a5a5330344e6d4d344c5463784d4463354f44566c4e7a4d354e4335775a47593d&fich=eb35a57f-ad07-463e-86c8-7107985e7394.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-13",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59304e444a6a4f5449784c57557a59574d744e4755324f5331684e47566a4c574d7a4d6d46694f5441344e5467324e6935775a47593d&fich=6442c921-e3ac-4e69-a4ec-c32ab9085866.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Quadro de audições",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b774e4468684f5455324c5467314f5459744e47566b4e5331694e4759324c5451305a4467344e44413159544e6c596935775a47593d&fich=9048a956-8596-4ed5-b4f6-44d88405a3eb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-26",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta aos contributos à iniciativa",
+            "URL": "https://www.parlamento.pt/sites/COM/XVLeg/12CCCJD/Paginas/ContributosExternos.aspx?t=5545704d494459324e4377674e7a4533494755674e7a49314c566857&Path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b52433942636e463161585a765132397461584e7a595738765132397564484a70596e563062334d6c4d6a426c6548526c636d357663793951536b77674e6a59304c4341334d5463675a5341334d6a55745746593d"
+          },
+          {
+            "DataDocumento": "2023-12-13",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação Áudio ",
+            "URL": "https://media.parlamento.pt/site/XVLEG/SL2/COM/12_CCCJD/CCCJD_20231213.mp3"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8336",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "Numero": "8336",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-05-05",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1346918",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997677",
+        "obs": "Relatório da discussão e votação na especialidade e texto final",
+        "pag": [
+          "4-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-14",
+        "pubLeg": "XV",
+        "pubNr": "48",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/02/048/2023-12-14/4?pgs=4-13&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
