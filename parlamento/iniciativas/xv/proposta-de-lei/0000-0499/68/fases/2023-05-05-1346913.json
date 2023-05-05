@@ -1,0 +1,167 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "68",
+    "id": "152706",
+    "titulo": "Aprova a Lei de Infraestruturas Militares"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-05-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64239",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2023-05-16",
+            "id": "128283",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-05-17",
+            "id": "128291",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-05-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-05-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração do DURP PAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45794f54686c5a6a4a6d4c574a6b5a6d55744e44526c5a6931684e6a49304c5746685a6d566b4d574d784d6a526d4e6935775a47593d&fich=1298ef2f-bdfe-44ef-a624-aafed1c124f6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração do GP do PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6a596a55774d7a4a694c5468694d7a63744e4746684f4330354e7a49774c5745774f5749775a5451315a5463304e4335775a47593d&fich=bcb5032b-8b37-4aa8-9720-a09b0e45e744.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração do DURP L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32597a597a5a695a444a6b4c5449324d6d59744e446b794d793035596a49774c5755344e5463344e7a4d774d6a4e684f5335775a47593d&fich=f3c6bd2d-262f-4923-9b20-e857873023a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-19",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração do GP do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255305a5449304d5449304c575534596a49744e474d774d4330355954466d4c54566b4e7a49355a475930596d5135595335775a47593d&fich=e4e24124-e8b2-4c00-9a1f-5d729df4bd9a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a695a44686a4d575a6a4c545977596a45744e446778595331684f474a684c546c694f54466a5a6a51305a57526c5a6935775a47593d&fich=6bd8c1fc-60b1-481a-a8ba-9b91cf44edef.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41354e474578593245344c54677a4e3251744e4451344d5330354d7a5a6c4c5755354e4467794d7a51314e574579596935775a47593d&fich=094a1ca8-837d-4481-936e-e94823455a2b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56694e54646a4e4455304c5755775a5445744e4746694f43316959544e6b4c574e684d4755305a6d59315a444d784e6935775a47593d&fich=5b57c454-e0e1-4ab8-ba3d-ca0e4ff5d316.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação indiciária na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d304e455469394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a52684d444d31595451314c5445325a446b744e475534597930354e6a4d324c5464684e54566d5a5455334e7a51354e4335775a47593d&fich=4a035a45-16d9-4e8c-9636-7a55fe577494.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8327",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Defesa Nacional",
+        "Numero": "8327",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-06-28",
+            "dataRemessa": "2023-06-28",
+            "numeroOficio": "Email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-05-05",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1346913",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996331",
+        "obs": "Relatório da discussão e votação  especialidade, em anexo propostas de alteração apresentadas pelo PAN, PSD, L e PS,  e texto final",
+        "pag": [
+          "25-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-06-28",
+        "pubLeg": "XV",
+        "pubNr": "250",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/250/2023-06-28/25?pgs=25-37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
