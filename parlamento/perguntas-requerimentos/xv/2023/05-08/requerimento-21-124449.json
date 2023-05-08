@@ -1,0 +1,70 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Rw23Vat1crExYT4G5DSbTtIcbaTrKAsLCDjJmdaRvIuxQmpjNXlteM0UBC1odjp2f3HP5j03ofnQYCU4ykN5sgLpQhNGwtmd1YOsD3gyJe0gSxSVB7n41uHJAoUu1bht3Lw0G8a7mmxpMM%2bLxZ2Tr7tx1ywCpqOW044tjbCsexIbLe8xH4ECVffSpi6OnIIVGxWCT3vfv%2bBY3obnTzzLwqcBV7oXMoYM26a4iedsSfimyISCEw6ViRgV0E61t7DS%2fcBDOu%2feMsWNgZnFHJUyMeRb9h41S%2bqszPi1DzGckzthTAU2WiQhpNM09OMX6S7KPKg6G3Wvn4YPHc5We6hp%2b%2f3KCSLFH0%2f%2fObIIumnChLVJKIOems%2b4Rk75IkM3%2fiYlk8XjTqDbzNg5%2fyJT%2fru%2fDA%3d%3d&fich=RequerimentosXV_json.txt&Inline=true",
+  "ficheiro_sha256": "5e72bb83b1dc3ce7aad3688787c6d2f5aca64e4843eb96b97466a68fa5bcc512",
+  "legislatura": "XV",
+  "id": "124449",
+  "tipo": "Requerimento",
+  "numero": "21",
+  "data_registo": "2023-05-08",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Regulamento municipal de gestão do arvoredo em meio urbano",
+    "Autores": [
+      {
+        "GP": "PAN",
+        "idCadastro": "6864",
+        "nome": "Inês de Sousa Real"
+      }
+    ],
+    "DataEnvio": "2023-05-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2023-05-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Mafra",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2023-06-09",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Mafra",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764e5755774d546378595463745957466b4e6930304d5452684c5745325a6d49744d3249784f54686a4e6a49354e7a67794c6e426b5a673d3d&fich=5e0171a7-aad6-414a-a6fb-3b198c629782.pdf&Inline=true"
+              },
+              {
+                "tipo": "Anexo",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077765a44686b4d7a67784e4449745932466d4e4330304d444a6d4c57466b4e6a41744e7a45334f544e694d5456685a5446694c6e426b5a673d3d&fich=d8d38142-caf4-402f-ad60-71793b15ae1b.pdf&Inline=true"
+              },
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387855307776593249345a57457959575574597a426a4d6930305a474a684c5749795a54457459544d344e7a59354f5445354e3251334c6e426b5a673d3d&fich=cb8ea2ae-c0c2-4dba-b2e1-a387699197d7.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2023-05-08",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d7a6b314e6a56694e6a6b744d57497a5a6930305932497a4c574a6d4f5455745a6a466b4d5751345a6a466b5a6a45304c6e426b5a673d3d&fich=39565b69-1b3f-4cb3-bf95-f1d1d8f1df14.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "124449",
+    "Legislatura": "XV",
+    "Nr": "21",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
