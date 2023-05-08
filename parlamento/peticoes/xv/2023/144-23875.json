@@ -1,0 +1,279 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23875",
+  "numero": "144",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-05-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-07-19",
+            "entidades": null,
+            "id": "138463",
+            "tipo": null,
+            "titulo": "Audição em 2023-07-19 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-05-24",
+        "DataArquivo": "2024-01-10",
+        "DataBaixaComissao": "2023-05-09",
+        "DataEnvioPAR": "2024-01-10",
+        "DataReaberta": "2023-05-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-05-31",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e6862793968593251774e544d314d433079596d526a4c54526b5a6a4974596a46685a4330774d545977595749354f546b324d6a49756347526d&fich=acd05350-2bdc-4df2-b1ad-0160ab999622.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-04",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e6862793834595442685a6a41304e53316a4e3255794c5451355a445174596d566d4d79316c4f4463344d575a6b5a4455304d7a41756347526d&fich=8a0af045-c7e2-49d4-bef3-e8781fdd5430.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-01-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e68627938794d6a63324f546b314e79316d4d575a6a4c5451794e4463744f544d355a4330344d54517a596a59794f5441334e5441756347526d&fich=22769957-f1fc-4247-939d-8143b6290750.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8330",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-05-31",
+            "gp": "PS",
+            "id": "1865",
+            "motivoCessacao": null,
+            "nome": "Nelson Brito"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d7a6778596a566d5a4459745a6d59774e4330304d6d466d4c54686c4e4445744f47526b4d6d566b595755344d6d466d4c6e426b5a673d3d&fich=381b5fd6-ff04-42af-8e41-8dd2edae82af.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6a4e685a574977595463744f4746695a5330304e32526a4c546b784d4759744d4749305a6d45334f5464685a4749324c6e426b5a673d3d&fich=63aeb0a7-8abe-47dc-910f-0b4fa797adb6.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6d4d78596a6b79595749745a6a51784f53303059546b774c574a6a4f545574593249354e7a466b4e444a6c4d6d55794c6e426b5a673d3d&fich=6c1b92ab-f419-4a90-bc95-cb971d42e2e2.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d5759794e325a6c4d5749745954557a5a4330305a4441794c5745335a6a5174595759314d54646b4f5467334e574e684c6e426b5a673d3d&fich=1f27fe1b-a53d-4d02-a7f4-af517d9875ca.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6a46684d445979597a67745a4751785969303059574d344c57466c596d45744d7a4e69597a4a6b4e47566b59544a6a4c6e426b5a673d3d&fich=61a062c8-dd1b-4ac8-aeba-33bc2d4eda2c.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76595751794d7a686c5a5445745a574d78595330305a4755344c5749324d4445744e7a42694e5441314d446b785a54526d4c6e426b5a673d3d&fich=ad238ee1-ec1a-4de8-b601-70b505091e4f.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d4751784f5449344d4755744f444a68596930304d574e6c4c54677a4f4445744d7a51314e545a6b4e7a45304f44557a4c6e426b5a673d3d&fich=0d19280e-82ab-41ce-8381-34556d714853.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f444e6d4d6a55304e324574596d45784e6930305a57517a4c546c6d5a6a41744f4751334d54526d596a41795a4445784c6e426b5a673d3d&fich=83f2547a-ba16-4ed3-9ff0-8d714fb02d11.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d5455774e7a55784e7a67744e5751784e7930304e574a694c5749775a4463744e5749774e4455344f4455355a6d59304c6e426b5a673d3d&fich=15075178-5d17-45bb-b0d7-5b0458859ff4.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f4749784d6d51325a5745745a444e695a4330305a575a6b4c5749354d7a67744f4751334e7a5577596a413059574a684c6e426b5a673d3d&fich=8b12d6ea-d3bd-4efd-b938-8d7750b04aba.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d325535595751324f446774597a4e6b5a5330305a6d4d774c546c6b4d4467744f474d775a6a63774e6a686b4e4445354c6e426b5a673d3d&fich=3e9ad688-c3de-4fc0-9d08-8c0f7068d419.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6a59314e474a6d4e5745744f44686a4f433030596d51794c5468694e6a4d744e7a646a5a6a63794f475a6b596d49334c6e426b5a673d3d&fich=6654bf5a-88c8-4bd2-8b63-77cf728fdbb7.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e544a694f5445354f546b744f5456684e5330304e446b314c546c6b5a5745745a6a4d304e7a49354d32466a4f4745324c6e426b5a673d3d&fich=52b91999-95a5-4495-9dea-f347293ac8a6.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e474a694d574669593249745a5449785a5330305a4459354c5745354f5745744d54557a4e4751324f575a6c595451314c6e426b5a673d3d&fich=4bb1abcb-e21e-4d69-a99a-1534d69fea45.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76596a6734595755785a5751744d444d354d793030596a51784c57466b4e4463744d54566a5954597a5a4463784d6d45784c6e426b5a673d3d&fich=b88ae1ed-0393-4b41-ad47-15ca63d712a1.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a4749774e4463354d5755744e47457a4d6930304d7a63314c546b784f5445744f4467335a444e684e446b794e7a646b4c6e426b5a673d3d&fich=db04791e-4a32-4375-9191-887d3a49277d.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76597a4135597a45324e7a4d74593255324f5330304f446c6c4c5467774d545974596d4a6a59324e694e3255324e5445354c6e426b5a673d3d&fich=c09c1673-ce69-489e-8016-bbcccb7e6519.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e7a46694e574a6d4d474d744d6a4d774f5330304d446b354c546732596d4974597a51774f474a6b5a6a4268597a6b7a4c6e426b5a673d3d&fich=71b5bf0c-2309-4099-86bb-c408bdf0ac93.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d6a6b354e54466d5a544574596d52684e4330305a6a51794c574a6d4d5759744e4463305932566d4f54646b4f44517a4c6e426b5a673d3d&fich=29951fe1-bda4-4f42-bf1f-474cef97d843.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e5445314d5749774d7a45745a6d45305a433030596d49334c5745324e446374597a526c4f546778597a4d794d6d49334c6e426b5a673d3d&fich=5151b031-fa4d-4bb7-a647-c4e981c322b7.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e54526b4e5449345a6d49744d574a6c4f5330304e4455304c5749795a4755744f5449774e44557a4e474a6a4e4749334c6e426b5a673d3d&fich=54d528fb-1be9-4454-b2de-9204534bc4b7.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f574e6d4e57597a4e3249744e6a4935595330304e574d314c546c6d4e7a6b744d6a45344e6a6b354d544a6a5a44566a4c6e426b5a673d3d&fich=9cf5f37b-629a-45c5-9f79-21869912cd5c.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a546334596a646d595445745a474d304d5330305a4441334c57466d5a474974596a41355a546b334e6a6c6a4f54466b4c6e426b5a673d3d&fich=e78b7fa1-dc41-4d07-afdb-b09e9769c91d.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6a6b304e545133595749744f5464694d4330304d5464684c546b795a544d744e5459354e6d4a6b4d44597a5a6d4a6d4c6e426b5a673d3d&fich=694547ab-97b0-417a-92e3-5696bd063fbf.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6a55305a444934597a63744d5467794d5330304f4455344c574a6c5a44677459544e6c4e6a4e684d446b324d3259304c6e426b5a673d3d&fich=654d28c7-1821-4858-bed8-a3e63a0963f4.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e546b795a446b7a4d4751744d7a59334d4330304d7a51354c546c6c59324d744d5449314f54686c597a4133596a4e6d4c6c424552673d3d&fich=592d930d-3670-4349-9ecc-12598ec07b3f.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d5759305a446b784d4459744e6a6c6c4f5330305a5751344c5467304d5441744d4459335a5745334e6a457a4f5467784c6e426b5a673d3d&fich=1f4d9106-69e9-4ed8-8410-067ea7613981.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76595449774e7a4a6a4e7a6b744e444531596930304d7a6b7a4c54677a4e474d745a6d52684d6d59774e7a5932596d5a6a4c6e426b5a673d3d&fich=a2072c79-415b-4393-834c-fda2f0766bfc.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f5451324f574d794f575974595459774d7930305a5463344c5746684d6a49744e324d344e32466b5957466d4d7a5a6b4c6e426b5a673d3d&fich=9469c29f-a603-4e78-aa22-7c87adaaf36d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2023-05-11",
+        "TipoDocumento": "Link",
+        "URL": "https://www.facebook.com/josesoeiro48"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23875",
+    "PetAssunto": "Defender o interesse nacional. Assegurar a coesão territorial. Promover o desenvolvimento",
+    "PetDataEntrada": "2023-05-08",
+    "PeticoesAssociadas": null,
+    "PetId": "23875",
+    "PetLeg": "XV",
+    "PetNr": "144",
+    "PetNrAssinaturas": "1026",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
