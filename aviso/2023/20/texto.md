@@ -1,0 +1,7 @@
+Aviso n.º 20/2023
+Sumário: Cumprimento das formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e o Reino Hachemita da Jordânia nas Áreas da Educação, Ciência, Tecnologia e Ensino Superior, Cultura, Juventude, Desporto e Comunicação Social, assinado em Lisboa, em 16 de março de 2009.
+Por ordem superior se torna público que, a 18 de maio de 2009 e a 30 de outubro de 2009, foram rececionadas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério dos Negócios Estrangeiros do Reino Hachemita da Jordânia, em que se comunica terem sido cumpridas as respetivas formalidades internas de aprovação do Acordo de Cooperação entre a República Portuguesa e o Reino Hachemita da Jordânia nas Áreas da Educação, Ciência, Tecnologia e Ensino Superior, Cultura, Juventude, Desporto e Comunicação Social, assinado em Lisboa, em 16 de março de 2009.
+O referido Acordo foi aprovado pelo Decreto n.º 28/2009, de 30 de outubro, publicado no Diário da República, 1.ª série, n.º 211, da mesma data.
+Nos termos do seu artigo 24.º, este Acordo entrará em vigor por um período de três anos, renovável automaticamente por períodos iguais e sucessivos, sessenta dias após a receção da segunda notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos necessários para tanto, ou seja, a 31 de dezembro de 2009.
+Direção-Geral de Política Externa, 3 de maio de 2023. - A Subdiretora-Geral, Cristina Castanheta.
+116429606
