@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-05-10, processo 0133/21.0BEPRT
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0133/21.0BEPRT
+
+**Data do Acordão:** 05/10/2023
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; TAXA DE OCUPAÇÃO DO SUBSOLO; REPERCUSSÃO FISCAL; CONSUMIDORES; JUROS INDEMNIZATÓRIOS
+
+**Nº Convencional:** JSTA000P30973
+
+**Nº do Documento:** SA2202305100133/21
+
+**Data de Entrada:** 04/13/2022
+
+**Recorrente:** A..., S.A. - SUCURSAL EM PORTUGAL
+
+**Recorrido 1:** B..., S.A.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A repercussão fiscal consiste na transferência do imposto que legalmente incide sobre um sujeito passivo, para um terceiro, alheio à relação jurídica tributária, com quem aquele tem relações económicas. Nas palavras de alguns autores, o repercutido será um mero "contribuinte de facto" (titular da capacidade contributiva), por contraposição ao "contribuinte de direito", aquele a quem é juridicamente exigível o pagamento do tributo.
+
+II - A norma constante do art. 85º nº 3, da Lei do OE/2017 para 2017 (Lei nº 42/2016, de 28-12), ostenta validade ou conformidade constitucional e plena eficácia, assim produzindo efeitos desde 01-01-2017, passando a ser ilegal a repercussão da TOS nos consumidores.
+
+III - A circunstância da entidade que praticou o acto lesivo (repercussão ilegal) ser uma entidade privada, uma sociedade anónima, não determina a sua exclusão do âmbito de aplicação do art. 43º nº 1 da LGT, interpretado em conformidade com o art. 22º da CRP.
+
+IV - No contexto de facto e de direito que emerge dos autos, é de considerar a sociedade comercializadora de gás ora recorrida integrada no conceito de "serviços" consagrado no citado art. 43º nº 1 da LGT, o que significa que não existe qualquer obstáculo em reconhecer à sociedade recorrente o direito de reaver o que ilegalmente lhe foi exigido e pagou e, bem assim, o direito a receber o valor correspondente aos juros indemnizatórios.
