@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "77",
+    "id": "172871",
+    "titulo": "Autoriza o Governo a proceder à reforma e simplificação dos licenciamentos no âmbito do urbanismo e ordenamento do território"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-05-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684d3245794d6a63314e79316a4e444d7a4c54526a4d446b745954466b4d693032596a59794e6d4a6b4d7a6b324d4451756347526d&fich=a3a22757-c433-4c09-a1d2-6b626bd39604.pdf&Inline=true",
+        "anexoNome": "Despacho"
+      }
+    ],
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "64294",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-05-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XV",
+            "nome": "Grupo de Trabalho-Habitação",
+            "num": "29",
+            "orgId": "8372",
+            "publicacao": null,
+            "sigla": "GT-H"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2023-06-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - AECOPS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6869595459775a544d794c545a6c596d51744e4441775a5330354d4755314c544d324d4449344d47566a4e5463334d7935775a47593d&fich=8ba60e32-6ebd-400e-90e5-360280ec5773.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - AGEFE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b344f44417a4e6a55344c54466a5a4445744e444d774d6931694e474a6c4c5745354e446c6b4f44646d4d5751304e7935775a47593d&fich=98803658-1cd1-4302-b4be-a949d87f1d47.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Ana Queirós do Vale",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4133595749784d6a51354c544178596d55744e44597a4f5331685a54686a4c5746694d4451334e44426d4f446469597935775a47593d&fich=07ab1249-01be-4639-ae8c-ab04740f87bc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - APU",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67795932597a4d5452684c5749784e474d744e4445335a5330354e7a49784c546c6c597a4d304f5468684e7a6332596935775a47593d&fich=82cf314a-b14c-417e-9721-9ec3498a776b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - CM Porto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6a4d32457959324d784c5745304d7a67744e4456684d7930345a546b324c545a6c5a6a417a4d6a686b4f475135597935775a47593d&fich=bc3a2cc1-a438-45a3-8e96-6ef0328d8d9c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - CM Sintra",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6a5954686b596d52694c546335595467744e446c694e79303559324d774c5441325a5746694f4445304e4451354e7935775a47593d&fich=6ca8dbdb-79a8-49b7-9cc0-06eab8144497.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Gonçalo Antunes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325577595756684e324e694c574e6d4d3255744e444a6a4e7930344d7a63784c5455355954466d4e7a4d77597a42685a5335775a47593d&fich=e0aea7cb-cf3e-42c7-8371-59a1f730c0ae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Luís Mendes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32597a4d6a55314e7a566d4c574d7a4f5745744e446b7a4e793034597a686d4c575a6d4d444e684e444979593245314e5335775a47593d&fich=f325575f-c39a-4937-8c8f-ff03a422ca55.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Ordens e Associações da Declaração do Território",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3256694e4449334e6d497a4c545a6d595459744e44466d5a6930344d6d45774c574d354d6a5133596a42684d54426c4d6935775a47593d&fich=eb4276b3-6fa6-41ff-82a0-c9247b0a10e2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributos - AIPOR",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5930597a56694f544d324c5756684d3251744e4441784e6931685a6a41324c5463774e6d51324d6a4d784e7a63785a4335775a47593d&fich=64c5b936-ea3d-4016-af06-706d6231771d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - AdUrbem e APU",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466d4d474e694e7a46694c57466d4e5441744e4745794e4331695a47597a4c5745345a4459774e6d51794d544579597935775a47593d&fich=af0cb71b-af50-4a24-bdf3-a8d606d2112c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANAFRE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a684f445179597a49304c5445325a574d744e44686b4f4330354d32497a4c544a6b4e54426d4d6a41314d445132595335775a47593d&fich=6a842c24-16ec-48d8-93b3-2d50f205046a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324934597a51775a574e6a4c5445334e7a63744e44517a597931684d7a63354c54426a4e47566d5a5759354e6a4a6d4e7935775a47593d&fich=b8c40ecc-1777-443c-a379-0c4efef962f7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - APHM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686c4e7a646a5a6a6c6b4c54457a4d7a41744e4441794d4331694e324d344c54686c597a6b334d544e684e545a694e7935775a47593d&fich=8e77cf9d-1330-4020-b7c8-8ec9713a56b7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-09-27",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CNADS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4268596d466a59325a684c5752684e7a49744e475a6c4e5331694d7a5a694c575932595449324e5755314d4445334d5335775a47593d&fich=0abaccfa-da72-4fe5-b36b-f6a265e50171.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CNPD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55325a574a6a4d54686d4c574a68596a49744e4445784f5330344f4749334c574e6a595745344e6d59334d324d354d7935775a47593d&fich=56ebc18f-bab2-4119-88b7-ccaa86f73c93.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - CPCI + AICCOPN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526c5a6a5531596d4d324c5455355a5467744e445531595331694e7a45304c5451324e54426c596a526a4e444a6c595335775a47593d&fich=4ef55bc6-59e8-455a-b714-4650eb4c42ea.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-25",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Ordem dos Arquitetos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d304e3259794d474d324c5459324d4449744e4441314f4330345932557a4c5751304e4752695a57557a4f54557a5a5335775a47593d&fich=347f20c6-6602-4058-8ce3-d44dbee3953e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-11",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Ordem dos Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a695a4463304d7a51794c544135597a41744e445a69596931685a6a457a4c574d354d44557a5a6a4d7a4d544e6c5a6935775a47593d&fich=fbd74342-09c0-46bb-af13-c9053f3313ef.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-22",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer - Ordem Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249324e7a59774f5449794c546b794d6a51744e4756695a5331685a6a67324c574a6c59546b794e324d344d7a55314d5335775a47593d&fich=b6760922-9224-4ebe-af86-bea927c83551.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8330",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "Numero": "29",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-05-11",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Redistribuição à 6.ª Comissão, com conexão à 13.ª Comissão, por despacho de 11-05-2023.",
+    "OevId": "1347170",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
