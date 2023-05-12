@@ -1,0 +1,15 @@
+# Resolução do Conselho do Governo Regional n.º 498/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 88/2023, 5.º suplemento, de 2023-05-12
+
+**Sumário:** Adjudica a empreitada de “reposição das condições mínimas de segurança e operacionalidade na ER 211 na sequência do temporal de 25 de dezembro de 2020” (Lote 1) à proposta apresentada pelo concorrente Teixeira Duarte - Engenharia e Construções, S.A. / RIM - Engenharia e Construções, S.A., pelo preço contratual de € 2 428 500,70 e (Lote 2) à proposta apresentada pelo concorrente “Tecnovia-Madeira, Sociedade de Empreitadas, S.A.”, pelo preço contratual de € 1 25 000,00.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 498/2023
+Sumário: Adjudica a empreitada de “reposição das condições mínimas de segurança e operacionalidade na ER 211 na sequência do temporal de 25 de dezembro de 2020” (Lote 1) à proposta apresentada pelo concorrente Teixeira Duarte - Engenharia e Construções, S.A. / RIM - Engenharia e Construções, S.A., pelo preço contratual de € 2 428 500,70 e (Lote 2) à proposta apresentada pelo concorrente “Tecnovia - Madeira, Sociedade de Empreitadas, S.A.”, pelo preço contratual de € 1 925 000,00.
+Texto: Resolução n.º 498/2023 O Conselho do Governo reunido em plenário em 11 de maio de 2023, tendo presente o segundo relatório final de análise das propostas do júri do concurso público para a empreitada “REPOSIÇÃO DAS CONDIÇÕES MÍNIMAS DE SEGURANÇA E OPERACIONALIDADE NA ER 211 NA SEQUÊNCIA DO TEMPORAL DE 25 DE DEZEMBRO DE 2020”, resolve adjudicar: - O Lote 1 à proposta apresentada pelo concorrente Teixeira Duarte - Engenharia e Construções, S.A. / RIM - Engenharia
+e Construções, S.A., pelo preço contratual de € 2 428 500,70 (dois milhões, quatrocentos e vinte e oito mil, quinhentos euros e setenta cêntimos) a acrescer de IVA à taxa legal em vigor e pelo prazo de 300 dias; - O Lote 2 à proposta apresentada pelo concorrente “Tecnovia - Madeira, Sociedade de Empreitadas, S.A.”, pelo preço contratual de € 1 925 000,00, (um milhão, novecentos e vinte e cinco mil euros), a acrescer de IVA à taxa legal em vigor e pelo prazo de 300 dias, de acordo com a respetiva proposta. Mais resolve delegar ao abrigo do disposto no n.º 1 do artigo 109.º do Código dos Contratos Públicos e artigos 44.º e seguintes do Código do Procedimento Administrativo, no Secretário Regional de Equipamentos e Infraestruturas os poderes para aprovar a minuta e outorgar o correspondente contrato e no Diretor Regional de Estradas os poderes para proceder à prática de todos os atos relacionados com a fase de execução do contrato. Determina ainda que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas inscritas no Orçamento da Região Autónoma da Madeira, de acordo com as Portarias n.ºs 302/2023 e 303/2023, publicadas no JORAM I Série, n.º 82, de 3 de maio de 2023.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
