@@ -1,0 +1,21 @@
+# Resolução do Conselho do Governo Regional n.º 501/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 88/2023, 5.º suplemento, de 2023-05-12
+
+**Sumário:** Determina manter o Programa de Incentivo à Produção e Armazenamento de Energia a partir de Fontes Renováveis na Região Autónoma da Madeira, abreviadamente designado por “PRIPAER-RAM”, mediante um apoio financeiro no valor de € 812.500,00.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 501/2023
+Sumário: Determina manter o Programa de Incentivo à Produção e Armazenamento de Energia a partir de Fontes Renováveis na Região Autónoma da Madeira, abreviadamente designado por “PRIPAER-RAM”, mediante um apoio financeiro no valor de € 812.500,00.
+Texto: Resolução n.º 501/2023 A energia, como um vetor estratégico fundamental para o desenvolvimento sustentável de um território insular como o da Região Autónoma da Madeira, apresenta uma forte dependência do exterior e dos combustíveis fósseis para satisfazer todas as atividades económicas e humanas. Nesta perspetiva importa implementar as medidas de âmbito energético constantes no Programa do XIII Governo Regional, tendentes à promoção da eficiência energética e das fontes de energia renováveis, por forma a reduzir a dependência do exterior e as emissões de dióxido de carbono e a induzir padrões de produção e de consumo mais sustentáveis, reforçando a sustentabilidade e a responsabilidade dos cidadãos e das empresas. A Região Autónoma da Madeira, através do Programa de Incentivo à Produção e Armazenamento de Energia a partir de Fontes Renováveis na Região Autónoma da Madeira (“PRIPAER-RAM”), está empenhada em posicionar-se na vanguarda da transição energética, contribuindo para as metas ambiciosas que foram definidas no âmbito no Plano Nacional de Energia e Clima para o horizonte 2021-2030, apostando na produção de eletricidade a partir de fontes renováveis e recursos endógenos como um dos eixos a desenvolver, de forma a alcançar o objetivo de reforço da produção de energia a partir de fontes renováveis visando a neutralidade carbónica preconizada como um dos grandes objetivos da União Europeia para o ano de 2050, de resto conforme consta no Pacto Ecológico Europeu. Constitui objetivo do “PRIPAER-RAM” a criação de uma solução de apoio à economia através do vetor energético, incentivando os agentes económicos a contribuírem para a disseminação das soluções descentralizadas de produção e armazenamento de energia a partir de energias renováveis mediante a atribuição pelo Governo Regional de incentivos. O Conselho do Governo reunido em plenário em 11 de maio de 2023, resolve:
+1 - Ao abrigo do disposto no artigo 78.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, que aprova o Orçamento da Região Autónoma da Madeira para 2023 (ORAM 2023), manter o Programa de Incentivo à Produção e Armazenamento de Energia a partir de Fontes Renováveis na Região Autónoma da Madeira, abreviadamente designado por “PRIPAER-RAM”.
+2 - Fixar como montante máximo a consagrar para a atribuição do apoio financeiro ao abrigo do PRIPAER-RAM, o valor de € 812.500,00 (oitocentos e doze mil e quinhentos euros), para o ano de 2023.
+3 - Cometer ao Secretário Regional de Economia e ao Secretario Regional das Finanças, para através de portaria aprovar o regulamento de atribuição do presente apoio financeiro.
+
+4 - A verba necessária para o ano económico de 2023 está inscrita no orçamento da Direção Regional de Economia e Transportes Terrestres, na Classificação Orgânica 44.50.02.00, Classificação Funcional 043, Classificações Económicas D.05.01.03.A0.00 e D.05.08.03.A0.00, Projeto 52412, Fonte 381, Programa 045, Medida 013, Centro Financeiro M100310, Cabimento CY42308842 e Compromissos CY52309374 e CY52309375.
+Foi obtida autorização prévia do membro do Governo Regional responsável pela área das finanças, nos termos do n.º 1 do artigo 32.º do ORAM 2023.
+Foi obtida parecer favorável do departamento do membro do Governo Regional com a tutela das finanças, nos termos dos n.ºs 2 e 11 do artigo 34.º do ORAM 2023.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
