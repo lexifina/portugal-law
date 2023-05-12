@@ -1,0 +1,149 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23883",
+  "numero": "152",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-05-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-09-13",
+            "entidades": null,
+            "id": "138476",
+            "tipo": null,
+            "titulo": "Audição em 2023-09-13 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-06-07",
+        "DataArquivo": "2024-01-10",
+        "DataBaixaComissao": "2023-05-24",
+        "DataEnvioPAR": "2024-01-10",
+        "DataReaberta": "2023-06-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-06-06",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e68627939695a6a41794d4752685a5331694f4759314c545132597a5574596d4a6c595331695a44466a4f4441345a545268595451756347526d&fich=bf020dae-b8f5-46c5-bbea-bd1c808e4aa4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-09-19",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e6862793879595756694e54686d4e6930304f4449344c54526b4d3259744f44497859693031596a4e6c4d4755784d3255345a546b756347526d&fich=2aeb58f6-4828-4d3f-821b-5b3e0e13e8e9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-06-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e6862793831596a5a6b4e7a4934597930794d325a6a4c54526b5a446b744f5445794d7930794f54526a4d324a6c4f546c6b5a4455756347526d&fich=5b6d728c-23fc-4dd9-9123-294c3be99dd5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-06-06",
+              "TipoDocumento": "Link",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e465431425153433942636e463161585a765132397461584e7a595738765547563061634f6e77364e76494445314d693955556b395553553546564556545830394f54456c4f525638774d6c394e51564e55525649674b4445704c6d31774e413d3d&fich=TROTINETES_ONLINE_02_MASTER%20(1).mp4&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-01-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e68627939684e5467324e324e6a4d6930774e5445314c54526d59544174596a466a4f43316d4d544d304d546b304d32517a597a63756347526d&fich=a5867cc2-0515-4fa0-b1c8-f1341943d3c7.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8330",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-06-07",
+            "gp": "PSD",
+            "id": "7329",
+            "motivoCessacao": null,
+            "nome": "António Topa Gomes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2023-05-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e7a4d334f54646d5a57597459545932597930304f54466a4c574a6a5a5455744d6a41355a6a51795a6d566c595749774c6e426b5a673d3d&fich=73797fef-a66c-491c-bce5-209f42feeab0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2023-05-25",
+        "TipoDocumento": "Link",
+        "URL": "https://www.youtube.com/watch?v=vv5LemvsYkY"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23883",
+    "PetAssunto": "Uso obrigatório de capacete na utilização de trotinetas elétricas",
+    "PetDataEntrada": "2023-05-12",
+    "PeticoesAssociadas": null,
+    "PetId": "23883",
+    "PetLeg": "XV",
+    "PetNr": "152",
+    "PetNrAssinaturas": "5024",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
