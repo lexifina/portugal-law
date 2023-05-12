@@ -10,8 +10,8 @@ b) Apreciar e estudar assuntos relativos aos madeirenses e seus descendentes res
 
 c) Partilhar informação de forma heterogénea com vista ao estreitamento das relações entre a Região Autónoma da Madeira e as diversas comunidades madeirenses no mundo;
 
-d) Cooperar com o Governo Regional na definição de políticas para as comunidades madeirenses, propondo medidas adequadas à defesa dos seus interesses;
+d) Cooperar com o Governo Regional na definição de políticas para as comunidades madeirenses, propondo medidas adequadas à defesa dos seus interesses, bem como outras que promovam e facilitem o investimento na Região;
 
-e) Emitir parecer não vinculativo sobre a lista dos membros para o Conselho da Diáspora, proposta pelo Governo Regional;
+e) Tomar conhecimento da lista dos membros para o Conselho da Diáspora, proposta pelo Governo Regional;
 
 f) Aprovar as conclusões dos trabalhos.
