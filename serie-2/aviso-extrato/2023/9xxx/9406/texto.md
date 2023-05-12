@@ -1,0 +1,10 @@
+Aviso (extrato) n.º 9406/2023
+Sumário: Alteração por adaptação por entrada em vigor de leis do Plano Diretor Municipal de Pedrógão Grande.
+António José Ferreira Lopes, Presidente da Câmara Municipal do Concelho de Pedrógão Grande, torna público que, para efeitos do disposto, da alínea a), do n.º 1, do artigo 121.º, articulado com o artigo 76.º e o artigo 119.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal, em sessão ordinária de 13 de junho de 2022, deliberou aprovar a alteração por adaptação por entrada em vigor de leis do Plano Diretor Municipal de Pedrógão Grande - Aviso n.º 10650/2015, publicado em 18 de setembro, por entrada em vigor do Decreto-Lei n.º 82/2021, de 13 de outubro, na qual o seu artigo 80.º, revoga o Decreto-Lei n.º 327/90, na sua atual redação, tendo sido dado conhecimento à Assembleia Municipal, em 30 de junho de 2022 e à Comissão de Coordenação e Desenvolvimento Regional do Centro, em 13 de julho de 2022, através do oficio n.º 1559, que incide sobre a alteração por adaptação por entrada em vigor de leis, devendo ser dado sem efeito o teor do Edital n.º 54/2022, de 11 de agosto de 2022 e n.º 86/2022 de 5 de dezembro de 2022, referente a alteração por adaptação por entrada em vigor de leis do Plano Diretor Municipal de Pedrógão Grande.
+Assim, e em conformidade com o disposto na alínea a), do n.º 1, do artigo 121.º, do Decreto-Lei n.º 80/2015, de 14 de maio, publica-se a alteração por adaptação por entrada em vigor de leis, do Plano Diretor Municipal de Pedrógão Grande - Aviso n.º 10650/2015, publicado em 18 de setembro.
+11 de abril de 2023. - O Presidente da Câmara Municipal do Concelho de Pedrógão Grande, António José Ferreira Lopes.
+1 - O regulamento do Plano Diretor Municipal de Pedrógão Grande (1.ª revisão), publicado no Diário da República, 2.ª série, n.º 183, de 18 de setembro de 2015, ao abrigo do Aviso n.º 10650/2015, é objeto da seguinte alteração por adaptação por entrada em vigor de leis nos termos do disposto da alínea a), do n.º 1, do artigo 121.º, do Decreto-Lei n.º 80/2015, de 14 de maio:
+«Artigo 34.º
+Medidas de defesa da floresta contra incêndios
+Revogado.»
+616373862
