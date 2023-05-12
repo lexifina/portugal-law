@@ -2,7 +2,11 @@
 
 ### Proibição e cancelamento do licenciamento
 
-1 - Não podem ser realizadas manifestações taurinas de caráter popular quando tenha sido decretado luto nacional ou regional.
+1 - Não podem ser realizadas manifestações taurinas de caráter popular:
+
+a) Na data de realização de atos eleitorais ou referendos de qualquer natureza;
+
+b) Quando tenha sido decretado luto nacional ou regional.
 
 2 - Pode ser indeferido o pedido, ou suspenso o licenciamento pela entidade que já o tenha deferido, sempre que especiais necessidades de ordem pública contraindiquem a sua realização.
 

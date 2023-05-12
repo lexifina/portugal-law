@@ -43,3 +43,5 @@ i) Categoria F1, englobando os fogos-de-artifício que apresentam um risco muito
 ii) Categoria F2, englobando os fogos-de-artifício que apresentam um risco baixo e um nível sonoro baixo e que se destinam a ser utilizados em áreas exteriores confinadas; e
 
 iii) Categoria F3, englobando os fogos-de-artifício que apresentam um risco médio, que se destinam a ser utilizados em grandes áreas exteriores abertas e cujo nível sonoro não é prejudicial para a saúde humana.
+
+s) 'Sinal sonoro de recurso', sinal passível de ser audível, de forma clara, expressa e inimitável, em todo o percurso da tourada à corda, quando, por imperativos legais, ou por motivos de força maior devidamente comprovados, não possa ser utilizado o artigo de pirotecnia.
