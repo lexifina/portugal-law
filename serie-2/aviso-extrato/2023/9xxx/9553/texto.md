@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 9553/2023
+Sumário: Projeto da segunda alteração ao Regulamento Municipal de Organização e Funcionamento da Polícia Municipal de Olhão - consulta pública.
+Projeto de 2.ª alteração ao Regulamento Municipal de Organização e Funcionamento da Polícia Municipal de Olhão
+António Miguel Ventura Pina, Presidente da Câmara Municipal de Olhão, torna público, nos termos e para os efeitos do disposto na alínea c) do n.º 3 do artigo 100.º e do artigo 101.º do Decreto-Lei n.º 4/2025, de 7 de janeiro, na sua versão atual, que a Câmara Municipal deliberou, em reunião realizada no 19 de abril de 2023, submeter a consulta pública, pela prazo de 30 dias úteis, contados do dia seguinte ao da presente publicação no Diário da República, o Projeto de 2.ª alteração ao Regulamento Municipal de Organização e Funcionamento da Polícia Municipal de Olhão, cujo texto se encontra disponível para consulta nesta Câmara Municipal, devidamente identificado, diretamente nos serviços da Câmara Municipal de Olhão, através dos correios, para o endereço Largo Sebastião Martins Mestre, 8700-349 Olhão, ou para o seguinte endereço de correio eletrónico: geral@cm-olhao.pt.
+24 de abril de 2023. - O Presidente da Câmara Municipal de Olhão, António Miguel Ventura Pina.
+316403378
