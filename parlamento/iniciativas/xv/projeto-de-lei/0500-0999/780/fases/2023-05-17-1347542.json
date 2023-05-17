@@ -1,0 +1,191 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "780",
+    "id": "172936",
+    "titulo": "Prevê a criminalização da ciberviolência"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-05-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "64352",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-05-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-05-31",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d30595445314e32557a4c5751774d3251744e4449794f4330354f544a694c57457a595459304d3259774d6a55334e5335775a47593d&fich=c4a157e3-d03d-4228-992b-a3a643f02575.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-31",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer  CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b7a59546b304e4467304c5755774d4445744e446779595331684f5445324c545935595746695957526a4f4463775a6935775a47593d&fich=93a94484-e001-482a-a916-69aabadc870f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-30",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526c4d475a6b5a544a694c544a6d4e5459744e47466b4e793034596d45324c5459775a6d566c59544e695a474e6d4f5335775a47593d&fich=4e0fde2b-2f56-4ad7-8ba6-60feea3bdcf9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-05-31",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32457a4d4459785a5445324c545269596a4d744e4441304d69316959574d324c54646a5957517a5a6a64684d7a59315a6935515245593d&fich=a3061e16-4bb3-4042-bac6-7cad3f7a365f.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-05",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259794d4467324d6a6b794c544e6a4d6d59744e4463775a6930354d7a55354c5445795a4459774d44677a4e6d4a694d6935775a47593d&fich=f2086292-3c2f-470f-9359-12d600836bb2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526b596a49794e5451784c5755794f5745744e4749774d7930354e6a677a4c544d305a44566b4f4745784f54646c4e4335775a47593d&fich=ddb22541-e29a-4b03-9683-34d5d8a197e4.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-06-14"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-05-30"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2023-05-31"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-05-24"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-05-24"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-05-24"
+          },
+          {
+            "link": "",
+            "nome": "CNPD - Comissão Nacional de Proteção de Dados em 2023-05-24"
+          },
+          {
+            "link": "",
+            "nome": "APAV - Associação Portuguesa de Apoio à Vítima  em 2023-05-24"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7128",
+            "motivoCessacao": null,
+            "nome": "Sofia Matos"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-05-31",
+            "dataRemessa": "2023-05-31",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-05-17",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1347542",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "995936",
+        "obs": null,
+        "pag": [
+          "35-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-05-31",
+        "pubLeg": "XV",
+        "pubNr": "235",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/235/2023-05-31/35?pgs=35-38&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
