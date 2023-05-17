@@ -1,0 +1,18 @@
+# Resolução do Conselho do Governo Regional n.º 524/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 91/2023, 2.º suplemento, de 2023-05-17
+
+**Sumário:** Autoriza que a Secretaria Regional de Saúde e Proteção Civil seja associada fundadora de uma associação sem fins lucrativos, por tempo indeterminado, e de âmbito internacional que será denominada de CIIC DA MADEIRA - CENTRO
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 524/2023
+Sumário: Autoriza que a Secretaria Regional de Saúde e Proteção Civil seja associada fundadora de uma associação sem fins lucrativos, por tempo indeterminado, e de âmbito internacional que será denominada de CIIC DA MADEIRA - CENTRO INTERNACIONAL DE INVESTIGAÇÃO
+DO CANCRO DA MADEIRA, ASSOCIAÇÃO.
+Texto: Resolução n.º 524/2023 Considerando que a realização de atividades de investigação e inovação científica em Ciências da Saúde, com especial incidência na área do cancro, promovendo a difusão e valorização social e económica do conhecimento e da inovação na área representa um contributo inestimável no sentido de aprofundar o estudo de uma doença que constitui uma das principais causas de morte em termos mundiais; Considerando que contribuir para a informação e formação na área das Ciências da Saúde, promovendo e incentivando a realização de reuniões, cursos, seminários, jornadas ou congressos, nacionais ou internacionais, através de iniciativas próprias ou em colaboração com outras entidades públicas ou privadas pode representar um fundamental intercâmbio de conhecimentos e informações tendente à descoberta de novas terapias e soluções na área do cancro; Considerando que, para alcançar tal desiderato, cumpre reforçar a participação regional em programas e parcerias internacionais de investigação e desenvolvimento na área das Ciências da Saúde, particularmente no cancro, bem como contribuir para a formação de profissionais de saúde e jovens investigadores de elevado nível técnico e científico, fornecendolhes oportunidade para a continuidade do desenvolvimento dessas competências; Considerando que é de indubitável interesse público que a Secretaria Regional de Saúde e Proteção Civil seja associada fundadora de uma associação por tempo indeterminado, sem fins lucrativos e de âmbito internacional que será denominada de CIIC DA MADEIRA - CENTRO INTERNACIONAL DE INVESTIGAÇÃO DO CANCRO DA MADEIRA, ASSOCIAÇÃO e que terá por objeto a realização de atividades de investigação e inovação científica em ciências da saúde, com especial foco na área do cancro, promovendo a difusão e valorização social e económica do conhecimento e da inovação na área, contribuir para a informação e formação na área das ciências da saúde, promovendo e incentivando a realização de reuniões, cursos, seminários, jornadas ou congressos, nacionais ou internacionais, através de iniciativas próprias ou em colaboração com outras entidades públicas ou privadas. Nestes termos, o Conselho do Governo reunido em plenário em 11 de maio de 2023, resolve:
+1. Autorizar que a Secretaria Regional de Saúde e Proteção Civil seja associada fundadora de uma associação sem fins lucrativos, por tempo indeterminado, e de âmbito internacional que será denominada de CIIC DA MADEIRA CENTRO INTERNACIONAL DE INVESTIGAÇÃO DO CANCRO DA MADEIRA, ASSOCIAÇÃO.
+2. Aprovar a minuta dos Estatutos do CIIC DA MADEIRA - CENTRO INTERNACIONAL DE INVESTIGAÇÃO DO CANCRO DA MADEIRA, ASSOCIAÇÃO, que fica arquivada na Secretaria-Geral da Presidência do Governo Regional.
+3. Mandatar o Secretário Regional de Saúde e Proteção Civil para outorgar a escritura de constituição da ASSOCIAÇÃO.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
