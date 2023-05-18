@@ -6,7 +6,7 @@
 
 ### Rendimentos de direitos de autor e de direitos de propriedade industrial
 
-1 - Para efeitos de determinação do lucro tributável, pode ser deduzido, nos termos e até ao limite previsto no n.º 8, um montante correspondente aos rendimentos provenientes de contratos que tenham por objeto a cessão ou a utilização temporária dos seguintes direitos de propriedade industrial sujeitos a registo:
+1 - Para efeitos de determinação do lucro tributável, pode ser deduzido, nos termos e até ao limite previsto no n.º 8, um montante correspondente aos rendimentos provenientes de contratos que tenham por objeto a cessão ou a utilização temporária dos seguintes direitos de autor e direitos de propriedade industrial quando registados:
 
 a) Patentes;
 
