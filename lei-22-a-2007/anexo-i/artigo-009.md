@@ -11,3 +11,13 @@ b) Automóveis ligeiros de mercadorias, de caixa aberta ou sem caixa, com lotaç
 c) (Revogada.)
 
 2 - É aplicável uma taxa reduzida correspondente a 10 % do imposto resultante da aplicação da tabela B, aos automóveis ligeiros de mercadorias, de caixa aberta, fechada ou sem caixa, com lotação máxima de três lugares, incluindo o do condutor, com excepção dos abrangidos pelo n.º 2 do artigo 7.º
+
+3 - É aplicável, a título transitório, uma taxa reduzida às autocaravanas, nos seguintes termos:
+
+a) No correspondente a 40 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo 7.º a partir de 1 de janeiro de 2024;
+
+b) No correspondente a 60 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo 7.º a partir de 1 de janeiro de 2025;
+
+c) No correspondente a 80 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo 7.º a partir de 1 de janeiro de 2026;
+
+d) No correspondente a 100 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo 7.º a partir de 1 de janeiro de 2027.
