@@ -6,7 +6,7 @@
 
 2 - A taxa prevista no número anterior é majorada em 0,5 pontos percentuais caso o sujeito passivo se qualifique como micro, pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.
 
-3 - Para efeitos da dedução prevista no n.º 1, o montante dos aumentos líquidos dos capitais próprios elegíveis corresponde à soma algébrica dos aumentos líquidos dos capitais próprios elegíveis verificados em cada um dos nove períodos de tributação anteriores, considerando-se que o montante dos aumentos líquidos dos capitais próprios elegíveis corresponde a zero nas situações em que o resultado dessa soma algébrica for negativo.
+3 - Para efeitos da dedução prevista no n.º 1, o montante dos aumentos líquidos dos capitais próprios elegíveis deve ser apurado por referência ao somatório dos valores apurados no próprio exercício e em cada um dos nove períodos de tributação anteriores, considerando-se que o montante dos aumentos líquidos dos capitais próprios elegíveis corresponde a zero nas situações em que desse somatório resulte uma diferença negativa.
 
 4 - A dedução prevista nos números anteriores não pode exceder, em cada período de tributação, o maior dos seguintes limites:
 
@@ -26,13 +26,17 @@ ii) As entradas em espécie realizadas no âmbito de aumento do capital social q
 
 iii) Os prémios de emissão de participações sociais;
 
-iv) Os lucros contabilísticos do período de tributação quando sejam aplicados em resultados transitados ou, diretamente, em reservas ou no aumento do capital;
+iv) A aplicação dos lucros contabilísticos passíveis de distribuição, de acordo com a legislação comercial, em resultados transitados ou, diretamente, em reservas ou no aumento do capital;
 
-b) «Aumentos líquidos dos capitais próprios elegíveis», os aumentos dos capitais próprios elegíveis após a dedução das saídas, em dinheiro ou em espécie, em favor dos titulares do capital, a título de redução do mesmo ou de partilha do património, bem como as distribuições de reservas ou resultados transitados.
+b) 'Aumentos líquidos dos capitais próprios elegíveis', a diferença, positiva ou negativa, entre:
+
+i) Os aumentos dos capitais próprios elegíveis; e,
+
+ii) As saídas, em dinheiro ou em espécie, a favor dos titulares do capital, a título de redução do mesmo ou de partilha do património, e as distribuições de reservas ou resultados transitados.
 
 7 - O disposto no presente artigo aplica-se exclusivamente aos sujeitos passivos que, no exercício em causa, exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola e que preencham, cumulativamente, as seguintes condições:
 
-a) Não sejam qualificados como instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas;
+a) Não sejam entidades sujeitas à supervisão do Banco de Portugal ou da Autoridade de Supervisão de Seguros e Fundos de Pensões, nem sucursais em Portugal de instituições de crédito, de outras instituições financeiras ou de empresas de seguros;
 
 b) Disponham de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;
 
@@ -48,4 +52,4 @@ b) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades o
 
 c) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital da sociedade beneficiária, por uma entidade que não seja residente para efeitos fiscais noutro Estado-Membro da União Europeia ou no Espaço Económico Europeu ou noutro Estado ou jurisdição com o qual esteja em vigor convenção para evitar a dupla tributação internacional, acordo bilateral ou multilateral que preveja a troca de informações para fins fiscais.
 
-9 - Para efeitos do apuramento do montante dos aumentos líquidos dos capitais próprios elegíveis verificados nos nove períodos de tributação anteriores, nos termos do n.º 3, apenas se consideram os aumentos líquidos dos capitais próprios elegíveis verificados nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2023.
+9 - Para efeitos do apuramento a que se refere o n.º 3, apenas se consideram os aumentos líquidos dos capitais próprios elegíveis verificados nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2023.

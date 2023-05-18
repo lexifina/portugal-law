@@ -8,9 +8,9 @@
 
 3 - Em caso de ausência de remuneração auferida em território português ou no estrangeiro, devida por qualquer entidade a título de trabalho dependente por período superior a seis meses no período de tributação anterior àquele a que respeitam os rendimentos, o montante global das remunerações regulares com carácter de retribuição sujeitas a imposto auferidas no ano anterior deve ser apurado, relativamente aos meses em que não tenha havido remuneração, por referência à retribuição mínima mensal garantida.
 
-4 - Podem optar pela tributação prevista nos números anteriores, nos termos aplicáveis aos sujeitos passivos residentes em território português, os sujeitos passivos que, tendo sido deslocados para o estrangeiro nos termos estabelecidos no n.º 1, não sejam considerados residentes em território português, com o limite de três anos após a data do deslocamento.
+4 - Para efeitos do n.º 1, apenas são considerados os residentes nos termos da alínea d) do n.º 1 do artigo 16.º do Código do IRS.
 
-5 - Exercida a opção prevista no número anterior, é aplicável aos rendimentos abrangidos pelo n.º 1 o disposto nos n.os 3 e seguintes do artigo 17.º-A do Código do IRS, com as devidas adaptações.
+5 - (Revogado.)
 
 6 - O disposto no n.º 1 determina o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS.
 
