@@ -34,13 +34,11 @@ Bens e serviços sujeitos a taxa reduzida
 
 1.2.6 – Coelhos domésticos.
 
-1.2.7 – Espécies cinegéticas de caça maior e menor.
-
 1.3 – Peixes e moluscos:
 
 1.3.1 – Peixe fresco (vivo ou morto), refrigerado, congelado, seco, salgado ou em salmoura, com exclusão do peixe fumado, do espadarte, do esturjão e do salmão, quando secos, salgados ou em conserva e preparados de ovas (caviar);
 
-1.3.2 - Conservas à base de peixes e moluscos (inteiros, em filetes, pedaços, em água, azeite, óleo ou outros molhos, em caldeirada, escabeche, recheadas e similares, em qualquer embalagem), com teor de peixe ou molusco superior a 50 %, com exceção do peixe fumado, do espadarte e do esturjão, quando secos, salgados ou em conserva e preparados de ovas (caviar) e pastas de atum, cavala e sardinha.
+1.3.2 - Conservas à base de peixes e moluscos (inteiros, em filetes ou pedaços, em água, azeite, óleo ou outros molhos, em caldeirada, escabeche, recheadas e similares, em qualquer embalagem), com teor de peixe ou molusco superior a 50 %, com exceção do peixe fumado, do espadarte e do esturjão, quando secos, salgados ou em conserva e preparados de ovas (caviar).
 
 1.3.3 – Moluscos, ainda que secos ou congelados.
 
@@ -104,8 +102,6 @@ Bens e serviços sujeitos a taxa reduzida
 
 1.13 – Produtos semelhantes a queijos, sem leite e laticínios, produzidos à base de frutos secos, cereais, preparados à base de cereais, frutas, legumes ou produtos hortícolas.
 
-1.14 - Produtos alimentícios destinados a lactentes e crianças de pouca idade, incluindo as fórmulas de transição, bem como os alimentos para fins medicinais específicos e os substitutos integrais da dieta para controlo do peso, nos termos do Regulamento (UE) n.º 609/2013 do Parlamento Europeu e do Conselho, de 12 de junho de 2013.
-
 2 – Outros:
 
 2.1 – Livros, jornais, revistas de informação geral e outras publicações periódicas que se ocupem predominantemente de matérias de caráter científico, educativo, literário, artístico, cultural, recreativo ou desportivo, em todos os suportes físicos ou por via eletrónica, ou em ambos, com exceção das publicações que consistam total ou predominantemente em conteúdos vídeo ou música.
@@ -142,7 +138,7 @@ Compreendem-se nesta verba os resguardos e fraldas.
 
 2.9 – Utensílios e quaisquer aparelhos ou objetos especificamente concebidos para utilização por pessoas com deficiência, desde que constem de uma lista aprovada por despacho conjunto dos Ministros das Finanças, da Solidariedade e Segurança Social e da Saúde.
 
-2.10 – Utensílios e outros equipamentos exclusiva ou principalmente destinados a operações de socorro e salvamento, adquiridos por associações humanitárias e corpos de bombeiros, bem como pelo Instituto de Socorros a Náufragos, pelo SANAS - Corpo Voluntário de Salvadores Náuticos, pelo INEM, I. P., pelo Serviço Regional de Proteção Civil, IP-RAM, pelo Serviço Regional de Proteção Civil e Bombeiros dos Açores, pelos municípios e pelas entidades intermunicipais.
+2.10 – Utensílios e outros equipamentos exclusiva ou principalmente destinados a operações de socorro e salvamento adquiridos por associações humanitárias e corpos de bombeiros, bem como pelo Instituto de Socorros a Náufragos, pelo SANAS — Corpo Voluntário de Salvadores Náuticos e pelo Instituto Nacional de Emergência Médica, I. P.
 
 2.11 – Prestações de serviços, efetuadas no exercício das profissões de jurisconsulto, advogado e solicitador a desempregados e trabalhadores no âmbito de processos judiciais de natureza laboral e a pessoas que beneficiem de assistência judiciária.
 
@@ -162,7 +158,7 @@ Compreende-se nesta verba o serviço de transporte e o suplemento de preço exig
 
 A taxa reduzida aplica-se exclusivamente ao preço do alojamento, incluindo o pequeno-almoço, se não for objeto de faturação separada, sendo equivalente a metade do preço da pensão completa e a três quartos do preço da meia pensão.
 
-2.18 - As empreitadas de construção ou reabilitação de imóveis de habitações económicas, habitações de custos controlados ou habitações para arrendamento acessível nos termos definidos em portaria do membro do Governo responsável pela área da habitação, independentemente do promotor, desde que pelo menos 700/1000 dos prédios em propriedade horizontal ou a totalidade dos prédios em propriedade total ou frações autónomas sejam afetos a um dos referidos fins e certificadas pelo IHRU, I. P., ou, quando promovidas na Região Autónoma da Madeira ou na Região Autónoma dos Açores, pela IHM - Investimentos Habitacionais da Madeira, EPERAM, ou pela Direção Regional da Habitação dos Açores, respetivamente.
+2.18 – As empreitadas de construção de imóveis de habitações económicas ou de habitações de custos controlados, independentemente do promotor, desde que tal classificação esteja certificada por autoridade competente do ministério da tutela.
 
 2.19 – As empreitadas de bens imóveis em que são donos da obra autarquias locais, empresas municipais cujo objeto consista na reabilitação e gestão urbanas detidas integralmente por organismos públicos, associações de municípios, empresas públicas responsáveis pela rede pública de escolas secundárias ou associações e corporações de bombeiros, desde que, em qualquer caso, as referidas obras sejam diretamente contratadas com o empreiteiro
 
@@ -172,7 +168,7 @@ A taxa reduzida aplica-se exclusivamente ao preço do alojamento, incluindo o pe
 
 2.22 – Prestações de serviços relacionadas com a limpeza das vias públicas, bem como a recolha, armazenamento, transporte, valorização e eliminação de resíduos.
 
-2.23 - As empreitadas de reabilitação de edifícios e as empreitadas de construção ou reabilitação de equipamentos de utilização coletiva de natureza pública, localizados em áreas de reabilitação urbana (áreas críticas de recuperação e reconversão urbanística, zonas de intervenção das sociedades de reabilitação urbana e outras) delimitadas nos termos legais, ou realizadas no âmbito de operações de requalificação e reabilitação de reconhecido interesse público nacional.
+2.23 – Empreitadas de reabilitação urbana, tal como definida em diploma específico, realizadas em imóveis ou em espaços públicos localizados em áreas de reabilitação urbana (áreas críticas de recuperação e reconversão urbanística, zonas de intervenção das sociedades de reabilitação urbana e outras) delimitadas nos termos legais, ou no âmbito de operações de requalificação e reabilitação de reconhecido interesse público nacional.
 
 2.24 – As empreitadas de reabilitação de imóveis que, independentemente da localização, sejam contratadas diretamente para o Fundo Nacional de Reabilitação do Edificado pela sua sociedade gestora, pelo Instituto da Habitação e da Reabilitação Urbana, IP (IHRU, IP), pelo Investimentos Habitacionais da Madeira, EPERAM (IHM), ou pela Direção Regional de Habitação dos Açores, bem como as que sejam realizadas no âmbito de regimes especiais de apoio financeiro ou fiscal à reabilitação de edifícios ou ao abrigo de programas apoiados financeiramente pelo IHRU, IP, pelo IHM ou pela Direção Regional de Habitação dos Açores.
 
@@ -186,13 +182,13 @@ A taxa reduzida não abrange os materiais incorporados, salvo se o respetivo val
 
 2.28 – As prestações de serviços de assistência domiciliária a crianças, idosos, toxicodependentes, doentes ou deficientes, bem como as prestações de serviços de teleassistência a idosos e a doentes crónicos, prestados ao utente final ou a entidades públicas ou privadas.
 
-2.29 - Cadeiras e assentos próprios para o transporte de crianças em veículos automóveis ou em velocípedes, bem como outros equipamentos de retenção para o mesmo fim.
+2.29 – Cadeiras e assentos próprios para o transporte de crianças em veículos automóveis, bem como outros equipamentos de retenção para o mesmo fim.
 
 2.30 – Prestações de serviços de locação, manutenção ou reparação de próteses, equipamentos, aparelhos, artefactos e outros bens referidos nas verbas 2.6, 2.8 e 2.9.
 
 2.31 - Aquisição e reparação de velocípedes.
 
-2.32 – Entradas em espetáculos de canto, dança, música, teatro, cinema, tauromaquia, circo, entradas em exposições, entradas em jardins zoológicos, botânicos e aquários públicos, desde que não beneficiem da isenção prevista no n.º 13 do artigo 9.º do Código do IVA, excetuando-se as entradas em espetáculos de caráter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.
+2.32 – Entradas em espetáculos de canto, dança, música, teatro, cinema, circo, entradas em exposições, entradas em jardins zoológicos, botânicos e aquários públicos, desde que não beneficiem da isenção prevista no n.º 13 do artigo 9.º do Código do IVA, excetuando -se as entradas em espetáculos de caráter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.
 
 2.33 - Componente fixa das tarifas de acesso às redes nos fornecimentos de eletricidade, correspondentes a uma potência contratada que não ultrapasse 3,45 kVA, e nos fornecimentos de gás natural, correspondentes a consumos em baixa pressão que não ultrapassem os 10.000 m3 anuais.
 
@@ -202,27 +198,13 @@ A taxa reduzida não abrange os materiais incorporados, salvo se o respetivo val
 
 2.36 – As prestações de serviços de reparações de aparelhos domésticos.
 
-2.37 - Aquisição, entrega e instalação, manutenção e reparação de aparelhos, máquinas e outros equipamentos destinados exclusiva ou principalmente à captação e aproveitamento de energia solar, eólica e geotérmica e de outras formas alternativas de energia.
-
-2.38 - Fornecimento de eletricidade para consumo, com exclusão das suas componentes fixas, relativamente a uma potência contratada que não ultrapasse 6,90 kVA, na parte que não exceda:
-
-a) 200 kWh por período de 30 dias;
-
-b) 300 kWh por período de 30 dias, quando adquirida para consumo de famílias numerosas, considerando-se como tais os agregados familiares constituídos por cinco ou mais pessoas.
+2.37 – Entrega e instalação de painéis solares térmicos e fotovoltaicos.
 
 2.39 - Acesso à transmissão em direto de espetáculos e eventos de teatros, feiras, parques de diversões, concertos, museus, cinemas ou outros similares.
 
 2.40 - Fornecimento e instalação de aquecedores de ambiente local a biomassa sólida com potência calorífica nominal não superior a 50 kW e caldeiras a biomassa sólida com uma potência calorífica nominal não superior a 500 kW, incluindo as integradas em sistemas mistos compostos por uma caldeira a combustível sólido, aquecedores complementares, dispositivos de controlo da temperatura e dispositivos solares, aos quais tenha sido atribuída uma etiqueta energética da União Europeia de uma das duas classes de eficiência energética mais elevadas e que cumpram os valores de referência indicativos previstos nos respetivos requisitos específicos de conceção ecológica.
 
 2.41 - Péletes e briquetes produzidos a partir de biomassa.
-
-2.42 - As empreitadas de construção ou reabilitação de:
-
-2.42.1 - Imóveis que se destinem à venda para habitação própria e permanente do adquirente ou imóveis que se destinem exclusivamente ao arrendamento habitacional, cujo preço de venda ou valor de renda mensal não exceda os limites a que se referem os n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio.
-
-Os termos e as condições para a aplicação desta verba são estabelecidos em legislação especial.
-
-2.42.2 - Prédios urbanos ou frações autónomas de prédios urbanos para arrendamento habitacional ou arrendamento para subarrendamento habitacional abrangidos pelo regime de contratos de investimento para arrendamento aprovado em anexo ao Decreto-Lei n.º 97/2026, de 20 de maio.
 
 3 – Bens utilizados normalmente no âmbito das atividades de produção agrícola e aquícola:
 
@@ -270,9 +252,7 @@ g) A destruição de plantas e animais nocivos e o tratamento de plantas e de te
 
 h) A exploração de instalações de irrigação e de drenagem;
 
-i) A poda de árvores, corte de madeira e outras operações silvícolas;
-
-j) As operações de transformação de azeitona em azeite.
+i) A poda de árvores, corte de madeira e outras operações silvícolas.
 
 5. – As transmissões de bens e prestações de serviços efetuadas no âmbito das seguintes atividades de produção agrícola:
 
@@ -328,8 +308,6 @@ Bens e serviços sujeitos a taxa intermédia
 
 1.3.2 – (Revogado.)
 
-1.3.3 - Alheiras em tripas de animais ou sintéticas, à base de pão, compostas por carne (porco, aves, coelho, lebre, perdiz) ou outro tipo de recheio e conservadas em processo de fumagem.
-
 1.4 – (Revogado.)
 
 1.4.1 – (Revogado.)
@@ -339,8 +317,6 @@ Bens e serviços sujeitos a taxa intermédia
 1.5.1 – (Revogado.)
 
 1.5.2 – (Revogado.)
-
-1.5.3 - Óleos vegetais diretamente comestíveis e suas misturas (óleos alimentares).
 
 1.6 – (Revogado.)
 
@@ -376,4 +352,6 @@ Bens e serviços sujeitos a taxa intermédia
 
 3 – Prestações de serviços:
 
-3.1 - Prestações de serviços de alimentação e bebidas, com exclusão das bebidas alcoólicas e refrigerantes.
+3.1 - Prestações de serviços de alimentação e bebidas, com exclusão das bebidas alcoólicas, refrigerantes, sumos, néctares e águas gaseificadas ou adicionadas de gás carbónico ou outras substâncias.
+
+Quando o serviço incorpore elementos sujeitos a taxas distintas para o qual é fixado um preço único, o valor tributável deve ser repartido pelas várias taxas, tendo por base a relação proporcional entre o preço de cada elemento da operação e o preço total que seria aplicado de acordo com a tabela de preços ou proporcionalmente ao valor normal dos serviços que compõem a operação. Não sendo efetuada aquela repartição, é aplicável a taxa mais elevada à totalidade do serviço.
