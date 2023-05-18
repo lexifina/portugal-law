@@ -46,6 +46,8 @@ c) Aos automóveis abrangidos pelos n.os 2 e 3 do artigo seguinte, nas percentag
 
 d) Aos automóveis abrangidos pelo artigo 9.º, nas percentagens aí previstas.
 
+e) Na totalidade do imposto, às autocaravanas, sem prejuízo da aplicação do disposto no n.º 3 do artigo 9.º
+
 TABELA B
 
 Componente cilindrada

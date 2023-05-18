@@ -12,6 +12,6 @@ c) 40 %, aos automóveis ligeiros de passageiros que utilizem exclusivamente com
 
 d) 25 %, aos automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 gCO(índice 2)/km.
 
-2 - É aplicável uma taxa intermédia, correspondente a 95 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo anterior, aos veículos fabricados antes de 1970, aos quais, independentemente da sua proveniência ou origem, é aplicável a tabela D a que se refere o n.º 1 do artigo 11.º
+2 - [Revogado]
 
 3 - É aplicável uma taxa intermédia, correspondente a 50 % do imposto resultante da aplicação da tabela B a que se refere o n.º 2 do artigo anterior, aos automóveis ligeiros de mercadorias, de caixa aberta, ou sem caixa, com lotação superior a três lugares, incluindo o do condutor, que apresentem tracção às quatro rodas, permanente ou adaptável.
