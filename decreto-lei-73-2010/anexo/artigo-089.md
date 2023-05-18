@@ -22,7 +22,7 @@ h) (Revogada.)
 
 i) Sejam utilizados no transporte de passageiros e de mercadorias por caminhos de ferro, no que se refere aos produtos classificados pelos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19;
 
-j) Sejam utilizados como carburantes no âmbito do fabrico, projecto, ensaio e manutenção de aeronaves e embarcações;
+j) (Revogada.)
 
 l) Sejam utilizados pelos clientes finais economicamente vulneráveis, beneficiários de tarifa social, nos termos da legislação aplicável, no que se refere ao gás natural classificado pelos códigos NC 2711 11 00 e NC 2711 21 00.
 
