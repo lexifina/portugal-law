@@ -1,0 +1,274 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "71",
+    "id": "152805",
+    "titulo": "Aprova medidas no âmbito do plano de intervenção «Mais Habitação»"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-05-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64367",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-05-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-07-04",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C1 - Proposta de Alteração - PAN (atualizado a 04/07/2023)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a497a4e4455304d54566b4c5455335a4755744e44526b4d7930354e546b314c5449774d4759304d5445345a54646a4f5335775a47593d&fich=2345415d-57de-44d3-9595-200f4118e7c9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C2 - Proposta de Alteração - IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686a595759314e3251774c54526c4e6d59744e44686a4e6930354f4451794c5442694d4463775957466d4e5745344f4335775a47593d&fich=8caf57d0-4e6f-48c6-9842-0b070aaf5a88.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C3 - Proposta de Alteração - IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6c4d4445354e5445774c5751794d5449744e4451794d4331694d5441324c575669597a4d794e574d35597a6b354d5335775a47593d&fich=6e019510-d212-4420-b106-ebc325c9c991.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C4 - Proposta de Alteração - IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56684e6a4668597a6b354c54497a5a5455744e4752694e6930344e4468694c57526c5a6d52694d5445314e544e6a597935775a47593d&fich=5a61ac99-23e5-4db6-848b-defdb11553cc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-22",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C5 - Proposta de Alteração - IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466b5a4467315a6d51354c574d34595455744e4759314f533169597a52694c5459785a6d526a4e5441794d7a5a694d5335775a47593d&fich=1dd85fd9-c8a5-4f59-bc4b-61fdc50236b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-22",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C6 - Proposta de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67324e6a63785a6a41314c5459794f546b744e47597a4d4331694d4459794c5459324d6a41344f446b33596d5a684f5335775a47593d&fich=86671f05-6299-4f30-b062-66208897bfa9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C7 -Proposta de alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51314d47466a4d446c6d4c5755314e4463744e446b355a6931694d4751774c574a6a5a5464685a6d55324d6a466d4e4335775a47593d&fich=450ac09f-e547-499f-b0d0-bce7afe621f4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C8 -Proposta de alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245324d446b325a5449314c5449784f474d744e4445334e5330354d444e684c54426c4e546c6c596a67334f47526c4d7935775a47593d&fich=a6096e25-218c-4175-903a-0e59eb878de3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C9 -Proposta de alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a46684d7a646c595463324c574d774d5459744e444d345a53303459544a6d4c546b315a6a4e6d5a54566d4e446c69597935775a47593d&fich=1a37ea76-c016-438e-8a2f-95f3fe5f49bc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C10 -Proposta de alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566a4d5441324d54426a4c5746684d6d45744e4445324d6931694e44466a4c5456684e6d59305a6d45784e4441794d5335775a47593d&fich=5c10610c-aa2a-4162-b41c-5a6f4fa14021.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C11 -Proposta de alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41785a574e6c4e6a6c6d4c574a6d4f5755744e44677a5a4330354d6a566c4c544d795a544d30596d493359575979596935775a47593d&fich=01ece69f-bf9e-483d-925e-32e34bb7af2b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C12 - Proposta de Alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245344d3249784d7a46684c574e6b4e6a6b744e4445304f5331684e446c6a4c575a6a4d5759354d324d7a4e6a557a4e6935775a47593d&fich=a83b131a-cd69-4149-a49c-fc1f93c36536.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C13 -Proposta de alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d345a6a51314e4749354c5449354d4449744e4746695a4330344d5751304c54646d4e546c6a4d6a4a6b4d6d5a6d595335775a47593d&fich=38f454b9-2902-4abd-81d4-7f59c22d2ffa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C14 -Proposta de alteração - L",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245314f474d774e446c6c4c54566b4d544d744e474a6b4d793169596a646d4c54426b596a6b314f4755344d4441794f4335775a47593d&fich=a58c049e-5d13-4bd3-bb7f-0db958e80028.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C15 -Proposta de alteração - CH",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6d4e4455324f5446694c545a68595449744e444d794d4331694f54466b4c5455304e57457a593252684e6a517a595335775a47593d&fich=bf45691b-6aa2-4320-b91d-545a3cda643a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C16 - Proposta de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a553559544d30596d5a684c574934595751744e475a6a4d4331684e32566a4c546c6b5a6a63324e475579597a55334d7935775a47593d&fich=59a34bfa-b8ad-4fc0-a7ec-9df764e2c573.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C17 - Proposta de Alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a52694e7a466d4e474d354c575534595755744e444d324f4331695a6a45314c5759774d5752694e7a6734596a67774f5335775a47593d&fich=4b71f4c9-e8ae-4368-bf15-f01db788b809.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C18 - Proposta de Alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245774d546c684f4751794c57466c593245744e445a6a4d6931694d4468684c5449324e6d45325a574d305a546735595335775a47593d&fich=a019a8d2-aeca-46c2-b08a-266a6ec4e89a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C19 - Proposta de Alteração - PS (atualizado a 28/06/2023)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249314d54686d4d57526b4c5463785a4445744e444a6b5a5331684d3249354c544a6c596d51354d474d774e324e68597935775a47593d&fich=b518f1dd-71d1-42de-a3b9-2ebd90c07cac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C20 - Proposta de Alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245784f44637a4f5463304c54677a595467744e4455314f4331694d6a566a4c574e6d4d7a59344f5467774d446c6a597935775a47593d&fich=a1873974-83a8-4558-b25c-cf36898009cc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C21 - Proposta de Alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59304e7a55335a6a67354c574a68595745744e444d304d793169596d45354c545178596a4e694f47526c4d7a51344e6935775a47593d&fich=64757f89-baaa-4343-bba9-41b3b8de3486.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "C22 - Proposta de Alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59304f544e6a4f5445784c5455334d6d55744e445531597931694e5449314c5455354d6a686b5a6d4d774d6a5578597935775a47593d&fich=6493c911-572e-455c-b525-5928dfc0251c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-04",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo PA PPL 71 - I - PAN_ IL_ BE_ L (atualizado a 04/07/2023)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255774d6a686b4e544d304c544e684d5745744e4451314f4331684d3251314c546b7a4e6d45784d7a686b5a444e6c597935775a47593d&fich=e028d534-3a1a-4458-a3d5-936a138dd3ec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo PA PPL 71 - CH_PCP_PSD_PS (atualizado a 28/06/2023)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259334f5445774e3255784c5749305a4745744e44646a4d5331694e475a684c57526d597a6b30596d45324f4459794e4335775a47593d&fich=f79107e1-b4da-47c1-b4fa-dfc94ba68624.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67335a54526c4f5445304c5756684e4441744e446b355a5331695a5446684c5749784e6a4131596a56684d6d46685a4335775a47593d&fich=87e4e914-ea40-499e-be1a-b1605b5a2aad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59784e545a695a5449354c546b784d4745744e444933596931684d545a6c4c575a6b59545530596a63344d6a59794e5335775a47593d&fich=6156be29-910a-427b-a16e-fda54b782625.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-06",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Áudio votação na especialidade_ Parte 1 (GT)",
+            "URL": "http://media.parlamento.pt/site/XVLEG/SL1/COM/06_CEOPHH/CEOPPH_GT_H/CEOPPH_GT_H_20230706_2.mp3"
+          },
+          {
+            "DataDocumento": "2023-07-06",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Áudio votação na especialidade_ Parte 2 (GT)",
+            "URL": "http://media.parlamento.pt/site/XVLEG/SL1/COM/06_CEOPHH/CEOPPH_GT_H/CEOPPH_GT_H_20230706_2.mp3"
+          },
+          {
+            "DataDocumento": "2023-07-19",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Áudio da reunião - ratificação da votação indiciária",
+            "URL": "http://media.parlamento.pt/site/XVLEG/SL1/COM/06_CEOPHH/CEOPPH_20230718.mp3"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8330",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "Numero": "8330",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-05-19",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1347657",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996465",
+        "obs": null,
+        "pag": [
+          "9-136"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-07-20",
+        "pubLeg": "XV",
+        "pubNr": "263",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/263/2023-07-20/9?pgs=9-136&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
