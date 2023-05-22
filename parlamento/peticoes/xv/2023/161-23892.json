@@ -1,0 +1,660 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23892",
+  "numero": "161",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-05-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-12-15",
+            "entidades": null,
+            "id": "148684",
+            "tipo": null,
+            "titulo": "Audição em 2023-12-15 com António Manuel Antunes Marçal (1.ª subscritor)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-01-10",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915200",
+                "obs": null,
+                "pag": [
+                  "10-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-01-13",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/022/2024-01-13/10?pgs=10-18&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2024-01-10",
+              "descricao": null,
+              "detalhe": null,
+              "id": "126213",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "123",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-07-05",
+        "DataArquivo": "2024-01-10",
+        "DataBaixaComissao": "2023-05-31",
+        "DataEnvioPAR": "2024-01-12",
+        "DataReaberta": "2023-07-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-07-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279396b4e7a55335a6a59304d43316a4d6d526b4c5452685a6a6b74596a4a6b4d53316a4e7a49324d324a685a5459784d7a41756347526d&fich=d757f640-c2dd-4af9-b2d1-c7263bae6130.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-01-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279387a4e544e6b4d6d517a5a53316b4f4451314c5451314d546774595441304e5330344d54686d4d32466b4d54566c4e7a41756347526d&fich=353d2d3e-d845-4518-a045-818f3ad15e70.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-01-10",
+            "dataNomeacao": "2023-07-05",
+            "gp": "PS",
+            "id": "7034",
+            "motivoCessacao": "Entrega do Relatório",
+            "nome": "Raquel Ferreira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-01-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-06-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d6d566c596a4d7a4f5441744e446b35596930304e4455314c574579595749745a575a684e444d304e57557a4e54526c4c6e426b5a673d3d&fich=2eeb3390-499b-4455-a2ab-efa4345e354e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "263709",
+      "314513",
+      "314557",
+      "314502",
+      "314521",
+      "314537",
+      "314546",
+      "314502",
+      "314521",
+      "314537"
+    ],
+    "Iniciativasoriginadas": [
+      "263709",
+      "314513",
+      "314557",
+      "314502",
+      "314521",
+      "314537",
+      "314546"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/92"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/79?pgs=79&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": "Apresenta o Projeto de Lei n.º 127/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/93"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "79-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/79?pgs=79-80&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": "Apresenta o Projetos de Lei n.º 425/XVI/1ª e o Projeto de Resolução n.º e 541/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/94"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 438/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/95"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/81?pgs=81&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 528/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/96"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/82?pgs=82&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 552/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/97"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 559/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/98"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/99"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/84?pgs=84-85&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/100"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/85?pgs=85&org=PLC"
+              }
+            ],
+            "Sumario": "Respeitar os oficiais de justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça - (António Manuel Antunes Marçal e outros); Integração do suplemento de recuperação processual no vencimento dos funcionários judiciais (primeira alteração ao Decreto-Lei n.º 485/99, de 10 de novembro); Prevê a concretização da revisão do Estatuto dos Funcionários de Justiça e assegura um conjunto de medidas para valorização da carreira; Revê o pagamento do suplemento de recuperação processual, alterando o Decreto-Lei n.º 485/99, de 10 de novembro; Recomenda ao Governo que defina uma estratégia para responder à falta de oficiais de justiça e à dignificação das respetivas carreiras; Recomenda ao Governo a concretização da revisão do estatuto dos funcionários judiciais, a melhoria das suas condições de trabalho e a valorização da carreira; Recomenda a aprovação urgente do novo estatuto dos funcionários judiciais; Recomenda ao Governo que proceda à reabilitação e modernização dos tribunais para um normal funcionamento do sistema judicial.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23892",
+    "PetAssunto": "Respeitar os Oficiais de Justiça, melhorar as suas condições de trabalho e valorizar o seu estatuto de carreira para um normal funcionamento do sistema de justiça",
+    "PetDataEntrada": "2023-05-22",
+    "PeticoesAssociadas": null,
+    "PetId": "23892",
+    "PetLeg": "XV",
+    "PetNr": "161",
+    "PetNrAssinaturas": "8215",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36650",
+        "obs": null,
+        "pag": [
+          "78-86"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-23",
+        "pubLeg": "XVI",
+        "pubNr": "78",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/78?pgs=78-86&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915196",
+        "obs": null,
+        "pag": [
+          "17-19"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-07-15",
+        "pubLeg": "XV",
+        "pubNr": "94",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/094/2023-07-15/17?pgs=17-19&org=PLC"
+      }
+    ]
+  }
+}
