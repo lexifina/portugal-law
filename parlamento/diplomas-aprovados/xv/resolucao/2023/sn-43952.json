@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GfAjXt6jfv8tqRnvwVRrojDEIo%2b7p1v6jaTnZYOUpHxKyyI5yEhP0uHRQMKVu75VaWCiut7FIhwMCYWUwyV9Pvk2gPUTnwyfs%2bbXGr6%2bvekGCeM3FNBTDdZ9UOgLk4z7DKxI7fTmgeSr1D0qmHp1Kp3UNwCklnqX8UVQnT569TNoVlG6EUc6VlxZbYFDunnEzjGg0%2f1PrtkhNrFKx3DELdUX7lIWZb9PBk84Ov3T1k2pRFpWmnJz%2bPe%2fWp8L%2bxjk%2bMkpy%2bHWNGXd8jKujFJEposFCwbq9kyVjOyhJ4ug3OuGADTdPu2bEB5QwH6MlttrJpamg5h3FYpDHP%2bXI0gXRlCwYV44fesCLhEry4jQImg%3d&fich=DiplomasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "1c1078c10448c22aca421ebfa8d69a53be6d45d3cdef4ecf77f8a6b7fe4ac80e",
+  "legislatura": "XV",
+  "id": "43952",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2023-05-25",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2023",
+    "Id": "43952",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "151954",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338345a545a694d54426b4e79316d4d5451334c5451344e546774596a5931597930344e324d334d446b794d7a4a6b4d3251755a47396a&fich=8e6b10d7-f147-4858-b65c-87c709232d3d.doc&Inline=true",
+        "IniNr": "245",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XV",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c3245784e5441345a6a6c6b4c5455314d7a4d744e474e6c597930344d7a55324c546c6d5a6a4d354f4751335a6a526d4d53356b62324d3d&fich=a1508f9d-5533-4cec-8356-9ff398d7f4f1.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "947307",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-05-25",
+        "pubLeg": "XV",
+        "pubNr": "232",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/232S1/2023-05-25/2?pgs=2&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo o envolvimento de diversas entidades na recolha de dados sobre a realidade da violência contra raparigas e mulheres com deficiência",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
