@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 10337/2023
+Sumário: Aprova o Regulamento Geral de Taxas e Licenças e o Regulamento de Apoio às Coletividades e Associações sem Fins Lucrativos.
+Regulamento Geral de Taxas e Licenças e Regulamento de Apoio às Coletividades e Associações Sem Fins Lucrativos da Freguesia de Chã, Município de Montalegre
+Rui Pedro da Costa Gonçalves, Presidente da Freguesia de Chã, torna público para efeitos do disposto no artigo 56.º do Anexo I à Lei n.º 75/2013, de 12 de setembro e nos termos do artigo 139.º do Código do Procedimento Administrativo, que a Assembleia de Freguesia aprovou em sessão ordinária realizada no dia 29 de abril de 2023, sob proposta da Junta de Freguesia, aprovada em reunião de 16 de fevereiro de 2023, Regulamento Geral de Taxas e Licenças e Regulamento de Apoio às Coletividades e Associações Sem Fins Lucrativos da Freguesia de Chã, que entra em vigor no primeiro dia útil seguinte à publicação, na 2.ª série do Diário da República, e se encontra disponível, na secretaria da Junta de Freguesia e na página da internet.
+Mais se torna público que os projetos dos Regulamentos foram submetidos a consulta pública nos termos previstos no artigo 101.º do CPA, por publicação no Diário da República n.º 49, de 09 de março de 2023, 2.ª série, parte H, Aviso (extrato) n.º 5103/2023 e ainda por edital nos locais de estilo da Junta de Freguesia pelo prazo de 30 dias, não se tendo verificado qualquer sugestão no referido prazo.
+3 de maio de 2023. - O Presidente da Freguesia de Chã, Rui Pedro da Costa Gonçalves.
+316428415
