@@ -1,0 +1,19 @@
+# Resolução do Conselho do Governo Regional n.º 554/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 98/2023, de 2023-05-26
+
+**Sumário:** Autoriza a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a AFERAM - Associação de Folclore e Etnografia da Região Autónoma da Madeira, tendo em vista a execução de um conjunto de iniciativas diversas de animação, promoção e formação, no âmbito do folclore regional incluídas no projeto denominado ”Grupos de Folclore nos Eventos do Turismo da Madeira 2023”.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 554/2023
+Sumário: Autoriza a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a AFERAM - Associação de Folclore e Etnografia da Região Autónoma da Madeira, tendo em vista a execução de um conjunto de iniciativas diversas de animação, promoção e formação, no âmbito do folclore regional incluídas no projeto denominado ”Grupos de Folclore nos Eventos do Turismo da Madeira 2023”.
+Texto: Resolução n.º 554/2023 Considerando que o Dia Mundial do Turismo, a formação e a promoção no âmbito do Folclore Regional são iniciativas de grande importância para a animação turística da Região Autónoma da Madeira; Considerando que o projeto apresentado pela AFERAM – Associação de Folclore e Etnografia da Região Autónoma da Madeira, denominado “Grupos de Folclore nos Eventos do Turismo da Madeira 2023”, com iniciativas diversas de animação, promoção e formação a serem concretizadas entre os meses de maio e novembro de 2023, revestem-se de extrema importância para o desenvolvimento turístico-cultural da Região Autónoma da Madeira; Considerando que, a AFERAM – Associação de Folclore e Etnografia da Região Autónoma da Madeira, associação de reconhecido mérito e capacidade para executar o projeto por si apresentado, prossegue o objetivo de apoiar a política de Turismo do Governo Regional; Assim, ao abrigo do disposto do n.º 11 do artigo 34.º e do n.º 2 do artigo 35.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, em conjugação com a alínea d) do artigo 3.º e no artigo 7.º do Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto, e da Portaria n.º 78/2001, de 17 de julho, o Conselho do Governo reunido em plenário em 25 de maio de 2023, resolve:
+1. Autorizar a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a AFERAM – Associação de Folclore e Etnografia da Região Autónoma da Madeira, tendo em vista a execução de um conjunto de iniciativas diversas de animação, promoção e formação no âmbito do folclore regional incluídas no projeto ”Grupos de Folclore nos Eventos do Turismo da Madeira 2023”.
+2. Para a prossecução do projeto previsto no número anterior, conceder à AFERAM – Associação de Folclore e Etnografia da Região Autónoma da Madeira, uma comparticipação financeira que não excederá € 12.700,00 (doze mil e setecentos euros).
+3. Aprovar a minuta do protocolo, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-geral da Presidência, para a atribuição do referido apoio financeiro.
+4. Mandatar o Secretário Regional de Turismo e Cultura e a Diretora Regional do Turismo para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o protocolo, o qual produzirá efeitos desde a data da assinatura até 31 dezembro de 2023.
+5. As despesas resultantes do protocolo a celebrar têm cabimento orçamental na Secretaria 47, Capítulo 50, Divisão 01, Subdivisão 02, cl func. 047, Classificação Económica D.04.07.01. WA.00, fonte 381, prog. 043, med. 010, proj. 50389.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
