@@ -4,7 +4,7 @@
 
 1 - Os portos designados para a descarga ou transbordo de atum-rabilho (Thunnus thynnus), capturado na área regulamentar da Comissão Internacional para a Conservação dos Tunídeos do Atlântico (ICCAT), no Atlântico Este e Mediterrâneo, são:
 
-a) No Continente: Olhão, Peniche, Sesimbra e Viana do Castelo;
+a) No continente: Viana do Castelo, Matosinhos, Figueira da Foz, Peniche, Sesimbra, Sines e Olhão;
 
 b) Na Região Autónoma da Madeira: Funchal e Caniçal;
 
