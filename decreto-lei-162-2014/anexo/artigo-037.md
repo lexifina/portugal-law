@@ -32,10 +32,14 @@ j) Despesas com ações de demonstração que decorram de projetos de investiga�
 
 5 - As despesas referidas na alínea b) do n.º 1, quando digam respeito a pessoal com habilitações literárias mínimas do nível 8 do Quadro Nacional de Qualificações, são consideradas em 120 % do seu quantitativo.
 
-6 - As despesas que digam respeito a atividades de investigação e desenvolvimento associadas a projetos de conceção ecológica de produtos são consideradas em 110 %.
+6 - As despesas que digam respeito a atividades de investigação e desenvolvimento associadas a projetos de conceção ecológica de produtos são consideradas em 120 %.
 
 7 - (Revogado.);
 
 8 - (Revogado.);
 
 9 - Para efeitos do previsto na alínea f) do n.º 1, considera-se empresa dedicada sobretudo a investigação e desenvolvimento aquela que cumpra os requisitos para o reconhecimento como empresa do setor da tecnologia, previstos no n.º 1 do artigo 3.º da Portaria n.º 195/2018, de 5 de julho, ainda que tenham sido constituídas há mais de seis anos e independentemente de terem obtido ou solicitado tal reconhecimento.
+
+10 - O disposto na alínea f) do n.º 1 não é aplicável às operações realizadas entre entidades com relações especiais nos termos do artigo 63.º do Código do IRC.
+
+11 - Para efeitos do número anterior considera-se existirem relações especiais entre o fundo de investimento e a respetiva sociedade gestora.

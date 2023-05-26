@@ -4,7 +4,7 @@
 
 1 - Cabe à Agência Nacional de Inovação, S. A., o reconhecimento da idoneidade da entidade em matéria de investigação e desenvolvimento a que se referem as alíneas e) e f) do n.º 1 do artigo 37.º
 
-2 - O reconhecimento da idoneidade da entidade nos termos previstos no número anterior é válido até ao oitavo exercício seguinte àquele em que foi pedido.
+2 - O reconhecimento da idoneidade da entidade nos termos previstos no número anterior é válido até ao décimo segundo exercício seguinte àquele em que foi pedido.
 
 3 - As entidades cuja idoneidade tenha sido reconhecida há mais de oito anos são objeto de uma reavaliação oficiosa, por parte da entidade referida no n.º 1, destinada a verificar a manutenção dos pressupostos que determinaram o reconhecimento.
 
