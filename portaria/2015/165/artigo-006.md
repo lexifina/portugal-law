@@ -14,8 +14,8 @@ d) Não terem sido condenados em processo-crime por factos que envolvam disponib
 
 e) Deterem um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor;
 
-f) Disporem de meios materiais necessários à realização das atividades que se propõem realizar;
+f) (Revogada.)
 
-g) Disporem de recursos humanos suficientes à realização das atividades propostas no plano de ação, com habilitação nas áreas de informação a transferir, conferida por grau académico e competências pedagógicas, quando aplicável, e experiência profissional não inferior a três anos ou formação profissional relevante obtida nos últimos cinco anos.
+g) (Revogada.)
 
 2 - A condição prevista na alínea b) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.
