@@ -28,13 +28,15 @@ c) Nas contraordenações por uso ou transmissão de informação privilegiada e
 
 3 - As contraordenações previstas nos artigos seguintes respeitam tanto à violação de deveres consagrados neste Código e sua regulamentação, como à violação de deveres consagrados em outras leis, nacionais ou da União Europeia, e sua regulamentação, que digam respeito às seguintes matérias:
 
-a) Instrumentos financeiros, ofertas públicas relativas a valores mobiliários, formas organizadas de negociação de instrumentos financeiros, sistemas de liquidação e compensação, contraparte central, intermediação financeira, titularização de créditos, capital de risco, fundos de capital de risco ou entidades legalmente habilitadas a administrar fundos de capital de risco, notação de risco, elaboração, administração e utilização de índices de referência e fornecimento de dados de cálculo para os mesmos e regime da informação e de publicidade relativa a qualquer destas matérias;
+a) Instrumentos financeiros, ofertas públicas relativas a valores mobiliários, formas organizadas de negociação de instrumentos financeiros, sistemas de liquidação e compensação, contraparte central, intermediação financeira, titularização de créditos, notação de risco, elaboração, administração e utilização de índices de referência e fornecimento de dados de cálculo para os mesmos e regime da informação e de publicidade relativa a qualquer destas matérias;
 
 b) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral ou organizado, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários, de registo inicial ou de administração de sistema de registo centralizado, contrapartes centrais ou sociedades gestoras de participações sociais nestas entidades, empresas de investimento e prestadores de serviços de comunicação de dados;
 
 c) Ao regime relativo ao abuso de mercado;
 
-d) Deveres dos particulares em relação à CMVM enquanto supervisor.
+d) Organismos de investimento coletivo;
+
+e) Deveres dos particulares em relação à CMVM enquanto supervisor.
 
 4 - Se a lei ou o regulamento exigirem que dever seja cumprido num determinado prazo considera-se que existe incumprimento logo que o prazo fixado tenha sido ultrapassado.
 

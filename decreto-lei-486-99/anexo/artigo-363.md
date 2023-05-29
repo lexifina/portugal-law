@@ -6,13 +6,13 @@
 
 a) As entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral ou organizado, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários, de registo inicial ou de administração de sistema de registo centralizado, as contrapartes centrais, as empresas de investimento e os prestadores de serviços de comunicação de dados de negociação;
 
-b) As instituições de investimento colectivo;
+b) Os organismos de investimento coletivo;
 
 c) [Revogada];
 
-d) As sociedades gestoras de organismos de investimento coletivo, as sociedades gestoras de fundos de capital de risco e as sociedades gestoras de fundos de titularização de créditos;
+d) As sociedades gestoras de organismos de investimento coletivo, as sociedades de capital de risco, as sociedades gestoras de fundos de titularização de créditos e as sociedades de titularização de créditos;
 
-e) As sociedades de capital de risco, as sociedades de empreendedorismo social e as sociedades de titularização de créditos.
+e) (Revogada.)
 
 2 - A supervisão prudencial é orientada pelos seguintes princípios:
 

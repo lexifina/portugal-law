@@ -8,7 +8,7 @@ a) Devam ser submetidos à CMVM;
 
 b) Devam ser publicados no âmbito de pedido de admissão à negociação em mercado regulamentado; ou
 
-c) Respeitem a instituições de investimento colectivo.
+c) Respeitem a organismos de investimento coletivo.
 
 2 - O revisor oficial de contas e a sociedade de revisor oficial de contas referidos no número anterior são, para efeitos deste Código, designados por auditor, e por auditoria a atividade por eles desenvolvida.
 

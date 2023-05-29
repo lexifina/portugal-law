@@ -22,7 +22,7 @@ b) Os serviços auxiliares dos serviços e atividades de investimento;
 
 c) [Revogada];
 
-d) O exercício das funções de depositário de instituições de investimento coletivo.
+d) O exercício das funções de depositário de organismo de investimento coletivo.
 
 2 - Só os intermediários financeiros podem exercer, a título profissional, atividades de intermediação financeira.
 

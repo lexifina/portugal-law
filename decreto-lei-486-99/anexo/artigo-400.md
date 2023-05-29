@@ -19,3 +19,5 @@ f) Contraordenação grave, quando se trate de violação do regime de conflitos
 g) Contraordenação muito grave, quando se trate de violação de deveres relativos a ofertas de valores mobiliários ao público ou à admissão à negociação;
 
 h) Contraordenação muito grave, quando se trate de violação de deveres relativos a matéria prudencial por entidades sujeitas à supervisão prudencial da CMVM.
+
+i) Contraordenação grave, quando se trate de violação de deveres relativos aos organismos de investimento coletivo.
