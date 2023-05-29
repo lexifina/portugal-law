@@ -10,7 +10,7 @@ b) Situação, estrutura e provável evolução do emprego na empresa ou no esta
 
 c) Decisão susceptível de desencadear mudança substancial na organização do trabalho ou nos contratos de trabalho;
 
-d) Parâmetros, os critérios, as regras e as instruções em que se baseiam os algoritmos ou outros sistemas de inteligência artificial que afetam a tomada de decisões sobre o acesso e a manutenção do emprego, assim como condições de trabalho, incluindo a elaboração de perfis e o controlo da atividade profissional.
+d) Parâmetros, critérios, regras e instruções em que se baseiam os algoritmos ou outros sistemas de inteligência artificial que afetam a tomada de decisões sobre o acesso e a manutenção do emprego, assim como condições de trabalho, incluindo a elaboração de perfis e o controlo da atividade profissional.
 
 2 - É aplicável à informação e consulta de delegados sindicais o disposto nos n.os 1, 2, 4, 5, 6 e 7 do artigo 427.º
 

@@ -6,7 +6,7 @@
 
 2 - São integralmente compensadas pelo empregador todas as despesas adicionais que, comprovadamente, o trabalhador suporte como direta consequência da aquisição ou uso dos equipamentos e sistemas informáticos ou telemáticos necessários à realização do trabalho, nos termos do número anterior, incluindo os acréscimos de custos de energia e da rede instalada no local de trabalho em condições de velocidade compatível com as necessidades de comunicação de serviço, assim como os custos de manutenção dos mesmos equipamentos e sistemas.
 
-3 - O contrato individual de trabalho e o contrato coletivo de trabalho devem fixar na celebração do acordo para prestação de teletrabalho o valor da compensação devida ao trabalhador pelas despesas adicionais.
+3 - O contrato individual de trabalho e o instrumento de regulamentação coletiva de trabalho aplicável devem fixar na celebração do acordo para prestação de teletrabalho o valor da compensação devida ao trabalhador pelas despesas adicionais.
 
 4 - Para efeitos do presente artigo e na ausência de acordo entre as partes sobre um valor fixo nos termos do número anterior, consideram-se despesas adicionais as correspondentes à aquisição de bens e ou serviços de que o trabalhador não dispunha antes da celebração do acordo a que se refere o artigo 166.º, assim como as determinadas por comparação com as despesas homólogas do trabalhador no último mês de trabalho em regime presencial.
 

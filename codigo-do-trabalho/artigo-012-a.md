@@ -14,7 +14,7 @@ d) A plataforma digital restringe a autonomia do prestador de atividade quanto �
 
 e) A plataforma digital exerce poderes laborais sobre o prestador de atividade, nomeadamente o poder disciplinar, incluindo a exclusão de futuras atividades na plataforma através de desativação da conta;
 
-f) Os equipamentos e instrumentos de trabalho utilizados pertencem à plataforma digital ou são por estes explorados através de contrato de locação.
+f) Os equipamentos e instrumentos de trabalho utilizados pertencem à plataforma digital ou são por esta explorados através de contrato de locação.
 
 2 - Para efeitos do número anterior, entende-se por plataforma digital a pessoa coletiva que presta ou disponibiliza serviços à distância, através de meios eletrónicos, nomeadamente sítio da Internet ou aplicação informática, a pedido de utilizadores e que envolvam, como componente necessária e essencial, a organização de trabalho prestado por indivíduos a troco de pagamento, independentemente de esse trabalho ser prestado em linha ou numa localização determinada, sob termos e condições de um modelo de negócio e uma marca próprios.
 
