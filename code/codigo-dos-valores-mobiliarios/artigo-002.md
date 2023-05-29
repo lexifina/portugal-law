@@ -38,6 +38,6 @@ i) O regime de supervisão e sancionatório relativo aos instrumentos e às acti
 
 6 - (Revogado).
 
-7 - Sempre que estejam em causa unidades de participação, as referências feitas no presente Código ao emitente devem considerar-se feitas à entidade gestora da instituição de investimento colectivo.
+7 - Sempre que estejam em causa unidades de participação, as referências feitas no presente Código ao emitente respeitam à sociedade gestora do organismo de investimento coletivo.
 
-8 - As referências feitas no presente Código a unidades de participação devem ser entendidas de modo a abranger as ações de instituições de investimento coletivo, salvo se o contrário resultar da própria disposição.
+8 - As referências feitas no presente Código a unidades de participação abrangem as ações de sociedades de investimento coletivo, salvo se o contrário resultar da própria disposição.

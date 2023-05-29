@@ -6,7 +6,7 @@
 
 a) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral ou organizado, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários, de registo inicial ou de administração de sistema de registo centralizado e contrapartes centrais;
 
-b) Intermediários financeiros, sociedades gestoras de organismos de investimento coletivo e consultores para investimento;
+b) Intermediários financeiros, sociedades gestoras de organismos de investimento coletivo, sociedades de capital de risco e consultores para investimento;
 
 c) Emitentes de valores mobiliários;
 
@@ -32,9 +32,9 @@ m) Pessoas que exerçam a atividade de negociação algorítmica ou que sejam me
 
 n) Prestadores de serviços de comunicação de dados de negociação;
 
-o) Instituições de investimento coletivo sob forma societária;
+o) Sociedades de investimento coletivo;
 
-p) Sociedades de capital de risco, sociedades gestoras de fundos de capital de risco e sociedades de empreendedorismo social;
+p) (Revogada.)
 
 q) Consultores em matéria de votação;
 

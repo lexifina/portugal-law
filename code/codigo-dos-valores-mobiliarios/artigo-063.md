@@ -10,9 +10,9 @@ b) Os valores mobiliários distribuídos através de oferta pública e outros qu
 
 c) Os valores mobiliários emitidos conjuntamente por mais de uma entidade;
 
-d) As unidades de participação em instituição de investimento colectivo.
+d) As unidades de participação em organismo de investimento coletivo.
 
-2 - O intermediário financeiro registador é indicado pelo emitente ou pela entidade gestora da instituição de investimento colectivo, que suportam os custos da eventual mudança de entidade registadora.
+2 - O intermediário financeiro registador é indicado pelo emitente ou pela sociedade gestora, que suportam os custos da eventual mudança de entidade registadora.
 
 3 - Se o emitente for um intermediário financeiro, o registo a que se refere o presente artigo é feito noutro intermediário financeiro.
 

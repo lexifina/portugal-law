@@ -44,4 +44,4 @@ c) Emitidos por entidades que detenham participação qualificada no intermediá
 
 d) Emitidos por entidades que se encontrem em relação de domínio ou de grupo com as entidades referidas na alínea anterior;
 
-e) Geridos por sociedades gestoras de organismos de investimento coletivo que tenham com o intermediário financeiro uma das relações previstas nas alíneas anteriores.
+e) Geridos por sociedade gestora de organismo de investimento coletivo ou sociedade de capital de risco que tenham com o intermediário financeiro uma das relações previstas nas alíneas anteriores.
