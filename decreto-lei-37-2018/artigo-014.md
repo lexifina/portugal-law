@@ -16,11 +16,11 @@ a) O preço das aquisições ou das empreitadas;
 
 b) Os trabalhos e fornecimentos necessários às soluções de acessibilidades e de sustentabilidade ambiental que não estejam incluídos nos fornecimentos da empreitada;
 
-c) As prestações de serviços relacionadas com projetos, fiscalização e segurança da obra, bem como os encargos com a publicitação prevista no n.º 4 do artigo 18.º;
+c) As prestações de serviços relacionadas com projetos, sondagens, fiscalização e segurança da obra, bem como os encargos com a publicitação prevista no n.º 4 do artigo 18.º;
 
-d) Os atos notariais e de registo de que dependa a regular contratação e garantia dos apoios;
+d) Os atos notariais e de registo de que dependa a regular contratação e garantia dos apoios, designadamente despesas com escrituras de habilitação de herdeiros e respetivos registos, assim como despesas com escrituras de propriedade horizontal e sucessivos registos;
 
-e) As despesas com o arrendamento de frações ou de prédios para alojamento temporário de pessoas e agregados, no âmbito da realização de obras financiadas ao abrigo do 1.º Direito, quando esse alojamento for imprescindível para a promoção das mesmas;
+e) As despesas com o alojamento temporário em soluções dignas, de arrendamento habitacional, aquisição e arrendamento de alojamentos provisórias e empreendimento turístico ou similar, de pessoas e agregados, no âmbito da realização de obras financiadas ao abrigo do 1.º Direito, quando esse alojamento for imprescindível para a promoção das mesmas, em função das despesas efetivas com os valores máximos de referência aplicáveis ao arrendamento habitacional nos termos do Decreto-Lei n.º 29/2018, de 4 de maio, na sua redação atual, com as necessárias adaptações;
 
 f) Os atos e os serviços necessários à constituição de uma associação de moradores ou de uma cooperativa de habitação e construção, nos termos da alínea c) do n.º 2 do artigo 11.º
 

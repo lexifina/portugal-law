@@ -6,6 +6,10 @@
 
 2 - As comparticipações e os empréstimos à aquisição são, em regra, disponibilizados no ato de celebração das escrituras, sem prejuízo da possibilidade de adiantamento das verbas necessárias para pagamento de quantias devidas a título de sinal ou de princípio de pagamento de contratos-promessa.
 
-3 - As despesas elegíveis não abrangidas pelo disposto nos números anteriores, relativas a atos ou contratos complementares do contrato principal, tais como as relativas a prestações de serviços para elaboração de projetos e à constituição de uma cooperativa de habitação e construção ou de uma associação de moradores, podem ser objeto de adiantamento do financiamento.
+3 - Nos casos em que, aquando da celebração dos contratos-promessa de compra e venda, ainda não tenha sido emitida a autorização de utilização, sem prejuízo da celebração do contrato de financiamento, a disponibilização das comparticipações e dos empréstimos só pode ocorrer após a emissão daquela.
 
-4 - Em qualquer dos casos previstos nos números anteriores, quando as obras ou contratos estejam em execução ou concluídos, as verbas são disponibilizadas em função dos comprovativos das despesas realizadas, podendo o IHRU, I. P., fazer depender cada nova libertação de verbas da apresentação de documentos que comprovem a boa aplicação dos montantes recebidos.
+4 - As despesas elegíveis não abrangidas pelo disposto nos números anteriores, relativas a atos ou contratos complementares do contrato principal, tais como as relativas a prestações de serviços para elaboração de projetos e à constituição de uma cooperativa de habitação e construção ou de uma associação de moradores, podem ser objeto de adiantamento do financiamento.
+
+5 - Sem prejuízo do previsto nos números anteriores, a primeira prestação corresponde a 25 % do financiamento e assume a natureza de adiantamento, disponibilizado após a celebração do contrato de financiamento, apenas podendo ser de valor superior se corresponder a despesas realizadas, devidamente comprovadas.
+
+6 - Em qualquer dos casos previstos nos números anteriores, quando as obras ou contratos estejam em execução ou concluídos, as verbas são disponibilizadas em função dos comprovativos das despesas realizadas, podendo o IHRU, I. P., fazer depender cada nova libertação de verbas da apresentação de documentos que comprovem a boa aplicação dos montantes recebidos.
