@@ -1,0 +1,16 @@
+Edital n.º 891/2023
+Sumário: Reinício do procedimento de alteração do Plano de Pormenor da Zona Industrial do Canhoso.
+Vítor Manuel Pinheiro Pereira, Presidente da Câmara Municipal da Covilhã, torna público, que a Câmara Municipal da Covilhã, deliberou, em reunião de 27 de fevereiro de 2023, com abstenção dos Senhores Vereadores Pedro Miguel Santos Farromba, Ricardo Miguel Correia Leitão Ferreira da Silva e Marta Maria Tomaz Morais Alçada Bom Jesus, reiniciar o procedimento de Alteração (exclusivamente regulamentar) do Plano de Pormenor da Zona Industrial do Canhoso, publicado no Diário da República, 2.ª série, n.º 170, de 3 de setembro de 2012, através do Aviso n.º 11712/2012, nos seguintes termos:
+Com aproveitamento de todo o conteúdo material e documental produzido até ao momento (incluindo Termos de Referência e Relatório de Avaliação Ambiental Estratégica), e de todos os atos e formalidades praticados, nos termos do n.º 7 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) cuja revisão foi aprovada pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação em vigor;
+Com a fixação, nos termos e para os efeitos do disposto no artigo 76.º do RJIGT, do prazo de 180 dias para a sua conclusão, prazo esse cuja contagem se iniciará a partir do dia 29-03-2023, inclusive;
+Com a não sujeição do procedimento de revisão do plano a procedimento de Avaliação Ambiental Estratégica (AAE), de acordo com o n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação em vigor, conforme Relatório de Fundamentação da Dispensa de AAE.
+E para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos do costume e publicitados nos termos legais.
+27 de abril de 2023. - O Presidente da Câmara Municipal da Covilhã, Vítor Manuel Pinheiro Pereira.
+Deliberação
+A Câmara deliberou, com abstenção dos Senhores Vereadores Pedro Miguel Santos Farromba, Ricardo Miguel Correia Leitão Ferreira da Silva e Marta Maria Tomaz Morais Alçada Bom Jesus, e nos termos da proposta dos serviços, reiniciar o procedimento de Alteração (exclusivamente regulamentar) do Plano de Pormenor da Zona Industrial do Canhoso, nos seguintes termos:
+Com aproveitamento de todo o conteúdo material e documental produzido até ao momento (incluindo Termos de Referência e Relatório de Dispensa de Avaliação Ambiental Estratégica), e de todos os atos e formalidades praticados, nos termos do n.º 7 do artigo 76.º do RJIGT;
+Com a fixação, nos termos e para os efeitos do disposto no artigo 76.º do RJIGT, do prazo de 180 dias para a sua conclusão, prazo este cuja contagem se iniciará a partir do dia 29-03-2023, inclusive;
+Com a não sujeição do procedimento de revisão do plano a procedimento de Avaliação Ambiental Estratégica (AAE), de acordo com o n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação em vigor, cf. Relatório de Fundamentação de Dispensa de AAE;
+Com publicação da decisão sob a forma de Edital no Diário da República (2.ª série), nos termos e para os efeitos descritos no n.º 1 do artigo 76.º e na alínea c) do n.º 4 do artigo 191.º, ambos do RJIGT.
+27 de fevereiro de 2023. - O Presidente da Câmara Municipal da Covilhã, Vítor Manuel Pinheiro Pereira. - A Diretora do Departamento de Administração Geral e Coordenação Jurídica, Graça Robbins.
+616448488
