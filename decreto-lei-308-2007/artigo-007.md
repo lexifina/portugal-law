@@ -6,15 +6,15 @@
 
 a) Todos os jovens ou membros do agregado jovem terem ou virem a ter residência permanente na habitação a que se refere a candidatura;
 
-b) Nenhum dos jovens ou membros do agregado jovem ser proprietário ou arrendatário para fins habitacionais de outro prédio ou fracção habitacional;
+b) Nenhum dos jovens ou membros do agregado jovem ser proprietário ou arrendatário para fins habitacionais de outro prédio ou fração habitacional;
 
-c) Nenhum dos jovens ou membros do agregado jovem ser parente ou afim do senhorio na linha recta ou linha colateral;
+c) Nenhum dos jovens ou membros do agregado jovem ser parente ou afim do senhorio na linha reta ou linha colateral;
 
 d) O RM do jovem ou do agregado jovem não ser superior a quatro vezes o valor da renda máxima admitida;
 
 e) A soma dos rendimentos brutos auferidos pelo jovem e por todos os membros do agregado jovem ser compatível com uma taxa de esforço máxima de 60 %;
 
-f) Em qualquer caso, o RM do jovem ou do agregado, corrigido nos termos do n.º 3 do artigo 5.º, não exceder quatro vezes a retribuição mínima mensal garantida (RMMG) na acepção prevista no n.º 1 do artigo 273.º do Código do Trabalho.
+f) Em qualquer caso, o RM do jovem ou do agregado, corrigido nos termos do n.º 3 do artigo 5.º, não exceder quatro vezes a retribuição mínima mensal garantida (RMMG) na aceção prevista no n.º 1 do artigo 273.º do Código do Trabalho.
 
 2 - São, ainda, requisitos da candidatura:
 
@@ -24,7 +24,7 @@ b) Apresentar o contrato-promessa com a definição da futura renda, até ao val
 
 c) A tipologia da habitação ser adequada à composição do agregado jovem ou do número de jovens em coabitação, nos termos a definir em portaria.
 
-3 - O acesso ao Porta 65 - Jovem depende, ainda, da completa instrução do pedido de candidatura com os elementos e documentos identificados na portaria prevista no n.º 3 do artigo anterior, entre os quais se inclui, quando relevante para efeitos de hierarquização das candidaturas nos termos do n.º 2 do artigo 10.º, a informação relativa ao rendimento mensal dos ascendentes dos beneficiários, na qualidade de pessoas legalmente obrigadas à prestação de alimentos nos termos do artigo 2009.º do Código Civil, aferido por aplicação das regras estabelecidas para a determinação do rendimento mensal do jovem ou agregado jovem.
+3 - O acesso ao Porta 65 - Jovem depende, ainda, da completa instrução do pedido de candidatura com os elementos e documentos identificados na portaria prevista no n.º 3 do artigo anterior.
 
 4 - A tipologia da habitação para cujo arrendamento é concedida a subvenção pode ser a imediatamente superior à prevista na alínea c) do n.º 2, nos seguintes casos:
 
@@ -38,4 +38,4 @@ b) Sempre a que a habitação arrendada ou a arrendar disponha de uma ou mais as
 
 7 - No caso de apresentação de contrato-promessa de arrendamento, conforme previsto no n.º 2, o pagamento do primeiro mês de subvenção fica condicionado ao registo no portal das finanças do contrato de arrendamento, no prazo de 15 dias corridos a contar da data da publicação dos resultados da candidatura, sob pena de exclusão.
 
-8 - O beneficiário do apoio deve cumprir os requisitos a que se referem as alíneas a) e b) do n.º 1 durante todo o período em que recebe a subvenção, devendo comunicar ao IHRU qualquer alteração.
+8 - O beneficiário do apoio deve cumprir os requisitos a que se referem as alíneas a) e b) do n.º 1 durante todo o período em que recebe a subvenção, devendo comunicar ao IHRU, I. P., qualquer alteração.
