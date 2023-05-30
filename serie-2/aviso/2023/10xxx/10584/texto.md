@@ -1,0 +1,8 @@
+Aviso n.º 10584/2023
+Sumário: Projeto do Regulamento do Programa Municipal de Apoio ao Arrendamento do Município de Oliveira de Frades - período de consulta pública.
+Projeto do Regulamento do Programa Municipal de Apoio ao Arrendamento do Município de Oliveira de Frades
+João Carlos Ferreira Valério, Presidente da Câmara Municipal de Oliveira de Frades, torna público, nos termos e para os efeitos do disposto na alínea c) do n.º 3 do artigo 100.º e do n.º 1 do artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, que a Câmara Municipal deliberou, em reunião realizada no dia 13 de abril de 2023, submeter a consulta pública, pelo prazo de trinta dias úteis, contados do dia seguinte ao da presente publicação no Diário da República, o Projeto do Regulamento do Programa Municipal de Apoio ao Arrendamento.
+Torna-se ainda público que os interessados poderão consultar os referidos elementos na página eletrónica do Município de Oliveira de Frades (www.cm-ofrades.com) e no respetivo edifício dos Paços do Município, nos serviços administrativos da Divisão de Planeamento, Urbanismo e Ambiente, durante o horário normal de expediente, das 9 horas às 17 horas e 30 minutos.
+Os interessados deverão dirigir as suas sugestões, mediante requerimento dirigido ao Presidente da Câmara Municipal, devidamente identificado, diretamente nos serviços da Câmara Municipal, através de ofício, para o endereço Largo Dr. Joaquim d'Almeida, 3680-111 Oliveira de Frades, ou para o seguinte endereço de correio eletrónico: geral@cm-ofrades.pt.
+4 de maio de 2023. - O Presidente da Câmara Municipal, João Carlos Ferreira Valério.
+316436418
