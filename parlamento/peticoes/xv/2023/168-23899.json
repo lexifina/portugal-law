@@ -1,0 +1,551 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23899",
+  "numero": "168",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-05-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-09-22",
+            "entidades": null,
+            "id": "138493",
+            "tipo": null,
+            "titulo": "Audição em 2023-09-22 com Peticionários da Petição n.º 168/XV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-01-10",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915201",
+                "obs": null,
+                "pag": [
+                  "18-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-01-13",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/022/2024-01-13/18?pgs=18-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-06-21",
+        "DataArquivo": "2024-01-10",
+        "DataBaixaComissao": "2023-06-02",
+        "DataEnvioPAR": "2024-01-11",
+        "DataReaberta": "2023-06-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-06-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e515a585270593246764c32566a4d5467774e7a6b314c575a6c4e6a6b744e4445315a4331684d57597a4c5455304d4746684e6a526d5a5746694d4335775a47593d&fich=ec180795-fe69-415d-a1f3-540aa64feab0.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-01-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e515a585270593246764c325531596a55794f5449334c575133595749744e47497a4e7930344d4467784c5759335a6a4d795a54513459574d785a6935775a47593d&fich=e5b52927-d7ab-4b37-8081-f7f32e48ac1f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8333",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-01-10",
+            "dataNomeacao": "2023-06-21",
+            "gp": "PS",
+            "id": "6013",
+            "motivoCessacao": "Aprovação do Relatório final em reunião da comissão de Saúde",
+            "nome": "Hugo Costa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-01-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-06-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e7a59305a54426b4d575174596a4a6c4e4330305a4449794c5467774e3259744d5759354f4459304d4445334e324d324c6e426b5a673d3d&fich=764e0d1d-b2e4-4d22-807f-1f98640177c6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "304281",
+      "314437",
+      "314496",
+      "314536"
+    ],
+    "Iniciativasoriginadas": [
+      "304281",
+      "314437",
+      "314496",
+      "314536"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/85"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "Sumario": "Por médicos de família no Centro de Saúde de Ourém e nos seus polos  - (Anabela Henriques Pereira e outros); Recomenda ao Governo a implementação de um serviço de atendimento permanente em Ourém e de medidas para atrair e fixar médicos de família na região; Recomenda ao Governo o reforço dos cuidados de saúde primários no concelho de Ourém; Acesso a médico de família e a equipa de saúde familiar no concelho de Ourém; Recomenda ao Governo a contratação de médicos de família para reforçar a resposta da rede de cuidados primários no Serviço Nacional de Saúde (SNS).\n\n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 411/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/86"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "Sumario": "Por médicos de família no Centro de Saúde de Ourém e nos seus polos  - (Anabela Henriques Pereira e outros); Recomenda ao Governo a implementação de um serviço de atendimento permanente em Ourém e de medidas para atrair e fixar médicos de família na região; Recomenda ao Governo o reforço dos cuidados de saúde primários no concelho de Ourém; Acesso a médico de família e a equipa de saúde familiar no concelho de Ourém; Recomenda ao Governo a contratação de médicos de família para reforçar a resposta da rede de cuidados primários no Serviço Nacional de Saúde (SNS).\n\n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 498/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/87"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/73?pgs=73&org=PLC"
+              }
+            ],
+            "Sumario": "Por médicos de família no Centro de Saúde de Ourém e nos seus polos  - (Anabela Henriques Pereira e outros); Recomenda ao Governo a implementação de um serviço de atendimento permanente em Ourém e de medidas para atrair e fixar médicos de família na região; Recomenda ao Governo o reforço dos cuidados de saúde primários no concelho de Ourém; Acesso a médico de família e a equipa de saúde familiar no concelho de Ourém; Recomenda ao Governo a contratação de médicos de família para reforçar a resposta da rede de cuidados primários no Serviço Nacional de Saúde (SNS).\n\n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 524/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/88"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/74?pgs=74&org=PLC"
+              }
+            ],
+            "Sumario": "Por médicos de família no Centro de Saúde de Ourém e nos seus polos  - (Anabela Henriques Pereira e outros); Recomenda ao Governo a implementação de um serviço de atendimento permanente em Ourém e de medidas para atrair e fixar médicos de família na região; Recomenda ao Governo o reforço dos cuidados de saúde primários no concelho de Ourém; Acesso a médico de família e a equipa de saúde familiar no concelho de Ourém; Recomenda ao Governo a contratação de médicos de família para reforçar a resposta da rede de cuidados primários no Serviço Nacional de Saúde (SNS).\n\n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 551/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/89"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "Sumario": "Por médicos de família no Centro de Saúde de Ourém e nos seus polos  - (Anabela Henriques Pereira e outros); Recomenda ao Governo a implementação de um serviço de atendimento permanente em Ourém e de medidas para atrair e fixar médicos de família na região; Recomenda ao Governo o reforço dos cuidados de saúde primários no concelho de Ourém; Acesso a médico de família e a equipa de saúde familiar no concelho de Ourém; Recomenda ao Governo a contratação de médicos de família para reforçar a resposta da rede de cuidados primários no Serviço Nacional de Saúde (SNS).\n\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/90"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "Sumario": "Por médicos de família no Centro de Saúde de Ourém e nos seus polos  - (Anabela Henriques Pereira e outros); Recomenda ao Governo a implementação de um serviço de atendimento permanente em Ourém e de medidas para atrair e fixar médicos de família na região; Recomenda ao Governo o reforço dos cuidados de saúde primários no concelho de Ourém; Acesso a médico de família e a equipa de saúde familiar no concelho de Ourém; Recomenda ao Governo a contratação de médicos de família para reforçar a resposta da rede de cuidados primários no Serviço Nacional de Saúde (SNS).\n\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-01-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/78/91"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "414567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-01-23",
+                "pubLeg": "XVI",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "Sumario": "Por médicos de família no Centro de Saúde de Ourém e nos seus polos  - (Anabela Henriques Pereira e outros); Recomenda ao Governo a implementação de um serviço de atendimento permanente em Ourém e de medidas para atrair e fixar médicos de família na região; Recomenda ao Governo o reforço dos cuidados de saúde primários no concelho de Ourém; Acesso a médico de família e a equipa de saúde familiar no concelho de Ourém; Recomenda ao Governo a contratação de médicos de família para reforçar a resposta da rede de cuidados primários no Serviço Nacional de Saúde (SNS).\n\n",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23899",
+    "PetAssunto": "Por Médicos de Família no Centro de Saúde Ourém e nos seus Polos",
+    "PetDataEntrada": "2023-05-31",
+    "PeticoesAssociadas": null,
+    "PetId": "23899",
+    "PetLeg": "XV",
+    "PetNr": "168",
+    "PetNrAssinaturas": "8811",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36649",
+        "obs": null,
+        "pag": [
+          "71-78"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-01-23",
+        "pubLeg": "XVI",
+        "pubNr": "78",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/078/2025-01-23/71?pgs=71-78&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915204",
+        "obs": null,
+        "pag": [
+          "34-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-06-24",
+        "pubLeg": "XV",
+        "pubNr": "90",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/01/090/2023-06-24/34?pgs=34-35&org=PLC"
+      }
+    ]
+  }
+}
