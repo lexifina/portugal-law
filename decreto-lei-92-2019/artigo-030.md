@@ -1,0 +1,17 @@
+# Artigo 30.º
+
+### Procedimentos fronteiriços
+
+1 - Quando detetada, em mercadorias apresentadas para inspeção nos Postos de Inspeção Fronteiriços (PIF), veterinários ou fitossanitários, a presença de espécimes vivos ou propágulos viáveis de espécies incluídas na Lista Nacional de Espécies Invasoras, as mesmas são rejeitadas pela autoridade veterinária ou fitossanitária e o seu importador ou representante é notificado para decidir, num prazo não superior a 48 horas, se os espécimes em causa são destruídos ou devolvidos ao país de origem.
+
+2 - No âmbito das suas atribuições, cabe às autoridades aduaneiras, quer nos terminais de passageiros de portos, quer nos terminais de aeroportos, efetuar controlos visando detetar a presença de plantas ou animais vivos de espécies exóticas e, caso os detetem, comunicar este facto às autoridades competentes, que procedem à sua identificação, e, sendo espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, determinam a sua rejeição, sendo o seu detentor notificado para decidir, num prazo não superior a 48 horas, se os espécimes em causa são destruídos ou devolvidos ao país de origem.
+
+3 - Quando detetada, em mercadorias apresentadas para inspeção nos PIF, a presença acidental, como clandestinos ou contaminantes, de espécimes vivos ou propágulos viáveis de espécies exóticas, as mesmas são retidas pelas autoridades competentes, que procedem à sua identificação e, caso se trate de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, determinam a rejeição das mercadorias em causa e notificam o seu importador ou representante para decidir, num prazo não superior a 48 horas, se as mesmas são destruídas ou devolvidas ao país de origem ou, caso haja garantia de que ficam livres dos espécimes clandestinos ou contaminantes detetados e dos seus propágulos viáveis, limpas e desinfetadas.
+
+4 - Quando, ao procederem aos respetivos controlos de desalfandegamento, as autoridades aduaneiras detetarem nas mercadorias sujeitas a verificação a presença de espécimes vivos ou propágulos viáveis suspeitos de pertencerem a espécies exóticas, e que não foram apresentados a um PIF, as autoridades aduaneiras suspendem a autorização de saída dos produtos e comunicam o facto às autoridades competentes, que procedem à sua identificação, e, caso se trate de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, determinam a rejeição das mercadorias em causa, sendo o seu importador ou representante notificado para decidir, num prazo não superior a 48 horas, se os espécimes em causa são destruídos ou devolvidos ao país de origem.
+
+5 - A autoridade competente comunica à alfândega a decisão do importador das mercadorias ou detentor dos espécimes e, consoante a mesma, é responsável conjuntamente com as autoridades aduaneiras pela execução e supervisão da destruição ou eutanásia dos espécimes, da limpeza e desinfeção ou destruição das mercadorias ou da devolução dos espécimes ou das mercadorias em causa ao país de origem.
+
+6 - Os custos resultantes da estadia, eutanásia, destruição, reexpedição, limpeza, desinfeção ou outras medidas destinadas a eliminar os espécimes detetados ou seus propágulos ficam a cargo do importador ou representante das mercadorias ou do detentor dos espécimes em causa.
+
+7 - O disposto nos números anteriores não prejudica a aplicação das normas legais e regulamentares da União Europeia aplicáveis.
