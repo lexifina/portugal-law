@@ -1,0 +1,228 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "91",
+    "id": "173027",
+    "titulo": "Estabelece regimes excecionais de exercício do direito de voto em mobilidade e do direito de voto antecipado para a eleição do Parlamento Europeu a realizar em 2024"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-06-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "64442",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-06-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-06-21",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6d5a5745354d3245784c574d794f5441744e4751314d793035596a637a4c5467774f5751354d4459305a4749784d4335775a47593d&fich=2fea93a1-c290-4d53-9b73-809d9064db10.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526a4d6d566b595759774c545530593259744e4449354d433034597a68694c5751315a4441324e44686a4d6a59795a4335775a47593d&fich=4c2edaf0-54cf-4290-8c8b-d5d0648c262d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249774d444a6a596a67324c54417859546b744e4442694f5330354d6d59354c5467334e6d56695a475a6d595455304e4335775a47593d&fich=b002cb86-01a9-40b9-92f9-876ebdffa544.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Administração Eleitoral da Secretaria-geral do Ministério da Administração Interna",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63305a47517a4f5441794c5449335a544d744e4441794d4331684d6a6b7a4c575535595441784d7a5a6b4e4455314d4335775a47593d&fich=74dd3902-27e3-4020-a293-e9a0136d4550.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-19",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51334e4451344e4455344c5752684f4749744e4455315a4331695a6d45334c5463344d544e6b4e7a6c6b597a4e685a6935775a47593d&fich=47448458-da8b-455d-bfa7-7813d79dc3af.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Eleições (CNE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59344e3259334d7a4a684c5455334d7a45744e445932597931684d474a6d4c5755784d544d794f5745354e475931597935775a47593d&fich=687f732a-5731-466c-a0bf-e11329a94f5c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51334e7a45335a4449334c5468694d4467744e445a695a533168596a4e6c4c544a6c4d7a6735597a686c4f5451784d5335775a47593d&fich=47717d27-8b08-46be-ab3e-2e389c8e9411.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-27",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - \tComissão Nacional de Proteção de Dados (CNPD)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d4d575a6a4e6a686c4c5745304d474d744e446730596931695a474a684c5745794e7a646d596a5a684e7a68694d5335775a47593d&fich=9f1fc68e-a40c-484b-bdba-a277fb6a78b1.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-06-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-06-20"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-06-19"
+          },
+          {
+            "link": "",
+            "nome": "Administração Eleitoral da Secretaria-geral do Ministério da Administração Interna em 2023-06-15"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2023-06-27"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Eleições em 2023-06-20"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-06-07"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-06-07"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-06-07"
+          },
+          {
+            "link": "",
+            "nome": "Administração Eleitoral da Secretaria-geral do Ministério da Administração Interna em 2023-06-07"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2023-06-07"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Eleições em 2023-06-07"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7274",
+            "motivoCessacao": null,
+            "nome": "Hugo Carneiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-06-21",
+            "dataRemessa": "2023-06-21",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2023-06-21",
+            "descricao": null,
+            "detalhe": null,
+            "id": "115242",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "87",
+            "tipoReuniao": null,
+            "unanime": "unanime"
+          }
+        ]
+      }
+    ],
+    "DataFase": "2023-06-02",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1348320",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996267",
+        "obs": null,
+        "pag": [
+          "49-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-06-21",
+        "pubLeg": "XV",
+        "pubNr": "246",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/246/2023-06-21/49?pgs=49-53&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
