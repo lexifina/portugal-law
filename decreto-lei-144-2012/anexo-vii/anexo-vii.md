@@ -4,144 +4,116 @@
 
 ORGANISMO DE SUPERVISÃO
 
-Ao Instituto da Mobilidade e dos Transportes, I.P., enquanto organismo responsável pela supervisão
+Ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), enquanto organismo responsável pela supervisão da atividade de inspeção técnica de veículos compete:
 
-da atividade de inspeção técnica de veículos compete:
-
-1. Atribuições e atividades do organismo de supervisão
+1 - Atribuições e atividades do organismo de supervisão
 
 a) Supervisão dos centros de inspeção:
 
-verificação de que as instalações e o equipamento para realização das inspeções
+Verificação de que as instalações e o equipamento para realização das inspeções satisfazem os requisitos mínimos;
 
-satisfazem os requisitos mínimos;
-
-verificação dos requisitos obrigatórios aplicáveis às entidades gestoras;
+Verificação dos requisitos obrigatórios aplicáveis às entidades gestoras;
 
 b) Verificação da formação e exames dos inspetores:
 
-verificação da formação inicial dos inspetores;
+Verificação da formação inicial dos inspetores;
 
-verificação da formação de atualização periódica dos inspetores;
+Verificação da formação de atualização periódica dos inspetores;
 
-formação de atualização periódica dos técnicos do Instituto da Mobilidade e dos
+Formação de atualização periódica dos técnicos do IMT, I. P., com funções de examinadores;
 
-Transportes, I.P. ,com funções de examinadores;
-
-realização ou supervisão dos exames.
+Realização ou supervisão dos exames;
 
 c) Auditorias:
 
-auditoria aos centros de inspeção antes da aprovação;
+Auditoria aos centros de inspeção antes da aprovação;
 
-auditorias periódicas aos centros de inspeção;
+Auditorias periódicas aos centros de inspeção;
 
-auditorias extraordinárias em caso de irregularidades;
+Auditorias extraordinárias em caso de irregularidades;
 
-auditorias aos centros de formação/de exames.
+Auditorias aos centros de formação/de exames;
 
 d) Monitorização (medidas seguintes):
 
-contrainspeção a uma amostra estatisticamente válida dos veículos inspecionados;
+Contrainspeção a uma amostra estatisticamente válida dos veículos inspecionados;
 
-controlos tipo "cliente mistério" (os veículos apresentados a inspeção neste âmbito
+Controlos tipo «cliente mistério» (os veículos apresentados as inspeções neste âmbito podem ter deficiências, a título facultativo);
 
-podem ter deficiências, a título facultativo);
+Análise dos resultados das inspeções técnicas (métodos estatísticos);
 
-análise dos resultados das inspeções técnicas (métodos estatísticos);
+Repetição de inspeções em sede de recurso;
 
-repetição de inspeções em sede de recurso;
+Investigação de reclamações;
 
-investigação de reclamações.
-
-e) Validação dos resultados das medições efetuadas nas inspeções técnicas.
+e) Validação dos resultados das medições efetuadas nas inspeções técnicas;
 
 f) Proposta de revogação ou suspensão da aprovação dos centros de inspeção e/ou do licenciamento dos inspetores nas seguintes circunstâncias:
 
-caso o centro de inspeção ou o inspetor em causa não cumpra um requisito
+Caso o centro de inspeção ou o inspetor em causa não cumpra um requisito importante de aprovação;
 
-importante de aprovação;
+Caso sejam detetadas irregularidades graves;
 
-caso sejam detetadas irregularidades graves;
+Caso se verifiquem de modo continuado resultados negativos nas auditorias;
 
-caso se verifiquem de modo continuado resultados negativos nas auditorias;
+Caso se registe perda da boa reputação do centro de inspeção ou do inspetor em causa.
 
-caso se registe perda da boa reputação do centro de inspeção ou do inspetor em
+2 - Requisitos aplicáveis ao organismo de supervisão
 
-causa.
+Os requisitos aplicáveis às pessoas contratadas por um organismo de supervisão devem abranger os seguintes domínios:
 
-2. Requisitos aplicáveis ao organismo de supervisão
+Competência técnica;
 
-Os requisitos aplicáveis às pessoas contratadas por um organismo de supervisão devem
+Imparcialidade;
 
-abranger os seguinte domínios:
+Padrões de qualificação e de formação.
 
-competência técnica,
+3 - Teor dos regulamentos e procedimentos
 
-imparcialidade,
-
-padrões de qualificação e de formação.
-
-3. Teor dos regulamentos e procedimentos
-
-Compete ao Instituto da Mobilidade e dos Transportes, I.P., estabelecer os regulamentos e
-
-procedimentos relevantes, os quais devem abranger os seguintes aspetos:
+Compete ao IMT, I. P., estabelecer os regulamentos e procedimentos relevantes, os quais devem abranger os seguintes aspetos:
 
 a) Requisitos relativos à aprovação e supervisão de centros de inspeção:
 
-requerimento para autorização de funcionamento como centro de inspeção;
+Requerimento para autorização de funcionamento como centro de inspeção;
 
-responsabilidades do centro de inspeção;
+Responsabilidades do centro de inspeção;
 
-visita ou visitas prévias, antes da aprovação, para verificar se todos os requisitos
+Visita ou visitas prévias, antes da aprovação, para verificar se todos os requisitos estão cumpridos;
 
-estão cumpridos;
+Aprovação de centros de inspeção;
 
-aprovação de centros de inspeção;
+Contrainspeções e auditorias periódicas aos centros de inspeção;
 
-contrainspeções e auditorias periódicas aos centros de inspeção;
+Verificação periódica dos centros de inspeção a fim de aferir do seu cumprimento continuado das regras e procedimentos aplicáveis;
 
-verificação periódica dos centros de inspeção a fim de aferir do seu cumprimento
+Auditorias ou verificações especiais a centros de inspeção, sem aviso prévio, baseadas em elementos de prova concretos;
 
-continuado das regras e procedimentos aplicáveis;
+Análise de dados das inspeções para deteção de eventual não conformidade com as regras e os procedimentos aplicáveis;
 
-auditorias ou verificações especiais a centros de inspeção, sem aviso prévio,
-
-baseadas em elementos de prova concretos;
-
-análise de dados das inspeções para deteção de eventual não conformidade com as
-
-regras e os procedimentos aplicáveis;
-
-revogação ou suspensão de aprovações concedidas a centros de inspeção.
+Revogação ou suspensão de aprovações concedidas a centros de inspeção;
 
 b) Inspetores de centros de inspeção:
 
-requisitos para ser inspetor certificado;
+Requisitos para ser inspetor certificado;
 
-formação inicial e de atualização, exames;
+Formação inicial e de atualização, exames;
 
-revogação ou suspensão da certificação de inspetores.
+Revogação ou suspensão da certificação de inspetores;
 
 c) Equipamento e instalações:
 
-requisitos do equipamento de inspeção;
+Requisitos do equipamento de inspeção;
 
-requisitos das instalações de inspeção;
+Requisitos das instalações de inspeção;
 
-requisitos de sinalização;
+Requisitos de sinalização;
 
-requisitos de manutenção e calibração dos equipamentos de inspeção;
+Requisitos de manutenção e calibração dos equipamentos de inspeção;
 
-requisitos dos sistemas informáticos.
+Requisitos dos sistemas informáticos;
 
 d) Organismo de supervisão:
 
-requisitos aplicáveis ao pessoal do Instituto da Mobilidade e dos Transportes, I.P.,
+Requisitos aplicáveis ao pessoal do IMT, I. P., com funções de controlo da atividade de inspeção ou de realização de exames de inspetores;
 
-com funções de controlo da atividade de inspeção ou de realização de
-
-exames de inspetores;
-
-recursos e reclamações.
+Recursos e reclamações.

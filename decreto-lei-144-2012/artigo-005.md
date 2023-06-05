@@ -10,6 +10,8 @@
 
 4 - As inspeções facultativas não interferem com a periodicidade das inspeções periódicas, aplicando-se procedimentos idênticos aos das inspeções periódicas, extraordinárias ou para nova matrícula, conforme a finalidade da inspeção.
 
-5 - Tanto nas inspeções extraordinárias como nas inspeções para atribuição de matrícula deve ser emitida a respetiva ficha de inspeção periódica, sempre que o veículo se encontre dentro da periodicidade estabelecida, sem alteração da mesma.
+5 - A aprovação nas inspeções extraordinárias e nas inspeções para atribuição de matrícula é válida por 90 dias.
 
-6 - Por deliberação do conselho diretivo do IMT, I. P., são estabelecidos os casos em que não é necessária a emissão da ficha a que se refere o número anterior.
+6 - Tanto nas inspeções extraordinárias como nas inspeções para atribuição de matrícula deve ser emitida a respetiva ficha de inspeção periódica, sempre que o veículo se encontre dentro da periodicidade estabelecida, sem alteração da mesma.
+
+7 - Por deliberação do conselho diretivo do IMT, I. P., são estabelecidos os casos em que não é necessária a emissão da ficha a que se refere o número anterior.
