@@ -10,8 +10,8 @@
 
 2 - O conselho fiscal é constituído por três membros efetivos, sendo um deles o presidente do órgão, e por um suplente.
 
-3 - Os membros do conselho fiscal são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação, que fixa a respetiva remuneração, por um período de três anos, renovável nos termos da lei.
+3 - Os membros do conselho fiscal são nomeados por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação, que fixa a respetiva remuneração, por um período de três anos, renovável nos termos da lei.
 
-4 - O revisor oficial de contas é nomeado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação, sob proposta fundamentada do conselho fiscal, que fixa a respetiva remuneração, tendo o mandato a duração de três anos, renovável nos termos da lei.
+4 - O revisor oficial de contas é nomeado por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação, sob proposta fundamentada do conselho fiscal, que fixa a respetiva remuneração, tendo o mandato a duração de três anos, renovável nos termos da lei.
 
 5 - Cessando o mandato do conselho fiscal e do revisor oficial de contas, mantêm-se os titulares em exercício de funções até à designação dos respetivos substitutos.

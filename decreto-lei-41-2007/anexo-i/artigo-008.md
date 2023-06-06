@@ -2,7 +2,7 @@
 
 ### Competências do conselho de administração
 
-1 - Compete ao conselho de administração, para além do exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, em especial:
+1 - Para além do exercício dos poderes que não estejam reservados a outros órgãos, ao conselho de administração compete, em geral, o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da atividade da Construção Pública, E. P. E., e a administração dos bens afetos à atividade da mesma, e, em especial:
 
 a) Propor os planos de acção anuais e plurianuais e respectivos orçamentos, bem como os demais instrumentos de gestão previsional legalmente previstos, e assegurar a respectiva execução;
 
@@ -22,7 +22,7 @@ h) Elaborar o balanço social;
 
 i) Apresentar os documentos de prestação de contas, nos termos definidos na lei;
 
-j) Aprovar e submeter a homologação do membro do Governo responsável pela área da Educação o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;
+j) Aprovar e submeter a homologação dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;
 
 l) Acompanhar e avaliar sistematicamente a actividade desenvolvida pela Parque Escolar, E. P. E.;
 
@@ -40,7 +40,7 @@ r) Assegurar a regularidade da cobrança das dívidas e autorizar a realização
 
 s) Tomar as providências necessárias à conservação do património afecto ao desenvolvimento da sua actividade e autorizar as despesas inerentes, tal como previstas no plano de investimentos;
 
-t) Deliberar sobre a realização de empréstimos ou outras operações financeiras, mediante aprovação do membro do Governo responsável pela área das Finanças e da tutela;
+t) Deliberar sobre a realização de empréstimos ou outras operações financeiras, mediante aprovação dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação;
 
 u) Deliberar sobre a aquisição, alienação ou oneração de bens do seu património autónomo e estabelecer os respectivos termos e condições;
 
@@ -49,5 +49,7 @@ v) Aceitar doações, heranças ou legados;
 w) Constituir mandatários, em juízo e fora dele, incluindo o poder de substabelecer;
 
 x) Exercer os demais poderes e praticar os actos conferidos ou previstos na lei.
+
+y) Negociar convenções coletivas de trabalho.
 
 2 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal dirigente, com excepção das previstas nas alíneas a) a j), n), q), t) e u) do n.º 1, definindo em acta os limites e condições do seu exercício.

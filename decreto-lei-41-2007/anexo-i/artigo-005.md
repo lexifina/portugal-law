@@ -6,7 +6,7 @@
 
 a) Transmitidos aquando da sua criação;
 
-b) Transitados do domínio privado do Estado, desde que destinados directamente à realização do seu objecto principal, mediante lista aprovada por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da educação;
+b) Transitados do domínio privado do Estado, desde que destinados diretamente à realização do seu objeto, mediante lista aprovada por despacho dos membros do Governo responsáveis pelas áreas das finanças e, em função da matéria, da educação ou da habitação;
 
 c) Adquiridos no âmbito da sua actividade.
 

@@ -2,7 +2,7 @@
 
 ### Dissolução do conselho de administração
 
-1 - Sem prejuízo do disposto no Estatuto do Gestor Público, os membros do Governo responsáveis pelas áreas das finanças e da educação podem dissolver o conselho de administração nos seguintes casos:
+1 - Sem prejuízo do disposto no Estatuto do Gestor Público, os membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação podem dissolver o conselho de administração nos seguintes casos:
 
 a) Desvio substancial entre os orçamentos e a respectiva execução;
 

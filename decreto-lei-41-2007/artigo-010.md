@@ -2,7 +2,7 @@
 
 ### Tutela económica e financeira
 
-A tutela económica e financeira da Parque Escolar, E. P. E., é exercida pelos membros do Governo responsáveis pelas áreas das finanças e da educação e, sem prejuízo do regime jurídico aplicável às E. P. E., compreende:
+A tutela económica e financeira da Construção Pública, E. P. E., é exercida pelos membros do Governo responsáveis pelas áreas das finanças e, em função da matéria, da educação e da habitação, sem prejuízo do regime jurídico do setor público empresarial, e compreende:
 
 a) A definição dos objectivos básicos da empresa, particularmente para efeitos de preparação dos planos de investimentos, financiamentos e dos orçamentos;
 
@@ -30,7 +30,7 @@ viii) A aquisição, oneração e venda de bens imóveis, quando os respectivos 
 
 ix) Constituição ou participação da Parque Escolar, E. P. E., no capital de outras sociedades para a prossecução dos pertinentes objectivos estratégicos;
 
-x) Cedências de exploração de serviços ligados a infra-estruturas escolares como sejam serviços de limpeza e de exploração de bares e cantinas;
+x) (Revogada.)
 
 xi) Os contratos-programa e os contratos de gestão;
 
