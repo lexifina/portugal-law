@@ -1,7 +1,3 @@
-## Secção IV
-
-## Junta de Saúde Naval
-
 # Artigo 87.º
 
 ### Dependência

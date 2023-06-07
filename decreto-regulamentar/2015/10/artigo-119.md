@@ -1,25 +1,21 @@
-## Secção VI
+## Secção V
 
 ## Órgãos de execução de serviços
 
-## Subsecção I
-
-## Disposição geral
-
 # Artigo 119.º
 
-### Composição
+### Órgãos de execução de serviços
 
 1 - São órgãos de execução de serviços:
 
-a) O CMSH;
+a) (Revogada.)
 
-b) O CMN;
+b) (Revogada.)
 
 c) Os laboratórios e depósitos;
 
-d) A Base Hidrográfica;
+d) (Revogada.)
 
-e) Outros órgãos da Marinha que exerçam competências de apoio global à gestão e atividades de apoio logístico, nomeadamente os pontos de apoio naval (PAN).
+e) Outros órgãos que realizam atividades de apoio global à gestão e atividades de apoio logístico, nomeadamente os pontos de apoio naval (PAN), os cais militares e as infraestruturas afins.
 
-2 - As competências, a estrutura e o funcionamento da Base Hidrográfica são estabelecidos em diploma próprio.
+2 - Os órgãos de execução de serviços são regulados por despacho do CEMA.

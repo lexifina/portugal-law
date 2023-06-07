@@ -1,17 +1,9 @@
 # Artigo 128.º
 
-### Competências
+### Academia de Marinha
 
-À CCM compete:
+1 - A AM tem autonomia científica e funciona na direta dependência do CEMA, incumbindo-lhe promover e desenvolver os estudos e divulgar os conhecimentos relacionados com a história, as artes, as letras e as ciências e tudo o mais que diga respeito ao mar e às atividades marítimas.
 
-a) Prestar apoio administrativo, financeiro e logístico aos ONC;
+2 - O Estatuto da Academia de Marinha é aprovado por portaria do membro do Governo responsável pela área da defesa nacional.
 
-b) Coordenar a atividade editorial dos órgãos que a integram;
-
-c) Coordenar as exposições de cariz cultural da Marinha;
-
-d) Implementar e contribuir para a elaboração de doutrina básica da Marinha, na sua área de responsabilidade;
-
-e) Elaborar e implementar a doutrina setorial e aprovar os normativos funcionais e técnicos que regulam a atividade cultural da Marinha;
-
-f) Elaborar diretivas, planos, estudos, propostas, informações e pareceres relativos à atividade cultural da Marinha.
+3 - O regulamento interno da AM é aprovado pela Assembleia dos Académicos, promulgado pelo presidente da AM e homologado por despacho do CEMA.

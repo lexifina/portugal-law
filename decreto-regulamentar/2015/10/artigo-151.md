@@ -6,4 +6,4 @@
 
 ### Norma complementar
 
-As juntas médicas da Armada podem pronunciar-se sobre a aptidão física e psíquica relativamente a outro pessoal militarizado, nos termos das orientações definidas por despacho do CEMA.
+As JMM podem pronunciar-se sobre a aptidão física e psíquica relativamente a outro pessoal militarizado, nos termos das orientações definidas por despacho do CEMA.

@@ -2,44 +2,44 @@
 
 ### Inspetor-Geral da Marinha
 
-1 - Ao Inspetor-Geral da Marinha compete:
+1 - Ao inspetor-geral da Marinha compete:
 
 a) Administrar a IGM;
 
-b) Exercer a autoridade técnica no domínio da atividade inspetiva;
+b) Colaborar, nas atividades relacionadas com o processo de gestão estratégica, no seu âmbito;
 
-c) Aprovar a diretiva setorial;
+c) Informar o CEMA sobre os resultados das atividades de auditoria e inspeção desenvolvidas, designadamente quanto ao eventual impacto no cumprimento da missão da Marinha;
 
-d) Assegurar, no seu âmbito, as atividades relacionadas com o processo de gestão estratégica;
+d) Propor, na sequência da análise global das ações corretivas identificadas na Marinha, a adoção de soluções doutrinárias e organizacionais que assegurem melhorias na eficiência do controlo interno;
 
-e) Informar o CEMA sobre os resultados da atividade inspetiva desenvolvida, designadamente quanto ao eventual impacto no cumprimento da missão da Marinha;
+e) Dinamizar e acompanhar as ações de controlo e avaliação a desenvolver no domínio das atividades de auditoria e inspeção;
 
-f) Propor, na sequência da análise global das ações corretivas identificadas na Marinha, a adoção de soluções doutrinárias e organizacionais que assegurem melhorias na eficiência das atividades, dos processos e, ainda, da gestão do risco;
+f) Colaborar na elaboração, atualização e implementação das diretivas, normas e instruções relativas às atividades de auditoria e inspeção;
 
-g) Dinamizar e acompanhar as ações de controlo e avaliação a desenvolver no domínio da atividade inspetiva;
+g) Elaborar o programa anual das atividades de auditoria e inspeção, submetê-lo à aprovação do CEMA e supervisionar a sua execução;
 
-h) Propor e implementar a doutrina e aprovar as diretivas, normas e instruções relativas à atividade inspetiva;
+h) Elaborar o planeamento de atividades anual da IGM e controlar a sua execução;
 
-i) Coordenar as atividades e os processos de gestão da SST e do ambiente com os restantes órgãos da Marinha com competências nestas matérias;
+i) Nomear as equipas de auditoria e inspeção, no âmbito das competências da IGM;
 
-j) Elaborar o Programa Anual das Atividades de Auditoria e Inspeção, submetê-lo à aprovação do CEMA e supervisionar a sua execução;
+j) Assegurar a participação nos projetos de elaboração e alteração de atos legislativos e regulamentos administrativos sobre as matérias da sua competência;
 
-k) Estabelecer as orientações para a atuação dos órgãos da IGM, aprovar o plano de atividades setorial e assegurar a elaboração do respetivo relatório;
+k) Assegurar a articulação da IGM com entidades externas no domínio das atividades de auditoria e inspeção, designadamente com a IGDN;
 
-l) Controlar e avaliar a execução do plano de atividades, a concretização dos objetivos definidos e a utilização dos recursos disponibilizados;
+l) Participar em iniciativas de IDEI, na sua área de responsabilidade, em coordenação com os demais órgãos com competências naquele âmbito;
 
-m) Nomear as equipas de inspeção, no âmbito da IGM;
+m) Exercer as competências que, nas áreas administrativa e financeira, lhe sejam delegadas;
 
-n) Propor, para aprovação, os regulamentos internos dos órgãos da IGM;
+n) (Revogada.)
 
-o) Assegurar a participação nos projetos de elaboração e alteração de atos legislativos e regulamentos administrativos sobre as matérias da sua competência;
+o) (Revogada.)
 
-p) Assegurar a articulação da IGM com entidades externas no domínio da atividade inspetiva, designadamente com a IGDN;
+p) (Revogada.)
 
-q) Promover e participar em iniciativas de IDI, na sua área de responsabilidade, em coordenação com os demais órgãos com competências naquele âmbito;
+q) (Revogada.)
 
-r) Exercer as competências que, nas áreas administrativa e financeira, lhe sejam delegadas.
+r) (Revogada.)
 
-2 - O Inspetor-Geral da Marinha dispõe de um gabinete para apoio direto, chefiado por um chefe de departamento em acumulação de funções.
+2 - O inspetor-geral da Marinha dispõe de um gabinete para apoio direto, chefiado pelo chefe de departamento mais antigo, em acumulação de funções.
 
-3 - O Inspetor-Geral da Marinha é um oficial general, na situação de reserva, na direta dependência do CEMA.
+3 - O inspetor-geral da Marinha é um oficial general, na situação de reserva, na direta dependência do CEMA.

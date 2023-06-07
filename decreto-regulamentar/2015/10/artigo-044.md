@@ -12,7 +12,7 @@ c) Assegurar o planeamento, programação e proposta de obtenção e abate dos m
 
 d) Propor e implementar a doutrina, no âmbito da utilização e manutenção das viaturas administrativas;
 
-e) Inspecionar e auditar as UEO, no âmbito das suas competências;
+e) (Revogada.)
 
 f) Propor a dotação de viaturas administrativas, promovendo a sua atualização e reformulação através de processos de planeamento, programação, obtenção e abate;
 
@@ -22,4 +22,6 @@ h) Assegurar a conservação dos veículos com interesse para o património hist
 
 i) Assegurar o apoio técnico e administrativo na gestão, controlo, registo, utilização e manutenção das viaturas administrativas das restantes UEO;
 
-j) Representar a Marinha nos domínios técnicos da sua responsabilidade.
+j) Avaliar a condição técnica das viaturas, no âmbito das suas competências;
+
+k) Representar a Marinha nos domínios técnicos da sua responsabilidade.

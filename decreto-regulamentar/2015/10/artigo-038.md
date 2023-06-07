@@ -14,4 +14,4 @@ d) A Direção de Navios (DN);
 
 e) A Direção de Transportes (DT).
 
-2 - A estrutura e o funcionamento da SM, DA, DI, DN e DT são definidos nos respetivos regulamentos internos.
+2 - A SM integra ainda na sua estrutura o Gabinete de Ambiente, Energia e Recursos, cuja dependência, estrutura e competências são definidas no regulamento interno da SM.

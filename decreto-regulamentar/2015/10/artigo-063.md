@@ -18,7 +18,7 @@ f) Planear, organizar, dirigir e controlar a atividade da componente operacional
 
 g) Promulgar planos, diretivas, ordens e instruções de operações das forças e unidades operacionais e dos centros da componente operacional do sistema de forças que lhe estão subordinados;
 
-h) Aprovar a diretiva setorial;
+h) Apoiar o CEMA no cumprimento das missões que lhe sejam atribuídas pelo CEMGFA;
 
 i) Estabelecer as orientações para a atuação dos órgãos do CN, aprovar o plano de atividades setorial e assegurar a elaboração do respetivo relatório;
 
@@ -36,16 +36,6 @@ o) Assegurar, no seu âmbito, as atividades relacionadas com o processo de gest�
 
 p) Exercer as competências que, nas áreas administrativa, financeira e logística, lhe sejam delegadas.
 
-2 - Na direta dependência do Comandante Naval, funcionam:
-
-a) Os comandos de zona marítima (CZM);
-
-b) O Comando do Corpo de Fuzileiros (CCF);
-
-c) As forças e unidades operacionais atribuídas;
-
-d) Os centros da componente operacional do sistema de forças;
-
-e) A Base Naval de Lisboa (BNL).
+2 - (Revogado.)
 
 3 - O Comandante Naval é um vice-almirante, na direta dependência do CEMA.

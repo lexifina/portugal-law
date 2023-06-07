@@ -6,7 +6,7 @@
 
 a) Administrar a SF;
 
-b) Aprovar a diretiva setorial;
+b) (Revogada.)
 
 c) Assegurar, no seu âmbito, as atividades relacionadas com o processo de gestão estratégica;
 
@@ -28,16 +28,18 @@ k) Controlar e avaliar a execução do plano de atividades, a concretização do
 
 l) Assegurar a participação nos projetos de elaboração e alteração de atos legislativos e regulamentos administrativos que tenham implicações de natureza económica, financeira e patrimonial;
 
-m) Definir as atividades de inspeção e auditoria a realizar nas UEO, no âmbito das suas competências;
+m) Inspecionar as UEO subordinadas, no âmbito das suas competências;
 
-n) Emitir parecer sobre os assuntos relacionados com o SFPM que tenham implicações no exercício das funções financeiras;
+n) Contribuir para o programa anual de atividades de inspeção e auditoria;
 
-o) Coordenar os procedimentos relativos à instrução do processo de prestação de contas da Marinha ao Tribunal de Contas;
+o) Emitir parecer sobre os assuntos relacionados com o SFPM que tenham implicações no exercício das funções financeiras;
 
-p) Promover a execução dos processos conducentes à elaboração de planos financeiros globais e da proposta orçamental da Marinha;
+p) Coordenar os procedimentos relativos à instrução do processo de prestação de contas da Marinha ao Tribunal de Contas;
 
-q) Promover e participar em iniciativas de IDI, na sua área de responsabilidade, em coordenação com os demais órgãos com competências naquele âmbito.
+q) Promover a execução dos processos conducentes à elaboração de planos financeiros globais e da proposta orçamental da Marinha;
+
+r) Promover e participar em iniciativas de IDI, na sua área de responsabilidade, em coordenação com os demais órgãos com competências naquele âmbito.
 
 2 - O Superintendente das Finanças dispõe de um gabinete para apoio direto.
 
-3 - O Superintendente das Finanças é um contra-almirante, na direta dependência do CEMA.
+3 - O superintendente das Finanças é um contra-almirante.

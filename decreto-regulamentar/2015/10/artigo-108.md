@@ -18,10 +18,10 @@ a) As bases;
 
 b) A Escola Naval (EN);
 
-c) As escolas e centros de formação do SFPM;
+c) As ECF do SFPM;
 
-d) As esquadrilhas e os agrupamentos de unidades operacionais;
+d) A Flotilha;
 
 e) Os órgãos de execução de serviços;
 
-f) Os órgãos de natureza cultural (ONC).
+f) Os órgãos culturais (OC).

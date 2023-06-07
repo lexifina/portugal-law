@@ -14,6 +14,6 @@ a) O CCF;
 
 b) As forças;
 
-c) Os meios e as unidades operacionais;
+c) As unidades e destacamentos operacionais;
 
 d) Os centros da componente operacional do sistema de forças.

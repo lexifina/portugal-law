@@ -32,6 +32,14 @@ m) Assegurar a gestão das atividades de protocolo e cerimonial;
 
 n) Promover, elaborar e coordenar as propostas de atos legislativos e regulamentos administrativos com interesse para a Marinha, procedendo à sua divulgação;
 
-o) Propor as linhas de orientação relativas à disponibilização de recursos humanos e materiais aos órgãos e serviços da AMN.
+o) Promover o planeamento integrado das atividades de inovação e transformação da Marinha, assegurando a coordenação, a supervisão e o controlo destas;
+
+p) Elaborar estudos, planos, informações e propostas conducentes ao planeamento e à definição das políticas, organização, segurança e interoperabilidade das comunicações, redes, dados, sistemas de informação e ciberdefesa, bem como da gestão e utilização do espetro eletromagnético no âmbito da Marinha;
+
+q) Coordenar a gestão de risco da Marinha;
+
+r) Elaborar estudos, informações, pareceres ou propostas no âmbito da heráldica;
+
+s) Propor as linhas de orientação relativas à disponibilização de pessoal e recursos materiais aos órgãos e serviços da AMN.
 
 2 - O EMA é dirigido pelo VCEMA, que é coadjuvado pelo Subchefe do Estado-Maior da Armada (SCEMA).

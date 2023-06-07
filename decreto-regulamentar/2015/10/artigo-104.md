@@ -8,6 +8,6 @@ a) O Inspetor-Geral;
 
 b) O Departamento de Organização e Processos (DOP);
 
-c) O Departamento de Segurança e Ambiente (DSA).
+c) O Departamento de Segurança, Saúde no Trabalho e Ambiente (DSSTA).
 
-2 - A estrutura e o funcionamento da IGM são definidos no respetivo regulamento interno.
+2 - (Revogado.)

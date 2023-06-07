@@ -1,18 +1,18 @@
 # Artigo 51.º
 
-### Direção de Auditoria e Controlo Financeiro
+### Direção de Controlo Financeiro
 
-À DACF compete:
+À DCF compete:
 
 a) Exercer, no âmbito do sistema de controlo interno, o controlo transversal relativamente a toda a administração financeira e patrimonial da Marinha;
 
-b) Analisar e emitir parecer sobre a Conta da Marinha;
+b) Efetuar ações de controlo, no âmbito da prestação de contas internas;
 
-c) Analisar a prestação de contas interna das entidades contabilísticas da Marinha e elaborar os respetivos relatórios;
+c) (Revogada.)
 
 d) Analisar sucessivamente a conformidade legal, a regularidade financeira e a economia, eficiência e eficácia das despesas, contratos e demais atos de administração financeira e patrimonial praticados pelas UEO;
 
-e) Executar auditorias setoriais, de processo e temáticas de natureza financeira e patrimonial e acompanhar a edificação das recomendações produzidas nos relatórios de auditorias;
+e) (Revogada.)
 
 f) Efetuar análises de natureza económico-financeira;
 

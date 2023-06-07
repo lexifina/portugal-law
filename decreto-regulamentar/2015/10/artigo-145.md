@@ -2,4 +2,4 @@
 
 ### Competências
 
-A CDMI compete, nas questões referidas no artigo anterior, apoiar o CEMA relativamente às matérias com relevância para a Marinha e para outras entidades por si consideradas.
+À CDMI compete estudar e emitir parecer sobre as matérias conexas aos espaços marítimos sob soberania ou jurisdição nacional e alto-mar, aos seus usos e às atividades aí exercidas, designadamente no âmbito do direito internacional, do direito do mar e do direito comercial marítimo.

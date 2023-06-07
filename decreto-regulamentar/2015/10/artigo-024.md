@@ -4,17 +4,17 @@
 
 1 - Ao Superintendente do Pessoal compete:
 
-a) Dirigir a SP;
+a) Administrar a SP;
 
-b) Aprovar a diretiva setorial;
+b) (Revogada.)
 
-c) Exercer a autoridade funcional e técnica, no domínio da administração dos recursos humanos, do apoio jurídico, do apoio social, da formação e da saúde, nomeadamente nos aspetos de recrutamento, classificação, seleção, afetação, retenção, formação e qualificação, avaliação, registo e controlo;
+c) (Revogada.)
 
-d) Propor e assegurar a execução da doutrina de gestão dos recursos humanos, da formação, da saúde, do apoio social e da área jurídica, e aprovar as diretivas, normas e instruções, no âmbito da sua autoridade técnica;
+d) Propor e assegurar a execução da doutrina de gestão das pessoas, da formação, da saúde, do apoio social e da área jurídica, e aprovar as diretivas, normas e instruções, no âmbito da sua autoridade técnica;
 
 e) Aprovar os livros de lotação das UEO;
 
-f) Aprovar o plano de atividades setorial e assegurar a elaboração do respetivo relatório;
+f) Aprovar o plano de atividades e assegurar a elaboração do respetivo relatório;
 
 g) Controlar e avaliar a execução dos planos de atividades, a concretização dos objetivos definidos e a utilização dos recursos disponibilizados pelos órgãos da SP;
 
@@ -22,19 +22,21 @@ h) Promover a regulamentação interna dos órgãos na sua dependência, nomear 
 
 i) Pronunciar-se relativamente aos estudos de projetos de elaboração e alteração de atos legislativos e regulamentos administrativos sobre as matérias da sua competência;
 
-j) Inspecionar as UEO, no âmbito da autoridade técnica de que dispõe;
+j) Inspecionar as UEO subordinadas, no âmbito das suas competências;
 
-k) Promover e dirigir a realização de estudos relativos às necessidades e existências dos recursos humanos;
+k) Contribuir para o programa anual de atividades de inspeção e auditoria;
 
-l) Assegurar a exploração e atualização dos sistemas de classificação ocupacional e informação de apoio à gestão dos recursos humanos;
+l) Promover e dirigir a realização de estudos relativos às necessidades e existências dos recursos humanos;
 
-m) Manter atualizados os requisitos dos cargos aprovados, de forma a otimizar o seu preenchimento, garantindo a máxima eficácia na utilização dos recursos existentes;
+m) Assegurar a exploração e atualização dos sistemas de classificação ocupacional e informação de apoio à gestão dos recursos humanos;
 
-n) Convocar e presidir aos órgãos de conselho no âmbito do pessoal;
+n) Manter atualizados os requisitos dos cargos aprovados, de forma a otimizar o seu preenchimento, garantindo a máxima eficácia na utilização dos recursos existentes;
 
-o) Homologar os pareceres da Junta de Recrutamento e Classificação (JRC), nos termos do presente decreto regulamentar;
+o) Convocar e presidir aos órgãos de conselho no âmbito do pessoal;
 
-p) Exercer as competências que, nas áreas administrativa e financeira, lhe sejam delegadas.
+p) Homologar os pareceres da Junta de Recrutamento e Classificação (JRC), nos termos do presente decreto regulamentar;
+
+q) Exercer as competências que, nas áreas administrativa e financeira, lhe sejam delegadas.
 
 2 - O Superintendente do Pessoal dispõe de um gabinete para apoio direto.
 
@@ -50,4 +52,4 @@ c) Os órgãos de conselho no âmbito do pessoal;
 
 d) O Grupo Coordenador para a Prevenção de Toxicodependências e Alcoologia na Marinha, cuja composição e funcionamento são definidos por despacho do CEMA.
 
-5 - O Superintendente do Pessoal é um vice-almirante, na direta dependência do CEMA.
+5 - O superintendente do Pessoal é um vice-almirante.

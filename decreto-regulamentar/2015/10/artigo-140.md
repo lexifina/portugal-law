@@ -1,6 +1,6 @@
 # Artigo 140.º
 
-### Forças e unidades operacionais
+### Forças, unidades e destacamentos operacionais
 
 1 - As forças e unidades operacionais são elementos da componente operacional do sistema de forças.
 
@@ -8,10 +8,12 @@
 
 3 - São unidades operacionais, as unidades navais, as unidades de fuzileiros e as unidades de mergulhadores.
 
-4 - Encontra-se estabelecida em permanência uma força tarefa, com o respetivo comandante e estado-maior e com unidades operacionais atribuídas, que podem variar consoante a missão, constituindo a Força Naval Portuguesa.
+4 - Podem ainda ser constituídos destacamentos operacionais, compostos por militares da Marinha sob as ordens de um mesmo comandante, para realizar missões, tarefas e ações que não se enquadrem no âmbito das unidades operacionais.
 
-5 - A estrutura e o funcionamento das forças e unidades operacionais são definidos por despacho do CEMA.
+5 - Encontra-se estabelecida em permanência uma força tarefa, designada por Força Naval Portuguesa, com o respetivo comandante e estado-maior e com unidades operacionais atribuídas, à qual podem ser agregadas outras unidades consoante a missão.
 
-6 - As designações comuns das unidades navais e que permitem identificar os seus diferentes tipos são fixadas por portaria do membro do Governo responsável pela área da defesa nacional, mediante proposta do CEMA.
+6 - A estrutura e competências das forças e unidades operacionais são definidas por despacho do CEMA.
 
-7 - O aumento e abate das unidades navais ao efetivo dos navios de guerra da Marinha são estabelecidos por portaria do membro do Governo responsável pela área da defesa nacional.
+7 - As designações comuns das unidades navais e que permitem identificar os seus diferentes tipos são fixadas por portaria do membro do Governo responsável pela área da defesa nacional, mediante proposta do CEMA.
+
+8 - O aumento e abate das unidades navais ao efetivo dos navios de guerra da Marinha são estabelecidos por portaria do membro do Governo responsável pela área da defesa nacional.

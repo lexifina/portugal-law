@@ -6,14 +6,14 @@
 
 a) O SCEMA;
 
-b) A Divisão de Recursos (DIVREC);
+b) As divisões, até ao limite de seis, criadas e extintas por despacho do CEMA;
 
-c) A Divisão de Relações Externas (DIVRE);
+c) (Revogada.)
 
-d) A Divisão de Planeamento (DIVPLAN);
+d) (Revogada.)
 
 e) O Gabinete de Coordenação Interna (GCI);
 
 f) A estrutura de apoio.
 
-2 - A estrutura e o funcionamento do EMA são definidos no respetivo regulamento interno.
+2 - (Revogado.)

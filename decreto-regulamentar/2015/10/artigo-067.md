@@ -6,11 +6,11 @@
 
 2 - Aos CZM compete, designadamente:
 
-a) Assegurar, nos espaços marítimos, o exercício das competências previstas nas alíneas a) e d) do n.º 1 do artigo 61.º;
+a) Assegurar, nos espaços marítimos, a execução das atividades a que se refere a alínea a) do n.º 2 do artigo 61.º;
 
 b) Assegurar o funcionamento dos centros de coordenação de busca e salvamento marítimo existentes no seu âmbito, coordenar as ações relativas a acidentes ocorridos com navios ou embarcações e disponibilizar unidades operacionais para busca e salvamento;
 
-c) Assegurar a articulação, a nível regional, com as outras autoridades públicas que intervêm, em razão da matéria, no espaço marítimo sob soberania ou jurisdição nacional, tendo em vista garantir a atuação cooperativa entre as forças e unidades operacionais, e os meios dessas autoridades públicas.
+c) Assegurar a articulação, a nível regional, com as outras autoridades públicas que intervêm, em razão da matéria, no espaço marítimo sob soberania ou jurisdição nacional, tendo em vista garantir a atuação cooperativa entre as forças e unidades operacionais, e os meios dessas autoridades públicas sem prejuízo das competências do CCOM, do Comando Operacional dos Açores (COA) e do Comando Operacional da Madeira (COM).
 
 3 - São CZM:
 
@@ -26,7 +26,7 @@ e) O Comando da Zona Marítima do Sul.
 
 4 - Para o exercício do comando e controlo das forças e unidades operacionais, os CZM são apoiados por postos de comando, que se encontram na sua dependência.
 
-5 - Os comandantes de zona marítima podem acumular com as funções de chefe de departamento marítimo, na estrutura da AMN, nos termos do n.º 12 do artigo 8.º do Decreto-Lei n.º 185/2014, de 29 de dezembro.
+5 - Os comandantes de zona marítima podem acumular com as funções de chefe de departamento marítimo, na estrutura da AMN, nos termos do n.º 13 do artigo 8.º do Decreto-Lei n.º 185/2014, de 29 de dezembro, na sua redação atual.
 
 6 - Os comandantes das zonas marítimas asseguram, ao seu nível e nos termos da lei, a ligação com as forças e serviços de segurança e proteção civil, em coordenação com o CN e com os comandos operacionais das áreas em que se inserem.
 
@@ -34,4 +34,6 @@ e) O Comando da Zona Marítima do Sul.
 
 8 - Os comandantes de zona marítima têm os postos de comodoro, nos Açores, e de capitão-de-mar-e-guerra, nas restantes zonas marítimas, e estão na direta dependência do Comandante Naval.
 
-9 - A estrutura e o funcionamento dos CZM são definidos nos respetivos regulamentos internos.
+9 - Sem prejuízo das modalidades de comando e controlo a definir pelo CEMGFA para a condução de operações militares, os comandantes de zona marítima dos Açores e da Madeira relacionam-se, respetivamente, com o COA e o COM, os quais exercem autoridade de coordenação na prossecução da sua missão e atribuições, mantendo, para este âmbito, uma ligação permanente, através da partilha, em rede, da informação dos sistemas de comando e controlo da Marinha, que permita assegurar um conhecimento situacional da prontidão e empenhamento das forças e meios da componente operacional do sistema de forças sediados ou destacados para a respetiva região autónoma.
+
+10 - Os comandos de zona marítima dos Açores e da Madeira apoiam, respetivamente, o COA e o COM, de acordo com as respetivas capacidades instaladas, designadamente no âmbito administrativo-logístico, de manutenção dos sistemas de comunicação e informação, de segurança das instalações e no controlo das respetivas servidões militares, quando existam.

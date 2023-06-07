@@ -2,7 +2,7 @@
 
 ### Escolas e centros de formação
 
-1 - São escolas e centros de formação do SFPM:
+1 - São escolas do SFPM:
 
 a) A Escola de Fuzileiros (EF);
 
@@ -12,10 +12,20 @@ c) A Escola de Mergulhadores (EMERG);
 
 d) A ETNA;
 
-e) O CITAN;
+e) (Revogada.)
 
-f) Os centros de instrução.
+f) (Revogada.)
 
-2 - A estrutura e o funcionamento da EF e da EMERG são definidos nos respetivos regulamentos internos.
+2 - São centros de formação do SFPM:
 
-3 - A estrutura e o funcionamento da EHO são estabelecidos em diploma próprio.
+a) O CITAN;
+
+b) O Centro de Instrução de Helicópteros;
+
+c) O Centro de Instrução de Submarinos;
+
+d) O Centro de Educação Física da Armada (CEFA).
+
+3 - A estrutura e competências da EMERG e dos Centros de Instrução de Helicópteros e de Submarinos são definidas nos respetivos regulamentos internos.
+
+4 - A estrutura e competências da EHO constam de diploma próprio.

@@ -1,25 +1,27 @@
 # Artigo 129.º
 
-### Estrutura
+### Direção Cultural da Marinha
 
-1 - A CCM compreende:
+1 - A DCM compreende:
 
-a) O Diretor da CCM;
+a) O diretor Cultural da Marinha;
 
-b) Os órgãos de apoio, definidos no regulamento interno da CCM.
+b) Os ONC:
 
-2 - São ONC na direta dependência do Diretor da CCM:
+i) O Aquário Vasco da Gama (AVG);
 
-a) O Aquário Vasco da Gama (AVG);
+ii) A Banda da Armada (BA);
 
-b) A Banda da Armada (BA);
+iii) A Biblioteca Central de Marinha (BCM);
 
-c) A Biblioteca Central de Marinha (BCM);
+iv) A fragata D. Fernando II e Glória (FDFG);
 
-d) O Museu de Marinha (MM);
+v) O Museu de Marinha (MM);
 
-e) O Planetário Calouste Gulbenkian (PCG);
+vi) O Planetário de Marinha (PM);
 
-f) A Revista da Armada (RA).
+vii) A Revista da Armada (RA).
 
-3 - A estrutura e o funcionamento da CCM são definidos no respetivo regulamento interno.
+2 - (Revogado.)
+
+3 - (Revogado.)

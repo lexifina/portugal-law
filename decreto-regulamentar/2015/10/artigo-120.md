@@ -1,7 +1,3 @@
-## Subsecção II
-
-## Sistema de Saúde Naval
-
 # Artigo 120.º
 
 ### Centro de Medicina Subaquática e Hiperbárica

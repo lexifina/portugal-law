@@ -14,12 +14,12 @@ c) Assegurar a representação da Marinha em concertos, cerimónias e festivais 
 
 d) Assegurar a execução de concertos ou outras intervenções musicais de caráter recreativo, em organismos militares ou civis;
 
-e) Desenvolver e ministrar os cursos de especialização em clarim, requinta e chefe de terno, sob a direção técnico-pedagógica da DF;
+e) Colaborar com a EF na formação, no âmbito musical;
 
-f) Organizar cursos, estágios e parcerias com estabelecimentos de ensino ou outras entidades, em articulação com a DF, no âmbito da música e artes performativas, com frequência de militares e civis, tendo em vista assegurar a manutenção e aperfeiçoamento do nível artístico dos seus elementos, que interessem especificamente às atividades desenvolvidas pela BA ou à Marinha em geral.
+f) Proporcionar estágios curriculares, em articulação com a DF, a estabelecimentos de ensino e outras entidades no âmbito da música e artes performativas.
 
-3 - O apoio logístico à BA é assegurado pela DP.
+3 - O apoio logístico à BA é assegurado pela UAICM.
 
-4 - O Chefe da BA é um oficial na direta dependência do Diretor da CCM, ao qual compete chefiar a BA.
+4 - (Revogado.)
 
-5 - A estrutura e o funcionamento da BA são definidos no respetivo regulamento interno.
+5 - (Revogado.)

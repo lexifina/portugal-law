@@ -23,3 +23,5 @@ d) Quando o CEMA considerar adequado.
 6 - O CA é secretariado pelo membro presente de menor antiguidade, no caso referido na alínea b) do n.º 2.
 
 7 - O apoio administrativo ao CA é assegurado pelo EMA.
+
+8 - O regimento do CA é aprovado por despacho do CEMA.

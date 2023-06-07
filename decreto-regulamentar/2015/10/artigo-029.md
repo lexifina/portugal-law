@@ -18,4 +18,4 @@ f) Funcionar como ponto de contacto com o exterior no âmbito da área jurídica
 
 g) Colaborar com o Gabinete do CEMA no procedimento de seleção e adjudicação da aquisição de serviços jurídicos externos;
 
-h) Inspecionar as UEO, no âmbito das suas competências.
+h) (Revogada.)

@@ -14,12 +14,12 @@ d) Assegurar a captação e tratamento de água potável e promover a sua distri
 
 e) Garantir a segurança, o policiamento e a manutenção da ordem e da disciplina na sua área de responsabilidade, excetuando as instalações e outros bens patrimoniais atribuídos a outras unidades e serviços.
 
-2 - A Doca da Marinha em Lisboa é parte integrante da BNL, devendo todas as infraestruturas e instalações aí existentes ser consideradas como pertencentes a esta unidade.
+2 - (Revogado.)
 
-3 - O Comandante da BNL é um capitão-de-mar-e-guerra, na direta dependência do Comandante Naval, ao qual compete comandar a BNL.
+3 - O Comandante da BNL encontra-se na direta dependência do Comandante Naval.
 
 4 - O Comandante da BNL é coadjuvado pelo 2.º Comandante da BNL.
 
 5 - Nas ausências, faltas ou impedimentos do Comandante da BNL, a suplência cabe ao 2.º Comandante da BNL.
 
-6 - A estrutura e o funcionamento da BNL são definidos no respetivo regulamento interno.
+6 - (Revogado.)

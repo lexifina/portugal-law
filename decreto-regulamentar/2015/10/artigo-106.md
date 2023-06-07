@@ -8,6 +8,6 @@ a) Conduzir a atividade da IGM no âmbito da organização e processos, através
 
 b) Elaborar e apresentar, nos prazos estabelecidos para o efeito, os relatórios das atividades inspetivas realizadas;
 
-c) Propor e implementar a doutrina da atividade inspetiva, no âmbito da organização e processos;
+c) Elaborar estudos, informações e propostas no âmbito das ações de auditoria e inspeção, da sua competência, bem como no âmbito da doutrina de auditoria e inspeção;
 
-d) Emitir pareceres sobre as matérias da sua competência.
+d) (Revogada.)

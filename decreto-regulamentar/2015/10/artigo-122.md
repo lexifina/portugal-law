@@ -1,7 +1,3 @@
-## Subsecção III
-
-## Laboratórios
-
 # Artigo 122.º
 
 ### Laboratório de Análise Químicas

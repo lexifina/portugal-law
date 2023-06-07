@@ -14,7 +14,7 @@ d) Propor a alteração do grau de classificação de segurança de documentos d
 
 e) Propor e implementar a doutrina de gestão de arquivo e programar a avaliação, a seleção e a eliminação da documentação produzida pelas UEO;
 
-f) Inspecionar as UEO, no âmbito das suas competências;
+f) (Revogada;)
 
 g) Apoiar os serviços técnicos das UEO, no âmbito das respetivas competências;
 

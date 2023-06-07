@@ -10,4 +10,6 @@ São bases da Marinha:
 
 a) A BNL;
 
-b) A UAICM.
+b) A Base de Fuzileiros (BF);
+
+c) A UAICM.

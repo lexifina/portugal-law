@@ -6,22 +6,28 @@
 
 a) Assegurar o exercício da autoridade técnica no domínio das infraestruturas, nas áreas de arquitetura, estrutura, sistemas de climatização e ventilação, sistemas de energia e gestão da respetiva eficiência, segurança contra incêndios, apetrechamento e outro material de uso exclusivo em infraestruturas, fixando e difundindo normas de natureza especializada;
 
-b) Assegurar o planeamento, programação, coordenação, controlo e fiscalização técnica e económica das atividades a realizar no âmbito da conceção, obtenção, construção, modificação, manutenção e demolição das infraestruturas afetas à Marinha, incluindo sistemas e equipamentos principais do seu âmbito e o primeiro apetrechamento;
+b) Assegurar o planeamento, programação, coordenação, controlo e fiscalização técnica e económica das atividades a realizar no âmbito da conceção, obtenção, construção, modificação, manutenção e demolição das infraestruturas afetas à Marinha, incluindo sistemas e equipamentos principais do seu âmbito e aquisição de bens e serviços neste domínio;
 
-c) Propor e implementar a doutrina, no âmbito das infraestruturas;
+c) Assegurar a realização de contratos de empreitadas de obras públicas;
 
-d) Inspecionar e auditar as UEO, no âmbito das suas competências;
+d) Propor e implementar a doutrina, no âmbito das infraestruturas;
 
-e) Propor a aquisição, permuta, arrendamento e alienação de imóveis, e tratar dos assuntos correntes relativos ao património imobiliário afeto à Marinha;
+e) Inspecionar e auditar as UEO, no âmbito das suas competências;
 
-f) Assegurar a execução das atividades relativas à fiscalização de servidões militares e de outras restrições ao direito de propriedade que interessem à Marinha;
+f) Propor a aquisição, permuta, arrendamento e alienação de imóveis, e tratar dos assuntos correntes relativos ao património imobiliário afeto à Marinha;
 
-g) Assegurar a execução das atividades relativas à emissão de pareceres no âmbito do licenciamento de construções e de obras nas áreas abrangidas por servidões militares;
+g) Assegurar a execução das atividades relativas à fiscalização de servidões militares e de outras restrições ao direito de propriedade que interessem à Marinha;
 
-h) Participar na execução das atividades relativas à manutenção, funcionamento e fiscalização de infraestruturas de utilização pela NATO;
+h) Participar na execução das atividades relativas à manutenção, funcionamento e fiscalização de infraestruturas das UEO da Marinha e de utilização pela NATO;
 
-i) Apoiar os serviços técnicos das UEO, no âmbito das respetivas competências;
+i) Participar em ações específicas de manutenção preventiva ou corretiva das infraestruturas e equipamentos das UEO da Marinha;
 
-j) Representar a Marinha nos domínios técnicos da sua responsabilidade.
+j) Participar na gestão de contratos e de projetos no âmbito da edificação, aquisição e sustentação de novos equipamentos e tecnologias de uso exclusivo em infraestruturas das UEO da Marinha;
 
-2 - O Diretor de Infraestruturas é um comodoro, na direta dependência do Superintendente do Material, ao qual compete dirigir a DI.
+k) Apoiar os serviços técnicos das UEO, no âmbito das respetivas competências;
+
+l) Avaliar a condição técnica das infraestruturas, no âmbito das suas competências;
+
+m) Representar a Marinha nos domínios técnicos da sua responsabilidade.
+
+2 - O diretor de Infraestruturas é um comodoro.

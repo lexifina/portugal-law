@@ -4,20 +4,20 @@
 
 # Artigo 116.º
 
-### Centro Integrado de Treino e Avaliação Naval
+### Centro Integrado de Tática e Análise Naval
 
-1 - O CITAN é um órgão de base responsável pelo treino e avaliação das unidades navais e forças navais, ao qual compete:
+1 - O CITAN é um órgão de base, na direta dependência do Comandante da Flotilha, responsável pela formação técnico-profissional, contínua, do pessoal da Marinha, nas áreas da tática e das operações navais, do aconselhamento da navegação, da fiscalização dos espaços marítimos e da operação e exploração de sistemas de comando e controlo de natureza tática e, nesse âmbito, integra o SFPM.
 
-a) Assegurar as ações e atividades de treino e avaliação das unidades navais;
+2 - Ao CITAN compete:
 
-b) Assegurar o estudo e análise da doutrina e procedimentos associados à tática e operações navais;
+a) Assegurar o estudo e análise da doutrina e procedimentos associados à tática e operações navais;
 
-c) Realizar ações de formação nas áreas da tática e das operações navais, de acordo com o estabelecido no SFPM;
+b) Realizar ações de formação nas áreas indicadas no número anterior, de acordo com o estabelecido no SFPM;
 
-d) Apoiar as operações navais.
+c) Apoiar as operações navais;
 
-2 - O CITAN é ainda um centro de formação do SFPM.
+d) (Revogada.)
 
-3 - O Diretor do CITAN encontra-se na direta dependência do 2.º Comandante Naval.
+3 - O diretor do CITAN é coadjuvado e substituído, nas suas ausências, faltas e impedimentos, pelo subdiretor do CITAN.
 
-4 - A estrutura e o funcionamento do CITAN são definidos no respetivo regulamento interno.
+4 - (Revogado.)

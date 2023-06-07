@@ -10,6 +10,6 @@ b) A Direção de Administração Financeira (DAF);
 
 c) A Direção de Contabilidade e Operações Financeiras (DCOF);
 
-d) A Direção de Auditoria e Controlo Financeiro (DACF).
+d) A Direção de Controlo Financeiro (DCF).
 
-2 - A estrutura e o funcionamento da SF, DAF, DCOF e DACF são definidos nos respetivos regulamentos internos.
+2 - A SF integra ainda na sua estrutura o Gabinete de Normativo e Apoio à Contratação Pública, cuja dependência, estrutura e competências são definidas no regulamento interno da SF.

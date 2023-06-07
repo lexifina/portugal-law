@@ -1,7 +1,3 @@
-## Subsecção V
-
-## Outros órgãos
-
 # Artigo 125.º
 
 ### Pontos de apoio naval

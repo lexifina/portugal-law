@@ -20,6 +20,6 @@ b) O Conselho Superior de Disciplina da Armada (CSDA);
 
 c) A Junta Médica de Revisão da Armada (JMRA).
 
-3 - A composição, o funcionamento e as competências do CSDA constam do Regulamento de Disciplina Militar.
+3 - (Revogado);
 
-4 - A composição e as competências da JMRA são regulamentadas na secção V do capítulo VI do presente decreto regulamentar.
+4 -(Revogado);

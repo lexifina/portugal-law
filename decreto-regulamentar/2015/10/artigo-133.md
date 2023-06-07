@@ -30,6 +30,6 @@ k) Promover a cooperação com instituições culturais e educativas externas à
 
 l) Promover, nas áreas de biblioteca e arquivo histórico, a coordenação entre as diversas bibliotecas da Marinha e a cooperação com o CDIACM, no âmbito da autoridade técnica exercida nas áreas de arquivística e documentação.
 
-3 - O Diretor da BCM é um oficial na direta dependência do Diretor da CCM, ao qual compete dirigir a BCM.
+3 - (Revogado.)
 
-4 - A estrutura e o funcionamento da BCM são definidos no respetivo regulamento interno.
+4 - (Revogado.)

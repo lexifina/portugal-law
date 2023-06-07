@@ -2,24 +2,22 @@
 
 ### Competências
 
-1 - Ao CN compete, no âmbito das missões reguladas por legislação própria, apoiar o exercício do comando por parte do CEMA, a fim de:
+1 - Ao CN compete:
 
-a) Garantir, no seu âmbito, a fiscalização nos espaços marítimos sob soberania ou jurisdição nacional, tendo em vista o exercício da autoridade do Estado através da adoção das medidas e ações necessárias, nos termos da lei e do direito internacional;
+a) Assegurar o exercício das incumbências previstas no artigo anterior;
 
-b) Assegurar o funcionamento dos centros de coordenação de busca e salvamento marítimo, coordenar as ações relativas a acidentes ocorridos com navios ou embarcações e disponibilizar unidades operacionais para busca e salvamento;
+b) Garantir a análise, a experimentação, o desenvolvimento e a atualização das instruções, padrões e procedimentos táticos e operativos;
 
 c) Exercer o comando de nível operacional das forças e unidades operacionais envolvidas em operações e atividades no domínio das ciências e técnicas do mar;
 
 d) Garantir a cooperação e aconselhamento naval da navegação, sem prejuízo da competência da Autoridade Nacional de Controlo de Tráfego Marítimo, dos órgãos e serviços da AMN e de outras entidades com competências neste domínio.
 
-2 - Ao CN compete ainda:
+2 - No âmbito da alínea b) do n.º 1, e sem prejuízo do disposto no artigo 14.º da Lei n.º 34/2006, de 28 de julho, o CN assegura, nos termos da lei e do direito internacional:
 
-a) Assegurar o cumprimento das missões de natureza operacional que sejam atribuídas à Marinha;
+a) O exercício da autoridade do Estado nas zonas marítimas sob soberania ou jurisdição nacional e no alto-mar;
 
-b) Assegurar a geração, a preparação, o aprontamento e a sustentação das forças e meios da componente operacional do sistema de forças;
+b) A realização de atividades no domínio das ciências e técnicas do mar.
 
-c) Elaborar diretivas, planos, estudos, informações, pareceres e propostas relativos ao exercício da atividade operacional;
+3 - O CN mantém o Comando Conjunto para as Operações Militares (CCOM) permanentemente informado das forças e meios empenhados e do desenvolvimento e resultados das respetivas operações, através da partilha, em rede, da informação dos sistemas de comando e controlo da Marinha.
 
-d) Implementar e contribuir para a elaboração de doutrina básica da Marinha, na sua área de responsabilidade;
-
-e) Elaborar e implementar a doutrina setorial e aprovar os normativos funcionais e técnicos que regulam o exercício da atividade operacional.
+4 - Para efeitos de apoio ao exercício do comando por parte do CEMGFA e por sua determinação, o CN é colocado, pelo CEMA, na dependência direta do CEMGFA e relaciona-se diretamente com o CCOM, atuando de acordo com as modalidades de comando e controlo a definir caso a caso pelo CEMGFA.

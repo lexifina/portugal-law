@@ -4,7 +4,7 @@
 
 À SP compete:
 
-a) Implementar e assegurar o cumprimento da execução da diretiva de planeamento de gestão de recursos humanos;
+a) (Revogada.)
 
 b) Elaborar diretivas, planos, estudos, propostas, informações e pareceres relativos à sua área de responsabilidade;
 
@@ -14,9 +14,9 @@ d) Assegurar as atividades de formação, sem prejuízo das competências de out
 
 e) Garantir a administração do Sistema de Formação Profissional da Marinha (SFPM);
 
-f) Implementar e contribuir para a elaboração de doutrina básica da Marinha, na sua área de responsabilidade;
+f) Elaborar e implementar a doutrina da Marinha, na sua área de responsabilidade;
 
-g) Elaborar e implementar a doutrina setorial e aprovar os normativos funcionais e técnicos que regulem a administração dos recursos, na sua área de responsabilidade;
+g) Aprovar os normativos funcionais e técnicos que regulem a administração dos recursos, na sua área de responsabilidade;
 
 h) Contribuir para a conceção, desenvolvimento e exploração dos sistemas de classificação ocupacional e de informação de apoio à gestão dos recursos humanos;
 
@@ -30,4 +30,6 @@ l) Promover o bem-estar e assegurar o apoio social;
 
 m) Assegurar as atividades relacionadas com a assistência religiosa na Marinha;
 
-n) Assegurar as atividades atinentes à gestão da qualidade do Sistema de Gestão de Recursos Humanos da Marinha.
+n) Assegurar as atividades atinentes à gestão da qualidade do Sistema de Gestão de Recursos Humanos da Marinha;
+
+o) Elaborar e implementar a doutrina no domínio da segurança e saúde no trabalho (SST), bem como assegurar a gestão, a coordenação e a execução de atividades neste âmbito, em colaboração com os restantes UEO da Marinha com competências nestas matérias.

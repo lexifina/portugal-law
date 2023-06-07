@@ -18,4 +18,4 @@ f) A Direção de Apoio Social (DAS);
 
 g) A Direção Jurídica (DJ).
 
-2 - A estrutura e o funcionamento da SP, DF, DP, DS, CAR, DAS e DJ são definidos nos respetivos regulamentos internos.
+2 - A SP integra ainda na sua estrutura o Departamento Administrativo e Financeiro, o Gabinete de SST, o Gabinete de Estudos e Planeamento e Sistemas de Informação do Pessoal e o Gabinete da Qualidade do Sistema de Gestão das Pessoas da Marinha, cuja dependência, estrutura e competência são definidas no regulamento interno da SP.

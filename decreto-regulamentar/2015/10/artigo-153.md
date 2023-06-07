@@ -1,5 +1,5 @@
 # Artigo 153.º
 
-### Regulamentos internos
+### Organização interna
 
-Os regulamentos internos referidos no presente decreto regulamentar são aprovados por despacho do CEMA, no prazo de 180 dias, a contar da data da entrada em vigor do presente decreto regulamentar.
+A organização interna das UEO é definida nos respetivos regulamentos internos, a aprovar por despacho do CEMA.

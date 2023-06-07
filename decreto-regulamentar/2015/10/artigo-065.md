@@ -14,4 +14,4 @@ c) Elaborar estudos relativos às operações navais e propor a respetiva doutri
 
 d) Estudar, propor e promover a observância dos requisitos de treino e padrões de prontidão das forças e meios da componente operacional do sistema de forças.
 
-3 - Ao Chefe do Estado-Maior do CN, na dependência do 2.º Comandante Naval, compete chefiar o Estado-Maior.
+3 - O Chefe do Estado-Maior do CN encontra-se na direta dependência do Comandante Naval.

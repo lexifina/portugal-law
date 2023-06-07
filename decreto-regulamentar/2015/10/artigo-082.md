@@ -1,7 +1,3 @@
-## Secção III
-
-## Juntas de saúde dos comandos
-
 # Artigo 82.º
 
 ### Constituição das juntas

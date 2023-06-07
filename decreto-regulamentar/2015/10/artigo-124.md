@@ -1,7 +1,3 @@
-## Subsecção IV
-
-## Depósitos
-
 # Artigo 124.º
 
 ### Depósito de Munições NATO de Lisboa

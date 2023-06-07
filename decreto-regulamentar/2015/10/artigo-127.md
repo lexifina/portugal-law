@@ -1,13 +1,19 @@
-## Secção VII
+## Secção VI
 
-## Órgãos de natureza cultural
+## Órgãos culturais
 
 ## Subsecção I
 
-## Órgãos de natureza cultural na dependência do Diretor da Comissão Cultural de Marinha
+## Órgãos culturais
 
 # Artigo 127.º
 
 ### Missão
 
-A Comissão Cultural de Marinha (CCM) tem por missão apoiar a representação institucional e a comunicação estratégica da Marinha, divulgar e garantir a preservação da sua memória histórica e contribuir para o desenvolvimento científico e cultural nacional, no âmbito do mar e das ciências náuticas, competindo-lhe dirigir as atividades dos ONC, com exceção da Academia de Marinha.
+1 - Os órgãos culturais são órgãos de base que têm por missão realizar atividades de apoio geral da Marinha no domínio do património cultural, histórico, artístico, literário e científico.
+
+2 - São órgãos culturais:
+
+a) A Academia de Marinha (AM);
+
+b) A Direção Cultural da Marinha (DCM).

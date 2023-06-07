@@ -1,7 +1,3 @@
-## Secção V
-
-## Junta Médica de Revisão da Armada
-
 # Artigo 92.º
 
 ### Natureza

@@ -1,17 +1,27 @@
-## Secção V
+## Secção IV
 
-## Esquadrilhas
+## Flotilha
 
 # Artigo 118.º
 
-### Esquadrilhas
+### Competências
 
-1 - As esquadrilhas são órgãos de base, às quais compete:
+1 - A Flotilha é um órgão de base, à qual compete:
 
-a) Aprontar e apoiar logística e administrativamente as forças e unidades operacionais que lhe estejam atribuídas;
+a) Apoiar logística e administrativamente as forças, unidades e destacamentos operacionais que lhes estejam atribuídos;
 
-b) Assegurar a gestão das qualificações operacionais das forças e unidades operacionais que lhe estejam atribuídas.
+b) Promover a definição e a atualização dos padrões de prontidão que as unidades navais e outros meios operacionais devem satisfazer;
 
-2 - Os comandantes das esquadrilhas encontram-se na direta dependência do 2.º Comandante Naval.
+c) Conduzir o treino e a avaliação das forças, unidades e destacamentos operacionais, bem como dos centros da componente operacional do sistema de forças;
 
-3 - As esquadrilhas são criadas e extintas por despacho do CEMA.
+d) Assegurar a análise, a experimentação, o desenvolvimento e a atualização das instruções, padrões e procedimentos táticos e operativos;
+
+e) Assegurar a gestão das qualificações operacionais das unidades operacionais, que lhes estejam atribuídos;
+
+f) Assegurar o apoio às esquadrilhas e aos agrupamentos, que lhes estejam atribuídos;
+
+g) Supervisionar o aprontamento das unidades navais e outros meios operacionais que estejam atribuídos às esquadrilhas e agrupamentos.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
