@@ -10,8 +10,8 @@ b) A Assessoria Pessoal do CEME;
 
 c) O Departamento de Assessoria Jurídica e Contencioso (DEJUR);
 
-d) A Repartição de Comunicação, Relações Públicas e Protocolo (RCRPP);
+d) A Divisão de Comunicação do Exército (DCE);
 
-e) A Repartição de Relações Externas de Defesa (RRED);
+e) (Revogada.)
 
 f) A Repartição de Assuntos Gerais (RAG).

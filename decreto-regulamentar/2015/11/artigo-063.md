@@ -8,7 +8,7 @@
 
 A área do apoio logístico compreende:
 
-a) O CIGEOE;
+a) (Revogada.)
 
 b) O Regimento de Manutenção (RMAN);
 

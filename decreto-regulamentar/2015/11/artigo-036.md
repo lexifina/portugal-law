@@ -20,18 +20,22 @@ f) Planear e coordenar a manutenção orgânica dos materiais e das infraestrutu
 
 g) Garantir o cumprimento das disposições legais sobre servidões militares na área à sua responsabilidade;
 
-h) Registar e controlar todo o material à carga do CMDLOG e órgãos apoiados, bem como promover a obtenção, armazenagem e distribuição dos materiais necessários;
+h) (Revogada.)
 
-i) Elaborar o plano de atividades do CMDLOG e coordenar o dos órgãos apoiados;
+i) Executar a gestão patrimonial dos bens de imobilizado;
 
 j) Promover as medidas necessárias à segurança e saúde no trabalho, de acordo com as orientações superiores;
 
-k) Assegurar a vigilância das instalações e promover as medidas necessárias à sua segurança e defesa;
+k) (Revogada.)
 
 l) Assegurar o apoio de comunicações e sistemas de informação ao CMDLOG e órgãos apoiados;
 
-m) Prestar cuidados de saúde de proximidade, através da Unidade de Saúde, aos militares do Exército, e, na sua capacidade sobrante, a outros utentes, de acordo com as diretivas superiores e ao abrigo de protocolos estabelecidos;
+m) Prestar cuidados de enfermagem básicos, com capacidade de suporte básico de vida;
 
 n) Programar e executar atividades de artes gráficas e de audiovisuais necessárias ao Exército, ao nível da produção, processamento, catalogação e arquivo de meios auxiliares de instrução e de captação de imagem;
 
-o) Arquivar as imagens fixas, animadas e virtuais produzidas para o Exército.
+o) Promover a obtenção, armazenagem e distribuição dos materiais e a contratualização dos serviços externos necessários;
+
+p) Confecionar e distribuir alimentação;
+
+q) Prestar apoio em alojamento e alimentação, através das messes militares sob sua autoridade hierárquica.

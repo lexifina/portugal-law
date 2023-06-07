@@ -23,3 +23,5 @@ a) A Direção de Comunicações e Sistemas de Informação (DCSI);
 b) A Direção de História e Cultura Militar (DHCM);
 
 c) A Direção de Educação (DE).
+
+d) O Centro de Experimentação e Modernização Tecnológica do Exército (CEMTEx).

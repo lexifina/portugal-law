@@ -16,4 +16,4 @@ e) A Direção de Saúde (DS);
 
 f) A Unidade de Apoio do CMDPESS.
 
-2 - O Comandante do Pessoal é um tenente-general, designado por Ajudante-General do Exército, que dispõe de autoridade funcional e técnica no âmbito da administração dos recursos humanos, da formação e da saúde e tem na sua dependência hierárquica as UEO definidas por despacho do CEME.
+2 - O Comandante do Pessoal é um tenente-general, designado por Ajudante-General do Exército, que dispõe de autoridade funcional e técnica no âmbito da administração dos recursos humanos, da formação, do apoio social, da saúde e da psicologia, e tem na sua dependência hierárquica as UEO definidas por despacho do CEME.

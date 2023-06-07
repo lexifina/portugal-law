@@ -1,7 +1,3 @@
-## Capítulo X
-
-## Disposições transitórias e finais
-
 # Artigo 89.º-A
 
 ### Laboratório Nacional do Medicamento

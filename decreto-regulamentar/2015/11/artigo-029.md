@@ -22,8 +22,8 @@ g) Garantir o cumprimento das disposições legais sobre servidões militares na
 
 h) Registar e controlar todo o material à carga do CMDPESS e órgãos apoiados, bem como promover a obtenção e distribuição dos materiais necessários;
 
-i) Elaborar o plano de atividades do CMDPESS e coordenar o dos órgãos apoiados;
+i) (Revogada.)
 
 j) Promover as medidas necessárias à segurança e saúde no trabalho, de acordo com as orientações superiores;
 
-k) Assegurar a vigilância das instalações e promover as medidas necessárias à sua segurança e defesa.
+k) (Revogada.)

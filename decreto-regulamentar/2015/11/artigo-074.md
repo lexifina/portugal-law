@@ -35,3 +35,11 @@ m) Planear e coordenar a manutenção das infraestruturas à sua responsabilidad
 n) Garantir o cumprimento das disposições legais sobre servidões militares na área à sua responsabilidade;
 
 o) Assegurar o funcionamento do Centro de Línguas do Exército.
+
+p) Assegurar a execução do plano de formação anual no âmbito das suas atribuições;
+
+q) Sempre que lhe for determinado, coordenar processos relacionados com os cursos de formação inicial dos sargentos do quadro permanente, através da estrutura do Exército adstrita ao Departamento Politécnico do Exército, da Unidade Politécnica Militar;
+
+r) Incorporar os militares destinados aos regimes de voluntariado e de contrato;
+
+s) Ministrar cursos de formação, designadamente os de progressão na carreira.

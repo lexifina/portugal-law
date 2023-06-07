@@ -2,14 +2,14 @@
 
 ### Centro de Segurança Militar e Informações do Exército
 
-Ao CSMIE compete:
+1 - O CSMIE tem por missão executar e coordenar as atividades no âmbito das informações militares, contrainformação e segurança militar do Exército.
 
-a) Definir normas e procedimentos nas áreas das informações militares, contrainformação e segurança militar do Exército;
+2 - Ao CSMIE compete, em especial:
 
-b) Processar as notícias recebidas das UEO da componente fixa e elaborar relatórios periódicos e não periódicos, seguindo o princípio da necessidade de conhecer;
+a) Propor as normas e procedimentos nas áreas das informações militares, contrainformação e segurança militar no Exército;
 
-c) Elaborar relatórios periódicos e não periódicos de informações militares, no âmbito do ciclo da produção da informação, e difundir a informação relevante às várias UEO do Exército, de acordo como princípio da necessidade de conhecer;
+b) Estabelecer um canal técnico com o CISMIL, em coordenação com o EME, no âmbito das informações militares, contrainformação e segurança militar;
 
-d) Constituir-se como polo de formação no âmbito do sistema de formação do Exército;
+c) Realizar, de forma sistemática, a pesquisa e o processamento de notícias e a disseminação das informações produzidas para apoio e contributo à geração, preparação, aprontamento e sustentação das forças e meios da componente operacional do sistema de forças, bem como para a garantia da segurança militar no Exército;
 
-e) Estabelecer um canal técnico, no âmbito das informações militares, com o CISMIL.
+d) Conduzir as atividades de contrainformação de rotina, necessárias à avaliação permanente das ameaças à segurança militar no Exército.

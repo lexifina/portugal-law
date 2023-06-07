@@ -10,10 +10,10 @@
 
 2 - Ao CMDPESS compete, em especial:
 
-a) Estudar, propor, coordenar e emitir pareceres no âmbito da administração dos recursos humanos, da formação e da saúde;
+a) Estudar, propor, coordenar e emitir pareceres no âmbito da administração dos recursos humanos, da formação, do apoio social, da saúde e da psicologia;
 
 b) Elaborar e consolidar as propostas do plano de atividades do CMDPESS, incluindo as despesas com pessoal do Exército, bem como controlar a sua execução;
 
-c) Colaborar em ações de cooperação militar, na sua área de responsabilidade;
+c) (Revogada.)
 
-d) Apoiar o CFT, no âmbito da sua área funcional, no planeamento das atividades relativas ao emprego operacional dos ECOSF.
+d) (Revogada.)

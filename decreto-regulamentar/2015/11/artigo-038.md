@@ -10,9 +10,9 @@
 
 ### Natureza e composição
 
-1 - O CFT é um comando destinado ao cumprimento das missões de natureza operacional e dispõe de um quartel-general, designado por Quartel-General do Comando das Forças Terrestres (QGCFT), que assegura a administração e direção das unidades e órgãos da componente fixa colocados na sua dependência hierárquica.
+1 - O DFIN assegura as atividades do Exército no domínio da administração dos recursos financeiros, de acordo com os planos e diretivas aprovados pelo CEME.
 
-2 - O Comandante das Forças Terrestres é um tenente-general, na direta dependência do CEME, coadjuvado por um major-general, designado por 2.º Comandante do CFT.
+2 - Ao DFIN compete, em especial:
 
 3 - O Comandante das Forças Terrestres dispõe de autoridade funcional e técnica no âmbito das operações terrestres.
 
@@ -25,6 +25,8 @@ b) Os comandos das zonas militares e os respetivos quartéis-generais;
 c) Os comandos das grandes unidades e os respetivos quartéis-generais;
 
 d) Os ECOSF.
+
+e) O Centro de Capacitação Tática, Simulação e Certificação (CCTSC).
 
 5 - Os quartéis-generais referidos nas alíneas b) e c) do número anterior são estruturas de comando da componente fixa que asseguram as competências no âmbito territorial e são designados por:
 

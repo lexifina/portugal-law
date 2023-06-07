@@ -6,7 +6,7 @@
 
 2 - À DSP compete, em especial:
 
-a) Desenvolver programas de apoio social e coordenar a utilização das diversas UEO do Exército e dos outros ramos das Forças Armadas, quando disponibilizados, em missões de apoio social, com vista ao seu eficiente aproveitamento;
+a) (Revogada.)
 
 b) Planear e coordenar as atividades no âmbito do apoio social;
 
@@ -42,7 +42,7 @@ q) Proceder à conferência e verificação das alterações de vencimentos, com
 
 r) Proceder ao acompanhamento do tratamento das matérias remuneratórias, propondo soluções para a resolução de questões que sejam colocadas pelos organismos processadores das remunerações da defesa nacional;
 
-s) Elaborar propostas de regulamentos, manuais e instruções sobre matérias do âmbito das suas competências;
+s) (Revogada.)
 
 t) Emitir parecer, quando solicitado, sobre processos disciplinares e realizar estudos sobre matérias de natureza disciplinar;
 
@@ -52,13 +52,17 @@ v) Emitir parecer sobre a responsabilidade civil emergente de acidentes de viaç
 
 w) Orientar a elaboração e emitir parecer sobre os processos relacionados com acidentes e ou doenças ocorridas nas ex-províncias ultramarinas e nas UEO do Exército;
 
-x) Assegurar apoio técnico-jurídico, em matérias de natureza disciplinar, à atividade operacional das FND;
+x) (Revogada.)
 
-y) Proceder à valorização do cadastro disciplinar dos militares na base de dados do sistema de avaliação do mérito dos militares do Exército, em conformidade com o previsto no Regulamento de Avaliação do Mérito dos Militares do Exército;
+y) (Revogada.)
 
 z) Elaborar, promover, difundir e assegurar a supervisão do cumprimento dos programas e normas técnicas no âmbito da segurança e saúde no trabalho e prevenção de acidentes, de acordo com as orientações superiores, bem como emitir parecer técnico sobre acidentes relacionados com o desempenho de missões ou atos de serviço;
 
-aa) Coligir e analisar dados estatísticos e elementos de informação sobre matérias do âmbito das suas competências.
+aa) Averbar o registo criminal e disciplinar, prémios, condecorações e louvores dos militares e trabalhadores civis;
+
+bb) Coordenar, dinamizar e acompanhar a implementação da integração da perspetiva de género no Exército;
+
+cc) Coordenar o planeamento, a monitorização e a avaliação dos planos nacionais constantes da Estratégia Nacional para a Igualdade e a Não-Discriminação, bem como do Plano Nacional de Ação para a Implementação da RCSNU 1325.
 
 3 - A DSP tem na sua dependência hierárquica as UEO definidas por despacho do CEME.
 

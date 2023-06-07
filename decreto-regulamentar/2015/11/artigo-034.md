@@ -20,6 +20,14 @@ f) Promover a contratação de apoio de serviços às FND;
 
 g) Executar os atos necessários ao processamento e pagamento das rendas relativas aos prédios militares arrendados ao Exército;
 
-h) Coordenar, supervisionar e apoiar as UEO do Exército na área da contratação pública.
+h) Apoiar as UEO do Exército na área da contratação pública;
+
+i) Garantir a obtenção dos despachos necessários ao lançamento dos procedimentos aquisitivos, no âmbito da sua área de responsabilidade;
+
+j) Submeter os contratos a fiscalização prévia do Tribunal de Contas, nos termos das normas legais em vigor;
+
+k) Garantir a coordenação entre o Exército, a Unidade Ministerial de Compras do MDN e a Entidade de Serviços Partilhados da Administração Pública, I. P., para a implementação das orientações emanadas por aquelas entidades, no âmbito da contratação centralizada;
+
+l) Promover a liberação de cauções e executar a aplicação de penalidades por mora ou incumprimento contratual.
 
 3 - O diretor da DA é um brigadeiro-general.

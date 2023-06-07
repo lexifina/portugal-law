@@ -2,15 +2,15 @@
 
 ### Direção de Infraestruturas
 
-1 - À DIE compete assegurar a direção, a coordenação, o controlo administrativo e a execução técnica das atividades de conceção, construção, remodelação, manutenção, conservação e demolição referentes a instalações do Exército, incluindo os respetivos equipamentos e redes, bem como verificar a qualidade dos serviços prestados e a segurança dos mesmos.
+1 - À DIE compete assegurar a direção, a coordenação, o controlo administrativo e a execução técnica das atividades de conceção, construção, remodelação, manutenção, conservação e demolição referentes a instalações do Exército, incluindo os respetivos equipamentos e redes, bem como fiscalizar a funcionalidade e qualidade da execução dos respetivos contratos, quanto à realização do interesse público, visado pela decisão de contratar e a observância das normas de segurança aplicáveis.
 
 2 - À DIE compete, em especial:
 
-a) Garantir a gestão do património imóvel em utilização pelo Exército e salvaguardar os seus interesses, designadamente na aquisição, no arrendamento, no registo e na alienação de imóveis;
+a) Garantir a gestão do património imóvel em utilização pelo Exército e salvaguardar os seus interesses, designadamente na aquisição, no arrendamento, no registo, nas cedências de utilização, na alienação e nas demais modalidades de rentabilização previstas na lei;
 
 b) Executar, no seu âmbito, os atos relativos à gestão das casas do Estado à responsabilidade do Exército e a servidões militares e a outras restrições ao direito de propriedade, em função das necessidades de defesa nacional;
 
-c) Emitir pareceres sobre os autos de infraestruturas;
+c) (Revogada.)
 
 d) Promover estudos técnicos de viabilidade, adaptação e normalização que envolvam as infraestruturas do Exército e as intervenções a que as mesmas devem ser sujeitas;
 
@@ -24,7 +24,7 @@ h) Desenvolver ações que decorrem da doutrina ambiental do Exército e promove
 
 i) Apoiar as FND em matéria de instalações de campanha;
 
-j) Colaborar em ações de formação no âmbito das construções e infraestruturas;
+j) (Revogada.)
 
 k) Apoiar o EMGFA e os ramos das Forças Armadas no âmbito da direção de obras de construção e infraestruturas, mantendo a capacidade para coordenar direções de obras a gerar para o efeito;
 
@@ -36,8 +36,8 @@ n) Representar o dono da obra em toda a fase de execução contratual de empreit
 
 o) Promover e valorizar o património edificado pelo Exército, desenvolvendo e apoiando a investigação e outros trabalhos relacionados com a arqueologia militar, fortificações e obras militares de carácter histórico, contribuindo para a divulgação e preservação da cultura militar;
 
-p) Colaborar em projetos de investigação e desenvolvimento, no âmbito das infraestruturas militares;
+p) (Revogada.)
 
-q) Manter em arquivo, nos termos previstos na lei, os processos de obras.
+q) (Revogada.)
 
 3 - O diretor da DIE é um brigadeiro-general.

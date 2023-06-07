@@ -1,34 +1,34 @@
 # Artigo 33.º
 
-### Direção de Material e Transportes
+### Direção de Reabastecimento e Transportes
 
-1 - À DMT compete executar, de forma integrada, as atividades logísticas de reabastecimento, transporte, manutenção e serviços, de acordo com as diretivas superiores, exceto as referentes à aquisição e alienação de abastecimentos.
+1 - À DRT compete executar, de forma integrada, as atividades logísticas de reabastecimento, transportes e serviços de campanha do Exército, de acordo com as diretivas superiores, exceto as referentes à aquisição e alienação de abastecimentos.
 
-2 - À DMT compete, em especial:
+2 - À DRT compete, em especial:
 
 a) Elaborar e executar os planos de reabastecimento, manutenção e transporte;
 
-b) Realizar estudos técnicos no âmbito do reabastecimento, transporte, manutenção e serviços de campanha;
+b) (Revogada.)
 
 c) Definir as características técnicas dos materiais, no seu âmbito, a adquirir em função dos requisitos operacionais;
 
 d) Assegurar a receção e validação de todos os artigos e serviços a adquirir ou adquiridos pelo Exército na sua área de responsabilidade;
 
-e) Elaborar, no seu âmbito, instruções técnicas específicas relativas aos sistemas e equipamentos, ao serviço do Exército;
+e) (Revogada.)
 
 f) Elaborar normas e diretivas técnicas específicas relativas aos procedimentos de atividades logísticas de reabastecimento, manutenção, transporte e serviços de campanha;
 
-g) Emitir parecer sobre os efetivos a empenhar em tarefas de reabastecimento, manutenção e transporte e serviços de campanha;
+g) (Revogada.)
 
 h) Coordenar e colaborar na prestação de apoio logístico a outros ramos das Forças Armadas, forças de segurança, Autoridade Nacional de Proteção Civil e outros serviços, organismos e entidades do Estado, bem como a forças internacionais instaladas ou em trânsito no país e às forças nacionais em território estrangeiro, nos momentos e condições que lhe forem determinados;
 
 i) Garantir a ligação entre as FND e as estruturas logísticas, para a concretização do apoio a essas forças;
 
-j) Garantir a gestão dos materiais, com base nos sistemas de informação;
+j) (Revogada.)
 
 k) Proceder à catalogação dos abastecimentos do Exército;
 
-l) Garantir um repositório digital de informação técnica relativa aos materiais sob a sua responsabilidade;
+l) (Revogada.)
 
 m) Elaborar a lista de artigos regulados, fixando os níveis de abastecimentos e os níveis das reservas de guerra;
 
@@ -40,19 +40,19 @@ p) Coordenar os assuntos respeitantes ao sistema de alimentação, no domínio d
 
 q) Assegurar e coordenar o sistema de alimentação a todas as UEO do Exército, em conformidade com os padrões de qualidade superiormente estabelecidos;
 
-r) Emitir parecer sobre os autos de material;
+r) (Revogada.)
 
-s) Propor a alienação dos artigos e materiais considerados incapazes ou obsoletos;
+s) (Revogada.)
 
-t) Formular e concretizar as políticas de manutenção, em conformidade com a doutrina vigente;
+t) (Revogada.)
 
-u) Elaborar e promover a aprovação de planos de manutenção programada para todos os sistemas de armas ao serviço do Exército, bem como o seu acompanhamento e atualização;
+u) (Revogada.)
 
-v) Apoiar tecnicamente as unidades e os órgãos de manutenção do Exército;
+v) (Revogada.)
 
-w) Calcular as necessidades de sobressalentes em função dos programas de operação e planos de manutenção;
+w) (Revogada.)
 
-x) Superintender na manutenção dos artigos e materiais do Exército, de acordo com as diretivas superiores;
+x) (Revogada.)
 
 y) Garantir o apoio geral em transportes de tropas e material no interior e exterior do território nacional;
 
@@ -60,10 +60,10 @@ z) Gerir as verbas e executar os procedimentos relativos às deslocações indiv
 
 aa) Promover a execução do despacho alfandegário do material destinado ao Exército;
 
-bb) Produzir e reparar artigos de fardamento e equipamento do Exército;
+bb) (Revogada.)
 
 cc) Assegurar a venda de artigos de fardamento individual, artigos honoríficos e de heráldica militar.
 
-3 - A DMT tem na sua dependência hierárquica as UEO definidas por despacho do CEME.
+3 - A DRT tem na sua dependência hierárquica as UEO definidas por despacho do CEME.
 
-4 - O diretor da DMT é um major-general.
+4 - O diretor da DRT é um major-general.

@@ -1,6 +1,6 @@
 # Artigo 20.º
 
-### Unidade de Apoio do Estado-Maior do Exército
+### Unidade de Apoio ao Estado-Maior do Exército
 
 1 - A Unidade de Apoio do EME assegura o apoio administrativo-logístico, de segurança e de comunicações e sistemas de informação necessários ao funcionamento do EME e dos órgãos apoiados.
 
@@ -24,11 +24,11 @@ h) Garantir o cumprimento das disposições legais sobre servidões militares na
 
 i) Registar e controlar todo o material à carga do EME e órgãos apoiados, bem como promover a obtenção e distribuição dos materiais necessários;
 
-j) Elaborar o plano de atividades do EME e acompanhar o dos órgãos apoiados;
+j) (Revogada.)
 
 k) Promover as medidas necessárias à segurança e saúde no trabalho, de acordo com as orientações superiores;
 
-l) Assegurar a vigilância das instalações e promover as medidas necessárias à sua segurança e defesa;
+l) (Revogada.)
 
 m) Prestar cuidados de saúde de proximidade, através da Unidade de Saúde, aos militares do Exército, e, na sua capacidade sobrante, a outros utentes, de acordo com as diretivas superiores e ao abrigo de protocolos estabelecidos;
 

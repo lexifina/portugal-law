@@ -8,8 +8,14 @@ a) Apoiar, no âmbito da defesa biológica e química, os ramos das Forças Arma
 
 b) Executar ações de vigilância epidemiológica de agentes biológicos passíveis de serem usados como arma biológica;
 
-c) Executar o processamento de amostras e a identificação inequívoca de produtos químicos tóxicos passíveis de serem usados em atentados terroristas ou resultantes de incidentes químicos;
+c) Executar ensaios laboratoriais para identificação inequívoca de químicos tóxicos passíveis de serem usados como arma química;
 
-d) Apoiar laboratorialmente todo o serviço veterinário;
+d) Apoiar laboratorialmente todo o serviço veterinário nas áreas da bromatologia e microbiologia;
 
-e) Participar em projetos de investigação e desenvolvimento dentro da sua esfera de ação.
+e) Executar ações de avaliação de risco toxicológico e ensaios laboratoriais no âmbito da segurança e saúde ocupacional e ambiental;
+
+f) Executar ensaios nanomorfológicos dentro da sua esfera de ação;
+
+g) Garantir a qualidade laboratorial e a manutenção das condições de biossegurança, bioproteção e contenção biológica e química;
+
+h) Participar em projetos de investigação, desenvolvimento e inovação dentro da sua esfera de ação.

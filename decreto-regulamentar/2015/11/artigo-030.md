@@ -12,16 +12,16 @@
 
 a) Estudar, propor, coordenar e emitir pareceres sobre matérias da sua competência;
 
-b) Elaborar e consolidar as propostas do plano de atividades do CMDLOG, bem como controlar a sua execução;
+b) (Revogada.)
 
 c) Assegurar o controlo de qualidade de todos os artigos e serviços a adquirir ou adquiridos pelo Exército na sua área de responsabilidade;
 
 d) Planear, coordenar e supervisionar a execução da gestão ambiental do Exército;
 
-e) Colaborar em ações de cooperação militar, na sua área de responsabilidade;
+e) (Revogada.)
 
 f) Colaborar com o EME na preparação e atualização dos planos de reequipamento do Exército, dos anteprojetos das leis de programação militar e dos programas de médio prazo de infraestruturas;
 
-g) Apoiar o CFT, no âmbito da sua área funcional, no planeamento das atividades relativas ao emprego operacional dos ECOSF;
+g) (Revogada.)
 
 h) Apoiar as UEO do Exército, conforme lhe for determinado, e promover as medidas necessárias à segurança do pessoal, do material e das instalações.

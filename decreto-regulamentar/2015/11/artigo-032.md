@@ -10,20 +10,20 @@ a) Apoiar a decisão e coordenar e apoiar as atividades do Comandante da Logíst
 
 b) Planear, conduzir e controlar as operações logísticas;
 
-c) Coordenar o planeamento de atividades, propor a atribuição dos recursos financeiros e acompanhar a execução da atividade financeira no âmbito do CMDLOG;
+c) (Revogada.)
 
 d) Estudar e propor a atribuição dos recursos humanos, bem como medidas no quadro administrativo;
 
-e) Propor a renovação de certificação de eventuais fornecedores e fabricantes para o Exército;
+e) Propor a atribuição ou renovação de certificação de eventuais fornecedores e fabricantes para o Exército;
 
 f) Acompanhar a execução da LPM e demais programas e projetos de investimento do Exército, propondo as medidas necessárias para o seu cumprimento;
 
 g) Planear e controlar a gestão financeira do seu âmbito, ao nível das FND;
 
-h) Elaborar, em coordenação com o CFT, os planos de projeção, rendição e retração das forças, bem como acionar o correspondente apoio logístico para a sua execução;
+h) Elaborar, em coordenação com o CFT e a DRT, os planos de projeção, rendição e retração das forças, bem como acompanhar o correspondente apoio logístico para a sua execução;
 
-i) Gerir o sistema de gestão ambiental no Exército;
+i) Assegurar o controlo da qualidade dos bens e serviços adquiridos sob a autoridade funcional e técnica do CMDLOG, recorrendo, sempre que necessário, ao apoio de elementos especialistas de outras entidades, internas ou externas ao Exército;
 
-j) Assegurar a receção qualitativa e quantitativa de todos os abastecimentos e serviços adquiridos através da DA;
+j) Elaborar, em coordenação com as direções logísticas, o Plano de Aquisições Integrado, bem como acompanhar e supervisionar a correspondente execução;
 
-k) Assegurar e coordenar o funcionamento e gestão das messes militares do Exército.
+k) (Revogada.)

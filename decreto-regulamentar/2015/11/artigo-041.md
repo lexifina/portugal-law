@@ -18,4 +18,8 @@ f) Participar na defesa terrestre do território nacional, de acordo com as miss
 
 g) Colaborar em ações de apoio ao desenvolvimento e bem-estar da população, conforme lhe for determinado.
 
+h) Manter, com o Comando Operacional dos Açores (COA), a ligação, através da partilha, em rede, da informação dos sistemas de comando e controlo do Exército, permitindo um conhecimento situacional da prontidão e empenho das forças e meios da componente operacional na ZMA;
+
+i) Apoiar o COA, de acordo com as capacidades instaladas, no âmbito administrativo-logístico, de manutenção dos sistemas de comunicação e informação, de segurança das instalações e no controlo das respetivas servidões militares.
+
 2 - O Comandante do QGZMA é o Comandante da Zona Militar dos Açores e tem na sua dependência hierárquica as UEO definidas por despacho do CEME.

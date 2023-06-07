@@ -1,65 +1,67 @@
 # Artigo 11.º
 
-### Direção de Comunicações e Sistemas de Informação
+### Direção de Comunicações e Informação
 
-1 - À DCSI compete estudar, planear, dirigir, coordenar, controlar e executar as atividades do Exército em matéria de comunicações e sistemas de informação, gestão da informação e do conhecimento e guerra de informação.
+1 - À DCI compete estudar, planear, dirigir, coordenar e executar as atividades do Exército nos domínios das comunicações e da informação, incluindo as áreas da gestão da informação e do conhecimento, da guerra de informação, da segurança da informação e informação geoespacial, contribuindo para a superioridade de informação e de decisão do Exército.
 
-2 - À DCSI compete, em especial:
+2 - À DCI compete, em especial:
 
 a) Participar no planeamento de médio e longo prazo do Exército, na sua área de responsabilidade;
 
 b) Exercer a autoridade funcional e técnica nas matérias da sua competência;
 
-c) Elaborar o plano geral de comunicações e sistemas de informação do Exército;
+c) Elaborar o plano estratégico do Exército para a gestão do domínio da informação, integrando neste processo o apoio em comunicações e sistemas de informação e a guerra de informação num todo coerente;
 
-d) Elaborar as orientações gerais sobre as tecnologias de informação e comunicações;
+d) Elaborar as orientações gerais e coordenar as atividades nos domínios das comunicações e informação;
 
-e) Coordenar as atividades das tecnologias de informação e comunicações do Exército;
+e) Contribuir para o desenvolvimento da capacidade de comando, controlo e comunicações da componente terrestre, através da elaboração de propostas no âmbito dos requisitos operacionais e da definição das especificações técnicas relacionadas com as matérias da sua competência;
 
-f) Assegurar a instalação, configuração, operação e sustentação das infraestruturas de comunicações e dos sistemas de informação em apoio da componente fixa;
+f) Fornecer, através de equipas de engenharia, apoio e assessoria técnico-científica ao Exército em matérias relativas aos domínios das comunicações e informação;
 
-g) Contribuir para o desenvolvimento da capacidade de comando, controlo e comunicações da componente terrestre;
+g) Elaborar pareceres, no âmbito do exercício da sua autoridade técnica, nomeadamente em processos de aquisição de bens e serviços;
 
-h) Fornecer, através de equipas de engenharia, apoio e assessoria técnico-científica ao Exército em matérias de tecnologias de informação e comunicações;
+h) Assegurar a integração entre o sistema de comunicações estrutural de natureza fixa e os sistemas de comunicações conjunturais de natureza tática, bem como a sua capacidade de ligação e interligação a sistemas conjuntos e combinados;
 
-i) Definir as características técnicas dos sistemas e tecnologias de informação em função dos requisitos operacionais;
+i) Assegurar a coerência das aplicações, sistemas e tecnologias de informação estruturais e conjunturais, bem como a sua interoperabilidade com sistemas conjuntos e combinados;
 
-j) Propor requisitos operacionais relacionados com as matérias da sua competência;
+j) Contribuir para a metodologia, preservação, partilha e disponibilização controlada da informação e do conhecimento;
 
-k) Realizar visitas de apoio técnico às unidades, estabelecimentos e órgãos (UEO) no âmbito do sistema de comunicações e sistemas de informação;
+k) Contribuir para a superioridade de informação, através da implementação de capacidades nas áreas da guerra eletrónica, operações no ciberespaço e operações de informação;
 
-l) Assegurar a integração entre o sistema de comunicações estrutural de natureza fixa e sistemas de comunicações conjunturais de natureza tática, bem como a sua capacidade de ligação a sistemas conjuntos e combinados;
+l) Estabelecer normas e procedimentos relativos à segurança dos sistemas de informação e comunicações do Exército;
 
-m) Assegurar a coerência dos sistemas e tecnologias de informação estruturais de natureza fixa e dos conjunturais de natureza tática, bem como a sua capacidade de interligação a sistemas conjuntos e combinados;
+m) Contribuir, como centro de conhecimento especializado do Exército, para a criação e gestão do conhecimento nos domínios das comunicações e informação;
 
-n) Contribuir para a metodologia, preservação, partilha e disponibilização controlada da informação e do conhecimento;
+n) Garantir a proteção do ambiente de informação e a ciberdefesa da componente fixa do Exército, através do Centro de Guerra da Informação e Ciberespaço (CGIC);
 
-o) Contribuir para a superioridade de informação, através da implementação de uma capacidade de guerra eletrónica, de ciberdefesa, de medidas que garantam a segurança dos sistemas e tecnologias de informação e que assegurem a pronta resposta e investigação de incidentes;
+o) Desenvolver, implementar e manter os sistemas de informação e respetivos indicadores de gestão, necessários à atividade e tomada de decisão do Exército;
 
-p) Apoiar o Comando das Forças Terrestres (CFT), no âmbito da sua área funcional, no planeamento das atividades relativas ao emprego operacional dos elementos da componente operacional do sistema de forças (ECOSF);
+p) Assegurar a sustentação dos sistemas de informação do Exército;
 
-q) Garantir a ciberdefesa das forças terrestres;
+q) Colaborar com outros ramos das Forças Armadas e entidades da área da Defesa, nomea-damente em projetos que envolvam sistemas de informação transversais;
 
-r) Organizar, treinar e manter as forças operacionais que lhe sejam fixadas;
+r) Disponibilizar instrumentos de informação estruturada, nomeadamente no domínio da análise preditiva, para assegurar a superioridade de decisão do Exército;
 
-s) Estabelecer a coordenação com o EMGFA e a Organização do Tratado do Atlântico Norte (OTAN) em matérias de comunicações e sistemas de informação e ciberdefesa;
+s) Prestar apoio aos sistemas e tecnologias de informação e comunicações do Exército no âmbito da informática operacional e de gestão;
 
-t) Prestar apoio aos sistemas e tecnologias de informação e comunicações do Exército no âmbito da informática operacional e de gestão;
+t) (Revogada.)
 
-u) Gerir o emprego de frequências atribuídas ao Exército;
+u) (Revogada.)
 
-v) Assegurar o reabastecimento, a manutenção, a operação e o controlo das atividades no domínio dos sistemas criptográficos e de segurança da informação;
+v) (Revogada.)
 
-w) Garantir a segurança eletrónica de instalações e aconselhar as medidas de proteção e contra medidas a adotar;
+w) (Revogada.)
 
-x) Assegurar os sistemas de apoio de som a cerimónias e eventos militares;
+x) (Revogada.)
 
-y) Definir os requisitos técnicos e funcionais dos sistemas de videovigilância e sistemas eletrónicos de controlo de acessos;
+y) (Revogada.)
 
-z) Definir os requisitos técnicos e funcionais dos sistemas de energia permanente e socorrida de apoio às tecnologias de informação e comunicações;
+z) (Revogada.)
 
-aa) Elaborar e coordenar a execução do plano de atividades da DCSI;
+aa) (Revogada.)
 
-bb) Colaborar em ações de cooperação militar, na sua área de responsabilidade.
+bb) (Revogada.)
 
-3 - O diretor da DCSI é um brigadeiro-general.
+3 - A DCI tem na sua dependência hierárquica as UEO definidas por despacho do CEME.
+
+4 - O diretor da DCSI é um brigadeiro-general.

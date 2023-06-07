@@ -70,4 +70,4 @@ t) O Regimento de Guarnição n.º 3;
 
 u) O Regimento de Apoio Militar de Emergência.
 
-3 - O regimento referido na alínea f) do número anterior é extinto após a transferência do Regimento de Engenharia n.º 3 para o aquartelamento de Chaves.
+3 - (Revogado.)

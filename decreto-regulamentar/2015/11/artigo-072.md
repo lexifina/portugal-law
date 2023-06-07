@@ -20,9 +20,9 @@ g) Participar em projetos de investigação e desenvolvimento e grupos de trabal
 
 h) Assegurar o desenvolvimento de todos os processos, metodologias, procedimentos e recursos utilizados no âmbito das diferentes fases do ciclo formativo;
 
-i) Apoiar e participar na avaliação das competências, tendo em vista a respetiva certificação;
+i) Participar, sempre que lhe for solicitado, em processos de avaliação de competências dos cargos e funções previstos na sua estrutura organizacional;
 
-j) Coordenar, supervisionar e controlar a aplicação das medidas que visem garantir a segurança e a consequente minimização do risco na instrução, à sua responsabilidade relativamente à utilização das infraestruturas e à realização das atividades;
+j) Colaborar em operações de apoio civil, conforme lhe for determinado;
 
 k) Prestar cuidados de saúde de proximidade, através da Unidade de Saúde, aos militares do Exército, e, na sua capacidade sobrante, a outros utentes, de acordo com as diretivas superiores e ao abrigo de protocolos estabelecidos;
 
@@ -34,12 +34,18 @@ n) Planear e coordenar a manutenção das infraestruturas à sua responsabilidad
 
 o) Garantir o cumprimento das disposições legais sobre servidões militares na área à sua responsabilidade;
 
-p) Orientar, coordenar e impulsionar a realização de atividades que contribuam para o desenvolvimento e fortalecimento do espírito de corpo das armas;
+p) (Revogada.)
 
-q) Realizar estudos técnicos associados, entre outros, ao reequipamento, à organização, doutrina, material e emprego das unidades das armas;
+q) (Revogada.)
 
 r) Assegurar a seleção, preparação e organização das equipas desportivas no Exército;
 
 s) Assegurar o apoio à equitação militar, designadamente nas áreas da formação, do recompletamento do efetivo de solípedes e da doutrina equestre em uso no Exército.
+
+t) Manter e desenvolver capacidades de simulação construtiva para apoio à formação e, supletivamente, em apoio ao treino de estruturas de comando e estado-maior de forças militares;
+
+u) Realizar estudos técnicos e desenvolver doutrina no âmbito da educação física militar, do tiro desportivo, dos desportos individuais e coletivos, e da formação e treino equestre;
+
+v) Assegurar a formação aos cursos do regime de contrato especial, conforme lhe for determinado.
 
 2 - O comandante da EA é um brigadeiro-general.

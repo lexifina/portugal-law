@@ -8,7 +8,7 @@
 
 A área de obtenção e administração de recursos humanos compreende:
 
-a) O Centro de Psicologia Aplicada do Exército (CPAE);
+a) (Revogada.)
 
 b) Os centros de recrutamento;
 

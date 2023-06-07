@@ -8,6 +8,8 @@ a) Orientar, coordenar e impulsionar a realização de atividades que contribuam
 
 b) Realizar estudos técnicos associados, entre outros, ao reequipamento, à organização, doutrina, material e emprego das unidades dos serviços;
 
-c) Ministrar estágios e cursos de formação e de atualização de condução auto;
+c) Ministrar cursos de formação de condução auto, realizar exames de condução de viaturas militares e emitir os respetivos certificados;
 
-d) Realizar exames de condução de viaturas militares e emitir os respetivos certificados de condução.
+d) Ministrar formação inicial e de atualização para condutores de mercadorias perigosas (base, cisternas e explosivos), enquanto entidade formadora reconhecida pelo Instituto da Mobilidade e dos Transportes, I. P.;
+
+e) Assegurar a formação aos cursos do regime de contrato especial, conforme lhe for determinado.
