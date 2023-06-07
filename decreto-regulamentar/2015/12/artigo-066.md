@@ -8,10 +8,10 @@
 
 a) Colecionar, estudar, expor e divulgar as peças do seu acervo, dinamizando as relações com o público e garantindo um sistema educativo;
 
-b) Inventariar e promover a conservação e restauro das peças do seu acervo e material de apoio, bem como armazenar o material das reservas nas melhores condições;
+b) Estudar, expor e divulgar os bens culturais de natureza aeronáutica propriedade de museus ou de pessoas singulares ou coletivas, objeto de cedência temporária;
 
-c) Coordenar os programas de manutenção com os órgãos ou unidades nomeadas para apoio, de modo a colocar em condições de voo as aeronaves da Esquadrilha Histórica, bem como as de outras organizações protocoladas com a Força Aérea;
+c) Inventariar, catalogar, controlar e promover a conservação e restauro das peças do acervo histórico-cultural aeronáutico da Força Aérea e do património bibliográfico e documental, bem como armazenar o material das reservas nas melhores condições;
 
-d) Inventariar, catalogar e controlar o património bibliográfico e documental relacionado com o seu acervo;
+d) Coordenar com as unidades, estabelecimentos e órgãos os programas de manutenção das aeronaves à sua guarda, tendo em vista a sua preservação;
 
 e) Colaborar na realização de estudos e pesquisas históricas e museológicas.

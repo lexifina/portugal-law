@@ -18,17 +18,17 @@ e) Propor as nomeações para os cursos de promoção do pessoal militar;
 
 f) Gerir os sistemas de avaliação do mérito e do desempenho;
 
-g) Elaborar anualmente e submeter à aprovação superior o mapa de pessoal civil;
+g) Efetuar a gestão dos contratos dos militares em regime de contrato nas suas diversas modalidades e em regime de voluntariado;
 
-h) Promover e orientar os procedimentos concursais para admissão do pessoal civil;
+h) Instruir os processos dos concursos que sejam abertos a militares ou a cidadãos na reserva da disponibilidade para admissão aos cursos, tirocínios ou estágios que habilitam ao ingresso aos quadros permanentes;
 
-i) Prestar informação estatística dos efetivos existentes;
+i) Promover e orientar os procedimentos concursais para admissão do pessoal civil e apoiar administrativamente os júris dos concursos;
 
 j) Organizar e manter atualizados os processos individuais de todo o pessoal;
 
 k) Elaborar planos de mobilização e convocação de pessoal da Força Aérea;
 
-l) Colaborar na definição dos requisitos básicos de formação do pessoal destinado à área de pessoal;
+l) Instruir processos de reforma, de pensões de invalidez e contagem de tempo de serviço;
 
 m) Efetuar inspeções setoriais aos serviços sob a sua dependência funcional, em coordenação com a IGFA;
 
@@ -40,4 +40,6 @@ p) Gerir os documentos de identificação e de encarte;
 
 q) Analisar e informar os processos de habilitação ao suplemento de residência;
 
-r) Elaborar as propostas de nomeação de militares para cargos, missões, nacionais e internacionais, e cursos de qualificação.
+r) Garantir a gestão do registo, a verificação e a validação dos dados na área de pessoal.
+
+3 - O diretor da DP é um major-general.

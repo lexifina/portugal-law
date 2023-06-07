@@ -1,4 +1,4 @@
-## Capítulo IV
+## Capítulo III
 
 ## Órgãos centrais de administração e direção
 
@@ -8,28 +8,14 @@
 
 # Artigo 13.º
 
-### Divisão de Planeamento
+### Natureza e composição
 
-1 - A Divisão de Planeamento tem por missão acompanhar o desenvolvimento e propor a doutrina de emprego, desenvolver o planeamento de forças e de defesa, incluindo no âmbito das alianças.
+1 - Os OCAD têm caráter funcional e visam assegurar a direção e execução de áreas ou atividades específicas essenciais, designadamente, na gestão de recursos humanos, materiais, financeiros, de informação e de infraestruturas.
 
-2 - À Divisão de Planeamento compete:
+2 - São OCAD da Força Aérea:
 
-a) Efetuar os estudos relativos à evolução da Força Aérea, no âmbito da política de defesa nacional;
+a) O Comando de Pessoal da Força Aérea (CPESFA) e as direções técnicas referidas no n.º 2 do artigo 15.º;
 
-b) Desenvolver o ciclo de planeamento de forças e de defesa nacional, da Organização do Tratado do Atlântico Norte e da União Europeia, nele vertendo os reflexos da evolução do poder aéreo;
+b) O Comando da Logística da Força Aérea (CLAFA) e as direções técnicas referidas no n.º 2 do artigo 25.º;
 
-c) Elaborar os planos e as diretivas de planeamento, tendo em conta a missão atribuída à Força Aérea;
-
-d) Planear e coordenar a execução da Lei de Programação Militar;
-
-e) Planear e coordenar a execução da Lei das Infraestruturas Militares;
-
-f) Coordenar o planeamento e o enquadramento financeiro de outros programas;
-
-g) Coordenar a elaboração do Plano e Relatório Anual de Atividades da Força Aérea;
-
-h) Preparar o planeamento financeiro de médio prazo destinado a enquadrar os orçamentos anuais;
-
-i) Elaborar os regulamentos e manuais da Força Aérea, no âmbito das suas competências;
-
-j) Estabelecer, acompanhar e avaliar o processo de objetivos e indicadores de gestão de nível estratégico.
+c) A Direção de Finanças da Força Aérea (DFFA).

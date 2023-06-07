@@ -4,6 +4,8 @@
 
 # Artigo 49.º
 
-### Funcionamento e composição
+### Conselho Superior de Disciplina da Força Aérea
 
-O funcionamento, a composição e as competências do Conselho Superior de Disciplina da Força Aérea são os constantes do Regulamento de Disciplina Militar.
+1 - O CSDFA é o órgão consultivo e de apoio ao CEMFA em matéria disciplinar.
+
+2 - A composição, funcionamento e competências do CSDFA constam do Regulamento de Disciplina Militar.

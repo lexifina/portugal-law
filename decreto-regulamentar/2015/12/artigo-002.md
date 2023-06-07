@@ -10,12 +10,18 @@ a) Assessorar o CEMFA no exercício das suas funções, no âmbito de matérias 
 
 b) Assegurar as relações da Força Aérea com os serviços do Estado e demais entidades externas;
 
-c) Promover a imagem institucional da Força Aérea;
+c) Assegurar e coordenar as relações institucionais da Força Aérea com os órgãos e serviços do Estado e demais entidades externas;
 
-d) Definir os procedimentos protocolares a aplicar aos órgãos e unidades da Força Aérea;
+d) Elaborar planos de comunicação externa da Força Aérea;
 
-e) Apoiar os órgãos de conselho da Força Aérea;
+e) Assegurar as atividades de comunicação, informação e relações públicas da Força Aérea e promover a sua imagem institucional;
 
-f) Aprovar os conteúdos de informação das páginas oficiais da Força Aérea na Intranet e Internet;
+f) Assegurar as atividades de protocolo e cerimonial militar da Força Aérea;
 
-g) Coordenar e superintender as atividades da Banda de Música.
+g) Assegurar a elaboração de propostas relativas à concessão ou modificação dos símbolos heráldicos da Força Aérea;
+
+h) Assegurar o apoio aos órgãos de conselho da Força Aérea.
+
+3 - A estrutura e o funcionamento do GABCEMFA e da assessoria do CEMFA são definidos por despacho do CEMFA.
+
+4 - O chefe do GABCEMFA é um major-general.

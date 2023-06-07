@@ -1,13 +1,17 @@
+## Secção III
+
+## Comissão Histórico-Cultural da Força Aérea
+
 ## Secção IV
 
 ## Junta Superior de Saúde da Força Aérea
 
 # Artigo 51.º
 
-### Competências
+### Junta Superior de Saúde da Força Aérea
 
-À Junta Superior de Saúde da Força Aérea compete:
+1 - A JSSFA tem por missão e competência estudar e dar parecer sobre os recursos relativos às decisões das entidades competentes, baseadas em pareceres formulados por outras juntas médicas da Força Aérea, designadamente as juntas médicas referentes ao pessoal navegante.
 
-a) Definir o grau de capacidade para o serviço do pessoal da Força Aérea que lhe for presente;
+2 - Os pareceres da JSSFA são submetidos a homologação do CEMFA.
 
-b) Emitir parecer sobre os recursos relativos a decisões baseadas em pareceres das juntas de saúde da Força Aérea.
+3 - O presidente da JSSFA é um oficial general, em acumulação de funções ou na reserva.

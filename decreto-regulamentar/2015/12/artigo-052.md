@@ -1,4 +1,4 @@
-## Capítulo VII
+## Capítulo VI
 
 ## Órgão de inspeção
 
@@ -18,26 +18,40 @@ c) Realizar as inspeções necessárias à avaliação do funcionamento do próp
 
 d) Coordenar as atividades de inspeção programadas por si, pelos comandos funcionais e outros órgãos, por forma a obter o melhor rendimento do sistema;
 
-e) Elaborar os relatórios das inspeções por si realizadas, apreciar os relatórios das inspeções executadas pelos comandos funcionais e outros órgãos;
+e) Gerir a situação das anomalias, acompanhar as ações corretivas tomadas e pronunciar-se sobre a sua eficácia;
 
-f) Gerir a situação das anomalias, acompanhar as ações corretivas tomadas e pronunciar-se sobre a sua eficácia;
+f) Realizar as inspeções, auditorias e investigações específicas determinadas pelo CEMFA;
 
-g) Analisar periodicamente com os diversos intervenientes a situação das anomalias;
+g) Articular com outras forças aéreas o intercâmbio da informação no âmbito da segurança de voo;
 
-h) Informar o CEMFA sobre o resultado das inspeções, aconselhando-o sobre a resolução das anomalias mais pertinentes que afetem a eficiência da Força Aérea;
+h) Realizar as ações necessárias ao funcionamento do sistema de auditoria do pessoal da Força Aérea.
 
-i) Propor e acompanhar os planos anuais de prevenção de acidentes;
+i) (Revogada.)
 
-j) Superintender tecnicamente nas áreas de prevenção de acidentes e de combate a incêndios;
+j) (Revogada.)
 
-k) Realizar as inspeções, auditorias e investigações específicas determinadas pelo CEMFA;
+k) (Revogada.)
 
-l) Promover a preparação do pessoal executivo da organização da prevenção de acidentes;
+l) (Revogada.)
 
-m) Articular com a Inspeção-Geral da Defesa Nacional e com as estruturas de inspeção dos outros ramos das Forças Armadas e de forças armadas estrangeiras, com vista à recolha e permuta de elementos informativos de valia técnica que possam contribuir para o aperfeiçoamento do sistema de inspeção da Força Aérea;
+m) (Revogada.)
 
-n) Articular com outras forças aéreas para intercâmbio de informação no âmbito da segurança de voo;
+n) (Revogada.)
 
-o) Realizar as ações necessárias ao funcionamento do sistema de auditoria do pessoal da Força Aérea.
+o) (Revogada.)
 
 3 - No exercício das suas competências, a IGFA articula-se com entidades externas competentes no domínio da inspeção, com as quais coopera e partilha informação, nomeadamente no âmbito do planeamento e resultados, a fim de garantir a racionalidade, complementaridade e sinergia das intervenções.
+
+4 - A IGFA compreende:
+
+a) O Gabinete de Prevenção de Acidentes (GPA);
+
+b) Os departamentos de inspeção e auditoria;
+
+c) Os órgãos de apoio direto.
+
+5 - Os departamentos de inspeção e auditoria e os órgãos de apoio direto da IGFA são criados e extintos por despacho do CEMFA.
+
+6 - Depende da IGFA a Comissão Central de Investigação (COCINV), cuja composição e funcionamento são definidas por despacho do CEMFA.
+
+7 - A IGFA é dirigida por um oficial general, na situação de reserva, designado por inspetor-geral da Força Aérea, na dependência direta do CEMFA.

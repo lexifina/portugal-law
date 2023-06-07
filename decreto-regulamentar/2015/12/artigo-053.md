@@ -1,4 +1,4 @@
-## Capítulo VIII
+## Capítulo VII
 
 ## Órgãos de base
 
@@ -10,4 +10,6 @@
 
 ### Disposições gerais
 
-As competências, a estrutura e o funcionamento da AFA constam de legislação própria.
+1 - A AFA é um estabelecimento de ensino superior público universitário militar, regulado por legislação própria.
+
+2 - O Comandante da AFA é um major-general, na direta dependência do CEMFA.

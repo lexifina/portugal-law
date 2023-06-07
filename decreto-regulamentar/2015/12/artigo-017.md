@@ -2,10 +2,4 @@
 
 ### Órgãos de apoio direto
 
-Constituem órgãos de apoio direto do CPESFA:
-
-a) O Gabinete do CPESFA;
-
-b) O Gabinete de Administração da Informação da Área de Pessoal;
-
-c) A Secretaria.
+Os órgãos de apoio direto são criados e extintos por despacho do CEMFA.

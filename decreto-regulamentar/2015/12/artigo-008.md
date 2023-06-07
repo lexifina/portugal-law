@@ -6,10 +6,10 @@ O EMFA compreende:
 
 a) O Subchefe do EMFA;
 
-b) A Divisão de Recursos;
+b) Até seis divisões criadas e extintas por despacho do CEMFA.
 
-c) A Divisão de Operações;
+c) (Revogada.)
 
-d) A Divisão de Comunicações e Sistemas de Informação;
+d) (Revogada.)
 
-e) A Divisão de Planeamento.
+e) (Revogada.)

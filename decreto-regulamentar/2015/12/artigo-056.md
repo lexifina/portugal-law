@@ -14,4 +14,4 @@ c) Processar a credenciação do pessoal da Força Aérea;
 
 d) Coordenar as operações relacionadas com o transporte internacional da documentação classificada;
 
-e) Realizar inspeções técnicas, determinadas pela IGFA.
+e) Executar inspeções técnicas, em coordenação com a IGFA, bem como no âmbito da dependência funcional e técnica do Registo Central e Autoridade Nacional de Segurança.

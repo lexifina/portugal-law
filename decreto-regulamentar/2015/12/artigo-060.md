@@ -20,4 +20,6 @@ c) A Base Aérea n.º 5 - Monte Real;
 
 d) A Base Aérea n.º 6 - Montijo;
 
-e) A Base Aérea n.º 11 - Beja.
+e) A Base Aérea n.º 8 - Ovar;
+
+f) A Base Aérea n.º 11 - Beja.

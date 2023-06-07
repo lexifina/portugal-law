@@ -8,10 +8,10 @@
 
 a) Processar e difundir a documentação e informação científica, administrativa e legislativa de interesse para a Força Aérea;
 
-b) Assegurar a difusão, analisar a aplicação e verificar o cumprimento das normas e das técnicas de tratamento de documentação e informação;
+b) Assegurar a difusão, analisar a aplicação e verificar o cumprimento das normas e das técnicas de tratamento de documentação e informação não classificada;
 
 c) Processar e controlar o arquivo inativo da Força Aérea;
 
-d) Assessorar tecnicamente, no seu âmbito, as unidades, órgãos ou serviços da Força Aérea na aquisição de equipamento e material;
+d) Executar inspeções técnicas, em coordenação com a IGFA.
 
-e) Realizar inspeções técnicas funcionais, determinadas pela IGFA.
+e) (Revogada.)

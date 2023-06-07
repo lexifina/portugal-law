@@ -1,3 +1,7 @@
+## Secção II
+
+## Estado-Maior da Força Aérea
+
 # Artigo 7.º
 
 ### Missão e competências
@@ -6,28 +10,38 @@
 
 2 - Ao EMFA compete:
 
-a) Analisar o contexto de segurança e definir os requisitos para a adaptação da Força Aérea, nomeadamente do seu sistema de forças e dispositivo;
+a) Preparar as diretivas, regulamentos, planos, ordens, instruções ou publicações, conforme determinação do CEMFA, e coordenar a sua divulgação;
 
-b) Propor os objetivos globais da Força Aérea e a sua atualização;
+b) Assegurar a coordenação, a supervisão e o controlo de todas as atividades de gestão estratégica da Força Aérea;
 
-c) Estudar e promover a harmonização da doutrina de emprego operacional da Força Aérea com a das alianças;
+c) Contribuir para a elaboração dos projetos relativos aos documentos enquadrantes da defesa nacional, nomeadamente o Conceito Estratégico Militar, as Missões das Forças Armadas, o Sistema de Forças e o Dispositivo de Forças;
 
-d) Elaborar propostas para adequar a organização da Força Aérea, tendo em conta a missão e os recursos disponíveis;
+d) Promover o planeamento integrado das atividades da Força Aérea, designadamente quanto à edificação, preparação e sustentação das suas capacidades, em coordenação com os órgãos centrais de administração e direção (OCAD) e o Comando Aéreo (CA);
 
-e) Contribuir para estabelecer e promover a ligação com outras forças aéreas, organismos militares ou entidades civis;
+e) Assegurar a condução das atividades integradas no ciclo de planeamento de defesa e no planeamento de forças, no contexto da Organização do Tratado do Atlântico Norte (OTAN) e da União Europeia, em colaboração com o Estado-Maior-General das Forças Armadas (EMGFA);
 
-f) Definir a política de pessoal da Força Aérea, incluindo a gestão de carreiras;
+f) Assegurar a elaboração de propostas e atividades relativas aos anteprojetos de propostas da Lei de Programação Militar (LPM) e da Lei das Infraestruturas Militares (LIM), respeitantes à Força Aérea, e coordenar a respetiva execução material e financeira;
 
-g) Definir a política de comunicações e sistemas de informação da Força Aérea;
+g) Coordenar a elaboração do plano e relatório anual de atividades da Força Aérea;
 
-h) Definir os requisitos operacionais e de logística para os sistemas de armas, sistemas de comunicação e de informação e sistemas de comando e controlo;
+h) Elaborar os estudos conducentes à definição e desenvolvimento de conceitos, requisitos e doutrina, incluindo o processo de harmonização da identificação, validação, certificação e implementação de lições aprendidas conjuntas e combinadas;
 
-i) Elaborar o planeamento de efetivos e de preparação do pessoal;
+i) Promover o planeamento e programação de recursos nas áreas de pessoal, material, logística, infraestruturas, finanças, comunicações e sistemas de informação;
 
-j) Elaborar planeamentos financeiros, de infraestruturas e de material;
+j) Propor a organização interna das unidades, estabelecimentos e órgãos da Força Aérea;
 
-k) Estudar e contribuir para os ciclos de planeamento de defesa e de forças, no âmbito nacional e das alianças;
+k) Coordenar a participação da Força Aérea no plano externo, designadamente nas relações com organismos militares internacionais ou com outros países no plano bilateral ou multilateral, bem como no âmbito da cooperação no domínio da defesa;
 
-l) Colaborar com o Comando Aéreo (CA) no planeamento de exercícios, incluindo os conjuntos ou combinados;
+l) Assegurar a cooperação institucional entre a Força Aérea e as suas congéneres ou outras entidades, nos domínios aéreo, do espaço e ciberespaço;
 
-m) Elaborar os planos de contingência da Força Aérea.
+m) Assegurar, no âmbito da Força Aérea, a coordenação das atividades de informações, contrainformação e segurança militares;
+
+n) Coordenar os assuntos no âmbito da segurança de informação com a Autoridade Nacional de Segurança, em articulação com as organizações nacionais e internacionais com competências neste âmbito;
+
+o) Planear, coordenar e promover a aplicação de padrões e requisitos de interoperabilidade;
+
+p) Estudar e pronunciar-se sobre documentos e publicações nacionais, da OTAN e da União Europeia, relativos a doutrina militar e a acordos de normalização;
+
+q) Promover a inovação e transformação da Força Aérea, com vista à melhoria das suas capacidades, acompanhando a evolução das atividades de investigação e desenvolvimento nas áreas de tecnologias e ciências militares aeronáuticas e espaciais, informacionais e cibernéticas;
+
+r) Assegurar, no âmbito das atividades da Força Aérea, a definição das políticas de gestão ambiental, energia e recursos.

@@ -12,11 +12,11 @@ c) Os órgãos de apoio direto;
 
 d) Os órgãos de operações aéreas;
 
-e) Os órgãos de apoio às operações;
+e) (Revogada.)
 
-f) O Gabinete Coordenador de Segurança Militar da Força Aérea (GCSMFA);
+f) (Revogada.)
 
-g) O Grupo de Apoio (GA).
+g) (Revogada.)
 
 2 - Dependem do CA:
 
@@ -28,8 +28,8 @@ c) Os aeródromos de manobra;
 
 d) Os aeródromos de trânsito;
 
-e) O Campo de Tiro (CT);
+e) A Unidade de Aprontamento e Apoio Operacional (UAAO);
 
 f) As estações de radar;
 
-g) Os centros de treino.
+g) (Revogada.)

@@ -8,10 +8,10 @@
 
 a) Assessorar o VCEMFA na coordenação das suas atividades;
 
-b) Apoiar o VCEMFA no seu relacionamento com os órgãos da Força Aérea e com o exterior;
+b) Assegurar o encaminhamento dos assuntos que, através do GABVCEMFA, sejam dirigidos ao VCEMFA;
 
-c) Processar a correspondência e documentação relativa ao VCEMFA;
+c) Apoiar o VCEMFA nas relações institucionais com as estruturas subordinadas, com outros órgãos e entidades públicas, militares ou civis, e com entidades privadas;
 
-d) Apoiar o VCEMFA no exercício das suas funções no EMFA;
+d) Assegurar o apoio administrativo ao SCEMFA e ao EMFA;
 
-e) Apoiar administrativamente o SUBCEMFA.
+e) (Revogada.)

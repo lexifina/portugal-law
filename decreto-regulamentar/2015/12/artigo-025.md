@@ -20,4 +20,6 @@ d) A Direção de Infraestruturas (DI);
 
 e) A Direção de Manutenção de Sistemas de Armas (DMSA).
 
+f) O Gabinete do Coordenador de Missão no Âmbito dos Incêndios Rurais (GCMIR).
+
 3 - Depende do CLAFA, como órgão de base, o Depósito Geral de Material da Força Aérea (DGMFA).

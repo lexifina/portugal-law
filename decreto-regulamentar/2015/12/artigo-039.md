@@ -8,23 +8,23 @@
 
 a) Vigiar e controlar o espaço estratégico de interesse nacional permanente, a fim de dissuadir ameaças ou agressões e garantir a liberdade de utilização das linhas de comunicação aéreas e marítimas;
 
-b) Planear e conduzir missões de forma a combater as ameaças de natureza global e os riscos de natureza ambiental;
+b) Planear e conduzir missões de forma a combater as ameaças de natureza global e os riscos de natureza ambiental no âmbito das missões atribuídas pelo CEMGFA;
 
 c) Planear, dirigir e controlar a atividade aérea da Força Aérea;
 
 d) Supervisionar ou controlar, quando necessário, a atividade aérea militar que decorra no espaço aéreo nacional ou que tenha apoio em território nacional;
 
-e) Elaborar e disseminar os planos diários de execução da atividade aérea da Força Aérea;
+e) Elaborar e disseminar os planos diários de execução da atividade aérea da Força Aérea, incluindo a utilização militar do espaço aéreo;
 
-f) Elaborar e disseminar os planos diários de utilização militar do espaço aéreo;
+f) Desenvolver procedimentos para a gestão do tráfego aéreo, nas áreas de responsabilidade militar, assegurando a prestação de serviços de tráfego aéreo, em coordenação com os órgãos civis;
 
-g) Preparar e disseminar ordens de execução para a atividade aérea, em complemento dos planos referidos na alínea e);
+g) Garantir a informação meteorológica necessária ao planeamento e à execução das operações;
 
 h) Adotar as medidas adequadas às mudanças de situação aérea, incluindo as decorrentes das alterações dos estados de alerta;
 
 i) Efetuar a vigilância do espaço aéreo e dirigir e controlar os meios de defesa aérea e de policiamento aéreo atribuídos;
 
-j) Planear e conduzir o treino do pessoal necessário para a operação do sistema de comando e controlo aéreo;
+j) Assegurar o cumprimento dos programas de qualificação e treino do pessoal que garante a atividade e controlar a sua execução;
 
 k) Iniciar, conduzir, controlar e coordenar as ações de busca e salvamento nas suas áreas de responsabilidade;
 
@@ -32,46 +32,48 @@ l) Coordenar as operações aéreas com as ações navais e terrestres, estabele
 
 m) Coordenar a atividade aérea com os organismos civis envolvidos, no âmbito das outras missões de interesse público que forem cometidas à Força Aérea;
 
-n) Prestar os serviços de tráfego aéreo decorrentes das classificações do espaço aéreo sob jurisdição nacional;
+n) Elaborar as normas e procedimentos relativos à atividade de assistência e socorros;
 
 o) Programar e coordenar o transporte de passageiros e de carga em aeronaves da Força Aérea;
 
-p) Analisar a execução das operações e produzir recomendações para a introdução de eventuais melhorias aos desempenhos;
+p) Recolher, processar, explorar e disseminar, conforme adequado, a informação operacional de forma centralizada;
 
-q) Estabelecer as normas de execução e os procedimentos para as operações aéreas e de defesa antiaérea;
+q) Elaborar o planeamento operacional para o emprego dos meios, de acordo com as diretivas definidas superiormente.
 
-r) Programar e controlar a utilização dos recursos humanos e logísticos da área operacional;
+r) (Revogada.)
 
-s) Elaborar os programas e planear e controlar a qualificação do pessoal para integrar missões operacionais;
+s) (Revogada.)
 
-t) Elaborar os programas de qualificação e treino do pessoal ligado à atividade aérea e controlar a sua execução;
+t) (Revogada.)
 
-u) Elaborar o planeamento operacional para o emprego dos meios, de acordo com as diretivas definidas superiormente;
+u) (Revogada.)
 
-v) Planear o apoio logístico e financeiro, no âmbito do planeamento operacional;
+v) (Revogada.)
 
-w) Elaborar as normas e procedimentos relativos à atividade de assistência e socorros;
+w) (Revogada.)
 
-x) Recolher, tratar e disseminar, conforme adequado, as informações de combate e de guerra eletrónica;
+x) (Revogada.)
 
-y) Avaliar e controlar a prontidão dos sistemas de armas, a capacidade de sustentação para o combate e a eficiência da execução das missões atribuídas;
+y) (Revogada.)
 
-z) Colaborar no desenvolvimento dos planos relacionados com a cooperação civil-militar (CIMIC);
+z) (Revogada.)
 
-aa) Programar e implementar os sistemas de comando e controlo, no âmbito das operações;
+aa) (Revogada.)
 
-bb) Colaborar na elaboração de normas e procedimentos para a utilização e segurança das comunicações e dos sistemas de informação, no âmbito das operações;
+bb) (Revogada.)
 
-cc) Garantir a prontidão dos sistemas de informação e tecnologias de comunicação;
+cc) (Revogada.)
 
-dd) Elaborar o programa geral de exercícios da Força Aérea e colaborar na elaboração dos programas de exercícios conjuntos e combinados;
+dd) (Revogada.)
 
-ee) Planear os exercícios da Força Aérea e participar no planeamento de exercícios conjuntos e combinados;
+ee) (Revogada.)
 
-ff) Planear e programar as avaliações táticas nacionais;
+ff) (Revogada.)
 
-gg) Garantir a prontidão dos meios inerentes à projeção das forças;
+gg) (Revogada.)
 
-hh) Gerir a utilização dos sistemas de comunicações e de informação afetos às operações;
+hh) (Revogada.)
 
-ii) Efetuar a gestão do espectro eletromagnético dos sistemas rádio da Força Aérea e de forças aéreas estrangeiras a operar em Portugal.
+ii) (Revogada.)
+
+3 - Os órgãos de operações aéreas são dirigidos por um brigadeiro-general piloto aviador, designado por diretor das Operações Aéreas.

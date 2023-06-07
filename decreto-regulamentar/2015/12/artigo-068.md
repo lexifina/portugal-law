@@ -1,15 +1,17 @@
 # Artigo 68.º
 
-### Banda de Música
+### Banda de Música da Força Aérea
 
-1 - A Banda de Música tem como missão dar execução aos programas de cerimonial e de divulgação musical superiormente definidos.
+1 - A BMFA é um ONC sendo a sua dependência definida por despacho do CEMFA.
 
-2 - À Banda de Música compete:
+2 - A BMFA tem como missão assegurar a participação no cerimonial militar da Força Aérea, no protocolo de Estado e em atividades da Força Aérea de caráter cultural, no âmbito da música.
 
-a) Participar em cerimónias de carácter militar, nomeadamente, dias de unidade, rendições de comando, juramentos de bandeira, guardas de honra e desfiles;
+3 - À BMFA compete, em especial:
 
-b) Representar a Força Aérea realizando concertos ou tattoos, incluindo os integrados em festivais;
+a) Assegurar o enquadramento musical de atos de índole militar, designadamente dias de unidade, rendições de comando, juramentos de bandeira, guardas de honra, aberturas solenes de ano letivo e desfiles;
 
-c) Apoiar tecnicamente as fanfarras, designadamente através de ações de formação;
+b) [Anterior alínea b) do n.º 2.]
 
-d) Coordenar e supervisionar a atividade pedagógica e técnica dos cursos de formação ministrados em harmonia com os programas e diretivas superiores.
+c) Executar ações de divulgação técnico-artísticas performativas, promotoras da cultura, imagem e excelência da Força Aérea;
+
+d) Divulgar e ser um agente contínuo de divulgação e de valorização do acervo e espólio musical histórico-cultural aeronáutico nas suas ações performativas.

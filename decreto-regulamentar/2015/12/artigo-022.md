@@ -2,46 +2,44 @@
 
 ### Direção de Saúde
 
-1 - A DS tem por missão a prevenção, conservação e recuperação médico-sanitária do pessoal da Força Aérea e a coordenação da atividade veterinária na Força Aérea.
+1 - A DS tem por missão assegurar a prevenção, manutenção e controlo da recuperação da saúde do pessoal da Força Aérea, no âmbito do Sistema de Saúde Militar (SSM), bem como assegurar o apoio médico-sanitário às operações militares atribuídas à Força Aérea, às evacuações aeromédicas e às missões de busca e salvamento.
 
-2 - À DS compete:
+2 - Sem prejuízo das competências da Direção de Saúde Militar (DIRSAM), à DS compete, em especial:
 
-a) Apoiar tecnicamente os órgãos da saúde da Força Aérea, nomeadamente emitindo pareceres sobre equipamentos médicos, material sanitário, medicamentos e apósitos e, ainda, sobre a construção, reconversão ou reparação de infraestruturas de saúde;
+a) Elaborar estudos no âmbito da saúde militar;
 
-b) Elaborar programas e promover a saúde e prevenção da doença ou do acidente;
+b) Definir normas técnicas e dar pareceres no âmbito da fisiologia de voo;
 
-c) Gerir os recursos humanos, financeiros e materiais postos à sua disposição;
+c) Exercer a autoridade técnica e funcional sobre os órgãos de saúde militar das unidades da Força Aérea, programando, coordenando e controlando a atividade médica, de enfermagem, veterinária e farmacêutica na Força Aérea, em colaboração com a DIRSAM;
 
-d) Promover a formação e atualização técnica do pessoal de saúde, bem como a investigação e desenvolvimento nas áreas da medicina operacional, medicina preventiva, saúde ocupacional militar, cuidados primários de saúde, medicina aeronáutica e psicologia aeronáutica militar;
+d) Garantir o apoio logístico sanitário às unidades de saúde da Força Aérea;
 
-e) Determinar a aptidão psicofísica dos cidadãos para a prestação do serviço militar em todas as especialidades da Força Aérea;
+e) Emitir pareceres técnicos sobre matérias relativas a equipamentos e dispositivos médicos, medicamentos e outros produtos de saúde necessários ao desenvolvimento da missão da Força Aérea, bem como sobre a construção, reconversão ou reparação de infraestruturas de saúde, em colaboração com a DIRSAM;
 
-f) Estabelecer normas técnicas e fornecer apoio aeromédico e treino fisiológico ao pessoal empenhado na atividade aérea;
+f) Desenvolver, através das unidades de saúde da Força Aérea, inspeções médicas para avaliação da aptidão física e psíquica do pessoal navegante da Força Aérea na efetividade de serviço, em coordenação com o Centro de Medicina Aeronáutica (CMA);
 
-g) Coordenar e desenvolver as atividades no âmbito da psicologia aeronáutica militar;
+g) Decidir sobre a aptidão física e psíquica e sobre a aptidão médico-sanitária para as operações no exterior, do pessoal navegante da Força Aérea na efetividade de serviço, tendo em conta o resultado das inspeções médicas realizadas pelo CMA;
 
-h) Desenvolver inspeções médicas para avaliação da condição física e psíquica ao pessoal da Força Aérea na situação de ativo;
+h) Coordenar a realização pelas unidades de saúde da Força Aérea de inspeções médicas ao pessoal militar não navegante da Força Aérea, na efetividade de serviço, para a avaliação da sua aptidão física e psíquica e aptidão médico-sanitária para operações no exterior;
 
-i) Programar e coordenar as atividades das juntas médicas da Força Aérea;
+i) Garantir o controlo médico-sanitário do pessoal civil ao serviço da Força Aérea;
 
-j) Supervisionar as evacuações aeromédicas;
+j) Definir e controlar a certificação técnica e operacional do pessoal de saúde que assegura o apoio sanitário às evacuações aeromédicas e às missões de busca e salvamento, assegurando e supervisionando a sua atividade;
 
-k) Promover ações e colaborar com outros serviços de saúde na prevenção e combate às toxicodependências e alcoolismo;
+k) Programar, executar e controlar as ações de apoio sanitário aos militares da Força Aérea, em cerimónias, exercícios e destacamentos da Força Aérea ou a cargo da Força Aérea, em território nacional e no estrangeiro;
 
-l) Promover e determinar a aptidão médico-sanitária dos militares da Força Aérea envolvidos em operações no exterior;
+l) Propor programas e outras atividades de formação e assegurar a colaboração nas atividades de ensino e formação na área da saúde, promovendo a investigação e o desenvolvimento da medicina operacional, medicina aeroespacial e evacuações aeromédicas;
 
-m) Programar, coordenar e controlar a atividade veterinária na Força Aérea;
+m) Definir, promover e colaborar na certificação técnica do pessoal de saúde, programando, em coordenação com o CA, o treino e a qualificação das equipas de saúde integradas em missões operacionais da Força Aérea;
 
-n) Gerir o arquivo da informação sobre dados relativos ao pessoal e às atividades desenvolvidas na área da saúde da Força Aérea;
+n) Programar, coordenar e apoiar administrativamente as atividades das juntas médicas da Força Aérea;
 
-o) Propor o estabelecimento de convénios com outros serviços ou organismos de saúde, nacionais ou estrangeiros;
+o) Promover ações de prevenção e combate às toxicodependências e alcoolismo na Força Aérea;
 
-p) Efetuar inspeções setoriais aos serviços sob a sua dependência funcional, em coordenação com a IGFA;
+p) Realizar inspeções técnicas em colaboração com a IGFA.
 
-q) Programar, coordenar e controlar as ações de apoio sanitário a destacamentos da Força Aérea no estrangeiro.
+q) (Revogada.)
 
-3 - Dependem da DS:
+3 - No âmbito da saúde militar, a DS depende técnica e funcionalmente da DIRSAM.
 
-a) O Centro de Medicina Aeronáutica, sem prejuízo do disposto na alínea b) do n.º 6 do artigo 2.º do Decreto Regulamentar n.º 2/2015, de 20 de fevereiro.
-
-b) O Centro de Psicologia da Força Aérea.
+4 - O diretor da DS é um brigadeiro-general.

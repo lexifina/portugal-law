@@ -6,8 +6,4 @@
 
 2 - Os aeródromos de manobra constituem unidades dotadas de aeródromo destinadas a acolher e apoiar destacamentos temporários de aeronaves.
 
-3 - Os aeródromos de manobra na dependência hierárquica do Comandante Aéreo são:
-
-a) O Aeródromo de Manobra n.º 1 - Maceda;
-
-b) O Aeródromo de Manobra n.º 3 - Porto Santo, através do CZAM.
+3 - O Aeródromo de Manobra n.º 3, em Porto Santo, está na dependência hierárquica do Comandante Aéreo, através do CZAM.

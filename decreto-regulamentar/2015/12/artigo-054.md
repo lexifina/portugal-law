@@ -6,38 +6,38 @@
 
 ### Unidade de Apoio de Lisboa
 
-1 - A UAL tem por missão prestar o apoio logístico e administrativo às unidades, órgãos e serviços da área de Lisboa e aos militares adidos.
+1 - A UAL tem por missão prestar apoio logístico e administrativo às unidades, estabelecimentos e órgãos definidos por despacho do CEMFA, assim como aos militares adidos.
 
-2 - À UAL compete:
+2 - À UAL compete, em especial:
 
-a) Garantir a exploração contínua, eficiente e segura das comunicações e sistemas de informação nas unidades, órgãos e serviços da área de Lisboa;
+a) Garantir a exploração contínua, eficiente e segura das comunicações e sistemas de informação nas unidades, estabelecimentos e órgãos apoiados;
 
-b) Organizar e realizar os funerais dos militares da Força Aérea falecidos na área de Lisboa;
+b) Organizar e realizar os funerais dos militares da Força Aérea falecidos;
 
-c) Assegurar a prevenção de acidentes e incidentes em terra e de ambiente nas unidades, órgãos e serviços da área de Lisboa;
+c) Assegurar a prevenção de acidentes nos domínios da segurança em terra e ambiente e da segurança de armamento e mísseis nas unidades, estabelecimentos e órgãos apoiados;
 
-d) Organizar e elaborar, de acordo com a legislação em vigor, os processos relativos à administração da justiça do pessoal militar e civil em serviço nas unidades, órgãos e serviços apoiados;
+d) Assegurar a prontidão dos meios de transporte terrestre, as ações de manutenção e conservação das infraestruturas, dos sistemas de energia, dos sistemas de comunicações e de informação, dos sistemas de vigilância eletrónica e dos sistemas de assistência e socorro às unidades, estabelecimentos e órgãos apoiados;
 
-e) Promover a logística do abastecimento ao Complexo de Alfragide e às unidades, órgãos e serviços apoiados;
+e) Prestar apoio administrativo, logístico e sanitário aos militares e civis colocados nas unidades, estabelecimentos e órgãos apoiados, bem como aos militares adidos;
 
-f) Fornecer alimentação em espécie aos utentes da messe do Complexo de Alfragide;
+f) Garantir a segurança militar e a defesa imediata da Unidade.
 
-g) Garantir o fornecimento de combustíveis e lubrificantes a viaturas autorizadas;
+g) (Revogada.)
 
-h) Garantir o fornecimento de materiais de expediente, de higiene e de limpeza às unidades, órgãos e serviços apoiados;
+h) (Revogada.)
 
-i) Assegurar ações de manutenção e conservação de sistemas de eletricidade e força motriz, sistemas de comunicações, central telefónica e sistemas de vigilância eletrónica no Complexo de Alfragide;
+i) (Revogada.)
 
-j) Promover ações de manutenção e conservação das infraestruturas, da rede de água e saneamento e o apoio oficinal ao Complexo de Alfragide;
+j) (Revogada.)
 
-k) Implementar ações de conservação e manutenção dos sistemas de apoio e socorro do Complexo de Alfragide;
+k) (Revogada.)
 
-l) Assegurar a prontidão dos meios de transporte terrestre para apoio às unidades, órgãos e serviços da área de Lisboa;
+l) (Revogada.)
 
-m) Prestar apoio administrativo, logístico e sanitário aos militares e civis colocados nas unidades, órgãos e serviços apoiados, bem como aos militares adidos;
+m) (Revogada.)
 
-n) Organizar e controlar programas de manutenção da condição física e realizar testes de avaliação da condição física dos militares do Complexo de Alfragide, das unidades, órgãos e serviços e dos adidos ao ramo;
+n) (Revogada.)
 
-o) Fornecer alimentação em espécie e prestar apoio de messe ao Complexo Militar de Monsanto;
+o) (Revogada.)
 
-p) Garantir a prontidão dos meios humanos e materiais necessários à segurança militar e defesa imediata no Complexo de Alfragide.
+p) (Revogada.)

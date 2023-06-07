@@ -12,10 +12,10 @@ b) Receber e fomentar a recolha de espólios documentais de interesse histórico
 
 c) Proceder ao tratamento (organização, descrição e catalogação) do acervo documental à sua guarda;
 
-d) Propor a celebração de protocolos ou convénios de cooperação com arquivos nacionais e internacionais, privilegiando os congéneres militares;
+d) (Revogada.)
 
 e) Produzir instrumentos de descrição documental, tais como catálogos, guias, roteiros e inventários, e promover a sua divulgação;
 
 f) Cooperar em trabalhos de investigação com interesse histórico-cultural aeronáutico;
 
-g) Preservar e salvaguardar o património e o acervo documental, protegendo-o de potenciais agentes agressores.
+g) (Revogada.)

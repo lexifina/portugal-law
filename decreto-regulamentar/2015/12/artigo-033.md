@@ -1,3 +1,7 @@
+## Secção IV
+
+## Direção de Finanças da Força Aérea
+
 # Artigo 33.º
 
 ### Missão e competências
@@ -6,22 +10,32 @@
 
 2 - À DFFA compete:
 
-a) Preparar os projetos orçamentais anuais e os seus ajustamentos;
+a) Elaborar a proposta orçamental da Força Aérea, colaborar na elaboração dos planos financeiros e correspondentes propostas orçamentais, relativos à LPM, LIM e outros projetos ou programas de investimento, e gerir e controlar os orçamentos aprovados;
 
-b) Estabelecer métodos e normas técnicas de gestão financeira;
+b) Assegurar a prestação de contas mensal e trimestral consolidada e da conta de gerência da Força Aérea, junto do Tribunal de Contas;
 
-c) Controlar a gestão financeira executada pelas unidades e órgãos da Força Aérea e apresentar às entidades competentes os atos de gerência praticados;
+c) Assegurar a efetivação e o controlo do processamento dos vencimentos, pensões, outros abonos e respetivos descontos do pessoal militar e civil da Força Aérea;
 
-d) Assegurar a efetivação dos abonos e descontos devidos ao pessoal militar e civil da Força Aérea;
+d) Assegurar os serviços de tesouraria central, de acordo com o regime da tesouraria do Estado;
 
-e) Realizar as ações de inspeção e auditoria aos órgãos da Força Aérea, no âmbito das atividades relacionadas com a administração dos recursos financeiros;
+e) Apoiar e controlar a gestão financeira dos órgãos, cuja responsabilidade seja atribuída à DFFA;
 
-f) Executar a gestão financeira e efetuar o apoio administrativo, relativamente aos órgãos cuja responsabilidade seja atribuída à DFFA;
+f) Assegurar o cumprimento das obrigações fiscais, contributivas e declarativas da Força Aérea, nos termos da legislação em vigor;
 
-g) Efetuar os procedimentos centrais necessários à execução das contas mensais das unidades e órgãos e preparar as demonstrações financeiras e respetivos anexos para efeitos de prestação de contas da Força Aérea;
+g) Assegurar a contabilidade de gestão, a avaliação sistemática da situação financeira da Força Aérea e apresentar às entidades competentes os atos de gerência praticados;
 
-h) Apoiar o Instituto de Ação Social das Forças Armadas, I. P., no âmbito da ADM, relativamente ao processamento das comparticipações do regime de livre escolha dos beneficiários;
+h) Elaborar documentação técnica normativa e promover e assegurar o funcionamento do sistema de controlo interno, no âmbito dos recursos financeiros;
 
-i) Efetuar a prestação de contas da Força Aérea ao Tribunal de Contas.
+i) Executar ações de auditoria interna, de acompanhamento e de apoio técnico, no âmbito dos recursos financeiros e do respetivo sistema de controlo interno;
 
-3 - Depende da DFFA o Serviço Administrativo e Financeiro (SAF).
+j) Apoiar o Instituto de Ação Social das Forças Armadas, no âmbito da ADM, relativamente ao processamento das comparticipações do regime de livre escolha dos beneficiários.
+
+3 - Dependem da DFFA:
+
+a) O Serviço Administrativo e Financeiro (SAF);
+
+b) O Serviço de Gestão de Recursos Financeiros (SGRF);
+
+c) O Serviço de Auditoria e Controlo Interno (SACI).
+
+4 - O diretor de Finanças da Força Aérea é um major-general, na direta dependência do CEMFA.
