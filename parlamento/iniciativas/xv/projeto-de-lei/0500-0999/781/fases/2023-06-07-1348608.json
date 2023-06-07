@@ -1,0 +1,136 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "781",
+    "id": "172937",
+    "titulo": "Cria as Respostas de Apoio Psicológico para vítimas de assédio e violência sexual no Ensino Superior e alarga o âmbito de aplicação dos Códigos de Boa Conduta para a Prevenção e Combate ao Assédio a todos os membros da comunidade académica"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-06-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64491",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-06-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-06-26",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Consulta dos contributos à Iniciativa",
+            "URL": "https://www.parlamento.pt/sites/COM/XVLeg/8CEC/Paginas/ContributosIniciativasII.aspx?ID_Ini=134"
+          },
+          {
+            "DataDocumento": "2023-09-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração - IL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6b4e4749315a4455354c5463784f4449744e446c6b5a4331694d5759314c546377597a686d4e5749784d5449334d7935775a47593d&fich=6d4b5d59-7182-49dd-b1f5-70c8f5b11273.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-09-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6d4d6a5a6d4e6a4d324c544a6c4d574d744e444131596931694d544d794c54646b4e54566c4f5459784f4455775a5335775a47593d&fich=6f26f636-2e1c-405b-b132-7d55e961850e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-09-28",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63354e6d4a6a4d44426a4c5749304e6a59744e475a6c4e7930355a6a6b354c5751335a5441314e574e6b596d566b4e4335775a47593d&fich=796bc00c-b466-4fe7-9f99-d7e055cdbed4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-09-28",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d795a6a637a4f4749314c54557a596d45744e475a6b4d43303459324d344c54566b4d7a426d4e6a5a6b596d45774f5335775a47593d&fich=c2f738b5-53ba-4fd0-8cc8-5d30f66dba09.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-09-26",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação da discussão",
+            "URL": "http://media.parlamento.pt/site/XVLEG/SL2/COM/08_CEC/CEC_20230926.mp3"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8332",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "8332",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-06-07",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1348608",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996805",
+        "obs": null,
+        "pag": [
+          "6-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-09-28",
+        "pubLeg": "XV",
+        "pubNr": "10",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/02/010/2023-09-28/6?pgs=6-10&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
