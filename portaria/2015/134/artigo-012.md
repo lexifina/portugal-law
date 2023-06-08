@@ -16,7 +16,7 @@ iv) Incidam em áreas onde o risco é reconhecido por entidade pública competen
 
 v) Obedeçam aos requisitos específicos integrados no POSF, e publicitado no portal do ICNF, I. P., em www.icnf.pt e no portal do PDR 2020, em www.pdr-2020.pt;
 
-vi) Apresentem PGF aprovado, quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, sem prejuízo do disposto no número seguinte.
+vi) Apresentem PGF aprovado, em conformidade com os programas regionais de ordenamento florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
 
 b) Agentes abióticos:
 
@@ -30,7 +30,11 @@ iv) Incidam em áreas classificadas como de média e muito alta perigosidade de 
 
 v) As ações estejam em consonância com as orientações aprovadas no âmbito dos PMDFCI;
 
-vi) Apresentem PGF aprovado, quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, sem prejuízo do disposto no número seguinte.
+vi) Apresentem PGF aprovado, em conformidade com os programas regionais de ordenamento florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
 
 2 - O critério de elegibilidade previsto na subalínea vi) da alínea a) e na subalínea vi) da alínea b) do número anterior pode ser cumprido por apresentação do comprovativo da entrega do PGF no ICNF, I. P., ou com análise da consonância das ações com os instrumentos de gestão para espaços florestais, requerida nos termos de formulário próprio, disponível no sítio na Internet do ICNF, I. P.
 

@@ -2,13 +2,13 @@
 
 ### Cumulação dos Apoios
 
-1 - Os apoios previstos na presente portaria, bem como nos restantes apoios para a ação 8.1, 'Silvicultura Sustentável' da Medida 8, 'Proteção e Reabilitação dos Povoamentos Florestais' do PDR 2020 são cumuláveis entre si, não sendo contabilizados para este efeito o investimento destinado à estabilização de emergência pós-incêndio, à recuperação dos efeitos decorrentes de calamidades naturais ou acontecimentos catastróficos, desde que respeitem as seguintes condições:
+1 - Os apoios previstos na presente portaria, bem como nos restantes apoios para a ação 8.1, 'Silvicultura Sustentável', da medida 8, 'Proteção e Reabilitação dos Povoamentos Florestais', do PDR 2020, são cumuláveis entre si, não sendo contabilizado para este efeito o investimento destinado à operação 8.1.4, desde que respeitem as seguintes condições:
 
-a) Investimento elegível até ao limite de 2 milhões de euros por ZIF ou por baldio;
+a) Investimento elegível até ao limite de 4 milhões de euros por ZIF ou por baldio;
 
-b) Investimento elegível até ao limite de 2 milhões de euros, para entidades coletivas de gestão florestal e entidades coletivas públicas, por mata nacional e por perímetro florestal geridos pelo Instituto da Conservação da Natureza e das Florestas, I. P.;
+b) Investimento elegível até ao limite de 4 milhões de euros, para entidades coletivas de gestão florestal e entidades coletivas públicas, por mata nacional e por perímetro florestal geridos pelo Instituto da Conservação da Natureza e das Florestas, I. P.;
 
-c) Investimento elegível até ao limite de 1 milhão de euros para os restantes beneficiários.
+c) Investimento elegível até ao limite de 2 milhões de euros para os restantes beneficiários.
 
 2 - Se o valor cumulado de investimento elegível exceder os limites mencionados no número anterior, o mesmo será reduzido proporcionalmente.3 - Para os produtores ou proprietários florestais, em nome individual ou coletivo, quando o valor do investimento elegível por candidatura exceder 250 mil euros, aplicam-se as seguintes reduções:
 
