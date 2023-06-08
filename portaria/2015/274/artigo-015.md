@@ -12,13 +12,13 @@ c) Respeitem as densidades mínimas e máximas previstas no anexo vi da presente
 
 d) As ações de arborização ou rearborização estejam autorizadas ou com comprovativo da apresentação do pedido de autorização, ou com comunicação prévia válida, no âmbito do regime jurídico das ações de arborização e rearborização (RJAAR), estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual;
 
-e) Apresentem PGF aprovado, quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, ou comprovativo da entrega do PGF no ICNF, I. P.; sem prejuízo do disposto no número seguinte;
+e) Apresentem PGF aprovado, em conformidade com os programas regionais de ordenamento florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
 
 f) Apresentem coerência técnica.
 
-2 - O cumprimento do critério de elegibilidade previsto na alínea e) do número anterior pode ser cumprido por apresentação do comprovativo do pedido de autorização, ou com comunicação prévia válida, no âmbito do RJAAR, sempre que o PGF não se encontre aprovado à data da submissão da candidatura.
+2 - (Revogado.)
 
-3 - O PGF integra todos os elementos técnicos resultantes da conformidade com o RJAAR, devendo ser entregue o PGF aprovado até à data da apresentação do último pedido de pagamento.
+3 - (Revogado.)
 
 4 - A existência de rede de faixas de gestão de combustível não prejudica a contiguidade das áreas confinantes.
 

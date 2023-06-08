@@ -12,23 +12,23 @@ c) As espécies florestais utilizadas nas ações de arborização sejam as que 
 
 d) As ações de arborização ou rearborização estejam autorizadas ou com comprovativo da apresentação do pedido de autorização, ou com comunicação prévia válida, no âmbito do regime jurídico das ações de arborização e rearborização (RJAAR), estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual;
 
-e) Apresentem PGF aprovado, quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, ou comprovativo da entrega do PGF no ICNF, I. P., sem prejuízo do disposto no número seguinte;
+e) Apresentem PGF aprovado, em conformidade com os programas regionais de ordenamento florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
 
 f) Apresentem coerência técnica.
 
-2 - O cumprimento do critério de elegibilidade previsto na alínea e) do número anterior pode ser cumprido por apresentação do comprovativo do pedido de autorização, ou com comunicação prévia válida, no âmbito do RJAAR, sempre que o PGF não se encontre aprovado à data da submissão da candidatura.
+2 - (Revogado.)
 
-3 - O PGF integra todos os elementos técnicos resultantes da conformidade com o RJAAR, devendo ser entregue o PGF aprovado até à data da apresentação do último pedido de pagamento.
+3 - (Revogado.)
 
 4 - A existência de rede de faixas de gestão de combustível não prejudica a contiguidade das áreas confinantes.
 
 5 - No caso de florestação contínua de superfície agrícola superior a 50 ha devem, ainda, ser respeitados os seguintes requisitos:
 
-a) As espécies elegíveis são as identificadas como prioritárias nos PROF; ou
+a) As espécies elegíveis são as identificadas como espécies a privilegiar nos PROF; ou
 
-b) Ser adotada uma mistura de outras espécies florestais previstas nos PROF que incluam:
+b) Ser adotada uma mistura das espécies florestais a privilegiar do respetivo PROF que inclua:
 
-i) Um mínimo de 10 % de espécies folhosas; ou
+i) Um mínimo de 10 % de espécies folhosas autóctones; ou
 
 ii) Um mínimo de três espécies, em que a menos abundante represente, pelo menos, 10 % da área do investimento.
 
