@@ -1,0 +1,23 @@
+# Resolução do Conselho do Governo Regional n.º 598/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 108/2023, de 2023-06-12
+
+**Sumário:** Autoriza a alteração do contrato-programa celebrado com a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e lnovação - Associação no dia 17 de maio de 2022, no que diz respeito ao reescalonamento da comparticipação financeira concedida, no montante máximo de 2.961.672,37 EUR.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 598/2023
+Sumário: Autoriza a alteração do contrato-programa celebrado com a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e lnovação - Associação no dia 17 de maio de 2022, no que diz respeito ao reescalonamento da comparticipação financeira concedida, no montante máximo de 2.961.672,37 EUR.
+Texto: Resolução n.º 598/2023 Considerando que no dia 17 de maio de 2022, em conformidade com a autorização concedida pela Resolução n.º 321/2022, de 12 de maio, do Conselho do Governo Regional da Madeira, publicada no Jornal Oficial da Região Autónoma da Madeira de 13 de maio de 2022, Série I, n.º 83, 2.º Suplemento, foi celebrado o contrato-programa entre a Região Autónoma da Madeira, através da Secretaria Regional de Educação, Ciência e Tecnologia, e a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e lnovação - Associação, tendo por objeto a definição do processo de cooperação financeira entre as partes outorgantes tendo em vista dotar a ARDITI dos meios financeiros necessários à operacionalização do Smart Islands Hub (SIH); Considerando que, em 2022, não foi possível executar toda a programação financeira estabelecida, devido a constrangimentos no âmbito dos procedimentos de contratação; Considerando que o SIH - vertente nacional não se iniciou devido a constrangimentos relacionados com o Plano de Recuperação e Resiliência, e que, a rede nacional de polos de inovação ainda não arrancou oficialmente; Considerando que se revela premente a aprovação de uma alteração ao contrato-programa em referência, que consagre a reprogramação financeira atribuída, face à execução que efetivamente se realizou e que se perspetiva, por forma a garantir a concretização do projeto Smart Islands Hub (SIH); Considerando que a presente reprogramação não acarreta qualquer encargo adicional no que concerne ao montante global do projeto em apreço. O Conselho do Governo reunido em plenário em 7 de junho de 2023, resolve:
+1. Autorizar, ao abrigo do disposto nos artigos 29.º e 34.º do Decreto Legislativo Regional n.º26/2022/M, de 29 de dezembro, que aprova o Orçamento da Região Autónoma da Madeira para 2023, conjugado com a cláusula sexta do contrato-programa, a alteração do contrato-programa celebrado com a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e lnovação - Associação, no dia 17 de maio de 2022, no que diz respeito ao reescalonamento da comparticipação financeira concedida no montante máximo de 2.961.672,37 EUR (dois milhões, novecentos e sessenta e um mil, seiscentos e setenta e dois euros e trinta e sete cêntimos) que passa a ter a seguinte programação:
+a) Ano económico de 2022:......................................................................... € 121.446,91 (cento e vinte e um mil e quatrocentos e quarenta e seis euros e noventa e um cêntimos);
+b) Ano económico de 2023:......................................................................... € 580.000,00 (quinhentos e oitenta mil euros);
+c) Ano económico de 2024:........................................................................... € 1.500.000 (um milhão e quinhentos mil euros);
+d) Ano económico de 2025:......................................................................... € 760.225,46 (setecentos e sessenta mil, duzentos e vinte e cinco euros e quarenta e seis cêntimos).
+2. Aprovar a minuta da primeira adenda ao contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência.
+
+3. Mandatar o Secretário Regional de Educação, Ciência e Tecnologia para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar a primeira adenda ao contrato-programa.
+4. As verbas que asseguram a execução desta alteração ao contrato-programa têm cabimentos orçamentais n.º CY42307036, CY42307038 e CY42305965, classificação orgânica 43 9 50 01 34 classificação económica D.04.04.03.00.00 e D.08.04.03.00.00, compromissos n.º CY52306459; CY52305420 e CY52306461.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, no exercício da Presidência, Jorge Maria Abreu de Carvalho
