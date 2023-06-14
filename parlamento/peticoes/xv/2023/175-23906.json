@@ -1,0 +1,993 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23906",
+  "numero": "175",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-06-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": null,
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8460",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Infraestruturas, Mobilidade e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "14",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Em apreciação",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-09-19",
+            "entidades": null,
+            "id": "148965",
+            "tipo": null,
+            "titulo": "Audição em 2024-09-19 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-24",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2025-03-13",
+        "DataReaberta": "2024-04-24",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5547563061574e6862793879593249305a574d344d6930355a445a694c5451345a6d497459546b325a5330304e4463304f5467335a5467334e3249756347526d&fich=2cb4ec82-9d6b-48fb-a96e-4474987e877b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8398",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Economia, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-04-24",
+            "gp": "PSD",
+            "id": "2297",
+            "motivoCessacao": null,
+            "nome": "Cristóvão Norte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-07-05",
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2023-06-23",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2023-07-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-07-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e6862793968597a557a5a444268597930304f4451314c54526c596d4d74596a63315953316d5a6d55344e4467315932526a596a45756347526d&fich=ac53d0ac-4845-4ebc-b75a-ffe8485cdcb1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8330",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-07-05",
+            "gp": "PSD",
+            "id": "6595",
+            "motivoCessacao": null,
+            "nome": "Márcia Passos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2026-04-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-06-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a57526a5a54677a5a4751744d5451774d79303059324d304c5745325a444d744f546b314f54426a597a59324e4745784c6e426b5a673d3d&fich=edce83dd-1403-4cc4-a6d3-99590cc664a1.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "356538",
+      "356541",
+      "356510",
+      "356542"
+    ],
+    "Iniciativasoriginadas": [
+      "356538",
+      "356541",
+      "356510",
+      "356542"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Apresenta o Projeto de Lei n.º 557/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Ao Deputado Fabian Figueiredo (BE)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Responde ao pedido de esclarecimento do Deputado João Paulo Graça (CH)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Apresenta o Projeto de Lei n.º 559/XVII/1ª e o Projeto de Resolução n.º 829/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 811/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/30?pgs=30-32&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Ao Deputado Gonçalo Lage (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Ao Deputado Gonçalo Lage (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Pede explicações sobre um gráfico exibido pelo Deputado Gonçalo Lage (PSD)."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": "Pede a distribuição de um documento que demonstra a evolução do número de licenças de alojamento local e a sua ligação com o preço da habitação."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2026-04-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/82/54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "483175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2026-04-24",
+                "pubLeg": "XVII",
+                "pubNr": "82",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Não deixamos matar o alojamento local e a economia local - (Luís Miguel de Melo Torres e outos); Reposição de medidas de regulação do alojamento local em zonas de pressão habitacional (Altera o Decreto-Lei n.º 128/2014, de 29 de agosto e o Decreto-lei n.º 76/2024, de 23 de outubro); Recupera o regime jurídico do alojamento local e retoma a contribuição extraordinária sobre o alojamento local; Recomenda ao Governo a imediata disponibilização aos municípios das adequadas plataformas informáticas, visando a atualização dos Alojamentos Locais ativos nos seus territórios; Recomenda transparência na recolha e partilha de dados relativos aos serviços de alojamento local e o uso desta informação em políticas de habitação e turismo.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23906",
+    "PetAssunto": "Não deixamos matar o Alojamento Local e a Economia Local",
+    "PetDataEntrada": "2023-06-14",
+    "PeticoesAssociadas": null,
+    "PetId": "23906",
+    "PetLeg": "XV",
+    "PetNr": "175",
+    "PetNrAssinaturas": "19654",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura.",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56873",
+        "obs": null,
+        "pag": [
+          "27-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2026-04-24",
+        "pubLeg": "XVII",
+        "pubNr": "82",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/082/2026-04-24/27?pgs=27-38&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
