@@ -1,0 +1,19 @@
+# Resolução do Conselho do Governo Regional n.º 615/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 112/2023, de 2023-06-16
+
+**Sumário:** Autoriza a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação Regional de Triatlo da Madeira, tendo em vista a execução de um projeto intitulado “Ultra Skyrunning Madeira”, a ter lugar em junho, mediante uma comparticipação financeira que não excederá € 12.000,00.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 615/2023
+Sumário: Autoriza a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação Regional de Triatlo da Madeira, tendo em vista a execução de um projeto intitulado “Ultra Skyrunning Madeira”, a ter lugar em junho, mediante uma comparticipação financeira que não excederá € 12.000,00.
+Texto: Resolução n.º 615/2023 Considerando que o “Ultra Skyrunning Madeira” é um evento de caráter internacional na modalidade de skyrunning, que contará com a realização de 5 provas de diferentes distâncias, a decorrer no concelho de Santana, possibilitando a descentralização da oferta turística regional, e contribuindo para a valorização do território regional ao permitir o usufruto do seu rico património natural, e reafirmando a importância deste relevante ativo turístico; Considerando que o evento “Ultra Skyrunning Madeira” potencia a divulgação e promoção do destino Madeira junto de mercados de interesse e constitui um instrumento de valor acrescido no que à visibilidade e rejuvenescimento do destino diz respeito, em particular no segmento de turismo desportivo e ativo, confirmando as potencialidades do destino nestes segmentos; Considerando que a Associação Regional de Triatlo da Madeira tem reconhecido mérito, competência e conhecimento para executar o projeto por si apresentado, valorizando o calendário anual de animação turística, fortalecendo o segmento de mercado relacionado com o binómio turismo-desporto, e consequente rejuvenescimento da procura, prossegue o objetivo de apoiar a política de Turismo do Governo Regional. Assim, ao abrigo do disposto no n.º 11 do artigo 34.º, e no n.º 2 do artigo 35.º e no n.º 4 do artigo 37.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, em conjugação com a alínea d) do artigo 3.º e no artigo 7.º do Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto, e da Portaria n.º 78/2001, de 17 de julho, o Conselho do Governo reunido em plenário em 15 de junho de 2023, resolve:
+1. Autorizar a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação Regional de Triatlo da Madeira, tendo em vista a execução de um projeto intitulado “Ultra Skyrunning Madeira”, a ter lugar em junho.
+2. Para a prossecução do projeto previsto no número anterior, conceder à Associação Regional de Triatlo da Madeira uma comparticipação financeira que não excederá € 12.000,00 (doze mil euros).
+3. Aprovar a minuta do protocolo, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-geral da Presidência, para a atribuição do referido apoio financeiro.
+4. Mandatar o Secretário Regional de Turismo e Cultura e a Diretora Regional do Turismo para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o protocolo, o qual produzirá efeitos desde a data da assinatura até 31 de dezembro de 2023.
+5. As despesas resultantes do protocolo a celebrar têm cabimento orçamental na Secretaria 47, Capítulo 50, Divisão 01, Subdivisão 02, Classificação Funcional 047, Classificação Económica D.04.07.01.ME.00, Projeto 50975, Fonte 381, Programa 043, Medida 010.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
