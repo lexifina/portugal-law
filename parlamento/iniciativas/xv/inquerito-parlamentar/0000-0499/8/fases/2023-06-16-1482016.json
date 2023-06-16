@@ -1,0 +1,494 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "8",
+    "id": "172880",
+    "titulo": "Comissão Eventual de Inquérito à Atuação do Serviço de Informações de Segurança (SIS)"
+  },
+  "fase": "Votação global",
+  "codigo_fase": "330",
+  "data_registo": "2023-06-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "19663",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "330",
+    "Comissao": null,
+    "DataFase": "2023-06-16",
+    "EvtId": "56",
+    "Fase": "Votação global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Inquérito Parlamentar",
+        "id": "172948",
+        "leg": "XV",
+        "nr": "9",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36500",
+            "obs": null,
+            "pag": [
+              "50-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-06-17",
+            "pubLeg": "XV",
+            "pubNr": "142",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/142/2023-06-17/50?pgs=50-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16446",
+            "obs": null,
+            "pag": [
+              "88-89"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-06-24",
+            "pubLeg": "XV",
+            "pubNr": "145",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/145/2023-06-24/88?pgs=88-89&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "I",
+        "titulo": "Comissão Eventual de Inquérito Parlamentar para avaliação da actuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-06-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4439",
+                "nome": "António Prôa"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7371",
+                "nome": "João Barbosa de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335064",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-24",
+                "pubLeg": "XV",
+                "pubNr": "145",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/145/2023-06-24?org=PLC"
+              }
+            ],
+            "sumario": "Inquéritos Parlamentares n.º 8/XV/1.ª (IL) - Comissão eventual de inquérito à atuação do Serviço de Informações de Segurança (SIS) e 9/XV/1.ª (CH) - Comissão eventual de inquérito parlamentar para avaliação da atuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições \n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6853",
+                "nome": "António Maló de Abreu"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-17",
+                "pubLeg": "XV",
+                "pubNr": "142",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/142/2023-06-17/50?pgs=50-52&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual de inquérito à atuação do Serviço de Informações de Segurança (SIS); Comissão eventual de inquérito parlamentar para avaliação da atuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7583",
+                "nome": "João Dias Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-89"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-24",
+                "pubLeg": "XV",
+                "pubNr": "145",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/145/2023-06-24/89?pgs=89&org=PLC"
+              }
+            ],
+            "sumario": "Inquéritos Parlamentares n.º 8/XV/1.ª (IL) - Comissão eventual de inquérito à atuação do Serviço de Informações de Segurança (SIS) e 9/XV/1.ª (CH) - Comissão eventual de inquérito parlamentar para avaliação da atuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições \n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "271",
+                "nome": "José Silvano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-17",
+                "pubLeg": "XV",
+                "pubNr": "142",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/142/2023-06-17/52?pgs=52&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual de inquérito à atuação do Serviço de Informações de Segurança (SIS); Comissão eventual de inquérito parlamentar para avaliação da atuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6539",
+                "nome": "André Coelho Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-17",
+                "pubLeg": "XV",
+                "pubNr": "142",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/142/2023-06-17/52?pgs=52-54&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual de inquérito à atuação do Serviço de Informações de Segurança (SIS); Comissão eventual de inquérito parlamentar para avaliação da atuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4094",
+                "nome": "Maria Emília Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-17",
+                "pubLeg": "XV",
+                "pubNr": "142",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/142/2023-06-17/54?pgs=54&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual de inquérito à atuação do Serviço de Informações de Segurança (SIS); Comissão eventual de inquérito parlamentar para avaliação da atuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7969",
+                "nome": "Tiago Moreira de Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-17",
+                "pubLeg": "XV",
+                "pubNr": "142",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/142/2023-06-17/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual de inquérito à atuação do Serviço de Informações de Segurança (SIS); Comissão eventual de inquérito parlamentar para avaliação da atuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1905",
+                "nome": "Fernando Negrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:32",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-06-17",
+                "pubLeg": "XV",
+                "pubNr": "142",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/142/2023-06-17/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual de inquérito à atuação do Serviço de Informações de Segurança (SIS); Comissão eventual de inquérito parlamentar para avaliação da atuação do Serviço de Informações de Segurança (SIS) e Sistema de Informações da República Portuguesa (SIRP), bem como da tutela política governamental destas instituições ",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1482016",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
