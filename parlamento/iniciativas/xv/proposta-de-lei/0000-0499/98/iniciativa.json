@@ -1,0 +1,124 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Proposta de Lei",
+  "numero": "98",
+  "id": "173096",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-06-19",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d596a51344d44686d4d79316b595467794c5451354e6a4174595455354d5330774d57566d5957457859544532595451756347526d&fich=fb4808f3-da82-4960-a591-01efaa1a16a4.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324d474a684f446778596930794e4468684c5451784e6a4174595451784e533077597a4a6a4d546c684d4455344f5745756347526d&fich=60ba881b-248a-4160-a415-0c2c19a0589a.pdf&Inline=true",
+        "anexoNome": "Parecer Ordem dos Advogados"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684e6d45334d7a6b35596930354e7a4a6c4c54526c4e6d5574596d45344d5330775a5449324e475a6d4d5751344d7a59756347526d&fich=a6a7399b-972e-4e6e-ba81-0e264ff1d836.pdf&Inline=true",
+        "anexoNome": "Parecer Ordem dos Engenheiros"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953383559574d31597a6c6a4f53316c593256694c545131597a5574596a68694e5330774f444a6b4e3259314f444e6d5a6d45756347526d&fich=9ac5c9c9-eceb-45c5-b8b5-082d7f583ffa.pdf&Inline=true",
+        "anexoNome": "Parecer Ordem dos Engenheiros Técnicos"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387859546c6c4d44646c4d43316d4e6d5a6d4c5452694d474d744f474e6a5969316b5a6a63334d575932596a6332596a45756347526d&fich=1a9e07e0-f6ff-4b0c-8ccb-df771f6b76b1.pdf&Inline=true",
+        "anexoNome": "Parecer CNOP "
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304e4451314e575a694f5330784d6a63314c54517759324d744f44417a4d4330794e6d59325a6a566a4d6a457a4e6a4d756347526d&fich=44455fb9-1275-40cc-8030-26f6f5c21363.pdf&Inline=true",
+        "anexoNome": "Parecer Ordem Arquitectos"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338314d4759314d6a56694e53316b596a4d354c5451324d7a49744f545a694f533077593256694d54686b5a6a5a6c4d5749756347526d&fich=50f525b5-db39-4632-96b9-0ceb18df6e1b.pdf&Inline=true",
+        "anexoNome": "Parecer OROC"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324d6a4d34595467355a693168597a597a4c54526a4d6a6b7459544a6c4f5330344d7a45335954686b596d4d344e5759756347526d&fich=6238a89f-ac63-4c29-a2e9-8317a8dbc85f.pdf&Inline=true",
+        "anexoNome": "Parecer Ordem dos Solicitadores e dos Agentes de Execução"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b596a41344e44686c4e433168597a49354c54526a5a545574596a4e694e5331694d6d5134596a526c597a426c4f5445756347526d&fich=db0848e4-ac29-4ce5-b3b5-b2d8b4ec0e91.pdf&Inline=true",
+        "anexoNome": "Parecer Ordem dos Notários"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533968597a6b334d6a41784d53316a4e6d51794c5451775a475574595751304d79316d5a574d774f5442694e4455354e5749756347526d&fich=ac972011-c6d2-40de-ad43-fec090b4595b.pdf&Inline=true",
+        "anexoNome": "Parecer ERS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304f5455335a6a64694e6930774d5759354c54517a4d544d74596a67795a533031597a67354d474d7a597a6b355a5459756347526d&fich=4957f7b6-01f9-4313-b82e-5c890c3c99e6.pdf&Inline=true",
+        "anexoNome": "Parecer APN"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4d5441304d575a684d7931684d5449354c5451325a6a6b74596a51344f433169597a55794e6d4a684f44566d4e6d55756347526d&fich=f1041fa3-a129-46f9-b488-bc526ba85f6e.pdf&Inline=true",
+        "anexoNome": "Parecer CIOAS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339694d5749314f47517a5a4330774e7a686a4c54517a4f446b745954686c596930774e6a49355a6a5a6c4d6a4d315a4467756347526d&fich=b1b58d3d-078c-4389-a8eb-0629f6e235d8.pdf&Inline=true",
+        "anexoNome": "Proposta Revisão Lei 121/2019 e Estatutos OAS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774d4451314d4459344d43316b4d324d314c545178596a55744f575a6c4e53316c4f474d304d4459304d575a6d4e7a59756347526d&fich=00450680-d3c5-41b5-9fe5-e8c40641ff76.pdf&Inline=true",
+        "anexoNome": "Atos próprios - Ordem Nutricionistas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338784e44457a4f5455314e433031596a6c684c5451344e5451744f44677a4d5330314e3245315a6a45334d47517a4d5463756347526d&fich=14139554-5b9a-4854-8831-57a5f170d317.pdf&Inline=true",
+        "anexoNome": "Despacho nº 6634/ 2018 - Risco Nutricional"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4d32566a4d4759344e6930794e6a52694c5451345a446374595749305a53316d4d6d45314f5445334f446b7a593245756347526d&fich=f3ec0f86-264b-48d7-ab4e-f2a5917893ca.pdf&Inline=true",
+        "anexoNome": "Despacho n.º6556/2018 - Serviço de Nutrição no SNS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533968596a5a694d4464694f4330315a5452694c5451354e7a677459574e6b597930785a446869595463774d6a67334f574d756347526d&fich=ab6b07b8-5e4b-4978-acdc-1d8ba702879c.pdf&Inline=true",
+        "anexoNome": "Parecer CNS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338305a4755324f44426b4e43316a4d5755304c5451304d5751744f574a694f4330324f444a6d59574e6b5a474a6d4d5463756347526d&fich=4de680d4-c1e4-441d-9bb8-682facddbf17.pdf&Inline=true",
+        "anexoNome": "Parecer Direção Executiva SNS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774d6a59314e44526d4e4330334d5755774c5451354e545574595749774d6930345a57466a4e574e6c4d57597a4e4463756347526d&fich=026544f4-71e0-4955-ab02-8eac5ce1f347.pdf&Inline=true",
+        "anexoNome": "Pronúncia Ordem dos Nutricionistas"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4f444530595459335a5330314d5446694c5452695a6a41744f544d325a5330334f474e6d4e32466a4e5449304d544d756347526d&fich=c814a67e-511b-4bf0-936e-78cf7ac52413.pdf&Inline=true",
+        "anexoNome": "Parecer da Ordem dos Médicos Dentistas"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "173096",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324d4759785a5451775a53316a5a4449334c54526c4e5751744f445a694e53316b597a4e684d4463314d7a52684f444d755a47396a65413d3d&fich=60f1e40e-cd27-4e5d-86b5-dc3a07534a83.docx&Inline=true",
+    "IniNr": "98",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Altera o regime jurídico da constituição e funcionamento das sociedades de profissionais abrangidas por associações públicas profissionais",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
