@@ -1,0 +1,15 @@
+Aviso (extrato) n.º 11718/2023
+Sumário: Projeto do Regulamento de Acesso às Praias da Dona Ana e do Camilo - início de procedimento e consulta pública.
+Projeto de Regulamento de Acesso às Praias da Dona Ana e do Camilo Início de procedimento e consulta pública
+Sandra Maria Almada de Oliveira, Vereadora da Câmara Municipal de Lagos:
+Nos termos dos artigos 98.º, 100.º e 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na redação atual, faz público que, por Deliberação n.º 165/2023, de 17 de maio, da Câmara Municipal, foi aprovado:
+Dar início ao procedimento de elaboração do Regulamento de Acesso às Praias da Dona Ana e do Camilo;
+O projeto de Regulamento de Acesso às Praias da Dona Ana e do Camilo;
+Submeter o processo a consulta pública, pelo período de 30 dias úteis;
+Designar como responsável do procedimento, a Vereadora, Sandra Maria Almada de Oliveira.
+O referido projeto encontra-se disponível para consulta no Gabinete do Munícipe e no site institucional do Município, em https://www.cm-lagos.pt/ Participação Pública, pelo prazo de 30 dias úteis, a contar da data de publicação no Diário da República para efeitos de audiência dos interessados e de consulta pública nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo.
+Os interessados podem, no prazo antes referido, dirigir por escrito a esta Câmara Municipal, por via postal ou através de correio eletrónico (expediente.geral@cm-lagos.pt), as suas sugestões e ou reclamações, sendo as mesmas colocadas à consideração e análise da Câmara Municipal com vista ao seu eventual acolhimento.
+Se, após o decurso do período de audiência dos interessados e discussão pública, não tiverem sido registadas sugestões/reclamações, considerar-se-á o documento definitivamente aprovado e será remetido à Assembleia Municipal para deliberação.
+E para geral conhecimento se publica o presente e outros de igual teor, que serão afixados nos lugares públicos de costume.
+19 de maio de 2023. - A Vereadora, Sandra Maria Almada de Oliveira.
+316492568
