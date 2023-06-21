@@ -1,0 +1,185 @@
+# Decisão sumária do Tribunal Constitucional n.º 539/2023, de 2023-06-21
+
+**Decisão sumária:** 539/23
+
+**Processo:** 635/23
+
+**Formação:** 2ª
+
+**Data:** 21.06.23
+
+**Relator:** Cons. José Eduardo Figueiredo Dias
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/decsumarias/20230539.html
+
+## Texto integral
+
+DECISÃO SUMÁRIA N.º 539/2023
+
+Processo n.º 635/2023
+
+2.ª Secção
+
+Relator: Conselheiro José Eduardo Figueiredo Dias
+
+Decisão Sumária (artigo 78.º-A da Lei n.º 28/82, de 15 de novembro)
+
+I. Relatório
+
+1. Nos presentes autos, vindos do Tribunal Administrativo e Fiscal de Mirandela, em que é recorrente o Ministério Público e recorridos A. e o Instituto de Gestão Financeira da Segurança Social, I.P. (doravante, IGFSS), foi interposto recurso obrigatório, ao abrigo do disposto nos artigos 70.º, n.º 1, alínea a), 72.º, n.º 1, alínea a) e n.º 3, 75.º, n.º 1 e 75.º-A, todos da Lei n.º 28/82, de 15 de novembro (Lei da Organização, Funcionamento e Processo do Tribunal Constitucional, doravante LTC), da decisão daquele tribunal, de 20 de abril de 2023.
+
+2. A recorrida, na qualidade de executada em processo executivo instaurado pelo recorrido IGFSS e que correu termos na respetiva Secção de Processo Executivo de Vila Real, deduziu oposição à execução.
+
+Nessa sequência, os autos foram remetidos ao Tribunal Administrativo e Fiscal de Mirandela, para apreciação da sobredita oposição, tendo este Tribunal proferido o despacho ora recorrido, no qual recusou a aplicação da norma dos artigos 3.º-A, n.º 3, e 5.º, n.º 1, do Decreto-Lei n.º 42/2001, de 09 de fevereiro, interpretados no sentido de a deliberação do conselho diretivo do Instituto da Segurança Social, IP prevista no primeiro dos preceitos, definir a competência territorial de um Tribunal Administrativo e Fiscal, por violação dos artigos 112.º, n.º 5 e 20.º, n.º 4, todos da Constituição da República Portuguesa e, considerando-se territorialmente incompetente para a causa, julgou competente o Tribunal Tributário de Lisboa.
+
+3. Desta decisão o Ministério Público junto do Tribunal a quo interpôs recurso obrigatório para o Tribunal Constitucional, o qual foi admitido por despacho de 23 de maio de 2023, constando do respetivo requerimento de interposição o seguinte:
+
+«(…)
+
+O Ministério Público, vem interpor RECURSO para o TRIBUNAL CONSTITUCIONAL da douta decisão proferida nos autos supra referenciados.
+
+O recurso é obrigatório para o Ministério Público - art. 72°, n° 3, da Lei 28/82, de 15 de novembro.
+
+O recurso tem efeito suspensivo e sobe imediatamente nos próprios autos - art. 78°, n° 2, da Lei 28/82.
+
+Pelo que se requer V. Exa se digne admitir o recurso nos termos do artº 76° da Lei n° 28/82 de 15 de novembro.
+
+(…)
+
+O Ministério Público, junto do Tribunal Administrativo e Fiscal de Mirandela, vem interpor RECURSO OBRIGATÓRIO para o TRIBUNAL CONSTITUCIONAL da douta decisão proferida nos autos mencionados, nos termos dos art°s 70°, n° 1, al. a), 72°, n.°1, al. a) e 3, 75°, n.°1 e 75°-A, da Lei n° 28/82 de 15 de Novembro que declarou a inconstitucionalidade do n.º 3 do artigo 3.°-A, do Decreto-Lei n.º 42/2001, de 09/02, na redação dada pelo art.º 415.° da Lei n,° 2/2020, de 31/03, em conjugação com o artigo 5.° do Decreto-Lei n,° 42/2001, de 09/02, interpretados como uma alteração da competência territorial de um tribunal administrativo e fiscal, designadamente do TAF de Mirandela.
+
+Para sustentar a sua decisão seguiu o Mmo Juiz a quo, o regime estabelecido pelo Decreto-Lei n.º 42/2001, de 09/02, a competência dos tribunais tributários respeita, prevista no artigo 5.° do Decreto-Lei n.º 42/2001, de 09/02 e o principio do Juiz natural por contraposição à Deliberação do IGFSS, IP, que alterou a competência territorial de um tribunal administrativo e fiscal.
+
+Pelo exposto, requer-se a V. Exas. a apreciação da inconstitucionalidade declarada.».
+
+Cumpre apreciar e decidir.
+
+II. Fundamentação
+
+4. Nos termos do disposto no artigo 78.º-A, n.º 1, da LTC, quando a questão a decidir for uma questão simples, designadamente por a mesma já ter sido objeto de decisão anterior do Tribunal, o relator profere decisão sumária, a qual poderá consistir em simples remissão para anterior jurisprudência do Tribunal.
+
+A questão de constitucionalidade em apreço foi já apreciada pelo Plenário do Tribunal Constitucional, no Acórdão n.º 327/2023 (retificado pelo Acórdão n.º 394/23), no qual se decidiu que:
+
+«(…)
+
+«4. As normas do Decreto-Lei n.º 42/2001, de 9 de fevereiro, na redação conferida pelo Decreto-Lei n.º 63/2014 de 28 de abril e pela Lei n.º 2/2020, de 31 de março, ora sob sindicância, possuem o seguinte teor (assinalado a bold) e integram-se nos seguintes articulados legais:
+
+“Artigo 3.º-A
+
+Competência para a instauração e instrução do processo
+
+1 - Compete ao Instituto de Gestão Financeira da Segurança Social, I. P., a instauração e instrução do processo de execução de dívidas à segurança social através da secção de processo executivo do distrito da sede ou da área de residência.
+
+2 - As instituições da segurança social, e outras a estas legalmente equiparadas, remetem as certidões de dívida à secção de processo executivo do Instituto de Gestão Financeira da Segurança Social, I. P., competente, nos termos do número anterior.
+
+3 - A instauração e instrução do processo de execução por dívidas à segurança social pode ser praticada em secção de processo executivo diferente do distrito da sede ou da área de residência do devedor, nos termos de deliberação do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P., publicada no Diário da República.
+
+Artigo 5.º
+
+Competência dos tribunais administrativos e tributários
+
+1 - Compete ao tribunal tributário de 1.ª instância da área onde corre a execução decidir os incidentes, os embargos, a oposição, incluindo quando incida sobre os pressupostos da responsabilidade subsidiária, a graduação e a verificação de créditos e as reclamações dos actos materialmente administrativos praticados pelos órgãos de execução.”
+
+Concretizado que está o programa normativo sob fiscalização e saneado o processo, passemos, então, à apreciação das questões colocadas.
+
+(…)
+
+7. Comecemos por fazer ver que, na interpretação normativa sindicada, o artigo 5.º, n.º 1, do Decreto-Lei n.º 42/2001, de 9 de fevereiro, tem por efeito, peculiar e primário, a assimilação da competência dos Tribunais Administrativos e Fiscais para o julgamento de incidentes jurisdicionais em sede de processo executivo promovido por ISS, IP, ao que seja a competência da secção de processo executivo desta entidade administrativa para a instauração e instrução da execução.
+
+Por outras palavras, a norma estabelece que será competente para julgar a causa em sede jurisdicional (embargos de terceiro, oposição à execução, reclamação de atos do órgão executivo e todos os demais incidentes que sejam suscitados, incluindo a graduação e verificação de créditos concorrentes) o Tribunal que exerça autoridade jurisdicional em matéria tributária sobre a parcela de território em que esteja sediado o órgão de ISS, IP com competência para tramitar a ação executiva. Isto é assim pela razão essencial de que será nesse órgão executivo que «correrá a execução a que respeita o incidente» (cfr. artigo 5.º, n.º 1, 1.ª parte, do Decreto-Lei n.º 42/2001, de 9 de fevereiro).
+
+De sua parte, o n.º 1, do artigo 3.º-A do Decreto-Lei n.º 42/2001, de 9 de fevereiro estabelece como órgão executivo de ISS, IP as secções executivas distritais integradas na orgânica desta entidade administrativa, elegendo como fator atributivo de competência, de entre elas, a secção instalada no local de sede social ou de residência do executado, consoante se trate de pessoa coletiva ou singular, respetivamente. A solução legal é, pois, atributiva da competência jurisdicional, em contencioso executivo entre ISS, IP e particulares, ao Tribunal da área de residência do demandado.
+
+Esta é uma opção de política legislativa com grande tradição entre nós em matéria de aforamento de processos executivos (cfr. artigos 71.º, n.º 1 e 85.º, n.º 1, 86.º e 89.º, n.º 1, todos do Código de Processo Civil [CPC]) e equipara o controlo jurisdicional da atividade de cobrança coerciva de ISS, IP ao estabelecido para as execuções fiscais (cfr. artigos 12.º, n.º 1 e 151.º, n.º 1, ambos do Código de Procedimento e Processo Tributário (CPPT).
+
+O exposto significa também que as competências dos Tribunais Administrativos e Fiscais são extremamente sensíveis às modificações do âmbito de competências dos órgãos executivos de ISS, IP. Qualquer alteração neste domínio terá por efeito modificar a forma de repartição do exercício da autoridade jurisdicional no território nacional entre Tribunais tributários, impactando diretamente na forma como os órgãos de soberania exercem a sua missão constitucional (cfr. artigo 202.º, n.º 1 e, em especial, artigo 212.º, n.º 3, ambos da Constituição da República Portuguesa).
+
+Sucede que a Lei n.º 2/2020, de 31 de março veio alterar a redação do artigo 3.º-A do Decreto-Lei n.º 42/2001, de 9 de fevereiro e estabeleceu (n.º 3) que o âmbito de competência das secções executivas de ISS, IP pode ser modificado por deliberação do conselho diretivo de ISS, IP. A decisão por este órgão sobre essa matéria não está subordinada a quaisquer requisitos e compreende-se no seu espaço de discricionariedade administrativa: é-lhe admitido, livremente, atribuir e eliminar competências entre secções executivas e, bem assim, transferi-las de acordo com os critérios que entender mais adequados, sem limitações; a norma permite mesmo que sejam esvaziadas por completo as competências de certa secção ou secções, ou, no limite, que o conselho diretivo determine que uma só secção acumule o contencioso executivo de ISS, IP de todo o país.
+
+Por necessária deriva, do cotejo entre os artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, na interpretação ora sujeita a fiscalização, resulta também que ao conselho diretivo de ISS, IP está conferida autoridade para, através de deliberação do órgão e em matéria de execuções instauradas por ISS, IP, determinar a repartição de competências em função do território dos Tribunais Administrativos e Fiscais em matéria de execuções tributárias promovidas por ISS, IP. A equiparação da competência territorial entre os órgãos da execução (artigo 3.º, n.º 1, do Decreto-Lei n.º 42/2001, de 9 de fevereiro) e os Tribunais da execução (artigo 5.º, n.º 1, do Decreto-Lei n.º 42/2001, de 9 de fevereiro) significa que a deliberação do conselho diretivo de ISS, IP que altere o critério de fixação para a primeira possui impacto direto na forma como cada órgão judicial de administração de justiça adquire competência para o julgamento das matérias incidentais-executivas, com exclusão de todos os demais.
+
+Ora, nos termos conjugados dos artigos 161.º, alínea c), e 165.º, n.º 1, alínea p), 1.ª parte, ambos da Constituição da República Portuguesa, a definição das competências dos Tribunais está sujeita a reserva (relativa) da Assembleia da República. Deixando de parte os casos de autorização ao Governo, apenas o Parlamento pode legislar sobre essa matéria que, necessariamente, terá de revestir a forma de Lei (cfr. artigo 166.º, n.º 3, da Constituição da República Portuguesa).
+
+A norma extraída dos artigos 3.º-A, n.º 3, e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, na interpretação ora sob fiscalização de constitucionalidade, pois que assim é, viola frontalmente este grupo de normas-regras da Lei Fundamental, já que, como acabámos de ver, por aí se confere competência ao conselho diretivo de ISS, IP para definir a repartição de competências, em razão do território, dos Tribunais Administrativos e Fiscais em matéria de execuções instauradas pela entidade administrativa. Não apenas isso, o mesmo quadro normativo estabelece também que as alterações adotarão a forma de deliberação do órgão diretivo de ISS, IP, bastando essa fórmula para que adquiram eficácia geral após publicação em Diário da República.
+
+Não procede o argumento de que este programa normativo se pode entender admissível por a autoridade do conselho diretivo de ISS, IP se dirigir às secções de execução, resultando a atribuição de competências aos Tribunais Administrativos e Fiscais da norma do artigo 5.º, n.º 1 do Decreto-Lei n.º 42/2001, de 9 de fevereiro, aprovada em Lei pela Assembleia da República, ou, nas palavras do recorrente: a “deliberação apenas vem densificar – e, nessa medida, conferir precisão – à previsão do n.º 3, do art. 3.º-A do Dec.-Lei n.º 42/2001 (…) a qual expressamente remete para os «termos da deliberação do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, IP, publicada no Diário da República», preceito que tem de ser conjugado com o do art. 5.º, n.º 1 desse diploma”.
+
+Desde logo e em primeiro lugar, é evidente que o artigo 5.º, n.º 1, do Decreto-Lei n.º 42/2001, de 9 de fevereiro, não estabelece o quadro legal de repartição de competências dos Tribunais tributários (esta norma possui conteúdo meramente remissivo), nem sequer o artigo 3.º-A, n.º 3 do diploma que acabámos de citar: essa competência é definida, a título supletivo, pelo n.º 1 do artigo 3.º-A do diploma (foro do executado), que é solução passível de ser abrogada mediante deliberação do conselho executivo de ISS, IP (in casu, deliberação n.º 793/2020) que fixe competência diferente para as secções de execução de ISS, IP, tal como resulta textualmente dos preceitos legais.
+
+Dito de outra forma, a Lei continua a fixar apenas como critério de competência do órgão executivo e, por inerência, dos Tribunais (artigo 5.º, n.º 1, do Decreto-Lei n.º 42/2001, de 9 de fevereiro), o local de sediação ou de residência do executado (artigo 3.º-A, n.º 1, do diploma), mas permite ainda (n.º 3) que o conselho diretivo abrogue esta regra legal, escolhendo outro critério que repute conveniente, e, por inerência, que assim introduza uma alteração no ordenamento jurídico-processual consubstanciada na modificação (extensão, compressão ou transferência) do âmbito de competência de ambos os órgãos, executivo e jurisdicional, abrangidos pela deliberação.
+
+A reserva estabelecida no artigo 165.º, n.º 1, alínea p), da Constituição da República Portuguesa significa que terá de ser uma Lei parlamentar a definir a competência dos órgãos jurisdicionais e respetivos critérios de conexão, sem recurso a elementos externos ao ato legislativo. Como é evidente, não é compatível com esta norma constitucional a delegação desse poder legislativo a entidades administrativas, a quem está vedada a aprovação desse tipo de quadro normativo.
+
+Em segundo lugar e ainda que para estes efeitos pouca diferença faça, já resulta do que vai dito, não se pode sequer afirmar que ao conselho diretivo de ISS, IP coubesse apenas densificar uma norma legal, como pretende o recorrente. Como dissemos, a definição de competências das secções de execução e, por inerência, dos Tribunais Administrativos e Fiscais pelo conselho diretivo de ISS, IP, não está vinculada a nenhum critério, antes está entregue à discricionariedade administrativa daquele órgão. Não existe qualquer forma de parâmetro ou de critério legal que ao conselho diretivo coubesse dar densidade, pelo que não é legítimo dizer-se que apenas lhe cabe “conferir precisão” à Lei. Trata-se de uma competência e autoridade autónomas atribuídas por inteiro pela Lei.
+
+Depois, este é um caso em que a Lei ordinária substitui a norma constitucional, verdadeiramente invertendo a hierarquia entre fontes e substituindo-se à Constituição da República Portuguesa. O vício de inconstitucionalidade por violação do disposto nos artigos 165.º, n.º 1, alínea p) e 166.º, n.º 3, todos da Constituição da República Portuguesa, não atinge (ou não atinge apenas) a deliberação do conselho diretivo de ISS, IP n.º 793/2020, antes localiza-se diretamente na norma dos artigos 3.º-A, n.º 3, e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, aprovada pela Lei n.º 2/2020, de 31 de março. Em violação frontal daquele quadro de Direito constitucional, as normas citadas, na interpretação sindicada, atribuem a um órgão administrativo competência para definir, no plano jurídico-processual, a repartição de competências entre Tribunais Administrativos e Fiscais (em matéria de execuções instauradas por ISS, IP) e elegem uma forma própria para que a alteração produza efeitos na ordem jurídica (a deliberação do conselho diretivo de ISS, IP, sujeita a publicação em Diário da República, como acima deixámos impresso).
+
+Concluímos, portanto, que o programa normativo sob fiscalização incorre em violação da norma prescritiva de reserva de Lei da Assembleia da República (artigo 165.º, n.º 1, alínea p), da Constituição da República Portuguesa), sendo por isso merecedor de juízo de inconstitucionalidade.
+
+Por outra parte, cabe também observar o problema numa segunda dimensão, este respeitante à eficácia e integridade dos atos normativos, assim a contraluz do disposto no artigo 112.º da Lei Fundamental. Repescando o acima exposto e levando em conta o vazio normativo que os artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, representam quanto a regras de atribuição de competência a Tribunais da jurisdição administrativa-fiscal (que nenhuma contêm), o único critério a este respeito estabelecido em Lei é, repetimos, o que se colhe do disposto nos artigos 3.º-A, n.º 1 e 5.º, n.º 1, do diploma, que a defere para o Tribunal com poder jurisdicional sobre o local de sede ou de residência do executado. Nesse pressuposto e como bem assinala o Tribunal “a quo”, o disposto nos artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, na interpretação normativa fiscalizada, colide também com a proibição constitucional estabelecida no artigo 112.º, n.º 5, da Constituição da República Portuguesa: a norma-objeto confere a atos de natureza não legislativa (a deliberação do conselho diretivo de ISS, IP) o poder de, com benefício de autonomia, discricionariedade e com eficácia geral, à semelhança de atos legislativos (como tal, gozando de efeitos exteriores ao órgão), suprimir o efeito da única norma estatutiva da repartição de competências entre órgãos jurisdicionais constante da Lei, frontalmente postergando por inteiro a citada norma da Lei Fundamental.
+
+Encontramos aqui, pois, um segundo vício de inconstitucionalidade material, este por violação do disposto no artigo 112.º, n.º 5, da Lei Fundamental.
+
+Assim, resta concluir que os artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, quando interpretados no sentido de permitirem que, por via da deliberação do conselho executivo de ISS, IP referida no primeiro dos dispositivos legais (seja a deliberação n.º 793/2020), se altere o âmbito de competências dos Tribunais Administrativos e Fiscais (seja do TAF de Mirandela), são materialmente inconstitucionais por violação dos artigos 165.º, n.º 1, alínea p) e 112.º, n.º 5, ambos da Constituição da República Portuguesa.
+
+8. Compete-nos ainda sinalizar outros dois vícios de inconstitucionalidade do programa normativo sob fiscalização, que não foram colocados na decisão recorrida (nem pelas partes), mas de que este Tribunal Constitucional pode conhecer, ex vi artigo 79.º-C, parte final, da LTC.
+
+8.1. O princípio do processo justo e equitativo, em especial em matéria administrativa, acha-se agasalhado nos artigos 20.º, n.º 4 e 268.º, n.º 4, ambos da Constituição da República Portuguesa, e, para além do mais, por ele se postula o “direito à igualdade de armas ou direito à igualdade de posições no processo, com proibição de todas as discriminações ou diferenças de tratamento arbitrárias” (v. J. J. GOMES CANOTILHO e VITAL MOREIRA, Constituição da República Portuguesa Anotada, vol. I, Coimbra Ed., 2007, p. 415). O confronto judiciário entre portadores de interesses opostos, seja o caso da administração e de um particular, pois, deverá pautar-se pela paridade de oportunidades de litigância, de direitos conferidos e de ónus impostos (especialmente se cominatórios ou preclusivos do exercício de faculdades processuais), adotando uma fórmula reguladora que garanta a simetria de posições entre demandante e demandado e que impeça a criação de desníveis em favor ou desfavor de qualquer um dos intervenientes em confronto que possam enviesar o procedimento judiciário e constituir, só por si, fator operante da decisão, como tal apto a influenciar o sentido de desfecho da causa.
+
+Em essência, exige o princípio que seja concedida “a possibilidade de as partes exercerem, com igualdade de armas, uma defesa efetiva dos seus direitos ou interesses legalmente protegidos e de, numa base paritária, poderem influenciar a decisão judicial” (v. Acórdão do TC n.º 29/2020; v., também, entre muitos outros, Acórdãos do TC n.ºs 147/92, 346/92, 223/95 e 738/2021) e é também neste contexto jurídico-constitucional que importa levar em conta o programa normativo sob fiscalização.
+
+Na verdade, cabe relembrar que a regulamentação em causa constitui parte integrante da disciplina jurídico-processual de instâncias jurisdicionais (de natureza executiva) em que ISS, IP é parte, ou seja, em que se apresenta como sujeito jurídico de Direito público em exercício de pretensão própria sobre particulares, estando-lhe conferida, por isso, legitimidade ativa na instância.
+
+Ora, ao órgão de cúpula de ISS, IP são atribuídos pelos artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, na interpretação normativa sob fiscalização, poderes para escolher o Tribunal em que as suas iniciativas executivas serão julgadas. A norma permite que as competências dos Tribunais Administrativas e Fiscais sejam alteradas tantas vezes quantas o conselho diretivo de ISS, IP entenda que lhe são úteis e em função dos critérios que, discricionariamente, tenha por mais convenientes.
+
+Esta prerrogativa tem de se entender ilegítima num processo de partes caracterizado pela oposição de pretensões entre sujeitos intervenientes e é tanto mais grave quando se está perante um confronto entre entidade estadual e particular, essencialmente caracterizado por um ataque direto ao património da primeira sobre o segundo.
+
+Veja-se que, por esta via, é possível a ISS, IP gerir a distribuição deste contencioso entre Tribunais em função da sua carteira de interesses e sem necessidade de levar em conta a posição dos sujeitos jurídicos com que se confronta ou o necessário equilíbrio a que deve obedecer a instância como garantia da igualdade entre litigantes, coeva ao princípio de due process of law.
+
+A transferência de competências admitirá a ISS, IP, por exemplo, concentrar o julgamento dos incidentes em ações executivas em que demanda em Tribunais que exibam entendimentos mais protetivos dos seus interesses, potenciando maior sucesso na litigância no cômputo global. Pense-se, em incidente de oposição à execução, na controvérsia que existe sobre o padrão probatório apto a ilidir a presunção de culpa sobre gestores, constitutiva de responsabilidade por dívidas contributivas da empresa gerida (artigos 23.º, n.º 1 e 24.º, n.º 1, alínea b), ambos da Lei Geral Tributária e artigos 342.º, n.º 1 e 344.º, n.º 1, ambos do Código Civil [CC]); ou, em incidente para verificação e graduação de créditos, a divisão jurisprudencial que existiu sobre a prevalência do privilégio imobiliário por contribuições a ISS, IP sobre hipotecas (artigos 686.º, n.º 1 e 751.º, ambos do CC e artigo 11° do Decreto-Lei nº 103/80, de 9 de Maio). À semelhança destas questões, muitas outras importarão divisão jurisprudencial, especialmente em 1.ª instância, e não há dúvidas de que a proliferação de dado entendimento poderá conferir a uma das partes grande vantagem sobre a outra.
+
+Caso a direção de ISS, IP opte por acumular competências em Tribunais Administrativos e Fiscais que adotem entendimentos mais benignos para a sua pretensão executiva, reduzindo a atividade jurisdicional de Tribunais mais renitentes em adotar leituras pro fisco, é bem possível que essa decisão insufle de forma importante o sucesso global do seu contencioso, especialmente quando se leve em conta o volume deste tipo de litigância estatal e as condições de irrecorribilidade das decisões de 1.ª instância (cfr. artigo 280.º, n.ºs 1 e 2, do CPPT). Este efeito será obtido do programa normativo sindicado, porém e como fica evidente, com flagrante sacrifício da igualdade processual entre litigantes.
+
+Talvez com maior importância prática, as normas sob sindicância permitem a ISS, IP gerar dificuldades acrescidas para executados, seus opositores nas instâncias executivas, pela deslocalização dos processos judiciais em que são demandados, impondo-lhes encargos adicionais que podem significar a inviabilidade económica global do litígio (pense-se em causas de menor valor) e dificultando de forma importante o seu acesso aos autos para consulta e preparação de defesa.
+
+Se se pretender um exemplo concreto que ilustre o que viemos de dizer, veja-se o caso que subjaz ao presente recurso e no que lhe está ínsito: um particular residente em Lisboa, a propósito de uma dívida contributiva associada à sua atividade profissional de € 1.488,96, vê a competência para o julgamento da oposição à ação executiva que lhe foi movida por ISS, IP deslocada, por força de deliberação do órgão diretivo desta entidade, para o Tribunal de Mirandela, Bragança, a cerca de 460kms da sua residência e a mais de cinco horas de viagem. Enquanto ISS, IP beneficia de um órgão executivo sediado na localidade, José Guilherme Nunes vê-se obrigado a gerir o litígio a grande distância, incorrendo nos custos inerentes, designadamente com deslocações de mandatário, e suportando todo o leque de inconvenientes e dificuldades acrescidas que a circunstância acarreta.
+
+É certo que a atividade administrativa está também vinculada à Constituição da República Portuguesa (artigo 266.º, n.ºs 1 e 2 da Lei Fundamental) e que, em princípio, a deliberação do conselho diretivo de ISS, IP teria de levar em conta estes parâmetros. No entanto, como já fez ver a doutrina, “não se pode olvidar que a administração deve sempre, em qualquer caso, prosseguir o interesse público da administração, agindo, nesta perspetiva, com parcialidade, ‘na medida que lhe cumpre defender um interesse [o da administração] que pode estar em conflito com o interesse de um particular’ (cfr., sublinhando a diferença BATISTA MACHADO, Introdução ao Direito e ao Discurso Legitimador, págs. 148-149)” (v. JORGE MIRANDA e RUI MEDEIROS, Constituição Portuguesa Anotada, vol. III, Univ. Católica Ed., 2020, p. 40)
+
+Por outro lado, inserindo-se a decisão num espaço de discricionariedade administrativa e conferindo, por isso, a inerente latitude ao órgão diretivo de ISS, IP, o seu controlo jurisdicional acha-se condicionado. Em qualquer caso e de radical, o simples facto de uma das partes dispor desta prerrogativa, submetendo a outra, que dela não dispõe, temos quanto baste para que se atinja, de forma constitucionalmente incomportável, a necessária equidade do processo judicial-tributário.
+
+Assim, concluímos que os artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, quando interpretados no sentido de permitirem que, por via da deliberação do conselho executivo de ISS, IP referida no primeiro dos dispositivos legais (seja a deliberação n.º 793/2020), se altere o âmbito de competências dos Tribunais Administrativos e Fiscais (seja do TAF de Mirandela), são materialmente inconstitucionais por violação dos artigos 20.º, n.º 4 e 268.º, n.º 4, ambos da Constituição da República Portuguesa.
+
+8.2. Tributário do princípio da separação de poderes, indissociável do Estado-de-Direito (artigo 2.º da Constituição da República Portuguesa; v. Acórdão do TC n.º 581/2000) e integrado na reserva de revisão constitucional (artigo 288.º, alínea m) da Constituição da República Portuguesa), a independência dos Tribunais consagra-se no artigo 203.º da Constituição da República Portuguesa e possui indisputável protagonismo na estrutura e disciplina normativa do sistema judiciário:
+
+“O Estado de Direito postula o reconhecimento – e a garantia – da autonomia dos tribunais no exercício da sua tarefa de administração de justiça, sendo a independência dos tribunais garantia, condição e meio indispensável para a realização do direito e da justiça. (…) a independência é, deve ser, o status essencial de um verdadeiro tribunal e de um autêntico juiz, pois só no pressuposto dela e através dela a intenção à verdade e à justiça que é estruturalmente inerente à atividade dos tribunais – de cada tribunal – é suscetível de ser alcançada. Só no pressuposto dela e através dela existe a ‘garantia de que a sentença judicial pode valer como emanação do direito e não simplesmente como ato decisionista do Estado’” (v. JORGE MIRANDA e RUI MEDEIROS, op. cit., p. 34)
+
+Na dimensão que mais nos interessa, “a independência dos tribunais exprime, em primeiro lugar, a autonomia dos órgãos aos quais incumbe a administração da justiça em face dos órgãos atuantes das demais funções do Estado, a comummente dita independência externa”, de que decorre, designadamente, a “não sujeição dos tribunais a ordens ou instruções das demais autoridades públicas” (v. JORGE MIRANDA e RUI MEDEIROS, op. cit., p. 37). Dito de outro modo, trata-se de um princípio que postula a não-ingerência de outros órgãos do poder público na organização, gestão e realização da função jurisdicional cometida aos Tribunais pela Constituição (artigo 202.º, n.º 1, da Constituição da República Portuguesa).
+
+A independência da jurisdição exige “garantias, orgânicas, estatutárias e processuais” (Acórdão do TC n.º 52/92), cabendo à Lei ordinária modelar um sistema de estrutura orgânica e processual que ofereça segurança efetiva sobre a impermeabilidade do poder judicial a influências exteriores.
+
+Ora, uma disposição legal que confira a um órgão administrativo poderes para definir a competência dos Tribunais em razão do território (ainda que apenas quanto a dada matéria) é, obviamente, uma lapidar abrogação do estatuto constitucional de independência da Jurisdição, tanto mais assim quando suceda de forma discricionária, sem vinculação a critérios legais e sem limitações, representando uma subordinação do poder judicial à autoridade administrativa: consubstancia, como tal, uma violenta ingerência na independência externa dos Tribunais, claramente incompatível com o disposto no artigo 203.º da Constituição da República Portuguesa.
+
+A reserva de Lei da Assembleia da República (artigo 165.º, n.º 1, alínea p), da Constituição da República Portuguesa), impondo um processo legislativo parlamentar para que se defina o recorte da distribuição de competências entre órgãos jurisdicionais, também no que tange a respetiva divisão territorial, deve entender-se, neste domínio, ela própria instrumental da independência dos Tribunais, especialmente levando em conta os ganhos de transparência, de controlo presidencial e as prerrogativas de fiscalização preventiva e sucessiva consagradas na Constituição (cfr. artigos 134.º, alínea b), 278.º e 281.º, todos da Constituição da República Portuguesa), em absoluto contraste com o que sucede com um ato administrativo do órgão diretivo de ISS, IP.
+
+O Ministério Público defende que o “legislador está legitimado para autorizar a disciplina interna da redistribuição das secções de execução da Segurança Social, através de soluções gestionárias exaradas em Deliberação do Conselho Diretivo do IGFSS, de acordo com previsão legal – prevista no art. 3.º-A, n.º 3 do Dec.-Lei n.º 42/2001 –, pelo que um tal poder não foi originária e autonomamente «usurpado» por aquele órgão”.
+
+Esta afirmação é, por si só, muito discutível, já que a função das secções executivas está integrada na orgânica do processo judicial, mesmo antes de ser suscitado qualquer incidente que caiba a um Tribunal decidir (cfr. artigos 4.º e 6.º, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro e artigos 148.º e 151.º, ambos do CPPT) e a deslocalização do processo nesta fase pode importar prejuízo importante para a litigância dos demandados, à semelhança do que acima vimos, por dificultar a consulta do processo e dos atos executivos formalizados que nele se documentam.
+
+Seja como for, não é essa a dimensão normativa do preceito que aqui está em debate: deixando de parte a gestão de recursos de ISS, IP ou a legitimidade com que pode influir na acessibilidade dos autos para um adversário processual, o legislador não se pode entender legitimado a criar soluções que introduzam uma autoridade administrativa na autonomia do poder judicial e que contenham o risco de produzir um efeito de asfixia no exercício independente da sua missão. É esse o perigo potencial decorrente de uma norma com estes carateres, já que a definição do âmbito de competências dos Tribunais tem de ser considerada uma matéria particularmente sensível e central para a administração de justiça: conferir, por exemplo, ao Ministro da Justiça poderes para definir a repartição de competências entre Tribunais criminais quanto ao julgamento de delitos económicos e de crimes cometidos no exercício de funções públicas, ao diretor-geral da Autoridade Tributária a dos Tribunais tributários quanto a impugnações de atos de liquidação de impostos, iguais poderes à direção da Autoridade para as Condições do Trabalho quanto à competência da jurisdição laboral em matéria de contraordenações (etc.), não significa menos do que subordinar o exercício do poder judicial ao que seja o sentido discricionário do governo em funções e das autoridades administrativas a quem essa prerrogativa seja conferida, que assim definirão o conteúdo do mandato de cada órgão jurisdicional de acordo com o que sejam as diretivas políticas de contexto, fulminando o arquétipo de uma justiça estadual independente.
+
+Em face do exposto, concluímos que os artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, quando interpretados no sentido de permitirem que, por via da deliberação do conselho executivo de ISS, IP referida no primeiro dos dispositivos legais (seja a deliberação n.º 793/2020), se altere o âmbito de competências dos Tribunais Administrativos e Fiscais (seja do TAF de Mirandela), são materialmente inconstitucionais por violação do artigo 203.º da Constituição da República Portuguesa.».
+
+5. Face ao exposto, considerando que a fundamentação que sustenta a posição firmada no Acórdão citado se mantém inteiramente transponível para o caso vertente e não se vislumbrando razões para divergir desta jurisprudência, por remissão para a mesma, ao abrigo do disposto no n.º 1 do artigo 78.º-A da LTC, decide-se negar provimento ao recurso interposto, confirmando-se a decisão recorrida, e concluindo-se pela inconstitucionalidade da norma objeto do presente recurso.
+
+III. Decisão
+
+6. Nestes termos, ao abrigo do disposto no n.º 1 do artigo 78.º-A da LTC, decide-se:
+
+a) Julgar inconstitucional o disposto nos artigos 3.º-A, n.º 3 e 5.º, n.º 1, ambos do Decreto-Lei n.º 42/2001, de 9 de fevereiro, quando interpretados no sentido de a deliberação do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P. prevista no primeiro dos preceitos definir a competência territorial de um Tribunal Administrativo e Fiscal, por violação dos artigos 112.º, n.º 5, e 20.º, n.º 4 º, ambos da Constituição da República Portuguesa; e
+
+b) Consequentemente, negar provimento ao recurso, confirmando-se a decisão recorrida.
+
+Sem custas – cfr. artigo 84.º, n.º 1, da LTC e artigos 2.º a contrario e 4.º, n.ºs 1 e 2, do Decreto-Lei n.º 303/98, de 7 de outubro.
+
+Lisboa, 21 de junho de 2023 - José Eduardo Figueiredo Dias
