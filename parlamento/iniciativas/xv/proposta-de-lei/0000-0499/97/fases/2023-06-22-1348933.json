@@ -1,0 +1,164 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "97",
+    "id": "173095",
+    "titulo": "Estabelece perdão de penas e amnistia de infrações praticadas por jovens"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-06-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "64549",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-06-22",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-06-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer CACDLG sobre o pedido de adoção de urgência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466a596a4e6c4f474d784c5467324f4759744e4445794e5331694d54526a4c54466c4d3251335a574d334d6d45315a5335775a47593d&fich=1cb3e8c1-868f-4125-b14c-1e3d7ec72a5e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Ofício CACDLG - Não emissão de parecer ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49315a6a646c5a6d497a4c54686a4e6d49744e4745344e4330345a544a6a4c5463334d5449354d5463784e6d4d344e5335775a47593d&fich=25f7efb3-8c6b-4a84-8e2c-771291716c85.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-30",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566c596d59774e5746694c544d3559324d744e4755774d6930355a4441794c54466d4e6a68694e47497a597a466b596935775a47593d&fich=eebf05ab-39cc-4e02-9d02-1f68b4b3c1db.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324935596d4a68597a426d4c546b774d6a63744e444135595330344e4755334c545934595755344e446c6c4e6a5930595335775a47593d&fich=b9bbac0f-9027-409a-84e7-68ae849e664a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526d4d6d49355a6a67304c57497a4d4451744e444d794e69303459325a6c4c5451775a5751774e6a4e6d4e6a6c6d4e4335775a47593d&fich=4f2b9f84-b304-4326-8cfe-40ed063f69f4.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-06-30"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-07-03"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-07-03"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-06-23"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-06-23"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-06-23"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-06-28",
+            "dataRemessa": "2023-06-28",
+            "numeroOficio": null,
+            "observacoes": "Não emissão de parecer atento o curto prazo disponível para o efeito",
+            "tipoRemessa": "Informação"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-06-22",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1348933",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997574",
+        "obs": "Parecer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias sobre o pedido de adoção de urgência na apreciação da iniciativa",
+        "pag": [
+          "62-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-06-23",
+        "pubLeg": "XV",
+        "pubNr": "248",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/01/248/2023-06-23/62?pgs=62-63&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
