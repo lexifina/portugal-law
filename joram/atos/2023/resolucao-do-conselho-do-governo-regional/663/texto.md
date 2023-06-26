@@ -1,0 +1,21 @@
+# Resolução do Conselho do Governo Regional n.º 663/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 118/2023, 2.º suplemento, de 2023-06-26
+
+**Sumário:** Procede à alteração do penúltimo Considerando, bem como do ponto 3 da Resolução do Conselho do Governo Regional n.º 116/2023, de 24 de fevereiro, publicada no 2.º Suplemento do Jornal Oficial, I Série, n.º 38, que diz respeito à aprovação da minuta de Acordo celebrada com o operador de serviço público de transporte rodoviário de passageiros denominado Sociedade de Automóveis da Madeira, Lda. (SAM).
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 663/2023
+Sumário: Procede à alteração do penúltimo Considerando, bem como do ponto 3 da Resolução do Conselho do Governo Regional n.º 116/2023, de 24 de fevereiro, publicada no 2.º Suplemento do Jornal Oficial, I Série, n.º 38, que diz respeito à aprovação da minuta de Acordo
+
+celebrada com o operador de serviço público de transporte rodoviário de passageiros denominado Sociedade de Automóveis da Madeira, Lda. (SAM).
+Texto: Resolução n.º 663/2023 Considerando que a Resolução do Conselho do Governo Regional n.º 116/2023, de 23 de fevereiro, publicada no Jornal Oficial da Região Autónoma da Madeira, I Série, n.º 38, 2.º Suplemento, de 24 de fevereiro, aprovou a minuta de Acordo a celebrar com o operador de serviço público de transporte rodoviário de passageiros denominado Sociedade de Automóveis da Madeira, Lda. (SAM), com vista ao pagamento do valor não coberto pelo Acordo celebrado entre a Região e aquela empresa, assinado em 31/12/2021, mediante uma compensação financeira global que não ultrapassará o valor de € 4.870,48. Considerando que existe uma incorreção no valor a constar no Acordo para implementação do passe “sub23@superior.tp” na Região, que urge corrigir; Assim, nos termos do n.º 11 do artigo 34.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, o Conselho do Governo reunido em plenário em 22 de junho de 2023, resolve:
+1 - Proceder à alteração do penúltimo Considerando, bem como do ponto 3 da Resolução do Conselho do Governo Regional n.º 116/2023, de 23 de fevereiro, publicada no Jornal Oficial da Região Autónoma da Madeira, I Série, n.º 38, 2.º Suplemento, de 24 de fevereiro, que passam a ter a seguinte redação:
+«Considerando que é necessário assegurar à Sociedade de Automóveis da Madeira, Lda. (SAM) o pagamento de € 5 281,91 (cinco mil, duzentos e oitenta e um euros e noventa e um cêntimos), acrescidos de IVA à taxa legal em vigor, referente ao ano letivo 2021/2022, montante não coberto pelo Acordo atrás mencionado;»;
+«3. Determinar que a compensação financeira global devida ao operador acima referido, pela implementação do passe “sub23@superior.tp” na Região, não ultrapassará o valor de € 5 281,91 (cinco mil, duzentos e oitenta e um euros e noventa e um cêntimos), acrescidos de IVA à taxa legal em vigor.».
+2 - Nos termos referidos no número anterior, aprovar nova minuta de Acordo a celebrar com o operador de serviço público de transporte rodoviário de passageiros - Sociedade de Automóveis da Madeira, Lda. (SAM), com vista ao pagamento do valor não coberto pelo Acordo celebrado entre a Região e aquela empresa assinado em 31/12/2021 e aprovado pela Resolução n.º 1462/2021, de 16 de dezembro, publicada no JORAM, I Série, n.º 230, de 30 de dezembro, no âmbito da aplicação do passe “sub23@superior.tp” na Região Autónoma da Madeira, referente ao ano letivo 2021/2022, a qual faz parte integrante da presente Resolução que fica arquivada na Secretária-geral da Presidência.
+3 - Mandatar o Secretário Regional de Economia, Dr. Rui Miguel da Silva Barreto, para, em representação da Região Autónoma da Madeira, assinar o Acordo referido no número anterior.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
