@@ -12,4 +12,6 @@
 
 3 - Durante a vigência do contrato de crédito, os mutuantes devem ainda prestar informação regular aos consumidores, incluindo a informação referida no n.º 1, nos termos, periodicidade e suporte a definir, mediante aviso, pelo Banco de Portugal.
 
-4 - No prazo máximo de 14 dias úteis após o termo do contrato, tem o credor a obrigação de emitir e enviar ao consumidor o respetivo distrate, não havendo lugar à cobrança de comissão adicional por esse ato, verificado o cumprimento integral das obrigações contratuais.
+4 - No prazo de 14 dias úteis após o termo do contrato, o credor emite e envia ao consumidor o respetivo distrate, não podendo cobrar comissões por esse ato, verificado o cumprimento integral das obrigações contratuais.
+
+5 - O credor não pode imputar ao consumidor a despesa adicional em que incorra caso opte por emitir o documento para cancelamento da hipoteca através de forma distinta da prevista na parte final do n.º 2 ou no n.º 3 do artigo 56.º do Código do Registo Predial.

@@ -24,7 +24,7 @@ g) O incumprimento do dever de não fazer depender a celebração ou renegociaç
 
 h) O incumprimento do dever de indicar clara e expressamente a informação referida no n.º 3 do artigo 11.º;
 
-i) O incumprimento do dever de não exigir o cumprimento de condição relativa à contratação de outros produtos ou serviços financeiros, em violação do disposto no n.º 4 do artigo 11.º;
+i) O incumprimento do dever de não exigir o cumprimento de condição relativa à contratação de outros produtos ou serviços financeiros, em violação do disposto no n.º 5 do artigo 11.º;
 
 j) O incumprimento do dever de disponibilizar informação pré-contratual geral, em violação do disposto no artigo 12.º;
 
@@ -70,11 +70,11 @@ ae) O incumprimento do dever de criar, em suporte duradouro, processos individua
 
 af) O incumprimento do dever de proceder à avaliação dos imóveis através de perito avaliador independente, em violação do disposto no n.º 1 do artigo 18.º;
 
-ag) O incumprimento do dever de entrega ao consumidor de um duplicado dos relatórios e outros documentos da avaliação feita ao imóvel, em violação do disposto no n.º 2 do artigo 18.º;
+ag) O incumprimento do dever de entrega ao consumidor dos relatórios e outros documentos da avaliação feita ao imóvel, em violação do disposto no artigo 18.º;
 
-ah) O incumprimento do dever de resposta fundamentada à reclamação apresentada pelo consumidor, nos termos do disposto no n.º 4 do artigo 18.º;
+ah) O incumprimento do dever de resposta fundamentada à reclamação apresentada pelo consumidor, nos termos do disposto no n.º 5 do artigo 18.º;
 
-ai) A cobrança de qualquer encargo ou despesa ao consumidor pela reavaliação do imóvel dado em garantia por iniciativa do mutuante, em violação do disposto no n.º 6 do artigo 18.º;
+ai) A cobrança de qualquer encargo ou despesa ao consumidor pela reavaliação do imóvel dado em garantia por iniciativa do mutuante, em violação do disposto no n.º 7 do artigo 18.º;
 
 aj) O incumprimento do dever de transmitir ao consumidor informação adequada sobre os riscos inerentes à contratação de empréstimos em moeda estrangeira, nos termos do disposto no n.º 1 do artigo 20.º;
 
@@ -126,4 +126,6 @@ bh) As violações dos regulamentos emitidos em cumprimento ou para execução d
 
 bi) O incumprimento dos deveres previstos no artigo 21.º-A.
 
-bj) A cobrança de qualquer comissão pela renegociação do contrato de crédito ou associada ao processamento de prestações de crédito, à emissão de distrate após o termo do contrato ou à emissão de declarações de dívida ou qualquer declaração emitida para o cumprimento de obrigações para acesso a apoios ou prestações sociais e serviços públicos, em violação, respetivamente, do disposto nos artigos 14.º-A e 28.º-A.
+bj) A cobrança de qualquer comissão ou despesa pela renegociação do contrato de crédito ou associada ao processamento de prestações de crédito, à emissão de distrate após o termo do contrato ou à emissão de declarações de dívida ou qualquer declaração emitida para o cumprimento de obrigações para acesso a apoios ou prestações sociais e serviços públicos, em violação do disposto no artigo 28.º-A;
+
+bk) A não-disponibilização de informação sobre o impacto na prestação de cada venda facultativa associada, como previsto no n.º 4 do artigo 11.º
