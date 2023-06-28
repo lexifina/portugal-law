@@ -1,0 +1,203 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "848",
+    "id": "173124",
+    "titulo": "Altera o Decreto-Lei n.º 15/93, de 22 de janeiro, esclarecendo a descriminalização da detenção de droga para consumo independentemente da quantidade e estabelecendo prazos regulares para a atualização das respetivas normas regulamentares"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-06-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "64577",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-06-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-06-28",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Ofício CACDLG - Não emissão de parecer",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32493159325577596d4a6c4c574a6859544d744e44686b4f4330344f4749784c5446694f4751324e444531597a59314f5335775a47593d&fich=b5ce0bbe-baa3-48d8-88b1-1b8d6415c659.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-03",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Observatório Europeu da Droga e da Toxicodependência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c684e44466c596d46694c5759774e6d59744e47526c4d7931684d574d314c5449304f5464695a47526a5a57557a4e5335775a47593d&fich=9a41ebab-f06f-4de3-a1c5-2497bddcee35.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Laboratório de Polícia Científica da Polícia Judiciária",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5577596d52694d574a6d4c5749344f5751744e444d784f5330354d324e6d4c5745784d7a41774f474d354d7a67784d4335775a47593d&fich=50bdb1bf-b89d-4319-93cf-a13008c93810.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-04",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Instituto Nacional de Medicina Legal e Ciências Forenses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63344f574669597a59334c544e6d4e6a41744e4455305a5330354e546b344c5745794f54557a5a4451785a57466a4d7935775a47593d&fich=789abc67-3f60-454e-9598-a2953d41eac3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-05",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Informação - Autoridade Nacional do Medicamento e Produtos de Saúde I.P. (INFARMED) ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51344d7a67355a6d45354c5467304e4749744e44426b595330345a6d597a4c5467794d6a6c6d5a6d5577595467324e7935775a47593d&fich=48389fa9-844b-40da-8ff3-8229ffe0a867.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-10",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55354e3259314e324e684c5449355a5759744e4467344d4331684f446b354c54637a4d6a5a68597a49324e6d4e684d6935775a47593d&fich=597f57ca-29ef-4880-a899-7326ac266ca2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-10",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d335a4459304e3251324c5464694f5745744e4441334e693169597a4e6a4c57466c4e4449315a6d4a6a595745784e6935775a47593d&fich=37d647d6-7b9a-4076-bc3c-ae425fbcaa16.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-11",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Autoridade Nacional do Medicamento e Produtos de Saúde I.P. (INFARMED)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526a4d7a41774d4459784c57566a595749744e474d7a4f433034595755794c544e6b597a4a6c4d6d4a6a4e5449795a6935775a47593d&fich=4c300061-ecab-4c38-8ae2-3dc2e2bc522f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-18",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67794d546c6c5a4759784c544178595749744e4751335a6930354f5745314c54457a4d4451785a4756694e5445334e7935775a47593d&fich=8219edf1-01ab-4d7f-99a5-13041deb5177.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Autoridade Nacional do Medicamento e Produtos de Saúde I.P. (INFARMED) em 2023-07-05"
+          },
+          {
+            "link": "",
+            "nome": "Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD) em 2023-07-10"
+          },
+          {
+            "link": "",
+            "nome": "Instituto Nacional de Medicina Legal e Ciências Forenses (INMLCF) em 2023-07-04"
+          },
+          {
+            "link": "",
+            "nome": "Laboratório de Polícia Científica da Polícia Judiciária em 2023-07-04"
+          },
+          {
+            "link": "",
+            "nome": "Observatório Europeu da Droga e Toxicodependência - (OEDT) em 2023-07-03"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-07-10"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-07-18"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Autoridade Nacional do Medicamento e Produtos de Saúde I.P. (INFARMED) em 2023-06-29"
+          },
+          {
+            "link": "",
+            "nome": "Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD) em 2023-06-29"
+          },
+          {
+            "link": "",
+            "nome": "Instituto Nacional de Medicina Legal e Ciências Forenses (INMLCF) em 2023-06-29"
+          },
+          {
+            "link": "",
+            "nome": "Laboratório de Polícia Científica da Polícia Judiciária em 2023-06-29"
+          },
+          {
+            "link": "",
+            "nome": "Observatório Europeu da Droga e Toxicodependência - (OEDT) em 2023-06-29"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-07-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-07-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-07-05"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-06-28",
+            "dataRemessa": "2023-06-30",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-06-28",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1349157",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
