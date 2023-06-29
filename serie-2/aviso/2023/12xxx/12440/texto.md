@@ -1,0 +1,12 @@
+Aviso n.º 12440/2023
+Sumário: Prorrogação do prazo da 2.ª revisão do Plano Diretor Municipal de Fafe.
+Prorrogação do prazo da 2.ª revisão do Plano Diretor Municipal de Fafe
+Através do Aviso n.º 202/2022 do Diário da República n.º 3/2022, Série II, de 5 de janeiro de 2022, foi publicado o reinício do procedimento da segunda revisão do Plano Diretor Municipal de Fafe (PDM), tendo sido fixado o prazo de conclusão em 18 meses e estabelecida a abertura de um período de participação pública.
+Atendendo ao elevado grau de complexidade do trabalho inerente à segunda revisão do PDM de Fafe, apesar dos trabalhos estarem em fase de preparação da 2.ª reunião da Comissão Consultiva, e constado que o período de 18 meses inicialmente proposto e aprovado é insuficiente para a conclusão dos trabalhos, torna-se público que a Câmara Municipal de Fafe, em reunião de câmara ordinária realizada no dia 22 de maio de 2023, nos termos do disposto no n.º 6 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial estabelecido pelo Decreto-Lei n.º 80/2015, de 14 de maio, alterado pelos Decretos-Leis n.os 20/2020, de 1 de maio, 81/2020, de 2 de outubro, 25/2021, de 29 de março, e 45/2022, de 8 de julho, deliberou, por unanimidade, prorrogar o prazo da elaboração da segunda revisão do PDM de Fafe, por um período máximo igual ao previamente estabelecido (18 meses).
+Para constar, publicita-se o presente Aviso no Diário da República, na Plataforma Colaborativa de Gestão Territorial e no sítio da Internet da Câmara Municipal.
+31 de maio de 2023. - O Presidente da Câmara Municipal de Fafe, Antero Barbosa.
+Deliberação
+Prorrogação do prazo da 2.ª revisão do Plano Diretor Municipal de Fafe
+Com base no disposto no n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, alterado pelos Decretos-Leis n.os 20/2020, de 1 de maio, 81/2020, de 2 de outubro, 25/2021, de 29 de março, e 45/2022, de 8 de julho, que estabelece o Regime Jurídico dos Instrumentos de Gestão Territorial, a Câmara Municipal de Fafe, deliberou, por unanimidade, em reunião de câmara ordinária realizada no dia 22 de maio de 2023, aprovar a prorrogação do prazo de elaboração da segunda revisão do Plano Diretor Municipal de Fafe, por igual período ao previamente estabelecido (18 meses).
+31 de maio de 2023. - O Diretor do Departamento de Gestão Administrativa e Financeira, Manuel Joaquim Gonçalves da Costa.
+616530767
