@@ -1,0 +1,8 @@
+Edital n.º 1110/2023
+Sumário: Aprova a proposta de alteração ao Regulamento Municipal para Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior Universitário e Politécnico.
+Filipe Miguel Alves Correia Daniel, Presidente da Câmara Municipal de Óbidos:
+Torna público que, em reunião ordinária da Câmara Municipal, realizada em 5 de maio de 2023, foi deliberado aprovar a Proposta de Alteração ao Regulamento Municipal Para Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior Universitário e Politécnico e proceder à consulta pública nos termos do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, pelo prazo de 30 dias úteis, contados do dia seguinte à publicação do presente Edital no Diário da República.
+Durante este período, poderão os interessados, consultar a proposta de regulamento acima referido, em versão integral, na página da Internet do Município (www.cm-obidos.pt), no Serviço de Coesão Social ou no Balcão Único do Município de Óbidos, junto à Secção Administrativa Central, no Edifício Paços do Concelho, Largo de São Pedro - 2510-086 Óbidos, durante o horário normal de expediente.
+Mais se torna público que as observações tidas por convenientes devem ser formuladas por escrito, dirigidas ao Presidente da Câmara Municipal de Óbidos, e endereçadas ao Município de Óbidos - Largo de São Pedro - 2510-086 Óbidos ou entregues diretamente na Secção Administrativa Central deste Município, junto do Balcão Único, durante o horário normal de expediente.
+31 de maio de 2023. - O Presidente da Câmara, Eng.º Filipe Miguel Alves Correia Daniel.
+316535684
