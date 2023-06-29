@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Resolução",
+  "numero": "813",
+  "id": "173145",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-06-29",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2023-09-14",
+    "DataInicioleg": "2022-03-29",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "5600",
+        "nome": "Eurico Brilhante Dias"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1594",
+        "nome": "Maria Antónia de Almeida Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5531",
+        "nome": "Luís Soares"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6962",
+        "nome": "Susana Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2227",
+        "nome": "Jorge Seguro Sanches"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6956",
+        "nome": "Sara Velez"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6129",
+        "nome": "Lúcia Araújo da Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2753",
+        "nome": "Jorge Gabriel Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4199",
+        "nome": "Anabela Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6884",
+        "nome": "Jorge Botelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6057",
+        "nome": "Ana Isabel Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7350",
+        "nome": "Fátima Correia Pinto"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7357",
+        "nome": "António Monteirinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5836",
+        "nome": "Paulo Marques"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6710",
+        "nome": "Sofia Andrade"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6334",
+        "nome": "Miguel dos Santos Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7494",
+        "nome": "Irene Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7949",
+        "nome": "Eduardo Oliveira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "173145",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c4f5759784d7a4a6b5a69307a4d7a56694c54517a5a444d744f5445794f43316d4e546c6859544d335a6a51304e3251755a47396a65413d3d&fich=e9f132df-335b-43d3-9128-f59aa37f447d.docx&Inline=true",
+    "IniNr": "813",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Consagra o dia 8 de julho como “Dia Nacional do Medicamento Genérico”",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
