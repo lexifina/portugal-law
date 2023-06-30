@@ -1,0 +1,9 @@
+Aviso n.º 12569/2023
+Sumário: Abertura do período de discussão pública da alteração do Plano Diretor Municipal de Manteigas.
+Abertura do Período de Discussão Pública da Alteração do Plano Diretor Municipal (PDM) de Manteigas
+Flávio Miguel Tacanho Massano, presidente da Câmara Municipal de Manteigas, torna público que, nos termos e para os efeitos do disposto no artigo 89.º, por remissão do artigo 119.º do Decreto-Lei n.º 80/2015, de 14 de maio, Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), por deliberação da Câmara Municipal de 5 de junho de 2023, foi autorizado proceder à abertura do período de discussão pública da proposta de alteração do Plano Diretor Municipal de Manteigas.
+Assim, e nos termos do n.º 2 do artigo 89.º do RJIGT, procede-se à abertura do período de discussão pública da proposta de alteração do Plano Diretor Municipal de Manteigas, pelo prazo de 30 (trinta) dias úteis, contados a partir do 5.º dia após a data de publicação do respetivo aviso no Diário da República.
+A proposta de alteração ao Plano está disponível para consulta, todos os dias, na página eletrónica (www.cm-manteigas.pt) e no Balcão Único da Câmara Municipal de Manteigas, por marcação prévia através do n.º 275 980 000. Quaisquer reclamações, sugestões ou observações, deverão ser apresentados por escrito até ao termo do referido período e dirigidos ao Presidente da Câmara Municipal de Manteigas, Rua 1.º de Maio, 6260-101 Manteigas, ou através de correio eletrónico para geral@cm-manteigas.pt.
+Para constar e para os devidos efeitos, publica-se o presente Aviso na 2.ª série de Diário da República, que será divulgado na comunicação social, na plataforma colaborativa de gestão territorial, bem como no sítio da Internet do Município de Manteigas.
+5 de junho de 2023. - O Presidente da Câmara Municipal, Flávio Miguel Tacanho Massano.
+616570927
