@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "335317",
+  "tipo": "Intervenção",
+  "orador": "Filipe Melo (CH)",
+  "data_registo": "2023-07-04",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "1349396",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "152172",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Altera o procedimento especial de reposição de freguesias\n(Primeira alteração à Lei n.º 39/2021, de 24 de junho)\n"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Apreciação do Projeto de Lei n.º 421/XV/1.ª (PCP) — Altera o procedimento especial de reposição de freguesias (Primeira alteração à Lei n.º 39/2021, de 24 de junho).",
+        "duracao": "00:02:52:418",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_07_04_14_00_00_clean_14_plenario.xml&idsegmento=111"
+      },
+      {
+        "assunto": "Apreciação do Projeto de Lei n.º 421/XV/1.ª (PCP) — Altera o procedimento especial de reposição de freguesias (Primeira alteração à Lei n.º 39/2021, de 24 de junho).",
+        "duracao": "00:01:25:359",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_07_04_14_00_00_clean_14_plenario.xml&idsegmento=114"
+      }
+    ],
+    "DataReuniaoPlenaria": "2023-07-04",
+    "Debate": null,
+    "Deputados": {
+      "GP": "CH",
+      "idCadastro": "7332",
+      "nome": "Filipe Melo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "335317",
+    "IdDebate": "19307",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "152172",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "335317",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "114-115",
+          "117-117"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-07-05",
+        "pubLeg": "XV",
+        "pubNr": "149",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/149/2023-07-05/114?pgs=114-115,117&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Altera o procedimento especial de reposição de freguesias (Primeira alteração à Lei n.º 39/2021, de 24 de junho)",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
