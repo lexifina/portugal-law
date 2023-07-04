@@ -1,0 +1,115 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "852",
+    "id": "173154",
+    "titulo": "Altera o Decreto-Lei n.º 91/2009, de 9 de abril, e o Decreto-Lei n.º 89/2009, de 9 de abril, criando o subsídio para acompanhamento no âmbito de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64623",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-07-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": "2023-08-28",
+        "DatainicioApreciacaoPublica": "2023-07-28",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-08-02",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "https://www.parlamento.pt/sites/COM/XVLeg/10CTSSI/Paginas/iniciativasdiscussaopublica.aspx?t=535342545a584e7a77364e764945786c5a326c7a6247463061585a684c31424b544341344e544a6657465a664d53374371673d3d&Path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e5453533942636e463161585a765132397461584e7a595738765357357059326c6864476c3259584d6c4d6a426c625355794d454677636d566a6157456c517a4d6c5154636c517a4d6c51544e764a544977554356444d79564351574a7361574e684c306b675532567a63384f6a6279424d5a5764706332786864476c3259533951536b77674f44557958316857587a457577716f3d"
+          },
+          {
+            "DataDocumento": "2023-10-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração do GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67774e54426b5a574e684c546468597a55744e4449795a6931694d3251354c575578597a6c6c5a44557a4e444a694e6935775a47593d&fich=8050deca-7ac5-422f-b3d9-e1c9ed5342b6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a686c4d54426a593251344c57526a5a6a49744e4459305a5330354d5463304c574d784d4749324d6d526d4f544d344d5335775a47593d&fich=8e10ccd8-dcf2-464e-9174-c10b62df9381.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de Alteração do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a457a4e4467305954646a4c5467324d4755744e475933595331694d57526b4c5467355a4467335a574d774d5463314d5335775a47593d&fich=13484a7c-860e-4f7a-b1dd-89d87ec01751.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-04",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "4 - Relatório da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6a4f5445304d5746684c5755324d5755744e446c684d5330354d7a63774c57457a4f575a694d444a684e6d4e6a5a6935775a47593d&fich=fc9141aa-e61e-49a1-9370-a39fb02a6ccf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-04",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "5 - Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a52694e3251314e6a64694c544a6b5a6a41744e475a6c4f433169596a63304c575a6a4f4468685a546733597a67784e7935775a47593d&fich=4b7d567b-2df0-4fe8-bb74-fc88ae87c817.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8334",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8334",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-07-04",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1349490",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
