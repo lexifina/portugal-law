@@ -51,3 +51,5 @@ c) Todas as alterações feitas ao estatuto de obra órfã;
 d) Os dados de contacto e quaisquer informações pertinentes.
 
 9 - As entidades referidas no n.º 2 que façam utilização de obras órfãs, em ordem a assegurar exclusivamente a cobertura dos custos de digitalização, tratamento, salvaguarda e preservação destes bens, podem celebrar acordos comerciais com entidades públicas e privadas e obter os financiamentos devidos, não podendo, contudo, estabelecer qualquer restrição à utilização das referidas obras.
+
+10 - O disposto nos números anteriores e no artigo seguinte é aplicável, com as devidas adaptações, às prestações artísticas, aos fonogramas e aos videogramas.

@@ -28,6 +28,6 @@ l) Projectos, esboços e obras plásticas respeitantes à arquitectura, ao urban
 
 m) Lemas ou divisas, ainda que de carácter publicitário, se se revestirem de originalidade;
 
-n) Paródias e outras composições literárias, ou musicais, ainda que inspiradas num tema ou motivo de outra obra.
+n) (Revogada)
 
 2 - As sucessivas edições de uma obra, ainda que corrigidas, aumentadas, refundidas ou com mudança de título ou de formato, não são obras distintas da obra original, nem o são as reproduções de obra de arte, embora com diversas dimensões.
