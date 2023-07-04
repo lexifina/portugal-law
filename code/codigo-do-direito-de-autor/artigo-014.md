@@ -13,3 +13,5 @@
 a) Quando a criação intelectual exceda claramente o desempenho, ainda que zeloso, da função ou tarefa que lhe estava confiada;
 
 b) Quando da obra vierem a fazer-se utilizações ou a retirar-se vantagens não incluídas nem previstas na fixação da remuneração ajustada.
+
+5 - À determinação do montante da remuneração prevista no número anterior aplica-se, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 44.º-C e no artigo 44.º-D.

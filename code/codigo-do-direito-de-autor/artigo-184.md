@@ -18,4 +18,6 @@ e) A comunicação ao público, de fonogramas e videogramas, incluindo a difusã
 
 3 - Quando um fonograma ou videograma editado comercialmente, ou uma reprodução dos mesmos, for utilizado por qualquer forma de comunicação pública, o utilizador tem de pagar, como contrapartida da autorização prevista na alínea e) do n.º 1, uma remuneração equitativa e única, a dividir entre o produtor e os artistas, intérpretes ou executantes em partes iguais, salvo acordo em contrário.
 
-4 - Os produtores de fonogramas ou de videogramas têm a faculdade de fiscalização análoga à conferida nos n.os 1 e 2 do artigo 143.º
+4 - A autorização para os atos de comunicação ao público de obras incorporadas em fonogramas ou videogramas editados comercialmente, previstos nos n.os 3 e 4 do artigo 205.º, pode ser objeto de gestão coletiva, com efeitos alargados, pelas entidades de gestão coletiva representativas dos produtores de fonogramas e de videogramas, aplicando-se para o efeito o disposto nos artigos 36.º-A e 36.º-B da Lei n.º 26/2015, de 14 de abril, na sua redação atual.
+
+5 - Os produtores de fonogramas ou de videogramas têm a faculdade de fiscalização análoga à conferida nos n.os 1 e 2 do artigo 143.º

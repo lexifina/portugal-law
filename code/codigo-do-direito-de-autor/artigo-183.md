@@ -18,4 +18,8 @@ c) Após a primeira emissão pelo organismo de radiodifusão, quer a emissão se
 
 5 - O termo «filme» designa uma obra cinematográfica ou áudio-visual e toda e qualquer sequência de imagens em movimento, acompanhadas ou não de som.
 
-6 - É aplicável às entidades referidas nas alíneas a), b) e c) do n.º 1 o disposto no artigo 37.º
+6 - Os direitos conexos dos editores de imprensa caducam dois anos após a primeira publicação em publicação de imprensa.
+
+7 - É aplicável às entidades referidas nas alíneas a), b) e c) do n.º 1 e no número anterior o disposto no artigo 37.º
+
+8 - Aos prazos de caducidade previstos no presente artigo é aplicável o disposto no n.º 2 do artigo 31.º

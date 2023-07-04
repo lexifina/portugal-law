@@ -6,4 +6,4 @@
 
 2 - (Revogado).
 
-3 - O disposto no n.º 1 deste artigo não se aplica quando os aparelhos e suportes ali mencionados sejam adquiridos por organismos de comunicação áudio-visual ou produtores de fonogramas e videogramas exclusivamente para as suas próprias produções ou por organismos que os utilizem para fins exclusivos de auxílio a diminuídos físicos visuais ou auditivos.
+3 - O disposto no n.º 1 não se aplica quando os aparelhos e suportes ali mencionados sejam adquiridos por órgãos de comunicação social e organismos de comunicação audiovisual ou produtores de fonogramas e videogramas exclusivamente para as suas próprias produções ou por organismos que os utilizem para fins exclusivos de auxílio a diminuídos físicos visuais ou auditivos.

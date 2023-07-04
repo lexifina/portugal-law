@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Da transmissão e oneração do conteúdo patrimonial do direito de autor
-
 # Artigo 40.º
 
 ### (Disponibilidade dos poderes patrimoniais)

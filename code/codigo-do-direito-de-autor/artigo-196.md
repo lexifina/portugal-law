@@ -2,7 +2,7 @@
 
 ### Contrafacção
 
-1 - Comete o crime de contrafacção quem utilizar, como sendo criação ou prestação sua, obra, prestação de artista, fonograma, videograma ou emissão de radiodifusão que seja mera reprodução total ou parcial de obra ou prestação alheia, divulgada ou não divulgada, ou por tal modo semelhante que não tenha individualidade própria.
+1 - Comete o crime de contrafação quem utilizar, como sendo criação ou prestação sua, obra, prestação de artista, fonograma, videograma, emissão de radiodifusão ou publicação de imprensa, que seja mera reprodução total ou parcial de obra ou prestação alheia, divulgada ou não divulgada, ou por tal modo semelhante que não tenha individualidade própria.
 
 2 - Se a reprodução referida no número anterior representar apenas parte ou fracção da obra ou prestação, só essa parte ou fracção se considera como contrafacção.
 
