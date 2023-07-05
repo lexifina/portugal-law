@@ -25,3 +25,5 @@
 9 - (Revogado.)
 
 10 - (Revogado.)
+
+11 - A atividade de venda de bilhetes de lotaria e de lotaria instantânea nas estações de correio, durante a vigência da concessão do serviço postal universal, depende de autorização do Governo.
