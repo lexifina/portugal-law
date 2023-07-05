@@ -18,7 +18,7 @@ b) À não inclusão de cláusulas em contratos singulares que originem signific
 
 6 - É vedado ao fornecedor ou prestador de serviços fazer depender o fornecimento de um bem ou a prestação de um serviço da aquisição ou da prestação de um outro ou outros.
 
-7 - É vedado ao profissional a adoção de quaisquer técnicas através das quais o mesmo visa reduzir deliberadamente a duração de vida útil de um bem de consumo a fim de estimular ou aumentar a substituição de bens.
+7 - É vedada ao fornecedor de bens ou ao prestador de serviços a adoção de quaisquer técnicas que visem reduzir deliberadamente a duração de vida útil de um bem de consumo a fim de estimular ou aumentar a substituição de bens ou a renovação da prestação de serviços que inclua um bem de consumo.
 
 8 - Sem prejuízo de regimes mais favoráveis, nos contratos que resultem da iniciativa do fornecedor de bens ou do prestador de serviços fora do estabelecimento comercial, por meio de correspondência ou outros equivalentes, é assegurado ao consumidor o direito de livre resolução no prazo de 14 dias, nos termos do disposto no Decreto-Lei n.º 24/2014, de 14 de fevereiro.
 
