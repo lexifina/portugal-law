@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-07-05, processo 0612/18.6BELLE
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0612/18.6BELLE
+
+**Data do Acordão:** 07/05/2023
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FRANCISCO ROTHES
+
+**Nº Convencional:** JSTA000P31187
+
+**Nº do Documento:** SA2202307050612/18
+
+**Data de Entrada:** 06/14/2023
+
+**Recorrente:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A..., E.M.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O Supremo Tribunal Administrativo é competente em razão da hierarquia para conhecer de recurso interposto da sentença proferida por um tribunal tributário de 1.ª instância se no recurso apenas são suscitadas questões de direito [cfr. arts. 26.º, alínea b), e 38.º, alínea a), do ETAF e art. 280.º, n.º 1, do CPPT].
+
+II - Tendo a notificação à Fazenda Pública sido efectuada por carta registada – modalidade não prevista na legislação actualmente em vigor –, para saber quando deve considerar se efectuada, na ausência de norma que possa ser aplicada por analogia, deve a situação ser resolvida segundo a norma que o próprio intérprete criaria, se houvesse de legislar dentro do espírito do sistema (cfr. art. 10.º do CC), o que poderá ser feito com recurso a norma idêntica à que existia no n.º 3 do art. 254.º do anterior CPC.
+
+III - Ainda que no recurso não se contenham referências explícitas aos fundamentos aduzidos na decisão judicial que se pronunciou sobre o mérito da causa e o recorrente se limite a invocar as razões que, no seu entender, deveriam levar a decisão em sentido diverso, deve considerar-se válido esse modo de atacar a sentença recorrida.
+
+IV - Tendo o tribunal tributário de 1.ª instância fixado diversa factualidade, da qual extraiu relevante conclusão de facto, não pode ser provido o recurso que, na tese que sustentou perante o Supremo Tribunal Administrativo, desprezou toda essa matéria de facto.
