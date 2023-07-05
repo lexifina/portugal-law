@@ -32,7 +32,7 @@ c) 30 anos, em operações financiadas pelo Banco Europeu de Investimento (BEI).
 
 9 - O prazo do empréstimo referido no n.º 3 é contado a partir da data de produção de efeitos, podendo atingir o máximo previsto no n.º 7, independentemente da finalidade do empréstimo substituído.
 
-10 - Os empréstimos têm um prazo de utilização do capital máximo de dois anos, não podendo o início da amortização ser diferida para além desse período, salvo nos casos legalmente previstos.
+10 - Os empréstimos têm um prazo de utilização do capital máximo de três anos, não podendo o início da amortização ser diferida para além desse período, salvo nos casos legalmente previstos.
 
 11 - As amortizações anuais previstas para cada empréstimo não podem ser inferiores a 80 % da amortização média de empréstimos, tal como definida no n.º 4 do artigo 40.º.
 
