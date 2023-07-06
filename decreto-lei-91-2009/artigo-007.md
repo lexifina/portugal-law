@@ -28,6 +28,6 @@ k) Subsídio específico por internamento hospitalar do recém-nascido.
 
 2 - A proteção regulada no presente capítulo integra, também, a atribuição de prestações pecuniárias compensatórias de subsídios de férias, de Natal ou outros de natureza análoga.
 
-3 - O direito aos subsídios previstos nas alíneas c) a h) do n.º 1 apenas é reconhecido, após o nascimento do filho, aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com exceção do direito da mãe ao subsídio parental inicial de 14 semanas e do subsídio por riscos específicos durante a amamentação.
+3 - O direito aos subsídios previstos nas alíneas c) a h) do n.º 1 apenas é reconhecido, após o nascimento do filho, aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com exceção do direito da mãe ao subsídio parental inicial de 42 dias e do subsídio por riscos específicos durante a amamentação.
 
 4 - A proteção conferida aos trabalhadores independentes não integra as prestações previstas no n.º 2.

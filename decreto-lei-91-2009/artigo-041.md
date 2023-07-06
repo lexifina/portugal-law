@@ -6,4 +6,4 @@
 
 2 - Em caso de internamento hospitalar do progenitor ou da criança, a concessão do subsídio parental inicial é suspensa, mediante comunicação do interessado e certificação do hospital.
 
-3 - A suspensão da concessão do subsídio parental inicial por internamento da criança, prevista no n.º 2, não abrange as situações previstas nos n.os 4 e 5 do artigo 12.º
+3 - A suspensão da concessão do subsídio parental inicial por internamento da criança, prevista no n.º 2, não abrange as situações previstas nos n.os 5 e 6 do artigo 12.º
