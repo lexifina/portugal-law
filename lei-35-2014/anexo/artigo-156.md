@@ -34,4 +34,6 @@ c) Dois pontos por cada menção imediatamente inferior à referida na alínea a
 
 d) Dois pontos negativos por cada menção correspondente ao mais baixo nível de avaliação.
 
-8 - Na falta de lei especial em contrário, a alteração do posicionamento remuneratório reporta-se a 1 de janeiro do ano em que tiver lugar.
+8 - Para efeito do disposto no número anterior, quando os trabalhadores tenham acumulado mais do que os pontos legalmente exigidos para a alteração da posição remuneratória, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório.
+
+9 - Na falta de lei especial em contrário, a alteração do posicionamento remuneratório reporta-se a 1 de janeiro do ano em que tiver lugar.

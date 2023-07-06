@@ -10,8 +10,10 @@
 
 4 - Nas situações de internamento, a comprovação pode, igualmente, ser efetuada por estabelecimento particular com autorização legal de funcionamento, concedida pelo Ministério da Saúde.
 
-5 - A falta de entrega do documento comprovativo da doença nos termos do n.º 1 implica, se não for devidamente fundamentada, a injustificação das faltas dadas até à data da entrada do documento comprovativo nos serviços.
+5 - Quando a situação de doença do trabalhador não exceder os três dias consecutivos, até ao limite de duas vezes por ano, o trabalhador pode justificar a ausência mediante autodeclaração de doença, sob compromisso de honra, emitida pelos serviços digitais do Serviço Nacional de Saúde, ou pelo serviço digital dos serviços regionais de saúde das Regiões Autónomas.
 
-6 - Os documentos comprovativos da doença podem ser entregues diretamente nos serviços ou enviados aos mesmos através do correio, devidamente registados, relevando, neste último caso, a data da respetiva expedição para efeitos de cumprimento dos prazos de entrega fixados neste artigo, se a data da sua entrada nos serviços for posterior ao limite dos referidos prazos.
+6 - A falta de entrega do documento comprovativo da doença nos termos do n.º 1 implica, se não for devidamente fundamentada, a injustificação das faltas dadas até à data da entrada do documento comprovativo nos serviços.
 
-7 - O documento comprovativo da doença pode ainda ser remetido por via eletrónica pelas entidades referidas nos n.os 2 a 4, no momento da certificação da situação de doença, ao serviço em que o trabalhador exerce funções ou a organismo ao qual seja cometida a competência de recolha centralizada de tais documentos, sendo de imediato facultado ao trabalhador cópia do referido documento ou documento comprovativo desse envio.
+7 - Os documentos comprovativos da doença podem ser entregues diretamente nos serviços ou enviados aos mesmos através do correio, devidamente registados, relevando, neste último caso, a data da respetiva expedição para efeitos de cumprimento dos prazos de entrega fixados neste artigo, se a data da sua entrada nos serviços for posterior ao limite dos referidos prazos.
+
+8 - O documento comprovativo da doença pode ainda ser remetido por via eletrónica pelas entidades referidas nos n.os 2 a 4, no momento da certificação da situação de doença, ao serviço em que o trabalhador exerce funções ou a organismo ao qual seja cometida a competência de recolha centralizada de tais documentos, sendo de imediato facultado ao trabalhador cópia do referido documento ou documento comprovativo desse envio.

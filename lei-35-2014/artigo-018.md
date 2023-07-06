@@ -26,4 +26,4 @@ i) A menção expressa de que a doença não implica a permanência na residênc
 
 3 - Cada declaração de doença é válida pelo período que o médico indicar como duração previsível da doença, o qual não pode exceder 30 dias.
 
-4 - Se a situação de doença se mantiver para além do período previsto pelo médico, deve ser entregue nova declaração, sendo aplicável o disposto nos n.os 1 e 5 do artigo anterior.
+4 - Se a situação de doença se mantiver para além do período previsto pelo médico, deve ser entregue nova declaração, sendo aplicável o disposto nos n.os 1 e 6 do artigo anterior.
