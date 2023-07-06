@@ -22,6 +22,6 @@ b) O cumprimento do prazo de garantia.
 
 4 - A protecção conferida aos progenitores nos termos do presente decreto-lei é extensiva aos beneficiários adoptantes, tutores, pessoa a quem for deferida a confiança judicial ou administrativa do menor, bem como cônjuges ou pessoas em união de facto com qualquer daqueles ou com o progenitor, desde que vivam em comunhão de mesa e habitação com o menor, sempre que, nos termos da legislação laboral, lhes seja reconhecido o direito às correspondentes licenças, faltas e dispensas.
 
-5 - Os direitos previstos no presente decreto-lei apenas se aplicam aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com excepção do direito da mãe a gozar 14 semanas de licença parental inicial e dos referentes à protecção durante a amamentação.
+5 - Os direitos previstos no presente decreto-lei apenas se aplicam aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com exceção do direito da mãe a gozar 42 dias consecutivos de licença parental inicial a seguir ao parto e dos referentes à proteção durante a amamentação.
 
 6 - A cessação ou suspensão da relação jurídica de emprego não prejudica o direito à proteção desde que se encontrem satisfeitas as condições de atribuição das prestações.
