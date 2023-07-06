@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 13067/2023
+Sumário: Projeto do Regulamento de Cedência de Viaturas da Junta de Freguesia de Pedrouços.
+Projeto de Regulamento de Cedência de Viaturas da Junta de Freguesia de Pedrouços
+Isabel das Dores Ferreira Carvalho, Presidente da Junta de Freguesia de Pedrouços
+Torna público que nos termos e para os efeitos do disposto no Artigo 101.º do Código do Procedimento Administrativo, na sua redação atual, é submetido a consulta pública, para recolha de sugestões, e durante o prazo de 30 dias úteis a contar da data da publicação do presente aviso no Diário da República, o Projeto de Regulamento de Cedência de Viaturas da Junta de Freguesia, aprovado na reunião ordinária do executivo da Junta de Freguesia, realizada no dia 13 de junho de 2023.
+Durante esse período poderão os interessados consultar o projeto de Regulamento de Cedência de Viaturas, da Junta de Freguesia na página eletrónica da Junta de Freguesia, em www.jfpedroucos.pt bem como na sede da Junta de Freguesia, sita na Avenida Nossa Senhora da Natividade, 250, 4425-671 Maia, e formular as sugestões que entendam por convenientes, as quais deverão ser feitas por escrito, dirigidas à Presidente da Junta, e remetidas através do endereço de correio eletrónico mail@jf-pedroucos.pt, via postal para a morada supra indiciada, ou presencialmente, no serviço de expediente, durante o respetivo horário de funcionamento.
+23 de junho de 2023. - A Presidente da Junta de Freguesia, Isabel das Dores Ferreira Carvalho.
+316602857
