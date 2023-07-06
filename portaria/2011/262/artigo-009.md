@@ -21,3 +21,7 @@ f) Implementar programas de formação, inicial e contínua, dirigidos aos profi
 g) Incentivar a participação das famílias e da equipa no planeamento e avaliação das actividades, promovendo uma continuidade educativa;
 
 h) Assegurar a interlocução com outras entidades e serviços, tendo em conta o bem-estar das crianças.
+
+3 - As funções de direção técnica podem ser asseguradas cumulativamente com a função pedagógica de sala quando a creche funcione isoladamente e a sua capacidade seja igual ou inferior a 42 crianças.
+
+4 - Quando a creche funcione integrada num estabelecimento de apoio à infância e juventude, a direção técnica pode ser assegurada pelo diretor técnico ou pedagógico desse estabelecimento.

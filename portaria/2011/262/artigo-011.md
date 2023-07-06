@@ -12,7 +12,7 @@ c) Identificação da direcção técnica;
 
 d) Horários de funcionamento;
 
-e) Preçário ou tabela da comparticipação familiar;
+e) Preçário ou tabela da comparticipação familiar, quando aplicável;
 
 f) Mapa semanal de ementas;
 
@@ -24,6 +24,6 @@ i) Plano de actividades;
 
 j) Planta de emergência;
 
-l) Identificação da apólice de seguro escolar;
+l) Identificação da apólice de acidentes pessoais;
 
 m) Identificação da existência do livro de reclamações.

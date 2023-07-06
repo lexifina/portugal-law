@@ -21,3 +21,9 @@ b) Introdução de sistemas construtivos que facilitem a manutenção do edifíc
 7 - Para efeitos do disposto no número anterior e na omissão de regulamentos camarários, deve prever-se no mínimo um lugar de estacionamento que sirva ambulâncias, cargas e descargas e tomada e largada de passageiros.
 
 8 - O edifício deve obedecer à legislação aplicável, designadamente quanto a edificações urbanas, segurança, saúde e higiene nos locais de trabalho, segurança contra incêndios, licenciamento de obras particulares e acessibilidade a pessoas com mobilidade condicionada.
+
+9 - As creches podem instalar-se em construções modulares.
+
+10 - Podem ser instaladas creches em edifícios existentes ou em espaços integrados em universidades, estabelecimentos hospitalares, empresas e entidades públicas, com dispensa do disposto nos n.os 1, 2, 5 e 6, desde que salvaguardadas as condições de conforto e segurança das crianças.
+
+11 - Em função das características dos edifícios existentes, podem ser dispensados requisitos pelo ISS, I. P., desde que salvaguardadas as condições de conforto e segurança das crianças.

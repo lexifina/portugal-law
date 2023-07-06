@@ -10,7 +10,7 @@ b) Critérios de admissão aplicados;
 
 c) Exemplar do contrato de prestação de serviços;
 
-d) Exemplar da apólice de seguro escolar;
+d) Exemplar da apólice de seguros pessoais;
 
 e) Horário habitual de permanência da criança na creche;
 
