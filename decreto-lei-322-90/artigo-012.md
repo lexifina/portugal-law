@@ -4,7 +4,7 @@
 
 1 - A atribuição das prestações aos descendentes depende de estes terem idade inferior a 18 anos.
 
-2 - No caso de os descendentes terem idade igual ou superior a 18 anos, as prestações apenas são concedidas se os mesmos não exercerem atividade determinante de enquadramento nos regimes de proteção social de inscrição obrigatória, com exceção daquela que seja prestada ao abrigo de contrato de trabalho, em período de férias escolares, nos termos da subsecção v da secção i do capítulo ii do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, e satisfizerem as seguintes condições:
+2 - No caso de os descendentes terem idade igual ou superior a 18 anos, as prestações apenas podem ser concedidas se os mesmos não exercerem atividade determinante de enquadramento nos regimes de proteção social de inscrição obrigatória, com exceção daquela que seja prestada ao abrigo de contrato de trabalho, em período de férias escolares, nos termos da subsecção v da secção i do capítulo ii do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, ou por jovens trabalhadores estudantes cujo montante anual de rendimentos de trabalho dependente não seja superior a 14 vezes a retribuição mínima mensal garantida, e satisfizerem as seguintes condições:
 
 a) Dos 18 aos 25 anos, desde que estejam matriculados em qualquer curso de nível secundário, pós-secundário não superior ou superior;
 
