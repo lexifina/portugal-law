@@ -1,0 +1,24 @@
+# Portaria n.º 503/2023
+
+**Emissor:** SECRETARIAS REGIONAIS DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA E DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 127/2023, 2.º suplemento, de 2023-07-10
+
+**Sumário:** Autoriza a redistribuição dos encargos orçamentais previstos na Portaria n.º 153/2022, de 23 de março, publicada no Jornal Oficial, I Série, n.º 50, relativos ao contrato-programa celebrado entre a Região Autónoma da Madeira, através da Secretaria Regional de Educação, Ciência e Tecnologia e a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação Associação, destinado à comparticipação das despesas necessárias à contratação faseada de investigadores doutorados por unidades de investigação e desenvolvimento, reconhecidas pela FCT, I.P., cuja entidade de gestão ou de acolhimento tenha sede na Região Autónoma da Madeira, no valor máximo de 3.539.225,00 EUR.
+
+## Texto
+
+Portaria n.º 503/2023
+de 10 de julho
+Sumário: Autoriza a redistribuição dos encargos orçamentais previstos na Portaria n.º 153/2022, de 23 de março, publicada no Jornal Oficial, I Série, n.º 50, relativos ao contrato-programa celebrado entre a Região Autónoma da Madeira, através da Secretaria Regional de Educação, Ciência e Tecnologia e a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação Associação, destinado à comparticipação das despesas necessárias à contratação faseada de investigadores doutorados por unidades de investigação e desenvolvimento, reconhecidas pela FCT, I.P., cuja entidade de gestão ou de acolhimento tenha sede na Região Autónoma da Madeira, no valor máximo de 3.539.225,00 EUR.
+Texto: Dando cumprimento ao disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na alínea b) do n.º 1 do artigo 6.º da Lei 8/2012, de 21 de fevereiro, no n.º 1 do artigo 29.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, no n.º 1 do artigo 23.º do Decreto Regulamentar Regional n.º 8/2023/M, de 22 de março e no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, manda o Governo Regional, através do Secretário Regional de Educação, Ciência e Tecnologia e do Secretário Regional das Finanças, o seguinte:
+1- Redistribuir os encargos orçamentais previstos na Portaria n.º 153/2022 de 18 de março, publicada no JORAM de 23 de março, I Série, n.º 50, relativos ao contrato-programa celebrado entre a Região Autónoma da Madeira, através da Secretaria Regional de Educação, Ciência e Tecnologia e a ARDITI - Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação, destinado à comparticipação das despesas necessárias à necessários à contratação faseada de investigadores doutorados por unidades de investigação e desenvolvimento, reconhecidas pela FCT, I.P., cuja entidade de gestão ou de acolhimento tenha sede na Região Autónoma da Madeira, no valor máximo de € 3.539.225,00 (três milhões, quinhentos e trinta e nove mil, duzentos e vinte e cinco euros) que passam a ficar escalonados na forma abaixo indicada:
+Ano Económico de 2022 ......................................................................................... € 00,00 Ano económico de 2023 ................................................................................. € 185.000,00 Ano económico de 2024 ................................................................................. € 390.000,00 Ano Económico de 2025 ................................................................................ € 565.000,00 Ano económico de 2026 ................................................................................. € 570.000,00 Ano económico de 2027 ................................................................................. € 575.000,00 Ano Económico de 2028 ................................................................................ € 580.000,00 Ano económico de 2029 ................................................................................. € 465.000,00 Ano económico de 2030 ................................................................................. € 209.225,00
+
+2- As verbas necessárias para o ano económico de 2023 estão inscritas no orçamento da Secretaria Regional de Educação, Ciência e Tecnologia, na classificação orgânica 439500134, programa 041, medida 001, projeto 51763, classificação económica D.04.04.03.00.00 e D.08.04.03.00.00.
+3- As verbas necessárias para os anos económicos de 2023 a 2030 serão inscritas nas respetivas propostas de orçamento da Região Autónoma da Madeira.
+4- Os valores acima mencionados não são acrescidos de IVA.
+5- A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
+Assinada em 3 de julho de 2023.
+O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, Jorge Maria Abreu de Carvalho
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
