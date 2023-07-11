@@ -26,6 +26,12 @@ b) A empresa de seguros emite o certificado internacional de seguro a pedido do 
 
 c) A empresa de seguros esclarece adequadamente o tomador do previsto no presente número, nomeadamente no aviso para pagamento da fracção do prémio por tempo igual ou inferior ao quadrimestre;
 
-d) O dístico previsto no artigo seguinte acompanha o envio do certificado provisório, devendo respeitar o modelo geral.
+d) (Revogada.)
 
 10 - Qualquer documento que comprove a eficácia do contrato de seguro só pode ser emitido após o pagamento do prémio pelo tomador do seguro, ficando a entidade emitente, quando não seja a empresa de seguros, responsável perante esta pela entrega da quantia correspondente ao prémio.
+
+11 - Os documentos previstos no presente artigo podem ser emitidos e disponibilizados através de meios eletrónicos, sem prejuízo da sua emissão e disponibilização em papel, sem custos acrescidos, a pedido do tomador do seguro ou, caso aplicável, do segurado, ou nos casos em que os mesmos não disponham, comprovadamente, de meios eletrónicos adequados para a transmissão e receção segura dos mesmos.
+
+12 - Os documentos emitidos através de meios eletrónicos nos termos do número anterior substituem o certificado de seguro em papel para os efeitos do disposto na alínea c) do n.º 1 do artigo 85.º do Código da Estrada, aprovado em anexo ao Decreto-Lei n.º 114/94, de 3 de maio, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do mesmo artigo.
+
+13 - A Autoridade de Supervisão de Seguros e Fundos de Pensões pode estabelecer, em norma regulamentar, as regras que sejam necessárias à operacionalização do disposto nos números anteriores.
