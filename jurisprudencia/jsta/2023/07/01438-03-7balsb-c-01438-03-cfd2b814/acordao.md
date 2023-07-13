@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-07-13, processo 01438/03.7BALSB-C 01438/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01438/03.7BALSB-C 01438/03
+
+**Data do Acordão:** 07/13/2023
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** CRISTINA SANTOS
+
+**Descritores:** EXECUÇÃO; PAGAMENTO DE QUANTIA CERTA; INCIDENTE; LIQUIDAÇÃO; JUROS MORATÓRIOS
+
+**Nº Convencional:** JSTA000P31260
+
+**Nº do Documento:** SA12023071301438/03
+
+**Data de Entrada:** 09/08/2020
+
+**Recorrente:** AA E OUTROS
+
+**Recorrido 1:** MUNICÍPIO DA BATALHA E OUTROS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Caso o segmento decisório do acórdão exequendo consista na imposição de uma ordem de prestação de obrigação pecuniária liquidada no seu quantum, significa que nada há a liquidar e também importa, ex lege, o reconhecimento da obrigação de pagar juros de mora à taxa legal, nos termos conjugados dos artºs. 804º, 805º nº 3 e 806º nº 1 C. Civil.
+
+II - Por disposição expressa do artº 703º nº 2 CPC aplicável ex vi artº 1º CPTA, “consideram-se abrangidos pelo título executivo os juros de mora, à taxa legal, da obrigação dele constante”.
+
+III - Com a reforma da acção executiva operada pelo DL 38/2003, 08.03, na hipótese de condenação genérica ou de dedução de pedido ilíquido, a liquidação já não se processa na fase preliminar do processo de execução que se seguir, mas em incidente na própria acção declarativa por imposição dos artºs. 704º nº 6 e 358º nº 2 CPC, aplicáveis ex vi artº 1º CPTA.
+
+IV - O referido em 2. tem correspondência no artº 96º nº 7 CPTA, em que o cálculo indemnizatório é efectuado no próprio processo impugnatório.
+
+V - Atribuído efeito meramente devolutivo ao recurso, o valor da exequibilidade da decisão judicial é alcançado antes de se firmar o caso julgado, correndo o prazo de execução provisória espontânea para pagamento da quantia certa com a notificação daquele despacho (artº 160º nº 2 CPTA).
+
+VI - O prazo suplementar de três dias a que se refere o art.º 139º nº 5 CPC (anterior 145º/5) não se soma ao prazo de interposição de recurso ou de reclamação para efeito de determinação da data do trânsito em julgado da decisão judicial, apenas destruindo os efeitos do caso julgado já produzido se no decurso desses três dias for praticado algum acto processual nos termos referidos em tal dispositivo.
+
+VII - Ressalvados os casos residuais em que o STA decide em 1ª instância, atento o critério de recurso ordinário em sede de jurisdição administrativa (artºs 627º nº 2 CPC e 140º nº 1 CPTA) não há lugar a recurso ordinário de acórdãos do Supremo, sendo irrelevante para efeitos de determinação da data de trânsito em julgado o prazo de interposição de recurso de constitucionalidade.
+
+VIII - Numa situação de pluralidade de devedores em regime de solidariedade, embora se presuma que os devedores solidários comparticipam em partes iguais na dívida (artº 516º CC), o credor tem a faculdade de poder exigir de qualquer dos devedores, indistintamente, o cumprimento integral da prestação, cumprimento que a todos exonera perante o credor comum (artºs 512º nº 1 e 519º nº 1 CC).
