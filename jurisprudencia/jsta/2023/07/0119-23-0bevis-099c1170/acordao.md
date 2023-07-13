@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-07-13, processo 0119/23.0BEVIS
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0119/23.0BEVIS
+
+**Data do Acordão:** 07/13/2023
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** SUSPENSÃO DA EXECUÇÃO FISCAL; PRESTAÇÃO DE GARANTIA; IMPUGNAÇÃO
+
+**Nº Convencional:** JSTA000P31240
+
+**Nº do Documento:** SA2202307130119/23
+
+**Data de Entrada:** 07/04/2023
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A... S.A.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Os casos em que a execução fiscal se pode suspender estão previstos no artº.169, do C.P.P.T. (cfr.artº.52, da L.G.T.), consubstanciando um deles a hipótese em que o próprio executado oferece uma garantia idónea susceptível de assegurar os créditos do exequente (cfr.artº.199, do C.P.P.T.).
+
+II - O mencionado regime é, obviamente, uma manifestação dos princípios da proporcionalidade e da suficiência, os quais sempre devem presidir à constituição da garantia e sua manutenção, durante as vicissitudes que podem ocorrer no processo de execução fiscal suspenso.
+
+III - Do citado artº.169, nº.1, do C.P.P.T., de tal normativo se retira que a execução fica suspensa, além do mais, em caso de impugnação judicial que tenha por objecto a legalidade da dívida exequenda e a cobrança da dívida esteja garantida.
+
+IV - Ao relacionar a suspensão da execução com o objecto da impugnação, o legislador não pode ter deixado de levar em conta o regime processual que instituiu no mesmo código para o processo de impugnação dos actos de liquidação (cfr.artºs.99 e seg. do C.P.P.T.).
+
+V - Ao dispor que a execução fica suspensa quanto pender impugnação que tenha por objecto a legalidade da dívida exequenda, o legislador não poderia ter pretendido investir a A. Fiscal no poder de formular um juízo sobre os pressupostos, ou o conteúdo, do processo de impugnação, ao decidir da suspensão.
+
+(sumário da exclusiva responsabilidade do relator)
