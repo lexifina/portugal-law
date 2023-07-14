@@ -1,0 +1,155 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23928",
+  "numero": "197",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-07-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-10-04",
+            "entidades": null,
+            "id": "138536",
+            "tipo": null,
+            "titulo": "Audição em 2023-10-04 com Juliet Cristino (1.ª subscritora), Célio Sauer (1.º subscritor)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-10-11",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915169",
+                "obs": null,
+                "pag": [
+                  "24-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "6",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/006/2023-10-14/24?pgs=24-28&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2023-10-11",
+              "descricao": null,
+              "detalhe": null,
+              "id": "115791",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "105",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-07-27",
+        "DataArquivo": "2023-10-11",
+        "DataBaixaComissao": "2023-07-18",
+        "DataEnvioPAR": "2023-10-13",
+        "DataReaberta": "2023-07-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-07-27",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938344e7a63344d444a6a4f53316d4e7a59314c5451354f54517459574d344e5330794f5459344d5449345a6d5179597a55756347526d&fich=877802c9-f765-4994-ac85-2968128fd2c5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-09-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938794e6d466d4f5451345a69307a5954526d4c5451334f54637459545531596930355a4755325a47466a4e44526b596d59756347526d&fich=26af948f-3a4f-4797-a55b-9de6dac44dbf.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938325a5749314d4745344e7931685932526b4c54526a4f445174595749325979307a4e325579597a557a4e7a63794f4455756347526d&fich=6eb50a87-acdd-4c84-ab6c-37e2c5377285.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-10-11",
+            "dataNomeacao": "2023-07-27",
+            "gp": "PS",
+            "id": "6543",
+            "motivoCessacao": "Relatório aprovado",
+            "nome": "Alexandra Leitão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2023-07-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e5468685a54526d4f4441744d6a566a4d6930304d4449324c57466d4f5449744d6d55314e32466c4e5467324e7a686c4c6e426b5a673d3d&fich=58ae4f80-25c2-4026-af92-2e57ae58678e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23928",
+    "PetAssunto": "Solicitam a alteração da Lei da Nacionalidade, no que se refere à contagem dos cinco anos de residência legal em território português para efeitos de naturalização",
+    "PetDataEntrada": "2023-07-14",
+    "PeticoesAssociadas": [
+      "23934"
+    ],
+    "PetId": "23928",
+    "PetLeg": "XV",
+    "PetNr": "197",
+    "PetNrAssinaturas": "808",
+    "PetNrAssinaturasInicial": "757",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
