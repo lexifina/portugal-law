@@ -2,7 +2,7 @@
 
 ### Despesas elegíveis
 
-1 - Sem prejuízo do estabelecido na regulamentação comunitária aplicável, são elegíveis ao financiamento pelo FEADER através da presente medida as seguintes despesas, desde que pagas entre 1 de janeiro de 2014 e 31 de dezembro de 2023:
+1 - Sem prejuízo do estabelecido na regulamentação europeia aplicável, são elegíveis ao financiamento pelo FEADER através da presente medida as seguintes despesas, desde que pagas entre 1 de janeiro de 2014 e 31 de dezembro de 2025:
 
 a) Remunerações e outras prestações de natureza salarial, encargos sociais e outras despesas associadas;
 

@@ -22,4 +22,4 @@ h) Ações integradas nos planos de atividades da Estrutura Técnica de Animaç�
 
 i) Ações integradas nos planos de atividades das Estruturas Locais de Apoio criadas no âmbito da Medida 7 «Agricultura e recursos naturais».
 
-2 - São, ainda, suscetíveis de serem financiadas pela medida «Assistência Técnica» as atividades relativas à preparação do próximo período de programação, bem como ao encerramento do Programa de Desenvolvimento Rural do Continente para o período de 2007-2013 (PRODER) e do Programa da Rede Rural Nacional (PRRN).
+2 - São, ainda, suscetíveis de serem financiadas pela medida 'Assistência Técnica' as atividades relativas à preparação da execução do Plano Estratégico da Política Agrícola Comum (PEPAC).

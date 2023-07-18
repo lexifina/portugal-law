@@ -22,7 +22,7 @@ h) Outras ações que se revelem indispensáveis para garantir níveis adequados
 
 i) Ações constantes dos planos de atividades da ETA da RRN;
 
-j) Ações constantes dos planos de atividades das ELA ou das estruturas equivalentes;
+j) Ações constantes dos planos de atividades das ELA e dos GLA;
 
 k) Outras ações que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante.
 
