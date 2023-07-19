@@ -1,0 +1,457 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "739",
+    "id": "172844",
+    "titulo": "Garante a representação equilibrada de género na composição do Tribunal Constitucional e reforça a transparência do processo de cooptação de Juízes, procedendo à alteração à Lei n.º 28/82, de 15 de novembro"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2023-07-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "19703",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2023-07-19",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "172945",
+        "leg": "XV",
+        "nr": "787",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "16463",
+            "obs": null,
+            "pag": [
+              "138-143"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-07-20",
+            "pubLeg": "XV",
+            "pubNr": "153",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/153/2023-07-20/138?pgs=138-143&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Introdução do critério da paridade na composição do Tribunal Constitucional (Alteração à Lei de organização, funcionamento e processo do Tribunal Constitucional, Lei n.º 28/82, de 15 de novembro)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-07-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7329",
+                "nome": "António Topa Gomes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "21:06",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "138-138"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-07-20",
+                "pubLeg": "XV",
+                "pubNr": "153",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/153/2023-07-20/138?pgs=138&org=PLC"
+              }
+            ],
+            "sumario": "Introdução do critério da paridade na composição do Tribunal Constitucional (alteração à Lei de organização, funcionamento e processo do Tribunal Constitucional, Lei n.º 28/82, de 15 de novembro); Garante a representação equilibrada de género na composição do Tribunal Constitucional e reforça a transparência do processo de cooptação de Juízes, procedendo à alteração à Lei n.º 28/82, de 15 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1933",
+                "nome": "Alexandre Simões"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4439",
+                "nome": "António Prôa"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7371",
+                "nome": "João Barbosa de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "21:06",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "138-139"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-07-20",
+                "pubLeg": "XV",
+                "pubNr": "153",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/153/2023-07-20/138?pgs=138-139&org=PLC"
+              }
+            ],
+            "sumario": "Introdução do critério da paridade na composição do Tribunal Constitucional (alteração à Lei de organização, funcionamento e processo do Tribunal Constitucional, Lei n.º 28/82, de 15 de novembro); Garante a representação equilibrada de género na composição do Tribunal Constitucional e reforça a transparência do processo de cooptação de Juízes, procedendo à alteração à Lei n.º 28/82, de 15 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4397",
+                "nome": "Afonso Oliveira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1905",
+                "nome": "Fernando Negrão"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6935",
+                "nome": "Isabel Meireles"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6544",
+                "nome": "Isaura Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "21:06",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335734",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "139-139"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-07-20",
+                "pubLeg": "XV",
+                "pubNr": "153",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/153/2023-07-20/139?pgs=139&org=PLC"
+              }
+            ],
+            "sumario": "Introdução do critério da paridade na composição do Tribunal Constitucional (alteração à Lei de organização, funcionamento e processo do Tribunal Constitucional, Lei n.º 28/82, de 15 de novembro); Garante a representação equilibrada de género na composição do Tribunal Constitucional e reforça a transparência do processo de cooptação de Juízes, procedendo à alteração à Lei n.º 28/82, de 15 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6930",
+                "nome": "Carlos Eduardo Reis"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7403",
+                "nome": "Hugo Maravilha"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7441",
+                "nome": "Pedro Melo Lopes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7945",
+                "nome": "Rui Vilar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "21:06",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335735",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "139-140"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-07-20",
+                "pubLeg": "XV",
+                "pubNr": "153",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/153/2023-07-20/139?pgs=139-140&org=PLC"
+              }
+            ],
+            "sumario": "Introdução do critério da paridade na composição do Tribunal Constitucional (alteração à Lei de organização, funcionamento e processo do Tribunal Constitucional, Lei n.º 28/82, de 15 de novembro); Garante a representação equilibrada de género na composição do Tribunal Constitucional e reforça a transparência do processo de cooptação de Juízes, procedendo à alteração à Lei n.º 28/82, de 15 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6935",
+                "nome": "Isabel Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "21:06",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "140-143"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-07-20",
+                "pubLeg": "XV",
+                "pubNr": "153",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/153/2023-07-20/140?pgs=140-143&org=PLC"
+              }
+            ],
+            "sumario": "Introdução do critério da paridade na composição do Tribunal Constitucional (alteração à Lei de organização, funcionamento e processo do Tribunal Constitucional, Lei n.º 28/82, de 15 de novembro); Garante a representação equilibrada de género na composição do Tribunal Constitucional e reforça a transparência do processo de cooptação de Juízes, procedendo à alteração à Lei n.º 28/82, de 15 de novembro.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2273",
+                "nome": "Rita Borges Madeira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6956",
+                "nome": "Sara Velez"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "21:06",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "335737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "143-143"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-07-20",
+                "pubLeg": "XV",
+                "pubNr": "153",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/153/2023-07-20/143?pgs=143&org=PLC"
+              }
+            ],
+            "sumario": "Introdução do critério da paridade na composição do Tribunal Constitucional (alteração à Lei de organização, funcionamento e processo do Tribunal Constitucional, Lei n.º 28/82, de 15 de novembro); Garante a representação equilibrada de género na composição do Tribunal Constitucional e reforça a transparência do processo de cooptação de Juízes, procedendo à alteração à Lei n.º 28/82, de 15 de novembro.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1349872",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996060",
+        "obs": null,
+        "pag": [
+          "83-83"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-07-20",
+        "pubLeg": "XV",
+        "pubNr": "153",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/153/2023-07-20/83?pgs=83&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2023-07-19",
+        "descricao": null,
+        "detalhe": "A Favor: <I>6-PS</I>, <I> PSD</I>, <I> BE</I>, <I> PAN</I>, <I> L</I>, <I> Berta Nunes (PS)</I>, <I> Isabel Alves Moreira (PS)</I>, <I> Patrícia Faro (PS)</I>, <I> Carla Sousa (PS)</I>, <I> Alexandra Leitão (PS)</I>, <I> Mara Lagriminha Coelho (PS)</I><BR>Contra:<I>PS</I>, <I> 5-PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> Rui Vilar (PSD)</I>, <I> Carlos Eduardo Reis (PSD)</I>, <I> Paulo Mota Pinto (PSD)</I>, <I> Pedro Melo Lopes (PSD)</I>, <I> Hugo Maravilha (PSD)</I>",
+        "id": "115466",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "152",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
