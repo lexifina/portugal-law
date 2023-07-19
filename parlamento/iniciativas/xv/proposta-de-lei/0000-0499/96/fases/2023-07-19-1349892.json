@@ -1,0 +1,920 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "96",
+    "id": "173094",
+    "titulo": "Altera os Estatutos de Associações Públicas Profissionais"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-07-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338314f575a6a4e6d4e6a4e6930775a6a6c6a4c5452684d446b744f474d324d5330335a6a4d315a546b345a6d4530597a6b756347526d&fich=59fc6cc6-0f9c-4a09-8c61-7f35e98fa4c9.pdf&Inline=true",
+        "anexoNome": "Despacho"
+      }
+    ],
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64693",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2023-09-13",
+            "id": "138471",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-13",
+            "id": "138470",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-13",
+            "id": "138469",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-14",
+            "id": "138474",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-14",
+            "id": "138473",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-14",
+            "id": "138472",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-19",
+            "id": "138483",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-19",
+            "id": "138482",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138498",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138497",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138496",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138495",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138494",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-27",
+            "id": "138499",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-28",
+            "id": "138500",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-02",
+            "id": "138522",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-02",
+            "id": "138521",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138529",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138528",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138527",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138526",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138524",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138523",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-07-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-10-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. II Médicos Dentistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324668596d45354d7a67774c54597a4f5745744e474a6c4d5331685a54497a4c54566c4d6d51784f5445305a4759314d4335775a47593d&fich=aaba9380-639a-4be1-ae23-5e2d1914df50.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. III Médicos Veterinários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a684d474d355a446c6b4c54637a596a51744e44457a4e5331694e5755354c5749304d5468685a4451355a6a59355a5335775a47593d&fich=2a0c9d9d-73b4-4135-b5e9-b418ad49f69e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. IV Médicos ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49304e47466b596a67334c5449334e6d51744e4746685a6930354e5455784c574a6b4e6d4d354e44557a4d6a6b344e7935775a47593d&fich=244adb87-276d-4aaf-9551-bd6c94532987.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-06",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. V Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41354e6d5a6d4f5445354c5442684d5745744e446332596931694e44526c4c574d794f44566d59575530595459354e6935775a47593d&fich=096ff919-0a1a-476b-b44e-c285fae4a696.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. IX Arquitectos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324932596a51784d574a6b4c57457a4d4459744e4459315a5330354e47497a4c5463314e6d4d794d4755774d4456684e7935775a47593d&fich=b6b411bd-a306-465e-94b3-756c20e005a7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. VI Notários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e684e4455324f4468694c54646a4d7a67744e47566c4d793034597a4e6d4c574a6c4e6a41775a6d5a69597a566b4d5335775a47593d&fich=ca45688b-7c38-4ee3-8c3f-be600ffbc5d1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. VII Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a46684e4751784e7a4a6c4c5451354e3245744e4745794d4331695954597a4c5463774d54466b4d544978597a59305a5335775a47593d&fich=1a4d172e-497a-4a20-ba63-7011d121c64e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. VIII Economistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55794f575268595442684c5449324d5751744e4745785a4330344f5451314c5445354d6d5a6b4e4749304d544e6d4e6935775a47593d&fich=529daa0a-261d-4a1d-8945-192fd4b413f6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. X  Biólogos ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251324f47466a596a4e6c4c57466a596a6b744e4751344d4331694d6a41774c574e6d4d474e6d4d5463335a6a5a6d4d7935775a47593d&fich=d68acb3e-acb9-4d80-b200-cf0cf177f6f3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XI Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249354e54566d4e5755784c546b774e4749744e44526c4d6930354f5463334c5467314d7a49354d324530595449304e6935775a47593d&fich=b955f5e1-904b-44e2-9977-853293a4a246.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XVIII Revisores Oficiais de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b31597a59324d5463344c5759345a546b744e444d324e6931694d6d55304c575131596a59775a47566b597a41334e4335775a47593d&fich=95c66178-f8e9-4366-b2e4-d5b60dedc074.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XVII Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55305a545a69595755314c5751315a5455744e446b355a5331694d7a63344c54513559546b794e44426a4d6a6c694d4335775a47593d&fich=54e6bae5-d5e5-499e-b378-49a9240c29b0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. IX Arquitectos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4579595759324d324a6b4c5751314d6d49744e4463314e7930354e324e684c57493159546b30596a59354f44526d4e7935775a47593d&fich=12af63bd-d52b-4757-97ca-b5a94b6984f7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XX Assistentes Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a52684e6d55784d54597a4c54686c5a574d744e4459315a5330354e6a637a4c575a694f5459334e3251785a6d49334d5335775a47593d&fich=4a6e1163-8eec-465e-9673-fb9677d1fb71.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. X Biólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245794f5749774f546c6b4c544e684f574d744e44677a596931684d544e6a4c5751305a57526d4e7a4a6859575532597935775a47593d&fich=a29b099d-3a9c-483b-a13c-d4edf72aae6c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XII  Contabilistas Certificados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566c5a6a55314e575a684c5455784e5749744e4745354d4330354e7a51774c5441324d6d466d4e4449785a546b784e7935775a47593d&fich=5ef555fa-515b-4a90-9740-062af421e917.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. VIII Economistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255774d6d4e684e4749774c54677a4e6a41744e444668597930344e6d4a684c544a6d4e444532596a45344f444932597935775a47593d&fich=e02ca4b0-8360-41ac-86ba-2f416b18826c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. VII Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d305a44526a5a4751304c5467334d3251744e474d794f533034597a466d4c5451784f544a6b4d4445794f4455334e6935775a47593d&fich=c4d4cdd4-873d-4c29-8c1f-4192d0128576.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. V Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251784d6a4d304f4749784c544932597a49744e474a6a595330354d57557a4c5441344d4459324e6a51314d7a59305a4335775a47593d&fich=d12348b1-26c2-4bca-91e3-08066645364d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XIII Farmacêuticos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67334d446b314d7a4d7a4c546b355a4441744e444d785a4331685954637a4c5745334e7a566b4e4467344e7a686a5a6935775a47593d&fich=87095333-99d0-431d-aa73-a775d48878cf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XXI Fisioterapêutas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6778595759335a54646d4c575a6a4d5755744e4755354e6931695a5467314c5755794e7a4179597a6b785a6a6c6a4e5335775a47593d&fich=81af7e7f-fc1e-4e96-be85-e2702c91f9c5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. II Médicos Dentistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41785a4456694f54677a4c546b354d3245744e446b784e7931695a6a5a684c54466b4f4751355a5442694d4468684e4335775a47593d&fich=01d5b983-993a-4917-bf6a-1d8d9e0b08a4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. III Médicos Veterinários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249324d4455334e5449334c575534596d4d744e4751794d6931694e6a67774c575579595759355a44466c5a6a5a69596935775a47593d&fich=b6057527-e8bc-4d22-b680-e2af9d1ef6bb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. IV Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45324d3259344e325a6c4c5445304e4755744e47566d5979303559325a694c546b784f444534596d566c595759324e6935775a47593d&fich=163f87fe-144e-4efc-9cfb-91818beeaf66.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. VI Notários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32497a5a6a4d77593251304c545977597a4d744e4441355a6931695a57466a4c574d774d474e6959544135595749305a5335775a47593d&fich=b3f30cd4-60c3-409f-beac-c00cba09ab4e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XV Nutricionistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6d4e544533597a41334c544e6a5a546b744e445a69597931694f5751334c544a6a4e445132596a68684d6d59325a6935775a47593d&fich=bf517c07-3ce9-46bc-b9d7-2c446b8a2f6f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XIV Psicólogos Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5269596a55354d325a684c5445305a4749744e475268595330345a6a49774c544d314e6a6c694d7a45785a6a5931596935775a47593d&fich=4bb593fa-14db-4daa-8f20-3569b311f65b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XIX Solicitadores e Agentes de Execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55324f446b33597a4d344c544e684d6a45744e4745304e4331684d474e684c5755774e44557a595749784f54686d595335775a47593d&fich=56897c38-3a21-4a44-a0ca-e0453ab198fa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XVI Despachantes Oficiais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259785a44453359574d784c57497a4f5467744e4442694e5331695a6a67314c575132596a4d335a4445775a47466d4f5335775a47593d&fich=f1d17ac1-b398-40b5-bf85-d6b37d10daf9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PCP - Cap. XI Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63304d4445354e7a51354c54557a593249744e444a6a4e4331694e4449334c5441345a6d51305a445a6c4e4459354d6935775a47593d&fich=74019749-53cb-42c4-b427-08fd4d6e4692.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XII Contabilistas Certificados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d794e6d55784e7a63774c575a6d5a5467744e474d355a5330344e7a526d4c546c6b4f474e6a4e4759794f4441354e4335775a47593d&fich=326e1770-ffe8-4c9e-874f-9d8cc4f28094.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XIII Farmacêuticos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526d4e4445345a6a64694c5756694e446b744e4441324d4330345a574d324c5451785a5442694e44426b4d6a5533596935775a47593d&fich=df418f7b-eb49-4060-8ec6-41e0b40d257b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XIV Psicólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a637a5a6d457a5a54466b4c54566d5a5745744e4463345a6931685a5755324c544e6a4d6a63784d5441344e6d4d355a4335775a47593d&fich=73fa3e1d-5fea-478f-aee6-3c2711086c9d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XV Nutricionistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63324f544a6c4d6a4d354c57526a4e6a4d744e474a6c4d6931694d7a4d304c5455784e6d4d774d5755304d6a5a68597935775a47593d&fich=7692e239-dc63-4be2-b334-516c01e426ac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XVI Despachantes Oficiais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466959325a6b4e6a566a4c546b304e5749744e444d345a6931684e6a6c684c574a68593246694f44417a5a5755354e5335775a47593d&fich=1bcfd65c-945b-438f-a69a-bacab803ee95.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XVIII Revisores Oficiais de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6d5a44566b597a59354c57497a595445744e44646d4f5330355a474d774c546332595755334f546b32595455794f4335775a47593d&fich=bfd5dc69-b3a1-47f9-9dc0-76ae7996a528.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XVII Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324578593259314d544d314c54566b4f5759744e446c6a4e5331684d54526b4c544e694e6d4d334e4756684d4467314e5335775a47593d&fich=a1cf5135-5d9f-49c5-a14d-3b6c74ea0855.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XIX Solicitadores e Agentes de Execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255325a474d30596d466b4c5749344d7a41744e4749354f4330354e4463794c5445304d445178596a55334f445933596935775a47593d&fich=e6dc4bad-b830-4b98-9472-14041b57867b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XX Assistentes Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32557a4d3255304e3249334c544e695a6d51744e445579595330354e6a41344c5463785a6a49344d7a51314e57466a4e6935775a47593d&fich=e33e47b7-3bfd-452a-9608-71f283455ac6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XXI Fisioterapeutas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251344f5455794f54566b4c546c685a5449744e4745345a5330355a444a694c5455794e7a52694e6d59354e6a6b305a6935775a47593d&fich=d895295d-9ae2-4a8e-9d2b-5274b6f9694f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP CH - Cap. XXII Disposições Transitórias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245324d6a6c6d5a44557a4c574d785a5449744e4467304e693035597a49354c544a6d4e544134597a67345a445978596935775a47593d&fich=a629fd53-c1e2-4846-9c29-2f508c88d61b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP IL - Cooperativas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32557a5a4759314d57597a4c5445334d5445744e446b32595331694d7a4e6b4c5751304e6d4d7759546b7a5a6d51324f4335775a47593d&fich=e3df51f3-1711-496a-b33d-d46c0a93fd68.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP IL - Cap. XVII Advogados e XIX Solicitadores e Agentes de Execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249314e5749314e6d55324c544e6b595463744e475a6b4d4330344f445a684c544a6c5a54677a4d6d5130596d59314d5335775a47593d&fich=b55b56e6-3da7-4fd0-886a-2ee832d4bf51.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP IL - Cap. III Médicos Veterinários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45355a6a633359574a6a4c5441344d3251744e474e684d4330354d6d4d334c57466d4e6d4d334d5467794e475a6a4d6935775a47593d&fich=19f77abc-083d-4ca0-92c7-af6c71824fc2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP IL - Cap. II  Médicos Dentistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a64694d474d344d5455794c54426d593255744e474933595331695954566c4c5755334d324d334e3255774f4445774e4335775a47593d&fich=7b0c8152-0fce-4b7a-ba5e-e73c77e08104.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP BE - Cap. IX - Arquitectos ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b33593251784e5456684c544a6c4e5755744e4451334e5330354d6d51304c54566b597a59784f44646c4e44466a4d4335775a47593d&fich=97cd155a-2e5e-4475-92d4-5dc6187e41c0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP BE - Cap. VII - Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d3059546b354d44566b4c5451324d5755744e446c685a6930344d6d566d4c5749345a6d497a4e546c6a4d7a4a6c4d7935775a47593d&fich=c4a9905d-461e-49af-82ef-b8fb359c32e3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP BE - Cap. IV - Médicos ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5534596a466c4e5449794c5449334e4451744e474d33597930355a474d324c575935597a677959325135597a67344e5335775a47593d&fich=58b1e522-2744-4c7c-9dc6-f9c82cd9c885.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP BE - Cap. XVII -  Advogados ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6b4f544a694e6a56694c54426b597a67744e44457a4f5331694d6a646c4c574669595455305a444a6c4d6a45314d6935775a47593d&fich=2d92b65b-0dc8-4139-b27e-aba54d2e2152.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. V - Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b354d7a41324e54526b4c57457759574d744e4755304d4330344d4455304c54646d4d6d51304f4751784e7a6334595335775a47593d&fich=9930654d-a0ac-4e40-8054-7f2d48d1778a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. X - Biólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67344e5467324e4749314c544e695a6d51744e4442695a4330354e4449784c545178593249795a4467314d7a497a4e4335775a47593d&fich=885864b5-3bfd-40bd-9421-41cb2d853234.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XI - Engenheiros técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49794f5441774d6a67784c5441774e544d744e444e684e4331695a5449324c5459335a54566a4e6a45354f5459794d6935775a47593d&fich=22900281-0053-43a4-be26-67e5c6199622.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XIX - Solicitadores e agentes de execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45775a474669597a4e6d4c5759354d7a6b744e44686b4d5330354e6a51314c5751304e324a695a6a6b354d6d45314f4335775a47593d&fich=10dabc3f-f939-48d1-9645-d47bbf992a58.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XX - Assistentes Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249785a4452684e6a6c684c544d354f4455744e4759325a4331684e324a6a4c5441774e4756685a4467784e6d55304e5335775a47593d&fich=b1d4a69a-3985-4f6d-a7bc-004ead816e45.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. IX - Arquitectos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a64694e3252684d5449334c544a695a4455744e474d78595331694f4759324c5446694f5755325a44646d5a54566d5a4335775a47593d&fich=7b7da127-2bd5-4c1a-b8f6-1b9e6d7fe5fd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. VI - Notários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255335a6a566d4d6a63774c54557a595451744e4449774d7931684d5745334c574d7a4e6a4a685a6a6b304f5441344e7935775a47593d&fich=e7f5f270-53a4-4203-a1a7-c362af949087.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. II - Médicos Dentistas ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251304e6a67794d5467344c546c684e4751744e4446684e6930354f5463794c54457a4e6d466d4d5441774f4749774d5335775a47593d&fich=d4682188-9a4d-41a6-9972-136af1008b01.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XVIII - Revisores Oficiais de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526d4e5756694f574a6b4c544d305a574d744e4759784e4331685a5463794c546b334d6d56684d44686b4e6a6b7a4d6935775a47593d&fich=4f5eb9bd-34ec-4f14-ae72-972ea08d6932.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XVII - Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41344e446c6b4d7a5a6a4c5468694d4455744e4445334f5331694e54646a4c575a6b4d544935595445774e444d354d4335775a47593d&fich=0849d36c-8b05-4179-b57c-fd129a104390.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. III - Médicos Veterinários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325979596d55335a4463344c5459324e6a67744e474a6b4e5331684f544a694c54426d5a54457a59546331596d59354f5335775a47593d&fich=f2be7d78-6668-4bd5-a92b-0fe13a75bf99.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. II - Médicos Dentistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251334e324a694d4445334c5446695a4445744e446c69597930354e6a49324c54417a59545978596d45334e6a49784f5335775a47593d&fich=d77bb017-1bd1-49bc-9626-03a61ba76219.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. III - Médicos Veterinários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49774d47597a4e7a6c6d4c545930596a55744e444e6d5a6930354e5459794c546c6b4f575978597a4d35596a49324e6935775a47593d&fich=200f379f-64b5-43ff-9562-9d9f1c39b266.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. IV - Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466d59544a6a4e5759344c544d344d6d55744e445a6c595331685a5749304c5464695a4759774e4759774e6a42684d6935775a47593d&fich=1fa2c5f8-382e-46ea-aeb4-7bdf04f060a2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. IX - Arquitetos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3246694f4759354f4441314c5449355a6d59744e444d774f4330344e324d314c546b314d7a4e6b597a67335a546b344d6935775a47593d&fich=ab8f9805-29ff-4308-87c5-9533dc87e982.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. V - Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566d5a574e6d5a4441314c5467775a5459744e47466a4d5330345a544e6b4c546c6c4d54526d4d6a4d774f546b784d5335775a47593d&fich=5fecfd05-80e6-4ac1-8e3d-9e14f2309911.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. VI - Notários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51794d446c6a4e6d4a6c4c5459314d5445744e446c68595330344e575a6c4c545178596d4979596a4d35596a4e694e5335775a47593d&fich=4209c6be-6511-49aa-85fe-41bb2b39b3b5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. VII - Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a69596a4a6d593259794c54426c5a4455744e4463344f4330354d575a6b4c5441334f574a6d4d4464684e32597a5a5335775a47593d&fich=2bb2fcf2-0ed5-4788-91fd-079bf07a7f3e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. VIII - Economistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e69596a6c6a4e5441334c575a694f4751744e4759304e4331694e7a566a4c5751324f4459334d4441354e546b794d4335775a47593d&fich=cbb9c507-fb8d-4f44-b75c-d68670095920.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. X - Biólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d7a4d6a6c6d4d3255304c5467354f5749744e474d32597930344d5459314c546b304e324e6b4d4459354f4445304d5335775a47593d&fich=c329f3e4-899b-4c6c-8165-947cd0698141.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XI - Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4e684e4451334e54566a4c54566a4e7a41744e446c6b5a4331694f4441354c57466c4d6a51325954466a4f4459335a5335775a47593d&fich=3a44755c-5c70-49dd-b809-ae246a1c867e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XII - Contabilistas Certificados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251774d5755354e474e6b4c574577596d51744e445530597931694d5745314c546b794d32566a4f474d335a6d45354f5335775a47593d&fich=d01e94cd-a0bd-454c-b1a5-923ec8c7fa99.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XIII - Farmacêuticos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d304e446c6c593249324c5749344e6a41744e4467774f4330354d544a694c544e685a6a49795a6d51304e5451784e5335775a47593d&fich=3449ecb6-b860-4808-912b-3af22fd45415.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XIV - Psicólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41794d5745344d6a4d354c5467785a446b744e445a6d5a6930344e546b314c5755324d57517a5a6a6b314f574d354e6935775a47593d&fich=021a8239-81d9-46ff-8595-e61d3f959c96.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XIX- Solicitadores e Agentes de Execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a52695a5464695a4759324c5441355a5759744e474e694e4331684e6a6b344c5445314f4464694e445a6d4d545979595335775a47593d&fich=4be7bdf6-09ef-4cb4-a698-1587b46f162a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XV - Nutricionistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a526d4d5455795a54566c4c5464695a446b744e47526a5a433035596a67314c544134596a466c4e5463325a574d334e6935775a47593d&fich=4f152e5e-7bd9-4dcd-9b85-08b1e576ec76.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP PSD - Cap. XVI - Despachantes Oficiais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49354d6a51794e3249344c5451334f4455744e4749305a4330354e6a49344c5745334d6a67794d57526c4f4455324d7935775a47593d&fich=292427b8-4785-4b4d-9628-a72821de8563.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XVII - Advogados (Substitutiva)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d34597a51345a4752684c5751784f5467744e4755794d6931684f54457a4c5463305a5441794d475a694d5459774d4335775a47593d&fich=38c48dda-d198-4e22-a913-74e020fb1600.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XVIII - Revisores Oficiais de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45774f446c6a4e7a526c4c5745345a4467744e474e6b5a4330354d475a6c4c5759355a6a5a6a4e4445784d6d526d4e6935775a47593d&fich=1089c74e-a8d8-4cdd-90fe-f9f6c4112df6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XX - Assistentes Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49794e546c6b4f4445344c54466a595455744e446c6c5a433169596d59324c5755334e6a466b5a5751314f57466d595335775a47593d&fich=2259d818-1ca5-49ed-bbf6-e761ded59afa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XXI - Fisioterapeutas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45345a4749794e7a45314c5745324e574d744e4445784f5330345a544d334c5455354f544932596a5a6a4e32466a4e5335775a47593d&fich=18db2715-a65c-4119-8e37-59926b6c7ac5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PSD - Cap. XXII - Disposições transitórias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6a4d6d526c4e6a67784c545934596a51744e4755354f4330354e574d344c5759315a4459334e475a6d595441324d6935775a47593d&fich=bc2de681-68b4-4e98-95c8-f5d674ffa062.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração do GP PS - Lei 49/2004",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a637a4e4755344d446c6b4c575532593245744e4751345a4330354e32526c4c5467305a57526a4e5441355a44526c597935775a47593d&fich=734e809d-e6ca-4d8d-97de-84edc509d4ec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XIV - Psicólogos portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b7a4e6d55794d7a49774c5442684d4467744e445a6d5a6931695a4463784c5459775a6d49324e445a695a5459324d4335775a47593d&fich=936e2320-0a08-46ff-bd71-60fb646be660.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. VIII - Economistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32517a5a44646c4e6a6c6c4c574a6d4d7a59744e4759314d433034596a686d4c5467344d54426b596d55314e325a6d4e7935775a47593d&fich=d3d7e69e-bf36-4f50-8b8f-8810dbe57ff7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. IV - Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251784d54426c4e32526c4c57497a4d4751744e444d314f5330345a6a4d304c574934595442685a6a63325a6a6b785a6935775a47593d&fich=d110e7de-b30d-4359-8f34-b8a0af76f91f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. VII - Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251334e6d59774e54517a4c5463774e6a4d744e444e6d4d6930354f4759334c5745314d4441334d474d344d6a6c6b5a6935775a47593d&fich=d76f0543-7063-43f2-98f7-a50070c829df.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XXI - Fisioterapeutas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e694e7a497859544a6b4c54517a5a6d59744e444932595330344f5459784c5759345a444268596a5a694e7a466b4e7935775a47593d&fich=cb721a2d-43ff-426a-8961-f8d0ab6b71d7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XVI Despachantes oficiais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d334f54646b4d7a67784c54686b595441744e4445355a533169596d55324c545a6b5a5459325954417a4e5445335a6935775a47593d&fich=c797d381-8da0-419e-bbe6-6de66a03517f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XV - Nutricionistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6331596d45324d4441334c5441354f5751744e4459314d7931684d7a426b4c546c684e544e6d59324d774f4445345a4335775a47593d&fich=75ba6007-099d-4653-a30d-9a53fcc0818d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XIII - Farmacêuticos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4931596a67314e474a6b4c5751354f4759744e44466a5a533035595441784c574d344f544a6d4e7a67795a6d4a694e6935775a47593d&fich=25b854bd-d98f-41ce-9a01-c892f782fbb6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XII - Contabilistas Certificados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a69596a45304d4456684c544e6c4d5749744e446b354d6931684e7a59314c574e684e474d7a4e6d4669595445315a5335775a47593d&fich=6bb1405a-3e1b-4992-a765-ca4c36aba15e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XIX - Solicitadores e agentes de execução (2)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4934597a466d595441794c546c6c5a6d45744e446c6d596931685a4755334c544d344e6d4a684d7a4d304d54426d5a6935775a47593d&fich=28c1fa02-9efa-49fb-ade7-386ba33410ff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XIV - Psicólogos portugueses  (2)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245795a6d4a6b597a63334c544a6c5a4455744e444d304e7931694e4759774c575930596a63774e54466a595759774e6935775a47593d&fich=a2fbdc77-2ed5-4347-b4f0-f4b7051caf06.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XXII - Disposições transitórias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45794f546b314e4467354c5449304f5445744e4755774d7930344d7a4d324c575a6b596d49354d7a55785a5441304e7935775a47593d&fich=12995489-2491-4e03-8336-fdbb9351e047.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - Cap. XII - Contabilistas Certificados (2)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6a4d5756695a6a64684c5459334d7a49744e4451325a5331684d7a466b4c54426a4e47526b4e5467775a6a52684f5335775a47593d&fich=9c1ebf7a-6732-446e-a31d-0c4dd580f4a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP PS - Proposta de alteração transversal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6b4e3245795a4451304c575135595449744e44553459693168597a4d774c57517a595467344e47517a596a45324e5335775a47593d&fich=bd7a2d44-d9a2-458b-ac30-d3a884d3b165.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - correção de epígrafes",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b784e4749344d6a41774c5459335a6d51744e47566a4d7931694f5749334c546b794e446c6d4e6a67305a47566a4d7935775a47593d&fich=914b8200-67fd-4ec3-b9b7-9249f684dec3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração do GP PS - retificações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a637a4d7a4d30596a5a6a4c5445334f5749744e474a6a4f5331694e6d51344c54566d4e6a49314f5441774d7a49324e4335775a47593d&fich=73334b6c-179b-4bc9-b6d8-5f6259003264.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Médicos Dentistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63334f446b7a597a4a6b4c574d795a4459744e4467355a5330355a444a6c4c546c6d595749795a54686b4e474a6c4e6935775a47593d&fich=77893c2d-c2d6-489e-9d2e-9fab2e8d4be6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Médicos Veterinários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d324f44517a5a5449354c545a684f544d744e444d335953316859546b794c5751774d54526a4d47466a596d55314d6935775a47593d&fich=c6843e29-6a93-437a-aa92-d014c0acbe52.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b344f4745314f54526d4c5755344d4745744e4463324e5331684f444d354c544d324d6d566d4e5449315a6a686c596935775a47593d&fich=988a594f-e80a-4765-a839-362ef525f8eb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Engenheiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4977596d4e6c593251794c545535597a45744e445530596931694d546c694c544a6a4d6a49794d475a6a4e54597a4e6935775a47593d&fich=20bcecd2-59c1-454b-b19b-2c2220fc5636.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Notários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45304e544e6c4e6a6b314c544669595745744e446b794e5331684d4449354c574a6a4d5749344e6a5179596a4d345a6935775a47593d&fich=1453e695-1baa-4925-a029-bc1b8642b38f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6c4e5445774e6a466c4c54426b4e6d51744e445a6b4e6930344d4455354c5749355a6d5531597a646d4f4756695a4335775a47593d&fich=9e51061e-0d6d-46d6-8059-b9fe5c7f8ebd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Economistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526c4e6a426b5a546b794c5759314e6a6b744e446b794d6930345a54646b4c5759314d6d51355a5456684d47566c4e5335775a47593d&fich=de60de92-f569-4922-8e7d-f52d9e5a0ee5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Arquitetos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6b5a4451344f475a6c4c5441315a574d744e47493559793169593251784c574d32596a6b34596a51324e44426c5a5335775a47593d&fich=fdd488fe-05ec-4b9c-bcd1-c6b98b4640ee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Biólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6a4d5449304d5463354c57566d4f5441744e4446694d6930355a6d5a6d4c5749344e47526d4f5749345954566a5a5335775a47593d&fich=fc124179-ef90-41b2-9fff-b84df9b8a5ce.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Engenheiros Técnicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325930596a67794d4749774c5459334f474d744e475535595331684d5455334c5756694f545a684f445a684e5752694d7935775a47593d&fich=f4b820b0-678c-4e9a-a157-eb96a86a5db3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Contabilistas Certificados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a6c596a4a684e5752684c5463304d5459744e474e694d4331684d6d5a6c4c5745775a546b304e574d79597a6b334e4335775a47593d&fich=beb2a5da-7416-4cb0-a2fe-a0e945c2c974.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Farmacêuticos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6779597a4132595451784c5756694d324d744e4463314d6931695a546b774c546b30596d51324e7a6377596d4a69595335775a47593d&fich=82c06a41-eb3c-4752-be90-94bd6770bbba.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Psicólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b784d544d32596d49344c57597a4e7a6b744e4467354e6931695a6a6c6b4c5756684d47597a59324d304e44526c4d4335775a47593d&fich=91136bb8-f379-4896-bf9d-ea0f3cc444e0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final  - Ordem dos Nutricionistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49314f47466d4d324e6a4c5459304d4463744e444d314e4331694d6d52694c5759335a5441314f54566d5a44686b4f5335775a47593d&fich=258af3cc-6407-4354-b2db-f7e0595fd8d9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Despachantes Oficiais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a426c4d6a677a4e446b314c54526a4e324d744e445a684d6930344e47566a4c5468684e44566a597a49774d446330596935775a47593d&fich=0e283495-4c7c-46a2-84ec-8a45cc20074b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final -  Lei dos atos próprios dos Advogados e dos Solicitadores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a67324f545268596d4d7a4c5445354d4751744e4746684f53316859574e694c546b304d4445334d4449774e4746694d6935775a47593d&fich=8694abc3-190d-4aa9-aacb-940170204ab2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245334f4468694d7a646b4c5441324d6d59744e446b33597931694d32526b4c5451774d54686d59324d774f5455794f5335775a47593d&fich=a788b37d-062f-497c-b3dd-4018fcc09529.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final -Ordem dos  Revisores Oficiais de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324d33595467794d5441304c546b775a4751744e444e694f5330344e6d566a4c5467324d324e69596d4e6b4f544d344e5335775a47593d&fich=c7a82104-90dd-43b9-86ec-863cbbcd9385.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Solicitadores e dos Agentes de Execução",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b325a57566c5a4755314c574d35595745744e4441344d6931684e5445344c5749314d7a51784e446b304d474d35597935775a47593d&fich=96eeede5-c9aa-4082-a518-b53414940c9c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Assistentes Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51345a54686b4e7a42694c5463795a6d51744e474e6b4d6931684e3256684c5459795a44686c4f544d31596d466d4d6935775a47593d&fich=48e8d70b-72fd-4cd2-a7ea-62d8e935baf2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final - Ordem dos Fisioterapeutas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a56684f4463794e3245344c54526c4f544d744e44566d4d7931694d325a6a4c54646c595745335a6d457a4f5459794d7935775a47593d&fich=5a8727a8-4e93-45f3-b3fc-7eaa7fa39623.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade PPL 96_GOV e 98_GOV - CTSSI, CACDLG e CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325135595455784e4459334c5463354f5755744e4756695a4330344f4749794c5467314e44597a4e7a4d7a5a6d5a694e7935775a47593d&fich=d9a51467-799e-4ebd-88b2-85463733ffb7.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8334",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8334",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-07-19",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Em conexão com a 1.ª Comissão. Redistribuída, em conexão, à 9.ª Comissão, por despacho de 2023-08-11.",
+    "OevId": "1349892",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
