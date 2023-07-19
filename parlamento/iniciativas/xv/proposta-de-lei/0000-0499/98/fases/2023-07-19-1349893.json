@@ -1,0 +1,219 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "98",
+    "id": "173096",
+    "titulo": "Altera o regime jurídico da constituição e funcionamento das sociedades de profissionais abrangidas por associações públicas profissionais"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-07-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "64694",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2023-09-13",
+            "id": "138471",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-13",
+            "id": "138470",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-13",
+            "id": "138469",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-14",
+            "id": "138474",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-14",
+            "id": "138473",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-14",
+            "id": "138472",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-19",
+            "id": "138483",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-19",
+            "id": "138482",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138498",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138497",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138496",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138495",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-26",
+            "id": "138494",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-27",
+            "id": "138499",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-09-28",
+            "id": "138500",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-02",
+            "id": "138522",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-02",
+            "id": "138521",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138529",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138528",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138527",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138526",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138524",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2023-10-03",
+            "id": "138523",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-07-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b335a5459344d546b344c5464694e574d744e4751324f5330344d7a51324c54646a4e575534596a6468597a49354f4335775a47593d&fich=97e68198-7b5c-4d69-8346-7c5e8b7ac298.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325133597a6b355a4449344c5463304e5759744e44597a5a433169596d566c4c544a695a6d5934597a566859324d344e5335775a47593d&fich=d7c99d28-745f-463d-bbee-2bff8c5acc85.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32517a5a4468684d57517a4c54466c596d4d744e44466859793035595751334c54466d596a5a694e57466c4f446b324e5335775a47593d&fich=d3d8a1d3-1ebc-41ac-9ad7-1fb6b5ae8965.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade PPL 96_GOV e 98_GOV - CTSSI, CACDLG e CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255344e6a6779596a49774c546b325a5441744e4751795a4330354d44466d4c57517a4d7a4268596d45784f4467794d7935775a47593d&fich=e8682b20-96e0-4d2d-901f-d330aba18823.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8334",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8334",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-07-19",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1349893",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
