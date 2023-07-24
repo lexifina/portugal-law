@@ -1,0 +1,8 @@
+Aviso n.º 14083/2023
+Sumário: Consulta pública do projeto do Regulamento de Tabela de Taxas e Preços.
+Consulta Pública do Projeto de Regulamento de Tabela de Taxas e Preços
+Nuno Miguel dos Santos Cunha Duarte, Presidente da Junta de Freguesia de São Martinho das Amoreiras, nos termos do disposto no n.º 1 do artigo 56.º do RJAL, aprovado no anexo I da Lei n.º 75/2013, de 12 de setembro, atualizada, torna público o Projeto de Regulamento de Tabela de Taxas e Preços, aprovado pela Junta de Freguesia em reunião de 22/06/2023 e pela Assembleia de Freguesia em reunião de 27/06/2023, ao abrigo do disposto na alínea h) do n.º 1 do artigo 16.º do RJAL, o qual é submetido a consulta pública para recolha de sugestões, durante o prazo de 30 (trinta) dias a contar da data da publicação do presente Edital.
+O referido Projeto de Regulamento poderá ser consultado nos Serviços Administrativos da Freguesia, durante o horário das 09 horas e 30 minutos às 12 horas e 30 minutos e das 14:00 horas às 17 horas e 30 minutos, nos dias úteis de segunda a sexta-feira, e no sítio institucional da Internet, acessível em www.jf-saomartinhodasamoreiras.pt.
+Durante o período de consulta pública, os interessados deverão apresentar as suas sugestões ou questões que possam ser consideradas relevantes no âmbito do presente procedimento, por escrito, de forma fundamentada e dirigidas ao Senhor Presidente da Junta de Freguesia, através de correio postal para o endereço, Largo do Vale Brique, 7630-536 São Martinho das Amoreiras, ou através de correio eletrónico para o endereço jfsamoreiras@mail.telepac.pt, no prazo acima indicado.
+5 de julho de 2023. - O Presidente da Junta de Freguesia, Nuno Miguel dos Santos Cunha Duarte.
+316642328
