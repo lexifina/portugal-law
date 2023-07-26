@@ -18,9 +18,9 @@ c) Potenciar uma intervenção pedagógica atempada, dirigida às dificuldades i
 
 a) Disciplina de Português, da componente de formação geral;
 
-b) Disciplina trienal da componente de formação específica;
+b) Duas disciplinas bienais da componente de formação específica ou uma dessas disciplinas bienais e a disciplina trienal da mesma componente, de acordo com o percurso formativo próprio do aluno, podendo qualquer das disciplinas ser substituída pela disciplina de Filosofia, da componente de formação geral;
 
-c) Duas disciplinas bienais da componente de formação específica, de acordo com o percurso formativo próprio do aluno, ou uma disciplina bienal da componente de formação específica do curso frequentado e a disciplina de Filosofia.
+c) (Revogada.)
 
 5 - A avaliação dos alunos nos cursos artísticos especializados do ensino secundário integra a prova de aptidão artística.
 

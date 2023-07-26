@@ -6,4 +6,6 @@
 
 2 - A escola deve assegurar a participação informada dos alunos e dos pais e encarregados de educação no processo de avaliação das aprendizagens, promovendo, de forma sistemática, a partilha de informações, o envolvimento e a responsabilização dos vários intervenientes, de acordo com as características da sua comunidade educativa.
 
-3 - Com vista à organização do processo de avaliação externa, nomeadamente no que se refere à sua coordenação, planificação e execução, são constituídas equipas em cada região do território nacional, que integram o Júri Nacional de Exames.
+3 - Com vista à organização do processo de avaliação externa, nomeadamente no que se refere à coordenação, planificação e realização de provas de aferição, de provas finais do ensino básico e exames finais nacionais, do ensino secundário, são constituídas equipas em cada região do território nacional, que integram o Júri Nacional de Exames.
+
+4 - Os montantes pecuniários a pagar pelos serviços prestados pelos elementos das estruturas regionais do Júri Nacional de Exames são fixados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
