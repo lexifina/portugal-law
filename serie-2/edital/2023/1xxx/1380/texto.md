@@ -1,0 +1,8 @@
+Edital n.º 1380/2023
+Sumário: Consulta pública do projeto de regulamento e tabela de taxas e preços.
+Consulta Pública do Projeto de Regulamento e Tabela de Taxas e Preços
+Inês Filipa Lebres Hilário, Presidente da Junta de Freguesia de Vale de Santiago, nos termos do disposto no n.º 1 do artigo 56.º do RJAL, aprovado no anexo I da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, em conjugação com o disposto no artigo 101.º do CPA, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua redação atual, torna público o Projeto de Regulamento e Tabela de Taxas e Preços, aprovado pela Junta de Freguesia em reunião de 23/06/2023 e pela Assembleia de Freguesia em reunião de 29/06/2023, ao abrigo do disposto na alínea h) do n.º 1 do artigo 16.º do RJAL, o qual é submetido a consulta pública para recolha de sugestões, durante o prazo de 30 (trinta) dias a contar da data da publicação do presente Edital.
+O referido Projeto de Regulamento poderá ser consultado nos Serviços Administrativos da Freguesia, durante o horário das 9h30min às 13h00min e das 14h00min às 16h00min, nos dias úteis de segunda a sexta-feira.
+Durante o período de consulta pública, os interessados deverão apresentar as suas sugestões, ou questões que possam ser consideradas relevantes no âmbito do presente procedimento, por escrito, de forma fundamentada e dirigidas à senhora Presidente da Junta de Freguesia, através de correio postal para o endereço, Delegação da Freguesia, Bairro Municipal, Lote n.º 8, Caixa Postal 3462, Bicos, 7630-711 Vale de Santiago ou através de correio eletrónico para o endereço j.f.v.s.delegacaobicos@gmail.com, no prazo acima indicado.
+3 de julho de 2023. - A Presidente da Junta de Freguesia, Inês Filipa Lebres Hilário.
+316641583
