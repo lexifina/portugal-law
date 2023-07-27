@@ -29,3 +29,9 @@ ii) Ao dia 30 de setembro de 2018 e dos anos subsequentes, no que respeita às i
 4 - A comunicação da declaração por país, a que se refere o n.º 17 do artigo 6.º, é efetuada no prazo de 15 meses a contar do último dia do exercício fiscal do grupo de empresas multinacionais a que respeita a declaração por país.
 
 5 - Para efeitos do número anterior, considera-se que a primeira declaração por país é comunicada relativamente ao exercício fiscal do grupo de empresas multinacionais com início em 1 de janeiro de 2016 ou após esta data, sendo efetuada no prazo de 18 meses a contar do último dia desse exercício fiscal.
+
+6 - A comunicação prevista nos n.os 22 a 24 do artigo 6.º deve ser efetuada usando o formato eletrónico normalizado previsto no n.º 4 do artigo 18.º, no prazo de dois meses a contar do final do período sujeito a comunicação a que se referem as obrigações de comunicação impostas ao operador de plataforma reportante.
+
+7 - Para efeitos do disposto no número anterior, as primeiras informações devem ser comunicadas relativamente aos períodos sujeitos a comunicação que se iniciem a partir de 1 de janeiro de 2023.
+
+8 - Os operadores de plataformas reportantes devem comunicar as informações previstas no artigo 12.º do anexo ii ao presente decreto-lei, o mais tardar, em 31 de janeiro do ano seguinte ao ano civil em que o vendedor tenha sido identificado como vendedor sujeito a comunicação, sem prejuízo da aplicação das regras constantes do artigo 10.º do referido anexo.

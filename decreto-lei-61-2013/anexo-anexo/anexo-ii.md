@@ -50,7 +50,7 @@ e) O número de registo comercial;
 
 f) Informação, se disponível, quanto à existência de qualquer estabelecimento estável através do qual sejam exercidas atividades relevantes na União Europeia, com indicação de cada Estado-Membro em que estejam situados esses estabelecimentos estáveis.
 
-3 - (Revogado).
+3 - Não obstante o disposto nos números anteriores, o operador de plataforma reportante não é obrigado a recolher as informações referidas nas alíneas b) a e) do n.º 1 e nas alíneas b) a f) do número anterior, caso se baseie numa confirmação direta da identidade e da residência do vendedor obtida através de um serviço de identificação disponibilizado por um Estado-Membro, pela União Europeia ou por outra jurisdição sujeita a comunicação para averiguar a identidade e a residência fiscal do vendedor.
 
 4 - Não obstante o disposto na alínea c) do n.º 1 e nas alíneas c) e e) do n.º 2, o operador de plataforma reportante não é obrigado a recolher o NIF ou o número de registo comercial, consoante o caso, nas seguintes situações:
 
@@ -134,7 +134,7 @@ Prazos e modalidades para comunicação das informações
 
 4 - Caso Portugal seja o Estado-Membro escolhido, em conformidade com o disposto no artigo 15.º, o operador de plataforma reportante a que se refere o número anterior deve comunicar à autoridade competente nacional as informações previstas no artigo 12.º, relativamente ao período sujeito a comunicação, até 31 de janeiro do ano seguinte ao ano civil em que o vendedor tenha sido identificado como vendedor sujeito a comunicação.
 
-5 - Nas situações a que se refere o n.º 3, caso existam vários operadores de plataformas reportantes, qualquer um deles fica dispensado da comunicação de informações se puder comprovar que as mesmas informações foram comunicadas por outro operador de plataforma reportante noutro Estado-Membro.
+5 - Nas situações a que se refere o n.º 3, caso existam vários operadores de plataformas reportantes, qualquer um deles fica dispensado da comunicação de informações se puder comprovar que as mesmas informações foram comunicadas por outro operador de plataforma reportante noutro Estado-Membro ou noutra jurisdição qualificada não pertencente à União Europeia.
 
 6 - Caso Portugal seja o Estado-Membro de registo, nos termos do disposto no n.º 1 do artigo 16.º, o operador de plataforma reportante, definido em conformidade com a subalínea ii) da alínea d) do n.º 1 do artigo 4.º-J do presente decreto-lei, deve comunicar à autoridade competente nacional as informações previstas no artigo 12.º, relativamente ao período sujeito a comunicação, até 31 de janeiro do ano seguinte ao ano civil em que o vendedor tenha sido identificado como vendedor sujeito a comunicação.
 
@@ -198,10 +198,6 @@ g) Quaisquer taxas, comissões ou impostos retidos ou cobrados pelo operador de 
 
 h) O número de dias de arrendamento de cada propriedade anunciada durante o período sujeito a comunicação e o tipo de cada propriedade anunciada, quando estas informações estejam disponíveis.
 
-4 - Não obstante o disposto na alínea a) do n.º 2 e na alínea a) do n.º 3, o operador de plataforma reportante não é obrigado a comunicar os elementos de informação que devem ser recolhidos nos termos do artigo 3.º quando comunique as informações a uma autoridade competente que utilize um serviço de identificação e se baseie numa confirmação direta da identidade e da residência do vendedor com recurso a um serviço de identificação disponibilizado por um Estado-Membro ou pela União Europeia para determinar a identidade e todas as residências fiscais do vendedor.
-
-5 - Caso o operador de plataforma reportante tenha recorrido a um serviço de identificação para determinar a identidade e todas as residências fiscais de um vendedor sujeito a comunicação, deve comunicar o nome, os identificadores do serviço de identificação e os Estados-Membros de emissão.
-
 CAPÍTULO III
 
 Cumprimento das obrigações em matéria de diligência devida e de comunicação de informações
@@ -250,7 +246,7 @@ f) Os Estados-Membros em que os vendedores sujeitos a comunicação sejam reside
 
 4 - Nas situações a que se refere o n.º 2, a Autoridade Tributária e Aduaneira deve atribuir ao operador de plataforma reportante um número de identificação individual, o qual deve notificar, por via eletrónica, às autoridades competentes de todos os outros Estados-Membros.
 
-5 - Nas situações a que se refere o n.º 2, a Autoridade Tributária e Aduaneira deve proceder à eliminação de um operador de plataforma do registo central nos seguintes casos:
+5 - Nas situações a que se refere o n.º 2, a Autoridade Tributária e Aduaneira deve solicitar à Comissão Europeia a eliminação do operador de plataforma do registo central quando:
 
 a) O operador de plataforma comunique à Autoridade Tributária e Aduaneira que já não exerce qualquer atividade enquanto operador de plataforma;
 

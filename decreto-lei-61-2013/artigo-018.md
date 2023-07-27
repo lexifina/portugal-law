@@ -2,13 +2,13 @@
 
 ### Formulários normalizados e informatizados
 
-1 - Os pedidos de informações e de diligências administrativas apresentados ao abrigo do artigo 5.º, bem como as respetivas respostas, os avisos de receção, os pedidos de informações complementares de carácter geral e as declarações de impossibilidade ou de recusa são, na medida do possível, transmitidos através de um formulário normalizado, adotado pela Comissão Europeia em conformidade com o procedimento previsto no n.º 2 do artigo 26.º da Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011.
+1 - Os pedidos de informações e de diligências administrativas apresentados ao abrigo do artigo 5.º, bem como as respetivas respostas, avisos de receção, pedidos de informações complementares de carácter geral e declarações de impossibilidade ou de recusa, devem, na medida do possível, ser transmitidos através de um formulário normalizado, adotado pela Comissão Europeia em conformidade com o procedimento previsto no artigo 5.º do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão.
 
 2 - Os formulários normalizados podem ser acompanhados de relatórios, declarações e quaisquer outros documentos, cópias autenticadas ou extratos dos mesmos.
 
-3 - A troca espontânea de informações e respetivo aviso de receção ao abrigo do artigo 7.º, os pedidos de notificação administrativa ao abrigo do artigo 10.º, bem como o retorno de informação ao abrigo do artigo 11.º, são transmitidos através do formulário normalizado adotado pela Comissão Europeia em conformidade com o procedimento previsto no n.º 2 do artigo 26.º da Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011.
+3 - As informações espontâneas e respetivos avisos de receção ao abrigo do artigo 7.º, os pedidos de notificação administrativa ao abrigo do artigo 10.º, o retorno de informação ao abrigo do artigo 11.º, bem como as comunicações ao abrigo dos n.os 5 a 11 do artigo 12.º e do n.º 2 do artigo 15.º, devem ser transmitidos através dos formulários normalizados adotados pela Comissão Europeia em conformidade com o procedimento previsto no artigo 5.º do Regulamento (UE) n.º 182/2011.
 
-4 - A troca automática de informações ao abrigo do artigo 6.º é efetuada utilizando os formatos eletrónicos normalizados concebidos e adotados em conformidade com o procedimento previsto no n.º 2 do artigo 26.º da Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011, e com os regulamentos de execução da Comissão Europeia que fixam as normas de execução de certas disposições da Diretiva n.º 2011/16/UE, do Conselho, de 15 de fevereiro de 2011, relativa à cooperação administrativa no domínio da fiscalidade.
+4 - A troca obrigatória e automática de informações ao abrigo do artigo 6.º deve ser efetuada utilizando um formato eletrónico normalizado, concebido para a facilitar, adotado pela Comissão Europeia em conformidade com o procedimento previsto no artigo 5.º do Regulamento (UE) n.º 182/2011.
 
 5 - São definidos em portaria do membro do Governo responsável pela área das finanças:
 

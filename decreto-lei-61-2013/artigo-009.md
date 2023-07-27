@@ -12,6 +12,6 @@ b) Comunica às autoridades competentes de outros Estados-Membros interessados q
 
 c) Indica o prazo dentro do qual esses controlos devem ser efetuados.
 
-3 - A autoridade competente nacional decide, caso a caso, se deseja participar em controlos simultâneos devendo, para o efeito, quando receber uma proposta de controlo simultâneo, confirmar à autoridade homóloga a sua aceitação ou comunicar-lhe a sua recusa, devidamente justificada.
+3 - A autoridade competente nacional decide, caso a caso, se deseja participar em controlos simultâneos devendo, para o efeito, quando receber uma proposta, confirmar à autoridade homóloga a sua aceitação ou comunicar-lhe a sua recusa, devidamente justificada, no prazo de 60 dias.
 
 4 - A autoridade competente nacional deve designar um representante responsável pela direção e coordenação da operação de controlo.

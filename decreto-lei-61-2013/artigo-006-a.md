@@ -20,7 +20,7 @@ b) Abrangidas pela troca espontânea de informações nos termos previstos no ar
 
 a) Nas situações a que se refere a alínea a) do n.º 1, até 1 de janeiro de 2018;
 
-b) Nas situações a que se refere a alínea b) do n.º 1, no prazo de três meses a contar do fim do semestre do ano civil durante o qual as decisões fiscais prévias transfronteiriças ou os acordos prévios sobre preços de transferência tenham sido emitidos, alterados ou renovados.
+b) Nas situações a que se refere a alínea b) do n.º 1, imediatamente após a emissão, alteração ou renovação das decisões fiscais prévias transfronteiriças ou dos acordos prévios sobre preços de transferência e, o mais tardar, no prazo de três meses a contar do fim do semestre do ano civil durante o qual as decisões fiscais prévias transfronteiriças ou os acordos prévios sobre preços de transferência tenham sido emitidos, alterados ou renovados.
 
 5 - As informações a comunicar pelas autoridades competentes no âmbito da troca obrigatória e automática de informações a que se refere o n.º 10 do artigo anterior são registadas no diretório central seguro a nível dos Estados-Membros que é desenvolvido e implementado, com o apoio técnico e logístico da Comissão Europeia, até 31 de dezembro de 2017.
 

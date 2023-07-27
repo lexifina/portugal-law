@@ -22,8 +22,6 @@ h) 'Identificador da conta financeira', número ou referência de identificaçã
 
 i) 'Bem', um bem corpóreo.
 
-j) ‘Serviço de identificação’, um processo eletrónico disponibilizado gratuitamente por um Estado-Membro ou pela União Europeia a um operador de plataforma reportante para efeitos de determinação da identidade e da residência fiscal de um vendedor.
-
 2 - Para efeitos da troca obrigatória e automática de informações comunicadas pelos operadores de plataformas reportantes entende-se, ainda, que uma entidade é relacionada com outra entidade se qualquer uma delas exercer o controlo sobre a outra, ou se ambas estiverem sob controlo comum, sendo que o conceito de 'controlo' inclui uma participação direta ou indireta superior a 50 % dos direitos de voto e do valor de uma entidade.
 
 3 - Para efeitos do disposto no número anterior, em caso de participação indireta, o cumprimento do requisito relativo a uma participação superior a 50 % do capital de uma entidade deve ser determinado multiplicando-se as percentagens de participação nos sucessivos níveis, devendo ainda considerar-se que uma pessoa que detenha mais de 50 % dos direitos de voto detém 100 % desses direitos.

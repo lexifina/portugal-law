@@ -2,11 +2,11 @@
 
 ### Troca obrigatória e automática de informações
 
-1 - A autoridade competente nacional comunica às autoridades competentes de outros Estados-Membros, mediante troca automática, as informações disponíveis relativas a residentes nesses outros Estados, no que se refere aos seguintes tipos de rendimentos e de elementos patrimoniais tal como são definidos pela legislação nacional aplicável:
+1 - A autoridade competente nacional deve comunicar à autoridade competente de qualquer outro Estado-Membro, mediante troca obrigatória e automática de informações, todas as informações disponíveis relativas a residentes nesse outro Estado-Membro, no que se refere aos seguintes tipos de rendimentos e de elementos patrimoniais tal como definidos pela legislação nacional aplicável:
 
 a) Rendimentos do trabalho;
 
-b) Remunerações dos membros de órgãos de gestão/administração;
+b) Remunerações dos membros de órgãos de gestão ou administração;
 
 c) Produtos de seguro de vida não abrangidos por outros instrumentos jurídicos da União Europeia em matéria de troca de informações e outras medidas análogas;
 
@@ -14,7 +14,9 @@ d) Pensões;
 
 e) Propriedade e rendimento de bens imóveis.
 
-2 - Consideram-se informações disponíveis, para efeitos da troca obrigatória e automática prevista no presente decreto-lei, as informações constantes dos registos e bases de dados que podem ser obtidas pelos procedimentos de recolha e tratamento de informações da Autoridade Tributária e Aduaneira.
+f) Rendimentos provenientes de propriedade intelectual ou industrial ou da prestação de informações respeitantes a uma experiência adquirida no setor industrial, comercial ou científico.
+
+2 - Consideram-se informações disponíveis, para efeitos da troca obrigatória e automática de informações prevista no número anterior, as informações constantes dos registos e bases de dados que podem ser obtidas pelos procedimentos de recolha e tratamento de informações da Autoridade Tributária e Aduaneira.
 
 3 - A autoridade competente nacional envia igualmente às autoridades competentes de outros Estados-Membros, mediante troca automática, as informações comunicadas pelas instituições financeiras sujeitas ao cumprimento das regras previstas no capítulo II e no anexo ao presente decreto-lei, referentes aos seguintes elementos de contas financeiras, por si mantidas, que sejam qualificadas como sujeitas a comunicação:
 
@@ -64,7 +66,7 @@ b) Para as informações comunicadas pelas instituições financeiras a que se r
 
 a) A identificação da pessoa, que não seja uma pessoa singular, e, sendo o caso, do grupo de pessoas a que pertence;
 
-b) Um resumo do teor da decisão fiscal prévia transfronteiriça ou do acordo prévio sobre preços de transferência, incluindo uma descrição, apresentada em termos abstratos, das principais atividades ou operações ou série de operações, que não conduza à divulgação de um segredo comercial, industrial ou profissional ou de um processo comercial, ou de uma informação cuja divulgação seja contrária à ordem pública;
+b) Um resumo da decisão fiscal prévia transfronteiriça ou do acordo prévio sobre preços de transferência, o qual deve incluir uma descrição das atividades, operações ou séries de operações relevantes, bem como outras informações que possam ajudar a autoridade competente a avaliar um risco fiscal potencial, mas que não conduza à divulgação de um segredo comercial, industrial ou profissional, de um processo comercial ou de informações cuja divulgação seja contrária à ordem pública;
 
 c) As datas de emissão, alteração ou renovação da decisão fiscal prévia transfronteiriça ou do acordo prévio sobre preços de transferência;
 
@@ -97,3 +99,45 @@ l) Uma menção que indique quais as informações comunicadas que se baseiam na
 17 - Quando a autoridade competente nacional recebe a declaração por país, nos termos do número anterior, transmite-a, mediante troca automática, no prazo fixado nos n.os 4 e 5 do artigo 20.º, a qualquer outro Estado-Membro em que, com base nas informações constantes da declaração por país, uma ou mais entidades constituintes do grupo de empresas multinacionais da entidade declarante sejam residentes para efeitos fiscais ou estejam sujeitas a imposto relativamente à atividade exercida através de um estabelecimento estável.
 
 18 - A Autoridade Tributária e Aduaneira deve informar os restantes Estados-Membros da União Europeia da recusa de prestação de informações necessárias por parte da entidade-mãe final.
+
+19 - Na comunicação das informações referidas no n.º 1 relativas aos períodos de tributação que se iniciem em ou após 1 de janeiro de 2024, a Autoridade Tributária e Aduaneira deve procurar incluir o número de identificação fiscal (NIF) de residentes emitido pelo Estado-Membro de residência.
+
+20 - A Autoridade Tributária e Aduaneira deve informar anualmente a Comissão Europeia sobre, pelo menos, dois dos tipos de rendimentos e de elementos patrimoniais referidos no n.º 1, relativamente aos quais comunica informações referentes aos residentes de outros Estados-Membros.
+
+21 - A Autoridade Tributária e Aduaneira deve informar a Comissão Europeia, até 1 de janeiro de 2024, sobre, pelo menos, quatro dos tipos de rendimentos e de elementos patrimoniais referidos no n.º 1, relativamente aos quais comunica às autoridades competentes de outros Estados-Membros, mediante troca obrigatória e automática de informações, informações relativas aos residentes nesses Estados-Membros que respeitem a períodos de tributação que se iniciem em ou após 1 de janeiro de 2025.
+
+22 - A autoridade competente nacional deve também enviar, mediante troca obrigatória e automática de informações, no prazo estabelecido no n.º 6 do artigo 20.º, às autoridades competentes dos Estados-Membros nos quais os vendedores sujeitos a comunicação sejam residentes, nos termos estabelecidos no artigo 5.º do anexo ii ao presente decreto-lei e do qual faz parte integrante, e, caso os vendedores sujeitos a comunicação prestem serviços de arrendamento de bens imóveis, às autoridades competentes dos Estados-Membros em que se situem os bens imóveis, as informações que lhe sejam comunicadas pelos operadores de plataformas, em conformidade com os procedimentos de diligência devida e com as obrigações de comunicação constantes, respetivamente, dos capítulos i e ii do anexo ii ao presente decreto-lei.
+
+23 - As informações sujeitas a comunicação nos termos do número anterior, relativas a cada vendedor sujeito a comunicação, incluem:
+
+a) O nome, o endereço da sede social, o NIF e, se for caso disso, o número de identificação individual do operador de plataforma reportante, atribuído pela Autoridade Tributária e Aduaneira nos termos do n.º 3 do artigo 6.º-C ou pela autoridade competente de outro Estado-Membro, nos termos de disposição similar, bem como a denominação comercial da ou das plataformas relativamente às quais o operador de plataforma reportante efetue uma comunicação;
+
+b) O nome próprio e o apelido do vendedor sujeito a comunicação que seja pessoa singular e a denominação social do vendedor sujeito a comunicação que seja uma entidade;
+
+c) O endereço principal;
+
+d) Qualquer NIF do vendedor sujeito a comunicação, indicando o respetivo Estado-Membro de emissão, ou, na ausência de NIF, o local de nascimento do vendedor sujeito a comunicação que seja pessoa singular;
+
+e) O número de registo comercial do vendedor sujeito a comunicação que seja uma entidade;
+
+f) O número de identificação IVA do vendedor sujeito a comunicação, se disponível;
+
+g) A data de nascimento do vendedor sujeito a comunicação que seja pessoa singular;
+
+h) O identificador da conta financeira na qual seja paga ou creditada a contrapartida, na medida em que esteja à disposição do operador de plataforma reportante, salvo quando a autoridade competente do Estado-Membro em que o vendedor sujeito a comunicação seja residente, nos termos do disposto no artigo 5.º do anexo ii ao presente decreto-lei, tenha notificado a autoridade competente nacional de que não pretende usar o identificador da conta financeira para este efeito;
+
+i) Caso seja diferente do nome do vendedor sujeito a comunicação, o nome do titular da conta financeira na qual a contrapartida seja paga ou creditada, na medida em que esteja à disposição do operador de plataforma reportante, bem como qualquer outra informação de identificação financeira relativa a esse titular de conta, além do identificador da conta financeira, à disposição do operador de plataforma reportante;
+
+j) Cada Estado-Membro em que o vendedor sujeito a comunicação seja residente, nos termos estabelecidos no artigo 5.º do anexo ii ao presente decreto-lei;
+
+k) O montante total da contrapartida paga ou creditada em cada trimestre do período sujeito a comunicação e o número de atividades relevantes em relação às quais a contrapartida tenha sido paga ou creditada;
+
+l) Quaisquer taxas, comissões ou impostos retidos ou cobrados pelo operador de plataforma reportante em cada trimestre do período sujeito a comunicação.
+
+24 - Sem prejuízo do disposto no número anterior, sempre que o vendedor sujeito a comunicação preste serviços de arrendamento de bens imóveis, devem ainda ser comunicadas, nos termos do n.º 22, as seguintes informações adicionais:
+
+a) O endereço de cada propriedade anunciada, determinado com base nos procedimentos estabelecidos no artigo 6.º do anexo ii ao presente decreto-lei e, se disponível, o respetivo artigo matricial ou equivalente em conformidade com o direito nacional do Estado-Membro em que esteja situada;
+
+b) O montante total da contrapartida paga ou creditada em cada trimestre do período sujeito a comunicação e o número de atividades relevantes realizadas relativamente a cada propriedade anunciada;
+
+c) O número de dias de arrendamento de cada propriedade anunciada durante o período sujeito a comunicação e o tipo de cada propriedade anunciada, quando estas informações estejam disponíveis.
