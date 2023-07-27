@@ -14,7 +14,7 @@ a) Períodos de uma hora, tratando-se de educadores de infância e de professore
 
 b) Períodos de quarenta e cinco minutos, tratando-se de docentes dos 2.º e 3.º ciclos do ensino básico e do ensino secundário.
 
-3 - É considerado um dia de falta a ausência a um número de horas igual ao quociente da divisão por cinco do número de horas de serviço docente que deva ser obrigatoriamente registado no horário semanal do docente.
+3 - É considerado um dia de falta a ausência a um número de horas igual ao quociente da divisão por cinco do número de horas de componente letiva semanal do docente, arredondado por excesso.
 
 4 - É ainda considerada falta a um dia:
 
