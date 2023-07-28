@@ -2,7 +2,7 @@
 
 ### Regulamentação
 
-1 - As matérias previstas no n.º 3 do artigo 6.º, nas alíneas a) a c) do n.º 2 e no n.º 5 do artigo 7.º, nos n.os 2 e 3 do artigo 10.º, no n.º 5 do artigo 12.º e no artigo 15.º são objeto de regulamentação por portaria dos membros do Governo responsáveis pelas áreas das finanças, da juventude e da habitação.
+1 - As matérias previstas no n.º 3 do artigo 6.º, nas alíneas a) a c) do n.º 2, no n.º 3 e no n.º 6 do artigo 7.º, no n.º 3 do artigo 10.º, no n.º 5 do artigo 12.º e no artigo 15.º são objeto de regulamentação por portaria dos membros do Governo responsáveis pelas áreas das finanças, da juventude e da habitação.
 
 2 - (Revogado.)
 
