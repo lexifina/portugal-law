@@ -1,0 +1,18 @@
+# Resolução do Conselho do Governo Regional n.º 818/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 142/2023, suplemento, de 2023-07-31
+
+**Sumário:** Autoriza a venda, por ajuste direto, do prédio rústico localizado ao sítio da Pontinha, freguesia e município de Machico, inscrito na matriz cadastral respetiva sob o artigo 101 secção “BZ” e descrito na Conservatória do Registo Predial de Machico com o número 9433/20230328, bem como autoriza a celebração do respetivo contrato de compra e venda, pelo valor de 6.434,00 EUR.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 818/2023
+Sumário: Autoriza a venda, por ajuste direto, do prédio rústico localizado ao sítio da Pontinha, freguesia e município de Machico, inscrito na matriz cadastral respetiva sob o artigo 101 secção “BZ” e descrito na Conservatória do Registo Predial de Machico com o número 9433/20230328, bem como autoriza a celebração do respetivo contrato de compra e venda, pelo valor de 6.434,00 EUR.
+Texto: Resolução n.º 818/2023 Considerando que a Região Autónoma da Madeira é dona e legítima possuidora e detentora, em propriedade plena e perfeita, do prédio rústico, localizado ao sítio da Pontinha, freguesia e município de Machico; Considerando que o imóvel em referência reveste um caráter excedentário e já não se revela necessário à prossecução de fins de interesse público; Considerando que o Programa do XIII Governo Regional da Madeira preconiza uma política de preservação e rentabilização do património público; Considerando que se impõe a necessidade de implementar medidas de eficiência e racionalização do património imobiliário da Região Autónoma da Madeira; Considerando que o valor da aquisição do imóvel foi fixado em 6.434,00 EUR (seis mil e quatrocentos e trinta e quatro euros), no âmbito da avaliação promovida pela Direção Regional do Património, tendo o valor apurado sido homologado pela Sua Excelência o Senhor Secretário Regional das Finanças, em cumprimento do disposto nos n.ºs 1 e 4 do artigo 84.º do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo DLR n.º 24/2017/M de 3 de agosto. Considerando que, atendendo ao valor do imóvel, é permitida a alienação, por ajuste direto, nos termos do preceituado na alínea a) do n.º 4 do artigo 57.º do supracitado diploma; Considerando que está assim plenamente salvaguardado o interesse público. O Conselho do Governo reunido em plenário em 27 de julho de 2023, resolve:
+1. Autorizar a venda, por ajuste direto, nos termos do preceituado no n.º 1 do artigo 55.º conjugado com a alínea a), do n.º 4 do artigo 57.º do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo DLR n.º 24/2017/M de 3 de agosto, do prédio rústico localizado ao sítio da Pontinha, freguesia e município de Machico, inscrito na matriz cadastral respetiva sob o artigo 101 secção “BZ” e descrito na Conservatória do Registo Predial de Machico com o número 9433/20230328.
+2. Autorizar a celebração, com o Senhor João Manuel Fernandes Rodrigues de Pão, do respetivo contrato de compra e venda, pelo valor de 6.434,00 EUR (seis mil e quatrocentos e trinta e quatro euros).
+3. Aprovar a minuta do contrato de compra e venda, a qual faz parte integrante desta resolução e fica arquivada na Secretaria-Geral da Presidência
+4. Mandatar o Sua Excelência o Senhor Secretário Regional das Finanças para, em representação da Região Autónoma da Madeira, outorgar o respetivo contrato.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
