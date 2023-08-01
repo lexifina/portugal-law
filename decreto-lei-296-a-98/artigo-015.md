@@ -2,4 +2,4 @@
 
 ### Apoio logístico
 
-O Ministério da Educação afecta à CNAES os meios humanos e materiais necessários ao desempenho das suas funções.
+A DGES afeta à CNAES os meios humanos e materiais necessários ao desempenho das suas funções.

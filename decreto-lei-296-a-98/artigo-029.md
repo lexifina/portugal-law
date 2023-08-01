@@ -2,4 +2,6 @@
 
 ### Candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo
 
-A candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo é feita através de concursos institucionais organizados por cada estabelecimento de ensino.
+Candidatura aos cursos ministrados em estabelecimentos de ensino superior privados
+
+A candidatura aos cursos ministrados em estabelecimentos de ensino superior privados é feita através de concursos institucionais organizados por cada estabelecimento de ensino.
