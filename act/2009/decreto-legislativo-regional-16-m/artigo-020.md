@@ -4,16 +4,20 @@
 
 Integram o CCOR:
 
-a) O presidente do SRPC, IP-RAM, ou um representante por si designado, que assegurará a coordenação;
+a) O comandante operacional regional do SRPC, IP-RAM, que assegurará a coordenação;
 
-b) Os membros efectivos do conselho consultivo do SRPC, IP-RAM ou os seus representantes, que serão convocados de acordo com as necessidades da operação em causa;
+b) (Revogada.)
 
-c) Um representante da Assembleia Legislativa da Região Autónoma da Madeira;
+c) (Revogada.)
 
-d) Um representante da Vice-Presidência e de cada uma das secretarias regionais do Governo Regional;
+d) (Revogada.)
 
-e) Um representante das Forças Armadas;
+g) Um representante do Serviço de Emergência Médica Regional do SRPC, IP-RAM;
 
-f) Um representante das forças de segurança;
+h) Um representante do Instituto Português do Mar e da Atmosfera, I. P.;
 
-g) Representantes das entidades que sejam necessárias à coordenação das operações em causa.
+i) Um representante do Instituto das Florestas e Conservação da Natureza, IP-RAM;
+
+j) Um representante da Direção Regional de Estradas;
+
+k) Representantes das entidades que sejam necessárias à coordenação das operações em causa.

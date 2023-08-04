@@ -4,8 +4,10 @@
 
 # Artigo 35.º
 
-### Articulação com o serviço de busca e salvamento marítimo
+### Articulação com os serviços de busca e salvamento marítimo e aéreo
 
-1 - As autarquias e as entidades integrantes do SIOPS-RAM devem informar, de forma célere, o CROS de qualquer acidente grave ou catástrofe iminente ou ocorrido na orla marítima da Madeira.
+1 - As entidades integrantes do SIOPS-RAM informam prontamente o CROS e os serviços de busca e salvamento marítimo e aéreo sobre a ocorrência de qualquer acidente marítimo com navios ou embarcações ou qualquer acidente com aeronaves de que tenham conhecimento.
 
-2 - O CROS coordena as acções de todas as entidades necessárias à intervenção, neste âmbito, de acordo com o que for definido pelo SRPC, IP-RAM e em articulação com as entidades competentes, nos termos da lei, sem prejuízo do disposto nos Decretos-Leis n.os 15/94, de 22 de Janeiro, e 44/2002, de 2 de Março.
+2 - Os serviços de busca e salvamento marítimo e aéreo coordenam os meios humanos e materiais necessários às operações de busca e salvamento, nos termos das respetivas competências, articulando com o CROS a eventual mobilização dos meios de reforço considerados adequados à gestão das ocorrências.
+
+3 - O CROS coordena o apoio das entidades necessárias à intervenção, em articulação permanente com o Subcentro de Busca e Salvamento Marítimo do Funchal (MRSC Funchal) e com o Centro de Coordenação de Busca e Salvamento Aéreo de Lisboa, bem como com o capitão do porto, como autoridade marítima local, conforme estabelecido no Decreto-Lei n.º 235/2000, de 26 de setembro, no Decreto-Lei n.º 44/2002, de 2 de março, na sua redação atual e no Decreto-Lei n.º 64/2005, de 15 de março.

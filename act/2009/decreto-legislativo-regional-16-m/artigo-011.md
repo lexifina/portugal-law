@@ -12,14 +12,24 @@ b) Apreciar as bases gerais da organização e do funcionamento dos organismos e
 
 c) Apreciar os acordos ou convenções sobre cooperação internacional, nomeadamente no espaço geográfico da Macaronésia, em matéria de protecção civil;
 
-d) Apreciar os planos de emergência de âmbito regional;
+d) Acompanhar as políticas diretamente ligadas ao sistema de proteção civil que sejam desenvolvidas por agentes públicos;
 
-e) Adoptar mecanismos de colaboração institucional entre todos os organismos e serviços com responsabilidades no domínio da protecção civil, bem como formas de coordenação técnica e operacional da actividade por aqueles desenvolvida, no âmbito específico das respectivas atribuições estatutárias;
+e) Acionar a elaboração, acompanhar a execução e emitir parecer prévio aos planos de emergência de âmbito regional;
 
-f) Proceder ao reconhecimento dos critérios e normas técnicas sobre a organização do inventário de recursos e meios, públicos e privados, mobilizáveis ao nível local e regional, em caso de acidente grave ou catástrofe;
+f) Promover a realização de exercícios, simulacros ou treinos operacionais, de âmbito regional, que contribuam para a eficácia de todos os serviços intervenientes em ações de proteção civil;
 
-g) Definir as prioridades e objectivos a estabelecer com vista ao escalonamento de esforços dos organismos e estruturas com responsabilidades no domínio da protecção civil, relativamente à sua preparação e participação em tarefas comuns de protecção civil;
+g) Determinar a constituição de subcomissões, que tenham como objeto o acompanhamento de matérias específicas;
 
-h) Aprovar e acompanhar as iniciativas públicas tendentes à divulgação das finalidades da protecção civil e à sensibilização dos cidadãos para a autoprotecção e para a colaboração a prestar aos organismos e agentes que exercem aquela actividade.
+h) Avaliar a situação, após a declaração da situação de alerta, para a totalidade do território da Região Autónoma da Madeira ou com o âmbito circunscrito a uma parcela desse território, tendo em vista o acionamento de planos de emergência de âmbito regional;
+
+i) Propor o acionamento dos planos de emergência de proteção civil de âmbito regional quando tal se justifique;
+
+j) Desencadear as ações previstas nos planos de emergência de proteção civil de âmbito regional e assegurar a conduta das operações de proteção civil deles decorrentes;
+
+k) Possibilitar a mobilização rápida e eficiente das organizações e pessoal indispensáveis e dos meios disponíveis que permitam a conduta coordenada das ações a executar;
+
+l) Avaliar a situação e propor ao Governo Regional que formule pedidos de auxílio externo através dos órgãos competentes;
+
+m) Difundir os comunicados oficiais que se mostrem adequados às situações previstas no presente diploma.
 
 3 - A Comissão assiste o Presidente do Governo e o Governo no exercício das suas competências em matéria de protecção civil.

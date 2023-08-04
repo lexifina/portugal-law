@@ -1,11 +1,3 @@
-## Capítulo V
-
-## Sistema Integrado de Operações de Protecção e Socorro da Região Autónoma da Madeira
-
-## Secção I
-
-## Coordenação institucional
-
 # Artigo 19.º
 
 ### Centro de Coordenação Operacional Regional

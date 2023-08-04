@@ -6,22 +6,24 @@
 
 a) O secretário regional que tutela a área da protecção civil, que preside;
 
-b) Um delegado do Vice-Presidente do Governo Regional e um delegado de cada secretário regional;
+b) Um representante de cada uma das secretarias regionais;
 
 c) O presidente do SRPC, IP-RAM;
 
-d) O inspector regional de Bombeiros;
+d) (Revogada.)
 
 e) Os responsáveis máximos pelas Forças Armadas, forças e serviços de segurança existentes na Região ou seus representantes;
 
-f) O coordenador do Serviço de Emergência Médica Regional;
+f) (Revogada.)
 
 g) Um representante da Associação de Municípios da RAM;
 
 h) Um representante da Federação Regional dos Bombeiros;
 
-i) Um representante da Direcção Regional de Florestas;
+i) Um representante do Instituto das Florestas e Conservação da Natureza, IP-RAM;
 
-j) Representantes de outras entidades e serviços, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características da RAM, contribuir para as acções de protecção civil.
+j) Um representante da Delegação Regional da Associação Nacional de Freguesias;
+
+k) Representantes de outras entidades e serviços, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características da RAM, contribuir para as acções de protecção civil.
 
 2 - A CRPC é convocada pelo secretário regional que tutela a área da protecção civil na Região ou, na sua ausência ou impedimento, por quem for por ele designado.

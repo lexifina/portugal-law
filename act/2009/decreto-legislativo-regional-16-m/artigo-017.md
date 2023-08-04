@@ -36,8 +36,14 @@ d) Instituições de segurança social;
 
 e) Instituições com fins de socorro e de solidariedade;
 
-f) Organismos responsáveis pela conservação da natureza, indústria e energia, transportes, comunicações, recursos hídricos e ambiente;
+f) Instituições imprescindíveis às operações de proteção e socorro, emergência e assistência, designadamente dos setores das florestas, conservação da natureza, animais, indústria e parques empresariais, energia, transportes, aeroportos, portos e vias de comunicação terrestres, comunicações, comunicação social, recursos hídricos e ambiente, mar e atmosfera;
 
 g) Serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e aeroportos.
 
-5 - Os agentes e as instituições referidos no presente artigo, sem prejuízo das suas estruturas de direcção, comando e chefia, articulam-se operacionalmente nos termos do capítulo seguinte.
+h) Organizações de voluntariado de proteção civil.
+
+5 - As organizações indicadas na alínea h) do número anterior são pessoas coletivas de direito privado, de base voluntária, sem fins lucrativos, legalmente constituídas, cujos fins estatutários visem, exclusivamente, o desenvolvimento de atividades no domínio da proteção civil.
+
+6 - O âmbito, o modo de reconhecimento e as formas de cooperação em atividades de proteção civil das organizações indicadas no número anterior são fixadas por portaria do secretário regional que tutela a área da proteção civil.
+
+7 - As entidades referidas nas alíneas a) a g) do n.º 4 articulam-se operacionalmente nos termos do artigo 18.º do presente diploma.

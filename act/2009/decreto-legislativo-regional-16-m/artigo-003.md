@@ -19,3 +19,5 @@ c) Declarar a situação de calamidade;
 d) Adoptar, no caso previsto na alínea anterior, as medidas de carácter excepcional destinadas a repor a normalidade das condições de vida nas zonas atingidas;
 
 e) Deliberar sobre a afectação extraordinária dos meios financeiros indispensáveis à aplicação das medidas previstas na alínea anterior.
+
+f) Ativar, após a declaração da situação de alerta, para a totalidade do território da Região Autónoma da Madeira ou com o âmbito circunscrito a uma parcela desse território e desativar planos de emergência de proteção civil de âmbito regional.
