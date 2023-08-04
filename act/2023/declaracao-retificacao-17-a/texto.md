@@ -1,0 +1,204 @@
+Declaração de Retificação n.º 17-A/2023
+Sumário: Retifica o Decreto Regulamentar n.º 2/2023, de 6 de junho, que aprova a estrutura orgânica do Estado-Maior-General das Forças Armadas e altera as estruturas orgânicas da Marinha, do Exército e da Força Aérea.
+Nos termos das disposições da alínea f) do n.º 1 do artigo 5.º do Decreto-Lei n.º 20/2021, de 15 de março, conjugadas com o disposto no n.º 1 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 16/2022, de 30 de dezembro, e artigo 5.º da Lei n.º 74/98, de 11 de novembro, alterada e republicada pela Lei n.º 43/2014, de 11 de julho, declara-se que o Decreto Regulamentar n.º 2/2023, de 6 de junho, publicado no Diário da República, 1.ª série, n.º 109, de 6 de junho de 2023, saiu com inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+1 - No artigo 2.º (Chefe do Estado-Maior-General das Forças Armadas), onde se lê:
+«O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) é o principal conselheiro militar da Ministra da Defesa Nacional é o chefe de mais elevada autoridade na hierarquia das Forças Armadas, sendo a sua competência estabelecida na lei.»
+deve ler-se:
+«O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) é o principal conselheiro militar do membro do Governo responsável pela área da defesa nacional é o chefe de mais elevada autoridade na hierarquia das Forças Armadas, sendo a sua competência estabelecida na lei.»
+2 - No artigo 4.º (Missão e atribuições), na alínea j) do n.º 2, onde se lê:
+«j) Apoiar a elaboração, sob a diretiva de planeamento da Ministra da Defesa Nacional, dos anteprojetos das propostas da Lei de Programação Militar (LPM) e da Lei das Infraestruturas Militares (LIM), coordenando os respetivos processos com os ramos, e acompanhar a execução das referidas leis no respeitante ao EMGFA, assegurando o reporte da sua execução material e financeira;»
+deve ler-se:
+«j) Apoiar a elaboração, sob a diretiva de planeamento do membro do Governo responsável pela área da defesa nacional, dos anteprojetos das propostas da Lei de Programação Militar (LPM) e da Lei das Infraestruturas Militares (LIM), coordenando os respetivos processos com os ramos, e acompanhar a execução das referidas leis no respeitante ao EMGFA, assegurando o reporte da sua execução material e financeira;»
+3 - No artigo 9.º (Repartição de Planeamento de Defesa Militar), na alínea e), onde se lê:
+«e) Coordenar a elaboração, sob a diretiva de planeamento da Ministra da Defesa Nacional, dos anteprojetos das propostas da LPM e da LIM, a submeter ao CEMGFA, tendo por base a identificação de lacunas do Sistema de Forças, priorizadas de acordo com os critérios definidos superiormente, assegurando a coordenação, quer com os órgãos e serviços do EMGFA, quer com os ramos das Forças Armadas;»
+deve ler-se:
+«e) Coordenar a elaboração, sob a diretiva de planeamento do membro do Governo responsável pela área da defesa nacional, dos anteprojetos das propostas da LPM e da LIM, a submeter ao CEMGFA, tendo por base a identificação de lacunas do Sistema de Forças, priorizadas de acordo com os critérios definidos superiormente, assegurando a coordenação, quer com os órgãos e serviços do EMGFA, quer com os ramos das Forças Armadas;»
+4 - No artigo 83.º (Repartição de Estudos, Planeamento e Qualidade), na alínea g), onde se lê:
+«g) Preparar a implementação das linhas de orientação da saúde militar definidas pelo CEMGFA, em observância das políticas de saúde no âmbito militar aprovadas pela Ministra da Defesa Nacional;»
+deve ler-se:
+«g) Preparar a implementação das linhas de orientação da saúde militar definidas pelo CEMGFA, em observância das políticas de saúde no âmbito militar aprovadas pelo membro do Governo responsável pela área da defesa nacional;»
+5 - No anexo i (a que se refere o n.º 1 do artigo 110.º), no n.º 2 do artigo 12.º, onde se lê:
+«2 - O CGI e o Gabinete de Heráldica Naval encontram-se na dependência do SCEMA.»
+deve ler-se:
+«2 - O GCI e o Gabinete de Heráldica Naval encontram-se na dependência do SCEMA.»
+6 - No artigo 101.º (Alteração ao Decreto Regulamentar n.º 10/2015, de 31 de julho), na alínea d) do artigo 20.º, onde se lê:
+«d) A Superintendência das Tecnologias da Informação (STI).»
+deve ler-se:
+«d) A Superintendência da Informação (SI).»
+7 - No artigo 101.º (alteração ao Decreto Regulamentar n.º 10/2015, de 31 de julho), na alínea l) do n.º 1 do artigo 27.º e na respetiva republicação, onde se lê:
+«l) Efetuar o planeamento logístico em matéria de medicamento e de dispositivos médicos, em coordenação com a DIRSAM, no âmbito da saúde militar;»
+deve ler-se:
+«l) Efetuar o planeamento logístico em matéria de medicamentos e de dispositivos médicos, em coordenação com a DIRSAM, no âmbito da saúde militar;»
+8 - No artigo 101.º (Alteração ao Decreto Regulamentar n.º 10/2015, de 31 de julho), na alínea o) do n.º 1 do artigo 39.º e na respetiva republicação, onde se lê:
+«o) [Anterior alínea m).]»
+deve ler-se:
+«o) Promover e participar em iniciativas de IDEI, na sua área de responsabilidade, em coordenação com os demais órgãos com competências naquele âmbito;»
+9 - No artigo 101.º (Alteração ao Decreto Regulamentar n.º 10/2015, de 31 de julho), na alínea j) do n.º 1 do artigo 43.º e na respetiva republicação, onde se lê:
+«j) [...]»
+deve ler-se:
+«j) Promover e participar nas iniciativas de IDEI, nas áreas técnicas da sua responsabilidade;»
+10 - No artigo 101.º (alteração ao Decreto Regulamentar n.º 10/2015, de 31 de julho), na alínea r) do n.º 1 do artigo 48.º e na respetiva republicação, onde se lê:
+«r) [Anterior alínea q).]»
+deve ler-se:
+«r) Promover e participar em iniciativas de IDEI, na sua área de responsabilidade, em coordenação com os demais órgãos com competências naquele âmbito.»
+11 - No artigo 101.º (alteração ao Decreto Regulamentar n.º 10/2015, de 31 de julho), nas alíneas b) e k) do n.º 1 do artigo 55.º e na respetiva republicação, onde se lê:
+«b) (Revogada.)
+k) [...]»
+deve ler-se:
+«b) Coordenar, no âmbito da Marinha, as atividades e os processos relativos à gestão de projetos e à gestão dos sistemas de informação e apoiar o desenvolvimento dos processos de gestão estratégica;»
+k) Promover e participar em iniciativas de IDEI, na sua área de responsabilidade, em coordenação com os demais órgãos com competências naquele âmbito.»
+12 - No anexo i (a que se refere o n.º 1 do artigo 110.º), na alínea n) do n.º 1 do artigo 58.º, onde se lê:
+«n) [Anterior alínea l).]»
+deve ler-se:
+«n) Apoiar os serviços das áreas dos sistemas e tecnologias de informação e comunicações das UEO, no âmbito das suas competências.»
+13 - No artigo 101.º (Alteração ao Decreto Regulamentar n.º 10/2015, de 31 de julho), na alínea n) do n.º 1 do artigo 63.º e na respetiva republicação, onde se lê:
+«n) [...]»
+deve ler-se:
+«n) Promover e participar em iniciativas de IDEI, na sua área de responsabilidade, em coordenação com os demais órgãos com competências naquele âmbito;»
+14 - No anexo i (a que se refere o n.º 1 do artigo 110.º), no artigo 2.º, onde se lê:
+«Gabinete do Chefe do Estado-Maior da Armada (Gabinete CEMA) é o órgão de apoio direto pessoal ao CEMA e à AMN.»
+deve ler-se:
+«O Gabinete do Chefe do Estado-Maior da Armada (Gabinete do CEMA) é o órgão de apoio direto e pessoal ao CEMA e à AMN.»
+15 - No anexo i (a que se refere o n.º 1 do artigo 110.º), no n.º 1 do artigo 4.º, onde se lê:
+«1 - Ao Gabinete do CEMA compete:
+a) Submeter a despacho e assegurar o subsequente encaminhamento dos assuntos que, através do Gabinete, sejam dirigidos ao CEMA e à AMN, nos termos por si definidos;
+b) Submeter a despacho do CEMA e da AMN assuntos correntes de órgãos na sua direta dependência, nas condições por si definidas;
+c) Assegurar as ligações da Marinha e da AMN com outros órgãos e entidades públicas, militares ou civis, e com entidades privadas, quando aquelas ligações não estejam expressamente cometidas a outros órgãos da Marinha e da AMN;
+d) Assegurar as atividades de comunicação, informação e relações públicas da Marinha e da AMN, quando estas competências não forem delegadas noutra entidade, caso em que apenas coordena o desenvolvimento dessas mesmas entidades;
+e) Assegurar a assessoria jurídica ao CEMA e à AMN, garantindo a representação da Marinha e da AMN nos processos jurisdicionais que tenham por objeto a ação ou a omissão de órgãos da Marinha e da AMN, ou em que a Marinha ou a AMN tenha interesse, mediante a designação de advogado ou licenciado em direito com funções de apoio jurídico;
+f) Assegurar a gestão dos recursos financeiros e patrimoniais necessários ao suporte da atividade do CEMA e da AMN.»
+deve ler-se:
+«1 - Ao Gabinete do CEMA compete:
+a) Submeter a despacho e assegurar o subsequente encaminhamento dos assuntos que, através do Gabinete, sejam dirigidos ao CEMA e à AMN, nos termos por si definidos;
+b) Submeter a despacho do CEMA e da AMN assuntos correntes de órgãos na sua direta dependência, nas condições por si definidas;
+c) Assegurar as ligações da Marinha e da AMN com outros órgãos e entidades públicas, militares ou civis, e com entidades privadas, quando aquelas ligações não estejam expressamente cometidas a outros órgãos da Marinha e da AMN;
+d) Assegurar as atividades de comunicação, informação e relações públicas da Marinha e da AMN, quando estas competências não forem delegadas noutra entidade, caso em que apenas coordena o desenvolvimento dessas mesmas atividades;
+e) Assegurar as atividades protocolares do CEMA e da AMN, sem prejuízo das competências que forem delegadas noutros órgãos da Marinha ou da AMN;
+f) Assegurar a assessoria jurídica ao CEMA e à AMN, garantindo a representação da Marinha e da AMN nos processos jurisdicionais que tenham por objeto a ação ou omissão de órgãos da Marinha e da AMN, ou em que a Marinha ou a AMN tenha interesse, mediante a designação de advogado ou licenciado em direito com funções de apoio jurídico;
+g) Assegurar a gestão dos recursos financeiros e patrimoniais necessários ao suporte da atividade do CEMA e da AMN.»
+16 - No anexo i (a que se refere o n.º 1 do artigo 110.º), no artigo 21.º, onde se lê:
+«A SP tem por missão assegurar as atividades da Marinha no domínio a administração dos recursos humanos, da formação e da saúde, sem prejuízo das competências de outras entidades.»
+deve ler-se:
+«A SP tem por missão assegurar as atividades da Marinha no domínio da administração dos recursos humanos, da formação e da saúde, sem prejuízo das competências de outras entidades.»
+17 - No anexo i (a que se refere o n.º 1 do artigo 110.º), nas alíneas h) e j) do n.º 1 do artigo 42.º e na respetiva republicação, onde se lê:
+«h) Participar na execução das atividades relativas à manutenção, funcionamento e fiscalização de infraestruturas de utilização pela NATO;
+j) Participar na gestão de contratos e de projetos no âmbito da edificação, aquisição e sustentação de novos equipamentos e tecnologias de uso exclusivo em infraestruturas da Marinha;»
+deve ler-se:
+«h) Participar na execução das atividades relativas à manutenção, funcionamento e fiscalização de infraestruturas das UEO da Marinha e de utilização pela NATO;
+j) Participar na gestão de contratos e de projetos no âmbito da edificação, aquisição e sustentação de novos equipamentos e tecnologias de uso exclusivo em infraestruturas das UEO da Marinha;»
+18 - No anexo i (a que se refere o n.º 1 do artigo 110.º), no artigo 52.º e na respetiva republicação, onde se lê:
+«A SI tem por missão assegurar as atividades da Marinha no domínio dos recursos informacionais, sem prejuízo da competência específica de outras entidades.»
+deve ler-se:
+«A SI tem por missão assegurar as atividades da Marinha no domínio da administração dos recursos informacionais, sem prejuízo da competência específica de outras entidades.»
+19 - No anexo i (a que se refere o n.º 1 do artigo 110.º), na epígrafe do artigo 116.º, onde se lê:
+«Centro Integrado de Treino e Avaliação Naval»
+deve ler-se:
+«Centro Integrado de Tática e Análise Naval»
+20 - No anexo i (a que se refere o n.º 1 do artigo 110.º), na republicação do n.º 1 do artigo 116.º, onde se lê:
+«1 - O CITAN é um órgão de base, na direta dependência do Comandante da Flotilha, responsável pela formação técnico-profissional, contínua, do pessoal da Marinha, nas áreas da tática e das operações navais, do aconselhamento da navegação, da fiscalização dos espaços marítimos e da operação e exploração de sistemas de comando e controlo de natureza tática e, nesse âmbito, integra o Sistema de Formação Profissional da Marinha.»
+deve ler-se:
+«1 - O CITAN é um órgão de base, na direta dependência do Comandante da Flotilha, responsável pela formação técnico-profissional, contínua, do pessoal da Marinha, nas áreas da tática e das operações navais, do aconselhamento da navegação, da fiscalização dos espaços marítimos e da operação e exploração de sistemas de comando e controlo de natureza tática e, nesse âmbito, integra o SFPM.»
+21 - No anexo i (a que se refere o n.º 1 do artigo 110.º), na republicação do n.º 8 do artigo 139.º, onde se lê:
+«8 - O Comandante do Corpo de Fuzileiros é coadjuvado e substituído, nas suas ausências, faltas e impedimentos, pelo 2.º Comandante.»
+deve ler-se:
+«8 - O Comandante do Corpo de Fuzileiros é coadjuvado e substituído, nas suas ausências, faltas e impedimentos, pelo 2.º Comandante do Corpo de Fuzileiros.»
+22 - No artigo 104.º (Alteração ao Decreto Regulamentar n.º 11/2015, de 31 de julho), no n.º 3 do artigo 38.º e na respetiva republicação, onde se lê:
+«3 - [...]»
+deve ler-se:
+«3 - O Comandante das Forças Terrestres dispõe de autoridade funcional e técnica ao nível do Exército, no domínio das operações terrestres, informações militares, contrainformação e segurança militar.»
+23 - No anexo ii (a que se refere o n.º 2 do artigo 110.º), na republicação da alínea c) do n.º 2 do artigo 21.º, onde se lê:
+«c) A Direção de Finanças (DFIN).»
+deve ler-se:
+«c) O Departamento de Finanças (DFIN).»
+24 - No anexo ii (a que se refere o n.º 2 do artigo 110.º), no artigo 65.º, onde se lê:
+«Ao RMAN é aplicável o disposto no n.º 1 do artigo 61.º, competindo-lhe, ainda, para além das atividades de nível ii no âmbito da função logística manutenção:»
+deve ler-se:
+«Ao RMAN é aplicável o disposto no n.º 1 do artigo 59.º, competindo-lhe, ainda, para além das atividades de nível ii no âmbito da função logística manutenção:»
+25 - No anexo ii (a que se refere o n.º 2 do artigo 110.º), no artigo 66.º, onde se lê:
+«Ao RTRANSP é aplicável o disposto no n.º 1 do artigo 61.º, competindo-lhe, ainda, para além das atividades no âmbito da função logística transporte:»
+deve ler-se:
+«Ao RTRANSP é aplicável o disposto no n.º 1 do artigo 59.º, competindo-lhe, ainda, para além das atividades no âmbito da função logística transporte:»
+26 - No anexo ii (a que se refere o n.º 2 do artigo 110.º), no artigo 67.º, onde se lê:
+«A UAGME é uma unidade do tipo regimento, competindo-lhe, além do disposto no n.º 1 do artigo 61.º:»
+deve ler-se:
+«A UAGME é uma unidade do tipo regimento, competindo-lhe, além do disposto no n.º 1 do artigo 59.º:»
+27 - No anexo ii (a que se refere o n.º 2 do artigo 110.º), na alínea e) do artigo 69.º, onde se lê:
+«e) A Escola de Sargentos do Exército (ESSE).»
+deve ler-se:
+«e) A Escola de Sargentos do Exército (ESE).»
+28 - No anexo ii (a que se refere o n.º 2 do artigo 110.º), nos n.os 1 e 2 do artigo 74.º, onde se lê:
+«1 - A ESSE é, nos termos previstos no respetivo estatuto, um estabelecimento de ensino militar profissional, destinado especialmente à formação inicial de sargentos e à formação ao longo da carreira.
+2 - À ESSE compete, em especial:»
+deve ler-se:
+«1 - A ESE é, nos termos previstos no respetivo estatuto, um estabelecimento de ensino militar profissional, destinado especialmente à formação inicial de sargentos e à formação ao longo da carreira.
+2 - À ESE compete, em especial:»
+29 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), no n.º 1, no n.º 2 e na alínea d) do n.º 2 do artigo 2.º e na respetiva republicação, onde se lê:
+«1 - [...]
+2 - [...]
+d) Elaborar planos de comunicação externa da Força Aérea;»
+deve ler-se:
+«1 - O Gabinete do CEMFA (GABCEMFA) tem por missão o apoio direto e pessoal ao CEMFA no exercício das suas funções e nas relações da Força Aérea com o exterior.
+2 - Ao GABCEMFA compete, em especial:
+d) Elaborar os planos de comunicação estratégica da Força Aérea;»
+30 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), no n.º 1 do artigo 6.º, onde se lê:
+«1 - [...]»
+deve ler-se:
+«1 - O GABVCEMFA tem por missão apoiar o VCEMFA e o Subchefe do Estado-Maior da Força Aérea (SCEMFA), assegurar o relacionamento institucional com as divisões do EMFA, e tratar dos assuntos decorrentes das relações entre o EMFA e os comandos, direções e chefias da Força Aérea.»
+31 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), no n.º 1 do artigo 9.º, onde se lê:
+«1 - [...]»
+deve ler-se:
+«1 - Ao SCEMFA compete, em especial:»
+32 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), no artigo 17.º, onde se lê:
+«Os órgãos de apoio direto são criados e extintos por despacho do CEMFA.»
+deve ler-se:
+«Os órgãos de apoio direto do CPESFA são criados e extintos por despacho do CEMFA.»
+33 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), na alínea f) do n.º 2 do artigo 25.º e na respetiva republicação, onde se lê:
+«f) O Gabinete do Coordenador de Missão no Âmbito dos Incêndios Rurais (GCMIR).»
+deve ler-se:
+«f) O Gabinete Coordenador de Missão no âmbito dos Incêndios Rurais (GCMIR).»
+34 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), no n.º 5 do artigo 43.º e na respetiva republicação, onde se lê:
+«5 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 35.º do Decreto-Lei n.º 19/2022, de 24 de janeiro, o Comandante do CZAA depende do Comando Operacional dos Açores.»
+deve ler-se:
+«5 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 35.º do Decreto-Lei n.º 19/2022, de 24 de janeiro, o Comandante do CZAA depende do Comandante Operacional dos Açores.»
+35 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), na alínea b) do n.º 2 do artigo 55.º, onde se lê:
+«b) [...]»
+deve ler-se:
+«b) Assegurar a difusão, analisar a aplicação e verificar o cumprimento das normas e das técnicas de tratamento de documentação e informação não classificada;»
+36 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), nas alíneas a) e c) do n.º 2 do artigo 56.º, onde se lê:
+«a) [...]
+c) [...]»
+deve ler-se:
+«a) Assegurar o cumprimento das normas de segurança nacionais e das organizações de que Portugal faz parte, na salvaguarda da informação classificada;
+c) Organizar os processos de credenciação do pessoal da Força Aérea;»
+37 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), na alínea c) do n.º 2 do artigo 57.º, onde se lê:
+«c) Garantir o apoio necessário à execução dos cursos de formação e sargentos dos quadros permanentes, ministros pela UPM, nas instalações do CFMTFA;»
+deve ler-se:
+«c) Garantir o apoio necessário à execução dos cursos de formação de sargentos dos quadros permanentes, ministrados pela UPM, nas instalações do CFMTFA;»
+38 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), na alínea f) do n.º 2 do artigo 58.º, onde se lê:
+«f) [...]»
+deve ler-se:
+«f) Colaborar na reinserção na vida ativa dos cidadãos na reserva de disponibilidade;»
+39 - No artigo 106.º (Alteração ao Decreto Regulamentar n.º 12/2015, de 31 de julho), na alínea b) do n.º 3 do artigo 68.º, onde se lê:
+«b) [Anterior alínea b) do n.º 2.]»
+deve ler-se:
+«b) Representar e promover a imagem da Força Aérea e a sua história, em eventos de âmbito cultural através da realização de concertos e tattoos, em território nacional e no estrangeiro;»
+40 - No anexo iii (a que se refere o n.º 3 do artigo 110.º), na alínea b) do n.º 3 do artigo 5.º, onde se lê:
+«b) Os órgãos de apoio direto, criados por despacho do VCEMFA.»
+deve ler-se:
+«b) Os órgãos de apoio direto, criados por despacho do CEMFA.»
+41 - No anexo iii (a que se refere o n.º 3 do artigo 110.º), na epígrafe do artigo 7.º, onde se lê:
+«[...]»
+deve ler-se:
+«Natureza e competências»
+42 - No anexo iii (a que se refere o n.º 3 do artigo 110.º), nos n.os 1 e 2 do artigo 7.º, onde se lê:
+«1 - [...]
+2 - [...]»
+deve ler-se:
+«1 - O EMFA é o órgão de estudo, conceção e planeamento das atividades da Força Aérea, para apoio à decisão do CEMFA.
+2 - Ao CEMFA compete em especial:»
+43 - No anexo iii (a que se refere o n.º 3 do artigo 110.º), no n.º 1 do artigo 9.º, onde se lê:
+«1 - Ao SUBCEMFA compete, em especial:»
+deve ler-se:
+«1 - Ao SCEMFA compete, em especial:»
+Secretaria-Geral, 3 de agosto de 2023. - O Secretário-Geral, David Xavier.
+116749557
