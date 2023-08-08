@@ -1,0 +1,17 @@
+Aviso n.º 14875/2023
+Sumário: Prorrogação do prazo para a elaboração da alteração ao Plano de Urbanização da Vila de Ferreira do Zêzere.
+Prorrogação do prazo para a elaboração da Alteração ao Plano de Urbanização da Vila de Ferreira do Zêzere
+Bruno José da Graça Gomes, Presidente da Câmara Municipal de Ferreira do Zêzere, torna público, para os efeitos consignados no n.º 6 do artigo 76.º, conjugado com o n.º 1 do artigo 92.º, do Decreto-Lei n.º 80/2015, de 14 de maio, na redação atual, que a Câmara Municipal de Ferreira do Zêzere, na reunião realizada a 24/05/2023, com fundamento no facto do procedimento de Alteração ao Plano de Urbanização da Vila de Ferreira do Zêzere se destinar à conformação do mesmo com o artigo 199.º desse decreto-lei, pelo que se exceciona no âmbito do prazo, o número limite de prorrogações, conforme expresso no artigo 4.º do Decreto-Lei n.º 45/2022, de 8 de junho, que constitui a última alteração ao Decreto-Lei n.º 80/2015, de 14 de maio, deliberou por unanimidade:
+A prorrogação do prazo para a elaboração da Alteração ao Plano de Urbanização da Vila de Ferreira do Zêzere por mais 154 dias;
+Que, na sequência do Aviso n.º 9753/2022, referente à participação pública, seja publicitado novo aviso, com menção à nova prorrogação do prazo para a elaboração da Alteração do Plano de Urbanização da Vila de Ferreira do Zêzere, devendo-o ser nas condições referidas nos termos de referência respetivos.
+Para constar e surtir os devidos efeitos, se torna público o presente aviso e outros de igual teor, que vão ser divulgados em dois jornais locais, num diário de grande expansão nacional, na plataforma colaborativa de gestão territorial, na página da Internet da Câmara Municipal de Ferreira do Zêzere (www.cm-ferreiradozezere.pt), afixados nos locais de estilo e publicados na 2.ª série do Diário da República.
+2 de julho de 2023. - O Vice-Presidente da Câmara, Orlando da Silva Patrício.
+Deliberação
+Isabel da Conceição Martins David, Chefe de Divisão de Administração e Serviços Instrumentais, da Câmara Municipal de Ferreira do Zêzere;
+Certifica que na reunião ordinária pública do executivo, realizada no dia 24 de maio de 2023, se encontra exarada a seguinte deliberação:
+"7 - PUFZ:
+Ponto 7.1 - Interna n.º 4342/2023 - DOMPAT - Prorrogação do prazo para a elaboração da Alteração ao Plano de Urbanização da Vila de Ferreira - Para deliberação.
+A Câmara Municipal deliberou, de acordo com a informação do Técnico Superior e despacho da Chefe da DOMPAT, aprovar a prorrogação do prazo para a elaboração da Alteração ao Plano de Urbanização da Vila de Ferreira do Zêzere por mais 154 dias. Deliberou ainda que na sequência do Aviso n.º 9753/2022, referente à participação pública, seja publicitado novo aviso, com menção à nova prorrogação do prazo para a elaboração da Alteração do PUFZ, devendo-o ser nas condições referidas nos termos de referência respetivos, constantes no anexo 1 ao MGD I-2019 de 16/03/2022. Estas deliberações foram tomadas por unanimidade, com a ausência da votação do Vereador Eng. Hugo Azevedo, por ter sido interveniente no processo no âmbito da sua atividade profissional."
+Por ser verdade e me ter sido pedida, mandei passar a presente certidão, que vai por mim assinada.
+Ferreira do Zêzere, Divisão de Administração e Serviços Instrumentais, aos quinze dias do mês de junho de dois mil e vinte e três. - A Chefe da Divisão de Administração e Serviços Instrumentais, Isabel da Conceição Martins David.
+616635419
