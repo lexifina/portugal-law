@@ -40,7 +40,9 @@ q) Consultores em matéria de votação;
 
 r) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
 
-s) Membros de órgãos, trabalhadores ou agentes das entidades previstas nas alíneas anteriores, quando atuem no âmbito das respetivas funções.
+s) Os prestadores de serviços de financiamento colaborativo de capital ou por empréstimo;
+
+t) Membros de órgãos, trabalhadores ou agentes das entidades previstas nas alíneas anteriores, quando atuem no âmbito das respetivas funções.
 
 2 - As pessoas ou entidades que exerçam atividades de caráter transnacional ficam sujeitas à supervisão da CMVM sempre que essas atividades tenham alguma conexão relevante com mercados regulamentados, sistemas de negociação multilateral ou organizado, operações ou instrumentos financeiros sujeitos à lei portuguesa.
 
