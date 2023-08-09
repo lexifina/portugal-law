@@ -20,6 +20,4 @@ b) Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de
 
 c) Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015, relativo às taxas de intercâmbio aplicáveis a operações de pagamento baseadas em cartões.
 
-d) Regulamento (UE) 2021/1230 do Parlamento Europeu e do Conselho, de 14 de julho de 2021, relativo aos pagamentos transfronteiriços na União;
-
-e) Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, relativo à resiliência operacional digital do setor financeiro.
+d) Regulamento (UE) 2021/1230 do Parlamento Europeu e do Conselho, de 14 de julho de 2021, relativo aos pagamentos transfronteiriços na União.

@@ -2,7 +2,7 @@
 
 ### Infrações especialmente graves
 
-Constitui infração especialmente grave, punível com coima de € 10 000 a € 5 000 000 ou de € 4000 a € 5 000 000, consoante o agente seja uma pessoa coletiva ou uma pessoa singular:
+São puníveis com coima de (euro) 10 000 a (euro) 5 000 000 ou de (euro) 4000 a (euro) 5 000 000, consoante seja aplicada a ente coletivo ou a pessoa singular, as infrações adiante referidas:
 
 a) A prática não autorizada, por quaisquer indivíduos ou entidades, da atividade de prestação de serviços de pagamento ou de emissão de moeda eletrónica;
 
@@ -46,7 +46,7 @@ t) A inobservância das regras relativas à gestão dos riscos operacionais e de
 
 u) A violação das regras sobre requisitos de informação e comunicações previstas nos n.os 2 do artigo 5.º, 2 do artigo 24.º, 2 do artigo 25.º, 7 do artigo 31.º, 6 do artigo 33.º, 7 do artigo 37.º e 4 do artigo 43.º, nos artigos 78.º, 81.º, 83.º a 88.º, 90.º a 93.º e 95.º a 99.º nos n.os 3 do artigo 108.º, 2, 3, 5 e 6 do artigo 109.º, 2 e 3 do artigo 120.º, 3 do artigo 122.º, 7 do artigo 130.º, 11 do artigo 131.º e 2 do artigo 139.º;
 
-v) A cobrança de encargos indevidos ou proibidos nos termos do presente regime, do Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012, ou do Regulamento (UE) 2021/1230, do Parlamento Europeu e do Conselho, de 14 de julho de 2021;
+v) A violação das regras sobre cobrança de encargos previstas no artigo 79.º, nos n.os 2, 3, 5 e 6 do artigo 94.º, no artigo 101.º, nos n.os 4 do artigo 120.º, 7 do artigo 121.º, 1 do artigo 122.º, 5 do artigo 129.º, 7 do artigo 130.º, 11 do artigo 131.º e 3 e 4 do artigo 139.º;
 
 w) A realização de operações de pagamento não autorizadas pelo ordenante, por inexistência ou retirada do seu consentimento para a execução das mesmas;
 
@@ -62,7 +62,7 @@ bb) O bloqueio de fundos na conta de pagamento do ordenante, em violação das n
 
 cc) O incumprimento das obrigações associadas aos instrumentos de pagamento previstas no artigo 111.º;
 
-dd) A violação de deveres de reposição ou reembolso de fundos previstos no presente regime ou no Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
+dd) O incumprimento das obrigações de reembolso, incluindo os montantes devidos nos termos previstos nos n.os 1, 4, 5 e 7 do artigo 114.º, 1 e 6 do artigo 117.º, 2 e 3 do artigo 118.º, 3 e 5 do artigo 130.º, 7 do artigo 131.º, 1 do artigo 132.º e 1, 5 e 6 do artigo 139.º;
 
 ee) A violação das normas que determinam os montantes que devem ser suportados pelo ordenante relativamente a operações de pagamento não autorizadas, nos termos previstos nos n.os 1, 7 e 8 do artigo 115.º;
 
@@ -86,22 +86,14 @@ nn) O exercício de quaisquer cargos ou funções em instituição de pagamento 
 
 oo) Os atos dolosos de gestão ruinosa praticados pelos membros dos órgãos sociais;
 
-pp) (Revogada.)
+pp) A violação das regras sobre cobrança de encargos nos termos previstos no artigo 3.º e nos n.os 1 e 3 do artigo 4.º do Regulamento (CE) n.º 924/2009, do Parlamento Europeu e do Conselho, de 16 de setembro de 2009, com as alterações introduzidas pelo artigo 17.º do Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
 
-qq) A violação das regras sobre requisitos de informação e comunicações previstas nos artigos 4.º, 5.º e no 1.º e 2.º parágrafos do n.º 1 e no n.º 3 do artigo 6.º do Regulamento (UE) 2021/1230 do Parlamento Europeu e do Conselho, de 14 de julho de 2021;
+qq) A violação das regras sobre cobrança de encargos nos termos previstos no n.º 8 do artigo 5.º do Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
 
-rr) (Revogada.)
+rr) A violação das regras sobre cobrança de taxas de intercâmbio, nos termos do disposto nos artigos 3.º, 4.º e 5.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
 
-ss) A violação das regras sobre cobrança de taxas de intercâmbio, nos termos do disposto nos artigos 3.º, 4.º e 5.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
+ss) O estabelecimento de regras ou disposições de efeito equivalente em acordos de licenciamento, em regras dos sistemas de pagamento com cartões ou em acordos celebrados entre os adquirentes e os beneficiários que violem as regras comerciais estabelecidas nos artigos 6.º e 8.º, com exceção do segundo parágrafo do n.º 6, 10.º, com exceção do n.º 4, e 11.º no capítulo iii do Regulamento (UE) n.º 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
 
-tt) O estabelecimento de regras ou disposições de efeito equivalente em acordos de licenciamento, em regras dos sistemas de pagamento com cartões ou em acordos celebrados entre os adquirentes e os beneficiários que violem as regras comerciais estabelecidas nos artigos 6.º e 8.º, com exceção do segundo parágrafo do n.º 6, 10.º, com exceção do n.º 4, e 11.º no capítulo iii do Regulamento (UE) n.º 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
+tt) A adoção ou aplicação de regras comerciais que restrinjam a interoperabilidade com outras entidades de processamento na União, nos termos do disposto no n.º 5 do artigo 7.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
 
-uu) A adoção ou aplicação de regras comerciais que restrinjam a interoperabilidade com outras entidades de processamento na União, nos termos do disposto no n.º 5 do artigo 7.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
-
-vv) A violação das regras de separação entre os sistemas de pagamento com cartões e as entidades de processamento, nos termos do disposto no n.º 1 do artigo 7.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015;
-
-ww) A violação do dever de oferta do serviço de envio e receção de transferências a crédito imediatas previsto no Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
-
-xx) A violação dos deveres de prestação de informação aos utilizadores de serviços de pagamento de transferência a crédito imediata previstos no Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012;
-
-yy) A violação do dever de verificação de sujeição dos clientes a medidas restritivas financeiras individuais previsto no Regulamento (UE) n.º 260/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012.
+uu) A violação das regras de separação entre os sistemas de pagamento com cartões e as entidades de processamento, nos termos do disposto no n.º 1 do artigo 7.º do Regulamento (UE) n.º 2015/751, do Parlamento Europeu e do Conselho, de 29 de abril de 2015.

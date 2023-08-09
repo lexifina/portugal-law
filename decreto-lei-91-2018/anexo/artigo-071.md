@@ -19,13 +19,3 @@ b) Notifica as autoridades nacionais relevantes, depois de avaliar a relevância
 4 - O Banco de Portugal coopera com a Autoridade Bancária Europeia e o Banco Central Europeu na avaliação da relevância do incidente para outras autoridades relevantes de outros Estados membros e da União, considerando, nomeadamente, as notificações recebidas pelo Banco Central Europeu relativamente a outras questões relevantes.
 
 5 - Com base nas notificações referidas no presente artigo, o Banco de Portugal toma, quando apropriado, todas as medidas necessárias para proteger a segurança imediata do sistema financeiro.
-
-6 - Os números anteriores não se aplicam:
-
-a) Aos prestadores de serviços de pagamento a que se refere as alíneas a), b), c), e), f) e g) do n.º 1 do artigo 11.º do presente Regime;
-
-b) Aos prestadores de serviços de informação sobre contas a que se refere o n.º 1 do artigo 22.º do presente Regime;
-
-c) Às instituições de pagamento isentas nos termos dos n.os 1, 2 e 3 do artigo 37.º do presente Regime;
-
-d) Às instituições de moeda eletrónica que beneficiem de uma isenção nos termos do n.º 1 do artigo 9.º da Diretiva 2009/110/CE do Parlamento Europeu e do Conselho, de 16 de setembro de 2009.

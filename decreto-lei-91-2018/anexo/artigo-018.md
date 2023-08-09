@@ -28,7 +28,7 @@ f) Dispor de dispositivos sólidos em matéria de governo da sociedade, incluind
 
 g) Organizar processos eficazes de identificação, gestão, controlo e comunicação dos riscos a que está ou possa vir a estar exposta;
 
-h) Dispor de mecanismos adequados de controlo interno, incluindo procedimentos administrativos e contabilísticos sólidos, que sejam completos e proporcionais à natureza, ao nível e à complexidade das atividades a desenvolver, bem como uma descrição dos seus acordos relativos à utilização de serviços de TIC nos termos do Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, que demonstre que esses sistemas de governo e mecanismos de controlo interno são proporcionados, adequados, sólidos e suficientes;
+h) Dispor de mecanismos adequados de controlo interno, incluindo procedimentos administrativos e contabilísticos sólidos, que sejam completos e proporcionais à natureza, ao nível e à complexidade das atividades a desenvolver;
 
 i) Dispor de mecanismos de controlo interno para dar cumprimento às disposições legais ou regulamentares destinadas a prevenir o branqueamento de capitais e o financiamento do terrorismo.
 

@@ -36,7 +36,7 @@ h) Operações de pagamento realizadas no âmbito de um sistema de pagamento ou 
 
 i) Operações de pagamento relativas a serviços ligados a valores mobiliários, incluindo a distribuição de dividendos e de rendimentos ou outras distribuições, ou o reembolso ou venda de valores mobiliários efetuados por pessoas referidas na alínea h) ou por empresas de investimento, instituições de crédito, organismos de investimento coletivo ou sociedades de gestão de ativos que prestem serviços de investimento e quaisquer outras entidades autorizadas a proceder à guarda de instrumentos financeiros;
 
-j) Serviços prestados por prestadores de serviços técnicos, que apoiam a prestação de serviços de pagamento sem nunca entrarem na posse dos fundos a transferir, incluindo o processamento e o armazenamento de dados, os serviços de proteção da confiança e da privacidade, a autenticação de dados e entidades, o fornecimento de tecnologias da informação e comunicação (TIC) e de redes de comunicação, e o fornecimento e manutenção de terminais e dispositivos utilizados para serviços de pagamento, com exceção dos serviços de iniciação de pagamentos e dos serviços de informação sobre contas;
+j) Serviços prestados por prestadores de serviços técnicos, que apoiam a prestação de serviços de pagamento sem entrar na posse, em momento algum, dos fundos objeto da transferência, incluindo o processamento e o armazenamento de dados, os serviços de proteção da confiança e da privacidade, a autenticação de dados e entidades, o fornecimento de redes de comunicação e informáticas ou o fornecimento e manutenção de terminais e dispositivos utilizados para os serviços de pagamento, com exceção dos serviços de iniciação de pagamentos e dos serviços de informação sobre contas;
 
 k) Serviços baseados em instrumentos de pagamento específicos que só possam ser utilizados de forma limitada e que sejam:
 
@@ -61,5 +61,3 @@ o) Serviços de levantamento de numerário oferecidos por prestadores através d
 2 - Os prestadores referidos na alínea o) do número anterior devem, em qualquer caso, informar o utilizador de serviços de pagamento sobre os encargos associados ao levantamento a que se referem os artigos 84.º, 87.º, 88.º e 98.º, imediatamente antes e depois da operação de levantamento de numerário.
 
 3 - O presente Regime também não é aplicável ao valor monetário armazenado nos instrumentos referidos na alínea k) do n.º 1, nem ao valor monetário utilizado para efetuar as operações de pagamento referidas na alínea l) do mesmo número.
-
-4 - Sem prejuízo do disposto na alínea k) do n.º 1, os limites máximos das taxas de intercâmbio aplicáveis às operações com cartões de débito dos consumidores estabelecidos no artigo 3.º do Regulamento (UE) 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015, aplicam-se às operações com cartões de pagamento utilizados para a atribuição de vale refeição.
