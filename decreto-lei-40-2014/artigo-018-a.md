@@ -12,6 +12,6 @@
 
 3 - À participação de infrações que caibam no âmbito de supervisão da ASF aplica-se o disposto no artigo 305.º do Regime Jurídico de Acesso e Exercício da Atividade Seguradora e Resseguradora, aprovado pela Lei n.º 147/2015, de 9 de setembro, com as necessárias adaptações.
 
-4 - À participação de infrações que caibam no âmbito de supervisão do Banco de Portugal aplica-se o disposto no artigo 116.º-AA do Regime Geral das Instituições de Crédito e das Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, com as necessárias adaptações.
+4 - À participação de infrações que caibam no âmbito de supervisão do Banco de Portugal aplica-se o disposto no artigo 115.º-X do Regime Geral das Instituições de Crédito e das Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, com as necessárias adaptações.
 
 5 - À participação de infrações que caibam no âmbito de supervisão da CMVM aplica-se o disposto no artigo 305.º-F do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, com as necessárias adaptações.
