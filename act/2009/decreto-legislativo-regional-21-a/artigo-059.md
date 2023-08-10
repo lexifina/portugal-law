@@ -4,13 +4,15 @@
 
 1 - Para além dos apoios referidos nos artigos anteriores, é concedida por cada atleta uma comparticipação financeira anual, calculada pela multiplicação do valor base, a que se refere o n.º 2 do artigo 53.º do presente diploma, pelos seguintes índices:
 
-a) Primeiro nível de alto rendimento - 8;
+a) Nível A do estatuto de alto rendimento - 8;
 
-b) Restantes níveis de alto rendimento - 5,5;
+b) Nível B do estatuto de alto rendimento - 5,5;
 
-c) Percurso para o alto rendimento - 3,5;
+c) Nível C do estatuto de alto rendimento - 3,5;
 
-d) Jovem talento regional - 1.
+d) Nível A do jovem talento regional - 1,4;
+
+e) Nível B do jovem talento regional - 0,6.
 
 2 - De modo a garantir o desenvolvimento de programas próprios são celebrados contratos-programa entre o organismo da administração regional competente em matéria de desporto e as entidades do movimento associativo desportivo que, dentro da modalidade, correspondam ao patamar superior de organização e integrem atletas abrangidos pelo estatuto de alto rendimento ou jovens talentos regionais.
 

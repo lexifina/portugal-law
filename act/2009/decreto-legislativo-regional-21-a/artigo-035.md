@@ -6,4 +6,4 @@
 
 ### Valor base
 
-Os prémios de classificação, subida de divisão e manutenção são calculados a partir de um valor base idêntico para todas as modalidades, definido por resolução do Conselho do Governo Regional, de acordo com os quadros competitivos e os objectivos de desenvolvimento desportivo a prosseguir.
+Os prémios de classificação, subida de divisão e manutenção são calculados a partir de um valor idêntico para todas as modalidades, definido por portaria do membro do Governo Regional competente em matéria de desporto, de acordo com os quadros competitivos e os objetivos de desenvolvimento desportivo a prosseguir.

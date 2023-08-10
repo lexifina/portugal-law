@@ -28,7 +28,7 @@ e) Manter um número mínimo de atletas em formação e competição regular, fi
 
 4 - As candidaturas a apoiar são apresentadas ao departamento da administração regional autónoma competente em matéria de desporto no prazo que estiver fixado no documento orientador.
 
-5 - O apoio mínimo anual a conceder a cada equipa é determinado multiplicando o valor base unitário fixado por resolução do Conselho do Governo Regional pelos seguintes índices:
+5 - O apoio mínimo anual a conceder a cada equipa é determinado multiplicando o valor base unitário fixado por portaria do membro do Governo Regional competente em matéria de desporto, pelos seguintes índices:
 
 a) Até ao escalão de infantis ou similar - 20;
 
