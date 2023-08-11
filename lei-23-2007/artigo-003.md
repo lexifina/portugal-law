@@ -120,6 +120,12 @@ tt) «Convenção de acolhimento» o contrato ou outro documento outorgado pelo 
 
 uu) «Estabelecimento de formação profissional» um estabelecimento público ou privado reconhecido oficialmente e cujos programas de formação sejam reconhecidos.
 
+vv) 'Sistema Integrado de Informação UCFE': sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza policial e de cooperação policial internacional em matéria de fronteiras e estrangeiros, de utilização comum às forças e serviços de segurança, acessível por estas, e demais entidades, de acordo com as suas necessidades e competências legais (SII UCFE);
+
+ww) 'Sistema Integrado de Informação AIMA': sistema de informação de dados pessoais e dados relativos a bens jurídicos que integra informação de natureza não policial e de cooperação internacional em matéria de estrangeiros (SII AIMA).
+
+xx) 'Apátrida' toda a pessoa que não seja considerada por qualquer Estado, segundo a sua legislação ou por efeito de aplicação da lei, como seu nacional.
+
 2 - O montante ou requisito quantitativo mínimo das atividades de investimento previstas nas subalíneas ii) a vi) da alínea d) do número anterior podem ser inferiores em 20 %, quando as atividades sejam efetuadas em territórios de baixa densidade.
 
 3 - Para efeitos do disposto no número anterior, consideram-se territórios de baixa densidade os de nível iii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS III) com menos de 100 habitantes por Km2 ou um produto interno bruto (PIB) per capita inferior a 75 % da média nacional.

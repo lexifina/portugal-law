@@ -16,10 +16,12 @@ a) Passaporte para estrangeiros;
 
 b) Título de viagem para refugiados;
 
-c) Salvo-conduto;
+c) Título de viagem para apátridas;
 
-d) Documento de viagem para afastamento coercivo ou expulsão judicial de cidadãos nacionais de Estados terceiros;
+d) Salvo-conduto;
 
-e) Lista de viagem para estudantes.
+e) Documento de viagem para afastamento coercivo ou expulsão judicial de cidadãos nacionais de Estados terceiros;
+
+f) Lista de viagem para estudantes.
 
 2 - Os documentos de viagem emitidos pelas autoridades portuguesas a favor de cidadãos estrangeiros não fazem prova da nacionalidade do titular.
