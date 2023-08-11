@@ -102,4 +102,6 @@ ag) «Requerente com necessidades de acolhimento especiais», uma pessoa vulner�
 
 ah) «Retirada do estatuto de proteção internacional», a decisão proferida por autoridade competente que revoga, suprime ou recusa a renovação do estatuto de refugiado ou de proteção subsidiária a uma pessoa.
 
+ai) 'Apátrida' toda a pessoa que não seja considerada por qualquer Estado, segundo a sua legislação ou por efeito de aplicação da lei, como seu nacional.
+
 2 - Para efeitos do disposto na subalínea iv) da alínea n) do número anterior, dependendo das circunstâncias no país de origem, um grupo social específico pode incluir um grupo baseado na identidade de género ou numa característica comum de orientação sexual, não podendo esta ser entendida como incluindo atos tipificados como crime, de acordo com a lei, bem como considerar os aspetos relacionados com o género, embora este por si só não deva criar uma presunção para a qualificação como grupo.
