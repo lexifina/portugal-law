@@ -20,7 +20,7 @@ g) CPQ1 do polo de captação de Barrada;
 
 h) SL3 do polo de captação de Bicas;
 
-i) FD1 e Dreno do polo de captação de Bouça;
+i) Furo Novo e Dreno do polo de captação de Bouça;
 
 j) AC1 do polo de captação de Brunheirinho;
 
@@ -62,4 +62,4 @@ aa) Nascente do polo de captação de Vale de Açor;
 
 bb) JK5 do polo de captação de Abrantes.
 
-2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, que dela faz parte integrante.
+2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.
