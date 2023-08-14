@@ -1,0 +1,32 @@
+# Portaria n.º 603/2023
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS E DE AGRICULTURA E DESENVOLVIMENTO RURAL
+
+**Publicação:** JORAM, I série, n.º 151/2023, 2.º suplemento, de 2023-08-14
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais, referente à linha de crédito bonificado destinada a financiar a compra de cana-de-açúcar para a campanha de 2023, pelos anos de 2023 e de 2024, nos montantes de € 9.934,38 e de € 30.355,03, respetivamente.
+
+## Texto
+
+Portaria n.º 603/2023
+de 14 de agosto
+Sumário: Autoriza a distribuição dos encargos orçamentais, referente à linha de crédito bonificado destinada a financiar a compra de cana-de-açúcar para a campanha de 2023, pelos anos de 2023 e de 2024, nos montantes de € 9.934,38 e de € 30.355,03, respetivamente.
+Texto: Considerando a grande importância ambiental, social e económica da cultura da cana-de-açúcar na Região Autónoma da Madeira, ocupando uma área superior a 173 hectares, e envolvendo cerca de 1.371 agricultores, e 150 trabalhadores ligados às agroindústrias do Rum Agrícola, e do Mel de Cana-de-açúcar; Considerando que, através da Medida 2-Apoio à Produção das Fileiras Agropecuárias da Região Autónoma da Madeira, Ação 2.1-Fileira da Cana-de-açúcar, Subação 2.1.1- Transformação, do Subprograma a favor das Produções Agrícolas da RAM (POSEI-RAM), aprovado no âmbito do Regulamento (UE) n.º 228/2013 do Parlamento Europeu e do Conselho, de 13 de março, é concedida uma ajuda às agroindústrias da cana-de-açúcar produtoras de Rum Agrícola e Mel de Cana-de-açúcar, em contrapartida do comprovativo do pagamento de um preço mínimo aos agricultores fornecedores; Considerando que, as agroindústrias para beneficiarem desta ajuda têm de formalizar a sua candidatura até final de agosto de 2023, e que só vêm a receber o valor a que tenham direito em dezembro de 2023, e em junho do ano civil seguinte;
+
+Considerando que é extremamente importante para os agricultores receberem no mais curto prazo possível os valores das produções que tenham fornecido às agroindústrias, dado que suporte fundamental para o seu rendimento e qualidade de vida, situação que não se compadece com os mecanismos da ajuda comunitária em causa;
+Considerando que, para pagar atempada e integralmente os valores que sejam devidos a todos os agricultores fornecedores de cana-de-açúcar, algumas agroindústrias não dispõem de tesouraria suficiente, tendo por isso que recorrer a crédito bancário;
+Considerando que, é de todo em todo importante alavancar o esforço financeiro das agroindústrias de menor dimensão de forma a assegurar que estas possam pagar todos os seus agricultores fornecedores da produção no mais curto espaço de tempo, e com a melhor redução dos encargos financeiros decorrentes dos empréstimos que terão de contrair;
+Considerando que a laboração de cana-de-açúcar de 2023 terminará entre finais de maio a meados de junho, pelo que é de todo em todo importante alavancar o esforço financeiro das agroindústrias de forma a assegurar que estas possam pagar todos os seus agricultores fornecedores da produção no mais breve espaço de tempo, e com a melhor redução dos encargos financeiros decorrentes dos empréstimos que terão de contrair;
+Considerando que esse apoio, pode ser consubstanciado na criação de uma linha de crédito bonificado que assegure o financiamento do pagamento aos agricultores da cana-de-açúcar adquirida pelas agroindústrias, durante a campanha de 2023;
+Considerando que, ao abrigo do estabelecido no n.º 6 do artigo 34.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, que aprova o Orçamento da Região Autónoma da Madeira para 2023, o Governo Regional pode criar linhas de crédito bonificadas, nomeadamente na área da agricultura, enquadramento em que se insere esta proposta de criação de uma linha de crédito bonificado que assegure o financiamento do pagamento aos agricultores da cana-de-açúcar adquirida pelas agroindústrias, durante a campanha de 2023;
+Considerando que, a medida está de acordo com o disposto no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis às empresas residentes na Região Autónoma da Madeira.
+Assim, dando cumprimento ao disposto do n.º 1 do artigo 29.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro e do n.º 1 do artigo 23.º do Decreto Regulamentar Regional n.º 8/2023/M, de 22 de março, da alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, alterada pelas Leis n.ºs 20/2012, de 14 de maio, 64/2012, de 20 de dezembro, 66-B/2012, de 31 de dezembro e 22/2015, de 17 de março, do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, alterado pelas Leis n.ºs 64/2012, de 20 de dezembro, 66 B/2012, de 31 de dezembro e pelo Decreto Lei n.º 99/2015, de 2 de junho e do artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, manda o Governo Regional, através do Secretário Regional das Finanças e do Secretário Regional de Agricultura e Desenvolvimento Rural, o seguinte:
+1. Os encargos orçamentais, referente à linha de crédito bonificado destinada a financiar a compra de cana-de-açúcar para a campanha de 2023, não excederão, em cada ano económico, os seguintes valores:
+Ano Económico de 2023 .....................................................................................€ 9.934,38; Ano Económico de 2024 ...................................................................................€ 30.355,03.
+2. A despesa em causa tem cabimento orçamental em 2023, Classificação Orgânica 51 9 50 02 00, Classificação Funcional 42, Classificação Económica D.05.01.03.BS.00, Fonte de Financiamento 381, Programa 57, Medida 103, Projeto SIGO 53190, Fundo 4381000549, Centro Financeiro M100607, Centro de Custo M100A63100, Cabimento CY42313151.
+3. A verbas necessária para o ano económico de 2024, serão inscritas na respetiva proposta de orçamento.
+4. A importância fixada para cada ao económico poderá ser acrescida do saldo apurado no ano anterior.
+5. Esta Portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretarias Regionais das Finanças e de Agricultura e Desenvolvimento Rural, aos 2 dias de agosto de 2023.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
+O SECRETÁRIO REGIONAL DE AGRICULTURA E DESENVOLVIMENTO RURAL, José Humberto de Sousa Vasconcelos
