@@ -10,14 +10,14 @@
 
 4 - Nas situações previstas pela alínea c) do n.º 3 do artigo 6.º e pela alínea c) do n.º 3 do artigo 7.º é vedada às farmácias a dispensa de medicamento com preço superior ao do medicamento prescrito.
 
-5 - As farmácias apenas podem dispensar um máximo de 2 embalagens, por linha de prescrição, ou de 4 embalagens, no caso das embalagens em dose unitária, por mês.
+5 - As farmácias apenas podem dispensar, no máximo, a quantidade para garantir o tratamento durante dois meses.
 
-6 - As farmácias podem, mediante justificação, dispensar uma quantidade superior, nomeadamente nos seguintes casos:
+6 - Nas situações em que não seja possível determinar a quantidade necessária para garantir o tratamento, conforme indicado no número anterior, as farmácias podem dispensar um máximo de duas embalagens, por linha de prescrição, ou de quatro embalagens, no caso das embalagens em dose unitária, por mês.
 
-a) A quantidade de embalagens necessária para cumprir a posologia é superior a 2 embalagens por mês;
+7 - As farmácias podem, em situações excecionais e mediante justificação, dispensar uma quantidade superior, nomeadamente nos seguintes casos:
 
-b) Extravio, perda ou roubo de medicamentos;
+a) Extravio, perda ou roubo de medicamentos;
 
-c) Dificuldade de deslocação à farmácia;
+b) Ausência prolongada do país.
 
-d) Ausência prolongada do país.
+8 - Em situações de rutura com impacto elevado na saúde pública identificadas pelo INFARMED, I. P., a farmácia pode dispensar outras embalagens do medicamento prescrito com uma forma farmacêutica e/ou dosagens equivalentes.

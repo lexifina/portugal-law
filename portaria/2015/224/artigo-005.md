@@ -20,18 +20,24 @@ b) No caso de receita desmaterializada, mas em linhas de prescrição distintas,
 
 7 - A prescrição de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica, compreendida nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, não pode constar de receita materializada ou por via manual, onde sejam prescritos outros medicamentos ou produtos de saúde.
 
-8 - Os medicamentos a que se refere a tabela n.º 2 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, na sua redação atual, podem:
+8 - Os medicamentos destinados a tratamentos prolongados, constantes da tabela n.º 2 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, na sua redação atual, podem:
 
 a) No caso de receita materializada, ser prescritos em receita eletrónica renovável, sem prejuízo das adaptações e especificações que venham a justificar-se, a aprovar por despacho do membro do Governo responsável pela área da saúde;
 
-b) No caso da receita desmaterializada coexistir com outros medicamentos, com um limite máximo de seis embalagens por ato de prescrição, ou, no caso de medicamentos em dose unitária, com um limite máximo de 12 embalagens.
+b) No caso da receita desmaterializada, por cada ato de prescrição serem prescritas as embalagens necessárias para garantir o tratamento durante 12 meses.
 
-9 - Em casos excecionais, devidamente fundamentados pelo prescritor, podem efetuar-se prescrições sem limite de embalagens, desde que observados os seguintes requisitos:
+9 - Em casos excecionais e devidamente fundamentados pelo prescritor, para os medicamentos destinados a tratamentos de curta ou média duração, constantes da tabela n.º 1 aprovada em anexo à Portaria n.º 1471/2004, de 21 de dezembro, na sua redação atual, podem efetuar-se prescrições com um número de embalagens superior ao permitido, desde que observados os seguintes requisitos:
 
 a) A prescrição seja emitida obrigatoriamente de forma desmaterializada;
 
 b) A fundamentação seja inserida no Processo Clínico do Utente;
 
 c) As quantidades sejam adequadas e ajustadas à posologia instituída e à duração do tratamento.
+
+d) Seja inscrita uma das seguintes justificações:
+
+i) Posologia;
+
+ii) Ausência prolongada do país;
 
 10 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. e o INFARMED Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., devem disponibilizar ao prescritor informação relativa a interações medicamentosas, por meios eletrónicos.
