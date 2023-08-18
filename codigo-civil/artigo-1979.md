@@ -8,7 +8,7 @@
 
 1 - Podem adotar duas pessoas casadas há mais de quatro anos e não separadas judicialmente de pessoas e bens ou de facto, se ambas tiverem mais de 25 anos.
 
-2 - Pode ainda adotar quem tiver mais de 30 anos ou, se o adotando for filho do cônjuge do adotante, mais de 25 anos.
+2 - Pode ainda adotar quem tiver mais de 25 anos.
 
 3 - Só pode adotar quem não tiver mais de 60 anos à data em que a criança lhe tenha sido confiada, mediante confiança administrativa ou medida de promoção e proteção de confiança com vista a futura adoção, sendo que a partir dos 50 anos a diferença de idades entre o adotante e o adotando não pode ser superior a 50 anos.
 
