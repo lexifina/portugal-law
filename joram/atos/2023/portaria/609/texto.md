@@ -1,0 +1,91 @@
+# Portaria n.º 609/2023
+
+**Emissor:** SECRETARIA REGIONAL DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 153/2023, suplemento, de 2023-08-18
+
+**Sumário:** Cria um Programa de Bolsas de Estudo, designado “+ Madeira na Europa” e aprova o respetivo regulamento.
+
+## Texto
+
+Portaria n.º 609/2023
+de 18 de agosto
+Sumário: Cria um Programa de Bolsas de Estudo, designado “+ Madeira na Europa” e aprova o respetivo regulamento.
+Texto:
+Cria um Programa de Bolsas de Estudo, designado “+ Madeira na Europa” e aprova o respetivo regulamento.
+Considerando que a Resolução do Conselho do Governo Regional n.º 643/2023, de 15 de junho, alterada pela Resolução do Conselho do Governo Regional n.º 849/2023, de 3 de agosto, autoriza o Secretário Regional das Finanças a diligenciar todos os procedimentos necessários, nomeadamente, para a efetivação da criação e execução do Programa de Bolsas de Estudo “+ Madeira na Europa” para a frequência de um curso de pós-graduação em estudos europeus, no Colégio da Europa.
+Considerando que o Governo Regional da Madeira tem como seus objetivos específicos promover, na Região, um conhecimento aprofundado em assuntos europeus, de modo a reforçar a eficácia e garantir a continuidade da defesa dos seus interesses externos nesse âmbito; e considerando, em particular, a mais-valia que representa para a Região a formação especializada em assuntos europeus de jovens residentes na Região Autónoma da Madeira e trabalhadores em funções públicas da administração regional autónoma da Madeira, como meio de fomentar o interesse pelo estudo das referidas matérias, bem como de potenciar a sua preparação técnica para o exercício de funções, designadamente, nas Instituições e Órgãos da União Europeia.
+Considerando que o Colégio da Europa, fundado em 1949, é uma instituição europeia de ensino superior privado, de reconhecido prestígio internacional e com uma grande tradição no estudo, análise e discussão no domínio dos assuntos europeus, que acolhe, anualmente, nos seus campus de Bruges (Bélgica) e de Natolin (Polónia), estudantes para a frequência de cursos de pós-graduação em estudos europeus, organizados nas seguintes principais áreas: estudos jurídicos europeus, estudos económicos europeus, estudos políticos e de governação europeus, relações internacionais e estudos diplomáticos da União Europeia e estudos europeus interdisciplinares.
+Considerando que a presente Portaria visa proceder à criação de um Programa de Bolsas de Estudo, designado “+ Madeira na Europa”, e à aprovação do respetivo regulamento.
+Assim, manda o Governo Regional, pelo Secretário Regional das Finanças, ao abrigo da alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, alterada pelas Leis n.ºs 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:
+Artigo 1.º Objeto
+A presente portaria procede à criação de um Programa de Bolsas de Estudo, designado “+ Madeira na Europa”, e aprova o respetivo regulamento.
+Artigo 2.º Objetivo
+O Programa de Bolsas de Estudo, designado “+ Madeira na Europa”, tem por objetivo a atribuição pelo Governo Regional da Madeira de uma bolsa de estudo anual para a frequência de cursos de pós-graduação em estudos europeus no Colégio da Europa, no propósito particular de qualificar os jovens residentes na Região Autónoma da Madeira e os trabalhadores em funções públicas da administração regional autónoma da Madeira, com uma formação de alto nível em assuntos europeus.
+Artigo 3.º Âmbito de aplicação
+O Programa de Bolsas “+ Madeira na Europa”, é aplicável aos jovens residentes na Região Autónoma da Madeira e a trabalhadores em funções públicas da administração regional autónoma da Madeira, que preencham as condições e os requisitos de acesso previstos no respetivo Regulamento.
+Artigo 4.º Regulamentação
+As regras para a atribuição de bolsas de estudo para a frequência de cursos de pós-graduação em estudos europeus no Colégio da Europa constam do Regulamento do Programa de Bolsas de Estudo, designado “+ Madeira na Europa”, anexo à presente portaria
+Artigo 5.º Cabimento Orçamental
+Os encargos decorrentes do Programa são suportados pelas dotações do Orçamento da Região Autónoma da Madeira.
+
+Artigo 6.º Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Assinada em 11 de agosto de 2023.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
+
+ANEXO
+Regulamento do Programa de Bolsas de Estudo “+ Madeira na Europa”
+Artigo 1.º Objeto e âmbito
+1 - O presente regulamento define as regras de atribuição de bolsas de estudo para a frequência de cursos de pós-graduação em estudos europeus no Colégio da Europa, em ambos os seus campus de Bruges (Bélgica) e de Natolin (Polónia).
+2 - O Programa de Bolsas de Estudo “+ Madeira na Europa” abrange os cursos de pós-graduação em estudos europeus, nomeadamente, nas seguintes áreas, correspondentes aos respetivos programas de estudos: a) Estudos jurídicos europeus; b) Estudos económicos europeus; c) Estudos políticos e de governação europeus; d) Relações internacionais e estudos diplomáticos da União Europeia; e) Estudos europeus interdisciplinares.
+Artigo 2.º Bolsa de estudo
+1 - A bolsa de estudo tem a duração do curso de pós-graduação, que é de um ano letivo, e consiste numa prestação pecuniária destinada a assegurar a totalidade dos encargos com o curso de pós-graduação, incluindo a propina, o alojamento e a alimentação.
+2 - O pagamento é realizado, diretamente e numa única prestação, pelo Governo Regional da Madeira ao Colégio da Europa, no início de cada ano letivo.
+3 - A bolsa de estudo inclui, ainda, o pagamento de uma viagem de avião, de ida e volta, em tarifa de classe económica, entre a Região Autónoma da Madeira e o local do aeroporto mais próximo do campus do Colégio da Europa de frequência do curso de pós-graduação.
+Artigo 3.º Condições e requisitos de acesso à bolsa de estudo
+1 - Podem candidatar-se à bolsa de estudo “+ Madeira na Europa”, os indivíduos que reunindo as condições de admissibilidade ao curso de pós-graduação em estudos europeus do Colégio da Europa, tenham apresentado candidatura ao curso junto daquele colégio e reúnam, cumulativamente, os seguintes requisitos: a) Ter nacionalidade portuguesa; b) Ter até 35 anos de idade, completados à data do início do curso; c) Ter frequentado e concluído o ensino secundário num estabelecimento de ensino sedeado na Região Autónoma da Madeira; d) Ser residente na Região Autónoma da Madeira há mais de um ano.
+2 - Podem ainda candidatar-se à bolsa de estudo “+ Madeira na Europa, os trabalhadores em funções públicas da administração regional autónoma da Madeira, que reunindo as condições de admissibilidade ao curso de pósgraduação em estudos europeus do Colégio da Europa, tenham apresentado candidatura ao curso junto daquele colégio e preencham o requisito previsto na aliena b) do número anterior.
+3 - O processo de candidatura e a decisão de admissão aos cursos de pós-graduação do Colégio da Europa a que se refere o n.º 1 e identificados no artigo 1.º do presente regulamento decorrem de acordo com as regras estabelecidas para o efeito pelo referido Colégio, no seu “Regulamento dos Estudos do Colégio da Europa” e, quando aplicável, pela entidade nacional responsável por toda ou por parte da admissão e da seleção das candidaturas.
+4 - Para efeitos do disposto no número anterior, é divulgada na página da Internet do Colégio da Europa (http://www.coleurope.eu) a abertura de candidaturas aos cursos de pós-graduação referidos no artigo anterior, sendo publicitados os prazos, as condições de admissibilidade e os documentos a apresentar.
+
+Artigo 4.º Candidatura à atribuição da bolsa de estudo
+1 - As candidaturas à bolsa de estudo deverão ser instruídas com a seguinte documentação: a) Cópia do processo de candidatura ao curso de pós-graduação; b) Cópia do cartão de cidadão; c) Cópia do certificado de licenciatura ou da conclusão de um ciclo de estudos equivalente ou superior, com a respetiva classificação final; d) Documento comprovativo da frequência e conclusão do ensino secundário num estabelecimento de ensino sedeado na Região Autónoma da Madeira, com a indicação da respetiva classificação final; e) Documento comprovativo de residência na Região Autónoma da Madeira, nos termos da alínea d) do n.º 1 do artigo 3.º do presente regulamento; f) Documento comprovativo da atual morada permanente; g) Curriculum vitae atualizado, datado e assinado.
+2 - Quando a candidatura não tenha sido instruída com a documentação referida no n.º 1, o candidato será notificado dessa situação e disporá de um prazo de dez dias úteis para fornecer os elementos em falta, sob pena de exclusão da sua candidatura.
+3 - A candidatura deverá ser apresentada, presencialmente ou via correio eletrónico ou correio registado, ao Gabinete do membro do Governo Regional responsável pela área dos assuntos europeus.
+4 - A informação sobre a abertura de candidaturas e os respetivos prazos será publicitada nos sítios da Internet pertinentes do Governo Regional, com a indicação da entidade e dos endereços postal e eletrónico para a apresentação das mesmas.
+Artigo 5.º Comissão de apreciação
+A comissão de apreciação das candidaturas à bolsa de estudo será formada por três elementos, indicados por despacho do membro do Governo Regional responsável pela área dos assuntos europeus.
+Artigo 6.º Apreciação e decisão da candidatura à bolsa de estudo
+1 - A admissão à fase de apreciação e de decisão de atribuição da bolsa de estudo dependerá do cumprimento, cumulativo, das condições e formalidades previstas nos artigos 3.º e 4.º do presente regulamento e da decisão oficial de admissão do Colégio da Europa à frequência do curso de pós-graduação, a qual é conhecida após o respetivo procedimento de seleção.
+2 - Os candidatos à bolsa de estudo serão graduados de acordo com a classificação da respetiva decisão de admissão ao curso de pós-graduação, nos termos do disposto no artigo 3.º do presente regulamento.
+3 - Os critérios e as propostas de deliberação fundamentadas da comissão de apreciação, constarão de atas a elaborar por esta, que poderão ser consultadas pelos candidatos, se assim o requererem formalmente.
+Artigo 7.º Decisão de atribuição da bolsa de estudo
+1 - A decisão de atribuição da bolsa de estudo terá por base a proposta de deliberação devidamente fundamentada da comissão de apreciação.
+2 - A atribuição da bolsa de estudo efetuar-se-á por despacho do membro do Governo Regional responsável pela área dos assuntos europeus, o qual será objeto de publicação no Jornal Oficial da Região Autónoma da Madeira (JORAM).
+3 - Todos os candidatos serão notificados do despacho referido no n.º 2 do presente artigo, sobre o qual se poderão pronunciar nos termos legais.
+4 - O candidato ordenado em primeiro lugar deverá transmitir formalmente a sua aceitação, num prazo de dez dias úteis, sob pena de não atribuição da bolsa.
+5 - No caso de não se verificar o ato de aceitação, nos termos referidos no número anterior, a bolsa será atribuída ao candidato ordenado imediatamente a seguir, seguindo-se a graduação a que se refere o n.º 2 do artigo 6.º do presente regulamento.
+6 - A atribuição efetiva da bolsa de estudo ficará dependente da celebração de um contrato entre o bolseiro e o Governo Regional, este representado pelos seus membros responsáveis pelas áreas das finanças e dos assuntos europeus, no qual deverão constar as obrigações das partes, em particular, o disposto no artigo 8.º do presente regulamento.
+
+Artigo 8.º Obrigações dos bolseiros
+1 - A atribuição da bolsa de estudo impõe aos bolseiros as seguintes obrigações: a) Apresentação de um relatório intercalar sobre a frequência do curso de pós-graduação, bem como de um relatório final sobre a conclusão do mesmo, após o período letivo; b) Elaboração de um trabalho, no âmbito das denominadas “lições” do curso de pós-graduação frequentado, sobre um dos respetivos temas com interesse relevante ou específico para a Região Autónoma da Madeira, enquanto elemento de avaliação suplementar da lição em causa, aprovado pelo Conselho Académico do Colégio da Europa, sob proposta do Diretor de Estudos do seu departamento de estudos responsável pelo programa de estudos do referido curso de pós-graduação; c) Disponibilização da tese do curso de pós-graduação frequentado; d) Comunicação das classificações finais quer dos exames realizados sobre as diferentes lições do curso de pós graduação frequentado, que constam do certificado emitido pela Administração Académica do respetivo campus, o qual é incluído num suplemento ao diploma do Colégio da Europa, quer da tese do curso submetida, bem como da menção atribuída pelo Conselho Académico do Colégio da Europa relativa à classificação média global obtida na conclusão do curso, a qual consta do respetivo diploma do Colégio da Europa. e) O original do diploma do Colégio da Europa do curso de pós-graduação frequentado, atribuído pelo Conselho Académico na sua conclusão com aproveitamento, assim como o seu supramencionado suplemento, deverão ser apresentados ao Gabinete do membro do Governo Regional responsável pela área dos assuntos europeus, para que seja efetuada uma cópia autêntica dos mesmos, com vista à sua inclusão no processo individual do bolseiro em causa; f) Manifestação da disponibilidade para, após a conclusão do curso de pós-graduação, realizar um estágio e/ou participar em iniciativas específicas promovidas pelo Governo Regional ou por um organismo por este indicado, assim como para, no caso dos bolseiros que são trabalhadores em funções públicas da administração regional autónoma da Madeira, durante um período de pelo menos cinco anos, continuar a trabalhar no seu serviço de origem e/ou candidatar-se ao exercício temporário de funções nas Instituições ou Órgãos da União Europeia, eventualmente como peritos nacionais destacados (PND).
+2 - A elaboração do trabalho previsto na alínea b) do número anterior, poderá ser dispensada caso esta se revele manifestamente impossível, designadamente por falta de enquadramento no programa de estudos do curso de pós-graduação frequentado, de recusa do Diretor de Estudos em propô-lo como elemento de avaliação suplementar e/ou da sua não aprovação como tal por parte do Conselho Académico do Colégio da Europa.
+3 - Para efeitos da dispensa prevista no número anterior, a situação deverá ser comunicada pelo bolseiro ao Gabinete do membro do Governo Regional responsável pela área dos assuntos europeus, informando-o das diligências que efetuou para o cumprimento da referida obrigação, bem como dos motivos da respetiva impossibilidade de cumprimento, sob pena de este ser considerado um incumprimento injustificado, nos termos do artigo 9.º do presente regulamento.
+Artigo 9.º Incumprimento
+1 - O incumprimento injustificado do disposto no presente regulamento ou a aplicação indevida da prestação pecuniária percebida a título da bolsa de estudo atribuída determina a obrigação de reposição imediata dos respetivos valores despendidos, podendo ser executada a cobrança coerciva dos mesmos, de acordo com a legislação aplicável.
+2 - Sem prejuízo do referido no número anterior, o bolseiro fica obrigado à devolução ao Governo Regional do valor total da bolsa de estudo, no caso de: a) Expulsão do Colégio da Europa por sanção, nomeadamente do desrespeito das leis aplicáveis no local do campus de frequência do curso de pós-graduação, assim como das regras gerais e particulares aplicáveis no seio do campus em causa, das faltas prolongadas injustificadas ou da má-conduta; b) Desistência da frequência do curso de pós-graduação ou a sua não conclusão com aproveitamento, salvo se por razões ponderosas, tais como motivos de saúde, devidamente fundamentadas, de que resulta a não atribuição pelo Conselho Académico do Colégio da Europa do diploma do curso de pós-graduação frequentado, designadamente por faltas injustificadas às lições e/ou às sessões de exames, não submissão da tese nos prazos e de acordo com os requisitos previstos, não aprovação no número suficiente de lições para o efeito ou não obtenção nas lições e/ou na tese da classificação final que permita a respetiva aprovação, casos verificados de plágio, de auto-plágio, de conluio e de falsificação de dados; c) Incumprimento culposo das obrigações constantes do artigo 8.º do presente regulamento.
+Artigo 10.º Desistência da bolsa
+Os bolseiros podem, a todo o tempo, desistir da bolsa de estudo que lhes foi atribuída, através de um requerimento nesse sentido dirigido ao membro do Governo Regional responsável pela área dos assuntos europeus, ficando os mesmos obrigados à devolução do respetivo valor.
+
+Artigo 11.º Exclusividade
+O benefício da bolsa de estudo em objeto do presente regulamento não é cumulável, durante o período da sua duração, com o de outros programas de atribuição de bolsas de estudo da Região Autónoma da Madeira.
+Artigo 12.º Acompanhamento e execução
+1 - O departamento do Governo Regional com atribuições na área dos assuntos europeus é responsável pelo processo de candidaturas à bolsa de estudo e pelo acompanhamento da frequência dos correspondentes cursos de pós-graduação em estudos europeus no Colégio da Europa, bem como pelo cumprimento do contrato celebrado com o bolseiro.
+2 - As competências previstas no número anterior podem ser delegadas no serviço da administração direta da Região Autónoma da Madeira, com atribuições no domínio dos assuntos europeus.
+Artigo 13.º Dados pessoais
+1 - De acordo com o Regulamento Geral de Proteção de Dados da União Europeia (RGPD), os dados pessoais enviados no contexto das candidaturas à bolsa de estudo objeto do presente regulamento têm por única finalidade a seleção dos candidatos.
+2 - O candidato consente na recolha dos seus dados pessoais, no seu tratamento e na sua transmissão a terceiros envolvidos no processo de seleção, bem como na sua manutenção até ao final do referido processo.
+3 - Nos termos do RGPD, em qualquer momento, pode ser exercido o direito de acesso e de oposição ao tratamento dos dados pessoais.
+Artigo 14.º Disposições finais
+Os casos e as situações omissos no presente regulamento serão resolvidos pela aplicação da lei geral.
