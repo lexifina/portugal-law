@@ -1,0 +1,11 @@
+# Anexo
+
+### Medidas relativas a projetos de infraestruturas militares
+
+(a que se referem o n.º 4 do artigo 1.º, o artigo 3.º, o n.º 1 do artigo 11.º e os artigos 17.º e 23.º)
+
+Primeiro quadriénio 2023 a 2026Total 1.º QSegundo quadriénio 2027 a 2030Total 2.º QTerceiro quadriénio 2031 a 2034Total 3.º QTotal dos três
+
+quadriénios202320242025202620272028202920302031203220332034Total de projetos de infraestruturas...27 915 131,65 (euro)23 965 176,50 (euro)21 910 250 (euro)23 032 035 (euro)96 822 593,15 (euro)23 820 000 (euro)18 850 000 (euro)24 825 000 (euro)20 505 000 (euro)88 000 000 (euro)21 059 000 (euro)18 978 000 (euro)21 797 000 (euro)26 166 000 (euro)88 000 000 (euro)272 822 593,15 (euro)Capítulo/medida Medida 1 - Componente fixa do MDN...581 811,50 (euro)449 073,50 (euro)1 078 750 (euro)1 413 384 (euro)3 523 019 (euro)581 811,50 (euro)449 073,50 (euro)1 078 750 (euro)1 413 384 (euro)3 523 019 (euro)581 811,50 (euro)449 073,50 (euro)1 078 750 (euro)1 413 384 (euro)3 523 019 (euro)10 569 057 (euro)Medida 2 - Componente fixa do EMGFA...3 106 750 (euro)3 121 750 (euro)3 213 000 (euro)3 256 419 (euro)12 697 919 (euro)2 581 811,50 (euro)2 449 073,50 (euro)3 078 750 (euro)3 413 384 (euro)11 523 019 (euro)2 581 811,50 (euro)2 449 073,50 (euro)3 078 750 (euro)3 413 384 (euro)11 523 019 (euro)35 743 957 (euro)Medida 3 - Componente fixa da Marinha...7 344 500 (euro)5 824 000 (euro)6 156 000 (euro)5 541 486 (euro)24 865 986 (euro)7 294 500 (euro)4 924 000 (euro)6 156 000 (euro)5 541 486 (euro)23 915 986 (euro)7 294 500 (euro)4 924 000 (euro)6 156 000 (euro)5 541 486 (euro)23 915 986 (euro)72 697 958 (euro)Medida 4 - Componente fixa do Exército...12 766 193,15 (euro)10 947 500 (euro)6 876 000 (euro)7 219 000 (euro)37 808 693,15 (euro)9 930 000 (euro)7 605 000 (euro)9 925 000 (euro)4 535 000 (euro)31 995 000 (euro)7 169 000 (euro)7 733 000 (euro)6 897 000 (euro)10 196 000 (euro)31 995 000 (euro)101 798 693,15 (euro)Medida 5 - Componente fixa da Força Aérea...4 115 877 (euro)3 622 853 (euro)4 586 500 (euro)5 601 746 (euro)17 926 976 (euro)3 431 877 (euro)3 422 853 (euro)4 586 500 (euro)5 601 746 (euro)17 042 976 (euro)3 431 877 (euro)3 422 853 (euro)4 586 500 (euro)5 601 746 (euro)17 042 976 (euro)52 012 928 (euro)
+
+116771045
