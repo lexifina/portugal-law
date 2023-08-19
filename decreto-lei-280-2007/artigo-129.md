@@ -1,0 +1,5 @@
+# Artigo 129.º
+
+### Entrada em vigor
+
+O presente decreto-lei entra em vigor no prazo de 30 dias após a data da sua publicação.
