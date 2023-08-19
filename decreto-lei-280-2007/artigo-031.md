@@ -6,10 +6,6 @@
 
 ## Aquisição
 
-## Subsecção I
-
-## Aquisição onerosa
-
 # Artigo 31.º
 
 ### Formas de aquisição
