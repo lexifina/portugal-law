@@ -2,7 +2,7 @@
 
 ### Recursos e seu efeito
 
-1 - Cabe recurso da decisão que determine, recuse, mantenha ou prorrogue o internamento e da que decrete a respectiva cessação.
+1 - Cabe recurso da decisão que determine, recuse ou mantenha o internamento e da que decrete a respetiva cessação.
 
 2 - São também recorríveis as decisões de substituição da pena de prisão ainda não cumprida por prestação de trabalho a favor da comunidade e a revogação desta.
 
