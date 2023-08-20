@@ -24,8 +24,12 @@ a) Nos casos referidos nas alíneas a) a d) do n.º 1, em documento assinado pel
 
 b) No caso referido na alínea e) do n.º 1, em documento assinado pela mulher grávida ou a seu rogo, o qual deve ser entregue no estabelecimento de saúde até ao momento da intervenção e sempre após um período de reflexão não inferior a três dias a contar da data da realização da primeira consulta destinada a facultar à mulher grávida o acesso à informação relevante para a formação da sua decisão livre, consciente e responsável.
 
-5 - No caso de a mulher grávida ser menor de 16 anos ou psiquicamente incapaz, respectiva e sucessivamente, conforme os casos, o consentimento é prestado pelo representante legal, por ascendente ou descendente ou, na sua falta, por quaisquer parentes da linha colateral.
+5 - No caso de a mulher grávida ser menor de 16 anos, o consentimento é prestado pelo representante legal.
 
-6 - Se não for possível obter o consentimento nos termos dos números anteriores e a efectivação da interrupção da gravidez se revestir de urgência, o médico decide em consciência face à situação, socorrendo-se, sempre que possível, do parecer de outro ou outros médicos.
+6 - Se a mulher grávida menor de 16 anos tiver o discernimento necessário para se opor à decisão do representante legal, o consentimento é judicialmente suprido.
 
-7 - Para efeitos do disposto no presente artigo, o número de semanas de gravidez é comprovado ecograficamente ou por outro meio adequado de acordo com as leges artis.
+7 - No caso de a mulher grávida não ter capacidade para consentir, o consentimento é prestado, sendo menor, pelo seu representante legal e, sendo maior, por decisão do tribunal.
+
+8 - Se não for possível obter o consentimento nos termos dos números anteriores e a efectivação da interrupção da gravidez se revestir de urgência, o médico decide em consciência face à situação, socorrendo-se, sempre que possível, do parecer de outro ou outros médicos.
+
+9 - Para efeitos do disposto no presente artigo, o número de semanas de gravidez é comprovado ecograficamente ou por outro meio adequado de acordo com as leges artis.
