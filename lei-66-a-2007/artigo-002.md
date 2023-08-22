@@ -12,6 +12,8 @@ c) Produzir informações e emitir pareceres, por sua própria iniciativa, sobre
 
 d) Formular propostas e recomendações sobre os objetivos e a aplicação dos princípios da política para as comunidades portuguesas.
 
+e) Em matérias de relevância para as comunidades portuguesas, o Conselho é consultado pelo Governo, de forma obrigatória, não vinculativa.
+
 2 - O Conselho pode ainda apreciar questões relativas às comunidades portuguesas que lhe sejam colocadas pelo Governo da República.
 
 3 - Compete ainda ao Conselho aprovar o regulamento interno do seu funcionamento.

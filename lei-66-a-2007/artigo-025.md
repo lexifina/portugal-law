@@ -10,7 +10,7 @@ b) A ocorrência superveniente de alguma das causas de incompatibilidade previst
 
 c) A ocorrência superveniente de alguma das causas de incapacidade previstas no n.º 2 do artigo 5.º;
 
-d) A perda da condição de emigrante ou de residente no círculo eleitoral pelo qual o membro foi eleito;
+d) A alteração da área de residência do círculo eleitoral pelo qual se foi eleito;
 
 e) A não aceitação ou renúncia ao mandato;
 

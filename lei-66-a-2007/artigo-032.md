@@ -2,7 +2,7 @@
 
 ### Plenário
 
-1 - Constituem o plenário do Conselho os 80 membros eleitos.
+1 - Constituem o plenário do Conselho os 90 membros eleitos.
 
 2 - Podem participar nas reuniões do plenário, sem direito a voto:
 
@@ -26,7 +26,7 @@ e) Representantes do Conselho Permanente das Comunidades Madeirenses e do Congre
 
 f) Os parceiros sociais;
 
-g) Outras entidades nacionais ou estrangeiras.
+g) Outras entidades ou personalidades nacionais ou estrangeiras.
 
 4 - O Conselho reúne em Portugal quando convocado, com a antecedência mínima de 60 dias, pelo membro do Governo responsável pelas áreas da emigração e das comunidades portuguesas:
 

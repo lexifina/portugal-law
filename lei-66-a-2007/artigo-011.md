@@ -8,7 +8,7 @@
 
 3 - As listas propostas à eleição devem conter a indicação de candidatos efectivos em número igual ao de mandatos atribuídos ao círculo eleitoral a que se refiram e de candidatos suplentes em número igual ao dos efectivos.
 
-4 - Salvo nos casos em que o número de elegíveis seja inferior a três, as listas propostas à eleição devem garantir, na indicação de candidatos efectivos e suplentes nos termos previstos no número anterior, que, pelo menos, um terço dos eleitos seja de sexo diferente.
+4 - As listas propostas à eleição devem garantir, na indicação de candidatos efetivos e suplentes, nos termos previstos no número anterior, 50 % de candidatos de cada género.
 
 5 - Cada candidato apenas pode constar de uma lista de candidatura.
 

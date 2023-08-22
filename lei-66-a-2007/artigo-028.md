@@ -12,9 +12,9 @@ a) Comparecer nas reuniões do Conselho onde tenham assento e das comissões que
 
 b) Participar nas votações das deliberações das reuniões referidas na alínea anterior;
 
-c) Contribuir para o bom funcionamento das reuniões referidas na alínea a);
+c) Contribuir para o bom funcionamento das reuniões referidas na alínea a) e para o adequado desempenho das competências do Conselho;
 
-d) Contribuir para o adequado desempenho das competências atribuídas ao Conselho.
+d) Apresentar anualmente nas reuniões do Conselho Regional um relatório das atividades e da situação da comunidade na respetiva área de jurisdição;
 
 e) Cooperar com as comunidades portuguesas;
 

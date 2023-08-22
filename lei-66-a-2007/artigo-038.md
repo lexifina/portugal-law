@@ -14,7 +14,7 @@ d) Acompanhar a execução das deliberações e recomendações do Conselho;
 
 e) Coordenar a execução do programa de ação a que se refere a alínea f) do artigo 33.º;
 
-f) Elaborar um relatório de actividades anual;
+f) Elaborar o relatório de atividades anual e apresentar os relatórios aprovados nas reuniões do Conselho Regional sobre a situação das comunidades portuguesas nas respetivas áreas de jurisdição;
 
 g) Emitir parecer sobre as políticas relativas às comunidades portuguesas;
 

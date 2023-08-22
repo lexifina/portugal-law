@@ -6,7 +6,7 @@
 
 ### Composição
 
-1 - O Conselho é composto por um máximo de 80 membros, eleitos pelos cidadãos portugueses residentes no estrangeiro que sejam eleitores para a Assembleia da República.
+1 - O Conselho é composto por um máximo de 90 membros, eleitos pelos cidadãos portugueses residentes no estrangeiro que sejam eleitores para a Assembleia da República.
 
 2 - (Revogado).
 

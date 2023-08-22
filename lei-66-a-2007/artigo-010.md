@@ -15,3 +15,7 @@ d) No caso de restar um só mandato para distribuir e de os termos seguintes da 
 2 - (Revogado.)
 
 3 - (Revogado.)
+
+4 - O número de mandatos a eleger por cada círculo eleitoral e os círculos eleitorais são definidos para cada eleição por portaria do membro do Governo responsável pela área das comunidades portuguesas, a publicar até 65 dias antes da eleição.
+
+5 - Da aplicação do critério referido no número anterior não pode resultar o desaparecimento da representação dos círculos existentes à data da entrada em vigor da presente lei, sendo que o número total de mandatos deve assegurar, pelo menos, um conselheiro em cada círculo.
