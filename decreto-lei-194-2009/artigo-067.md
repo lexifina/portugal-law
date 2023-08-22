@@ -22,11 +22,11 @@ b) Em função do consumo médio de utilizadores com características similares 
 
 8 - Sem prejuízo do disposto nos números anteriores, a entidade gestora deve disponibilizar aos utilizadores, de forma acessível, clara e perceptível, meios alternativos para a comunicação das leituras, como a Internet, o serviço de mensagem curta de telemóvel (sms), os serviços postais ou o telefone.
 
-9 - As entidades gestoras de sistemas municipais devem emitir faturas detalhadas aos utilizadores finais que incluam a decomposição das componentes de custo que integram o serviço prestado a tais utilizadores, seja de abastecimento de água, de saneamento de águas residuais ou de gestão de resíduos urbanos.
+9 - (Revogado.)
 
-10 - A obrigação de decomposição prevista no número anterior abrange apenas os principais custos agregados, designadamente, no caso de sistemas municipais vinculados a sistemas multimunicipais ou intermunicipais, incluindo os geridos através de parcerias públicas, a componente respeitante aos serviços prestados pelas entidades gestoras dos sistemas multimunicipais ou intermunicipais de abastecimento de água, saneamento de águas residuais ou recolha de resíduos urbanos.
+10 - (Revogado.)
 
-11 - A decomposição referida nos números anteriores deve ser suficientemente clara e rigorosa, de maneira a permitir a afetação do produto da cobrança do valor de cada fatura às diferentes entidades abrangidas, nos termos dos números seguintes.
+11 - (Revogado.)
 
 12 - A percentagem do produto da cobrança de cada fatura emitida pela entidade gestora do sistema municipal a afetar ao pagamento dos serviços prestados pela entidade gestora do sistema multimunicipal ou intermunicipal é de 50 % sobre o valor da fatura relativamente a cada um dos serviços referidos no n.º 9.
 

@@ -20,7 +20,7 @@ e) Recusa de prestação dos serviços de águas ou resíduos nos casos em que o
 
 f) Falta de comunicação prévia aos utilizadores sobre interrupções programadas no abastecimento de água ou na recolha de águas residuais nos termos previstos no n.º 5 do artigo 60.º;
 
-g) Incumprimento dos deveres de informação aos utilizadores previstos nos n.os 2 a 4 do artigo 61.º e do dever previsto no n.º 6 do artigo 80.º;
+g) Incumprimento dos deveres de informação previstos no n.º 2, nas alíneas a), b), e e) do n.º 3 e nos n.os 5 a 8 do artigo 61.º;
 
 h) Inexistência do regulamento de serviço exigido pelo artigo 62.º ou manifesta desconformidade com o conteúdo mínimo exigido;
 
@@ -32,7 +32,7 @@ l) Incumprimento da obrigação de envio das listagens mensais de utilizadores n
 
 m) Recusa de celebração de contratos de fornecimento e de recolha com utilizador em violação do disposto no n.º 6 do artigo 63.º;
 
-n) Incumprimento das obrigações decorrentes do sistema de faturação detalhada previstas nos n.os 9 a 20 do artigo 67.º;
+n) Incumprimento das obrigações decorrentes do sistema de faturação detalhada previstas nos artigos 67.º-A, 67.º-B e 67.º-C.
 
 o) Inexistência de mecanismos apropriados para a apresentação de reclamações pelos utilizadores nos termos previstos no n.º 2 do artigo 68.º
 
