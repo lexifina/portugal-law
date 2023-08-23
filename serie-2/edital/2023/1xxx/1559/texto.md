@@ -1,0 +1,6 @@
+Edital n.º 1559/2023
+Sumário: Projeto do Regulamento Municipal de Habitação.
+Consulta pública do projeto de Regulamento Municipal de Habitação
+Osvaldo dos Santos Gonçalves, presidente da Câmara Municipal de Alcoutim, torna público que, nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, está a decorrer a fase de consulta pública do "Projeto de Regulamento Municipal de Habitação", pelo período de 30 dias a contar da publicação do presente aviso no Diário da República, cujo início do período de consulta pública foi deliberado pela Câmara Municipal em vinte e seis de julho de dois mil e vinte e três. Durante esse período, o projeto de regulamento encontra-se disponível para consulta no Gabinete de Apoio à Vereação (GAV), nos dias úteis durante o horário normal de expediente, bem como no site do Município, em https://cm-alcoutim.pt/menu/424/consultas-publicas, devendo as eventuais sugestões, reclamações ou observações ser dirigidas, por escrito, ao presidente da Câmara Municipal de Alcoutim, por correio, correio eletrónico ou ainda presencialmente no atendimento da Câmara Municipal.
+26 de julho de 2023. - O Presidente da Câmara, Osvaldo dos Santos Gonçalves.
+316720217
