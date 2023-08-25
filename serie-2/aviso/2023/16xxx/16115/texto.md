@@ -1,0 +1,8 @@
+Aviso n.º 16115/2023
+Sumário: Consulta pública do projeto do Regulamento e Tabela de Taxas e Preços.
+Consulta Pública do Projeto do Regulamento e Tabela de Taxas e Preços
+Teresa Alexandra Pereira Bernardino, Presidente da Junta de Freguesia de Luzianes-Gare, nos termos do disposto no n.º 1 do artigo 56.º do RJAL, aprovado no anexo I da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, em conjugação com o disposto no artigo 101.º do CPA, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua redação atual, torna público o Projeto de Regulamento e Tabela de Taxas e Preços, aprovado pela Junta de Freguesia em reunião de 16/06/2023 e pela Assembleia de Freguesia em reunião de 28/06/2023, ao abrigo do disposto na alínea h) do n.º 1 do artigo 16.º do RJAL, o qual é submetido a consulta pública para recolha de sugestões, durante o prazo de 30 (trinta) dias a contar da data da publicação do presente Edital.
+O referido Projeto de Regulamento poderá ser consultado nos Serviços Administrativos da Freguesia, durante o horário das 9h às 12.30h e das 14h às 17.30h, nos dias úteis de segunda a sexta-feira.
+Durante o período de consulta pública, os interessados deverão apresentar as suas sugestões, ou questões que possam ser consideradas relevantes no âmbito do presente procedimento, por escrito, de forma fundamentada e dirigidas a Senhora Presidente da Junta de Freguesia, através de correio postal para o endereço Largo da Junta de Freguesia, Luzianes-Gare, 7665-891 Luzianes-Gare, ou através de correio eletrónico para o endereço freguesialuzianesgare@gmail.com, no prazo acima indicado.
+28 de julho de 2023. - A Presidente da Junta de Freguesia, Teresa Alexandra Pereira Bernardino.
+316728991
