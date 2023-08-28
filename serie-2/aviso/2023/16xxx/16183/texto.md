@@ -1,0 +1,13 @@
+Aviso n.º 16183/2023
+Sumário: Alteração ao Plano de Pormenor da Zona Nordeste de São Luís.
+Alteração ao Plano de Pormenor da Zona Nordeste de São Luís
+Hélder António Guerreiro, Presidente da Câmara Municipal, torna público que, nos termos e para os efeitos no n.º 1 do artigo 76.º e do artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, que a Câmara Municipal de Odemira, em reunião ordinária realizada em 26 de junho de 2023, deliberou, por unanimidade aprovar, o início de procedimento de alteração do Plano de Pormenor da Zona Nordeste de São Luís (PPZNSL) - publicado pela Portaria n.º 155/94, de 18 de março de 1994, no Diário da República, 1.ª série-B, n.º 65 de 18 de março de 1994, na sua atual redação - bem como, os respetivos termos de referência.
+Foi aprovada a dispensa de avaliação ambiental, nos termos do n.º 1 do artigo 78.º do RJIGT, bem como o prazo de 90 (noventa) dias para a conclusão do procedimento de alteração do PPZNSL, conforme consta nos termos de referência.
+Fixou-se, ainda, o prazo de 15 dias úteis, para participação, conforme o disposto no n.º 1 do artigo 76.º e no n.º 2 do artigo 88.º do RJGIT. O referido prazo conta-se a partir do 5.º dia posterior ao da publicação do presente aviso na 2.ª série do Diário da República, para recolha de sugestões, apresentação de informações ou quaisquer outras questões que possam ser consideradas no âmbito do presente procedimento de alteração do PPZNSL.
+A presente alteração tem como objetivo ir ao encontro das carências habitacionais detetadas na Estratégia Local de Habitação.
+O respetivo processo poderá ser consultado pelos interessados, no Balcão Único do Município de Odemira, na Junta de Freguesia de São Luís, todos os dias úteis durante as horas normais de expediente e, no sítio da Internet www.cm-odemira.pt, podendo ser objeto de observações, reclamações e sugestões a apresentar por escrito em impresso próprio disponível nos locais da consulta, por correio eletrónico para geral@cm-odemira.pt ou por carta registada, dirigida ao Presidente da Câmara Municipal, para a Praça da República, 7630-139 Odemira.
+21 de julho de 2023. - O Presidente da Câmara, Hélder Guerreiro, eng.
+Deliberação
+A Câmara Municipal de Odemira deliberou, na reunião ordinária realizada no dia vinte e seis de junho do ano de dois mil e vinte e três, aprovar por unanimidade a "Alteração ao Plano de Pormenor da Zona Nordeste de São Luís e ao Loteamento Municipal de Corte Pinheiro".
+27 de junho de 2023. - O Vice-Presidente da Câmara Municipal, Ricardo Cardoso, lic.
+616711048
