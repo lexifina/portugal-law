@@ -1,0 +1,8 @@
+Aviso n.º 16206/2023
+Sumário: Consulta pública da proposta do Regulamento Municipal de Remoção e Depósito de Veículos Abandonados em Estacionamento Indevido ou Abusivo.
+Regulamento Municipal de Remoção e Depósito de Veículos Abandonados em Estacionamento Indevido ou Abusivo
+Luís Carlos Piteira Dias, Presidente da Câmara Municipal de Vendas Novas, torna a público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, em sua reunião ordinária realizada dia 25 de julho de 2023, deliberou aprovar a proposta de Regulamento Municipal de remoção e depósito de veículos abandonados em estacionamento indevido ou abusivo. Assim, nos termos e para cumprimento do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, submete-se a referida proposta de Regulamento a consulta pública, pelo prazo de 30 dias úteis contados a partir da data da publicação do presente aviso na 2.ª série do Diário da República.
+O documento encontra-se disponível para consulta na Junta de Freguesia da Landeira e no Centro de Atendimento ao Público da Câmara Municipal de Vendas Novas, todos os dias úteis das 9:00 às 12:30 e das 14:00 às 17:30 horas, bem como no sítio do Município de Vendas Novas na Internet (www.cm-vendasnovas.pt)
+As sugestões deverão ser formuladas por escrito, presencialmente, por correio ou por via eletrónica através do endereço de e-mail do Município de Vendas Novas e enviadas à Câmara Municipal, dirigidas ao seu Presidente, até às 17:30 horas do último dia do prazo acima referido.
+28 de junho de 2023. - O Presidente da Câmara Municipal, Luís Carlos Piteira Dias.
+316727565
