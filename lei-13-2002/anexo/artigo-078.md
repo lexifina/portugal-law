@@ -4,16 +4,18 @@
 
 Compete ao presidente do Conselho Superior dos Tribunais Administrativos e Fiscais:
 
-a) Dirigir as sessões do Conselho e superintender nos respectivos serviços;
+a) Representar o Conselho;
 
-b) Fixar o dia e a hora das sessões ordinárias e convocar as sessões extraordinárias;
+b) Dirigir as sessões do Conselho e superintender nos respectivos serviços;
 
-c) Dar posse aos inspectores e ao secretário do Conselho;
+c) Fixar o dia e a hora das sessões ordinárias e convocar as sessões extraordinárias;
 
-d) Dirigir e coordenar os serviços de inspecção;
+d) Dar posse aos inspectores e ao secretário do Conselho;
 
-e) Elaborar, por sua iniciativa ou mediante proposta do secretário, as instruções de execução permanente;
+e) Dirigir e coordenar os serviços de inspecção;
 
-f) Exercer os poderes que lhe sejam delegados pelo Conselho;
+f) Elaborar, por sua iniciativa ou mediante proposta do secretário, as instruções de execução permanente;
 
-g) Exercer as demais funções que lhe sejam deferidas por lei.
+g) Exercer os poderes que lhe sejam delegados pelo Conselho;
+
+h) Exercer as demais funções que lhe sejam deferidas por lei.

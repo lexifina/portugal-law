@@ -30,7 +30,7 @@ m) Solicitar o suprimento de necessidades de resposta adicional através do recu
 
 n) Estabelecer a forma mais equitativa de intervenção dos juízes-adjuntos;
 
-o) Agregar transitoriamente a uma secção juízes de outra secção, a fim de acorrerem a necessidades temporárias de serviço;
+o) Agregar transitoriamente a uma secção juízes de outra secção ou a uma subsecção juízes de outra subsecção, a fim de acorrerem a necessidades temporárias de serviço;
 
 p) Fixar os turnos de juízes;
 

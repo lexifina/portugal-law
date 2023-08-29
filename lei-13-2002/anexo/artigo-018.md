@@ -2,6 +2,6 @@
 
 ### Adjuntos
 
-1 - Entre os juízes que integram cada formação de julgamento deve existir uma diferença de três posições quanto ao lugar que lhes corresponde na escala da distribuição no Tribunal ou na secção, sendo a contagem dos lugares realizada a partir da posição que corresponde ao relator.
+1 - Os adjuntos são apurados aleatoriamente, sendo a distribuição feita de entre todos os juízes da secção ou subsecção competente.
 
 2 - Cada adjunto é substituído, em caso de falta ou impedimento, pelo juiz que imediatamente se lhe segue.

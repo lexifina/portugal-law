@@ -10,7 +10,7 @@ Compete à Secção de Contencioso Tributário do Supremo Tribunal Administrativ
 
 a) Dos recursos dos acórdãos da Secção de Contencioso Tributário dos tribunais centrais administrativos, proferidos em primeiro grau de jurisdição;
 
-b) Dos recursos interpostos de decisões de mérito dos tribunais tributários, com exclusivo fundamento em matéria de direito;
+b) Dos recursos interpostos de decisões de mérito dos tribunais tributários, com exclusivo fundamento em matéria de direito, sempre que o valor da causa seja superior à alçada dos tribunais centrais administrativos e o valor da sucumbência seja superior a metade da alçada do tribunal de que se recorre;
 
 c) Dos recursos de actos administrativos do Conselho de Ministros respeitantes a questões fiscais;
 

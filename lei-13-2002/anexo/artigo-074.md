@@ -30,7 +30,7 @@ i) Emitir os cartões de identidade dos juízes, de modelo idêntico aos dos ju�
 
 j) Propor ao Ministro da Justiça providências legislativas com vista ao aperfeiçoamento e à maior eficiência da jurisdição administrativa e fiscal;
 
-k) Fixar o número e o tipo de vagas, que podem ser mistas, nos juízos de competência especializada, dentro do quadro de cada tribunal;
+k) Fixar, sob proposta dos respetivos presidentes, o número e o tipo de vagas, que podem ser mistas, nos juízos de competência especializada e o número de vagas nas subsecções dos tribunais centrais administrativos, dentro do respetivo quadro, tendo em atenção o volume e a complexidade do serviço;
 
 l) Emitir parecer sobre as iniciativas legislativas que se relacionem com a jurisdição administrativa e fiscal;
 

@@ -48,4 +48,4 @@ v) Um advogado com funções no Conselho Superior da Ordem dos Advogados, cabend
 
 6 - O Conselho Superior dos Tribunais Administrativos e Fiscais solicita, a cada uma das universidades, institutos universitários e outras escolas universitárias, públicos e privados, que ministrem o curso de Direito, a indicação, no prazo de 20 dias úteis, do nome de um professor de Direito, com a categoria de professor catedrático, procedendo, subsequentemente, à escolha do vogal a que se refere a subalínea iv) da alínea b) do n.º 3, por votação, por voto secreto, de entre os indicados.
 
-7 - O concurso é aberto para cada uma das secções e tem a validade de um ano, prorrogável até seis meses.
+7 - O concurso é aberto para cada uma das secções e tem a validade de dois anos, prorrogável até seis meses.
