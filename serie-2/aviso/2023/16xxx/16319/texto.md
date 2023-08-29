@@ -1,0 +1,27 @@
+Aviso n.º 16319/2023
+Sumário: Alteração do Plano Diretor Municipal de Torres Vedras.
+Plano Diretor Municipal de Torres Vedras - Proposta de alteração nos termos do art. 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial - Unidade de Saúde de A dos Cunhados e Maceira
+Laura Maria Jesus Rodrigues, Presidente da Câmara Municipal de Torres Vedras:
+Torna público, que a câmara municipal, em sua reunião ordinária pública de 18/07/2023, deliberou, nos termos do n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na sua atual redação:
+1 - Aprovar a abertura do procedimento de alteração ao Plano Diretor Municipal de Torres Vedras, nos termos do artigo 119.º, do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na redação dada pelo Decreto-Lei n.º 80/2015, de 14/05 com as alterações introduzidas pelo Decreto-Lei n.º 20/2020, de 1/05, Decreto-Lei n.º 81/2020, de 2/10, Decreto-Lei n.º 25/2021, de 29/03 e Decreto-Lei n.º 45/2022, de 8/07, tendo como propósito permitir a instalação na freguesia de A dos Cunhados e Maceira de uma unidade de saúde;
+2 - Estabelecer um prazo de 6 (seis) meses para a elaboração da referida alteração (n.º 1, do artigo 76.º, do RJIGT);
+3 - Não sujeitar a alteração a procedimento de avaliação ambiental (n.º 1 e 2, do artigo 120.º do RJIGT e Decreto-Lei n.º 232/2007, de 15/06, alterado pelo Decreto-Lei n.º 58/2011 de 4/05), com base nos fundamentos constantes da subalínea 3. iii.a) da informação da divisão de planeamento estratégico e territorial de 14/07/2023;
+4 - Definir um prazo de participação preventiva de 15 (quinze) dias (n.º 1, do artigo 76.º, do RJIGT) a contar do 5.º dia após a data da publicação do Aviso no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração, nos termos do n.º 2, do artigo 88.º, do RJIGT, as quais poderão ser apresentadas por escrito, no Balcão de Atendimento do Edifício Multisserviços, sito na Av.ª 5 de Outubro, em Torres Vedras, por correio, ou por correio eletrónico para o endereço geral@cm-tvedras.pt.
+5 - Disponibilizar, para consulta, a referida deliberação, acompanhada da informação técnica de enquadramento, no átrio do citado edifício multisserviços, nas Juntas de Freguesia e no site da câmara municipal.
+Mais torna público que a referida deliberação, acompanhada da informação técnica de enquadramento, encontram-se disponíveis para consulta no átrio do citado edifício multisserviços, nas Juntas de Freguesia e no site da câmara municipal.
+Torna ainda público que a ata da citada reunião foi aprovada em minuta, nos termos do n.º 3, do artigo 57.º, da Lei n.º 75/2013, de 12/09, na sua atual redação, a fim de surtir efeitos imediatos.
+Para constar e devidos efeitos, se publica o presente aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+E eu, Catarina Lopes Avelino, Chefe da Divisão Administrativa, o subscrevi.
+25 de julho de 2023. - A Presidente da Câmara Municipal, Laura Maria Jesus Rodrigues.
+Deliberação
+Catarina Lopes Avelino, chefe de Divisão Administrativa da Câmara Municipal de Torres Vedras:
+Certifica, para os devidos efeitos, que a câmara, em sua reunião ordinária pública, realizada em 18/07/2023, deliberou por unanimidade:
+1 - Aprovar a abertura do procedimento de alteração ao Plano Diretor Municipal de Torres Vedras, nos termos do artigo 119.º, do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na redação dada pelo Decreto-Lei n.º 80/2015, de 14/05 com as alterações introduzidas pelo Decreto-Lei n.º 20/2020, de 1/05, Decreto-Lei n.º 81/2020, de 2/10, Decreto-Lei n.º 25/2021, de 29/03 e Decreto-Lei n.º 45/2022, de 8/07, com o propósito de permitir a instalação na freguesia de A dos Cunhados e Maceira de uma unidade de saúde;
+2 - Estabelecer um prazo de 6 (seis) meses para a elaboração da referida alteração (n.º 1, do artigo 76.º do RJIGT);
+3 - Não sujeitar a alteração a procedimento de avaliação ambiental (n.º 1 e 2, do artigo 120.º do RJIGT e Decreto-Lei n.º 232/2007, de 15/06, alterado pelo Decreto-Lei n.º 58/2011 de 4/05), com base nos fundamentos constantes da subalínea 3. iii.a) da presente informação;
+4 - Definir um prazo de participação preventiva de 15 (quinze) dias (n.º 1, do artigo 76.º, do RJIGT) a contar do 5.º dia após a data da publicação do Aviso no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração, nos termos do n.º 2, do artigo 88.º, do RJIGT, as quais poderão ser apresentadas por escrito, no Balcão de Atendimento do Edifício Multisserviços, sito na Av.ª 5 de Outubro, em Torres Vedras, por correio, ou por correio eletrónico para o endereço geral@cm-tvedras.pt.
+Mais certifica que a referida deliberação, acompanhada da informação técnica de enquadramento, se encontram disponíveis para consulta no átrio do citado edifício multisserviços, nas Juntas de Freguesia e no site da câmara municipal.
+Certifica ainda que foi também deliberado, por unanimidade, aprovar, nos termos do n.º 3, do artigo 57.º, da Lei n.º 75/2013, de 12/09, na sua atual redação, em minuta, a respetiva ata, a fim de a mesma surtir efeitos imediatos.
+O referido é verdade.
+Torres Vedras, 19 de julho de 2023. - A Chefe da Divisão Administrativa, Catarina Lopes Avelino.
+616721392
