@@ -1,0 +1,16 @@
+# Resolução do Conselho do Governo Regional n.º 938/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 159/2023, 2.º suplemento, de 2023-08-29
+
+**Sumário:** Autoriza a renovação pelo período de 1 (um) ano, do contrato de arrendamento urbano, com autorização de subarrendamento para habitação social com prazo certo, da fração habitacional de tipologia T2, localizada à Rua Coohafal, C.R.L, Conjunto Habitacional Madalena II, Bloco J(2), R/C I, freguesia de Santo António, município do Funchal, com efeitos reportados a 1 de setembro de 2023 a 31 de agosto de 2024.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 938/2023
+Sumário: Autoriza a renovação pelo período de 1 (um) ano, do contrato de arrendamento urbano, com autorização de subarrendamento para habitação social com prazo certo, da fração habitacional de tipologia T2, localizada à Rua Coohafal, C.R.L, Conjunto Habitacional
+
+Madalena II, Bloco J(2), R/C I, freguesia de Santo António, município do Funchal, com efeitos reportados a 1 de setembro de 2023 a 31 de agosto de 2024.
+Texto: Resolução n.º 938/2023 Considerando que, em 31 de agosto de 2021, a Região Autónoma da Madeira celebrou um contrato de arrendamento urbano, com autorização de subarrendamento para habitação social com prazo certo, relativo à fração habitacional de tipologia T2, localizada à Rua Coohafal, C.R.L, Conjunto Habitacional Madalena II, Bloco J(2), R/C I, freguesia de Santo António, concelho do Funchal, inscrita na matriz predial respetiva sob o artigo 6013 e descrita na Conservatória do Registo Predial do Funchal sob o n.º 732/19900530-I0-J, devidamente autorizado pela Resolução do Conselho de Governo n.º 799/2021, de 26 de agosto; Considerando que o referido contrato foi celebrado pelo prazo de 2 (dois) anos e foi estabelecido que o mesmo se renovava pelo período de 1 (um) ano, salvo se qualquer um dos outorgantes se opusesse à respetiva renovação ou exercesse a denúncia; Considerando que a necessidade que levou à celebração do contrato de arrendamento se mantém, importa proceder à renovação do arrendamento por mais 1 (um) ano. O Conselho do Governo reunido em plenário em 24 de agosto de 2023, resolve: Autorizar, nos termos do disposto no n.º 1, do artigo 30.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro de 2022, a renovação pelo período de 1 (um) ano, do contrato de arrendamento urbano, com autorização de subarrendamento para habitação social com prazo certo, da fração habitacional de tipologia T2, localizada à Rua Coohafal, C.R.L, Conjunto Habitacional Madalena II, Bloco J(2), R/C I, freguesia de Santo António, concelho do Funchal, inscrita na matriz predial respetiva sob o artigo 6013 e descrita na Conservatória do Registo Predial do Funchal sob o n.º 732/19900530-I0-J, com efeitos reportados a 01 de setembro de 2023 a 31 de agosto de 2024. A despesa será suportada pelo Orçamento da Região Autónoma da Madeira, na rubrica da Secretaria 45, Capítulo 01, Divisão 02, Subdivisão 04, Código de Classificação Económica 02.02.04.S0.00, Centro Financeiro M100333, Fonte de Financiamento 311, conforme informação de cabimento n.º CY42313098 e compromisso n.º CY52314214.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
