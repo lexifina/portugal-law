@@ -22,4 +22,4 @@ d) (Revogada).
 
 e) (Revogada).
 
-f) O facto que motiva a emissão do mandado de detenção europeu não constituir infração punível de acordo com a lei portuguesa, desde que se trate de infração não incluída no n.º 2 do artigo 2.º
+f) (Revogada.)
