@@ -22,7 +22,9 @@ h) Ser informado, pela autoridade judiciária ou pelo órgão de polícia crimin
 
 i) Ser acompanhado, caso seja menor, durante as diligências processuais a que compareça, pelos titulares das responsabilidades parentais, pelo representante legal ou por pessoa que tiver a sua guarda de facto ou, na impossibilidade de contactar estas pessoas, ou quando circunstâncias especiais fundadas no seu interesse ou as necessidades do processo o imponham, e apenas enquanto essas circunstâncias persistirem, por outra pessoa idónea por si indicada e aceite pela autoridade judiciária competente;
 
-j) Recorrer, nos termos da lei, das decisões que lhe forem desfavoráveis.
+j) Tradução e interpretação, nos termos dos artigos 92.º e 93.º;
+
+k) Recorrer, nos termos da lei, das decisões que lhe forem desfavoráveis.
 
 2 - A comunicação em privado referida na alínea f) do número anterior ocorre à vista quando assim o impuserem razões de segurança, mas em condições de não ser ouvida pelo encarregado da vigilância.
 

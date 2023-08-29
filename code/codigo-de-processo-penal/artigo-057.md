@@ -10,7 +10,7 @@
 
 2 - A qualidade de arguido conserva-se durante todo o decurso do processo.
 
-3 - É correspondentemente aplicável o disposto nos n.os 2 a 6 do artigo seguinte.
+3 - É correspondentemente aplicável o disposto nos n.os 2 a 7 do artigo seguinte.
 
 4 - A pessoa coletiva ou entidade equiparada pode ser constituída arguida.
 

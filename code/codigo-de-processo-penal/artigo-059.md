@@ -8,4 +8,4 @@
 
 3 - Os números anteriores são aplicáveis logo que, durante a inquirição de um seu representante como arguido ou testemunha, surja a fundada suspeita da prática de um crime pela pessoa coletiva ou entidade equiparada que ainda não seja arguida.
 
-4 - É correspondentemente aplicável o disposto nos n.os 2 a 7 do artigo 58.º
+4 - É correspondentemente aplicável o disposto nos n.os 2 a 8 do artigo 58.º

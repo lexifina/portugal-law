@@ -18,10 +18,12 @@ d) For levantado auto de notícia que dê uma pessoa como agente de um crime e a
 
 4 - A constituição de arguido feita por órgão de polícia criminal é comunicada à autoridade judiciária no prazo de 10 dias e por esta apreciada, em ordem à sua validação, no prazo de 10 dias.
 
-5 - A constituição de arguido implica a entrega, sempre que possível no próprio acto, de documento de que constem a identificação do processo e do defensor, se este tiver sido nomeado, e os direitos e deveres processuais referidos no artigo 61.º
+5 - A constituição de arguido implica a entrega, sempre que possível no próprio ato ou sem demora injustificada, de documento de que constem a identificação do processo e do defensor, se este tiver sido nomeado, e os direitos e deveres processuais referidos no artigo 61.º
 
-6 - A omissão ou violação das formalidades previstas nos números anteriores implica que as declarações prestadas pela pessoa visada não podem ser utilizadas como prova.
+6 - Se o arguido não conhecer ou não dominar a língua portuguesa, quando o documento previsto no número anterior não esteja disponível em língua que este compreenda, a informação é transmitida oralmente, se necessário com intervenção de intérprete, sem prejuízo de lhe ser posteriormente entregue, sem demora injustificada, documento escrito em língua que compreenda.
 
-7 - A não validação da constituição de arguido pela autoridade judiciária não prejudica as provas anteriormente obtidas.
+7 - A omissão ou violação das formalidades previstas nos números anteriores implica que as declarações prestadas pela pessoa visada não podem ser utilizadas como prova.
 
-8 - Sem prejuízo da prossecução do processo, a constituição de arguido menor é comunicada, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.
+8 - A não validação da constituição de arguido pela autoridade judiciária não prejudica as provas anteriormente obtidas.
+
+9 - Sem prejuízo da prossecução do processo, a constituição de arguido menor é comunicada, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.
