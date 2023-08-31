@@ -1,0 +1,23 @@
+# Portaria n.º 631/2023
+
+**Emissor:** SECRETARIAS REGIONAIS DAS FINANÇAS E DE MAR E PESCAS
+
+**Publicação:** JORAM, I série, n.º 161/2023, suplemento, de 2023-08-31
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais referentes aos apoios concedidos pelo Programa Mar 2030, na Região Autónoma da Madeira para o período 2021-2027.
+
+## Texto
+
+Portaria n.º 631/2023
+de 31 de agosto
+Sumário: Autoriza a distribuição dos encargos orçamentais referentes aos apoios concedidos pelo Programa Mar 2030, na Região Autónoma da Madeira para o período 2021-2027.
+Texto: Considerando que, o Programa Mar 2030 para o período 2021-2027, financiado pelo Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura (FEAMPA), foi aprovado formalmente pela Comissão Europeia através da Decisão de Execução C (2022) 8925 final, de 1 de dezembro de 2022; Considerando que, a Resolução do Conselho do Governo Regional n.º 185/2023, de 21 de março, relativa à operacionalização do Programa Mar 2030 na Região Autónoma da Madeira, designa o Diretor Regional de Pescas para o cargo de Coordenador Regional do Programa Mar 2030 e a Resolução do Conselho do Governo n.º 239/2023, de 30 de março, cria o apoio técnico do Coordenador Regional do Mar 2030, define as suas competências e estabelece os procedimentos para a gestão do FEAMPA; Considerando que, a Portaria nº 559/2023, de 25 de julho, aprova o regulamento específico das medidas de apoio do Programa Mar 2030, para a Região Autónoma da Madeira, a qual, nos n.º s 1 e 3 do artigo 13.º, prevê que, o apoio público das operações corresponde à soma da contribuição europeia com a contribuição pública nacional, podendo a contribuição europeia ser de até 70% da taxa de apoio público; e os encargos com o pagamento dos apoios públicos são suportados por verbas colocadas na disponibilidade do Instituto de Financiamento da Agricultura e Pescas, I.P (IFAP, I.P), inscritas no Orçamento Regional, e associadas ao programa financiador; Considerando que, o Instituto de Financiamento da Agricultura e Pescas, I.P., organismo intermédio do FEAMPA, tem competências delegadas para proceder ao pagamento dos apoios aos beneficiários; Considerando o disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, no artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, no n.º 1 do artigo 29.º e 32.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, e no n.º 1 do artigo 23.º do Decreto Regulamentar Regional n.º 8/2023/M, de 22 de março. Assim, manda o Governo Regional, através do Secretário Regional das Finanças e do Secretário Regional de Mar e Pescas, o seguinte:
+1. Os encargos orçamentais, referentes aos apoios concedidos pelo Programa Mar 2030 na Região Autónoma da Madeira para o período 2021-2027, não excederão, em cada ano económico, os seguintes valores:
+Ano Económico de 2023 ................................................................................. € 20.000,00; Ano Económico de 2024 ............................................................................... € 200.000,00; Ano Económico de 2025 ................................................................................ € 200.000,00; Ano Económico de 2026 ................................................................................ € 200.000,00; Ano Económico de 2027 ................................................................................ € 200.000,00; Ano Económico de 2028 ............................................................................... € 200.000,00; Ano Económico de 2029 ............................................................................... € 200.000,00; Ano Económico de 2030 ............................................................................... € 164.286,00.
+2. A despesa relativa ao ano económico de 2023 tem cabimento orçamental no Orçamento da Região Autónoma da Madeira para 2023, na Classificação Orgânica 50 9 50 02 00, Classificação Funcional 042, Classificação Económica D.08.03.07.WS.00, Projeto 53037, Fonte de Financiamento 384 e Cabimento CY42313483.
+3. Aos valores referidos em 1 não acresce IVA à taxa legal em vigor.
+4. O montante fixado para cada ano económico poderá ser acrescido do saldo apurado no ano anterior.
+5. A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
+Secretaria Regional das Finanças e Secretaria Regional de Mar e Pescas, no Funchal, aos 25 dias do mês de agosto de 2023.
+O SECRETÁRIO REGIONAL DAS FINANÇAS, Rogério de Andrade Gouveia
+O SECRETÁRIO REGIONAL DE MAR E PESCAS, Teófilo Alírio Reis Cunha
