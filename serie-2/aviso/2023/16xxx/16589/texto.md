@@ -1,0 +1,7 @@
+Aviso n.º 16589/2023
+Sumário: Projeto de alteração do Regulamento do Programa de Apoio às Famílias do Município de São João da Madeira - «S. João Solidário»
+Projeto de alteração do Regulamento do Programa de Apoio às Famílias do Município de São João da Madeira - "S. João Solidário"
+Nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, torna-se público que a Câmara Municipal de São João da Madeira, na sua reunião de 31 de julho de 2023, deliberou aprovar e submeter a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Aviso no Diário da República, o "Projeto de Alteração ao Regulamento do Programa de Apoio às Famílias do Município de São João da Madeira - «S. João Solidário»"", cujo texto poderá ser consultado no sítio institucional do município em www.cm-sjm.pt.
+Os/as interessados/as, no decurso do prazo, poderão apresentar as sugestões, por escrito, dirigidas ao Presidente da Câmara Municipal de São João da Madeira, podendo ser apresentadas no Gabinete de Atendimento ao Munícipe, ou remetidas por via postal para a morada Avenida da Liberdade, 3701-956 São João da Madeira, ou ainda por correio eletrónico para o endereço paulagaio@cm-sjm.pt.
+1 de agosto de 2023. - O Presidente da Câmara Municipal, Jorge M. R. Vultos Sequeira.
+316741723
