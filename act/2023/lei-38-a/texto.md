@@ -1,0 +1,121 @@
+Lei n.º 38-A/2023
+de 2 de agosto
+Sumário: Perdão de penas e amnistia de infrações.
+Perdão de penas e amnistia de infrações
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+Artigo 1.º
+Objeto
+A presente lei estabelece um perdão de penas e uma amnistia de infrações por ocasião da realização em Portugal da Jornada Mundial da Juventude.
+Artigo 2.º
+Âmbito
+1 - Estão abrangidas pela presente lei as sanções penais relativas aos ilícitos praticados até às 00:00 horas de 19 de junho de 2023, por pessoas que tenham entre 16 e 30 anos de idade à data da prática do facto, nos termos definidos nos artigos 3.º e 4.º
+2 - Estão igualmente abrangidas pela presente lei as:
+a) Sanções acessórias relativas a contraordenações praticadas até às 00:00 horas de 19 de junho de 2023, nos termos definidos no artigo 5.º;
+b) Sanções relativas a infrações disciplinares e infrações disciplinares militares praticadas até às 00:00 horas de 19 de junho de 2023, nos termos definidos no artigo 6.º
+Artigo 3.º
+Perdão de penas
+1 - Sem prejuízo do disposto no artigo 4.º, é perdoado 1 ano de prisão a todas as penas de prisão até 8 anos.
+2 - São ainda perdoadas:
+a) As penas de multa até 120 dias a título principal ou em substituição de penas de prisão;
+b) A prisão subsidiária resultante da conversão da pena de multa;
+c) A pena de prisão por não cumprimento da pena de multa de substituição; e
+d) As demais penas de substituição, exceto a suspensão da execução da pena de prisão subordinada ao cumprimento de deveres ou de regras de conduta ou acompanhada de regime de prova.
+3 - O perdão previsto no n.º 1 pode ter lugar sendo revogada a suspensão da execução da pena.
+4 - Em caso de condenação em cúmulo jurídico, o perdão incide sobre a pena única.
+5 - O disposto no n.º 1 abrange a execução da pena em regime de permanência na habitação.
+6 - O perdão previsto no presente artigo é materialmente adicionável a perdões anteriores.
+Artigo 4.º
+Amnistia de infrações penais
+São amnistiadas as infrações penais cuja pena aplicável não seja superior a 1 ano de prisão ou a 120 dias de multa.
+Artigo 5.º
+Perdão de sanções acessórias relativas a contraordenações
+São perdoadas as sanções acessórias relativas a contraordenações cujo limite máximo de coima aplicável não exceda 1000 (euro).
+Artigo 6.º
+Amnistia de infrações disciplinares e infrações disciplinares militares
+São amnistiadas as infrações disciplinares e as infrações disciplinares militares que não constituam simultaneamente ilícitos penais não amnistiados pela presente lei e cuja sanção aplicável, em ambos os casos, não seja superior a suspensão ou prisão disciplinar.
+Artigo 7.º
+Exceções
+1 - Não beneficiam do perdão e da amnistia previstos na presente lei:
+a) No âmbito dos crimes contra as pessoas, os condenados por:
+i) Crimes de homicídio e infanticídio, previstos nos artigos 131.º a 133.º e 136.º do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro;
+ii) Crimes de violência doméstica e de maus-tratos, previstos nos artigos 152.º e 152.º-A do Código Penal;
+iii) Crimes de ofensa à integridade física grave, de mutilação genital feminina, de tráfico de órgãos humanos e de ofensa à integridade física qualificada, previstos nos artigos 144.º, 144.º-A, 144.º-B e na alínea c) do n.º 1 do artigo 145.º do Código Penal;
+iv) Crimes de coação, perseguição, casamento forçado, sequestro, escravidão, tráfico de pessoas, rapto e tomada de reféns, previstos nos artigos 154.º a 154.º-B e 158.º a 162.º do Código Penal;
+v) Crimes contra a liberdade e a autodeterminação sexual, previstos nos artigos 163.º a 176.º-B do Código Penal;
+b) No âmbito dos crimes contra o património, os condenados:
+i) Por crimes de abuso de confiança ou burla, nos termos dos artigos 205.º, 217.º e 218.º do Código Penal, quando cometidos através de falsificação de documentos, nos termos dos artigos 256.º a 258.º do Código Penal, e por roubo, previsto no n.º 2 do artigo 210.º do Código Penal;
+ii) Por crime de extorsão, previsto no artigo 223.º do Código Penal;
+c) No âmbito dos crimes contra a identidade cultural e integridade pessoal, os condenados por crimes de discriminação e incitamento ao ódio e à violência e de tortura e outros tratamentos cruéis, degradantes ou desumanos, incluindo na forma grave, previstos nos artigos 240.º, 243.º e 244.º do Código Penal;
+d) No âmbito dos crimes contra a vida em sociedade, os condenados por:
+i) Crimes de incêndios, explosões e outras condutas especialmente perigosas, de incêndio florestal, danos contra a natureza e de poluição, previstos nos artigos 272.º, 274.º, 278.º e 279.º do Código Penal;
+ii) Crimes de condução perigosa de veículo rodoviário e de condução de veículo em estado de embriaguez ou sob a influência de estupefacientes ou substâncias psicotrópicas, previstos nos artigos 291.º e 292.º do Código Penal;
+iii) Crime de associação criminosa, previsto no artigo 299.º do Código Penal;
+e) No âmbito dos crimes contra o Estado, os condenados por:
+i) Crimes contra a soberania nacional e contra a realização do Estado de direito, previstos nas secções i e ii do capítulo i do título v do livro ii do Código Penal, incluindo o crime de tráfico de influência, previsto no artigo 335.º do Código Penal;
+ii) Crimes de evasão e de motim de presos, previstos nos artigos 352.º e 354.º do Código Penal;
+iii) Crime de branqueamento, previsto no artigo 368.º-A do Código Penal;
+iv) Crimes de corrupção, previstos nos artigos 372.º a 374.º do Código Penal;
+v) Crimes de peculato e de participação económica em negócio, previstos nos artigos 375.º e 377.º do Código Penal;
+f) No âmbito dos crimes previstos em legislação avulsa, os condenados por:
+i) Crimes de terrorismo, previstos na lei de combate ao terrorismo, aprovada pela Lei n.º 52/2003, de 22 de agosto;
+ii) Crimes previstos nos artigos 7.º, 8.º e 9.º da Lei n.º 20/2008, de 21 de abril, que cria o novo regime penal de corrupção no comércio internacional e no setor privado, dando cumprimento à Decisão Quadro 2003/568/JAI do Conselho, de 22 de julho de 2003;
+iii) Crimes previstos nos artigos 8.º, 9.º, 10.º, 10.º-A, 11.º e 12.º da Lei n.º 50/2007, de 31 de agosto, que estabelece um novo regime de responsabilidade penal por comportamentos suscetíveis de afetar a verdade, a lealdade e a correção da competição e do seu resultado na atividade desportiva;
+iv) Crimes de fraude na obtenção de subsídio ou subvenção, de desvio de subvenção, subsídio ou crédito bonificado e de fraude na obtenção de crédito, previstos nos artigos 36.º, 37.º e 38.º do Decreto-Lei n.º 28/84, de 20 de janeiro, que altera o regime em vigor em matéria de infrações antieconómicas e contra a saúde pública;
+v) Crimes previstos nos artigos 36.º e 37.º do Código de Justiça Militar, aprovado em anexo à Lei n.º 100/2003, de 15 de novembro;
+vi) Crime de tráfico e mediação de armas, previsto no artigo 87.º da Lei n.º 5/2006, de 23 de fevereiro, que aprova o regime jurídico das armas e suas munições;
+vii) Crimes previstos na Lei n.º 109/2009, de 15 de setembro, que aprova a Lei do Cibercrime;
+viii) Crime de auxílio à imigração ilegal, previsto no artigo 183.º da Lei n.º 23/2007, de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional;
+ix) Crimes de tráfico de estupefacientes, previstos nos artigos 21.º, 22.º e 28.º do Decreto-Lei n.º 15/93, de 22 de janeiro, que aprova o regime jurídico aplicável ao tráfico e consumo de estupefacientes e substâncias psicotrópicas;
+x) Crimes previstos nos artigos 27.º a 34.º da Lei n.º 39/2009, de 30 de julho, que estabelece o regime jurídico do combate à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos, de forma a possibilitar a realização dos mesmos com segurança;
+g) Os condenados por crimes praticados contra crianças, jovens e vítimas especialmente vulneráveis, nos termos do artigo 67.º-A do Código de Processo Penal, aprovado em anexo ao Decreto-Lei n.º 78/87, de 17 de fevereiro;
+h) Os condenados por crimes praticados enquanto titular de cargo político ou de alto cargo público, magistrado judicial ou do Ministério Público, no exercício de funções ou por causa delas, designadamente aqueles previstos na Lei n.º 34/87, de 16 de julho, que determina os crimes de responsabilidade que titulares de cargos políticos cometam no exercício das suas funções;
+i) Os condenados em pena relativamente indeterminada;
+j) Os reincidentes;
+k) Os membros das forças policiais e de segurança, das forças armadas e funcionários relativamente à prática, no exercício das suas funções, de infrações que constituam violação de direitos, liberdades e garantias pessoais dos cidadãos, independentemente da pena;
+l) Os autores das contraordenações praticadas sob influência de álcool ou de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo.
+2 - As medidas previstas na presente lei não se aplicam a condenados por crimes cometidos contra membro das forças policiais e de segurança, das forças armadas e funcionários, no exercício das respetivas funções.
+3 - A exclusão do perdão e da amnistia previstos nos números anteriores não prejudica a aplicação do perdão previsto no artigo 3.º e da amnistia prevista no artigo 4.º relativamente a outros crimes cometidos.
+Artigo 8.º
+Condições resolutivas
+1 - O perdão a que se refere a presente lei é concedido sob condição resolutiva de o beneficiário não praticar infração dolosa no ano subsequente à sua entrada em vigor, caso em que à pena aplicada à infração superveniente acresce o cumprimento da pena ou parte da pena perdoada.
+2 - O perdão é concedido sob condição resolutiva de pagamento da indemnização ou reparação a que o beneficiário também tenha sido condenado.
+3 - A condição referida no número anterior deve ser cumprida nos 90 dias imediatos à notificação do condenado para o efeito.
+4 - Considera-se satisfeita a condição referida no n.º 2 caso o titular do direito de indemnização ou reparação não declare que não foi indemnizado ou reparado.
+5 - Quando o titular do direito de indemnização ou da reparação for desconhecido, não for encontrado ou ocorrer outro motivo justificado, considera-se satisfeita a condição referida no n.º 2 se a reparação consistir no pagamento de quantia determinada e o respetivo montante for depositado à ordem do tribunal.
+Artigo 9.º
+Instrumentos, produtos ou vantagens perdidos a favor do Estado
+São declarados perdidos a favor do Estado:
+a) Os instrumentos que tiverem servido ou estiverem destinados a servir a prática de uma infração amnistiada pelo artigo 4.º, ou que por esta tiverem sido produzidos, quando, pela sua natureza ou pelas circunstâncias do caso, oferecerem sério risco de serem utilizados para o cometimento de novas infrações;
+b) Os produtos e as vantagens derivados da prática de uma infração amnistiada pelo artigo 4.º, sem prejuízo dos direitos do ofendido ou de terceiros.
+Artigo 10.º
+Taxa de justiça
+Nos processos pendentes, declarado extinto o procedimento criminal por força da amnistia decretada no artigo 4.º, são oficiosamente restituídas as quantias relativas à taxa de justiça pagas pela constituição de assistente.
+Artigo 11.º
+Recusa de amnistia
+1 - Independentemente da aplicação imediata da presente lei, os arguidos por infrações previstas no artigo 4.º podem requerer, no prazo de 10 dias a contar da sua entrada em vigor, que a amnistia não lhes seja aplicada, ficando sem efeito o despacho que a tenha decretado.
+2 - A declaração do arguido prevista no número anterior é irretratável.
+Artigo 12.º
+Responsabilidade civil
+1 - A amnistia prevista no artigo 4.º não extingue a responsabilidade civil emergente de factos amnistiados.
+2 - O lesado que, à data da entrada em vigor da presente lei, se encontre notificado e em prazo para deduzir pedido de indemnização cível por dependência da ação penal extinta pela amnistia pode fazê-lo, prosseguindo o processo, apenas para apreciação do mesmo pedido, com aproveitamento da prova indicada para efeitos penais.
+3 - O lesado ainda não notificado para deduzir pedido cível é notificado para, querendo, deduzir esse pedido no prazo de 10 dias, nos termos do número anterior, sob pena de o dever fazer em separado no foro cível.
+4 - Quem tiver deduzido pedido cível pode, no prazo de 10 dias, contados a partir da notificação, requerer o prosseguimento do processo, apenas para apreciação do mesmo pedido, com aproveitamento da prova indicada para efeitos penais.
+5 - Nos processos com despacho de pronúncia ou que designe dia para audiência de julgamento, em que o procedimento criminal seja declarado extinto por força do artigo 4.º, pode o lesado, no prazo de 10 dias, contados a partir do trânsito em julgado da decisão, requerer o seu prosseguimento, apenas para fixação da indemnização cível a que tenha direito, com aproveitamento da prova indicada para efeitos penais.
+6 - Nas ações de indemnização cível propostas em separado, na sequência da aplicação da presente lei, qualquer das partes ou terceiros intervenientes podem, até 20 dias antes da audiência final, requerer a apensação do processo em que tenha sido decretada a amnistia ou a junção de certidão da parte do processo relevante para o pedido cível.
+Artigo 13.º
+Reexame de pressupostos
+No prazo de 60 dias após a entrada em vigor da presente lei, mediante requerimento do arguido ou do Ministério Público ou oficiosamente, consoante a fase processual, procede-se ao reexame dos pressupostos da prisão preventiva e da obrigação de permanência na habitação, nos processos que tenham por objeto factos praticados até às 00:00 horas de 19 de junho de 2023, ponderando-se a possibilidade de revogação face à pena previsível em consequência da aplicação da presente lei.
+Artigo 14.º
+Aplicação
+Nos processos judiciais, a aplicação das medidas previstas na presente lei, consoante os casos, compete ao Ministério Público, ao juiz de instrução criminal ou ao juiz da instância do julgamento ou da condenação.
+Artigo 15.º
+Entrada em vigor
+A presente lei entra em vigor no dia 1 de setembro de 2023.
+Aprovada em 19 de julho de 2023.
+O Presidente da Assembleia da República, Augusto Santos Silva.
+Promulgada em 1 de agosto de 2023.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendada em 1 de agosto de 2023.
+O Primeiro-Ministro, António Luís Santos da Costa.
+116741504
