@@ -1,7 +1,3 @@
-Decreto-Lei n.º 90/2015
-
-de 29 de maio
-
 O Conceito Estratégico de Defesa Nacional, aprovado pela Resolução do Conselho de Ministros n.º 19/2013, de 5 de abril, define as prioridades e objetivos do Estado no âmbito da defesa, com base na análise da situação estratégica e do ambiente internacional, providenciando o quadro de ação aos objetivos estratégicos e às medidas anteriormente definidas no Programa do XIX Governo Constitucional.
 
 No sentido de materializar as medidas referidas, a Reforma «Defesa 2020», aprovada pela Resolução do Conselho de Ministros n.º 26/2013, de 11 de abril, estabelece orientações para um novo ciclo de planeamento estratégico de defesa e para a reorganização da macroestrutura da defesa nacional e das Forças Armadas.

@@ -6,7 +6,7 @@ De acordo com a classe a que pertencem, incumbe, genericamente às praças:
 
 a) Da classe de administrativos, exercer funções no âmbito da execução e direção de tarefas integradas de âmbito logístico, financeiro, contabilístico, patrimonial e do secretariado, à exceção das relacionadas com munições, explosivos, pirotécnicos e material de saúde;
 
-b) Da classe de comunicações, exercer funções no âmbito da execução e direção da utilização e operação dos sistemas e equipamentos de comunicações;
+b) Da classe de comunicações, exercer funções no âmbito da execução e direção da utilização e operação dos sistemas e equipamentos de comunicações, incluindo equipamentos de criptografia;
 
 c) Da classe de eletromecânicos, exercer funções no âmbito da execução e direção das operações de utilização, condução e manutenção das instalações propulsoras dos navios e respetivos auxiliares, dos equipamentos respeitantes à produção e distribuição de energia elétrica e de outros sistemas e equipamentos associados;
 
