@@ -1,0 +1,43 @@
+Despacho n.º 9089/2023
+Sumário: Autoriza a alteração ao regulamento para frequência de unidades curriculares isoladas por trabalhadores da Universidade de Aveiro.
+Alteração ao Regulamento para frequência de unidades curriculares isoladas por trabalhadores da Universidade de Aveiro
+Preâmbulo
+A Universidade de Aveiro visa efetuar uma forte aposta nas microcredenciais, caracterizadas como o registo dos resultados de aprendizagem adquiridos por um aprendente na sequência de um pequeno volume de aprendizagem; sendo os cursos conducentes a microcredenciais concebidos para fornecer ao aprendente conhecimentos, aptidões e competências específicas que respondam às necessidades societais, pessoais, culturais ou do mercado de trabalho, de acordo com a Recomendação do Conselho da Comissão Europeia, de 16 de junho de 2022 (2022/C 243/02), relativa a uma abordagem europeia das microcredenciais para a aprendizagem ao longo da vida e a empregabilidade.
+O Regulamento para a frequência de Unidades Curriculares Isoladas por trabalhadores da Universidade de Aveiro, Regulamento n.º 677/2020, publicado no Diário da República n.º 160, 2.ª série, de 18 de agosto, no artigo 1.º, define as regras referentes à frequência de Unidades Curriculares Isoladas por trabalhadores da Universidade de Aveiro, considerando-se que devem também ser aqui abrangidas as microcredenciais.
+Assim, de acordo com o parecer favorável do Conselho de Gestão, após discussão pública, conforme estabelecido no n.º 3, do artigo 110.º da Lei n.º 62/2007, de 10 de setembro, em harmonia com os normativos consagrados sobre esta matéria no Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua versão atualizada, em especial nos artigos 100.º, n.º 3, alínea c), e 101.º, é, nos termos da alínea m), do n.º 3, do artigo 23.º dos Estatutos da Universidade de Aveiro, aprovado a alteração do Regulamento para frequência de Unidades Curriculares Isoladas por trabalhadores da Universidade de Aveiro, nos termos seguintes:
+Artigo 1.º
+Alterações
+São alterados os artigos 1.º, 6.º, 7.º e 10.º
+«Artigo 1.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - Para efeitos do presente Regulamento são igualmente tratadas como Unidades Curriculares Isoladas as microcredenciais lecionadas na Universidade de Aveiro.
+Artigo 6.º
+[...]
+1 - ...
+2 - ...
+3 - O procedimento para a frequência de Unidades Curriculares Isoladas rege-se pelo calendário constante do Anexo I que faz parte integrante do presente Regulamento, sem prejuízo do disposto no número seguinte.
+4 - No caso das microcredenciais, devido à aplicação de um calendário próprio e desfasado, o procedimento para a sua frequência rege-se pelo calendário constante do Anexo II que faz parte integrante do presente Regulamento.
+5 - (Anterior n.º 4.)
+Artigo 7.º
+[...]
+1 - O disposto no presente Regulamento não dispensa o trabalhador de ter que apresentar candidatura de acordo com o regime estabelecido no Regulamento n.º 529/2015, publicado no Diário da República, 2.ª série, n.º 154, de 10 de agosto.
+2 - No caso das microcredenciais é apresentada candidatura, nos termos estabelecidos e previamente divulgados.
+Artigo 10.º
+[...]
+1 - As Unidades Curriculares Isoladas sujeitas a regime de avaliação e frequentadas com aproveitamento são objeto de certificação, nos termos da alínea a) do n.º 5 do disposto no artigo 46.º-A do Decreto-Lei n.º 74/2006, de 24 de março, na sua versão atualizada.
+2 - No caso das microcredenciais é aplicável, para efeitos de certificação, regime equiparado ao disposto no Regulamento n.º 47/2022, publicado no Diário da República n.º 11, 2.ª série, de 17 de janeiro.
+3 - (Anterior n.º 2.)»
+Artigo 2.º
+Aditamento
+É aditado o Anexo II, a que se refere o novo n.º 4 do artigo 6.º, nos seguintes termos:
+ANEXO II
+(cf. n.º 4.º do artigo 6.º)
+<div class="tableContent" id="DR_TABLE1"><table summary="Tabela"><thead><tr><th style="text-align:center; border-bottom-color: transparent; border-right-color:Black; border-top-color:Black; border-bottom-color:Black; background-color:transparent;color:#000000; font-style:Regular; font-size:6.5; vertical-align:center;">Prazo</th><th style="text-align:center; border-left-color:Black; border-bottom-color: transparent; border-top-color:Black; border-bottom-color:Black; background-color:transparent;color:#000000; font-style:Regular; font-size:6.5; vertical-align:center;">Fase</th></tr><tr><th style="text-align:justify; border-bottom-color: transparent; border-right-color:Black; border-top-color:Black; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;"></th><th style="text-align:justify; border-left-color:Black; border-bottom-color: transparent; border-top-color:Black; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;"></th></tr></thead><tbody><tr><td style="text-align:justify; border-bottom-color: transparent; border-right-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">A qualquer momento, tendo em consideração o período de candidatura.</td><td style="text-align:justify; border-left-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">Trabalhador requer parecer ao Diretor da unidade orgânica ou Dirigente do serviço ou estrutura.</td></tr><tr><td style="text-align:justify; border-bottom-color: transparent; border-right-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">Até cinco dias após a apresentação de requerimento pelo trabalhador.</td><td style="text-align:justify; border-left-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">Emissão de parecer pelo Diretor da unidade orgânica ou Dirigente do serviço ou estrutura.</td></tr><tr><td style="text-align:justify; border-bottom-color: transparent; border-right-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">No dia seguinte ou até cinco dias após a emissão de parecer pelo Diretor da unidade orgânica ou Dirigente do serviço ou estrutura.</td><td style="text-align:justify; border-left-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">Trabalhador remete requerimento ao Reitor ou ao Administrador, consoante aplicável, anexando o parecer do Diretor da unidade orgânica ou Dirigente do serviço ou estrutura.</td></tr><tr><td style="text-align:justify; border-bottom-color: transparent; border-right-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">Até cinco dias após a apresentação de requerimento pelo trabalhador.</td><td style="text-align:justify; border-left-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; border-bottom-color: transparent; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">Apreciação do requerimento.</td></tr><tr><td style="text-align:justify; border-bottom-color: transparent; border-right-color:Black; border-bottom-color: transparent; border-bottom-color:Black; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">No período de candidatura da(s) microcredencial(is) que pretende frequentar.</td><td style="text-align:justify; border-left-color:Black; border-bottom-color: transparent; border-bottom-color: transparent; border-bottom-color:Black; background-color:transparent;color:#000000; font-style:Regular; font-size:8.5; vertical-align:top;">Apresentação de candidatura pelo trabalhador.</td></tr></tbody></table></div>
+Artigo 3.º
+Entrada em vigor
+A alteração do presente Regulamento entra em vigor no dia seguinte ao da sua publicação, nos termos legais aplicáveis.
+24 de julho de 2023. - O Reitor, Prof. Doutor Paulo Jorge Ferreira.
+316804077
