@@ -1,0 +1,7 @@
+Aviso n.º 17110/2023
+Sumário: Projeto do Regulamento para o Serviço de Empréstimo Documental da Rede Intermunicipal de Bibliotecas da Região de Coimbra - consulta pública.
+João Miguel Sousa Henriques, Presidente da Câmara Municipal de Vila Nova de Poiares, torna público que, no uso das competências previstas nas alíneas b) e t), do n.º 1, do artigo 35.º e pelo n.º 1 do artigo 56.º, ambos do Anexo à Lei n.º 75/2013, de 12 de setembro, e em cumprimento do estabelecido no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, se dará início ao período de consulta pública de 30 (trinta) dias seguidos, contados a partir da data da publicação do presente Aviso no Diário da República, do Projeto de Regulamento para o Serviço de Empréstimo Documental da Rede Intermunicipal de Bibliotecas da Região de Coimbra, aprovado na reunião de Câmara de 16 de junho de 2023.
+Mais se torna público que o referido Projeto de Regulamento se encontra disponível para consulta no site do Município de Vila Nova de Poiares, em www.cm-vilanovadepoiares.pt.
+Os contributos devem ser dirigidos ao Presidente da Câmara Municipal, remetidos via CTT para a Câmara Municipal de Vila Nova de Poiares, Largo da República, 3350-156 Vila Nova de Poiares, ou entregues pessoalmente no Balcão Único de Atendimento da Câmara Municipal ou ainda remetidos ou remetidos via correio eletrónico, para o seguinte endereço: geral@cm-vilanovadepoiares.pt.
+21 de junho de 2023. - O Presidente da Câmara Municipal, João Miguel Sousa Henriques.
+316762143
