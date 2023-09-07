@@ -1,0 +1,9 @@
+Edital n.º 1667/2023
+Sumário: Consulta pública dos projetos de regulamentos, designadamente: Regulamento Geral de Serviço de Abastecimento de Água; Regulamento Geral de Serviço de Saneamento de Águas Residuais; e Regulamento Geral de Serviço de Gestão de Resíduos Urbanos.
+António Miguel Cabedal Borges, Presidente da Câmara Municipal de Sardoal:
+Faz saber que, a Câmara Municipal de Sardoal, em reunião de 26 de julho de 2023, deliberou por unanimidade, aprovar e submeter a consulta pública, as propostas de Regulamentos, aprovadas pelo Conselho de Administração da Tejo Ambiente, nos termos do artigo 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, e pelo prazo de 30 dias úteis, designadamente: Regulamento Geral de Serviço de Abastecimento de Água; Regulamento Geral de Serviço de Saneamento de Águas Residuais; e Regulamento Geral de Serviço de Gestão de Resíduos Urbanos.
+Mais se torna público que, as propostas de regulamento se encontram patentes para consulta no Balcão Único desta Autarquia, nos dias úteis das 9h00 às 12h30 e das 14h00 às 16h00, e na página da internet do Município (www.cm-sardoal.pt).
+As sugestões, propostas, pareceres ou reclamações, deverão ser apresentadas por escrito, dirigidas ao Presidente da Câmara Municipal de Sardoal, por via postal, para Praça da República, 2230-222 Sardoal, entregues pessoalmente no Balcão Único desta Autarquia, ou por correio eletrónico para geral@cm-sardoal.pt, com identificação do remetente, morada e identificação fiscal.
+Para constar e produzir os devidos efeitos legais se publica o presente edital, no sítio institucional desta Edilidade e afixado nos lugares públicos de estilo.
+11 de agosto de 2023. - O Presidente da Câmara Municipal, António Miguel Cabedal Borges.
+316776587
