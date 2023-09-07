@@ -16,7 +16,7 @@ iv) Incidam em áreas cujo risco seja reconhecido e publicitado no portal ICNF, 
 
 v) Obedeçam aos requisitos específicos integrados no POSF publicitado no portal do ICNF, I. P., em www.icnf.pt e no portal do PDR 2020, em www.pdr-2020.pt, a validar pela Autoridade de Gestão em articulação com o ICNF, I.P;
 
-vi) Apresentem PGF aprovado, em conformidade com os programas regionais de ordenamento florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
+vi) Apresentem PGF aprovado, em conformidade com os Programas Regionais de Ordenamento Florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, sem prejuízo do disposto no número seguinte;
 
 b) Agentes abióticos:
 
@@ -30,11 +30,15 @@ iv) Incidam em áreas classificadas como de média e muito alta perigosidade de 
 
 v) As ações estejam em consonância com as orientações aprovadas no âmbito dos PMDFCI;
 
-vi) Apresentem PGF aprovado, em conformidade com os programas regionais de ordenamento florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual.
+vi) Apresentem PGF aprovado, em conformidade com os Programas Regionais de Ordenamento Florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, sem prejuízo do disposto no número seguinte.
 
-2 - (Revogado.)
+2 - O critério de elegibilidade previsto na subalínea vi) da alínea a) e na subalínea vi) da alínea b) do número anterior pode ser cumprido por apresentação do comprovativo da entrega do PGF no ICNF, I. P., ou com análise da consonância das ações com os instrumentos de planeamento e gestão para espaços florestais, requerida nos termos de formulário próprio, disponível no sítio na Internet do ICNF, I. P.
 
-3 - (Revogado.)
+3 - Na situação prevista no número anterior, observa-se o seguinte:
+
+a) À data da submissão da candidatura, deve ser comprovada a apresentação do comprovativo da entrega do PGF no ICNF, I. P., ou a apresentação, em formulário próprio, do requerimento de análise da consonância das ações com os instrumentos de planeamento e gestão para espaços florestais, realizada pelo ICNF, I. P.;
+
+b) O PGF integra todos os elementos técnicos resultantes da análise realizada, devendo ser entregue o PGF aprovado até à data da apresentação do último pedido de pagamento.
 
 4 - A existência de rede de faixas de gestão de combustível não prejudica a contiguidade das áreas confinantes.
 
