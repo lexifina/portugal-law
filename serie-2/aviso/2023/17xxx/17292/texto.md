@@ -1,0 +1,17 @@
+Aviso n.º 17292/2023
+Sumário: Novo início de elaboração do Plano de Pormenor da Quinta dos Remédios.
+Novo início de elaboração do Plano de Pormenor da Quinta dos Remédios
+Nuno Ricardo Conceição Dias, Vereador da Câmara Municipal de Loures, torna público que a Câmara Municipal de Loures, na sua 9.ª reunião extraordinária, de 16 de agosto de 2023, deliberou por unanimidade, ao abrigo do disposto no artigo 23.º, n.º 2, alínea n) do Anexo I da Lei n.º 75/2013, de 12 de setembro, e nos artigos 76.º, n.os 1 e 3, 78.º, n.os 1 e 2 e 88.º, n.º 2 do RJIGT, aprovar o novo início de elaboração do Plano de Pormenor da Quinta dos Remédios, com conversão do procedimento administrativo anterior, mantendo-se válidos os pressupostos materiais estabelecidos nos termos de referência anteriormente aprovados, bem como o aproveitamento de todos os atos já praticados e todos os procedimentos levados a efeito ao abrigo da anterior deliberação, com exceção da calendarização, que deverá ser fixada em 36 meses.
+Deliberou igualmente a manutenção da necessidade de elaboração de avaliação ambiental.
+Mais se torna público que, nos termos do n.º 2 do artigo 88.º do RJIGT, é fixado um prazo de 15 dias úteis, com início no primeiro dia útil após a publicação deste aviso no Diário da República, para a formulação de sugestões ou apresentação de informações por qualquer interessado sobre questões que possam ser consideradas no âmbito do presente procedimento de elaboração.
+A deliberação e os documentos que a integram encontra-se disponível para consulta na página da internet da Câmara Municipal, em www.cm-loures.pt, e na Divisão do Plano Diretor Municipal, sita na Rua Ilha da Madeira, n.º 4, em Loures, todos os dias úteis das 09:00 às 16:00 horas.
+A formulação de sugestões ou apresentação de informações devem ser submetidas através Balcão Único/Exposições (https://balcaounico.cm-loures.pt), para o endereço de correio eletrónico da Divisão do Plano Diretor Municipal, discussaopublica_dpdm@cm-loures.pt, por correio ou entregues pessoalmente no Departamento de Planeamento Urbano, na Rua Ilha da Madeira, n.º 4, 2674-501 Loures.
+22 de agosto de 2023. - O Vereador, Nuno Ricardo Conceição Dias.
+Deliberação
+9.ª Reunião Extraordinária da Câmara Municipal de Loures, de 18 de agosto de 2023, deliberação n.º 545/2023, propondo, ao abrigo do disposto no artigo 23.º, n.º 2, alínea n) do Anexo I da Lei n.º 75/2013, de 12 de setembro, e nos artigos 76.º, n.os 1 e 3, 78.º, n.os 1 e 2 e 88.º, n.º 2 do RJIGT:
+a) Novo início de elaboração do PPQR, com conversão do procedimento administrativo anterior, mantendo-se válidos os pressupostos materiais estabelecidos nos termos de referência anteriormente aprovados, bem como o aproveitamento de todos os atos já praticados e todos os procedimentos levados a efeito ao abrigo da anterior deliberação, com exceção da calendarização, que deverá ser fixada em 36 meses;
+b) Manter a necessidade de o PPQR ser objeto de avaliação ambiental, nos termos do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio;
+c) Fixar um prazo de 15 dias, a partir da data de publicação da presente deliberação no Diário da República, para a formulação de sugestões e para a apresentação de informações por qualquer interessado sobre questões que possam ser consideradas no âmbito do procedimento de elaboração do PPQR.
+Proposta aprovada por unanimidade.
+16 de agosto de 2023. - O Presidente da Câmara, Ricardo Jorge Colaço Leão.
+616793045
