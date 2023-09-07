@@ -12,17 +12,19 @@ c) As espécies florestais utilizadas nas ações de rearborização sejam as qu
 
 d) As ações de arborização ou rearborização estejam autorizadas ou com comprovativo da apresentação do pedido de autorização, ou com comunicação prévia válida, no âmbito do regime jurídico das ações de arborização e rearborização (RJAAR), estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual;
 
-e) Apresentem PGF aprovado, em conformidade com os programas regionais de ordenamento florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual;
+e) Apresentem PGF aprovado, em conformidade com os Programas Regionais de Ordenamento Florestal em vigor, ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, sem prejuízo do disposto no número seguinte;
 
 f) Apresentem coerência técnica;
 
 g) Em caso de rearborização, esta deve conduzir a uma melhoria do valor económico da floresta.
 
-h) (Revogada.)
+2 - O critério de elegibilidade previsto na subalínea vi) da alínea a) e na subalínea vi) da alínea b) do número anterior pode ser cumprido por apresentação do comprovativo da entrega do PGF no ICNF, I. P., ou com análise da consonância das ações com os instrumentos de planeamento e gestão para espaços florestais, requerida nos termos de formulário próprio, disponível no sítio na Internet do ICNF, I. P.
 
-2 - (Revogado.)
+3 - Na situação prevista no número anterior, observa-se o seguinte:
 
-3 - (Revogado.)
+a) À data da submissão da candidatura, deve ser comprovada a apresentação do comprovativo da entrega do PGF no ICNF, I. P., ou a apresentação, em formulário próprio, do requerimento de análise da consonância das ações com os instrumentos de planeamento e gestão para espaços florestais, realizada pelo ICNF, I. P.;
+
+b) O PGF integra todos os elementos técnicos resultantes da análise realizada, devendo ser entregue o PGF aprovado até à data da apresentação do último pedido de pagamento.
 
 4- A existência de rede de faixas de gestão de combustível não prejudica a contiguidade das áreas confinantes.
 
