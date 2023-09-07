@@ -1,0 +1,5 @@
+Regulamento (extrato) n.º 1012/2023
+Sumário: Aprova o Regulamento de Taxas e Licenças da União de Freguesias de Montemor-o-Velho e Gatões.
+António Correia Pardal Bispo, presidente da União de Freguesias de Montemor-o-Velho e Gatões, torna público, nos termos do disposto na alínea d) do n.º 1 do Artigo 9.º conjugado com o artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua atual redação que a Assembleia de Freguesia, em sessão de 28 de junho de 2023, sob proposta do executivo da União de Freguesias, aprovada em reunião realizada no dia 02 de junho de 2023, deliberou aprovar o «Regulamento de Taxas e Licenças da União de Freguesias de Montemor-o-Velho e Gatões». O referido regulamento entra em vigor quinze dias após a publicação do presente aviso no Diário da República, podendo o mesmo ser consultado, na íntegra, na página eletrónica do União de Freguesias de Montemor-o-Velho e Gatões, em www.uf-montemorovelhoegatoes.pt e na sede da União de Freguesia.
+9 de agosto de 2023. - O Presidente da União de Freguesias, António Correia Pardal Bispo.
+316765384
