@@ -1,0 +1,18 @@
+Declaração n.º 78/2023
+Sumário: Quinta correção material do Plano Diretor Municipal de Sernancelhe.
+Quinta correção material ao Plano Diretor Municipal de Sernancelhe
+Carlos Manuel Ramos dos Santos, Vice-presidente da Câmara Municipal de Sernancelhe, torna público, que a Câmara Municipal de Sernancelhe, na sua reunião ordinária realizada em 26 de maio de 2023, deliberou proceder à quinta correção material do Plano Diretor Municipal de Sernancelhe (PDMS), publicado no Diário da República, 2.ª série, n.º 9, em 14 de janeiro de 2015, através do Aviso n.º 487/2015.
+Nos termos do disposto na alínea a) do n.º 1 do artigo 122.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT), na sua atual redação, a Câmara Municipal de Sernancelhe deliberou promover a quinta correção material do PDMS, resultante de uma situação detetada pelos serviços técnicos municipais no lote 1, a que corresponde o artigo matricial n.º 1730 com 5.643 m2, do loteamento da subfase 2A da fase 2 da Zona Empresarial de Sernancelhe (ZES), de iniciativa municipal, onde se constatou que aquela parcela está maioritariamente inserida em «Espaços de Atividades Económicas» e uma pequena parte em «Espaços Residenciais de Nível I», ambos subcategorias do solo urbanizado e este uma categoria do solo urbano.
+A solução passa pela correção dos limites da subcategoria «Espaços de Atividades Económicas» através do seu ajustamento aos limites físicos do lote 1, por forma a incluí-lo completamente na subcategoria de solo em referência, a qual abrange igualmente a restante área da operação de loteamento da subfase 2A da fase 2 da ZES, garantindo assim a aplicação das mesmas regras urbanísticas em toda a área do lote.
+Tal implica a passagem de 1.150,50 m2 da subcategoria «Espaços Residenciais de Nível I» para a subcategoria «Espaços de Atividades Económicas», determinando assim o incremento desta última classe de solo no perímetro urbano de Sernancelhe e uma redução de igual dimensão na subcategoria «Espaços Residenciais de Nível I».
+Para efeitos do disposto nos n.os 2 e 3 do artigo 122.º, do regime jurídico citado e para efeitos de eficácia, publica-se a presente correção material, que incide na correção da Planta de Ordenamento do PDMS, desdobrada em Classificação e Qualificação do Solo - Planta 1A.2 (escala 1:25.000), do plano territorial anteriormente aludido, tendo a presente correção material, sido transmitida previamente à Assembleia Municipal de Sernancelhe e posteriormente à Comissão de Coordenação e Desenvolvimento Regional do Norte.
+As restantes peças desenhadas que acompanham o PDMS não são alteradas, uma vez que não há qualquer alteração nos limites dos perímetros urbanos.
+Mais torna público, que nos termos do artigo 94.º e do n.º 2 do artigo 193.º, ambos do RJIGT, a quinta correção material ao PDMS fica disponível nos sítios eletrónicos, respetivamente do Município de Sernancelhe e do Sistema Nacional de Informação Territorial (SNIT), através da ligação eletrónica a esse portal, assim como na Divisão Técnica de Obras e Urbanismo, localizada no edifício dos Paços do Concelho, sito na rua Dr. Oliveira Serrão, Sernancelhe.
+A quinta correção material ao PDMS entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+22 de agosto de 2023. - O Vice-Presidente da Câmara Municipal, Carlos Manuel Ramos dos Santos.
+Identificadores das imagens e respetivos endereços do sítio do SNIT
+(conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+69397 - https://ssaigt.dgterritorio.pt/i/POrd_69397_1818_PO_1A.2.jpg
+69397 - https://ssaigt.dgterritorio.pt/i/POrd_69397_1818_PO_extrat1.jpg
+69397 - https://ssaigt.dgterritorio.pt/i/POrd_69397_1818_PO_extrat2.jpg
+616794869
