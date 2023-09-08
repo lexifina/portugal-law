@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 17444/2023
+Sumário: Projeto de Regulamento de Gestão e Utilização da Habitação Social Municipal - consulta pública.
+Projeto de Regulamento: Gestão e Utilização da Habitação Social Municipal - Consulta Pública
+Eduardo Manuel Dobrões Tavares, Presidente da Câmara Municipal de Alfândega da Fé, torna público, em conformidade com a deliberação tomada em reunião da Câmara Municipal, realizada no dia 25 de julho de 2023, que se submete a Consulta Pública, pelo prazo de 30 dias a contar da publicação no Diário da República, nos termos dos artigos 100.º e 101.º do Código de Procedimento Administrativo, o Projeto de Regulamento Municipal de Gestão e Utilização da Habitação Social Municipal do Município de Alfândega da Fé.
+Durante o referido período poderão os interessados consultar, na Divisão Jurídica, Administrativa e de Recursos Humanos, nas horas normais de expediente e em https://www.cm-alfandegadafe.pt/ o mencionado projeto e sobre ele formular quaisquer sugestões, reclamações ou observações, as quais deverão ser dirigidas, por escrito, ao Senhor Presidente da Câmara Municipal, endereçadas ou entregues pessoalmente no edifício da Câmara Municipal de Alfândega da Fé, Largo D. Dinis, 5350-014, Alfândega da Fé ou remetidos via correio eletrónico para o seguinte endereço: gabinete.presidente@cm-alfandegadafe.pt, devendo os interessados colocar como "Assunto" o seguinte texto: "Apresentação de sugestões - Projeto de Regulamento Municipal de Gestão e Utilização da Habitação Social Municipal do Município de Alfândega da Fé."
+Para constar e produzir efeitos legais, se publica este aviso.
+2 de agosto de 2023. - O Presidente da Câmara Municipal, Eduardo Manuel Dobrões Tavares.
+316744364
