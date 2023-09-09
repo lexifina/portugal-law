@@ -4,7 +4,7 @@
 
 1- Os organizadores e promotores de espectáculos desportivos, em articulação com o Estado, devem desenvolver acções de prevenção sócio-educativa, nas áreas da ética no desporto, da violência, do racismo, da xenofobia e da intolerância nos espectáculos desportivos, designadamente através de:
 
-a) Aprovação e execução de planos e medidas, em particular junto da população em idade escolar;
+a) Aprovação e execução de planos e medidas, em particular junto da população em idade escolar e abrangendo os encarregados de educação;
 
 b) Desenvolvimento de campanhas publicitárias que promovam o desportivismo, o ideal de jogo limpo e a integração, especialmente entre a população em idade escolar;
 

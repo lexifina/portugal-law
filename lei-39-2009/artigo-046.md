@@ -6,7 +6,7 @@
 
 ### Sanções disciplinares por actos de violência
 
-1 - O incitamento ou a prática de atos de violência são punidos, conforme a respetiva gravidade, com as seguintes sanções:
+1 - A prática de atos, a promoção ou o incitamento à violência, ao racismo, à xenofobia e à intolerância são punidos, conforme a respetiva gravidade, com as seguintes sanções:
 
 a) Interdição do recinto desportivo, e, bem assim, a perda dos efeitos desportivos dos resultados das competições desportivas, nomeadamente os títulos e os apuramentos, que estejam relacionadas com os actos que foram praticados e, ainda, a perda, total ou parcial, de pontos nas classificações desportivas;
 
@@ -34,6 +34,8 @@ b) Ocorrência de distúrbios ou invasão da área do espectáculo desportivo qu
 
 c) Agressões sobre os espectadores ou sobre os elementos da comunicação social, dentro do recinto desportivo, antes, durante ou após o espectáculo desportivo, que determinem lesões de especial gravidade, quer pela sua natureza quer pelo tempo de incapacidade.
 
+d) A prática de atos, a promoção ou o incitamento ao racismo, à xenofobia e à intolerância nos espetáculos desportivos.
+
 4 - Sem prejuízo das sanções previstas nos números anteriores, a sanção de multa é aplicada nos termos previstos nos regulamentos dos organizadores da competição desportiva ou dos promotores do espectáculo desportivo, quando se verificar a prática das seguintes infracções:
 
 a) Agressões previstas na alínea c) do número anterior que não revistam especial gravidade;
@@ -44,7 +46,7 @@ c) Ocorrência de distúrbios que provoquem, de forma injustificada, o atraso no
 
 5 - Se das situações previstas no número anterior resultarem danos para as infra-estruturas desportivas que ponham em causa as condições de segurança, o recinto desportivo permanece interdito pelo período necessário à reposição das mesmas.
 
-6 - A sanção de interdição de exercício da atividade e de interdição de acesso a recinto desportivo é aplicada a dirigentes ou representantes das sociedades desportivas ou clubes que pratiquem ou incitem à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos.
+6 - A sanção de interdição de exercício da atividade e de interdição de acesso a recinto desportivo é aplicada, por um período não inferior a 60 dias, a dirigentes ou representantes das sociedades desportivas ou clubes que pratiquem ou incitem à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos.
 
 7 - A reincidência na mesma época desportiva das infrações previstas nos n.os 2 a 4 é obrigatoriamente punida com as sanções previstas nas alíneas a) ou b) do n.º 1.
 

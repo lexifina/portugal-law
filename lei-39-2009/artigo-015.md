@@ -1,8 +1,8 @@
 # Artigo 15.º
 
-### Registo dos grupos organizados de adeptos
+### Registo interno dos grupos organizados de adeptos
 
-1 - O promotor do espetáculo desportivo, que atribua qualquer tipo de apoio a um grupo organizado de adeptos, mantém um registo sistematizado e atualizado dos filiados no mesmo, cumprindo o disposto na legislação de proteção de dados pessoais, com indicação dos elementos seguintes:
+1 - O promotor do espetáculo desportivo que registe um grupo organizado de adeptos junto da APCVD deve manter um registo interno sistematizado e atualizado dos seus filiados, nos termos do disposto na legislação de proteção de dados pessoais, com indicação dos elementos seguintes:
 
 a) Nome;
 
@@ -18,14 +18,18 @@ f) Morada e
 
 g) Contactos telefónicos e de correio eletrónico.
 
-2 - O promotor do espetáculo desportivo envia trimestralmente cópia do registo à APCVD e às forças de segurança.
+2 - (Revogado.)
 
-3 - O registo referido no n.º 1 é atualizado sempre que se verifique qualquer alteração quanto aos seus filiados e pode ser suspenso pelo promotor do espetáculo desportivo no caso de incumprimento do disposto no presente artigo, nomeadamente nos casos de prestação de informações falsas ou incompletas no referente ao n.º 1.
+3 - O registo interno é atualizado sempre que se verifique qualquer alteração relativa aos seus filiados.
 
-4 - Sempre que proceder à suspensão de um registo, o promotor do espetáculo desportivo cessa todo o apoio que presta ao grupo organizado de adeptos e informa a APCVD, de imediato e de forma documentada, justificando as razões da sua decisão.
+4 - O promotor do espetáculo desportivo suspende o registo interno de um grupo organizado de adeptos sempre que haja indícios da existência de falsas declarações quanto à identidade dos seus filiados.
 
-5 - Caso a suspensão perdure pelo período de um ano, o promotor do espetáculo desportivo anula o registo e informa a APCVD, de imediato e de forma documentada.
+5 - O promotor do espetáculo desportivo pode suspender o registo interno de um grupo organizado de adeptos quando a falta de elementos relativos aos filiados comprometa a sua identificação.
 
-6 - É proibido ao promotor do espetáculo desportivo o apoio a grupos organizados de adeptos que não se encontrem previamente registados nos termos dos números anteriores ou cujo registo tenha sido suspenso ou anulado.
+6 - (Revogado.)
 
 7 - (Revogado).
+
+8 - O promotor que suspenda o registo interno cessa imediatamente a prestação de qualquer apoio ao grupo organizado de adeptos e comunica, de imediato e de forma documentada, a suspensão do registo e respetivos fundamentos à APCVD.
+
+9 - Caso a suspensão perdure pelo período de um ano, o promotor do espetáculo desportivo anula o registo junto da APCVD, de imediato e de forma documentada.

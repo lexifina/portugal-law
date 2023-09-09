@@ -16,6 +16,6 @@
 
 5 - (Revogado.)
 
-6 - O incumprimento do disposto no n.º 1 pode implicar, para o promotor do espetáculo desportivo, enquanto a situação se mantiver, a realização de espetáculos desportivos à porta fechada.
+6 - O incumprimento do disposto no n.º 1 implica, para o promotor do espetáculo desportivo, a realização de espetáculos desportivos à porta fechada.
 
 7 - A sanção prevista no número anterior é aplicada pela APCVD.

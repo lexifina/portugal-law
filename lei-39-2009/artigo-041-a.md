@@ -2,7 +2,7 @@
 
 ### Reincidência
 
-1 - Considera-se reincidente quem pratica uma contraordenação no prazo de um ano após ter sido condenado por outra contraordenação se, de acordo com as circunstâncias do caso, o agente for de censurar em virtude de a condenação ou as condenações anteriores não lhe terem servido de suficiente advertência.
+1 - Considera-se reincidente quem praticar uma contraordenação no prazo de dois anos após ter sido condenado por outra contraordenação se, de acordo com as circunstâncias do caso, o agente for de censurar em virtude de a condenação ou as condenações anteriores não lhe terem servido de suficiente advertência.
 
 2 - Em caso de reincidência, os limites mínimos e máximos da coima são elevados em um terço do respetivo valor.
 
