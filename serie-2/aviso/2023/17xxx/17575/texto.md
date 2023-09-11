@@ -1,0 +1,7 @@
+Aviso n.º 17575/2023
+Sumário: Abertura do período de discussão pública da Unidade de Execução da 3.ª fase da Sub-UOPG 1 do Plano de Urbanização da Devesa (União de Freguesias de Antas e Abade de Vermoim).
+Abertura do Período de Discussão Pública da Unidade de Execução da 3.ª fase da Sub-UOPG 1 do Plano de Urbanização da Devesa (União de Freguesias de Antas e Abade de Vermoim)
+Mário de Sousa Passos, Presidente da Câmara Municipal de Vila Nova de Famalicão, torna público que a Câmara Municipal, na reunião ordinária de dez de agosto de dois mil e vinte e três, deliberou proceder à abertura do período de discussão pública da proposta da Unidade de Execução da 3.ª fase da Sub-UOPG 1 do Plano de Urbanização da Devesa, nos termos previstos no n.º 2 do artigo 89.º e no n.º 4 do artigo 148.º do Regime Jurídico dos Instrumentos de Gestão Territorial. A discussão pública ocorrerá por um período de 20 dias, decorrido que seja o prazo de 5 dias, contado desde a publicação do presente Aviso no Diário da República. Durante este período os interessados poderão, por escrito, formular reclamações, sugestões ou observações, através do correio eletrónico camaramunicipal@famalicao.pt ou por via postal.
+Os interessados poderão consultar a proposta da Unidade de Execução na página eletrónica do Município em www.famalicao.pt.
+11 de agosto de 2023. - O Presidente da Câmara Municipal, Mário de Sousa Passos, Prof. Doutor.
+316790348
