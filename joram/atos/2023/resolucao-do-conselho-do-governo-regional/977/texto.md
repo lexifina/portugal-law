@@ -1,0 +1,22 @@
+# Resolução do Conselho do Governo Regional n.º 977/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 167/2023, de 2023-09-11
+
+**Sumário:** Autoriza a celebração de um contrato-programa com a Casa do Povo de Ilha, tendo em vista comparticipar os encargos com a realização da “XXIX Semana Cultural da Ilha”, mediante uma comparticipação financeira que não poderá ultrapassar o montante máximo de 5.000,00 EUR.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 977/2023
+Sumário: Autoriza a celebração de um contrato-programa com a Casa do Povo de Ilha, tendo em vista comparticipar os encargos com a realização da “XXIX Semana Cultural da Ilha”, mediante uma comparticipação financeira que não poderá ultrapassar o montante máximo de 5.000,00 EUR.
+Texto: Resolução n.º 977/2023 Considerando que a Casa do Povo de Ilha tem desempenhado um papel preponderante no desenvolvimento social e cultural da comunidade da sua área de influência, atividade essa reconhecida por declaração pública; Considerando o papel que a referida Casa do Povo tem desempenhado na promoção e valorização do meio rural, bem como na dinamização da economia local, através da realização da Semana Cultural da Ilha; Considerando que as receitas próprias da desta Casa do Povo se manifestam insuficientes para fazer face às despesas inerentes à concretização do referido evento; Considerando que tais despesas se consideram indispensáveis à prossecução dos objetivos de serviço público por parte da referida Casa do Povo; Considerando que a atuação da Casa do Povo de Ilha constitui um esforço meritório indispensável e primordial no âmbito do Desenvolvimento Local, sendo do interesse público a viabilização da sua ação; Considerando que são atribuições da Direção Regional da Cidadania e dos Assuntos Sociais, designadamente, apoiar iniciativas que promovam a cidadania e a consciencialização cívica nos seus vários domínios, a inclusão e o apoio social, a igualdade de oportunidades, assim como a promoção da economia social e do desenvolvimento local, bem como assegurar a cooperação e o apoio às respetivas instituições. Nestes termos, o Conselho do Governo reunido em plenário em 7 de setembro de 2023, resolve:
+1 - Autorizar, ao abrigo do disposto no artigo 34.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, que aprova o Orçamento da Região Autónoma da Madeira para 2023, retificado pela Declaração de Retificação n.º 1/2023/M, de 12 de janeiro, e no Regulamento de Atribuição do Apoio Financeiro às Casas do Povo da Região Autónoma da Madeira e às suas Associações, no âmbito do Desenvolvimento Local, aprovado pela Resolução do Conselho do Governo Regional n.º 18/2023, de 30 de janeiro, alterado pela Resolução n.º 523/2023, de 15 de maio, a celebração de um contrato-programa com a Casa do Povo de Ilha, tendo em vista comparticipar os encargos com a realização da “XXIX Semana Cultural da Ilha”.
+
+2 - Para a prossecução do objetivo referido no número anterior, conceder à Casa do Povo de Ilha, uma comparticipação financeira que não poderá ultrapassar o montante máximo de 5.000,00 EUR (cinco mil euros), que será processada numa única prestação, após a outorga do contrato-programa e até 31 de dezembro de 2023.
+3 - O contrato-programa a celebrar com a referida Casa do Povo produz efeitos desde a data da sua assinatura até 31 de dezembro de 2023, sem prejuízo de serem elegíveis para efeitos de financiamento despesas realizadas anteriormente ao mesmo.
+4 - Aprovar a minuta do contrato-programa, que faz parte integrante desta Resolução e que fica arquivada na Secretaria-Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+5 - Mandatar a Diretora Regional da Cidadania e dos Assuntos Sociais para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o contrato-programa.
+6 - Mandatar a Secretária Regional de Inclusão Social e Cidadania para, em representação da Região Autónoma da Madeira, homologar o contrato-programa.
+7 - As despesas resultantes do contrato-programa a celebrar estão inscritas no orçamento da Direção Regional da Cidadania e dos Assuntos Sociais para o ano de 2023, na Classificação orgânica 48 9 50 01 05, Classificação funcional 109, Classificação económica D.04.07.01.BN.00, Fonte 381, Programa 049, Medida 020, Centro Financeiro M100805, Compromisso n.º CY52315163.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
