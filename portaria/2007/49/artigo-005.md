@@ -6,7 +6,7 @@
 
 ### Proposta de oferta formativa a financiar
 
-1 - O pedido de financiamento é efectuado junto da respectiva direcção regional de educação, mediante a apresentação, por parte das entidades candidatas, da respectiva proposta de oferta formativa para o ciclo de formação a iniciar no ano civil em que decorre a candidatura, proposta essa a ser efectuada através da Plataforma do Sistema Integrado de Gestão das Ofertas - SIGO.
+1 - O pedido de financiamento é efetuado junto da Direção-Geral dos Estabelecimentos Escolares, mediante a apresentação, por parte das entidades candidatas, da respetiva proposta de oferta formativa para o ciclo de formação a iniciar no ano civil em que decorre a candidatura, proposta essa a ser efetuada através da plataforma do Sistema Integrado de Gestão das Ofertas - SIGO.
 
 2 - A proposta de oferta formativa integra os cursos profissionais e os cursos de educação e formação de jovens, nos termos do artigo 2.º, que, no quadro das respectivas saídas profissionais, procurem dar resposta às necessidades do tecido empresarial e social de cada região.
 
