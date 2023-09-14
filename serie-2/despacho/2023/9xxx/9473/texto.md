@@ -1,0 +1,7 @@
+Despacho n.º 9473/2023
+Sumário: Aprova o Regulamento Definitivo do Aproveitamento Hidroagrícola de Vale da Vilariça.
+O Aproveitamento Hidroagrícola de Vale da Vilariça é uma obra de aproveitamento de águas do domínio público para o regadio dos prédios ou parcelas de prédios incluídos na área beneficiada e descritos no respetivo cadastro, através de infraestruturas de armazenamento, captação, elevação e distribuição de água para rega.
+Situado nos concelhos de Alfândega da Fé, Vila Flor e Torre de Moncorvo, do distrito de Bragança, este aproveitamento hidroagrícola beneficia uma área de 2402,3 ha, cuja origem de água é proveniente das albufeiras criadas pelas barragens de Santa Justa, Ribeiro Grande e Arco, Burga e Salgueiro da bacia hidrográfica do Douro, sub-bacia do Sabor, que abastecem as redes de rega sob pressão, podendo assegurar o fornecimento de água para atividades não agrícolas, desde que devidamente licenciadas.
+Assim, e ao abrigo do disposto no n.º 2 do artigo 20.º e da alínea a) do artigo 55.º, ambos do Decreto-Lei n.º 269/82, de 10 de julho, na sua redação atual, aprovo o Regulamento Definitivo do Aproveitamento Hidroagrícola de Vale da Vilariça, e anexos correspondentes, cuja publicitação será efetuada no sítio da Direção-Geral de Agricultura e Desenvolvimento Rural.
+30 de agosto de 2023. - O Secretário de Estado da Agricultura, Gonçalo Pereira Fernandes Caleia Rodrigues.
+316814883
