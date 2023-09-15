@@ -1,0 +1,8 @@
+Aviso n.º 17843/2023
+Sumário: Elaboração do Plano de Pormenor Boavista Park - abertura do período de discussão pública.
+Elaboração do Plano de Pormenor Boavista Park - Abertura do Período de Discussão Pública
+Rui Fernando de Sousa Santos Soares da Costa, Vice-Presidente da Câmara Municipal de Alenquer, torna público que a Câmara Municipal, na sua reunião ordinária de 17 de agosto de 2023 deliberou, por maioria, proceder à abertura de um período de discussão pública relativa à elaboração do Plano de Pormenor Boavista Park, pelo período de 20 dias úteis, contados 5 dias úteis após a publicação do presente aviso na 2.ª série do Diário da República, nos termos do disposto no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual.
+Durante o período de discussão pública, os interessados poderão consultar a proposta de plano e demais documentos que a integram no edifício da Câmara Municipal, sito na Praça Luís de Camões, 2580-318 Alenquer, todos os dias úteis, das 9:00 às 13:00 horas e das 14:00 às 17:00 horas, bem como no sítio da Internet da Câmara Municipal de Alenquer (www.cm-alenquer.pt). Qualquer reclamação, observação ou sugestão deverá ser apresentada por escrito até ao termo do referido período, através de requerimento dirigido ao Presidente da Câmara Municipal de Alenquer, remetido por correio postal (Praça Luís de Camões 2580-318 Alenquer), por correio eletrónico (geral@cm-alenquer.pt) ou presencialmente, no Balcão Único de Atendimento da Câmara Municipal.
+Para constar se publica o presente aviso e outros de igual teor que vão ser afixados nos locais de estilo e publicitados nos termos legais.
+29 de agosto de 2023. - O Vice-Presidente, Rui Fernando de Sousa Santos Soares da Costa.
+616809967
