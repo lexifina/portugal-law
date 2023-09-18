@@ -1,0 +1,435 @@
+# Decisão arbitral tributária do CAAD de 2023-09-18, processo n.º 97/2023-T
+
+**Processo:** 97/2023-T
+
+**Data da decisão:** 2023-09-18
+
+**Imposto:** ISV
+
+**Valor do pedido:** € 4.867,86
+
+**Tema:** ISV – Art.º 8.º do CISV – Veículo automóvel híbrido plug-in usado proveniente de outro Estado-Membro da União Europeia – Taxas intermédias – Competência do tribunal arbitral.
+
+## Decisão
+
+(consultar versão completa no PDF)
+
+SUMÁRIO
+
+A introdução no consumo de um veículo em qualquer Estado-Membro da União Europeia constitui facto gerador relevante para efeitos do art. 5.º do CISV.
+
+O preceituado no Art.º 5.º do CISV deve ser entendido nos termos do Art.º 110.º do TFUE no sentido do princípio da não discriminação que daí resulta.
+
+Nenhum Estado-Membro fará incidir, direta ou indiretamente, sobre os produtos de outros Estados-Membros imposições internas, qualquer que seja a sua natureza, superiores às que incidam, direta ou indiretamente, sobre produtos nacionais similares.
+
+O princípio da não discriminação implica que se aplique no tempo a taxa intermédia prevista na al. d), do n.º 1 do Art.º 8.º do CISV, vigente à data em que o mesmo foi introduzido no mercado em qualquer Estado-Membro da União Europeia.
+
+DECISÃO ARBITRAL
+
+A árbitra Marisa Almeida Araújo, designada pelo Conselho Deontológico do Centro de Arbitragem Administrativa (“CAAD”) para formar o presente Tribunal Arbitral, constituído em 3 de maio de 2023, decide:
+
+Relatório
+
+A..., LDA., NIPC..., com sede na Av. ..., N.º..., ...-... Porto, (adiante apenas “Requerente”) veio, ao abrigo do artigo 10.º, n.º 2 do Decreto-Lei n.º 10/2011, de 20 de janeiro (adiante apenas designado por RJAT) e dos artigos 1.º e 2.º da Portaria n.º 112-A/2011, de 22 março, requerer a constituição de tribunal arbitral.
+
+É Requerida a Autoridade Tributária e Aduaneira (de ora em diante “Requerida” ou “AT”).
+
+A Requerente pretende que o Tribunal declare a anulação dos atos de liquidação impugnados e, em consequência, seja a AT condenada a reembolsar a Requerente dos montantes indevidamente pagos, acrescidos de juros indemnizatórios.
+
+A Requente alega, sumariamente, que procedeu à importação intracomunitária de viaturas híbridas (provenientes da Alemanha) que foram objeto das respetivas liquidações de ISV a saber:
+
+Em 19/10/2021 apresentou na Delegação Aduaneira da Figueira da Foz, a Declaração Aduaneira de Veículos (DAV) n.º 2021/... para a introdução no consumo da viatura usada, da marca Mercedes-Benz, Modelo E300de, com 1950cc de cilindrada, equipada com motor plug-in, com chassi n.º WD..., com matrícula registada na Alemanha sob o n.º..., à qual foi atribuída a matrícula definitiva... .
+
+Em 29/11/2021 apresentou na Delegação Aduaneira da Figueira da Foz, a Declaração Aduaneira de Veículos (DAV) n.º 2021/... para a aludida introdução no consumo da viatura usada, da marca Mercedes-Benz, Modelo E300de, com 1950cc de cilindrada, equipada com motor plug-in, com chassi n.º WDD... com matrícula registada na Alemanha sob o n.º..., à qual foi atribuída a matrícula definitiva ... .
+
+Ambos os veículos apresentaram, após testes realizados ao abrigo do Procedimento Global de Testes Harmonizados de Veículos Ligeiros (WLTP) uma emissão de CO2 de 44g/km e que seriam capazes de percorrer, em modo elétrico, 50 ou mais quilómetros.
+
+Foi aplicada, segundo a Requerente, pela AT uma redução de 75% do valor do imposto obtido pela aplicação da Tabela A constante do n.º 1 do Art.º 7.º do CISV e, por isso, liquidou a Requerente € 783,70 por cada uma das DAV referidas.
+
+Em novembro de 2022 foi a Requerente notificada do projeto do relatório de inspeção aduaneira, nos termos do qual a AT considerou que através da consulta dos certificados de conformidade individual (COC) o nível de autonomia máxima, em modo elétrico, dos veículos em apreço era inferior a 50 km. Considerando que são veículos híbridos elétricos (híbrido plug-in), a autonomia elétrica está associada ao ciclo de ensaios WLTP, a distância máxima que poderão percorrer, em modo elétrico, encontra-se prevista no camo 49.5.2 dos respetivos COC, e que em ambos os casos será de 48 km.
+
+Concluindo a AT, desta forma, que deveria ser liquidado oficiosamente ISV no valor de € 4.702,18, resultante da diferença entre o valor do imposto apurado por aplicação da tabela A, sem qualquer redução, ou seja € 6.269,58 no total e o valor efetivamente cobrado, i.e., € 1.567,40 no total.
+
+A Requerente não concorda com a posição da AT e exerceu o direito de audição prévia a 09/11/2022 tendo a AT mantido o seu entendimento. Nessa esteira, foi emitida a guia de liquidação n.º 2022/..., relativa à correção da DAV 2021/... no valor de € 2.439,47 e a guia de liquidação n.º 2022/... relativa à correção da DAV 2021/..., no valor de € 2.428,39, que a Requerente afirma ter pago.
+
+A Requerente não concorda com a posição assumida pela Requerida, porquanto alega que as liquidações de ISV estão feridas de ilegalidade.
+
+Quanto à liquidação n.º 2022/..., relativa à correção da DAV 2021/... no valor de € 2.439,47, de acordo com a Requerente, os documentos do veículo indicam que a viatura tem autonomia de 52 km.
+
+No mesmo sentido, quanto à liquidação n.º 2022/... relativa à correção da DAV 2021/..., no valor de € 2.428,39, os documentos do veículo indicam que a viatura tem autonomia de 52 km segundo a Requerente.
+
+O mesmo entendimento teve, segundo a Requerente, o Centro de Inspeção Técnica, para efeitos de atribuição de matrícula em território nacional.
+
+Assim, face a estes documentos, submetidos pela Requerente, a taxa a aplicar in casu é a taxa intermédia de 25%, pelo que devem as liquidações de ISV referidas ser anuladas, por ilegais.
+
+O pedido de constituição do Tribunal Arbitral foi apresentado em 17 de fevereiro de 2023, tendo sido aceite pelo Exmo. Senhor Presidente do CAAD em 20 de fevereiro de 2023 e seguiu a sua normal tramitação.
+
+Em conformidade com os artigos 5.º, n.º 3, alínea a), 6.º, n.º 2, alínea a) e 11.º, n.º 1, alínea a), todos do RJAT, o Conselho Deontológico do CAAD designou a árbitra do Tribunal Arbitral Singular, aqui signatária, que comunicou a aceitação do encargo no prazo aplicável.
+
+As partes, notificadas dessa designação em 12 de abril de 2023, não se opuseram, nos termos dos artigos 11.º, n.º 1, alíneas a) e b) e 8.º do RJAT, 6.º e 7.º do Código Deontológico do CAAD.
+
+O Tribunal Arbitral Singular foi constituído em 3 de maio de 2023.
+
+Notificada para o efeito em 3 de maio de 2023, a Requerida apresentou Resposta em 1 de junho de 2023, na qual se defende por exceção e impugnação pugna pela improcedência do pedido e consequente absolvição do pedido quanto às liquidações em apreço nos autos e, na mesma data juntou o processo administrativo.
+
+Sumariamente, a Requerida invoca que,
+
+O pedido arbitral é intempestivo por antecipação, porquanto a notificação das liquidações só se realizou a 08/03/2023 e o pedido de constituição do tribunal arbitral ocorreu em 17/02/2023. Não obstante, entende a Requerida que tal não obsta ao conhecimento do pedido.
+
+Na defesa por exceção a AT alega a incompetência absoluta do tribunal arbitral em razão da matéria, porquanto a Requerente pretende a restituição de quantia a que alegadamente teria direito por beneficiar da taxa prevista na redação anterior da alínea d) do n.º 1 do artigo 8.º do Código de Imposto sobre Veículos (CISV).
+
+Sucedendo que o artigo 8.º do CISV, incluindo a alínea d) do n.º 1, se refere a um benefício fiscal, consagrando as designadas “Taxas intermédias”, conforme epígrafe do artigo, isenções parciais ou “reduções de taxas” nos termos do Estatuto dos Benefícios Fiscais. Pelo que, segundo a Requerida, a pretensão da Requerente, conforme formulado no PPA, visa unicamente o reconhecimento do direito à aplicação de taxa reduzida, ao invés da liquidação efetuada nos termos gerais, não sendo o ato decorrente da aplicação das taxas normais, que o Requerente quer, efetivamente, impugnar, antes pretendendo usufruir do benefício fiscal previsto no artigo 8.º do CISV, com o objetivo de afastar a tributação regra.
+
+Tendo em conta o referido, a Requerida entende que tal pedido não pode, face à lei, ser submetido à presente instância arbitral pois o processo arbitral apenas abrange os atos suscetíveis de impugnação judicial, isto é, os abrangidos pelo artigo 2.º, n.º 1, do RJAT.
+
+Por outro lado,
+
+Entende a Requerida que resulta do pedido formulado um reconhecimento de um direito ou interesse legítimo em matéria tributária.
+
+Tal atribuição, segundo a Requerida, não cabe no elenco das competências do tribunal arbitral, descrito no n.º 1 do artigo 2.º do RJAT, o qual se restringe, como se referiu, à declaração de ilegalidade de atos de liquidação previstos nas alíneas a) e b), isto é, à mera apreciação de legalidade.
+
+Concluindo que, em qualquer um dos casos, o Tribunal arbitral é incompetente em razão da matéria.
+
+Por sua vez, em sede de defesa por impugnação, alega a Requerida que,
+
+A ora Requerente apresentou as Declarações Aduaneiras de Veículos n.º 2021/..., de 19-10-2021, e n.º 2021/..., de 29-11-2021, da Delegação Aduaneira da Figueira da Foz, para regularização fiscal do veículo ligeiro de passageiros, da marca Mercedes Benz, modelo R1ES, com o chassis n.º WDD..., com a primeira matrícula alemã..., ao qual veio a ser atribuída a matrícula portuguesa ... e do veículo com a mesma marca e modelo, com o chassis n.º WDD..., e primeira matrícula alemã ..., e ao qual veio a ser atribuída a matrícula nacional ... .
+
+De acordo com os elementos das DAV e restante documentação atinente aos veículos, estes estão equipados com motor híbrido plug-in, elétrico e a combustível (gasóleo). Na sequência da ordem de serviço n.º OI 2022..., de 26-10-2022, a Delegação Aduaneira da Figueira da Foz realizou um procedimento inspetivo interno à ora Requerente.
+
+No âmbito do mesmo procedimento inspetivo foi efetuado, segundo a Requerida, o controlo a posteriori das DAV n.º 2021/... e n.º 2021/..., nas quais consta como proprietário dos veículos a Requerente, tendo-se apurado ISV em falta, no valor de 4.702,18 €, acrescido de 165,68 € de juros compensatórios.
+
+Em 06/11/2022, a entidade inspecionada foi notificada através do ofício n.º ..., da mesma delegação aduaneira, do projeto de relatório para exercer o direito de audição prévia. Por correio eletrónico/e-mail de 09/11/2022, dirigido à delegação aduaneira, a Requerente veio exercer o direito de audição prévia, pugnando pela “improcedência” do projeto de relatório, com fundamento na ilegalidade das liquidações.
+
+De acordo com o relatório de inspeção constatou-se que, segundo a Requerida, em face dos certificados de conformidade da marca dos veículos em causa, quanto à autonomia no modo elétrico, daqueles documentos consta o valor de 48 Km (campo 49.5.2) e o valor de 44g/km relativamente às emissões de gases CO2.
+
+Pelo ofício n.º ..., de 16/12/2022, da Delegação Aduaneira da Figueira da Foz, a sociedade inspecionada foi notificada em 19/12/2022 do relatório final da inspeção (conforme registo postal dos CTT n.º RF...PT).
+
+Com a mesma notificação foi comunicada à Requerente a intenção de o serviço proceder às liquidações adicionais de ISV.
+
+Antes de ser notificada das liquidações adicionais a posteriori pela delegação aduaneira, em sede de procedimento próprio, Requerente acedeu, em 02/12/2022, através do Portal das Finanças, ao sistema liquidador de ISV da AT (SFA2), onde se encontravam em processamento as duas liquidações adicionais de ISV objeto do relatório inspetivo, e extraiu dois DUC provisórios de pagamento (sem data limite de pagamento), tendo efetuado, na mesma data, motu proprio, o pagamento do ISV calculado provisoriamente pela instância aduaneira.
+
+Em 17/02/2023 a Requerente veio apresentar o presente pedido de constituição de tribunal arbitral, peticionando a anulação integral dos atos de liquidação de ISV e o reembolso do montante 4.867,86 €, acrescido de juros indemnizatórios.
+
+Posteriormente, em 13-03-2023, através do ofício n.º ..., de 08-03-2023, a ora Requerente foi notificada pela Delegação Aduaneira da Figueira da Foz da liquidação oficiosa efetuada no âmbito do processo de cobrança a posteriori n.º .../2023.
+
+Entende a Requerida que a Requerente afirma que “ambos os veículos apresentavam, após os testes realizados ao abrigo do Procedimento Global de Testes Harmonizados de Veículos Ligeiros (Worldwide Harmonized Light Vehicle Test Procedure – WLTP) uma emissão de CO2 de 44g/km e que seriam capazes de percorrer, em modo elétrico, 50 ou mais quilómetros, foi aplicada pela Autoridade Tributária uma redução de 75% do valor do imposto obtido pela aplicação da Tabela A constante do n.º 1 do artigo 7.º do CISV.”
+
+Mais declarando a Requerida que a Requerente foi notificada do projeto de relatório, nos termos do qual a AT considera que através da consulta aos respetivos certificados de conformidade individual (COC), o nível de autonomia máxima, no modo elétrico, dos veículos é inferior a 50 km, encontrando-se prescrito no campo 49.5.2 que em ambos os casos será de 48 km, concluindo que deve ser liquidado oficiosamente o ISV resultante das diferenças entre o valor de imposto apurado por aplicação da tabela A, sem qualquer redução e o valor efetivamente cobrado com a aplicação indevida da redução.
+
+E, entendendo que, de acordo com os documentos dos veículos, estes têm uma autonomia de 52 km, permitindo a aplicação da redução prevista no artigo 8.º do CISV, a Requerente pugna pela ilegalidade das liquidações de ISV.
+
+Mas a Requerida entende que, da análise de todos os elementos do processo administrativo, constata-se que nos presentes autos de impugnação arbitral está em causa uma liquidação oficiosa do ISV que, atento o estabelecido na alínea d) do n.º 1 do artigo 8.º do CISV, resulta da não aplicação da redução daquela norma na introdução no consumo dos veículos declarados através das DAV supra identificadas.
+
+De acordo com o estatuído na alínea d), do n.º 1, do artigo 8.º do CISV é aplicada uma taxa intermédia, correspondente a 25% do imposto resultante da aplicação da Tabela A, constante do n.º 1 do artigo 7.º do CISV, aos automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através da ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões de CO2 oficiais inferiores a 50 g/km.
+
+Decorre, assim, da referida norma que os veículos terão de apresentar, para efeitos de concessão e usufruto daquele benefício, cumulativamente, uma autonomia de bateria no modo elétrico igual ou superior a 50 km e emissões de CO2 inferiores a 50 g/km. 60. Sendo que estes parâmetros são balizados consoante o sistema de testes a que os veículos forem sujeitos para efeitos de homologação técnica, que poderão ser realizados ao abrigo do “Novo Ciclo de Condução Europeu Normalizado” (New European Driving Cycle - NEDC) ou ao abrigo do sistema de testes WLTP, conforme decorre da alínea a) do n.º 1, do artigo 4.º do CISV.
+
+A base tributável do ISV dos automóveis ligeiros de passageiros tributados pela Tabela A do artigo 7.º do CISV, como ocorre no caso sub judice segundo a Requerida, é constituída pelos seguintes elementos, tal como consta do certificado de conformidade (COC) dos veículos: - a cilindrada;
+
+- o nível de emissão de partículas, quando aplicável; e
+
+- o nível de emissão de CO2, relativo ao ciclo combinado de ensaios resultante dos testes realizados ao abrigo do sistema NEDC, ou ao abrigo do sistema WLTP, consoante o sistema de testes a que o veículo foi sujeito para efeitos da sua homologação técnica (alínea a) do n.º 1 do artigo 4.º do CISV).
+
+Ora, com referência ao caso em apreço, segundo a Requerida, os veículos em causa (ligeiros de passageiros), em consonância com os respetivos COC e em observância do disposto na alínea a), do n.º 1, do artigo 4.º, conjugado com a alínea a), do n.º 1 do artigo 7.º, ambos do CISV, são tributados a 100% do imposto resultante da Tabela A e não à taxa de 25% do imposto resultante da Tabela A, ao invés do tributado inicialmente aquando da apresentação das respetivas DAV de introdução no consumo.
+
+Constatando-se, em sede de inspeção, que tais veículos não reúnem os requisitos cumulativos previstos na alínea d), do n.º 1, do artigo 8.º do CISV, nomeadamente no que se refere à autonomia mínima no modo elétrico de 50 km, aqueles sido incorretamente enquadrados na data da sua introdução no consumo.
+
+Com efeito, embora ambos os veículos possuam emissões de CO2 WLTP inferiores a 50 g/km, observando nessa medida o requisito estabelecido na supracitada alínea d), do n.º 1, do artigo 8.º, o mesmo não sucede quanto ao requisito da autonomia no modo elétrico, uma vez que, de acordo com o campo 49.5.2 dos respetivos COC, os valores são inferiores a 50km, não podendo, por esse facto, ter aplicabilidade a tributação dos veículos pela taxa intermédia (mais vantajosa) de 25% prevista na alínea d) do n.º 1 do artigo 8.º do CISV, conforme foi inicialmente declarado nas DAV, conforme posição assumida pela Requerida.
+
+O alegado pela Requerente de que os veículos em causa possuem uma autonomia no modo elétrico de 52 Km não poderá ser aceite segundo a Requerida, uma vez que os veículos em apreço ficaram sujeitos aos testes realizados ao abrigo do Procedimento Global de Testes Harmonizados de Veículos Ligeiros (“Worldwide Harmonized Light Vehicle Test Procedure – WLTP), como aliás é referido no art.º 3.º do PPA, e não realizados ao abrigo dos testes NEDC, do qual, a Requerente retira indevidamente a autonomia no modo elétrico de 52 km, no ponto/campo 49.2 do COC.
+
+Consequentemente, ainda a respeito da autonomia da bateria, importa realçar que os valores a considerar no que respeita à autonomia da bateria em modo elétrico, deverão ser os que se encontram inseridos nos campos dos respetivos COC segundo a Requerida, tendo em consideração o tipo de testes (NEDC ou WLTP) a que o veículo foi submetido:
+
+- No Campo 49.2 do COC - autonomia elétrica associada ao ciclo de ensaios NEDC;
+
+- No Campo 49.5.1 do COC - autonomia elétrica associada ao ciclo de ensaios WLTP, para os veículos elétricos puros;
+
+- No Campo 49.5.2 - autonomia elétrica associada ao ciclo de ensaios WLTP, para os veículos híbridos elétricos OVC [híbridos Plug in].
+
+Afirmando a Requerida que tal entendimento é, aliás, corroborado, pela tradução do COC que a Requerente junta como Doc. 8 do PPA, do mesmo se extraindo, do respetivo campo 49.5.2 (veículos híbridos elétricos/equivalente elétrico autonomia elétrica para condições urbanas), que regista 48km.
+
+Acrescentando que, no âmbito do procedimento inspetivo constatou-se que as declarações (DAV) apresentavam um erro evidente, pois no campo relativo à autonomia da bateria não constava a informação correta (afastando-se a presunção prevista no n.º 1 do artigo 75.º da Lei Geral Tributária), tal como indicada nos certificados de conformidade, sendo que constitui obrigação do sujeito passivo o preenchimento da DAV de acordo com os documentos de suporte à mesma, exigidos pelo artigo 20.º, n.º 2, do CISV.
+
+Efetivamente, segundo a Requerida, o certificado de conformidade constitui um documento oficial da marca, do qual consta, expressamente, a indicação da autonomia elétrica (“elektrische äquivalente rein elektrische reichweite städtisch”) deste tipo de veículos - híbridos plug in -, sendo que a AT neste âmbito segue a orientação/interpretação do IMT, que veio esclarecer e corroborar a informação que já consta dos certificados de conformidade, pelo que, entende a Requerida, deveria a Requerente, face ao teor dos certificados de conformidade dos veículos ter preenchido as DAV de acordo com a informação adequada, deles constante, sendo esse o procedimento habitual aquando do preenchimento e processamento das declarações aduaneiras de veículos.
+
+Concluindo, assim a Requerida que, não reunindo as características de cuja verificação a lei faz depender a aplicação da taxa de 25%, o veículo tem de ser tributado pela taxa geral de 100% da tabela A, enquadrável fiscalmente na alínea a) do n.º 1 do artigo 7.º do CISV, tal como sucedeu, não enfermando a liquidação efetuada de qualquer ilegalidade.
+
+Por outro lado, acrescenta a Requerida, quanto à exigibilidade do imposto, conforme se encontra estabelecido na alínea b), do n.º 1, do artigo 6.º do CISV, o ISV torna-se exigível no momento da introdução no consumo, considerando-se esta verificada com a apresentação da DAV, determinando o n.º 3, da mesma disposição legal, que o imposto a aplicar é aquele que estiver em vigor no momento em que se torna exigível.
+
+Assim, por força do estabelecido na alínea a), do n.º 1, do artigo 20.º do CISV, para os particulares, e no n.º 1 do artigo 18.º para os operadores registados, a apresentação da DAV assume-se como a obrigação declarativa decorrente da verificação do facto gerador do imposto (admissão do veículo no território nacional), tornando o imposto exigível na introdução no consumo do veículo e determinando a taxa de imposto a aplicar (cf. n.º 1 do artigo 5.º, alínea b) do n.º 1 e n.º 3 do artigo 6.º e artigo 7.º do CISV). E, quer as taxas previstas no artigo 8.º, como as taxas reduzidas previstas no artigo 9.º do CISV, constituem isenções parciais/reduções de taxas cuja racionalidade assenta na natureza ambiental ou na natureza económica, pretendendo-se, por um lado, incentivar o uso de veículos menos poluentes que, designadamente, utilizem motores elétricos e emitam valores mais reduzidos de C02, ou, por outro, proteger determinadas atividades económicas, por força da afetação dos veículos a tais atividades (turismo, hotelaria e comércio).
+
+Quanto aos benefícios previstos no artigo 8.º do CISV, e concretamente, no que concerne ao benefício consagrado na alínea d), do n.º 1, do artigo 8.º, dele beneficiam, exclusivamente, os automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50gCO2/km. Pelo que, entende a Requerida, que não havendo lugar à aplicação de taxa reduzida, os veículos foram tributados de acordo com a tributação regra, nos termos da lei, e conforme decorre do estatuído no Estatuto dos Benefícios Fiscais.
+
+Face ao exposto, conclui a Requerida que se deve manter na ordem jurídica a liquidação oficiosa/atos de liquidação agora impugnados praticados em resultado da ação inspetiva acima identificada, nos termos da qual se constatou e concluiu que os veículos objeto das DAV n.º 2021/... e n.º 2021/... foram incorretamente tributados, porquanto, de acordo com os respetivos COC, os veículos em causa, sendo sujeitos à tributação com base nos testes WLTP não possuem uma autonomia mínima no modo elétrico exigida por lei, de forma a serem enquadráveis (como erroneamente o foram) na alínea d) do n.º 1 do artigo 8.º do CISV e, nessa medida, serem tributados à taxa de 25% do ISV do imposto resultante da Tabela A do artigo 7.º.
+
+Para além disso acrescenta ainda que à instância arbitral só compete a apreciação da legalidade dos atos, para além de não se verificarem os requisitos para, mesmo no caso de procedência do pedido, ser a Requerida condenada no pagamento de juros indemnizatórios.
+
+Em 2 de junho de 2022 foi a Requerente notificada para, querendo, responder à matéria de exceção, o que fez a 15 de junho de 2023, pugnando pela improcedência das exceções invocadas.
+
+Em 22 de junho de 2023 foi dispensada a reunião a que alude o Art.º 18.º do RJAT e as partes foram notificadas para apresentar alegações escritas.
+
+As Requerente e Requerida apresentaram as suas alegações a 6 de julho de 2023 e 10 de julho de 2023, respetivamente mantendo, no essencial, as posições assumidas nos doutos articulados.
+
+A 15 de agosto de 2023 foi proferido despacho para garantia do contraditório nos termos do n.º 3 do art. 3.º do Código de Processo Civil. As partes enquadraram e subsumiram a matéria de facto tendo em conta o regime previsto no Art.º 8 do CISV. Neste quadro legal a Requerida, conforme douto articulado, aplica a redação introduzida pela Lei n.º 75-B/2020, de 31 de dezembro e não a redação aprovada pela Lei n.º 82-D/2014, de 31 de dezembro. A Requerente, da sua posição, também o faz. No entanto, constitui questão decidenda qual a redação do aludido Art.º 8.º a aplicar in casu, já que o veículo foi matriculado pela primeira vez na Alemanha em 2019 – data em que ainda não estava em vigor a redação do Art.º 8.º dada pela Lei n.º 75-B/2020, de 31 de dezembro.
+
+As partes exerceram o contraditório a 24 de agosto, no caso da Requerente, e a 11 de setembro, no caso da Requerida.
+
+Sumariamente entende a Requerente ser de aplicar o Art.º 8.º conforme redação aprovada pela Lei n.º 82-D/2014, de 31 de dezembro.
+
+Por seu turno a Requerida entende que é aplicável a legislação em vigor à data introdução no consumo titulada pela Declaração Aduaneira de Veículos (DAV) e, nesse caso, sendo que à data da entrada em território nacional estava em vigor a atual redação (introduzida pela Lei n.º 75-B/2020, de 31 de dezembro) é esta que se deve atender no exercício de subsunção.
+
+Saneamento
+
+O Tribunal foi regularmente constituído e é competente em razão da matéria – conforme decidido infra -, atenta a conformação do objeto do processo (cf. artigos 2.º, n.º 1, alínea a) e 5.º do RJAT).
+
+O pedido de pronúncia arbitral é tempestivo, porque apresentado no prazo previsto no artigo 10.º, n.º 1, alínea a) do RJAT.
+
+As partes gozam de personalidade e capacidade judiciárias, têm legitimidade e encontram-se regularmente representadas (cf. artigos 4.º e 10.º, n.º 2 do RJAT e artigo 1.º da Portaria n.º 112-A/2011, de 22 de março).
+
+Não há nulidades ou outra matéria de exceção para conhecer passando-se para a análise do mérito da causa.
+
+Fundamentação
+
+III.I. Matéria de facto
+
+Com relevo para a decisão, importa atender aos seguintes factos que se julgam provados:
+
+A Requerente adquiriu um veículo ligeiro de passageiros, usado, importada da Alemanha, a qual é uma viatura híbrida plug-in, marca Mercedes-Benz, E 300 de, modelo R1EScom o código de homologação 2016..., chassis n.º WDD... e que teve a sua primeira matrícula no país de origem ..., em 22/05/2019.
+
+A introdução no consumo do veículo automóvel foi declarada através da Declaração Aduaneira de Veículo (DAV) n.º 2021/..., da Delegação Aduaneira da Figueira da Foz, de 19/10/2021.
+
+O veículo tem, de acordo com a DAV referida as seguintes características:
+
+Foi-lhe atribuída a matrícula ... em Portugal.
+
+O cálculo do imposto foi efetuado de acordo com a Tabela A aplicável a veículos ligeiros de passageiros, atendendo à componente ambiental e cilindrada, nos seguintes termos:
+
+Do campo T da DAV consta a identificação do ato de liquidação n.º 2021/..., de 19/10/2021, no valor de € 783,70 a título de ISV, que o Requerente pagou.
+
+A Requerente adquiriu um veículo ligeiro de passageiros, usado, importada da Alemanha, a qual é uma viatura híbrida plug-in, marca Mercedes-Benz, E 300 de, modelo R1ES com o código de homologação 2016..., chassis n.º WDD... e que teve a sua primeira matrícula no país de origem ..., em 12/06/2019.
+
+A introdução no consumo do veículo automóvel foi declarada através da Declaração Aduaneira de Veículo (DAV) n.º 2021/...1, da Delegação Aduaneira da Figueira da Foz, de 29/11/2021.
+
+O veículo tem, de acordo com a DAV referida as seguintes características:
+
+Foi-lhe atribuída a matrícula ... em Portugal.
+
+O cálculo do imposto foi efetuado de acordo com a Tabela A aplicável a veículos ligeiros de passageiros, atendendo à componente ambiental e cilindrada, nos seguintes termos:
+
+Do campo T da DAV consta a identificação do ato de liquidação n.º 2021/..., de 29/11/2021, no valor de € 783,70 a título de ISV, que o Requerente pagou.
+
+Na sequência da ordem de serviço n.º OI 2022..., de 26/10/2022, a Delegação Aduaneira da Figueira da Foz realizou um procedimento inspetivo à Requerente.
+
+No âmbito do procedimento foi efetuado um controlo às DAV referidas n.º 2021/... e n.º 2021/....
+
+Relativamente aos valores de autonomia da bateria constantes dos Certificados de Conformidade (COC) são a considerar as constantes da Instrução de Serviço n.º ... conforme interpretação do IMT, do qual resulta:
+
+De acordo com o ponto 49.5.2. do COC, as viaturas apresentam autonomia máxima, em modo elétrico, inferior a 50 km (48 km).
+
+No âmbito do procedimento inspetivo, concluindo conforme ponto precedente em relação à autonomia de modo elétrico, foi apurado ISV em falta no valor total de € 4.702,18, acrescido de € 165,68 de juros compensatórios.
+
+Tendo dado origem às liquidações oficiosas de Imposto Sobre Veículos n.º 2022/... e n.º 2022/... .
+
+A Requerente procedeu ao pagamento.
+
+A Requerente, notificada para o efeito, veio exercer direito de audição prévia em 09/11/2022.
+
+Por ofício n.º ..., de 16/12/2022, da Delegação Aduaneira da Figueira da Foz, a Requerente foi notificada do relatório final da inspeção.
+
+O pedido de constituição do Tribunal Arbitral foi apresentado a 17/02/2023.
+
+Em 13/03/2023, através do ofício n.º..., de 08/03/2023 a Requerente foi notificada pela Delegação Aduaneira da Figueira da Foz da liquidação oficiosa efetuada no âmbito do processo de cobrança a posteri n.º .../2023.
+
+Não há factos relevantes para esta Decisão Arbitral que não se tenham provado.
+
+Fundamentação da Fixação da Matéria de Facto
+
+A matéria de facto foi fixada por este Tribunal Arbitral Singular e a sua convicção ficou formada com base nas peças processuais e requerimentos apresentados pelas Partes e nos documentos juntos pelas Partes, mormente processo administrativo.
+
+Relativamente à matéria de facto o Tribunal não tem o dever de se pronunciar sobre toda a matéria alegada, tendo antes o dever de selecionar a que interessa para a decisão, levando em consideração a causa (ou causas) de pedir que fundamenta o pedido formulado pelo autor, conforme n.º 1 do artigo 596.º e n.º 2 a 4 do artigo 607.º, ambos do Código Processo Civil (CPC), aplicáveis ex vi das alíneas a) e e) do n.º do artigo 29.º do RJAT e consignar se a considera provada ou não provada, conforme n.º 2 do artigo 123.º Código do Procedimento e do Processo Tributário (CPPT).
+
+Segundo o princípio da livre apreciação da prova, o Tribunal baseia a sua decisão, em relação às provas produzidas, na sua íntima convicção, formada a partir do exame e avaliação que faz dos meios de prova trazidos ao processo e de acordo com a sua experiência de vida e conhecimento das pessoas, conforme n.º 5 do artigo 607.º do CPC. Somente quando a força probatória de certos meios se encontrar pré-estabelecida na lei (e.g. força probatória plena dos documentos autênticos, conforme artigo 371.º do Código Civil) é que não domina na apreciação das provas produzidas o princípio da livre apreciação.
+
+Assim, tendo em consideração as posições assumidas pelas Partes e a prova documental junta aos autos, consideraram-se provados, com relevo para esta Decisão Arbitral, os factos acima elencados.
+
+III.II Matéria de Direito (fundamentação)
+
+Face à posição assumida pelas partes, vertidas nas suas peças processuais, cabe ao Tribunal apreciar e decidir sobre as seguintes questões:
+
+O tribunal é competente para apreciar dos atos de liquidação sub judice?
+
+As liquidações de ISV em apreço nos autos são legais?
+
+Caso seja procedente a posição da Requerente haverá lugar à condenação da Requerida na restituição do montante pago e dos respetivos juros indemnizatórios?
+
+Quanto à matéria de exceção dilatória suscitada pela Requerida – é o Tribunal arbitral competente em razão da matéria?
+
+O pedido de constituição do Tribunal arbitral vem interposto, conforme a própria Requerida o enquadra, com o escopo de ser declarada a anulação dos atos de liquidação de Imposto Sobre Veículos resultante da introdução no consumo de um veículo ligeiro de passageiros equipado com motor híbrido plug-in.
+
+De facto, a Requerente impugna as liquidações em apreço nos autos por entender que a liquidação deveria ter beneficiado da aplicação do n.º 1 do art. 8.º do CISV.
+
+Desta forma, e ainda que a Requerida venha alegar que o que o Requerente quer é, por um lado, o reconhecimento do direito à aplicação de uma taxa reduzida, em vez da taxa normal que foi usada no caso concreto, a verdade é que, como referido, não é isso que está em causa nos presentes autos.
+
+O constitui objeto de apreciação e decisão é, se os atos de liquidação de ISV subjacentes às DAV, são ilegais.
+
+Assim sendo, não assiste razão à Requerida uma vez que os pedidos formulados pela Requerente são no sentido de obter a declaração de ilegalidade, e consequente anulação, dos atos de liquidação de ISV em apreço nos autos, com as devidas consequências, mormente a restituição dos impostos pagos indevidamente, acrescidos dos respetivos juros indemnizatórios.
+
+Este pedido enquadra-se na al. a) do n.º 1 do art. 2.º do RJAT, que preceitua que:
+
+“1 - A competência dos tribunais arbitrais compreende a apreciação das seguintes pretensões:
+
+A declaração de ilegalidade de atos de liquidação de tributos, de autoliquidação, de retenção na fonte e de pagamento por conta;”
+
+Uma vez que a Requerente formula o seu pedido que se subsume naquele preceito, porquanto imputa às liquidações em apreço nos autos o vício de errada aplicação da taxa para o seu cálculo, decide-se que o tribunal arbitral é competente nos termos legais referidos, para conhecer do mérito da causa, considerando-se, assim, improcedente a exceção dilatória de incompetência absoluta do Tribunal invocada pela Requerida – em qualquer um dos fundamentos referidos – improcedente.
+
+Passando, agora, à questão de mérito, i.e., as liquidações oficiosas de ISV em apreço nos autos
+
+De acordo com o disposto no Código do ISV estão sujeitos a este imposto, no seu regime regra, nomeadamente, “os veículos automóveis ligeiros de passageiros (…)” [artigo 2.º, n.º 1, alínea a)], sendo “sujeitos passivos do imposto os operadores registados, os operadores reconhecidos e os particulares (…) que procedam à introdução no consumo dos veículos tributáveis, considerando-se como tais as pessoas em nome de quem seja emitida a declaração aduaneira de veículos” (artigo 3.º, n.º 1).
+
+Nos termos do artigo 4.º, n.º 1 do mesmo Diploma, “o imposto sobre veículos possui natureza específica, sendo a sua base tributável constituída pelos seguintes elementos, tal como constantes do respetivo certificado de conformidade:
+
+a) Quanto aos automóveis de passageiros, de mercadorias e de utilização mista, tributados pela tabela A, a cilindrada, o nível de emissão de partículas, quando aplicável, e o nível de emissão de dióxido de carbono (CO(índice 2)) relativo ao ciclo combinado de ensaios resultante dos testes realizados ao abrigo do 'Novo Ciclo de Condução Europeu Normalizado' (New European Driving Cycle - NEDC) ou ao abrigo do 'Procedimento Global de Testes Harmonizados de Veículos Ligeiros' (Worldwide Harmonized Light Vehicle Test Procedure - WLTP), consoante o sistema de testes a que o veículo foi sujeito para efeitos da sua homologação técnica.”
+
+(…)
+
+O n.º 1 do artigo 5.º do Código do ISV determina que “constitui facto gerador do imposto o fabrico, montagem, admissão ou importação dos veículos tributáveis em território nacional, que estejam obrigados à matrícula em Portugal”, sendo que, para este efeito, de acordo com o n.º 3 alínea a) do mesmo artigo, “(…) entende-se por admissão, a entrada de um veículo originário ou em livre prática noutro Estado-Membro da União Europeia em território nacional”.
+
+É ainda facto gerador do imposto, nos termos da al. c) do n.º 2 a “cessação ou violação dos pressupostos da isenção de imposto ou o incumprimento dos condicionalismos que lhe estejam associados.”
+
+No que diz respeito à exigibilidade do imposto, de acordo com o disposto no artigo 6.º, n.º 1, alínea b), “o imposto torna-se exigível no momento da introdução no consumo, considerando-se esta verificada no momento da apresentação da declaração aduaneira de veículos pelos particulares”, sendo que “a taxa de imposto a aplicar é a que estiver em vigor no momento em que este se torna exigível” (n.º 3).
+
+Quanto à introdução no consumo, estabelece o artigo 17.º, n.º 1 do referido Código que “a introdução no consumo e a liquidação do imposto são tituladas pela declaração aduaneira de veículos (DAV)”, sendo que nos termos do nº 3, “para efeitos de matrícula, os veículos automóveis ligeiros (…) ficam sujeitos ao processamento da DAV”.
+
+De acordo com o disposto no artigo 20.º, n.º 1 do Código do ISV, “os particulares e os sujeitos passivos que não se encontrem constituídos como operadores registados ou operadores reconhecidos estão obrigados à apresentação da DAV (…)” nos prazos aí previstos, sendo que, nos termos do seu n.º 2, se enumeram os documentos que a devem acompanhar.
+
+Nos termos do n.º 3 do artigo 27.º do CISV, os veículos não podem ser matriculados sem que a AT tenha comunicado ao Instituto da Mobilidade e dos Transportes Terrestres, I. P./Instituto Mobilidade e dos Transportes (IMT) ou às direções regionais de transportes terrestres das regiões autónomas, informação comprovativa de que o imposto sobre veículos e, se for o caso, os direitos aduaneiros e o imposto sobre o valor acrescentado, se encontram pagos ou garantidos, ou de que foi reconhecida a sua isenção ou a não sujeição ao imposto sobre veículos.
+
+As taxas a aplicar para efeito de cálculo do ISV não incidem sobre o valor do automóvel, mas têm por base os centímetros cúbicos por cilindrada (cm3) (componente cilindrada) e os gramas de CO2 por quilómetro (componente ambiental), sendo que foram estruturadas em taxa normal, taxa intermediária e taxa reduzida e taxa para veículos usados, nos termos do disposto nos artigos 7.º a 11.º do Código do ISV.
+
+Quanto às taxas de ISV, estabelece o art. 7.º do CISV (sob a epígrafe – “Taxas normais – automóveis”), no seu n.º 1 als. a) e b) a aplicação das taxas previstas na Tabela A, tendo em conta as componentes cilindrada e ambiental aos veículos automóveis de passageiros que não sejam tributados pelas taxas reduzidas ou intermédias.
+
+Consagra o art.º. 8.º do mesmo diploma a aplicação de taxas intermédias, sendo que resulta do seu n.º 1 al. d), o seguinte:
+
+“1. É aplicável uma taxa intermédia, correspondente às percentagens a seguir indicadas do imposto resultante da aplicação da tabela A constante do n.º 1 do artigo anterior, aos seguintes veículos:
+
+d) 25%, aos automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 50 km e emissões oficiais inferiores a 50 g CO2/km.
+
+Esta redação foi introduzida pela Lei n.º 75-B/2020, de 31 de dezembro, sendo que da redação anteriormente vigente, aprovada pela Lei n.º 82-D/2014, de 31 de dezembro, resulta que:
+
+1 - É aplicável uma taxa intermédia, correspondente às percentagens a seguir indicadas do imposto resultante da aplicação da tabela A constante do n.º 1 do artigo anterior, aos seguintes veículos:
+
+d) 25%, aos automóveis ligeiros de passageiros equipados com motores híbridos plug-in, cuja bateria possa ser carregada através de ligação à rede elétrica e que tenham uma autonomia mínima, no modo elétrico, de 25 quilómetros.”
+
+Naquele quadro legal (introduzido pela Lei n.º 75-B/2020, de 31 de dezembro) a Requerida procedeu à liquidação de ISV, ou seja, aplicando o regime legal em vigor a partir de 2021 e, em conformidade, entendeu que o veículo em causa não cumpria os requisitos legais para beneficiar da taxa intermédia de 25%.
+
+De facto, o que se conclui dos COC é que os veículos têm uma autonomia em modo elétrico inferior a 50 km pelo que, quanto a este argumento não tem razão a Requerente. De facto, conforme teor documental junto aos autos, a autonomia mínima dos veículos no modo elétrico é inferior a 50 km tendo em conta os certificados de conformidade da marca dos veículos em causa, quanto à autonomia no modo elétrico. Daqueles documentos, conforme factualidade data como provada, consta o valor de 48 Km.
+
+Tendo em conta esta questão – que se mostrava controvertida – importa, agora, determinar a lei aplicável ao caso concreto. I.e. Se deve ser aplicado o art.º 8.º do CISV tendo em conta a redação introduzida pela Lei n.º 75-B/2020, de 31 de dezembro, ou a redação anteriormente vigente, aprovada pela Lei n.º 82-D/2014, de 31 de dezembro.
+
+Há dois momentos temporais a considerar.
+
+A data da primeira matrícula na Alemanha, no ano de 2019, ou a data a introdução no consumo titulada pela Declaração Aduaneira de Veículos, no ano de 2021.
+
+A AT entende que é de considerar – e que levou aos atos de liquidação oficiosa em apreço nos autos – a redação que resulta da Lei n.º 75-B/2020, de 31 de dezembro uma vez que é a legislação em vigor no momento da introdução no consumo titulada pela Declaração Aduaneira de Veículos, no ano de 2021.
+
+Não seguimos esta orientação. Quanto a esta matéria sufragamos a posição vertida na decisão n.º 350/2022 do CAAD (in www.caad.org.pt).
+
+Conforme resulta desta decisão, o que está em causa nos presentes autos a aplicação da lei no tempo, conjugada com o conceito de facto gerador constante do art. 5.º do CISV.
+
+De facto, como se extrai desta decisão, à qual aderimos, “[…] da conjugação do disposto no artigo 5º do Código do Imposto sobre Veículos em articulação com o direito da União, mais concretamente os artigos 26.º e 28.º a 37.º do Tratado sobre o Funcionamento da União Europeia (TFUE), que consagram o direito à livre circulação de mercadorias, resulta que o facto gerador do imposto para efeitos do artigo 5º do CISV deve ser entendido como, a introdução ao consumo do veículo é na Alemanha, […], que é a data de atribuição da sua primeira matrícula.
+
+E, que qualquer interpretação contrária colidiria com o princípio da não discriminação constante do artigo 110.º do TFUE, ou mesmo pelo princípio da liberdade de circulação de mercadorias, que encerra igualmente uma dupla proibição, consagrados nos artigos 28º nº 1, 30º e 34º, 35º do Tribunal de Justiça da União Europeia.
+
+Pelo que, o conceito de facto gerador não discriminatório, decorrente do Direito da União Europeia, deve ser aplicado no tempo, ou seja, na data da sua primeira matrícula no país de origem que é de 29-12-2016 e em consequência deve ser aplicada a taxa em vigor nessa data.
+
+Com efeito, o conceito de facto gerador estabelecido no art. 5º do CISV não pode deixar de ser considerado como estando em estreita relação com o princípio da não discriminação estabelecido no art. 110º do TFUE que prevê, que nenhum Estado-Membro fará incidir, direta ou indiretamente, sobre os produtos dos outros Estados-Membros imposições internas, qualquer que seja a sua natureza, superiores às que incidam, direta ou indiretamente, sobre produtos nacionais similares.
+
+Princípio este que é reforçado pelo princípio da liberdade de circulação de mercadorias, que encerra igualmente uma dupla proibição, consagrados nos artigos 28º nº 1, 30º e 34º, 35º do Tribunal de Justiça da União Europeia, a ver:
+
+- Proibição dos encargos de efeito equivalente a direitos aduaneiros – art. 28º, nº 1 e art. 30º do TFUE.
+
+- Proibição das medidas de efeito equivalentes a restrições quantitativas – art. 34º e 35º do TFUE.
+
+No que a esta matéria diz respeito, convém ter presente que, nos termos do disposto no artigo 8º da Constituição da República Portuguesa (CRP), o direito internacional prevalece sobre o direito interno português e é diretamente aplicável em território nacional.
+
+Na verdade, em matéria de direito internacional, o artigo 8º, nº 4 da CRP estabelece que "as disposições dos tratados que regem a UE e as normas emanadas das suas instituições, no exercício das respetivas competências, são aplicáveis na ordem interna, nos termos definidos pelo direito da União, com respeito pelos princípios fundamentais do Estado de Direito democrático".
+
+O Tribunal de Justiça tem sustentado que, apesar de só os Estados-Membros terem competência em matéria de impostos diretos, que esses Estados devem exercer essa competência em conformidade com o direito da União Europeia.
+
+Evitando assim, violações das cinco liberdades económicas fundamentais, designadamente a livre circulação de mercadorias (artigos 28º e seguintes do TFUE).
+
+O direito português consagra uma cláusula de receção automática plena do direito convencional internacional, cumpridas as formalidades de aprovação, ratificação e publicação.
+
+Daqui decorre que “os tratados são fonte imediata de direitos e obrigações para os seus destinatários podendo ser invocados perante os tribunais".
+
+Enfatizando que "os tratados são superiores hierarquicamente relativamente à lei ordinária”.
+
+Esta superioridade decorre não só dos artigos 26º e 27º da Convenção de Viena sobre o Direito dos Tratados, mas igualmente do artigo 8º nºs 1 e 2 da CRP.
+
+Apresenta-se, pois, como claro que, para que a Convenção vigore na ordem interna, é necessário que a lei ordinária posterior a não possa revogar.
+
+Ou seja, o direito internacional convencional não pode ser afastado por leis ordinárias, surgindo como superior àquelas, sejam essas leis subsequentes, as quais serão materialmente inconstitucionais se o contrariarem; sejam anteriores, as quais terão de ser suspensas se forem conflituantes com esse direito convencional internacional, só retomando a vigência no caso de suspensão ou cessação da convenção internacional que estiver em causa.
+
+Assim sendo, e, tendo presente estar excluído qualquer modelo de tributação num Estado-Membro que produza, um efeito discriminatório, em consequência dos referidos princípios estabelecidos na legislação da União Europeia, é possível fixar o conceito de facto gerador não discriminatório, com base no qual deve ser aplicada corretamente no tempo a taxa intermédia preceituada na alínea d) do nº 1 do art. 8º do CISV para os veículos introduzidos pela primeira vez no consumo em qualquer Estado-Membro da União Europeia.”
+
+Face ao exposto, concluímos que, tendo em conta que os veículos foram matriculados pela primeira vez na Alemanha – no ano de 2019 conforme factualidade dada como provada – será esta a data relevante para aplicação do facto gerador de imposto previsto no art. 5.º do CISV o que, assim sendo, determina a aplicação da taxa intermédia que resulta da al. d), do n.º 1 do art. 8.º do CISV, na redação que estava em vigor à data dessa primeira matrícula.
+
+Assim sendo, se conclui que é de aplicar a taxa intermédia de 25%, constante da al. d) do n.º 1 do art. 8.º do CISV, na redação da Lei 82-D/2014, de 31 de dezembro, uma vez que se trata de veículo ligeiro de passageiros, com motor híbrido plug-in, com bateria que pode ser carregada através de ligação à rede elétrica, com autonomia no modo elétrico de 48 km, sendo, assim, superior aos 25 km mínimos previstos na lei.
+
+Face ao exposto, determina-se a anulação dos atos tributários de liquidação de ISV em apreço nos autos, uma vez que padecem de ilegalidade uma vez que não consideraram a redução de ISV, resultante da aplicação da taxa intermédia de 25%, constante da al. d) do n.º 1 do art. 8.º do CISV, na redação da Lei 82-D/2014, de 31 de dezembro.
+
+Quanto ao pedido de reembolso e pagamento de juros indemnizatórios:
+
+Tendo este Tribunal determinado a anulação dos atos tributários de liquidação de ISV em apreço nos autos, uma vez que padecem de ilegalidade na parte em que não consideraram a redução de ISV, resultante da aplicação da taxa intermédia de 25%, constante da al. d) do n.º 1 do art. 8.º do CISV, na redação da Lei 82-D/2014, de 31 de dezembro, e uma vez que o Requerente pagou a totalidade do ISV liquidado, deve-lhe ser restituído o imposto indevidamente pago, nos termos do disposto nos arts. 24.º, n.º 1, al. b) do RJAT e 100.º da LGT.
+
+No que diz respeito ao pagamento de juros indemnizatórios, de acordo com o disposto no n.º 5, do artigo 24.º do RJAT “é devido o pagamento de juros, independentemente da sua natureza, nos termos previsto na lei geral tributária e no Código de Procedimento e de Processo Tributário”, daqui resultando que uma decisão arbitral não se limita à apreciação da legalidade do ato tributário.
+
+De igual modo, de acordo com o disposto no artigo 24.º, n.º 1, alínea b) do RJAT, deverá ser entendido que o pedido de juros indemnizatórios é uma pretensão relativa a atos tributários (v.g. de liquidação), que visa explicitar/concretizar o conteúdo do dever de “restabelecer a situação que existiria se o ato tributário objeto da decisão arbitral não tivesse sido praticado, adotando os atos e operações necessários para o efeito”.
+
+Nos processos arbitrais tributários pode haver lugar ao pagamento de juros indemnizatórios, nos termos do disposto nos artigos 43.º, n.ºs 1 e 2, e 100.º da LGT, quando se determine que houve erro imputável aos serviços de que resulte pagamento da dívida tributária em montante superior ao legalmente devido.
+
+Nestes termos, o direito a juros indemnizatórios dependerá sempre da verificação de um erro imputável aos serviços da Requerida, do qual tenha resultado um pagamento de dívida tributária em montante superior ao legalmente devido.
+
+Na sequência da declaração de ilegalidade dos atos de liquidação de ISV identificado na medida do peticionado pelo Requerente, e nos termos do disposto na alínea b), do n.º 1, do artigo 24.º do RJAT (em conformidade com o que aí se estabelece), “a decisão arbitral sobre o mérito da pretensão de que não caiba recurso ou impugnação vincula a administração tributária a partir do termo do prazo previsto para o recurso ou impugnação, devendo esta restabelecer a situação que existiria se o ato tributário objeto da decisão arbitral não tivesse sido praticado, adotando os atos e operações necessários para o efeito”, pelo que terá de haver lugar ao reembolso do montante pago pela Requerente, relativos ao ISV na parte em que a liquidação se deve considerar anulada, como forma de se alcançar a reconstituição da situação que existiria se não tivesse sido cometida a ilegalidade já assinalada.
+
+Assim, o Requerente terá direito a juros indemnizatórios, à taxa legal, calculados sobre a quantia de ISV paga indevidamente, nos termos do disposto nos arts. 24.º, n.º 1 al. b) do RJAT, 100.º e 43.º da LGT, desde a data do pagamento até restituição.
+
+Da responsabilidade pelo pagamento das custas arbitrais
+
+Nos termos do disposto no artigo 527.º, n.º 1 do CPC (ex vi 29.º, nº 1, alínea e) do RJAT), deve ser estabelecido que será condenada em custas a parte que a elas houver dado causa ou, não havendo vencimento da ação, quem do processo tirou proveito.
+
+Neste âmbito, o n.º 2 do referido artigo concretiza a expressão “houver dado causa”, segundo o princípio do decaimento, entendendo que dá causa às custas do processo a parte vencida, na proporção em que o for.
+
+Nestes termos, tendo em consideração o acima exposto, a responsabilidade em matéria de custas arbitrais deverá ser imputada exclusivamente à Requerida.
+
+Decisão
+
+Nestes termos, este Tribunal Arbitral Singular decide:
+
+Julgar improcedente a exceção de incompetência absoluta invocada pela Requerida;
+
+Julgar procedente o pedido de declaração de ilegalidade dos atos de liquidação de ISV e proceder à sua consequente anulação;
+
+Condenar a Requerida a restituir à Requerente o valor indevidamente pago, e agora anulado, acrescido de juros indemnizatórios, calculados nos termos legais;
+
+Condenar a Requerida no pagamento integral das custas do presente processo.
+
+Notificação ao Ministério Público
+
+Notifique-se o Ministério Público, representado pela Senhora Procuradora-Geral da República, nos termos e para os efeitos dos artigos 280.º, n.º 3, da Constituição e 72.º, n.º 3, da Lei do Tribunal Constitucional e 185.º-A, n.º 2, do CPTA, subsidiariamente aplicável.
+
+Valor do processo
+
+Tendo em consideração o disposto nos artigos 306.º, n.º 2 do CPC, artigo 97.º-A, n.º 1 do CPPT e no artigo 3.º, nº. 2 do Regulamento de Custas nos Processos de Arbitragem Tributária, fixa-se o valor do processo em € 4.867,86.
+
+Custas
+
+Nos termos do disposto na Tabela I do Regulamento das Custas dos Processos de Arbitragem Tributária, fixa-se o valor das custas do Processo Arbitral em € 612,00, a cargo da Requerida, de acordo com o artigo 22.º, n.º 4 do RJAT.
+
+Notifique-se.
+
+Lisboa e CAAD, 18 de setembro de 2023
+
+A Árbitra,
+
+(Marisa Almeida Araújo)
