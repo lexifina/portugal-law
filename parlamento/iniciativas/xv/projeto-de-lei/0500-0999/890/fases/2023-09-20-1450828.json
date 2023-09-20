@@ -1,0 +1,501 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "890",
+    "id": "233248",
+    "titulo": "Manutenção da redução do IRS em 2024 atento o excesso de receita fiscal cobrada face ao orçamentado e os efeitos da inflação"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2023-09-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "29788",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2023-09-20",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "233245",
+        "leg": "XV",
+        "nr": "887",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Transparência e aplicação democrática dos excessos de receita fiscal face ao Orçamento do Estado e atualização automática dos escalões do IRS"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "233246",
+        "leg": "XV",
+        "nr": "888",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reduzir as taxas de IRS para os jovens até aos 35 anos para um máximo de 15%"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "233247",
+        "leg": "XV",
+        "nr": "889",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estímulos a aumentos na produtividade através de uma isenção de IRS e de TSU"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "233244",
+        "leg": "XV",
+        "nr": "874",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36490",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-09-30",
+            "pubLeg": "XV",
+            "pubNr": "8",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Redução do IRS já em 2023 em 1.200 milhões de euros garantindo a sustentabilidade das Finanças Públicas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-09-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-09-30",
+                "pubLeg": "XV",
+                "pubNr": "8",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "sumario": "Transparência e aplicação democrática dos excessos de receita fiscal face ao Orçamento do Estado e atualização automática dos escalões do IRS; Reduzir as taxas de IRS para os jovens até aos 35 anos para um máximo de 15%; Estímulos a aumentos na produtividade através de uma isenção de IRS e de TSU; Manutenção da redução do IRS em 2024 atento o excesso de receita fiscal cobrada face ao orçamentado e os efeitos da inflação; Redução do IRS já em 2023 em 1.200 milhões de euros garantindo a sustentabilidade das Finanças Públicas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1450828",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996317",
+        "obs": null,
+        "pag": [
+          "48-48"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-09-21",
+        "pubLeg": "XV",
+        "pubNr": "3",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/003/2023-09-21/48?pgs=48&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2023-09-20",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PAN</I><BR>Contra:<I>PS</I>, <I> L</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>",
+        "id": "115622",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "3",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
