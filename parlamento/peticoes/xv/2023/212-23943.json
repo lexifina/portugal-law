@@ -1,0 +1,1016 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23943",
+  "numero": "212",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-09-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-10-24",
+            "entidades": null,
+            "id": "138587",
+            "tipo": null,
+            "titulo": "Audição em 2023-10-24 com Sara Silva (1.ª subscritora)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-01-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915198",
+                "obs": null,
+                "pag": [
+                  "18-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-01-05",
+                "pubLeg": "XV",
+                "pubNr": "20",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/020/2024-01-05/18?pgs=18-25&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-10-04",
+        "DataArquivo": "2024-01-03",
+        "DataBaixaComissao": "2023-09-27",
+        "DataEnvioPAR": "2024-01-03",
+        "DataReaberta": "2023-10-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-10-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e6862793968597a49354e5745314f53316d4e7a4a6c4c5452695a6a457459546c684d69316b4d7a4d314d5755784e7a4e68596a67756347526d&fich=ac295a59-f72e-4bf1-a9a2-d3351e173ab8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938785932497a5a4451334e69316c4d4452694c5451344e474d74595756684f4330775a4449345a4467794d545a684f5455756347526d&fich=1cb3d476-e04b-484c-aea8-0d28d8216a95.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-01-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e686279396b5a444979597a4d314e5330775a6d59334c5452684e6d5974595451334d7931694e7a67305a4464695a446b324e4467756347526d&fich=dd22c355-0ff7-4a6f-a473-b784d7bd9648.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-01-03",
+            "dataNomeacao": "2023-10-04",
+            "gp": "PS",
+            "id": "4453",
+            "motivoCessacao": null,
+            "nome": "Pedro Delgado Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-12-04",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-09-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e54417a4f546b354d574974596a52694e6930304e7a466c4c5467774d4445744e44517a4d546b794d546869596d4a6d4c6e426b5a673d3d&fich=5039991b-b4b6-471e-8001-44319218bbbf.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "304351",
+      "304333",
+      "304341",
+      "304352"
+    ],
+    "Iniciativasoriginadas": [
+      "304351",
+      "304333",
+      "304341",
+      "304352"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/73"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413597",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": "Apresenta o Projeto de Lei n.º 359/XVI/1.ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/74"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413598",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": "Projeto de Resolução n.º 447/XVI/1.ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/75"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413599",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": "Projeto de Resolução n.º 451/XVI/1.ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/76"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413600",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": "Projeto de Resolução n.º 458/XVI/1.ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/77"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413601",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/78"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/65?pgs=65&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/79"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413603",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/66?pgs=66&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/80"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/81"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/82"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/84"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413607",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/85"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/86"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/71?pgs=71&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/87"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/72?pgs=72&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/88"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/89"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/73?pgs=73&org=PLC"
+              }
+            ],
+            "Sumario": "(Coletivo Animal) — Em defesa da lei que criminaliza os maus-tratos a animais — Maltratar um animal tem de ser crime em Portugal; (Coletivo Animal) — Pela faia. Pela consagração constitucional do bem-estar animal enquanto bem jurídico tutelado. Por um direito animal justo e consequente; Rita Isabel Duarte Silva e outros) — Solicitam alteração/revisão constitucional que aprove a inclusão explícita e inequívoca da proteção dos animais não-humanos na Constituição da República Portuguesa; Intensifica a proteção dos animais de companhia, alterando o DL n.º 276/2001, de 17 de Outubro, o Código Penal e o DL .º 314/2003, de 17 de Dezembro; Recomenda ao Governo o fim dos apoios públicos a espetáculos que inflijam sofrimento a animais e aumente a idade para trabalhar e assistir a esses espetáculos; Assunção de poderes de revisão constitucional extraordinária pela Assembleia da República para assegurar a consagração da proteção dos animais na Constituição; Recomenda ao Governo que proceda a uma análise e levantamento das limitações do regime jurídico vigente e da organização da resposta do sistema em matéria de maus tratos e abandono de animais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": [
+      {
+        "DataDocumento": "2023-09-29",
+        "TipoDocumento": "Link",
+        "URL": "https://tvi.iol.pt/doisas10/videos/mata-cadela-a-facada-e-fere-homem/64e4a5a70cf265bc967d32e5"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23943",
+    "PetAssunto": "Pela Faia. Pela consagração constitucional do bem estar animal enquanto bem jurídico tutelado. Por um Direito Animal justo e consequente.",
+    "PetDataEntrada": "2023-09-20",
+    "PeticoesAssociadas": [
+      "13858",
+      "23959"
+    ],
+    "PetId": "23943",
+    "PetLeg": "XV",
+    "PetNr": "212",
+    "PetNrAssinaturas": "9471",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36621",
+        "obs": null,
+        "pag": [
+          "60-73"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-05",
+        "pubLeg": "XVI",
+        "pubNr": "64",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/60?pgs=60-73&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915221",
+        "obs": null,
+        "pag": [
+          "10-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-06",
+        "pubLeg": "XV",
+        "pubNr": "4",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/004/2023-10-06/10?pgs=10-12&org=PLC"
+      }
+    ]
+  }
+}
