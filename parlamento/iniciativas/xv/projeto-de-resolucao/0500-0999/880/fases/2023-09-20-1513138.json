@@ -1,0 +1,395 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "880",
+    "id": "233268",
+    "titulo": "Recomenda ao Governo que implemente medidas ambiciosas de combate à evasão fiscal, à elisão fiscal e ao planeamento fiscal agressivo"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2023-09-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "29790",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2023-09-20",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-09-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6057",
+                "nome": "Ana Isabel Santos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4363",
+                "nome": "Agostinho Santa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7324",
+                "nome": "Anabela Real"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7357",
+                "nome": "António Monteirinho"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6050",
+                "nome": "André Pinotes Batista"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6848",
+                "nome": "António Pedro Faria"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7502",
+                "nome": "Bárbara Dias"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6197",
+                "nome": "António Sales"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7726",
+                "nome": "Catarina Lobo"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6661",
+                "nome": "Carlos Brás"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7250",
+                "nome": "Clarisse Campos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7547",
+                "nome": "Diogo Cunha"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6886",
+                "nome": "Cristina Sousa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7015",
+                "nome": "Cristina Mendes da Silva"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7020",
+                "nome": "Dora Brandão"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7949",
+                "nome": "Eduardo Oliveira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "162",
+                "nome": "Edite Estrela"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5600",
+                "nome": "Eurico Brilhante Dias"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7350",
+                "nome": "Fátima Correia Pinto"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1554",
+                "nome": "Filipe Neto Brandão"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7036",
+                "nome": "Francisco Pereira de Oliveira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7212",
+                "nome": "Fernando José"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7483",
+                "nome": "Gilberto Anjos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7494",
+                "nome": "Irene Costa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6013",
+                "nome": "Hugo Costa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6884",
+                "nome": "Jorge Botelho"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1735",
+                "nome": "João Paulo Rebelo"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7936",
+                "nome": "José Pedro Ferreira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2753",
+                "nome": "Jorge Gabriel Martins"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4210",
+                "nome": "José Rui Cruz"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Luís Capoulas Santos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6129",
+                "nome": "Lúcia Araújo da Silva"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "695",
+                "nome": "Maria da Luz Rosinha"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7018",
+                "nome": "Mara Lagriminha Coelho"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6801",
+                "nome": "Maria João Castro"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5841",
+                "nome": "Miguel Cabrita"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6899",
+                "nome": "Marta Freitas"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6706",
+                "nome": "Miguel Matos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7348",
+                "nome": "Miguel Iglésias"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7866",
+                "nome": "Paula Reis"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "3936",
+                "nome": "Palmira Maciel"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5635",
+                "nome": "Norberto Patinho"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1893",
+                "nome": "Pedro Coimbra"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7034",
+                "nome": "Raquel Ferreira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2273",
+                "nome": "Rita Borges Madeira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6956",
+                "nome": "Sara Velez"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6682",
+                "nome": "Romualda Nunes Fernandes"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7573",
+                "nome": "Rui Lage"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7297",
+                "nome": "Sérgio Monte"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6710",
+                "nome": "Sofia Andrade"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7404",
+                "nome": "Susana Barroso"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6962",
+                "nome": "Susana Correia"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1944",
+                "nome": "Susana Amador"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6834",
+                "nome": "Vera Braz"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6112",
+                "nome": "Tiago Brandão Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-76"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-09-30",
+                "pubLeg": "XV",
+                "pubNr": "8",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/75?pgs=75-76&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que implemente medidas ambiciosas de combate à evasão fiscal, à elisão fiscal e ao planeamento fiscal agressivo.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1513138",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "37238",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "75-76"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-09-30",
+        "pubLeg": "XV",
+        "pubNr": "8",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/008/2023-09-30/75?pgs=75-76&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
