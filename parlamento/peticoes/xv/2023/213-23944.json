@@ -1,0 +1,778 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23944",
+  "numero": "213",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-09-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-10-18",
+            "entidades": null,
+            "id": "138565",
+            "tipo": null,
+            "titulo": "Audição em 2023-10-18 com Peticionário"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915184",
+                "obs": null,
+                "pag": [
+                  "28-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-09",
+                "pubLeg": "XV",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/016/2023-12-09/28?pgs=28-38&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-10-10",
+        "DataArquivo": "2023-12-08",
+        "DataBaixaComissao": "2023-09-29",
+        "DataEnvioPAR": "2023-12-07",
+        "DataReaberta": "2023-10-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-10-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e68627938774e4459784e7a41344f43316a4f4452694c54526a5a574d74596a56684d53316d5a4441305a444932596d45314d5463756347526d&fich=04617088-c84b-4cec-b5a1-fd04d26ba517.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-10-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e686279396b5a6a63354d57453059793033597a45354c5451304e5759744f54597a4f5330354e7a426c4d6a4d314f444e6a5a474d756347526d&fich=df791a4c-7c19-445f-9639-970e23583cdc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e6862793877596a4d334d6a426a4d79316d596d52684c545178596a6b744f474a6d4e53316a596d49774e545a695954673359574d756347526d&fich=0b3720c3-fbda-41b9-8bf5-cbb056ba87ac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e686279396c5a5755775a544a6d5a53307a4e44646b4c5451324f545174595755344f4330794e6a41794e5749324e54517a4f4751756347526d&fich=eee0e2fe-347d-4694-ae88-26025b65438d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-12-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e68627938785a54677a5a6d59314f5331684e6a59324c5451334f4745744f5749784d79316b5957466d4e5745344d7a63355a5467756347526d&fich=1e83ff59-a666-478a-9b13-daaf5a8379e8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8336",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6867",
+            "motivoCessacao": null,
+            "nome": "Rosário Gambôa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-09-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-09-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e6d4d79596a56684e6a55745a6d4a6b4d5330304e5745794c5468694e5451745a6a6b314d5463334d446b354f575a694c6e426b5a673d3d&fich=6c2b5a65-fbd1-45a2-8b54-f951770999fb.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-09-29",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d7659544e6b5a6d59304d7a45744e44686a4d5330304e7a49304c5749784f4759744d6a55305a4441794d5463305a474e6d4c6e426b5a673d3d&fich=a3dff431-48c1-4724-b18f-254d02174dcf.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "284039",
+      "284055",
+      "284065",
+      "284071",
+      "284039",
+      "284055",
+      "284065",
+      "284071",
+      "284071"
+    ],
+    "Iniciativasoriginadas": [
+      "284039",
+      "284055",
+      "284065",
+      "284071"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/74"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/73?pgs=73-74&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": "Apresenta o Projeto de Resolução nº 274/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/75"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": "Apresenta o Projeto de Resolução nº 280/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/76"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/75?pgs=75&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": "Apresenta o Projeto de Resolução nº 285/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/77"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "76-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/76?pgs=76-77&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": "Apresenta o Projeto de Resolução nº 289/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/78"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/79"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "78-79"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/78?pgs=78-79&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/80"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/80?pgs=80&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/81"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/81?pgs=81&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/82"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/81?pgs=81-83&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/83"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-09-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/42/84"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381200",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-28",
+                "pubLeg": "XVI",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/84?pgs=84&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico (Mafalda Maria Broguera Ribeiro e outros); Defesa dos músicos e criadores culturais do Centro Comercial STOP e criação do Centro Cultural e Musical do Porto; Recomenda a criação da rede de “Casa da Criação”; Recomenda ao Governo a criação de uma Rede Nacional de Residências Artísticas, o incentivo à criação de residências artísticas em espaços públicos e a declaração de interesse cultural para espaços de criação artística; Promover o CC STOP enquanto polo cultural.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23944",
+    "PetAssunto": "Em Defesa dos Músicos do Centro Comercial STOP, do Porto, da Cultura e da Transparência no Processo Urbanístico",
+    "PetDataEntrada": "2023-09-23",
+    "PeticoesAssociadas": null,
+    "PetId": "23944",
+    "PetLeg": "XV",
+    "PetNr": "213",
+    "PetNrAssinaturas": "7936",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36577",
+        "obs": null,
+        "pag": [
+          "73-84"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-09-28",
+        "pubLeg": "XVI",
+        "pubNr": "42",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/042/2024-09-28/73?pgs=73-84&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915206",
+        "obs": null,
+        "pag": [
+          "29-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-14",
+        "pubLeg": "XV",
+        "pubNr": "6",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/006/2023-10-14/29?pgs=29-30&org=PLC"
+      }
+    ]
+  }
+}
