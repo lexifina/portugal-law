@@ -30,4 +30,6 @@ l) «Prognóstico», uma das respostas possíveis à pergunta que é colocada ao
 
 m) «Tempo regulamentar», o período de tempo de duração total de um evento desportivo, de acordo com as normas regulamentares aplicáveis a cada modalidade e evento desportivo, incluindo as eventuais paragens de jogo ou os tempos adicionais concedidos por decisão da arbitragem no decurso do evento desportivo, sem incluir os eventuais e posteriores prolongamentos ou sessões de marcação de grandes penalidades;
 
-n) «Tipo de Aposta», a pergunta colocada ao apostador, sobre factos que ocorrem no decurso de determinado período de jogo de um ou vários eventos desportivos, nos termos previstos no artigo 6.º
+n) «Jogo» o período de tempo de duração total de um evento desportivo que compreende o 'tempo regulamentar' e os prolongamentos ou outro método de desempate;
+
+o) «Tipo de Aposta», a pergunta colocada ao apostador, sobre factos que ocorrem no decurso de determinado período de jogo de um ou vários eventos desportivos, nos termos previstos no artigo 6.º

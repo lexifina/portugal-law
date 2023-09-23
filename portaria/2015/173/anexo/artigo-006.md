@@ -12,60 +12,104 @@ c) Aposta «1 X 2 Intervalo»;
 
 d) Aposta «1 X 2 Segunda Parte»;
 
-e) Aposta «Intervalo/Final»;
+e) Aposta «1X2 Jogo»;
 
-f) Aposta «Dupla Possibilidade»;
+f) Aposta «Intervalo/Final»;
 
-g) Aposta «1 X 2 Desvantagem»;
+g) Aposta «Dupla Possibilidade»;
 
-h) Aposta «1 X 2 Desvantagem Intervalo»;
+h) Aposta «1 X 2 Desvantagem»;
 
-i) Aposta «1 X 2 Desvantagem Segunda Parte»;
+i) Aposta «1 X 2 Desvantagem Intervalo»;
 
-j) Aposta «Mais/Menos»;
+j) Aposta «1 X 2 Desvantagem Segunda Parte»;
 
-k) Aposta «Mais/Menos (15 min)»;
+k) Aposta «Mais/Menos»;
 
-l) Aposta «Frente a Frente»;
+l) Aposta «Mais/Menos (15 min)»;
 
-m) Aposta «Frente a Frente (1.º set)»;
+m) Aposta «Frente a Frente»;
 
-n) Aposta «Frente a Frente (2.º set)»;
+n) Aposta «Frente a Frente (1.º set)»;
 
-o) Aposta «Resultado exato»;
+o) Aposta «Frente a Frente (2.º set)»;
 
-p) Aposta «Diferença entre as equipas»;
+p) Aposta «Resultado exato»;
 
-q) Aposta «Quem marca o primeiro golo?»;
+q) Aposta «Diferença entre as equipas»;
 
-r) Aposta «Quem marca o X.º golo?»;
+r) Aposta «Quem marca o primeiro golo?»;
 
-s) Aposta «Quem marca o primeiro ensaio?»;
+s) Aposta «Quem marca o X.º golo?»;
 
-t) Aposta «Quem marca o X.º ensaio?»;
+t) Aposta «Quem marca o primeiro ensaio?»;
 
-u) Aposta «Vencedor (equipa/competidor/piloto)»;
+u) Aposta «Quem marca o X.º ensaio?»;
 
-v) Aposta «Pódio (equipa/competidor/piloto)»;
+v) Aposta «Vencedor (equipa/competidor/piloto)»;
 
-w) Aposta «Top X (equipa/competidor/piloto)»;
+w) Aposta «Pódio (equipa/competidor/piloto)»;
 
-x) Aposta «Ambas as equipas marcam?»;
+x) Aposta «Top X (equipa/competidor/piloto)»;
 
-y) Aposta «O jogador X vencerá pelo menos um set?»;
+y) Aposta «Ambas as equipas marcam?»;
 
-z) Aposta «Golo por fração de 15 minutos»;
+z) Aposta «O jogador X vencerá pelo menos um set?»;
 
-aa) Aposta «Ensaio por fração de 10 minutos»;
+aa) Aposta «Golo por fração de X minutos»;
 
-bb) Aposta «Primeira equipa que marcará X pontos num set».
+bb) Aposta «Ensaio por fração de 10 minutos»;
 
-2 - A descrição de cada um dos tipos de apostas previstas no número anterior consta do Anexo I ao presente Regulamento, do qual é parte integrante.
+cc) Aposta «Primeira equipa que marcará X pontos num set»;
+
+dd) Aposta «Margem vencedora»;
+
+ee) Aposta «1X2 e Ambas marcam»;
+
+ff) Aposta «1X2 e Mais/Menos»;
+
+gg) Aposta «Empate anula a aposta»;
+
+hh) Aposta «Par ou ímpar»;
+
+ii) Aposta «Marcador»;
+
+jj) Aposta «1X2 e Goleador»;
+
+kk) Aposta «Desempenho do jogador»;
+
+ll) Aposta «Volta mais rápida»;
+
+mm) Aposta «Vencedor (equipa/competidor/piloto) e Volta mais rápida»;
+
+nn) Aposta «Quem marca o último golo?»;
+
+oo) Aposta «Número de sets»;
+
+pp) Aposta «Equipa X ganha as duas partes?»;
+
+qq) Aposta «Equipa X marca nas duas partes?»;
+
+rr) Aposta «Dupla possibilidade e Ambas marcam»;
+
+ss) Aposta «Dupla possibilidade e Mais/Menos»;
+
+tt) Aposta «Mais/Menos e Ambas marcam»;
+
+uu) Aposta «Número exato de golos/sets»;
+
+vv) Aposta «Período com mais golos/pontos»;
+
+ww) Aposta «Haverá prolongamento?»;
+
+xx) Aposta «Equipa ou Jogador qualifica-se?».
+
+2 - A descrição de cada um dos tipos de apostas previstas no número anterior consta do anexo i do presente Regulamento, do qual é parte integrante.
 
 3 - Alguns tipos de apostas poderão não ser disponibilizados sob a forma de aposta pré-evento desportivo ou sob a forma de aposta em direto.
 
-4 - O Departamento de Jogos não está obrigado a disponibilizar todos os tipos de apostas previstas no presente Regulamento.
+4 - O Departamento de Jogos não está obrigado a disponibilizar todos os tipos de apostas previstos no presente Regulamento, nem a disponibilizar, para todos os tipos de apostas, os mesmos modelos de bilhetes.
 
-5 - A ordem de identificação das equipas e dos competidores em cada tipo de aposta é a indicada pelo Departamento de Jogos, sendo esta a única que é válida.
+5 - (Revogado.)
 
-6 - Sempre que não seja expressamente indicado o período de jogo de um evento desportivo, sobre o qual podem ser efetuadas apostas, entende-se que o período de jogo em causa é o tempo regulamentar.
+6 - Sempre que não seja expressamente indicado o período de jogo de um evento desportivo sobre o qual podem ser efetuadas apostas, entende-se que o período de jogo em causa é o tempo regulamentar.

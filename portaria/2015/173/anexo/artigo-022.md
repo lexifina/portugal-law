@@ -30,12 +30,14 @@ i. Para os prémios de valor igual ou inferior a (euro)150,00 imediatamente apó
 
 ii. Para os prémios de valor superior a (euro)150,00, decorridas 2 horas após a data/hora da homologação de resultados ou no prazo de 2 horas após a última atualização de resultados a que se refere o n.º 2 do artigo 21.º, conforme o que ocorrer por último.
 
-5 - O direito a prémios caduca, para o conjunto dos eventos selecionados no recibo da aposta, nos seguintes termos:
+5 - Os dados pessoais de identificação dos premiados são recolhidos para cumprimento da legislação de combate ao branqueamento de capitais e são tratados pela Santa Casa da Misericórdia de Lisboa, no respeito pela legislação relativa à proteção de dados pessoais.
+
+6 - O direito a prémios caduca, para o conjunto dos eventos selecionados no recibo da aposta, nos seguintes termos:
 
 a) Para os prémios de valor igual ou inferior a (euro)150,00 decorridos 90 dias a contar da data da homologação de resultados;
 
 b) Para os prémios de valor superior a (euro)150,00 decorridos 90 dias a contar do fim do prazo de 2 horas subsequente à data da homologação de resultados, ou a contar do fim do prazo de 2 horas após a última atualização de resultados, conforme o que ocorrer por último.
 
-6 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.
+7 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.
 
-7 - O apostador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, sem prejuízo do disposto nos artigos 25.º e 26.º
+8 - O apostador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, sem prejuízo do disposto nos artigos 25.º e 26.º

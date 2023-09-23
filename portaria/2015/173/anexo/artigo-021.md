@@ -4,11 +4,11 @@
 
 1 - A determinação do direito a prémio resulta de um conjunto de operações com base na informação das apostas validamente registadas no sistema central do Departamento de Jogos e na informação sobre os resultados dos vários eventos desportivos homologados pelo Departamento de Jogos.
 
-2 - No caso de, no prazo máximo de 2 horas após a homologação do resultado pelo Departamento de Jogos, ocorrer a sua modificação nos termos do n.º 8 do artigo 20.º, é atualizada a informação a que se refere o número anterior, em conformidade com o resultado modificado, e, em consequência:
+2 - No caso de, no prazo máximo de duas horas após a homologação do resultado pelo Departamento de Jogos, ocorrer a sua modificação nos termos do n.º 10 do artigo 20.º, é atualizada a informação a que se refere o número anterior, em conformidade com o resultado modificado, e, em consequência:
 
 a) Podem os apostadores solicitar ao Departamento de Jogos o pagamento de prémios de apostas anteriormente consideradas não vencedoras, mediante o preenchimento de um formulário próprio e apresentação do recibo da aposta; ou
 
-b) Podem os apostadores solicitar ao Departamento de Jogos o pagamento da diferença de valor de prémios já pagos, mediante o preenchimento de um formulário próprio e apresentação do talão de pagamento referido na alínea e) do n.º 4 do artigo 22.º
+b) Podem os apostadores solicitar ao Departamento de Jogos o pagamento da diferença de valor de prémios já pagos, mediante o preenchimento de um formulário próprio e apresentação do talão de pagamento referido na alínea f) do n.º 4 do artigo 22.º
 
 3 - Caso a modificação a que se refere o número anterior não ocorra no prazo máximo de 2 horas contado nos termos do número anterior, o resultado válido, para efeitos do presente Regulamento, será o homologado pelo Departamento de Jogos.
 

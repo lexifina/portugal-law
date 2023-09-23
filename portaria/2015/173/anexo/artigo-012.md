@@ -10,4 +10,6 @@
 
 4 - As cotas podem ser alteradas pelo Departamento de Jogos durante o período de aceitação das apostas sem necessidade de aviso prévio.
 
-5 - Na oferta de apostas desportivas à cota não constam eventos desportivos especialmente destinados a menores ou nos quais estes participem enquanto intervenientes principais.
+5 - A desvantagem e o total de golos, pontos, cantos, remates ou ensaios podem ser alterados pelo Departamento de Jogos durante o período de aceitação das apostas sem necessidade de aviso prévio.
+
+6 - Na oferta de apostas desportivas à cota não constam eventos desportivos especialmente destinados a menores ou nos quais estes participem enquanto intervenientes principais.

@@ -6,7 +6,7 @@
 
 2 - As reclamações são apresentadas por escrito, em formulário próprio, a entregar no Departamento de Jogos.
 
-3 - As reclamações também podem ser apresentadas por carta, telegrama, mensagem de correio eletrónico ou telecópia, desde que sejam indicados, pelo menos, os seguintes elementos:
+3 - As reclamações também podem ser apresentadas por correio postal ou correio eletrónico desde que sejam indicados, pelo menos, os seguintes elementos:
 
 a) Nome completo, comprovativo de Número de Identificação Fiscal e morada do reclamante;
 

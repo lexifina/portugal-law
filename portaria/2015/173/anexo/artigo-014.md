@@ -24,4 +24,6 @@ d) O montante base.
 
 5 - Sem prejuízo do disposto no n.º 4 do artigo 8.º, no n.º 3 do artigo 9.º e no n.º 4 do artigo 10.º do presente Regulamento, a cota considerada válida para determinar o montante dos ganhos possíveis é a que tiver sido registada e validada no momento da realização da aposta.
 
-6 - É da exclusiva responsabilidade do apostador a verificação e comprovação dos elementos da sua aposta e do Número de Identificação Fiscal impresso no talão a que se refere o n.º 4 do presente artigo.
+6 - Sem prejuízo do disposto no n.º 4 do artigo 8.º, no n.º 3 do artigo 9.º e no n.º 4 do artigo 10.º do presente Regulamento, a desvantagem e o total de golos, pontos, cantos, remates ou ensaios considerados válidos para determinar o montante dos ganhos possíveis são os que tiverem sido registados e validados no momento da realização da aposta.
+
+7 - É da exclusiva responsabilidade do apostador a verificação e comprovação dos elementos da sua aposta e do Número de Identificação Fiscal impresso no talão a que se refere o n.º 4 do presente artigo.
