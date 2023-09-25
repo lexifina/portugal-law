@@ -1,0 +1,1002 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23947",
+  "numero": "216",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-09-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-10-25",
+            "entidades": null,
+            "id": "138596",
+            "tipo": null,
+            "titulo": "Audição em 2023-10-25 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-12-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-10-10",
+        "DataArquivo": "2023-12-07",
+        "DataBaixaComissao": "2023-09-27",
+        "DataEnvioPAR": "2023-12-07",
+        "DataReaberta": "2023-10-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4d4456685a575a6c4f4331694d3256694c5451315a6a55744f4455325a69307859324e6c597a6777597a67335a6a67756347526d&fich=f05aefe8-b3eb-45f5-856f-1ccec80c87f8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938315a57526b4f544e685969316d5a446c694c5452694d54497459574d354d53307a4e7a41335a544e6d4d545a6b4e5459756347526d&fich=5edd93ab-fd9b-4b12-ac91-3707e3f16d56.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938794f5745315a4456684f433079596d51354c54526a4e544d744f54517a5a693169596a55794d57597a4e5755784f5759756347526d&fich=29a5d5a8-2bd9-4c53-943f-bb521f35e19f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d597a6c6a5a6d4533596930354f5451344c5451304d6a4174595445354e43316c597a4a695a4755795a6d45774f474d756347526d&fich=fc9cfa7b-9948-4420-a194-ec2bde2fa08c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774e574a6c595745775a6930324e3249324c545268596a45744f4452684d4330794f4755354e4759324e5751344e5759756347526d&fich=05beaa0f-67b6-4ab1-84a0-28e94f65d85f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938795a47597a4e5459794d4331694e6d4e684c5451354d5451744f4756694f43316c4d47526d5a6a4d784d6d4e6d5a5751756347526d&fich=2df35620-b6ca-4914-8eb8-e0dff312cfed.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a4d7a4932597a55774d6930315957566a4c5451354e7a4574596a46684d4331695a4463334d5755774d325532596a63756347526d&fich=c326c502-5aec-4971-b1a0-bd771e03e6b7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684d445a684d6a6c6d596930345a6d51304c5451344e574d744f5441325969316b59546b78595455304e4463354f5441756347526d&fich=a06a29fb-8fd4-485c-906b-da91a5447990.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314d7a686d4e6d49324f43316d4f4751784c5451305a6d51744f5755304d79316b5a474d304d57597a4e54426b5a4451756347526d&fich=538f6b68-f8d1-44fd-9e43-ddc41f350dd4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774f44686959544d78597930334d6d55344c54526c5a6a5174596d4a6d4e4331694f444e685a6a517a5a6d4d304e4749756347526d&fich=088ba31c-72e8-4ef4-bbf4-b83af43fc44b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a4f5441344d47566b5979316c4d6a6b774c5451325a444974596a59774d7930784e44526a4e6a41304d444977596a45756347526d&fich=39080edc-e290-46d2-b603-144c604020b1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774d6a64695a5746694d69316b4d4468694c54526a5a6a557459545531597930344e7a45784d475a6d4d6a4932596a6b756347526d&fich=027beab2-d08b-4cf5-a55c-87110ff226b9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938774d5463315a5745784d53316b596d46694c5451315a6a4974596d59795a4331685a6a637a4d6a4d304d57553159574d756347526d&fich=0175ea11-dbab-45f2-bf2d-af732341e5ac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938344e3251305a6a59344f5330354e4752684c54517859325174596d4d775a4330784e6d4a6b4d6d52684e6a5a694d474d756347526d&fich=87d4f689-94da-41cd-bc0d-16bd2da66b0c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a5a6d4d305a44646b4f53316a4f5446684c5452694e474d744f5455305953316a4f444a6b5a6d4e6b4f444a6a59546b756347526d&fich=cfc4d7d9-c91a-4b4c-954a-c82dfcd82ca9.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-12-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324e47526d4f4749774d6931694f545a6d4c5451774e546b74596a646c4d53316a4e5463344d4441794e4449345a6d45756347526d&fich=64df8b02-b96f-4059-b7e1-c578002428fa.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-11-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4f5756694e7a4a6c4d793078596d497a4c54526c4f4755744f44466d595331695932517a5a6a49314d47566b4e4441756347526d&fich=d9eb72e3-1bb3-4e8e-81fa-bcd3f250ed40.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793878595751324e6d5178595330345a6d566c4c54517a4e6a6774596a55344e69316c4e6d4d794e324a6b4e6d5179595751756347526d&fich=1ad66d1a-8fee-4368-b586-e6c27bd6d2ad.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938795a6a63304e6a55324f53316c4f446c684c5451334d6a597459574a694e6930355a6d49325a4751784d5759334f4749756347526d&fich=2f746569-e89a-4726-abb6-9fb6dd11f78b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4f474d314d6d59345a43316d596d466c4c545178596d59744f57526d4e5330324d445132596a597a4e7a41315a6a51756347526d&fich=f8c52f8d-fbae-41bf-9df5-6046b63705f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334d7a4e694f4455785969316a5a5445304c5451774e5463744f544d325979316d4f54646b4e57466b4f5755314d6a63756347526d&fich=733b851b-ce14-4057-936c-f97d5ad9e527.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793831597a466b4d4456694e79316d4d6a6b784c54526a4e5459744f54646d4d7930354f544e6a4d544e6c4f5455795a5441756347526d&fich=5c1d05b7-f291-4c56-97f3-993c13e952e0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793831595464694f574d77597930314e32566d4c54517a5a6a49744f4755324e69316c4d7a646d4f474e6c4d3259335a5463756347526d&fich=5a7b9c0c-57ef-43f2-8e66-e37f8ce3f7e7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a5a474e6a4f574d314e4330355a475a6b4c5452695a5451744f4459794d5330794d7a646a596d5977596d51334e6d45756347526d&fich=3dcc9c54-9dfd-4be4-8621-237cbf0bd76a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-12-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684d5441334e3251314d6930784d6d52684c54526d4f575974596d453059533079596d5a69597a59775a47566a596d49756347526d&fich=a1077d52-12da-4f9f-ba4a-2bfbc60decbb.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8332",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-10-24",
+            "gp": "PS",
+            "id": "5896",
+            "motivoCessacao": null,
+            "nome": "Eduardo Alves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-10-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-09-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f4459774f544d315a544d744f5452685a5330305a575a6b4c546b354e7a59745a446b344d7a41314f57466d595745344c6e426b5a673d3d&fich=860935e3-94ae-4efd-9976-d983059afaa8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "294136",
+      "294109",
+      "294124",
+      "294132",
+      "294135",
+      "294109"
+    ],
+    "Iniciativasoriginadas": [
+      "294136",
+      "294109",
+      "294124",
+      "294132",
+      "294135"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/101"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-80"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/80?pgs=80&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "Apresenta o Projeto de Lei nº 284/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/102"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/80?pgs=80-82&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "Apresenta o Projeto de Resolução nº 314/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/103"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "Apresenta o Projeto de Resolução nº 323/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/104"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/83?pgs=83&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "À Deputada Isabel Ferreira (PS)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/105"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/84?pgs=84&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "Responde ao pedido de esclarecimento do Deputado Joaquim Barbosa (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/106"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/84?pgs=84-85&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "Apresenta o Projeto de Lei nº 326/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/107"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/85?pgs=85&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "Apresenta o Projeto de Lei nº 327/XVI/1ª "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/108"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "86-86"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/86?pgs=86&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/109"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-87"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/87?pgs=87&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/110"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381517",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "87-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/87?pgs=87-88&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/111"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381518",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "88-88"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/88?pgs=88&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/112"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "89-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/89?pgs=89-90&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "À Deputada Germana Rocha (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/113"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-90"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/90?pgs=90&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "À Deputada Germana Rocha (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/48/114"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "381521",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "90-91"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-12",
+                "pubLeg": "XVI",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/90?pgs=90-91&org=PLC"
+              }
+            ],
+            "Sumario": "Pela valorização dos salários de investigadores e professores do ensino superior; Progressão salarial dos Investigadores e dos Docentes Universitários mais rápida e justa;  Recomenda ao Governo que cesse com as discrepâncias existentes entre Investigadores na FCT; Recomenda ao Governo que valorize a carreira da docência no ensino superior e a carreira de investigação científica; Valorizações remuneratórias dos docentes do ensino superior; Pela valorização dos investigadores e dos docentes do Ensino Superior.",
+            "Teor": "Responde aos pedidos de esclarecimento "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23947",
+    "PetAssunto": "Pela valorização dos salários de investigadores e professores do ensino superior",
+    "PetDataEntrada": "2023-09-25",
+    "PeticoesAssociadas": null,
+    "PetId": "23947",
+    "PetLeg": "XV",
+    "PetNr": "216",
+    "PetNrAssinaturas": "7531",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36588",
+        "obs": null,
+        "pag": [
+          "80-91"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-12",
+        "pubLeg": "XVI",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/048/2024-10-12/80?pgs=80-91&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915222",
+        "obs": "Texto da petição; Relatório final da Comissão de Educação e Ciência",
+        "pag": [
+          "38-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-09",
+        "pubLeg": "XV",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/016/2023-12-09/38?pgs=38-43&org=PLC"
+      }
+    ]
+  }
+}
