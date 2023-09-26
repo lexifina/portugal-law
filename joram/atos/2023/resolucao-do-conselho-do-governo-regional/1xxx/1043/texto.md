@@ -1,0 +1,17 @@
+# Resolução do Conselho do Governo Regional n.º 1043/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 177/2023, de 2023-09-26
+
+**Sumário:** Autoriza a celebração de um contrato de concessão de utilização privativa de recursos hídricos do domínio público, entre a Região Autónoma da Madeira e sociedade comercial denominada Emoções e Paladares, Serviços Turísticos, Lda., de uma parcela de terreno que integra o domínio público marítimo.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1043/2023
+Sumário: Autoriza a celebração de um contrato de concessão de utilização privativa de recursos hídricos do domínio público, entre a Região Autónoma da Madeira e sociedade comercial denominada Emoções e Paladares, Serviços Turísticos, Lda., de uma parcela de terreno que integra o domínio público marítimo.
+Texto: Resolução n.º 1043/2023 Considerando que as utilizações privativas dos recursos hídricos do domínio público, designadamente, a utilização de terrenos do domínio público hídrico que se destinem à edificação de empreendimentos turísticos e similares, estão sujeitas a prévia concessão; Considerando que a utilização dominial do empreendimento turístico constituído pelo denominado “Restaurante Orca” e pela “Pensão Residencial Orca”, sob gestão da sociedade comercial «Emoções e Paladares, Serviços Turísticos, Lda.» localizado na vila do Porto Moniz, freguesia e concelho de Porto Moniz, com a área de 1027 m2 é atualmente desprovida de qualquer título de utilização; Considerando que, nos termos do artigo 89.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, na sua redação atual, os utilizadores de recursos hídricos que não disponham de título que permita essa utilização devem requerer a regularização da utilização não titulada; Considerando que foram observados todos os procedimentos legalmente estabelecidos para a escolha do concessionário, designadamente a afixação de editais e respetiva publicação no Jornal Oficial da Região Autónoma da Madeira, não tendo sido recebido, no âmbito dessa consulta e para efeitos do artigo 68.º da Lei n.º 58/2005, de 29 de dezembro, quaisquer pedidos com o mesmo propósito. O Conselho do Governo reunido em plenário em 21 de setembro de 2023, ao abrigo do disposto na alínea c) do artigo 61.º da Lei n.º 58/2005 de 29 de dezembro, na sua atual redação, conjugado com o n.º 6 do artigo 30.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, e com a alínea a) do artigo 2.º do Decreto Regulamentar Regional n.º 5/2020/M, de 15 de janeiro, resolve:
+1. Autorizar a celebração de um contrato de concessão de utilização privativa de recursos hídricos do domínio público, entre a Região Autónoma da Madeira e sociedade comercial denominada «Emoções e Paladares, Serviços Turísticos, Lda.», de uma parcela de terreno que integra o domínio público marítimo, na área dominial localizada na vila de Porto Moniz, freguesia e concelho de Porto Moniz, com o total de 1027 m2 (mil e vinte e sete metros quadrados), e pelo prazo de quarenta anos.
+2. Aprovar a minuta do contrato de concessão, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência.
+3. Mandatar a Secretária Regional de Ambiente, Recursos Naturais e Alterações Climáticas para, em representação da Região Autónoma da Madeira, outorgar o respetivo contrato de concessão.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
