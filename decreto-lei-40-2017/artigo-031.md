@@ -20,6 +20,6 @@ d) O regime de exploração.
 
 3 - Cabe à DGRM e ao ICNF, I. P., consoante se trate, respetivamente, de águas marinhas ou de águas interiores, a responsabilidade pelo tratamento de dados pessoais, assegurando a privacidade dos mesmos, nos termos da lei.
 
-4 - O registo individual previsto no n.º 1 é criado com base nos elementos disponíveis no BdE e livremente facultados pelos interessados.
+4 - O registo individual previsto no n.º 1 é criado com base nos elementos disponíveis no BMar e livremente facultados pelos interessados.
 
 5 - A DRGM e o ICNF, I. P., consoante se trate, respetivamente, de águas marinhas ou de águas interiores, devem enviar os dados do registo sobre a utilização dos recursos hídricos ao Sistema Nacional de Informação de Recursos Hídricos.

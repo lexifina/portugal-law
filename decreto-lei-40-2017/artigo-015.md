@@ -4,9 +4,9 @@
 
 1 - São estabelecimentos conexos os depósitos, centros de depuração e centros de expedição que se destinem à manutenção temporária em vida de espécimes aquícolas ou ao seu tratamento higiossanitário.
 
-2 - Os estabelecimentos de culturas em águas marinhas ou em águas interiores e os estabelecimentos conexos podem ser licenciados em simultâneo, num único procedimento, seguindo um dos seguintes regimes:
+2 - Os interessados na exploração de estabelecimentos de culturas em águas marinhas ou em águas interiores e de estabelecimentos conexos podem apresentar pedidos em simultâneo, nos termos do artigo 3.º, observando-se o procedimento respetivo, de acordo com um dos seguintes regimes:
 
-a) A autorização, quando ambos os estabelecimentos se situem em propriedade privada ou em domínio privado do Estado;
+a) A comunicação prévia com prazo;
 
 b) O licenciamento geral, sempre que, pelo menos, parte de um dos estabelecimentos se encontre em domínio público do Estado.
 

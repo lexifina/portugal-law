@@ -1,15 +1,15 @@
 # Artigo 24.º
 
-### Taxa Aquícola
+### Taxa Aquícola Única
 
-1 - É devida uma TAQ por cada um dos procedimentos referidos no presente decreto-lei, fixada em função da respetiva complexidade, a qual engloba as taxas anteriormente cobradas pelas entidades competentes.
+1 - É devida uma Taxa Aquícola Única (TAQ) por cada um dos procedimentos abrangidos pelo presente decreto-lei, fixada em função da respetiva complexidade, a qual engloba todas as taxas cobradas pelas entidades intervenientes nesses procedimentos, bem como as taxas anuais decorrentes do licenciamento.
 
-2 - A fórmula de cálculo, o montante e as isenções da TAQ são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais, da aquicultura em águas interiores e do mar e é publicitada no BdE.
+2 - A fórmula de cálculo, o montante e as isenções da TAQ são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças, do ambiente, do ordenamento do território, das infraestruturas, das autarquias locais e da aquicultura e publicitados no BMar.
 
-3 - A falta de introdução das taxas, no BdE, por qualquer uma das entidades, cujo pagamento esteja legal ou regulamentarmente previsto determina que não seja devida qualquer taxa.
+3 - A falta de introdução das taxas, no BMar, por qualquer uma das entidades, cujo pagamento esteja legal ou regulamentarmente previsto determina que não seja devida qualquer taxa.
 
-4 - A portaria mencionada no n.º 2 fixa, ainda, a forma de divisão e de entrega do produto da cobrança da TAQ, que cabe na proporção de 90 % para a entidade coordenadora e 10 % para o Fundo Azul, bem como o montante relativo a custos administrativos, devendo esse montante ser estritamente proporcional aos custos efetivamente suportados pela entidade coordenadora.
+4 - A portaria mencionada no n.º 2 fixa, ainda, a forma de distribuição e de entrega do produto da cobrança da TAQ às várias entidades intervenientes.
 
-5 - A TAQ é liquidada no momento em que o interessado inicia um dos procedimentos previstos no artigo 7.º ou no artigo 11.º, o qual só prossegue após realização do pagamento e respetiva confirmação pela entidade coordenadora.
+5 - O pagamento da TAQ é efetuado por via eletrónica, com recurso ao serviço de Pagamentos da Administração Pública.
 
-6 - O disposto no presente artigo não prejudica a obrigação de pagamento das taxas previstas para os procedimentos de AIA, de controlo prévio urbanístico, bem como o pagamento anual da taxa de recursos hídricos e da taxa de utilização de espaço marítimo, nos termos da legislação aplicável.
+6 - No caso de não pagamento da TAQ anual, compete à entidade coordenadora encetar os procedimentos tendentes à cobrança coerciva do respetivo valor.

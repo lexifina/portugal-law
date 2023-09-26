@@ -12,7 +12,7 @@
 
 5 - Caso o interessado pretenda instalar uma unidade de maneio para estabelecimento de culturas originário para o qual já foi emitido TAA, deve seguir um dos seguintes procedimentos:
 
-a) Comunicação prévia com prazo ou autorização, nos casos de a unidade de maneio se localizar em propriedade privada ou em domínio privado do Estado;
+a) Comunicação prévia com prazo nos casos de a unidade de maneio se localizar em propriedade privada ou em domínio privado do Estado;
 
 b) Licenciamento geral, nos restantes casos.
 
