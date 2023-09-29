@@ -1,0 +1,121 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "88",
+    "id": "172990",
+    "titulo": "Transpõe a Diretiva Delegada (UE) 2022/2100 e reforça normas tendentes à prevenção e controlo do tabagismo"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2023-09-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "74838",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-09-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-06-20",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Fábrica de Tabaco Micaelense",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a475a68597a4d314f5467744f444e6a4e693030595746694c5745795957597459545177596d466d5a6a63305a6a426a4c6e426b5a673d3d&fich=dfac3598-83c6-4aab-a2af-a40baff74f0c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-06-23",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Contributo - Fábrica de Tabaco Micaelense (adenda)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5449795a4449794e4755744e5459784d7930304e7a4a694c574a695a4463744f4459314e6a497a4e5756684d545a6c4c6e426b5a673d3d&fich=922d224e-5613-472b-bbd7-8656235ea16e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-07-14",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Raquel Rosa - Membro da Comissão de Tabagismo da Sociedade Portuguesa de Pneumologia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4464685a6a55304d324d744f546b305a693030597a45794c5467334f57517459574e6a4f574668595759354d32517a4c6e426b5a673d3d&fich=d7af543c-994f-4c12-879d-acc9aaaf93d3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-11-28",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a466a4f5451355a5745745a474a6d4e7930304d3251794c57493259574d744f44453259546b334e445531595441314c6e426b5a673d3d&fich=f1c949ea-dbf7-43d2-b6ac-816a97455a05.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-11-28",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Anexo I -  Proposta de Lei n.º 88/XV",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a4a6b596a497a4e6d5974593251314d7930304d474e6c4c546b355a575974597a4d785a6d49354e5449774e7a59324c6e426b5a673d3d&fich=c2db236f-cd53-40ce-99ef-c31fb9520766.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-11-28",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Anexo II - Mapa com votações efetuadas no Grupo de Trabalho",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5755354e6d49785a6d4d744d324e684d53303059546c6c4c5749774d4445744e4445775a445a6a4d6d5930596a49784c6e426b5a673d3d&fich=5e96b1fc-3ca1-4a9e-b001-410d6c2f4b21.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-11-28",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Anexo III - Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e44466a5a5459334f446b74596a63794f533030595759304c546b32597a4d74593251344f4446684d5441354e6d4a684c6e426b5a673d3d&fich=41ce6789-b729-4af4-96c3-cd881a1096ba.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8333",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "8333",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-09-29",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1451167",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
