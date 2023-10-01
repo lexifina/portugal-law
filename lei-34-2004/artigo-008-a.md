@@ -1,4 +1,4 @@
-# Artigo 8.º-A
+# Artigo 8-A
 
 ### Apreciação da insuficiência económica
 
