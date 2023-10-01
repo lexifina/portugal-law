@@ -10,7 +10,7 @@
 
 ### Coacção sexual
 
-1 - Quem, sozinho ou acompanhado por outrem, constranger outra pessoa a praticar ato sexual de relevo é punido com pena de prisão até cinco anos.
+1 - Quem, sozinho ou acompanhado por outrem, constranger outra pessoa a sofrer ou a praticar ato sexual de relevo é punido com pena de prisão até 5 anos.
 
 2 - Quem, por meio de violência, ameaça grave, ou depois de, para esse fim, a ter tornado inconsciente ou posto na impossibilidade de resistir, constranger outra pessoa a sofrer ou a praticar, consigo ou com outrem, acto sexual de relevo é punido com pena de prisão de 1 a 8 anos.
 
