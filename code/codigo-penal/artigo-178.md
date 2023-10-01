@@ -4,7 +4,7 @@
 
 1 - O procedimento criminal pelos crimes previstos nos artigos 163.º a 165.º, 167.º, 168.º e 170.º depende de queixa, salvo se forem praticados contra menor ou deles resultar suicídio ou morte da vítima.
 
-2 - Quando o procedimento pelos crimes previstos nos artigos 163.º e 164.º depender de queixa, o Ministério Público pode dar início ao mesmo, no prazo de seis meses a contar da data em que tiver tido conhecimento do facto e dos seus autores, sempre que o interesse da vítima o aconselhe.
+2 - Quando o procedimento pelos crimes previstos nos artigos 163.º e 164.º depender de queixa, o Ministério Público pode dar início ao mesmo, no prazo de um ano a contar da data em que tiver tido conhecimento do facto e dos seus autores, sempre que o interesse da vítima o aconselhe.
 
 3 - O procedimento criminal pelo crime previsto no artigo 173.º depende de queixa, salvo se dele resultar suicídio ou morte da vítima.
 

@@ -4,9 +4,9 @@
 
 1 - Quem constranger outra pessoa a:
 
-a) Praticar consigo ou com outrem cópula, coito anal ou coito oral; ou
+a) Sofrer ou praticar consigo ou com outrem cópula, coito anal ou coito oral; ou
 
-b) Praticar atos de introdução vaginal, anal ou oral de partes do corpo ou objetos;
+b) Sofrer ou praticar atos de introdução vaginal, anal ou oral de partes do corpo ou objetos;
 
 é punido com pena de prisão de um a seis anos.
 
@@ -14,7 +14,7 @@ b) Praticar atos de introdução vaginal, anal ou oral de partes do corpo ou obj
 
 a) A sofrer ou a praticar, consigo ou com outrem, cópula, coito anal ou coito oral; ou
 
-b) A sofrer introdução vaginal ou anal de partes do corpo ou objectos;
+b) A sofrer ou a praticar atos de introdução vaginal, anal ou oral de partes do corpo ou objetos;
 
 é punido com pena de prisão de três a dez anos.
 
