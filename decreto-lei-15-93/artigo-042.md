@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Consumo e tratamento
-
 # Artigo 42.º
 
 ### Atendimento e tratamento de consumidores
