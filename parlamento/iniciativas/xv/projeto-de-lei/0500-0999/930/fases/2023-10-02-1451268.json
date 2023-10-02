@@ -1,0 +1,201 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "930",
+    "id": "243332",
+    "titulo": "Reforça a regulamentação dos serviços municipais de proteção civil, alterando a Lei n.º 65/2007, de 12 de novembro\n"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-10-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "74854",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-10-02",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-12-07",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49304f4468685a544a684c5745324f5455744e4755344f5330354e3245344c54466b4d6a6c6c4f5467355a6d4e6a4e5335775a47593d&fich=2488ae2a-a695-4e89-97a8-1d29e989fcc5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer  CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6b4d57566c4e5445324c575a6d4e5441744e444d784e7930354d3245324c57526c4f4455344e6a4932595449784e4335775a47593d&fich=2d1ee516-ff50-4317-93a6-de858626a214.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-17",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32526c5a5745784d5459344c5752684f4751744e475932597930344e5449354c5755325a6a497a5a474e694d5749304e6935775a47593d&fich=deea1168-da8d-4f6c-8529-e6f23dcb1b46.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-23",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Associação Nacional de Municípios Portugueses (ANMP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a64695957466d4f5751354c57526c595459744e444577596930354d5442694c574532597a4d794e57526b596a4e6d4e4335775a47593d&fich=7baaf9d9-dea6-410b-910b-a6c325ddb3f4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-10-25",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Associação Nacional de Freguesias (ANAFRE)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255334e4456684e6d4d354c544e6c5a6a55744e47466b4d7930345a44686c4c5745314f4468694e7a557a4e7a49344e4335775a47593d&fich=e745a6c9-3ef5-4ad3-8d8e-a588b7537284.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-11-15",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4a6a596a497959546b354c5459345a4755744e444d354e6930354d54466a4c5463334d6a45784e4759774d6a4d344d7935775a47593d&fich=2cb22a99-68de-4396-911c-772114f02383.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-11-28",
+            "TipoDocumento": "Parecer AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3252685a475a694f474e6d4c545a6c4e4455744e44637a597931684f44526b4c57526a4e32566c5a444d335a6d4d344d7935775a47593d&fich=dadfb8cf-6e45-473c-a84d-dc7eed37fc83.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8325",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "8325",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-11-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-10-17"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-11-28"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2023-10-23"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2023-10-25"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2023-10-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2023-10-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2023-10-11"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2023-10-11"
+          },
+          {
+            "link": "",
+            "nome": "ANAFRE - Associação Nacional de Freguesias em 2023-10-11"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "6176",
+            "motivoCessacao": null,
+            "nome": "Sara Madruga da Costa"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2023-12-07",
+            "dataRemessa": "2023-12-07",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-10-02",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1451268",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997420",
+        "obs": null,
+        "pag": [
+          "2-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-07",
+        "pubLeg": "XV",
+        "pubNr": "44",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/02/044/2023-12-07/2?pgs=2-5&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
