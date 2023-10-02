@@ -1,0 +1,1337 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23950",
+  "numero": "219",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-10-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-12-12",
+            "entidades": null,
+            "id": "148667",
+            "tipo": null,
+            "titulo": "Audição em 2023-12-12 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-12-19",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915193",
+                "obs": null,
+                "pag": [
+                  "11-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-23",
+                "pubLeg": "XV",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/018/2023-12-23/11?pgs=11-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-10-18",
+        "DataArquivo": "2023-12-19",
+        "DataBaixaComissao": "2023-10-04",
+        "DataEnvioPAR": "2023-12-19",
+        "DataReaberta": "2023-10-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-10-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938304e7a5130596d59774f5330775a474d794c54526d4d475974596d55784d5330305a446b7a5a4756695a4441314e7a45756347526d&fich=4744bf09-0dc2-4f0f-be11-4d93debd0571.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684d7a417a59574d31597930774e7a55774c5451304f546774596a566b4f5330795a4455774d32466b5a6a68684e4451756347526d&fich=a303ac5c-0750-4498-b5d9-2d503adf8a44.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684f57457a5954426b5a69316a4f5751344c54517a4f5455744f475a684e7930794e6d45325932566a4e57566d4e3249756347526d&fich=a9a3a0df-c9d8-4395-8fa7-26a6cec5ef7b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396d4f47526c595746694d7930304e5752684c54526d4e6a59744f574e6d4d7931694f544a6b5a575a6c4d6a4e6b4e6a51756347526d&fich=f8deaab3-45da-4f66-9cf3-b92defe23d64.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387959544e694d47457a595330315a47557a4c545134593251744f4745344f43307a4d6d46684e7a646c5a5468695a6d49756347526d&fich=2a3b0a3a-5de3-48cd-8a88-32aa77ee8bfb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938314f545a6b596d4d315a533030597a45794c54526a4f4463744f544978595330774e446c6b4f444e6b5a574e6d4e5749756347526d&fich=596dbc5e-4c12-4c87-921a-049d83decf5b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793877596d51304d6d55784e4330334d544d794c5451344d545974595445354e4330314f44646959545a6d4e6a51335a474d756347526d&fich=0bd42e14-7132-4816-a194-587ba6f647dc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793830596a6c685a6a45305a53316b5954426a4c5451794e5467744f574531597931684e57466a4f444e6d5a6a646859324d756347526d&fich=4b9af14e-da0c-4258-9a5c-a5ac83ff7acc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938794f545579595746694d4330355a6a67344c54526a5a6a59744f444a6c4f533077596d4d335a44633459324d325a4445756347526d&fich=2952aab0-9f88-4cf6-82e9-0bc7d78cc6d1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396a4f47526a4d4455775969316d4d3249324c5451304e7a4d744f4755794d6930345a54526d4d6d52685a5755304d7a67756347526d&fich=c8dc050b-f3b6-4473-8e22-8e4f2daee438.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938324d4751304f5759315a6930784f4455314c54526c4e475574595759304d53316c5a444e6a4d444d35596a517a4d5467756347526d&fich=60d49f5f-1855-4e4e-af41-ed3c039b4318.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939694d545668596a67784f43316c5a6a59314c5451354d32497459575179596931695a6a566c4e32497a4d6d55354e7a51756347526d&fich=b15ab818-ef65-493b-ad2b-bf5e7b32e974.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c5a6a4531595759794d5331685a5459794c54526b4e5759745957566a4e5330324e6a49794f475a685a6a5133595459756347526d&fich=ef15af21-ae62-4d5f-aec5-66228faf47a6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939695a444979596d51304e7930785a546b344c54526d5a445574596a6b304e5330335a6a45344e7a45774e444d784d4463756347526d&fich=bd22bd47-1e98-4fd5-b945-7f1871043107.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-10-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938334f5746694f544d785a69316d4d4755774c54517a597a6374596a59795a53303559324e6c4d6a67794d325177596d55756347526d&fich=79ab931f-f0e0-43c7-b62e-9cce2823d0be.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-12-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938355a546333595463354f53316b5a4755324c54517a5a6a517459575669597931685a5455334e6a6b7a4f444d774f4751756347526d&fich=9e77a799-dde6-43f4-aebc-ae576938308d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-11-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938345a6a63784d7a4d314f4330334d32557a4c545133597a55744f445a6d4d43316d4e544e6b596d4e6d4d7a4d354d5441756347526d&fich=8f713358-73e3-47c5-86f0-f53dbcf33910.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4f5441794f5751324e6930304d5455784c54526d4d4445744f54646a4d4330344d6a51344d6a457759544977595759756347526d&fich=d9029d66-4151-4f01-97c0-8248210a20af.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e6862793968597a68684e444133595330344e475a6a4c54517a5a5759744f474a6d4d533033597a6b32595449774e5745774d6a59756347526d&fich=ac8a407a-84fc-43ef-8bf1-7c96a205a026.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279387a5a6d5a6d4e444135595330355a6a6b324c5451794e6d457459544d31596930305a6a4177595467785a5449335a444d756347526d&fich=3fff409a-9f96-426a-a35b-4f00a81e27d3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627938344e546c6b4f575a695a6930304e6d55354c5451304d6a63744f545a6b5a6930775a4455794e446b314e325669596a49756347526d&fich=859d9fbf-46e9-4427-96df-0d524957ebb2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939695a5455305a4451784d7930784f47466a4c5452684e5467744f44677a4d5330314d5751774d6d55304f5446684f5467756347526d&fich=be54d413-18ac-4a58-8831-51d02e491a98.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e68627939684e5459304f5759784f5330344d7a67314c545133595451745954686a4f53316a597a4d79596a51335a4467314e6a4d756347526d&fich=a5649f19-8385-47a4-a8c9-cc32b47d8563.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396c4e6d55314d7a4d7a5953316b4f5441794c54526c4e4745744f5749335a53316d4e5455784e6a6732596d49304d6d51756347526d&fich=e6e5333a-d902-4e4a-9b7e-f551686bb42d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f454e465179394562324e31625756756447397a5547563061574e686279396b4e544d335954646c5a4330334e4467794c545268597a63744f444e6d4e6931695954686a596d59795a546c6b4f5445756347526d&fich=d537a7ed-7482-4ac7-83f6-ba8cbf2e9d91.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "8332",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-12-19",
+            "dataNomeacao": "2023-12-11",
+            "gp": "PS",
+            "id": "7547",
+            "motivoCessacao": null,
+            "nome": "Diogo Cunha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-10-24",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-10-06",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a575a6c4e6a6c6a4f47497459324978596930304f5468694c57466a597a49744e575131597a67345a4441794e324e684c6e426b5a673d3d&fich=efe69c8b-cb1b-498b-acc2-5d5c88d027ca.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "304247",
+      "304251",
+      "304252",
+      "263785",
+      "263838",
+      "273920",
+      "294098",
+      "304239",
+      "304243",
+      "304255",
+      "304240",
+      "304243",
+      "304240",
+      "304239"
+    ],
+    "Iniciativasoriginadas": [
+      "304240",
+      "304247",
+      "304251",
+      "304252",
+      "263785",
+      "263838",
+      "273920",
+      "294098",
+      "304239",
+      "304243",
+      "304255"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Apresenta o Projeto de Lei n.º 329/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "À Deputada Joana Mortágua (BE)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Responde aos pedidos de esclarecimento do Deputado Joaquim Barbosa (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Em Interpelação à Mesa, solicita a distribuição ao BE de um artigo da Constituição."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Em Interpelação à Mesa, anuncia que fará distribuir o capítulo da Constituição referente à Educação."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Apresenta o Projeto de Lei n.º 333/XVI/1ª e o Projeto de Resolução n.º 304/XVI/1ª."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/66"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Apresenta os Projetos de Lei n.º 336 e 337/XVI/1ª e o Projeto de Resolução n.º 393/XVI/1ª."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/67"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 130/XVI/1ª."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "À Deputada Ângela Almeida (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "À Deputada Ângela Almeida (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Responde aos pedidos de esclarecimento do Deputado Marcus Santos (CH) e da Deputada Isabel Mendes Lopes (L)."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/71"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 153/XVI/1ª."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/72"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 208/XVI/1ª."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/73"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Ao Deputado Gabriel Mithá Ribeiro (CH)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/74"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412651",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Responde ao pedido de esclarecimento da Deputada Joana Mortágua (BE)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/75"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412652",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/76"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Em Interpelação à Mesa, refere que a notícia referida por Joana Mortágua (BE) é falsa."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/77"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Apresenta o Projeto de Resolução n.º 389/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/78"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": "Apresenta os Projeto de Resolução n.º 390 e 393/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-10-25",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/54/79"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "412656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-25",
+                "pubLeg": "XVI",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança (Luís Miguel Sottomayor Braga Baptista e outros; Isenção de custas processuais aos profissionais da escola pública e do Serviço Nacional de Saúde; Promove medidas para combate à violência em contexto escolar; Afirma as escolas como um espaço seguro livre de todas as formas de discriminação, alterando a Lei n.º 51/2012, de 5 de Setembro; Cria uma rede de serviços de psicologia nas escolas públicas e instituições de ensino superior e uma linha telefónica de apoio no Ensino Superior; Recomenda ao Governo o reforço do Programa Escola Segura e das ações de sensibilização contra a violência em meio escolar; Recomenda ao Governo uma análise compreensiva das ocorrências de violência em contexto escolar, visando uma atuação cada vez mais eficaz e a sua prevenção; Recomenda ao Governo a adoção de medidas que fomentem a segurança e consequente diminuição de violência contra crianças e jovens; Pela valorização e qualificação das carreiras de Assistente Técnico e de Assistente Operacional nas escolas e promoção de medidas que permitam a adequação destes recursos à realidade de cada escola; Medidas de prevenção e combate à violência nas escolas; Recomenda ao Governo a adoção de medidas de combate à violência e ao consumo de droga no meio escolar; Recomenda ao Governo medidas de promoção da segurança e combate à discriminação nas escolas.\n",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23950",
+    "PetAssunto": "Solicitam medidas contra a violência na Escola e reforço da Paz e Segurança",
+    "PetDataEntrada": "2023-10-02",
+    "PeticoesAssociadas": null,
+    "PetId": "23950",
+    "PetLeg": "XV",
+    "PetNr": "219",
+    "PetNrAssinaturas": "7717",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36604",
+        "obs": null,
+        "pag": [
+          "42-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-10-25",
+        "pubLeg": "XVI",
+        "pubNr": "54",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/054/2024-10-25/42?pgs=42-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915207",
+        "obs": null,
+        "pag": [
+          "18-19"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-23",
+        "pubLeg": "XV",
+        "pubNr": "8",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/008/2023-10-23/18?pgs=18-19&org=PLC"
+      }
+    ]
+  }
+}
