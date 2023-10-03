@@ -1,0 +1,159 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "935",
+    "id": "243345",
+    "titulo": "Alteração dos limites territoriais entre a freguesia de Foros de Arrão, no Município de Ponte de Sor, e a União de Freguesias de Parreira e Chouto, no Município de Chamusca"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2023-10-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "74858",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-10-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-12-18",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a5755785a4467305a5463744e444268597930304f5442694c54686c4d4463744f544e6c4d6a45344d6d51355a4441324c6e426b5a673d3d&fich=ee1d84e7-40ac-490b-8e07-93e2182d9d06.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Assembleia Municipal de Ponte de Sôr 1/2",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593245324d444269595467745a5464694e6930305a4445344c57466b4e6d5174595455344d7a55774d54417a4d544d784c6e426b5a673d3d&fich=ca600ba8-e7b6-4d18-ad6d-a58350103131.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2023-12-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Assembleia Municipal de Ponte de Sôr 2/2",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a417a4d6a67344d5445744e7a497a595330304e47566b4c574a6a4d446b745a6d56684d6a466b595445355954566a4c6e426b5a673d3d&fich=60328811-723a-44ed-bc09-fea21da19a5c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-03",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765932557a4f5755785a6a45744f5755334e7930304f54526b4c5749355a6d45744e6a63304e574a6c5a4749334e446b354c6e426b5a673d3d&fich=ce39e1f1-9e77-494d-b9fa-6745bedb7499.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Assembleia Municipal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5459355a5451344e474d745a546c694d4330305a5756694c574a6a597a67745a57466d4d7a55784f444d774d4451784c6e426b5a673d3d&fich=569e484c-e9b0-4eeb-bcc8-eaf351830041.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Câmara Municipal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d566a4e6d45794e6d59744d4456684d5330305a4749354c57466d4d7a67744f545a6d5a4459304d324530595751784c6e426b5a673d3d&fich=2ec6a26f-05a1-4db9-af38-96fd643a4ad1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2024-01-04",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Junta de Freguesia Foros de Arrão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544e44515642505646424d4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a546b324e545a69593245744d6a4135597930304e4467324c5468694d7a6b74595449344e7a6734595463794e6a45344c6e426b5a673d3d&fich=e9656bca-209c-4486-8b39-a28788a72618.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8337",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Administração Pública, Ordenamento do Território e Poder Local",
+        "Numero": "8337",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "7371",
+            "motivoCessacao": null,
+            "nome": "João Barbosa de Melo"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1706",
+            "motivoCessacao": null,
+            "nome": "João Moura"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-10-03",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1451276",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997689",
+        "obs": null,
+        "pag": [
+          "6-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-01-03",
+        "pubLeg": "XV",
+        "pubNr": "56",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/02/056/2024-01-03/6?pgs=6-8&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
