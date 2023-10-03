@@ -1,0 +1,63 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Lei",
+  "numero": "982",
+  "id": "263447",
+  "fases": 17,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-10-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2024-03-25",
+    "DataInicioleg": "2023-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334d54426c4f474e684f4330774f574d314c54526a5a6a41744f446732596930774d4751315a6d4932597a426d4d5455756347526d&fich=710e8ca8-09c5-4cf0-886b-00d5fb6c0f15.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": [
+      {
+        "assunto": "Adapta as regras de determinação do resultado fiscal, em sede de IRC",
+        "dcl": null,
+        "descTipo": "Proposta de Lei",
+        "id": "243348",
+        "legislatura": "XV",
+        "numero": "108",
+        "sessao": "2",
+        "tipo": "P"
+      }
+    ],
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263447",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684f54553259574e6a5a69316b4d47466c4c5451314d6a55744f544d794e7930354f5441314f5467314d7a45775a6a41755a47396a65413d3d&fich=a956accf-d0ae-4525-9327-9905985310f0.docx&Inline=true",
+    "IniNr": "982",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Resultou da adoção, no dia 2023-12-07, da Proposta de Lei n.º 108/XV/2.ª (GOV), após retirada da mesma, ao abrigo do n.º 2 do artigo 122.º do Regimento.",
+    "IniTipo": "J",
+    "IniTitulo": "Adapta as regras de determinação do resultado fiscal, em sede de IRC",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
