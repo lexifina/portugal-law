@@ -8,4 +8,4 @@
 
 3 - Para efeitos do disposto na parte final do número anterior, considera-se que o sujeito passivo exerce normal e habitualmente a atividade quando comprove o seu exercício nos dois anos anteriores mediante certidão passada pelo serviço de finanças competente, quando daquela certidão constar que, em cada um dos dois anos anteriores, foram revendidos prédios antes adquiridos para esse fim.
 
-4 - Quando o prédio tenha sido revendido sem ser novamente para revenda, no prazo de três anos, e haja sido pago imposto, este será anulado pelo chefe de finanças, a requerimento do interessado, acompanhado de documento comprovativo da transacção.
+4 - Quando o prédio tenha sido revendido sem ser novamente para revenda, no prazo de um ano, e haja sido pago imposto, este é anulado pelo chefe de finanças, a requerimento do interessado, acompanhado de documento comprovativo da transação, considerando-se como facto superveniente nos termos e para os efeitos do disposto no n.º 4 do artigo 70.º do Código de Procedimento e de Processo Tributário.

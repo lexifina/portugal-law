@@ -36,7 +36,7 @@ b) Sejam, nos termos previstos no n.º 8 do artigo 17.º do Código do IMT, uma 
 
 8 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até 30 % a taxa aplicável a prédios urbanos degradados, considerando-se como tais os que, face ao seu estado de conservação, não cumpram satisfatoriamente a sua função ou façam perigar a segurança de pessoas e bens, exceto quando tal seja motivado por desastre natural ou calamidade.
 
-9 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até ao dobro a taxa aplicável aos prédios rústicos com áreas florestais que se encontrem em situação de abandono, não podendo da aplicação desta majoração resultar uma colecta de imposto inferior a (euro) 20 por cada prédio abrangido.
+9 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até ao triplo a taxa aplicável aos prédios rústicos com áreas florestais que se encontrem em situação de abandono, não podendo da aplicação desta majoração resultar uma coleta de imposto inferior a 20 (euro) por cada prédio abrangido.
 
 10 - Consideram-se prédios rústicos com áreas florestais em situação de abandono aqueles que integrem terrenos ocupados com arvoredos florestais, com uso silvo-pastoril ou incultos de longa duração, e em que se verifiquem, cumulativamente, as seguintes condições:
 

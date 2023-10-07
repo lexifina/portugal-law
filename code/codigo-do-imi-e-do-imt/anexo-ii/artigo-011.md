@@ -10,14 +10,18 @@
 
 4 - As isenções concedidas ao abrigo do disposto na alínea g) do artigo 6.º ficarão sem efeito se os bens forem desclassificados do património cultural.
 
-5 - A aquisição a que se refere o artigo 7.º deixará de beneficiar de isenção logo que se verifique que aos prédios adquiridos para revenda foi dado destino diferente ou que os mesmos não foram revendidos dentro do prazo de três anos ou o foram novamente para revenda.
+5 - A aquisição a que se refere o artigo 7.º deixa de beneficiar de isenção logo que se verifique que aos prédios adquiridos para revenda foi dado destino diferente ou que os mesmos não foram revendidos dentro do prazo de um ano ou o foram novamente para revenda.
 
-6 - Deixam de beneficiar de isenção as aquisições a que se refere o artigo 8.º, se os prédios não forem alienados no prazo de cinco anos a contar da data da aquisição ou o adquirente seja uma entidade com relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC.
+6 - Nos casos previstos no número anterior, o imposto é devido desde a aquisição, acrescendo juros compensatórios nos termos do artigo 33.º
 
-7 - Deixam de beneficiar igualmente de isenção e de redução de taxas previstas no artigo 9.º e nas alíneas a) e b) do n.º 1 do artigo 17.º as seguintes situações:
+7 - Deixam de beneficiar de isenção as aquisições a que se refere o artigo 8.º, se os prédios não forem alienados no prazo de cinco anos a contar da data da aquisição ou o adquirente seja uma entidade com relações especiais, nos termos do n.º 4 do artigo 63.º do Código do IRC.
+
+8 - Deixam de beneficiar igualmente de isenção e de redução de taxas previstas no artigo 9.º e nas alíneas a) e b) do n.º 1 do artigo 17.º as seguintes situações:
 
 a) Quando aos bens for dado destino diferente daquele em que assentou o benefício, no prazo de seis anos a contar da data da aquisição, salvo no caso de venda;
 
 b) Quando os imóveis não forem afectos à habitação própria e permanente no prazo de seis meses a contar da data da aquisição.
 
-8 - Os organismos públicos que emitirem qualquer parecer ou documento para reconhecimento de isenções deverão informar a Direcção-Geral dos Impostos, no prazo de 30 dias, de quaisquer factos susceptíveis de fazer caducar a isenção concedida.
+9 - Os organismos públicos que emitirem qualquer parecer ou documento para reconhecimento de isenções deverão informar a Direcção-Geral dos Impostos, no prazo de 30 dias, de quaisquer factos susceptíveis de fazer caducar a isenção concedida.
+
+10 - Para efeitos do disposto no n.º 5, considera-se destino diferente a conclusão de obras, de edificação ou de melhoramento, ou outras alterações que possam determinar variação do seu valor patrimonial tributário.
