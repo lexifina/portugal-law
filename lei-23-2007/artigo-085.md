@@ -12,18 +12,20 @@ c) Em relação ao seu titular existam razões sérias para crer que cometeu act
 
 d) Por razões de ordem ou segurança públicas.
 
+e) Se concluir que o seu titular está sujeito a uma medida restritiva da União Europeia.
+
 2 - Sem prejuízo da aplicação de disposições especiais, a autorização de residência pode igualmente ser cancelada quando o interessado, sem razões atendíveis, se ausente do País:
 
 a) Sendo titular de uma autorização de residência temporária, seis meses consecutivos ou oito meses interpolados, no período total de validade da autorização;
 
 b) Sendo titular de uma autorização de residência permanente, 24 meses seguidos ou, num período de três anos, 30 meses interpolados.
 
-3 - A ausência para além dos limites previstos no número anterior deve ser justificada mediante pedido apresentado no SEF antes da saída do residente do território nacional ou, em casos excepcionais, após a sua saída.
+3 - A ausência para além dos limites previstos no número anterior deve ser justificada mediante pedido apresentado na AIMA, I. P., antes da saída do residente do território nacional ou, em casos excecionais, após a sua saída.
 
 4 - Não é cancelada a autorização de residência aos cidadãos que estejam ausentes por períodos superiores aos previstos no n.º 2, quando comprovem que durante a sua ausência de território nacional desenvolveram atividade profissional ou empresarial ou de natureza cultural ou social.
 
 5 - O cancelamento da autorização de residência deve ser notificado ao interessado e comunicado, por via electrónica, ao ACIDI, I. P., e ao Conselho Consultivo com indicação dos fundamentos da decisão e implica a apreensão do correspondente título.
 
-6 - É competente para o cancelamento o Ministro da Administração Interna, com a faculdade de delegação no director-geral do SEF.
+6 - É competente para o cancelamento da autorização de residência o membro do Governo responsável pela área das migrações, com faculdade de delegação no conselho diretivo da AIMA, I. P.
 
 7 - A decisão de cancelamento é susceptível de impugnação judicial, com efeito meramente devolutivo, perante os tribunais administrativos.

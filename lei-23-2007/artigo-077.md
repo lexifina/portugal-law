@@ -4,7 +4,7 @@
 
 1 - Sem prejuízo das condições especiais aplicáveis, para a concessão da autorização de residência deve o requerente satisfazer os seguintes requisitos cumulativos:
 
-a) Posse de visto de residência válido, concedido para uma das finalidades previstas na presente lei para a concessão de autorização de residência;
+a) Posse de visto de residência válido, concedido para uma das finalidades previstas na presente lei para a concessão de autorização de residência, ou posse de visto para procura de trabalho;
 
 b) Inexistência de qualquer facto que, se fosse conhecido pelas autoridades competentes, devesse obstar à concessão do visto;
 
@@ -22,14 +22,16 @@ h) Não se encontrar no período de interdição de entrada e de permanência em
 
 i) Ausência de indicação no Sistema de Informação Schengen;
 
-j) Ausência de indicação no Sistema Integrado de Informação do SEF para efeitos de recusa de entrada e de permanência ou de regresso, nos termos dos artigos 33.º e 33.º-A.
+j) Ausência de indicação no SII UCFE para efeitos de recusa de entrada e de permanência ou de regresso, nos termos dos artigos 33.º e 33.º-A.
 
 2 - Sem prejuízo das disposições especiais aplicáveis, pode ser recusada a concessão de autorização de residência por razões de ordem pública, segurança pública ou saúde pública.
 
-3 - A recusa de autorização de residência com fundamento em razões de saúde pública só pode basear-se nas doenças definidas nos instrumentos aplicáveis da Organização Mundial de Saúde ou em outras doenças infecciosas ou parasitárias contagiosas objecto de medidas de protecção em território nacional.
+3 - Pode ser recusada a concessão ou a renovação de autorização de residência a nacionais de países terceiros, alvo de medidas restritivas da União Europeia.
 
-4 - Pode ser exigida aos requerentes de autorização de residência a sujeição a exame médico, a fim de que seja atestado que não sofrem de nenhuma das doenças mencionadas no número anterior, bem como às medidas médicas adequadas.
+4 - A recusa de autorização de residência com fundamento em razões de saúde pública só pode basear-se nas doenças definidas nos instrumentos aplicáveis da Organização Mundial de Saúde ou em outras doenças infecciosas ou parasitárias contagiosas objecto de medidas de protecção em território nacional.
 
-5 - Sempre que o requerente seja objeto de indicação de regresso ou de recusa de entrada e de permanência, emitida por um Estado membro da União Europeia ou onde vigore a Convenção de Aplicação, este deve ser previamente consultado em conformidade com o artigo 27.º do Regulamento (UE) 2018/1861 ou com o artigo 9.º do Regulamento (UE) 2018/1860, ambos do Parlamento Europeu e do Conselho, de 28 de novembro de 2018.
+5 - Pode ser exigida aos requerentes de autorização de residência a sujeição a exame médico, a fim de que seja atestado que não sofrem de nenhuma das doenças mencionadas no número anterior, bem como às medidas médicas adequadas.
 
-6 - Para efeitos do disposto no número anterior, com exceção dos casos em que a indicação diga respeito apenas a permanência ilegal por excesso do período de estada autorizada, é aplicável o regime excecional previsto no artigo 123.º, sendo a decisão final instruída com proposta fundamentada que explicite o interesse do Estado Português na concessão ou na manutenção do direito de residência.
+6 - Sempre que o requerente seja objeto de indicação de regresso ou de recusa de entrada e de permanência, emitida por um Estado membro da União Europeia ou onde vigore a Convenção de Aplicação, este deve ser previamente consultado em conformidade com o artigo 27.º do Regulamento (UE) 2018/1861 ou com o artigo 9.º do Regulamento (UE) 2018/1860, ambos do Parlamento Europeu e do Conselho, de 28 de novembro de 2018.
+
+7 - Para efeitos do disposto no número anterior, com exceção dos casos em que a indicação diga respeito apenas a permanência ilegal por excesso do período de estada autorizada, é aplicável o regime excecional previsto no artigo 123.º, sendo a decisão final instruída com proposta fundamentada que explicite o interesse do Estado Português na concessão ou na manutenção do direito de residência.
