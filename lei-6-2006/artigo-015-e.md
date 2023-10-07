@@ -2,7 +2,7 @@
 
 ### Constituição de título para desocupação do locado
 
-1 - O BNA converte o requerimento de despejo em título para desocupação do locado se:
+1 - O BAS converte o requerimento de despejo em título para desocupação do locado se:
 
 a) Depois de notificado, o requerido não deduzir oposição no respetivo prazo;
 
@@ -12,4 +12,4 @@ c) Na pendência do procedimento especial de despejo, o requerido não proceder 
 
 2 - O título de desocupação do locado é autenticado com recurso a assinatura eletrónica.
 
-3 - Constituído o título de desocupação do locado, o BNA disponibiliza o requerimento de despejo no qual tenha sido colocada a fórmula de título para desocupação do locado ao requerente e ao agente de execução, notário ou oficial de justiça designado, consoante os casos, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
+3 - Constituído o título de desocupação do locado, o BAS disponibiliza o requerimento de despejo no qual tenha sido colocada a fórmula de título para desocupação do locado ao requerente e ao agente de execução, notário ou oficial de justiça designado, consoante os casos, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.

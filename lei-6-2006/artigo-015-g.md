@@ -6,4 +6,4 @@
 
 2 - O requerente pode desistir do procedimento especial de despejo até à dedução da oposição ou, na sua falta, até ao termo do prazo de oposição.
 
-3 - Nos casos previstos nos números anteriores, o BNA devolve a pedido do requerente o expediente respeitante ao procedimento especial de despejo e notifica o requerido daquele facto se este já tiver sido notificado do requerimento de despejo.
+3 - Nos casos previstos nos números anteriores, o BAS devolve a pedido do requerente o expediente respeitante ao procedimento especial de despejo e notifica o requerido daquele facto se este já tiver sido notificado do requerimento de despejo.

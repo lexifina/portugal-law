@@ -2,11 +2,11 @@
 
 ### Apresentação, forma e conteúdo do requerimento de despejo
 
-1 - O requerimento de despejo é apresentado, em modelo próprio, no BNA.
+1 - O requerimento de despejo é apresentado em modelo próprio no BAS.
 
 2 - No requerimento deve o requerente:
 
-a) Identificar as partes, indicando os seus nomes e domicílios, bem como os respetivos números de identificação civil;
+a) Identificar as partes, indicando, consoante os casos, os seus nomes ou denominações, domicílios ou sedes e os respetivos números de identificação civil, fiscal ou de pessoa coletiva;
 
 b) Indicar o seu endereço de correio eletrónico se pretender receber comunicações por meios eletrónicos;
 
@@ -30,14 +30,22 @@ k) Designar agente de execução para proceder à execução para pagamento das 
 
 l) Assinar o requerimento.
 
-3 - Havendo pluralidade de arrendatários ou constituindo o local arrendado casa de morada de família, o requerente deve ainda identificar os nomes e domicílios de todos os arrendatários e de ambos os cônjuges, consoante o caso.
+l) Indicar o número internacional de identificação bancária (IBAN) de conta por si titulada, juntando o respetivo documento comprovativo;
 
-4 - Sem prejuízo do disposto no n.º 6 do artigo 15.º, durante o procedimento especial de despejo não é permitida a alteração dos elementos constantes do requerimento, designadamente do pedido formulado.
+m) [Anterior alínea l).]
 
-5 - A entrega do requerimento de despejo por advogado ou solicitador é efetuada apenas por via eletrónica, com menção da existência do mandato e do domicílio profissional do mandatário.
+3 - Havendo pluralidade de arrendatários ou constituindo o local arrendado casa de morada de família, o requerente deve indicar como requeridos todos os arrendatários e ambos os cônjuges, consoante o caso, e identificar os respetivos domicílios.
 
-6 - O requerente que, sendo representado por advogado ou solicitador, não cumprir o disposto no número anterior fica sujeito ao pagamento imediato de uma multa no valor de 2 unidades de conta processuais.
+4 - No caso do cônjuge do arrendatário que não seja parte no contrato de arrendamento, o respetivo domicílio corresponde à morada do locado.
 
-7 - Faltando, à data da apresentação do requerimento, menos de 30 dias para o termo do prazo de prescrição ou de caducidade, ou ocorrendo outra causa de urgência, deve o requerente apresentar documento comprovativo do pedido de apoio judiciário requerido mas ainda não concedido.
+5 - Sem prejuízo do disposto no n.º 8 do artigo 15.º, durante o procedimento especial de despejo não é permitida a alteração dos elementos constantes do requerimento, designadamente do pedido formulado.
 
-8 - O procedimento considera-se iniciado na data do pagamento da taxa devida ou na data da junção do documento comprovativo do pedido ou da concessão de apoio judiciário, na modalidade de dispensa ou pagamento faseado da taxa de justiça e dos demais encargos com o processo.
+6 - A entrega do requerimento de despejo por advogado ou solicitador é efetuada apenas por via eletrónica, com menção da existência do mandato e do domicílio profissional do mandatário.
+
+7 - O requerente que, sendo representado por advogado ou solicitador, não cumprir o disposto no número anterior fica sujeito ao pagamento imediato de uma multa no valor de 2 unidades de conta processuais.
+
+8 - Faltando, à data da apresentação do requerimento, menos de 30 dias para o termo do prazo de prescrição ou de caducidade, ou ocorrendo outra causa de urgência, deve o requerente apresentar documento comprovativo do pedido de apoio judiciário requerido mas ainda não concedido.
+
+9 - O procedimento considera-se iniciado na data do pagamento da taxa devida ou na data da junção do documento comprovativo do pedido ou da concessão de apoio judiciário, na modalidade de dispensa ou pagamento faseado da taxa de justiça e dos demais encargos com o processo.
+
+10 - Se o requerente indicar endereço de correio eletrónico, nos termos da alínea b) do n.º 2, as comunicações e notificações são efetuadas por meios eletrónicos, nos termos de portaria do membro do Governo responsável pela área da justiça.
