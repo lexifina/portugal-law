@@ -12,17 +12,17 @@ c) O saldo positivo entre as mais-valias e menos-valias, resultante das operaç�
 
 d) Os rendimentos de capitais, tal como são definidos no artigo 5.º, quando não sujeitos a retenção na fonte, nos termos do artigo anterior;
 
-e) Os rendimentos prediais, incluindo os referidos na alínea b) do n.º 5 do artigo 8.º
+e) Os rendimentos prediais decorrentes de arrendamento não habitacional;
 
 f) Os ganhos previstos no n.º 7) da alínea b) do n.º 3 do artigo 2.º, quando beneficiem do regime previsto no artigo 43.º-C do Estatuto dos Benefícios Fiscais.
 
-2 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a dois anos e inferior a cinco anos, é aplicada uma redução de dois pontos percentuais da respetiva taxa autónoma; e por cada renovação com igual duração, é aplicada uma redução de dois pontos percentuais até ao limite de catorze pontos percentuais.
+2 - Os rendimentos prediais decorrentes de arrendamento habitacional, incluindo os referidos na alínea b) do n.º 5 do artigo 8.º, são tributados à taxa autónoma de 25 %.
 
-3 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente celebrados com duração igual ou superior a cinco anos e inferior a dez anos, é aplicada uma redução de cinco pontos percentuais da respetiva taxa autónoma; e por cada renovação com igual duração, é aplicada uma redução de cinco pontos percentuais até ao limite de catorze pontos percentuais.
+3 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a cinco anos e inferior a 10 anos é aplicada uma redução de 10 pontos percentuais na respetiva taxa autónoma, sendo, por cada renovação com igual duração, aplicada uma redução de dois pontos percentuais, estando as reduções relativas à renovação do contrato sujeitas ao limite de 10 pontos percentuais.
 
-4 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a dez anos e inferior a vinte anos, é aplicada uma redução de catorze pontos percentuais da respetiva taxa autónoma.
+4 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a 10 anos e inferior a 20 anos é aplicada uma redução de 15 pontos percentuais na respetiva taxa autónoma.
 
-5 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a vinte anos, bem como aos rendimentos prediais decorrentes de contratos de direito real de habitação duradoura (DHD), na parte respeitante ao pagamento da prestação pecuniária mensal, é aplicada uma redução de 18 pontos percentuais da respetiva taxa autónoma.
+5 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a 20 anos e aos rendimentos prediais decorrentes de contratos de direito real de habitação duradoura, na parte respeitante ao pagamento da prestação pecuniária mensal, é aplicada uma redução de 20 pontos percentuais da respetiva taxa autónoma.
 
 6 - São tributados autonomamente à taxa de 25 %:
 
@@ -64,8 +64,12 @@ d) As mais-valias previstas na alínea a) do n.º 1 do artigo 10.º auferidas po
 
 19 - Para efeitos da aplicação da taxa prevista no n.º 3, são equiparadas a gratificações auferidas pela prestação ou em razão da prestação de trabalho, quando não atribuídas pela entidade patronal, as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros, pelas associações humanitárias de bombeiros, até ao limite máximo anual, por bombeiro, de três vezes o indexante de apoios sociais.
 
-20 - Sempre que os contratos de arrendamento previstos nos n.os 2, 3, 4 e 5 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações, por motivo imputável ao senhorio, ou, no caso do direito de habitação duradoura, por acordo das partes, extingue-se o direito às reduções da taxa aí previstas, com efeitos desde o início do contrato ou renovação, devendo os titulares dos rendimentos, no ano da cessação do contrato, proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago, acrescida de juros compensatórios.
+20 - Sempre que os contratos de arrendamento previstos nos n.os 3, 4 e 5 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações, por motivo imputável ao senhorio, ou, no caso do direito real de habitação duradoura, por acordo das partes, extingue-se o direito às reduções das taxas aí previstas, com efeitos desde o início do contrato ou renovação, devendo os titulares dos rendimentos, no ano da cessação do contrato, proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago com base na taxa aplicável à duração efetivamente decorrida, acrescida de juros compensatórios.
 
 21 - Para efeitos do disposto no número anterior, suspende-se o prazo de caducidade do direito à liquidação de imposto nos termos da alínea c) do n.º 2 do artigo 46.º da Lei Geral Tributária.
 
 22 - Para efeitos do presente imposto, considera-se que uma estrutura fiduciária está domiciliada em país, território ou região sujeitos a um regime fiscal claramente mais favorável, caso aí esteja o local da sede ou a direção efetiva da entidade administradora fiduciária ou, tratando-se o administrador fiduciário de uma pessoa singular, este ali seja considerado residente para efeitos fiscais.
+
+23 - O disposto nos n.os 3 a 5 não se aplica a rendimentos prediais decorrentes de contratos de arrendamento habitacional celebrados a partir de 1 de janeiro de 2024, cuja renda mensal exceda em 50 % os limites gerais de preço de renda por tipologia em função do concelho onde se localiza o imóvel, previstos nas tabelas 1 e 2 do anexo i à Portaria n.º 176/2019, de 6 de junho.
+
+24 - Aos novos contratos de arrendamento que beneficiem do disposto nos n.os 3 a 5, é aplicada uma redução adicional de cinco pontos percentuais na respetiva taxa autónoma sempre que a renda seja inferior, em pelo menos cinco pontos percentuais, à renda do contrato de arrendamento anterior sobre o mesmo imóvel.

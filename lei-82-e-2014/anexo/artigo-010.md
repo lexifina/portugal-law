@@ -82,6 +82,10 @@ c) O sujeito passivo manifeste a intenção de proceder ao reinvestimento, ainda
 
 d) (Revogada.)
 
+e) O imóvel transmitido tenha sido destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, comprovada através do respetivo domicílio fiscal, nos 24 meses anteriores à data da transmissão;
+
+f) Os sujeitos passivos não tenham beneficiado, no ano da obtenção dos ganhos e nos três anos anteriores, do presente regime de exclusão, sem prejuízo da comprovação pelo sujeito passivo, efetuada em procedimento de liquidação, de que a não observância da presente condição se deveu a circunstâncias excecionais.
+
 6 - Não haverá lugar ao benefício referido no número anterior quando:
 
 a) Tratando-se de reinvestimento na aquisição de outro imóvel, o adquirente o não afete à sua habitação ou do seu agregado familiar, até decorridos doze meses após o reinvestimento;
@@ -91,6 +95,8 @@ b) Nos demais casos, o adquirente não requeira a inscrição na matriz do imóv
 c) (Revogada.)
 
 d) Os imóveis que tenham beneficiado de apoio não reembolsável concedido pelo Estado ou outras entidades públicas para a aquisição, construção, reconstrução ou realização de obras de conservação de valor superior a 30 % do valor patrimonial tributário do imóvel para efeitos de IMI, sejam vendidos antes de decorridos 10 anos sobre a data da sua aquisição, da assinatura da declaração comprovativa da receção da obra ou do pagamento da última despesa relativa ao apoio público não reembolsável que, nos termos legais ou regulamentares, não estejam sujeitos a ónus ou regimes especiais que limitem ou condicionem a respetiva alienação.
+
+e) O sujeito passivo ou o seu agregado familiar não tenham fixado no imóvel o seu domicílio fiscal.
 
 7 - Os ganhos previstos no n.º 5 são igualmente excluídos de tributação, desde que verificadas, cumulativamente, as seguintes condições:
 

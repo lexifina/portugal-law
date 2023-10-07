@@ -6,7 +6,7 @@
 
 ### Deduções
 
-1 - Aos rendimentos brutos referidos no artigo 8.º deduzem-se, relativamente a cada prédio ou parte de prédio, todos os gastos efetivamente suportados e pagos pelo sujeito passivo para obter ou garantir tais rendimentos, com exceção dos gastos de natureza financeira, dos relativos a depreciações e dos relativos a mobiliário, eletrodomésticos e artigos de conforto ou decoração, bem como do adicional ao imposto municipal sobre imóveis.
+1 - Aos rendimentos brutos referidos no artigo 8.º deduzem-se, relativamente a cada prédio ou parte de prédio, todos os gastos efetivamente suportados e pagos pelo sujeito passivo para obter ou garantir tais rendimentos, incluindo os seguros de renda, com exceção dos gastos de natureza financeira, dos relativos a depreciações e dos relativos a mobiliário, eletrodomésticos e artigos de conforto ou decoração, bem como do adicional ao imposto municipal sobre imóveis.
 
 2 - No caso de fração autónoma de prédio em regime de propriedade horizontal, são dedutíveis, relativamente a cada fração ou parte de fração, outros encargos que, nos termos da lei, o condómino deva obrigatoriamente suportar e que sejam efetivamente pagos pelo sujeito passivo.
 
