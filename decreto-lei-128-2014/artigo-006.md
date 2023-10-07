@@ -18,6 +18,8 @@ f) A data pretendida de abertura ao público;
 
 g) Nome, morada e número de telefone de pessoa a contactar em caso de emergência.
 
+h) Período de sazonalidade, sempre que se trate de habitação própria e permanente utilizada para este fim por período não superior a 120 dias.
+
 2 - A comunicação prévia com prazo deve obrigatoriamente ser instruída com os seguintes documentos:
 
 a) Cópia simples do documento de identificação do titular da exploração do estabelecimento, no caso de este ser pessoa singular, ou indicação do código de acesso à certidão permanente do registo comercial, no caso de este ser pessoa coletiva;
@@ -30,7 +32,7 @@ d) Cópia simples do contrato de arrendamento ou doutro título que legitime o t
 
 e) Cópia simples da declaração de início ou alteração de atividade do titular da exploração do estabelecimento para o exercício da atividade de prestação de serviços de alojamento correspondente à secção I, subclasses 55201 ou 55204 da Classificação Portuguesa de Atividades Económicas, Revisão 3, aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, apresentada junto da Autoridade Tributária e Aduaneira (AT);
 
-f) Ata da assembleia de condóminos autorizando a instalação, no caso dos 'hostels';
+f) Ata da assembleia de condóminos autorizando a instalação, no caso dos hostels, e dos alojamentos locais aprovados nos termos dos n.os 4 e 5 do artigo anterior;
 
 g) A modalidade de estabelecimento prevista no n.º 1 do artigo 3.º em que se vai desenvolver a atividade de alojamento local.
 

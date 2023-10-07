@@ -11,3 +11,7 @@
 2 - A comunicação prévia com prazo é realizada exclusivamente através do Balcão Único Eletrónico previsto no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, que confere a cada pedido um número decorrido o prazo previsto no n.º 9 do artigo 6.º, o qual constitui, para efeitos do presente decreto-lei, e em caso de não oposição, o número de registo do estabelecimento de alojamento local, e que remete automaticamente ao Turismo de Portugal, I. P., para os efeitos previstos no artigo 10.º
 
 3 - A comunicação prévia com prazo é obrigatória e condição necessária para a exploração de estabelecimentos de alojamento local.
+
+4 - Sempre que o estabelecimento de alojamento local seja registado em fração autónoma de edifício em regime de propriedade horizontal que se destine, no título constitutivo, a habitação, deve o registo ser precedido de decisão do condomínio para uso diverso de exercício da atividade de alojamento local.
+
+5 - A decisão é tomada nos termos do n.º 1 do artigo 1419.º do Código Civil.
