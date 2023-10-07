@@ -1,0 +1,25 @@
+Decreto-Lei n.º 159/2006
+
+de 8 de Agosto
+
+A dinamização do mercado do arrendamento urbano e a reabilitação e a renovação urbanas almejadas no Novo Regime do Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de Fevereiro, só podem ser alcançadas se resultarem de uma estratégia concertada de um conjunto de iniciativas legislativas, entre elas a que permite responsabilizar os proprietários que não asseguram qualquer função social ao seu património, permitindo a sua degradação, através da penalização em sede fiscal dos proprietários que mantêm os prédios devolutos.
+
+Para tanto, o Governo foi autorizado pela Assembleia da República, nos termos da alínea b) do n.º 1 e do n.º 3 do artigo 63.º da referida Lei n.º 6/2006, de 27 de Fevereiro, a proceder à definição de prédio ou fracção autónoma devoluta para efeitos de aplicação da taxa do imposto municipal sobre imóveis (IMI), ao abrigo do disposto no artigo 112.º do Código do Imposto Municipal sobre Imóveis (CIMI), na redacção que lhe foi dada pela mesma Lei n.º 6/2006, de 27 de Fevereiro.
+
+Assim, para efeitos do presente decreto-lei, considera-se devoluto o prédio urbano ou a fracção autónoma que durante um ano se encontre desocupada, sendo indícios de desocupação a inexistência de contratos em vigor com empresas de telecomunicações, de fornecimento de água, gás e electricidade e a inexistência de facturação relativa a consumos de água, gás, electricidade e telecomunicações.
+
+Paralelamente, enunciam-se os casos em que, mesmo que exista a desocupação durante um ano, o prédio ou fracção autónoma não se considera devoluta para efeitos do presente decreto-lei, como, por exemplo: no caso de se destinar a habitação por curtos períodos em praias, campo, termas e quaisquer outros lugares de vilegiatura, para arrendamento temporário ou para uso próprio; durante o período em que decorrem obras de reabilitação, desde que certificadas pelos municípios; após a conclusão de construção ou emissão de licença de utilização que ocorreram há menos de um ano; tratar-se da residência em território nacional de emigrante português, tal como definido no artigo 3.º do Decreto-Lei n.º 323/95, de 29 de Novembro, considerando-se como tal a sua residência fiscal, na falta de outra indicação; ou que seja a residência em território nacional de cidadão português que desempenhe no estrangeiro funções ou comissões de carácter público ao serviço do Estado Português, de organizações internacionais, ou funções de reconhecido interesse público, e os respectivos acompanhantes autorizados, entre outras situações previstas neste decreto-lei.
+
+Do ponto de vista procedimental, os municípios procedem à identificação dos prédios urbanos ou fracções autónomas que se encontrem devolutos e notificam o sujeito passivo do imposto municipal sobre imóveis, para o domicílio fiscal, do projecto de declaração de prédio devoluto, para este exercer o direito de audição prévia e da decisão, nos termos e prazos previstos no Código do Procedimento Administrativo. A decisão de declaração de prédio ou fracção autónoma devoluta é sempre susceptível de impugnação judicial, nos termos gerais previstos no Código de Processo nos Tribunais Administrativos.
+
+Por último, prevê-se um dever geral de cooperação de todas as entidades com os municípios, designadamente através do envio de informação solicitada tendo em vista apurar se determinado prédio urbano ou fracção autónoma se encontra devoluta. Em especial, as empresas de telecomunicações e de fornecimento de água, gás e electricidade devem prestar aos municípios, mediante solicitação escrita, a informação necessária à identificação da existência de contratos de fornecimentos, ou de consumo, por cada prédio urbano ou fracção autónoma, preferencialmente através de comunicação electrónica ou outro suporte informático.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional dos Municípios Portugueses, a Ordem dos Advogados, a Ordem dos Engenheiros e a Ordem dos Arquitectos.
+
+Foram, ainda, ouvidas as várias associações com interesses no sector, designadamente a Associação Lisbonense de Proprietários, a Associação dos Inquilinos Lisbonense e a Associação dos Inquilinos do Norte, a Confederação do Comércio e Serviços de Portugal e a Confederação do Turismo Português, a Federação da Restauração, Cafés, Pastelarias e Similares de Portugal, a Federação Portuguesa da Indústria de Construção e Obras Públicas e a Federação Nacional de Comércio, a Associação Portuguesa para a Defesa do Consumidor, e ainda várias entidades representativas das empresas de consultoria e avaliação imobiliária, de mediação mobiliária, de fundos de investimento e de fundos de pensões.
+
+Foram promovidas as diligências necessárias à audição da Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+No uso da autorização legislativa concedida pela alínea b) do n.º 1 e do n.º 3 do artigo 63.º da Lei n.º 6/2006, de 27 de Fevereiro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
