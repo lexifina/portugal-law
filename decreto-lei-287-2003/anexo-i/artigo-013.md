@@ -22,13 +22,13 @@ h) Ser ordenada uma actualização geral das matrizes;
 
 i) (Revogada.)
 
-j) Verificar-se a ocorrência prevista no n.º 2 do artigo 9.º;
+j) Verificar-se a ocorrência prevista no n.º 3 do artigo 11.º-B;
 
 l) Iniciar-se a construção ou concluir-se a plantação, no caso de direito de superfície.
 
 2 - Presume-se que o adquirente de um prédio omisso tomou conhecimento da omissão no momento da transmissão ou do início da posse, salvo prova em contrário.
 
-3 - O chefe de finanças competente procede, oficiosamente:
+3 - O diretor-geral da Autoridade Tributária e Aduaneira procede, oficiosamente:
 
 a) À inscrição de um prédio na matriz, bem como às necessárias actualizações, quando não se mostre cumprido o disposto no n.º 1;
 
@@ -39,6 +39,8 @@ c) À actualização da identidade dos proprietários, usufrutuários, superfici
 d) À eliminação na matriz dos prédios demolidos, após informação dos serviços relativa ao termo da demolição;
 
 e) À inscrição do valor patrimonial tributário definitivo determinado nos termos do presente Código.
+
+f) À atualização da matriz nos casos da comunicação por parte do município prevista na alínea b) do n.º 3 do artigo 6.º
 
 4 - As inscrições ou actualizações matriciais devem referir o ano em que tenham sido efectuadas, bem como os elementos que as justifiquem.
 

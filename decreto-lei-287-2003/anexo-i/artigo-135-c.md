@@ -23,3 +23,5 @@ b) O valor dos prédios que se destinem exclusivamente à construção de habita
 c) O valor dos prédios ou partes de prédios urbanos cujos titulares sejam condomínios, quando o valor patrimonial tributário de cada prédio ou parte de prédio não exceda 20 vezes o valor anual do indexante de apoios sociais;
 
 d) O valor dos prédios ou partes de prédios urbanos cujos titulares sejam cooperativas de habitação e construção e associações de moradores.
+
+4 - Não é aplicável a dedução prevista no n.º 2 à soma dos valores patrimoniais tributários dos prédios previstos nas alíneas a) e b) do n.º 3 do artigo 112.
