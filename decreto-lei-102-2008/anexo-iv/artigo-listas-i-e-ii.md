@@ -158,7 +158,7 @@ Compreende-se nesta verba o serviço de transporte e o suplemento de preço exig
 
 A taxa reduzida aplica-se exclusivamente ao preço do alojamento, incluindo o pequeno-almoço, se não for objeto de faturação separada, sendo equivalente a metade do preço da pensão completa e a três quartos do preço da meia pensão.
 
-2.18 – As empreitadas de construção de imóveis de habitações económicas ou de habitações de custos controlados, independentemente do promotor, desde que tal classificação esteja certificada por autoridade competente do ministério da tutela.
+2.18 - As empreitadas de construção ou reabilitação de imóveis de habitações económicas, habitações de custos controlados ou habitações para arrendamento acessível nos termos definidos em portaria do membro do Governo responsável pela área da habitação, independentemente do promotor, desde que pelo menos 700/1000 dos prédios em propriedade horizontal ou a totalidade dos prédios em propriedade total ou frações autónomas sejam afetos a um dos referidos fins e certificadas pelo IHRU, I. P., ou, quando promovidas na Região Autónoma da Madeira ou na Região Autónoma dos Açores, pela IHM - Investimentos Habitacionais da Madeira, EPERAM, ou pela Direção Regional da Habitação dos Açores, respetivamente.
 
 2.19 – As empreitadas de bens imóveis em que são donos da obra autarquias locais, empresas municipais cujo objeto consista na reabilitação e gestão urbanas detidas integralmente por organismos públicos, associações de municípios, empresas públicas responsáveis pela rede pública de escolas secundárias ou associações e corporações de bombeiros, desde que, em qualquer caso, as referidas obras sejam diretamente contratadas com o empreiteiro
 
@@ -168,7 +168,7 @@ A taxa reduzida aplica-se exclusivamente ao preço do alojamento, incluindo o pe
 
 2.22 – Prestações de serviços relacionadas com a limpeza das vias públicas, bem como a recolha, armazenamento, transporte, valorização e eliminação de resíduos.
 
-2.23 – Empreitadas de reabilitação urbana, tal como definida em diploma específico, realizadas em imóveis ou em espaços públicos localizados em áreas de reabilitação urbana (áreas críticas de recuperação e reconversão urbanística, zonas de intervenção das sociedades de reabilitação urbana e outras) delimitadas nos termos legais, ou no âmbito de operações de requalificação e reabilitação de reconhecido interesse público nacional.
+2.23 - As empreitadas de reabilitação de edifícios e as empreitadas de construção ou reabilitação de equipamentos de utilização coletiva de natureza pública, localizados em áreas de reabilitação urbana (áreas críticas de recuperação e reconversão urbanística, zonas de intervenção das sociedades de reabilitação urbana e outras) delimitadas nos termos legais, ou realizadas no âmbito de operações de requalificação e reabilitação de reconhecido interesse público nacional.
 
 2.24 – As empreitadas de reabilitação de imóveis que, independentemente da localização, sejam contratadas diretamente para o Fundo Nacional de Reabilitação do Edificado pela sua sociedade gestora, pelo Instituto da Habitação e da Reabilitação Urbana, IP (IHRU, IP), pelo Investimentos Habitacionais da Madeira, EPERAM (IHM), ou pela Direção Regional de Habitação dos Açores, bem como as que sejam realizadas no âmbito de regimes especiais de apoio financeiro ou fiscal à reabilitação de edifícios ou ao abrigo de programas apoiados financeiramente pelo IHRU, IP, pelo IHM ou pela Direção Regional de Habitação dos Açores.
 
