@@ -10,7 +10,7 @@
 
 4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveita apenas ao valor patrimonial tributário correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta, para a determinação dos respectivos limite e período de isenção, a totalidade do valor patrimonial tributário do prédio após o aumento derivado de tais ampliações ou melhoramentos.
 
-5 - 5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é de três anos, aplicável a prédios urbanos cujo valor patrimonial tributário não exceda (euro) 125 000.
+5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é de três anos, aplicável a prédios urbanos cujo valor patrimonial tributário não exceda 125 000 (euro), prorrogáveis por mais dois, mediante deliberação da assembleia municipal, que deve ser comunicada à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, até 31 de dezembro, para vigorar no ano seguinte.
 
 6 - Nos casos previstos no presente artigo, a isenção é:
 
