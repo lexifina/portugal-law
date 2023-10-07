@@ -1,6 +1,6 @@
 # Artigo 47.º
 
-### Fiscalização prévia: isenções
+### Isenções de fiscalização prévia
 
 1 - Excluem-se do disposto no artigo anterior:
 
@@ -8,7 +8,7 @@ a) Os actos e contratos praticados ou celebrados pelas entidades referidas nas a
 
 b) Os títulos definitivos dos contratos precedidos de minutas visadas;
 
-c) Os contratos de arrendamento, bem como os de fornecimento de água, gás e electricidade ou celebrados com empresas de limpeza, de segurança de instalações e de assistência técnica;
+c) Os contratos de arrendamento, e as correspondentes prestações complementares, nomeadamente de promoção, elaboração ou gestão dos mesmos, bem como os de fornecimento de água, gás e eletricidade ou celebrados com empresas de limpeza, de segurança de instalações e de assistência técnica;
 
 d) Os actos ou contratos que, no âmbito de empreitadas de obras públicas já visadas, titulem a execução de trabalhos a mais ou de suprimento de erros e omissões, os quais ficam sujeitos a fiscalização concomitante e sucessiva;
 
@@ -20,6 +20,8 @@ g) Os contratos e demais instrumentos jurídicos que tenham por objeto a presta�
 
 h) Os contratos-programa, acordos e/ou contratos de delegação de competências, e respetivos atos de execução, celebrados entre autarquias locais, bem como entre uma autarquia local e uma entidade do setor empresarial local, por via dos quais sejam transferidas competências, constituído mandato para a sua prossecução ou assumido o compromisso de execução de determinadas atividades ou tarefas;
 
-i) Outros actos, diplomas, despachos ou contratos já especialmente previstos na lei.
+i) Os contratos interadministrativos;
+
+j) Outros actos, diplomas, despachos ou contratos já especialmente previstos na lei.
 
 2 - Os actos, contratos ou documentação referidos na alínea d) do número anterior são remetidos ao Tribunal de Contas no prazo de 60 dias a contar do início da sua execução.
