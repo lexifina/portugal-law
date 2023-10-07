@@ -8,4 +8,6 @@
 
 3 - (Revogado.)
 
-4 - A comunicação a que se referem os números anteriores considera-se submetida no serviço de finanças da área da situação do prédio.»
+4 - Caso os locadores ou sublocadores não comuniquem à Autoridade Tributária e Aduaneira os elementos previstos no n.º 1, os locatários e sublocatários podem fazê-lo, em declaração de modelo oficial, nos prazos e termos a regulamentar por portaria do membro do Governo responsável pela área das finanças.
+
+5 - A comunicação a que se referem os números anteriores considera-se submetida no serviço de finanças da área da situação do prédio.»
