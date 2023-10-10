@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 19501/2023
+Sumário: Proposta de Regulamento de Cemitério.
+Simão Moreira Vela, Presidente da Junta de Freguesia de Oliveira do Bairro, Concelho de Oliveira do Bairro, torna público, nos termos do disposto no artigo 139.º, do Código do Procedimento Administrativo, que o órgão executivo da freguesia deliberou no dia 12 de setembro, submeter a consulta pública pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente anúncio na 2.ª série do Diário da República, o Regulamento de Cemitério, cujo texto pode ser consultado nas instalações da Junta de Freguesia de Oliveira do Bairro.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do artigo 101.º do Código do Procedimento Administrativo, endereçados ao Presidente da Freguesia de Oliveira do Bairro, entregues nas instalações situadas na Rua Conde Ferreira, n.º 1, 3770-211 Oliveira do Bairro, ou ainda através do e-mail administrativo@jf-olb.pt.
+21 de setembro de 2023. - O Presidente da Junta de Freguesia de Oliveira do Bairro, Simão Moreira Vela.
+316880599
