@@ -1,0 +1,1052 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23956",
+  "numero": "225",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-10-10",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-03",
+            "entidades": null,
+            "id": "148778",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-03 com Peticionários da Petição n.º 225/XV/2.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-10-09",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915227",
+                "obs": null,
+                "pag": [
+                  "22-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-10-19",
+                "pubLeg": "XVI",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/037/2024-10-19/22?pgs=22-27&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2024-10-15",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-12-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396c4e6d56684e3246694f533077596a6b354c5452695a444d7459574a6a5a4330314f5463335954566d4d6d51334e7a41756347526d&fich=e6ea7ab9-0b99-4bd3-abcd-5977a5f2d770.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-03",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396c4f4441774e7a646a4e53316a5a4751324c545268596d4d745957526b4d6930314e6a63784e3252694e6a566a4d3251756347526d&fich=e80077c5-cdd6-4abc-add2-56717db65c3d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-10-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627939684f474a6c595455354e6930784e4755344c5452695a6d4d74596a526b5a43316a5a5451355a575269597a457a4f446b756347526d&fich=a8bea596-14e8-4bfc-b4dd-ce49edbc1389.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-10-09",
+            "dataNomeacao": "2024-04-24",
+            "gp": "PS",
+            "id": "6884",
+            "motivoCessacao": "Aprovação do relatório final em reunião da Comissão de Saúde",
+            "nome": "Jorge Botelho"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-12-07",
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2023-10-18",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2023-12-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-12-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764f554e544c305276593356745a57353062334e515a585270593246764c3255304f5463304d4463344c575177595455744e4749795a433035597a52694c575a69597a6c6c597a4e6a4e6a526c4d4335775a47593d&fich=e4974078-d0a5-4b2d-9c4b-fbc9ec3c64e0.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8333",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-12-07",
+            "gp": "IL",
+            "id": "7339",
+            "motivoCessacao": null,
+            "nome": "Joana Cordeiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-06-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-10-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76595751795a6a51334f4445745a544d354f4330305a5745304c5745314e4745744d5459325a44597a5a6d566a4d6d45354c6e426b5a673d3d&fich=ad2f4781-e398-4ea4-a54a-166d63fec2a9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315109",
+      "315112",
+      "315119",
+      "315131",
+      "315139",
+      "315141",
+      "315144"
+    ],
+    "Iniciativasoriginadas": [
+      "315109",
+      "315112",
+      "315119",
+      "315131",
+      "315139",
+      "315141",
+      "315144"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 43/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 46/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/34"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 52/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 63/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/36"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 65/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/37"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 67/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/38"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Ao Deputado Luís Graça (PS)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/39"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Responde ao pedido de esclarecimento do Deputado Pedro Pinto (CH)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/40"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Pede a distribuição de uma notícia"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 70/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/42"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/6/46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-28",
+                "pubLeg": "XVII",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Novo Hospital Central do Algarve Já (Cristóvão Duarte Nunes Guerreiro Norte e Outros); Recomenda ao Governo que proceda ao lançamento do concurso para a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Hospital Central do Algarve; Recomenda ao Governo a construção do Novo Hospital Central do Algarve e do Centro Oncológico de Referência do Sul; Pela construção do novo Hospital Central do Algarve e do Centro Oncológico do Algarve; Recomenda ao Governo que desencadeie as ações necessárias para a rápida construção do Hospital Central do Algarve;  Pela urgente construção do novo Hospital Central do Algarve; Recomenda ao Governo a construção de um novo Hospital Central do Algarve.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23956",
+    "PetAssunto": "Novo Hospital Central do Algarve Já",
+    "PetDataEntrada": "2023-10-10",
+    "PeticoesAssociadas": null,
+    "PetId": "23956",
+    "PetLeg": "XV",
+    "PetNr": "225",
+    "PetNrAssinaturas": "9552",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56725",
+        "obs": null,
+        "pag": [
+          "22-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-06-28",
+        "pubLeg": "XVII",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/006/2025-06-28/22?pgs=22-34&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915225",
+        "obs": null,
+        "pag": [
+          "31-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-16",
+        "pubLeg": "XV",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/017/2023-12-16/31?pgs=31-32&org=PLC"
+      }
+    ]
+  }
+}
