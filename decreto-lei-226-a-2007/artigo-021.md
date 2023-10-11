@@ -42,10 +42,10 @@ d) Decorrido o prazo referido na alínea anterior sem que seja apresentado um pe
 
 e) Se durante o prazo referido na alínea b) forem apresentados pedidos idênticos de atribuição de licença, a autoridade competente inicia um procedimento concursal entre os interessados, que segue os termos fixados no número anterior, com as necessárias adaptações.
 
-6 - Nos casos referidos no número anterior, o primeiro requerente goza do direito de preferência desde que comunique, no prazo de 10 dias a contar da notificação da escolha da proposta, sujeitar-se às condições da proposta seleccionada, salvo tratando-se de anterior titular que manifeste interesse na continuação da utilização, caso em que se observará o disposto no n.º 7 do presente artigo.
+6 - Nos casos referidos no número anterior, o primeiro requerente goza do direito de preferência desde que comunique, no prazo de 10 dias a contar da notificação da escolha da proposta, sujeitar-se às condições da proposta selecionada.
 
 7 - Nos casos em que o concurso previsto no n.º 3 ficar deserto, a licença pode ser atribuída ao antigo titular nas condições postas a concurso.
 
-8 - Sem prejuízo do disposto no n.º 4 do artigo 34.º, o anterior titular pode manifestar à autoridade competente o interesse na continuação da utilização, no prazo de um ano antes do termo do respectivo título, gozando de direito de preferência, desde que, no prazo de 10 dias após a adjudicação do procedimento concursal previsto no n.º 3 ou no n.º 4 comunique sujeitar-se às condições da proposta seleccionada.
+8 - (Revogado.)
 
-9 - No caso previsto no número anterior pode excepcionalmente ser prorrogado o prazo de validade do título de utilização até à decisão final do procedimento de concurso, não podendo, em qualquer caso, a referida prorrogação exceder o prazo máximo de dois anos.
+9 - Se o antigo titular manifestar à autoridade competente o interesse na continuação da utilização, o prazo do título de utilização pode ser excecionalmente prorrogado até à decisão final do procedimento de concurso, não podendo, em qualquer caso, a referida prorrogação exceder o prazo máximo de dois anos.
