@@ -28,7 +28,7 @@ c) Da emissão de poluentes, ruído, vibrações, luz, calor e radiação, da cr
 
 d) Dos riscos para a saúde humana, para o património cultural ou para o ambiente (por exemplo, devido a acidentes ou catástrofes);
 
-e) Da acumulação de efeitos com outros projetos existentes e/ou aprovados;
+e) Da acumulação de efeitos com outros projetos existentes e/ou aprovados, tendo em conta os problemas ambientais relacionados com as zonas de especial importância ambiental suscetíveis de serem afetadas ou a utilização dos recursos naturais;
 
 f) Do impacto do projeto sobre o clima e da vulnerabilidade do projeto às alterações climáticas;
 

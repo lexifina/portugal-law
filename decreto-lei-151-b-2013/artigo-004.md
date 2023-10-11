@@ -2,7 +2,7 @@
 
 ### Dispensa do procedimento de AIA
 
-1 - Em circunstâncias excecionais e devidamente fundamentadas, o licenciamento ou a autorização de um projeto pode, por iniciativa do proponente e mediante despacho dos membros do Governo responsáveis pela área do ambiente e da tutela do projeto, ser concedido com dispensa, total ou parcial, do procedimento de AIA.
+1 - Em circunstâncias excecionais e devidamente fundamentadas, o licenciamento ou a autorização de um projeto pode, por iniciativa do proponente e mediante despacho dos membros do Governo responsáveis pela área do ambiente e da tutela do projeto, ser concedido com dispensa, total ou parcial, do procedimento de AIA, caso a aplicação do mesmo contrarie o objetivo do projeto e desde que sejam cumpridos os objetivos do presente regime jurídico.
 
 2 - Para efeitos do disposto no número anterior, o proponente apresenta à entidade competente para licenciar ou autorizar o projeto um requerimento de dispensa do procedimento de AIA, devidamente fundamentado, do qual conste a descrição do projeto e a indicação dos principais efeitos no ambiente, bem como, os elementos fixados em portaria do membro do Governo responsável pela área do ambiente, ouvidos os responsáveis pelas áreas de tutela dos projetos abrangidos pelo presente decreto-lei.
 

@@ -102,7 +102,7 @@ b) Fabrico de papel e cartão com uma capacidade de produção superior a 200 t/
 
 21. Locais de armazenamento conformes com o regime jurídico relativo ao armazenamento geológico de dióxido de carbono.
 
-22. Instalações destinadas à captura para efeitos de armazenamento geológico de fluxos de CO(índice 2) destinados aos locais de armazenamento abrangidos pelo presente anexo ou nas quais a captura anual total de CO(índice 2) é igual ou superior a 1,5 megatoneladas.
+22. Instalações destinadas à captura para efeitos de armazenamento geológico de fluxos de CO(índice 2) provenientes de instalações abrangidas pelo presente anexo ou nas quais a captura anual total de CO(índice 2) é igual ou superior a 1,5 Mt.
 
 23. Instalações para criação intensiva de aves de capoeira ou de suínos, com espaço para mais de:
 

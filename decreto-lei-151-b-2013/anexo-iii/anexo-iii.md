@@ -24,7 +24,7 @@ g) Riscos para a saúde humana.
 
 a) O território, tendo em conta os seus usos existentes e comprometidos e a afetação do uso do solo;
 
-b) A riqueza relativa, a qualidade e a capacidade de regeneração dos recursos naturais da área de estudo (incluindo o solo e subsolo, o território, a água e a biodiversidade);
+b) A riqueza relativa, a disponibilidade, a qualidade e a capacidade de regeneração dos recursos naturais da área de estudo (incluindo o solo e subsolo, o território, a água e a biodiversidade);
 
 c) A capacidade de absorção do ambiente natural, com especial atenção para as seguintes zonas:
 
@@ -40,7 +40,7 @@ v) Reservas e parques naturais;
 
 vi) Zonas classificadas ou protegidas, zonas de proteção especial, nos termos da legislação;
 
-vii) Zonas nas quais as normas de qualidade ambiental fixadas pela legislação nacional já foram ultrapassadas;
+vii) Zonas nas quais se verificou um desrespeito das normas de qualidade ambiental, estabelecidas pela legislação nacional ou da União e pertinentes para o projeto, ou em que se considere que se verifica esse desrespeito;
 
 viii) Zonas de forte densidade demográfica;
 

@@ -1,15 +1,17 @@
 # Artigo 33.º
 
-### Projetos com impactes em outros Estados-Membros da União Europeia
+### Projetos com impactes em outros Estados
 
-1 - Sempre que o projeto possa produzir um impacte ambiental significativo no território de outro ou outros Estados-Membros da União Europeia, a autoridade de AIA envia, através dos serviços competentes do Ministério dos Negócios Estrangeiros, às autoridades do Estado potencialmente afetado, o mais tardar até à publicitação do procedimento de AIA nos termos do artigo 15.º, pelo menos a seguinte informação:
+1 - Sempre que o projeto possa provocar impactes significativos no território de outro ou outros Estados, a autoridade nacional de AIA notifica, através dos serviços competentes do Ministério dos Negócios Estrangeiros, as autoridades do Estado potencialmente afetado, tão cedo quanto possível e o mais tardar até à publicitação do procedimento de AIA nos termos do artigo 15.º
 
-a) A descrição do projeto acompanhada de toda a informação disponível, sobre os eventuais impactes transfronteiriços;
+2 - A notificação referida no número anterior deve conter pelo menos a seguinte informação:
+
+a) A descrição do projeto acompanhada de toda a informação disponível sobre os eventuais impactes transfronteiriços;
 
 b) Informação sobre a natureza da decisão que pode ser tomada.
 
-2 - O Estado-Membro potencialmente afetado pode declarar, no prazo de 30 dias, que deseja participar no procedimento de AIA.
+3 - O Estado potencialmente afetado pode declarar, no prazo de 30 dias, que deseja participar no procedimento de AIA.
 
-3 - Na situação prevista no número anterior não há lugar a deferimento tácito nos termos previstos no presente decreto-lei.
+4 - Na situação prevista no número anterior não há lugar a deferimento tácito nos termos previstos no presente regime jurídico.
 
-4 - O disposto nos números anteriores é aplicável aos casos em que haja uma solicitação expressa de um Estado-Membro da União Europeia.
+5 - A declaração prevista no n.º 3 deve ser transmitida à autoridade nacional de AIA, pelos serviços competentes do Ministério dos Negócios Estrangeiros.

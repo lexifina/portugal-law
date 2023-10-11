@@ -40,4 +40,6 @@ p) Prazo para a emissão da DIA, no caso da consulta pública prevista no artigo
 
 q) Prazo para a emissão da decisão sobre a conformidade ambiental do projeto de execução, no caso da consulta pública prevista no n.º 6 do artigo 20.º;
 
-r) Indicação da possibilidade de impugnação administrativa, através de reclamação ou recurso hierárquico facultativo, nos termos do Código do Procedimento Administrativo, e contenciosamente, nos termos do Código de Processo dos Tribunais Administrativos, de qualquer decisão, ato ou omissão ao disposto no presente decreto-lei.
+r) A natureza de possíveis decisões ou o projeto de decisão, caso exista;
+
+s) Indicação da possibilidade de impugnação administrativa, através de reclamação ou recurso hierárquico facultativo, nos termos do Código do Procedimento Administrativo, e contenciosamente, nos termos do Código de Processo dos Tribunais Administrativos, de qualquer decisão, ato ou omissão ao disposto no presente decreto-lei.
