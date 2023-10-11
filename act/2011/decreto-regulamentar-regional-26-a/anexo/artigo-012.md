@@ -24,7 +24,7 @@ i) Assegurar a articulação entre os diversos serviços da USI São Miguel;
 
 j) Planear e coordenar as actividades de prestação de cuidados de saúde;
 
-k) Celebrar contratos-programa com a SAUDAÇOR, S. A., protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas actividades e visando atingir os seus objectivos;
+k) Celebrar contratos-programa, protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;
 
 l) Promover a formação do pessoal;
 
