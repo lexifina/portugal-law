@@ -6,4 +6,4 @@
 
 2 - O disposto nos artigos 3.º a 12.º vigora até 31 de dezembro de 2028.
 
-3 - O disposto nos artigos 13.º a 21.º vigora até 31 de dezembro de 2023, sem prejuízo de eventual prorrogação.
+3 - O disposto nos artigos 13.º a 21.º-A vigora até 31 de dezembro de 2024.

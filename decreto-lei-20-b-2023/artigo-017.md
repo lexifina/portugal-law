@@ -2,4 +2,4 @@
 
 ### Montante máximo da bonificação
 
-O montante anual máximo de bonificação, por contrato de crédito, é de 1,5 IAS.
+O montante anual máximo de bonificação, por contrato de crédito, é de 800 euros.
