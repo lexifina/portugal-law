@@ -1,0 +1,919 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "897",
+    "id": "243291",
+    "titulo": "Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2023-10-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "19545",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2023-10-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "243286",
+        "leg": "XV",
+        "nr": "908",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Criação de um estatuto de risco e penosidade para os profissionais de saúde"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "243297",
+        "leg": "XV",
+        "nr": "915",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Reconhece a profissão de enfermeiro como de desgaste rápido e permite a antecipação da idade de reforma para os 55 anos"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "243289",
+        "leg": "XV",
+        "nr": "895",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que defina o enquadramento legal geral das Profissões de Desgaste Rápido e a sua regulamentação"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "172962",
+        "leg": "XV",
+        "nr": "790",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36481",
+            "obs": null,
+            "pag": [
+              "27-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-13",
+            "pubLeg": "XV",
+            "pubNr": "12",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito a reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-10-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=34"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28",
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-28,33-34&org=PLC"
+              }
+            ],
+            "sumario": "Enfermeiros - Pelo direito do acesso ao estatuto de profissão de alto risco e de desgaste rápido (Eduardo Bernardino e outros); Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito a reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece a profissão de enfermeiro como de desgaste rápido e permite a antecipação da idade de reforma para os 55 anos; Recomenda ao Governo que defina o enquadramento legal geral das profissões de desgaste rápido e a sua regulamentação; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7330",
+                "nome": "Jorge Galveias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=29"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=37"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366383",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/28?pgs=28-29,36&org=PLC"
+              }
+            ],
+            "sumario": "Enfermeiros - Pelo direito do acesso ao estatuto de profissão de alto risco e de desgaste rápido (Eduardo Bernardino e outros); Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito a reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece a profissão de enfermeiro como de desgaste rápido e permite a antecipação da idade de reforma para os 55 anos; Recomenda ao Governo que defina o enquadramento legal geral das profissões de desgaste rápido e a sua regulamentação; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5490",
+                "nome": "Helga Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=30"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=38"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/29?pgs=29-30,36-37&org=PLC"
+              }
+            ],
+            "sumario": "Enfermeiros - Pelo direito do acesso ao estatuto de profissão de alto risco e de desgaste rápido (Eduardo Bernardino e outros); Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito a reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece a profissão de enfermeiro como de desgaste rápido e permite a antecipação da idade de reforma para os 55 anos; Recomenda ao Governo que defina o enquadramento legal geral das profissões de desgaste rápido e a sua regulamentação; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5524",
+                "nome": "João Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=31"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=36"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31",
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/31?pgs=31,35&org=PLC"
+              }
+            ],
+            "sumario": "Enfermeiros - Pelo direito do acesso ao estatuto de profissão de alto risco e de desgaste rápido (Eduardo Bernardino e outros); Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito a reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece a profissão de enfermeiro como de desgaste rápido e permite a antecipação da idade de reforma para os 55 anos; Recomenda ao Governo que defina o enquadramento legal geral das profissões de desgaste rápido e a sua regulamentação; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "6875",
+                "nome": "Carla Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Enfermeiros - Pelo direito do acesso ao estatuto de profissão de alto risco e de desgaste rápido (Eduardo Bernardino e outros); Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito a reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece a profissão de enfermeiro como de desgaste rápido e permite a antecipação da idade de reforma para os 55 anos; Recomenda ao Governo que defina o enquadramento legal geral das profissões de desgaste rápido e a sua regulamentação; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6057",
+                "nome": "Ana Isabel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Enfermeiros - Pelo direito do acesso ao estatuto de profissão de alto risco e de desgaste rápido (Eduardo Bernardino e outros); Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito a reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece a profissão de enfermeiro como de desgaste rápido e permite a antecipação da idade de reforma para os 55 anos; Recomenda ao Governo que defina o enquadramento legal geral das profissões de desgaste rápido e a sua regulamentação; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:33",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366388",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Enfermeiros - Pelo direito do acesso ao estatuto de profissão de alto risco e de desgaste rápido (Eduardo Bernardino e outros); Reconhece aos enfermeiros o estatuto de profissão de desgaste rápido e o direito a reforma antecipada, alterando o Decreto-Lei n.º 71/2019, de 27 de maio, e o Código do IRS; Reconhece a profissão de enfermeiro como de desgaste rápido e permite a antecipação da idade de reforma para os 55 anos; Recomenda ao Governo que defina o enquadramento legal geral das profissões de desgaste rápido e a sua regulamentação; Definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1461461",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XV",
+        "nr": "37",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Enfermeiros - Pelo direito do acesso ao estatuto de Profissão de Alto Risco e de Desgaste Rápido"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997391",
+        "obs": null,
+        "pag": [
+          "27-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-13",
+        "pubLeg": "XV",
+        "pubNr": "12",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/27?pgs=27-37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
