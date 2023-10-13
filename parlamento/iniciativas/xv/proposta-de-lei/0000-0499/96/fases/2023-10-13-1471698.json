@@ -1,0 +1,1855 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "96",
+    "id": "173094",
+    "titulo": "Altera os Estatutos de Associações Públicas Profissionais"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2023-10-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "29792",
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339695a6d59344d32566a4f5330335a5745304c5451344e6d4d744f57553059533034597a557859544a6d5a446b3459324d756347526d&fich=bff83ec9-7ea4-486c-9e4a-8c51a2fd98cc.pdf&Inline=true",
+        "anexoNome": "Guião de Votações (Suplementar)"
+      }
+    ],
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2023-10-13",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "173096",
+        "leg": "XV",
+        "nr": "98",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36491",
+            "obs": null,
+            "pag": [
+              "77-83"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/77?pgs=77-83&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "56692",
+            "obs": null,
+            "pag": [
+              "71-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-12-02",
+            "pubLeg": "XV",
+            "pubNr": "25",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/71?pgs=71-73&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Altera o regime jurídico da constituição e funcionamento das sociedades de profissionais abrangidas por associações públicas profissionais"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-10-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "7324",
+                "nome": "Anabela Real"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6886",
+                "nome": "Cristina Sousa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7020",
+                "nome": "Dora Brandão"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7036",
+                "nome": "Francisco Pereira de Oliveira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7414",
+                "nome": "Isabel Guerreiro"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5677",
+                "nome": "Luís Graça"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2209",
+                "nome": "Marcos Perestrello"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6706",
+                "nome": "Miguel Matos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1865",
+                "nome": "Nelson Brito"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7034",
+                "nome": "Raquel Ferreira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6682",
+                "nome": "Romualda Nunes Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/77?pgs=77-78&org=PLC"
+              }
+            ],
+            "sumario": "Altera os estatutos de associações públicas profissionais; Altera o regime jurídico da constituição e funcionamento das sociedades de profissionais abrangidas por associações públicas profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "817",
+                "nome": "Alfredo Maia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-02",
+                "pubLeg": "XV",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/71?pgs=71-73&org=PLC"
+              }
+            ],
+            "sumario": "Altera os Estatutos de Associações Públicas Profissionais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1554",
+                "nome": "Filipe Neto Brandão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "80-81"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/80?pgs=80-81&org=PLC"
+              }
+            ],
+            "sumario": "Altera os estatutos de associações públicas profissionais; Altera o regime jurídico da constituição e funcionamento das sociedades de profissionais abrangidas por associações públicas profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "6535",
+                "nome": "André Ventura"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7332",
+                "nome": "Filipe Melo"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7340",
+                "nome": "Gabriel Mithá Ribeiro"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "6858",
+                "nome": "Diogo Pacheco de Amorim"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7330",
+                "nome": "Jorge Galveias"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7345",
+                "nome": "Pedro dos Santos Frazão"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7336",
+                "nome": "Pedro Pinto"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7391",
+                "nome": "Pedro Pessanha"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7390",
+                "nome": "Rita Matias"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7342",
+                "nome": "Rui Paulo Sousa"
+              },
+              {
+                "GP": "CH",
+                "idCadastro": "7344",
+                "nome": "Rui Afonso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "81-82"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/81?pgs=81-82&org=PLC"
+              }
+            ],
+            "sumario": "Altera os estatutos de associações públicas profissionais; Altera o regime jurídico da constituição e funcionamento das sociedades de profissionais abrangidas por associações públicas profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7240",
+                "nome": "Alexandre Poço"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1933",
+                "nome": "Alexandre Simões"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4397",
+                "nome": "Afonso Oliveira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6539",
+                "nome": "André Coelho Lima"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7380",
+                "nome": "André Marques"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6571",
+                "nome": "António Cunha"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6853",
+                "nome": "António Maló de Abreu"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4439",
+                "nome": "António Prôa"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7329",
+                "nome": "António Topa Gomes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6905",
+                "nome": "Artur Soveral Andrade"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7007",
+                "nome": "Carla Madureira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4304",
+                "nome": "Bruno Coimbra"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7325",
+                "nome": "Carlos Cação"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6930",
+                "nome": "Carlos Eduardo Reis"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6901",
+                "nome": "Catarina Rocha Ferreira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6529",
+                "nome": "Cláudia André"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7381",
+                "nome": "Cristiana Ferreira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7416",
+                "nome": "Dinis Faísca"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7402",
+                "nome": "Dinis Ramos"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6119",
+                "nome": "Emília Cerqueira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1597",
+                "nome": "Fátima Ramos"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6909",
+                "nome": "Fernanda Velez"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1905",
+                "nome": "Fernando Negrão"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1580",
+                "nome": "Firmino Marques"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5985",
+                "nome": "Firmino Pereira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7351",
+                "nome": "Francisco Pimentel"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7011",
+                "nome": "Gabriela Fonseca"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5984",
+                "nome": "Germana Rocha"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7352",
+                "nome": "Guilherme Almeida"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5490",
+                "nome": "Helga Correia"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6542",
+                "nome": "Hugo Martins de Carvalho"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7403",
+                "nome": "Hugo Maravilha"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6857",
+                "nome": "Hugo Patrício Oliveira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7388",
+                "nome": "Inês Barroso"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6935",
+                "nome": "Isabel Meireles"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4436",
+                "nome": "Joana Barata Lopes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6544",
+                "nome": "Isaura Morais"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7583",
+                "nome": "João Dias Coelho"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7371",
+                "nome": "João Barbosa de Melo"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1529",
+                "nome": "João Marques"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4216",
+                "nome": "João Montenegro"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "303",
+                "nome": "João Prata"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7395",
+                "nome": "Joaquim Miranda Sarmento"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1706",
+                "nome": "João Moura"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "271",
+                "nome": "José Silvano"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6545",
+                "nome": "Jorge Salgueiro Mendes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5759",
+                "nome": "Lina Lopes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6595",
+                "nome": "Márcia Passos"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6531",
+                "nome": "Mónica Quintela"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4094",
+                "nome": "Maria Emília Apolinário"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "2071",
+                "nome": "Miguel Santos"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6885",
+                "nome": "Ofélia Ramos"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6548",
+                "nome": "Nuno Carvalho"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4055",
+                "nome": "Olga Silvestre"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7382",
+                "nome": "Patrícia Dantas"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "3918",
+                "nome": "Paula Cardoso"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6537",
+                "nome": "Paulo Moniz"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "3989",
+                "nome": "Paulo Mota Pinto"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "4392",
+                "nome": "Paulo Rios de Oliveira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7302",
+                "nome": "Paulo Ramalho"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "1992",
+                "nome": "Pedro Roque"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7441",
+                "nome": "Pedro Melo Lopes"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "8016",
+                "nome": "Rosina Ribeiro Pereira"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7366",
+                "nome": "Ricardo Sousa"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5492",
+                "nome": "Rui Cruz"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "5693",
+                "nome": "Rui Cristina"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7945",
+                "nome": "Rui Vilar"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7335",
+                "nome": "Sónia Ramos"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7128",
+                "nome": "Sofia Matos"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "6176",
+                "nome": "Sara Madruga da Costa"
+              },
+              {
+                "GP": "PSD",
+                "idCadastro": "7969",
+                "nome": "Tiago Moreira de Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376865",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14?org=PLC"
+              }
+            ],
+            "sumario": "Altera os estatutos de associações públicas profissionais; Altera o regime jurídico da constituição e funcionamento das sociedades de profissionais abrangidas por associações públicas profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6543",
+                "nome": "Alexandra Leitão"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7083",
+                "nome": "Bruno Aragão"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6013",
+                "nome": "Hugo Costa"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7046",
+                "nome": "Joana Sá Pereira"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "2753",
+                "nome": "Jorge Gabriel Martins"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "5531",
+                "nome": "Luís Soares"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "1594",
+                "nome": "Maria Antónia de Almeida Santos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7757",
+                "nome": "Pedro Anastácio"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "6962",
+                "nome": "Susana Correia"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "sumario": "Altera os estatutos de associações públicas profissionais; Altera o regime jurídico da constituição e funcionamento das sociedades de profissionais abrangidas por associações públicas profissionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6530",
+                "nome": "Marta Temido"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "sumario": "Altera os estatutos de associações públicas profissionais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1471698",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "996897",
+        "obs": null,
+        "pag": [
+          "64-75"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-14",
+        "pubLeg": "XV",
+        "pubNr": "13",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/64?pgs=64-75&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 1, apresentada pelo PSD, na parte em que substitui o n.º 3 do artigo 68.º da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I>, <I> BE</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>CH</I>, <I> IL</I>, <I> PCP</I>, <I> L</I>",
+        "id": "125982",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926752",
+            "obs": null,
+            "pag": [
+              "64-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/64?pgs=64-65&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 1, apresentada pelo PSD, na parte em que elimina o n.º 4 do artigo 68.º da proposta de lei",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> L</I>",
+        "id": "125983",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926753",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, apresentada pelo PS, na parte em que substitui a alínea a) do artigo 69.º-B do Estatuto da Ordem dos Médicos Dentistas, constante do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> PCP</I><BR>Abstenção:<I>IL</I>, <I> BE</I>, <I> L</I>",
+        "id": "125984",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926754",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, na parte em que substitui a alínea a) do n.º 1 do artigo 19.º-A do Estatuto da Ordem dos Médicos",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> L</I>",
+        "id": "125985",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926755",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS nas partes em que substitui a alínea b) do n.º 1 e os n.ºs 2, 3 e 4 do artigo 19.º-A do Estatuto da Ordem dos Médicos",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> L</I>",
+        "id": "125986",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926756",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, nas partes em que substitui o n.º 1 do artigo 73.º e o artigo 74.º do Estatuto da Ordem dos Médicos, constantes do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CH</I>, <I> PCP</I><BR>Abstenção:<I>IL</I>, <I> BE</I>, <I> L</I>",
+        "id": "125987",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926757",
+            "obs": null,
+            "pag": [
+              "66-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/66?pgs=66&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, na parte em que substitui o n.º 2 do artigo 138.º do Estatuto da Ordem dos Médicos, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>CH</I>, <I> PCP</I><BR>Abstenção:<I>PSD</I>, <I> IL</I>, <I> BE</I>, <I> L</I>",
+        "id": "125988",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926758",
+            "obs": null,
+            "pag": [
+              "66-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/66?pgs=66&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, na parte em que substitui o n.º 2 do artigo 64.º-B do Estatuto da Ordem dos Médicos, contante do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I><BR>Contra:<I>PSD</I>, <I> CH</I><BR>Abstenção:<I>IL</I>, <I> BE</I>, <I> L</I>",
+        "id": "125989",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926759",
+            "obs": null,
+            "pag": [
+              "66-66"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/66?pgs=66&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, na parte em que substitui o artigo 6.º do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> L</I>",
+        "id": "125990",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926760",
+            "obs": null,
+            "pag": [
+              "66-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/66?pgs=66-67&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, na parte em que adita um artigo 7.º-A ao Estatuto da Ordem dos Notários",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I><BR>Contra:<I>CH</I><BR>Abstenção:<I>PSD</I>, <I> IL</I>, <I> PCP</I>, <I> L</I>",
+        "id": "125991",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926761",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 3, do PSD, n.º 4 do artigo 28.º do Estatuto da Ordem dos Notários, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "125992",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926762",
+            "obs": null,
+            "pag": [
+              "67-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/67?pgs=67&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, na parte em que adita um n.º 4, um n.º 6 e um n.º 7 ao artigo 6.º-D do Estatuto da Ordem dos Enfermeiros, constantes do artigo 3.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> L</I>",
+        "id": "125993",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926763",
+            "obs": null,
+            "pag": [
+              "67-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/67?pgs=67-68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 3, do PSD, n.º 8 do artigo 15.º do Estatuto da Ordem dos Economistas, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "125994",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926764",
+            "obs": null,
+            "pag": [
+              "68-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/68?pgs=68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 3, do PSD, n.º 14 do artigo 8.º do Estatuto da Ordem dos Arquitetos, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "125995",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926765",
+            "obs": null,
+            "pag": [
+              "68-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/68?pgs=68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 3, do PSD, alínea d) do n.º 1 e o n.º 2 do artigo 29.º do Estatuto da Ordem dos Contabilistas Certificados, constantes do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "125996",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926766",
+            "obs": null,
+            "pag": [
+              "68-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/68?pgs=68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, nas partes em que adita uma alínea h) ao n.º 2 e substitui a alínea b) do n.º 4 do artigo 74.º da Ordem dos Farmacêuticos",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> L</I>",
+        "id": "125997",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926767",
+            "obs": null,
+            "pag": [
+              "68-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/68?pgs=68-69&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 3, do PSD, do artigo 65.º-A do Estatuto dos Nutricionistas",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "125998",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926768",
+            "obs": null,
+            "pag": [
+              "69-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/69?pgs=69&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, na parte em que substitui o n.º 4 do artigo 44.º do Estatuto da Ordem dos Advogados, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> L</I>",
+        "id": "125999",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926769",
+            "obs": null,
+            "pag": [
+              "69-69"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/69?pgs=69&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, na parte em que substitui o artigo 195.º do Estatuto da Ordem dos Advogados, constante do artigo n.º 2 do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> L</I>",
+        "id": "126000",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926770",
+            "obs": null,
+            "pag": [
+              "70-71"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/70?pgs=70-71&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, com a proposta de substituição do n.º 1 do artigo 199.º do Estatuto da Ordem dos Advogados, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> L</I><BR>Contra:<I>PSD</I>, <I> CH</I><BR>Abstenção:<I>1-PS</I>, <I> IL</I>, <I> PCP</I>, <I> Alexandre Poço (PSD)</I>",
+        "id": "126001",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926771",
+            "obs": null,
+            "pag": [
+              "72-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/72?pgs=72-73&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, proposta de substituição do artigo 6.º do texto final",
+        "detalhe": "A Favor: <I>PS</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>, <I> PCP</I>, <I> BE</I>, <I> L</I>",
+        "id": "126002",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926772",
+            "obs": null,
+            "pag": [
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/73?pgs=73&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, proposta de substituição do n.º 4 do artigo 7.º do texto final do Regime Jurídico dos atos de Advogados e Solicitadores",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>PSD</I>, <I> CH</I>, <I> IL</I>",
+        "id": "126003",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926773",
+            "obs": null,
+            "pag": [
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/73?pgs=73&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocações n.º 3, do PSD e, em conjunto, os n.ºs 8 e 9 do artigo 159.º do Estatuto da Ordem dos Revisores Oficiais de Contas, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "126004",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926774",
+            "obs": null,
+            "pag": [
+              "73-73"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/73?pgs=73&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 2, do PS, proposta de substituição do artigo 156.º do Estatuto da Ordem dos Solicitadores e dos Agentes de Execução, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> L</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CH</I>, <I> IL</I>, <I> PCP</I>",
+        "id": "126005",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926775",
+            "obs": null,
+            "pag": [
+              "73-74"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/73?pgs=73-74&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 3, do PSD, votação dos n.ºs 12 e 13 do artigo 163.º do Estatuto da Ordem dos Solicitadores e dos Agentes de Execução, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "126006",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926776",
+            "obs": null,
+            "pag": [
+              "74-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/74?pgs=74-75&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-10-13",
+        "descricao": "Avocação n.º 3, do PSD, referente ao n.º 12 do artigo 55.º do Estatuto da Ordem dos Psicólogos, constante do artigo 2.º do texto final",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> PCP</I>, <I> BE</I>, <I> L</I><BR>Abstenção:<I>CH</I>, <I> IL</I>",
+        "id": "126007",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926777",
+            "obs": null,
+            "pag": [
+              "75-75"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/75?pgs=75&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "13",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
