@@ -1,0 +1,9 @@
+# Anexo VII
+
+### Zona de Protecção Especial da Serra da Malcata
+
+(superfície: 16360,68 ha)
+
+Limites
+
+A Zona de Protecção Especial da Serra da Malcata é definida pelos seguintes limites: o troço do rio Côa, com início no Moinho da Tinita ou do Patrício, cerca de 2 km a oeste da Malcata, até perto do Canto da Ribeira, seguindo para sul pelo caminho de acesso à casa florestal e daí até à fronteira. Continua pela linha da fronteira, inflectindo para o interior do território nacional pelo caminho a cerca de 300 m a sul da Barroca da Moita do Padre e depois pela linha de cumeada que passa pelo vértice geodésico da Marvaninha (cota 839), até encontrar o rio Bazágueda. Continua pelo caminho que parte do moinho e que passa por Bazágueda, até cerca de 130 m a leste do vértice geodésico da Figueirinha (cota 607). Daí segue para oeste por uma linha de água até à ribeira de Valdedra, que segue para montante até outra linha de água que atravessa o Covão do Urso para noroeste até à estrada de Meimão (332) a cerca de 500 m a este-nordeste da carreira de tiro de Penamacor. Segue-a para ocidente durante cerca de 600 m, inflectindo para noroeste pelo caminho que desemboca na estrada para Meimoa (233), seguindo-a durante cerca de 500 m e inflectindo para norte pelo caminho que passa por Barroca da Serra, pelo ribeiro do Colmeeiro até à albufeira da Meimoa. Acompanha a cota máxima da barragem, por forma a incluí-la na ZPE, até atingir o caminho que passa pela Fonte Ferranha. Segue este caminho até ao vértice geodésico do Alísio (cota 927). A partir daí, o caminho, que também é limite do distrito, segue para leste até ao vértice geodésico do Homem (cota 996) e inflecte para norte pelo caminho até à ribeira da Porqueira, que acompanha em cerca de 500 m. Segue para nor-noroeste por várias linhas de água, passando pelo Ninho das Corças até ao Moinho da Tinita, seguindo o rio Côa, conforme já descrito anteriormente.

@@ -1,0 +1,17 @@
+# Anexo XIV
+
+### Zona de Protecção Especial da Costa Sudoeste
+
+(superfície: 100675,55 ha)
+
+Limites
+
+O perímetro da Zona de Proteção Especial da Costa Sudoeste encontra-se inserido nas seguintes cartas militares, a 1:25 000: n.os 535, 544, 552, 560, 568, 576, 583-A, 584, 592, 593, 601, 602 e 609.
+
+Inicia-se na foz do barranco do Porto (carta militar n.º 535), seguindo este curso de água para montante até à sua interceção com a EM 554, a partir deste ponto prossegue na direção sul, através dos limites do Parque Natural do Sudoeste Alentejano e Costa Vicentina, tal como se encontram definidos no anexo I do Decreto Regulamentar n.º 26/95 (MARN), de 21 de setembro. Acompanha os referidos limites até à interceção da EM 532 com o Corgo do Cão (carta militar n.º 544), a partir deste ponto segue para jusante deste curso de água, até à sua foz no Corgo da Ponte, seguindo daqui para jusante até ao rio Mira, segue depois para montante do rio Mira, pelo seu limite de cheia na margem direita até à foz do barranco da Rocha (carta militar n.º 552), cruzando o rio para a sua margem esquerda até ao Moinho de Louraz, tomando daqui o caminho de ligação à EN 393, cruzando Loural, Azedão e Cascalheira Nova. Do ponto de interceção do referido caminho com a estrada (quilómetro 9 da EN 393), prossegue por essa via na direção sul e sudeste até ao cruzamento com a EN 393-1, seguindo a partir deste ponto a referida estrada na direção sudoeste, acompanhando simultaneamente os limites do Parque Natural (cartas militares n.os 560, 568 e 576) até ao cruzamento da EN 120 com a estrada de acesso ao monte da Cruz, junto à igreja nova (carta militar n.º 584), deste ponto prossegue pela referida estrada nacional em direção ao sul até ao cruzamento das Alfambras, local em que retorna a encontrar o limite do Parque Natural, prosseguindo para sul pela EN 268 (cartas militares n.os 593 e 592), na Bordeira inflete para este continuando a acompanhar os limites do Parque, até retomar a EN 268, prosseguindo para sul ainda em simultâneo com o Parque Natural até Vila do Bispo, local em que inflete para este seguindo a EN 125 e continuando a acompanhar os limites da área protegida, até ao quilómetro 11 da referida estrada (carta militar n.º 602), onde toma o caminho do monte do Formosinho, prosseguindo daí para o cerro do Moinho, após o que cruza a ribeira de Vale do Barão, seguindo o caminho de Pederneiras à estrada de Barrancão-Burgau, desta estrada toma o caminho da ponta da Almádena até ao mar.
+
+Considera-se o limite marítimo da ZPE como sendo uma faixa de 2 km definida ao longo da linha de costa em toda a sua extensão entre a ponta da Almádena a sul e o ponto 1 correspondente à numeração na figura, o qual é seguido pelas linhas retas que unem os pontos 1, 2, 3, 4, 5 e 6 cujas coordenadas se apresentam de seguida e correspondentes à numeração na figura 1 anexa, sendo que a norte do ponto 6 o limite marítimo segue de novo uma faixa de 2 km definida ao longo da linha de costa até à foz do barranco do Porto a norte.
+
+(ver documento original)
+
+Na tabela, as coordenadas retangulares (X e Y) referem-se ao Sistema de Referência PT-TM06/ETRS89 (Projeção Transversa de Mercator) e as coordenadas geográficas (Latitude e Longitude) referem-se ao Sistema de Referência ETRS89 (Elipsóide GRS80). As coordenadas retangulares estão representadas na figura pela quadrícula espaçada de 10 000 metros (cruzes).
