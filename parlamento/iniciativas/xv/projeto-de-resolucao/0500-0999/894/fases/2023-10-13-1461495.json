@@ -1,0 +1,903 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "894",
+    "id": "243285",
+    "titulo": "Investir na medicina geral e familiar e nos cuidados de saúde primários"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2023-10-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "19560",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2023-10-13",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "243292",
+        "leg": "XV",
+        "nr": "898",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Reforço dos Cuidados de Saúde Primários de proximidade às populações"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "173035",
+        "leg": "XV",
+        "nr": "812",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera o Decreto-Lei n.º 298/2007, de 22 de agosto, de forma a garantir o acesso universal a Médico Especialista em Medicina Geral e Familiar"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "172967",
+        "leg": "XV",
+        "nr": "715",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que atribua às unidades de saúde familiar, modelos A e B, e às unidades de cuidados saúde personalizados os incentivos institucionais, previstos no Decreto-Lei n.º 298/2007, de 22 de agosto, e na Portaria n.º 212/2017, de 19 de julho"
+      },
+      {
+        "autor": "CH",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "173036",
+        "leg": "XV",
+        "nr": "749",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36485",
+            "obs": null,
+            "pag": [
+              "40-48"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2023-10-14",
+            "pubLeg": "XV",
+            "pubNr": "13",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pela defesa da especialidade de Medicina Geral e Familiar"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-10-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7345",
+                "nome": "Pedro dos Santos Frazão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_13_10_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-42&org=PLC"
+              }
+            ],
+            "sumario": "Defesa da especialidade de medicina geral e familiar e dos cuidados de saúde primários em Portugal; Altera o Decreto-Lei n.º 298/2007, de 22 de agosto, de forma a garantir o acesso universal a médico especialista em medicina geral e familiar; Recomenda ao Governo que atribua às unidades de saúde familiar, modelos A e B, e às unidades de cuidados de saúde personalizados os incentivos institucionais previstos no Decreto-Lei n.º 298/2007, de 22 de agosto, e na Portaria n.º 212/2017, de 19 de julho; Pela defesa da especialidade de medicina geral e familiar; Investir na medicina geral e familiar e nos cuidados de saúde primários; Reforço dos cuidados de saúde primários de proximidade às populações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_13_10_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/42?pgs=42&org=PLC"
+              }
+            ],
+            "sumario": "Defesa da especialidade de medicina geral e familiar e dos cuidados de saúde primários em Portugal; Altera o Decreto-Lei n.º 298/2007, de 22 de agosto, de forma a garantir o acesso universal a médico especialista em medicina geral e familiar; Recomenda ao Governo que atribua às unidades de saúde familiar, modelos A e B, e às unidades de cuidados de saúde personalizados os incentivos institucionais previstos no Decreto-Lei n.º 298/2007, de 22 de agosto, e na Portaria n.º 212/2017, de 19 de julho; Pela defesa da especialidade de medicina geral e familiar; Investir na medicina geral e familiar e nos cuidados de saúde primários; Reforço dos cuidados de saúde primários de proximidade às populações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5524",
+                "nome": "João Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_13_10_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "sumario": "Defesa da especialidade de medicina geral e familiar e dos cuidados de saúde primários em Portugal; Altera o Decreto-Lei n.º 298/2007, de 22 de agosto, de forma a garantir o acesso universal a médico especialista em medicina geral e familiar; Recomenda ao Governo que atribua às unidades de saúde familiar, modelos A e B, e às unidades de cuidados de saúde personalizados os incentivos institucionais previstos no Decreto-Lei n.º 298/2007, de 22 de agosto, e na Portaria n.º 212/2017, de 19 de julho; Pela defesa da especialidade de medicina geral e familiar; Investir na medicina geral e familiar e nos cuidados de saúde primários; Reforço dos cuidados de saúde primários de proximidade às populações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "IL",
+                "idCadastro": "7339",
+                "nome": "Joana Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_13_10_00_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Defesa da especialidade de medicina geral e familiar e dos cuidados de saúde primários em Portugal; Altera o Decreto-Lei n.º 298/2007, de 22 de agosto, de forma a garantir o acesso universal a médico especialista em medicina geral e familiar; Recomenda ao Governo que atribua às unidades de saúde familiar, modelos A e B, e às unidades de cuidados de saúde personalizados os incentivos institucionais previstos no Decreto-Lei n.º 298/2007, de 22 de agosto, e na Portaria n.º 212/2017, de 19 de julho; Pela defesa da especialidade de medicina geral e familiar; Investir na medicina geral e familiar e nos cuidados de saúde primários; Reforço dos cuidados de saúde primários de proximidade às populações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "426",
+                "nome": "Berta Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_13_10_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Defesa da especialidade de medicina geral e familiar e dos cuidados de saúde primários em Portugal; Altera o Decreto-Lei n.º 298/2007, de 22 de agosto, de forma a garantir o acesso universal a médico especialista em medicina geral e familiar; Recomenda ao Governo que atribua às unidades de saúde familiar, modelos A e B, e às unidades de cuidados de saúde personalizados os incentivos institucionais previstos no Decreto-Lei n.º 298/2007, de 22 de agosto, e na Portaria n.º 212/2017, de 19 de julho; Pela defesa da especialidade de medicina geral e familiar; Investir na medicina geral e familiar e nos cuidados de saúde primários; Reforço dos cuidados de saúde primários de proximidade às populações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7441",
+                "nome": "Pedro Melo Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_13_10_00_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/46?pgs=46-48&org=PLC"
+              }
+            ],
+            "sumario": "Defesa da especialidade de medicina geral e familiar e dos cuidados de saúde primários em Portugal; Altera o Decreto-Lei n.º 298/2007, de 22 de agosto, de forma a garantir o acesso universal a médico especialista em medicina geral e familiar; Recomenda ao Governo que atribua às unidades de saúde familiar, modelos A e B, e às unidades de cuidados de saúde personalizados os incentivos institucionais previstos no Decreto-Lei n.º 298/2007, de 22 de agosto, e na Portaria n.º 212/2017, de 19 de julho; Pela defesa da especialidade de medicina geral e familiar; Investir na medicina geral e familiar e nos cuidados de saúde primários; Reforço dos cuidados de saúde primários de proximidade às populações.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "L",
+                "idCadastro": "7337",
+                "nome": "Rui Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:58",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_13_10_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "376732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-14",
+                "pubLeg": "XV",
+                "pubNr": "13",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Defesa da especialidade de medicina geral e familiar e dos cuidados de saúde primários em Portugal; Altera o Decreto-Lei n.º 298/2007, de 22 de agosto, de forma a garantir o acesso universal a médico especialista em medicina geral e familiar; Recomenda ao Governo que atribua às unidades de saúde familiar, modelos A e B, e às unidades de cuidados de saúde personalizados os incentivos institucionais previstos no Decreto-Lei n.º 298/2007, de 22 de agosto, e na Portaria n.º 212/2017, de 19 de julho; Pela defesa da especialidade de medicina geral e familiar; Investir na medicina geral e familiar e nos cuidados de saúde primários; Reforço dos cuidados de saúde primários de proximidade às populações.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1461495",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XV",
+        "nr": "60",
+        "publicacao": null,
+        "sel": "1",
+        "tipo": null,
+        "titulo": "Defesa da Especialidade de Medicina Geral e Familiar e dos Cuidados de Saúde Primários em Portugal"
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997408",
+        "obs": null,
+        "pag": [
+          "40-48"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-14",
+        "pubLeg": "XV",
+        "pubNr": "13",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/013/2023-10-14/40?pgs=40-48&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
