@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Rw23Vat1crExYT4G5DSbTtIcbaTrKAsLCDjJmdaRvIuxQmpjNXlteM0UBC1odjp2f3HP5j03ofnQYCU4ykN5sgLpQhNGwtmd1YOsD3gyJe0gSxSVB7n41uHJAoUu1bht3Lw0G8a7mmxpMM%2bLxZ2Tr7tx1ywCpqOW044tjbCsexIbLe8xH4ECVffSpi6OnIIVGxWCT3vfv%2bBY3obnTzzLwqcBV7oXMoYM26a4iedsSfimyISCEw6ViRgV0E61t7DS%2fcBDOu%2feMsWNgZnFHJUyMeRb9h41S%2bqszPi1DzGckzthTAU2WiQhpNM09OMX6S7KPKg6G3Wvn4YPHc5We6hp%2b%2f3KCSLFH0%2f%2fObIIumnChLVJKIOems%2b4Rk75IkM3%2fiYlk8XjTqDbzNg5%2fyJT%2fru%2fDA%3d%3d&fich=RequerimentosXV_json.txt&Inline=true",
+  "ficheiro_sha256": "5e72bb83b1dc3ce7aad3688787c6d2f5aca64e4843eb96b97466a68fa5bcc512",
+  "legislatura": "XV",
+  "id": "145296",
+  "tipo": "Pergunta",
+  "numero": "131",
+  "data_registo": "2023-10-14",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Cuidados de Saúde Primários no concelho da Nazaré",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "6857",
+        "nome": "Hugo Patrício Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3989",
+        "nome": "Paulo Mota Pinto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4055",
+        "nome": "Olga Silvestre"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1529",
+        "nome": "João Marques"
+      }
+    ],
+    "DataEnvio": "2023-10-17",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2023-10-17",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro da Saúde",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2023-11-06",
+            "docRemetida": null,
+            "entidade": "Ministro da Saúde",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e6a5669597a526b4f445174597a51345a6930304f5459304c546b794d5749744e4752694f54686d4e54466a4e3255324c6e426b5a673d3d&fich=65bc4d84-c48f-4964-921b-4db98f51c7e6.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2023-10-14",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387955307776596a4134595759325a4749744e47526d4d5330304e7a55774c5749354d7a6b7459545a6b5a574e6c5a6a686b5a4463324c6e426b5a673d3d&fich=b08af6db-4df1-4750-b939-a6decef8dd76.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "145296",
+    "Legislatura": "XV",
+    "Nr": "131",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
