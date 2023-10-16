@@ -1,0 +1,8 @@
+Edital n.º 1826/2023
+Sumário: Projeto do Regulamento Municipal de Atribuição, Gestão das Habitações Sociais em Regime de Renda Apoiada de Montalegre.
+Projeto do Regulamento Municipal de Atribuição, Gestão das Habitações Sociais em Regime de Renda Apoiada de Montalegre
+Maria de Fátima Pereira Fernandes Alves, Presidente da Câmara Municipal de Montalegre, torna público que, por deliberação do executivo municipal tomada no pretérito dia 21 de setembro de dois mil e vinte e três, nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, o Projeto de Regulamento Municipal de Atribuição, Gestão das Habitações Sociais em Regime de Renda Apoiada de Montalegre, encontra-se em consulta pública, durante 30 dias, a contar da data de publicação do presente edital no Diário da República.
+O referido projeto de regulamento encontra-se disponível para consulta na Divisão Administrativa, todos os dias úteis e durante o horário normal de expediente, onde os interessados poderão apresentar, por escrito dirigido à Presidente da Câmara Municipal ou enviar por via postal, Praça do Município, n.º 1, 5470-214 Montalegre, ou por email: município@cm-montalegre.pt, durante o referido prazo, as observações ou sugestões que entenderem por convenientes.
+Para constar e para os devidos efeitos legais, publica-se o presente edital outros de igual teor, que vão ser afixados no átrio do município e demais lugares de estilo, bem como no sítio da Internet - http://www.cm-montalegre.pt.
+26 de setembro de 2023. - A Presidente da Câmara Municipal, Maria de Fátima Pereira Fernandes Alves.
+316895851
