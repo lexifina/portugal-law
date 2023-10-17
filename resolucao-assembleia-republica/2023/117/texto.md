@@ -1,0 +1,15 @@
+Resolução da Assembleia da República n.º 117/2023
+Sumário: Recomenda ao Governo medidas de cumprimento da Lei n.º 88/2019, de 3 de setembro, e determina um processo de auscultação dos municípios para avaliação do seu impacto.
+Recomenda ao Governo medidas de cumprimento da Lei n.º 88/2019, de 3 de setembro, e determina um processo de auscultação dos municípios para avaliação do seu impacto
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição:
+1 - Recomendar ao Governo que:
+a) Elabore e entregue à Assembleia da República um relatório sobre os efeitos da Lei n.º 88/2019, de 3 de setembro, na redução do impacto dos resíduos de produtos de tabaco no meio ambiente, que inclua o levantamento das medidas levadas a cabo pelos XXII e XXIII Governos Constitucionais para assegurar o cumprimento dos deveres e obrigações que sobre si impendiam ao abrigo do mencionado diploma;
+b) Realize, em articulação com o Fundo Ambiental, os produtores de tabaco e os municípios, uma campanha nacional de sensibilização dos consumidores para o destino responsável dos resíduos de tabaco, nomeadamente com a entrega de cinzeiros de bolso, em cumprimento do disposto na alínea a) do n.º 1 do artigo 6.º da Lei n.º 88/2019, de 3 de setembro;
+c) Crie um sistema de incentivos, no âmbito do Fundo Ambiental, para os estabelecimentos comerciais se adaptarem ao cumprimento da obrigação de disponibilização de cinzeiros e equipamentos próprios para a deposição de resíduos de produtos de tabaco, em cumprimento do disposto no artigo 5.º da Lei n.º 88/2019, de 3 de setembro;
+d) Promova o apoio ao desenvolvimento de projetos de investigação científica e dos meios tecnológicos necessários ao adequado tratamento dos resíduos dos produtos de tabaco e à sua reciclagem, em cumprimento do disposto no artigo 7.º da Lei n.º 88/2019, de 3 de setembro;
+e) Realize e execute, em articulação com as autarquias locais, programas de incentivos tendentes ao adequado descarte e consequente reaproveitamento de outros produtos do tabaco com filtros e filtros comercializados para uso em combinação com produtos do tabaco, definidos nos termos da Diretiva (UE) 2019/904 do Parlamento Europeu e do Conselho, de 5 de junho de 2019, relativa à redução do impacto de determinados produtos de plástico no ambiente, e em cumprimento do disposto no artigo 242.º da Lei n.º 12/2022, de 27 de junho; e
+f) Elabore, em articulação com os produtores de tabaco e as organizações não-governamentais da área do ambiente, uma estratégia nacional para o reaproveitamento de produtos do tabaco.
+2 - Realizar um processo de auscultação de cada um dos municípios, através da Comissão de Administração Pública, Ordenamento do Território e Poder Local, sobre o impacto e a efetiva aplicação da Lei n.º 88/2019, de 3 de setembro, nos respetivos territórios, em termos de processos instruídos e coimas aplicadas, ações de sensibilização realizadas e regulamentação municipal existente.
+Aprovada em 29 de setembro de 2023.
+O Presidente da Assembleia da República, Augusto Santos Silva.
+116949173
