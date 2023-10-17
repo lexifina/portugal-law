@@ -1,0 +1,7 @@
+Aviso n.º 19951/2023
+Sumário: Projeto do Regulamento de Atribuição de Benefícios Fiscais do Município de Sines.
+Projeto de Regulamento de Atribuição de Benefícios Fiscais do Município de Sines
+Nuno José Gonçalves Mascarenhas, Presidente da Câmara Municipal de Sines, torna público que, ao abrigo das disposições conjugadas previstas nas alíneas b) e t) do n.º 1 do artigo 35.º e no artigo 56.º da Lei n.º 75/2013, de 12 de setembro, na redação vigente, nos termos e para os efeitos previstos nos artigos 101.º do Código do Procedimento Administrativo, na reunião de 04 de outubro de 2023, foi deliberado dar início ao período de consulta pública do Projeto de Regulamento de Atribuição de Benefícios Fiscais do Município de Sines, a contar da data da publicação do presente aviso no Diário da República.
+O projeto de regulamento encontra-se disponível para consulta na página da internet da Câmara Municipal de Sines (www.sines.pt) e nos Paços do Concelho sob a forma de edital. Durante o período de consulta pública, qualquer interessado poderá formular as reclamações, observações ou sugestões que entenda por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal de Sines, podendo ser remetidas por correio convencional ou por correio eletrónico para o endereço daf@mun-sines.pt ou entregues no Balcão Único da Câmara Municipal de Sines, durante o período normal de expediente.
+4 de outubro de 2023. - O Presidente da Câmara Municipal, Nuno Mascarenhas.
+316923269
