@@ -2,7 +2,7 @@
 
 ### Deveres de informação
 
-1 - Sem prejuízo do disposto na lei quanto à prestação de informações previsto no Decreto-Lei n.º 558/99, de 17 de Dezembro, o conselho de administração do OPART, E. P. E., enviará aos membros do Governo responsáveis pelas áreas das finanças e da cultura, os seguintes documentos destinados a aprovação:
+1 - Sem prejuízo do disposto na lei quanto à prestação de informações previstas no regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, o conselho de administração do OPART, E. P. E., envia aos membros do Governo responsáveis pelas áreas das finanças e da cultura os seguintes documentos destinados a aprovação:
 
 a) O relatório de gestão e as contas do exercício;
 
