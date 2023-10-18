@@ -4,7 +4,7 @@
 
 1 - O conselho de administração reúne, pelo menos, quinzenalmente e extraordinariamente sempre que convocado pelo presidente ou por solicitação de dois membros do conselho de administração ou do fiscal único, sem prejuízo de fixação pelo conselho de calendário de reuniões com maior frequência.
 
-2 - Nos casos em que as funções de director artístico não sejam exercidas por um dos membros do conselho de administração, nos termos do n.º 4 do artigo 6.º, o director artístico pode participar nas reuniões do conselho de administração relativas a matérias das suas competências, sem direito de voto.
+2 - O diretor artístico pode participar nas reuniões do conselho de administração relativas a matérias das suas competências, sem direito de voto.
 
 3 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno do TNDM II, E. P. E.
 

@@ -4,18 +4,18 @@
 
 1 - Compete ao director artístico:
 
-a) Definir, no plano artístico, a estratégia global que incorpore de forma integrada e coordenada a missão e os objectivos do TNDM II, E. P. E.;
+a) Definir o projeto artístico que corporize de forma integrada e coordenada a missão e os objetivos do TNDM II, E. P. E.;
 
-b) Conceber e gerir o projecto artístico e a programação para o triénio correspondente ao mandato e garantir a sua execução;
+b) Conceber e submeter à aprovação do conselho de administração a programação para o quadriénio correspondente ao mandato e garantir o seu planeamento e execução, em articulação com as unidades artísticas e técnico-artísticas;
 
-c) Superintender no funcionamento das unidades artísticas e técnico-artísticas;
+c) Acompanhar o desenvolvimento dos projetos que integram a programação, estabelecendo ou supervisionando a constituição de equipas artísticas dos projetos de produção própria;
 
-d) Coordenar a produção, montagem e exibição de espectáculos;
+d) Realizar prospeção de projetos e oportunidades de colaboração nacional e internacional;
 
-e) Elaborar o plano de acções educativas e de funcionamento das unidades artísticas e técnico-artísticas;
+e) Participar na definição dos requisitos e critérios para a seleção e contratação dos responsáveis e trabalhadores das unidades artísticas e técnico-artísticas;
 
-f) Definir e propor ao conselho de administração os critérios e métodos de selecção de contratação dos responsáveis das unidades artísticas e técnico-artísticas;
+f) Colaborar na definição de estratégias de comunicação, de mediação e de campanhas de mecenato.
 
-g) Supervisionar as estratégias de promoção e de comunicação.
+g) (Rvogada.)
 
 2 - O projecto artístico referido na alínea b) do número anterior deve delinear a programação teatral anual e plurianual, abarcando quer as actividades de produção teatral quer as iniciativas e actividades complementares àquelas, nos termos e limites da dotação orçamental atribuída pelo conselho de administração para esse efeito.
