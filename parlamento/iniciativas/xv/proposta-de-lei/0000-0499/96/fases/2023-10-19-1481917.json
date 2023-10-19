@@ -1,0 +1,254 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "96",
+    "id": "173094",
+    "titulo": "Altera os Estatutos de Associações Públicas Profissionais"
+  },
+  "fase": "Envio à Comissão para fixação da Redação final",
+  "codigo_fase": "348",
+  "data_registo": "2023-10-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684d3252684f4445784f4330335a6d566b4c54526c4d7a5974596a68694d5331684f54646c4f5759354d7a55794e4463755a47396a65413d3d&fich=a3da8118-7fed-4e36-b8b1-a97e9f935247.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Psicólogos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a4e6a593559574a6d4d533078595455334c54517a4e546774596a6b324e5330794d574a694e474a694f4749304e5445755a47396a65413d3d&fich=c669abf1-1a57-4358-b965-21bb4bb8b451.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Psicólogos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a596a426c4e4749304d4330325a6a63324c545130597a4574596a646d4d4331694d4459345a446b355a44426c4d6d4d755a47396a65413d3d&fich=3b0e4b40-6f76-44c1-b7f0-b068d99d0e2c.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final  (Atos Advogados e Solicitadores)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338314d32517a5a4749314d53316a4e3249344c54517a5932457459575a6a4d693078597a4d31597a63324f545931596a6b755a47396a65413d3d&fich=53d3db51-c7b8-43ca-afc2-1c35c76965b9.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Atos Advogados e Solicitadores) - versão substituída a 02/11/2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304d7a457a596a5a6d4d79316b595441354c5451314e6a6b744f44426b4d6930344e6a5669596d466a597a4a6c4e6d49755a47396a65413d3d&fich=4313b6f3-da09-4569-80d2-865bbacc2e6b.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Notários)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4d6a5578597a46685a4330354d6a4d304c54517a4e575974596a51324f5330314e3245334d6a45794e325269595749755a47396a65413d3d&fich=3251c1ad-9234-435f-b469-57a72127dbab.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Notários) - versão substituída a 02/11/2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774f5759354d6a6b784f5330335a6d45314c5452684d4441745954566c596930774d47557a4f54526d4e5455304e7a49755a47396a65413d3d&fich=09f92919-7fa5-4a00-a5eb-00e394f55472.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Despachantes Oficiais)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339695a6a5577595446684e6931695a6a63794c5451794e7a5574596a68694f53316a4d7a63304e6a6c6b4e574e6b4d6d51755a47396a65413d3d&fich=bf50a1a6-bf72-4275-b8b9-c37469d5cd2d.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Despachantes Oficiais)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533834596a517a5a6a64684d4330315a6d4d354c5451784d4749744f446b79595330344e7a41774d6a63314d6d557a4f5749755a47396a65413d3d&fich=8b43f7a0-5fc9-410b-892a-87002752e39b.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Revisores Oficiais de Contas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338784e7a557a4e7a526b4e533035597a41354c54526d4e575174595459324d53316a593255315a474d784d325a6d596d45755a47396a65413d3d&fich=175374d5-9c09-4f5d-a661-cce5dc13ffba.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Revisores Oficiais de Contas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d4f4759774d44526c4d6930354d546b334c5451315a4449744f54637a5a43316b5a54566a4e4467344d4751355a5459755a47396a65413d3d&fich=f8f004e2-9197-45d2-973d-de5c4880d9e6.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Solicitadores e Agentes de Execução)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a5a545932596a64684d4330794e5445354c54517a4d5455744f44566a595330314e6d51314e6d4d334e474e6c4f5449755a47396a65413d3d&fich=ce66b7a0-2519-4315-85ca-56d56c74ce92.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto  (Ordem dos Solicitadores e Agentes de Execução) - versão substituída a 02/11/2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533835596a55344d6a566a597931694d6a526c4c54526a597a6774595455784d5331684e44686859544d79596d566d4d5467755a47396a65413d3d&fich=9b5825cc-b24e-4cc8-a511-a48aa32bef18.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Assistentes Sociais)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533877596d526a4e32566b5a43316b4e7a45324c5451304d5455744f5445335a693035596a49784d6a4e6a4d6d566d5a546b755a47396a65413d3d&fich=0bdc7edd-d716-4415-917f-9b2123c2efe9.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Assistentes Sociais)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4e7a6b784e6a4d77597930334d5442684c5451355a4751744f5467314d53316d5a54466b4e47557a59324d344d7a49755a47396a65413d3d&fich=3791630c-710a-49dd-9851-fe1d4e3cc832.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Biólogos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338315a5468684e574e6b4f5330325a4451314c5451355a574574596d59325969316c5a44526d5a6a5578596a59354e3251755a47396a65413d3d&fich=5e8a5cd9-6d45-49ea-bf6b-ed4ff51b697d.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Biólogos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c4d6a6731596a41355a6930335a4759354c5452685a6d59744f546b3559693078597a63334e6a4a695a6d497a4f544d755a47396a65413d3d&fich=e285b09f-7df9-4aff-999b-1c7762bfb393.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Economistas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774e544177597a4d324d7931695a6a51334c5451784d5463744f47517a596930355a44517a4f54686c4d5751314d7a51755a47396a65413d3d&fich=0500c363-bf47-4117-8d3b-9d4398e1d534.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Economistas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334e3259304d444d7a5953316b5a544d354c54526a4f5749744f4459334d4330304e6a6c6a4d6d517959324e69597a55755a47396a65413d3d&fich=77f4033a-de39-4c9b-8670-469c2d2ccbc5.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Fisioterapeutas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533878597a42694d6a41345a6930314e47497a4c5451795a5467744f444533595330345a6a6b794f5445304f446735595755755a47396a65413d3d&fich=1c0b208f-54b3-42e8-817a-8f92914889ae.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Fisioterapeutas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339685a444e684d47466d4d69316c4f474a684c5452694e446374596a67794d79316d5a474e6a4e7a6b315a6d45345a6a49755a47396a65413d3d&fich=ad3a0af2-e8ba-4b47-b823-fdcc795fa8f2.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Enfermeiros)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338784e6d49345a4751335953307a596a41794c5451784d6a517459544a685969303559544130596a686b4f445a6b4f5751755a47396a65413d3d&fich=16b8dd7a-3b02-4124-a2ab-9a04b8d86d9d.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Enfermeiros) - versão substituída a 02/11/2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684e57557759574979595331695a546b794c54526c4d5449744f44426d596930345a4463774f4455354f575a6c5a4755755a47396a65413d3d&fich=a5e0ab2a-be92-4e12-80fb-8d708599fede.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Farmacêuticos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338305a4745774d474a6a4e4330324d7a4d784c54526c59324974596d51774e7931684e445a6a4e574d324e6d566d596d51755a47396a65413d3d&fich=4da00bc4-6331-4ecb-bd07-a46c5c66efbd.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Farmacêuticos) - versão substituída a 02/11/2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684e32466b5a6d5578597930305a444e6b4c5451314f474974596a4a6d4f5330305a6a67324f474d774d6d466c4e4449755a47396a65413d3d&fich=a7adfe1c-4d3d-458b-b2f9-4f868c02ae42.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Contabilistas Certificados)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774d47526c596d51324d53316c5a57466a4c5451784e445174596a59784d7930334e3256685957497a4f546c6b4e6a49755a47396a65413d3d&fich=00debd61-eeac-4144-b613-77eaab399d62.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Contabilistas Certificados) - versão substituída a 15/11/2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338784d474e6b4e6a63304d4331684e5463304c5452685a6a67744f5459334f5330324e54426c5a6a63774d6a4a6b4d4463755a47396a65413d3d&fich=10cd6740-a574-4af8-9679-650ef7022d07.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Engenheiros)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304f544d794e6a686c4e7930324e47457a4c5451355a444574596a6734595331684d6d4e685a4456694f5449784f4459755a47396a65413d3d&fich=493268e7-64a3-49d1-b88a-a2cad5b92186.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Engenheiros)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a596a45354e6a466d5969307a4d546b784c545133595459744f4451344e6930334e4751775a446c6d4d7a46694e7a41755a47396a65413d3d&fich=3b1961fb-3191-47a6-8486-74d0d9f31b70.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Engenheiros Técnicos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338794e4756694e4746695a5330794d7a64684c5451355a6a41744f44686c4e4330324e6d4e695a474d34596a497a4e474d755a47396a65413d3d&fich=24eb4abe-237a-49f0-88e4-66cbdc8b234c.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Engenheiros Técnicos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338335a446c6c4d4755344d5330775a5441774c54526a59324d74596a41304d4330355a444977597a4a6d593249334d7a4d755a47396a65413d3d&fich=7d9e0e81-0e00-4ccc-b040-9d20c2fcb733.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Nutricionistas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684d6a67304d475a6c4e7930344d7a557a4c5451774e7a4574596a677759793169596a4a6c4d7a417a5a574d31597a67755a47396a65413d3d&fich=a2840fe7-8353-4071-b80c-bb2e303ec5c8.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Nutricionistas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304f574e6a4e7a63354e693169597a6c6c4c54526d4d7a5974596a51324e5330314d3255794f54646b596a4e6a5a5749755a47396a65413d3d&fich=49cc7796-bc9e-4f36-b465-53e297db3ceb.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Arquitetos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338315a4445315a6d526b4e79307a4f5449774c54526b596d497459544d795a5330794e7a59344d6d5a6a4d44466a596d45755a47396a65413d3d&fich=5d15fdd7-3920-4dbb-a32e-27682fc01cba.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Arquitetos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338785a5746694f575a6a4e6930775a574d784c5451345a6d5174595451305a6930775a4467775a546869596a686a4d7a59755a47396a65413d3d&fich=1eab9fc6-0ec1-48fd-a44f-0d80e8bb8c36.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Médicos Dentistas)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d5954426a597a4d344d5330344f5467354c54526a59574974595759354d69316b4e7a41335a5749775a445a6a4e3251755a47396a65413d3d&fich=fa0cc381-8989-4cab-af92-d707eb0d6c7d.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Médicos Dentistas) - versão substituída a 02/11/2023"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324e574e6d5a6d4e6c4d53316c5a5441774c54526959545974596a4a694d53307a4f4441355a544a6b4d574a6a4d6a45755a47396a65413d3d&fich=65cffce1-ee00-4ba6-b2b1-3809e2d1bc21.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Médicos Veterinários)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338354d57517a4d7a4e6d4e79316a4f544d774c545179596d4574595463304e4330774f5459774e57466a4e544d314f5449755a47396a65413d3d&fich=91d333f7-c930-42ba-a744-09605ac53592.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Médicos Veterinários)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396a596a63335a47466d4e5330314e7a49324c54526c5a544d744f445a6a5953307a4e5752694e6a6b34597a59344d5759755a47396a65413d3d&fich=cb77daf5-5726-4ee3-86ca-35db698c681f.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Advogados)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338334e446b794d6a41774e7930335a474d7a4c5451304e324d745954566c596930794d4455794d324d794e474a695a6a51755a47396a65413d3d&fich=74922007-7dc3-447c-a5eb-20523c24bbf4.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Advogados)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338325a44466b4d6a46684e79316b4d4751334c5451784d5441744f544e6c4d53316d5932526a4f5751325a4441344d446b755a47396a65413d3d&fich=6d1d21a7-d0d7-4110-93e1-fcdc9d6d0809.docx&Inline=true",
+        "anexoNome": "Informação de Redação Final (Ordem dos Médicos)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4e6d4532597a64695953316c4d444d794c5451304e7a417459545a6d5a5330354d4451334e6a4e6a5a5449324e7a59755a47396a65413d3d&fich=36a6c7ba-e032-4470-a6fe-904763ce2676.docx&Inline=true",
+        "anexoNome": "Projeto de Decreto (Ordem dos Médicos)"
+      }
+    ],
+    "CodigoFase": "348",
+    "Comissao": [
+      {
+        "AccId": "75014",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2023-10-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2023-11-15",
+            "TipoDocumento": "Redação final",
+            "TituloDocumento": "Informação - Redação final da Comissão de Trabalho, Segurança Social e Inclusão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d54424456464e545353394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566a4f546c6a4d4749304c5459324e5459744e446b30596930354e54646b4c5455345954557a4d6d466a4f44466c4d7935775a47593d&fich=5c99c0b4-6656-494b-957d-58a532ac81e3.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "8334",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho, Segurança Social e Inclusão",
+        "Numero": "8334",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2023-10-19",
+    "EvtId": "133",
+    "Fase": "Envio à Comissão para fixação da Redação final",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1481917",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
