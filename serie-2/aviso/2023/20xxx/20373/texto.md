@@ -1,0 +1,15 @@
+Aviso n.º 20373/2023
+Sumário: Prorrogação do prazo para a revisão do Plano Diretor Municipal do Marco de Canaveses, pelo período máximo legal admitido, 24 meses.
+Prorrogação de Prazo de Elaboração da Revisão do Plano Diretor Municipal (PDM) de Marco de Canaveses
+Dra. Cristina Lasalete Cardoso Vieira, Presidente da Câmara Municipal de Marco de Canaveses, torna público, que, nos termos do estabelecido no artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, a Câmara Municipal de Marco de Canaveses, na sequência do início de procedimento da elaboração da revisão, de 30 de Julho de 2021, constante do Aviso n.º 18959/2021 no Diário da República n.º 195/2021, Série II, de 7 de Outubro, deliberou na sua reunião n.º 15, realizada em 28 de julho de 2023, a prorrogação do prazo definido para a revisão do Plano Diretor Municipal de Marco de Canaveses, pelo período máximo legal admitido, ou seja, por mais 24 meses.
+Para conhecimento se mandou publicitar o presente aviso, nos locais de estilo, no sítio da internet da Câmara Municipal, em www.cm-marco-canaveses.pt e na II no Diário da República - 2.ª série.
+11 de setembro de 2023. - A Presidente da Câmara Municipal, Dr.ª Cristina Vieira.
+Deliberação
+Cristina Lassalete Cardoso Vieira, Presidente da Câmara Municipal do Marco de Canaveses:
+Certifica que em reunião de câmara Municipal do Marco de Canaveses n.º 15, ponto 17, realizada em 28 de julho de 2023, e sob proposta da Senhora Presidente (extrato): «Na sequência da deliberação da Câmara Municipal de Marco de Canaveses de 30 de Julho de 2021, constante do Aviso n.º 18959/2021 no Diário da República n.º 195/2021, Série II, de 7 de Outubro, procedeu -se à abertura do procedimento de Revisão do Plano Diretor Municipal de Marco de Canaveses, tendo-se fixado em dois anos (vinte e quatro meses) o prazo para a respetiva revisão.
+Proponho que o órgão executivo delibere, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, e fazendo uso do princípio da proporcionalidade mas também da precaução, aprovar a prorrogação do prazo definido para a revisão do Plano Diretor Municipal de Marco de Canaveses, pelo período máximo legal admitido, ou seja, por mais 24 meses.»
+Da referida reunião de câmara Municipal do Marco de Canaveses n.º 15, ponto 17, realizada em 28 de julho de 2023 consta a seguinte deliberação, que se transcreve:
+«Prorrogação do prazo para a revisão do Plano Diretor Municipal de Marco de Canaveses, pelo período máximo legal admitido, 24 meses;
+Deliberado por unanimidade aprovar nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, e fazendo uso do princípio da proporcionalidade, mas também da precaução, a prorrogação do prazo definido para a revisão do Plano Diretor Municipal de Marco de Canaveses, pelo período máximo legal admitido, ou seja, por mais 24 meses.»
+Marco de Canaveses, 11 de setembro de 2023. - A Presidente da Câmara Municipal, Dr.ª Cristina Vieira.
+616924151
