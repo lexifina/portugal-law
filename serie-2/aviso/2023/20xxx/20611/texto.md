@@ -1,0 +1,8 @@
+Aviso n.º 20611/2023
+Sumário: Abertura do período de discussão pública da alteração ao Plano de Urbanização da Herdade da Barrosinha.
+Abertura do período de discussão pública da Alteração ao Plano de Urbanização da Herdade da Barrosinha
+Vítor Manuel Chaves de Caro Proença, Presidente da Câmara Municipal de Alcácer do Sal, torna público que a Câmara Municipal aprovou, por unanimidade, na sua reunião de 28 de setembro de 2023, a abertura do período de discussão pública da alteração ao Plano de Urbanização da Herdade da Barrosinha (PU da Barrosinha), nos termos e para os efeitos previstos nos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, que estabelece o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), pelo período de 20 dias úteis, contados do 5.º dia útil após a publicação do presente aviso no Diário da República.
+A formulação de quaisquer reclamações, observações, sugestões e/ou pedidos de esclarecimento, deverão ser dirigidas, por escrito, ao Presidente da Câmara Municipal de Alcácer do Sal, para a Praça Pedro Nunes, em Alcácer do Sal, ou por correio eletrónico para o endereço dpgu@m-alcacerdosal.pt.
+Os elementos processuais da alteração ao PU da Barrosinha, bem como, a respetiva deliberação de câmara estão disponíveis para consulta na página do município, em www.cm-alcacerdosal.pt, ou todos os dias úteis, das 09 às 16 horas, na secretaria da Divisão Planeamento e Gestão Urbanística, sita no Edifício dos Serviços Técnicos, Avenida João Soares Branco, em Alcácer do Sal.
+11 de outubro de 2023. - O Presidente de Câmara, Vítor Manuel Chaves de Caro Proença.
+616943576
