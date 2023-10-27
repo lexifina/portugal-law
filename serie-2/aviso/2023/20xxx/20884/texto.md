@@ -1,0 +1,8 @@
+Aviso n.º 20884/2023
+Sumário: Consulta pública do projeto de alteração ao Regulamento e Tabela de Taxas e Licenças da Freguesia de Espírito Santo.
+Consulta Pública do Projeto de Alteração ao Regulamento e Tabela de Taxas e Licenças da Freguesia de Espírito Santo
+Luís Miguel Deodato Caetano, Presidente da Junta de Freguesia de Freguesia de Espírito Santo, nos termos do disposto no n.º 1 do artigo 56.º do RJAL, aprovado no anexo I da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, em conjugação com o disposto no artigo 101.º do CPA, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 07 de janeiro, na sua redação atual, torna público o Projeto de Alteração ao Regulamento e Tabela de Taxas e Licenças, aprovado pela Junta de Freguesia em reunião de 18/10/2023, ao abrigo do disposto na alínea h) do n.º 1 do artigo 16.º do RJAL, o qual é submetido a consulta pública para recolha de sugestões, durante o prazo de 30 (trinta) dias a contar da data da publicação do presente Edital.
+Durante este período poderão os/as interessados/as consultar o mencionado projeto de Regulamento, através da página eletrónica da Junta de Freguesia (http://jf-espiritosanto.pt) onde estará disponível.
+Durante o período de consulta pública, os interessados deverão apresentar as suas sugestões, ou questões que possam ser consideradas relevantes no âmbito do presente procedimento, por escrito, de forma fundamentada e dirigidas ao Senhor Presidente da Junta de Freguesia, através de correio postal para o endereço Rua da Junta de Freguesia, 7750-213 Espírito Santo, ou através de correio eletrónico para o endereço freguesia.espiritosanto@hotmail.com, no prazo acima indicado.
+20 de outubro de 2023. - O Presidente da Junta de Freguesia, Luís Miguel Deodato Caetano.
+316977118
