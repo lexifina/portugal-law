@@ -2,4 +2,4 @@
 
 ### Publicidade
 
-O ACIME promove, no prazo de 10 dias, a publicação no Diário da República do extracto da decisão proferida.
+A AIMA, I. P., promove, no prazo de 10 dias, a publicação no Diário da República do extrato da decisão proferida.
