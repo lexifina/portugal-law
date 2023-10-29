@@ -8,4 +8,4 @@
 
 3 - Nos casos referidos no número anterior, deverá, sempre que possível, ser recolhida a assinatura do titular do passaporte comum.
 
-4 - O requerimento referido no n.º 1 do presente artigo pode ser apresentado junto do SEF ou do Instituto dos Registos e do Notariado, I. P.
+4 - (Revogado.)

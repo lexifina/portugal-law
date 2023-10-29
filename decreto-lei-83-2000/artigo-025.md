@@ -22,4 +22,4 @@ d) Nos casos de alteração dos elementos constantes do passaporte referentes à
 
 6 - O passaporte pedido online tem a validade do passaporte substituído e só pode ser levantado pelo titular no posto consular indicado no pedido.
 
-7 - O procedimento aplicável aos pedidos previstos no n.º 5 é regulamentado por portaria, a aprovar pelos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da presidência e da modernização administrativa e da administração interna.
+7 - O procedimento aplicável aos pedidos previstos no n.º 5 é regulamentado por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da justiça e da modernização administrativa.

@@ -4,6 +4,6 @@
 
 A concessão e emissão de passaporte para estrangeiros incumbe:
 
-a) Em território nacional, ao SEF/MAI;
+a) Em território nacional, ao IRN, I. P.;
 
 b) No estrangeiro, às autoridades consulares.

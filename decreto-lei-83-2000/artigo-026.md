@@ -6,7 +6,7 @@
 
 2 - O representante legal de menor e o acompanhante de maior com poderes bastantes podem requerer à entidade concedente o cancelamento e a apreensão de passaporte emitido a favor daqueles.
 
-3 - A entidade competente para a concessão comunica às autoridades de fronteira o pedido de apreensão do passaporte a que se referem os números anteriores.
+3 - A entidade competente para a concessão comunica à Unidade de Coordenação de Fronteiras e Estrangeiros o pedido de apreensão do passaporte a que se referem os números anteriores.
 
 4 - As autoridades consulares, quando solicitadas a custear a repatriação de nacionais portadores de passaporte, procedem à retenção deste, que apenas é restituído no destino após o pagamento dos encargos suportados pelo Estado.
 

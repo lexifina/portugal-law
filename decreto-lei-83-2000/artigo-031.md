@@ -4,9 +4,9 @@
 
 1 - São competentes para a concessão do passaporte especial, com possibilidade de delegação e de subdelegação:
 
-a) O Ministro dos Negócios Estrangeiros sempre que as situações ocorram fora do território nacional ou nos casos a que se referem as alíneas c) a f) do n.º 2 e o n.º 3 do artigo anterior;
+a) O membro do Governo responsável pela área dos negócios estrangeiros sempre que as situações ocorram fora do território nacional ou nos casos a que se referem as alíneas c) a f) do n.º 2 e o n.º 3 do artigo anterior;
 
-b) O Ministro da Administração Interna;
+b) O membro do Governo responsável pela área da justiça;
 
 c) Os Presidentes dos Governos Regionais, quando destinado a personalidades das respectivas Regiões Autónomas.
 
@@ -18,7 +18,7 @@ c) Os Presidentes dos Governos Regionais, quando destinado a personalidades das 
 
 a) Os serviços e embaixadas de Portugal designados por despacho do Ministro dos Negócios Estrangeiros;
 
-b) O Serviço de Estrangeiros e Fronteiras (SEF);
+b) O IRN, I. P.;
 
 c) Os serviços designados pelos governos regionais.
 

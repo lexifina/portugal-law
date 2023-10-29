@@ -4,7 +4,7 @@
 
 1 - São competentes para a concessão e emissão do passaporte temporário, com a possibilidade de delegação e subdelegação:
 
-a) O director nacional do SEF;
+a) O presidente do conselho diretivo do IRN, I. P.;
 
 b) Os governos regionais, através do secretário regional competente, nos termos das respectivas leis orgânicas;
 

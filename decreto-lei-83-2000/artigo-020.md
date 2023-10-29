@@ -2,7 +2,7 @@
 
 ### Controlo da concessão e da emissão
 
-1 - Os membros do Governo responsáveis pelas áreas da administração interna, dos negócios estrangeiros, da justiça e da ciência, tecnologia e ensino superior estabelecem, por portaria conjunta, modalidades de coordenação e de avaliação regular conjunta da aplicação do regime legal da concessão e emissão do PEP, tornando públicos os respectivos resultados.
+1 - Os membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da justiça estabelecem, por portaria, modalidades de coordenação e de avaliação regular conjunta da aplicação do regime legal da concessão e emissão do PEP, tornando públicos os respetivos resultados.
 
 2 - Os serviços intervenientes nas operações de recolha e de concessão previstas no presente decreto-lei asseguram que as mesmas decorram em condições técnicas e de segurança que dêem pleno cumprimento às especificações aplicáveis, designadamente as que constituam orientações comuns resultantes dos trabalhos do comité criado pelo artigo 6.º do Regulamento (CE) n.º 1683/95.
 
