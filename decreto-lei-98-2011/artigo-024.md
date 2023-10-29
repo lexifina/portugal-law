@@ -1,0 +1,5 @@
+# Artigo 24.º
+
+### Critérios de selecção
+
+São fixados, nos termos do artigo 13.º da Lei n.º 53/2006, de 7 de Dezembro, os critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições previstas no artigo 4.º, que se caracterizam no exercício efectivo de funções nos organismos extintos, o IDP, I. P., e o IPJ, I. P., bem como nas necessidades reais e nos perfis definidos para os postos de trabalho, entretanto fixados no mapa de pessoal do serviço integrador.
