@@ -15,3 +15,5 @@ c) Coordenar a introdução de sistemas de informação georreferenciada sobre o
 d) Proceder ao tratamento, consolidação, análise e divulgação integrada das estatísticas da criminalidade, participar na realização de inquéritos de vitimação e insegurança e elaborar o relatório anual de segurança interna;
 
 e) Ser o ponto nacional de contacto permanente para situações de alerta e resposta rápidas às ameaças à segurança interna, no âmbito dos mecanismos da União Europeia.
+
+f) Assegurar a representação do Estado português no conselho de administração da Agência Europeia para a Gestão Operacional de Sistemas Informáticos de Grande Escala no Espaço de Liberdade e Justiça (eu-LISA) e no conselho de administração da Agência Europeia da Guarda de Fronteiras e Costeira (FRONTEX).
