@@ -6,7 +6,7 @@
 
 a) As forças de segurança;
 
-b) O Serviço de Estrangeiros e Fronteiras;
+b) Revogada;
 
 c) A Autoridade Nacional de Protecção Civil;
 

@@ -10,7 +10,7 @@ b) Assegurar a protecção da liberdade e da segurança das pessoas e seus bens,
 
 c) Prevenir e reprimir a criminalidade;
 
-d) Controlar a circulação de pessoas nas fronteiras, a entrada, permanência e residência, saída e afastamento de estrangeiros no território nacional, no quadro da política de gestão da imigração e apreciar e decidir a concessão do estatuto de igualdade e de refugiado;
+d) Controlar a circulação de pessoas nas fronteiras, a entrada, permanência, saída e afastamento de estrangeiros no território nacional, no quadro da política de gestão da imigração;
 
 e) Controlar as actividades de importação, fabrico, armazenamento, comercialização, licenciamento, detenção, uso e transporte de armas, munições e substâncias explosivas e equiparadas, sem prejuízo das atribuições próprias do Ministério da Defesa Nacional;
 
