@@ -10,7 +10,7 @@
 
 a) Título ou autorização de residência previstos no regime de entrada, permanência, saída e afastamento de estrangeiros e no regime do direito de asilo ou ao abrigo de regimes especiais resultantes de tratados ou convenções de que Portugal seja Parte, designadamente no âmbito da União Europeia e da Comunidade dos Países de Língua Portuguesa;
 
-b) Certidão comprovativa do tempo de residência legal, emitida pelo Serviço de Estrangeiros e Fronteiras; ou
+b) Certidão comprovativa do tempo de residência legal, emitida pela Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.); ou
 
 c) Documentos que comprovem o preenchimento das condições do direito de residência estabelecidas nos artigos 7.º e 9.º da Lei n.º 37/2006, de 9 de agosto, ou do direito de residência permanente estabelecidas nos artigos 10.º e 11.º da mesma lei, no caso de progenitores nacionais de Estados-Membros da União Europeia.
 

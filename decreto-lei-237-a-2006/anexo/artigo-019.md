@@ -18,7 +18,7 @@ e) Não constituam perigo ou ameaça para a segurança ou a defesa nacional, pel
 
 a) Certidão do registo de nascimento;
 
-b) Documento emitido pelo Serviço de Estrangeiros e Fronteiras, comprovativo de que reside legalmente em território português há pelo menos cinco anos, ao abrigo de qualquer dos títulos, vistos ou autorizações previstos no regime de entrada, permanência, saída e afastamento de estrangeiros e no regime do direito de asilo ou ao abrigo de regimes especiais resultantes de tratados ou convenções de que Portugal seja Parte, designadamente no âmbito da União Europeia e da Comunidade dos Países de Língua Portuguesa;
+b) Documento emitido pela AIMA, I. P., comprovativo de que reside legalmente em território português há pelo menos cinco anos, ao abrigo de qualquer dos títulos, vistos ou autorizações previstos no regime de entrada, permanência, saída e afastamento de estrangeiros e no regime do direito de asilo ou ao abrigo de regimes especiais resultantes de tratados ou convenções de que Portugal seja Parte, designadamente no âmbito da União Europeia e da Comunidade dos Países de Língua Portuguesa;
 
 c) Documento comprovativo de que conhece suficientemente a língua portuguesa, nos termos do disposto no artigo 25.º;
 

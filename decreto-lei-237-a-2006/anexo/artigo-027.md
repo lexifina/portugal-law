@@ -16,11 +16,11 @@ c) Quando a apresentação por via eletrónica ao abrigo do n.º 2 do artigo 18.
 
 4 - Após a receção da pronúncia do interessado ou o decurso do prazo previsto no número anterior é proferida decisão fundamentada pelo conservador de registos ou pelo oficial de registos.
 
-5 - Não ocorrendo indeferimento liminar, a Conservatória dos Registos Centrais solicita as informações necessárias à Polícia Judiciária, bem como ao Serviço de Estrangeiros e Fronteiras, que, para o efeito, pode consultar outras entidades, serviços e forças de segurança.
+5 - Não ocorrendo indeferimento liminar, a Conservatória dos Registos Centrais solicita as informações necessárias à Polícia Judiciária, à Unidade de Coordenação de Fronteiras e Estrangeiros, que se articula com as demais entidades, serviços e forças de segurança para verificação da inexistência de razões de segurança nacional, de segurança interna ou de ordem pública que obstem à naturalização e à AIMA, I. P.
 
-6 - As informações referidas no número anterior devem ser prestadas pela Polícia Judiciária e pelo Serviço de Estrangeiros e Fronteiras no prazo de 30 dias, exceto se existirem razões que justifiquem a sua prorrogação, por prazo não superior a 60 dias, facto que deve ser comunicado à Conservatória dos Registos Centrais.
+6 - As informações referidas no número anterior devem ser prestadas pelas entidades a que se refere o número anterior, no prazo de 30 dias, exceto se existirem razões que justifiquem a sua prorrogação, por prazo não superior a 60 dias, facto que deve ser comunicado à Conservatória dos Registos Centrais.
 
-7 - A informação sobre a existência de perigo ou ameaça para a segurança ou a defesa nacional, pelo envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei, é prestada pelas entidades referidas no n.º 5.
+7 - A informação sobre a existência de perigo ou ameaça para a segurança ou a defesa nacional, pelo envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei, é prestada pela Polícia Judiciária e pela Unidade de Coordenação de Fronteiras e Estrangeiros.
 
 8 - As entidades referidas no n.º 5 actualizam a informação prestada, sempre que se verifiquem alterações que devam ser comunicadas à Conservatória dos Registos Centrais.
 

@@ -18,7 +18,7 @@
 
 a) Certificado do registo criminal português;
 
-b) Documentos emitidos pelo Serviço de Estrangeiros e Fronteiras, destinados a comprovar a residência legal em território português.
+b) Documentos emitidos pela AIMA, I. P., destinados a comprovar a residência legal em território português.
 
 8 - É dispensada a apresentação do certificado do registo criminal do país da naturalidade e ou do país da nacionalidade sempre que o interessado comprove que, após ter completado a idade de imputabilidade penal, residiu noutro país.
 

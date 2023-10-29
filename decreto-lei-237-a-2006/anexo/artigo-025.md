@@ -2,13 +2,13 @@
 
 ### Prova da residência e do conhecimento da língua portuguesa
 
-1 - O Serviço de Estrangeiros e Fronteiras pode emitir o documento comprovativo da residência legal no território português com base nos elementos nele arquivados ou em averiguações realizadas para o efeito.
+1 - A AIMA, I. P., pode emitir o documento comprovativo da residência legal em território português com base nos elementos nele arquivados ou em averiguações realizadas para o efeito.
 
 2 - O conhecimento da língua portuguesa pode ser comprovado por uma das seguintes formas:
 
 a) Certificado de habilitação ou certidão emitidos por estabelecimento de ensino público, particular ou cooperativo reconhecido nos termos legais, desde que o seu detentor tenha frequentado com aproveitamento a unidade curricular/disciplina de Português ou de Português Língua Não Materna, pelo menos em dois anos letivos;
 
-b) Certificado de aprovação em prova de língua portuguesa realizada em estabelecimentos de ensino da rede pública, quando efetuada em território nacional, ou em locais acreditados pelo Camões - Instituto da Cooperação e da Língua, I.P., quando realizada no estrangeiro, devendo a regulamentação desta prova, bem como o respetivo controlo, constar de portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da administração interna, da justiça e da educação;
+b) Certificado de aprovação em prova de língua portuguesa realizada em estabelecimentos de ensino da rede pública, quando efetuada em território português, ou em locais acreditados pelo Camões - Instituto da Cooperação e da Língua, I. P., quando realizada no estrangeiro, devendo a regulamentação desta prova, bem como o respetivo controlo, constar de portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da justiça, das migrações e da educação;
 
 c) Certificado em língua portuguesa como língua estrangeira, emitido mediante a realização de teste em centro de avaliação de português, como língua estrangeira, reconhecido pelo Ministério da Ciência, Tecnologia e Ensino Superior, mediante protocolo;
 
