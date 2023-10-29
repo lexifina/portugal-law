@@ -17,3 +17,5 @@ e) Foi apresentado um pedido subsequente em que não surgiram nem foram apresent
 f) Foi apresentado um pedido por uma pessoa a cargo do requerente, depois de ter consentido que um anterior pedido fosse apresentado em seu nome e não existam elementos que justifiquem um pedido separado.
 
 2 - Nos casos previstos no número anterior, prescinde-se da análise das condições a preencher para beneficiar do estatuto de proteção internacional.
+
+3 - A decisão, tomada exclusivamente com base na alínea d) do n.º 1, determina a entrega ao requerente de um documento que informe as autoridades do país terceiro, na língua desse país, que o pedido não foi apreciado quanto à análise das condições a preencher para beneficiar do estatuto de proteção internacional.

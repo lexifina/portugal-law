@@ -2,7 +2,7 @@
 
 ### Efeitos do pedido e da decisão
 
-1 - O requerente permanece na zona internacional do porto ou aeroporto, enquanto aguarda a notificação da decisão do diretor nacional do SEF, aplicando-se os procedimentos e demais garantias previstos na lei.
+1 - O requerente permanece na zona internacional do porto ou aeroporto, enquanto aguarda a notificação da decisão do conselho diretivo da AIMA, I. P., aplicando-se os procedimentos e demais garantias previstos na lei.
 
 2 - A instalação temporária de menores não acompanhados ou separados obedece a condições especiais, nos termos internacionalmente recomendados, designadamente pelo ACNUR, UNICEF e Comité Internacional da Cruz Vermelha.
 

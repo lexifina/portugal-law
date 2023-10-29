@@ -4,15 +4,15 @@
 
 1 - Os menores que sejam requerentes ou beneficiários de proteção internacional devem ser representados por entidade ou organização não governamental, ou por qualquer outra forma de representação legalmente admitida, sem prejuízo das medidas tutelares aplicáveis ao abrigo da legislação tutelar de menores, sendo disso informado o menor.
 
-2 - Incumbe ao SEF comunicar o pedido apresentado por menor ou incapaz ao tribunal competente, para efeito de representação, para que o requerente menor ou incapaz possa exercer os direitos e cumprir os deveres previstos na lei.
+2 - Incumbe à AIMA, I. P., comunicar o pedido apresentado por menor ou incapaz ao tribunal competente, para efeito de representação, para que o requerente menor ou incapaz possa exercer os direitos e cumprir os deveres previstos na lei.
 
-3 - O representante deve ser informado pelo SEF, atempadamente, do momento e da prestação de declarações a que se refere o artigo 16.º, para estar presente, podendo intervir na mesma.
+3 - O representante deve ser informado pela AIMA, I. P., atempadamente, do momento e da prestação de declarações a que se refere o artigo 16.º, para estar presente, podendo intervir na mesma.
 
-4 - O SEF deve providenciar que o representante tenha a oportunidade de informar o menor não acompanhado do significado e das eventuais consequências da entrevista pessoal e, se adequado, da forma de se preparar para a mesma.
+4 - A AIMA, I. P., deve providenciar que o representante tenha a oportunidade de informar o menor não acompanhado do significado e das eventuais consequências da entrevista pessoal e, se adequado, da forma de se preparar para a mesma.
 
-5 - O SEF pode exigir a presença do menor não acompanhado na entrevista pessoal mesmo que o representante esteja presente.
+5 - A AIMA, I. P., pode exigir a presença do menor não acompanhado na entrevista pessoal mesmo que o representante esteja presente.
 
-6 - Para determinar a idade do menor não acompanhado, o SEF pode recorrer a perícia médica, através de exame pericial não invasivo, presumindo-se que o requerente é menor se subsistirem fundadas dúvidas.
+6 - Para determinar a idade do menor não acompanhado, a AIMA, I. P., pode recorrer a perícia médica, através de exame pericial não invasivo, presumindo-se que o requerente é menor se subsistirem fundadas dúvidas.
 
 7 - Os menores não acompanhados devem ser informados de que a sua idade vai ser determinada através de um exame pericial, devendo o respetivo representante dar consentimento para esse efeito.
 
@@ -28,6 +28,6 @@
 
 13 - As comissões de proteção de crianças e jovens em perigo com responsabilidades na proteção e salvaguarda dos menores não acompanhados que aguardam uma decisão sobre o repatriamento podem apresentar um pedido de proteção internacional em nome do menor não acompanhado, se em resultado da avaliação da respetiva situação pessoal considerarem que o menor pode necessitar dessa proteção.
 
-14 - Com o objetivo de proteger os interesses superiores do menor não acompanhado, o SEF, em articulação com as outras entidades envolvidas no procedimento e com o ministério responsável pela área dos negócios estrangeiros, deve iniciar o processo para encontrar os membros da família.
+14 - Com o objetivo de proteger os interesses superiores do menor não acompanhado, a AIMA, I. P., em articulação com as outras entidades envolvidas no procedimento e com o ministério responsável pela área dos negócios estrangeiros, deve iniciar o processo para encontrar os membros da família.
 
 15 - Caso já tenha sido concedida proteção internacional e a procura referida no número anterior ainda não tenha sido iniciada, deve dar-se início àquele processo o mais rapidamente possível.

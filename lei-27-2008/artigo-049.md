@@ -26,7 +26,7 @@ e) Beneficiar de aconselhamento jurídico gratuito em todas as fases do procedim
 
 f) Beneficiar de apoio judiciário nos termos da lei.
 
-2 - Sem prejuízo do disposto na alínea a) do número anterior, o SEF fornece ao requerente de asilo ou de proteção subsidiária um folheto informativo numa língua que este possa entender, sem prejuízo de a mesma informação poder ser também prestada oralmente.
+2 - Sem prejuízo do disposto na alínea a) do número anterior, a AIMA, I. P., fornece ao requerente de asilo ou de proteção subsidiária um folheto informativo numa língua que este possa entender, sem prejuízo de a mesma informação poder ser também prestada oralmente.
 
 3 - (Revogado.)
 

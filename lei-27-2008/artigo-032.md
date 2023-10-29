@@ -8,10 +8,10 @@ a) Notificado para o efeito, não fornecer informação essencial para o seu ped
 
 b) Não comparecer na entrevista pessoal;
 
-c) Desaparecer ou se ausentar sem ter contactado o SEF;
+c) Desaparecer ou se ausentar sem ter contactado a AIMA, I. P.;
 
 d) Não cumprir a obrigação de se apresentar ou outra obrigação de comunicar.
 
-2 - A declaração de extinção do procedimento compete ao diretor nacional do SEF, com faculdade de subdelegar.
+2 - A declaração de extinção do procedimento compete ao conselho diretivo da AIMA, I. P., com faculdade de subdelegar.
 
 3 - Sem prejuízo de declaração de extinção proferida nos termos do número anterior, o requerente de proteção internacional que se apresente novamente às autoridades tem o direito de requerer a reabertura do procedimento, o qual, neste caso, é retomado na fase em que foi interrompido.

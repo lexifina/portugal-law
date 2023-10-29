@@ -6,7 +6,7 @@
 
 ### Competências
 
-1 - Compete ao ministério responsável pela área da administração interna garantir aos requerentes de asilo ou de proteção subsidiária que se encontrem retidos nos postos de fronteira as condições de alojamento e acesso a cuidados de saúde, assim como a satisfação dos encargos inerentes à concessão das condições materiais de acolhimento, até decisão quanto à admissibilidade do pedido, podendo aquelas ser asseguradas por outras entidades públicas ou particulares sem fins lucrativos, nos termos definidos em protocolo.
+1 - Compete ao membro do Governo responsável pela área das migrações garantir aos requerentes de asilo ou de proteção subsidiária que se encontrem retidos nos postos de fronteira as condições de alojamento e acesso a cuidados de saúde, assim como a satisfação dos encargos inerentes à concessão das condições materiais de acolhimento, até decisão quanto à admissibilidade do pedido, podendo aquelas ser asseguradas por outras entidades públicas ou particulares sem fins lucrativos, nos termos definidos em protocolo.
 
 2 - Compete ao ministério responsável pela área da solidariedade, emprego e segurança social suportar os encargos resultantes da atribuição das condições materiais de acolhimento aos requerentes de asilo ou de proteção subsidiária que entrem ou se encontrem em território nacional, desde a admissão do pedido até decisão final sobre o mesmo, as quais podem ser prestadas diretamente ou através de outras entidades públicas ou particulares sem fins lucrativos, com as quais seja celebrado protocolo.
 

@@ -32,7 +32,7 @@ ii) Filhos menores ou incapazes a cargo do casal ou de um dos cônjuges ou de um
 
 iii) Filhos menores adotados, por decisão da autoridade competente do país de origem, pelo requerente ou pelo seu cônjuge ou membro da união de facto;
 
-iv) Ascendentes na linha reta e em primeiro grau do beneficiário de proteção internacional se este for menor;
+iv) Caso o país terceiro não autorize o requerente a entrar no seu território, é assegurado ao requerente o acesso a um procedimento de acordo com o estabelecido no capítulo III;
 
 v) Adulto responsável por menor não acompanhado;
 

@@ -20,7 +20,7 @@ c) No decurso do procedimento especial de determinação do Estado responsável 
 
 4 - Para efeitos da aplicação do número anterior, consideram-se medidas alternativas menos gravosas as seguintes:
 
-a) Apresentação periódica no SEF;
+a) Apresentação periódica na AIMA, I. P.;
 
 b) Obrigação de permanência na habitação com utilização de meios de vigilância eletrónica, nos termos da lei.
 

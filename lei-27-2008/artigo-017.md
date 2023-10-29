@@ -1,11 +1,11 @@
 # Artigo 17.º
 
-### Relatório
+### Transcrição ou relatório de declarações
 
-1 - Após a realização das diligências referidas nos artigos anteriores, o Serviço de Estrangeiros e Fronteiras elabora um relatório escrito do qual constam as informações essenciais relativas ao pedido.
+1 - Após a prestação de declarações referida no artigo anterior, a AIMA, I. P., elabora a transcrição das declarações prestadas pelo requerente ou um relatório exaustivo e factual, do qual constem todos os elementos essenciais das declarações prestadas.
 
-2 - O relatório referido no número anterior é notificado ao requerente para que o mesmo se possa pronunciar sobre ele no prazo de cinco dias.
+2 - A transcrição ou relatório de declarações, referidos no número anterior, são notificados ao requerente para que o mesmo se possa pronunciar sobre ele no prazo de três dias, que equivale, para todos os efeitos, a audiência prévia do interessado.
 
-3 - O relatório referido no n.º 1 é comunicado ao representante do ACNUR e ao CPR enquanto organização não governamental que atue em seu nome, desde que o requerente tenha dado o seu consentimento, para que aquela organização, querendo, se pronuncie no mesmo prazo concedido ao requerente.
+3 - A transcrição ou relatório de declarações referidos no n.º 1 são comunicados ao representante do ACNUR e ao CPR enquanto organização não governamental que atue em seu nome, desde que o requerente tenha dado o seu consentimento, para que aquela organização, querendo, se pronuncie no mesmo prazo concedido ao requerente.
 
-4 - Os motivos da recusa de confirmação do relatório por parte do requerente são averbados no seu processo, não obstando à decisão sobre o pedido.
+4 - Os motivos da recusa de confirmação do relatório ou da transcrição por parte do requerente são averbados no seu processo, não obstando à decisão sobre o pedido.

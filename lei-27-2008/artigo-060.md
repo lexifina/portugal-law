@@ -12,7 +12,7 @@
 
 3 - As condições de acolhimento podem ser total ou parcialmente retiradas se o requerente de asilo ou de proteção subsidiária, injustificadamente:
 
-a) Abandonar o local de residência estabelecido pela autoridade competente sem informar o SEF ou sem a autorização exigível;
+a) Abandonar o local de residência estabelecido pela autoridade competente sem informar a AIMA, I. P., ou sem a autorização exigível;
 
 b) Abandonar o seu local de residência sem informar a entidade competente pelo alojamento;
 

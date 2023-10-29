@@ -24,7 +24,7 @@ g) Renuncie expressamente ao direito de asilo.
 
 2 - A proteção subsidiária cessa quando as circunstâncias que levaram à sua concessão já não se verifiquem ou se tiverem alterado a tal ponto que a proteção já não seja necessária.
 
-3 - Para efeitos do disposto nas alíneas e) e f) do n.º 1 e no n.º 2, e sem prejuízo do disposto no artigo 47.º, a cessação só pode ser declarada caso o SEF conclua que a alteração das circunstâncias no Estado da nacionalidade ou residência habitual do beneficiário do direito de asilo ou de proteção subsidiária é suficientemente significativa e duradoura para afastar o receio fundado de perseguição ou o risco de sofrer ofensa grave.
+3 - Para efeitos do disposto nas alíneas e) e f) do n.º 1 e no n.º 2, e sem prejuízo do disposto no artigo 47.º, a cessação só pode ser declarada caso a AIMA, I. P., conclua que a alteração das circunstâncias no Estado da nacionalidade ou residência habitual do beneficiário do direito de asilo ou de proteção subsidiária é suficientemente significativa e duradoura para afastar o receio fundado de perseguição ou o risco de sofrer ofensa grave.
 
 4 - As alíneas e) e f) do n.º 1 não se aplicam ao refugiado que possa invocar razões imperiosas relacionadas com perseguições anteriores para recusar valer-se da proteção do país da sua nacionalidade ou, na eventualidade de ser apátrida, do seu antigo país de residência habitual.
 
@@ -34,8 +34,8 @@ a) Deveria ter sido ou possa ser excluído do direito de beneficiar do direito d
 
 b) Tenha deturpado ou omitido factos, incluindo a utilização de documentos falsos, decisivos para beneficiar do direito de asilo ou de proteção subsidiária;
 
-c) Representa um perigo para a segurança interna;
+c) Representa um perigo para a segurança do Estado-Membro em que se encontra;
 
 d) Tendo sido condenado por sentença transitada em julgado por crime doloso de direito comum punível com pena de prisão superior a três anos, represente um perigo para a segurança interna ou para a ordem pública.
 
-6 - Para efeitos de audiência prévia, o SEF notifica o beneficiário do projeto de decisão, o qual se pode pronunciar no prazo de oito dias.
+6 - Para efeitos de audiência prévia, a AIMA, I. P., notifica o beneficiário do projeto de decisão, o qual se pode pronunciar no prazo de oito dias.

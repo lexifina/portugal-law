@@ -2,7 +2,7 @@
 
 ### Assistência médica e medicamentosa
 
-1 - É reconhecido aos requerentes de asilo ou de protecção subsidiária e respectivos membros da família o acesso ao Serviço Nacional de Saúde, nos termos a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e da saúde.
+1 - É reconhecido aos requerentes de asilo ou de proteção subsidiária e respetivos membros da família o acesso ao Serviço Nacional de Saúde, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas das migrações e da saúde.
 
 2 - O documento comprovativo da apresentação do pedido de asilo ou de protecção subsidiária, emitido nos termos do artigo 14.º, considera-se bastante para comprovar a qualidade de requerente, para efeitos do disposto no número anterior.
 

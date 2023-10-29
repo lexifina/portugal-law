@@ -14,4 +14,4 @@
 
 2 - A decisão final sobre qualquer processo de extradição do requerente que esteja pendente fica suspensa enquanto o pedido de protecção internacional se encontre em apreciação, quer na fase administrativa, quer na fase jurisdicional.
 
-3 - Para efeito do cumprimento do disposto no número anterior, a apresentação do pedido de protecção internacional é comunicado pelo Serviço de Estrangeiros e Fronteiras à entidade onde corre o respectivo processo no prazo de dois dias úteis.
+3 - Para efeitos do cumprimento do disposto no número anterior, a apresentação do pedido de proteção internacional é comunicado pela AIMA, I. P., à entidade onde corre o respetivo processo no prazo de dois dias úteis.

@@ -16,7 +16,7 @@ ii) Praticou crime doloso de direito comum punível com pena de prisão superior
 
 iii) Praticou atos contrários aos objetivos e princípios das Nações Unidas enunciados no preâmbulo e nos artigos 1.º e 2.º da Carta das Nações Unidas.
 
-d) Represente perigo ou fundada ameaça para a segurança interna ou externa ou para a ordem pública.
+d) Represente um perigo para a segurança do Estado-Membro em que se encontra.
 
 2 - Não pode beneficiar do estatuto de proteção subsidiária o estrangeiro ou apátrida quando:
 

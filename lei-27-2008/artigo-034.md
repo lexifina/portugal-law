@@ -1,7 +1,3 @@
-## Secção V
-
-## Reinstalação de refugiados
-
 # Artigo 34.º
 
 ### Aplicação extensiva
