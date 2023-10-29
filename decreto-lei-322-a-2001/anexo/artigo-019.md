@@ -4,4 +4,4 @@
 
 1 - [Revogado].
 
-2 - Em cada procedimento de aquisição da nacionalidade em que o Serviço de Estrangeiros e Fronteiras (SEF) preste informações, dos emolumentos cobrados pertencem ao SEF (euro) 20.
+2 - Em cada procedimento de aquisição da nacionalidade em que a Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), preste informações, dos emolumentos cobrados pertencem à AIMA, I. P., (euro) 20.
