@@ -14,4 +14,4 @@ c) Por quem, na falta dos progenitores, exerça, nos termos da lei, o poder pate
 
 3 - Tratando-se de indivíduos declarados interditos ou inabilitados, o pedido é formulado por quem exercer a tutela ou a curatela sobre os mesmos.
 
-4 - O director-geral do SEF pode, em casos justificados, suprir, por despacho, as intervenções previstas nos n.os 2 e 3.
+4 - O conselho diretivo da AIMA, I. P., pode, em casos justificados, suprir, por despacho, as intervenções previstas nos n.os 2 e 3.

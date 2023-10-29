@@ -18,6 +18,6 @@
 
 6 - Salvo em casos devidamente fundamentados, a prorrogação de permanência dos titulares de visto de residência para exercício de actividade profissional subordinada, de actividade independente e para actividade de investigação ou altamente qualificada depende da manutenção das condições que permitiram a admissão do cidadão estrangeiro.
 
-7 - A prorrogação de permanência pode ser indeferida quando o requerente seja objeto de uma indicação para efeitos de regresso ou para efeitos de recusa de entrada e de permanência no Sistema Integrado de Informação do SEF ou no SIS.
+7 - A prorrogação de permanência pode ser indeferida quando o requerente seja objeto de uma indicação para efeitos de regresso ou para efeitos de recusa de entrada e de permanência no SII UCFE ou no SIS.
 
 8 - No âmbito do disposto no número anterior, sempre que o requerente seja objeto de indicação de regresso ou de recusa de entrada e de permanência emitida por um Estado membro da União Europeia ou por Estado onde vigore a Convenção de Aplicação, este deve ser previamente consultado devendo os seus interesses ser tidos em consideração, em conformidade com o artigo 27.º do Regulamento (UE) 2018/1861 ou com o artigo 9.º do Regulamento (UE) 2018/1860, ambos do Parlamento Europeu e do Conselho, de 28 de novembro de 2018.

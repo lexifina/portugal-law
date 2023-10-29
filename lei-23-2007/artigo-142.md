@@ -4,7 +4,7 @@
 
 1 - No âmbito de processos de expulsão, para além das medidas de coacção enumeradas no Código de Processo Penal, com excepção da prisão preventiva, o juiz pode, havendo perigo de fuga, ainda determinar as seguintes:
 
-a) Apresentação periódica no SEF;
+a) Apresentação periódica às autoridades policiais;
 
 b) Obrigação de permanência na habitação com utilização de meios de vigilância electrónica, nos termos da lei;
 

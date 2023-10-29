@@ -8,9 +8,9 @@ a) Não tenha sido sujeito a medida de afastamento e se encontre no período sub
 
 b) Não esteja indicado, para efeitos de regresso, acompanhado de uma proibição de entrada e de permanência no SIS por qualquer Estado membro da União Europeia ou onde vigore a Convenção de Aplicação;
 
-c) Não esteja indicado, para efeitos de recusa de entrada e de permanência, nos termos do artigo 33.º no Sistema Integrado de Informação do SEF, ou para efeitos de regresso;
+c) Não esteja indicado, para efeitos de recusa de entrada e de permanência, nos termos do artigo 33.º no SII UCFE, ou para efeitos de regresso;
 
-d) Disponha de meios de subsistência, definidos por portaria dos membros do Governo responsáveis pela área da administração interna e da solidariedade e segurança social;
+d) Disponha de meios de subsistência, definidos por portaria dos membros do Governo responsáveis pelas áreas das migrações e da solidariedade e segurança social;
 
 e) Disponha de documento de viagem válido;
 

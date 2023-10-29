@@ -10,7 +10,7 @@
 
 2 - Enquanto não se efectuar o reembarque, o passageiro fica a cargo da transportadora, sendo da sua responsabilidade o pagamento da taxa correspondente à estada do passageiro no centro de instalação temporária ou espaço equiparado.
 
-3 - Sempre que tal se justifique, o cidadão estrangeiro que não reúna as condições de entrada é afastado do território português sob escolta, a qual é assegurada pelo SEF.
+3 - Sempre que tal se justifique, o cidadão estrangeiro que não reúna as condições de entrada é afastado do território português sob escolta, a qual é assegurada pela força de segurança competente, no âmbito das respetivas atribuições.
 
 4 - São da responsabilidade da transportadora as despesas a que a utilização da escolta der lugar, incluindo o pagamento da respectiva taxa.
 

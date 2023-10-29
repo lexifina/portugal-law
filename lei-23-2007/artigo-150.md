@@ -2,7 +2,7 @@
 
 ### Impugnação judicial
 
-1 - A decisão de afastamento coercivo, proferida pelo diretor nacional do SEF, é suscetível de impugnação judicial com efeito devolutivo perante os tribunais administrativos.
+1 - A decisão de afastamento coercivo, proferida pelo conselho diretivo da AIMA, I. P., é suscetível de impugnação judicial com efeito devolutivo perante os tribunais administrativos.
 
 2 - O disposto no número anterior não prejudica o direito do cidadão estrangeiro de recorrer aos processos urgentes ou com efeito suspensivo, previstos na lei processual administrativa.
 

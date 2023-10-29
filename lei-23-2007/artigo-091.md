@@ -22,10 +22,10 @@ d) Em como está abrangido pelo Serviço Nacional de Saúde ou dispõe de seguro
 
 4 - Pode ser concedida autorização de residência ao estudante de ensino superior que não seja titular de visto de residência emitido nos termos do artigo 62.º, desde que tenha entrado legalmente em território nacional e preencha as demais condições estabelecidas no presente artigo.
 
-5 - O estudante do ensino superior admitido em instituição do ensino superior aprovada para efeitos de aplicação da presente lei nos termos de portaria dos membros do Governo responsáveis pelas áreas da administração interna e do ensino superior está dispensado da apresentação de documentos comprovativos do pagamento de propinas e de meios de subsistência.
+5 - O estudante do ensino superior admitido em instituição do ensino superior aprovada para efeitos de aplicação da presente lei nos termos de portaria dos membros do Governo responsáveis pelas áreas das migrações, do ensino superior e da modernização administrativa está dispensado da apresentação de documentos comprovativos do pagamento de propinas e de meios de subsistência.
 
-6 - Para efeitos do disposto no número anterior, a aprovação da instituição de ensino superior é decidida mediante apresentação de requerimento e precedida de parecer favorável do SEF, sendo válida por cinco anos.
+6 - Para efeitos do disposto no número anterior, a aprovação da instituição de ensino superior é decidida mediante apresentação de requerimento e precedida de parecer favorável da AIMA, I. P., sendo válida por cinco anos.
 
 7 - A aprovação deve ser cancelada ou não renovada sempre que a instituição de ensino superior deixe de exercer atividade em território nacional, tenha obtido a aprovação de forma fraudulenta ou admita estudantes do ensino superior de forma fraudulenta ou negligente.
 
-8 - O membro do Governo responsável pela área da ciência e ensino superior mantém junto do SEF uma lista atualizada das instituições de ensino superior aprovadas para efeitos do disposto na presente lei.
+8 - O membro do Governo responsável pela área da ciência e ensino superior mantém junto da AIMA, I. P., uma lista atualizada das instituições de ensino superior aprovadas para efeitos do disposto na presente lei.

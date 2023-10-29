@@ -24,7 +24,7 @@ c) A publicidade da decisão condenatória.
 
 4 - A sanção acessória referida na alínea c) do n.º 2 do presente artigo pressupõe:
 
-a) A publicação, a expensas do infrator, de um extrato com a identificação do infrator, da infração, da norma violada e da sanção aplicada, no portal do SEF na Internet, num jornal de âmbito nacional e em publicação periódica regional ou local da área da sede do infrator;
+a) A publicação, a expensas do infrator, de um extrato com a identificação do infrator, da infração, da norma violada e da sanção aplicada, no portal da AIMA, I. P., na Internet, num jornal de âmbito nacional e em publicação periódica regional ou local da área da sede do infrator;
 
 b) O envio do extrato referido na alínea anterior à autoridade administrativa competente, sempre que o exercício ou acesso à atividade de serviço prestada pelo infrator careça de permissões administrativas, designadamente alvarás, licenças, autorizações, validações, autenticações, certificações e atos emitidos na sequência de comunicações prévias e registos.
 

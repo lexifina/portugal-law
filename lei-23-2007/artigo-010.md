@@ -12,8 +12,14 @@ a) Os cidadãos estrangeiros habilitados com título de residência, prorrogaç�
 
 b) Os cidadãos estrangeiros que beneficiem dessa faculdade nos termos dos regimes especiais constantes dos instrumentos previstos no n.º 1 do artigo 5.º
 
-4 - O visto pode ser anulado pela entidade emissora, em território estrangeiro, ou pelo SEF, em território nacional ou nos postos de fronteira, quando o seu titular seja objeto de uma indicação para efeitos de regresso ou indicação para efeitos de recusa de entrada e de permanência no Sistema de Informação Schengen (SIS), no Sistema Integrado de Informação do SEF ou preste declarações falsas no pedido de concessão do visto.
+4 - O visto pode ser anulado quando o seu titular seja objeto de uma indicação para efeitos de regresso ou indicação para efeitos de recusa de entrada e de permanência no Sistema de Informação Schengen (SIS), no SII UCFE ou preste declarações falsas no respetivo pedido de concessão:
 
-5 - A anulação pelo SEF de vistos nos termos do número anterior deve ser comunicada de imediato à entidade emissora.
+a) Pela entidade emissora, em território estrangeiro;
 
-6 - Da decisão de anulação é dado conhecimento por via eletrónica ao Alto Comissariado para as Migrações, I. P. (ACM, I. P.), e ao Conselho para as Migrações, adiante designado por Conselho Consultivo, com indicação dos respetivos fundamentos.
+b) Pela Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), ou pela GNR ou Polícia de Segurança Pública (PSP), em território nacional;
+
+c) Pela GNR ou PSP, nos postos de fronteira.
+
+5 - A anulação de vistos pela GNR, pela PSP ou pela AIMA, I. P., nos termos do número anterior deve ser comunicada de imediato à entidade emissora.
+
+6 - Da decisão de anulação proferida ao abrigo da alínea a), da parte final da alínea b) ou da alínea c) do n.º 4 é dado conhecimento por via eletrónica à AIMA, I. P., e ao Conselho para as Migrações e Asilo, adiante designado por Conselho, com indicação dos respetivos fundamentos.

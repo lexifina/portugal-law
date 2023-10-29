@@ -2,7 +2,7 @@
 
 ### Indicação para efeitos de recusa de entrada e de permanência
 
-1 - São indicados para efeitos de recusa de entrada e de permanência no Sistema Integrado de Informação do SEF os cidadãos estrangeiros:
+1 - Para efeitos de recusa de entrada e de permanência, são indicados no SII UCFE os cidadãos estrangeiros:
 
 a) Que tenham sido objeto de uma decisão de afastamento coercivo ou de expulsão judicial do país;
 
@@ -14,7 +14,7 @@ d) Em relação aos quais existam fortes indícios de que tencionam praticar fac
 
 e) Que tenham sido conduzidos à fronteira, nos termos do artigo 147.º
 
-2 - São ainda indicados no Sistema Integrado de Informação do SEF para efeitos de recusa de entrada e de permanência os beneficiários de apoio ao regresso voluntário nos termos do artigo 139.º, sendo a indicação eliminada no caso previsto no n.º 3 dessa disposição.
+2 - São ainda indicados no SII UCFE para efeitos de recusa de entrada e de permanência os beneficiários de apoio ao regresso voluntário nos termos do artigo 139.º, sendo a indicação eliminada no caso previsto no n.º 3 do mesmo artigo.
 
 3 - Podem ser indicados, para efeitos de recusa de entrada e de permanência, os cidadãos estrangeiros que tenham sido condenados por sentença com trânsito em julgado em pena privativa de liberdade de duração não inferior a um ano, ainda que esta não tenha sido cumprida, ou que tenham sofrido mais de uma condenação em idêntica pena, ainda que a sua execução tenha sido suspensa.
 

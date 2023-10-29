@@ -2,9 +2,9 @@
 
 ### Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado
 
-1 - É concedido visto de residência para o exercício de uma atividade altamente qualificada exercida por trabalhador subordinado a nacionais de Estados terceiros que:
+1 - Sem prejuízo do disposto no artigo 52.º, é concedido visto de residência para o exercício de uma atividade altamente qualificada exercida por trabalhador subordinado a nacionais de Estados terceiros que:
 
-a) Seja titular de contrato de trabalho ou de promessa de contrato de trabalho válidas com, pelo menos, um ano de duração, a que corresponda uma remuneração anual de, pelo menos, 1,5 vezes o salário anual bruto médio nacional ou três vezes o valor indexante de apoios sociais (IAS);
+a) Seja titular de contrato de trabalho ou de promessa de contrato de trabalho válidos com, pelo menos, seis meses de duração, a que corresponda uma remuneração anual de, pelo menos, 1,5 vezes o salário anual bruto médio nacional ou três vezes o valor indexante de apoios sociais (IAS);
 
 b) No caso de profissão regulamentada, seja titular de qualificações profissionais elevadas, devidamente comprovadas com respeito do disposto na Lei n.º 9/2009, de 4 de março, ou em lei específica relativa ao reconhecimento das qualificações profissionais, necessárias para o acesso e exercício da profissão indicada no contrato de trabalho ou de promessa de contrato de trabalho;
 

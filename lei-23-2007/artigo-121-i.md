@@ -6,7 +6,17 @@
 
 2 - O estatuto de residente de longa duração pode ser concedido ao titular de um 'cartão azul UE' que o tenha obtido em Portugal, nos termos do artigo 121.º-B, desde que estejam cumulativamente preenchidas as seguintes condições:
 
-a) Cinco anos de residência legal e ininterrupta no território da União Europeia como titular de 'cartão azul UE';
+a) Cinco anos de residência legal e ininterrupta no território da União Europeia como titular de:
+
+i) 'Cartão azul UE';
+
+ii) Autorização de residência para atividade altamente qualificada, nos termos do artigo 90.º;
+
+iii) Autorização de residência para investigadores, nos termos do artigo 91.º-B;
+
+iv) Autorização de residência para estudantes do ensino superior, nos termos do artigo 91.º;
+
+v) Autorização de residência enquanto beneficiário de proteção internacional no território de qualquer dos Estados-Membros, incluindo Portugal;
 
 b) Residência legal e ininterrupta em território português como titular de 'cartão azul UE', nos dois anos imediatamente anteriores à apresentação em Portugal do respetivo pedido.
 
@@ -14,4 +24,6 @@ b) Residência legal e ininterrupta em território português como titular de 'c
 
 4 - O disposto no número anterior aplica-se igualmente nos casos em que o cidadão nacional de Estado terceiro tenha residido apenas em território nacional enquanto titular de 'cartão azul UE'.
 
-5 - À perda do estatuto do residente de longa duração para ex-titulares de 'cartão azul UE' aplica-se o previsto no artigo 131.º com as necessárias adaptações no que respeita ao prazo referido na alínea c) do n.º 1 do mesmo artigo, o qual é alargado para 24 meses consecutivos.
+5 - À perda do estatuto do residente de longa duração para ex-titulares de 'cartão azul UE' e aos seus familiares aplica-se o previsto no artigo 131.º, exceto quanto ao prazo referido na respetiva alínea c) do n.º 1, o qual é alargado para 24 meses consecutivos.
+
+6 - Aos titulares de 'cartão azul UE' que pretendam beneficiar do estatuto de residente de longa duração aplica-se o disposto nas alíneas g) e f) do n.º 1 do artigo 121.º-H, no n.º 2 do artigo 121.º-A e nos n.os 1 e 2 do artigo 121.º- L.

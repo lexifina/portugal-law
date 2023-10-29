@@ -2,7 +2,7 @@
 
 ### Decisão de afastamento coercivo
 
-1 - A decisão de afastamento coercivo é da competência do diretor nacional do SEF.
+1 - A decisão de afastamento coercivo é da competência do conselho diretivo da AIMA, I. P.
 
 2 - A decisão de afastamento coercivo é comunicada por via eletrónica ao ACIDI, I. P., e ao Conselho Consultivo e notificada à pessoa contra a qual foi instaurado o processo com indicação dos seus fundamentos, do direito de impugnação judicial e do respetivo prazo, bem como da sua inscrição no Sistema de Informação Schengen ou na lista nacional de pessoas não admissíveis, sem prejuízo das normas aplicáveis em matéria de proteção de dados pessoais.
 

@@ -14,6 +14,6 @@ b) A reposição dos custos de afastamento, em caso de permanência ilegal.
 
 4 - O termo de responsabilidade constitui título executivo da obrigação prevista na alínea b) do n.º 2.
 
-5 - O modelo do termo de responsabilidade é aprovado por despacho do diretor nacional do SEF.
+5 - O modelo do termo de responsabilidade é aprovado por deliberação do conselho diretivo da AIMA, I. P.
 
-6 - O SEF assegura a implementação de um sistema de registo e arquivo dos termos de responsabilidade apresentados, sem prejuízo das normas aplicáveis em matéria de proteção de dados pessoais.
+6 - A AIMA, I. P., assegura a implementação de um sistema de registo e arquivo dos termos de responsabilidade apresentados, sem prejuízo das normas aplicáveis em matéria de proteção de dados pessoais.

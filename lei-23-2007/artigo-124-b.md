@@ -24,13 +24,13 @@ i) Apresente garantia, por parte da empresa de acolhimento, de cumprimento duran
 
 2 - Ao requerente não é exigido visto de residência nos termos da alínea a) do n.º 1 do artigo 77.º, devendo, no entanto, ter entrado legalmente em território nacional.
 
-3 - Os trabalhadores transferidos dentro de uma empresa para empresa de acolhimento pertencente à mesma empresa ou grupo de empresas certificadas nos termos de portaria dos membros do Governo responsáveis pelas áreas da administração interna e da economia para efeitos de aplicação da presente lei, estão dispensados de apresentar documentos comprovativos das condições estabelecidas nas alíneas b), c), e), h) e i) do n.º 1, sendo facilitada ainda a emissão de visto que possibilite a sua entrada em território nacional.
+3 - Os trabalhadores transferidos dentro de uma empresa para empresa de acolhimento pertencente à mesma empresa ou grupo de empresas certificadas nos termos de portaria dos membros do Governo responsáveis pelas áreas das migrações e da economia para efeitos de aplicação da presente lei estão dispensados de apresentar documentos comprovativos das condições estabelecidas nas alíneas b), c), e), h) e i) do n.º 1, sendo facilitada ainda a emissão de visto que possibilite a sua entrada em território nacional.
 
 4 - A certificação referida no número anterior é válida por um período de 5 anos, podendo ser cancelada caso se verifique uma das situações referidas no n.º 1 ou a empresa de acolhimento não cumpra a legislação em matéria de condições de trabalho e de pagamento de remuneração menos favorável comparativamente à que é paga aos trabalhadores nacionais com idênticas funções.
 
 5 - A empresa de acolhimento comunica ao ministério responsável pela área da economia, no prazo máximo de 30 dias, qualquer alteração das condições de certificação, sob pena da sua revogação.
 
-6 - O ministério responsável pela área da economia mantém junto do SEF e da Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas uma lista atualizada das empresas certificadas nos termos do n.º 3.
+6 - O membro do Governo responsável pela área da economia mantém junto da AIMA, I. P., e da Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas uma lista atualizada das empresas certificadas nos termos do n.º 3.
 
 7 - A autorização de residência para trabalhador transferido dentro da empresa tem validade de um ano ou validade corresponde à duração da transferência para o território nacional, podendo ser renovada por iguais períodos, até ao limite de três anos, no caso dos gestores e especialistas, ou de um ano, no caso dos empregados estagiários, desde que se mantenham as condições da sua concessão.
 

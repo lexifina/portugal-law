@@ -12,8 +12,6 @@ c) Em relação ao seu titular existam razões sérias para crer que cometeu act
 
 d) Por razões de ordem ou segurança públicas.
 
-e) Se concluir que o seu titular está sujeito a uma medida restritiva da União Europeia.
-
 2 - Sem prejuízo da aplicação de disposições especiais, a autorização de residência pode igualmente ser cancelada quando o interessado, sem razões atendíveis, se ausente do País:
 
 a) Sendo titular de uma autorização de residência temporária, seis meses consecutivos ou oito meses interpolados, no período total de validade da autorização;

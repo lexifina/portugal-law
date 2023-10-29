@@ -8,7 +8,7 @@ a) Disponham de contrato de trabalho ou de prestação de serviços compatível 
 
 b) Carta convite emitida por instituição de ensino ou de formação profissional;
 
-c) Apresentem termo de responsabilidade de empresa certificada nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas da administração interna e da economia; ou
+c) Apresentem termo de responsabilidade de empresa certificada nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas das migrações, da economia e da modernização administrativa; ou
 
 d) Estejam a colaborar em atividade cultural exercida em território nacional no âmbito de um projeto reconhecido pelo membro do Governo responsável pela área da cultura como de interesse para o País.
 

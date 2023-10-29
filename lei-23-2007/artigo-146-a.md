@@ -8,7 +8,7 @@
 
 3 - O estrangeiro detido em centro de instalação temporária ou espaço equiparado tem direito à prestação de cuidados de saúde urgentes e ao tratamento básico de doenças, devendo atribuir-se especial atenção à situação das pessoas vulneráveis, em especial menores, menores não acompanhados, pessoas com deficiência, idosos, grávidas, famílias com filhos menores e pessoas que tenham sido vítimas de tortura, violação ou outras formas graves de violência psicológica, física ou sexual.
 
-4 - No âmbito dos poderes de gestão dos centros de acolhimento temporário conferidos ao SEF, podem ser celebrados protocolos com organizações nacionais ou internacionais com trabalho reconhecido na área da imigração, visando definir a forma de autorização e condições de visita àqueles.
+4 - No âmbito dos poderes de gestão dos centros de acolhimento temporário conferidos às forças de segurança, nos termos da Lei n.º 34/94, de 14 de setembro, na sua redação atual, podem ser celebrados protocolos com organizações nacionais ou internacionais com trabalho reconhecido na área da imigração, visando definir a forma de autorização e condições de visita àqueles.
 
 5 - Ao estrangeiro detido é fornecido documento de que constem as regras aplicadas no centro de instalação temporária ou espaço equiparado, bem como os seus direitos e deveres, nomeadamente o direito de contactar as entidades a que se refere o n.º 1.
 

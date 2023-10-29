@@ -6,7 +6,7 @@
 
 2 - O visto referido no número anterior é válido apenas para o território português.
 
-3 - A competência prevista no n.º 1 pode ser delegada no director-geral do SEF, com faculdade de subdelegação.
+3 - A competência prevista no n.º 1 pode ser delegada no comandante-geral da GNR ou no diretor nacional da PSP, com faculdade de subdelegação.
 
 4 - Se a pessoa admitida nas condições referidas nos números anteriores constar do Sistema de Informação Schengen, a respectiva admissão é comunicada às autoridades competentes dos outros Estados Partes na Convenção de Aplicação.
 

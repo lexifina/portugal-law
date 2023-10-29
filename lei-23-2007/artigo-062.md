@@ -20,7 +20,7 @@ c) Preencha as condições especiais estabelecidas no presente artigo.
 
 6 - O estudante do ensino secundário que preencha as condições da alínea n) do artigo 3.º deve comprovar que:
 
-a) Tem idade mínima e não excede a idade máxima fixada, para o efeito, por portaria dos membros do Governo responsáveis pelas áreas da administração interna e da educação;
+a) Tem idade mínima e não excede a idade máxima fixada, para o efeito, por portaria dos membros do Governo responsáveis pelas áreas das migrações e da educação;
 
 b) Foi aceite num estabelecimento de ensino, podendo a sua admissão realizar-se no âmbito de um programa de intercâmbio de estudantes, por uma organização reconhecida pelo membro do governo responsável pela área da educação, para esse efeito ou no âmbito de um projeto educativo;
 
@@ -46,6 +46,6 @@ b) A entidade de acolhimento subscreveu um seguro de responsabilidade civil, sal
 
 9 - Para efeitos de concessão de visto de residência ao abrigo do presente artigo, o montante mínimo dos meios de subsistência previsto na portaria a que se refere a alínea d) do n.º 1 do artigo 52.º pode ser dispensado, atentas as circunstâncias do caso concreto.
 
-10 - O procedimento de concessão de visto de residência aos nacionais de Estados terceiros indicados no n.º 1 que participem em programas comunitários de promoção da mobilidade para a União Europeia ou para a Comunidade dos Países de Língua Portuguesa ou no seu interesse é simplificado, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da administração interna.
+10 - O procedimento de concessão de visto de residência aos nacionais de Estados terceiros indicados no n.º 1 que participem em programas comunitários de promoção da mobilidade para a União Europeia ou para a Comunidade dos Países de Língua Portuguesa ou no seu interesse é simplificado, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das migrações e da modernização administrativa.
 
 11 - É ainda concedido visto de residência aos nacionais de Estado terceiro que tenham sido admitidos a frequentar cursos dos níveis de qualificação 4 ou 5 do Quadro Nacional de Qualificações (QNQ) ou cursos de formação ministrados por estabelecimentos de ensino ou de formação profissional, desde que preencham as condições estabelecidas nas alíneas a) e b) do n.º 1.

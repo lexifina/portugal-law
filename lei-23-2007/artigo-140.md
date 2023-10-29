@@ -2,9 +2,9 @@
 
 ### Entidades competentes
 
-1 - A decisão de afastamento coercivo pode ser determinada, nos termos da presente lei, pelo diretor nacional do SEF, com faculdade de delegação.
+1 - A decisão de afastamento coercivo pode ser determinada, nos termos da presente lei, pelo conselho diretivo da AIMA, I. P., com faculdade de delegação.
 
-2 - Compete ao diretor nacional do SEF a decisão de arquivamento do processo de afastamento coercivo.
+2 - Compete ao conselho diretivo da AIMA, I. P., a decisão de arquivamento do processo de afastamento coercivo.
 
 3 - A decisão judicial de expulsão é determinada por autoridade judicial competente.
 

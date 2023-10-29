@@ -2,7 +2,7 @@
 
 ### Procedimento de aquisição do estatuto de residente de longa duração
 
-1 - É competente para receber o pedido de concessão do estatuto de residente de longa duração a delegação do SEF da área da residência do requerente.
+1 - É competente para receber o pedido de concessão do estatuto de residente de longa duração a delegação da AIMA, I. P., da área da residência do requerente.
 
 2 - O pedido é acompanhado dos documentos comprovativos de que o nacional de um Estado terceiro preenche as condições enunciadas no artigo 126.º, bem como de um documento de viagem válido ou de cópia autenticada do mesmo.
 
@@ -20,4 +20,4 @@
 
 9 - O estatuto de residente de longa duração tem carácter permanente com base num título renovável.
 
-10 - A concessão do estatuto de residente de longa duração a nacional de Estado terceiro com autorização de residência concedida ao abrigo do artigo 116.º é comunicada pelo SEF ao Estado membro que lhe concedeu pela primeira vez o estatuto de residente de longa duração.
+10 - A concessão do estatuto de residente de longa duração a nacional de Estado terceiro com autorização de residência concedida ao abrigo do artigo 116.º é comunicada pela AIMA, I. P., ao Estado membro que lhe concedeu pela primeira vez o estatuto de residente de longa duração.

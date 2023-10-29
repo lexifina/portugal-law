@@ -22,4 +22,4 @@ e) Até um ano, se o interessado for titular de um visto de estada temporária.
 
 5 - Sem prejuízo das sanções previstas na presente lei e salvo quando ocorram circunstâncias excepcionais, não são deferidos os pedidos de prorrogação de permanência quando sejam apresentados decorridos 30 dias após o termo do período de permanência autorizado.
 
-6 - A prorrogação de permanência é concedida sob a forma de vinheta autocolante de modelo a aprovar por portaria do Ministro da Administração Interna.
+6 - A prorrogação de permanência é concedida sob a forma de vinheta autocolante de modelo a aprovar por portaria do membro do Governo responsável pela área das migrações.

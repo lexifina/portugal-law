@@ -8,7 +8,7 @@ a) Contrato de trabalho ou promessa de contrato de trabalho ou contrato de prest
 
 b) Carta convite emitida por instituição de ensino ou de formação profissional; ou
 
-c) Termo de responsabilidade de empresa certificada nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas da administração interna e da economia; ou
+c) Termo de responsabilidade de empresa certificada nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas das migrações e da economia;
 
 d) Carta convite emitida por empresa ou entidade que realize, em território nacional, uma atividade cultural reconhecida pelo membro do Governo responsável pela área da cultura como de interesse para o país ou como tal definida na lei; ou
 

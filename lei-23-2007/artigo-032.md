@@ -12,7 +12,7 @@ a) Não reúnam cumulativamente os requisitos legais de entrada; ou
 
 b) Estejam indicados para efeitos de recusa de entrada e de permanência no SIS; ou
 
-c) Estejam indicados para efeitos de regresso ou recusa de entrada e de permanência no Sistema Integrado de Informação do SEF; ou
+c) Estejam indicados para efeitos de regresso ou recusa de entrada e de permanência no SII UCFE; ou
 
 d) Constituam perigo ou grave ameaça para a ordem pública, a segurança nacional, a saúde pública ou para as relações internacionais de Estados membros da União Europeia, bem como de Estados onde vigore a Convenção de Aplicação.
 

@@ -2,7 +2,7 @@
 
 ### Remessa de sentenças
 
-Os tribunais enviam ao SEF, com a maior brevidade e em formato electrónico:
+Os tribunais enviam à GNR, à PSP, à PJ e à AIMA, I. P., com a maior brevidade e em formato eletrónico:
 
 a) Certidões de decisões condenatórias proferidas em processo crime contra cidadãos estrangeiros;
 

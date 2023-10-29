@@ -2,7 +2,7 @@
 
 ### Implementação de decisões de afastamento
 
-1 - A decisão de organização ou participação do Estado Português em voos comuns para afastamento do território de dois ou mais Estados membros de cidadãos nacionais de países terceiros objeto de decisão de afastamento coercivo ou de expulsão judicial é da competência do diretor nacional do SEF.
+1 - A decisão de organização ou participação do Estado Português em voos comuns para afastamento do território de dois ou mais Estados membros de cidadãos nacionais de países terceiros objeto de decisão de afastamento coercivo ou de expulsão judicial é da competência do diretor nacional da PSP.
 
 2 - A referida decisão pauta-se por princípios de eficácia através da partilha dos recursos existentes e, em especial, pela observância das convenções ou acordos internacionais em matéria de direitos humanos que vinculam os Estados membros.
 

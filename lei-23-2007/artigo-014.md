@@ -8,7 +8,7 @@
 
 1 - Os cidadãos estrangeiros que entrem no País por uma fronteira não sujeita a controlo, vindos de outro Estado membro, são obrigados a declarar esse facto no prazo de três dias úteis a contar da data de entrada.
 
-2 - A declaração de entrada deve ser prestada junto do SEF, nos termos a definir por portaria do Ministro da Administração Interna.
+2 - A declaração de entrada deve ser prestada junto da força de segurança competente, nos termos a definir por portaria do membro do Governo responsável pela área da administração interna.
 
 3 - O disposto nos números anteriores não se aplica aos cidadãos estrangeiros:
 

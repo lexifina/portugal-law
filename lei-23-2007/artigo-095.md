@@ -30,4 +30,4 @@ f) Se verificar a ocorrência de uma das situações previstas nas alíneas c) e
 
 4 - A decisão de indeferimento de concessão ou de renovação, bem como de cancelamento, tem em consideração as circunstâncias específicas do caso e respeitam o princípio da proporcionalidade.
 
-5 - Sempre que o investigador ou estudante do ensino superior se encontre a residir no território de outro Estado membro ao abrigo das disposições de mobilidade e o SEF tiver conhecimento da situação, notifica as autoridades desse Estado membro do cancelamento da autorização de residência ao abrigo do n.º 3.
+5 - Sempre que o investigador ou estudante do ensino superior se encontre a residir no território de outro Estado membro ao abrigo das disposições de mobilidade e a AIMA, I. P., tiver conhecimento da situação, notifica as autoridades desse Estado membro do cancelamento da autorização de residência ao abrigo do n.º 3.

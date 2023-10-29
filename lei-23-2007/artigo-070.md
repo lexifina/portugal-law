@@ -12,7 +12,7 @@ a) Quando o seu titular não satisfaça as condições da sua concessão;
 
 b) Quando tenham sido emitidos com base em prestação de falsas declarações, utilização de meios fraudulentos ou através da invocação de motivos diferentes daqueles que motivaram a entrada do seu titular no País;
 
-c) Quando o respetivo titular tenha sido objeto de uma medida de afastamento do território nacional, se encontre indicado para efeitos de recusa de entrada e de permanência no Sistema Integrado de Informação do SEF, ou se encontre indicado para efeitos de regresso ou para efeitos de recusa de entrada e de permanência no SIS;
+c) Quando o respetivo titular tenha sido objeto de uma medida de afastamento do território nacional, se encontre indicado para efeitos de recusa de entrada e de permanência no SII UCFE ou se encontre indicado para efeitos de regresso ou para efeitos de recusa de entrada e de permanência no SIS;
 
 d) Quando o seu titular constitua perigo ou ameaça grave para a ordem pública, a segurança ou a defesa nacional, pelo seu envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei.
 
@@ -22,8 +22,8 @@ d) Quando o seu titular constitua perigo ou ameaça grave para a ordem pública,
 
 4 - O visto de residência é ainda cancelado em caso de indeferimento do pedido de autorização de residência.
 
-5 - Após a entrada do titular do visto em território nacional o cancelamento de vistos a que se referem os números anteriores é da competência do Ministro da Administração Interna, que pode delegar no director-geral do SEF, com a faculdade de subdelegar.
+5 - Após a entrada do titular do visto em território nacional, o cancelamento de vistos a que se referem os números anteriores é da competência do membro do Governo responsável pela área da administração interna, com faculdade de delegação no comandante-geral da GNR ou no diretor nacional da PSP, com a faculdade de subdelegar, e do membro do Governo responsável pela área das migrações, que pode delegar no conselho diretivo da AIMA, I. P., com a faculdade de subdelegar.
 
 6 - O cancelamento de vistos nos termos do número anterior é comunicado por via electrónica à Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas.
 
-7 - O cancelamento de vistos antes da chegada do titular a território nacional é da competência das missões diplomáticas e postos consulares de carreira, sendo comunicado por via electrónica ao SEF.
+7 - O cancelamento de vistos antes da chegada do titular a território nacional é da competência das missões diplomáticas, dos postos ou das secções consultares, sendo comunicado por via eletrónica às forças e serviços de segurança, à UCFE e à AIMA, I. P.

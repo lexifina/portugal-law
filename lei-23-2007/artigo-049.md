@@ -6,6 +6,6 @@
 
 2 - O titular do visto de escala aeroportuária apenas tem acesso à zona internacional do aeroporto, devendo prosseguir a viagem na mesma ou em outra aeronave, de harmonia com o título de transporte.
 
-3 - Estão sujeitos a visto de escala os nacionais de Estados identificados em despacho conjunto dos Ministros da Administração Interna e dos Negócios Estrangeiros ou titulares de documentos de viagem emitidos pelos referidos Estados.
+3 - Estão sujeitos a visto de escala os nacionais de Estados identificados em despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da administração interna e das migrações ou titulares de documentos de viagem emitidos pelos referidos Estados.
 
 4 - O despacho previsto no número anterior fixa as excepções à exigência deste tipo de visto.

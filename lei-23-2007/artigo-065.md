@@ -1,10 +1,10 @@
 # Artigo 65.º
 
-### Comunicação e notificação do deferimento de pedido de agrupamento e reagrupamento familiar
+### Comunicação e notificação do deferimento de pedido de reagrupamento familiar
 
-1 - Para efeitos do disposto no artigo anterior, o SEF comunica a decisão, acompanhada das peças processuais já entregues ao SEF, à Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas de imediato e eletronicamente, dando conhecimento ao interessado do posto consular competente dos prazos e da forma de obtenção do visto pelo beneficiário do reagrupamento.
+1 - Para efeitos do disposto no artigo anterior, a AIMA, I. P., comunica a decisão, acompanhada das peças processuais já entregues à AIMA, I. P., à Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas de imediato e eletronicamente, dando conhecimento ao interessado do posto consular competente dos prazos e da forma de obtenção do visto pelo beneficiário do reagrupamento.
 
-2 - O posto consular competente, após receção da comunicação de referida decisão, não solicita documentação que já conste do processo transmitido pelo SEF, apenas devendo aferir a regular identificação dos familiares a reagrupar.
+2 - O posto consular competente, após receção da comunicação de referida decisão, não solicita documentação que já conste do processo transmitido pela AIMA, I. P., apenas devendo aferir a regular identificação dos familiares a reagrupar.
 
 3 - O visto de residência é emitido na sequência da comunicação prevista no n.º 1 e nos termos dela decorrentes, no prazo de 10 dias após o pedido ser submetido no posto consular competente.
 

@@ -2,7 +2,11 @@
 
 ### Procedimento, acesso à informação e garantias processuais
 
-1 - O pedido de concessão ou renovação de autorização de residência ao abrigo da presente subsecção deve ser apresentado pelo nacional de Estado terceiro junto da direção ou da delegação regional do SEF da sua área de residência.
+1 - O pedido de concessão ou renovação de autorização de residência ao abrigo da presente subsecção é apresentado pelo nacional de Estado terceiro:
+
+a) No caso de pedidos de concessão, junto dos serviços descentralizados da AIMA, I. P., da sua área de residência;
+
+b) No caso de pedidos de renovação, junto dos serviços do IRN, I. P., a designar pelo presidente do conselho diretivo, exceto quando o pedido for apresentado na Região Autónoma da Madeira, caso em que é apresentado junto dos serviços regionais competentes para prosseguir as atribuições transferidas pelo Decreto-Lei n.º 247/2003, de 8 de outubro, sem prejuízo das especificidades regionais a introduzir em diploma regional adequado.
 
 2 - O pedido é acompanhado dos documentos comprovativos de que o requerente preenche as condições previstas na presente subsecção.
 

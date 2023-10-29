@@ -2,8 +2,8 @@
 
 ### Condução à fronteira
 
-1 - O cidadão estrangeiro detido nos termos do n.º 1 do artigo 146.º que, durante o interrogatório judicial e depois de informado sobre o disposto nos n.os 2 e 3, declare pretender abandonar o território nacional, bem como o território dos Estados membros da União Europeia e dos Estados onde vigore a Convenção de Aplicação pode, por determinação do juiz competente e desde que devidamente documentado, ser entregue à custódia do SEF para efeitos de condução ao posto de fronteira e afastamento no mais curto espaço de tempo possível.
+1 - O cidadão estrangeiro detido nos termos do n.º 1 do artigo 146.º que, durante o interrogatório judicial e depois de informado sobre o disposto nos n.os 2 e 3, declare pretender abandonar o território nacional, bem como o território dos Estados-Membros da União Europeia e dos Estados onde vigore a Convenção de Aplicação, pode, por determinação do juiz competente e desde que devidamente documentado, ser entregue à custódia da força de segurança territorialmente competente para efeitos de condução ao posto de fronteira e afastamento no mais curto espaço de tempo possível.
 
 2 - O cidadão que declare pretender ser conduzido ao posto de fronteira fica interdito de entrar e de permanecer em território nacional e no território dos Estados membros da União Europeia e dos Estados onde vigore a Convenção de Aplicação pelo prazo de um ano.
 
-3 - A condução à fronteira implica a inscrição do cidadão no SIS e no Sistema Integrado de Informação do SEF, nos termos do disposto no artigo 33.º e seguintes.
+3 - A condução à fronteira implica a inscrição do cidadão no SIS e no SII UCFE, nos termos do disposto nos artigos 33.º e seguintes.

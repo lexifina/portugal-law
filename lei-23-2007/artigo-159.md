@@ -6,4 +6,4 @@
 
 ### Competência para a execução da decisão
 
-Compete ao SEF dar execução às decisões de afastamento coercivo e de expulsão.
+Compete à GNR e à PSP dar execução às decisões de afastamento coercivo e de expulsão.

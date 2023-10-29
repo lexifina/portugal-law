@@ -4,6 +4,6 @@
 
 São competentes para a concessão do título de viagem para refugiados e respectiva prorrogação:
 
-a) Em território nacional, o director-geral do SEF, com faculdade de delegação;
+a) Em território nacional, conselho diretivo da AIMA, I. P., com faculdade de delegação, mediante parecer favorável da UCFE;
 
-b) No estrangeiro, as autoridades consulares ou diplomáticas portuguesas, mediante parecer favorável do SEF.
+b) No estrangeiro, as autoridades consulares ou diplomáticas portuguesas, mediante parecer favorável da UCFE e da AIMA, I. P.

@@ -6,4 +6,4 @@
 
 2 - O título de residência deve, porém, ser renovado de cinco em cinco anos ou sempre que se verifique a alteração dos elementos de identificação nele registados.
 
-3 - No pedido de renovação de autorização, o titular fica dispensado de entregar quaisquer documentos já integrados no fluxo de trabalho electrónico usado pelo SEF.
+3 - No pedido de renovação de autorização, o titular fica dispensado de entregar quaisquer documentos já integrados no fluxo de trabalho eletrónico usado pela AIMA, I. P.

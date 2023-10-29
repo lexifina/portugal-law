@@ -26,7 +26,7 @@ e) Ausência do território nacional por um período de seis anos consecutivos.
 
 7 - A perda do estatuto de residente de longa duração implica o cancelamento da autorização de residência e a apreensão do título de residência CE de longa duração.
 
-8 - O cancelamento da autorização de residência do residente de longa duração é da competência do Ministro da Administração Interna, com a faculdade de delegação no director-geral do SEF.
+8 - O cancelamento da autorização de residência do residente de longa duração é da competência do membro do Governo responsável pela área das migrações, com a faculdade de delegação no conselho diretivo da AIMA, I. P.
 
 9 - Se a perda do estatuto de residente de longa duração conduzir ao afastamento de território nacional de cidadão de Estado terceiro que tenha sido titular do título UE de longa duração previsto no n.º 4 do artigo 130.º, esse afastamento só pode ser efetuado para o país identificado nas observações.
 
