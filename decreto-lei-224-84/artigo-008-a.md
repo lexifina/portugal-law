@@ -20,4 +20,6 @@ b) As acções, decisões e providências, referidas no artigo 3.º, salvo as ac
 
 c) [Revogada].
 
+d) A identificação dos terrenos baldios e dos bens imóveis do domínio público.
+
 2 - O registo da providência cautelar não é obrigatório se já se encontrar pedido o registo da acção principal.

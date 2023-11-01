@@ -14,6 +14,10 @@ b) O Ministério Público, no que respeita às apreensões em processo penal que
 
 c) Os agentes de execução, ou o oficial de justiça que realize diligências próprias do agente de execução, quanto ao registo das penhoras, e os administradores judiciais, quanto ao registo da declaração de insolvência.
 
+d) O conselho diretivo do universo de compartes, no que respeita aos terrenos baldios;
+
+e) A ESTAMO, Participações Imobiliárias, S. A., e os órgãos competentes das Regiões Autónomas e das autarquias locais, no que respeita aos respetivos bens imóveis do domínio público.
+
 4 - [Revogado].
 
 5 - A obrigação de pedir o registo cessa no caso de este se mostrar promovido por qualquer outra entidade que tenha legitimidade.
