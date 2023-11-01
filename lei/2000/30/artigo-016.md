@@ -10,7 +10,7 @@
 
 a) 60% para o Estado;
 
-b) 40 % para o IDT, I. P.;
+b) 40 % para o ICAD, I. P.;
 
 c) (Revogada).
 
