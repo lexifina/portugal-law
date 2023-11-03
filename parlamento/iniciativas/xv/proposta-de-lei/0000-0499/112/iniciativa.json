@@ -1,0 +1,72 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Proposta de Lei",
+  "numero": "112",
+  "id": "263417",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-11-03",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2024-03-25",
+    "DataInicioleg": "2023-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c4e444d315a444a684d6930314d6a6c6a4c54517a4d444d74596a4d315979316b4d4463784e544e695a6d59334e546b756347526d&fich=e435d2a2-529c-4303-b35c-d07153bff759.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338795a44466b5a6a4e6c4f433169597a51314c54526b4e474974595441795a5330324e6a466d596a526a4e7a63354d7a49756347526d&fich=2d1df3e8-bc45-4d4b-a02e-661fb4c77932.pdf&Inline=true",
+        "anexoNome": "Comentários da APS, na parte que respeita à execução do Regulamento PEPP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338304d4745794f446b7a4d53307a5a4456684c54517a5a57557459574a6b5a533168596a526a4d4745324e54466d5a4467756347526d&fich=40a28931-3d5a-43ee-abde-ab4c0a651fd8.pdf&Inline=true",
+        "anexoNome": "Propostas da APS para a elaboração do Orçamento de Estado para 2024"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d597a6b774f445179595330335a6d566c4c54526b5a4441744f4451785a5330335a446c6c4e5759794e7a45344f4751756347526d&fich=fc90842a-7fee-4dd0-841e-7d9e5f27188d.pdf&Inline=true",
+        "anexoNome": "Comentários da APB"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c597a59344f546b775a69316c4e7a526d4c545179597a49744f54466d4f4331695a544a6c4e3245774e6a45344e5449756347526d&fich=ec68990f-e74f-42c2-91f8-be2e7a061852.pdf&Inline=true",
+        "anexoNome": "Comentários gerais da APB, APFIPP e APS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396c4e7a49794e7a67334d4330794d4749304c54526b4d324574596a526a4f43316d4d32566a4d6d59344d6a55335a4459756347526d&fich=e7227870-20b4-4d3a-b4c8-f3ec2f8257d6.pdf&Inline=true",
+        "anexoNome": "Proposta conjunta da APFIPP/APS/APB para o regime fiscal aplicável ao PEPP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324d7a566d5a6a4d794e43316a4e574d324c5451304e444d744f47466a5a6930314d6a41794d7a4931597a49795a4441756347526d&fich=635ff324-c5c6-4443-8acf-5202325c22d0.pdf&Inline=true",
+        "anexoNome": "Parecer do CNSF"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "263417",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c3259533834596a526c5a5755344f53316d5a6d59324c5452695a6a41744f4468695a6930355a574a6a59546c684e544931596d4d755a47396a65413d3d&fich=8b4eee89-fff6-4bf0-88bf-9ebca9a525bc.docx&Inline=true",
+    "IniNr": "112",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à execução de vários regulamentos da União Europeia relativos a serviços e infraestruturas do sistema financeiro",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
