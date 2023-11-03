@@ -1,0 +1,668 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23969",
+  "numero": "238",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-11-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8460",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Infraestruturas, Mobilidade e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "14",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-02-05",
+            "entidades": null,
+            "id": "159390",
+            "tipo": null,
+            "titulo": "Audição em 2025-02-05 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-24",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2025-03-12",
+        "DataReaberta": "2024-04-24",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a5a44525539515343394562324e31625756756447397a5547563061574e68627938304f545669597a55304e5330315a5445334c54526a4f4751744f574a685969316c5a5752684d6a6379597a4d305a4455756347526d&fich=495bc545-5e17-4c8d-9bab-eeda272c34d5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8398",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Economia, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-04-24",
+            "gp": "PS",
+            "id": "6050",
+            "motivoCessacao": null,
+            "nome": "André Pinotes Batista"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-12-07",
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2023-11-14",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2023-12-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-12-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764e6b4e46543142515343394562324e31625756756447397a5547563061574e686279396b597a526c5a6a68694e7930344f47566d4c5451314f4459744f44417a4e53316c4e7a45774f5467344e546b7a4e4455756347526d&fich=dc4ef8b7-88ef-4586-8035-e71098859345.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8330",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Economia, Obras Públicas, Planeamento e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-12-12",
+            "gp": "PS",
+            "id": "6050",
+            "motivoCessacao": null,
+            "nome": "André Pinotes Batista"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-12-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-11-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e324e6c596a677a596a45744d444e6d4f5330304e7a4e6d4c54686c596a63744e324a6a4f574d344d6d4a6a5a5751334c6e426b5a673d3d&fich=7ceb83b1-03f9-473f-8eb7-7bc9c82bced7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315539",
+      "315833",
+      "315838",
+      "315843",
+      "315844",
+      "315846"
+    ],
+    "Iniciativasoriginadas": [
+      "315539",
+      "315833",
+      "315838",
+      "315843",
+      "315844",
+      "315846"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480462",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE (Vítor Manuel Freitas Rosa); Recomenda ao Governo a inclusão da travessia fluvial Setúbal-Troia no sistema tarifário da Área Metropolitana de Lisboa/passe Navegante; Pela inclusão da travessia fluvial Setúbal-Troia no sistema tarifário do passe Navegante da Área Metropolitana de Lisboa; Integração da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária dos Transportes Públicos; Recomenda a inclusão da travessia fluvial do Sado entre Setúbal e a península de Troia no passe Navegante; Recomenda a avaliação e renegociação do contrato de concessão da travessia fluvial do Sado entre Setúbal e a península de Troia; Resgatar o direito ao transporte público fluvial entre as margens do rio Sado.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 272/XVII/1 ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE (Vítor Manuel Freitas Rosa); Recomenda ao Governo a inclusão da travessia fluvial Setúbal-Troia no sistema tarifário da Área Metropolitana de Lisboa/passe Navegante; Pela inclusão da travessia fluvial Setúbal-Troia no sistema tarifário do passe Navegante da Área Metropolitana de Lisboa; Integração da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária dos Transportes Públicos; Recomenda a inclusão da travessia fluvial do Sado entre Setúbal e a península de Troia no passe Navegante; Recomenda a avaliação e renegociação do contrato de concessão da travessia fluvial do Sado entre Setúbal e a península de Troia; Resgatar o direito ao transporte público fluvial entre as margens do rio Sado.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 405/ XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480464",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE (Vítor Manuel Freitas Rosa); Recomenda ao Governo a inclusão da travessia fluvial Setúbal-Troia no sistema tarifário da Área Metropolitana de Lisboa/passe Navegante; Pela inclusão da travessia fluvial Setúbal-Troia no sistema tarifário do passe Navegante da Área Metropolitana de Lisboa; Integração da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária dos Transportes Públicos; Recomenda a inclusão da travessia fluvial do Sado entre Setúbal e a península de Troia no passe Navegante; Recomenda a avaliação e renegociação do contrato de concessão da travessia fluvial do Sado entre Setúbal e a península de Troia; Resgatar o direito ao transporte público fluvial entre as margens do rio Sado.",
+            "Teor": "Apresenta os Projetos de Resolução n.ºs 408 e 409/ XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE (Vítor Manuel Freitas Rosa); Recomenda ao Governo a inclusão da travessia fluvial Setúbal-Troia no sistema tarifário da Área Metropolitana de Lisboa/passe Navegante; Pela inclusão da travessia fluvial Setúbal-Troia no sistema tarifário do passe Navegante da Área Metropolitana de Lisboa; Integração da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária dos Transportes Públicos; Recomenda a inclusão da travessia fluvial do Sado entre Setúbal e a península de Troia no passe Navegante; Recomenda a avaliação e renegociação do contrato de concessão da travessia fluvial do Sado entre Setúbal e a península de Troia; Resgatar o direito ao transporte público fluvial entre as margens do rio Sado.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 410/ XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480466",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE (Vítor Manuel Freitas Rosa); Recomenda ao Governo a inclusão da travessia fluvial Setúbal-Troia no sistema tarifário da Área Metropolitana de Lisboa/passe Navegante; Pela inclusão da travessia fluvial Setúbal-Troia no sistema tarifário do passe Navegante da Área Metropolitana de Lisboa; Integração da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária dos Transportes Públicos; Recomenda a inclusão da travessia fluvial do Sado entre Setúbal e a península de Troia no passe Navegante; Recomenda a avaliação e renegociação do contrato de concessão da travessia fluvial do Sado entre Setúbal e a península de Troia; Resgatar o direito ao transporte público fluvial entre as margens do rio Sado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480467",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/33?pgs=33-35&org=PLC"
+              }
+            ],
+            "Sumario": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE (Vítor Manuel Freitas Rosa); Recomenda ao Governo a inclusão da travessia fluvial Setúbal-Troia no sistema tarifário da Área Metropolitana de Lisboa/passe Navegante; Pela inclusão da travessia fluvial Setúbal-Troia no sistema tarifário do passe Navegante da Área Metropolitana de Lisboa; Integração da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária dos Transportes Públicos; Recomenda a inclusão da travessia fluvial do Sado entre Setúbal e a península de Troia no passe Navegante; Recomenda a avaliação e renegociação do contrato de concessão da travessia fluvial do Sado entre Setúbal e a península de Troia; Resgatar o direito ao transporte público fluvial entre as margens do rio Sado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480468",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE (Vítor Manuel Freitas Rosa); Recomenda ao Governo a inclusão da travessia fluvial Setúbal-Troia no sistema tarifário da Área Metropolitana de Lisboa/passe Navegante; Pela inclusão da travessia fluvial Setúbal-Troia no sistema tarifário do passe Navegante da Área Metropolitana de Lisboa; Integração da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária dos Transportes Públicos; Recomenda a inclusão da travessia fluvial do Sado entre Setúbal e a península de Troia no passe Navegante; Recomenda a avaliação e renegociação do contrato de concessão da travessia fluvial do Sado entre Setúbal e a península de Troia; Resgatar o direito ao transporte público fluvial entre as margens do rio Sado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/44/57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "480469",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-12-20",
+                "pubLeg": "XVII",
+                "pubNr": "44",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE (Vítor Manuel Freitas Rosa); Recomenda ao Governo a inclusão da travessia fluvial Setúbal-Troia no sistema tarifário da Área Metropolitana de Lisboa/passe Navegante; Pela inclusão da travessia fluvial Setúbal-Troia no sistema tarifário do passe Navegante da Área Metropolitana de Lisboa; Integração da travessia fluvial do Sado entre Setúbal e Troia no Programa de Apoio à Redução Tarifária dos Transportes Públicos; Recomenda a inclusão da travessia fluvial do Sado entre Setúbal e a península de Troia no passe Navegante; Recomenda a avaliação e renegociação do contrato de concessão da travessia fluvial do Sado entre Setúbal e a península de Troia; Resgatar o direito ao transporte público fluvial entre as margens do rio Sado.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23969",
+    "PetAssunto": "Pela inclusão da Travessia Fluvial Setúbal-Tróia no sistema tarifário da Área Metropolitana de Lisboa/Passe NAVEGANTE",
+    "PetDataEntrada": "2023-11-03",
+    "PeticoesAssociadas": null,
+    "PetId": "23969",
+    "PetLeg": "XV",
+    "PetNr": "238",
+    "PetNrAssinaturas": "8335",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56798",
+        "obs": null,
+        "pag": [
+          "30-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-12-20",
+        "pubLeg": "XVII",
+        "pubNr": "44",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/044/2025-12-20/30?pgs=30-36&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915228",
+        "obs": null,
+        "pag": [
+          "41-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-16",
+        "pubLeg": "XV",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/017/2023-12-16/41?pgs=41-42&org=PLC"
+      }
+    ]
+  }
+}
