@@ -156,7 +156,7 @@ Há lugar a uma redução de 10 % na comparticipação familiar mensal quando o 
 
 11.2 - Estrutura Residencial para Pessoas Idosas
 
-11.2.1 - O valor da comparticipação familiar mensal em ERPI determina-se pela aplicação de uma percentagem sobre o rendimento per capita do agregado familiar, variável entre 75 % a 90 % de acordo com o grau de dependência do utente.
+11.2.1 - O valor da comparticipação familiar mensal em ERPI determina-se pela aplicação de uma percentagem sobre o rendimento per capita do agregado familiar, variável entre 75 % e 90 % de acordo com o grau de dependência do utente, com exceção das situações em que o acolhimento se destina ao descanso do cuidador, nos termos da legislação em vigor, em que a comparticipação é variável entre 55 % e 70 %.
 
 11.2.2 - Quando, no momento da admissão, o utente não esteja a receber o complemento por dependência de 1.º grau e já tenha sido requerida a sua atribuição, a instituição pode decidir pela aplicação da percentagem máxima referida no número anterior.
 
@@ -181,3 +181,5 @@ Há lugar a uma redução de 10 % na comparticipação familiar mensal quando o 
 11.3.4 - Para efeitos da comparticipação familiar nas respostas sociais de natureza residencial/internamento considera-se, enquanto rendimento do agregado familiar e para determinação do respetivo montante, 80 % do montante da Prestação Social para a Inclusão (PSI) recebida pelo utente, salvo na situação de frequência de residência autónoma em que é considerado 50 % do montante da PSI recebida pelo utente.
 
 11.3.5 - Para efeitos da comparticipação familiar nas respostas sociais não enquadradas no número anterior considera-se, enquanto rendimento do agregado familiar e para determinação do respetivo montante, 50 % do montante da Prestação Social para a Inclusão recebida pelo utente.
+
+11.3.6 - Para as respostas sociais de lar residencial e serviço de apoio domiciliário, quando em causa está o descanso do cuidador, nos termos da legislação em vigor, a comparticipação familiar prevista no n.º 11.3.1 tem uma redução de 20 %.
