@@ -1,0 +1,702 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23973",
+  "numero": "242",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-11-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8457",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Ambiente e Energia ",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-26",
+            "entidades": null,
+            "id": "148851",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-26 com Peticionários Petição 242/XV/2ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-02-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915239",
+                "obs": null,
+                "pag": [
+                  "21-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-02-07",
+                "pubLeg": "XVI",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/056/2025-02-07/21?pgs=21-23&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "IL",
+                "BE",
+                "L",
+                "PAN"
+              ],
+              "data": "2025-02-04",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> PCP</I><BR>Ausência: <I>IL</I>, <I> BE</I>, <I> L</I>, <I> PAN</I>",
+              "id": "128250",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "33",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-30",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2025-02-05",
+        "DataReaberta": "2024-04-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-12-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a595738764d44597a4d57497a5a6a59744d7a41324e433030595452684c546c695a6a67745a54426c4e6d466c5a44566b59325a6b4c6e426b5a673d3d&fich=0631b3f6-3064-4a4a-9bf8-e0e6aed5dcfd.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-02-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a595738765a444a6c5a445268596a6b744f4445774e4330304e445a694c5467304f4451744f4445784e6d45774d47466c597a6c6c4c6e426b5a673d3d&fich=d2ed4ab9-8104-446b-8484-8116a00aec9e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8403",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Ambiente e Energia ",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-02-04",
+            "dataNomeacao": "2024-04-30",
+            "gp": "CH",
+            "id": "9007",
+            "motivoCessacao": null,
+            "nome": "Raul Melo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-12-22",
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2023-11-14",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2023-12-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-12-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e68627938324d54426c4d6a6b354d7930784d444e684c5451795a6d51744f5449345a69316d4d47566d4e6a42694e324d325a6a41756347526d&fich=610e2993-103a-42fd-928f-f0ef60b7c6f0.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8335",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Ambiente e Energia",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-12-22",
+            "gp": "BE",
+            "id": "3926",
+            "motivoCessacao": null,
+            "nome": "Pedro Filipe Soares"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-07-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-11-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f4755305a444535597a67745a5749324d4330304d5749794c57466c597a6374596a42694d6d49774d7a417a4d5759324c6e426b5a673d3d&fich=8e4d19c8-eb60-41b2-aec7-b0b2b03031f6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315189",
+      "315194",
+      "315219",
+      "315175",
+      "315176",
+      "315177",
+      "315200",
+      "315206"
+    ],
+    "Iniciativasoriginadas": [
+      "315189",
+      "315194",
+      "315219",
+      "315175",
+      "315176",
+      "315177",
+      "315200",
+      "315206"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467329",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Pela preservação das florestas e dos ecossistemas em Portugal (José Manuel Correia Serra e outros); Prevê o crime de ecocídio no Código Penal; Altera o Decreto-Lei n.º 169/2001, de 25 de maio, estendendo as suas medidas de proteção aos carvalhos; Reforça as regras de corte de árvores e harmoniza regimes contraordenacionais em matéria florestal; Recomenda ao Governo a reforma da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas; Recomenda ao Governo a criação de um Código Florestal Simplificado; Recomenda ao Governo finalizar o cadastro dos terrenos e incentivar o emparcelamento da propriedade rural; Recomenda a implementação de medidas de conservação e proteção da biodiversidade da Serra da Lousã; Recomenda ao Governo a implementação de um Programa Nacional de Replantação e Regeneração Ecológica das Áreas Cortadas em Zonas Protegidas.",
+            "Teor": "Apresenta o Projeto de Lei n.º 57/XVII/1ª e o Projeto de Resolução n.º 100/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Pela preservação das florestas e dos ecossistemas em Portugal (José Manuel Correia Serra e outros); Prevê o crime de ecocídio no Código Penal; Altera o Decreto-Lei n.º 169/2001, de 25 de maio, estendendo as suas medidas de proteção aos carvalhos; Reforça as regras de corte de árvores e harmoniza regimes contraordenacionais em matéria florestal; Recomenda ao Governo a reforma da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas; Recomenda ao Governo a criação de um Código Florestal Simplificado; Recomenda ao Governo finalizar o cadastro dos terrenos e incentivar o emparcelamento da propriedade rural; Recomenda a implementação de medidas de conservação e proteção da biodiversidade da Serra da Lousã; Recomenda ao Governo a implementação de um Programa Nacional de Replantação e Regeneração Ecológica das Áreas Cortadas em Zonas Protegidas.",
+            "Teor": "Apresenta o Projeto de Lei n.º 65/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/47?pgs=47-53&org=PLC"
+              }
+            ],
+            "Sumario": "Pela preservação das florestas e dos ecossistemas em Portugal (José Manuel Correia Serra e outros); Prevê o crime de ecocídio no Código Penal; Altera o Decreto-Lei n.º 169/2001, de 25 de maio, estendendo as suas medidas de proteção aos carvalhos; Reforça as regras de corte de árvores e harmoniza regimes contraordenacionais em matéria florestal; Recomenda ao Governo a reforma da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas; Recomenda ao Governo a criação de um Código Florestal Simplificado; Recomenda ao Governo finalizar o cadastro dos terrenos e incentivar o emparcelamento da propriedade rural; Recomenda a implementação de medidas de conservação e proteção da biodiversidade da Serra da Lousã; Recomenda ao Governo a implementação de um Programa Nacional de Replantação e Regeneração Ecológica das Áreas Cortadas em Zonas Protegidas.",
+            "Teor": "Apresenta os Projetos de Resolução n.º 83, 84 e 85/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/71"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Pela preservação das florestas e dos ecossistemas em Portugal (José Manuel Correia Serra e outros); Prevê o crime de ecocídio no Código Penal; Altera o Decreto-Lei n.º 169/2001, de 25 de maio, estendendo as suas medidas de proteção aos carvalhos; Reforça as regras de corte de árvores e harmoniza regimes contraordenacionais em matéria florestal; Recomenda ao Governo a reforma da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas; Recomenda ao Governo a criação de um Código Florestal Simplificado; Recomenda ao Governo finalizar o cadastro dos terrenos e incentivar o emparcelamento da propriedade rural; Recomenda a implementação de medidas de conservação e proteção da biodiversidade da Serra da Lousã; Recomenda ao Governo a implementação de um Programa Nacional de Replantação e Regeneração Ecológica das Áreas Cortadas em Zonas Protegidas.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 105/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/72"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/51?pgs=51&org=PLC"
+              }
+            ],
+            "Sumario": "Pela preservação das florestas e dos ecossistemas em Portugal (José Manuel Correia Serra e outros); Prevê o crime de ecocídio no Código Penal; Altera o Decreto-Lei n.º 169/2001, de 25 de maio, estendendo as suas medidas de proteção aos carvalhos; Reforça as regras de corte de árvores e harmoniza regimes contraordenacionais em matéria florestal; Recomenda ao Governo a reforma da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas; Recomenda ao Governo a criação de um Código Florestal Simplificado; Recomenda ao Governo finalizar o cadastro dos terrenos e incentivar o emparcelamento da propriedade rural; Recomenda a implementação de medidas de conservação e proteção da biodiversidade da Serra da Lousã; Recomenda ao Governo a implementação de um Programa Nacional de Replantação e Regeneração Ecológica das Áreas Cortadas em Zonas Protegidas.",
+            "Teor": "Apresenta o Projeto de Lei n.º 56/XVII/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/73"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Pela preservação das florestas e dos ecossistemas em Portugal (José Manuel Correia Serra e outros); Prevê o crime de ecocídio no Código Penal; Altera o Decreto-Lei n.º 169/2001, de 25 de maio, estendendo as suas medidas de proteção aos carvalhos; Reforça as regras de corte de árvores e harmoniza regimes contraordenacionais em matéria florestal; Recomenda ao Governo a reforma da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas; Recomenda ao Governo a criação de um Código Florestal Simplificado; Recomenda ao Governo finalizar o cadastro dos terrenos e incentivar o emparcelamento da propriedade rural; Recomenda a implementação de medidas de conservação e proteção da biodiversidade da Serra da Lousã; Recomenda ao Governo a implementação de um Programa Nacional de Replantação e Regeneração Ecológica das Áreas Cortadas em Zonas Protegidas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/74"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Pela preservação das florestas e dos ecossistemas em Portugal (José Manuel Correia Serra e outros); Prevê o crime de ecocídio no Código Penal; Altera o Decreto-Lei n.º 169/2001, de 25 de maio, estendendo as suas medidas de proteção aos carvalhos; Reforça as regras de corte de árvores e harmoniza regimes contraordenacionais em matéria florestal; Recomenda ao Governo a reforma da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas; Recomenda ao Governo a criação de um Código Florestal Simplificado; Recomenda ao Governo finalizar o cadastro dos terrenos e incentivar o emparcelamento da propriedade rural; Recomenda a implementação de medidas de conservação e proteção da biodiversidade da Serra da Lousã; Recomenda ao Governo a implementação de um Programa Nacional de Replantação e Regeneração Ecológica das Áreas Cortadas em Zonas Protegidas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-07-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/8/75"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "467336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-07-04",
+                "pubLeg": "XVII",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Pela preservação das florestas e dos ecossistemas em Portugal (José Manuel Correia Serra e outros); Prevê o crime de ecocídio no Código Penal; Altera o Decreto-Lei n.º 169/2001, de 25 de maio, estendendo as suas medidas de proteção aos carvalhos; Reforça as regras de corte de árvores e harmoniza regimes contraordenacionais em matéria florestal; Recomenda ao Governo a reforma da Agência Portuguesa do Ambiente e do Instituto da Conservação da Natureza e das Florestas; Recomenda ao Governo a criação de um Código Florestal Simplificado; Recomenda ao Governo finalizar o cadastro dos terrenos e incentivar o emparcelamento da propriedade rural; Recomenda a implementação de medidas de conservação e proteção da biodiversidade da Serra da Lousã; Recomenda ao Governo a implementação de um Programa Nacional de Replantação e Regeneração Ecológica das Áreas Cortadas em Zonas Protegidas.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23973",
+    "PetAssunto": "Pela Preservação das Florestas e dos Ecossistemas em Portugal",
+    "PetDataEntrada": "2023-11-06",
+    "PeticoesAssociadas": null,
+    "PetId": "23973",
+    "PetLeg": "XV",
+    "PetNr": "242",
+    "PetNrAssinaturas": "18286",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura\n",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56730",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-07-04",
+        "pubLeg": "XVII",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/008/2025-07-04?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915234",
+        "obs": null,
+        "pag": [
+          "17-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-23",
+        "pubLeg": "XV",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/018/2023-12-23/17?pgs=17-18&org=PLC"
+      }
+    ]
+  }
+}
