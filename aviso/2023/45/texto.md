@@ -1,0 +1,7 @@
+Aviso n.º 45/2023
+Sumário: Entrada em vigor do Acordo entre a República Portuguesa e a Roménia sobre Cooperação em Matéria de Defesa, assinado em Bucareste, a 19 de maio de 2022.
+Por ordem superior se torna público que, a 21 de dezembro de 2022 e a 13 de setembro de 2023, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros da Roménia e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as respetivas formalidades internas de aprovação do Acordo entre a República Portuguesa e a Roménia sobre Cooperação em Matéria de Defesa, assinado em Bucareste, a 19 de maio de 2022.
+O referido Acordo foi aprovado pela Resolução da Assembleia da República n.º 106/2023, em 19 de julho de 2023, e ratificado pelo Decreto do Presidente da República n.º 75/2023, publicado no Diário da República, 1.ª série, n.º 169, de 31 de agosto de 2023.
+Nos termos do seu artigo 12.º, este Acordo entra em vigor 30 dias após a data da receção da última notificação, por escrito e por via diplomática, informando de que foram cumpridos os requisitos de direito interno das Partes necessários para o efeito. Tendo a nota de dia 13 de setembro de 2023 sido rececionada neste mesmo dia, este Acordo entrou em vigor a 13 de outubro de 2023.
+Direção-Geral dos Assuntos Europeus, 2 de novembro de 2023. - A Diretora-Geral, Helena Malcata.
+117022922
