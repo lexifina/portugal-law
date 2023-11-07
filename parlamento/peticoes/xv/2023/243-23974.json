@@ -1,0 +1,1043 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23974",
+  "numero": "243",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-11-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-12-11",
+            "entidades": null,
+            "id": "148665",
+            "tipo": null,
+            "titulo": "Audição em 2023-12-11 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915194",
+                "obs": null,
+                "pag": [
+                  "19-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-23",
+                "pubLeg": "XV",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/018/2023-12-23/19?pgs=19-25&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-11-22",
+        "DataArquivo": "2023-12-19",
+        "DataBaixaComissao": "2023-11-17",
+        "DataEnvioPAR": "2023-12-19",
+        "DataReaberta": "2023-11-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-12-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e686279396c595467314f57597a5953307a4d7a63344c5451314f474974595445775a69307a5a6d5a69596a42684f4452695a6a67756347526d&fich=ea859f3a-3378-458b-a10f-3ffbb0a84bf8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-11-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e68627938324e44526c5a545a6a5a43316c595449304c54526d5a6a417459574a6c4d4330334d7a4135596a646a4f4442685a6d51756347526d&fich=644ee6cd-ea24-4ff0-abe0-7309b7c80afd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2023-12-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e6862793830597a566c4e7a593559793168595745324c54526c5a446774596a6b324e7930354f544d335a475a6d4d3251775a6a55756347526d&fich=4c5e769c-aaa6-4ed8-b967-9937dff3d0f5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2023-11-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e68627939694e54646c4e446868596931684d6a59794c5451334d575974596a67334e7930354e7a49784d7a5132597a5977595451756347526d&fich=b57e48ab-a262-471f-b877-9721346c60a4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-12-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d544a4451304e4b5243394562324e31625756756447397a5547563061574e68627938775a6a646d4d474d775a43316d4e6d59784c5451775a6a4174595467305a5331694f4445305a6d49335a474935597a51756347526d&fich=0f7f0c0d-f6f1-40f0-a84e-b814fb7db9c4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8336",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-11-22",
+            "gp": "PS",
+            "id": "6956",
+            "motivoCessacao": null,
+            "nome": "Sara Velez"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2024-12-04",
+    "Documentos": [
+      {
+        "DataDocumento": "2023-11-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e57557a5a5441774d4467745a5759315a4330304f5446684c574669595755744e7a55785a6d557a4e6a497a4e6a64684c6e426b5a673d3d&fich=5e3e0008-ef5d-491a-abae-751fe362367a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "304268",
+      "304289"
+    ],
+    "Iniciativasoriginadas": [
+      "304268",
+      "304289"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 400/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": "Apresenta o Projeto de Resolução n.º 418/XVI/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413582",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413583",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413584",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413585",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/62"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413587",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": "Ao Deputado João Pinho de Almeida (CDS-PP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/66"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413590",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": "Responde ao pedido de esclarecimento da Deputada Joana Mortágua (BE)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/67"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413591",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413592",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": "Apresenta  Defesa da Honra da bancada do PSD, contesta que o CH se queira apropriar da figura do antigo líder do PSD, Francisco Sá Carneiro."
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413593",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": "Responde a defesa da honra da bancada apresentada pelo Deputado Silvério Regalado (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413594",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/71"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413595",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/60?pgs=60&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2024-12-05",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/64/72"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "413596",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-12-05",
+                "pubLeg": "XVI",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/60?pgs=60&org=PLC"
+              }
+            ],
+            "Sumario": "Classificação da obra de Adriano Correia de Oliveira como de interesse nacional (Centro Artístico, Cultural e Desportivo Adriano Correia de Oliveira); Classificação da obra de Adriano Correia de Oliveira como de interesse nacional; Recomenda ao Governo que promova as diligências necessárias à classificação da obra de Adriano Correia de Oliveira.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23974",
+    "PetAssunto": "Classificação da Obra de Adriano Correia de Oliveira como de Interesse Nacional",
+    "PetDataEntrada": "2023-11-07",
+    "PeticoesAssociadas": null,
+    "PetId": "23974",
+    "PetLeg": "XV",
+    "PetNr": "243",
+    "PetNrAssinaturas": "8190",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36620",
+        "obs": null,
+        "pag": [
+          "49-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-12-05",
+        "pubLeg": "XVI",
+        "pubNr": "64",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/064/2024-12-05/49?pgs=49-60&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
