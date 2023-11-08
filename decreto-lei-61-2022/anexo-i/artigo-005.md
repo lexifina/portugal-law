@@ -12,7 +12,7 @@
 
 a) Representar a DE-SNS, I. P., e o SNS, vinculando-os;
 
-b) Presidir ao conselho de gestão;
+b) Presidir ao conselho de gestão e ao conselho consultivo;
 
 c) Dirigir os trabalhos da assembleia de gestores e convocar as suas reuniões;
 
