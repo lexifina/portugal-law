@@ -12,4 +12,4 @@ a) Nos serviços que não tenham natureza de entidade pública empresarial podem
 
 b) Nos serviços que tenham natureza de entidade pública empresarial podem ser criados postos de trabalho adequados à consolidação de trabalhadores com vínculo de emprego público.
 
-4 - A mobilidade e a consolidação previstas no presente artigo são autorizadas pelo membro do Governo responsável pela área da saúde, com faculdade de delegação na ACSS, I. P.
+4 - A mobilidade e a consolidação previstas no presente artigo são autorizadas pelo diretor executivo da Direção Executiva do SNS, I. P.

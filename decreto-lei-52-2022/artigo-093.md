@@ -28,10 +28,12 @@ e) Os indicadores para avaliação do desempenho dos serviços e do nível de sa
 
 4 - O financiamento do estabelecimento de saúde, E. P. E., que assuma a forma de ULS é realizado por capitação ajustada pelo risco calculado com base nas características da população da área de referência.
 
-5 - A celebração dos contratos-programa do estabelecimento de saúde, E. P. E., é precedida de autorização dos membros do Governo responsáveis pelas áreas das finanças e da saúde, tornando-se eficazes com a sua assinatura, sem prejuízo da sua publicação, por extrato, na 2.ª série do Diário da República.
+5 - Sem prejuízo do disposto no número anterior, o financiamento do estabelecimento de saúde, E. P. E., que assuma a forma de ULS, é ainda realizado considerando, entre outros, o posicionamento da unidade de saúde nas redes de referenciação hospitalar, o fluxo de doentes e a integração de centros académicos clínicos.
 
-6 - O modelo de acompanhamento do contrato-programa e os instrumentos de monitorização, acompanhamento e avaliação do desempenho assistencial de base populacional são propostos pela ACSS, I. P., e aprovados pelo membro do Governo responsável pela área da saúde.
+6 - A celebração dos contratos-programa do estabelecimento de saúde, E. P. E., é precedida de autorização dos membros do Governo responsáveis pelas áreas das finanças e da saúde, tornando-se eficazes com a sua assinatura, sem prejuízo da sua publicação, por extrato, na 2.ª série do Diário da República.
 
-7 - É da exclusiva competência do estabelecimento de saúde, E. P. E., e do estabelecimento de saúde, S. P. A., a cobrança das receitas e taxas provenientes da sua atividade.
+7 - O modelo de acompanhamento do contrato-programa e os instrumentos de monitorização, acompanhamento e avaliação do desempenho assistencial de base populacional são propostos pela ACSS, I. P., e aprovados pelo membro do Governo responsável pela área da saúde.
 
-8 - Os estabelecimentos de saúde, E. P. E., podem, também, prever como receita as verbas provenientes da investigação, designadamente da atividade de Centros Académicos Clínicos, devendo, de forma prioritária, aplicá-las em despesa para o desenvolvimento da atividade de investigação.
+8 - É da exclusiva competência do estabelecimento de saúde, E. P. E., e do estabelecimento de saúde, S. P. A., a cobrança das receitas e taxas provenientes da sua atividade.
+
+9 - Os estabelecimentos de saúde, E. P. E., podem, também, prever como receita as verbas provenientes da investigação, designadamente da atividade de Centros Académicos Clínicos, devendo, de forma prioritária, aplicá-las em despesa para o desenvolvimento da atividade de investigação.

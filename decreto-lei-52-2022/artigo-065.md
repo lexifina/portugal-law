@@ -19,3 +19,5 @@ ii) Modelos de capitação ajustada pelo risco, desenvolvidos com base nas carat
 iii) Transferências do Orçamento do Estado no caso dos hospitais integrados no setor público administrativo;
 
 e) Adesão a uma gestão partilhada de recursos no âmbito do SNS e a mecanismos de compras conjuntas.
+
+f) Garantia de livre escolha do utente em relação à unidade do SNS onde pretende ter resposta, independentemente do seu local de inscrição e de residência.

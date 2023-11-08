@@ -10,7 +10,7 @@
 
 2 - O planeamento e a organização da força de trabalho do SNS devem ainda ter em consideração o desenvolvimento das atividades de investigação clínica e de inovação em saúde.
 
-3 - As unidades de saúde do SNS devem garantir condições e ambientes de trabalho seguros e promotores de satisfação e desenvolvimento profissional e de conciliação da vida profissional, pessoal e familiar, designadamente cooperando na oferta de creches.
+3 - As unidades de saúde do SNS devem garantir condições e ambientes de trabalho seguros, promotores de satisfação e desenvolvimento profissional, que contribuam para a conciliação da vida profissional, pessoal e familiar, designadamente, cooperando na oferta de creches e na disponibilização de habitação para os profissionais de saúde.
 
 4 - A política de recursos humanos do SNS é definida pelo membro do Governo responsável pela área da saúde e é baseada num plano plurianual.
 

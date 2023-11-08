@@ -32,4 +32,6 @@ k) Um representante das Comissões de Proteção de Crianças e Jovens da área 
 
 l) Um representante indicado pelos Núcleos de Planeamento e Intervenção Sem-Abrigo, quando existam na área de atuação do ACES.
 
+m) Um representante das Unidades de Intervenção Local nos Comportamentos Aditivos e nas Dependências, designado pelo conselho diretivo do ICAD, I. P.
+
 2 - Os membros do conselho da comunidade são designados por um período de três anos, renovável por iguais períodos, sem prejuízo da sua substituição, a todo o tempo, pelas entidades que os designaram.
