@@ -1,0 +1,9 @@
+Aviso n.º 21664/2023
+Sumário: Declara a não caducidade do procedimento de elaboração da 1.ª alteração do Plano de Urbanização da Zona Industrial e Empresarial de Campo.
+Declaração de não caducidade do procedimento de elaboração da 1.ª alteração do Plano de Urbanização da Zona Industrial e Empresarial de Campo
+José Manuel Ribeiro, Presidente da Câmara Municipal de Valongo, torna público que, face a atrasos procedimentais, de 24 dias para a realização da reunião plenária e mais 120 dias para receção do parecer da CCDRN, completamente alheios à Autarquia, que impossibilitam agora a conclusão da elaboração da alteração do PUZIEC até 29 de outubro de 2023, fixado pela prorrogação de prazo deliberada pela Câmara Municipal em 15 de dezembro de 2022, a Câmara Municipal de Valongo, de acordo com os princípios de boa administração e da proporcionalidade previstos, respetivamente nos artigos 5.º e 7.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, aprovou por maioria, em reunião pública, de 19 de outubro de 2023, declarar a não caducidade do procedimento de elaboração da 1.ª alteração do Plano de Urbanização da Zona Industrial e Empresarial de Campo, prorrogando o prazo por 144 dias a contar do dia 29 de outubro de 2023.
+23 de outubro de 2023. - O Presidente da Câmara, José Manuel Ribeiro, Dr.
+Deliberação
+Em reunião pública da Câmara Municipal de Valongo, de 19 de outubro de 2023, foi deliberado, por maioria, declarar a não caducidade do procedimento de elaboração da 1.ª alteração do Plano de Urbanização da Zona Industrial e Empresarial de Campo, nos termos dos artigos 5.º e 7.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, prorrogando o prazo por 144 dias a contar do dia 29 de outubro de 2023.
+23 de outubro de 2023. - O Presidente da Câmara, José Manuel Ribeiro, Dr.
+316989585
