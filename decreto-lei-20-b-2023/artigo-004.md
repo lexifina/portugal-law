@@ -30,6 +30,8 @@ g) Complemento solidário para idosos;
 
 h) Subsídio de apoio ao cuidador informal principal.
 
-3 - Para efeitos do disposto no número anterior, o total mensal de rendimentos não pode ultrapassar o montante correspondente a 1/14 do valor do limite máximo do sexto escalão da tabela prevista no n.º 1 do artigo 68.º do Código do IRS, em vigor à data da atribuição do apoio.
+3 - Podem ainda beneficiar dos apoios previstos no presente decreto-lei as pessoas singulares que, reunindo os requisitos indicados nas alíneas a), b) e d) do n.º 1, não estejam obrigadas à entrega de declaração anual do IRS e que sejam beneficiárias de pensões por aposentação, reforma e sobrevivência do regime de proteção social convergente, bem como de prestações enquadradas no seguro social voluntário atribuídas aos bolseiros de investigação nele inscritos.
 
-4 - Em caso de pluralidade de titulares de contrato de arrendamento ou subarrendamento devidamente registado junto da AT, podem beneficiar do apoio extraordinário à renda cada um desses titulares, nos termos previstos nos artigos seguintes.
+4 - Para efeitos do disposto nos n.os 2 e 3, o total mensal de rendimentos não pode ultrapassar o montante correspondente a 1/14 do valor do limite máximo do sexto escalão da tabela prevista no n.º 1 do artigo 68.º do Código do IRS, em vigor à data da atribuição do apoio.
+
+5 - Em caso de pluralidade de titulares de contrato de arrendamento ou subarrendamento devidamente registado junto da AT, podem beneficiar do apoio extraordinário à renda cada um desses titulares, nos termos previstos nos artigos seguintes.

@@ -10,7 +10,7 @@
 
 2 - O apoio extraordinário à renda é pago até ao dia 20 de cada mês.
 
-3 - O apoio extraordinário à renda suporta a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento médio mensal dos titulares do contrato de arrendamento ou subarrendamento, nos termos do artigo anterior, de uma taxa de esforço máxima de 35 %.
+3 - O apoio extraordinário à renda suporta a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento médio mensal dos titulares do contrato de arrendamento ou subarrendamento, nos termos dos artigos 5.º e 5.º-B, de uma taxa de esforço máxima de 35 %.
 
 4 - Ao montante do apoio apurado nos termos dos números anteriores são deduzidos os montantes de outros apoios financeiros à renda atribuídos pelo Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.)
 
