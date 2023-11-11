@@ -2,10 +2,14 @@
 
 ### Candidaturas
 
-1 - As candidaturas ao programa Porta 65 - Jovem são aprovadas pelo Instituto da Habitação e da Reabilitação Urbana (IHRU) até ao limite da dotação orçamental para cada período de abertura de candidaturas, de acordo com o estabelecido nos números seguintes.
+1 - As candidaturas ao programa Porta 65 são aprovadas pelo Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), de acordo com o estabelecido nos números seguintes.
 
-2 - As candidaturas são apreciadas com base nas informações prestadas pelos candidatos no formulário electrónico, sendo hierarquizadas por ordem decrescente das pontuações finais resultantes das pontuações parciais atribuídas ao agregado nos termos do quadro v, anexo à presente portaria e que desta faz parte integrante.
+2 - As candidaturas são apreciadas com base nas informações prestadas pelos candidatos na plataforma eletrónica e obtidas pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das áreas das finanças e da segurança social e com as demais entidades públicas competentes nesta matéria.
 
-3 - Em caso de igualdade de pontuação de candidaturas, é classificada em 1.º lugar a que apresentar menor rendimento mensal (RM) e, no caso de a igualdade persistir, a do agregado com maior número de elementos.
+3 - As candidaturas formalizadas e devidamente instruídas são aprovadas pelo IHRU, I. P., de acordo com a ordem de entrada, até ao limite da dotação orçamental fixada anualmente.
 
-4 - No caso do número anterior, se a igualdade se mantiver, estas candidaturas beneficiam de apoio financeiro ainda que seja excedida a dotação referida no n.º 1 do presente artigo, sem prejuízo do limite da dotação orçamental anual prevista no artigo 26.º do Decreto-Lei n.º 308/2007, de 3 de Setembro.
+4 - Os agregados não podem candidatar-se, em simultâneo, ao Porta 65 - Jovem e ao Porta 65 +, nem acumular os respetivos apoios financeiros.
+
+5 - Os elementos do agregado autorizam o IHRU, I. P., a consultar a sua situação tributária e contributiva junto da Autoridade Tributária e Aduaneira e da segurança social, nos termos do artigo 31.º-A do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, sob pena de rejeição liminar da mesma.
+
+6 - Os elementos do agregado autorizam a visualização dos seus dados constantes da candidatura por todos os outros membros que o compõe, sob pena de rejeição liminar da mesma.

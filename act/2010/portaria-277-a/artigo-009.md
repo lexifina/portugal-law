@@ -1,11 +1,19 @@
 # Artigo 9.º
 
-### Candidaturas subsequentes
+### Candidaturas subsequentes ao Porta 65 - Jovem
 
-Nas candidaturas subsequentes, os jovens devem apresentar a candidatura mediante a actualização dos seguintes elementos:
+1 - Nas candidaturas subsequentes ao Porta 65 - Jovem, os candidatos devem apresentar a candidatura atualizada com os seguintes elementos de informação:
 
-a) Valor da renda, através da apresentação do documento referido na alínea b) do n.º 1 do artigo 7.º ou de contrato-promessa nos casos de mudança de habitação;
+a) Comprovativo do registo do contrato de arrendamento na Autoridade Tributária e Aduaneira ou cópia do contrato-promessa nos casos de mudança de habitação;
 
 b) Composição do agregado jovem, através dos documentos referidos nas alíneas c) e g) do n.º 1 do artigo 7.º;
 
 c) Rendimentos dos membros do agregado jovem, através dos documentos referidos nas alíneas d) e e) do n.º 1 do artigo 7.º
+
+2 - Os elementos de informação previstos no número anterior são facultados pelo candidato, sem prejuízo do disposto no número seguinte.
+
+3 - O candidato fica dispensado de facultar os elementos de informação previstos no n.º 1 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria.
+
+4 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo candidato, sem prejuízo do disposto no número seguinte.
+
+5 - Caso o candidato detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com as entidades das finanças e da segurança social e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.

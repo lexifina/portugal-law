@@ -2,4 +2,4 @@
 
 ### Pagamento da subvenção
 
-O pagamento da subvenção é efectuado mediante transferência para o NIB indicado pelos jovens na candidatura.
+O pagamento da subvenção é efetuado mediante transferência para o IBAN indicado pelo agregado na candidatura.

@@ -2,4 +2,4 @@
 
 ### Autenticação na plataforma
 
-A autenticação na plataforma é efectuada através de senha de acesso obtida no sítio das declarações electrónicas da Direcção-Geral dos Impostos (DGCI), obrigatória para todos os candidatos.
+A autenticação na plataforma é efetuada com recurso a método de autenticação seguro, mediante uso da Chave Móvel Digital, cartão do cidadão ou credenciais da Autoridade Tributária e Aduaneira, obrigatório para todos os candidatos, ascendentes e dependentes, quando aplicável.
