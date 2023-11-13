@@ -1,0 +1,9 @@
+Edital n.º 1949/2023
+Sumário: Aprova o projeto do Regulamento de Trânsito, Circulação e Estacionamento.
+Projeto de Regulamento de Trânsito, Circulação e Estacionamento
+António Manuel das Neves Nobre Pita, Presidente da Câmara Municipal de Castelo de Vide, torna público que após ter sido dado cumprimento ao previsto no artigo 98, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, nos termos da deliberação tomada em reunião ordinária de 18 de outubro do ano em curso, havendo lugar à constituição de interessados no procedimento, foram rececionados nesta Autarquia, contributos e sugestões para a elaboração do Projeto de Regulamento de Trânsito, Circulação e Estacionamento, os quais não foram apostos ao presente Projeto de Regulamento, por deliberação camarária.
+Assim, a Câmara Municipal de Castelo de Vide, deliberou, aprovar o Projeto de Regulamento de Trânsito, Circulação e Estacionamento, e considerando a natureza da matéria a regular submetê-lo a consulta pública pelo prazo de 30 dias, a contar da data da publicação do presente Edital, na 2.ª série, do Diário da República.
+Durante o período de consulta pública poderão os interessados, devidamente identificados, dirigir, por escrito, ao Presidente da Câmara Municipal, eventuais sugestões ou observações, para a Câmara Municipal de Castelo de Vide, Rua Bartolomeu Álvares da Santa, 7320-117 Castelo de Vide, ou através de correio eletrónico cm.castvide@mail.telepac.pt.
+Mais faz saber que os exemplares deste Projeto de Regulamento podem ser consultados na Divisão de Planeamento e Projetos da Câmara Municipal de Castelo de Vide, durante o horário normal de funcionamento, bem como no sítio institucional desta Câmara Municipal, www.cm-castelo-vide.pt.
+20 de outubro de 2023. - O Presidente da Câmara, António Manuel das Neves Nobre Pita.
+316976843
