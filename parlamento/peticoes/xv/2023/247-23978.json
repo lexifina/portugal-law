@@ -1,0 +1,345 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23978",
+  "numero": "247",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-11-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2025-07-01",
+        "DataArquivo": "2025-12-02",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": "2025-12-02",
+        "DataReaberta": "2025-07-01",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-12-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4a5447566e4c304e5054533833513046515a584d765247396a6457316c626e52766331426c64476c6a595738764d3255784f544a6d4e6a41744e5455774e7930304e5745794c5467774d474574597a59304e5755334e4751335a5751774c6e426b5a673d3d&fich=3e192f60-5507-45a2-800a-c645e74d7ed0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8453",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Agricultura e Pescas ",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2025-07-01",
+            "gp": "PSD",
+            "id": "2297",
+            "motivoCessacao": null,
+            "nome": "Cristóvão Norte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-30",
+        "DataArquivo": "2024-07-30",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2024-04-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-07-30",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a457851304646546b55765247396a6457316c626e52766331426c64476c6a595738764d7a4130595467344e7a55745a6d466a5a4330304e6a45784c57466a5a575974595446694d7a6b775a4745304d5459314c6e426b5a673d3d&fich=304a8875-facd-4611-acef-a1b390da4165.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8403",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Ambiente e Energia ",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-04-30",
+            "gp": "PSD",
+            "id": "7325",
+            "motivoCessacao": null,
+            "nome": "Carlos Cação"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2025-01-15",
+            "entidades": null,
+            "id": "159231",
+            "tipo": null,
+            "titulo": "Audição em 2025-01-15 com Coletivo Animal"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-09-11",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-07-30",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2024-09-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-09-13",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a64445156426c6379394562324e31625756756447397a5547563061574e6862793968596a4133595749355a5330774e4759304c54526c4e324d74596d566b4d433034596d45784e5745314f5759354e5463756347526d&fich=ab07ab9e-04f4-4e7c-bed0-8ba15a59f957.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8399",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Agricultura e Pescas             ",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-09-11",
+            "gp": "PSD",
+            "id": "2297",
+            "motivoCessacao": null,
+            "nome": "Cristóvão Norte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-12-22",
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2023-11-23",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2023-12-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-12-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e686279396d596d59794e6d4a694d7930345a6d45354c54526c4d7a6774595755784f5330794d7a6b354d6a4a6c597a41354d6a41756347526d&fich=fbf26bb3-8fa9-4e38-ae19-239922ec0920.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8335",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Ambiente e Energia",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2023-12-22",
+            "gp": "PAN",
+            "id": "6864",
+            "motivoCessacao": null,
+            "nome": "Inês de Sousa Real"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2023-11-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d444d774e5445794e5751744e6d4a684e7930305a6a6c6d4c546b344d4449745a6d526c4e7a426d5a57526d4d545a6c4c6e426b5a673d3d&fich=0305125d-6ba7-4f9f-9802-fde70fedf16e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23978",
+    "PetAssunto": "Pela implementação imediata de CED (Captura, Esterilização e Devolução) em matilhas de cães errantes e de uma Estratégia Nacional para os Animais Errantes",
+    "PetDataEntrada": "2023-11-13",
+    "PeticoesAssociadas": null,
+    "PetId": "23978",
+    "PetLeg": "XV",
+    "PetNr": "247",
+    "PetNrAssinaturas": "7514",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "2",
+    "PetSituacao": "Proposta para apreciação em plenário",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915235",
+        "obs": null,
+        "pag": [
+          "25-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-23",
+        "pubLeg": "XV",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/018/2023-12-23/25?pgs=25-26&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915267",
+        "obs": null,
+        "pag": [
+          "23-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-09-14",
+        "pubLeg": "XVI",
+        "pubNr": "31",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/031/2024-09-14/23?pgs=23-24&org=PLC"
+      }
+    ]
+  }
+}
