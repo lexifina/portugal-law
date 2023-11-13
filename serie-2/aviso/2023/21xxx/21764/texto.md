@@ -1,0 +1,8 @@
+Aviso n.º 21764/2023
+Sumário: Projeto do Regulamento Geral de Gestão, Utilização e Cedência das Instalações Desportivas Municipais.
+Projeto de Regulamento Geral de Gestão, Utilização e Cedência das Instalações Desportivas Municipais
+Fernando Miguel Ramos, Vice-presidente da Câmara Municipal de Sines, torna público que, ao abrigo das disposições conjugadas nas alíneas b) e t) do n.º 1 do artigo 35.º e no artigo 56.º, ambos da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, nos termos e para os efeitos previstos no n.º 1 do Código do Procedimento Administrativo, na reunião de 17 de agosto de 2023, foi deliberado dar início ao período de consulta pública ao Projeto de Regulamento Geral de Gestão, Utilização e Cedência das Instalações Desportivas Municipais, pelo período de 30 dias, a contar da data da publicação do presente aviso no Diário da República.
+O projeto de regulamento encontra-se disponível para consulta no sítio institucional do Município de Sines (www.sines.pt) e nos Paços do Concelho sob a forma de edital.
+Durante o período de consulta pública, qualquer interessado poderá formular as sugestões que entenda por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Presidente da Câmara Municipal de Sines, podendo ser remetidas por via postal, para o Largo Ramos da Costa n.º 21-A, 7520-159 Sines, por correio eletrónico para o endereço geral@mun-sines.pt ou entregues no Balcão Único da Câmara Municipal de Sines, durante o período normal de expediente.
+23 de outubro de 2023. - O Presidente da Câmara Municipal, Fernando Miguel Ramos.
+316985331
