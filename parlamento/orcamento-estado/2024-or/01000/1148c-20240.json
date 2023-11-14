@@ -1,0 +1,104 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=TkRwsdy0xW4KOAInnCS8hnwERBLdbiXhOqLnldVmW4O8Zc%2bnDBx8%2fVYFolXNrZoDuZtSiPH9hujArB6dFk8I1xeMSdqcb6PHE4lZyp9XGJ3%2fKr4iyqCOgNqOvLQqEWWZMpY2G5NkKSZp24nFJ2zCCgEWyCk6AVG98hDT6UOFjEJOmaFIs39peYGeGCeGGiCTvKvpBTc51rEFJYf2APa016UcPQloE4bGUru6iJZl2lOf1vSRtMR4hXytE6F9tBnV2RjLdN42IJyLZi605NGBjTdHPikuUA0%2bHt1pm4k4zAlkTj9lo9lMfUMlr7OaB5ZI1o6w1%2fzPMUsirzPlY9ikAeVE4A17Xc3GN%2baJd%2foUHg04dAzzWq3pc1ykp4UcHi5EqZAmsH2RHw%2fasDRXwv61ydbU1B0PkXMosGv9TpvwZn8yRgoq5xiWt8AQjtUpdz5F&fich=OEPropostasAlteracao2024Or_json.txt&Inline=true",
+  "ficheiro_sha256": "21d4791e74d587714ec4214bf808e296139eeb5eeacd3aabb71d7eacee3b65f3",
+  "legislatura": "XV",
+  "id": "20240",
+  "numero": "1148C",
+  "orcamento": "2024",
+  "versao": "Or",
+  "data_registo": "2023-11-14",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "20240",
+    "Numero": "1148C",
+    "Data": "14/11/2023 10:30:00",
+    "Titulo": "Artigo 114.º-B (Regime de comparticipação de óculos e lentes, aparelhos auditivos e próteses dentárias)",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 114.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793942556b356c6443397a6158526c63793959566b784652793950525338794d4449304d6a41794d7a45774d544176554545764e7a557a5a6a466d4e4445744f57566a596930304d6d59324c54686d5a4463744e44646859574a6a4d3249774f5445354c6e426b5a673d3d&Fich=753f1f41-9ecb-42f6-8fd7-47aabc3b0919.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "BE",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "BE",
+          "Deputado": "ISABEL PIRES"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "JOANA MORTÁGUA"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "JOSÉ MOURA SOEIRO"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "MARIANA MORTÁGUA"
+        },
+        {
+          "GP_Partido": "BE",
+          "Deputado": "PEDRO FILIPE SOARES"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 114.º-B",
+        "Titulo": "Regime de comparticipação de óculos e lentes, aparelhos auditivos e próteses dentárias",
+        "Texto": null,
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 114.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Regime de comparticipação de óculos e lentes, aparelhos auditivos e próteses dentárias",
+        "Data": "24/11/2023 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Chega",
+            "Iniciativa Liberal",
+            "Partido Comunista Português",
+            "Bloco de Esquerda",
+            "Pessoas-Animais-Natureza",
+            "Livre"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
