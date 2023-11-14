@@ -1,0 +1,19 @@
+# Resolução do Conselho do Governo Regional n.º 1167/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 210/2023, de 2023-11-14
+
+**Sumário:** Autoriza a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação de Ténis da Madeira, tendo em vista a execução de um projeto intitulado “Torneio Internacional Madeira Ladies Open”, a ter lugar durante o mês de novembro, mediante uma comparticipação financeira que não excederá os € 21.000,00.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1167/2023
+Sumário: Autoriza a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação de Ténis da Madeira, tendo em vista a execução de um projeto intitulado “Torneio Internacional Madeira Ladies Open”, a ter lugar durante o mês de novembro, mediante uma comparticipação financeira que não excederá os € 21.000,00.
+Texto: Resolução n.º 1167/2023 Considerando que a Associação de Ténis da Madeira pretende realizar, entre os dias 12 e 19 de novembro de 2023, o “Torneio Internacional Madeira Ladies Open”, uma competição internacional pontuável para os rankings da ITF (International Tennis Federation) e do WTA Tour (Associação Profissional de Ténis Feminino), que contribuirá para o reforço do posicionamento do destino na área do turismo desportivo, bem como para a dinamização da oferta turística regional; Considerando que um dos principais objetivos do projeto é o de contribuir para a promoção e divulgação externa da Madeira, confirmando as potencialidades do destino em particular no segmento de turismo desportivo e ativo, e reforçando a notoriedade e atratividade turística da Região; Considerando que a Associação de Ténis da Madeira, tem reconhecido mérito e capacidade para executar o projeto por si apresentado, denominado “Torneio Internacional Madeira Ladies Open”, valorizando o calendário anual de animação turística, prosseguindo assim o objetivo de apoiar a política de Turismo do Governo Regional. Assim, ao abrigo do disposto no n.º 11 do artigo 34.º e do n.º 2 do artigo 35.º do Decreto Legislativo Regional n.º 26/2022/M, de 29 de dezembro, em conjugação com a alínea d) do artigo 3.º e no artigo 7.º do Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto, e da Portaria n.º 78/2001, de 17 de julho, o Conselho do Governo reunido em plenário em 9 de novembro de 2023, resolve:
+1. Autorizar a celebração de um protocolo de desenvolvimento e cooperação no âmbito da promoção e animação turísticas com a Associação de Ténis da Madeira, tendo em vista a execução de um projeto intitulado “Torneio Internacional Madeira Ladies Open”, a ter lugar durante o mês de novembro.
+2. Para a prossecução do projeto previsto no número anterior, conceder à Associação de Ténis da Madeira uma comparticipação financeira que não excederá € 21.000,00 (vinte e um mil euros).
+3. Aprovar a minuta do protocolo, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-geral da Presidência, para a atribuição do referido apoio financeiro.
+4. Mandatar o Secretário Regional de Turismo e Cultura e a Diretora Regional do Turismo para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o protocolo, o qual produzirá efeitos desde a data da assinatura até 30 de abril de 2024.
+5. As despesas resultantes do protocolo a celebrar têm cabimento orçamental na Secretaria 47, Capítulo 50, Divisão 01, Subdivisão 02, Classificação Funcional 047, Classificação Económica D.04.07.01.RD.00, Projeto 50975, Fonte 381, Programa 043, Medida 010.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, no exercício da Presidência, Jorge Maria Abreu de Carvalho
