@@ -12,4 +12,4 @@ c) Com licença de funcionamento ou autorização provisória de funcionamento o
 
 2 - Às estruturas residenciais referidas na alínea c) do número anterior, cujo licenciamento ou acordo de cooperação não tenha sido realizado ao abrigo do anexo i do Despacho Normativo n.º 12/98, de 25 de fevereiro, não lhes é aplicável o disposto nos artigos 15.º a 18.º, salvo quando realizem obras que impliquem um alargamento da capacidade superior a 30 %.
 
-3 - Às estruturas residenciais referidas no número anterior que realizem obras que impliquem um alargamento da capacidade até 30 %, é-lhes aplicável o disposto no anexo ii à presente portaria que dela faz parte integrante.
+3 - Às estruturas residenciais referidas no número anterior que realizem obras que impliquem um alargamento da capacidade até 30 %, é-lhes aplicável o disposto no anexo ii à presente portaria que dela faz parte integrante, mas apenas na área nova a ampliar, não na área prévia edificada.

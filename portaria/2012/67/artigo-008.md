@@ -1,12 +1,12 @@
 # Artigo 8.º
 
-### Serviços
+### Serviços, atividades e cuidados
 
-1 - A estrutura residencial presta um conjunto de atividades e serviços, designadamente:
+1 - A ERPI presta um conjunto de atividades e cuidados, designadamente:
 
-a) Alimentação adequada às necessidades dos residentes, respeitando as prescrições médicas;
+a) Alimentação adequada às necessidades dos residentes, respeitando as prescrições médicas ou de nutricionista da instituição, caso exista;
 
-b) Cuidados de higiene pessoal;
+b) Cuidados de higiene pessoal, de conforto e imagem;
 
 c) Tratamento de roupa;
 
@@ -20,12 +20,22 @@ g) Cuidados de enfermagem, bem como o acesso a cuidados de saúde;
 
 h) Administração de fármacos, quando prescritos.
 
-2 - A estrutura residencial deve permitir:
+i) Outras atividades culturais, ambientais, sociais, lúdico-recreativas, estimulação sensorial e cognitiva, entre outras, ajustadas ao perfil, capacidades e expetativas dos residentes;
 
-a) A convivência social, através do relacionamento entre os residentes e destes com os familiares e amigos, com os cuidadores e com a própria comunidade, de acordo com os seus interesses;
+j) Atividades ocupacionais e de convívio e lazer a realizar no exterior, respeitando a capacidade e interesses dos residentes;
+
+k) Apoio psicossocial, facilitador do equilíbrio e bem-estar.
+
+2 - As atividades desenvolvidas são, preferencialmente, definidas através de um processo participativo entre a equipa da ERPI e o residente e constam de um plano de atividades.
+
+3 - A ERPI deve permitir e promover, através da sua atuação:
+
+a) A convivência social, através do relacionamento entre os residentes e destes com os familiares e amigos, com os cuidadores e com a própria comunidade, de acordo com os seus interesses e capacidades, promovendo, sempre que possível, a intergeracionalidade;
 
 b) A participação dos familiares ou representante legal, no apoio ao residente sempre que possível e desde que este apoio contribua para um maior bem-estar e equilíbrio psicoafetivo do residente.
 
-3 - A estrutura residencial pode, ainda, disponibilizar outro tipo de serviços, visando a melhoria da qualidade de vida do residente, nomeadamente, fisioterapia, hidroterapia, cuidados de imagem e transporte.
+c) A inclusão social com recurso a estruturas comuns e a outras da comunidade, que promovam o bem-estar físico, emocional e social dos seus residentes.
 
-4 - A estrutura residencial deve ainda permitir a assistência religiosa, sempre que o residente o solicite, ou, na incapacidade deste, a pedido dos seus familiares ou representante legal.
+4 - A ERPI pode, ainda, disponibilizar outro tipo de atividades e cuidados, visando a melhoria da qualidade de vida do residente, nomeadamente, psicologia, fisioterapia, hidroterapia, nutrição, transporte e outros, desde que adequados às necessidades e interesses dos residentes.
+
+5 - A ERPI deve ainda permitir a assistência religiosa ou espiritual, sempre que o residente o solicite, ou, na incapacidade deste, mediante solicitação pelo seu representante legal.

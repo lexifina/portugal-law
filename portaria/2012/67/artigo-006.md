@@ -9,3 +9,5 @@
 3 - A capacidade máxima de cada unidade funcional é de 60 residentes.
 
 4 - Quando a capacidade da estrutura residencial for até 80 residentes, é dispensada a obrigatoriedade de existência de unidades funcionais.
+
+5 - A capacidade máxima do equipamento pode ser atualizada, mediante revisão do acordo de cooperação, desde que o número de lugares criados se destine ao acolhimento de pessoas adultas com alta clínica e social, nos termos definidos na ficha 6 do anexo i da presente portaria, e de acordo com a legislação aplicável às altas hospitalares.

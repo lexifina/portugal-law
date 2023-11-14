@@ -13,3 +13,7 @@
 a) Acesso principal para os residentes, colaboradores e visitantes;
 
 b) Acesso de serviço destinado às áreas de serviços e ao acesso de viaturas para cargas e descargas e recolha de lixo.
+
+5 - Nas estruturas residenciais com capacidade até 20 residentes, inclusive, o acesso principal pode coincidir com o acesso de serviço.
+
+6 - Os n.os 2 e 4 do presente artigo não se aplicam às ERPI com capacidade até 20 residentes, inclusive.

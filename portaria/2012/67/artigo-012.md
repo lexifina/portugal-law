@@ -35,3 +35,9 @@ c) Um(a) empregado(a) auxiliar por cada 15 residentes.
 5 - Nos casos em que os serviços de higiene do ambiente, de tratamento de roupa e de confeção de refeições sejam objeto de contratualização externa pode dispensar-se o pessoal de cozinha e de limpeza.
 
 6 - A estrutura residencial pode contar com a colaboração de voluntários, devidamente enquadrados, não podendo estes ser considerados para efeitos do disposto nos números anteriores.
+
+7 - As ERPI com capacidade até 20 residentes, inclusive, devem garantir, no mínimo a verificação das alíneas a) a d) e h) do n.º 2.
+
+8 - Os profissionais que prestam cuidados aos idosos deverão possuir formação adequada.
+
+9 - O número e as qualificações dos trabalhadores da ERPI devem ser adequados ao cumprimento das funções previstas no artigo 4.º
