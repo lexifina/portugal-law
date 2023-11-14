@@ -1,0 +1,8 @@
+Aviso n.º 21887/2023
+Sumário: Submete a consulta pública o projeto do Regulamento de Atribuição de Bolsas de Mérito.
+Consulta Pública do Projeto de Regulamento de Atribuição de Bolsas de Mérito
+José Lourenço Vieira Trindade, Presidente da Junta de Freguesia de Vale de Cavalos, torna público que, de acordo com deliberação da Junta de Freguesia de Vale de Cavalos em reunião de 11 de agosto de 2023, foi aprovado o Projeto do Regulamento de Atribuição de Bolsas de Mérito, ao abrigo da alínea h) do n.º 1 do artigo 16.º do Regime Jurídico das Autarquias Locais do Anexo I da Lei n.º 75/2013, de 12 de setembro da sua redação atual, o qual se submete a consulta pública, para recolha de sugestões, no prazo de trinta dias úteis, a contar da publicação do presente aviso, em conformidade com o artigo 100.º do n.º 3 alínea c) e artigo 101.º do Código do Procedimento Administrativo.
+O projeto em apreço poderá ser consultado nas instalações da Freguesia de Vale de Cavalos, de segunda a sexta-feira das 09H00 ao 12H00 e das 14H00 às 17H00, assim como encontra-se disponível para consulta na sua página eletrónica oficial www.freguesiadevaledecavalos.pt.
+No âmbito da participação, e nos termos do artigo 101.º do CPA, os interessados devem apresentar as suas sugestões, por escrito, de forma fundamentada, dirigidas ao Senhor Presidente da Junta de Freguesia da Junta de Freguesia, a remeter: em mão nos serviços administrativos da Freguesia ou para o seguinte endereço: Rua Junta de Freguesia n.º 17, 2140-405 Vale de Cavalos, ou através de endereço eletrónico: juntafvc@gmail.com, no prazo acima fixado.
+10 de outubro de 2023. - O Presidente da Junta de Freguesia de Vale de Cavalos, José Lourenço Vieira Trindade.
+316942206
