@@ -1,0 +1,10 @@
+Aviso n.º 22082/2023
+Sumário: 5.ª alteração ao Regulamento do Plano Diretor Municipal de São Pedro do Sul - discussão pública.
+Alteração ao Regulamento do Plano Diretor Municipal de São Pedro do Sul
+Vítor Manuel de Almeida Figueiredo, Presidente da Câmara Municipal de São Pedro do Sul, torna público, que a Câmara Municipal de São Pedro do Sul, na sua reunião ordinária pública de 30 de junho de 2023, deliberou dar início ao período de discussão pública relativa à 5.ª alteração ao regulamento do Plano Diretor Municipal de São Pedro do Sul, nos termos do artigo 89.º, em articulação com o artigo 123.º, do Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação, que aprovou o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), alteração essa que consiste no aditamento de um número três ao artigo 48.º do regulamento do PDM, com o seguinte teor: "3 - Exceciona-se do número um, as construções de empreendimentos de turismo em espaço rural e de turismo de habitação com índice de ocupação do solo máxima de 0,1 e a dimensão mínima da parcela de 5000 m2."
+Também deliberou estabelecer o período de discussão pública de 30 dias úteis, a contar do quinto dia útil seguinte à data da publicação do presente Aviso na 2.ª série do Diário da República.
+Os interessados podem consultar os documentos da proposta, na página da Internet (https://www.cm-spsul.pt) ou na Secção de Obras e Urbanismo da Câmara Municipal de São Pedro do Sul, nos dias úteis entre as 09:00 e as 16:30 horas.
+Qualquer sugestão, informação ou observação deverá ser apresentada por escrito ao Presidente da Câmara Municipal de São Pedro do Sul, até ao termo do referido período.
+Para constar se publica o presente aviso no Diário da República, que será afixado nos locais de estilo e publicitados na comunicação social, na página de internet, e na plataforma colaborativa de gestão territorial.
+30 de outubro de 2023. - O Presidente da Câmara Municipal de São Pedro do Sul, Vítor Manuel de Almeida Figueiredo.
+317011436
