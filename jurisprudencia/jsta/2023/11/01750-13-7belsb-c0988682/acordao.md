@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-11-16, processo 01750/13.7BELSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01750/13.7BELSB
+
+**Data do Acordão:** 11/16/2023
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** SÃO PEDRO
+
+**Descritores:** OMISSÃO DE PRONÚNCIA; MATÉRIA DE FACTO; HORÁRIO DE TRABALHO; RESPONSABILIDADE CIVIL
+
+**Nº Convencional:** JSTA000P31578
+
+**Nº do Documento:** SA12023111601750/13
+
+**Recorrente:** UNIVERSIDADE DE LISBOA
+
+**Recorrido 1:** AA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – Não existe omissão de pronúncia quando o Tribunal não aprecia uma questão por julgar (i) prejudicado o seu conhecimento pela solução dada a outras (608º,2, do CPC), (ii) ou precludido esse conhecimento, por força do caso julgado formal, como acontece nas situações previstas no art. 88º, n.º 2 do CPTA.
+
+II - Nestes casos, e porque efectivamente existe emissão (e não omissão) de pronúncia, se a mesma não for exacta e existir erro de julgamento, tal erro pode ser apreciado no Tribunal “ad quem”, desde que sejam apontados vícios à concreta decisão que julgou esse conhecimento prejudicado, ou precludido.
+
+III – O STA, nos recursos de revista, relativamente à matéria de facto, apenas pode conhecer o erro na apreciação das provas quando tenha ocorrido “ofensa de uma disposição expressa de lei que exija certa espécie de prova para a existência do facto ou que fixe a força de determinado meio de prova” (art. 150º, 4, do CPTA); ou quando exista insuficiência ou contradição da matéria fixada, caso em que, nos termos do art. 682º, n.º 3 do CPC, ex vi 140º, 3 do CPTA, pode ordenar o reenvio do processo ao tribunal “a quo” (i) para ampliação da matéria de facto ou (ii) suprimento de contradições.
+
+IV – Tendo sido decidido, em outro processo entre as mesmas partes, que à Autora era aplicável o regime legal constante do Dec. Lei 73/90, do Dec. Lei 177/90 e do Dec. Lei 221/91, e que nesse âmbito houve deferimento tácito da sua pretensão a um regime de exclusividade com 42 horas semanais, por força do caso julgado então formado, deve manter-se esse regime enquanto subsistirem os pressupostos de facto em que assentou, pelo que deve a Autora ser remunerada de acordo com aquele regime (dedicação exclusiva).
+
+V – São ilegais os actos administrativos que indeferiram as pretensões da Autora no sentido de redução do horário de trabalho, nos termos do art. 31º,n.º 15 do Dec. Lei 73/90, de 6 de Março, na redacção do Dec. Lei 44/2007, de 23 de Fevereiro, que aditou o n.º 15, com a redacção do anterior n.º 10, segundo o qual: “os médicos com idade superior a 55 anos e que trabalhem em regime de dedicação exclusiva há, pelo menos, cinco anos, com horário de 42 horas por semana, será concedida, se a requererem, redução de uma hora em cada ano no horário de trabalho semanal, até que o mesmo perfaça as 35 horas semanais, sem perda de regalias”.
+
+VI – Face à ilegalidade (ilicitude) de tais actos é devida à autora, a título de responsabilidade civil extracontratual uma indemnização correspondente ao valor do trabalho prestado a mais, por força de tal ilegalidade.
