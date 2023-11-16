@@ -1,47 +1,107 @@
 # Anexo II
 
-### Dispositivo da Unidade de Controlo Costeiro
+### Dispositivo da Unidade de Controlo Costeiro e de Fronteiras
 
-1) Destacamento de Controlo Costeiro de Matosinhos:
+1) Grupo de Guarda Costeira:
 
-i) Subdestacamento de Matosinhos;
+a) Destacamento de Patrulhamento Marítimo;
 
-ii) Subdestacamento de Caminha;
+b) Destacamento de Controlo Costeiro de Matosinhos:
 
-iii) Subdestacamento de Esposende.
+i) Subdestacamento de Controlo Costeiro de Matosinhos;
 
-2) Destacamento de Controlo Costeiro da Figueira da Foz:
+ii) Subdestacamento de Controlo Costeiro de Caminha;
 
-i) Subdestacamento da Figueira da Foz;
+iii) Posto de Controlo Costeiro de Esposende.
 
-ii) Subdestacamento de Aveiro;
+c) Destacamento de Controlo Costeiro da Figueira da Foz:
 
-iii) Subdestacamento da Nazaré.
+i) Subdestacamento de Controlo Costeiro da Figueira da Foz;
 
-3) Destacamento de Controlo Costeiro de Lisboa:
+ii) Subdestacamento de Controlo Costeiro de Aveiro;
 
-i) Subdestacamento de Lisboa;
+iii) Posto de Controlo Costeiro da Nazaré.
 
-ii) Subdestacamento de Peniche;
+d) Destacamento de Controlo Costeiro de Lisboa:
 
-iii) Subdestacamento da Fonte da Telha;
+i) Subdestacamento de Controlo Costeiro de Lisboa;
 
-iv) Subdestacamento de Setúbal.
+ii) Subdestacamento de Controlo Costeiro de Peniche;
 
-4) Destacamento de Controlo Costeiro de Sines:
+iii) Subdestacamento de Controlo Costeiro de Setúbal;
 
-i) Subdestacamento de Sines;
+iv) Posto de Controlo Costeiro da Fonte da Telha.
 
-ii) Subdestacamento de Vila Nova de Milfontes;
+e) Destacamento de Controlo Costeiro de Sines:
 
-iii) Subdestacamento de Aljezur.
+i) Subdestacamento de Controlo Costeiro de Sines;
 
-5) Destacamento de Controlo Costeiro de Olhão:
+ii) Subdestacamento de Controlo Costeiro de Vila Nova de Milfontes;
 
-i) Subdestacamento de Olhão;
+iii) Posto de Controlo Costeiro de Aljezur.
 
-ii) Subdestacamento de Portimão;
+f) Destacamento de Controlo Costeiro de Olhão:
 
-iii) Subdestacamento de Vila Real de Santo António.
+i) Subdestacamento de Controlo Costeiro de Olhão;
 
-6) Destacamento de Vigilância Móvel, de âmbito nacional.
+ii) Subdestacamento de Controlo Costeiro de Portimão;
+
+iii) Subdestacamento de Controlo Costeiro de Vila Real de Santo António.
+
+2) Grupo de Guarda de Fronteiras:
+
+a) Destacamento de Guarda de Fronteiras de Matosinhos:
+
+i) Posto de Guarda de Fronteira de Viana do Castelo;
+
+ii) Posto de Guarda de Fronteira de Leixões;
+
+iii) Posto de Guarda de Fronteira de Aveiro;
+
+iv) Posto de Guarda de Fronteira de Figueira da Foz;
+
+v) Posto de Guarda de Fronteira de Valença;
+
+vi) Posto de Guarda de Fronteira de Quintanilha;
+
+vii) Posto de Guarda de Fronteira de Vilar Formoso.
+
+b) Destacamento de Guarda de Fronteiras de Lisboa:
+
+i) Posto de Guarda de Fronteiras de Peniche;
+
+ii) Posto de Guarda de Fronteiras de Lisboa;
+
+iii) Posto de Guarda de Fronteiras de Setúbal;
+
+iv) Posto de Guarda de Fronteiras de Sines;
+
+v) Posto de Guarda de Fronteira de Elvas.
+
+c) Destacamento de Guarda de Fronteira de Portimão:
+
+i) Posto de Guarda de Fronteira de Portimão;
+
+ii) Posto de Guarda de Fronteira de Vilamoura;
+
+iii) Posto de Guarda de Fronteira de Castro Marim;
+
+d) Destacamento de Guarda de Fronteira dos Açores:
+
+i) Posto de Guarda de Fronteira de Ponta Delgada;
+
+ii) Posto de Guarda de Fronteira da Horta;
+
+iii) Posto de Guarda de Fronteira de Angra do Heroísmo.
+
+e) Destacamento de Guarda de Fronteira da Madeira:
+
+i) Posto de Guarda de Fronteira do Funchal;
+
+ii) Posto de Guarda de Fronteira do Porto Santo.
+
+3) Grupo de Vigilância e Apoio:
+
+a) Destacamento de Vigilância Móvel;
+
+b) Destacamento de Vigilância Aérea.

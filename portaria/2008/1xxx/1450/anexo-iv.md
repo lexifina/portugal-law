@@ -2,7 +2,7 @@
 
 ### Dispositivo da Unidade de Emergência de Proteção e Socorro
 
-1) Comando de Grupo de Emergência de Proteção e Socorro.
+1) Grupo de Emergência de Proteção e Socorro.
 
 2) Companhia de Intervenção de Proteção e Socorro 11.
 

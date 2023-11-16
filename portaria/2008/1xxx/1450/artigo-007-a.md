@@ -4,7 +4,7 @@
 
 1 - A Unidade de Emergência de Proteção e Socorro (UEPS) compreende as seguintes subunidades:
 
-a) Comando de Grupo de Emergência de Proteção e Socorro;
+a) Grupo de Emergência de Proteção e Socorro;
 
 b) Companhias de Ataque Estendido, que se articulam em pelotões;
 
