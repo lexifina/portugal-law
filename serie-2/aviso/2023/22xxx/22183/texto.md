@@ -1,0 +1,6 @@
+Aviso n.º 22183/2023
+Sumário: Início do procedimento de elaboração da proposta do Regulamento de Registo de Canídeos, Classificação e Licenciamento de Canídeos e Gatídeos da Freguesia de Comporta.
+Início do procedimento de elaboração
+Início do Procedimento de Elaboração da Proposta de Regulamento de registro, Classificação e Licenciamento de Canídeos e Gatídeos da Freguesia de Comporta, referente à proposta apresentada pelo Presidente da Junta no termos conjugados do artigo 16.º, n.º 1, alínea h) e 9.º, n.º 1, alínea f) da Lei n.º 75/2013 de 12 de setembro segundo o artigo 98.º, n.º 1 do novo C.P.A., aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, informa-se que a Junta de Freguesia de Comporta deliberou, em reunião realizada no dia 27 de junho de 2023, iniciar o procedimento de elaboração da Proposta de Regulamento, pelo que os interessados podem apresentar contributos para a proposta de Regulamento de registo e licença de canídeos e gatídeos, todos os contributos deverão ser enviados por carta registada para rua 24 de junho n.º 13, 7580-628 Comporta ou por correio eletrónico para junta.comporta@mail.telepac.pt.
+24 de outubro de 2023. - A Presidente, Maria José Martins.
+316988734
