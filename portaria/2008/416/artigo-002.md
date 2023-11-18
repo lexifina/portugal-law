@@ -2,7 +2,7 @@
 
 ### Serviços exclusiva ou predominantemente policiais
 
-1 - Nos termos e para os efeitos da alínea c) do n.º 4 do artigo 65.º da Lei n.º 53/2007, de 31 de Agosto, prosseguem atribuições exclusiva ou predominantemente policiais os seguintes departamentos da DNPSP:
+1 - Nos termos e para os efeitos da alínea c) do n.º 4 do artigo 65.º da Lei n.º 53/2007, de 31 de agosto, na sua redação atual, prosseguem atribuições exclusiva ou predominantemente policiais, na estrutura de serviços da DNPSP, os seguintes departamentos:
 
 a) Departamento de Apoio Geral;
 
@@ -16,6 +16,12 @@ e) Departamento de Armas e Explosivos;
 
 f) Departamento de Segurança Privada;
 
-g) Departamento de Formação.
+g) Departamento de Sistemas de Informação e Comunicações;
 
-2 - Compete ao director nacional da PSP definir, de entre as unidades flexíveis que, por seu despacho, vierem a ser criadas nos departamentos mencionados no número anterior, bem como no Departamento de Sistemas de Informação e Comunicações e no Departamento de Logística, aquelas que prosseguem atribuições exclusiva ou predominantemente policiais.
+h) Departamento de Segurança Aeroportuária;
+
+i) Departamento de Gestão Integrada de Fronteiras;
+
+j) Departamento de Formação.
+
+2 - Compete ao diretor nacional da PSP definir quais as unidades orgânicas flexíveis, a criar por seu despacho nos departamentos mencionados no número anterior, que prosseguem atribuições exclusiva ou predominantemente policiais.
