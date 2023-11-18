@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Produção e armazenamento de eletricidade
-
 ## Secção I
 
 ## Controlo prévio
