@@ -2,4 +2,6 @@
 
 ### Requisitos de protecção fitossanitária
 
-O material de propagação deve cumprir com os requisitos fitossanitários definidos no Regulamento (UE) n.º 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, adiante designado por Regulamento (UE) n.º 2016/2031, e legislação de execução complementar.
+1 - Para além do definido no presente diploma, os materiais de propagação devem apresentar-se isentos de pragas de quarentena da União e de pragas provisoriamente classificadas como pragas de quarentena da União, e estão sujeitos a requisitos especiais fitossanitários definidos no Regulamento (UE) 2016/2031.
+
+2 - Os materiais de propagação devem ainda, ao abrigo do Regulamento (UE) 2016/2031, apresentar-se isentos de pragas regulamentadas não sujeitas a quarentena, ou abaixo dos limiares definidos, ficando sujeitos às medidas adotadas para prevenir a presença dessas pragas, sem prejuízo da adoção de outras previstas no presente diploma.
