@@ -8,13 +8,13 @@
 
 3 - A redução referida nos números anteriores será efetuada quando se verifiquem as seguintes situações:
 
-a) No caso dos cursos profissionais, sempre que o número de alunos nas turmas apoiadas seja inferior a 22;
+a) No caso dos cursos profissionais, sempre que o número de alunos nas turmas apoiadas seja inferior a 20;
 
 b) No caso dos cursos profissionais de Música, de Interpretação e Animação Circenses, de Luz, Som e Efeitos Cénicos, de Cenografia, Figurinos e Adereços e de Intérprete de Dança Contemporânea, da área de educação e formação de Artes do Espetáculo, sempre que o número de alunos nas turmas apoiadas seja inferior a 14;
 
 c) No caso dos cursos de educação e formação de jovens, sempre que o número de alunos nas turmas apoiadas seja inferior a 15;
 
-d) Nos cursos profissionais sempre que no relatório técnico-pedagógico seja identificada como medida de acesso à aprendizagem e à inclusão a necessidade da integração do aluno em turma reduzida, não podendo esta incluir mais de dois alunos nestas condições, o limite mínimo de alunos seja inferior a 19;
+d) Nos cursos profissionais sempre que no relatório técnico-pedagógico seja identificada como medida de acesso à aprendizagem e à inclusão a necessidade da integração do aluno em turma reduzida, não podendo esta incluir mais de dois alunos nestas condições, o limite mínimo de alunos seja inferior a 16;
 
 e) Nos estabelecimentos de ensino integrados nos territórios caracterizados como de baixa densidade populacional para efeitos de financiamento público, nos cursos profissionais, as turmas são constituídas por um número mínimo de 16 alunos e um máximo de 28 alunos, exceto nos cursos profissionais de Música, de Interpretação e Animação Circenses, de Luz, Som e Efeitos Cénicos, de Cenografia, Figurinos e Adereços e de Intérprete de Dança Contemporânea, da área de educação e formação de Artes do Espetáculo, em que o limite mínimo é de 14.
 
