@@ -16,9 +16,13 @@ f) 5.ª Divisão Policial da cidade de Lisboa, que integra as seguintes subunida
 
 g) Divisão de Trânsito de Lisboa, que integra as seguintes subunidades operacionais: Esquadra de Apoio, Esquadra de Fiscalização Técnica, Esquadra de Motociclistas, Esquadra de Sinistralidade Rodoviária, 1.ª Esquadra de Trânsito, 2.ª Esquadra de Trânsito, 3.ª Esquadra de Trânsito e 4.ª Esquadra de Trânsito.
 
-h) Divisão de Investigação Criminal de Lisboa, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Investigação Criminal, 2.ª Esquadra de Investigação Criminal, 3.ª Esquadra de Investigação Criminal, 4.ª Esquadra de Investigação Criminal, 5.ª Esquadra de Investigação Criminal, 6.ª Esquadra de Investigação Criminal, 7.ª Esquadra de Investigação Criminal e 8.ª Esquadra de Investigação Criminal.
+h) Divisão de Investigação Criminal de Lisboa, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Investigação Criminal, 2.ª Esquadra de Investigação Criminal, 3.ª Esquadra de Investigação Criminal, 4.ª Esquadra de Investigação Criminal, 5.ª Esquadra de Investigação Criminal, 6.ª Esquadra de Investigação Criminal, 7.ª Esquadra de Investigação Criminal, 8.ª Esquadra de Investigação Criminal e 9.ª Esquadra de Investigação Criminal;
 
-i) Divisão de Segurança Aeroportuária de Lisboa, que integra as seguintes subunidades operacionais: Esquadra de Comando da Divisão, Esquadra de Intervenção e Fiscalização Policial, Esquadra de Segurança Aeroportuária de Lisboa, Esquadra de Segurança Aeroportuária de Cascais, Esquadra de Trânsito e Esquadra de Investigação Criminal.
+i) A Divisão de Segurança Aeroportuária e Controlo Fronteiriço do Comando Metropolitano de Lisboa, que integra as seguintes Esquadras de Polícia:
+
+i) No Aeroporto Humberto Delgado: Esquadra de Segurança Aeroportuária, Esquadra de Controlo Fronteiriço, Esquadra de Intervenção e Fiscalização Policial Aeroportuária, Esquadra de Trânsito e Esquadra de Investigação Criminal;
+
+ii) No Aeródromo de Tires: Esquadra de Segurança Aeroportuária e Controlo Fronteiriço;
 
 j) Divisão de Segurança a Instalações de Lisboa, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Segurança às Instalações Diplomáticas, 2.ª Esquadra de Segurança às Instalações Diplomáticas, 3.ª Esquadra de Segurança às Instalações Diplomáticas, Esquadra de Segurança e Controlo, Esquadra de Segurança à Assembleia da República, Esquadra de Segurança à Casa da Moeda, Esquadra de Segurança à Presidência do Conselho de Ministros, Esquadra de Segurança à Presidência da República e Esquadra de Segurança à Residência Oficial do Primeiro-Ministro.
 
@@ -52,9 +56,9 @@ e) 3.ª Divisão Policial da cidade do Porto, que integra as seguintes subunidad
 
 f) Divisão de Trânsito do Porto, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Trânsito, 2.ª Esquadra de Trânsito, Esquadra de Intervenção e Fiscalização de Trânsito do Porto e Esquadra de Sinistralidade Rodoviária da Divisão de Trânsito do Porto.
 
-g) Divisão de Investigação Criminal do Porto, que integra as seguintes subunidades operacionais: Esquadra de Investigação Criminal (Porto - Sede), 1.ª Esquadra de Investigação Criminal (Porto), 2.ª Esquadra de Investigação Criminal (Porto), 3.ª Esquadra de Investigação Criminal (Porto), 4.ª Esquadra de Investigação Criminal (Gondomar), 5.ª Esquadra de Investigação Criminal (Vila Nova de Gaia), 6.ª Esquadra de Investigação Criminal (Matosinhos), 7.ª Esquadra de Investigação Criminal (Trânsito), 8.ª Esquadra de Investigação Criminal (Vila do Conde) e 9.ª Esquadra de Investigação Criminal (Maia).
+g) Divisão de Investigação Criminal do Porto, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Investigação Criminal do Porto (Sede), 2.ª Esquadra de Investigação Criminal do Porto, 3.ª Esquadra de Investigação Criminal do Porto, 4.ª Esquadra de Investigação Criminal do Porto, 5.ª Esquadra de Investigação Criminal (Maia, Valongo e Gondomar), 6.ª Esquadra de Investigação Criminal (Vila Nova de Gaia), 7.ª Esquadra de Investigação Criminal (Matosinhos) e 8.ª Esquadra de Investigação Criminal (Vila do Conde e Santo Tirso);
 
-h) Divisão de Segurança Aeroportuária do Porto, que integra as seguintes subunidades operacionais: Esquadra de Intervenção e Fiscalização Aeroportuária, Esquadra de Segurança Aeroportuária do Porto e Esquadra de Trânsito do Aeroporto.
+h) Divisão de Segurança Aeroportuária e Controlo Fronteiriço no Aeroporto Francisco Sá Carneiro, que integra as seguintes Esquadras de Polícia: Esquadra de Segurança Aeroportuária, Esquadra de Controlo Fronteiriço, Esquadra de Intervenção e Fiscalização Policial Aeroportuária e Esquadra de Trânsito;
 
 i) Divisão Policial de Gondomar, que integra as seguintes subunidades operacionais: Esquadra da Areosa, Esquadra de Fânzeres, Esquadra de Gondomar, Esquadra de Rio Tinto, Esquadra de Valbom, Esquadra de Trânsito de Gondomar e Esquadra de Intervenção e Fiscalização Policial de Gondomar.
 
