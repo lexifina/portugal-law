@@ -168,6 +168,10 @@ c) 21 de julho de 2024, no respeitante aos instrumentos industriais de monitoriz
 
 Caduca a 31 de março de 2022.
 
+41-A - Chumbo como estabilizador térmico no poli(cloreto de vinilo) (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos usados em dispositivos médicos de diagnóstico in vitro para análise de creatinina e azoto ureico sanguíneo em amostras de sangue integral.
+
+Aplica-se à categoria 8. Caduca a 31 de dezembro de 2023.
+
 42 - Mercúrio em conectores elétricos rotativos utilizados em sistemas de imagiologia de ultrassom intravascular capazes de funcionar a alta frequência (maior que) 50 MHz). Caduca em 30 de junho de 2026.
 
 43 - Ânodos de Cádmio em células Hersch para sensores de oxigénio utilizados em instrumentos industriais de monitorização e controlo, se for necessária uma sensibilidade inferior a 10 ppm.
@@ -193,3 +197,7 @@ Caduca em 21 de julho de 2028.
 48 - Chumbo em cabos e fios supercondutores de óxido de bismuto, estrôncio, cálcio e cobre (BSCCO) e nas ligações elétricas a esses cabos e fios.
 
 Caduca em 30 de junho de 2027.
+
+49 - Mercúrio em transdutores de pressão de fusão para reómetros capilares a temperaturas superiores a 300ºC e pressões superiores a 1000 bar.
+
+Aplica-se à categoria 9 e caduca em 31 de dezembro de 2025.
