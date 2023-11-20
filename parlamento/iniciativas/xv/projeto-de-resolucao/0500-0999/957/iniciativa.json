@@ -1,0 +1,63 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "tipo": "Projeto de Resolução",
+  "numero": "957",
+  "id": "263430",
+  "fases": 13,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2023-11-20",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2024-03-25",
+    "DataInicioleg": "2023-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1741",
+        "nome": "Paulo Pisco"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "7341",
+        "nome": "Francisco César"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6048",
+        "nome": "Ivan Gonçalves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "263430",
+    "IniLeg": "XV",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595339685a5463774e4446684f5330304d446b784c545131596d4d74595759344e6930324d7a59794f54646a4d6a59304e4459755a47396a65413d3d&fich=ae7041a9-4091-45bc-af86-636297c26446.docx&Inline=true",
+    "IniNr": "957",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Substituição do título e do texto da iniciativa a pedido do autor em 2023-11-21.",
+    "IniTipo": "R",
+    "IniTitulo": "Recomenda ao Governo que encete todos os esforços diplomáticos para defender a criação do Estado da Palestina, a par da existência do Estado de Israel, lado a lado, a viver em paz e segurança, tal como previsto no Plano de Partilha das Nações Unidas de 1947",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
