@@ -1,0 +1,8 @@
+Aviso n.º 22215/2023
+Sumário: Revisão do Plano Diretor Municipal de Amares. Abertura do período de discussão pública.
+Discussão Pública da 2.ª Revisão do Plano Diretor Municipal de Amares e Respetivo Relatório Ambiental
+Torna-se público que o Órgão Executivo da Câmara Municipal de Amares deliberou, na reunião pública de 25 de outubro de 2023, nos termos do disposto n.º 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial, abreviadamente RJIGT), proceder à abertura do período de Discussão Pública da Proposta de 2.ª Revisão do PDM de Amares. A abertura deste período terá início a partir do 5.º dia útil a seguir à publicação deste aviso no Diário da República, 2.ª série, e durante um período de 30 dias úteis.
+Os interessados poderão consultar a proposta de revisão do PDM, o respetivo relatório de avaliação ambiental, o parecer da Comissão Consultiva e demais documentos na Divisão de Urbanismo e Obras Particulares, sito no Largo do Município, no horário normal de expediente, bem como na página da internet da Câmara Municipal (www.amares.pt).
+As reclamações, observações ou sugestões de interessados sobre o conteúdo da revisão do PDM, devem ser formuladas por escrito, até ao final do período referido, em impresso próprio disponibilizado na página da internet da Câmara Municipal (www.amares.pt), ou em suporte papel de ficha de participação a fornecer pelos serviços da Câmara Municipal, remetido por correio dirigido ao Presidente da Câmara Municipal de Amares - Largo do Município - 4720-058 Amares, ou por correio eletrónico (geral@municipioamares.pt).
+2 de novembro de 2023. - O Presidente da Câmara Municipal, Manuel da Rocha Moreira.
+617021723
