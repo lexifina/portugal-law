@@ -1,0 +1,7 @@
+Aviso n.º 22340/2023
+Sumário: Aprova a abertura da discussão pública da alteração e aditamento ao Regulamento e Tabela Geral de Taxas Municipais - Transferência de Competências no Âmbito da Segurança Contra Incêndios em Edifícios.
+Prof. Doutor Vítor Manuel Moreira Costa, Presidente da Câmara Municipal de Vila do Conde, torna público, que na reunião ordinária da Câmara Municipal de Vila do Conde, de 18 de setembro de 2023, foi aprovado por unanimidade, aprovar a abertura da Discussão Pública, relativa à alteração e aditamento ao Regulamento e Tabela Geral de Taxas Municipais - Transferência de Competências no Âmbito da Segurança Contra Incêndios em Edifícios, pelo período de 30 dias úteis, nos termos do disposto no artigo 101.º do CPA, para recolha de eventuais sugestões, reclamações ou observações, encontrando-se a proposta de alteração e aditamento disponível para consulta no sítio institucional do Município de Vila do Conde em www.cm-viladoconde.pt., ou nos Serviços Municipais competentes.
+As eventuais reclamações deverão ser dirigidas, por escrito, ao Presidente da Câmara Municipal, podendo ser entregues diretamente nos Serviços Municipais de Expediente, por correio ou por email, para o seguinte endereço eletrónico: geral@cm-viladoconde.pt.
+Para constar e não poder ser alegada ignorância, se publica o presente aviso na 2.ª série do Diário da República, o qual irá ser afixado nos lugares públicos do costume.
+10 de outubro de 2023. - O Presidente da Câmara Municipal, Prof. Doutor Vítor Costa.
+317041503
