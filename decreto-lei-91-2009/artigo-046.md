@@ -13,3 +13,5 @@ c) Subsídio social parental;
 d) Subsídio social por adopção;
 
 e) Subsídio social por riscos específicos.
+
+f) Subsídio social por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto e para acompanhamento.
