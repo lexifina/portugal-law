@@ -6,7 +6,7 @@
 
 a) Subsídio de risco clínico durante a gravidez;
 
-b) Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto;
+b) Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto e para acompanhamento;
 
 c) Subsídio por interrupção da gravidez;
 

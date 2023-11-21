@@ -2,7 +2,7 @@
 
 ### Montante dos subsídios
 
-1 - O montante diário dos subsídios por risco clínico durante a gravidez, por riscos específicos, por necessidade de deslocação a unidade hospitalar fora da ilha de residência da grávida para realização de parto e por interrupção da gravidez corresponde a 100 % da remuneração de referência da beneficiária.
+1 - O montante diário dos subsídios por risco clínico durante a gravidez, por riscos específicos, por necessidade de deslocação a unidade hospitalar fora da ilha de residência da grávida para realização de parto, para acompanhamento, e por interrupção da gravidez corresponde a 100 % da remuneração de referência dos beneficiários.
 
 2 - O montante diário do subsídio parental inicial corresponde às seguintes percentagens da remuneração de referência do beneficiário:
 
