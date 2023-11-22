@@ -42,7 +42,7 @@ vii) Prevenção criminal, policiamento comunitário e programas especiais, nome
 
 viii) Acção tributária, fiscal e aduaneira;
 
-ix) Vigilância marítima e controlo costeiro, em coordenação com a Autoridade Marítima Nacional;
+ix) [Revogada.]
 
 x) Missões, cerimónias e honras militares;
 
@@ -60,6 +60,6 @@ j) Elaborar os relatórios e os dados estatísticos relativos à atividade opera
 
 k) Proceder aos estudos técnicos relevantes para a actuação policial e militar;
 
-l) Planear, coordenar e supervisionar a execução de missões de controlos móveis e outras acções operacionais de cooperação transfronteiriça;
+l) [Revogada.]
 
 m) Assegurar o desenvolvimento de outras atribuições que, no âmbito das suas competências, lhe forem superiormente cometidas.

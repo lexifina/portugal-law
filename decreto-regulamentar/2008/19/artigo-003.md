@@ -16,6 +16,8 @@ e) Direcção do Serviço de Protecção da Natureza e do Ambiente;
 
 f) Direcção de Comunicações e Sistemas de Informação.
 
+g) Direção de Fronteiras e de Controlo Costeiro.
+
 2 - O Comando da Administração dos Recursos Internos (CARI), que assegura o comando e a direcção de toda a actividade da Guarda nos domínios da administração dos recursos humanos, materiais e financeiros, estrutura-se nas seguintes unidades orgânicas nucleares:
 
 a) (Revogada.)
