@@ -28,7 +28,7 @@
 
 11 - No prazo de 10 dias contados do termo dos prazos referidos no n.º 3 do artigo 6.º ou no n.º 9, consoante o caso, a entidade coordenadora profere decisão no prazo de dois dias iniciando-se, sendo o caso, a contagem do prazo para a instalação do estabelecimento.
 
-12 - Se outro interessado apresentar, no prazo referido no n.º 8, um pedido de atribuição de título de atribuição de título com o mesmo objeto e finalidade, a entidade competente abre um procedimento sujeito à concorrência.
+12 - Se outro interessado apresentar, no prazo referido no n.º 7, um pedido de atribuição de título de atribuição de título com o mesmo objeto e finalidade, a entidade competente abre um procedimento sujeito à concorrência.
 
 13 - Cumpridos os formalismos legais e proferida a decisão prevista no número anterior, a entidade coordenadora notifica o interessado, no prazo de 10 dias, da emissão do TAA, dando-se início à contagem do prazo para a instalação do estabelecimento.
 

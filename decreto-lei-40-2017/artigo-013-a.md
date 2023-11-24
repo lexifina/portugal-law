@@ -6,7 +6,7 @@
 
 ### Fase preliminar do procedimento sujeito à concorrência
 
-1 - Se, após a publicação do edital previsto no n.º 8 do artigo 13.º, surgirem um ou mais pedidos idênticos de atribuição de título para a mesma localização, a entidade coordenadora solicita aos respetivos requerentes a submissão, através do BMar, disponível no Portal Único de Serviços, dos elementos instrutórios em falta e envia-os para parecer das entidades competentes, no prazo de 15 dias.
+1 - Se, após a publicação do edital previsto no n.º 7 do artigo 13.º, surgirem um ou mais pedidos idênticos de atribuição de título para a mesma localização, a entidade coordenadora solicita aos respetivos requerentes a submissão, através do BMar, disponível no Portal Único de Serviços, dos elementos instrutórios em falta e envia-os para parecer das entidades competentes, no prazo de 15 dias.
 
 2 - Sempre que haja lugar a procedimento sujeito à concorrência, mantém-se válida a licença de exploração ou o TAA anterior até à conclusão do referido procedimento.
 

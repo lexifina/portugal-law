@@ -2,7 +2,7 @@
 
 ### Registo da produção
 
-1 - Os titulares da exploração de estabelecimentos de culturas em águas marinhas incluindo as águas de transição ou de interiores, excluindo os estabelecimentos conexos, estão obrigados a registar por via eletrónica, através do BMar, disponível no Portal Único de Serviços, consoante o caso, até ao dia 15 de março de cada ano, a produção do estabelecimento respeitante ao ano civil anterior.
+1 - Os titulares da exploração de estabelecimentos de culturas em águas marinhas incluindo as águas de transição ou de interiores, excluindo os estabelecimentos conexos, estão obrigados a registar por via eletrónica, através do BMar, disponível no Portal Único de Serviços, até ao dia 15 de março de cada ano, a produção do estabelecimento respeitante ao ano civil anterior.
 
 2 - (Revogado.)
 
