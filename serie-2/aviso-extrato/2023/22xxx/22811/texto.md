@@ -1,0 +1,12 @@
+Aviso (extrato) n.º 22811/2023
+Sumário: Plano de Pormenor do Outeiro Pelado - discussão pública.
+Plano de Pormenor do Outeiro Pelado
+Discussão Pública
+Gonçalo Lopes, na qualidade de Presidente da Câmara Municipal de Leiria, torna público que, nos termos e para efeitos do disposto no n.º 1 e 2 do artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), publicado pelo Decreto-Lei n.º 80/2015, de 14 de maio e na sua atual redação dada pelo Decreto-Lei n.º 45/2022, de 8 de julho, a Câmara Municipal deliberou, na sua reunião de 31 de outubro de 2023, determinar a abertura de um período de discussão pública, pelo período de 20 dias, a contar do 5.º dia a seguir à publicação do presente aviso no Diário da República, relativa à elaboração do Plano de Pormenor do Outeiro Pelado.
+Os interessados poderão, durante este período, proceder à formulação de sugestões bem como à apresentação de reclamações e observações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo processo, mediante requerimento dirigido ao Presidente da Câmara, devidamente identificado, a apresentar diretamente nos serviços da Câmara Municipal de Leiria, a enviar por meio de correio registado para a morada - Largo da República 2414-006 Leiria, ou remeter por via do correio eletrónico para o endereço cmleiria@cm-leiria.pt.
+Os interessados poderão consultar toda a informação referente ao assunto na Divisão de Planeamento, Ordenamento e Estratégia Territorial da Câmara Municipal de Leiria, localizada no Largo do Município, todos os dias úteis entre as 09:00 horas e as 16:30 horas, sujeito a marcação prévia, por telefone ou por correio eletrónico ou na página eletrónica oficial do Município de Leiria na internet com o site https://www.cm-leiria.pt/areas-de-atividade/urbanismo-e-planeamento/urbanismo-e-planeamento/planos-de-pormenor/plano-de-pormenor-do-outeiro-pelado-em-elaboracao.
+3 de novembro de 2023. - O Presidente da Câmara Municipal, Gonçalo Lopes.
+Deliberação
+Gonçalo Lopes, Presidente da Câmara Municipal de Leiria, torna público que a Câmara Municipal de Leiria, na sua reunião pública de 31 de outubro de 2023, deliberou por unanimidade, proceder à abertura de um período de Discussão Pública, nos termos do disposto nos n.º 1 e 2 do Regime Jurídico dos Instrumentos de Gestão Territorial, na sua redação atual, com duração 20 dias, contados a partir do 5.º dia útil a seguir à publicação do respetivo Aviso no Diário da República.
+3 de novembro de 2023. - O Presidente da Câmara Municipal de Leiria, Gonçalo Lopes.
+617027637
