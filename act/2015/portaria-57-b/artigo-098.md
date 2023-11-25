@@ -22,4 +22,6 @@ f) Nos casos de beneficiários que constituam entidades gestoras de sistemas de 
 
 4 - No caso de beneficiários constituídos há menos de um ano ou de beneficiários cuja abrangência territorial ou atividade tenha sido alterada também há menos de um ano, face à data de apresentação de candidatura, o cumprimento dos critérios de elegibilidade previstos nas alíneas b), c) e d) do n.º 1, que não seja possível comprovar na candidatura, são comprovados através da ficha de avaliação individual da ERSAR que vier a ser publicitada no sítio eletrónico desta entidade reguladora, no prazo máximo afixado para o efeito.
 
-5 - Sem prejuízo do disposto nos n.os 3 e 4, podem ainda, com base em especiais vulnerabilidades territoriais e a título excecional devidamente fundamentado e desde que esta faculdade seja prevista em aviso, considerar-se elegíveis entidades que não evidenciem o cumprimento dos critérios previstos nas alíneas b), c) e d) do n.º 1.
+5 - Em casos excecionais, podem ainda ser elegíveis entidades que não evidenciem o cumprimento do requisito mínimo em matéria de grau de recuperação de custos, previsto na alínea d) do n.º 1, desde que evidenciem o cumprimento no prazo máximo ou nos termos definidos para o efeito.
+
+6 - Sem prejuízo do disposto nos n.os 3 a 5, podem ainda, com base em especiais vulnerabilidades territoriais e a título excecional devidamente fundamentado e desde que esta faculdade seja prevista em aviso, considerar-se elegíveis entidades que não evidenciem o cumprimento dos critérios previstos nas alíneas b), c) e d) do n.º 1.
