@@ -1,0 +1,8 @@
+Aviso n.º 22910/2023
+Sumário: Projeto do Regulamento do Arquivo Municipal de Sines.
+Projeto de Regulamento do Arquivo Municipal de Sines
+Fernando Miguel Ramos, na qualidade de Vice-Presidente da Câmara Municipal de Sines, torna público, em conformidade com o disposto no artigo 56.º da Lei n.º 75/2013, de 12 de setembro, e artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, nas suas atuais redações, que, em Reunião de Câmara Pública de 21 de setembro de 2023, foi deliberado aprovar e submeter a consulta pública o "Projeto de Regulamento do Arquivo Municipal de Sines", nos termos e para os efeitos do disposto no artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, diploma que aprova o Código de Procedimento Administrativo.
+Durante o período de 30 (trinta) dias úteis a contar da data da publicação do presente edital no Diário da República, o referido documento encontra-se disponível para consulta no Balcão Único da Câmara Municipal de Sines, sito no edifício dos Paços do Concelho, no horário de expediente, bem como no sítio institucional do Município de Sines, www.sines.pt, podendo, os interessados, durante esse prazo, apresentar, por escrito, observações, reclamações ou sugestões dirigidas ao Sr. Presidente da Câmara Municipal, para a morada Largo Ramos da Costa, 7520-159 Sines, através do Portal de Serviços Online do Município de Sines (https://servicosonline.sines.pt/) ou através do seguinte endereço de correio eletrónico: geral@mun-sines.pt.
+E, para que conste, mandei publicar o presente edital no Diário da República e outros de igual teor, que serão publicitados no sítio institucional do Município de Sines e fixados nos locais de estilo.
+8 de novembro de 2023. - O Vice-Presidente da Câmara Municipal, Fernando Miguel Ramos.
+317043675
