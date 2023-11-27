@@ -1,0 +1,9 @@
+Aviso (extrato) n.º 22870/2023
+Sumário: Primeira alteração ao Regulamento Municipal de Incentivo à Natalidade.
+Primeira Alteração ao Regulamento Municipal de Incentivo à Natalidade
+Bruno Miguel de Moura Ferreira, Presidente da Câmara Municipal de Mondim de Basto, ao abrigo das suas competências previstas nas disposições das alíneas b) e t) do n.º 1 do artigo 35.º e para os efeitos do estatuído no artigo 56.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, na sua redação atual, em cumprimento do artigo 139.º do Código de Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, torna público que por deliberação da Câmara Municipal de Mondim de Basto, tomada na sua reunião ordinária realizada 26 de outubro de 2023, foi aprovada a elaboração do Projeto de Primeira Alteração ao Regulamento Municipal de Incentivo à Natalidade e dar início ao período de consulta pública.
+O referido Projeto de Regulamento encontra-se disponível para consulta no Balcão Único e no site institucional do Município de Mondim de Basto
+(municipio.mondimdebasto.pt), pelo prazo de 30 dias (úteis), a contar da data da publicação de aviso em 2.ª série do Diário da República, para efeitos de consulta pública, nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, podendo os interessados dirigir por escrito a esta Câmara Municipal, as suas sugestões, observações ou reclamações, no prazo supra referido, as quais devem ser remetidas por via postal, para a Praça do Município, n.º 1, 4880-236 Mondim de Basto, ou através de correio eletrónico, para geral@cm-mondimdebasto.pt,
+ou entregues no Balcão Único da Câmara Municipal de Mondim de Basto, durante o período normal de expediente.
+26 de outubro de 2023. - O Presidente da Câmara, Bruno Miguel de Moura Ferreira.
+317037876
