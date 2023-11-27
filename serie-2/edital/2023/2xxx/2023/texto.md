@@ -1,0 +1,7 @@
+Edital n.º 2023/2023
+Sumário: Submissão a consulta pública do projeto de modificação do Regulamento Municipal para a Concessão de Bolsas de Estudo a Alunos/as do Ensino Superior.
+Projeto de modificação de regulamento - Consulta pública
+João Paulo Soares Carvalho Pereira da Fonseca, presidente da Câmara Municipal do Município de Armamar, ao abrigo do disposto na alínea b) do n.º 1 do artigo 35.º do anexo I da Lei n.º 75/2013, de 12 de setembro, torna público que, conforme deliberação tomada pelo órgão executivo colegial do município em 3 de novembro de 2023, é submetido a consulta pública o projeto de modificação do regulamento municipal para a concessão de bolsas de estudo a alunos/as do ensino superior (nos termos do artigo 101.º do anexo do Decreto-Lei n.º 4/2015, de 7 de janeiro).
+Durante o período de trinta dias, contados da data da publicação do presente aviso na 2.ª série do Diário da República, os/as interessados/as devem dirigir, por escrito, ao presidente da câmara municipal do município de Armamar, as sugestões ou questões consideradas relevantes sobre o assunto, para o endereço de correio eletrónico presidencia@cm-armamar.pt. O mencionado projeto de modificação do regulamento pode ser consultado em www.cm-armamar.pt ou no balcão único (durante o período de atendimento ao público).
+7 de novembro de 2023. - O Presidente da Câmara Municipal de Armamar, João Paulo Soares Carvalho Pereira da Fonseca.
+317034935
