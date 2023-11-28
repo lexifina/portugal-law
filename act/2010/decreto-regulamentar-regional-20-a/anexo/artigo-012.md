@@ -22,7 +22,7 @@ h) Assegurar a articulação entre os diversos serviços da USICorvo;
 
 i) Planear e coordenar as actividades de prestação de cuidados de saúde;
 
-j) Celebrar contratos-programa com a SAUDAÇOR, S. A., protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas actividades e visando atingir os seus objectivos;
+j) Celebrar contratos-programa, protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;
 
 k) Promover a formação do pessoal;
 
@@ -44,4 +44,4 @@ e) Contratar a prestação de serviços com terceiros.
 
 3- O conselho de administração pode delegar no vogal a designar, na direção clínica e na de enfermagem, as competências para orientar e coordenar projetos, programas e setores de atividade específicos, tendo em conta as respetivas áreas de recrutamento.
 
-4- Em situação de ausência ou impedimento de ambos os membros do conselho de administração pode o membro do Governo Regional com competência em matéria de saúde exercer as competências previstas no n.º 1 ao abrigo de competência tutelar substitutiva.
+4 - Em situação de ausência ou impedimento da maioria dos membros do conselho de administração, pode o membro do Governo Regional com competência em matéria de saúde exercer as competências previstas no n.º 1 ao abrigo de competência tutelar substitutiva.

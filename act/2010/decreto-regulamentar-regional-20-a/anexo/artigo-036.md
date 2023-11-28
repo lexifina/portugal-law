@@ -2,4 +2,4 @@
 
 ### Plano oficial
 
-As receitas e as despesas da USICorvo são classificadas, orçamentadas e contabilizadas segundo o Plano Oficial de Contas dos Serviços de Saúde.
+As receitas e as despesas da USICorvo são classificadas, orçamentadas e contabilizadas segundo o normativo contabilístico em vigor, o SNC-AP.

@@ -10,4 +10,4 @@
 
 ### Composição
 
-O conselho de administração é integrado por um presidente e dois vogais, um com funções executivas e outro com funções não executivas, nomeados pelo membro do Governo Regional com competência em matéria de saúde, nos termos previstos no presente diploma.
+O conselho de administração é integrado por um presidente e dois vogais, todos com funções executivas, nomeados pelo membro do Governo Regional com competência em matéria de saúde nos termos previstos no presente diploma.
