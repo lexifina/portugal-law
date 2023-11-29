@@ -1,0 +1,21 @@
+# Portaria n.º 913/2023
+
+**Emissor:** SECRETARIAS REGIONAIS DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA E DAS FINANÇAS
+
+**Publicação:** JORAM, I série, n.º 220/2023, 2.º suplemento, de 2023-11-29
+
+**Sumário:** Redistribui os encargos orçamentais previstos na Portaria n.º 829/2022, de 25 de novembro, relativos à celebração do contrato-programa de desenvolvimento desportivo, a celebrar entre a Região Autónoma da Madeira, através da Direção Regional de Desporto e a Associação de Andebol da Madeira.
+
+## Texto
+
+Portaria n.º 913/2023
+de 29 de novembro
+Sumário: Redistribui os encargos orçamentais previstos na Portaria n.º 829/2022, de 25 de novembro, relativos à celebração do contrato-programa de desenvolvimento desportivo, a celebrar entre a Região Autónoma da Madeira, através da Direção Regional de Desporto e a Associação de Andebol da Madeira.
+Texto: Através da Portaria n.º 829/2022, de 25 de novembro, procedeu-se à repartição dos encargos relativos à celebração do Contrato Programa de Desenvolvimento Desportivo, entre a Região Autónoma da Madeira, através da Direção Regional de Desporto e a Associação de Andebol da Madeira, NIPC 511 030 924, tendo em vista o apoio à concretização do Programa de Desenvolvimento Desportivo para a época desportiva de 2022/2023. Havendo necessidade de alterar a referida Portaria n.º 829/2022, de 25 de novembro, em função do novo escalonamento da despesa, manda o Governo Regional da Madeira, através do Secretário Regional de Educação, Ciência e Tecnologia e do Secretário Regional das Finanças, o seguinte:
+1.º Redistribuir os encargos orçamentais previstos na Portaria n.º 829/2022, de 25 de novembro, que ficam escalonados da forma abaixo indicada:
+2022 .................................................................................................................. € 51.793,17; 2023 .................................................................................................................. € 87.415,38.
+2.º A despesa prevista para o corrente ano económico tem cabimento na rubrica abaixo indicada do Orçamento da Direção Regional de Desporto, para 2023: Secretaria 43; Capítulo 50; Divisão 05; Subdivisão 00; Classificação económica D.04.07.01.RC.FS; Fonte de Financiamento 381; Projeto 50695 e 50701.
+3.º Esta Portaria entra em vigor no dia seguinte ao da sua publicação.
+Assinada em 29 de novembro de 2023.
+O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, Jorge Maria Abreu de Carvalho
+PEL’O SECRETÁRIO REGIONAL DAS FINANÇAS, Jorge Maria Abreu de Carvalho
