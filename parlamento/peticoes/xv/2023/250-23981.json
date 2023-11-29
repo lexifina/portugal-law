@@ -1,0 +1,176 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "23981",
+  "numero": "250",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-11-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-01-05",
+            "entidades": null,
+            "id": "148718",
+            "tipo": null,
+            "titulo": "Audição em 2024-01-05 com Eurico José Marques dos Reis - Presidente da Direção da Associação Movimento Cívico Não Apaguem a Memória (NAM) (Subscritor), Professora Doutora Paula Godinho (Subscritora)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2024-01-10",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915205",
+                "obs": null,
+                "pag": [
+                  "36-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-01-13",
+                "pubLeg": "XV",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/022/2024-01-13/36?pgs=36-41&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": "2024-01-10",
+              "descricao": null,
+              "detalhe": null,
+              "id": "126208",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "123",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2023-12-20",
+        "DataArquivo": "2024-01-10",
+        "DataBaixaComissao": "2023-12-07",
+        "DataEnvioPAR": "2024-01-10",
+        "DataReaberta": "2023-12-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2023-12-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938784f546c6b595759344e6930355a54677a4c545135596a45745957597859533078595745794e574e695a6a41354e474d756347526d&fich=199daf86-9e83-49b1-af1a-1aa25cbf094c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-01-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d554e425130524d5279394562324e31625756756447397a5547563061574e68627938335a474e6d5a5459314e7930774d44426d4c5451774f544974595455325953316c4f5449784d4751784e6d526a4f5459756347526d&fich=7dcfe657-000f-4092-a56a-e9210d16dc96.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-01-10",
+            "dataNomeacao": "2023-12-20",
+            "gp": "L",
+            "id": "7337",
+            "motivoCessacao": "Entrega do Relatório",
+            "nome": "Rui Tavares"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2023-12-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f475a694e6a426d5a4759745a6d45334d4330305a6d497a4c57466a5a544d744e7a466d4d6d55314d445a6b595752694c6e426b5a673d3d&fich=8fb60fdf-fa70-4fb3-ace3-71f2e506dadb.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": [
+      {
+        "DataDocumento": "2023-12-12",
+        "TipoDocumento": "Link",
+        "URL": "https://vimeo.com/231126922"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "23981",
+    "PetAssunto": "Cambedo da Raia e o Pós-Guerra Civil espanhola, os trágicos acontecimentos de dezembro de 1946 e o processo da PIDE n.º 917/46 | Pelo Direito à Memória e ao Ressarcimento",
+    "PetDataEntrada": "2023-11-29",
+    "PeticoesAssociadas": null,
+    "PetId": "23981",
+    "PetLeg": "XV",
+    "PetNr": "250",
+    "PetNrAssinaturas": "2129",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915236",
+        "obs": null,
+        "pag": [
+          "26-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-23",
+        "pubLeg": "XV",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/15/02/018/2023-12-23/26?pgs=26-28&org=PLC"
+      }
+    ]
+  }
+}
