@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 23361/2023
+Sumário: Torna-se pública a revisão do Regulamento e Tabela Geral de Taxas e Licenças.
+Consulta pública do projeto de revisão do Regulamento e Tabela Geral de Taxas e Licenças da Junta de Freguesia de São Sebastião
+Cátia Andreia Carvalho Agostinho, Presidente da Junta de Freguesia de São Sebastião, torna público, nos termos e para efeitos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Junta de Freguesia deliberou, na sua reunião ordinária realizada em 07 de novembro de 2023, aprovar o projeto de revisão do Regulamento e Tabela Geral de Taxas e Licenças da Junta de Freguesia de São Sebastião e submeter o mesmo a consulta pública pelo prazo de trinta dias, contados a partir da data da publicação do presente aviso, na 2.ª série do Diário da República.
+Mais torna público, que o referido projeto de revisão ao regulamento se encontra disponível para consulta, nos serviços administrativos da autarquia, situados na Rua 16 de Maio n.º 28, 2040-494 São Sebastião, durante os respetivos horários normais de atendimento ao público.
+As eventuais sugestões e/ou reclamações deverão ser formuladas por escrito até ao final do mencionado período, dirigidas ao Presidente da Junta de Freguesia de São Sebastião, e entregues nas instalações da Sede da Junta de Freguesia, de acordo com os endereços acima mencionados ou ainda através do e-mail freguesiasaosebastiao@hotmail.com.
+13 de novembro de 2023. - A Presidente da Junta de Freguesia, Cátia Andreia Carvalho Agostinho.
+317089862
