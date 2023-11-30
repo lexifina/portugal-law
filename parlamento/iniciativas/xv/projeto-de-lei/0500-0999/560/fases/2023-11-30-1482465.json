@@ -1,0 +1,472 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "560",
+    "id": "152447",
+    "titulo": "Consagra a possibilidade de opção pelo voto por correspondência, em alternativa ao voto presencial, aos eleitores residentes no estrangeiro nas eleições presidenciais e nas eleições europeias, procedendo à vigésima terceira alteração ao Decreto-Lei n.º 319-A/76, de 3 de maio, que regulamenta a eleição do Presidente da República, à sexta alteração à Lei n.º 14/87, de 29 de abril, que aprova a lei eleitoral para o Parlamento Europeu, e à sétima alteração ao regime jurídico do recenseamento eleitoral, aprovado pela Lei n.º 13/99, de 22 de março, e assegura a implementação, nas próximas eleições europeias, de um projeto-piloto não vinculativo de voto eletrónico não presencial destinado aos eleitores residentes no estrangeiro"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2023-11-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "61073",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2023-11-30",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2023-11-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/15/2/25/80"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "455972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-02",
+                "pubLeg": "XV",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Consagra a possibilidade de opção pelo voto por correspondência, em alternativa ao voto presencial, aos eleitores residentes no estrangeiro nas eleições presidenciais e nas eleições europeias, procedendo à vigésima terceira alteração ao Decreto-Lei n.º 319-A/76, de 3 de maio, que regulamenta a eleição do Presidente da República, à sexta alteração à Lei n.º 14/87, de 29 de abril, que aprova a lei eleitoral para o Parlamento Europeu, e à sétima alteração ao regime jurídico do recenseamento eleitoral, aprovado pela Lei n.º 13/99, de 22 de março, e assegura a implementação, nas próximas eleições europeias, de um projeto-piloto não vinculativo de voto eletrónico não presencial destinado aos eleitores residentes no estrangeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/15/2/25/81"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "455973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-02",
+                "pubLeg": "XV",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/67?pgs=67&org=PLC"
+              }
+            ],
+            "sumario": "Consagra a possibilidade de opção pelo voto por correspondência, em alternativa ao voto presencial, aos eleitores residentes no estrangeiro nas eleições presidenciais e nas eleições europeias, procedendo à vigésima terceira alteração ao Decreto-Lei n.º 319-A/76, de 3 de maio, que regulamenta a eleição do Presidente da República, à sexta alteração à Lei n.º 14/87, de 29 de abril, que aprova a lei eleitoral para o Parlamento Europeu, e à sétima alteração ao regime jurídico do recenseamento eleitoral, aprovado pela Lei n.º 13/99, de 22 de março, e assegura a implementação, nas próximas eleições europeias, de um projeto-piloto não vinculativo de voto eletrónico não presencial destinado aos eleitores residentes no estrangeiro\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/15/2/25/82"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "455974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-02",
+                "pubLeg": "XV",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/67?pgs=67&org=PLC"
+              }
+            ],
+            "sumario": "Consagra a possibilidade de opção pelo voto por correspondência, em alternativa ao voto presencial, aos eleitores residentes no estrangeiro nas eleições presidenciais e nas eleições europeias, procedendo à vigésima terceira alteração ao Decreto-Lei n.º 319-A/76, de 3 de maio, que regulamenta a eleição do Presidente da República, à sexta alteração à Lei n.º 14/87, de 29 de abril, que aprova a lei eleitoral para o Parlamento Europeu, e à sétima alteração ao regime jurídico do recenseamento eleitoral, aprovado pela Lei n.º 13/99, de 22 de março, e assegura a implementação, nas próximas eleições europeias, de um projeto-piloto não vinculativo de voto eletrónico não presencial destinado aos eleitores residentes no estrangeiro\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/15/2/25/83"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "455975",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-02",
+                "pubLeg": "XV",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02?org=PLC"
+              }
+            ],
+            "sumario": "Consagra a possibilidade de opção pelo voto por correspondência, em alternativa ao voto presencial, aos eleitores residentes no estrangeiro nas eleições presidenciais e nas eleições europeias, procedendo à vigésima terceira alteração ao Decreto-Lei n.º 319-A/76, de 3 de maio, que regulamenta a eleição do Presidente da República, à sexta alteração à Lei n.º 14/87, de 29 de abril, que aprova a lei eleitoral para o Parlamento Europeu, e à sétima alteração ao regime jurídico do recenseamento eleitoral, aprovado pela Lei n.º 13/99, de 22 de março, e assegura a implementação, nas próximas eleições europeias, de um projeto-piloto não vinculativo de voto eletrónico não presencial destinado aos eleitores residentes no estrangeiro",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/15/2/25/84"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "455983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-02",
+                "pubLeg": "XV",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "sumario": "Consagra a possibilidade de opção pelo voto por correspondência, em alternativa ao voto presencial, aos eleitores residentes no estrangeiro nas eleições presidenciais e nas eleições europeias, procedendo à vigésima terceira alteração ao Decreto-Lei n.º 319-A/76, de 3 de maio, que regulamenta a eleição do Presidente da República, à sexta alteração à Lei n.º 14/87, de 29 de abril, que aprova a lei eleitoral para o Parlamento Europeu, e à sétima alteração ao regime jurídico do recenseamento eleitoral, aprovado pela Lei n.º 13/99, de 22 de março, e assegura a implementação, nas próximas eleições europeias, de um projeto-piloto não vinculativo de voto eletrónico não presencial destinado aos eleitores residentes no estrangeiro\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CH",
+                "idCadastro": "7338",
+                "nome": "Bruno Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/15/2/25/85"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "455985",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-02",
+                "pubLeg": "XV",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Consagra a possibilidade de opção pelo voto por correspondência, em alternativa ao voto presencial, aos eleitores residentes no estrangeiro nas eleições presidenciais e nas eleições europeias, procedendo à vigésima terceira alteração ao Decreto-Lei n.º 319-A/76, de 3 de maio, que regulamenta a eleição do Presidente da República, à sexta alteração à Lei n.º 14/87, de 29 de abril, que aprova a lei eleitoral para o Parlamento Europeu, e à sétima alteração ao regime jurídico do recenseamento eleitoral, aprovado pela Lei n.º 13/99, de 22 de março, e assegura a implementação, nas próximas eleições europeias, de um projeto-piloto não vinculativo de voto eletrónico não presencial destinado aos eleitores residentes no estrangeiro\n",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "7274",
+                "nome": "Hugo Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "18:42",
+            "linkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/15/2/25/86"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "455986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-12-02",
+                "pubLeg": "XV",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/69?pgs=69&org=PLC"
+              }
+            ],
+            "sumario": "Consagra a possibilidade de opção pelo voto por correspondência, em alternativa ao voto presencial, aos eleitores residentes no estrangeiro nas eleições presidenciais e nas eleições europeias, procedendo à vigésima terceira alteração ao Decreto-Lei n.º 319-A/76, de 3 de maio, que regulamenta a eleição do Presidente da República, à sexta alteração à Lei n.º 14/87, de 29 de abril, que aprova a lei eleitoral para o Parlamento Europeu, e à sétima alteração ao regime jurídico do recenseamento eleitoral, aprovado pela Lei n.º 13/99, de 22 de março, e assegura a implementação, nas próximas eleições europeias, de um projeto-piloto não vinculativo de voto eletrónico não presencial destinado aos eleitores residentes no estrangeiro\n",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Obrigatoriedade de votação na especialidade em Plenário, nos termos da alínea a) do artigo 164.º e do n.º 4 do artigo 168.º da CRP. ",
+    "OevId": "1482465",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "57408",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "66-69"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-02",
+        "pubLeg": "XV",
+        "pubNr": "25",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/025/2023-12-02/66?pgs=66-69&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2023-11-30",
+        "descricao": "Votação do n.º 1 do artigo 1.º e artigos 2.º, 3.º, 4.º e 5.º do projeto de lei ;",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>L</I>",
+        "id": "126042",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "25",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-11-30",
+        "descricao": "Votação do n.º 2 do artigo 1.º e artigo 8.º do projeto de lei, com as alterações constantes da proposta de alteração do PSD;",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>IL</I>, <I> L</I>",
+        "id": "126043",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "25",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2023-11-30",
+        "descricao": "Votação dos artigos 6.º, 7.º e 9.º do projeto de lei;",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CH</I>, <I> IL</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I><BR>Abstenção:<I>L</I>",
+        "id": "126044",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "25",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
