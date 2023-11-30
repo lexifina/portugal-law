@@ -1,0 +1,27 @@
+Decreto-Lei n.º 111/2023
+de 29 de novembro
+Sumário: Clarifica a admissibilidade da atribuição de suplementos remuneratórios pela prestação de trabalho suplementar e de trabalho por turnos.
+O Estatuto de Pessoal dos Bombeiros Profissionais da Administração Local, estabelecido pelo Decreto-Lei n.º 106/2002, de 13 de abril, alterado pelo Decreto-Lei n.º 86/2019, de 2 de julho, procedeu, através do n.º 2 do seu artigo 29.º, à integração do valor do suplemento pelo ónus específico da prestação de trabalho, risco e disponibilidade permanente atribuído aos bombeiros sapadores na escala salarial da respetiva carreira, estabelecendo, no seu artigo 38.º, que, com a entrada em vigor de tal integração, não pode ser atribuído aos bombeiros profissionais qualquer suplemento com a mesma natureza, designadamente relativo ao ónus específico da prestação de trabalho, risco, penosidade e insalubridade e disponibilidade permanente.
+Efetivamente, o serviço do pessoal dos bombeiros profissionais da administração local é de caráter permanente e obrigatório, devendo os trabalhadores assegurar o serviço, quando convocados pelas entidades competentes, relativo às funções de combate a incêndios e, no caso dos sapadores bombeiros florestais, ações de vigilância, de socorro às populações em caso de incêndios, inundações, desabamentos, abalroamentos e em todos os acidentes, catástrofes ou calamidades, de socorro a náufragos e buscas subaquáticas e de socorro e transporte de sinistrados, incluindo a urgência pré-hospitalar, no âmbito do sistema integrado de emergência médica, conforme previsto no artigo 25.º do referido diploma.
+Face à controvérsia jurídica existente a respeito da admissibilidade do pagamento de suplementos por trabalho suplementar e por trabalho por turnos aos bombeiros profissionais da administração local, da qual constituem expressão diversas decisões dos tribunais e pareceres das comissões de coordenação e desenvolvimento regional, I. P., que abordam a questão, e sem prejuízo da necessidade de uma revisão global, ponderada e consensualizada do estatuto dos bombeiros profissionais, cujos trabalhos se encontram em curso, urge clarificar que a integração do valor do respetivo suplemento pelo ónus específico da prestação de trabalho, risco e disponibilidade permanente na sua escala salarial e a proibição de atribuição de qualquer outro suplemento com a mesma natureza não prejudica, desde que verificados os respetivos pressupostos, o direito dos bombeiros profissionais da administração local aos devidos acréscimos remuneratórios associados à prestação de trabalho suplementar e de trabalho por turnos, nos termos da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+Com efeito, o especial ónus que impende sobre os bombeiros profissionais da administração local de, atenta a respetiva atividade, estarem permanentemente disponíveis para, sendo convocados, assegurarem o serviço relativamente a um conjunto especial de funções de superior interesse público, como o combate a incêndios e o socorro às populações em situação de incêndios e outras catástrofes, é compensado pelo suplemento integrado na escala salarial da respetiva carreira, o qual, além de também abranger o ónus específico da prestação de trabalho, risco, penosidade e salubridade, visa apenas compensar tal ónus, que é manifestamente distinto da efetiva prestação de trabalho suplementar, ainda que relativo a funções abrangidas pela disponibilidade permanente, e, bem assim, da prestação de trabalho por turnos, cujos suplementos remuneratórios têm uma natureza distinta daquele e são, como tal, atribuíveis nos termos da LTFP.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente decreto-lei clarifica a admissibilidade da atribuição de suplementos remuneratórios pela prestação de trabalho suplementar e de trabalho por turnos, para efeitos do disposto no Estatuto de Pessoal dos Bombeiros Profissionais da Administração Local, estabelecido pelo Decreto-Lei n.º 106/2002, de 13 de abril, alterado pelo Decreto-Lei n.º 86/2019, de 2 de julho.
+Artigo 2.º
+Norma interpretativa
+Para efeitos do disposto no artigo 38.º do Decreto-Lei n.º 106/2002, de 13 de abril, na sua redação atual, não integram o suplemento pelo ónus específico da prestação de trabalho, risco e disponibilidade permanente atribuído aos bombeiros sapadores, integrado na escala salarial da respetiva carreira:
+a) A prestação de trabalho suplementar nos termos previstos na alínea a) do n.º 3 e no n.º 4 do artigo 159.º e no artigo 162.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, ainda que relativa às funções previstas no n.º 2 do artigo 25.º daquele diploma;
+b) O trabalho por turnos nos termos previstos na alínea b) do n.º 3 e no n.º 4 do artigo 159.º e no artigo 161.º da LTFP.
+Artigo 3.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - José Luís Pereira Carneiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+Promulgado em 18 de novembro de 2023.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 21 de novembro de 2023.
+O Primeiro-Ministro, António Luís Santos da Costa.
+117099817
