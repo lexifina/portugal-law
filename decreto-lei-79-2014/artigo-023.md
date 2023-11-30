@@ -16,4 +16,24 @@ b) Prática docente nos respetivos nível e ciclo de educação e ensino e disci
 
 5 - No âmbito da colaboração com as escolas cooperantes, os estabelecimentos de ensino superior devem apoiar os docentes daquelas escolas, em especial os orientadores cooperantes, no seu desenvolvimento profissional, nomeadamente no domínio da formação de futuros docentes.
 
-6 - Os orientadores cooperantes são abonados pelo estabelecimento de ensino superior das despesas de deslocação e das ajudas de custo nos termos legalmente fixados sempre que se desloquem para participar em ações de formação e reuniões promovidas por aquele no quadro da parceria estabelecida, e não auferem qualquer outra retribuição pelo exercício das funções de colaboração na formação.
+6 - O orientador cooperante pode acompanhar até quatro estudantes que se encontrem a frequentar:
+
+a) O ciclo de estudos conducente ao grau de mestre em Educação Pré-Escolar ou em ensino do 1.º Ciclo do Ensino Básico;
+
+b) O ciclo de estudos conducente ao grau de mestre em Ensino dos 2.º e 3.º Ciclos do Ensino Básico e do Ensino Secundário.
+
+7 - A componente letiva do trabalho semanal a que estão obrigados os orientadores cooperantes é reduzida, até ao limite de seis horas, nos seguintes termos:
+
+a) Em três horas para acompanhamento de um estudante;
+
+b) Em uma hora por cada estudante adicional.
+
+8 - A redução referida no número anterior acresce à redução estabelecida no n.º 1 do artigo 79.º do Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, que aprova o Estatuto da Carreira de Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD).
+
+9 - Aos orientadores cooperantes pode ser autorizada a acumulação de funções docentes no estabelecimento de ensino superior, independentemente do número de horas de componente letiva a que o docente cooperante se encontra sujeito, nos termos dos artigos 77.º e 79.º do ECD até ao limite de:
+
+a) 6 horas letivas semanais; ou
+
+b) 150 horas letivas anuais.
+
+10 - Os orientadores cooperantes são abonados pelo estabelecimento de ensino superior das despesas de deslocação e das ajudas de custo nos termos legalmente fixados sempre que se desloquem para participar em ações de formação e reuniões promovidas por aquele no quadro da parceria estabelecida, e não auferem qualquer outra retribuição pelo exercício das funções de colaboração na formação.

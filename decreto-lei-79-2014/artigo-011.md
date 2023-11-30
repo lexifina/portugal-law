@@ -8,10 +8,14 @@ a) Inclui a observação e colaboração em situações de educação e ensino e
 
 b) Proporciona aos formandos experiências de planificação, ensino e avaliação, de acordo com as funções cometidas ao docente, dentro e fora da sala de aula;
 
-c) Realiza-se em grupos ou turmas dos diferentes níveis e ciclos de educação e ensino abrangidos pelo grupo de recrutamento para o qual o ciclo de estudos prepara, devendo, se necessário, realizar-se em mais de um estabelecimento de educação e ensino, pertencente, ou não, ao mesmo agrupamento de escolas ou à mesma entidade titular, no caso do ensino particular ou cooperativo;
+c) Realiza-se em grupos das creches ou dos jardins-de-infância, bem como nos diferentes níveis e ciclos de ensino abrangidos pelos grupos de recrutamento para os quais o ciclo de estudos prepara;
 
-d) É concebida numa perspetiva de formação para a articulação entre o conhecimento e a forma de o transmitir visando a aprendizagem;
+d) É concebida numa perspetiva de desenvolvimento de competências para a articulação entre conhecimento teórico e prático, numa lógica de resolução adequada de problemas emergentes na prática profissional quotidiana, visando a aprendizagem;
 
 e) É concebida numa perspetiva de desenvolvimento profissional dos formandos e promove nestes uma atitude orientada para a permanente melhoria da aprendizagem dos seus alunos.
 
-2 - A prática supervisionada a que se refere a alínea a) do número anterior corresponde ao estágio de natureza profissional objeto de relatório final referido na alínea b) do n.º 1 do artigo 20.º do Decreto-Lei n.º 74/2006, de 24 de março, alterado pelos Decretos-Leis n.os 107/2008, de 25 de junho, 230/2009, de 14 de setembro, e 115/2013, de 7 de agosto.
+2 - A prática supervisionada a que se refere a alínea a) do número anterior é a componente central do estágio de natureza profissional objeto de relatório final referido na alínea b) do n.º 1 do artigo 20.º do Decreto-Lei n.º 74/2006, de 24 de março, na sua redação atual.
+
+3 - Os candidatos que, à data do ingresso no ciclo de estudos previsto no presente decreto-lei, possuam pelo menos 6 anos completos de serviço docente, com avaliação mínima de Bom, prestado nos últimos 10 anos no respetivo grupo de recrutamento podem optar, em alternativa à prática de ensino supervisionada, por apresentar e defender publicamente um relatório de natureza teórico-prática, sustentado cientificamente, que abranja esse período de docência.
+
+4 - Os termos a que deve obedecer a elaboração do relatório a que se refere o número anterior e o respetivo processo avaliativo são fixados pelos estabelecimentos de ensino superior.

@@ -10,8 +10,12 @@ Os ciclos de estudos que visam a aquisição de habilitação profissional para 
 
 a) Os princípios gerais constantes do n.º 1 do artigo 33.º da Lei de Bases do Sistema Educativo;
 
-b) As orientações curriculares para a educação pré-escolar e os currículos e matrizes curriculares do ensino básico e do ensino secundário;
+b) As orientações curriculares para a educação pré-escolar e as matrizes curriculares-base dos ensinos básico e secundário;
 
-c) Os programas e as metas curriculares;
+c) (Revogada.)
 
-d) As orientações gerais de política educativa.
+d) O perfil dos alunos à saída da escolaridade obrigatória;
+
+e) As aprendizagens essenciais para cada disciplina e ciclo de ensino;
+
+f) As orientações gerais de política educativa.

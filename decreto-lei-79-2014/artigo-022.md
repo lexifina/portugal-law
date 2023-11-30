@@ -16,7 +16,7 @@ c) Número de lugares disponíveis para os estudantes de cada nível e ciclo de 
 
 d) Funções, responsabilidades e competências de todos os intervenientes, incluindo os estudantes;
 
-e) Condições para a realização da prática de ensino supervisionada nas turmas do agrupamento de escolas ou da escola não agrupada, sempre na presença do orientador cooperante;
+e) Condições para a realização da prática de ensino supervisionada nas turmas da escola cooperante, com acompanhamento do orientador cooperante;
 
 f) Condições para a participação dos estudantes noutras atividades de desenvolvimento curricular e organizacional realizadas fora da sala de aula, desde que apoiados pelos orientadores cooperantes;
 
@@ -25,3 +25,9 @@ g) Contrapartidas disponibilizadas à escola pelo estabelecimento de ensino supe
 4 - Os estabelecimentos de ensino superior devem assegurar-se de que as escolas cooperantes possuem os recursos humanos e materiais necessários a uma formação de qualidade.
 
 5 - Cabe aos estabelecimentos de ensino superior participar ativamente no desenvolvimento da qualidade de ensino nas escolas cooperantes, em articulação com os respetivos órgãos de gestão.
+
+6 - As escolas cooperantes que acolham mais do que um estudante dos ciclos de estudos da Educação Pré-Escolar e do 1.º Ciclo do Ensino Básico constituem um núcleo de estágio destinado a desenvolver atividades na escola e de cooperação entre estudantes.
+
+7 - As escolas cooperantes que acolham estudantes dos ciclos de estudos dos 2.º e 3.º Ciclos do Ensino Básico e Ensino Secundário constituem, por grupo de recrutamento ou disciplina, núcleos de estágio incluindo todos os estudantes do respetivo grupo de recrutamento ou disciplina, com vista ao desenvolvimento de atividades na escola e de cooperação entre estudantes.
+
+8 - O regime de organização e funcionamento dos núcleos de estágio previstos nos n.os 6 e 7 é fixado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
