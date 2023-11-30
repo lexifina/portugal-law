@@ -1,0 +1,6 @@
+Aviso n.º 23334/2023
+Sumário: Discussão pública do projeto da 4.ª alteração ao Código Regulamentar do Município de Vila Real.
+Nos termos e para os efeitos previstos no artigo 101.º do Código de Procedimento Administrativo e do disposto no artigo 241.º da Constituição da República Portuguesa, torna público que a Câmara Municipal, em reunião de trinta de outubro de dois mil e vinte e três, deliberou submeter a consulta pública, pelo prazo de 30 dias úteis, a contar do dia seguinte ao da publicação do presente aviso na 2.ª série do Diário da República, o projeto da 4.ª alteração ao Código Regulamentar do Município de Vila Real, concretamente a alteração ao Capítulo IV (Apoio aos Jovens) do Título I da Parte G (Apoios Municipais), que passa a regulamentar na secção II a isenção de IMT aos Jovens até aos 35 anos na aquisição de imóveis para habitação própria permanente, que se encontra disponível para consulta no site institucional do Município em www.cm-vilareal.pt.
+Os interessados poderão dirigir por escrito as suas sugestões à Câmara Municipal de Vila Real para Av. Carvalho Araújo, 5000-657 Vila Real ou através de correio eletrónico para o endereço geral@cm-vilareal.pt, no período acima mencionado.
+9 de novembro de 2023. - O Presidente da Câmara Municipal, Rui Jorge Cordeiro Gonçalves dos Santos.
+317047133
