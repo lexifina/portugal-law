@@ -2,20 +2,12 @@
 
 ### Objetivos
 
-O INOV Contacto tem como objetivos:
+São objetivos do Programa INOV Contacto:
 
-a) Contribuir para a competitividade das empresas, dotando jovens quadros de uma formação complementar em mercados internacionais através do desenvolvimento de projetos e estudos na área da exportação e da internacionalização, bem como da experiência e vivência temporária em mercados estrangeiros;
+a) Contribuir para a competitividade das empresas portuguesas, dotando jovens quadros de uma formação complementar em mercados internacionais, através do aprofundamento e aquisição de conhecimentos, qualificações e competências internacionais ajustadas aos desafios atuais e futuros, oferecendo-lhes uma experiência imersiva e em ambiente laboral que os motive a desenvolver e a implementar soluções inovadoras adequadas às exigências do mercado de trabalho global e de sociedades progressivamente mais multiculturais, inclusivas e digitais;
 
-b) Promover o desenvolvimento de competências de jovens quadros, através de uma experiência de trabalho remunerado, e preparar e facilitar a sua entrada no mercado do trabalho, melhorando a sua capacidade e motivação empreendedora;
+b) Contribuir para uma maior integração e inclusão nos novos modelos de emprego qualificado e internacional;
 
-c) Apoiar a exportação e a internacionalização das empresas e criar uma rede complementar e atualizada de informação sobre mercados internacionais e setores de atividade;
+c) Criar ferramentas e estabelecer parcerias inovadoras que potenciem sinergias entre a qualificação, novas competências e sustentabilidade do emprego com dimensão internacional, assim também contribuindo para aumentar a competitividade da economia portuguesa;
 
-d) Formar jovens quadros na área da internacionalização através da sua integração efetiva, por um período limitado de tempo, em mercados estrangeiros;
-
-e) Possibilitar a integração dos jovens estagiários nas empresas de acolhimento no estrangeiro ou em Portugal, com caráter duradouro;
-
-f) Colmatar insuficiências de quadros especializados nas áreas da exportação e de internacionalização das empresas, através do desenvolvimento de competências relevantes;
-
-g) Desenvolver estudos e projetos concretos na área da exportação, do investimento estrangeiro e da internacionalização das empresas portuguesas;
-
-h) Recolher e sistematizar informação sobre os mercados internacionais.
+d) Desenvolver e consolidar uma comunidade de profissionais com fortes competências internacionais, através da NetworkContacto, rede de talento focada na geração de oportunidades para a economia portuguesa.

@@ -11,3 +11,5 @@ b) Empresas multinacionais com importante implementação em Portugal e com elev
 c) Organizações internacionais vocacionadas para a intervenção na área da internacionalização.
 
 d) Outras entidades públicas ou privadas, cuja missão principal seja a promoção da internacionalização de empresas portuguesas e da sua atividade exportadora, que constituam uma referência a nível nacional e que representem um forte contributo para a inserção internacional das empresas portuguesas, designadamente, os serviços periféricos externos do MNE, os serviços da Agência para o Investimento e Comércio Externo de Portugal, E. P. E., e as equipas externas do Instituto do Turismo de Portugal, I. P.
+
+e) Outras organizações cuja missão seja relevante para a promoção de uma sociedade global mais inclusiva, tolerante e equilibrada, com relevo na economia social internacional.

@@ -2,27 +2,27 @@
 
 ### Despesas elegíveis
 
-1 - No âmbito do INOV Contacto são elegíveis as seguintes despesas por estagiário:
+1 - No âmbito do INOV Contacto são suportadas as seguintes despesas por estagiário:
 
 a) Durante a 1.ª fase:
 
-i) Bolsa de formação mensal, determinada em função do indexante dos apoios sociais, no valor correspondente a duas vezes esse indexante;
+i) Bolsa de formação mensal, no valor correspondente ao nível 12 da tabela remuneratória única (posição remuneratória 1 - técnico superior) do regime jurídico das Carreiras Gerais da Administração Pública;
 
 ii) Subsídio de refeição, nos termos fixados para os trabalhadores da Administração Pública;
 
 iii) Seguro de acidentes de trabalho, segundo a legislação em vigor;
 
-iv) Seguro de acidentes pessoais;
+iv) (Revogada.)
 
 b) Durante a 2.ª fase são elegíveis, para além das despesas previstas na alínea anterior, as seguintes:
 
-i) Subsídio de alojamento, desde o dia da partida para o estrangeiro até ao último dia do estágio, indexado à última tabela publicada do custo de vida da Organização das Nações Unidas;
+i) Subsídio de alojamento, devido desde o dia da partida para o estrangeiro até ao último dia efetivo do estágio no país de destino, de acordo com a tabela publicada no site INOV Contacto;
 
-ii) Subsídio de refeição, de igual valor ao atribuído à generalidade dos trabalhadores que exercem funções públicas;
+ii) Viagens (ida e volta) entre Portugal e o país de estágio, por via aérea e/ou outro transporte público, em classe económica;
 
-iii) Viagem de ida e volta entre Portugal e o local de destino do estágio;
+iii) Seguro de Acidentes Pessoais, que garante a reparação dos acidentes decorrentes de riscos profissionais e extraprofissionais;
 
-iv) Seguro de saúde.
+iv) Seguro de Saúde Internacional.
 
 2 - São ainda suportadas as despesas relacionadas com:
 
@@ -34,10 +34,12 @@ c) A divulgação do INOV Contacto;
 
 d) O recrutamento e seleção dos estagiários;
 
-e) As ações de acolhimento e apoio à integração na vida ativa dos estagiários;
+e) O programa de mentoria;
 
-f) Quaisquer outros encargos decorrentes da implementação da medida que sejam qualificados como custos elegíveis para efeitos de financiamento europeu.
+f) A dinamização da rede NetworkContacto;
 
-3 - Os pagamentos são efetuados pela AICEP, E. P. E., aos destinatários do INOV Contacto, no caso das despesas referidas no n.º 1, e às entidades fornecedoras dos serviços, no caso das despesas referidas no n.º 2.
+g) A aplicação de Inteligência Artificial (IA) ao modelo de matching e de avaliação do estágio;
 
-4 - As regras relativas às despesas elegíveis não previstas no presente diploma são definidas no regulamento interno.
+h) O estudo e prospeção das competências necessárias à economia e sociedade portuguesa do futuro;
+
+i) Quaisquer outros encargos decorrentes da implementação da medida, desde que sejam qualificados como custos elegíveis para efeitos de financiamento europeu.
