@@ -25,3 +25,5 @@ b) O empregador efetue despedimento sem cumprimento das formalidades previstas n
 5 - Para efeitos do disposto na alínea c) do n.º 1, presume-se haver desemprego involuntário quando o fundamento de justa causa invocado pelo trabalhador não seja contraditado pelo empregador ou, sendo-o, o trabalhador faça prova de interposição de acção judicial contra o empregador.
 
 6 - Não são consideradas como desemprego involuntário as situações em que o trabalhador não solicite a renovação do contrato quando esta, nos termos de legislação própria, dependa de requerimento.
+
+7 - É ainda considerada como desemprego involuntário a denúncia do contrato de trabalho por parte do trabalhador com o estatuto de vítima de violência doméstica.
