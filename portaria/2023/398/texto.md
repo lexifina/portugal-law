@@ -1,0 +1,74 @@
+Portaria n.º 398/2023
+de 30 de novembro
+Sumário: Altera a Portaria n.º 183/2015, de 22 de junho, que estabelece o enquadramento aplicável à medida INOV Contacto.
+A Portaria n.º 183/2015, de 22 de junho (retificada pela Declaração de Retificação n.º 33/2015, de 13 de julho), com as alterações que lhe foram introduzidas pela Portaria n.º 196/2017, de 23 de junho, estabelece o enquadramento aplicável à medida INOV Contacto - Programa de Estágios Internacionais de Jovens Quadros.
+A excelência dos resultados alcançados ao longo das vinte e cinco edições do INOV Contacto está bem patente no elevado índice de empregabilidade dos jovens que frequentaram o programa.
+De modo a manter a excelência dos resultados, importa rever o INOV Contacto, reforçar o objetivo de criação de empregos qualificados e sustentáveis e de formação de recursos humanos com competências ajustadas aos modelos organizacionais de trabalho, aptos a desenvolver projetos criativos e inovadores, com potencial impacto nas áreas do investimento estrangeiro, da exportação e da internacionalização das empresas portuguesas.
+O INOV Contacto continuará, no âmbito da política de coesão definida pela UE para 2021-2027, a ser um programa cofinanciado por fundos FSE+, integrado na Estratégia Portugal 2030 que materializa o Acordo de Parceria estabelecido entre Portugal e a Comissão Europeia.
+Assim:
+Considerando as competências de tutela e superintendência sobre a Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP), do Ministro dos Negócios Estrangeiros, previstas no artigo 14.º, n.º 5, do Decreto-Lei n.º 32/2022, de 9 de maio, na redação atual, delegadas no Secretário de Estado da Internacionalização, conforme o ponto 3.3. do Despacho n.º 6550/2022, de 17 de maio de, do Ministro dos Negócios Estrangeiros, publicado no Diário da República, 2.ª série, n.º 100, de 24 de maio de 2022, alterado pelo Despacho n.º 22/2023, de 21 de dezembro de 2022, publicado no Diário da República, 2.ª série, n.º 2, de 3 de janeiro de 2023;
+Considerando que aquelas competências são exercidas em coordenação com o Ministro da Economia e do Mar, nos termos do artigo 14.º, n.º 5, do Decreto-Lei n.º 32/2022, de 9 de maio, na redação atual;
+Considerando o disposto no n.º 1 do artigo 14.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, os programas e as medidas de política de emprego são regulamentadas por portaria do membro do Governo responsável pela área do trabalho, competência delegada pela Ministra do Trabalho, Solidariedade e Segurança Social no Secretário de Estado do Trabalho, nos termos do n.º 1 do Despacho n.º 7910/2022, de 21 de junho, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022;
+E ao abrigo do disposto no ponto 1.6. do Plano Nacional de Implementação de Uma Garantia Jovem (PNI-GJ), aprovado pela Resolução do Conselho de Ministros n.º 104/2013, de 31 de dezembro, e alterado pela Resolução do Conselho de Ministros n.º 188/2021, de 30 de dezembro, manda o Governo, pelo Ministro da Economia e do Mar, pelo Secretário de Estado da Internacionalização e pelo Secretário de Estado do Trabalho, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria altera a Portaria n.º 183/2015, de 22 de junho (retificada pela Declaração de Retificação n.º 33/2015, de 13 de julho), com as alterações que lhe foram introduzidas pela Portaria n.º 196/2017, de 23 de junho, que estabelece o enquadramento aplicável à medida INOV Contacto - Estágios Internacionais de Jovens Quadros.
+Artigo 2.º
+Alteração da Portaria n.º 183/2015, de 22 de junho
+Os artigos 2.º, 4.º, 6.º e 8.º da Portaria n.º 183/2015, de 22 de junho (retificada pela Declaração de Retificação n.º 33/2015, de 13 de julho), com as alterações que lhe foram introduzidas pela Portaria n.º 196/2017, de 23 de junho, passam a ter a seguinte redação:
+«Artigo 2.º
+[...]
+São objetivos do Programa INOV Contacto:
+a) Contribuir para a competitividade das empresas portuguesas, dotando jovens quadros de uma formação complementar em mercados internacionais, através do aprofundamento e aquisição de conhecimentos, qualificações e competências internacionais ajustadas aos desafios atuais e futuros, oferecendo-lhes uma experiência imersiva e em ambiente laboral que os motive a desenvolver e a implementar soluções inovadoras adequadas às exigências do mercado de trabalho global e de sociedades progressivamente mais multiculturais, inclusivas e digitais;
+b) Contribuir para uma maior integração e inclusão nos novos modelos de emprego qualificado e internacional;
+c) Criar ferramentas e estabelecer parcerias inovadoras que potenciem sinergias entre a qualificação, novas competências e sustentabilidade do emprego com dimensão internacional, assim também contribuindo para aumentar a competitividade da economia portuguesa;
+d) Desenvolver e consolidar uma comunidade de profissionais com fortes competências internacionais, através da NetworkContacto, rede de talento focada na geração de oportunidades para a economia portuguesa.
+Artigo 4.º
+[...]
+[...]
+a) [...]
+b) [...]
+c) [...]
+d) [...]
+e) Outras organizações cuja missão seja relevante para a promoção de uma sociedade global mais inclusiva, tolerante e equilibrada, com relevo na economia social internacional.
+Artigo 6.º
+Estrutura e duração do estágio
+1 - O estágio INOV Contacto, que decorre em Portugal e no estrangeiro, é constituído pelas seguintes fases sequenciais, de frequência obrigatória:
+1.ª fase - período de formação em Portugal, que inclui:
+a) Curso intensivo de práticas internacionais Campus Get together, com início após a aceitação do convite por parte do estagiário;
+b) Período de formação em contexto real de trabalho, cuja realização e exata duração será definida mediante o interesse e disponibilidade das entidades de acolhimento em Portugal.
+2.ª fase - estágio na entidade de acolhimento, que consiste em formação em contexto real de trabalho, no estrangeiro, em regime presencial, podendo, em casos justificados, ser adotado o regime híbrido, nos termos definidos pela entidade de acolhimento.
+2 - A edição do INOV Contacto é formalmente encerrada com um seminário destinado à entrega dos certificados do estágio, balanço da edição, partilha de experiências dos estagiários e inserção na rede NetworkContacto.
+3 - O estágio tem uma duração global ininterrupta de 6 a 12 meses.
+4 - Nos casos em que a entidade de acolhimento seja uma multinacional sem estrutura física em Portugal, o estágio no estrangeiro poderá ter início logo após o termo do curso de práticas internacionais, referido na alínea a) do n.º 1.
+5 - A AICEP, E. P. E., não assume quaisquer responsabilidades por atrasos, dificuldades ou impossibilidade de realização do estágio, por motivos que não lhe sejam imputáveis, designada, mas não exclusivamente, os relativos à emissão de vistos ou outras formalidades de entrada ou permanência no país de destino, reservando-se o direito de proceder à anulação do estágio, caso se verifique a impossibilidade definitiva da sua realização ou continuação.
+6 - A seleção e indicação do local de realização do estágio, em Portugal e no estrangeiro, é da inteira responsabilidade da AICEP, E. P. E., sendo comunicada ao estagiário no final do curso de práticas internacionais.
+Artigo 8.º
+[...]
+1 - No âmbito do INOV Contacto são suportadas as seguintes despesas por estagiário:
+a) Durante a 1.ª fase:
+i) Bolsa de formação mensal, no valor correspondente ao nível 12 da tabela remuneratória única (posição remuneratória 1 - técnico superior) do regime jurídico das Carreiras Gerais da Administração Pública;
+ii) [...]
+iii) [...]
+iv) (Revogada.)
+b) Durante a 2.ª fase são elegíveis, para além das despesas previstas na alínea anterior, as seguintes:
+i) Subsídio de alojamento, devido desde o dia da partida para o estrangeiro até ao último dia efetivo do estágio no país de destino, de acordo com a tabela publicada no site INOV Contacto;
+ii) Viagens (ida e volta) entre Portugal e o país de estágio, por via aérea e/ou outro transporte público, em classe económica;
+iii) Seguro de Acidentes Pessoais, que garante a reparação dos acidentes decorrentes de riscos profissionais e extraprofissionais;
+iv) Seguro de Saúde Internacional.
+2 - [...]
+a) [...]
+b) [...]
+c) [...]
+d) [...]
+e) O programa de mentoria;
+f) A dinamização da rede NetworkContacto;
+g) A aplicação de Inteligência Artificial (IA) ao modelo de matching e de avaliação do estágio;
+h) O estudo e prospeção das competências necessárias à economia e sociedade portuguesa do futuro;
+i) Quaisquer outros encargos decorrentes da implementação da medida, desde que sejam qualificados como custos elegíveis para efeitos de financiamento europeu.»
+Artigo 3.º
+Entrada em vigor
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+2 - As alterações ora introduzidas nos artigos 2.º, 4.º, 6.º e 8.º produzem efeitos à data do início do Programa.
+O Ministro da Economia e do Mar, António José da Costa Silva, em 22 de novembro de 2023. - O Secretário de Estado da Internacionalização, Bernardo Forjaz Vieira Ivo Cruz, em 23 de novembro de 2023. - O Secretário de Estado do Trabalho, Luís Miguel de Oliveira Fontes, em 23 de novembro de 2023.
+117106352
