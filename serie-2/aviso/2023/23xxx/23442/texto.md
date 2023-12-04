@@ -1,0 +1,8 @@
+Aviso n.º 23442/2023
+Sumário: Consulta pública do projeto de alteração ao Regulamento de Trânsito do Município de Beja.
+Consulta Pública do Projeto de Alteração ao Regulamento de Trânsito do Município de Beja
+Paulo Jorge Lúcio Arsénio, Presidente da Câmara Municipal de Beja, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Anexo à Lei n.º 75/2013, de 12 de setembro, na sua atual redação, em cumprimento e para efeitos do disposto no artigo 56.º da mesma Lei e no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, torna público que a Câmara Municipal de Beja, na sua reunião ordinária de 15.11.2023, deliberou submeter a consulta pública o Projeto de Alteração ao Regulamento de Trânsito do Município de Beja.
+O processo poderá ser consultado no Gabinete de Gestão da Mobilidade (GGM) desta Câmara Municipal, na Rua de Angola n.º 5, em Beja, durante o horário de expediente, e na página eletrónica oficial do Município, no Boletim Municipal Eletrónico de 2023, em www.cm-beja.pt
+A consulta pública decorrerá pelo prazo de 30 (trinta) dias úteis, contados a partir da publicação de Aviso na 2.ª série do Diário da República, e as sugestões deverão ser formuladas por escrito, dirigidas ao Presidente da Câmara Municipal de Beja, podendo ser apresentadas no Gabinete de Gestão da Mobilidade (GGM), ou remetidas por correio para a morada Rua de Angola n.º 5, 7800-468 Beja, ou ainda por correio eletrónico para o endereço transito@cm-beja.pt, dentro do referido prazo.
+17 de novembro de 2023. - O Presidente da Câmara Municipal, Paulo Jorge Lúcio Arsénio.
+317073889
