@@ -1,0 +1,14 @@
+# Resolução do Conselho do Governo Regional n.º 1228/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 222/2023, de 2023-12-04
+
+**Sumário:** Autoriza a venda através de hasta pública, do prédio urbano destinado a armazém e atividade industrial, localizado no Sítio da Quinta São Vicente, freguesia e município de São Vicente, inscrito na matriz predial sob o artigo 2692 e descrito na Conservatória do Registo Predial de São Vicente sob o n.º 966, cujo procedimento decorrerá através da Direção Regional do Património.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1228/2023
+Sumário: Autoriza a venda através de hasta pública, do prédio urbano destinado a armazém e atividade industrial, localizado no Sítio da Quinta São Vicente, freguesia e município de São Vicente, inscrito na matriz predial sob o artigo 2692 e descrito na Conservatória do Registo Predial de São Vicente sob o n.º 966, cujo procedimento decorrerá através da Direção Regional do Património.
+Texto: Resolução n.º 1228/2023 Considerando que, o Governo Regional tem vindo a desenvolver uma política de rentabilização do património imobiliário da Região Autónoma da Madeira, que se revele dispensável à prossecução do plano de investimentos do Governo Regional e ao funcionamento dos seus serviços; Considerando que a Região Autónoma da Madeira é legitima proprietária do prédio urbano, conhecido como, “Antiga Adega Cooperativa de São Vicente”, localizado no Sítio da Quinta São Vicente, freguesia e concelho de São Vicente, o qual reveste carácter excedentário, não sendo necessário à prossecução de interesse público, sendo atualmente a alienação a solução mais adequada para a sua rentabilização; Considerando que a alienação, realizada por hasta pública, privilegia a publicidade na perspetiva de apelo ao mercado e em condições de ampla concorrência, maximizando a eventual contrapartida financeira para a Região Autónoma da Madeira; Considerando que está assim salvaguardado o interesse público. O Conselho do Governo reunido em plenário em 30 de novembro de 2023, resolve: Autorizar, nos termos do n.º 1, do artigo 55.º do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 24/2017/M de 3 de agosto, conjugado com a alínea i) do artigo 69.º do Estatuto Político Administrativo da Região Autónoma da Madeira, a venda através de hasta pública, do prédio urbano destinado a armazém e atividade industrial, localizado no Sítio da Quinta São Vicente, freguesia e concelho de São Vicente, inscrito na matriz predial sob o artigo 2692 e descrito na Conservatória do Registo Predial de São Vicente sob o n.º 966, cujo procedimento decorrerá através da Direção Regional do Património.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, no exercício da Presidência, Jorge Maria Abreu de Carvalho
