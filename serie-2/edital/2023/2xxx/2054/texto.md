@@ -1,0 +1,9 @@
+Edital n.º 2054/2023
+Sumário: Estabelece o período de discussão pública, para apresentação de sugestões, do Regulamento do Auditório Municipal de Tondela.
+Consulta pública da proposta de Regulamento do Auditório Municipal de Tondela
+Fátima Carla Dias Antunes Borges, Presidente da Câmara Municipal de Tondela, torna público, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal, em reunião ordinária de 24 de outubro de 2023, deliberou submeter a proposta de Regulamento do Auditório Municipal de Tondela a consulta pública, para recolha de sugestões, pelo prazo de 30 dias, a contar da data de publicação do presente Edital no Diário da República.
+Durante o referido período, poderão os interessados consultar o documento no Balcão Único do Município (Largo da República, 16, 3464-001 Tondela), no Museu Terras de Besteiros (Solar de Santa Ana, Rua Dr. Simões de Carvalho, 3460-588 Tondela), no Gabinete de Eventos e Projetos Culturais (Rua dos Combatentes da Grande Guerra, 16, 3460-550 Tondela) ou ainda na página eletrónica da Autarquia, através do endereço https://www.cm-tondela.pt/.
+As sugestões que os interessados entendam formular deverão ser dirigidas à Exma. Senhora Presidente da Câmara Municipal de Tondela e ser entregues por escrito, até ao término do prazo de consulta pública, através de uma das seguintes formas: presencialmente nas instalações do Município; por via postal para a morada: Largo da República, 16, 3464-001 Tondela; ou por via eletrónica através do endereço geral@cm-tondela.pt.
+Para conhecimento geral, o presente Edital será afixado nos locais de estilo deste concelho, bem como publicado no sítio eletrónico do Município e na 2.ª série do Diário da República.
+26 de outubro de 2023. - A Presidente da Câmara, Fátima Carla Dias Antunes Borges.
+317006244
