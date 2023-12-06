@@ -4,7 +4,7 @@
 
 Estão sujeitas a registo:
 
-a) As acções de interdição do comerciante individual e de levantamento desta;
+a) (Revogada.);
 
 b) As acções que tenham como fim, principal ou acessório, declarar, fazer reconhecer, constituir, modificar ou extinguir qualquer dos direitos referidos nos artigos 3.º a 8.º;
 
@@ -22,7 +22,7 @@ h) As decisões finais, com trânsito em julgado, proferidas nas acções e proc
 
 i) As sentenças de declaração de insolvência de comerciantes individuais, de sociedades comerciais, de sociedades civis sob forma comercial, de cooperativas, de agrupamentos complementares de empresas, de agrupamentos europeus de interesse económico e de estabelecimentos individuais de responsabilidade limitada, e as de indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, bem como o trânsito em julgado das referidas sentenças;
 
-j) As sentenças, com trânsito em julgado, de inabilitação e de inibição de comerciantes individuais para o exercício do comércio e de determinados cargos, bem como as decisões de nomeação e de destituição do curador do inabilitado;
+j) As decisões judiciais, com trânsito em julgado, que decretem ou façam cessar medidas de acompanhamento de comerciantes individuais relativas ao exercício do comércio ou para o exercício do cargo de gerente, administrador ou de outro membro de órgão social sujeito a registo, bem como as decisões de nomeação e de destituição do acompanhante;
 
 l) Os despachos de nomeação e de destituição do administrador judicial e do administrador judicial provisório da insolvência, de atribuição ao devedor da administração da massa insolvente, assim como de proibição da prática de certos actos sem o consentimento do administrador da insolvência e os despachos que ponham termo a essa administração;
 

@@ -69,3 +69,5 @@ f) O cancelamento, total ou parcial, dos registos.
 6 - As decisões judiciais previstas na alínea s) do n.º 1 são averbadas, respectivamente, à inscrição do despacho inicial de exoneração do passivo restante e à do despacho final que determine essa exoneração.
 
 7 - A decisão judicial prevista na alínea t) do n.º 1 é averbada à inscrição da decisão de encerramento do processo de insolvência que publicite a sujeição da execução de plano de insolvência a fiscalização.
+
+8 - A cessação de funções prevista na alínea l) do n.º 1 é averbada oficiosa e gratuitamente, na sequência da comunicação ao Instituto dos Registos e do Notariado, I. P., das decisões de inibição e de destituição para efeitos de integração da informação na base de dados de inibições e destituições.
