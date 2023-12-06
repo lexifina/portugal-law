@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Rw23Vat1crExYT4G5DSbTtIcbaTrKAsLCDjJmdaRvIuxQmpjNXlteM0UBC1odjp2f3HP5j03ofnQYCU4ykN5sgLpQhNGwtmd1YOsD3gyJe0gSxSVB7n41uHJAoUu1bht3Lw0G8a7mmxpMM%2bLxZ2Tr7tx1ywCpqOW044tjbCsexIbLe8xH4ECVffSpi6OnIIVGxWCT3vfv%2bBY3obnTzzLwqcBV7oXMoYM26a4iedsSfimyISCEw6ViRgV0E61t7DS%2fcBDOu%2feMsWNgZnFHJUyMeRb9h41S%2bqszPi1DzGckzthTAU2WiQhpNM09OMX6S7KPKg6G3Wvn4YPHc5We6hp%2b%2f3KCSLFH0%2f%2fObIIumnChLVJKIOems%2b4Rk75IkM3%2fiYlk8XjTqDbzNg5%2fyJT%2fru%2fDA%3d%3d&fich=RequerimentosXV_json.txt&Inline=true",
+  "ficheiro_sha256": "5e72bb83b1dc3ce7aad3688787c6d2f5aca64e4843eb96b97466a68fa5bcc512",
+  "legislatura": "XV",
+  "id": "155440",
+  "tipo": "Pergunta",
+  "numero": "269",
+  "data_registo": "2023-12-06",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Aumento das desigualdades entre as forças e serviços de segurança.",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "7395",
+        "nome": "Joaquim Miranda Sarmento"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4396",
+        "nome": "Andreia Neto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3918",
+        "nome": "Paula Cardoso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6531",
+        "nome": "Mónica Quintela"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6885",
+        "nome": "Ofélia Ramos"
+      }
+    ],
+    "DataEnvio": "2023-12-07",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2023-12-07",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministro da Administração Interna",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2024-02-20",
+            "docRemetida": null,
+            "entidade": "Ministro da Administração Interna",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e324a695a5463305a6a6b744d4751314f4330304d6a67304c54686d5a4755744f47466b59546c6d596a6c6d4d7a4e6c4c6e426b5a673d3d&fich=7bbe74f9-0d58-4284-8fde-8ada9fb9f33e.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2023-12-06",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764e3251314f47526a4e6a4d745a544d324e4330304d475a6c4c5745335a6d4d745a4749324d545534595441354d6d4e684c6e426b5a673d3d&fich=7d58dc63-e364-40fe-a7fc-db6158a092ca.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "155440",
+    "Legislatura": "XV",
+    "Nr": "269",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Pergunta"
+  }
+}
