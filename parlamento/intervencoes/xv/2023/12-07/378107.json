@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=m9r6FWcSt2nA9u8T2Vk6AAUQfS0TCvhb54O%2fxs1VG6Czn6gKvHp7G6F3%2fS6npZLEDDRlAtnxhhtirnbwBwZ7c1VhSXTB5Lc4hlIXLulUKxGpRzLONkZMv8qx%2fdTsTNoFnCZ515B%2foivDxQcKO728Rm1XXdI%2b0NBijv30F9SmhQWRyGq57nAySNDR4Smgh6DrZFS0NHpm54S8fJ0cdHLp8r599LSCpJ7%2fqphY%2f06kW53OpWLytOlwjW36YlDxPJMDW2YSLPCx6I7W%2bfPPeb5U%2bFfmU4ycqURIoeMKZd%2fug5K4u9G18haEkwoEVX4zQexrJvdthjxj7LSjG%2ftcDjo9AGAls3iBBTnSEF50RFFA2%2bc%3d&fich=IntervencoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "c40f991f7adce5e4b4ee7c09cd0ecb9a39a990c5d1a5c648fe9aa9839653ca24",
+  "legislatura": "XV",
+  "id": "378107",
+  "tipo": "Intervenção",
+  "orador": "Ricardo Mestre (Secretário de Estado da Saúde)",
+  "data_registo": "2023-12-07",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "115177",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "115177",
+        "tipo": "ITG",
+        "titulo": "Interpelação - Resolver o impasse nas negociações com os profissionais de saúde"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Responde aos Pedidos de Esclarecimento de Fernanda Velez (PSD), Guilherme Almeida (PSD), Rui Tavares (L), Inês Barroso (PSD) e Patrícia Dantas (PSD), no âmbito do debate da Interpelação ao Governo n.º 9/XV/2.ª (BE) — Resolver o impasse nas negociações com os profissionais de saúde.",
+        "duracao": "00:03:15:792",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_12_07_15_00_00_clean_14_plenario.xml&idsegmento=26"
+      }
+    ],
+    "DataReuniaoPlenaria": "2023-12-07",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "378107",
+    "IdDebate": "35557",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XV",
+    "MembrosGoverno": {
+      "cargo": "Secretário de Estado da Saúde",
+      "governo": "XXIII GOVERNO CONSTITUCIONAL",
+      "nome": "Ricardo Mestre"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "378107",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "30-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-09",
+        "pubLeg": "XV",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/026/2023-12-09/30?pgs=30-31&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde aos pedidos de esclarecimento dos Deputados Fernanda Velez e Guilherme Almeida (PSD), Rui Tavares (L), Inês Barroso e Patrícia Dantas (PSD).",
+    "Sessao": "2",
+    "Sumario": "Resolver o impasse nas negociações com os profissionais de saúde.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
