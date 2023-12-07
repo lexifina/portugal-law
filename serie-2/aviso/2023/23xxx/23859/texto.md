@@ -1,0 +1,8 @@
+Aviso n.º 23859/2023
+Sumário: Consulta pública - proposta de alterações ao Regulamento para atribuição de habitações em regime de venda a custos controlados e em regime de venda em propriedade resolúvel do Município de Portimão.
+Proposta de alterações ao Regulamento para Atribuição de habitações em regime de venda a custos controlados e em regime de venda em propriedade resolúvel do Município de Portimão
+Isilda Varges Gomes, Presidente da Câmara Municipal de Portimão, torna público para os devidos efeitos, que a Câmara Municipal de Portimão, na sua reunião ordinária de 08 de novembro de 2023, deliberou submeter a consulta pública para recolha de sugestões, a proposta de alterações ao Regulamento para Atribuição de habitações em regime de venda a custos controlados e em regime de venda em propriedade resolúvel do Município de Portimão, em cumprimento do preceituado no n.º 1 do artigo 101.º do Código do Procedimento Administrativo.
+Assim, durante 30 (trinta) dias, contados a partir da publicação do Aviso na 2.ª série do Diário da República, a proposta de alterações ao Regulamento encontra-se disponível para consulta e recolha de sugestões no Balcão Virtual desta Câmara Municipal, no sítio www.cm-portimao.pt, bem como em suporte físico no Balcão Único Municipal sito na Rua do Comércio, n.º 31, em Portimão, de segunda a sexta-feira, no seguinte horário: 09h00-17h00.
+As sugestões, deverão ser dirigidas à Presidente da Câmara Municipal de Portimão, por escrito ou por correio eletrónico: geral@cm-portimao.pt e enviadas até às 16:00 horas do último dia do prazo acima referido.
+15 de novembro de 2023. - A Presidente da Câmara Municipal de Portimão, Isilda Varges Gomes.
+317072349
