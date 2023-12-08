@@ -18,4 +18,4 @@ f) Decreto-Lei n.º 299/97, de 31 de Outubro;
 
 g) Portaria n.º 149/2003, de 13 de Fevereiro.
 
-2 - Mantém-se em vigor, em tudo o que não contrarie o previsto no presente decreto-lei, o disposto no Decreto-Lei n.º 328/99, de 18 de Agosto, alterado pelos Decretos-Leis n.os 207/2002, de 17 de Outubro, e 50/2009, de 27 de Fevereiro.
+2 - (Revogado.)
