@@ -1,0 +1,21 @@
+Resolução do Conselho de Ministros n.º 163/2023
+Sumário: Autoriza o Exército a realizar a despesa relativa ao fornecimento de alimentação.
+O Exército Português tem por missão principal participar, de forma integrada, na defesa militar da República, sendo fundamentalmente vocacionado para a geração, preparação e sustentação de forças da componente operacional do sistema de forças.
+Decorrente das especificidades operacionais resultantes do cumprimento da sua missão, o Exército Português deve fornecer diariamente alimentação confecionada aos militares que prestam serviço nas suas unidades, estabelecimentos e órgãos, conforme decorre do n.º 1 do artigo 1.º e do artigo 5.º do Decreto-Lei n.º 329-G/75, de 30 de junho, na sua redação atual.
+Como tal, a despesa com alimentação constitui-se como uma das mais críticas para o normal funcionamento e desempenho operacional do Exército, afigurando-se como essencial para que este se encontre em condições de cumprir as missões que lhe são confiadas.
+Acresce ainda a necessidade, por parte dos Estabelecimentos Militares de Ensino, de fornecer diariamente alimentação aos militares que prestam serviço naqueles estabelecimentos, bem como aos alunos neles matriculados.
+A instabilidade do mercado, com a volatilidade dos preços dos bens alimentares e com os operadores económicos a terem pouca disponibilidade para manutenção dos mesmos preços durante períodos alargados, aconselha, na atual conjuntura, a fixar a execução da contratação inerente a este encargo pelo período de um ano.
+Dada a necessidade de garantir, em tempo oportuno, a adjudicação e celebração dos contratos relativos ao fornecimento de géneros, ao fornecimento de alimentação confecionada e à prestação de serviços de alimentação a todas as Unidades, Estabelecimentos e Órgãos do Exército, por forma a evitar a interrupção do seu fornecimento, pondo em causa o cumprimento das várias missões atribuídas àquele Ramo das Forças Armadas, torna-se necessário autorizar a realização da correspondente despesa, para o período compreendido entre 1 de julho de 2024 e 30 de junho de 2025.
+Face ao valor estimado da despesa a realizar e ao facto de que a execução da mesma dará lugar a encargos orçamentais em mais do que um ano económico, é necessário obter a prévia autorização através de Resolução do Conselho de Ministros.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os 1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, dos artigos 44.º a 47.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Exército Português a realizar a despesa relativa ao fornecimento de géneros, de alimentação confecionada e prestação de serviços de alimentação a todas as Unidades, Estabelecimentos e Órgãos do Exército Português, por um período de um ano, compreendido entre 1 de julho de 2024 a 30 de junho de 2025, até ao montante máximo de 26 088 123 EUR, ao qual acresce o imposto sobre valor acrescentado à taxa (IVA) às taxas legais em vigor
+2 - Determinar que os encargos com a despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA às taxas legais em vigor:
+a) 2024 - 12 718 425 EUR;
+b) 2025 - 13 369 698 EUR.
+3 - Estabelecer que os montantes fixados no número anterior para cada ano económico podem ser acrescidos do saldo apurado no ano lhe antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos por verbas adequadas a inscrever no orçamento do Exército Português.
+5 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da defesa nacional, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 29 de novembro de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+117130141
