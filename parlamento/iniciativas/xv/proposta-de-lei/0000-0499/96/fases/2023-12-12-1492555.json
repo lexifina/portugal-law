@@ -1,0 +1,52 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "96",
+    "id": "173094",
+    "titulo": "Altera os Estatutos de Associações Públicas Profissionais"
+  },
+  "fase": "Veto (Receção)",
+  "codigo_fase": "409",
+  "data_registo": "2023-12-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338794d5449354d6a557a4e6930304f546c6b4c5451784e444974596a41774d4330794d54566d4f5455774e575133596d51756347526d&fich=21292536-499d-4142-b000-215f9505d7bd.pdf&Inline=true",
+        "anexoNome": "Mensagem do Presidente da República (Decreto n.º 97/XV)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953396b4e54686c4e324d335a69316c5a57517a4c54517a4e6a67744f47566b59793168596a673559324a6d4e6d45785a6a55756347526d&fich=d58e7c7f-eed3-4368-8edc-ab89cbf6a1f5.pdf&Inline=true",
+        "anexoNome": "Mensagem do Presidente da República (Decreto n.º 107/XV)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c32595338324e6d4e694f47526a5953316a597a51774c5452694d546374596a4a6b4d4330785a5467774d3259315a544a6c596a51756347526d&fich=66cb8dca-cc40-4b17-b2d0-1e803f5e2eb4.pdf&Inline=true",
+        "anexoNome": "Mensagem do Presidente da República (Decreto n.º 111/XV)"
+      }
+    ],
+    "CodigoFase": "409",
+    "Comissao": null,
+    "DataFase": "2023-12-12",
+    "EvtId": "120",
+    "Fase": "Veto (Receção)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Decretos n.ºs 97/XV, 107/XV e 111/XV",
+    "OevId": "1492555",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
