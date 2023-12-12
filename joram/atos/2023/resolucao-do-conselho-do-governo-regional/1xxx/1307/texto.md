@@ -1,0 +1,14 @@
+# Resolução do Conselho do Governo Regional n.º 1307/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 227/2023, de 2023-12-12
+
+**Sumário:** Louva publicamente o Dr. Jorge Paulo Antunes de Oliveira pelas qualidades evidenciadas ao longo da sua vida profissional.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1307/2023
+Sumário: Louva publicamente o Dr. Jorge Paulo Antunes de Oliveira pelas qualidades evidenciadas ao longo da sua vida profissional.
+Texto: Resolução n.º 1307/2023 Considerando que o Dr. Jorge Paulo Antunes de Oliveira, passou à situação de aposentado a 1 de dezembro de 2023, e consequentemente, cessou o exercício de funções como Provedor da Administração Pública Regional; Considerando que ao longo de 43 anos de exercício de funções públicas, contribuiu de forma exemplar, competente e briosa para o cumprimento do interesse público e da boa administração da coisa pública; Considerando o modo sério e excelso como exerceu, desde os anos 80, os cargos de Inspetor Regional do Trabalho, de Diretor Regional da Segurança Social, de Diretor Regional da Administração Pública e Local, no qual permaneceu durante 27 anos, e ainda de Técnico Especialista do Gabinete do Vice-Presidente do Governo Regional e dos Assuntos Parlamentares, desde 2019; Considerando que a dedicação e responsabilidade com que desempenhou as diversas funções públicas que abraçou, para além do seu profundo conhecimento e elevada competência técnica, rigor e determinação, deixaram uma marca indelével da qual se deve dar pública nota e reconhecimento, pelo forte contributo que deu para o crescimento e sedimentação da administração pública regional autónoma tal como a conhecemos hoje; Considerando que o reconhecimento das suas qualidades pessoais, sentido de justiça, independência e humanismo o conduziram, com todo o mérito, ao cargo de Provedor da Administração Pública Regional, que ocupava até à sua aposentação; Considerando que é da mais elementar justiça que ao Dr. Jorge Paulo Antunes de Oliveira seja endereçado o maior reconhecimento e encómio, pela dedicação com que sempre norteou o exercício das suas funções nos vários Departamentos do Governo Regional da Madeira, no decurso de uma extensa e profícua carreira profissional. O Conselho do Governo reunido em plenário em 7 de dezembro de 2023, resolve: Louvar publicamente o Dr. Jorge Paulo Antunes de Oliveira pelas qualidades evidenciadas ao longo da sua vida profissional, bem como pela demonstração de um irrepreensível espírito de missão e dedicação à causa pública, tornando-o justo merecedor do público louvor, que ora lhe é atribuído.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, no exercício da Presidência, Jorge Maria Abreu de Carvalho
