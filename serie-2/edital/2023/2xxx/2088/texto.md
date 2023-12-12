@@ -1,0 +1,7 @@
+Edital n.º 2088/2023
+Sumário: Consulta pública do projeto do Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior da União das Freguesias de Monte Redondo e Carreira.
+Consulta pública do projeto do Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior da União das Freguesias de Monte Redondo e Carreira
+Céline Moreira Gaspar, Presidente da Junta de Freguesia, torna público que a Junta de Freguesia da União das Freguesias de Monte Redondo e Carreira, em sede de reunião extraordinária realizada no dia 6 de novembro de 2023, deliberou submeter a consulta pública o projeto de "Regulamento de Atribuição de Bolsas de Estudo a Estudantes do Ensino Superior", pelo período de 30 (trinta) dias a contar da data da publicação do presente edital na 2.ª série do Diário da República, nos termos e para os efeitos previstos no artigo 101.º do Código do Procedimento Administrativo, com o intuito de promover a recolha de sugestões. O projeto de Regulamento encontra -se disponível para consulta na sede da Junta de Freguesia, sito Rua Albano Alves Pereira n.º 3 2425-617 Monte Redondo, bem como no sítio oficial da Junta de Freguesia na Internet, em
+https://www.uf-monteredondoecarreira.pt/. As sugestões deverão ser dirigidas à Presidente da Junta por correio postal, através do endereço de correio eletrónico freguesiamonteredondoecarreira@gmail.com, ou entregues diretamente nos serviços.
+17 de novembro de 2023. - A Presidente da Junta, Céline Moreira Gaspar.
+317078319
