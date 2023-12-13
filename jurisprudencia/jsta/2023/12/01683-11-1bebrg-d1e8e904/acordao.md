@@ -1,0 +1,29 @@
+# Acórdão do Supremo Tribunal Administrativo de 2023-12-13, processo 01683/11.1BEBRG
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01683/11.1BEBRG
+
+**Data do Acordão:** 12/13/2023
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; IVA; INCÊNDIO; FACTURAS; DEDUÇÃO; PRINCÍPIO DO INQUISITÓRIO; ÓNUS DE PROVA
+
+**Nº Convencional:** JSTA000P31696
+
+**Nº do Documento:** SA22023121301683/11
+
+**Recorrente:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A..., S.A.
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O princípio do inquisitório encontra-se consagrado no artigo 58.º da Lei Geral Tributária (LGT) e consubstancia-se no dever na AT de realização oficiosa de todas as diligências necessárias para a descoberta da verdade material, sendo que é um princípio conformador da actividade da AT, na formação do acto lesivo dos interesses legalmente protegidos dos administrados e é, por isso, uma garantia não impugnatória do sujeito passivo e está aquém do ónus da prova, pelo que a verdade material ínsita no supracitado artigo se consubstancia numa verdade extraprocessual, que não é aquela que se afere pela prova ou não prova de factos.
+
+II - Ao contrário do alegado pela Recorrente, a observância dos mencionados princípios da descoberta da verdade material, do inquisitório e da colaboração, não se traduz em qualquer dever da AT de se substituir à impugnante na realização da prova, redundando numa inversão do ónus da prova, dado que, trata-se de matéria que está aquém do ónus da prova, o que significa que, só no final, depois de concluídas as pertinentes diligências para obter os elementos relevantes no domínio apontado, seria feita a apreciação de todo o matéria disponível no sentido de saber se existiam elementos para validar e com que alcance a pretensão do sujeito passivo, sendo nesta fase que funcionaria então o ónus da prova a que alude a Recorrente.
