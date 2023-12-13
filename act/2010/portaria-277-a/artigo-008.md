@@ -4,7 +4,7 @@
 
 1 - Nas candidaturas ao Porta 65 - Jovem ou ao Porta 65 +, no caso dos agregados monoparentais, em que o candidato opte por apresentar os rendimentos dos últimos seis meses, a declaração de IRS é substituída por:
 
-a) Comprovativos de todos os rendimentos auferidos nesse período emitidos pela entidade pagadora, nacional ou estrangeira, ou por outros documentos que evidenciem o respetivo recebimento, nomeadamente obtidos dos Portais da Autoridade Tributária e Aduaneira e da segurança social, que atestem os rendimentos de pensões, os rendimentos prediais, o valor mensal de prestações sociais recebidas de forma regular, o valor mensal de apoios à habitação recebidos de forma regular e os valores de outros rendimentos recebidos de forma regular ou periódica; ou
+a) Comprovativos de todos os rendimentos auferidos nesse período emitidos pela entidade pagadora, nacional ou estrangeira, ou por outros documentos que evidenciem o respetivo recebimento, nomeadamente obtidos dos portais da Autoridade Tributária e Aduaneira e da Segurança Social, que atestem os rendimentos de pensões, os rendimentos prediais, o valor mensal de prestações sociais recebidas de forma regular e os valores de outros rendimentos recebidos de forma regular ou periódica; ou
 
 b) Recibos ou, nos casos em que não seja obrigatória a sua emissão, faturas emitidas nos termos legais, que atestem os rendimentos empresariais ou profissionais da categoria B do CIRS.
 
