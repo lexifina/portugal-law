@@ -1,0 +1,797 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "33984",
+  "numero": "254",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2023-12-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-04",
+            "entidades": null,
+            "id": "148783",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-04 com Tiago Lila, Júlia Branco, André Almeida"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915207",
+                "obs": null,
+                "pag": [
+                  "23-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-06-29",
+                "pubLeg": "XVI",
+                "pubNr": "17",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/017/2024-06-29/23?pgs=23-26&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-30",
+        "DataArquivo": "2024-06-25",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2024-06-27",
+        "DataReaberta": "2024-04-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-04-30",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4a44546b56445543394562324e31625756756447397a5547563061574e686279396d4e7a557859324d794e793034596a49324c545179593249744f4746695969316d4d444e6a4d7a566d4d47526959546b756347526d&fich=f751cc27-8b26-42cb-8abb-f03c35f0dba9.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-06-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a4a44546b56445543394562324e31625756756447397a5547563061574e68627938324e4759784d6a4d35597930314e446c694c545135593245744f444d785a69307a4d4441334e6a4a6c4d6d466a596a6b756347526d&fich=64f1239c-549b-49ca-831f-300762e2acb9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8394",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas ",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2024-04-30",
+            "gp": "CH",
+            "id": "6858",
+            "motivoCessacao": null,
+            "nome": "Diogo Pacheco de Amorim"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2023-12-19",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8326",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-02-28",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-04-30",
+        "TipoDocumento": "Notas Admissibilidade",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a4459774f4441775a544174596a637a4f4330304e54566d4c54686b596d55744d445668596d59314e574531597a67784c6e426b5a673d3d&fich=d60800e0-b738-455f-8dbe-05abf55a5c81.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2023-12-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d546c694d5467784e7a49744e4759354d6930304e5459304c5746694d3255745a544e6c596a493059574978596d59794c6e426b5a673d3d&fich=19b18172-4f92-4564-ab3e-e3eb24ab1bf2.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-06-25",
+        "TipoDocumento": "Relatório Final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6a49794d47566a5a6a59744e6d5a684e4330304d474a684c574a6a4e6a67744f444d334d574a6b4e6d59794d4459344c6e426b5a673d3d&fich=f220ecf6-6fa4-40ba-bc68-8371bd6f2068.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "314782",
+      "304305",
+      "304306",
+      "314738",
+      "314740",
+      "314752",
+      "314781",
+      "314752"
+    ],
+    "Iniciativasoriginadas": [
+      "314782",
+      "304305",
+      "304306",
+      "314738",
+      "314740",
+      "314752",
+      "314781"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/75"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/76"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/59?pgs=59-61&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/77"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435437",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/61?pgs=61&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/78"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435438",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/79"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435439",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/80"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435440",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/81"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435441",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/82"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435442",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/66?pgs=66&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant\n",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/83"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435443",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/66?pgs=66&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/84"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant",
+            "Teor": "Pede a distribuição da declaração política que o Livre fez sobre os ataques do Hamas a Israel, de 7 de outubro de 2023"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-03-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/16/1/95/85"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "435445",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-01",
+                "pubLeg": "XVI",
+                "pubNr": "95",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel; Proibição da importação ou venda de bens, serviços e recursos naturais originários de colonatos ilegais em territórios ocupados; Recomenda ao Governo que Portugal intervenha formalmente no processo da África do Sul junto do Tribunal Internacional de Justiça por crime de genocídio em Gaza; Recomenda ao Governo o reforço da verba para a UNRWA; Recomenda ao Governo que intervenha no plano internacional pelo respeito, defesa e cumprimento dos direitos nacionais do povo palestiniano; Recomenda ao Governo a adoção de uma postura de total solidariedade para com o Estado de Israel na implementação do acordo de cessar-fogo, assim como de uma política de influência junto dos países árabes que pressione o Hamas ao seu estrito cumprimento; Recomenda ao Governo que participe nos esforços de envio de ajuda humanitária à Faixa de Gaza e que condene a obstrução à prestação de cuidados de saúde na Cisjordânia; Recomenda ao Governo o cumprimento do mandado emitido pelo Tribunal Penal Internacional para a detenção de Benjamin Netanyahu e Yoav Gallant",
+            "Teor": "Contesta o facto de a Mesa ter permitido que Rui Tavares (L) apresentasse uma Interpelação à Mesa, que, defende, se tratou afinal de uma intervenção"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "33984",
+    "PetAssunto": "Pela defesa do cessar-fogo em Gaza pelo Estado português e a interrupção das relações diplomáticas entre Portugal e o Estado de Israel",
+    "PetDataEntrada": "2023-12-15",
+    "PeticoesAssociadas": null,
+    "PetId": "33984",
+    "PetLeg": "XV",
+    "PetNr": "254",
+    "PetNrAssinaturas": "14079",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56684",
+        "obs": null,
+        "pag": [
+          "59-67"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-01",
+        "pubLeg": "XVI",
+        "pubNr": "95",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/16/01/095/2025-03-01/59?pgs=59-67&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915241",
+        "obs": null,
+        "pag": [
+          "12-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-05-03",
+        "pubLeg": "XVI",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/006/2024-05-03/12?pgs=12&org=PLC"
+      }
+    ]
+  }
+}
