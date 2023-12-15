@@ -1,0 +1,18 @@
+# Resolução do Conselho do Governo Regional n.º 1440/2023
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 230/2023, de 2023-12-15
+
+**Sumário:** Autoriza a celebração de uma Adenda ao contrato-programa celebrado entre a Região Autónoma da Madeira (RAM) e a «ARM - Águas e Resíduos da Madeira, S.A.», aos 5 de setembro de 2023, que tem por objeto a atribuição pela RAM à ARM de uma compensação financeira através da subsidiação do preço da água para regadio praticado pela ARM ao consumidor final.
+
+## Texto
+
+Resolução do Conselho do Governo Regional n.º 1440/2023
+Sumário: Autoriza a celebração de uma Adenda ao contrato-programa celebrado entre a Região Autónoma da Madeira (RAM) e a «ARM - Águas e Resíduos da Madeira, S.A.», aos 5 de setembro de 2023, que tem por objeto a atribuição pela RAM à ARM de uma compensação financeira através da subsidiação do preço da água para regadio praticado pela ARM ao consumidor final.
+Texto: Resolução n.º 1440/2023 Considerando que a Região Autónoma da Madeira (RAM) e a «ARM - Águas e Resíduos da Madeira, S.A.» (ARM) celebraram, aos 05 de setembro de 2023, um contrato-programa que tem por objeto a atribuição pela RAM à ARM de uma compensação financeira através da subsidiação do preço da água para regadio praticado pela ARM ao consumidor final; Considerando que, no número 1 da cláusula quarta do contrato-programa, ficou estabelecido que a referida comparticipação financeira seria realizada em duas prestações, uma no ano de 2023 e outra no ano de 2024; Considerando que a atual disponibilidade orçamental da Secretaria Regional de Agricultura e Ambiente, face à que estava inicialmente disponível para o projeto 51501 - Apoio à exploração do sistema de regadio da Ilha da madeira, permite efetuar um segundo pagamento ainda no ano de 2023 diminuindo, consequentemente, o valor da verba prevista pagar no ano de 2023; Considerando que é necessário, assim, proceder a uma alteração do contrato-programa, por forma a reescalonar os montantes da comparticipação financeira e a adequar os mesmos à respetiva execução; Considerando que as partes contratantes acordaram alterar o contrato-programa, ao abrigo do número 1 da Cláusula Sétima do seu clausulado; Considerando que a Secretaria Regional das Finanças emitiu parecer favorável a esta alteração contratual; Nestes termos, o Conselho do Governo reunido em plenário em 7 de dezembro de 2023, resolve:
+1. Autorizar a celebração de uma Adenda ao contrato-programa celebrado entre a Região Autónoma da Madeira (RAM) e a «ARM - Águas e Resíduos da Madeira, S.A.», aos 05 de setembro de 2023, que tem por objeto a atribuição pela RAM à ARM de uma compensação financeira através da subsidiação do preço da água para regadio praticado pela ARM ao consumidor final;
+2. Aprovar a minuta de Adenda ao contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência;
+3. Mandatar o Secretário Regional das Finanças e a Secretária Regional de Agricultura e Ambiente para, em representação da Região Autónoma da Madeira, outorgar a referida Adenda ao contrato-programa.
+A despesa emergente do contrato-programa para o ano de 2023 é suportada pelo Orçamento da Região Autónoma da Madeira e tem cabimento orçamental na classificação orgânica 49 9 50 01 01, classificação funcional 063, na rúbrica económica D.05.01.01.KS.00, centro financeiro M100701, projeto 51501, programa 044, medida 012, fonte de financiamento 388 Cabimento CY42313464 e correspondente ao compromisso CY52315027.
+Presidência do Governo Regional. - O SECRETÁRIO REGIONAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA, no exercício da Presidência, Jorge Maria Abreu de Carvalho
