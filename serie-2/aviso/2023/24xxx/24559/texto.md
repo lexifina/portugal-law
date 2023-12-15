@@ -1,0 +1,9 @@
+Aviso n.º 24559/2023
+Sumário: Consulta pública do Regulamento do Mercado de São Bento.
+Regulamentos para Consulta Pública
+Carla Cristina Ferreira Madeira, Presidente da Junta de Freguesia da Misericórdia, torna público em cumprimento da deliberação de executivo de 8 de novembro de 2023 e para os efeitos do artigo 118.º do Código do Procedimento Administrativo, que durante o período de 30 dias úteis a contar da data de publicação do presente aviso, é submetida a apreciação pública a Proposta de Regulamento do Mercado de São Bento.
+O Projeto do Regulamento do Mercado de São Bento, encontra-se disponível para consulta dos interessados página da internet da Junta de Freguesa da Misericórdia em www.jf-misericordia.pt, e nos serviços da Junta de Freguesia, sitos no Largo Dr. António de Sousa de Macedo 7D, 1200-153 Lisboa, durante o respetivo horário de expediente.
+As sugestões que os interessados entendam formular deverão ser entregues na sede da junta de Freguesia ou enviadas para o correio eletrónico licencas.feiras.mercados@jf-misericordia.pt, até ao término daquele prazo.
+Para constar se publica o presente Edital, sendo ainda divulgado nos lugares habituais, através da internet e nas vitrinas da Freguesia.
+29 de novembro de 2023. - A Presidente da Junta de Freguesia, Carla Cristina Ferreira Madeira.
+317128263
