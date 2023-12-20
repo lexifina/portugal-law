@@ -28,7 +28,7 @@ d) Os cidadãos que, em território nacional, tenham participado em missões de 
 
 e) Os estrangeiros nas condições referidas nas alíneas anteriores.
 
-3 - São sócios efectivos os cidadãos que prestem ou tenham prestado serviço nas Forças Armadas Portuguesas, mas que não preencham as condições referidas no número anterior.
+3 - São sócios efetivos os cidadãos que prestam ou tenham prestado serviço nas Forças Armadas e Forças de Segurança, que não preencham as condições referidas no número anterior.
 
 4 - São sócios extraordinários os cônjuges, os cônjuges sobrevivos e os ascendentes e descendentes até ao 2.º grau dos sócios combatentes e dos sócios efectivos.
 
