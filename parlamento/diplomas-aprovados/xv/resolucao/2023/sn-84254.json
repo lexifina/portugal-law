@@ -1,0 +1,71 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GfAjXt6jfv8tqRnvwVRrojDEIo%2b7p1v6jaTnZYOUpHxKyyI5yEhP0uHRQMKVu75VaWCiut7FIhwMCYWUwyV9Pvk2gPUTnwyfs%2bbXGr6%2bvekGCeM3FNBTDdZ9UOgLk4z7DKxI7fTmgeSr1D0qmHp1Kp3UNwCklnqX8UVQnT569TNoVlG6EUc6VlxZbYFDunnEzjGg0%2f1PrtkhNrFKx3DELdUX7lIWZb9PBk84Ov3T1k2pRFpWmnJz%2bPe%2fWp8L%2bxjk%2bMkpy%2bHWNGXd8jKujFJEposFCwbq9kyVjOyhJ4ug3OuGADTdPu2bEB5QwH6MlttrJpamg5h3FYpDHP%2bXI0gXRlCwYV44fesCLhEry4jQImg%3d&fich=DiplomasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "1c1078c10448c22aca421ebfa8d69a53be6d45d3cdef4ecf77f8a6b7fe4ac80e",
+  "legislatura": "XV",
+  "id": "84254",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2023-12-20",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": [
+      "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c7a45335a6a4a6a5a6a41794c546b324f5755744e4449314d4331694e7a45774c5749314f4451344d32566a4e5751344e6935775a47593d&fich=17f2cf02-969e-4250-b710-b58483ec5d86.pdf&Inline=true",
+      "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c7a5a6b4e574a6d5a44646b4c54526d4f446b744e474e694f5331694f4449324c574d784f5452694f5755314e47566a4f5335775a47593d&fich=6d5bfd7d-4f89-4cb9-b826-c194b9e54ec9.pdf&Inline=true",
+      "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c325a685a44557a4e6a677a4c5445794d4749744e4463774f533034597a67344c5445774d7a6c685a4467315a446b784d43356b62324e34&fich=fad53683-120b-4709-8c88-1039ad85d910.docx&Inline=true"
+    ],
+    "AnoCivil": "2023",
+    "Id": "84254",
+    "Iniciativas": null,
+    "Legislatura": "XV",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c7a63785a445977596a55784c545533593245744e474e6c4f43316859544a694c5441314e5467794e6d51324e6a41354f53356b62324d3d&fich=71d60b51-57ca-4ce8-aa2b-055826d66099.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": [
+      {
+        "anexos": null,
+        "ano": null,
+        "dtAgendamento": null,
+        "dtAprovacaoCA": null,
+        "id": "656",
+        "leg": "XV",
+        "obs": null,
+        "SL": null,
+        "textosAprovados": null,
+        "tipo": "Orçamento da A.R.",
+        "titulo": "3.º Orçamento Suplementar Assembleia da República para 2023",
+        "tp": "OAR",
+        "votacao": null
+      }
+    ],
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "987600",
+        "obs": null,
+        "pag": [
+          "5-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-12-20",
+        "pubLeg": "XV",
+        "pubNr": "51",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/02/051S1/2023-12-20/5?pgs=5-10&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Terceiro orçamento suplementar da Assembleia da República para o ano de 2023",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
