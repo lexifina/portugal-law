@@ -4,7 +4,7 @@
 
 1 - São beneficiários elegíveis no âmbito do presente título:
 
-a) A Direção-Geral dos Estabelecimentos Escolares (DGEstE), enquanto beneficiário responsável pela execução das respetivas medidas de política pública, na aceção prevista no artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, nas ações previstas na alínea a) dos n.os 1 e 4 do artigo 30.º;
+a) A Direção-Geral dos Estabelecimentos Escolares (DGEstE), enquanto beneficiário responsável pela execução das respetivas medidas de política pública, na aceção prevista no artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, nas ações previstas na alínea a) do n.º 1 e no n.º 4 do artigo 30.º;
 
 b) As pessoas coletivas de direito público e de direito privado, com ou sem fins lucrativos, nas ações previstas nas alíneas b), d) e h) do n.º 1 do artigo 30.º;
 
