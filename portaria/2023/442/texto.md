@@ -1,0 +1,141 @@
+Portaria n.º 442/2023
+de 19 de dezembro
+Sumário: Aprova o Regulamento do Concurso de Admissão ao Curso de Formação Complementar de Oficiais (CFCO) para ingresso na classe de técnicos superiores navais.
+O Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, na sua redação atual, estabelece no n.º 3 do artigo 202.º que o ingresso na classe de técnicos superiores navais (TSN), na categoria de oficial, é efetuado de entre civis ou militares habilitados com o grau de mestre, admitidos por concurso regulado por diploma próprio e após conclusão com aproveitamento do curso de formação de oficiais respetivo.
+A classe de TSN dos quadros permanentes da Marinha vem sendo alimentada, desde 1 de setembro de 2001, nos termos da Portaria n.º 1129/2000, de 29 de novembro, com as alterações introduzidas pela Portaria n.º 853/2009, de 11 de agosto.
+Decorridos sensivelmente 22 anos desde a sua publicação, impõe-se rever as normas do concurso de admissão ao Curso de Formação Complementar de Oficiais (CFCO) que habilita ao ingresso na categoria de oficiais dos quadros permanentes, na classe de TSN, bem como proceder à harmonização de diversos aspetos relativos ao concurso com os de outros procedimentos concursais em vigor na Marinha.
+Assim:
+Ao abrigo do disposto no n.º 3 do artigo 7.º da Lei do Serviço Militar, aprovada pela Lei n.º 174/99, de 21 de setembro, na sua redação atual, e do disposto no n.º 3 do artigo 202.º do EMFAR, manda o Governo, pela Ministra da Defesa Nacional, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria estabelece as condições de ingresso na classe de técnicos superiores navais (TSN) e regula o concurso de admissão ao Curso de Formação Complementar de Oficiais (CFCO) para ingresso na classe de TSN, na categoria de oficiais dos quadros permanentes da Marinha.
+Artigo 2.º
+Ingresso
+1 - O ingresso na classe de TSN é feito no posto de subtenente, após frequência com aproveitamento do CFCO, ministrado na Escola Naval, ficando os militares graduados no posto que detêm à data de ingresso, quando tenham posto superior.
+2 - Os militares admitidos ao CFCO são graduados no posto de subtenente à data do seu início, salvo se tiverem posto igual ou superior.
+Artigo 3.º
+Antiguidade
+1 - A integração na lista de antiguidade da classe de TSN é efetuada por ordem decrescente da média das classificações finais do concurso de admissão ao CFCO e das classificações finais do CFCO.
+2 - A antiguidade dos oficiais que ingressam na classe de TSN é reportada à data em que concluam com aproveitamento o respetivo CFCO.
+Artigo 4.º
+Admissão
+1 - O concurso de admissão ao CFCO reveste as seguintes modalidades:
+a) Concurso interno limitado;
+b) Concurso interno geral;
+c) Concurso externo.
+2 - A admissão ao CFCO é efetuada mediante abertura de concurso interno limitado, aberto aos militares da Marinha e aos cidadãos que tenham prestado serviço efetivo na Marinha em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.os 1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos Diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo Decreto-Lei n.º 76/2018, de 11 de outubro, habilitados com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, de acordo com as necessidades da Marinha.
+3 - A admissão ao CFCO é efetuada mediante abertura de concurso interno geral, aberto aos militares de qualquer ramo das Forças Armadas e aos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e sejam abrangidos pelas condições previstas nos n.os 1 e 5 do artigo 25.º do RIPSM, habilitados com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, de acordo com as necessidades da Marinha.
+4 - A admissão ao CFCO é efetuada mediante abertura de concurso externo, aberto aos cidadãos civis, habilitados com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, de acordo com as necessidades da Marinha.
+5 - Os candidatos civis, a que se refere o número anterior, frequentam previamente o Curso de Formação Básica de Oficiais (CFBO), sendo alistados provisoriamente na Marinha, com a designação de cadetes TSN.
+Artigo 5.º
+Concurso de admissão
+As normas do concurso de admissão ao CFCO constam do regulamento anexo à presente portaria e da qual faz parte integrante.
+Artigo 6.º
+Norma revogatória
+É revogada a Portaria n.º 1129/2000, de 29 de novembro.
+Artigo 7.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 4 de dezembro de 2023.
+ANEXO
+(a que se refere o artigo 5.º)
+REGULAMENTO DO CONCURSO DE ADMISSÃO AO CFCO
+Artigo 1.º
+Admissão
+1 - A admissão ao Curso de Formação Complementar de Oficiais (CFCO) para ingresso na classe de técnicos superiores navais (TSN), na categoria de oficiais dos quadros permanentes (QP) da Marinha, é realizada mediante concurso.
+2 - As modalidades do concurso, as vagas e as respetivas áreas são definidas por despacho do Chefe do Estado-Maior da Armada (CEMA).
+3 - O aviso de abertura do respetivo concurso é aprovado por despacho do CEMA e publicado no Diário da República.
+Artigo 2.º
+Condições gerais de admissão ao concurso interno limitado
+Constituem condições gerais de admissão ao concurso interno limitado:
+a) Ser militar da Marinha ou, no caso de cidadãos que tenham prestado serviço efetivo na Marinha em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.os 1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);
+b) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, em instituição oficialmente reconhecida;
+c) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;
+d) Estar devidamente autorizado a concorrer e ingressar na classe TSN, na categoria de oficiais dos QP da Marinha.
+Artigo 3.º
+Condições gerais de admissão ao concurso interno geral
+Constituem condições gerais de admissão ao concurso interno geral:
+a) Ser militar de qualquer ramo das Forças Armadas ou, no caso de cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, estar abrangido pelas condições previstas nos n.os 1 e 5 do artigo 25.º do RIPSM;
+b) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, por instituição oficialmente reconhecida;
+c) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;
+d) Estar devidamente autorizado a concorrer e ingressar na classe de TSN, na categoria de oficiais dos QP da Marinha.
+Artigo 4.º
+Condições gerais de admissão ao concurso externo
+Constituem condições gerais de admissão ao concurso externo:
+a) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, por instituição oficialmente reconhecida;
+b) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;
+c) Ter a situação militar regularizada e não possuir antecedentes criminais incompatíveis com o respeito pela vida e a integridade física das pessoas, respeito pela vida em sociedade, pela ordem e tranquilidade públicas, respeito pelos direitos e liberdades de terceiros e pelo respetivo património, bem como respeito pelo Estado português.
+Artigo 5.º
+Fases do concurso
+1 - O concurso compreende a fase de admissão e a fase de seleção, ambas com carácter eliminatório.
+2 - Os candidatos são sujeitos à avaliação por um júri de seleção constituído para apreciar as candidaturas.
+Artigo 6.º
+Fase de admissão
+1 - A fase de admissão compreende a apreciação documental e destina-se a verificar a conformidade dos documentos da candidatura e as condições gerais de admissão dos candidatos ao concurso.
+2 - Constitui causa de não admissão ao concurso o não preenchimento das condições gerais, nos termos fundamentados por deliberação do júri.
+3 - Após a elaboração da lista provisória de candidatos admitidos ao concurso, os candidatos não admitidos por deliberação do júri de seleção são notificados para a realização da audiência dos interessados, nos termos do Código do Procedimento Administrativo (CPA), para, no prazo de 10 dias úteis, se pronunciarem por escrito.
+4 - Findo o prazo de audiência dos interessados e a tramitação das eventuais pronúncias, a lista definitiva de candidatos admitidos ao concurso é afixada, para conhecimento público, em local próprio da Direção de Pessoal e divulgada no Portal do Recrutamento da Marinha na Internet e na Ordem da Direção de Pessoal.
+Artigo 7.º
+Fase de seleção
+1 - A fase de seleção visa determinar a adequação de cada candidato ao ingresso na classe de TSN, através da realização dos seguintes métodos de seleção:
+a) Apreciação do mérito;
+b) Inspeções médicas;
+c) Provas de destreza física;
+d) Avaliação psicológica;
+e) Entrevista.
+2 - Aos candidatos que, no decurso dos métodos de seleção, cometam ou tentem inequivocamente cometer qualquer fraude, práticas fraudulentas ou incumpram com as normas técnicas de execução ou de conduta que lhes forem transmitidas é suspensa imediatamente a sua prestação nos métodos de seleção.
+3 - Verificada a situação referida no número anterior, o órgão ou unidade responsável pela aplicação do respetivo método de seleção remete o seu parecer sobre a exclusão por fraude ou práticas fraudulentas, ainda que sob a forma de tentativa, ou incumprimento das normas técnicas de execução ou de conduta ao júri de seleção, para deliberação sobre a exclusão do candidato do concurso.
+Artigo 8.º
+Valoração dos métodos de seleção
+1 - Os métodos de seleção a que se refere o artigo anterior são valorados através das menções classificativas de Apto e Não apto, exceto:
+a) A avaliação psicológica, que é classificada em Favorável preferencialmente, Bastante favorável, Favorável, Favorável com reservas ou Não favorável;
+b) A entrevista, que é avaliada segundo os níveis classificativos de Elevado, Bom, Suficiente, Reduzido e Insuficiente, aos quais correspondem, respetivamente, as classificações de 20, 16, 12, 8 e 4 valores.
+2 - A obtenção de uma classificação de Não apto ou Não favorável, a não comparência ou a desistência de um método de seleção, implica a exclusão do candidato do procedimento concursal, sendo notificado desse facto.
+3 - Sem prejuízo do disposto no número anterior, e por deliberação do júri de seleção, o candidato que não compareça a um método de seleção, por motivo devidamente fundamentado, pode ser convocado para realizar o método de seleção em falta.
+4 - A ordenação final dos candidatos que completem o procedimento com aprovação em todos os métodos de seleção aplicados é expressa numa escala de 0 a 20 valores, nos termos do disposto no artigo 14.º
+Artigo 9.º
+Apreciação do mérito
+1 - A apreciação do mérito destina-se a apreciar o mérito do candidato para ingressar na categoria de oficiais dos QP, na classe de TSN, e é realizada de acordo com os critérios fixados por despacho do CEMA.
+2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os 1 e 5 do artigo 25.º do RIPSM.
+Artigo 10.º
+Inspeções médicas
+1 - As inspeções médicas destinam-se a averiguar se os candidatos reúnem as condições físicas, psíquicas e sensoriais exigidas para o exercício das funções de oficial da classe de TSN.
+2 - As inspeções médicas são realizadas de acordo com o despacho do superintendente do Pessoal em vigor à data da abertura do aviso do concurso.
+3 - A deliberação sobre a aptidão nas inspeções médicas é proferida pela Junta de Recrutamento e Classificação, nos termos das condições previstas nas Tabelas Gerais de Aptidão e de Incapacidade para o Serviço nas Forças Armadas, em vigor à data da abertura do aviso do concurso.
+4 - São excluídos, por deliberação do júri de seleção, os candidatos considerados Inaptos pela Junta de Recrutamento e Classificação.
+Artigo 11.º
+Avaliação psicológica
+A avaliação psicológica destina-se a avaliar as aptidões e características de personalidade e as competências comportamentais dos candidatos, de acordo com os critérios de avaliação psicológica fixados por despacho do CEMA.
+Artigo 12.º
+Provas de destreza física
+1 - As provas de destreza física destinam-se a avaliar a aptidão física dos candidatos para o exercício de funções inerentes à categoria de oficial da classe de TSN.
+2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, e pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os 1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física.
+Artigo 13.º
+Entrevista
+1 - A entrevista visa obter informações sobre a motivação e comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções de oficial da classe de TSN.
+2 - A entrevista é realizada por um júri especialmente constituído para o efeito, composto por um presidente e três vogais, nomeados por despacho do diretor de Pessoal, de entre os membros do júri de seleção do concurso.
+Artigo 14.º
+Ordenamento
+1 - Os candidatos aprovados para cada uma das áreas definidas no aviso de abertura do concurso são ordenados de acordo com a classificação final (CF) que obtiverem, através da aplicação das seguintes fórmulas (arredondada às centésimas):
+a) Para os candidatos admitidos nas modalidades de concurso interno limitado e concurso interno geral:
+CF = 0,25 L + 0,05 Fc + 0,25 Ai + 0,10 Ad + 0,15 Ts + 0,20 E
+b) Para os candidatos admitidos na modalidade de concurso externo:
+CF = 0,50 L + 0,10 Fc + 0,40 E
+em que:
+L = nota do mestrado integrado ou 1.º e 2.º ciclos;
+Fc = classificação da avaliação da formação complementar, na escala de 10 a 20, obtida a partir de uma nota base de 10 valores, à qual será somada a valorização das ações de formação consideradas adequadas ao exercício das funções de oficiais da classe de técnicos superiores navais, de acordo com o fixado em despacho do CEMA;
+Ai = Média aritmética das avaliações individuais, não harmonizadas, relativas aos últimos seis anos, ou à totalidade, se forem em número inferior, convertida na escala de 0 a 20, aproximada às centésimas;
+Ad = classificação da avaliação disciplinar, na escala de 0 a 20, de acordo com o fixado no Regulamento da Avaliação do Mérito dos Militares das Forças Armadas (RAMMFA), aprovado pela Portaria n.º 301/2016, de 30 de novembro, na sua redação atual;
+Ts = tempo de serviço efetivo, referido à data-limite de resposta ao concurso, numa escala de 10 a 20, arredondado às centésimas, obtido por interpolação, após o ordenamento do tempo de serviço de todos os candidatos, contado em dias, onde a classificação de 10 valores é atribuída ao candidato com menos tempo de serviço e a classificação de 20 valores é atribuída ao candidato com mais tempo de serviço;
+E = entrevista, avaliada segundo os níveis classificativos de Elevado, Bom, Suficiente, Reduzido e Insuficiente, aos quais correspondem, respetivamente, as classificações de 20, 16, 12, 8 e 4 valores, obtido através da média aritmética simples das classificações dos parâmetros a avaliar.
+2 - Sem prejuízo do disposto no n.º 2 do artigo 25.º do RIPSM, em caso de igualdade no valor da classificação final, constitui condição de preferência para o desempate a idade mais elevada.
+Artigo 15.º
+Audiência dos interessados
+Sem prejuízo do disposto no n.º 3 do artigo 6.º, após a elaboração da lista provisória relativa à ordenação final pelo júri de seleção, os candidatos são notificados para a realização da audiência dos interessados, nos termos do CPA, para se pronunciarem por escrito, no prazo de 10 dias úteis.
+Artigo 16.º
+Homologação
+Decorrido o período de audiência dos interessados e a tramitação das eventuais pronúncias, a lista de classificação e ordenação final, após homologação, é publicitada em Ordem da Direção de Pessoal e afixada em local visível e público, é publicado, por extrato, um aviso na 2.ª série do Diário da República com informação sobre a sua publicitação.
+Artigo 17.º
+Impugnação administrativa
+Sem prejuízo da impugnação junto dos tribunais administrativos, dos atos de exclusão dos candidatos ao procedimento concursal e de homologação da lista de ordenação final cabe recurso hierárquico nos termos do Estatuto dos Militares das Forças Armadas e do CPA.
+117147022
