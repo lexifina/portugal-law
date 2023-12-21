@@ -15,5 +15,3 @@ c) O número de adultos com idade igual ou superior a 75 anos é multiplicado pe
 3 - A dimensão da lista de utentes inscritos na USF e da lista de utentes com inscrição ativa por médico e por enfermeiro de família são atualizadas semestralmente.
 
 4 - Sem prejuízo do disposto no número anterior, o número de utentes inscritos nas listas é atualizado sempre que se verifique a alteração do número de profissionais da USF.
-
-O disposto nos n.ºs 2 e 4 não se aplica às USF modelo C.

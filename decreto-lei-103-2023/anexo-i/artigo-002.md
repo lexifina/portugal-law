@@ -2,6 +2,6 @@
 
 ### Âmbito
 
-1 - O disposto nos capítulos I e II e no artigo 38.º aplicam-se a todos os modelos de USF e o disposto nos capítulos III a VIII apenas se aplicam às USF modelo B.
+1 - O presente regime jurídico aplica-se a todos os modelos de USF, com exceção do disposto no capítulo vii que apenas se aplica às USF modelo B.
 
 2 - O presente regime jurídico é aplicável aos profissionais que integram as USF referidas no número anterior, independentemente do vínculo laboral estabelecido.

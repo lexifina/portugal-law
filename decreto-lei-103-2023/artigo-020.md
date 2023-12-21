@@ -20,6 +20,4 @@ b) Aos trabalhadores médicos da área de saúde pública, incluindo os que exer
 
 5 - Os trabalhadores médicos referidos na alínea b) do número anterior que se oponham à aplicação do regime de dedicação plena, mantêm integralmente o regime a que se encontravam sujeitos antes da produção de efeitos do presente decreto-lei, incluindo os suplementos remuneratórios e deveres que lhes estavam associados.
 
-6 - (Revogado.)
-
-7 - O exercício do direito de oposição previsto no n.º 4 não obsta a que os trabalhadores médicos em causa revertam, a todo o tempo, a opção exercida naqueles termos, declarando pretender aderir ao regime de dedicação plena.
+6 - O exercício do direito de oposição previsto no n.º 4 não obsta a que os trabalhadores médicos em causa revertam, a todo o tempo, a opção exercida naqueles termos, declarando pretender aderir ao regime de dedicação plena.
