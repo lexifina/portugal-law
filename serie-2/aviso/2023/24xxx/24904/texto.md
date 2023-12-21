@@ -1,0 +1,12 @@
+Aviso n.º 24904/2023
+Sumário: Autorização da abertura do período de discussão pública da proposta de alteração do Plano Diretor Municipal de Odivelas.
+Abertura do período de discussão pública da proposta de alteração do Plano Diretor Municipal de Odivelas
+1.ª Alteração do Plano Diretor Municipal de Odivelas
+Discussão Pública
+Hugo Manuel dos Santos Martins, Presidente da Câmara Municipal de Odivelas, torna público que a Câmara Municipal de Odivelas, na 22.ª Reunião Ordinária de 15 de novembro de 2023, deliberou dar início ao período de discussão pública relativa à alteração do Plano Diretor Municipal de Odivelas, nos termos do artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual.
+O período de discussão pública decorre durante o período de 30 (trinta) dias úteis, com início a partir do 5.º (quinto) dia útil após a publicação do presente Aviso no Diário da República.
+A proposta de alteração do Plano Diretor Municipal de Odivelas, incluindo a ata da conferência procedimental, os demais pareceres emitidos e os resultados da concertação, encontram-se disponíveis para consulta dos interessados na página da internet do município (www.cm-odivelas.pt) e no Gabinete de Planeamento Estratégico e Projetos Especiais da Câmara Municipal de Odivelas, sito na Av. Amália Rodrigues, 20, 2.º piso, Urbanização da Ribeirada, 2675-624 Odivelas, todos os dias úteis das 10h00 e as 12h30 e das 14h30 às 17h00. Qualquer esclarecimento relativo à consulta dos elementos da proposta de alteração do Plano Diretor Municipal poderá ser prestado presencialmente, às terças e quintas-feiras, no mesmo horário, ou por correio eletrónico (pdm@cm-odivelas.pt).
+Todos os interessados podem formular por escrito as reclamações, observações ou sugestões sobre a proposta de alteração do Plano Diretor Municipal, dirigidas ao Presidente da Câmara Municipal de Odivelas, utilizando para o efeito o impresso próprio disponível na página da internet do município (www.cm-odivelas.pt) ou em suporte papel, obtido no Gabinete de Planeamento Estratégico e Projetos Especiais da Câmara Municipal de Odivelas e entregue pessoalmente no mesmo local ou remetido através de correio registado para este serviço, na morada acima indicada.
+Durante o período de discussão pública, a Câmara Municipal promoverá uma sessão pública de apresentação e esclarecimento da proposta, em data e local a anunciar oportunamente.
+24 de novembro de 2023. - O Presidente da Câmara Municipal, Hugo Martins.
+617130466
