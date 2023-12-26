@@ -1,0 +1,29 @@
+Resolução da Assembleia da República n.º 139/2023
+Sumário: Adota medidas transitórias relativas à prorrogação da aplicação das disposições do Acordo de Parceria entre os Estados ACP-UE.
+Adota medidas transitórias relativas à prorrogação da aplicação das disposições do Acordo de Parceria entre os Estados ACP-UE
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar para ratificação a Decisão n.º 3/2021 do Comité de Embaixadores ACP-União Europeia (UE), de 26 de novembro de 2021, que altera a Decisão n.º 3/2019 do Comité de Embaixadores ACP-UE de 17 de dezembro de 2019, que adota novas medidas transitórias relativas à prorrogação da aplicação das disposições do Acordo de Parceria entre os Estados de África, Caraíbas e Pacífico (Estados ACP) e a Comunidade Europeia e os seus Estados-Membros, nos termos previstos no n.º 4 do artigo 95.º, até à entrada em vigor do novo Acordo, ou até à aplicação a título provisório do novo Acordo entre a UE e os Estados ACP, consoante a que ocorrer primeiro, cujo texto, na versão autêntica em língua portuguesa, se publica em anexo.
+Aprovada em 30 de novembro de 2023.
+O Presidente da Assembleia da República, Augusto Santos Silva.
+DECISÃO N.º 3/2021 DO COMITÉ DE EMBAIXADORES ACP-UE, DE 26 DE NOVEMBRO DE 2021, QUE ALTERA A DECISÃO N.º 3/2019 DO COMITÉ DE EMBAIXADORES ACP-UE, QUE ADOTA MEDIDAS TRANSITÓRIAS NOS TERMOS DO ARTIGO 95.º, N.º 4, DO ACORDO DE PARCERIA ACP-UE
+O Comité de Embaixadores ACP-UE:
+Tendo em conta o Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico, por um lado, e a Comunidade Europeia e os seus Estados-Membros, por outro (1), nomeadamente o artigo 15.º, n.º 4, e o artigo 16.º, n.º 2, em conjugação com o artigo 95.º, n.º 4;
+Considerando o seguinte:
+1) O Acordo de Parceria entre os Estados de África, das Caraíbas e do Pacífico (ACP), por um lado, e a Comunidade Europeia e os seus Estados-Membros, por outro («Acordo de Parceria ACP-UE»), foi assinado em Cotonu em 23 de junho de 2000 e entrou em vigor em 1 de abril de 2003. Em conformidade com a Decisão n.º 3/2019 do Comité de Embaixadores ACP-UE (2) («decisão relativa a medidas transitórias»), o Acordo deverá ser aplicado até 30 de novembro de 2021;
+2) Nos termos do artigo 95.º, n.º 4, primeiro parágrafo, do Acordo de Parceria ACP-UE, as negociações para um novo Acordo de Parceria ACP-UE (o «novo Acordo») tiveram início em setembro de 2018. O novo Acordo não estará pronto para ser aplicado até 30 de novembro de 2021, data de expiração do atual regime jurídico. Por conseguinte, é necessário alterar a decisão relativa a medidas transitórias para prorrogar novamente a aplicação das disposições do Acordo de Parceria ACP-UE;
+3) O artigo 95.º, n.º 4, segundo parágrafo, do Acordo de Parceria ACP-UE prevê que o Conselho de Ministros ACP-UE adote as medidas transitórias eventualmente necessárias até à entrada em vigor do novo Acordo;
+4) Nos termos do artigo 15.º, n.º 4, do Acordo de Parceria ACP-UE, de 23 de maio de 2019, o Conselho de Ministros ACP-UE delegou poderes para adotar as medidas transitórias no Comité de Embaixadores ACP-UE (3);
+5) Por conseguinte, é conveniente que o Comité de Embaixadores ACP-UE adote uma decisão, nos termos do artigo 95.º, n.º 4, do Acordo de Parceria ACP-UE, a fim de alterar a decisão relativa a medidas transitórias, para prorrogar a aplicação das disposições do Acordo de Parceria ACP-UE até 30 de junho de 2022, ou até à entrada em vigor do novo Acordo, ou até à aplicação a título provisório do novo Acordo entre a União e os Estados ACP, consoante o que ocorrer primeiro;
+6) As disposições do Acordo de Parceria ACP-UE continuarão a ser aplicadas a fim de manter a continuidade nas relações entre a União e os seus Estados-Membros, por um lado, e os Estados ACP, por outro. Por conseguinte, as medidas transitórias alteradas não se destinam a introduzir alterações ao Acordo de Parceria ACP-UE, tal como previsto no seu artigo 95.º, n.º 3;
+adotou a presente decisão:
+Artigo 1.º
+No artigo 1.º da Decisão n.º 3/2019 do Comité de Embaixadores ACP-UE, a data «30 de novembro de 2021» é substituída pela data «30 de junho de 2022».
+Artigo 2.º
+A presente decisão entra em vigor em 1 de dezembro de 2021.
+(1) JO, L 317, de 15 de dezembro de 2000, p. 3. O Acordo de Parceria ACP-UE foi alterado pelo Acordo assinado no Luxemburgo em 25 de junho de 2005 (JO, L 209, de 11 de agosto de 2005, p. 27) e pelo Acordo assinado em Uagadugu em 22 de junho de 2010 (JO, L 287, de 4 de novembro de 2010, p. 3).
+(2) Decisão n.º 3/2019 do Comité de Embaixadores ACP-UE, de 17 de dezembro de 2019, que adota medidas transitórias nos termos do artigo 95.º, n.º 4, do Acordo de Parceria ACP-UE (JO, L 1, de 3 de janeiro de 2020, p. 3).
+(3) Decisão n.º 1/2019 do Conselho de Ministros ACP-UE, de 23 de maio de 2019, sobre a delegação de poderes no Comité de Embaixadores ACP-UE no atinente à decisão de adotar medidas transitórias nos termos do artigo 95.º, n.º 4, do Acordo de Parceria ACP-UE (JO, L 146, de 5 de junho de 2019, p. 114).
+Feito em Bruxelas, em 26 de novembro de 2021.
+Pelo Conselho de Ministros ACP-UE:
+Pelo Comité de Embaixadores ACP-UE:
+O Presidente, Iztok Jarc.
+117157861
