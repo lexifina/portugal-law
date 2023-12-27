@@ -32,7 +32,7 @@ m) Precauções particulares de conservação, quando for caso disso;
 
 n) Precauções especiais para a eliminação dos medicamentos não utilizados ou dos resíduos ou detritos deles provenientes, fazendo referência ao sistema apropriado de eliminação;
 
-o) Preço de venda ao público através de impressão, etiqueta ou carimbo;
+o) (Revogada.)
 
 p) Nome ou firma e domicílio ou sede do titular da autorização de introdução no mercado e, quando for caso disso, do representante local;
 
