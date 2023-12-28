@@ -1,0 +1,5 @@
+Aviso n.º 53/2023/M
+Sumário: Ratifica a suspensão parcial do Plano Diretor Municipal de Santa Cruz e o estabelecimento de medidas preventivas para as zonas Achada do Barro, Salto, Sítio do Cabeço Moniz, Achadinha, Covas e Achada da Riba, freguesia de Santo António da Serra.
+No cumprimento do disposto no artigo 161.º do Decreto Legislativo Regional n.º 18/2017/M, de 27 de junho, que institui o Sistema Regional de Gestão Territorial da Região Autónoma da Madeira, torna-se público que foi publicada no Jornal Oficial da RAM, 1.ª série, n.º 226 de 11 de dezembro de 2023, a Resolução n.º 1304/2023, aprovada na reunião do Conselho do Governo realizada no dia 7 de dezembro, que ratifica a suspensão parcial do Plano Diretor Municipal de Santa Cruz e o estabelecimento de medidas preventivas, para as zonas Achada do Barro, Salto, Sítio do Cabeço Moniz, Achadinha, Covas e Achada da Riba, freguesia de Santo António da Serra.
+14 de dezembro de 2023. - O Presidente do Governo Regional da Madeira, Miguel Filipe Machado de Albuquerque.
+317163588
