@@ -1,3 +1,7 @@
+Decreto-Lei n.º 64/2007
+
+de 14 de Março
+
 No âmbito de uma cada vez maior preocupação com a qualidade dos equipamentos sociais no que respeita à segurança e ao bem-estar dos cidadãos, por um lado, e à simplificação dos procedimentos de licenciamento e funcionamento dos equipamentos, por outro, o XVII Governo Constitucional assumiu como prioridade avaliar e reformular as regras de implementação no terreno das respostas fundamentais para o desenvolvimento social das crianças, a promoção da autonomia e de cuidados com as pessoas idosas e pessoas com deficiência e a conciliação da vida pessoal, familiar e profissional das famílias portuguesas.
 
 Neste contexto e integrando o espírito do pacto de cooperação para a solidariedade social e da lei de bases da segurança social, são afirmados os princípios da cooperação entre o Estado e o sector solidário, no que diz respeito ao licenciamento do funcionamento dos serviços e estabelecimentos sociais mas também à premente necessidade de um planeamento eficaz da rede de equipamentos sociais, independentemente das regras de financiamento que se venham a adoptar.
