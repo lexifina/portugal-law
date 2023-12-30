@@ -1,0 +1,31 @@
+Decreto-Lei n.º 137/2019
+
+de 13 de setembro
+
+Sumário: Aprova a nova estrutura organizacional da Polícia Judiciária.
+
+O programa do XXI Governo Constitucional assume, como prioridade do seu eixo estratégico em matéria de segurança interna e política criminal, a necessidade de incrementar a prevenção e o controlo da criminalidade grave, violenta e altamente organizada, bem como a capacitação da Polícia Judiciária (PJ) com vista ao esclarecimento célere daquela criminalidade.
+
+A matriz da PJ, como polícia do judiciário, assenta na sua missão primordial de coadjuvação às magistraturas, em especial à Magistratura do Ministério Público, no âmbito da investigação da criminalidade mais grave, organizada e complexa, que reclama, por isso, a alteração do quadro normativo que rege a sua orgânica.
+
+Volvidos mais de 19 anos sobre a entrada em vigor do Decreto-Lei n.º 275-A/2000, de 9 de novembro, que aprovou a Orgânica da PJ, assim como as normas estatutárias que regem o corpo especial daquela polícia, bem como mais de 10 anos desde a Lei n.º 37/2008, de 6 de agosto, que visou adequar a estrutura às emergentes exigências orgânico-funcionais, entretanto complementada pelo Decreto-Lei n.º 42/2009, de 12 de fevereiro, que definiu as competências das unidades nucleares da PJ, a realidade evidencia uma mudança à qual importa dar resposta.
+
+Na verdade, nas últimas décadas continuou-se a assistir a profundas alterações sociais e económicas que ultrapassam as barreiras territoriais do Estado, com inequívocas repercussões na forma de cometimento de factos criminais. Por isso, o perigo que hoje representa o fenómeno do terrorismo e a constante mutação da criminalidade organizada transnacional, cada vez mais sofisticada, consubstanciam realidades que reclamam uma adequada e eficaz resposta por parte do Estado.
+
+No contexto criminológico atual, de perigo iminente para os bens jurídicos essenciais merecedores da tutela penal, em face à imprevisibilidade de atuação das organizações criminosas e terroristas, é fundamental que o Estado firme o propósito de robustecimento da PJ face ao papel que matricialmente lhe é reconhecido na prevenção e investigação das formas mais graves de criminalidade, como sucede com a criminalidade transnacional organizada e o cibercrime, em virtude da sofisticação na atuação criminosa com recurso a novas e complexas tecnologias que não se comprimem no espaço geográfico do território nacional.
+
+O quadro normativo que rege a orgânica da PJ, disperso por um conjunto de diplomas legislativos, justifica a redefinição organizacional da PJ, dotando-a de unidades operativas mais eficientes e interativas internamente, de modo a potenciar o contributo daquela Polícia no âmbito da sua intervenção primordial no sistema judiciário, ao qual umbilicalmente está ligada, e também no seio do sistema de segurança interna em que se integra. Assim, densifica-se a missão e as atribuições da PJ, tendo por horizonte o seu enquadramento legal e institucional atual em matéria de investigação criminal e de segurança interna, com a consequente previsão na orgânica das competências que lhe são atribuídas pelos mencionados sistemas.
+
+Os desafios que hoje se colocam à sociedade portuguesa estribam a forte convicção de ser fundamental a existência de uma polícia criminal especialmente preparada, técnica e cientificamente robustecida, com respaldo numa estrutura organizacional que assenta na ideia de uma maior interligação entre as diversas unidades, clarificando-se que a estrutura nuclear operacional assenta em unidades que integram a área de investigação criminal. Clarifica-se, ainda, que a atuação dessas unidades de matriz marcadamente operativa é complementada pelas unidades que, comungando de idêntica natureza, desempenham uma função essencial de apoio técnico à prevenção e à investigação criminal, afirmando-se uma maior interligação funcional.
+
+Sedimenta-se, outrossim, a autonomia científica daquelas unidades que desempenham uma função de apoio especializado à investigação criminal, de cariz técnico científico, a qual decorre, não somente da sua consagração formal, mas, sobretudo, da definição das suas competências, atenta a natureza altamente técnica e científica das funções que legalmente são cometidas em matéria de realização de perícias e exames, como sucede com o Laboratório de Polícia Científica, a Unidade de Perícia Financeira e Contabilística e a ora criada Unidade de Perícia Tecnológica e Informática.
+
+Redefiniu-se, concomitantemente, o papel de outras unidades orgânicas, integrando-as na área de gestão e desenvolvimento organizacional e na área de controlo de gestão, avaliação de desempenho e controlo inspetivo e disciplinar, dotando-as de competências que evidenciam a adequação aos modernos paradigmas organizacionais do Estado e ao aperfeiçoamento dos instrumentos de gestão e de avaliação, como passo fundamental para dotar a PJ de mecanismos que a colocam no patamar de uma polícia de investigação criminal moderna, capaz de responder eficazmente, também do ponto de vista organizacional, aos desafios que se colocam. É disso exemplo a Direção de Serviços de Inovação e Desenvolvimento e a Direção de Serviços de Planeamento, Qualidade e Avaliação, a par das tradicionais unidades de gestão quer patrimonial, quer de recursos humanos.
+
+Continuando-se a reconhecer o importante papel do Instituto de Polícia Judiciária e Ciências Criminais, mantendo-o como unidade central na dependência do Diretor Nacional, sublinha-se a sua atuação em matéria de formação específica do pessoal da PJ e de consolidação de conhecimento técnico e científico em matéria de investigação criminal e de outras áreas conexas com esta, a par do motor que pode constituir no aprofundamento de saberes, no intercâmbio com outras entidades congéneres ou de natureza académica, assim como na promoção e divulgação de investigação científica pluridisciplinar.
+
+De igual modo, consagra-se o estatuto do pessoal dirigente, assim como do pessoal não dirigente com funções de coordenação ou de chefia, na medida em que as suas competências estão intimamente conexas com o novo arquétipo organizacional da PJ.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
