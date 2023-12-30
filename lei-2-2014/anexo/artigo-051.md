@@ -18,7 +18,7 @@ d) A entidade que distribui os lucros ou reservas esteja sujeita e não isenta d
 
 e) A entidade que distribui os lucros ou reservas não tenha residência ou domicílio em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
-2 - O requisito previsto na alínea d) do número anterior é dispensado quando se verifique o cumprimento cumulativo das condições previstas no n.º 6 do artigo 66.º
+2 - O requisito previsto na alínea d) do número anterior é dispensado quando se verifique o cumprimento das condições previstas no n.º 7 do artigo 66.º
 
 3 - O disposto no presente artigo é igualmente aplicável à matéria coletável imputada, ao abrigo do artigo 6.º, ao sujeito passivo com sede ou direção efetiva em território português que cumpra o requisito previsto na alínea c) do n.º 1, na parte correspondente a lucros e reservas distribuídos a uma sociedade sua participada que esteja sujeita ao regime da transparência fiscal, desde que a participação desta última na entidade que distribui os lucros ou reservas cumpra os requisitos estabelecidos nos números anteriores.
 
@@ -26,13 +26,7 @@ e) A entidade que distribui os lucros ou reservas não tenha residência ou domi
 
 5 - O disposto nos n.os 1 e 2 é ainda aplicável ao reembolso efetuado aos sócios em consequência da amortização de participações sociais sem redução de capital.
 
-6 - O disposto nos n.os 1 e 2 é aplicável, independentemente da percentagem de participação e do prazo em que esta tenha permanecido na sua titularidade, à parte dos rendimentos de participações sociais que, estando afetas às provisões técnicas das sociedades de seguros e das mútuas de seguros, não sejam, direta ou indiretamente, imputáveis aos tomadores de seguros e, bem assim, aos rendimentos das seguintes sociedades:
-
-a) Sociedades de desenvolvimento regional;
-
-b) Sociedades de investimento;
-
-c) Sociedades financeiras de corretagem.
+6 - O disposto nos n.os 1 e 2 é aplicável, independentemente da percentagem de participação e do prazo em que esta tenha permanecido na sua titularidade, à parte dos rendimentos de participações sociais que, estando afetas aos passivos de contratos de seguros e de contratos de investimento das sociedades de seguros e das mútuas de seguros, não sejam, direta ou indiretamente, imputáveis aos tomadores de seguros e, bem assim, aos rendimentos das seguintes sociedades:
 
 7 - Não obstante o disposto nos n.os 1 e 2, o regime aí consagrado é aplicável, nos termos descritos no número anterior, às agências gerais de seguradoras estrangeiras, bem como aos estabelecimentos estáveis de sociedades residentes noutro Estado membro da União Europeia e do Espaço Económico Europeu que sejam equiparáveis às referidas no número anterior.
 
