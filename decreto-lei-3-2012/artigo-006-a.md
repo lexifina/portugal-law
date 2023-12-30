@@ -14,7 +14,7 @@ d) Secretário;
 
 e) Motorista.
 
-2 - Os trabalhadores do CNCSeg devem possuir competência técnica, aptidão, experiência profissional e formação adequadas ao exercício daquelas funções e podem ou não ter vínculo à Administração Pública, mas o número dos que não sejam trabalhadores em funções públicas não pode exceder, em cada momento, 50 % do número total de trabalhadores em funções no CNCSeg.
+2 - Os trabalhadores do CNCS devem possuir competência técnica, aptidão, experiência profissional e formação adequadas ao exercício daquelas funções e podem ou não ter vínculo à Administração Pública, mas o número dos que não sejam trabalhadores em funções públicas não pode exceder, em cada momento, 70 % do número total de trabalhadores em funções no CNCS.
 
 3 - Os trabalhadores do CNCSeg referidos nas alíneas a) a c) do n.º 1 são recrutados nos termos seguintes:
 
