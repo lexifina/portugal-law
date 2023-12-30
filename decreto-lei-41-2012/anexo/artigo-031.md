@@ -4,7 +4,7 @@
 
 1 - O período probatório destina-se a verificar a capacidade de adequação do docente ao perfil de desempenho profissional exigível, tem a duração mínima de um ano escolar e é cumprido no estabelecimento de educação ou de ensino onde aquele exerce a sua actividade docente.
 
-2 - Sem prejuízo do disposto nos n.os 9 a 11, o período probatório corresponde ao 1.º ano escolar no exercício efectivo de funções docentes.
+2 - Sem prejuízo do disposto nos n.os 9 a 11 e 17, o período probatório corresponde ao 1.º ano escolar no exercício efetivo de funções docentes.
 
 3 - A requerimento do docente, o período probatório pode ser realizado no primeiro ano de exercício de funções docentes e antes do ingresso na carreira, desde que, cumulativamente:
 
@@ -53,3 +53,5 @@ e) Participar no processo de avaliação do desempenho do docente em período pr
 15 - A atribuição da menção qualitativa de Insuficiente implica a impossibilidade de o docente se candidatar, a qualquer título, à docência no próprio ano ou no ano escolar seguinte.
 
 16 - O tempo de serviço prestado pelo docente em período probatório é contado para efeitos de progressão na carreira docente, desde que classificado com menção igual ou superior a Bom.
+
+17 - O tempo de serviço prestado por docentes com qualificação profissional para a docência em regime de contrato em funções públicas a termo resolutivo, por um período mínimo de dois anos escolares, é contado para efeitos de conclusão do período probatório, desde que classificado com menção qualitativa igual ou superior a Bom.
