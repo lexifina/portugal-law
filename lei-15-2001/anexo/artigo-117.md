@@ -21,3 +21,5 @@
 9 - Quando a infração prevista no n.º 1 diga respeito às comunicações exigidas nos artigos 3.º e 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto, alterado pela Lei n.º 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 71/2013, de 30 de maio, a mesma constitui contraordenação grave, punível com coima de (euro) 200 a (euro) 10 000.
 
 10 - A falta de apresentação ou apresentação fora do prazo legal da declaração de registo e da comunicação à administração tributária das informações a que as instituições financeiras reportantes e os operadores de plataformas reportantes se encontram obrigados a prestar, por força do disposto no Decreto-Lei n.º 61/2013, de 10 de maio, ou no regime de comunicação obrigatória previsto no artigo 10.º-A do Decreto-Lei n.º 64/2016, de 11 de outubro, no prazo que legalmente seja fixado, é punível com coima de 500 (euro) a 22 500 (euro).
+
+11 - A falta de apresentação ou apresentação fora do prazo legal das informações a que os prestadores de serviços de pagamento se encontram obrigados a comunicar por força do disposto na Lei n.º 81/2023, de 28 de dezembro, é punível com coima de 500 (euro) a 22 500 (euro).
