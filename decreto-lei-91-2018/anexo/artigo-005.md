@@ -61,3 +61,5 @@ o) Serviços de levantamento de numerário oferecidos por prestadores através d
 2 - Os prestadores referidos na alínea o) do número anterior devem, em qualquer caso, informar o utilizador de serviços de pagamento sobre os encargos associados ao levantamento a que se referem os artigos 84.º, 87.º, 88.º e 98.º, imediatamente antes e depois da operação de levantamento de numerário.
 
 3 - O presente Regime também não é aplicável ao valor monetário armazenado nos instrumentos referidos na alínea k) do n.º 1, nem ao valor monetário utilizado para efetuar as operações de pagamento referidas na alínea l) do mesmo número.
+
+4 - Sem prejuízo do disposto na alínea k) do n.º 1, os limites máximos das taxas de intercâmbio aplicáveis às operações com cartões de débito dos consumidores estabelecidos no artigo 3.º do Regulamento (UE) 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015, aplicam-se às operações com cartões de pagamento utilizados para a atribuição de vale refeição.
