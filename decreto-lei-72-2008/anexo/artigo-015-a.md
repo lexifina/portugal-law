@@ -2,7 +2,7 @@
 
 ### Acordo nacional de acesso ao crédito e a seguros
 
-1 - O Estado celebra e mantém um acordo nacional relativo ao acesso ao crédito e a contratos de seguros por parte de pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência, entre este e as associações setoriais representativas de instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros, bem como organizações nacionais que representam pessoas com risco agravado de saúde, pessoas com deficiência e utentes do sistema de saúde.
+1 - O Estado, através dos membros do Governo responsáveis pelas áreas das finanças, do comércio, da inclusão e da saúde, celebra e mantém um acordo nacional relativo ao acesso ao crédito e a contratos de seguros por parte de pessoas que tenham superado ou mitigado situações de risco agravado de saúde ou de deficiência, entre este e as associações setoriais representativas de instituições de crédito, sociedades financeiras, sociedades mútuas, instituições de previdência e empresas de seguros e resseguros, bem como organizações nacionais que representam pessoas com risco agravado de saúde, pessoas com deficiência e utentes do sistema de saúde.
 
 2 - O acordo previsto no número anterior tem como objeto:
 
@@ -28,13 +28,13 @@ e) Definir orientações gerais relativamente à informação a divulgar obrigat
 
 8 - A grelha de referência prevista no número anterior deve ser atualizada a cada dois anos e é pública, devendo o Estado publicitá-la nos sítios de Internet relevantes.
 
-9 - Os requerentes de contratos de crédito ou de seguro são informados das disposições do direito ao esquecimento e dos termos deste acordo, em formato e linguagem inteligível para não especialistas, a definir pelo Conselho Nacional de Supervisores Financeiros (CNSF) em ficha de informação normalizada, devendo o requerente assinar que tomou conhecimento dessas disposições.
+9 - Os requerentes de contratos de crédito ou de seguro são informados das disposições do direito ao esquecimento e dos termos deste acordo, em formato e linguagem inteligível para não especialistas, a definir pela ASF e pelo Banco de Portugal em ficha de informação normalizada, devendo o requerente assinar que tomou conhecimento dessas disposições.
 
 10 - O acordo previsto no n.º 1 pode convencionar um mecanismo de pooling dos custos adicionais decorrentes da contratação de seguros ou créditos com pessoas que tenham superado ou mitigado situações de risco de saúde agravado ou de deficiência, sendo este implementado e financiado exclusivamente pelas instituições privadas.
 
 11 - O acordo previsto no n.º 1 é obrigatoriamente sujeito a parecer preliminar da Comissão Nacional de Proteção de Dados e da Direção-Geral da Saúde e publicado no Diário da República e nos sítios da Internet dos seus signatários.
 
-12 - Na falta de acordo ou na circunstância da sua renúncia, resolução, não prorrogação ou não renovação, as matérias que este deveria abranger são definidas por decreto-lei, após consulta à Comissão Nacional de Proteção de Dados, à Direção-Geral da Saúde e ao CNSF.
+12 - Na falta de acordo, até 30 de junho de 2024, ou na circunstância da sua renúncia, resolução, não prorrogação ou não renovação, as matérias que este deveria abranger são definidas por decreto-lei, após consulta à Comissão Nacional de Proteção de Dados, à Direção-Geral da Saúde, ao Conselho Nacional de Supervisores Financeiros (CNSF), à Direção-Geral do Consumidor e ao Instituto Nacional para a Reabilitação, I. P.
 
 13 - Compete ao Banco de Portugal e à ASF, no que respeita aos contratos de crédito e aos contratos de seguros, respetivamente, a fiscalização do cumprimento do acordo previsto no n.º 1 ou, na sua ausência, do decreto-lei referido no número anterior.
 
