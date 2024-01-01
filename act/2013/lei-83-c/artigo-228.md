@@ -32,7 +32,7 @@ f) Sejam operadores de refinação de petróleo bruto e de tratamento de produto
 
 g) Sejam operadores de armazenamento de petróleo bruto e de produtos de petróleo, nos termos definidos no Decreto-Lei n.º 31/2006, de 15 de fevereiro;
 
-h) Sejam operadores de transporte de petróleo bruto e de produtos de petróleo, nos termos definidos no Decreto-Lei n.º 31/2006, de 15 de fevereiro;
+h) Sejam operadores de transporte de petróleo bruto e de produtos de petróleo que integrem grupos económicos de operadores de refinação ou armazenamento de petróleo bruto ou produtos petrolíferos;
 
 i) Sejam operadores de distribuição de produtos de petróleo, nos termos definidos no Decreto-Lei n.º 31/2006, de 15 de fevereiro;
 
@@ -79,6 +79,22 @@ c) Ativos financeiros afetos a concessões ou a atividades licenciadas nos termo
 12 - Para efeitos do disposto no n.º 4, entende-se por 'valor dos ativos regulados' o valor reconhecido pela ERSE para efeitos de apuramento dos proveitos permitidos, com referência a 1 de janeiro de 2015.
 
 13 - Para efeitos do disposto no n.º 3, entende-se por 'valor dos ativos regulados' o valor reconhecido pela ERSE para efeitos de apuramento dos proveitos permitidos, com referência a 1 de janeiro de 2015.
+
+14 - Para efeitos dos números anteriores, não são considerados os elementos do ativo afetos à exploração que, ao abrigo do regime europeu para a promoção do investimento sustentável, sejam qualificados pela Agência Portuguesa do Ambiente, I. P., como contributo substancial para a:
+
+a) Mitigação das alterações climáticas;
+
+b) Adaptação às alterações climáticas;
+
+c) Utilização sustentável e a proteção dos recursos hídricos e marinhos;
+
+d) Transição para uma economia circular;
+
+e) Prevenção e o controlo da poluição;
+
+f) Proteção e o restauro da biodiversidade e dos ecossistemas.
+
+15 - Para efeitos do disposto no número anterior, apenas se consideram as despesas de investimento relativas a ativos fixos tangíveis adquiridos em estado de novo, construídos ou na parte em que sejam ampliados, nos períodos de tributação que se iniciem em, ou após, 1 de janeiro de 2024.
 
 Artigo 4.º
 
@@ -208,7 +224,7 @@ Artigo 11.º
 
 Consignação
 
-1 - A receita obtida com a contribuição extraordinária sobre o setor energético é consignada ao Fundo para a Sustentabilidade Sistémica do Setor Energético (FSSSE), criado pelo Decreto-Lei n.º 55/2014, de 9 de abril, com o objetivo de estabelecer mecanismos que contribuam para a sustentabilidade sistémica do setor energético, designadamente através da contribuição para a redução da dívida e ou pressão tarifárias e do financiamento de políticas do setor energético de cariz social e ambiental, de medidas relacionadas com a eficiência energética, de medidas de apoio às empresas e da minimização dos encargos financeiros para o Sistema Elétrico Nacional decorrentes de custos de interesse económico geral (CIEG), designadamente resultantes dos sobrecustos com a convergência tarifária com as regiões autónomas dos Açores e da Madeira, e para o SNGN.
+1 - A receita obtida com a contribuição extraordinária sobre o setor energético é consignada ao Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, com o objetivo de estabelecer mecanismos que contribuam para a sustentabilidade sistémica do setor energético, designadamente através da contribuição para a redução da dívida e ou pressão tarifárias e do financiamento de políticas do setor energético de cariz social e ambiental, de medidas relacionadas com a eficiência energética, de medidas de apoio às empresas e da minimização dos encargos financeiros para o Sistema Elétrico Nacional decorrentes de custos de interesse económico geral (CIEG), designadamente resultantes dos sobrecustos com a convergência tarifária com as Regiões Autónomas dos Açores e da Madeira, e para o SNGN.
 
 2 - O FSSSE tem a natureza de património autónomo, sem personalidade jurídica e com autonomia administrativa e financeira, podendo ser-lhe atribuída a possibilidade de adquirir aos operadores regulados ou às entidades a que estes hajam cedido os seus créditos o direito de receber, através das tarifas da eletricidade, os montantes relativos aos valores ou direitos correspondentes ao diferencial de custos que não forem repercutidos no ano a que respeitam.
 
@@ -218,7 +234,7 @@ Consignação
 
 5 - A receita referida no número anterior não é considerada para efeitos de aplicação do n.º 2 do artigo 4.º do Decreto-Lei n.º 55/2014, de 9 de abril, que define os termos da alocação do produto da contribuição extraordinária sobre o setor energético previsto na alínea a) do n.º 1 do artigo 3.º do referido decreto-lei.
 
-6 - Fica o Governo autorizado a transferir para o FSSSE o montante das cobranças provenientes da contribuição extraordinária sobre o setor energético.
+6 - Fica o Governo autorizado a transferir para o Fundo Ambiental o montante das cobranças provenientes da contribuição extraordinária sobre o setor energético.
 
 7 - Os encargos de liquidação e cobrança incorridos pela Autoridade Tributária e Aduaneira são compensados através da retenção de uma percentagem de 3 % do produto da contribuição, a qual constitui receita própria.
 
