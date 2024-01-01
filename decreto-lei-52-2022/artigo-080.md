@@ -36,4 +36,4 @@ d) Verificar se os critérios valorimétricos adotados pelo hospital, E. P. E., 
 
 4 - Com base nos relatórios trimestrais elaborados pelo conselho de administração, o conselho fiscal e o revisor oficial de contas devem emitir um relatório sucinto que reflita os controlos efetuados e as eventuais anomalias detetadas, bem como os eventuais desvios verificados em relação aos orçamentos e a identificação das respetivas causas, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
 
-5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal e o revisor oficial de contas devem emitir um relatório e parecer, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+5 - Com base na proposta de plano de desenvolvimento organizacional apresentada pelo conselho de administração, o conselho fiscal e o revisor oficial de contas emitem um relatório e parecer, o qual é remetido aos membros do Governo responsáveis pelas áreas das finanças e da saúde.

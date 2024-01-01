@@ -8,7 +8,7 @@ a) Funcionamento em rede e promoção da articulação funcional da prestação 
 
 b) Garantia da prestação de cuidados de saúde de qualidade, mediante utilização eficiente dos recursos que lhe são afetos, privilegiando a hospitalização domiciliária e os cuidados de ambulatório sempre que se demonstre tecnicamente adequada;
 
-c) Realização das suas atividades de acordo com instrumentos de gestão previsional, nomeadamente contratos-programa, planos estratégicos, planos de atividade e orçamentos anuais e plurianuais, e com cumprimento dos objetivos de política de saúde definida pelo Ministério da Saúde;
+c) Realização das suas atividades de acordo com instrumentos de gestão previsional, nomeadamente contratos-programa, planos de desenvolvimento organizacional, anuais e plurianuais, e com cumprimento dos objetivos de política de saúde definida pelo Governo, através da área governativa da saúde;
 
 d) Financiamento das suas atividades e resultados através de mecanismos de contratualização com o Estado, em especial, com base em:
 
