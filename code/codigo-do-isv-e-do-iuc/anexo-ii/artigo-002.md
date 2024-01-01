@@ -8,9 +8,9 @@ a) Categoria A: Automóveis ligeiros de passageiros e automóveis ligeiros de ut
 
 b) Categoria B: Automóveis de passageiros referidos nas alíneas a) e d) do n.º 1 do artigo 2.º do Código do Imposto sobre Veículos e automóveis ligeiros de utilização mista com peso bruto não superior a 2 500 kg, cuja data da primeira matrícula, no território nacional ou num Estado-Membro da União Europeia ou do Espaço Económico Europeu, seja posterior à da entrada em vigor do presente código;
 
-c) Categoria C: Automóveis de mercadorias e automóveis de utilização mista com peso bruto superior a 2500 kg, afectos ao transporte particular de mercadorias, ao transporte por conta própria, ou ao aluguer sem condutor que possua essas finalidades;
+c) Categoria C: Automóveis de mercadorias e automóveis de utilização mista com peso bruto superior a 2500 kg, que se destinem ao serviço de transporte particular de mercadorias, ao transporte por conta própria, ou ao aluguer sem condutor que possua essas finalidades;
 
-d) Categoria D: Automóveis de mercadorias e automóveis de utilização mista com peso bruto superior a 2500 kg, afectos ao transporte público de mercadorias, ao transporte por conta de outrem, ou ao aluguer sem condutor que possua essas finalidades;
+d) Categoria D: Automóveis de mercadorias e automóveis de utilização mista com peso bruto superior a 2500 kg, que se destinem ao serviço de transporte público de mercadorias, ao transporte por conta de outrem, ou ao aluguer sem condutor que possua essas finalidades;
 
 e) Categoria E: motociclos, ciclomotores, triciclos e quadriciclos, tal como estes veículos são definidos pelo Código da Estrada, matriculados desde 1992;
 

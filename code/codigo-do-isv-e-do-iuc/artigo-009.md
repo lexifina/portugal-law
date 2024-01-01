@@ -10,6 +10,8 @@ b) Automóveis ligeiros de mercadorias, de caixa aberta ou sem caixa, com lotaç
 
 c) (Revogada.)
 
+d) Automóveis ligeiros de mercadorias, de caixa fechada, que não apresentem cabina integrada na carroçaria, com peso bruto de 3500 kg, lotação superior a três lugares, incluindo o do condutor, sem tração às quatro rodas, permanente ou adaptável.
+
 2 - É aplicável uma taxa reduzida correspondente a 10 % do imposto resultante da aplicação da tabela B, aos automóveis ligeiros de mercadorias, de caixa aberta, fechada ou sem caixa, com lotação máxima de três lugares, incluindo o do condutor, com excepção dos abrangidos pelo n.º 2 do artigo 7.º
 
 3 - É aplicável, a título transitório, uma taxa reduzida às autocaravanas, nos seguintes termos:

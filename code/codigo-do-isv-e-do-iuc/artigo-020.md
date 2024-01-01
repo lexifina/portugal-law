@@ -12,6 +12,6 @@ b) No prazo máximo de 10 dias úteis após o termo dos regimes de admissão ou 
 
 3 - É dispensada a apresentação do certificado de conformidade quando seja indicado o 'Número de Registo Nacional de Homologação' emitido pelo Instituto da Mobilidade e dos Transportes, I. P., onde constem os elementos de tributação referidos no artigo 4.º do presente Código, sendo a base tributável apurada recorrendo aos elementos constantes daquele registo e, quando aplicável, ao documento comprovativo da medição efetiva do nível de emissão de dióxido de carbono previsto no número anterior.
 
-4 - Os documentos previstos no n.º 2 podem ser apresentados por transmissão eletrónica de dados, devendo os originais ser conservados pelo prazo de quatro anos, ficando sujeitos à apresentação dos originais a qualquer momento nos serviços competentes, para efeitos de fiscalização e controlo.
+4 - Os documentos previstos no n.º 2 devem ser apresentados por transmissão eletrónica de dados com a submissão da DAV, devendo os originais ser conservados pelo prazo de quatro anos, sem prejuízo de deverem ser apresentados a qualquer momento nos serviços competentes, a pedido destes, para efeitos de fiscalização e controlo.
 
 5 - Sem prejuízo do disposto no número anterior, o original do certificado de matrícula ou documento equivalente do veículo deve ser depositado no Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), ou, no caso das regiões autónomas, nos serviços competentes em matéria de transportes terrestres, no prazo de 10 dias a contar da data de apresentação da DAV.
