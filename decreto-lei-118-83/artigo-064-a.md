@@ -2,4 +2,4 @@
 
 ### Cobrança de dívidas
 
-As certidões emitidas pela ADSE, de onde constem prestações a esta em dívida, qualquer que seja a respectiva natureza, têm força de título executivo nos termos dos artigos 162.º e 163.º do Código de Procedimento e de Processo Tributário, sendo a sua cobrança coerciva efectuada através do processo de execução fiscal.
+A ADSE pode assumir o pagamento de todas as prestações devidas pelos organismos autónomos, regiões, autarquias locais e entidades referidas na alínea c) do artigo 3.º aos seus funcionários, mediante prévio acordo, tendo em conta o previsto nos artigos 4.º, 4.º-A e 6.º, n.º 2, do presente diploma.

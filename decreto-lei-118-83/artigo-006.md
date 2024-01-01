@@ -1,3 +1,7 @@
+## Subsecção II
+
+## Autarquias locais
+
 # Artigo 6.º
 
 ### (Requisitos que devem reunir os beneficiários titulares)
