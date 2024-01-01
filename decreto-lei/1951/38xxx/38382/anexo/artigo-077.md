@@ -1,6 +1,6 @@
 # Artigo 77.º
 
-1. Só é permitida a construção de caves destinadas a habitação em casos excepcionais, em que a orientação e o desafogo do local permitam assegurar-lhes boas condições de habitabilidade, reconhecidas pelas câmaras municipais, devendo, neste caso, todos os compartimentos satisfazer às condições especificadas neste Regulamento para os andares de habitação e ainda ao seguinte:
+1 - Só é permitida a construção de caves destinadas a habitação em casos excecionais, em que a orientação e o desafogo do local permitam assegurar-lhes boas condições de habitabilidade, devendo, neste caso, todos os compartimentos satisfazer às condições especificadas no presente Regulamento para os andares de habitação e ainda ao seguinte:
 
 a) A cave deverá ter, pelo menos, uma parede exterior completamente desafogada a partir de 0,15 m abaixo do nível do pavimento interior;
 

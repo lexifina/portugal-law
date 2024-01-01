@@ -1,6 +1,6 @@
 # Artigo 17.º
 
-1 - As edificações devem ser construídas e intervencionadas de modo a garantir a satisfação das exigências essenciais de resistência mecânica e estabilidade, de segurança na sua utilização e em caso de incêndio, de higiene, saúde e protecção do ambiente, de protecção contra o ruído, de economia de energia, de isolamento térmico e das demais exigências estabelecidas no presente Regulamento ou em legislação específica, nomeadamente de funcionalidade, de durabilidade e outras.
+1 - As edificações devem ser construídas e intervencionadas de modo a garantir a satisfação das exigências essenciais de resistência mecânica e estabilidade, de segurança na sua utilização e em caso de incêndio, de higiene, saúde e proteção do ambiente, de proteção contra o ruído, de economia de energia, de isolamento térmico, em matéria de acessibilidades, de ventilação e das demais exigências estabelecidas no presente Regulamento ou em legislação específica, nomeadamente de funcionalidade, de durabilidade e outras.
 
 2 - A qualidade, a natureza e o modo de aplicação dos materiais utilizados na construção das edificações novas e nas intervenções devem respeitar as regras de construção e da regulamentação aplicável, garantindo que as edificações satisfaçam as condições e exigências referidas no número anterior em conformidade com as especificações técnicas do projecto de execução.
 

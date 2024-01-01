@@ -1,3 +1,0 @@
-# Artigo 47.º
-
-As escadas de acesso comum nas edificações com mais de três pisos serão, sempre que possível, iluminadas e ventiladas por meio de aberturas praticadas nas paredes em comunicação directa com o exterior. Todavia, nos dois andares superiores destas edificações, bem como no seu conjunto nas edificações até três pisos, a iluminação e ventilação das escadas de acesso comum poderão fazer-se por clarabóias providas de ventiladores, devendo as escadas ter no seu eixo um espaço vazio com largura não inferior a 40 centímetros. Em todos os casos deverá ter-se em atenção o disposto no artigo 144.º

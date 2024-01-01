@@ -1,3 +1,7 @@
+## Capítulo V
+
+## Comunicações verticais
+
 # Artigo 50.º
 
 1. Nas edificações para habitação colectiva, quando a altura do último piso destinado a habitação exceder 11,5 m, é obrigatória a instalação de ascensores.
