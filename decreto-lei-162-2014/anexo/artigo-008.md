@@ -16,6 +16,8 @@ c) Isenção ou redução de IMT, relativamente às aquisições de prédios inc
 
 d) Isenção de Imposto do Selo, relativamente a todos os atos ou contratos necessários à realização do projeto de investimento.
 
+e) Aplicação de taxa especial, nos termos da alínea b) do n.º 1 do artigo 58.º-A do Estatuto dos Benefícios Fiscais, aos trabalhadores que ocupem postos de trabalho qualificados no âmbito do contrato referido no artigo 16.º
+
 2 - A dedução prevista na alínea a) do número anterior é efetuada na liquidação de IRC respeitante ao período de tributação em que foram realizadas as aplicações relevantes, podendo ainda essa dedução ser utilizada, nas mesmas condições, na liquidação dos períodos de tributação até ao termo da vigência do contrato referido no artigo 16.º, quando não o tenha sido integralmente efetuada naquele período de tributação.
 
 3 - A dedução prevista na alínea a) do n.º 1 tem os seguintes limites:
