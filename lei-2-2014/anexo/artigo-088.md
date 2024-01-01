@@ -8,11 +8,11 @@
 
 3 - São tributados autonomamente os encargos efetuados ou suportados por sujeitos passivos que não beneficiem de isenções subjetivas e que exerçam, a título principal, atividade de natureza comercial, industrial ou agrícola, relacionados com viaturas ligeiras de passageiros, viaturas ligeiras de mercadorias referidas na alínea b) do n.º 1 do artigo 7.º do Código do Imposto sobre Veículos, motos ou motociclos, às seguintes taxas:
 
-a) 10 % no caso de viaturas com um custo de aquisição inferior a 27 500 (euro);
+a) 8,5 % no caso de viaturas com um custo de aquisição inferior a 27 500 (euro);
 
-b) 27,5 % no caso de viaturas com um custo de aquisição igual ou superior a 27 500 (euro) e inferior a 35 000 (euro);
+b) 25,5 % no caso de viaturas com um custo de aquisição igual ou superior a 27 500 (euro) e inferior a 35 000 (euro);
 
-c) 35 % no caso de viaturas com um custo de aquisição igual ou superior a (euro) 35 000.
+c) 32,5 % no caso de viaturas com um custo de aquisição igual ou superior a 35 000 (euro).
 
 4 - (Revogado.)
 
@@ -54,7 +54,7 @@ b) Os gastos ou encargos relativos a bónus e outras remunerações variáveis p
 
 19 - (Revogado.)
 
-20 - Os encargos relacionados com veículos movidos exclusivamente a energia elétrica apenas são sujeitos a tributação, à taxa autónoma de 10 %, caso o custo de aquisição destes veículos exceda o definido na portaria a que se refere a alínea e) do n.º 1 do artigo 34.º
+20 - Os encargos relacionados com veículos movidos exclusivamente a energia elétrica apenas são sujeitos a tributação, à taxa autónoma de 10 %, caso o custo de aquisição destes veículos exceda o definido na portaria a que se refere a alínea e) do n.º 1 do artigo 34.º e não se encontrem excluídos de tributação pelo n.º 6.
 
 21 - No caso de se verificar o incumprimento de qualquer das condições previstas na parte final da alínea b) do n.º 13, o montante correspondente à tributação autónoma que deveria ter sido liquidada é adicionado ao valor do IRC liquidado relativo ao período de tributação em que se verifique aquele incumprimento.
 

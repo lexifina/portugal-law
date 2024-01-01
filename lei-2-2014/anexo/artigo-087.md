@@ -10,7 +10,7 @@
 
 2 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a taxa de IRC aplicável aos primeiros 50 000 (euro) de matéria coletável é de 17 %, aplicando-se a taxa prevista no número anterior ao excedente.
 
-3 - A aplicação da taxa prevista no número anterior está sujeita às regras europeias aplicáveis em matéria de auxílios de minimis.
+3 - A aplicação das taxas previstas nos n.os 2 e 8 está sujeita às regras europeias aplicáveis em matéria de auxílios de minimis.
 
 4 - Tratando-se de rendimentos de entidades que não tenham sede nem direção efetiva em território português e aí não possuam estabelecimento estável ao qual os mesmos sejam imputáveis, a taxa do IRC é de 25 %, exceto relativamente aos seguintes rendimentos:
 
@@ -37,3 +37,5 @@ i) Rendimentos de capitais, tal como definidos no artigo 5.º do Código do IRS,
 6 - (Revogado.)
 
 7 - (Revogado.)
+
+8 - Quando o disposto no n.º 2 seja aplicado a entidades qualificadas como startup, nos termos previstos na Lei n.º 21/2023, de 25 de maio, e que reúnam cumulativamente as condições previstas na alínea f) do n.º 1 do artigo 2.º daquele diploma, a taxa de IRC prevista no n.º 2 é reduzida para 12,5 %.
