@@ -38,7 +38,7 @@ Bens e serviços sujeitos a taxa reduzida
 
 1.3.1 – Peixe fresco (vivo ou morto), refrigerado, congelado, seco, salgado ou em salmoura, com exclusão do peixe fumado, do espadarte, do esturjão e do salmão, quando secos, salgados ou em conserva e preparados de ovas (caviar);
 
-1.3.2 - Conservas à base de peixes e moluscos (inteiros, em filetes ou pedaços, em água, azeite, óleo ou outros molhos, em caldeirada, escabeche, recheadas e similares, em qualquer embalagem), com teor de peixe ou molusco superior a 50 %, com exceção do peixe fumado, do espadarte e do esturjão, quando secos, salgados ou em conserva e preparados de ovas (caviar).
+1.3.2 - Conservas à base de peixes e moluscos (inteiros, em filetes, pedaços, em água, azeite, óleo ou outros molhos, em caldeirada, escabeche, recheadas e similares, em qualquer embalagem), com teor de peixe ou molusco superior a 50 %, com exceção do peixe fumado, do espadarte e do esturjão, quando secos, salgados ou em conserva e preparados de ovas (caviar) e pastas de atum, cavala e sardinha.
 
 1.3.3 – Moluscos, ainda que secos ou congelados.
 
@@ -182,7 +182,7 @@ A taxa reduzida não abrange os materiais incorporados, salvo se o respetivo val
 
 2.28 – As prestações de serviços de assistência domiciliária a crianças, idosos, toxicodependentes, doentes ou deficientes, bem como as prestações de serviços de teleassistência a idosos e a doentes crónicos, prestados ao utente final ou a entidades públicas ou privadas.
 
-2.29 – Cadeiras e assentos próprios para o transporte de crianças em veículos automóveis, bem como outros equipamentos de retenção para o mesmo fim.
+2.29 - Cadeiras e assentos próprios para o transporte de crianças em veículos automóveis ou em velocípedes, bem como outros equipamentos de retenção para o mesmo fim.
 
 2.30 – Prestações de serviços de locação, manutenção ou reparação de próteses, equipamentos, aparelhos, artefactos e outros bens referidos nas verbas 2.6, 2.8 e 2.9.
 
@@ -198,7 +198,7 @@ A taxa reduzida não abrange os materiais incorporados, salvo se o respetivo val
 
 2.36 – As prestações de serviços de reparações de aparelhos domésticos.
 
-2.37 – Entrega e instalação de painéis solares térmicos e fotovoltaicos.
+2.37 - Aquisição, entrega e instalação, manutenção e reparação de aparelhos, máquinas e outros equipamentos destinados exclusiva ou principalmente à captação e aproveitamento de energia solar, eólica e geotérmica e de outras formas alternativas de energia.
 
 2.39 - Acesso à transmissão em direto de espetáculos e eventos de teatros, feiras, parques de diversões, concertos, museus, cinemas ou outros similares.
 
@@ -308,6 +308,8 @@ Bens e serviços sujeitos a taxa intermédia
 
 1.3.2 – (Revogado.)
 
+1.3.3 - Alheiras em tripas de animais ou sintéticas, à base de pão, compostas por carne (porco, aves, coelho, lebre, perdiz) ou outro tipo de recheio e conservadas em processo de fumagem.
+
 1.4 – (Revogado.)
 
 1.4.1 – (Revogado.)
@@ -317,6 +319,8 @@ Bens e serviços sujeitos a taxa intermédia
 1.5.1 – (Revogado.)
 
 1.5.2 – (Revogado.)
+
+1.5.3 - Óleos vegetais diretamente comestíveis e suas misturas (óleos alimentares).
 
 1.6 – (Revogado.)
 
@@ -352,6 +356,4 @@ Bens e serviços sujeitos a taxa intermédia
 
 3 – Prestações de serviços:
 
-3.1 - Prestações de serviços de alimentação e bebidas, com exclusão das bebidas alcoólicas, refrigerantes, sumos, néctares e águas gaseificadas ou adicionadas de gás carbónico ou outras substâncias.
-
-Quando o serviço incorpore elementos sujeitos a taxas distintas para o qual é fixado um preço único, o valor tributável deve ser repartido pelas várias taxas, tendo por base a relação proporcional entre o preço de cada elemento da operação e o preço total que seria aplicado de acordo com a tabela de preços ou proporcionalmente ao valor normal dos serviços que compõem a operação. Não sendo efetuada aquela repartição, é aplicável a taxa mais elevada à totalidade do serviço.
+3.1 - Prestações de serviços de alimentação e bebidas, com exclusão das bebidas alcoólicas e refrigerantes.

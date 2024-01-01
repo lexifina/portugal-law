@@ -56,7 +56,7 @@ c) Por um sujeito passivo, nos termos previstos nas alíneas l), m) e n) do n.º
 
 10 - Estão isentas de imposto:
 
-a) As transmissões de bens a título gratuito, para posterior distribuição a pessoas carenciadas, efetuadas ao Estado, a instituições particulares de solidariedade social e a organizações não-governamentais sem fins lucrativos;
+a) As transmissões de bens a título gratuito, para posterior distribuição a pessoas carenciadas ou animais abandonados ou em risco, efetuadas ao Estado, a instituições particulares de solidariedade social e a organizações não-governamentais sem fins lucrativos;
 
 b) As transmissões de livros a título gratuito efetuadas aos departamentos governamentais nas áreas da cultura e da educação, a instituições de caráter cultural e educativo, a centros educativos de reinserção social e a estabelecimentos prisionais;
 

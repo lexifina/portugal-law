@@ -32,7 +32,7 @@ Estão isentas do imposto:
 
 10) As prestações de serviços que tenham por objecto a formação profissional, bem como as transmissões de bens e prestações de serviços conexas, como sejam o fornecimento de alojamento, alimentação e material didáctico, efectuadas por organismos de direito público ou por entidades reconhecidas como tendo competência nos domínios da formação e reabilitação profissionais pelos ministérios competentes;
 
-11) As prestações de serviços que consistam em lições ministradas a título pessoal sobre matérias do ensino escolar ou superior;
+11) As prestações de serviços que consistam em lições ministradas sobre matérias do ensino escolar ou superior;
 
 12) As locações de livros e outras publicações, partituras musicais, discos, bandas magnéticas e outros suportes de cultura e, em geral, as prestações de serviços e transmissões de bens com aquelas estreitamente conexas, desde que efectuadas por organismos sem finalidade lucrativa;
 
@@ -121,3 +121,5 @@ c) Ensino de ballet e de música;
 37) As actividades das empresas públicas de rádio e televisão que não tenham carácter comercial;
 
 38) As prestações de serviços efetuadas por intérprete de língua gestual portuguesa.
+
+39) As prestações de serviços previstas no n.º 13, bem como as previstas na verba 2.32 da lista i anexa ao Código do IVA, quando efetuadas a título gratuito, a pessoas que acompanhem outras com grau de incapacidade permanente, devidamente comprovado mediante atestado médico de incapacidade multiúso emitido nos termos da legislação aplicável, igual ou superior a 60 %, e das quais dependam para a respetiva visita.
