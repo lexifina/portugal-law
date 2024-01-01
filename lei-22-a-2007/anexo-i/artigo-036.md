@@ -34,7 +34,7 @@ No 3.º ano - 50 %;
 
 No 4.º ano - 25 %.
 
-7 - Os veículos introduzidos no consumo nos termos do presente artigo podem ser substituídos uma única vez por outros veículos a adquirir em suspensão de imposto no mercado nacional ou em mercado de outro Estado membro, num prazo máximo de seis meses, havendo lugar à emissão de novo certificado de matrícula e atribuição de nova matrícula pelos serviços do Protocolo do Ministério dos Negócios Estrangeiros, excepto se respeitarem a missão diplomática ou consular, caso em que não há limites para a respectiva substituição.
+7 - Os veículos objeto de apuramento do regime nos termos definidos no artigo 32.º podem ser substituídos uma única vez por outros veículos a adquirir em suspensão de imposto no mercado nacional ou em mercado de outro Estado-Membro, num prazo máximo de seis meses, havendo lugar à emissão de novo certificado de matrícula e atribuição de nova matrícula pelos serviços do Protocolo do Ministério dos Negócios Estrangeiros, exceto se respeitarem a missão diplomática ou consular, caso em que não há limites para a respetiva substituição.
 
 8 - O regime previsto no presente artigo é aplicável, com as devidas adaptações, às agências europeias especializadas instaladas em Portugal e aos respectivos funcionários cuja equiparação ao corpo diplomático se encontre estabelecida nos protocolos celebrados.
 

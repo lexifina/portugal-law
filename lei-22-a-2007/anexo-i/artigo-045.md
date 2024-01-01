@@ -18,7 +18,7 @@ a) No prazo de 12 meses a contar da data da transferência de residência a que 
 
 b) Antes de apresentado o pedido de introdução no consumo ou pago o imposto pelo operador registado, nos casos a que se referem os artigos 51.º a 54.º e 57.º-A, podendo o pedido ser apresentado no prazo de 30 dias após a atribuição de matrícula quando se dê a transformação de veículos que constitua facto gerador do imposto.
 
-3 - As isenções previstas no presente capítulo são aplicáveis a veículos adquiridos em sistema de locação financeira ou locação operacional de veículos, desde que dos documentos do veículo conste a identificação do locatário.
+3 - As isenções previstas no presente capítulo são aplicáveis a veículos adquiridos em sistema de locação financeira, desde que dos documentos do veículo conste a identificação do locatário, ou em sistema de locação operacional de veículos, sendo neste caso exigido o contrato de locação operacional celebrado com o beneficiário, o qual deve ser exibido sempre que for solicitado pelas autoridades de fiscalização.
 
 4 - Nos casos previstos nos artigos 58.º, 62.º e 63.º, o benefício apenas é reconhecido a um automóvel ou motociclo por beneficiário.
 
