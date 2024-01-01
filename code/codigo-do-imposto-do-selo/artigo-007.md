@@ -30,7 +30,7 @@ m) O reporte de valores mobiliários ou direitos equiparados realizado em mercad
 
 n) O crédito concedido por meio de conta poupança-ordenado, na parte em que não exceda, em cada mês, o montante do salário mensalmente creditado na conta;
 
-o) Os actos, contratos e operações em que as instituições comunitárias ou o Banco Europeu de Investimentos sejam intervenientes ou destinatários;
+o) Os atos, contratos e operações em que as instituições comunitárias, o Banco Europeu de Investimentos ou o Banco Português de Fomento sejam intervenientes ou destinatários;
 
 p) O jogo do bingo e os jogos organizados por instituições de solidariedade social, pessoas coletivas legalmente equiparadas ou pessoas coletivas de utilidade pública que desempenhem, única e exclusiva ou predominantemente, fins de caridade, de assistência ou de beneficência, quando a receita se destine aos seus fins estatutários ou, nos termos da lei, reverta obrigatoriamente a favor de outras entidades;
 
