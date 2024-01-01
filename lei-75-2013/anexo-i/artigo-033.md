@@ -114,4 +114,6 @@ bbb) Assegurar o apoio adequado ao exercício de competências por parte do Esta
 
 ccc) Apresentar propostas à assembleia municipal sobre matérias da competência desta.
 
+ddd) Deliberar sobre as formas de apoio, em complementaridade com o Estado, às instituições de ensino superior, do sistema nacional de ciência, tecnologia e inovação e ao Serviço Nacional de Saúde, para a requalificação dos equipamentos e infraestruturas ou para o desenvolvimento de projetos ou ações, de interesse para o município, nas condições a definir em contrato-programa.
+
 2 - A alienação de bens e valores artísticos do património do município é objeto de legislação especial.
