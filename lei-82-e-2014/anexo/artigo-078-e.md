@@ -4,7 +4,7 @@
 
 1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 15 % do valor suportado por qualquer membro do agregado familiar:
 
-a) Com as importâncias, líquidas de subsídios ou comparticipações oficiais, suportadas a título de renda pelo arrendatário de prédio urbano ou da sua fração autónoma para fins de habitação permanente, quando referentes a contratos de arrendamento celebrados ao abrigo do Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro, ou do Novo Regime do Arrendamento Urbano, aprovado pela Lei n.º 6/2006, de 27 de fevereiro, ou com contratos de direito real de habitação duradoura no ano em que tais importâncias sejam tributáveis como rendimento do proprietário, até ao limite de 502 (euro);
+a) Com as importâncias, líquidas de subsídios ou comparticipações oficiais, suportadas a título de renda pelo arrendatário de prédio urbano ou da sua fração autónoma para fins de habitação permanente, quando referentes a contratos de arrendamento celebrados ao abrigo do Regime do Arrendamento Urbano, aprovado em anexo ao Decreto-Lei n.º 321-B/90, de 15 de outubro, ou do Novo Regime do Arrendamento Urbano, aprovado pela Lei n.º 6/2006, de 27 de fevereiro, ou com contratos de direito real de habitação duradoura no ano em que tais importâncias sejam tributáveis como rendimento do proprietário, até ao limite de 600 (euro);
 
 b) Com juros de dívidas, por contratos celebrados até 31 de dezembro de 2011, contraídas com a aquisição, construção ou beneficiação de imóveis para habitação própria e permanente ou arrendamento devidamente comprovado para habitação permanente do arrendatário, até ao limite de (euro) 296;
 
@@ -24,7 +24,11 @@ c) Que constem de outros documentos, no caso de prestações de serviços e tran
 
 4 - Não obstante o disposto na alínea a) do n.º 1, o limite da dedução à coleta aí previsto é elevado para os seguintes montantes, sendo o rendimento coletável, no caso de tributação conjunta, o que resultar da aplicação do divisor previsto no artigo 69.º:
 
-a) Para contribuintes que tenham um rendimento coletável igual ou inferior ao valor do primeiro escalão do n.º 1 do artigo 68.º, um montante de (euro) 800;
+a) Para contribuintes que tenham um rendimento coletável igual ou inferior ao valor do primeiro escalão do n.º 1 do artigo 68.º, um montante de 900 (euro);
+
+b) Para contribuintes que tenham um rendimento coletável superior ao valor do primeiro escalão do n.º 1 do artigo 68.º e igual ou inferior a 30 000 (euro), o limite resultante da aplicação da seguinte fórmula:
+
+600 (euro) + [900 (euro) - 600 (euro)) x [(30 000 (euro) - Rendimento Coletável)/(30 000 (euro) - valor do primeiro escalão)]]
 
 b) Para contribuintes que tenham um rendimento coletável superior ao valor do primeiro escalão do n.º 1 do artigo 68.º e igual ou inferior a (euro) 30 000, o limite resultante da aplicação da seguinte fórmula:
 

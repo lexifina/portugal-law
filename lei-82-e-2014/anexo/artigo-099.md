@@ -36,6 +36,6 @@ b) A dedução específica aos rendimentos da categoria H, prevista no artigo 53
 
 c) As deduções à coleta previstas no artigo 78.º
 
-8 - No caso de remunerações mensalmente pagas ou postas à disposição de residentes não habituais em território português, tratando-se de rendimentos de categoria A auferidos em atividades de elevado valor acrescentado, com carácter científico, artístico ou técnico, definidas em portaria do membro do Governo responsável pela área das finanças, aplica-se a taxa de 20 %.
+8 - No caso de remunerações mensalmente pagas ou postas à disposição de residentes, tratando-se de rendimentos de categoria A auferidos por sujeitos passivos abrangidos pelo artigo 58.º-A do Estatuto dos Benefícios Fiscais, aplica-se a taxa de 20 %.
 
 9 - Até ao momento do pagamento ou colocação à disposição dos rendimentos referidos no n.º 1, as entidades pagadoras devem apresentar a taxa efetiva mensal de retenção na fonte no documento do qual conste o valor dos rendimentos e a respetiva retenção na fonte, sendo esta calculada pelo rácio entre o valor retido na fonte e o valor do rendimento pago ou colocado à disposição.

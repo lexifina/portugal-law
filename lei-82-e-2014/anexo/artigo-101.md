@@ -10,7 +10,7 @@ b) 25 %, tratando-se de rendimentos decorrentes das atividades profissionais esp
 
 c) 11,5 %, tratando-se de rendimentos da categoria B referidos na alínea b) do n.º 1 e nas alíneas g) e i) do n.º 2 do artigo 3.º, não compreendidos na alínea anterior;
 
-d) 20 %, tratando-se de rendimentos da categoria B auferidos em atividades de elevado valor acrescentado, com carácter científico, artístico ou técnico, definidas em portaria do membro do Governo responsável pela área das finanças, por residentes não habituais em território português;
+d) 20 %, tratando-se de rendimentos da categoria B auferidos por sujeitos passivos abrangidos pelo artigo 58.º-A do Estatuto dos Benefícios Fiscais;
 
 e) 25 %, tratando-se de rendimentos da categoria F.
 

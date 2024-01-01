@@ -14,7 +14,7 @@
 
 4 - Aos rendimentos brutos da categoria H são ainda deduzidas:
 
-a) As quotizações sindicais, na parte em que não constituam contrapartida de benefícios relativos à saúde, educação, apoio à terceira idade, habitação, seguros ou segurança social e desde que não excedam, em relação a cada sujeito passivo, 1 % do rendimento bruto desta categoria, sendo acrescidas de 50 %;
+a) As quotizações sindicais, na parte em que não constituam contrapartida de benefícios relativos à saúde, educação, apoio à terceira idade, habitação, seguros ou segurança social e desde que não excedam, em relação a cada sujeito passivo, 1 % do rendimento bruto desta categoria, sendo acrescidas em 100 %.
 
 b) As contribuições obrigatórias para regimes de proteção social e para subsistemas legais de saúde, na parte que exceda o montante da dedução prevista no n.º 1.
 

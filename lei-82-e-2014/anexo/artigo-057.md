@@ -6,7 +6,7 @@
 
 ### Declaração de rendimentos
 
-1 - Os sujeitos passivos devem apresentar, anualmente, uma declaração de modelo oficial, relativa aos rendimentos do ano anterior e a outros elementos informativos relevantes para a sua concreta situação tributária, nomeadamente para os efeitos do artigo 89.º-A da lei geral tributária, devendo ser-lhe juntos, fazendo dela parte integrante os anexos e outros documentos que para o efeito sejam mencionados no referido modelo.
+1 - Os sujeitos passivos devem apresentar, anualmente, uma declaração de modelo oficial, relativa a todas as fontes de rendimentos do ano anterior e a outros elementos informativos relevantes para a sua concreta situação tributária, nomeadamente para os efeitos do artigo 89.º-A da Lei Geral Tributária, devendo ser-lhe juntos, fazendo dela parte integrante, os anexos e outros documentos que para o efeito sejam mencionados no referido modelo.
 
 2 - Sem prejuízo do disposto no artigo 63.º, no caso de falecimento do sujeito passivo, incumbe ao administrador da herança apresentar a declaração de rendimentos em nome daquele, relativa aos rendimentos correspondentes ao período decorrido de 1 de janeiro até à data do óbito.
 
@@ -21,3 +21,5 @@ b) Comprovar, quando solicitado, a afetação do imóvel à sua habitação perm
 5 - Sempre que as declarações não forem consideradas claras ou nelas se verifiquem faltas ou omissões, a Autoridade Tributária e Aduaneira notifica os sujeitos passivos ou os seus representantes para, por escrito, e no prazo que lhes for fixado, não inferior a 5 nem a superior a 15 dias, prestarem os esclarecimentos indispensáveis.
 
 6 - Sempre que, no mesmo ano, o sujeito passivo tenha, em Portugal, dois estatutos de residência, deve proceder à entrega de uma declaração de rendimentos relativa a cada um deles, sem prejuízo da possibilidade de dispensa, nos termos gerais.
+
+7 - Para efeitos do n.º 1, são obrigatoriamente reportados, designadamente, os rendimentos sujeitos a taxas liberatórias não englobados e os rendimentos não sujeitos a IRS, quando superiores a 500 (euro), bem como os ativos detidos em países, territórios ou regiões com regime fiscal claramente mais favorável.

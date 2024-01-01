@@ -12,23 +12,15 @@ b) Fração da coleta do IRS, calculada antes da dedução, correspondente aos r
 
 3 - Sempre que não seja possível efetuar a dedução a que se refere o n.º 1, por insuficiência de coleta no período de tributação em que os rendimentos obtidos no estrangeiro foram incluídos no rendimento coletável, o remanescente pode ser deduzido à coleta dos cinco períodos de tributação seguintes, com o limite previsto na alínea b) do n.º 1 que corresponder aos rendimentos obtidos no estrangeiro incluídos no rendimento coletável e depois da dedução do próprio ano.
 
-4 - Aos residentes não habituais em território português que obtenham, no estrangeiro, rendimentos da categoria A aplica-se o método da isenção, bastando que se verifique qualquer das condições previstas nas alíneas seguintes:
+4 - Aos sujeitos passivos que beneficiem do regime previsto no artigo 58.º-A do Estatuto dos Benefícios Fiscais, e obtenham, no estrangeiro, rendimentos das categorias A, B, E, F e G, aplica-se o método da isenção, sendo obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos.
 
-a) Sejam tributados no outro Estado contratante, em conformidade com convenção para eliminar a dupla tributação celebrada por Portugal com esse Estado; ou
-
-b) Sejam tributados no outro país, território ou região, nos casos em que não exista convenção para eliminar a dupla tributação celebrada por Portugal, desde que os rendimentos, pelos critérios previstos no n.º 1 do artigo 18.º, não sejam de considerar obtidos em território português.
-
-5 - Aos residentes não habituais em território português que obtenham, no estrangeiro, rendimentos da categoria B, auferidos em atividades de prestação de serviços de elevado valor acrescentado, com carácter científico, artístico ou técnico, a definir em portaria do membro do Governo responsável pela área das finanças, ou provenientes da propriedade intelectual ou industrial, ou ainda da prestação de informações respeitantes a uma experiência adquirida no setor industrial, comercial ou científico, bem como das categorias E, F e G, aplica-se o método da isenção, bastando que se verifique qualquer uma das condições previstas nas alíneas seguintes:
-
-a) Possam ser tributados no outro Estado contratante, em conformidade com convenção para eliminar a dupla tributação celebrada por Portugal com esse Estado; ou
-
-b) Possam ser tributados no outro país, território ou região, em conformidade com o modelo de convenção fiscal sobre o rendimento e o património da OCDE, interpretado de acordo com as observações e reservas formuladas por Portugal, nos casos em que não exista convenção para eliminar a dupla tributação celebrada por Portugal, desde que aqueles não constem de lista aprovada por portaria do membro do Governo responsável pela área das finanças, relativa a regimes de tributação privilegiada, claramente mais favoráveis e, bem assim, desde que os rendimentos, pelos critérios previstos no artigo 18.º, não sejam de considerar obtidos em território português.
+5 - Os sujeitos passivos que beneficiem do regime previsto no artigo 58.º-A do Estatuto dos Benefícios Fiscais e obtenham rendimentos pagos ou colocados à disposição por entidades não residentes sem estabelecimento estável em território português, que sejam domiciliadas em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças, são tributados nos termos das alíneas b) e c) do n.º 17 do artigo 71.º e do n.º 18 do artigo 72.º
 
 6 - (Revogado.)
 
-7 - Os rendimentos isentos nos termos dos n.os 4 e 5 são obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, com exceção dos previstos nas alíneas c) a e) do n.º 1, nos n.os 2 a 5 e no n.º 10 do artigo 72.º
+7 - (Revogado.)
 
-8 - Os titulares dos rendimentos isentos nos termos dos n.os 4 e 5 podem optar pela aplicação do método do crédito de imposto referido no n.º 1, sendo neste caso os rendimentos obrigatoriamente englobados para efeitos da sua tributação, com exceção dos previstos nas alíneas c) a e) do n.º 1, nos n.os 2 a 5, 7 e 10 do artigo 72.º
+8 - (Revogado.)
 
 9 - Os rendimentos obtidos no estrangeiro relativamente aos quais, por força de convenção para eliminar a dupla tributação celebrada por Portugal, seja aplicado o método da isenção com progressividade, são obrigatoriamente englobados para efeitos de determinação da taxa aplicável aos restantes rendimentos.
 

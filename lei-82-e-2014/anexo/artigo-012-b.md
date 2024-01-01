@@ -14,7 +14,7 @@ b) Em anos seguidos ou interpolados, desde que a idade máxima do sujeito passiv
 
 4 - O disposto no n.º 1 determina o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º
 
-5 - A isenção a que se refere o n.º 1 é de 50 % no primeiro ano, 40 % no segundo ano, 30 % no terceiro e no quarto ano e de 20 % no último ano, com os limites de 12,5 vezes o valor do IAS, 10 vezes o valor do IAS, 7,5 vezes o valor do IAS e 5 vezes o valor do IAS, respetivamente.
+5 - A isenção a que se refere o n.º 1 é de 100 % no primeiro ano, 75 % no segundo ano, 50 % no terceiro e quarto anos e 25 % no último ano, com os limites de 40 vezes o valor do IAS, 30 vezes o valor do IAS, 20 vezes o valor do IAS e 10 vezes o valor do IAS, respetivamente.
 
 6 - A isenção prevista nos números anteriores só pode ser utilizada uma vez pelo mesmo sujeito passivo.
 

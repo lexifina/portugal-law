@@ -24,15 +24,15 @@ d) Desempenhem no estrangeiro funções ou comissões de carácter público, ao 
 
 7 - Sem prejuízo do período definido no número anterior, a condição de residente aí prevista subsiste apenas enquanto se mantiver a deslocação da residência fiscal do sujeito passivo para país, território ou região, sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças, deixando de se aplicar no ano em que este se torne residente fiscal em país, território ou região distinto daqueles.
 
-8 - Consideram-se residentes não habituais em território português os sujeitos passivos que, tornando-se fiscalmente residentes nos termos dos n.os 1 ou 2, não tenham sido residentes em território português em qualquer dos cinco anos anteriores.
+8 - (Revogado.)
 
-9 - O sujeito passivo que seja considerado residente não habitual adquire o direito a ser tributado como tal pelo período de 10 anos consecutivos a partir do ano, inclusive, da sua inscrição como residente em território português.
+9 - (Revogado.)
 
-10 - O sujeito passivo deve solicitar a inscrição como residente não habitual, por via eletrónica, no Portal das Finanças, posteriormente ao ato da inscrição como residente em território português e até 31 de março, inclusive, do ano seguinte àquele em que se torne residente nesse território.
+10 - (Revogado.)
 
-11 - O direito a ser tributado como residente não habitual em cada ano do período referido no n.º 9 depende de o sujeito passivo ser considerado residente em território português, em qualquer momento desse ano.
+11 - (Revogado.)
 
-12 - O sujeito passivo que não tenha gozado do direito referido no número anterior em um ou mais anos do período referido no n.º 9 pode retomar o gozo do mesmo em qualquer dos anos remanescentes daquele período, a partir do ano, inclusive, em que volte a ser considerado residente em território português.
+12 - (Revogado.)
 
 13 - Enquadra-se no disposto na alínea d) do n.º 1 o exercício de funções de deputado ao Parlamento Europeu.
 

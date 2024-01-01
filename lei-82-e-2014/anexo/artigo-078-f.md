@@ -14,7 +14,7 @@ d) Secção S, classe 9602 - Atividades de salões de cabeleireiro e institutos 
 
 e) Secção M, classe 75000 - atividades veterinárias;
 
-f) Secção P, classe 85510 (Ensinos desportivo e recreativo) e Secção R, classes 93120 (Atividades dos clubes desportivos) e 93130 (atividades de ginásio - fitness).
+f) (Revogada.)
 
 2 - O valor do incentivo, calculado nos termos do presente artigo, pode ser atribuído:
 
@@ -22,7 +22,7 @@ a) À mesma igreja ou comunidade religiosa radicada em Portugal, à mesma pessoa
 
 b) À mesma organização não-governamental de ambiente e à mesma pessoa coletiva de utilidade pública de fins ambientais constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista nos n.os 5 e 7 do artigo 14.º da Lei n.º 35/98, de 18 de julho, que define o estatuto das organizações não-governamentais de ambiente, alterada pela Lei n.º 82-D/2014, de 31 de dezembro;
 
-c) À mesma pessoa coletiva de utilidade pública que desenvolva atividades de natureza e interesse cultural, constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista no artigo 152.º deste Código.
+c) À mesma pessoa coletiva de utilidade pública, constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista no artigo 152.º
 
 3 - É ainda dedutível à coleta, concorrendo para o limite referido no n.º 1, um montante correspondente a 100 % do IVA suportado por qualquer membro do agregado familiar, com a aquisição de passes mensais ou de bilhetes para utilização de transportes públicos coletivos, emitidos por operadores de transportes públicos de passageiros com o CAE classe 49310, 49391, 49392, 50102 e 50300, todos da secção H, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira nos termos das disposições indicadas no n.º 1.
 
@@ -37,3 +37,5 @@ c) À mesma pessoa coletiva de utilidade pública que desenvolva atividades de n
 a) Secção J, classe 58130 - Edição de jornais;
 
 b) Secção J, classe 58140 - Edição de revistas e de outras publicações periódicas.
+
+8 - É também dedutível à coleta, concorrendo para o limite referido no n.º 1, um montante correspondente a 30 % do IVA suportado por qualquer membro do agregado familiar, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira nos termos das disposições indicadas no n.º 1, emitidas por entidades enquadradas no âmbito da secção P, com o CAE classe 85510 (Ensinos desportivo e recreativo) e secção R, classes 93120 (Atividades dos clubes desportivos) e 93130 (atividades de ginásio-fitness).

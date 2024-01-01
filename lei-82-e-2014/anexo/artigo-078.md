@@ -28,6 +28,8 @@ k) Aos benefícios fiscais.
 
 l) Ao adicional ao imposto municipal sobre imóveis, nos termos do artigo 135.º-I do Código do Imposto Municipal sobre Imóveis.
 
+m) Aos encargos com retribuição pela prestação de trabalho doméstico.
+
 2 - São ainda deduzidos à coleta os pagamentos por conta do imposto e as importâncias retidas na fonte que tenham aquela natureza, respeitantes ao mesmo período de tributação, bem como as retenções efetuadas ao abrigo do artigo 11.º da Diretiva n.º 2003/48/CE, de 3 de junho.
 
 3 - As deduções referidas neste artigo são efetuadas pela ordem nele indicada e apenas as previstas no número anterior, quando superiores ao imposto devido, conferem direito ao reembolso da diferença.
@@ -46,7 +48,7 @@ i) Fatura, fatura-recibo ou recibo, emitidos nos termos do Código do IVA ou da 
 
 ii) Outro documento, quando o fornecedor dos bens ou prestador dos serviços esteja dispensado daquela obrigação.
 
-7 - A soma das deduções à coleta previstas nas alíneas c) a h) e k) do n.º 1 não pode exceder, por agregado familiar, e, no caso de tributação conjunta, após aplicação do divisor previsto no artigo 69.º, os limites constantes das seguintes alíneas:
+7 - A soma das deduções à coleta previstas nas alíneas c) a h), k) e m) do n.º 1 não pode exceder, por agregado familiar, e, no caso de tributação conjunta, após aplicação do divisor previsto no artigo 69.º, os limites constantes das seguintes alíneas:
 
 a) Para contribuintes que tenham um rendimento coletável igual ou inferior ao valor do 1.º escalão do n.º 1 artigo 68.º, sem limite;
 

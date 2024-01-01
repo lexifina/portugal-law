@@ -12,6 +12,6 @@ c) Sendo superior ao que resulta dos elementos a que se refere a alínea anterio
 
 2 - Na situação referida na alínea b) do número anterior, o rendimento líquido da categoria B determina-se em conformidade com as regras do regime simplificado de tributação, com aplicação do coeficiente de 0,75, exceto quando estejam em causa rendimentos previstos nas alíneas d) ou g) do n.º 1 do artigo 31.º, caso em que se aplicam os coeficientes aí previstos.
 
-3 - Quando não seja apresentada declaração, o titular dos rendimentos é notificado por carta registada para cumprir a obrigação em falta no prazo de 30 dias, findo o qual a liquidação é efetuada, não se atendendo ao disposto no artigo 70.º e sendo apenas efetuadas as deduções previstas no n.º 3 do artigo 97.º
+3 - Quando não seja apresentada declaração, o titular dos rendimentos é notificado por carta registada para cumprir a obrigação em falta no prazo de 30 dias, findo o qual a liquidação é efetuada, atendendo-se ao disposto no artigo 70.º e sendo efetuadas as deduções previstas no n.º 3 do artigo 97.º e as previstas nas alíneas b) a e), g) e h) do n.º 1 do artigo 78.º, que sejam do conhecimento da Autoridade Tributária e Aduaneira.
 
 4 - Em todos os casos previstos no n.º 1, a liquidação pode ser corrigida, se for caso disso, dentro dos prazos e nos termos previstos nos artigos 45.º e 46.º da lei geral tributária.

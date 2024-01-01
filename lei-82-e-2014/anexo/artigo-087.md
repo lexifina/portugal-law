@@ -17,3 +17,13 @@
 7 - Por cada sujeito passivo com deficiência das Forças Armadas abrangido pelo Decreto-Lei n.º 43/76, de 20 de janeiro, e pelo Decreto-Lei n.º 314/90, de 13 de outubro, que beneficie da dedução prevista no n.º 1 é, ainda, dedutível à coleta uma importância igual ao valor do IAS.
 
 8 - As deduções previstas nos n.os 1, 6 e 7 são cumulativas.
+
+9 - Aos sujeitos passivos que tenham beneficiado da dedução à coleta prevista no n.º 1 durante pelo menos cinco anos e que, em resultado de processo de revisão ou reavaliação de incapacidade, deixem de reunir os requisitos estabelecidos no n.º 5, desde que mantendo uma incapacidade igual ou superior a 20 %, é aplicável a seguinte dedução à coleta:
+
+a) 2 IAS no ano subsequente ao processo de revisão ou reavaliação de incapacidade que resulte na atribuição de grau de incapacidade inferior a 60 %;
+
+b) 1,5 IAS no segundo ano subsequente ao processo de revisão ou reavaliação de incapacidade que resulte na atribuição de grau de incapacidade inferior a 60 %;
+
+c) 1 IAS no terceiro ano subsequente ao processo de revisão ou reavaliação de incapacidade que resulte na atribuição de grau de incapacidade inferior a 60 %;
+
+d) 0,5 IAS no quarto ano subsequente ao processo de revisão ou reavaliação de incapacidade que resulte na atribuição de grau de incapacidade inferior a 60 %.

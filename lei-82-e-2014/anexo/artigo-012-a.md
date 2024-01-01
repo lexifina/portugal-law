@@ -2,12 +2,14 @@
 
 ### Regime fiscal aplicável a ex-residentes
 
-1 - São excluídos de tributação 50 % dos rendimentos do trabalho dependente e dos rendimentos empresariais e profissionais dos sujeitos passivos que, tornando-se fiscalmente residentes nos termos dos n.os 1 e 2 do artigo 16.º em 2019, 2020, 2021, 2022 ou 2023:
+1 - São excluídos de tributação 50 % dos rendimentos do trabalho dependente e dos rendimentos empresariais e profissionais dos sujeitos passivos, até ao montante do limite superior do primeiro escalão previsto no n.º 1 do artigo 68.º-A, pelo período de 5 anos, que:
 
-a) Não tenham sido considerados residentes em território português em qualquer dos três anos anteriores;
+a) Se tornem fiscalmente residentes nos termos dos n.os 1 e 2 do artigo 16.º até 2026;
 
-b) Tenham sido residentes em território português antes de 31 de dezembro de 2015, no caso dos sujeitos passivos que se tornem fiscalmente residentes em 2019 ou 2020, e antes de 31 de dezembro de 2017, 2018 e 2019, no caso dos sujeitos passivos que se tornem fiscalmente residentes em 2021, 2022 ou 2023, respetivamente;
+b) Não tenham sido considerados residentes em território português em qualquer dos cinco anos anteriores;
 
-c) Tenham a sua situação tributária regularizada.
+c) Tenham sido residentes em território português em qualquer período antecedente ao previsto na alínea anterior;
+
+d) Tenham a sua situação tributária regularizada.
 
 2 - Não podem beneficiar do disposto no presente artigo os sujeitos passivos que tenham solicitado a sua inscrição como residente não habitual.

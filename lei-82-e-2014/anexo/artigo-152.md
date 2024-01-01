@@ -1,8 +1,8 @@
 # Artigo 152.º
 
-### Consignação a favor de instituições culturais com estatuto de utilidade pública
+### Consignação a favor de instituições com estatuto de utilidade pública
 
-1 - Uma quota equivalente a 0,5 % do imposto sobre o rendimento das pessoas singulares, liquidado com base nas declarações anuais, pode ser destinada pelo contribuinte a uma pessoa coletiva de utilidade pública que desenvolva atividades de natureza e interesse cultural, por indicação na declaração de rendimentos.
+1 - Uma quota equivalente a 0,5 % do imposto sobre o rendimento das pessoas singulares, liquidado com base nas declarações anuais, pode ser destinada pelo contribuinte a uma pessoa coletiva de utilidade pública que desenvolva atividades de natureza e interesse cultural, juvenil ou desportiva, por indicação na declaração de rendimentos.
 
 2 - As verbas destinadas a entregar às entidades referidas no n.º 1 devem ser inscritas em rubrica própria no Orçamento do Estado.
 

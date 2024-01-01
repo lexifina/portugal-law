@@ -2,7 +2,7 @@
 
 ### Dedução de despesas de formação e educação
 
-1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 30 % do valor suportado a título de despesas de formação e educação por qualquer membro do agregado familiar, com o limite global de (euro) 800:
+1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 30 % do valor suportado a título de despesas de formação e educação, incluindo formação profissional, por qualquer membro do agregado familiar, com o limite global de 800 (euro):
 
 a) Que conste de faturas que titulem prestações de serviços e aquisições de bens, isentos do IVA ou tributados à taxa reduzida, comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
 
@@ -48,7 +48,7 @@ b) A identificação fiscal dos prestadores de serviços de fornecimento de refe
 
 11 - Para efeitos da alínea d) do n.º 1:
 
-a) É dedutível a título de rendas um valor máximo de (euro) 300 anuais, sendo o limite global de (euro) 800 aumentado em (euro) 200 quando a diferença seja relativa a rendas;
+a) É dedutível a título de rendas um valor máximo de 400 (euro) anuais, sendo limite global de 800 (euro) aumentado em 300 (euro) quando a diferença seja relativa a rendas;
 
 b) As faturas ou outro documento que, nos termos da lei, titule o arrendamento serão emitidos com a indicação de que este se destina ao arrendamento de estudante deslocado;
 

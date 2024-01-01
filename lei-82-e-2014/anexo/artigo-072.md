@@ -12,7 +12,7 @@ c) O saldo positivo entre as mais-valias e menos-valias, resultante das operaç�
 
 d) Os rendimentos de capitais, tal como são definidos no artigo 5.º, quando não sujeitos a retenção na fonte, nos termos do artigo anterior;
 
-e) Os rendimentos prediais decorrentes de arrendamento não habitacional;
+e) Os rendimentos prediais não previstos no número seguinte;
 
 f) Os ganhos previstos no n.º 7) da alínea b) do n.º 3 do artigo 2.º, quando beneficiem do regime previsto no artigo 43.º-C do Estatuto dos Benefícios Fiscais.
 
@@ -36,11 +36,11 @@ b) Não obstante o disposto no número anterior, os rendimentos previstos nas al
 
 9 - As pensões de alimentos, quando enquadráveis no artigo 83.º-A, são tributadas autonomamente à taxa de 20 %.
 
-10 - Os rendimentos líquidos das categorias A e B auferidos em atividades de elevado valor acrescentado, com carácter científico, artístico ou técnico, a definir em portaria do membro do Governo responsável pela área das finanças, por residentes não habituais em território português, são tributados à taxa de 20 %.
+10 - (Revogado.)
 
 11 - (Revogado.)
 
-12 - Os residentes não habituais em território português são ainda tributados à taxa de 10 % relativamente aos rendimentos líquidos de pensões, incluindo os da categoria H e os previstos na alínea d) do n.º 1 e subalíneas 3) e 11) da alínea b) do n.º 3 do artigo 2.º, quando, pelos critérios previstos no n.º 1 do artigo 18.º, não sejam de considerar obtidos em território português, na parte em que os mesmos, quando tenham origem em contribuições, não tenham gerado uma dedução para efeitos do n.º 2 do artigo 25.º
+12 - (Revogado.)
 
 13 - Os rendimentos previstos nas alíneas c) a f) do n.º 1, com exceção do disposto no número seguinte, nos n.os 2 a 5 e nos n.os 9, 10 e 12 podem ser englobados por opção dos respetivos titulares residentes em território português.
 
