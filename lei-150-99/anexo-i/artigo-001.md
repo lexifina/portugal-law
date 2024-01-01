@@ -50,6 +50,8 @@ e) Transmissões a favor de sujeitos passivos de imposto sobre o rendimento das 
 
 f) Bens de uso pessoal ou doméstico.
 
+g) Donativos entre cônjuge ou unido de facto, descendentes e ascendentes, até ao montante de 5000 (euro).
+
 6 - Para efeitos do presente Código, o conceito de prédio é o definido no Código do Imposto Municipal sobre Imóveis (CIMI).
 
 7 - Os valores e dinheiro depositados em contas conjuntas, guardados em cofres de aluguer ou confiados a qualquer pessoa ou entidade, consideram-se pertencentes em partes iguais aos respectivos titulares, salvo prova em contrário, tanto da Fazenda Nacional como dos interessados.
