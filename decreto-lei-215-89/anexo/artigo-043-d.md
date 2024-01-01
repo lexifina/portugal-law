@@ -2,15 +2,15 @@
 
 ### Regime fiscal de incentivo à capitalização das empresas
 
-1 - Na determinação do lucro tributável das sociedades comerciais ou civis sob forma comercial, cooperativas, empresas públicas, e demais pessoas coletivas de direito público ou privado com sede ou direção efetiva em território português pode ser deduzida uma importância correspondente à aplicação da taxa de 4,5 % ao montante dos aumentos líquidos dos capitais próprios elegíveis.
+1 - Na determinação do lucro tributável das sociedades comerciais ou civis sob forma comercial, cooperativas, empresas públicas, e demais pessoas coletivas de direito público ou privado com sede ou direção efetiva em território português pode ser deduzida uma importância correspondente à aplicação da taxa Euribor a 12 meses, que corresponda à média do período de tributação, calculada tendo por base o último dia de cada mês, adicionada de um spread de 1,5 pontos percentuais, ao montante dos aumentos líquidos dos capitais próprios elegíveis.
 
-2 - A taxa prevista no número anterior é majorada em 0,5 pontos percentuais caso o sujeito passivo se qualifique como micro, pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.
+2 - Caso o sujeito passivo se qualifique como micro, pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a dedução prevista no número anterior é a correspondente à aplicação da taxa Euribor a 12 meses, que corresponda à média do período de tributação, calculada tendo por base o último dia de cada mês, adicionada de um spread de 2 pontos percentuais, ao montante dos aumentos líquidos dos capitais próprios elegíveis.
 
-3 - Para efeitos da dedução prevista no n.º 1, o montante dos aumentos líquidos dos capitais próprios elegíveis deve ser apurado por referência ao somatório dos valores apurados no próprio exercício e em cada um dos nove períodos de tributação anteriores, considerando-se que o montante dos aumentos líquidos dos capitais próprios elegíveis corresponde a zero nas situações em que desse somatório resulte uma diferença negativa.
+3 - Para efeitos da dedução prevista no n.º 1, o montante dos aumentos líquidos dos capitais próprios elegíveis deve ser apurado por referência ao somatório dos valores apurados no próprio exercício e em cada um dos seis períodos de tributação anteriores, considerando-se que o montante dos aumentos líquidos dos capitais próprios elegíveis corresponde a zero nas situações em que desse somatório resulte uma diferença negativa.
 
 4 - A dedução prevista nos números anteriores não pode exceder, em cada período de tributação, o maior dos seguintes limites:
 
-a) 2 000 000 (euro); ou
+a) 4 000 000 (euro); ou
 
 b) 30 % do resultado antes de depreciações, amortizações, gastos de financiamento líquidos e impostos, nos termos do artigo 67.º do Código do IRC.
 
@@ -48,7 +48,7 @@ d) Tenham a situação fiscal e contributiva regularizada.
 
 a) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital da sociedade beneficiária, que sejam financiadas por aumentos de capitais próprios elegíveis na esfera de outra entidade;
 
-b) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital da sociedade beneficiária por entidade com a qual o sujeito passivo esteja em situação de relações especiais que sejam financiadas através de mútuos concedidos pelo próprio sujeito passivo ou por outra entidade com a qual essa entidade e o sujeito passivo estejam em situação de relações especiais;
+b) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital da sociedade beneficiária por entidade com a qual o sujeito passivo esteja em situação de relações especiais que sejam financiadas através de mútuos concedidos, no próprio período de tributação ou num dos seis períodos de tributação anteriores, pelo próprio sujeito passivo ou por outra entidade com a qual essa entidade e o sujeito passivo estejam em situação de relações especiais, presumindo-se, nestes casos, que os aumentos de capital foram financiados por esses mútuos, exceto se o sujeito passivo comprovar que estes se destinaram a outros fins;
 
 c) Entradas realizadas em dinheiro, no âmbito da constituição de sociedades ou do aumento do capital da sociedade beneficiária, por uma entidade que não seja residente para efeitos fiscais noutro Estado-Membro da União Europeia ou no Espaço Económico Europeu ou noutro Estado ou jurisdição com o qual esteja em vigor convenção para evitar a dupla tributação internacional, acordo bilateral ou multilateral que preveja a troca de informações para fins fiscais.
 

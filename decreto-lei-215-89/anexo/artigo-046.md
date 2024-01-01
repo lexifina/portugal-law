@@ -6,7 +6,7 @@
 
 2 - A isenção a que se refere o número anterior abrange os arrumos, despensas e garagens, ainda que fisicamente separados, mas integrando o mesmo edifício ou conjunto habitacional, desde que utilizados exclusivamente pelo proprietário, inquilino ou seu agregado familiar, como complemento da habitação isenta.
 
-3 - Ficam igualmente isentos, nos termos do n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
+3 - Ficam igualmente isentos, nos termos do n.º 5, os prédios ou parte de prédios construídos de novo, ampliados, melhorados ou adquiridos a título oneroso, quando se trate da primeira transmissão, na parte destinada a arrendamento para habitação permanente do inquilino, desde que reunidas as condições referidas na parte final do n.º 1, iniciando-se o período de isenção a partir da data da celebração do primeiro contrato de arrendamento.
 
 4 - Tratando-se de prédios ampliados ou melhorados nos casos previstos nos n.os 1 e 3, a isenção aproveita apenas ao valor patrimonial tributário correspondente ao acréscimo resultante das ampliações ou melhoramentos efectuados, tendo em conta, para a determinação dos respectivos limite e período de isenção, a totalidade do valor patrimonial tributário do prédio após o aumento derivado de tais ampliações ou melhoramentos.
 

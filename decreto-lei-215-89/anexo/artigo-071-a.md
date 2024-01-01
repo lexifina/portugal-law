@@ -18,7 +18,7 @@ b) 'Programas municipais de oferta para alojamento estudantil', os programas de 
 
 6 - A isenção prevista no n.º 3 depende de reconhecimento pelo membro do Governo responsável pela área das finanças.
 
-7 - Ficam isentos de tributação em IRS e IRC os ganhos provenientes da alienação onerosa, ao Estado, às Regiões Autónomas, às entidades públicas empresariais na área da habitação ou às autarquias locais, de imóveis para habitação, com exceção:
+7 - Ficam isentos de tributação em IRS e IRC os ganhos provenientes da alienação onerosa, ao Estado, às regiões autónomas, às entidades públicas empresariais na área da habitação ou às autarquias locais, de imóveis para habitação e terrenos para construção, com exceção:
 
 a) Dos ganhos realizados por residentes com domicílio fiscal em país, território ou região sujeito a um regime fiscal mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças;
 

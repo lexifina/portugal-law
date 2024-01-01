@@ -1,6 +1,6 @@
 # Artigo 59.º-D
 
-### Incentivos fiscais à atividade silvícola
+### Incentivos fiscais à atividade silvícola e agrícola
 
 1 - Para efeitos de determinação da taxa de IRS a aplicar a rendimentos da categoria B decorrentes de explorações silvícolas plurianuais, o respetivo valor é dividido:
 
@@ -39,3 +39,5 @@ b) Pela soma do número de anos ou fração a que respeitem os gastos imputados 
 a) O seu lucro tributável não seja determinado por métodos indiretos;
 
 b) A respetiva produção silvícola ou florestal esteja submetida a um plano de gestão florestal elaborado, aprovado e executado nos termos do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, e 27/2014, de 18 de fevereiro.
+
+16 - Aos prémios de primeira instalação a jovens agricultores é aplicado um coeficiente de 0,1 para efeitos da alínea e) do n.º 1 do artigo 31.º do Código do IRS, sendo estes rendimentos considerados apenas em 50 % quando abrangidos pelo regime da contabilidade organizada.
