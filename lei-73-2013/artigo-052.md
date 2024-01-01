@@ -18,6 +18,6 @@ b) Cumpra o limite previsto no n.º 1, só pode aumentar, em cada exercício, o 
 
 a) O valor dos empréstimos destinados exclusivamente ao financiamento da contrapartida nacional de projetos com comparticipação dos Fundos Europeus Estruturais e de Investimento (FEEI) ou de outros fundos de apoio aos investimentos inscritos no orçamento da União Europeia; e
 
-b) O valor das subvenções reembolsáveis ou dos instrumentos financeiros referidos no n.º 1 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
+b) O valor das subvenções reembolsáveis ou dos instrumentos financeiros referidos no n.º 1 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no n.º 1 do artigo 18.º do Decreto-Lei n.º 20-A/2023, de 22 de março, e no n.º 5 do artigo 10.º do Decreto-Lei n.º 29-B/2021, de 4 de maio.
 
 6 - Para efeitos do disposto no número anterior, no caso de existirem diferentes fontes de financiamento reembolsáveis pelos municípios, a não relevância para efeitos do apuramento da dívida total dos municípios é na proporção dos montantes obtidos no âmbito do Decreto-Lei n.º 159/2014, de 27 de outubro.

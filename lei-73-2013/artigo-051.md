@@ -36,6 +36,14 @@ c) 30 anos, em operações financiadas pelo Banco Europeu de Investimento (BEI).
 
 11 - As amortizações anuais previstas para cada empréstimo não podem ser inferiores a 80 % da amortização média de empréstimos, tal como definida no n.º 4 do artigo 40.º.
 
-12 - Aos empréstimos celebrados no âmbito dos instrumentos financeiros referidos no n.º 1 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, não são aplicáveis os n.os 10 e 11.
+12 - O disposto nos n.os 10 e 11 não é aplicável aos:
+
+a) Empréstimos celebrados no âmbito dos instrumentos financeiros referidos no n.º 1 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro;
+
+b) Empréstimos celebrados no âmbito dos instrumentos financeiros referidos no n.º 1 do artigo 18.º do Decreto-Lei n.º 20-A/2023, de 22 de março;
+
+c) Apoios a título de empréstimo referidos no n.º 5 do artigo 10.º do Decreto-Lei n.º 29-B/2021, de 4 de maio;
+
+d) Empréstimos celebrados no âmbito de operações financiadas pelo BEI.
 
 13 - Os empréstimos previstos na alínea a) do n.º 5 do artigo 52.º, quando contratualizados ao abrigo das linhas de financiamento disponibilizadas pelo BEI e instituições similares, podem ser utilizados para financiar despesas pagas ou por pagar, desde que as operações não se encontrem física e financeiramente concluídas à data da submissão do pedido de financiamento.

@@ -30,12 +30,14 @@ a) As respetivas contas, nos 30 dias subsequentes à data da sessão do órgão 
 
 b) Os mapas de fluxos de caixa, trimestralmente nos 10 dias subsequentes ao período a que respeitam.
 
-8 - A informação a prestar nos termos dos números anteriores é remetida por ficheiro através do SIIAL.
+8 - A informação a prestar nos termos dos números anteriores é remetida por ficheiro através do SIIAL e do Sistema de Informação para o Subsetor da Administração Local (SISAL).
 
 9 - Para efeitos de acompanhamento da situação financeira das autarquias locais pode a DGAL solicitar informação além da referida nos números anteriores.
 
-10 - Em caso de incumprimento, por parte das autarquias locais e das entidades intermunicipais, dos deveres de informação previstos no presente artigo, bem como dos respetivos prazos, são retidos 10 % do duodécimo das transferências correntes no mês seguinte ao do incumprimento, sem prejuízo do valor que seja anualmente estabelecido no decreto-lei de execução orçamental.
+10 - Em caso de incumprimento, por parte das autarquias locais e das entidades intermunicipais, dos deveres de informação previstos no presente artigo, incluindo a informação prevista no n.º 9 e a relativa à descentralização de competências, bem como dos respetivos prazos, são retidos 20 % do duodécimo das transferências correntes e do FFD, no mês seguinte ao do apuramento do incumprimento, sem prejuízo do valor que seja anualmente estabelecido no decreto-lei de execução orçamental.
 
-11 - Os montantes a que se refere o número anterior são repostos no mês seguinte àquele em que a entidade visada passa a cumprir os prazos de prestação de informação, juntamente com a transferência prevista para esse mês.
+11 - O apuramento do incumprimento dos deveres de informação para efeitos de retenção é efetuado por referência ao mês anterior ao do processamento das transferências.
 
-12 - As disposições do presente artigo são estendidas mediante portaria dos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais às entidades do subsetor local que tenham natureza e forma de empresa, fundação ou associações públicas, pela DGAL, se e quando estas não integrarem a informação prestada pelas autarquias locais e pelas entidades intermunicipais.
+12 - Os montantes a que se refere o n.º 10 são repostos no mês seguinte àquele em que a entidade visada passa a cumprir os deveres de informação que motivaram a retenção.
+
+13 - As disposições do presente artigo são estendidas mediante portaria dos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais às entidades do subsetor local que tenham natureza e forma de empresa, fundação ou associações públicas, pela DGAL, se e quando estas não integrarem a informação prestada pelas autarquias locais e pelas entidades intermunicipais.
