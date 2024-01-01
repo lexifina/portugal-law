@@ -10,11 +10,11 @@
 
 4 - As taxas dos elementos específico e ad valorem são as seguintes:
 
-a) Elemento específico - 0,0896 (euro)/g;
+a) Elemento específico - 0,0935 (euro)/g;
 
 b) Elemento ad valorem - 15 %.
 
-5 - O imposto relativo ao tabaco aquecido resultante da aplicação do número anterior não pode ser inferior a 0,193 (euro)/g.
+5 - O imposto relativo ao tabaco aquecido resultante da aplicação do número anterior não pode ser inferior a metade do imposto mínimo sobre os cigarros, aplicável aos cigarros vendidos ao preço médio ponderado dos mesmos, conforme previsto no n.º 5 do artigo 103.º, ponderado pelo fator de equivalência de 0,325 g de tabaco aquecido por unidade de cigarro.
 
 6 - Para efeitos de determinação do imposto aplicável, caso o peso das embalagens individuais, expresso em gramas, constitua um número decimal, esse peso é arredondado:
 

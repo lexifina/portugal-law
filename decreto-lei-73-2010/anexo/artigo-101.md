@@ -22,7 +22,7 @@ f) O tabaco de mascar;
 
 g) O tabaco aquecido;
 
-h) O líquido contendo nicotina, em recipientes utilizados para carga e recarga de cigarros eletrónicos.
+h) O líquido, com ou sem nicotina, em recipientes utilizados para carga e recarga de cigarros eletrónicos, reutilizáveis ou não.
 
 2 - Para efeitos de aplicação da alínea a) do número anterior, são considerados charutos e cigarrilhas, se puderem ser fumados tal como se apresentam e se, tendo em conta as suas características e as expectativas normais dos consumidores, se destinarem exclusivamente a sê-lo:
 

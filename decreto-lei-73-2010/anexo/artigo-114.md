@@ -20,4 +20,4 @@ b) Volume de vendas anual: (euro) 50 000 000.
 
 7 - Os resíduos e desperdícios de tabaco que não sejam reintroduzidos no processo produtivo devem ser inutilizados sob controlo da estância aduaneira competente.
 
-8 - O disposto no presente artigo não é aplicável aos entrepostos fiscais de produção de tabaco para cachimbo de água, de rapé, de tabaco de mascar e de líquido contendo nicotina em recipientes utilizados para carga e recarga de cigarros eletrónicos, salvo o previsto no número anterior.
+8 - O disposto no presente artigo não é aplicável aos entrepostos fiscais de produção de tabaco para cachimbo de água, de rapé, de tabaco de mascar e de líquido em recipientes utilizados para carga e recarga de cigarros eletrónicos, salvo o previsto no número anterior.

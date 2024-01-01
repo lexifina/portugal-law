@@ -50,6 +50,6 @@ b) A estância aduaneira de exportação seja a estância aduaneira de saída do
 
 9 - Sem prejuízo do disposto no número anterior, estão isentos na importação, os seguintes produtos contidos na bagagem pessoal dos viajantes provenientes de países ou territórios terceiros:
 
-a) O rapé, o tabaco de mascar, o tabaco aquecido e os líquidos, contendo nicotina em recipientes utilizados para carga e recarga de cigarros eletrónicos, nas quantidades previstas nas alíneas e) a h) do n.º 3 do artigo 61.º;
+a) O rapé, o tabaco de mascar, o tabaco aquecido e os líquidos para cigarros eletrónicos, em recipientes utilizados para carga e recarga de cigarros eletrónicos, nas quantidades previstas nas alíneas e) a h) do n.º 3 do artigo 61.º;
 
 b) As bebidas não alcoólicas, na quantidade prevista na alínea e) do n.º 4 do artigo 61.º
