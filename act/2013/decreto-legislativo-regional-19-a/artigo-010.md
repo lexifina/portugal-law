@@ -16,6 +16,8 @@ iii) Ao tempo mínimo de descontos para a Segurança Social;
 
 iv) À duração mínima e percentagem de desconto na LOTAÇOR, S.A. do valor do pescado transacionado em lota;
 
+v) Ao período de referência a considerar para validação dos requisitos constantes das subalíneas anteriores;
+
 c) Apreciar os pedidos de apoio financeiro submetidos ao fundo;
 
 d) Deliberar sobre a atribuição das compensações salariais;
