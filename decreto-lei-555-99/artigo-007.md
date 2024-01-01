@@ -4,17 +4,35 @@
 
 1 - Estão igualmente isentas de controlo prévio:
 
-a) As operações urbanísticas promovidas pelas autarquias locais e suas associações em área abrangida por plano municipal ou intermunicipal de ordenamento do território;
+a) As operações urbanísticas e as operações de loteamento promovidas pelas autarquias locais, suas associações e pelas empresas municipais ou intermunicipais, em área abrangida por plano municipal ou intermunicipal de ordenamento do território;
 
-b) As operações urbanísticas promovidas pelo Estado relativas a equipamentos ou infra-estruturas destinados à instalação de serviços públicos ou afectos ao uso directo e imediato do público, sem prejuízo do disposto no n.º 4;
+b) As operações urbanísticas e as operações de loteamento promovidas pelo Estado, pelos institutos públicos, incluindo fundos de investimento imobiliário públicos e, universidades e politécnicos e pelas empresas públicas, do setor empresarial do Estado e regional destinadas a:
 
-c) As obras de edificação ou demolição promovidas por institutos públicos ou entidades da Administração Pública que tenham por atribuições específicas a salvaguarda do património cultural ou a promoção e gestão do parque habitacional do Estado e que estejam directamente relacionadas com a prossecução destas atribuições;
+i) Equipamentos ou infraestruturas destinados à instalação de serviços públicos;
 
-d) As obras de edificação ou demolição promovidas por entidades públicas que tenham por atribuições específicas a administração das áreas portuárias ou do domínio público ferroviário ou aeroportuário, quando realizadas na respectiva área de jurisdição e directamente relacionadas com a prossecução daquelas atribuições;
+ii) Equipamentos ou infraestruturas afetos ao uso direto e imediato do público, sem prejuízo do disposto no n.º 4;
+
+iii) Equipamentos ou infraestruturas nas áreas portuárias ou do domínio público ferroviário ou aeroportuário na respetiva área de jurisdição e na prossecução das suas atribuições;
+
+iv) Equipamentos ou infraestruturas afetos à habitação ou para pessoas beneficiárias de políticas sociais, incluindo, residências para estudantes deslocados;
+
+v) Parques industriais, empresariais ou de logística, e similares, nomeadamente zonas empresariais responsáveis (ZER), zonas industriais e de logística;
+
+vi) Equipamentos ou infraestruturas para salvaguarda do património cultural;
+
+vii) Equipamentos ou infraestruturas do parque habitacional do Estado;
+
+c) (Revogada.)
+
+d) (Revogada.)
 
 e) As obras de edificação ou de demolição e os trabalhos promovidos por entidades concessionárias de obras ou serviços públicos, quando se reconduzam à prossecução do objecto da concessão;
 
-f) As operações urbanísticas promovidas por empresas públicas relativamente a parques empresariais e similares, nomeadamente zonas empresariais responsáveis (ZER), zonas industriais e de logística.
+f) (Revogada.)
+
+g) As obras de edificação e os trabalhos de remodelação de terrenos promovidos por cooperativas de habitação e outras entidades privadas para fins de habitação, desde que, na sequência de procedimento concursal, tenha sido celebrado acordo para a cedência do terreno por parte de uma entidade prevista na alínea b);
+
+h) As obras de construção e reabilitação respeitantes a estruturas residenciais para pessoas idosas, creches e no âmbito da Bolsa de Alojamento Urgente e Temporário quando as mesmas tenham financiamento público.
 
 2 - A execução das operações urbanísticas previstas no número anterior, com excepção das promovidas pelos municípios, fica sujeita a parecer prévio não vinculativo da câmara municipal, que deve ser emitido no prazo de 20 dias a contar da data da recepção do respectivo pedido.
 

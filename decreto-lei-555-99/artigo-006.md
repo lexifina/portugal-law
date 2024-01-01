@@ -6,11 +6,23 @@
 
 a) As obras de conservação;
 
-b) As obras de alteração no interior de edifícios ou suas frações que não impliquem modificações na estrutura de estabilidade, das cérceas, da forma das fachadas, da forma dos telhados ou coberturas ou que não impliquem a remoção de azulejos de fachada, independentemente da sua confrontação com a via pública ou logradouros;
+b) As obras de alteração no interior de edifícios ou suas frações que melhorem, não prejudiquem ou não afetem a estrutura de estabilidade, que não impliquem modificações das cérceas, da forma das fachadas, da forma dos telhados ou cobertura e que não impliquem remoção de azulejos de fachada, independentemente da sua confrontação com a via pública ou logradouro;
 
 c) As obras de escassa relevância urbanística;
 
-d) Os destaques referidos nos n.ºs 4 e 5 do presente artigo.
+d) Os destaques referidos nos n.ºs 4 e 5 do presente artigo;
+
+e) As obras de reconstrução e de ampliação das quais não resulte um aumento da altura da fachada, mesmo que impliquem o aumento do número de pisos e o aumento da área útil;
+
+f) As obras de reconstrução em áreas sujeitas a servidão ou restrição de utilidade pública das quais não resulte um aumento da altura da fachada, mesmo que impliquem o aumento do número de pisos e o aumento da área útil;
+
+g) As obras necessárias para cumprimento da determinação prevista nos n.ºs 2 e 3 do artigo 89.º ou no artigo 27.º do Decreto-Lei n.º 140/2009, de 15 de julho, na sua redação atual;
+
+h) As operações urbanísticas precedidas de informação prévia favorável nos termos dos n.ºs 2 e 3 do artigo 14.º, que contemple os aspetos previstos nas alíneas a) a f) do n.º 2 do artigo 14.º;
+
+i) As obras de demolição quando as edificações sejam ilegais;
+
+j) As operações de loteamento em área abrangida por plano de pormenor com efeitos registais.
 
 2 - (Revogado.)
 
@@ -33,3 +45,5 @@ b) Na parcela restante se respeite a área mínima fixada no projecto de interve
 9 - A certidão emitida pela câmara municipal, comprovativa da verificação dos requisitos do destaque, constitui documento bastante para efeitos de registo predial da parcela destacada.
 
 10 - Os actos que tenham por efeito o destaque de parcela com descrição predial que se situe em perímetro urbano e fora deste devem observar o disposto nos n.ºs 4 ou 5, consoante a localização da parcela a destacar, ou, se também ela se situar em perímetro urbano e fora deste, consoante a localização da área maior.
+
+11 - Nas obras a que se refere a alínea b) do n.º 1, que afetem a estrutura de estabilidade, deve ser emitido um termo de responsabilidade, por técnico habilitado, de acordo com a legislação em vigor nos termos do regime jurídico que define a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projetos, pela fiscalização de obra e pela direção de obra, na qual deve declarar que as obras, consideradas na sua globalidade, melhoram ou não prejudicam a estrutura de estabilidade face à situação em que o imóvel efetivamente se encontrava antes das obras, podendo esse documento ser solicitado em eventuais ações de fiscalização.

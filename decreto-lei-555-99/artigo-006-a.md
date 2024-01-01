@@ -20,7 +20,9 @@ g) A instalação de painéis solares fotovoltaicos ou geradores eólicos associ
 
 h) A substituição dos materiais de revestimento exterior ou de cobertura ou telhado por outros que, conferindo acabamento exterior idêntico ao original, promovam a eficiência energética;
 
-i) Outras obras, como tal qualificadas em regulamento municipal.
+i) Outras obras, como tal qualificadas em regulamento municipal;
+
+j) A substituição dos materiais dos vãos por outros que, conferindo acabamento exterior idêntico ao original, promovam a eficiência energética.
 
 2 - Exceptuam-se do disposto no número anterior as obras e instalações em:
 
