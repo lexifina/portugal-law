@@ -24,7 +24,7 @@ i) Solicitar informações às administrações tributárias estrangeiras, no â
 
 j) Verificar o cumprimento das obrigações de comunicação de informações financeiras e de diligência devida por parte das instituições financeiras reportantes no âmbito da troca automática de informações para fins fiscais ou do regime de comunicação obrigatória previsto no artigo 10.º-A do Decreto-Lei n.º 64/2016, de 11 de outubro, e
 
-k) Verificar o cumprimento das obrigações de comunicação de informações e de diligência devida por parte dos operadores de plataformas reportantes, no âmbito da troca obrigatória e automática de informações para fins fiscais prevista no Decreto-Lei n.º 61/2013, de 10 de maio.
+k) Verificar o cumprimento das obrigações de conservação e comunicação de registos por parte dos prestadores de serviços de pagamento previstas na Lei n.º 81/2023, de 28 de dezembro.
 
 2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se susceptíveis de revelar a situação tributária dos contribuintes os seguintes elementos:
 
