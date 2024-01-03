@@ -1,0 +1,6 @@
+Aviso n.º 118/2024
+Sumário: Abertura de consulta pública à proposta do Regulamento das Hortas Comunitárias de Montemor-o-Novo.
+No uso da competência delegada por deliberação da Câmara Municipal de 4 de outubro de 2023, nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo e do disposto no artigo 241.º da Constituição da República Portuguesa, enquanto responsável pela direção dos procedimentos, torna-se público que a Câmara Municipal, em reunião de treze de dezembro de dois mil e vinte e três, deliberou submeter a consulta pública, pelo prazo de 30 dias úteis, a contar da data de publicação do presente Aviso em 2.ª série do Diário da República a Proposta de Regulamento das Hortas Comunitárias de Montemor-o-Novo, estando o texto disponível no sítio eletrónico do Município ou presencialmente nos Serviços de Atendimento da Câmara Municipal.
+Os interessados poderão dirigir por escrito as suas sugestões endereçadas ao Presidente da Câmara Municipal, Largo dos Paços do Concelho, 7050-127 Montemor-o-Novo ou remeter por correio eletrónico para o endereço rsampaio@cm-montemornovo.pt no período acima mencionado.
+13 de dezembro de 2023. - O Presidente da Câmara Municipal, Olímpio Manuel Vidigal Galvão.
+317175998
