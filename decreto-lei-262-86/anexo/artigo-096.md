@@ -8,4 +8,8 @@
 
 3 - Antes de decorrido o prazo concedido aos credores sociais nos números anteriores, não pode a sociedade efectuar as distribuições nele mencionadas, valendo a mesma proibição a partir do conhecimento pela sociedade do requerimento de algum credor.
 
-4 - O disposto nos números anteriores não é aplicável durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
+4 - O disposto no presente artigo não é aplicável:
+
+a) No âmbito de instrumentos, poderes e mecanismos de resolução;
+
+b) Durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
