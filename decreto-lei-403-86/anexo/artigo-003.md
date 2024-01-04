@@ -32,11 +32,11 @@ n) A prestação de contas das sociedades anónimas, por quotas e em comandita p
 
 o) A mudança da sede da sociedade e a transferência de sede para o estrangeiro;
 
-p) O projecto de fusão interna ou transfronteiriça e o projecto de cisão de sociedades;
+p) O projeto de fusão interna ou transfronteiriça, o projeto de cisão interna ou transfronteiriça e o projeto de transformação transfronteiriça de sociedades, bem como o aviso aos sócios, credores e representantes dos trabalhadores, ou, quando estes não existam, aos próprios trabalhadores, da possibilidade de apresentação de observações ao projeto de fusão, de cisão ou de transformação transfronteiriças;
 
 q) O projecto de constituição de uma sociedade anónima europeia por meio de fusão, o projecto de constituição de uma sociedade anónima europeia por meio de transformação de sociedade anónima de direito interno e o projecto de constituição de uma sociedade anónima europeia gestora de participações sociais, bem como a verificação das condições de que depende esta última constituição;
 
-r) A prorrogação, fusão interna ou transfronteiriça, cisão, transformação e dissolução das sociedades, bem como o aumento, redução ou reintegração do capital social e qualquer outra alteração ao contrato de sociedade;
+r) A prorrogação, a fusão interna ou transfronteiriça, a cisão interna ou transfronteiriça, a transformação interna ou transfronteiriça e a dissolução das sociedades, bem como o aumento, a redução ou a reintegração do capital social e qualquer outra alteração ao contrato de sociedade;
 
 s) A designação e cessação de funções, anterior ao encerramento da liquidação, dos liquidatários das sociedades, bem como os actos de modificação dos poderes legais ou contratuais dos liquidatários;
 
