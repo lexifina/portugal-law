@@ -20,7 +20,7 @@ e) Averbamento de declaração de perda do direito ao uso de firma ou denominaç
 
 f) Averbamentos de actualização da sede, de situação de estabelecimento principal e de outras inscrições, quanto à residência ou sede dos sujeitos que nelas figuram, quando a actualização respeite a alterações toponímicas não dependentes da vontade dos interessados;
 
-g) Os registos realizados oficiosamente nos termos do artigo 67.º-A do Código do Registo Comercial;
+g) Os registos realizados oficiosamente nos termos dos n.os 1, 2 e 4 do artigo 67.º-A, dos n.os 1, 2, 4 e 5 do artigo 67.º-C e do n.º 2 do artigo 67.º-D do Código do Registo Comercial;
 
 h) (Revogada.)
 

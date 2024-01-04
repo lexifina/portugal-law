@@ -20,11 +20,11 @@
 
 2.4.1 - Alterações com aumento ou redução de capital - (euro) 225;
 
-2.5 - Fusão ou cisão:
+2.5 - Fusão, cisão ou transformação:
 
-2.5.1 - Pelo depósito do projeto de fusão ou cisão - (euro) 120;
+2.5.1 - Pelo depósito do projeto de fusão, cisão ou transformação - (euro) 120;
 
-2.5.2 - Pela inscrição da fusão ou da cisão - (euro) 200;
+2.5.2 - Pela inscrição da fusão, da cisão ou da transformação - (euro) 225;
 
 2.6 - Dissolução - (euro) 200;
 
@@ -38,7 +38,7 @@
 
 2.11 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50% do emolumento correspondente a cada um dos restantes factos.
 
-2.12 - Transformação - (euro) 225.
+2.12 - [Revogado]
 
 3 - Registo efectuado por simples depósito, com excepção do registo de prestação de contas (euro) 100.
 
@@ -132,7 +132,7 @@ Pela decisão do procedimento, incluindo o registo - (euro) 300.
 
 16 - Procedimentos de destituição e de nomeação de liquidatários, requeridos ao abrigo dos n.os 3 e 4 do artigo 151.º do Código das Sociedades Comerciais - (euro) 150.
 
-17 - Pela emissão dos certificados previstos no artigo 36.º-A ou no artigo 74.º-A do Código do Registo Comercial - (euro) 250.
+17 - Pela emissão dos certificados previstos nos artigos 36.º-A, 74.º-A, 74.º-B ou 74.º-C do Código do Registo Comercial - (euro) 250.
 
 18 - Procedimento de notificação a que se refere o artigo 36.º-B do Código do Registo Comercial - (euro) 150.
 
