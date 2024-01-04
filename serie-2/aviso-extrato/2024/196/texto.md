@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 196/2024
+Sumário: Abertura do período de consulta pública da proposta do «Regulamento para a Utilização e Gestão do Vasilhame para Acondicionamento de Pescado».
+Consulta pública do projeto do "Regulamento para a Utilização e Gestão do Vasilhame para Acondicionamento de Pescado"
+A DOCAPESCA - Portos e Lotas S. A., torna público que por deliberação do seu Conselho de Administração, de 21 de novembro de 2023, foi aprovada a proposta de «Regulamento para a utilização e gestão do vasilhame para acondicionamento de pescado» e determinado o início da respetiva discussão pública.
+Assim, por forma a dar-se cumprimento ao disposto no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 07 de janeiro, informa-se que se encontra aberto o período de discussão pública, para apresentação de observações ou sugestões, por um prazo de 30 (trinta) dias, contados a partir da data de publicação do presente aviso, no Diário da República.
+A proposta de «Regulamento para a utilização e gestão do vasilhame para acondicionamento de pescado», e a respetiva Nota Justificativa, encontram-se disponíveis para consulta no endereço www.docapesca.pt. Todos os interessados podem remeter, por escrito, durante o prazo referido, as observações ou sugestões tidas por convenientes, autorizando expressamente a sua divulgação pública, para o e-mail dcm@docapesca.pt ou por via postal para DOCAPESCA - Portos e Lotas, S. A., Avenida de Brasília, Pedrouços, 1400-038 Lisboa.
+11 de dezembro de 2023. - O Conselho de Administração da DOCAPESCA - Portos e Lotas, S. A.: Prof. Doutor Sérgio Miguel Redondo Faias, presidente - Dr.ª Rita de Passos Moreira Jorge Lourenço, vogal.
+317148951
