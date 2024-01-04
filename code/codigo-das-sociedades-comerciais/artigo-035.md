@@ -14,4 +14,8 @@ b) A redução do capital social para montante não inferior ao capital próprio
 
 c) A realização pelos sócios de entradas para reforço da cobertura do capital.
 
-4 - O disposto nos números anteriores não é aplicável durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
+4 - O disposto no presente artigo não é aplicável:
+
+a) No âmbito de instrumentos, poderes e mecanismos de resolução;
+
+b) Durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.

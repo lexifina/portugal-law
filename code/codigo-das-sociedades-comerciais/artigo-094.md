@@ -14,4 +14,8 @@ b) A forma da redução, mencionando se será reduzido o valor nominal das parti
 
 2 - Devem também ser especificadas as participações sobre as quais a operação incidirá, no caso de ela não incidir igualmente sobre todas.
 
-3 - O disposto nos números anteriores não é aplicável durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.
+3 - O disposto no presente artigo não é aplicável:
+
+a) No âmbito de instrumentos, poderes e mecanismos de resolução;
+
+b) Durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.

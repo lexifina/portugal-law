@@ -2,6 +2,10 @@
 
 ## Transformação de sociedades
 
+## Secção I
+
+## Transformação interna
+
 # Artigo 130.º
 
 ### (Noção e modalidades)

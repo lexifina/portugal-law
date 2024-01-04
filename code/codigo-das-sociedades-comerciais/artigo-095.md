@@ -11,3 +11,5 @@
 4 - O disposto nesta lei sobre capital mínimo não obsta a que a deliberação de redução seja válida se, simultaneamente, for deliberada a transformação da sociedade para um tipo que possa legalmente ter um capital do montante reduzido.
 
 5 - A redução do capital não exonera os sócios das suas obrigações de liberação do capital.
+
+6 - O disposto no presente artigo não se aplica no âmbito de instrumentos, poderes e mecanismos de resolução.
