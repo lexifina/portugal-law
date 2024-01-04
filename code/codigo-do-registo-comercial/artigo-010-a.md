@@ -4,7 +4,7 @@
 
 1 - Estão especialmente sujeitos a registo sobre as representações permanentes de sociedades de responsabilidade limitada com sede em país da União Europeia, os seguintes factos relativos à sociedade representada:
 
-a) As alterações ao contrato de sociedade registadas, designadamente, as relativas à firma ou denominação, à sede e à natureza jurídica da sociedade;
+a) As alterações ao contrato de sociedade registadas, designadamente, as relativas à firma ou à denominação, à sede e à natureza jurídica da sociedade, bem como a designação e a cessação de funções dos membros dos órgãos sociais;
 
 b) A abertura e o encerramento dos processos de liquidação e de insolvência;
 
