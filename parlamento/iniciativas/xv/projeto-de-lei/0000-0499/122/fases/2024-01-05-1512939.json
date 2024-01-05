@@ -1,0 +1,802 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ba47%2ba6Ur77Mn7TSxd0OjdYm87Rm%2fB%2fp6MAP7gGxk2xSLvOdR80hbprRQJ3UhS5ybTbiq1Px%2f5v3nf8ru5qfRnhlcfLvNvAqQwJ0SrliUZiXF0XLFri1n2nb4SOzGN7PelrLPqu7PUO19EzU3bKm66OuTs0dAE8%2fluU0%2flZqNYx%2bQb0JQ3WtRhGX2Aj3BtvRE%2f7EMsVBs6r%2bXMP3GTFNiasPOH2Fk4H2oxgUmAZqm3%2b6XpoI8d50yqJebuqqeo%2bIi5VQ%2fgux2%2fgYz%2fC2IgSwTqEfVTixIwDzmBdKlsFdKaT9F460vi%2bsFScQ8%2b6LJhXGfubvSQmi1fRFzAaIxBy0KFXoR76X6HKt2qHRuJn9vfg%3d&fich=IniciativasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "cf65b687c9021ca373a24ac989e83d1dc0ccdd6aa799d4665cbac5fe7e889136",
+  "legislatura": "XV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "122",
+    "id": "121559",
+    "titulo": "Altera a Lei da Nacionalidade  e o Regulamento Emolumentar dos Registos e Notariado (10.ª alteração à Lei n.º 37/81, de 3 de outubro e 37.ª alteração ao Decreto-Lei n.º 322-a/2001, de 14 de dezembro)"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2024-01-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "29874",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2024-01-05",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121390",
+        "leg": "XV",
+        "nr": "40",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Décima alteração à Lei n.º 37/81, de 3 de outubro, que Aprova a Lei da Nacionalidade, revogando o artigo 14.º dessa Lei"
+      },
+      {
+        "autor": "L",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121564",
+        "leg": "XV",
+        "nr": "127",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração à Lei n.º 37/81, de 3 de outubro na sua redação atual, que aprova a Lei da Nacionalidade – atualização dos requisitos de que depende a concessão de nacionalidade, por naturalização, aos descendentes de judeus sefarditas portugueses"
+      },
+      {
+        "autor": "IL",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121569",
+        "leg": "XV",
+        "nr": "132",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Décima alteração à Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121570",
+        "leg": "XV",
+        "nr": "133",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Define as circunstâncias em que a filiação estabelecida após a menoridade pode produzir efeitos relativamente à nacionalidade, procedendo à 10.ª alteração à Lei da Nacionalidade, aprovada pela Lei n.º 37/81, de 3 de outubro"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "121571",
+        "leg": "XV",
+        "nr": "134",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "36522",
+            "obs": null,
+            "pag": [
+              "72-72"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2024-01-06",
+            "pubLeg": "XV",
+            "pubNr": "36",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revoga o artigo 14.º da Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2024-01-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:37",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378722",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-01-06",
+                "pubLeg": "XV",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72&org=PLC"
+              }
+            ],
+            "sumario": "Décima alteração à Lei n.º 37/81, de 3 de outubro, que Aprova a Lei da Nacionalidade, revogando o artigo 14.º dessa Lei; Altera a Lei da Nacionalidade e o Regulamento Emolumentar dos Registos e Notariado (10.ª alteração à Lei n.º 37/81, de 3 de outubro e 37.ª alteração ao Decreto-Lei n.º 322-a/2001, de 14 de dezembro); Alteração à Lei n.º 37/81, de 3 de outubro na sua redação atual, que aprova a Lei da Nacionalidade – revogação da norma que faz depender os efeitos da nacionalidade da filiação estabelecida durante a menoridade; Alteração à Lei n.º 37/81, de 3 de outubro na sua redação atual, que aprova a Lei da Nacionalidade – atualização dos requisitos de que depende a concessão de nacionalidade, por naturalização, aos descendentes de judeus sefarditas portugueses; Décima alteração à Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade; Décima alteração à Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade; Revoga o artigo 14.º da Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3918",
+                "nome": "Paula Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:37",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-01-06",
+                "pubLeg": "XV",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/72?pgs=72-74&org=PLC"
+              }
+            ],
+            "sumario": "Décima alteração à Lei n.º 37/81, de 3 de outubro, que Aprova a Lei da Nacionalidade, revogando o artigo 14.º dessa Lei; Altera a Lei da Nacionalidade e o Regulamento Emolumentar dos Registos e Notariado (10.ª alteração à Lei n.º 37/81, de 3 de outubro e 37.ª alteração ao Decreto-Lei n.º 322-a/2001, de 14 de dezembro); Alteração à Lei n.º 37/81, de 3 de outubro na sua redação atual, que aprova a Lei da Nacionalidade – revogação da norma que faz depender os efeitos da nacionalidade da filiação estabelecida durante a menoridade; Alteração à Lei n.º 37/81, de 3 de outubro na sua redação atual, que aprova a Lei da Nacionalidade – atualização dos requisitos de que depende a concessão de nacionalidade, por naturalização, aos descendentes de judeus sefarditas portugueses; Décima alteração à Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade; Décima alteração à Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade; Revoga o artigo 14.º da Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6859",
+                "nome": "Cláudia Santos"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7083",
+                "nome": "Bruno Aragão"
+              },
+              {
+                "GP": "PS",
+                "idCadastro": "7046",
+                "nome": "Joana Sá Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:09",
+            "horaTermo": "13:37",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "378724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "74-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-01-06",
+                "pubLeg": "XV",
+                "pubNr": "36",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/74?pgs=74-75&org=PLC"
+              }
+            ],
+            "sumario": "Décima alteração à Lei n.º 37/81, de 3 de outubro, que Aprova a Lei da Nacionalidade, revogando o artigo 14.º dessa Lei; Altera a Lei da Nacionalidade e o Regulamento Emolumentar dos Registos e Notariado (10.ª alteração à Lei n.º 37/81, de 3 de outubro e 37.ª alteração ao Decreto-Lei n.º 322-a/2001, de 14 de dezembro); Alteração à Lei n.º 37/81, de 3 de outubro na sua redação atual, que aprova a Lei da Nacionalidade – revogação da norma que faz depender os efeitos da nacionalidade da filiação estabelecida durante a menoridade; Alteração à Lei n.º 37/81, de 3 de outubro na sua redação atual, que aprova a Lei da Nacionalidade – atualização dos requisitos de que depende a concessão de nacionalidade, por naturalização, aos descendentes de judeus sefarditas portugueses; Décima alteração à Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade; Décima alteração à Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade; Revoga o artigo 14.º da Lei n.º 37/81, de 3 de outubro, que aprova a Lei da Nacionalidade.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Maioria absoluta dos Deputados em efetividade de funções, com recurso a votação eletrónica, nos termos da alínea f) do artigo 164.º, do n.º 2 do artigo 166.º e n.º 5 do artigo 168.º da CRP e n.º 4 do artigo 94.º do RAR.",
+    "OevId": "1512939",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997825",
+        "obs": null,
+        "pag": [
+          "63-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-01-06",
+        "pubLeg": "XV",
+        "pubNr": "36",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/036/2024-01-06/63?pgs=63&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2024-01-05",
+        "descricao": "Texto de Substituição apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos Projetos de Lei n.ºs 40/XV/1.ª (PSD); 122/XV/1.ª (BE); 126/XV/1.ª (L); 127/XV/1.ª (L); 132/XV/1.ª (IL); 133/XV/1.ª (PS); e 134/XV/1.ª (PAN)",
+        "detalhe": "A Favor: <I>115-PS</I>, <I> 8-IL</I>, <I> 4-BE</I>, <I> 1-PAN</I>, <I> 1-L</I><BR>Contra:<I>11-CH</I>, <I> 6-PCP</I><BR>Abstenção:<I>3-PS</I>, <I> 65-PSD</I>",
+        "id": "126170",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "36",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
