@@ -1,0 +1,872 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "33986",
+  "numero": "256",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-01-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2025-06-25",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8455",
+        "Legislatura": "XVII",
+        "Nome": "Comissão de Saúde ",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-05-09",
+            "entidades": null,
+            "id": "148735",
+            "tipo": null,
+            "titulo": "Audição em 2024-05-09 com Peticionários da Petição n.º 256/XV/2.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915224",
+                "obs": null,
+                "pag": [
+                  "25-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2024-09-14",
+                "pubLeg": "XVI",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/031/2024-09-14/25?pgs=25-29&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-24",
+        "DataArquivo": "2025-06-25",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2024-09-11",
+        "DataReaberta": "2024-04-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-04-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793879595451345a6a566a4d69316a4e7a63344c5451324d545974595759344e7930775a6a59324d47466a4f544d7a5a574d756347526d&fich=2a48f5c2-c778-4616-af87-0f660ac933ec.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-09",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938314f4755794d445a6a4e533079595759314c545268595455744f47526d4e6930314d4459344f54646b4e574e6d595759756347526d&fich=58e206c5-2af5-4aa5-8df6-506897d5cfaf.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2024-07-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938334e47466c4d4463304d7930355a6a426c4c5451354e546b74596a49355a5330774e5455785a474a6a5a6d55344e7a4d756347526d&fich=74ae0743-9f0e-4959-b29e-0551dbcfe873.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2024-09-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e6862793879595468684e6a426b4e793079597a526d4c5451304e6a49744f4449344e433078597a55354d324a6a4d7a4a694f4463756347526d&fich=2a8a60d7-2c4f-4462-8284-1c593bc32b87.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2024-09-11",
+            "dataNomeacao": "2024-04-24",
+            "gp": "PS",
+            "id": "6962",
+            "motivoCessacao": "Aprovação do relatório em reunião de comissão de saúde",
+            "nome": "Susana Correia"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2024-01-08",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8333",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2025-06-26",
+    "Documentos": [
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a6a49325a6a68684e6a51745a5745324f5330304d474d784c5749354d4451745a545a6a4d54466a4d5449324d546c6c4c6e426b5a673d3d&fich=f26f8a64-ea69-40c1-b904-e6c11c12619e.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764d32566c4d544578596a4574596a67344e5330304d544d7a4c574577596a5574595751315a5751335a544d7a5a6d55794c6e426b5a673d3d&fich=3ee111b1-b885-4133-a0b5-ad5ed7e33fe2.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d765a4442695932526b5a446b744d47566b4d4330304d5441314c5467354d6a55744d5441344f4441784d5755354d3249334c6e426b5a673d3d&fich=d0bcddd9-0ed0-4105-8925-1088011e93b7.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f445a6a4d5451334e6d51744e6a553159693030596a52684c546b334f4449744e546c694d47466b4d4446695a546c694c6e426b5a673d3d&fich=86c1476d-655b-4b4a-9782-59b0ad01be9b.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f544579595759355a6d55745a6d59304e433030595463324c57466c59574d744d6a45324f44526b4d7a49335a6a51344c6e426b5a673d3d&fich=912af9fe-ff44-4a76-aeac-21684d327f48.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e7a51355a6a51304f4751745a54466a595330305a445a6d4c5749794e6a55745a6d55344e6d4d795932526c5a444e684c6e426b5a673d3d&fich=749f448d-e1ca-4d6f-b265-fe86c2cded3a.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764f5745795a4445305a446b745a57566d5a5330305957466b4c57466b5a6a59744f545a6b4e444e6a59324d774f44677a4c6e426b5a673d3d&fich=9a2d14d9-eefe-4aad-adf6-96d43ccc0883.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e7a49304f544e6a4d6a4d745a6a566b4e433030596a59354c5467314d3245744d3249335a6a63324d6a5578596a41354c6e426b5a673d3d&fich=72493c23-f5d4-4b69-853a-3b7f76251b09.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "315105",
+      "315110",
+      "315114",
+      "315118",
+      "315128",
+      "315127",
+      "315142",
+      "315143",
+      "315143"
+    ],
+    "Iniciativasoriginadas": [
+      "315105",
+      "315110",
+      "315114",
+      "315118",
+      "315127",
+      "315128",
+      "315142",
+      "315143"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466260",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2025-06-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "https://av.parlamento.pt/videos/Plenary/17/1/5/60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "466312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-06-27",
+                "pubLeg": "XVII",
+                "pubNr": "5",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Comparticipação em material/medicamentos para pessoas com epidermólise bolhosa; Reposição da comparticipação das vacinas antialérgicas em Portugal; Recomenda ao Governo a implementação de um regime de comparticipação especial dos medicamentos, materiais e dispositivos médicos utilizados no tratamento da epidermólise bolhosa; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios (vacinas antialérgicas); Recomenda ao Governo que garanta os cuidados de saúde aos doentes com epidermólise bolhosa; Recomenda ao Governo a comparticipação integral dos tratamentos de imunoterapia específica com alergénios; Recomenda ao Governo a reposição da comparticipação do tratamento de imunoterapia específica com alergénios; Recomenda ao Governo a medidas de apoio aos doentes com epidermólise bolhosa; Recomenda ao Governo a realização de um estudo de viabilidade com vista à implementação de um regime de comparticipação especial para doentes de epidermólise bolhosa; Recomenda ao Governo a revisão e atualização do Plano Nacional de Vacinação no âmbito da vacinação do adulto",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": [
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Link",
+        "URL": "https://youtu.be/dpoOiKpDrUo"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "33986",
+    "PetAssunto": "Reposição da comparticipação das vacinas antialérgicas em Portugal",
+    "PetDataEntrada": "2024-01-06",
+    "PeticoesAssociadas": null,
+    "PetId": "33986",
+    "PetLeg": "XV",
+    "PetNr": "256",
+    "PetNrAssinaturas": "11711",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVII Legislatura",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "56702",
+        "obs": null,
+        "pag": [
+          "36-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-06-27",
+        "pubLeg": "XVII",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/005/2025-06-27/36?pgs=36-42&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915282",
+        "obs": null,
+        "pag": [
+          "11-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-04-27",
+        "pubLeg": "XVI",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/005/2024-04-27/11?pgs=11-13&org=PLC"
+      }
+    ]
+  }
+}
