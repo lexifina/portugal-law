@@ -1,0 +1,207 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "33987",
+  "numero": "257",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-01-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2024-06-12",
+            "entidades": null,
+            "id": "148806",
+            "tipo": null,
+            "titulo": "Audição em 2024-06-12 com Juliet Cristino (1.ª subscritora)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2025-03-12",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915254",
+                "obs": null,
+                "pag": [
+                  "13-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2025-03-15",
+                "pubLeg": "XVI",
+                "pubNr": "63",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/063/2025-03-15/13?pgs=13-17&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": [
+                "Miguel Arruda (Ninsc)",
+                "L",
+                "PAN"
+              ],
+              "data": "2025-03-12",
+              "descricao": null,
+              "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CH</I>, <I> IL</I>, <I> BE</I>, <I> PCP</I>, <I> CDS-PP</I><BR>Ausência: <I>L</I>, <I> PAN</I>, <I> Miguel Arruda (Ninsc)</I>",
+              "id": "138699",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "68",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2024-04-24",
+        "DataArquivo": "2025-03-12",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2025-03-12",
+        "DataReaberta": "2024-04-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-04-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e6a45784d6a646d4e7a6b744e57597a4f4330304e6a64694c574669593245744e4745324e5467354d6d49774d6a526b4c6e426b5a673d3d&fich=61127f79-5f38-467b-abca-4a65892b024d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-06-19",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764d7a45344f54557a4e6a45744e44597a597930304d4455344c546c6b4e7a4d744d54457a4e4441325a6d45324d54566a4c6e426b5a673d3d&fich=31895361-463c-4058-9d73-113406fa615c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2025-03-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764f5445794d3252694d7a49744e445a6b595330304e5745324c5745324d6a49744d54673259544d795a6a6b30597a42694c6e426b5a673d3d&fich=9123db32-46da-45a6-a622-186a32f94c0b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8393",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2025-03-12",
+            "dataNomeacao": "2024-04-24",
+            "gp": "PS",
+            "id": "4452",
+            "motivoCessacao": null,
+            "nome": "Isabel Alves Moreira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2024-01-08",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8325",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2024-01-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d764e4442684e324e6c4e4455744f54557a4d6930304d4749354c546b304e3249744d7a55334f445977596d45775a445a6b4c6e426b5a673d3d&fich=40a7ce45-9532-40b9-947b-357860ba0d6d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "33987",
+    "PetAssunto": "Pela não imposição do título de residência da Comunidade de Países de Língua Portuguesa (CPLP) às pessoas naturais desses países",
+    "PetDataEntrada": "2024-01-07",
+    "PeticoesAssociadas": null,
+    "PetId": "33987",
+    "PetLeg": "XV",
+    "PetNr": "257",
+    "PetNrAssinaturas": "1072",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVI Legislatura",
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915317",
+        "obs": null,
+        "pag": [
+          "13-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2025-03-15",
+        "pubLeg": "XVI",
+        "pubNr": "63",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/063/2025-03-15/13?pgs=13&org=PLC"
+      }
+    ]
+  }
+}
