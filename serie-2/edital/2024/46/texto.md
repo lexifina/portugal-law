@@ -1,0 +1,8 @@
+Edital n.º 46/2024
+Sumário: Projeto do Regulamento do Serviço de Abastecimento de Água, Águas Residuais e Resíduos Urbanos do Município de Penacova e Respetivo Tarifário.
+Magda Alexandra Maia Rodrigues, Vice-Presidente da Câmara Municipal de Penacova, torna público que em reunião ordinária de 30 de novembro de 2023, se deliberou submeter a consulta pública o Projeto de Regulamento do Serviço de Abastecimento de Água, Águas Residuais e Resíduos Urbanos do Município de Penacova e respetivo Tarifário, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo.
+Nestes termos, durante o período de 30 dias, a contar da data da publicação deste edital na 2.ª série do Diário da República, poderão todos os interessados consultar o Projeto de Regulamento acima mencionado no Balcão Único de Atendimento (BUA), durante o horário de atendimento (9:00 às 13:00 e das 14:00 às 17:00), ou no sítio da Câmara Municipal em www.cm-penacova.pt.
+Podem ainda apresentar reclamações, observações ou sugestões por escrito, através de carta dirigida ao Sr. Presidente da Câmara Municipal de Penacova, para o endereço Largo Alberto Leitão, n.º 5, 3360-341 Penacova, onde conste o nome, morada, número e data de validade do cartão de cidadão ou bilhete de identidade.
+Para constar e devidos efeitos, se publica o presente edital e outros de igual teor, que vão ser afixados nos lugares de estilo, nomeadamente no átrio dos Paços do Concelho e no sítio do Município de Penacova (www.cm-penacova.pt).
+5 de dezembro de 2023. - A Vice-Presidente da Câmara Municipal, Magda Rodrigues.
+317174896
