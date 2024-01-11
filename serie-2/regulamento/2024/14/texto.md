@@ -1,0 +1,299 @@
+Regulamento n.º 14/2024
+Sumário: Aprova a alteração ao Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais por Pessoas Singulares.
+Alteração ao Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais por Pessoas Singulares
+Rogério Bacalhau Coelho, Presidente da Câmara Municipal de Faro, torna público que a alteração ao regulamento referido em epígrafe, foi aprovada pela Câmara Municipal em reunião de 24/07/2023, bem como pela Assembleia Municipal em sessão de 17/11/2023, tendo sido o respetivo projeto de alteração ao regulamento precedido de apreciação pública, nos termos dos artigos 100.º e 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, mediante publicação no Diário da República, 2.ª série, n.º 186, de 25/09/2023.
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação nos termos do artigo 139.º do Código de Procedimento Administrativo.
+7 de dezembro de 2023. - O Presidente da Câmara Municipal, Rogério Bacalhau Coelho.
+Alteração ao Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares
+Nota Justificativa
+A criação do Regulamento Municipal de Apoio ao Arrendamento Privado surgiu em outubro de 2020 como resposta à excecionalidade originada pela pandemia SARS-COVID-19, sem paralelo na história do país e do mundo, procurando mitigar o seu impacto na condição socioeconómica das famílias e assegurar o seu acesso à habitação. A primeira versão do regulamento previa a atribuição do apoio pelo período de um ano, podendo o mesmo ser prorrogado, excecionalmente, por mais um ano.
+Em fevereiro de 2022, mantendo-se a situação pandémica e as consequências por ela causadas, procedeu-se à atualização do referido regulamento, adaptando-o ao contexto vivido e à experiência adquirida com a sua aplicação, alargando as condições de acesso ao apoio.
+Em abril de 2023, ainda com os efeitos da pandemia a fazerem sentir-se na economia e nas famílias, acrescidos dos impactos da guerra na Ucrânia na economia e no rendimento das famílias, importou voltar a atualizar o Regulamento Municipal de Apoio ao Arrendamento Privado, alargando as condições de acesso e estendendo o apoio até ao limite de 3 anos, com o objetivo de assegurar que os agregados familiares mantenham/acedam a habitação condigna.
+Com efeito, a condição habitacional é uma das faces visíveis da evolução social das comunidades, estando a sua consagração constitucional garantida ao nível dos direitos fundamentais, nomeadamente no artigo 65.º da Constituição da República Portuguesa quando refere que «todos têm direito, para si e para a sua família, a uma habitação de dimensão adequada, em condições de higiene e conforto e que preserve a intimidade pessoal e a privacidade familiar.» No que se refere ao quadro legal de atribuições e competências consagrado no regime jurídico das autarquias locais previsto na Lei n.º 75/2013, de 12 de setembro, na sua versão atual, estas deverão participar em programas no domínio do combate à pobreza e à exclusão social.
+Face ao contexto generalizado de desequilíbrio da procura e da oferta habitacional existente, fruto do súbito aumento dos valores das rendas, o Município de Faro, no âmbito das suas atribuições e competências, continua a verificar a necessidade de promover esforços no sentido de harmonizar e atenuar a realidade que hoje é vivida por várias famílias no que respeita ao acesso à habitação.
+A dificuldade de aceder à habitação não se tem verificado unicamente nos grupos sociais mais vulneráveis, embora estas constituam sempre um dos focos a que a administração local está especialmente atenta, mas também noutros segmentos da população, como os mais jovens, os mais idosos e, também, aqueles que procuram este Município para residir ou trabalhar e que encontram dificuldades na obtenção de habitação a um valor acessível.
+Assim, apesar dos fogos de habitação em regime de arrendamento apoiado que possui, o Município está consciente de que estes visam dar resposta às situações mais graves, excluindo só por si uma percentagem significativa das famílias que, apesar de não vivenciarem uma situação de carência económica e habitacional extrema, continuam a deparar-se com dificuldades em cumprir o compromisso assumido com um arrendamento habitacional ou até mesmo em conseguir encetar esse processo de autonomização.
+Nesta senda, com a publicação do Decreto-Lei n.º 20-B/2023, de 22 de março, o Governo veio reafirmar "a universalidade do direito à habitação, cujo desígnio é garantir a todos o acesso a uma habitação adequada a custos acessíveis, concretizando um direito que é de todos, através de instrumentos e medidas adequadas a cada um. O direito à habitação é um direito fundamental no nosso quadro constitucional, e assume uma dimensão pessoal e comunitária que faz dele um direito estruturante, tanto nas nossas vidas pessoais, como na nossa comunidade" desse modo criando apoios extraordinários às famílias para pagamento da renda e da prestação de contratos de crédito.
+No que concerne ao apoio às famílias para pagamento da renda, passou a existir uma cumulação de apoios entre aquele diploma e o Regulamento n.º 441/2023, de 10 de abril, Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares, que na alínea a) do n.º 2 do artigo 4.º não permitia que o agregado que estivesse a usufruir de outros apoios financeiros públicos para fins habitacionais pudesse recorrer ao regime de apoio ao arrendamento privado prestado pelo Município de Faro.
+Sendo uma previsão comum a vários Regulamentos Municipais de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, veio o Governo sanar esta incompatibilidade com a publicação do Decreto-Lei n.º 38/2023, de 29 de maio, que, no seu artigo 22.º, prevê a compatibilização de apoios à habitação entre o Decreto-Lei n.º 20-B/2023, de 22 de março, e os já referidos Regulamentos.
+Assim, foi necessário adaptar o presente Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares ao Decreto-Lei n.º 38/2023, de 29 de maio.
+No que diz respeito à ponderação dos custos e benefícios das medidas projetadas e em obediência ao artigo 99.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, importa, desde logo, sublinhar que a regulamentação que se pretende concretizar decorre expressamente da «Estratégia Local de Habitação do Município de Faro 2018/2025», aprovada em Assembleia Municipal em 26 de novembro de 2018, esperando-se que os resultados futuros excedam os custos decorrentes da atribuição dos incentivos, atendendo aos múltiplos benefícios económicos e sociais.
+Assim, no uso do poder regulamentar conferido às autarquias locais pelo artigo 241.º da Constituição da República Portuguesa e do previsto nas alíneas k) e v) do n.º 1 do artigo 33.º do Regime Jurídico das Autarquias Locais estabelecido pela Lei n.º 75/2013, de 12 de setembro, na redação em vigor, bem como pelo Decreto-Lei n.º 68/2019, de 22 de maio, que estabelece as condições de acesso ao Programa de Arrendamento Acessível, da Portaria n.º 176/2019, de 6 de junho, que o regulamenta, e do Decreto-Lei n.º 38/2023, de 29 de maio, é elaborada a presente Alteração ao Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares, que propõe à aprovação da Assembleia Municipal, nos termos do artigo 53.º, n.º 2, alínea a), da Lei n.º 169/99, de 18 de Setembro, na sua atual redação, após terem sido cumpridas as formalidades previstas nos artigos 100.º e 101.º do Código do Procedimento Administrativo.
+A presente alteração ao Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares foi aprovada pela Câmara Municipal em reunião de 24/07/2023, bem como pela Assembleia Municipal em sessão de 17/11/2023, tendo sido o respetivo projeto de alteração ao regulamento precedido de apreciação pública, nos termos dos artigos 100.º e 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, mediante publicação no Diário da República, 2.ª série, n.º 186, de 25/09/2023.
+Artigo 1.º
+Alteração ao Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares
+Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 8.º, 10.º e 17.º e Anexo IV do Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares, alterado e aprovado pela Assembleia Municipal de Faro em 13 de fevereiro de 2023, conforme republicação no Diário da República, 2.ª série, n.º 70, de 10 de abril de 2023, passam a ter a seguinte redação:
+«Artigo 1.º
+[...]
+No uso do poder regulamentar conferido às autarquias locais pelos artigos 112.º e 241.º, ambos da Constituição da República Portuguesa, em conjugação com as alíneas k) e v) do n.º 1 do artigo 33.º do Regime Jurídico das Autarquias Locais estabelecido pela Lei n.º 75/2013, de 12 de setembro, na redação em vigor, bem como pelo Decreto-Lei n.º 68/2019, de 22 de maio, que estabelece as condições de acesso ao Programa de Arrendamento Acessível e da Portaria n.º 176/2019, de 6 de junho, que o regulamenta, e do Decreto-Lei n.º 38/2023, de 29 de maio é elaborado o presente Regulamento.
+Artigo 2.º
+[...]
+O presente Regulamento tem por objeto a atribuição de apoio económico municipal ao arrendamento de imóveis privados para fins habitacionais situados no concelho de Faro por pessoas singulares que cumpram com os requisitos previstos no artigo 4.º deste Regulamento.
+Artigo 3.º
+[...]
+Para efeitos do presente Regulamento, considera-se:
+a) Agregado familiar: o/a candidato/a individual, no caso de ser uma pessoa isolada, ou o/a candidato/a e o conjunto de pessoas que habitem o fogo juntamente com este(a), com ou sem relação de parentesco;
+b)...
+c) Renda máxima para cálculo do pedido de apoio: valor máximo da renda para efeitos de cálculo do valor do apoio nos termos do Anexo II do presente Regulamento;
+d)...
+e)...
+f)...
+g) Taxa de esforço do agregado: valor percentual que representa o peso mensal da renda paga pelo agregado familiar, até ao limite máximo por tipologia definido no Anexo II, deduzido de eventual valor do apoio à renda atribuído pela Administração Central, em relação ao seu rendimento mensal ilíquido, sendo definido pela fórmula (taxa de esforço do agregado = (valor da renda mensal - eventual valor de apoio à renda atribuído pela Administração Central)/rendimento mensal ilíquido);
+h)...
+i)...
+j) Dependente: o elemento do agregado familiar que seja menor ou que, tendo idade inferior a 26 anos, não apresente rendimentos e não faça prova da situação de desemprego, frequência de ensino ou outra situação devidamente justificada. Nestes casos considerar-se-á que aufere rendimento de valor equivalente ao salário mínimo nacional;
+k) Valor do Apoio: o valor do apoio à renda é definido pelos 4 escalões de comparticipação, conforme Anexo IV ao presente Regulamento.
+Artigo 4.º
+[...]
+1 - Podem concorrer ao presente apoio económico os cidadãos nacionais ou equiparados, nos termos legais, ou estrangeiros detentores de títulos válidos de permanência em território nacional:
+a) Com idade igual ou superior a 18 anos ou emancipados;
+b) Residam na área geográfica do município de Faro ininterruptamente há, pelo menos, 3 anos, à data de apresentação da candidatura;
+c)...
+d) Cujo agregado familiar possua rendimento anual ilíquido que se situe no intervalo constante no Anexo III;
+e) Todos os elementos do agregado familiar com mais de 18 anos possuam a sua situação regularizada perante a Autoridade Tributária e Aduaneira e a Segurança Social;
+f) Todos os elementos do agregado familiar com mais de 18 anos estejam recenseados e com domicílio fiscal no concelho de Faro.
+2 - Não são suscetíveis de acesso ao apoio previsto no presente regulamento as situações em que se verifique:
+a)...
+b)...
+c) O agregado familiar esteja a usufruir de outros apoios financeiros públicos para fins habitacionais, à exceção das medidas de apoio à renda atribuídas pela administração central;
+d)...
+e)...
+f)...
+g)...
+3 - ...
+4 - ...
+a) os 30 % e os 90 %, inclusive, nos dois primeiros anos do apoio;
+b) os 40 % e os 90 %, inclusive, nos terceiro e quarto anos de apoio;
+c) no caso dos munícipes com idade superior a 65 anos, portadores de incapacidade igual ou superior a 60 % e vítimas de violência doméstica (sinalizadas pelas respostas de acolhimento de emergência ou casas de abrigo), entre os 30 % e os 90 %, durante os quatro anos.
+5 - ...
+Artigo 5.º
+[...]
+1 - ...
+a)...
+b)...
+c)...
+d)...
+e)...
+f)...
+g)...
+h)...
+i)...
+j)...
+k)...
+l)...
+m)...
+n)...
+o)...
+p)...
+q) Comprovativo do domicílio fiscal no concelho de Faro;
+r) Comprovativo de eventual apoio mensal ao pagamento da renda atribuído pela administração central ou certidão negativa em como não é beneficiário de tal apoio.
+2 - ...
+3 - ...
+Artigo 8.º
+[...]
+1 - ...
+2 - ...
+3 - O valor da comparticipação a atribuir é determinado em função da taxa de esforço do agregado familiar, calculado nos termos do artigo 3.º, alínea g), correspondendo a um dos escalões de apoio constante do Anexo IV ao presente Regulamento.
+4 - ...
+Artigo 10.º
+[...]
+1 - ...
+2 - ...
+3 - Os apoios económicos ao arrendamento privado são suscetíveis de três renovações pelo período de um ano cada uma.
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+8 - ...
+9 - ...
+10 - ...
+Artigo 17.º
+[...]
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação nos termos do artigo 139.º do Código do Procedimento Administrativo.
+ANEXO IV
+Escalões de comparticipação
+<div class="tableContent" id="DR_TABLE1"><table summary="Tabela"><thead><tr><th style="text-align:center; vertical-align:center;">Escalão</th><th style="text-align:center; vertical-align:center;">Taxa de esforço</th><th colspan="2" style="text-align:center; vertical-align:center;">Valor de comparticipação em função da taxa de esforço<br/>(percentagem sobre a renda)</th></tr><tr><th style="text-align:justify; vertical-align:top;"></th><th style="text-align:center; vertical-align:top;"></th><th colspan=2 style="text-align:center; vertical-align:top;"></th></tr></thead><tbody><tr><td style="text-align:justify; vertical-align:top;">1.º...</td><td style="text-align:center; vertical-align:top;">(igual ou maior que) 60 % TX (igual ou menor que) 90 %</td><td colspan="2" style="text-align:center; vertical-align:top;">35 %</td></tr><tr><td style="text-align:justify; vertical-align:top;">2.º...</td><td style="text-align:center; vertical-align:top;">(igual ou maior que) 50 % TX (menor que) 60 %</td><td colspan="2" style="text-align:center; vertical-align:top;">30 %</td></tr><tr><td style="text-align:justify; vertical-align:top;">3.º...</td><td style="text-align:center; vertical-align:top;">(igual ou maior que) 40 % TX (menor que) 50 %</td><td colspan="2" style="text-align:center; vertical-align:top;">25 %</td></tr><tr><td style="text-align:justify; vertical-align:top;">4.º...</td><td style="text-align:center; vertical-align:top;">(igual ou maior que) 30 % TX (menor que) 40 %</td><td style="text-align:center; vertical-align:top;">15 %</td><td style="text-align:right; vertical-align:top;">»</td></tr></tbody></table></div>
+Artigo 2.º
+Revogação do artigo 15.º-A do Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares
+É revogado o artigo 15.º-A do Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares, alterado e aprovado pela Assembleia Municipal de Faro em 13 de fevereiro de 2023, conforme republicação no Diário da República, 2.ª série, n.º 70, de 10 de abril de 2023.
+Artigo 3.º
+Republicação
+É republicado em anexo, fazendo parte integrante do presente, o Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares, com a sua redação atual.
+Artigo 4.º
+Entrada em vigor
+A presente alteração ao Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para Fins Habitacionais, por Pessoas Singulares entra em vigor no dia seguinte ao da sua publicação.
+ANEXO I
+Republicação do Regulamento Municipal de Apoio ao Arrendamento Urbano Privado Para Fins Habitacionais, Por Pessoas Singulares
+Preâmbulo
+A habitação constitui uma das expressões mais visíveis da condição social das populações encontrando -se, o direito a esta, consagrado no artigo 65.º da Constituição da República Portuguesa no qual é expresso que «todos têm direito, para si e para a sua família, a uma habitação de dimensão adequada, em condições de higiene e conforto e que preserve a intimidade pessoal e a privacidade familiar».
+Recentemente, a Lei n.º 83/2019 - Lei de Bases da Habitação, de 3 de setembro, veio estabelecer as bases do direito à habitação e as incumbências e tarefas fundamentais do Estado na efetiva garantia desse direito a todos os cidadãos, nos termos da Constituição.
+Face ao contexto de desequilíbrio da procura e da oferta habitacional existente na generalidade do país, situação que é extensível ao Município de Faro, fruto do súbito aumento dos valores das rendas, e a redução das habitações disponíveis para arrendamento, foi aprovada a «Estratégia Local de Habitação do Município de Faro - 2018 -2025» (aprovado em Assembleia Municipal em 26.11.2018), reconhecendo, no âmbito das suas atribuições de natureza política do Município, a necessidade de promover esforços no sentido de desenvolver medidas para facilitar o acesso à habitação a todos os munícipes.
+A dificuldade de aceder à habitação não se tem verificado unicamente nos estratos sociais mais vulneráveis, embora estes constituam sempre um dos focos a que a administração está especialmente atenta, mas também noutros segmentos da população, entre os quais os mais jovens, os mais idosos e, também, aqueles que procuram Faro para residir, trabalhar ou cimentar as suas raízes, os quais encontram dificuldades na obtenção de habitação a um valor ajustado aos seus rendimentos.
+No âmbito do quadro legal de atribuições e competências consagrado no regime jurídico das autarquias locais previsto na Lei n.º 75/2013, de 12 de setembro, na redação atual, as autarquias locais são competentes para participar na prestação de serviços e prestar apoio a pessoas em situação de vulnerabilidade nas condições constantes de regulamento municipal, nomeadamente no domínio do combate à pobreza e à exclusão social.
+Neste âmbito, o Município de Faro considerou necessário intervir em matéria de políticas habitacionais complementares, nomeadamente no apoio ao arrendamento habitacional.
+A criação do Regulamento de Apoio ao Arrendamento Privado surge, não apenas como uma alternativa à habitação municipal, mas também como um instrumento complementar de apoio direcionado para o arrendamento habitacional.
+A excecionalidade do presente momento resultante da pandemia COVID-19, sem paralelo na história do País e do mundo, em que se antevê uma crise económica e social de consequências ainda desconhecidas, mas seguramente bastante graves, com um grande aumento do desemprego e uma profunda recessão económica, obriga a respostas públicas adicionais em áreas onde os impactos serão mais significativos e gravosos, neste caso, com o objetivo de procurar que os agregados familiares mantenham/acedam a habitação condigna.
+Assim, no uso do poder regulamentar conferido às autarquias locais pelo artigo 241.º da Constituição da República Portuguesa, do previsto nas alíneas k) e v) do n.º 1 do artigo 33.º do Regime Jurídico das Autarquias Locais estabelecido pela Lei n.º 75/2013, de 12 de setembro, na redação em vigor, é elaborado o presente Regulamento Municipal de Apoio ao Arrendamento Urbano Privado para fins habitacionais, por pessoas singulares.
+O presente Regulamento foi aprovado em reunião da Câmara Municipal de Faro, de 03 de maio de 2021 e, posteriormente, em sessão da Assembleia Municipal de Faro, de 20 de dezembro de 2021, precedido de Audiência dos Interessados e de Consulta Pública nos termos e para os efeitos dos artigos 100.º e 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, com a respetiva publicação no Diário da República, 2.ª série, n.º 108, de 04 de junho de 2021.
+Artigo 1.º
+Lei habilitante
+No uso do poder regulamentar conferido às autarquias locais pelos artigos 112.º e 241.º, ambos da Constituição da República Portuguesa, em conjugação com as alíneas k) e v) do n.º 1 do artigo 33.º do Regime Jurídico das Autarquias Locais estabelecido pela Lei n.º 75/2013, de 12 de setembro, na redação em vigor, bem como pelo Decreto-Lei n.º 68/2019, de 22 de maio, que estabelece as condições de acesso ao Programa de Arrendamento Acessível e da Portaria n.º 176/2019, de 6 de junho, que o regulamenta, e do Decreto-Lei n.º 38/2023, de 29 de maio é elaborado o presente Regulamento.
+Artigo 2.º
+Objeto e Âmbito
+O presente Regulamento tem por objeto a atribuição de apoio económico municipal ao arrendamento de imóveis privados para fins habitacionais situados no concelho de Faro por pessoas singulares que cumpram com os requisitos previstos no artigo 4.º deste Regulamento.
+Artigo 3.º
+Conceitos
+Para efeitos do presente Regulamento, considera-se:
+a) Agregado familiar: o/a candidato/a individual, no caso de ser uma pessoa isolada, ou o/a candidato/a e o conjunto de pessoas que habitem o fogo juntamente com este(a), com ou sem relação de parentesco;
+b) Candidato: a pessoa em nome de quem é submetida a candidatura e que é detentora do respetivo contrato de arrendamento ou promessa de arrendamento;
+c) Renda máxima para cálculo do pedido de apoio: valor máximo da renda para efeitos de cálculo do valor do apoio nos termos do Anexo II do presente Regulamento;
+d) Renda mensal: o quantitativo devido mensalmente ao senhorio, pelo uso do fogo para fins habitacionais, referente ao ano civil a que o apoio financeiro respeite;
+e) Rendimentos anuais ilíquidos: os rendimentos anuais do agregado constituídos por:
+i) O valor ilíquido dos rendimentos de trabalho dependente;
+ii) Os lucros obtidos no âmbito dos rendimentos empresariais e profissionais;
+iii) O valor ilíquido dos rendimentos de pensões;
+iv) O valor global das prestações sociais pagas pelos serviços e entidades do Ministério da Solidariedade e da Segurança Social;
+v) Quaisquer outros apoios económicos, com exceção das prestações familiares (abonos);
+f) Rendimentos mensais ilíquidos: resultado da divisão dos rendimentos anuais ilíquidos por 12;
+g) Taxa de esforço do agregado: valor percentual que representa o peso mensal da renda paga pelo agregado familiar, até ao limite máximo por tipologia definido no Anexo II, deduzido de eventual valor do apoio à renda atribuído pela Administração Central, em relação ao seu rendimento mensal ilíquido, sendo definido pela fórmula (taxa de esforço do agregado = (valor da renda mensal - eventual valor de apoio à renda atribuído pela Administração Central)/rendimento mensal ilíquido);
+h) Tipologia da habitação: definida pelo número de quartos de dormir e pela sua capacidade de alojamento (exemplo: T2/3 - dois quartos, três pessoas);
+i) Título de arrendamento válido: contrato de arrendamento;
+j) Dependente: o elemento do agregado familiar que seja menor ou que, tendo idade inferior a 26 anos, não apresente rendimentos e não faça prova da situação de desemprego, frequência de ensino ou outra situação devidamente justificada. Nestes casos considerar-se-á que aufere rendimento de valor equivalente ao salário mínimo nacional;
+k) Valor do Apoio: o valor do apoio à renda é definido pelos 4 escalões de comparticipação, conforme Anexo IV ao presente Regulamento.
+Artigo 4.º
+Condições de acesso
+1 - Podem concorrer ao presente apoio económico os cidadãos nacionais ou equiparados, nos termos legais, ou estrangeiros detentores de títulos válidos de permanência em território nacional:
+a) Com idade igual ou superior a 18 anos ou emancipados;
+b) Residam na área geográfica do município de Faro ininterruptamente há, pelo menos, 3 anos, à data de apresentação da candidatura;
+c) Sejam titulares de contrato de arrendamento para fins habitacionais, devidamente declarado à Autoridade Tributária e Aduaneira ou contrato promessa de arrendamento para o mesmo fim;
+d) Cujo agregado familiar possua rendimento anual ilíquido que se situe no intervalo constante no Anexo III;
+e) Todos os elementos do agregado familiar com mais de 18 anos possuam a sua situação regularizada perante a Autoridade Tributária e Aduaneira e a Segurança Social;
+f) Todos os elementos do agregado familiar com mais de 18 anos estejam recenseados e com domicílio fiscal no concelho de Faro.
+g) Não são suscetíveis de acesso ao apoio previsto no presente regulamento as situações em que se verifique:
+h) Tipologia inferior à indicada para a dimensão do agregado familiar, conforme anexo I;
+i) Algum dos membros do agregado familiar seja proprietário, usufrutuário, arrendatário ou detentor de título de prédio urbano ou de fração autónoma de prédio urbano destinada a habitação, localizado no concelho ou em concelho limítrofe, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;
+j) O agregado familiar esteja a usufruir de outros apoios financeiros públicos para fins habitacionais, à exceção das medidas de apoio à renda atribuídas pela administração central;
+k) Prestação de declarações falsas, fraudulentas ou omissão de informação relevante para efeitos de atribuição da comparticipação económica;
+l) Cedência da habitação arrendada a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa;
+m) A habitação arrendada seja propriedade de algum parente ou afim na linha reta ou até ao 3.º grau da linha colateral relativamente a qualquer elemento da família do agregado familiar;
+n) Ter beneficiado de apoio do Município para o mesmo fim nos três anos anteriores, salvo em medidas extraordinárias.
+3 - (Revogado.)
+4 - Só são elegíveis para integrar a medida os agregados cujos rendimentos se encontrem dentro dos limites previstos no Anexo III e cuja taxa de esforço se situe entre:
+a) Os 30 % e os 90 %, inclusive, nos dois primeiros anos do apoio;
+b) Os 40 % e os 90 %, inclusive, nos terceiro e quarto anos de apoio;
+c) No caso dos munícipes com idade superior a 65 anos, portadores de incapacidade igual ou superior a 60 % e vítimas de violência doméstica (sinalizadas pelas respostas de acolhimento de emergência ou casas de abrigo), entre os 30 % e os 90 %, durante os quatro anos.
+5 - Excecionalmente podem ser apoiados os agregados que se encontrem a vivenciar um período de grande vulnerabilidade e emergência social, nomeadamente as vítimas de violência doméstica (sinalizadas pelas respostas de acolhimento de emergência ou casas de abrigo), mediante parecer técnico prévio e fundamentado, que justifique o seu enquadramento, ainda que não se verifique algum dos requisitos do presente regulamento, com exceção da obrigatoriedade de contrato de arrendamento.
+Artigo 5.º
+Candidatura
+1 - A candidatura para atribuição de apoio financeiro ao arrendamento nos termos do presente regulamento deverá ser instruída com o requerimento de pedido de atribuição de apoio económico ao arrendamento privado, devidamente preenchido e assinado, acompanhado dos seguintes documentos:
+a) Fotocópias dos cartões de identificação, nomeadamente bilhetes de identidade, cartão de cidadão, autorização de residência válida, de contribuinte e de segurança social, de todos os elementos do agregado;
+b) Fotocópias dos documentos comprovativos de rendimentos, nomeadamente declaração do imposto sobre o rendimento singular (IRS) e respetiva nota de liquidação e/ou imposto sobre o rendimento coletivo (IRC) e respetiva nota de liquidação, ou declaração das Finanças em como não se encontra abrangido pela obrigatoriedade de entrega dessas mesmas declarações;
+c) Último recibo de vencimento auferido pelos elementos do agregado em idade ativa;
+d) Fotocópia do contrato de trabalho caso os rendimentos mencionados acima se reportem a período de tempo inferior a um ano;
+e) Declaração da Segurança Social sobre o montante auferido e documento comprovativo de inscrição no Centro de Emprego, no caso dos desempregados;
+f) Documento comprovativo do valor auferido, no caso dos reformados por velhice, viuvez, invalidez e outras prestações sociais (RSI, CSI, etc.);
+g) Certidões de situação regularizada com a Autoridade Tributária e Aduaneira e Segurança Social, relativas a todos os membros do agregado familiar com mais de 18 anos;
+h) Declaração de frequência de estabelecimento de ensino, no caso dos estudantes com idade igual ou superior a 18 anos;
+i) Declaração da Junta de Freguesia da área de residência a atestar o tempo de residência no concelho e a composição do agregado familiar;
+j) Fotocópia do contrato de arrendamento com declaração comprovativa de que o mesmo se encontra registado na Autoridade Tributária e Aduaneira ou cópia do contrato promessa de arrendamento para novos arrendamentos;
+k) Certidão emitida pela Autoridade Tributária e Aduaneira comprovativa de que o candidato e restantes ocupantes, além da habitação arrendada, não são proprietários, usufrutuários ou detentores a qualquer outro título de prédio urbano ou de fração autónoma de prédio urbano destinados a habitação, localizados no concelho ou em concelho limítrofe;
+l) Declaração, sob compromisso de honra, da veracidade de todas as informações prestadas, de como não beneficia de qualquer apoio destinado ao mesmo fim, nem usufrui de quaisquer outros rendimentos para além dos declarados;
+m) IBAN da conta bancária do candidato para a qual deverá ser transferido o apoio económico;
+n) Documento legal comprovativo da tipologia da habitação;
+o) Último recibo de renda, referente a um dos três últimos meses anteriores à data da candidatura;
+p) Comprovativo do recenseamento eleitoral no concelho de Faro;
+q) Comprovativo do domicílio fiscal no concelho de Faro;
+r) Comprovativo de eventual apoio mensal ao pagamento da renda atribuído pela administração central ou certidão negativa em como não é beneficiário de tal apoio.
+2 - A junção pelo candidato da reprodução do cartão de cidadão, do bilhete de identidade ou do título de residência ou documento equivalente, do candidato/a e/ou dos restantes elementos do agregado familiar, nos termos do previsto nas alíneas b) e c) do número anterior não é obrigatória, podendo, em alternativa, a identidade do respetivo(s) titular(es) ser objeto de conferência pelos serviços no ato de apresentação da candidatura, mediante exibição do(s) respetivo(s) documento(s).
+3 - Sempre que a candidatura seja instruída com fotocópia do cartão de cidadão, do bilhete de identidade ou do título de residência ou documento equivalente, do/a candidato/a e/ou dos restantes elementos do agregado familiar, presume-se o consentimento do respetivo titular.
+Artigo 6.º
+Formalização das candidaturas
+A candidatura pode ser entregue, a todo o tempo:
+a) Diretamente no Balcão Único do Município, sito na loja do cidadão, no Edifício do Mercado Municipal de Faro - Largo Dr. Francisco Sá Carneiro, 8000-151 Faro (segunda a sexta das 9:00-17:00) ou na Divisão de Intervenção Social e Políticas Participativas da Câmara Municipal de Faro (DISPP), sita na Praça José Afonso, 1, 8000-173 Faro (segunda a sexta das 9:00-17:00), ou
+b) Por carta registada com aviso de receção, para o endereço da DISPP (acima indicado), devendo, para o efeito, ser preenchido impresso próprio e anexada a documentação necessária de acordo com o artigo 5.º, ou
+c) Por envio para o endereço eletrónico do Município "dis@cm-faro.pt", dos elementos mencionados no artigo 5.º
+Artigo 7.º
+Critérios de atribuição
+1 - Os apoios económicos ao arrendamento privado serão atribuídos aos candidatos que reúnam as condições de acesso previstas no artigo 4.º, por ordem de entrada das candidaturas, até ao limite da verba anualmente inscrita em orçamento para esta medida.
+2 - Da verba inscrita em orçamento para a presente medida, serão alocados 15 % para resposta a situações excecionais de agregados que se encontrem a vivenciar um período de grande vulnerabilidade e emergência social.
+Artigo 8.º
+Valor do apoio
+1 - O valor da renda máxima para efeitos de cálculo do apoio, por tipologia, corresponde ao montante de referência definido por Portaria do Governo para o arrendamento acessível, conforme Anexo II ao presente Regulamento.
+2 - Nas situações em que o agregado familiar resida em tipologia superior à indicada para a dimensão do agregado, conforme Anexo I, o valor do apoio é calculado tomando como referência a tipologia adequada à dimensão do agregado familiar.
+3 - O valor da comparticipação a atribuir é determinado em função da taxa de esforço do agregado familiar, calculado nos termos do artigo 3.º, alínea g), correspondendo a um dos escalões de apoio constante do Anexo IV ao presente Regulamento.
+4 - Da verba inscrita em orçamento para a presente medida, será definida anualmente uma percentagem destinada ao apoio a novos contratos de arrendamento com a duração mínima de um ano.
+Artigo 9.º
+Análise e diagnóstico da elegibilidade da candidatura
+1 - A avaliação técnica das candidaturas é da responsabilidade da Divisão de Intervenção Social e Políticas Participativas do Município de Faro.
+2 - Poderão ser efetuadas visitas técnicas à habitação objeto da candidatura ou solicitados documentos adicionais, mediante notificação prévia, para verificação das informações declaradas, devendo o interessado facultar todos os elementos solicitados, sob pena de recusa da candidatura.
+3 - A análise técnica da candidatura é efetuada nos termos legais, no prazo de 30 dias, ficando o deferimento do apoio sujeito à disponibilidade de verba para o efeito.
+Artigo 10.º
+Validade dos apoios
+1 - Os apoios são concedidos em função das verbas inscritas no orçamento do Município de Faro para a presente medida.
+2 - Os apoios económicos às candidaturas selecionadas são válidos pelo período de um ano, contado a partir da data de deferimento do pedido, desde que não se alterem as condições sociais, económicas e habitacionais que determinaram a elegibilidade dos pedidos.
+3 - Os apoios económicos ao arrendamento privado são suscetíveis de três renovações pelo período de um ano cada uma.
+4 - As renovações ficam condicionadas ao cumprimento pelos candidatos das condições de acesso previstas no artigo 4.º
+5 - Para efeitos de renovação do apoio previsto nos números 3 e 4, os beneficiários do apoio deverão, no decurso do penúltimo mês da sua vigência, apresentar novos documentos comprovativos da sua situação sócio económica e habitacional para que se possa proceder a nova avaliação tendo em vista a renovação, ou não. A não entrega da documentação atrás referida até ao prazo definido implica a não renovação.
+6 - Em caso de mudança de habitação e, consequentemente, do respetivo contrato de arrendamento durante o período do apoio, pretendendo o beneficiário manter o apoio deve, no prazo máximo de 15 dias informar o Município dessa mudança, acompanhada de cópia do novo contrato de arrendamento, e solicitar a sua manutenção, que poderá ser deferida até ao limite do prazo inicialmente previsto. Nesta situação, o valor a apoiar será recalculado nos termos do presente Regulamento.
+7 - O Município de Faro reserva-se o direito de, a qualquer momento, solicitar documentos comprovativos da situação social e económica dos interessados.
+8 - Os agregados beneficiários do subsídio estão obrigados a informar a Câmara, no prazo de 15 dias, sempre que se verifique alteração das condições que estiveram na base da atribuição de subsídio, nomeadamente, nas seguintes situações:
+a) Alteração do rendimento mensal e/ou da composição do agregado familiar;
+b) Cessação do contrato de arrendamento, por qualquer motivo, nos termos do NRAU.
+9 - O não cumprimento do disposto no número anterior implica a cessação do subsídio e o reembolso de todas as verbas recebidas, nos termos dos números 6 e 7 do artigo 14.º
+10 - O aumento do valor mensal da renda não implica a alteração do apoio mensal aprovado, exceto aquando de eventual renovação.
+Artigo 11.º
+Forma de concessão do apoio
+1 - Em caso de deferimento, o apoio económico ao arrendamento privado é disponibilizado mensalmente, através de transferência bancária, para o IBAN da conta bancária apresentada em candidatura.
+2 - O pagamento do apoio será realizado mensalmente, após apresentação do recibo comprovativo do pagamento da renda ao senhorio, do comprovativo do recebimento do apoio do Município referente ao mês anterior (caso exista) e da manutenção da situação regularizada, por parte do agregado, com a Autoridade Tributária e Aduaneira e Segurança Social. A referida documentação deverá ser entregue até ao último dia do mês a que se refere.
+Artigo 12.º
+Exclusão da candidatura
+1 - A prestação de declarações falsas ou inexatas, a omissão dolosa de informação ou a utilização de meio fraudulento por parte dos candidatos, no âmbito dos procedimentos de atribuição de apoio económico, determinam a exclusão da candidatura, sem prejuízo de outras sanções legalmente aplicáveis.
+2 - A veracidade das declarações descritas nas candidaturas será aferida em relação ao momento em que foram entregues pelos candidatos, podendo o Município proceder à realização de visitas ao imóvel arrendado, nos termos legais, bem como à solicitação de informações para o efeito, aos interessados ou a outras entidades públicas ou privadas.
+3 - Será motivo de rejeição liminar da candidatura a não apresentação de qualquer dos documentos referidos no artigo 5.º, após a devida solicitação do Município para o efeito.
+4 - A exclusão de candidaturas é objeto de fundamentação expressa.
+5 - Da exclusão de qualquer interessado cabe reclamação para a câmara municipal, a interpor no prazo de 10 (dez) dias úteis, contados da notificação recebida.
+Artigo 13.º
+Decisão
+1 - A decisão sobre a atribuição ou cancelamento dos apoios económicos é da responsabilidade da Câmara Municipal, por proposta do Presidente ou do membro do Executivo com competência delegada nas matérias de Habitação e Ação Social, mediante parecer técnico dos serviços.
+2 - Os candidatos serão notificados por escrito, para o endereço físico, ou eletrónico, constante do processo de candidatura, da decisão que recair sobre o pedido de apoio económico, sendo, no caso de indeferimento da pretensão, objeto de audiência prévia escrita.
+3 - No caso de novos arrendamentos, a concessão do apoio é condicionada à apresentação pelos candidato de cópia do contrato de arrendamento com o comprovativo da sua declaração junto da Autoridade Tributária e Aduaneira, no prazo de 20 dias a contar da notificação da concessão do apoio.
+Artigo 14.º
+Cessação do apoio
+1 - A atribuição do apoio cessa no final do período de vigência do mesmo, conforme o artigo 10.º
+2 - A atribuição do apoio pode cessar, a todo o momento, a pedido do beneficiário.
+3 - A atribuição do apoio cessa caso deixem de ser cumpridas as condições de acesso previstas no artigo 4.º
+4 - Nos casos em que os apoios económicos tenham sido concedidos indevidamente com base em falsas declarações ou na omissão dolosa de informações sobre a situação social, económica e habitacional dos candidatos, os mesmos são impedidos de concorrer a pedidos no âmbito do presente regulamento por um prazo de cinco anos, contados da data de cancelamento do apoio, devendo ainda proceder à restituição da totalidade dos apoios auferidos.
+5 - Há lugar à cessação do apoio económico quando exista incumprimento do presente regulamento por parte dos beneficiários ou quando ocorra a aprovação de candidatura submetida a outros programas de apoio ao arrendamento.
+6 - O incumprimento doloso, ou com negligência grave, do contrato ou do disposto no presente regulamento, que dê origem a apropriação indevida do subsídio municipal determina a cessação do apoio e o reembolso integral de todos os montantes recebidos neste âmbito, acrescido de uma penalização de 50 %, sem prejuízo da responsabilidade civil e criminal a que possa haver lugar.
+7 - O incumprimento não doloso do contrato ou do presente regulamento determina a cessação da atribuição do subsídio, bem como a devolução do montante recebido pelo beneficiário desde a prática do incumprimento.
+Artigo 15.º
+Dúvidas e omissões
+1 - As dúvidas e omissões decorrentes da aplicação do presente Regulamento serão resolvidas por decisão da Câmara Municipal, por proposta do Presidente ou membro do Executivo com competência delegada nas matérias de Habitação e Ação Social, após parecer técnico dos serviços municipais com competência na matéria.
+2 - Em tudo o que não esteja previsto no presente regulamento aplica-se o Código do Procedimento Administrativo e demais legislação aplicável em vigor.
+Artigo 15-A.º
+(Revogado)
+Artigo 16.º
+Proteção de dados pessoais
+1 - O Município de Faro respeita integralmente as regras relativas à proteção de dados pessoais, usando os dados recolhidos exclusivamente para as finalidades do presente Regulamento e pelo período indispensável para o efeito e tomando todas as precauções relativas à segurança dos dados recolhidos, nomeadamente, limitando os acessos apenas a pessoas devidamente autorizadas.
+2 - A recolha e o tratamento dos dados pessoais serão apenas os estritamente necessários para a tramitação do procedimento em concreto, no respeito pelas regras da privacidade e proteção de dados pessoais constantes do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (RGPD), bem como da legislação nacional aplicável.
+3 - Os dados pessoais recolhidos destinam-se a ser utilizados pelo Município de Faro, responsável pelo tratamento, na prossecução da finalidade indicada nos números anteriores.
+Artigo 17.º
+Entrada em vigor
+O presente Regulamento entra em vigor no dia seguinte ao da sua publicação nos termos do artigo 139.º do Código do Procedimento Administrativo.
+ANEXO I
+Tipologia adequada ao agregado
+<div class="tableContent" id="DR_TABLE2"><table summary="Tabela"><thead><tr><th style="text-align:center; vertical-align:center;">Tipologias</th><th style="text-align:center; vertical-align:center;">Número de pessoas</th></tr><tr><th style="text-align:justify; vertical-align:top;"></th><th style="text-align:center; vertical-align:top;"></th></tr></thead><tbody><tr><td style="text-align:justify; vertical-align:top;">T0/T1...</td><td style="text-align:center; vertical-align:top;">1 a 2</td></tr><tr><td style="text-align:justify; vertical-align:top;">T2...</td><td style="text-align:center; vertical-align:top;">2 a 4</td></tr><tr><td style="text-align:justify; vertical-align:top;">T3...</td><td style="text-align:center; vertical-align:top;">3 a 6</td></tr><tr><td style="text-align:justify; vertical-align:top;">T4...</td><td style="text-align:center; vertical-align:top;">5 a 8</td></tr><tr><td style="text-align:justify; vertical-align:top;">T5...</td><td style="text-align:center; vertical-align:top;">7 ou mais</td></tr></tbody></table></div>
+ANEXO II
+Valores de renda máxima para efeitos de cálculo, por tipologia
+<div class="tableContent" id="DR_TABLE3"><table summary="Tabela"><thead></thead><tbody><tr><td style="text-align:center; vertical-align:center;"></td><td style="text-align:center; vertical-align:center;">Valores(em euros)</td></tr><tr><td style="text-align:justify; vertical-align:top;"></td><td style="text-align:center; vertical-align:top;"></td></tr><tr><td style="text-align:justify; vertical-align:top;">T0...</td><td style="text-align:center; vertical-align:top;">325</td></tr><tr><td style="text-align:justify; vertical-align:top;">T1...</td><td style="text-align:center; vertical-align:top;">475</td></tr><tr><td style="text-align:justify; vertical-align:top;">T2...</td><td style="text-align:center; vertical-align:top;">600</td></tr><tr><td style="text-align:justify; vertical-align:top;">T3...</td><td style="text-align:center; vertical-align:top;">700</td></tr><tr><td style="text-align:justify; vertical-align:top;">T4...</td><td style="text-align:center; vertical-align:top;">800</td></tr><tr><td style="text-align:justify; vertical-align:top;">T5...</td><td style="text-align:center; vertical-align:top;">875</td></tr></tbody></table></div>
+Nos temos da Portaria n.º 176/2019, de 6 de junho.
+ANEXO III
+Valor mínimo de rendimento anual para efeitos de elegibilidade dos agregados habitacionais
+Corresponde ao valor total obtido pela soma das seguintes parcelas de acordo com a composição do Agregado Habitacional:
+<div class="tableContent" id="DR_TABLE4"><table summary="Tabela"><thead></thead><tbody><tr><td style="text-align:center; vertical-align:center;">Número de pessoas do agregado</td><td style="text-align:center; vertical-align:center;">Rendimento anual ilíquido mínimo</td></tr><tr><td style="text-align:justify; vertical-align:top;">1.º adulto...<br/>Por cada adulto adicional...</td><td style="text-align:justify; vertical-align:top;">45 % da Retribuição Mínima Nacional Anual.<br/>20 % da Retribuição Mínima Nacional Anual.</td></tr></tbody></table></div>
+Valor máximo de rendimento anual para efeitos de elegibilidade dos agregados habitacionais
+<div class="tableContent" id="DR_TABLE5"><table summary="Tabela"><thead></thead><tbody><tr><td style="text-align:center; vertical-align:center;">Número de pessoas do agregado</td><td style="text-align:center; vertical-align:center;">Rendimento anual ilíquido máximo</td></tr><tr><td style="text-align:justify; vertical-align:top;">1 pessoa...</td><td style="text-align:center; vertical-align:top;">25 000 (euro)</td></tr><tr><td style="text-align:justify; vertical-align:top;">2 pessoas...</td><td style="text-align:center; vertical-align:top;">32 000 (euro)</td></tr><tr><td style="text-align:justify; vertical-align:top;">+ de 2 pessoas...</td><td style="text-align:center; vertical-align:top;">+ 5 000 (euro) p/pessoa</td></tr></tbody></table></div>
+ANEXO IV
+Escalões de comparticipação
+<div class="tableContent" id="DR_TABLE6"><table summary="Tabela"><thead><tr><th style="text-align:center; vertical-align:center;">Escalão</th><th style="text-align:center; vertical-align:center;">Taxa de esforço</th><th style="text-align:center; vertical-align:center;">Valor de comparticipação em função da taxa de esforço<br/>(percentagem sobre a renda)</th></tr><tr><th style="text-align:justify; vertical-align:top;"></th><th style="text-align:center; vertical-align:top;"></th><th style="text-align:center; vertical-align:top;"></th></tr></thead><tbody><tr><td style="text-align:justify; vertical-align:top;">1.º...</td><td style="text-align:center; vertical-align:top;">(igual ou maior que) 60 % TX (igual ou menor que) 90 %</td><td style="text-align:center; vertical-align:top;">35 %</td></tr><tr><td style="text-align:justify; vertical-align:top;">2.º...</td><td style="text-align:center; vertical-align:top;">(igual ou maior que) 50 % TX (menor que) 60 %</td><td style="text-align:center; vertical-align:top;">30 %</td></tr><tr><td style="text-align:justify; vertical-align:top;">3.º...</td><td style="text-align:center; vertical-align:top;">(igual ou maior que) 40 % TX (menor que) 50 %</td><td style="text-align:center; vertical-align:top;">25 %</td></tr><tr><td style="text-align:justify; vertical-align:top;">4.º...</td><td style="text-align:center; vertical-align:top;">(igual ou maior que) 30 % TX (menor que) 40 %</td><td style="text-align:center; vertical-align:top;">15 %</td></tr></tbody></table></div>
+317148068
