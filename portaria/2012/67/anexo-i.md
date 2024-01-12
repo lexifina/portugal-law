@@ -110,7 +110,7 @@ e) Sala de estar com copa: 12 m2.
 
 6.3.4 - Deve prever-se entre camas um sistema amovível que garanta a privacidade dos residentes. As camas devem ser, preferencialmente, articuladas, tendo em conta situações de residentes com elevado grau de dependência.
 
-6.3.5 - Nos quartos individuais e/ou nos quartos duplos, podem ser autorizadas camas extra, desde que cumprida a área mínima de alojamento definida por utente, só podendo estas camas ser destinadas ao acolhimento de pessoas adultas com alta clínica e social, nos termos da legislação aplicável às altas hospitalares, devendo nestes casos, por razões excecionais e de força maior, ser atualizada a capacidade máxima do equipamento.
+6.3.5 - Nos quartos individuais e/ou nos quartos duplos, podem ser autorizadas camas extra, desde que cumprida a área mínima de alojamento definida por utente nos termos previstos no n.º 2 do anexo ii, só podendo estas camas ser destinadas ao acolhimento de pessoas adultas com alta clínica e social, nos termos da legislação aplicável às altas hospitalares, devendo nestes casos, por razões excecionais e de força maior, ser atualizada a capacidade máxima do equipamento.
 
 6.3.6 - Caso a ERPI disponha de quarto ou quartos de isolamento, podem os mesmos ser utilizados para acolhimento de pessoas adultas com alta clínica e social, nos termos da legislação aplicável às altas hospitalares, devendo nestes casos, por razões excecionais e de força maior, ser atualizada a capacidade máxima do equipamento.
 
