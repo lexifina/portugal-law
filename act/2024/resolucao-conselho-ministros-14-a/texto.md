@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 14-A/2024
+Sumário: Atribui uma indemnização compensatória à Museus e Monumentos de Portugal, E. P. E.
+A Museus e Monumentos de Portugal, E. P. E., foi criada pelo Decreto-Lei n.º 79/2023, de 4 de setembro, sucedendo à Direção-Geral do Património Cultural na missão, nas atribuições, no património e nos recursos humanos nos domínios da: a) conservação, restauro, proteção, valorização e divulgação das coleções nacionais e do património cultural móvel; b) gestão dos museus, monumentos e palácios nacionais; e c) execução da política museológica nacional.
+Considerando que 2024 é o primeiro ano de início de atividade em pleno desta entidade, assumindo a prossecução da sua missão e atribuições, nomeadamente a gestão dos museus, monumentos e palácios nacionais a partir de 1 de janeiro, importa assegurar que aquela detém os recursos necessários para assegurar a transição da gestão em contínuo, bem como do tempo necessário para se estruturar, quer enquanto entidade pública empresarial, quer enquanto organização composta por 38 museus, monumentos e palácios anteriormente sob gestão de cinco outras entidades.
+No Orçamento do Estado para 2024, aprovado pela Lei n.º 82/2023, de 29 de dezembro, foi inscrita uma verba no programa orçamental da cultura no montante de 27 450 000 EUR para efeitos de compensação financeira da Museus e Monumentos de Portugal, E. P. E.
+Constatando-se que a apresentação da proposta de contratualização de serviço público prevista no artigo 48.º do regime do setor público empresarial (RJSPE), aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, pressupõe a finalização de todos os procedimentos de transição em curso, designadamente ao nível dos recursos humanos, financeiros e patrimoniais, importa fixar a indemnização compensatória para o ano de 2024, mantendo os mecanismos de monitorização previstos no n.º 2 do artigo 25.º do RJSPE.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do artigo 5.º do Decreto-Lei n.º 167/2008, de 26 de agosto, na sua redação atual, do n.º 1 do artigo 43.º do Decreto-Lei n.º 10/2023, de 8 de fevereiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Atribuir à Museus e Monumentos de Portugal, E. P. E., a título de indemnização compensatória para o ano de 2024 como contrapartida pela prestação de serviços de interesse público previstos no artigo 3.º dos respetivos Estatutos, aprovados pelo Decreto-Lei n.º 79/2023, de 4 de setembro, um montante de 27 450 000 EUR.
+2 - Autorizar a realização da despesa referente à indemnização compensatória atribuída no número anterior.
+3 - Estabelecer que o valor referido no n.º 1 é pago a partir de janeiro de 2024, em tranches trimestrais, sendo cada uma delas paga no primeiro mês do trimestre a que respeita.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos por verbas inscritas no programa orçamental da área governativa da cultura.
+5 - Determinar que as transferências a que se referem os n.os 1 e 3 pressupõem a observância das condições de prestação do serviço público que as justificam.
+6 - Estabelecer que a presente resolução produz efeitos a 1 de janeiro de 2024.
+7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 11 de janeiro de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+117243429
