@@ -1,8 +1,8 @@
 # Artigo 11.º-C
 
-### Rotulagem dos produtos do tabaco para fumar, com exceção dos cigarros, do tabaco de enrolar e do tabaco para cachimbo de água
+### Rotulagem dos produtos do tabaco para fumar, com exceção dos cigarros, do tabaco de enrolar, do tabaco para cachimbo de água e dos produtos de tabaco aquecido
 
-1 - Ficam isentos da obrigação de ostentar a mensagem informativa prevista no n.º 2 do artigo 11.º-A e as advertências de saúde combinadas previstas no artigo 11.º-B, os produtos do tabaco para fumar, com exceção dos cigarros, do tabaco de enrolar e do tabaco para cachimbo de água.
+1 - Ficam isentos da obrigação de ostentar a mensagem informativa prevista no n.º 2 do artigo 11.º-A e as advertências de saúde combinadas previstas no artigo anterior os produtos do tabaco para fumar, com exceção dos cigarros, do tabaco de enrolar, do tabaco para cachimbo de água e dos produtos de tabaco aquecido, na medida em que sejam produtos de tabaco para fumar, conforme definidos na alínea nn) do artigo 2.º
 
 2 - Nos casos previstos no número anterior, e para além da advertência geral prevista no n.º 1 do artigo 11.º-A, cada embalagem individual e cada embalagem exterior desses produtos deve ostentar uma das advertências em texto enumeradas no anexo II à presente lei.
 

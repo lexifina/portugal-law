@@ -30,6 +30,6 @@ e) Aditivos que, na sua forma sem combustão, têm propriedades cancerígenas, m
 
 9 - A Direção-Geral da Saúde pode solicitar à Comissão Europeia que determine se um produto do tabaco é abrangido pelo âmbito de aplicação do n.º 7.
 
-10 - Aos produtos do tabaco que não sejam cigarros e tabaco de enrolar não se aplicam as proibições previstas nos n.os 1 e 5.
+10 - As proibições previstas nos n.os 1 e 5 são aplicáveis exclusivamente a cigarros, tabaco de enrolar e produtos de tabaco aquecido.
 
 11 - Os fabricantes e os importadores de produtos do tabaco suportam os encargos necessários para avaliação se um produto do tabaco tem um aroma distintivo, se são usados aditivos ou aromas proibidos e se um produto do tabaco contém aditivos em quantidades que aumentem em grau significativo e mensurável o efeito tóxico ou de dependência do produto do tabaco em causa ou as suas propriedades cancerígenas, mutagénicas ou tóxicas para a reprodução.

@@ -86,21 +86,23 @@ ll) «Suporte publicitário» o veículo utilizado para a transmissão da mensag
 
 mm) 'Tabaco', as folhas e outras partes naturais, transformadas ou não transformadas, da planta do tabaco, incluindo tabaco expandido e reconstituído;
 
-nn) 'Tabaco de enrolar', tabaco que pode ser utilizado para fazer cigarros pelos consumidores ou pelos estabelecimentos retalhistas;
+nn) 'Tabaco aquecido' ou 'produto de tabaco aquecido' um novo produto do tabaco que é aquecido para produzir uma emissão contendo nicotina e outros produtos químicos, a qual é em seguida inalada pelos utilizadores, e que, em função das suas características, é um produto do tabaco sem combustão ou um produto do tabaco para fumar;
 
-oo) 'Tabaco de mascar', um produto do tabaco sem combustão destinado exclusivamente para ser mascado;
+oo) 'Tabaco de enrolar', tabaco que pode ser utilizado para fazer cigarros pelos consumidores ou pelos estabelecimentos retalhistas;
 
-pp) 'Tabaco para cachimbo', tabaco que pode ser consumido através de um processo de combustão e destinado exclusivamente para ser utilizado num cachimbo;
+pp) 'Tabaco de mascar', um produto do tabaco sem combustão destinado exclusivamente para ser mascado;
 
-qq) 'Tabaco para cachimbo de água', um produto do tabaco que pode ser consumido através de cachimbo de água (narguilé), considerando-se, para efeitos do disposto na presente lei, que o tabaco para cachimbo de água é um produto do tabaco para fumar, salvo se o produto for utilizável tanto em cachimbos de água como tabaco de enrolar, caso em que se considera que é tabaco de enrolar;
+qq) 'Tabaco para cachimbo', tabaco que pode ser consumido através de um processo de combustão e destinado exclusivamente para ser utilizado num cachimbo;
 
-rr) 'Tabaco para uso oral', todos os produtos do tabaco para uso oral, com exceção dos destinados a ser inalados ou mascados, constituídos total ou parcialmente por tabaco, sob a forma de pó ou de partículas finas ou qualquer combinação destas formas, nomeadamente os que se apresentam em doses individuais ou pacotes porosos;
+rr) 'Tabaco para cachimbo de água', um produto do tabaco que pode ser consumido através de cachimbo de água (narguilé), considerando-se, para efeitos do disposto na presente lei, que o tabaco para cachimbo de água é um produto do tabaco para fumar, salvo se o produto for utilizável tanto em cachimbos de água como tabaco de enrolar, caso em que se considera que é tabaco de enrolar;
 
-ss) 'Televenda', a difusão de ofertas diretas ao público, realizada por canais televisivos, com vista ao fornecimento de cigarros ou outros produtos derivados do tabaco, de produtos à base de plantas para fumar ou de cigarros eletrónicos, mediante pagamento;
+ss) 'Tabaco para uso oral', todos os produtos do tabaco para uso oral, com exceção dos destinados a ser inalados ou mascados, constituídos total ou parcialmente por tabaco, sob a forma de pó ou de partículas finas ou qualquer combinação destas formas, nomeadamente os que se apresentam em doses individuais ou pacotes porosos;
 
-tt) 'Toxicidade', o grau em que uma substância pode causar efeitos nocivos ao organismo humano, incluindo efeitos que se verificam a longo prazo, habitualmente por consumo ou exposição repetida ou contínua;
+tt) 'Televenda', a difusão de ofertas diretas ao público, realizada por canais televisivos, com vista ao fornecimento de cigarros ou outros produtos derivados do tabaco, de produtos à base de plantas para fumar ou de cigarros eletrónicos, mediante pagamento;
 
-uu) 'Vendas à distância transfronteiriças', as vendas à distância a consumidores nas quais, no momento em que encomenda o produto a um estabelecimento retalhista, o consumidor se encontra num país que não aquele em que está estabelecido o estabelecimento retalhista, considerando-se que o estabelecimento retalhista está estabelecido num país:
+uu) 'Toxicidade', o grau em que uma substância pode causar efeitos nocivos ao organismo humano, incluindo efeitos que se verificam a longo prazo, habitualmente por consumo ou exposição repetida ou contínua;
+
+vv) 'Vendas à distância transfronteiriças', as vendas à distância a consumidores nas quais, no momento em que encomenda o produto a um estabelecimento retalhista, o consumidor se encontra num país que não aquele em que está estabelecido o estabelecimento retalhista, considerando-se que o estabelecimento retalhista está estabelecido num país:
 
 i) No caso de uma pessoa singular, se esta tiver o seu local de atividade comercial nesse país;
 
