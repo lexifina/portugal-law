@@ -23,3 +23,9 @@ b) Não se aplicam, no âmbito desta avaliação de incapacidade, as instruçõe
 8 - Para os efeitos do número anterior, considera-se que o grau de incapacidade é desfavorável ao avaliado quando a alteração do grau de incapacidade resultante de revisão ou reavaliação implique a perda de direitos que o mesmo já esteja a exercer ou de benefícios que já lhe tenham sido reconhecidos.
 
 9 - No processo de revisão ou reavaliação, o grau de incapacidade resultante da aplicação da Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais mantém-se inalterado sempre que resulte num grau de incapacidade inferior ao grau determinado à data da avaliação ou última reavaliação.
+
+10 - Sem prejuízo do disposto no n.º 3, todos os AMIM, quando sujeitos a renovação ou reavaliação, incluindo os emitidos ao abrigo do n.º 10 do artigo 2.º ou de outros regimes previstos na lei, mantêm-se válidos para efeitos da atribuição e manutenção de benefícios sociais, económicos e fiscais, desde que sejam acompanhados do comprovativo da apresentação, até à data do seu termo, do requerimento da JMAI.
+
+11 - O disposto no número anterior cessa logo que se realize uma JMAI, bem como se o interessado faltar à mesma injustificadamente.
+
+12 - O regime previsto no n.º 10 cessa igualmente quando o prazo médio, registado a nível nacional, para a realização das JMAI, for o indicado no n.º 5 do artigo 3.º
