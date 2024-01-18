@@ -6,7 +6,7 @@
 
 2 - O termo de responsabilidade constitui prova da posse de meios de subsistência suficientes, sem prejuízo da possibilidade de apresentação de outros meios válidos de prova.
 
-3 - O SEF pode fazer depender a aceitação dos termos de responsabilidade de prova da capacidade financeira do seu subscritor, atestada, designadamente, através de um dos seguintes documentos:
+3 - A força de segurança competente para a decisão de entrada pode fazer depender a aceitação dos termos de responsabilidade de prova da capacidade financeira do seu subscritor, atestada, designadamente, através de um dos seguintes documentos:
 
 a) Declaração de liquidação do Imposto sobre o Rendimento das Pessoas Singulares (IRS) do ano anterior;
 

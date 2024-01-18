@@ -6,6 +6,8 @@
 
 2 - Nos casos em que os mesmos não existam já no processo, o pedido deve ser acompanhado dos seguintes elementos:
 
-a) Documento comprovativo da relação de parentesco;
+a) Informação comprovativa do laço familiar;
 
-b) Comprovativo da justificação invocada.
+b) Informação comprovativa da justificação invocada.
+
+3 - É automaticamente deferido o pedido de prorrogação dos vistos previstos no artigo 52.º-A da Lei n.º 23/2007, de 4 de julho, na sua redação atual, salvo se ocorrer algum dos motivos de recusa previsto na alínea c) do n.º 1 daquele artigo ou tenha havido inscrição no registo criminal de qualquer facto que justifique ponderação da prorrogação.

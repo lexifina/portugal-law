@@ -1,0 +1,7 @@
+# Artigo 42.º-J
+
+### Informação comprovativa da titularidade de bolsa ou de manutenção de bolsa de investigação, do exercício de atividade de investigação científica e da mobilidade de longa duração
+
+1 - A informação comprovativa da titularidade de bolsa ou da respetiva manutenção ou do exercício de atividade de investigação científica, e a demais informação legalmente exigida relativamente às mesmas, é comprovada através de consulta às bases de dados das entidades concedentes da bolsa, públicas ou privadas, ou dos centros de investigação oficialmente reconhecidos.
+
+2 - Quando não seja possível aceder à informação nos termos previstos no número anterior, deve a mesma ser comprovada, consoante os casos, através de declaração emitida por entidade competente que ateste o vínculo laboral, a relação de prestação de serviços, a concessão de bolsa de investigação científica ou a outorga de convenção de acolhimento, com respeito pelo disposto no n.º 8 do artigo 51.º

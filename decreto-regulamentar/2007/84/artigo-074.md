@@ -1,4 +1,4 @@
-## Capítulo V
+## Título IV
 
 ## Estatuto de residente de longa duração
 
@@ -6,22 +6,24 @@
 
 ### Pedido de concessão do estatuto de residente de longa duração
 
-1 - O pedido de concessão do estatuto de residente de longa duração previsto no n.º 1 do artigo 125.º ou no n.º 1 do artigo 121.º-J da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é formulado em impresso próprio, de modelo aprovado por despacho do diretor nacional do SEF e assinado pelo requerente ou, quando se trate de menor ou de incapaz, pelo seu representante legal, devendo ser apresentado presencialmente junto da direção ou delegação regional do SEF da área de residência do interessado e instruído com os seguintes documentos:
+1 - Sem prejuízo do disposto no artigo 42.º-A do presente decreto regulamentar, ao pedido de concessão do estatuto de residente de longa duração previsto no n.º 1 do artigo 125.º ou no n.º 1 do artigo 121.º-J da Lei n.º 23/2007, de 4 de julho, na sua redação atual, é aplicável, com as necessárias adaptações, o disposto no artigo 51.º, sendo o pedido instruído com os documentos dos quais constem os seguintes elementos:
 
-a) Documento de viagem válido ou cópia autenticada do mesmo;
+a) Elementos de identificação e outros elementos relevantes constantes de documento de viagem válido;
 
-b) Documento comprovativo de que dispõe de recursos estáveis e regulares, em conformidade com o disposto na alínea b) do n.º 1 e no n.º 6 do artigo 126.º da Lei n.º 23/2007, de 4 de Julho;
+b) Informação comprovativa da disponibilidade de recursos estáveis e regulares;
 
-c) Comprovativo de que dispõe de alojamento;
+c) Informação comprovativa da existência de alojamento;
 
-d) Cópia do contrato de seguro de saúde ou comprovativo de que se encontra abrangido pelo Sistema Nacional de Saúde;
+d) Informação comprovativa de proteção adequada na eventualidade de doença;
 
-e) Requerimento para consulta do registo criminal português pelo SEF;
+e) Informação sobre antecedentes criminais em Portugal obtida pela AIMA, I. P.;
 
-f) Documento comprovativo do destacamento, nas situações a que se refere o n.º 5 do artigo 126.º da Lei n.º 23/2007, de 4 de Julho;
+f) Informação comprovativa da situação de destacamento, nas situações a que se refere o n.º 5 do artigo 126.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual;
 
-g) Quando aplicável, certificado de habilitações emitido por estabelecimento português de ensino oficial ou de ensino particular ou cooperativo reconhecido nos termos legais, certificado de aproveitamento no curso de português básico emitido pelo IEFP, I.P., ou por estabelecimento de ensino oficial ou de ensino particular ou cooperativo legalmente reconhecido, ou ainda, certificado de conhecimento de português básico, mediante a realização de teste em centro de avaliação de português como língua estrangeira, reconhecido pelo Ministério da Educação e Ciência.
+g) Informação legalmente reconhecida e comprovativa do conhecimento de português básico, quando aplicável.
 
-2 - O pedido é, ainda, instruído com informação necessária para verificação do cumprimento das obrigações fiscais e perante a segurança social, obtida nos termos do n.º 9 do artigo 212.º da Lei n.º 23/2007, de 4 de Julho.
+2 - O pedido é, ainda, acompanhado de informação sobre a situação contributiva regularizada junto da administração fiscal e da segurança social.
 
-3 - Aos cidadãos estrangeiros a quem seja concedida o estatuto de residente de longa duração é emitido um título de residência, nos termos dos artigos 121.º-J ou 130.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, válido por cinco anos.
+3 - A informação comprovativa dos requisitos necessários ao deferimento do pedido, nos termos previstos na Lei n.º 23/2007, de 4 de julho, na sua redação atual, e no presente decreto regulamentar, pode ser obtida através de consulta pela AIMA, I. P., às bases de dados das entidades identificadas nos artigos 42.º-B a 42.º-U.
+
+4 - Aos cidadãos estrangeiros a quem seja concedido o estatuto de residente de longa duração é emitido um título de residência, nos termos dos artigos 121.º-J ou 130.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, válido por cinco anos.

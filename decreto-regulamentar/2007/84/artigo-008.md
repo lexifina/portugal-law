@@ -8,4 +8,4 @@
 
 3 - Os menores nacionais ou estrangeiros residentes no país que desejem sair por uma fronteira externa desacompanhados de quem exerce as responsabilidades parentais devem apresentar autorização subscrita por um dos progenitores ou por quem, no caso, seja responsável pelo mesmo, certificada por qualquer das formas legalmente previstas.
 
-4 - Sempre que existam dúvidas relativamente à situação do menor, o SEF realiza todas as diligências necessárias à sua identificação, com vista a garantir a sua protecção e adequado encaminhamento.
+4 - Sempre que existam dúvidas relativamente à situação do menor, a força de segurança competente realiza todas as diligências necessárias à sua identificação, com vista a garantir a sua proteção e adequado encaminhamento.

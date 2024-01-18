@@ -2,14 +2,16 @@
 
 ### Regime especial para deslocalização de empresas
 
-O pedido de autorização de residência prevista no artigo 123.º-A da Lei n.º 23/2007, de 4 de julho, na sua redação atual, deve ser acompanhado dos seguintes documentos:
+Sem prejuízo do disposto no artigo 42.º-A, o pedido de autorização de residência prevista no artigo 123.º-A da Lei n.º 23/2007, de 4 de julho, na sua redação atual, deve ser acompanhado dos documentos dos quais constem os seguintes elementos:
 
-a) Certificado de registo comercial atualizado;
+a) Informação do registo comercial;
 
-b) Contrato de trabalho ou de prestação de serviços ou documento comprovativo da qualidade de titular da empresa ou de órgão social;
+b) Informação comprovativa do vínculo laboral ou do exercício de atividade profissional independente;
 
-c) Comprovativo de inscrição na segurança social;
+c) Informação comprovativa da inscrição na segurança social;
 
-d) Título de residência do país de proveniência;
+d) Informação comprovativa da concessão de residência do país de proveniência;
 
-e) Certificado de registo criminal do país da anterior residência e autorização para consulta do registo criminal português.
+e) Informação sobre antecedentes criminais do país da anterior residência;
+
+f) Informação sobre antecedentes criminais em Portugal pela AIMA, I. P.

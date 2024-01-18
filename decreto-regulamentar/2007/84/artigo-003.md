@@ -6,4 +6,6 @@
 
 2 - Sempre que a finalidade e a frequência do acesso o justifiquem, pode ser concedida autorização com validade mais alargada, não superior a um ano.
 
-3 - Às pessoas autorizadas pelo SEF a aceder à zona internacional é emitida autorização de acesso cujas condições de emissão e modelo são aprovados por despacho do membro do Governo responsável pela área de administração interna.
+3 - Às pessoas autorizadas pela GNR a aceder à zona internacional dos portos é emitida autorização de acesso cujas condições de emissão e modelo são aprovados por despacho do membro do Governo responsável pela área da administração interna.
+
+4 - As autorizações de acesso, referidas no número anterior, são comunicadas ao órgão local da Autoridade Marítima Nacional, no mais curto espaço de tempo, para fins de controlo e segurança das pessoas e bens no porto e nos navios ou embarcações.

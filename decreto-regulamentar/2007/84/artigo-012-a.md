@@ -2,7 +2,7 @@
 
 ### Meios de subsistência
 
-1 - Para os efeitos previstos na alínea f) do n.º 1 do artigo 12.º, devem ser tidos em consideração os meios provenientes de subvenções, bolsas de estudo, contrato ou promessa de contrato de trabalho.
+1 - Para os efeitos previstos na alínea f) do n.º 1 do artigo 12.º, devem ser tidos em consideração os meios provenientes de subvenções, bolsas de estudo, contrato ou promessa de contrato de trabalho, contrato de sociedade ou contrato ou proposta escrita de contrato de prestação de serviços.
 
 2 - A prova de meios de subsistência pode ser efetuada através da apresentação de termo de responsabilidade subscrito pela entidade de acolhimento de estagiários ou trabalhadores, bem como pela organização responsável por programas de intercâmbio de estudantes ou de voluntariado.
 

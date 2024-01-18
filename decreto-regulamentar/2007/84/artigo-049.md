@@ -2,45 +2,45 @@
 
 ### Prorrogação de visto de estada temporária
 
-1 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para efeitos de tratamento médico é acompanhado de comprovativo de que o requerente continua em tratamento médico e tem assegurado o internamento, o tratamento ambulatório ou se encontra inscrito em lista de espera ou no sistema integrado de gestão para cirurgia.
+1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para efeitos de tratamento médico é acompanhado de informação comprovativa de que o requerente continua em tratamento médico e tem assegurado o internamento, o tratamento ambulatório, em estabelecimento de saúde oficial ou oficialmente reconhecido, ou se encontra em lista de inscritos ou no sistema integrado de gestão de inscritos para cirurgia.
 
-2 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido no âmbito da transferência entre empresas deve ser acompanhado de documento comprovativo emitido pela empresa situada em território nacional confirmando a manutenção dos pressupostos que conduziram à concessão do visto.
+2 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido no âmbito da transferência de trabalhadores deve ser acompanhado da informação comprovativa da manutenção dos pressupostos que conduziram à concessão do visto.
 
-3 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para exercício de atividade profissional, subordinada ou independente, prestada em território nacional ou de forma remota a pessoa singular ou coletiva com domicílio ou sede fora do território nacional, deve ser acompanhado de:
+3 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para exercício de atividade profissional, subordinada ou independente, prestada em território nacional ou de forma remota a pessoa singular ou coletiva com domicílio ou sede fora do território nacional, é acompanhado de:
 
-a) Contrato de trabalho ou declaração da entidade empregadora confirmando a manutenção da relação laboral; ou
+a) Informação comprovativa da manutenção do vínculo laboral; ou
 
-b) Contrato de sociedade ou de prestação de serviços para o exercício de profissão liberal, o qual, no caso de prestação de atividade independente de forma remota, pode ser substituído por documento demonstrativo de serviços prestados a uma ou mais entidades, nos termos do disposto na subalínea IV) da alínea b) do n.º 1 do artigo 18.º-B;
+b) Informação comprovativa do exercício da atividade no âmbito de um contrato de sociedade ou de contrato de prestação de serviços a uma ou várias entidades;
 
-c) Seguro de saúde ou comprovativo de que se encontra abrangido pelo Serviço Nacional de Saúde;
+c) Informação comprovativa da posse de proteção adequada na eventualidade de doença;
 
-d) Quando aplicável, informação necessária para verificação da inscrição na administração fiscal e da regularidade da situação contributiva na segurança social, obtida nos termos do n.º 9 do artigo 212.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual.
+d) Quando aplicável, informação comprovativa da respetiva inscrição junto da administração fiscal e da situação contributiva regularizada junto da segurança social.
 
-4 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para actividade de investigação ou altamente qualificada deve ser acompanhado de:
+4 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para atividade de investigação ou altamente qualificada deve ser acompanhado de:
 
-a) Contrato de trabalho ou declaração da entidade empregadora confirmando a manutenção da relação laboral; ou
+a) Informação comprovativa do vínculo laboral; ou
 
-b) Contrato da prestação de serviços ou declaração do beneficiário da prestação do serviço confirmando a manutenção do vínculo contratual; ou
+b) Informação comprovativa da manutenção de atividade profissional independente; ou
 
-c) Comprovativo da posse de bolsa de investigação científica;
+c) Informação comprovativa da titularidade de bolsa de investigação científica;
 
-d) Seguro de saúde ou comprovativo de que se encontra abrangido pelo Serviço Nacional de Saúde;
+d) Informação comprovativa de proteção adequada na eventualidade de doença;
 
-e) Informação necessária para verificação da inscrição na administração fiscal e da regularidade da situação contributiva na segurança social, obtida nos termos do n.º 9 do artigo 212.º da Lei n.º 23/2007, de 4 de Julho, quando aplicável.
+e) Quando aplicável, informação comprovativa da inscrição junto da administração fiscal e da situação contributiva regularizada junto da segurança social.
 
-5 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para actividade desportiva amadora deve ser acompanhado de documento emitido pela respectiva federação confirmando o exercício da actividade desportiva e de termo de responsabilidade subscrito pela associação ou clube desportivo assumindo a responsabilidade pelo alojamento e pelo pagamento de eventuais cuidados de saúde e despesas de repatriamento.
+5 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para atividade desportiva amadora deve ser acompanhado da informação comprovativa do exercício da atividade desportiva emitida pela respetiva federação nacional e da assunção de responsabilidade pelo alojamento e pelo pagamento de eventuais cuidados de saúde e despesas de repatriamento, pela associação ou clube desportivo.
 
 6 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para frequência de um programa de estudo de duração inferior a um ano em estabelecimento de ensino, ou no âmbito de intercâmbio de estudantes com a mesma duração, é acompanhado de:
 
-a) Documento emitido pelo estabelecimento de ensino, comprovativo da matrícula e frequência;
+a) Informação comprovativa da matrícula e frequência;
 
-b) Declaração comprovativa de manutenção do acolhimento por família, nas condições previstas na alínea c) do n.º 5 do artigo 62.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto; ou,
+b) Informação comprovativa da manutenção do acolhimento por família, nas condições previstas na alínea c) do n.º 6 do artigo 62.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual; ou
 
-c) Comprovativo de alojamento.
+c) Informação comprovativa de alojamento.
 
-7 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para estágio profissional é acompanhado de documento emitido por empresa, ou organismo de formação profissional oficialmente reconhecido, atestando a frequência do programa de estágio em função da calendarização definida naquele.
+7 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para estágio profissional é acompanhado da informação comprovativa da frequência do programa de estágio em função da calendarização definida naquele.
 
-8 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para voluntariado obedece à comprovação da idade mínima fixada em portaria do membro do Governo responsável pela área da administração interna, sendo acompanhado de documento emitido pela organização responsável em Portugal pelo programa de voluntariado, oficialmente reconhecida, que ateste a continuidade daquele, sem que possa ultrapassar um ano.
+8 - O pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para voluntariado é acompanhado da informação comprovativa da idade mínima fixada em portaria do membro do Governo responsável pela área das migrações e da informação comprovativa da continuidade daquele programa de voluntariado.
 
 9 - A decisão sobre os pedidos de prorrogação de permanência apresentados por titular de visto de estada temporária para efeitos de acompanhamento de cidadão em tratamento médico é tomada em consonância com a adotada quanto ao cidadão acompanhado.
 

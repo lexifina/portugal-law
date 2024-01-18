@@ -6,4 +6,4 @@
 
 2 - Através das suas redes diplomáticas, consular e comercial o Ministério dos Negócios Estrangeiros e a AICEP, E. P. E., promovem, fora do território nacional, a divulgação do regime de autorização de residência para atividade de investimento, nas respetivas áreas de competência.
 
-3 - Mediante protocolo entre o Ministério da Economia, o Ministério dos Negócios Estrangeiros e o SEF, podem ser abertos postos de atendimento para informação a investidores, nas instalações da AICEP, E. P. E., ou do Turismo de Portugal, I. P.
+3 - Mediante protocolo entre o Ministério da Economia, o Ministério dos Negócios Estrangeiros e a AIMA, I. P., podem ser abertos postos de atendimento para informação a investidores, nas instalações da AICEP, E. P. E., ou do Turismo de Portugal, I. P.

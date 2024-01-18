@@ -1,7 +1,11 @@
 # Artigo 56.º
 
-### Pedido de concessão de autorização de residência para actividade de investigação ou altamente qualificada
+### Pedido de concessão de autorização de residência para atividade de docência, altamente qualificada e cultural
 
-1 - O pedido de concessão de autorização de residência previsto no artigo 90.º da Lei n.º 23/2007, de 4 de Julho, é acompanhado dos documentos que atestem o cumprimento dos requisitos previstos no n.º 1 do mesmo artigo.
+1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência nos termos do presente artigo pode ser apresentado pelos centros de investigação, os estabelecimentos de ensino superior ou outras entidades públicas ou privadas, nomeadamente empresas, que acolham atividade de docência, altamente qualificada e cultural.
 
-2 - Os centros de investigação, os estabelecimentos de ensino superior ou outras entidades, públicas ou privadas, nomeadamente empresas, que acolham actividade altamente qualificada, podem remeter os documentos referidos no número anterior ao Ministério da Ciência, Tecnologia e Ensino Superior que os envia, ou a correspondente informação, de preferência por via electrónica, ao SEF tendo em vista a celeridade e facilitação na tramitação do pedido de autorização de residência.
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - O pedido de concessão de autorização de residência temporária ou de cartão azul UE previstos, respetivamente, nos artigos 90.º e 121.º-B da Lei n.º 23/2007, de 4 de julho, na sua redação atual, são acompanhados da informação comprovativa de qualquer dos requisitos previstos nos n.os 1 daqueles artigos.

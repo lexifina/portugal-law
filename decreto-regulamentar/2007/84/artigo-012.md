@@ -4,13 +4,13 @@
 
 1 - Sem prejuízo dos documentos específicos exigíveis para cada tipo de visto, os pedidos são instruídos com os seguintes documentos:
 
-a) Duas fotografias iguais, tipo passe, a cores e fundo liso, actualizadas e com boas condições de identificação do requerente;
+a) Duas fotografias iguais, tipo passe, ou imagem facial recolhida digitalmente, consoante o caso, a cores e fundo liso, atuais e com boas condições de identificação do requerente;
 
 b) Passaporte ou outro documento de viagem válido;
 
-c) Certificado do registo criminal emitido pela autoridade competente do país de nacionalidade do requerente ou do país em que este resida há mais de um ano, quando sejam requeridos vistos de estada temporária e de residência;
+c) Certificado do registo criminal emitido pela autoridade competente do país de nacionalidade do requerente ou do país em que este resida há mais de um ano, quando sejam requeridos vistos de estada temporária, de residência e para procura de trabalho;
 
-d) Requerimento para consulta do registo criminal português pelo SEF, quando sejam requeridos vistos de estada temporária e de residência;
+d) (Revogada.)
 
 e) Seguro de viagem válido, que permita cobrir as despesas necessárias por razões médicas, incluindo assistência médica urgente e eventual repatriamento;
 
@@ -20,7 +20,13 @@ g) Cópia do título de transporte de regresso, salvo quando seja solicitado vis
 
 2 - O documento previsto na alínea f) do número anterior pode ser dispensado aos titulares de passaporte diplomático e de serviço especial ou oficial.
 
-3 - Aos requerentes de visto de estada temporária ou de residência nacionais de um Estado em que esteja em vigor o Acordo CPLP, bem como aos nacionais de outro Estado a que as condições especiais daquele Acordo sejam estendidas por acordo internacional, é dispensada a apresentação dos documentos previstos nas alíneas e), f) e g) do n.º 1, nos termos previstos no referido Acordo, desde que apresente um termo de responsabilidade nos termos e para os efeitos do disposto nos n.os 2 e 3 do artigo 12.º-A.
+3 - Aos requerentes de visto mencionados no artigo 52.º-A da Lei n.º 23/2007, de 4 de julho, na sua redação atual, bem como aos nacionais de outro Estado a que as condições especiais daquele Acordo sejam estendidas por acordo internacional, é dispensada a apresentação:
+
+a) Dos elementos específicos exigíveis para cada tipo de visto;
+
+b) Dos elementos previstos nas alíneas e) e g) do n.º 1;
+
+c) Dos elementos previstos na alínea f) do n.º 1, desde que apresentem um termo de responsabilidade nos termos e para os efeitos do disposto nos n.os 2 e 3 do artigo seguinte.
 
 4 - As missões diplomáticas ou os postos consulares podem decidir, caso a caso, abrir uma excepção à exigência de seguro médico de viagem para os titulares de passaportes diplomáticos, de serviço e outros passaportes oficiais, ou quando tal possa proteger os interesses nacionais em matéria de política externa, de política de desenvolvimento ou outras áreas de relevante interesse público, devendo ser assegurada, no prazo de 90 dias após a entrada em território nacional, a subscrição de adequado seguro de saúde.
 

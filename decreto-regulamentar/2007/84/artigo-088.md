@@ -16,6 +16,6 @@ e) Custos de alojamento dos cidadãos estrangeiros objecto da medida de afastame
 
 f) Despesas de saúde, relativas à prestação de tratamento médico ao cidadão estrangeiro e aos elementos das escoltas em casos de emergência, incluindo as despesas de hospitalização necessárias.
 
-2 - Sempre que se afigure que a estada do cidadão em instalações apropriadas possa durar mais do que os três meses previstos na alínea e) do número anterior, o SEF e a autoridade competente do outro Estado acordam nos custos excedentários.
+2 - Sempre que se afigure que a estada do cidadão em instalações apropriadas possa durar mais do que os três meses previstos na alínea e) do número anterior, a AIMA, I. P., e a autoridade competente do outro Estado acordam nos custos excedentários.
 
-3 - Sempre que necessário, o SEF e a autoridade competente do outro Estado consultam-se mutuamente, a fim de chegarem a acordo sobre outros custos para além dos mencionados no n.º 1 ou sobre custos adicionais.
+3 - Sempre que necessário, a AIMA, I. P., e a autoridade competente do outro Estado consultam-se mutuamente, a fim de chegarem a acordo sobre outros custos para além dos mencionados no n.º 1 ou sobre custos adicionais.

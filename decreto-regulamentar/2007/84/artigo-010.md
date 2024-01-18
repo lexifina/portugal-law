@@ -1,4 +1,4 @@
-## Capítulo II
+## Título II
 
 ## Vistos
 
@@ -10,7 +10,7 @@
 
 ### Pedido de visto
 
-1 - O pedido de visto que, por força da legislação aplicável, deva ser apresentado num posto consular e numa secção consular da embaixada a que se referem, respetivamente, os n.os 2 e 5 do artigo 3.º e o artigo 67.º do Regulamento Consular, aprovado em anexo ao Decreto-Lei n.º 51/2021, de 15 de junho, é formulado em impresso próprio, assinado pelo requerente e instruído com toda a documentação necessária.
+1 - O pedido de visto que, por força da legislação aplicável, deva ser apresentado num posto consular e numa secção consular da embaixada a que se referem, respetivamente, os n.os 2 e 5 do artigo 3.º e o artigo 67.º do Regulamento Consular, aprovado em anexo ao Decreto-Lei n.º 51/2021, de 15 de junho, é apresentado em formulário próprio, em formato físico ou eletrónico.
 
 2 - Salvo razões atendíveis, o pedido deve ser apresentado pelo requerente no país da sua residência habitual ou no país da área da jurisdição consular do Estado da sua residência.
 
@@ -30,10 +30,10 @@ c) O requerente de visto de residência para atividade docente, altamente qualif
 
 7 - Os pedidos de visto podem igualmente ser apresentados por entidades idóneas, devidamente acreditadas pela embaixada, ou com recurso à utilização de prestador de serviços externos.
 
-8 - São fixados, por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da administração interna, os critérios de acreditação das entidades idóneas, a que se refere o número anterior.
+8 - São fixados, por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da administração interna e das migrações, os critérios de acreditação das entidades idóneas, a que se refere o número anterior.
 
 9 - A recolha de identificadores biométricos, quando aplicável, deve ser efetuada nos postos consulares e nas secções consulares das embaixadas a que se referem, respetivamente, os n.os 2 e 5 do artigo 3.º e o artigo 67.º do Regulamento Consular, aprovado em anexo ao Decreto-Lei n.º 51/2021, de 15 de junho, exceto no âmbito de prestador de serviços externos.
 
-10 - A apresentação do pedido de visto pode dar lugar à aposição, no passaporte do requerente, desde que solicitada pelo próprio, de um carimbo contendo os elementos respeitantes à data, embaixada, posto consular de carreira ou secção consular onde foi solicitado, salvo nos casos de passaportes diplomáticos ou de serviço.
+10 - (Revogado.)
 
-11 - O modelo de impresso previsto no n.º 1 está também disponível em suporte electrónico no sítio da Internet disponibilizado pelo Ministério dos Negócios Estrangeiros.
+11 - O modelo de formulário previsto no n.º 1 está também disponível em suporte eletrónico no sítio na Internet disponibilizado pelo Ministério dos Negócios Estrangeiros.

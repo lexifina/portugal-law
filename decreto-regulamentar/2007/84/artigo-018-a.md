@@ -4,7 +4,7 @@
 
 1 - O pedido de visto de estada temporária para acompanhamento de requerente de visto de estada temporária previsto nas alíneas g) e h) do n.º 1 do artigo 54.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, é acompanhado de:
 
-a) Documento comprovativo da relação familiar;
+a) Comprovativo dos laços familiares;
 
 b) Comprovativo da disponibilidade de recursos estáveis e regulares, suficientes para as necessidades do requerente do visto de estada temporária e dos familiares que o acompanhem, para o período de estada solicitado, determinado nos termos do n.º 2 do artigo 2.º da Portaria n.º 1563/2007, de 11 de dezembro.
 

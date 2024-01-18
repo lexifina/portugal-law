@@ -2,22 +2,34 @@
 
 ### Pedido de concessão de autorização de residência para exercício de actividade profissional subordinada
 
-1 - O pedido de concessão de autorização de residência para exercício de actividade profissional subordinada apresentado por titular de visto de residência para a mesma finalidade, deve ser acompanhado de contrato de trabalho celebrado nos termos da lei.
+1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência para exercício de atividade profissional subordinada apresentado por titular de visto de residência para a mesma finalidade deve ser acompanhado da informação comprovativa do vínculo laboral.
 
-2 - O procedimento oficioso de concessão excepcional de autorização de residência, desencadeado ao abrigo do n.º 2 do artigo 88.º da Lei n.º 23/2007, de 4 de Julho, rege-se, com as devidas adaptações, pelo disposto nos artigos 54.º e seguintes do Código do Procedimento Administrativo, devendo a eventual manifestação de interesse ser apresentada pessoal e presencialmente pelo requerente no SEF, acompanhada dos seguintes documentos:
+2 - O pedido de dispensa de visto de residência ao abrigo do n.º 2 do artigo 88.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, deve ser acompanhado dos seguintes elementos:
 
-a) Contrato de trabalho celebrado nos termos da lei ou documento emitido por alguma das entidades previstas na alínea a) do n.º 2 do artigo 88.º da Lei n.º 23/2007, de 4 de Julho, que comprove a existência da relação laboral;
+a) Informação comprovativa do vínculo ou de promessa de contrato de trabalho;
 
-b) Documento que comprove a sua entrada e permanência legais em território nacional;
+b) Informação comprovativa da entrada legal do requerente em território nacional;
 
-c) Informação necessária para verificação da inscrição na administração fiscal e da regularidade da sua situação contributiva na segurança social, obtida nos termos do n.º 9 do artigo 212.º da Lei n.º 23/2007, de 4 de Julho.
+c) Informação comprovativa da inscrição junto da administração fiscal e da segurança social e, se aplicável, da situação contributiva regularizada junto da segurança social.
 
-3 - A decisão do pedido a que se refere o número anterior é tomada após entrevista pessoal ao requerente e tendo em conta a excepcionalidade da sua situação, designadamente:
+3 - (Revogado.)
 
-a) Motivos de força maior;
+4 - (Revogado.)
 
-b) Razões pessoais ou profissionais atendíveis.
+5 - O pedido de concessão de autorização de residência para exercício de atividade profissional subordinada apresentado por titular de visto para procura de trabalho deve ser acompanhado dos elementos referidos no n.º 1 do artigo anterior e de informação comprovativa da existência de vínculo laboral e a inscrição junto da administração fiscal e da segurança social.
 
-4 - O pedido de concessão de autorização de residência para trabalho subordinado formulado por titular de autorização de residência para exercício de actividade profissional independente obedece ao disposto no n.º 1.
+6 - Os representantes no conselho consultivo para os assuntos da imigração de cada uma das comunidades de imigrantes submetem à aprovação do conselho a lista das associações que relevam para os efeitos previstos na alínea a) do n.º 2 do artigo 88.º da Lei n.º 23/2007, de 4 de Julho, a qual vigora durante o período correspondente ao do respectivo mandato.
 
-5 - Os representantes no conselho consultivo para os assuntos da imigração de cada uma das comunidades de imigrantes submetem à aprovação do conselho a lista das associações que relevam para os efeitos previstos na alínea a) do n.º 2 do artigo 88.º da Lei n.º 23/2007, de 4 de Julho, a qual vigora durante o período correspondente ao do respectivo mandato.
+5 - O pedido de concessão de autorização de residência para exercício de atividade profissional subordinada apresentado por titular de visto para procura de trabalho deve ser acompanhado dos documentos referidos no n.º 1 do artigo anterior e de:
+
+a) Contrato de trabalho celebrado nos termos da lei;
+
+b) Informação necessária para verificação da inscrição na administração fiscal e na segurança social.
+
+6 - O pedido de concessão de autorização de residência para trabalho subordinado formulado por titular de autorização de residência para exercício de atividade profissional independente nos termos do n.º 3 do artigo 89.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, obedece ao disposto no n.º 1 do presente artigo, só havendo lugar à substituição do título de residência a requerimento expresso do interessado.
+
+7 - Os representantes no Conselho para as Migrações e Asilo de cada uma das comunidades de imigrantes submetem à aprovação do Conselho a lista das associações que relevam para os efeitos previstos na alínea a) do n.º 2 do artigo 88.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, a qual vigora durante o período correspondente ao do respetivo mandato.
+
+8 - O pedido de dispensa de visto de residência pode ser apresentado simultaneamente com o pedido de autorização de residência para exercício de atividade profissional subordinada, caso em que o requerente deve disponibilizar a informação comprovativa de todos os elementos exigidos para o efeito.
+
+9 - O pedido de concessão de autorização de residência para exercício de atividade profissional subordinada, referido nos n.os 1 e 2, permite a inscrição no IEFP, I. P., e a frequência de formação profissional, bem como a perceção dos respetivos apoios sociais, em conformidade com a legislação aplicável.

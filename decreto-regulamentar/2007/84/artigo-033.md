@@ -16,4 +16,4 @@
 
 7 - (Revogado.)
 
-8 - A autoridade consular comunica imediatamente ao SEF a concessão de visto de residência para frequência de programa de estudos de ensino superior, nos termos do n.º 8 do artigo 53.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual.
+8 - A autoridade consular comunica imediatamente à AIMA, I. P., e à UCFE a concessão de visto de residência para frequência de programa de estudos de ensino superior, nos termos do n.º 11 do artigo 53.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual.
