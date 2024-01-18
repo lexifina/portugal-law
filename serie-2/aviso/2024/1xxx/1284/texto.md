@@ -1,0 +1,10 @@
+Aviso n.º 1284/2024
+Sumário: Abertura do período de discussão pública da revisão do Plano Diretor Municipal de Velas.
+Abertura do período de discussão pública
+Revisão do Plano Diretor Municipal de Velas
+Marco Diocleciano da Silva Almada, Presidente da Câmara Municipal de Velas, em substituição, torna público que a Câmara Municipal deliberou, por unanimidade, na sua reunião de 27 de dezembro de 2023, determinar a abertura de um período de discussão pública, pelo período de 30 dias úteis, a contar do 5.º dia útil a seguir à publicação do presente aviso no Jornal Oficial, em cumprimento com o estabelecido no disposto no artigo 92.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT-A), estabelecido pelo Decreto Legislativo Regional n.º 35/2012/A de 16 de agosto e no Diário da República nos termos do disposto nos artigos 89.º e 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), estabelecido pelo Decreto-Lei n.º 80/2015 de 14 de maio, na sua atual redação, a calcular a partir da última destas publicações.
+Os interessados poderão consultar os documentos que constam da Proposta do Plano da Revisão do PDM de Velas, o Relatório Ambiental, o parecer da Comissão de Acompanhamento, e os documentos e ata da concertação, bem como os pareceres emitidos, nos dias úteis das 9h às 17h, na Divisão de Urbanismo e Serviços Urbanos e na página da internet do Município de Velas, em cmvelas.pt.
+Durante o referido período, os interessados poderão apresentar eventuais reclamações/observações/sugestões através de formulário próprio, disponibilizado na página da internet do Município de Velas, sendo que todos estes pedidos deverão ser dirigidos diretamente ao Presidente da Câmara Municipal de Velas, por via postal para Rua de S. João 9800-539 ou por via eletrónica para o email: gabinetepresidencia@cmvelas.pt.
+Os presentes Avisos no Jornal Oficial e no Diário da Républica, serão afixados nos locais de estilo, publicitados na Comunicação Social e na página da internet da Câmara Municipal de Velas.
+27 de dezembro de 2023. - O Presidente da Câmara Municipal de Velas, em substituição, Marco Diocleciano da Silva Almada.
+317204679
