@@ -1,0 +1,5 @@
+Aviso n.º 1187/2024
+Sumário: Consulta pública do projeto de alteração ao Regulamento do Programa de Doutoramento em Investigação Clínica e Medicina Translacional da Universidade do Algarve.
+Nos termos do disposto nos artigos 97.º a 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º da Lei n.º 62/2007 de 10 de setembro, que aprova o Regime Jurídico das Instituições de Ensino Superior (RJIES), submete-se a consulta pública o projeto de alteração ao Regulamento do Programa de Doutoramento em Investigação Clínica e Medicina Translacional da Universidade do Algarve, com vista à recolha de contributos e sugestões, procedendo-se, para o efeito, à publicação do aviso na 2.ª série do Diário da República e à divulgação no sítio da internet https://fmcb.ualg.pt, devendo os interessados apresentar as sugestões ou comentários por escrito, no prazo de 30 dias a contar da data da referida publicação, à Diretora da Faculdade de Medicina e Ciências Biomédicas da Universidade do Algarve, Campus da Penha, 8005-139 Faro ou utilizando o endereço eletrónico fmcb@ualg.pt.
+13 de dezembro de 2023. - A Diretora, Inês Maria Pombinho de Araújo.
+317227026
