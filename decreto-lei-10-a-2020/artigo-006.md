@@ -1,3 +1,7 @@
+## Capítulo III
+
+## Regime excecional em matéria de composição das juntas médicas, gestão de recursos humanos e aquisição de serviços
+
 # Artigo 6.º
 
 ### Regime excecional em matéria de recursos humanos
