@@ -1,0 +1,225 @@
+# Acórdão do Tribunal Constitucional n.º 44/2024, de 2024-01-18
+
+**Acórdão:** 44/24
+
+**Processo:** 1086/23
+
+**Formação:** Conf.
+
+**Espécie:** Recurso
+
+**Data:** 18.01.2024
+
+**Relator:** Cons. João Carlos Loureiro
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20240044.html
+
+## Texto integral
+
+ACÓRDÃO Nº 44/2024
+
+Processo n.º 1086/2023
+
+3ª Secção
+
+Relator: Conselheiro João Carlos Loureiro
+
+Acordam, em conferência, na 3.ª Secção do Tribunal Constitucional
+
+I. Relatório
+
+1. O Ministério Público e a Autoridade Nacional de Comunicações (ANACOM) interpuseram recurso de constitucionalidade ao abrigo da alínea a) do n.º 1 do artigo 70.º da Lei n.º 28/82, de 15 de novembro (Lei do Tribunal Constitucional – LTC), da sentença proferida pelo Tribunal Tributário de Lisboa em 03/10/2023, que recusou a aplicação das normas constantes dos n.os 1, 2, 4 e 5 do Anexo II da Portaria n.º 1473-B/2008, de 17/12, na redação dada pela Portaria n.º 296-A/2013, de 02/10, na parte em que determinam a incidência objetiva e a taxa a aplicar em relação aos fornecedores de redes e de comunicações eletrónicas enquadrados no escalão 2, com fundamento na sua inconstitucionalidade.
+
+2. A., S.A. impugnou junto do Tribunal Tributário de Lisboa um ato de liquidação efetuado pela ANACOM respeitante à taxa anual devida pelo exercício da atividade de fornecedor de redes e serviços de comunicações eletrónicas relativa ao ano de 2015.
+
+Por sentença proferida em 03/10/2023, o Tribunal Tributário de Lisboa julgou a impugnação procedente e, em consequência, anulou a liquidação impugnada, recusando para tanto a aplicação das normas constantes dos n.os 1, 2, 4 e 5 do Anexo II da Portaria n.º 1473-B/2008, de 17/12, na redação dada pela Portaria n.º 296-A/2013, de 02/10, na parte em que determinam a incidência objetiva e a taxa a aplicar em relação aos fornecedores de redes e de comunicações eletrónicas enquadrados no escalão 2, por violação das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º da Constituição.
+
+É dessa sentença que vêm interpostos os presentes recursos de constitucionalidade.
+
+3. Pela Decisão Sumária n.º 843/2023, foram julgadas inconstitucionais as normas constantes dos n.os 1, 2, 4 e 5 do Anexo II da Portaria n.º 1473-B/2008, de 17/12, na redação dada pela Portaria n.º 296-A/2013, de 02/10, na parte em que determinam a incidência objetiva e a taxa a aplicar aos fornecedores de redes e de comunicações eletrónicas enquadrados no escalão 2, por violação das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º da Constituição.
+
+4. Notificada de tal decisão, veio a ANACOM, ao abrigo do artigo 78.º-A, n.º 3, da LTC, reclamar para a conferência, formulando as seguintes conclusões:
+
+«1.ª
+
+A questão sub judice não pode ser considerada simples, exigindo o prosseguimento do recurso, com a abertura da fase de alegações pelas seguintes razões:
+
+− Em primeiro lugar, porque a jurisprudência firmada nos Acórdãos n.ºs 152/2022, 754/2022, 243/2023, 348/2023, relativos à Taxa de Regulação Postal (‘TRP’), e a jurisprudência firmada nos Acórdãos n.ºs 244/2023, 429/2023 e 430/2023, relativos à Taxa de Regulação das Comunicações Eletrónicas (‘TRCE’), se encontra em contradição com a demais jurisprudência do Tribunal Constitucional (i) em matéria de contribuições financeiras e (ii) em matéria de autonomia regulamentar da Administração;
+
+− Em segundo lugar, porque a jurisprudência em que se baseia a Decisão Reclamada, sendo uma jurisprudência nova quanto ao (i) padrão de densificação legislativa aplicável às contribuições financeiras e quanto à (ii) delimitação da função regulamentar da Administração, não pode funcionar como “bitola de decisão em casos sucessivos”, sem ser objeto de uma segunda ponderação aprofundada, a qual, no entender da Recorrente, ora Reclamante, deverá existir, não só pelas razões aduzidas nos pareceres jurídicos juntos com a presente Reclamação, mas também por aquelas que se encontram no voto de vencido exarado pelo Conselheiro Pedro Machete no Acórdão n.º 754/2022, da 2.ª Secção;
+
+− Em terceiro lugar, porque a Reclamante mantém o entendimento de que se podem extrair do artigo 105.º da LCE 2004 (norma habilitante objeto de apreciação no Acórdão n.º 429/2023) os critérios mínimos de densificação do tributo, cujo desenvolvimento é remetido para norma regulamentar.
+
+2.ª
+
+A jurisprudência em que se baseia a Decisão Reclamada veio introduzir, no âmbito da reserva de lei em sentido material ou reserva do poder legislativo em matéria de contribuições financeiras, por um lado, exigências de densificação normativa que, até ao presente, não tinham sido afirmadas pelo Tribunal Constitucional e, por outro lado, limites à possibilidade de delegação normativa na Administração, que também não tinham sido afirmados, até ao presente, pelo Tribunal Constitucional.
+
+3.ª
+
+A reserva parlamentar quanto à aprovação de um regime geral das contribuições financeiras não implica a definição integral de todos os elementos essenciais dos tributos em causa, a qual seria, de resto, absolutamente impossível, atento o princípio da praticabilidade e a diversidade de contribuições financeiras a favor das entidades públicas.
+
+4.ª
+
+A taxa controvertida nos presentes autos foi aprovada por lei do parlamento, a qual, mesmo que não equivalha à aprovação de um “regime geral das taxas e demais contribuições financeiras a favor das entidades públicas”, procedeu à respetiva densificação, quer no tocante à incidência, objetiva e subjetiva, quer no tocante aos princípios de determinação em concreto da matéria coletável, remetendo expressamente a sua instituição, em concreto, para regulamento administrativo (cf. artigo 105.º, n.º 1, alínea b), n.º 2 e n.ºs 4 e 5 da LCE 2004), como se analisa nos pareceres jurídicos juntos.
+
+5.ª
+
+A demarcação da linha de fronteira entre as áreas reservadas à função legislativa e as áreas suscetíveis de desenvolvimento regulamentar, na conformação das contribuições financeiras, exige que se tenha como referencial o princípio da legalidade tributária aplicável aos impostos, pois, no entender da Recorrente, ora Reclamante, não encontra suporte na jurisprudência constitucional aplicável às contribuições financeiras (vide Acórdãos n.ºs 365/2008, 613/2008, 153/2013, 80/2014, 539/2015 e 268/2021, entre outros), nem na prática legislativa [Lei n.º 53-E/2006, de 29 de dezembro, que aprova o regime geral das taxas das autarquias locais, remetendo a sua criação para regulamento administrativo (artigo 8.º, n.º 1) e artigo 34.º, n.º 3 da LQER], uma exigência de densificação normativa em sede de lei parlamentar ou decreto-lei do Governo, como a que resulta da Decisão Sumária Reclamada, por apropriação da fundamentação constante dos Acórdãos fundamento.
+
+6.ª
+
+Com o devido respeito, entende a Reclamante que, para além de estar em causa uma orientação jurisprudencial nova na delimitação do grau de densificação abrangido pela reserva de regime geral inscrita na alínea i) do n.º 1 do artigo 165.º da Constituição, no caso em apreço, e ao contrário do decidido na Decisão Sumária Reclamada, os elementos essenciais da TRCE foram aprovados por lei do parlamento (a LCE 2004), a qual, mesmo que não equivalha à aprovação de um «regime geral das taxas e demais contribuições financeiras a favor das entidades públicas», com um grau de densificação máxima, procedeu à respetiva densificação média ou mínima, quer no tocante à incidência, objetiva e subjetiva, quer no tocante aos princípios de determinação em concreto da matéria coletável, em linha com a jurisprudência do Tribunal Constitucional vertida nos Acórdãos n.ºs 365/2008, 613/2008, 152/2013, 539/2015 e 268/2021.
+
+7.ª
+
+A Portaria n.º 1473-B/2008, na redação aplicável, mais não representa do que o desenvolvimento das normas de incidência fixadas na LCE 2004 (no seu artigo 105.º, n.º 1, alínea b) e n.ºs 2, 4 e 5), selecionando um critério de distribuição dos custos de regulação do sector, previamente postos a cargo do sector por opção legislativa (europeia e nacional).
+
+8.ª
+
+Tudo visto e ponderado, considera-se que a Decisão Sumária Reclamada não apreendeu, em todas as suas dimensões e complexidade, as matérias em discussão nos presentes autos, numa lógica de ponderação integrada da jurisprudência do Tribunal Constitucional em matéria de contribuições financeiras e de autonomia regulamentar da Administração, pelo que, nessa medida, a questão sub judice não pode ser considerada simples, antes exigindo o desenvolvimento de argumentação consentânea com outros precedentes jurisprudenciais relevantes – sendo, por essa razão, inteiramente justificado, o prosseguimento do presente recurso, com a notificação das partes para a apresentação de alegações.
+
+9.ª
+
+Afigura-se ser este o sentido da jurisprudência do Tribunal Constitucional, nomeadamente quando nela se refere que cabe à conferência “apreciar se a argumentação do recorrente revela, afinal, a complexidade da questão, devendo, em caso afirmativo, determinar o prosseguimento do recurso com a abertura da fase de alegações, tendente a um maior desenvolvimento das razões que podem fundar o provimento, ou o improvimento, do recurso” (cf. Acórdão n.º 131/2004); ou que “a mera existência de decisão anterior não determina necessariamente a adesão à mesma, cabendo ao relator avaliar se há razões para dissentir do juízo firmado na jurisprudência. Acresce assistir ao recorrente a faculdade de, através de reclamação para a conferência, questionar a simplicidade da questão, quer seja no que respeita à verificação dos pressupostos que permitem ao relator proferir decisão singular, nos termos do n.º 1 do artigo 78.º-A da LTC, quer seja através de argumentos que, no plano do mérito, justifiquem a reabertura da controvérsia sobre a questão de constitucionalidade colocada no recurso” (cf. Acórdãos n.ºs 35/2023, 572/2022 e 366/2022).
+
+10.ª
+
+Existe uma segunda razão justificativa do prosseguimento do presente recurso, a qual decorre do facto de a Decisão Sumária Reclamada se basear numa orientação jurisprudencial nova quanto ao (i) padrão de densificação legislativa aplicável às contribuições financeiras e quanto à (ii) delimitação da função regulamentar da Administração.
+
+11.ª
+
+Tal orientação jurisprudencial nova acaba por funcionar como “bitola de decisão em casos sucessivos e distintos” – e, inclusivamente, para taxas díspares quanto às normas habilitantes e diretivas europeias aplicáveis – sem que seja objeto de uma segunda ponderação, a qual, no entender da Recorrente, ora Reclamante, deverá existir, não só pelas razões aduzidas nos pareceres jurídicos juntos com a presente Reclamação, mas também por aquelas que se encontram no voto de vencido exarado pelo Conselheiro Pedro Machete no Acórdão n.º 754/2022, e ainda pelos motivos que tem vindo a ser aduzidos na presente Reclamação.
+
+12.ª
+
+Com o devido respeito, entende-se que a Decisão Reclamada não pode limitar-se a reiterar o juízo de inconstitucionalidade proferido nos Acórdãos fundamento que, se reconduzem a uma única decisão e a uma única ponderação da problemática jus-constitucional aqui em causa, afastando, ab initio, qualquer possibilidade de a mesma ser objeto da reapreciação e reponderação que a matéria exige e justifica.
+
+13.ª
+
+Também por esta razão considera a Reclamante que a questão sub judice não pode ser considerada simples, exigindo o desenvolvimento de argumentação consentânea com outros precedentes jurisprudenciais relevantes – sendo, por isso, inteiramente justificado, o prosseguimento do presente recurso, com a notificação das partes para a apresentação de alegações.
+
+14.ª
+
+Por último, existe uma terceira razão justificativa do prosseguimento do presente recurso, a qual decorre do o facto de não se poder aceitar a tese emergente do Acórdão n.º 429/2023, segundo a qual “o legislador não ter[ia] respeitado uma densificação mínima” do tributo, o qual “está previsto na LCE sem elementos minimamente definidores, deixando toda essa tarefa para o plano regulamentar”, não havendo o “desenvolvimento de um tributo pré-existente, mas sim a criação de um tributo pelo Governo (designadamente quanto às suas incidência e taxa), que da lei só traz pouco mais do que a sua designação” (cf. n.º 2.4.3. do Acórdão n.º 429/2023).
+
+15.ª
+
+Com o devido respeito, a Decisão Reclamada não teve em conta a parametrização do tributo que se pode extrair, tanto do artigo 12.º da Diretiva Autorização, como do artigo 105.º, n.ºs 4 e 5, da LCE 2004.
+
+16.ª
+
+Em face do teor do artigo 12.º da Diretiva Autorização, não pode deixar de se concluir que o legislador europeu procurou limitar a margem de conformação do legislador nacional, em matéria de imposição de encargos administrativos às empresas, para financiamento dos custos administrativos de regulação das ARN, tendo utilizado três parâmetros normativos para o efeito: os encargos administrativos (i) devem limitar-se a cobrir “apenas os custos administrativos decorrentes da gestão, controlo e aplicação do regime de autorização geral”; (ii) devem ser impostos às empresas de forma objetiva, transparente e proporcional, que minimize os custos administrativos adicionais e os encargos conexos e (iii) deve existir uma correspondência entre o montante total dos encargos e os custos administrativos.
+
+17.ª
+
+Estes três parâmetros normativos foram objeto de transposição pelo artigo 105.º, n.º 1, alínea b), e n.ºs 2, 4 e 5 da LCE 2004, tendo a Portaria n.º 1473- B/2008, na redação da Portaria n.º 296-A/2013, procedido à respetiva concretização em termos que não se podem considerar incompatíveis com as normas legais habilitantes.
+
+18.ª
+
+No caso concreto, a fórmula de cálculo da taxa T2, constante do n.º 1 do Anexo II da referida portaria, apenas se refere à utilização de valores médios, nada acrescentado ao elenco de custos administrativos que decorre do artigo 105.º, n.º 4, da LCE e do artigo 12.º, n.º 1, alínea a), da Diretiva Autorização, pelo que, neste específico segmento, a referida norma não comporta qualquer elemento de inovação que possa ser reconduzido à jurisprudência emergente dos Acórdãos fundamento.
+
+19.ª
+
+Já quanto à criação de escalões e à seleção dos rendimentos relevantes dos operadores como critério de repartição dos custos administrativos, a mesma decorre dos princípios da objetividade, transparência e proporcionalidade, constantes do artigo 12.º, n.º 1, alínea b), da Diretiva Autorização e do artigo 105.º, n.º 4, da LCE 2004, de acordo com o considerando 31 da Diretiva Autorização, pelo que qualquer elemento de inovação introduzido no plano regulamentar não pode deixar de ser considerado consentâneo com as normas habilitantes, não se podendo afirmar que estas não densificam minimamente os pressupostos do tributo cuja regulamentação remetem para portaria.
+
+20.ª
+
+Com efeito, tendo em conta o recorte normativo do tributo que se extrai do artigo 12.º da Diretiva Autorização e do artigo 105.º, n.º 4, da LCE 2004, é forçoso reconhecer que as normas habilitantes contêm, pelo menos, uma densificação mínima dos critérios de tributação, apta a preencher a reserva de lei quanto à definição de um regime geral das contribuições financeiras, a qual não implica a definição integral de todos os elementos essenciais dos tributos em causa – de resto, absolutamente impossível, atento o princípio da praticabilidade e a diversidade de contribuições financeiras a favor das entidades públicas.
+
+21.ª
+
+Assim sendo, os nºs 1, 2, 4 e 5 do Anexo II da Portaria n.º 1473-B/2008, na redação da Portaria n.º 296-A/2013, não implicam qualquer violação do princípio da reserva de lei formal ou da reserva da função legislativa, sendo perfeitamente identificáveis, no plano legislativo, os elementos definidores do tributo cuja regulamentação é remetida para portaria.
+
+22.ª
+
+Também por esta razão se entende que as questões sub judice não podem ser consideradas simples, justificando-se o prosseguimento do presente recurso, com a notificação das partes para a apresentação de alegações.»
+
+5. A recorrida e o Ministério Público pronunciaram-se no sentido do indeferimento da reclamação, aderindo aos fundamentos da jurisprudência consolidada do Tribunal sobre as normas objeto do recurso.
+
+Cumpre apreciar e decidir.
+
+II. Fundamentação
+
+6. A ANACOM veio recorrer, ao abrigo da alínea a) do n.º 1 do artigo 70.º da LTC, da sentença proferida pelo Tribunal Tributário de Lisboa em 03/10/2023, que recusou a aplicação das normas constantes dos n.os 1, 2, 4 e 5 do Anexo II da Portaria n.º 1473-B/2008, de 17/12, na redação dada pela Portaria n.º 296-A/2013, de 02/10, na parte em que determinam a incidência objetiva e a taxa a aplicar em relação aos fornecedores de redes e de comunicações eletrónicas enquadrados no escalão 2, com fundamento na sua inconstitucionalidade.
+
+Através da Decisão Sumária n.º 843/2023, conheceu-se do objeto do recurso, ao abrigo do disposto no artigo 78.º-A, n.º 1, da LTC, julgando-se inconstitucionais as normas constantes dos n.os 1, 2, 4 e 5 do Anexo II da Portaria n.º 1473-B/2008, de 17/12, na redação dada pela Portaria n.º 296-A/2013, de 02/10, na parte em que determinam a incidência objetiva e a taxa a aplicar aos fornecedores de redes e de comunicações eletrónicas enquadrados no escalão 2, por violação das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º da Constituição. Entendeu-se na decisão reclamada não haver motivos para divergir da jurisprudência dos Acórdãos n.os 244/2023, 429/2023 e 430/2023, na senda do juízo positivo de inconstitucionalidade alcançado nos Acórdãos n.os 152/2022 e 348/2023.
+
+A reclamante defende que não estavam reunidos os requisitos para o relator proferir decisão sumária ao abrigo do disposto no artigo 78.º-A, n.º 1, da LTC, nomeadamente o de “a questão ser simples, por já ter sido objeto de decisão anterior do Tribunal”, e que os autos devem prosseguir para alegações, por três razões, que a seguir se sintetizam: i) a jurisprudência relativa à taxa de regulação postal e à taxa de regulação das comunicações eletrónicas encontra-se em contradição com a demais jurisprudência do Tribunal Constitucional em matéria de contribuições financeiras e em matéria de autonomia regulamentar da Administração; ii) trata-se de jurisprudência nova quanto ao padrão de densificação legislativa aplicável às contribuições financeiras e quanto à delimitação da função regulamentar da Administração, pelo que não pode funcionar como “bitola de decisão em casos sucessivos” sem ser objeto de uma segunda ponderação aprofundada, a qual deverá existir não só pelas razões aduzidas nos pareceres jurídicos juntos com a reclamação, mas também por aquelas que se encontram no voto de vencido exarado pelo Conselheiro Pedro Machete no Acórdão n.º 754/2022, da 2.ª Secção; iii) podem extrair-se do artigo 105.º da Lei das Comunicações Eletrónicas de 2004, em conjugação com o artigo 12.º e o Considerando 31 da Diretiva Autorização, os critérios mínimos de densificação do tributo, cujo desenvolvimento é remetido para norma regulamentar.
+
+A reclamante insurge-se contra a possibilidade de ser proferida uma decisão de remissão, nos termos previstos no artigo 78.º-A, n.º 1, da LTC.
+
+Em primeiro lugar, a jurisprudência constitucional tem adotado uma interpretação ampla do conceito de “questão simples” constante do artigo 78.º-A, n.º 1, da LTC, em termos adequados à função de simplificação subjacente à previsão do instituto processual da decisão sumária, por respeito aos princípios da celeridade e economia processuais. Daí que «não se [deva] identificar a “simplicidade” da questão com a “insusceptibilidade de controvérsia a nível doutrinal”, sendo de perspetivar como “simples” uma questão que, embora de grande dificuldade de análise e resolução, já haja sido decidida pelo Tribunal Constitucional, permitindo a lei que, nestas condições, o Tribunal, “em lugar de repetir materialmente a apreciação, julgue incorporando a fundamentação já expendida em anterior decisão” – não sendo de exigir sequer que o entendimento do Tribunal Constitucional seja “unânime”» – cf. Carlos Lopes do Rego, Os recursos de fiscalização concreta na lei e na Jurisprudência do Tribunal Constitucional, Almedina, Coimbra, 2010, p. 244, fazendo referência aos Acórdãos n.os 257/2000, 305/2000, 288/2001 e 346/2007 (no mesmo sentido, vejam-se, mais recentemente, entre muitos outros, os Acórdãos n.os 424/2016, 212/2017 e 286/2017).
+
+Foi justamente o que sucedeu no caso dos autos, tendo em conta a abundante jurisprudência deste Tribunal sobre a questão que constitui objeto do recurso, designadamente a dos Acórdãos n.os 244/2023, 429/2023 e 430/2023 – na senda do juízo positivo de inconstitucionalidade alcançado nos Acórdãos n.os 152/2022 e 348/2023 –, mencionada na decisão reclamada, a que acresce a dos Acórdãos n.os 606/2023, 608/2023, 609/2023, 614/2023, 665/2023 e 740/2023 e Decisões Sumárias n.os 640/2023, 676/2023, 736/2023, 838/2023 e 868/2023, perante argumentos semelhantes aos aduzidos na presente reclamação.
+
+Ao discordar desta conclusão, a reclamante acaba por desviar a discussão do plano do procedimento seguido – conhecimento do objeto do recurso através de decisão sumária em virtude da simplicidade da questão por já ter sido objeto de decisão anterior do Tribunal – para o plano do mérito da apreciação efetuada na referida jurisprudência – neste sentido, numa situação análoga à dos presentes autos, pronunciou-se o Acórdão n.º 566/2023, citando o seguinte excerto elucidativo do Acórdão n.º 389/2023:
+
+«Alega ainda a reclamante que a jurisprudência de que se socorre a decisão reclamada para decidir no sentido da inconstitucionalidade do regime de incidência da contribuição financeira em referência se encontra em oposição com os demais precedentes prudenciais do Tribunal Constitucional em matéria de contribuições financeiras. Isto descaracterizaria, a seu ver, a qualificação da temática de recurso como “simples”, impondo a prolação de acórdão antecedido de alegações pelas partes.
+
+Pois bem, essa bem poderá ser a opinião da reclamante e a forma como observa a questão, mas não é, com toda a certeza, a leitura que dela vem fazendo este Tribunal. O Acórdão do TC n.º 152/2022 convoca em seu abono a jurisprudência deste foro sobre reserva de Lei em matéria de contribuições financeiras (v. g., Acórdãos do TC n.ºs 365/2008 152/2013, 80/2014 539/2015 268/2021), concluindo que as singularidades que envolvem a taxa anual pela prestação de serviços postais implicam diferente solução (face a outros casos) pela aplicação dos mesmos critérios, nesses termos fundamentando a censura constitucional que alcança a final. Em essência, da análise do quadro legal aplicável resultou que esta contribuição financeira tinha por peculiaridade (por contraste com o regime de outros tributos com a mesma classificação) o facto de o seu regime de incidência (e de isenção), enquanto elemento caracterizante e estrutural do tributo, se encontrar inteiramente definido por Portaria, sem um ato legislativo (Lei ou Decreto-Lei) que o suportasse.
+
+A diferença de tratamento entre esta contribuição e outras (objeto de juízo diferente quanto a conformidade constitucional), pois, não decorreu de uma forma distinta de compreender os parâmetros constitucionais convocáveis, mas das diferentes fórmulas de introdução dos respetivos regimes normativos na ordem jurídica, que é dizer, da assimetria entre normas fiscalizadas.
+
+Em boa verdade, este é o busílis da questão. A razão de ser da reclamação não respeita tanto a uma controvérsia sobre a consolidação jurisprudencial do entendimento adotado pelos Acórdãos do TC n.ºs 152/2022 e 754/2022, que respaldam a decisão reclamada, mas no facto de a reclamante discordar profundamente desse entendimento e da forma como se instalou e adquiriu raízes na jurisprudência deste Tribunal Constitucional. Como se diria evidente, essa inconformação não se pode entender justificar a procedência da reclamação, já que em nada impacta no juízo de simplicidade ou de complexidade do objeto do presente recurso de fiscalização concreta.»
+
+Por outro lado, no mesmo Acórdão n.º 389/2023 (cujas considerações, embora referidas à taxa a aplicar aos prestadores de serviços postais, são transponíveis para o caso dos autos) esclareceu-se que:
+
+«[…] o tema da reserva de lei e das exigências que o disposto na alínea i) do n.º 1 do artigo 165.º da Constituição colocam ao legislador, atenta a circunstância de não ter sido aprovado o regime geral das contribuições financeiras a que essa disposição se refere, foi devidamente reconhecido e exaustivamente problematizado no Acórdão n.º 152/2022 (reproduzido na decisão reclamada), concretamente nos pontos 13 e 14, tendo-se feito expressa menção à jurisprudência firmada do Tribunal Constitucional sobre esta matéria – fosse para acompanhar os princípios centrais vertidos nesta, fosse para assinalar as diferenças entre alguns dos processos julgados no passado recente do Tribunal e o caso dos autos.
+
+Concretamente: o acórdão fundamento identificou o problema que resulta de “mais de duas décadas passadas sobre a revisão constitucional de 1997, que alterou a alínea i), do n.º 1 do artigo 165.º da CRP passando a prever expressamente as contribuições financeiras, não ter sido ainda aprovado o regime geral aí referido” (ponto 13); deu nota da divisão doutrinal que esta omissão legislativa criou, enunciando a posição de vários autores (ponto 13); e reiterou a final a jurisprudência já firmada nos Acórdãos n.ºs 152/2013 e 539/2015, concluindo que “a ausência da aprovação de um regime geral das contribuições financeiras pela Assembleia da República não pode impedir o Governo de aprovar a criação de contribuições financeiras individualizadas no exercício de uma competência concorrente, sem prejuízo da Assembleia sempre poder revogar, alterar ou suspender o respetivo diploma, no exercício dos seus poderes constitucionais”. A jurisprudência constitucional em matéria de tributos comutativos e paracomutativos tem seguido uma orientação com dois traços fundamentais: “a criação desses tributos pode fazer-se através de decreto-lei simples e a concretização do respetivo regime, desde que este conste essencialmente de um ato legislativo, pode ser objeto de portaria” (ponto 13.).
+
+Nesta sequência, o Acórdão n.º 152/2022 fez uma análise perfunctória de um conjunto de contribuições financeiras que foram objeto de fiscalização constitucional nos últimos anos (ponto 14.), a saber: a “taxa de utilização do espectro radioelétrico” (Acórdão n.º 152/2013); as “penalizações por emissões excedentárias” (Acórdão n.º 80/2014); a “Taxa de Segurança Alimentar Mais” (Acórdão n.º 539/2015) e a “Contribuição sobre o Sector Bancário” (Acórdão n.º 268/2021); concluindo a final que em todos estes processos o Tribunal foi confrontado com uma de duas hipóteses: “as normas que o Tribunal Constitucional foi chamado a apreciar constavam de decreto-lei (v. os Acórdãos n.º 365/2008 e 80/2014) ou foram extraídas de Portarias que desenvolviam ou densificavam os aspetos do regime aplicável a tributos cuja disciplina fora no essencial definida por decreto-lei ou lei da Assembleia da República (v., respetivamente, os Acórdãos n.ºs 152/2013 e 268/2021)”.
+
+Constatou-se, depois, que o caso que o ocupava – e que coincide com o caso dos autos – era distinto: “as normas cuja inconstitucionalidade foi suscitada têm carácter inovatório e foram extraídas de uma Portaria”. Concretamente, identificaram-se como elementos inovatórios na “parte em que é determinada a incidência objetiva e a taxa a aplicar em relação aos prestadores de serviços postais enquadrados no ‘escalão 2’ (única dimensão normativa que constitui o objeto do presente recurso) é a Portaria que cria escalões, que define o universo de sujeitos passivos que integram o ‘escalão 2’ e que elege como critério determinante da repartição dos custos a compensar os rendimentos relevantes diretamente conexos com a atividade de serviços postais apurados no ano anterior àquele a que a taxa se reporta, do qual resulta a taxa concretamente aplicada aos prestadores de serviços postais enquadrados neste escalão”.
+
+Desta premissa, o Acórdão n.º 152/2022 retirou as seguintes ilações:
+
+“(...) forçoso é reconhecer que certos elementos da TRP, determinantes da quantificação do tributo, foram objeto de normação primária por via regulamentar, ou seja, através do exercício da função administrativa. Acontece que esses elementos integram a reserva de função legislativa, reserva essa cujo desiderato, na ausência de um regime geral das contribuições financeiras constante de lei parlamentar ou decreto-lei devidamente autorizado, é o de assegurar um certo nível de coerência, transparência, equidade e legitimidade na criação desses tributos. Claro está que, se a matéria em causa integra o domínio da competência legislativa concorrencial da Assembleia da República e do Governo, não está em causa simplesmente a violação da alínea i) do n.º 1 do artigo 165.º da Constituição, cujo alcance é o de delimitar o domínio reservado ao legislador parlamentar em matéria tributária. Em causa está antes a invasão pelo poder administrativo de um domínio que a ordem constitucional reserva ao poder legislativo, ou seja, em que esta não é indiferente a que a regulação da matéria – os elementos essenciais das contribuições financeiras − conste de decreto-lei ou de mero regulamento. O problema essencial, como é bom de ver, prende-se com a legalidade da Administração Pública, relevando do inciso inicial do n.º 2 do artigo 266.º da Constituição, não na dimensão de preferência de lei – que, por ser uma questão de legalidade, em que o parâmetro imediato de controlo é a lei ordinária, extravasa os poderes de cognição da jurisdição constitucional −, mas na dimensão de reserva de lei – que, por dizer respeito a saber se as normas regulamentares invadem um domínio que a Constituição reserva ao legislador, consubstancia uma questão de constitucionalidade. Ora, as normas constantes dos n.ºs 2 e 3 do Anexo IX da Portaria n.º 1473-B/2008, de 17 de dezembro, na redação da Portaria n.º 296-A/2013, de 2 de outubro, ao regularem de forma inovatória elementos essenciais da taxa a aplicar em relação aos prestadores de serviços postais enquadrados no “escalão 2”, violam essa reserva de função legislativa que se pode extrair das disposições conjugadas da alínea i) do n.º 1 do artigo 165.º e do n.º 2 do artigo 266.º da Constituição. Essa a razão pela qual, ainda que com fundamentos distintos, cabe negar provimento ao recurso”.
+
+7. Em suma, o Tribunal não deixou de reconhecer e atribuir relevância à jurisprudência precedente do Tribunal Constitucional, quer para a reiterar, quer para expender as razões divergentes do sentido decisório adotado nos autos.
+
+Acresce referir que as divergências formuladas nos pareceres jurídicos juntos aos autos, quanto à compreensão da reserva de ato legislativo em matéria tributária, concretamente quanto a cada contribuição financeira, foram, como bem se vê do quanto antecede, devidamente consideradas na fundamentação do Acórdão n.º 152/2022, que prosseguiu, contudo, um entendimento diverso.
+
+Conforme ali expressamente sublinhado:
+
+“(...) a ausência da aprovação de um regime geral das contribuições financeiras pela Assembleia da República não pode impedir o Governo de aprovar a criação de contribuições financeiras individualizadas no exercício de uma competência concorrente, sem prejuízo da Assembleia sempre poder revogar, alterar ou suspender o respetivo diploma, no exercício dos seus poderes constitucionais. A jurisprudência constitucional em matéria de tributos comutativos e paracomutativos tem seguido uma orientação com dois traços fundamentais: a criação desses tributos pode fazer-se através de decreto-lei simples e a concretização do respetivo regime, desde que este conste essencialmente de um ato legislativo, pode ser objeto de portaria”.
+
+E continua o mesmo aresto clarificando a matéria:
+
+“Relembre-se que, na ausência do enquadramento legislativo geral a que se refere a alínea i) do n.º 1 do artigo 165.º, o Tribunal tem reconhecido ao Governo a possibilidade de exercer uma competência concorrente em matéria de contribuições financeiras, (...). Esta salvaguarda aponta para a exigência de que os elementos essenciais das contribuições financeiras sejam definidos por ato legislativo do Parlamento ou do Governo. Com efeito, ao determinar que o regime geral das contribuições financeiras integra a reserva de competência legislativa da Assembleia da República, a Constituição atribui, pelo menos de modo implícito, natureza legislativa a toda a matéria das contribuições na ausência de um regime geral. Esta exigência de que a matéria seja regulada por ato legislativo é da maior relevância, pois não obstante o mesmo órgão − o Governo − ter simultaneamente competência legislativa e regulamentar, há diferenças significativas entre o regime constitucional dos decretos-leis e dos regulamentos, seja qual for a forma que estes revistam”.
+
+Trata-se, pois, de uma simples divergência dogmática quanto à extensão daquela reserva e quanto ao sentido do que se deva entender por “elementos essenciais” do tributo, não se achando nos pareceres juntos argumentos novos ou que não tivessem já sido ponderados no Acórdão n.º 152/2022, não implicando uma alteração da jurisprudência deste Tribunal.
+
+A decisão reclamada, por referência àquele Acórdão apreendeu, em todas as suas dimensões e complexidade, as matérias em discussão nos presentes autos, numa lógica de ponderação integrada da jurisprudência do Tribunal Constitucional em matéria de contribuições financeiras e de autonomia regulamentar da Administração».
+
+Especificamente sobre a taxa a aplicar aos fornecedores de redes e de comunicações eletrónicas, fez-se notar nos Acórdãos n.os 429/2023 e 430/2023 que «o padrão de densidade normativa em causa [não] esbate a fronteira entre impostos e contribuições financeiras, uma vez que, no caso, se trata de uma indefinição quase absoluta dos termos da tributação» e que, «sendo certo que cabe ao legislador parlamentar “a criação das contribuições financeiras individualmente consideradas”, a verdade é que, no caso da contribuição questionada neste processo, o legislador não a criou, propriamente, porque o tributo está previsto na LCE sem elementos minimamente definidores, deixando toda essa tarefa para o plano regulamentar», concluindo-se, de seguida, que «a recorrente apela, reiteradamente, a uma ideia de exigência de densificação máxima, mas trata-se de o legislador não ter respeitado uma densificação mínima». A reclamante pode discordar desta análise relativamente à norma objeto do recurso, mas o padrão estabelecido não é contraditório com a jurisprudência anterior.
+
+Importa ainda sublinhar que, uma vez que nos Acórdãos n.os 429/2023 e 430/2023 já foram ponderados os argumentos que a reclamante trouxe agora, não é correto afirmar-se que a decisão reclamada não teve em conta a parametrização do tributo que se pode extrair tanto do artigo 12.º da Diretiva Autorização, como do artigo 105.º, n.º 4, da Lei das Comunicações Eletrónicas de 2004 (de resto, com redações muito próximas) – tal argumento foi apreciado naqueles acórdãos, mas não foi acolhido, por se ter entendido que nenhum dos referidos diplomas define suficientemente os elementos do tributo. Recorda-se o que a propósito foi dito no Acórdão n.º 429/2023:
+
+«2.4.3. Quanto à violação do disposto na alínea i) do n.º 1 do artigo 165.º e no n.º 2 do artigo 266.º da Constituição, importa assinalar que o artigo 105.º da LCE não oferece um critério minimamente preciso para a determinação do valor do tributo previsto na alínea b) do seu n.º 1. Da lei resulta apenas que se trata de tributar “a atividade”.
+
+Do n.º 4 daquele artigo 105.º resulta apenas que o montante do tributo é determinado “em função dos custos administrativos decorrentes da gestão, controlo e aplicação do regime de autorização geral, bem como dos direitos de utilização e das condições específicas referidas no artigo 28.º, os quais podem incluir custos de cooperação internacional, harmonização e normalização, análise de mercados, vigilância do cumprimento e outros tipos de controlo do mercado, bem como trabalho de regulação que envolva a preparação e execução de legislação derivada e decisões administrativas, como decisões em matéria de acesso e interligação”, o que apenas nos diz quais os custos relevantes do lado do regulador. No mais, apenas se prevê que devem ser “impostos às empresas de forma objetiva, transparente e proporcionada, que minimize os custos administrativos adicionais e os encargos conexos”, exigências que, estando inscritas à partida no regime constitucional e legal dos tributos, pouco mais são do que redundantes.
+
+Consequentemente, a previsão por via regulamentar de todos os demais elementos, designadamente, os escalões, as taxas aplicáveis e todos os pressupostos de que depende o cálculo da taxa T2 não pode deixar de ser vista como uma concessão ao Governo de uma margem quase absoluta de modelação tributária.
+
+[…]
+
+A falta de definição por via legal dos elementos mínimos do tributo não pode dar-se por suprida por uma vaga referência do considerando 31 da Diretiva 2002/20/CE do Parlamento Europeu e do Conselho de 7 de março de 2002 relativa à autorização de redes e serviços de comunicações eletrónicas (diretiva autorização) a um certo modelo tributário, ao prever que “[como] exemplo de uma alternativa justa, simples e transparente para os critérios de atribuição de encargos poder-se-ia recorrer a uma chave de repartição baseada no volume de negócios. Nos casos em que os encargos administrativos são muito baixos, poderia também ser adequado aplicar uma taxa uniforme ou combinar uma base de taxa uniforme com um elemento relacionado com o volume de negócios”.
+
+A este propósito, é intransponível para o caso dos presentes autos, ao contrário do invocado pela recorrente, a apreciação do Acórdão n.º 80/2014 quanto ao grau de densificação por via legislativa, estando em causa a transposição de uma diretiva. É que, em tal aresto, estava em causa um regime em que “[…] a norma da diretiva é de tal modo precisa, clara e incondicional quanto às “penalizações” que devem recair sobre as emissões excedentárias, fixando o seu quantitativo exato, que não deixa ao Estado Português qualquer margem de apreciação, pelo que a eventual existência de um regime geral aprovado pela Assembleia da República não seria suscetível de interferir nas opções do legislador. Aliás, de acordo com o artigo 8.º, n.º 4, da Constituição, as normas da diretiva sempre prevaleceriam sobre eventuais normas legais que lhe fossem contrárias”, o que, manifestamente, não ocorre com o tributo previsto no Anexo II da Portaria n.º 1473-B/2008, de 17 de dezembro.»
+
+Por fim, adere-se ao entendimento expresso no Acórdão n.º 566/2023 segundo o qual «o facto de o julgamento do mérito do recurso ocorrer por adesão aos fundamentos invocados em anterior decisão em nada evidencia o emprego de um menor grau de reflexão na resolução do problema em causa», visto que «[a]o reiterar a orientação jurisprudencial seguida em anterior pronunciamento, nem o relator, individualmente, nem a conferência ou o pleno da Secção, o fazem acriticamente», pelo contrário, «[é] o resultado dessa reflexão individual e/ou discussão colegial que conduz à adesão aos fundamentos enunciados em anterior decisão do Tribunal Constitucional, especialmente nos casos em que esta, como se verifica na situação vertente, contém já uma análise detalhada e esgotante do tema em discussão, nomeadamente à luz da própria jurisprudência constitucional».
+
+Em face de tudo quanto foi exposto, não existindo questões novas a apreciar e não tendo a reclamante apresentado novos argumentos aptos a afastar a jurisprudência estabilizada do Tribunal, a decisão sumária reclamada, que se limitou a transpô-la para o caso sub judice, deve manter-se.
+
+7. Por decair na presente reclamação, a reclamante é responsável pelo pagamento de custas, nos termos do artigo 84.º, n.º 4, 2.ª parte, da LTC. Ponderados os critérios referidos no artigo 9.º, n.º 1, do Decreto-Lei n.º 303/98, de 7 de outubro, a prática habitual do Tribunal em casos análogos e a moldura abstrata aplicável prevista no artigo 7.º do mesmo diploma, afigura-se adequado e proporcional fixar a taxa de justiça em 20 (vinte) unidades de conta (UC).
+
+III. Decisão
+
+Pelo exposto, decide-se:
+
+a) indeferir a reclamação apresentada;
+
+b) condenar a reclamante nas custas, fixando-se a taxa de justiça em 20 UC.
+
+Lisboa, 18 de janeiro de 2024 - João Carlos Loureiro - Joana Fernandes Costa - José João Abrantes
