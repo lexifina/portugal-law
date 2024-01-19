@@ -1,0 +1,7 @@
+Resolução da Assembleia da República n.º 11/2024
+Sumário: Recomenda ao Governo a realização de ações de sensibilização junto das comunidades de portugueses no estrangeiro no âmbito das campanhas de esclarecimento eleitoral relativas às eleições para a Assembleia da República no próximo dia 10 de março de 2024.
+Recomenda ao Governo a realização de ações de sensibilização junto das comunidades de portugueses no estrangeiro no âmbito das campanhas de esclarecimento eleitoral relativas às eleições para a Assembleia da República no próximo dia 10 de março de 2024
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo, por intermédio da Divisão de Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna e em estreita articulação com a Comissão Nacional de Eleições, o Ministério dos Negócio Estrangeiros e o Conselho das Comunidades Portuguesas que, no âmbito do processo de eleições para a Assembleia da República no dia 10 de março de 2024, sejam asseguradas ações de sensibilização junto dos eleitores residentes no estrangeiro, assegurando a difusão atempada e objetiva de informação específica relacionada com as formas de voto possíveis, prazos fixados e os procedimentos a adotar, nomeadamente no que diz respeito ao voto presencial e ao voto por correspondência, nos consulados de Portugal espalhados pelo Mundo.
+Aprovada em 5 de janeiro de 2024.
+O Presidente da Assembleia da República, Augusto Santos Silva.
+117255709
