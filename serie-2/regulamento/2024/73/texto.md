@@ -1,0 +1,5 @@
+Regulamento n.º 73/2024
+Sumário: Torna pública a alteração do Regulamento do Mercado de São Domingos de Rana.
+Fernando Ferreira Marques, Presidente da Junta de Freguesia de São Domingos de Rana, torna público, ao abrigo da competência que lhe confere a alínea g), do n.º 1 do artigo 18.º da Lei n.º 75/2013, de 12 de setembro, conjugado com o n.º 1 do artigo 56.º da mesma Lei, que o Executivo da Junta de Freguesia na reunião realizada no dia 05 de setembro de 2023, e a Assembleia de Freguesia de São Domingos de Rana, em reunião de 28 de setembro de 2023, deliberam aprovar a alteração do Regulamento do Mercado de São Domingos de Rana, que se publica, nos termos e para os efeitos do disposto no artigo 139.º do Código do Procedimento Administrativo, a qual entra em vigor no primeiro dia útil após a sua publicação no Diário da República, sem prejuízo de tal publicação ser igualmente feita em edital e na Internet no sítio institucional da Junta de Freguesia.
+28 de dezembro de 2023. - O Presidente da Junta de Freguesia, Fernando Ferreira Marques.
+317207368
