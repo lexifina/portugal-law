@@ -4,9 +4,9 @@
 
 1 - As regras relativas à classificação dos solos são aplicáveis nos termos do artigo 82.º da lei bases de política pública de solos, do ordenamento do território e urbanismo.
 
-2 - Sem prejuízo do disposto no número anterior, os planos municipais ou intermunicipais devem, até 31 de dezembro de 2023, incluir as regras de classificação e qualificação previstas no presente decreto-lei, abrangendo a totalidade do território do município.
+2 - Sem prejuízo do disposto no número anterior, os planos municipais ou intermunicipais devem, até 31 de dezembro de 2024, incluir as regras de classificação e qualificação previstas no presente decreto-lei, abrangendo a totalidade do território do município, sob pena de suspensão das normas dos planos territoriais em vigor na área em causa.
 
-3 - Se, até 31 de outubro de 2022, não tiver lugar a primeira reunião da comissão consultiva, nos termos da alínea a) do n.º 1 do artigo 13.º da Portaria n.º 277/2015, de 10 de setembro, ou a conferência procedimental a que se refere o n.º 3 do artigo 86.º, por facto imputável ao município ou à associação de municípios em questão, é suspenso o respetivo direito de candidatura a apoios financeiros comunitários e nacionais que não sejam relativos à saúde, educação, habitação ou apoio social.
+3 - Se, até 31 de maio de 2024, não tiver lugar a primeira reunião da comissão consultiva, nos termos da alínea a) do n.º 1 do artigo 13.º da Portaria n.º 277/2015, de 10 de setembro, ou a conferência procedimental a que se refere o n.º 3 do artigo 86.º, por facto imputável ao município ou à associação de municípios em questão, é suspenso o respetivo direito de candidatura a apoios financeiros comunitários e nacionais que não sejam relativos à saúde, educação, habitação ou apoio social.
 
 4 - A suspensão prevista no número anterior cessa com a disponibilização dos documentos previstos na alínea a) do n.º 1 e no n.º 3 do artigo 12.º da Portaria n.º 277/2015, de 10 de setembro, ou no n.º 3 do artigo 86.º, consoante o caso e nos respetivos termos, e apresentação de pedido, à entidade competente, de convocação da primeira reunião da comissão consultiva ou da conferência procedimental.
 
