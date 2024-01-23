@@ -1,0 +1,141 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=CvL5f88QI5L8pTRqHXtEb9jUt6dFsY3L9YUIclJV9RNsoWi%2bCAI8H3B2N%2fcs5uD5Ph6VapdoYSwzVaY2fmZWwUIRAZD%2fsdgtij2tJTptqSXrH5l6fWzCI9vv09AbQiTCagySutJfYXP%2by9J1bkhealHM8BQG2cjBKiZS0sCiLgcl1Zj53yaS%2fJC6A0agHDKZGPTcSlKXBRhYPudLYO31pylGTttu5%2bCAC2giKs45Cxc5BlDiYpr4u8qENYSv9sEWmodIQWNqn7sFzmr8xoNJ6vUdaqrBn74OPKPQoe%2f8SvEcOcnrpoF2uTt8rrcvT4PqukdIfDxOs76a6%2brdcQ%2bNId36tNpYi%2fOEEeuuRGOJyNcfSyL6uNCZ4j%2b7%2fxwhfW5n&fich=PeticoesXV_json.txt&Inline=true",
+  "ficheiro_sha256": "931bb4b6fe170615a8916936cd77e28a59aa0d47d0ceeb2acc4f80467a49e8cc",
+  "legislatura": "XV",
+  "id": "33994",
+  "numero": "264",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2024-01-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2024-04-24",
+        "DataArquivo": "2024-05-15",
+        "DataBaixaComissao": "2024-04-16",
+        "DataEnvioPAR": "2024-05-16",
+        "DataReaberta": "2024-04-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2024-04-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e68627938344d7a41345a6a4d7a4d6930774f4759314c5451354d6a67744f544a6c4d5330354d324669596a63304d5459774f4751756347526d&fich=8308f332-08f5-4928-92e1-93abb741608d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2024-05-16",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b6c4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396d596d51784d7a68695969316a5a6d566a4c5451794f4455744f574d344e43316b4e324a6d596a49324d57526a4e6a59756347526d&fich=fbd138bb-cfec-4285-9c84-d7bfb261dc66.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8401",
+        "Legislatura": "XVI",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2024-04-16",
+        "DataBaixaComissao": "2024-01-31",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8333",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2024-02-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a7939555a58683062305a70626d46735547563061574e765a584d76593245325a444a684f5463745a6a6c6d4d7930305a44637a4c57497a5a546774596d566c4d7a5979596a41334d6d5a6b4c6e426b5a673d3d&fich=ca6d2a97-f9f3-4d73-b3e8-bee362b072fd.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "33994",
+    "PetAssunto": "Pedido de comparticipação do medicamento Abemaciclib como prevenção de recidivas do cancro da mama",
+    "PetDataEntrada": "2024-01-23",
+    "PeticoesAssociadas": null,
+    "PetId": "33994",
+    "PetLeg": "XV",
+    "PetNr": "264",
+    "PetNrAssinaturas": "12260",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "A petição transitou para a XVI Legislatura",
+    "PetSel": "2",
+    "PetSituacao": "Retirada a pedido do Peticionário",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915283",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-04-27",
+        "pubLeg": "XVI",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/16/01/005/2024-04-27/13?pgs=13-14&org=PLC"
+      }
+    ]
+  }
+}
