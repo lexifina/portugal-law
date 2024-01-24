@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2024-01-24, processo 059/23.2BALSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 059/23.2BALSB
+
+**Data do Acordão:** 01/24/2024
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** PAULA CADILHE RIBEIRO
+
+**Descritores:** RECURSO PARA UNIFORMIZAÇÃO DE JURISPRUDÊNCIA; VALOR PATRIMONIAL TRIBUTÁRIO; IMPUGNAÇÃO
+
+**Nº Convencional:** JSTA000P31802
+
+**Nº do Documento:** SAP20240124059/23
+
+**Recorrente:** AT – AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A..., S.A.
+
+**Votação:** UNANIMIDADE COM 1 DEC VOT
+
+## Sumário
+
+I - O recurso para o Supremo Tribunal Administrativo de decisão arbitral pressupõe, para além do mais, que se verifique, entre a decisão arbitral recorrida e a decisão arbitral fundamento, oposição quanto à mesma questão fundamental de direito (cfr. o n.º 2 do art. 25.º RJAT), o que pressupõe uma identidade substancial das situações fácticas.
+
+II - Para apurar da existência de contradição sobre a mesma questão fundamental de direito entre a decisão arbitral recorrida e a decisão arbitral fundamento devem adoptar-se os critérios já firmados por este STA, quais sejam: - Identidade da questão de direito sobre que recaíram as decisões em confronto, que supõe estar-se perante uma situação de facto substancialmente idêntica; - Que não tenha havido alteração substancial da regulamentação jurídica; - Que se tenha perfilhado, nos dois arestos, solução oposta; - A oposição deverá decorrer de decisões expressas, não bastando a pronúncia implícita ou a mera consideração colateral, tecida no âmbito da apreciação de questão distinta.
+
+III - “Deixando o contribuinte precludir a possibilidade de sindicar o valor patrimonial tributário nos termos previstos nos artigos 76.º e 77.º do Código do IMI, não pode arguir a ilegalidade da liquidação com fundamento na ilegalidade subjacente ao cálculo do valor patrimonial tributário que lhe serviu de matéria colectável”.
+
+IV - O Acórdão deste Supremo Tribunal (Pleno) de 23-02-2023, proferido no Proc.º n.º 0102/22.2BALSB, www.dgsi.pt, deve ser lido no sentido de que o artigo 78º é inaplicável aos actos de fixação do VPT (actos administrativos em matéria fiscal), na medida em que visa apenas os actos tributários stricto sensu, incluindo o acto de determinação da matéria tributável, quando não dê lugar à liquidação de qualquer tributo.
