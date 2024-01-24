@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 16/2024
+Sumário: Prorroga o período de vigência da Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo 2017-2023.
+Nas últimas décadas, as preocupações de combater o fenómeno da situação de sem-abrigo têm sido crescentes, o que levou à implementação da Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo (ENIPSSA) 2017-2023.
+A ENIPSSA 2017-2023, criada pela Resolução do Conselho de Ministros n.º 107/2017, de 25 de julho, visava consolidar uma abordagem estratégica e holística de prevenção e intervenção, centrada nas pessoas em situação de sem-abrigo, por forma que ninguém tenha de permanecer na rua por ausência de alternativas.
+Esta Estratégia, alterada pela Resolução do Conselho de Ministros n.º 2/2020, de 21 de janeiro, tem um modelo de governação inerente de diálogo permanente e de participação ativa de diversas entidades públicas e privadas, incluindo da sociedade civil, no sentido de promover o acompanhamento, monitorização, agilização e prossecução dos objetivos, recursos e estratégias na implementação de medidas de política e de intervenção no fenómeno em que se encontram as pessoas em situação de sem-abrigo.
+Este modelo exige uma constante articulação interinstitucional e intersectorial com entidades e áreas governativas, através da Comissão Interministerial e do Grupo de Implementação, Monitorização e Avaliação da Estratégia, pelo que, estando em fase de finalização a elaboração do novo ciclo programático da ENIPSSA, que conta com recomendações efetuadas pelas próprias pessoas em situação de sem-abrigo, de todas as estruturas que compõem a Estratégia e com resultados de uma avaliação externa, para a sua conclusão torna-se, ainda, necessário proceder a uma consulta pública, processo absolutamente indispensável para a prossecução do objetivo de alargamento e redefinição das políticas públicas neste âmbito.
+Por este motivo, e não obstante a aprovação, na generalidade, da ENIPSSA 2024-2030, para efeitos da realização da respetiva consulta pública e até que esse processo seja concluído, impõe-se a necessidade de garantir a prorrogação da ENIPSSA 2017-2023, prevenindo-se assim a interrupção de tão importante medida de política social.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Prorrogar até 31 de dezembro de 2024 o período de vigência da Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo 2017-2023.
+2 - Determinar que a presente resolução produz efeitos a 1 de janeiro de 2024.
+Presidência do Conselho de Ministros, 21 de dezembro de 2023. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+117276453
