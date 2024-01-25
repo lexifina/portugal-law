@@ -1,0 +1,9 @@
+Edital n.º 157/2024
+Sumário: Aprova o projeto do Regulamento das «Marchas Populares» da União das Freguesias de Estremoz (Santa Maria e Santo André).
+Pedro Manuel Lopes Ramalho, Presidente da Junta de Freguesia supra:
+Torna público, que por deliberação da Junta de Freguesia tomada na reunião ordinária do dia 09 de janeiro de 2024, submete à apreciação pública, nos termos e para efeitos do artigos 100.º e 101.º do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, o projeto de regulamento "Marchas Populares" da Freguesia.
+Convidam-se os interessados a dirigirem por escrito as sugestões ou reclamações a esta Junta de Freguesia, via correio normal (Rua Profº Egas Moniz, 7100-129 Estremoz) ou via correio eletrónico (geral@ufestremoz.pt), no prazo de 30 dias, contados da data da publicação no Diário da República.
+O referido projeto de alteração poderá ser consultado na secretaria da Junta de Freguesia, todos os dias úteis, durante o horário de expediente, ou na página eletrónica, em http://www.ufetzsmsa.pt.
+Para constar se publica o presente edital e outros de igual teor que vão ser afixados nos lugares públicos da Freguesia.
+10 de janeiro de 2024. - O Presidente da Junta, Pedro Manuel Lopes Ramalho.
+317238837
