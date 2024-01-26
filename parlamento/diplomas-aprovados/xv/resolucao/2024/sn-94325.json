@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GfAjXt6jfv8tqRnvwVRrojDEIo%2b7p1v6jaTnZYOUpHxKyyI5yEhP0uHRQMKVu75VaWCiut7FIhwMCYWUwyV9Pvk2gPUTnwyfs%2bbXGr6%2bvekGCeM3FNBTDdZ9UOgLk4z7DKxI7fTmgeSr1D0qmHp1Kp3UNwCklnqX8UVQnT569TNoVlG6EUc6VlxZbYFDunnEzjGg0%2f1PrtkhNrFKx3DELdUX7lIWZb9PBk84Ov3T1k2pRFpWmnJz%2bPe%2fWp8L%2bxjk%2bMkpy%2bHWNGXd8jKujFJEposFCwbq9kyVjOyhJ4ug3OuGADTdPu2bEB5QwH6MlttrJpamg5h3FYpDHP%2bXI0gXRlCwYV44fesCLhEry4jQImg%3d&fich=DiplomasXV_json.txt&Inline=true",
+  "ficheiro_sha256": "1c1078c10448c22aca421ebfa8d69a53be6d45d3cdef4ecf77f8a6b7fe4ac80e",
+  "legislatura": "XV",
+  "id": "94325",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2024-01-26",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2024",
+    "Id": "94325",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "263468",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a5357357059326c6864476c325953387a4d574d3059324d304d5331695a6a46694c545268596a5174596a5531595331694e32566a596a42684d575534596a59755a47396a65413d3d&fich=31c4cc41-bf1b-4ab4-b55a-b7ecb0a1e8b6.docx&Inline=true",
+        "IniNr": "970",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XV",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a79394562324e31625756756447397a51574e3061585a705a47466b5a564268636d786862575675644746794c3245344d4456684e7a59334c5452694d7a59744e444a695a5331695a5463794c5751325a6d46684e5449334e3251325979356b62324d3d&fich=a805a767-4b36-42be-be72-d6faa5277d6c.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997688",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2024-01-26",
+        "pubLeg": "XV",
+        "pubNr": "69",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/15/02/069/2024-01-26/6?pgs=6-7&org=PLC"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo a auscultação das populações abrangidas pelo traçado da construção da linha de alta velocidade em Portugal",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
