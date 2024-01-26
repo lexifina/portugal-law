@@ -1,0 +1,1 @@
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 18 de março de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 15 de março de 2013. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 14 de março de 2013.
