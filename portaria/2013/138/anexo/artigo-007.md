@@ -14,10 +14,10 @@ c) Assegurar a administração e exploração dos sistemas aplicacionais em prod
 
 d) Administrar a infraestrutura dos portais de internet, intranet e aplicações web dos serviços e organismos referidos na missão e atribuições estabelecidas;
 
-e) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;
+e) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;
 
-f) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;
+f) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;
 
-g) Apoiar o Departamento de Gestão de Clientes com vista a uma comunicação integrada ao longo do ciclo de vida das aplicações, aproximando as expectativas do cliente à solução aplicacional, fortalecendo desta forma a imagem e valores do II, I.P., junto dos seus clientes;
+g) Apoiar o Departamento de Gestão de Serviços e Relações Externas com vista a uma comunicação integrada ao longo do ciclo de vida das aplicações, aproximando as expectativas dos parceiros à solução aplicacional, fortalecendo desta forma a imagem e valores do II, I. P., junto dos seus parceiros;
 
 h) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.

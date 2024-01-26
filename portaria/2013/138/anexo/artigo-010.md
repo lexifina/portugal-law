@@ -40,10 +40,10 @@ p) Garantir o desenvolvimento dos procedimentos de aquisição de bens e serviç
 
 q) Assegurar, sempre que necessário, o armazenamento de bens, a gestão de stocks e o controlo de entradas e saídas em armazém;
 
-r) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;
+r) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;
 
-s) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;
+s) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;
 
-t) Apoiar o Departamento de Gestão de Clientes na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os clientes estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I.P., junto dos clientes;
+t) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;
 
 u) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.

@@ -26,10 +26,10 @@ i) Gerir as diferentes disciplinas de recursos humanos de tecnologias de informa
 
 j) Antecipar as tendências de mercado, potencial de novas soluções tecnológicas e plataformas de interoperabilidade;
 
-k) Apoiar o Departamento de Gestão de Clientes na identificação das necessidades dos clientes em termos de sistemas de informação e soluções aplicacionais;
+k) Apoiar o Departamento de Gestão de Serviços e Relações Externas na identificação das necessidades dos parceiros em termos de sistemas de informação e soluções aplicacionais;
 
-l) Apoiar o Departamento de Gestão de Clientes no desenho e orçamentação das soluções que correspondem às expectativas dos clientes, optimizando a relação custo versus benefício;
+l) Apoiar o Departamento de Gestão de Serviços e Relações Externas no desenho e orçamentação das soluções que correspondem às expectativas dos parceiros, otimizando a relação custo versus benefício;
 
-m) Apoiar o Departamento de Gestão de Clientes na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os clientes estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I.P. junto dos clientes;
+m) Apoiar o Departamento de Gestão de Serviços e Relações Externas na preparação de toda a comunicação, garantindo, ao longo do ciclo de vida das aplicações, que os parceiros estão informados e que as aplicações correspondem às suas expectativas, deste modo suportando a imagem do II, I. P., junto dos parceiros;
 
 n) Promover, acompanhar e avaliar, no domínio das respetivas competências, a execução das relações contratuais de aquisição de bens ou serviços, bem como a qualidade exigível e os planos de atividade.
