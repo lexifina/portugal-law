@@ -1,0 +1,12 @@
+Aviso n.º 2306/2024
+Sumário: Revisão do Plano Diretor Municipal de Abrantes - abertura do período de discussão pública.
+Revisão do Plano Diretor Municipal de Abrantes
+Abertura do Período de Discussão Pública
+Manuel Jorge Séneca da Luz Valamatos dos Reis, Presidente da Câmara Municipal de Abrantes, torna público que a Câmara Municipal de Abrantes, na sua reunião de 19 de dezembro de 2023, determinou proceder à abertura do período de discussão pública da revisão do Plano Diretor Municipal de Abrantes.
+E para constar, se publica o presente aviso na 2.ª série do Diário da República nos termos e para os efeitos dos nos 1 e 2 do Artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação), por remissão do n.º 3 do Artigo 119.º do mesmo RJIGT, com respetiva divulgação através da comunicação social e página da Internet do Município de Abrantes e por intermédio da afixação de edital de idêntico teor nos Paços do Concelho e nas sedes das Juntas e Uniões de Freguesia do Concelho de Abrantes.
+Mais se informa que o período de discussão pública é de 30 (trinta) dias úteis, a contar do sexto dia útil após a publicação do respetivo aviso no Diário da República e que os interessados podem consultar os documentos da Proposta de (revisão do) Plano, o Relatório Ambiental, o parecer final da CCDRLVT, as atas da Comissão Consultiva, demais pareceres emitidos e os resultados da concertação, no Serviço de Informação Geográfica e do Ordenamento do Território da Divisão do Urbanismo da Câmara Municipal de Abrantes, sito no edifício dos Paços do Concelho, durante as horas normais de expediente.
+Todos os elementos dessa proposta de Plano estarão ainda disponíveis para consulta na página da Internet do Município.
+Os interessados poderão apresentar as suas reclamações, observações ou sugestões até ao final do referido período, através de formulário digital a disponibilizar na referida página da Internet, bem como através de documentação analógica, disponibilizada nos locais acima referidos para consulta do plano.
+Para uma correta identificação e ponderação das questões apresentadas, no formulário devem constar os dados de identificação do interessado, devendo ser preferencialmente anexa ao mesmo planta de localização devidamente assinalada.
+9 de janeiro de 2024. - O Presidente da Câmara Municipal de Abrantes, Manuel Jorge Séneca da Luz Valamatos dos Reis.
+617256162
