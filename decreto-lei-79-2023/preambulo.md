@@ -1,4 +1,8 @@
-Sumário:
+Decreto-Lei n.º 79/2023
+
+de 4 de setembro
+
+Sumário: Procede à criação da Museus e Monumentos de Portugal, E. P. E.
 
 O presente decreto-lei procede à criação da entidade pública empresarial Museus e Monumentos de Portugal (Museus e Monumentos de Portugal, E. P. E.), sucedendo à Direção-Geral do Património Cultural (DGPC) na missão, nas atribuições, no património e nos recursos humanos nos domínios da: a) conservação, restauro, proteção, valorização e divulgação das coleções nacionais e do património cultural móvel; b) gestão dos museus, monumentos e palácios nacionais; e c) execução da política museológica nacional.
 
