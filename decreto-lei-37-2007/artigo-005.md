@@ -20,4 +20,14 @@ b) Adjudicação de propostas relativas a obras, a bens móveis e a serviços, e
 
 7 - O disposto nos números anteriores não prejudica a observância das exigências legais decorrentes do regime de realização de despesas públicas ou da contratação pública, incluindo a legislação especial aplicável a determinados bens e serviços, designadamente material e equipamento militares e serviços associados.
 
-8 - Aos procedimentos que envolvam despesas com a aquisição ou aluguer de bens e serviços ao abrigo de acordo quadro celebrado pela ANCP, que dêem lugar a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização que não exceda o limite de (euro) 100 000 em cada um dos anos económicos seguintes ao da sua contratação, não é aplicável o disposto no artigo 22.º do Decreto-Lei n.º 197/99, de 8 de Junho.
+8 - O disposto no artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, não é aplicável:
+
+a) Aos procedimentos que envolvam despesas com a aquisição ou aluguer de bens e serviços ao abrigo de acordo quadro celebrado pela ANCP, que deem lugar a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização que não exceda o limite de (euro) 100 000 em cada um dos anos económicos seguintes ao da sua contratação;
+
+b) Aos procedimentos que envolvam despesas com a aquisição ou aluguer de bens e serviços para o Parque de Veículos do Estado (PVE) que deem lugar a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização, desde que:
+
+i) Sejam centralizados pela ESPAP, I. P.;
+
+ii) Sejam registados nos sistemas orçamentais da Direção-Geral do Orçamento, e
+
+iii) Cumpram o disposto no despacho a que se refere o n.º 1 do artigo 9.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na sua redação atual.
