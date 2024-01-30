@@ -8,6 +8,4 @@ a) O conselho diretivo;
 
 b) O fiscal único;
 
-c) [Revogada.]
-
-d) O Observatório das Migrações.
+c) O Conselho para as Migrações e Asilo.

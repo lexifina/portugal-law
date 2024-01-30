@@ -24,7 +24,7 @@ c) Conceder prorrogações de permanência, autorizações de residência, renov
 
 d) Conceder em território nacional documentos de viagem para cidadãos estrangeiros, assegurando o controlo e registo nacional dos títulos de viagem emitidos;
 
-e) Assegurar o cumprimento das atribuições de natureza administrativa previstas na lei sobre a entrada, permanência e saída de estrangeiros do território nacional;
+e) Assegurar o cumprimento das atribuições de natureza administrativa previstas na lei sobre a entrada, permanência, saída e afastamento de estrangeiros do território nacional, designadamente a instauração, tramitação e decisão administrativa de afastamento, de readmissão e de retorno;
 
 f) Disponibilizar apoio nos postos de passagem de fronteira na emissão de vistos concedidos em postos de fronteira e no acolhimento de requerentes de asilo, em articulação com as forças de segurança responsáveis pela vigilância, fiscalização e controlo de pessoas nas fronteiras;
 
@@ -78,9 +78,9 @@ dd) Manter a necessária colaboração com as entidades às quais compete a fisc
 
 ee) Estudar, planear, gerir e manter as bases de dados e sistemas de informação em matéria de estrangeiros que não contenham informação de natureza policial;
 
-ff) (Revogada.)
+ff) Assegurar a componente nacional do Sistema Europeu de Comparação de Impressões Digitais dos Requerentes de Asilo (EURODAC), inserindo, consultando e comunicando os dados relativos aos requerentes de proteção internacional;
 
-gg) (Revogada.)
+gg) Assegurar o acesso das forças e serviços de segurança e demais serviços e organismos competentes, em razão da matéria, à informação constante dos sistemas e das bases de dados sob sua gestão e do EURODAC, nos termos da legislação aplicável, com respeito pela proteção dos dados pessoais e dos direitos, liberdades e garantias dos cidadãos nacionais e estrangeiros;
 
 hh) Compilar e manter atualizada uma base de dados que congregue indicadores sobre os requerentes e beneficiários de proteção internacional, bem como da informação resultante de processos de avaliação e monitorização do acolhimento e integração que incluam consultas a requerentes e beneficiários de proteção internacional, em conformidade com o regime jurídico de proteção de dados pessoais;
 
@@ -96,9 +96,7 @@ mm) Fomentar a investigação, inquéritos e a observação dos fenómenos migra
 
 nn) Combater todas as formas de discriminação em razão da origem racial e étnica, cor, nacionalidade, língua, ascendência e território de origem, independentemente do meio em que ocorram, através de ações, campanhas ou eventos de sensibilização da opinião pública;
 
-oo) Promover e apoiar iniciativas para prevenção da discriminação interseccional, designadamente através de ações de sensibilização e formação acerca das desigualdades interseccionais;
-
-pp) Promover a captação e retenção de imigrantes, atraindo fluxos migratórios de capital humano qualificado, em articulação com as entidades empregadoras e respetivos representantes, bem como com as entidades do Estado responsáveis pela área do emprego e formação profissional.
+oo) Promover e apoiar iniciativas para prevenção da discriminação interseccional, designadamente através de ações de sensibilização e formação acerca das desigualdades interseccionais.
 
 3 - São atribuições da AIMA, I. P., no plano internacional:
 
@@ -114,9 +112,7 @@ e) Assegurar, por determinação do Governo, a representação do Estado portugu
 
 f) Cooperar com os serviços congéneres estrangeiros, sem prejuízo das competências próprias do Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI), nos termos do n.º 6 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual;
 
-g) Assegurar, através de oficiais de ligação de imigração, os compromissos assumidos no âmbito da cooperação internacional nos termos legalmente previstos;
-
-h) Promover Portugal enquanto destino, de acordo com a definição de política migratória, desempenhando um papel proativo de captação de talento e de capital humano qualificado, designadamente em articulação e cooperação com as autoridades consulares.
+g) Assegurar, através de oficiais de ligação de imigração, os compromissos assumidos no âmbito da cooperação internacional nos termos legalmente previstos.
 
 4 - A AIMA, I. P., pode celebrar protocolos com as autarquias locais, bem como com os órgãos e serviços das regiões autónomas e outras entidades da Administração Pública, com vista a facilitar e simplificar os procedimentos de receção e encaminhamento de pedidos, designadamente os previstos na alínea c) do n.º 2.
 

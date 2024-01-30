@@ -6,7 +6,7 @@ As taxas que nos termos da lei constituem receita do SEF passam a constituir rec
 
 a) Das taxas de segurança aeroportuária e portuária, a distribuir pela GNR ou pela PSP, de acordo com as respetivas atribuições, cuja repartição é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da administração interna;
 
-b) (Revogada.)
+b) As taxas devidas pela renovação de autorização de residência cuja repartição é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e das migrações;
 
 c) As taxas devidas pela concessão e emissão do passaporte, cuja repartição é fixada por portaria dos membros do Governo responsáveis pelas áreas da presidência, dos negócios estrangeiros, das finanças, da justiça e das migrações;
 

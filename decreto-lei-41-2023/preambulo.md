@@ -1,4 +1,8 @@
-Sumário:
+Decreto-Lei n.º 41/2023
+
+de 2 de junho
+
+Sumário: Cria a Agência para a Integração, Migrações e Asilo, I. P.
 
 A promoção de migrações seguras, ordenadas e regulares, afirmada de forma inequívoca pela comunidade internacional através da adoção do Pacto Global das Migrações aprovado pela Assembleia-Geral das Nações Unidas, em 19 de dezembro de 2018, e através do Novo Pacto Europeu sobre a Migração e o Asilo, apresentado pela Comissão Europeia, em setembro de 2020, veio reforçar a necessidade de uma nova abordagem em matéria de gestão de migrações.
 
