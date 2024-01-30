@@ -37,3 +37,7 @@ c) Veículos de serviços extraordinários, os quais são atribuídos temporaria
 d) Veículos especiais, os quais se destinam à satisfação de necessidades de transporte específicas e diferenciadas, designadamente os afectos aos sistemas de defesa nacional, de segurança interna, de protecção civil, de protecção e socorro e à segurança prisional.
 
 2 - Os veículos de uso pessoal atribuídos nos termos da lei integram o parque de veículos do Estado e estão sujeitos ao regime previsto no presente decreto-lei.
+
+3 - Os veículos de serviços gerais destinam-se exclusivamente a satisfazer as necessidades de transporte, normais e rotinadas, dos serviços, não podendo, em regra, ser afetos a determinado trabalhador ou dirigente.
+
+4 - O incumprimento do disposto no número anterior pode fazer incorrer os seus autores em responsabilidade civil, financeira e disciplinar.
