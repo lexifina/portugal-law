@@ -12,21 +12,25 @@ a) O Departamento de Informação, Comunicação e Relações Internacionais;
 
 b) O Departamento de Recursos Humanos, Financeiros e Patrimoniais;
 
-c) O Departamento Jurídico e de Auditoria;
+c) O Departamento Jurídico;
 
 d) O Departamento de Desporto;
 
-e) O Departamento de Juventude;
+e) O Departamento de Políticas de Juventude e Associativismo;
 
-f) O Departamento de Infra-estruturas;
+f) O Departamento de Programas de Juventude;
 
-g) O Departamento de Formação e Qualificação;
+g) O Departamento de Infra-estruturas;
 
-h) O Departamento de Medicina Desportiva;
+h) O Departamento de Formação e Qualificação;
 
-i) O Centro Desportivo Nacional do Jamor;
+i) O Departamento de Fiscalização e Auditoria;
 
 j) Revogada.
+
+k) O Departamento de Medicina Desportiva;
+
+l) O Centro Desportivo Nacional do Jamor.
 
 2 - Por deliberação do Conselho Diretivo podem ser criadas, modificadas ou extintas unidades orgânicas de segundo nível, integradas ou não em unidades orgânicas de primeiro nível, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.
 
@@ -38,22 +42,28 @@ b) A Divisão de Recursos Financeiros, integrada no Departamento de Recursos Hum
 
 c) A Divisão de Aprovisionamento e Património, integrada no Departamento de Recursos Humanos, Financeiros e Patrimoniais;
 
-d) A Divisão de Desporto Federado, integrada no Departamento de Desporto;
+d) A Divisão de Contraordenações e Contencioso, integrada no Departamento Jurídico;
 
-e) A Divisão de Programas, integrada no Departamento de Juventude;
+e) A Divisão de Desporto Federado, integrada no Departamento de Desporto;
 
-f) A Divisão das Infra-estruturas Desportivas, integrada no Departamento de Infra-estruturas;
+f) A Divisão de Programas, integrada no Departamento de Programas de Juventude;
 
-g) A Divisão de Infra-estruturas Tecnológicas, integrada no Departamento de Infra-estruturas;
+g) A Divisão das Infra-estruturas Desportivas, integrada no Departamento de Infra-estruturas;
 
-h) Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao conselho diretivo;
+h) A Divisão de Infra-estruturas Tecnológicas, integrada no Departamento de Infra-estruturas;
 
-i) A delegação do Porto do Departamento de Medicina Desportiva.
+i) Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao conselho diretivo;
 
-4 - O número de unidades orgânicas de segundo nível não pode exceder, em cada momento, o limite máximo de 15, incluindo as referidas no número anterior.
+j) A Delegação do Porto do Departamento de Medicina Desportiva, integrada no Departamento de Medicina Desportiva;
 
-5 - A organização interna do IPDJ, I. P., pode incluir, ainda, até quatro equipas multidisciplinares, criadas por deliberação do Conselho Diretivo, nas áreas de edificação ou reconstrução de espaços desportivos e juvenis do IPDJ, estatísticas e estudos juvenis, bem como investigação e desenvolvimento nas áreas do desporto e juventude, sendo os respetivos chefes de equipa equiparados, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.
+k) A Divisão de Programas Sociais Norte e Centro, integrada no Departamento de Programas de Juventude;
+
+l) A Divisão de Programas Sociais da Região de Lisboa e Vale do Tejo, Sul e Regiões Autónomas, integrada no Departamento de Programas de Juventude.
+
+4 - O número de unidades orgânicas de segundo nível não pode exceder, em cada momento, o limite máximo de 18, incluindo as referidas no número anterior.
+
+5 - A organização interna do IPDJ, I. P., pode incluir, ainda, até quatro equipas multidisciplinares, criadas por deliberação do Conselho Diretivo, nas áreas de desenvolvimento e prossecução de políticas, programas, planos e iniciativas relacionadas com os temas de direitos humanos, integridade no desporto, capacitação dos tecidos associativos desportivo e jovem, bem como de investigação, estatística e análise de dados nos setores do desporto e juventude, sendo os respetivos chefes de equipa equiparados, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.
 
 6 - O IPDJ, I. P., dispõe de serviços territorialmente desconcentrados, com a natureza de unidades orgânicas de primeiro nível, designadas por Direções Regionais, cujo âmbito territorial corresponde ao nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUT II) do continente.
 
-7 - O IPDJ, I. P., assegura a criação de postos de atendimento locais até um número máximo de sessenta, na dependência das Direções Regionais em que territorialmente se integram, competindo-lhes divulgar os programas e iniciativas públicas nacionais e internacionais dirigidas aos jovens bem como garantir o acesso de proximidade a serviços que contribuem para a sua formação e desenvolvimento.
+7 - O IPDJ, I. P., assegura a gestão de um sistema de atendimento multicanal, podendo criar postos de atendimento locais até um número máximo de 60, preferencialmente na dependência das Direções Regionais em que territorialmente se integram, com o objetivo de divulgar os programas e iniciativas públicas nacionais e internacionais no âmbito das suas atribuições, bem como garantir o acesso de proximidade a serviços que contribuem para a formação e desenvolvimento dos jovens.

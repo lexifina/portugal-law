@@ -2,7 +2,7 @@
 
 ### Departamento de Formação e Qualificação
 
-1 - Ao Departamento de Formação e Qualificação compete elaborar, apoiar e executar programas de formação e qualificação, nas áreas do desporto e juventude.
+1 - Ao Departamento de Formação e Qualificação compete elaborar, apoiar e executar programas de formação e qualificação na área do desporto.
 
 2 - Ao Departamento de Formação e Qualificação, abreviadamente designado por DFQ, compete:
 
@@ -20,17 +20,17 @@ f) Promover e reforçar o sistema de cooperação com os estabelecimentos de ens
 
 g) Promover e apoiar a execução do Programa Nacional de Formação de Treinadores (PNT), com vista à melhoria das competências e à qualificação destes agentes desportivos;
 
-h) Definir, gerir e concretizar processos formativos, transversalmente às atribuições específicas da área da juventude do IPDJ, I. P., no quadro da educação não formal;
+h) (Revogada.)
 
 i) Assegurar, no âmbito do Sistema Nacional de Certificação Profissional, um regime de certificação na área do desporto;
 
-j) Assegurar a formação de formadores em associativismo juvenil;
+j) (Revogada.)
 
-k) Assegurar a formação de uma rede nacional de voluntariado juvenil;
+k) (Revogada.)
 
-l) Promover e apoiar ações de formação especializadas, nomeadamente na vertente do atendimento a jovens e de animação juvenil;
+l) (Revogada.)
 
-m) Assegurar a constituição de uma rede nacional de voluntários;
+m) (Revogada.)
 
 n) Promover a adoção de melhores práticas, em especial o estabelecimento de modelos objetivos de avaliação segundo critérios de mérito, transparência, qualidade e clareza da informação prestada interna ou externamente;
 

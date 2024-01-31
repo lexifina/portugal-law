@@ -28,10 +28,10 @@ j) Dar apoio às Direções Regionais no âmbito dos projetos e ações transfro
 
 k) Assegurar a presença do IPDJ, I. P., em feiras, exposições, festivais e outros eventos considerados de interesse para os praticantes desportivos e para os jovens;
 
-l) Incentivar a participação dos jovens na partilha e divulgação de informação, no respeito pelos princípios da Carta Europeia de Informação aos Jovens;
+l) (Revogada.)
 
 m) Reforçar os laços dos jovens lusodescendentes e da cultura portuguesa;
 
-n) Promover o Dia Internacional da Juventude;
+n) (Revogada.)
 
 o) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.

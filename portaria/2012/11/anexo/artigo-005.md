@@ -1,10 +1,10 @@
 # Artigo 5.º
 
-### Departamento Jurídico e de Auditoria
+### Departamento Jurídico
 
-1 - O Departamento Jurídico e de Auditoria é responsável pela prestação de apoio e assessoria jurídicas, pela coordenação e pelo desenvolvimento e aperfeiçoamento do quadro legal que incida direta e indiretamente no desporto e na juventude, bem como realizar auditorias internas.
+1 - O Departamento Jurídico é responsável pela prestação de apoio e assessoria jurídica e pela coordenação, desenvolvimento e aperfeiçoamento do quadro legal que regule direta ou indiretamente as áreas do desporto e da juventude.
 
-2 - Ao Departamento Jurídico e de Auditoria, abreviadamente designado por DJA, compete:
+2 - Ao Departamento Jurídico, abreviadamente designado por DJ, compete:
 
 a) Prestar assessoria ao Conselho Diretivo;
 
@@ -16,11 +16,11 @@ d) Informar, dar parecer e prestar assessoria nos procedimentos administrativos;
 
 e) Assegurar a organização sistemática de legislação, jurisprudência e doutrina, nacional e estrangeira, de interesse para a atividade do IPDJ, I. P.;
 
-f) Acompanhar os processos de infração e de pré-contencioso instaurados contra o Estado Português, em matérias que envolvam as áreas do desporto e da juventude;
+f) Acompanhar os processos de infração e de pré-contencioso que envolvam as áreas do desporto e da juventude;
 
-g) Promover a realização de auditorias internas regulares às unidades orgânicas do IPDJ, I. P.;
+g) (Revogada.)
 
-h) Colaborar e acompanhar as ações externas de controlo efetuadas aos serviços do IPDJ, I. P.;
+h) (Revogada.)
 
 i) Verificar a conformidade dos estatutos e regulamentos das federações desportivas dotadas do estatuto de utilidade pública desportiva;
 
