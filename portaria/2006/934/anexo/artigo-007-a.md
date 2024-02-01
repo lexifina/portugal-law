@@ -1,8 +1,8 @@
-# 7.º-A
+# Artigo 7.º-A
 
 ### Banco Nacional de Provas da PSP
 
-1 - Pela certificação de armas de fogo e seus componentes no BNP, há lugar ao pagamento das seguintes taxas:
+1 - Pela certificação de armas de fogo e seus componentes no Banco Oficial de Provas, há lugar ao pagamento das seguintes taxas:
 
 a) Arma de fogo curta - (euro) 75;
 
@@ -16,9 +16,11 @@ e) Componente de arma de fogo - (euro) 20;
 
 f) Emissão de certificado de prova oficial - (euro) 24.
 
-2 - Pela certificação de armas de fogo e seus componentes no local de fabrico, através da deslocação de uma equipa de peritos do BNP, há lugar ao pagamento de uma taxa diária no valor de (euro) 150.
+g) Emissão de certificado de prova simples - (euro) 4,30.
 
-3 - Pela certificação e controlo de munições de armas de fogo no BNP, são aplicadas as seguintes taxas:
+2 - Pela certificação de armas de fogo e seus componentes no local de fabrico, através da deslocação de uma equipa de peritos do Banco Oficial de Provas, há lugar ao pagamento de uma taxa diária no valor de (euro) 150.
+
+3 - Pela certificação e controlo de munições de armas de fogo no Banco Oficial de Provas, são aplicadas as seguintes taxas:
 
 a) Certificação de munições de armas de fogo - (euro) 200;
 
@@ -32,7 +34,7 @@ a) Certificação de armas de alarme, salva, starter e ar comprimido - (euro) 20
 
 b) Emissão de certificado de prova oficial - (euro) 24.
 
-5 - São ainda devidas taxas relativas à prática pelo BNP dos seguintes atos:
+5 - São ainda devidas taxas relativas à prática pelo Banco Oficial de Provas dos seguintes atos:
 
 a) Classificação de armas (por dia) - (euro) 120,20;
 
