@@ -18,10 +18,14 @@ i) Para as entidades instaladas na Zona Franca Industrial, as taxas anuais de fu
 
 ii) Para as restantes entidades, as taxas anuais de funcionamento vencem-se e são pagas no prazo de doze meses contado a partir da data de vencimento da taxa anual anterior.
 
-2 - A falta de pagamento da taxa anual de funcionamento nos termos previstos no número anterior determina a suspensão do licenciamento concedido até a finalização do procedimento de cobrança coerciva, findo o qual o Secretário Regional procederá à declaração de caducidade da licença, salvo se o titular da mesma requerer a continuidade do licenciamento.
+2 - (Revogado.)
 
 3 - No caso de a autorização não ser concedida por facto não imputável ao requerente, este terá direito à restituição do montante pago pela requisição da autorização de instalação.
 
 4 - As empresas instaladas na Zona Franca Industrial pagam as taxas a que se referem a subalínea i) da alínea b) e a subalínea i) da alínea c) do n.º 1 em prestações mensais e uniformes até ao último dia do mês a que digam respeito.
 
 5 - Nos casos referidos no número anterior, a falta de pagamento de uma prestação importa o vencimento das seguintes se, no prazo de trinta dias a contar da notificação para o efeito, a empresa não proceder ao pagamento da prestação incumprida.
+
+6 - A falta de pagamento da taxa atual anual de funcionamento das entidades instaladas na Zona Franca Industrial, nos termos previstos no n.º 4, determina a caducidade da autorização concedida e o início do respetivo procedimento de cobrança coerciva de todos os montantes em dívida.
+
+7 - Para as restantes entidades, a falta de pagamento da taxa anual de funcionamento nos termos previstos no n.º 1 determina a suspensão do licenciamento concedido até à finalização do procedimento de cobrança coerciva, findo o qual o Secretário Regional procede à declaração de caducidade da licença, salvo se o titular da mesma requerer a continuidade do licenciamento.
