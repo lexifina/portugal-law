@@ -25,3 +25,11 @@ h) Informar os contribuintes e os operadores económicos sobre as respectivas ob
 i) Assegurar o licenciamento do comércio externo dos produtos tipificados em legislação especial e gerir os regimes restritivos do respectivo comércio externo.
 
 j) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.
+
+k) Acompanhar a evolução e participar na elaboração de estimativas e previsões da receita fiscal;
+
+l) Preparar o relatório previsto no n.º 1 do artigo 15.º-A do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, na sua redação atual, e avaliar os benefícios fiscais, designadamente nos domínios orçamental, social e económico;
+
+m) Emitir pareceres e realizar estudos, por iniciativa própria ou mediante solicitação do membro do Governo responsável pela área das finanças, no âmbito das suas funções, para definição e estruturação das políticas públicas em matérias tributária e aduaneira;
+
+n) Realizar, promover e difundir a investigação técnica e científica no domínio tributário e aduaneiro.
