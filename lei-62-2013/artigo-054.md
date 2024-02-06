@@ -8,4 +8,4 @@
 
 3 - As causas referidas no artigo 128.º são sempre distribuídas à mesma secção cível, distinta da indicada no número anterior.
 
-4 - A formação das secções criminais do Supremo Tribunal de Justiça, constituída nos termos do n.º 4 do artigo 47.º, procede ao controlo e autorização prévia dos pedidos fundamentados de acesso a dados de telecomunicações e Internet nos termos do procedimento previsto na lei especial que aprova o regime especial de acesso a dados de base e a dados de tráfego de comunicações eletrónicas pelo Sistema de Informações da República Portuguesa.
+4 - A formação das secções criminais do Supremo Tribunal de Justiça, constituída nos termos do n.º 4 do artigo 47.º, procede ao controlo e autorização prévia dos pedidos fundamentados de acesso a dados de telecomunicações e Internet nos termos do procedimento previsto na lei especial que aprova o regime especial de acesso a dados de base e a dados de tráfego de comunicações eletrónicas pelo Sistema de Informações da República Portuguesa, bem como à autorização judicial para conservação de dados de tráfego e de localização no âmbito da Lei n.º 32/2008, de 17 de julho.
