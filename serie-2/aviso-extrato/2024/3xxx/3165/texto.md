@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 3165/2024
+Sumário: Aprova o projeto do Regulamento de Voluntariado da Freguesia da União das Freguesias de Pontinha e Famões.
+Jorge Nunes, Presidente da Junta de Freguesias da União das Freguesias de Pontinha e Famões, torna público que, de acordo com a deliberação tomada em reunião de Junta Ordinária n.º 39 de 24 de outubro de 2023 e nos termos e para os feitos do disposto no art. 56.º do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, conjugado com o art. 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, é submetido a consulta pública, durante o prazo de 30 dias úteis a contar da data de publicação do presente Aviso no Diário da República, 2.ª série, o Projeto de Regulamento de Voluntariado da Freguesia da União das Freguesias de Pontinha e Famões, encontrando-se o mesmo disponível para consulta na página eletrónica da freguesia em https://jf-pontinhafamoes.pt/.
+14 de novembro de 2023. - O Presidente da Junta de Freguesias da União das Freguesias de Pontinha e Famões, Dr. Jorge Nunes.
+317278487
