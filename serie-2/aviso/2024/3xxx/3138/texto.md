@@ -1,0 +1,21 @@
+Aviso n.º 3138/2024
+Sumário: Plano de Pormenor da Expansão da Zona Industrial de Laúndos - discussão pública.
+Elaboração do Plano de Pormenor da Expansão da Zona Industrial de Laúndos
+Discussão pública
+Aires Henrique do Couto Pereira, Presidente da Câmara Municipal da Póvoa de Varzim, torna público, para efeitos do disposto nos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, e em cumprimento da deliberação da Câmara Municipal de 23 de janeiro de 2024, que, a partir do 5.º dia útil a seguir à publicação deste aviso no Diário da República, e durante 20 dias, se encontra aberto um período de discussão pública da proposta de Plano de Pormenor da Expansão da Zona Industrial de Laúndos.
+A referida proposta, acompanhada dos pareceres emitidos em sede de conferência procedimental e de concertação, estarão disponíveis para consulta nas instalações do Posto de Turismo da Póvoa de Varzim, sito na Praça do Marquês de Pombal, nesta cidade, de segunda-feira a sexta-feira, entre as 9h30 e as 13h00 e entre as 14h30 e as 18h00.
+A proposta e os demais elementos acima referidos serão também disponibilizados para consulta no site da Câmara Municipal na Internet.
+Durante o período de discussão pública, qualquer reclamação, observação, sugestão ou pedido de esclarecimento deve ser enviado por correio eletrónico para geral@cm-pvarzim.pt ou remetido por correio registado, endereçado ao Presidente da Câmara Municipal da Póvoa de Varzim - "Plano de Pormenor da Expansão da Zona Industrial de Laúndos" - Praça do Almada, 4490-438 Póvoa de Varzim.
+Para constar se publica o presente aviso no Diário da República e na comunicação social sendo ainda afixados nos lugares de estilo outros de igual teor.
+24 de janeiro de 2024. - O Presidente da Câmara, Aires Henrique do Couto Pereira.
+Deliberação
+Jorge Manuel de Guimarães Caimoto, Técnico Superior e trabalhador do Município da Póvoa de Varzim designado para lavrar as atas das reuniões do órgão executivo, certifica que a Câmara Municipal, em reunião ordinária pública realizada no dia vinte e três de janeiro de dois mil e vinte e quatro, tomou a deliberação cujo teor integral se transcreve:
+13 - Plano de Pormenor da Expansão da Zona Industrial de Laúndos - Discussão pública
+É presente informação prestada pela Divisão de Planeamento, cujo teor se transcreve:
+"1 - A Câmara Municipal deliberou, na sua reunião ordinária realizada no dia vinte e cinco de agosto de dois mil e vinte, dar início ao procedimento de Elaboração do Plano de Pormenor da Expansão da Zona Industrial de Laúndos.
+2 - De acordo com o disposto no n.º 3 do artigo 86.º do Decreto-Lei n.º 80/2015, de 14 de maio, concluída a elaboração da proposta de Plano, foi realizada uma conferência procedimental, no dia 10 de outubro de 2022, para efeitos de emissão do parecer final previsto no artigo 85.º daquele diploma.
+3 - Tendo por base o parecer emitido pela Comissão de Coordenação e Desenvolvimento Regional - Norte (CCDR-N), e uma vez que, em sede concertação foram retificados e sanados (e refletidos nas peças gráficas e escritas) os aspetos mencionados nos pareceres das várias entidades, estão reunidas as condições para, de acordo com o disposto no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal dar sequência ao processo de aprovação, através da abertura do procedimento de discussão pública.
+4 - Assim, nos termos e para efeitos do disposto nos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal pode proceder à abertura de um período de discussão pública, de 20 dias, através de aviso a publicar no Diário da República e a divulgar na comunicação social, na plataforma colaborativa de gestão territorial e na página da Internet da Câmara Municipal, conforme proposta de minuta de Aviso que se anexa e que faz parte integrante desta informação."
+Em concordância com a informação prestada pela Divisão de Planeamento, a Câmara deliberou, por maioria, com votos contra dos Vereadores João Luís Pinheiro Trocado da Costa e Ilda Maria Flores Cadilhe Coelho, submeter a proposta de Plano de Pormenor da Expansão da Zona Industrial de Laúndos a discussão pública.
+Município da Póvoa de Varzim, 24 de janeiro de 2024. - O Técnico Superior, Jorge Manuel de Guimarães Caimoto.
+617298559
