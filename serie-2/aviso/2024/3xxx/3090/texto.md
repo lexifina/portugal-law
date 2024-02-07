@@ -1,0 +1,9 @@
+Aviso n.º 3090/2024
+Sumário: Consulta pública - Regulamento do Cartão Jovem Municipal de Gavião.
+Consulta Pública - Proposta do Projeto do Regulamento do Cartão Jovem Municipal de Gavião
+António Manuel Gomes Severino, Vice-Presidente da Câmara Municipal de Gavião, no uso das competências conferidas pelo n.º 2, do artigo 36.º e pelas alíneas b) e t), do n.º 1, do artigo 35.º, ambos do Anexo I, da Lei n.º 75/2013, de 12 de Setembro, na sua redação atual, torna público que, por deliberação de 17 de janeiro de 2024, foi aprovado o projeto do Regulamento do Cartão Jovem Municipal de Gavião, cumprida que foi a fase de publicação do início do procedimento e o decurso do prazo para constituição de interessados e apresentação de contributos, nos termos do n.º 1, do artigo 98.º do Código do Procedimento Administrativo, doravante designado por CPA, na sua redação atual.
+Assim, nos termos do n.º 1 e 2, do artigo 101.º do CPA, determino que se dê início ao procedimento de consulta pública, através da publicação deste regulamento na 2.ª série do Diário da República e no sítio da internet deste Município, no prazo de 30 dias úteis, a contar da data desta publicação.
+Nesta conformidade, torna público que os interessados podem dirigir por escrito as sugestões que entenderem, mediante a apresentação de requerimento escrito dirigido ao Exmo. Presidente da Câmara Municipal de Gavião, identificando devidamente o requerente.
+O Regulamento do Cartão Jovem Municipal de pretende estabelecer a criação do Cartão Jovem Municipal, cujo resulta de uma parceria estabelecida entre o Município de Gavião e a entidade «Movijovem», possibilitando assim aos jovens do concelho o usufruto de um conjunto alargado de vantagens de dimensão concelhia, regional, nacional e europeia.
+26 de janeiro de 2024. - O Vice-Presidente da Câmara Municipal de Gavião, António Manuel Gomes Severino.
+317295497
