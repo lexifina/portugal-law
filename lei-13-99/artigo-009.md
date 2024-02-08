@@ -2,7 +2,7 @@
 
 ### Local de inscrição no recenseamento
 
-1 - A circunscrição eleitoral de eleitores detentores de cartão de cidadão é a correspondente à morada a que se refere a alínea b) do n.º 1 do artigo 8.º da Lei n.º 7/2007, de 5 de fevereiro, na sua redação atual, salvo o disposto no n.º 3 do artigo 27.º
+1 - A circunscrição eleitoral de eleitores detentores de cartão de cidadão é a correspondente à morada a que se refere o n.º 1 do artigo 13.º da Lei n.º 7/2007, de 5 de fevereiro, salvo o disposto no n.º 3 do artigo 27.º
 
 2 - Os eleitores portugueses, detentores de bilhete de identidade, promovem a sua inscrição junto da comissão recenseadora correspondente à freguesia inscrita no referido documento.
 
