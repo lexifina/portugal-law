@@ -14,4 +14,6 @@
 
 6 - As certidões referidas no número anterior podem ser substituídas por atestados passados pelo presidente da junta.
 
-7 - É gratuita a emissão dos atestados referidos no presente artigo, quando seja requerida por pessoa em situação de sem-abrigo.
+7 - A emissão dos atestados referidos no presente artigo é gratuita, quando seja requerida por pessoa em situação de sem-abrigo, bem como a emissão do atestado de falta de endereço postal físico previsto no artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro.
+
+8 - Os atestados de falta de endereço postal físico são emitidos pelas juntas de freguesia, nos termos do disposto no artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro.
