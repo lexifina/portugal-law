@@ -48,6 +48,10 @@ e) Número de versão do cartão de cidadão;
 
 f) Tratado de Porto Seguro de 22 de Abril de 2000, se for emitido nos termos previstos no n.º 2 do artigo 3.º
 
+g) Código de país, composto por duas letras, de acordo com o n.º 4 do artigo 3.º do Regulamento (UE) 2019/1157, do Parlamento Europeu e do Conselho, de 20 de junho de 2019;
+
+h) Número de acesso ao cartão.
+
 5 - A zona específica destinada a leitura óptica do cartão de cidadão contém os seguintes elementos e menções:
 
 a) Apelidos;

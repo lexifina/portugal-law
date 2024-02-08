@@ -14,12 +14,12 @@
 
 4 - O cidadão pode:
 
-a) Autorizar expressamente que os dados recolhidos sejam transmitidos a entidades que deles careçam, para efeitos do disposto no n.º 1 do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril;
+a) Autorizar expressamente que os dados recolhidos sejam transmitidos a entidades que deles careçam para efeitos do disposto no n.º 1 do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, e nos n.os 2 e 3 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho;
 
 b) Solicitar a emissão dos documentos que careçam dos dados transmitidos para a emissão do cartão de cidadão;
 
-c) Autorizar expressamente a obtenção de documentos ou informação em posse de qualquer serviço e organismo da Administração Pública, para efeitos do disposto no n.º 1 do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril.
+c) Autorizar expressamente a obtenção de documentos ou informação em posse de qualquer serviço e organismo da Administração Pública, para efeitos do disposto no n.º 1 do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, e nos n.os 2 e 3 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho.
 
 5 - A transmissão dos dados e a emissão dos documentos previstos no número anterior depende de protocolo celebrado entre as entidades públicas visadas, o IRN, I. P., e a AMA, I. P.
 
-6 - Os protocolos celebrados no âmbito do presente artigo são comunicados à Comissão Nacional de Proteção de Dados.
+6 - (Revogado.)

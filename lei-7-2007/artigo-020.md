@@ -28,7 +28,7 @@ b) Os serviços de registo designados por despacho do presidente do conselho dir
 
 c) Outros serviços da Administração Pública, nomeadamente as lojas do cidadão ou serviços equivalentes, mediante protocolo celebrado com a DGRN.
 
-3 - Os pedidos relativos ao cartão de cidadão podem ainda ser apresentados por via eletrónica, designadamente no portal ePortugal, nos casos e nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas da justiça e da modernização administrativa.
+3 - Os pedidos relativos ao cartão de cidadão podem ainda ser submetidos e tramitados à distância através de outros canais de atendimento disponibilizados pelo IRN, I. P., ou pela AMA, I. P., tais como o portal único de serviços públicos, postos de atendimento automático, telefone, videochamada ou aplicação móvel, nos casos e nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.
 
 4 - O IRN, I. P., assegura um serviço de receção e entrega móvel, que se desloca ao local onde se encontra o interessado, nos casos de justificada dificuldade de deslocação deste ao serviço fixo de receção ou entrega.
 

@@ -16,6 +16,8 @@ b) Através do recurso a sistema biométrico de comparação das imagens do rost
 
 5 - Quando pretenda utilizar alguma das funcionalidades de certificação eletrónica ativadas no cartão de cidadão, o respetivo titular tem de inserir previamente o seu código pessoal (PIN) no dispositivo adequado para o efeito.
 
-6 - Os certificados são revogáveis a todo o tempo e, após revogação, a emissão de novos certificados associados ao cartão de cidadão só é possível com a respectiva substituição.
+6 - Os certificados são revogáveis a todo o tempo.
 
 7 - Ao certificado para autenticação e ao certificado qualificado para assinatura eletrónica qualificada aplica-se o disposto no Decreto-Lei n.º 12/2021, de 9 de fevereiro, que assegura a execução na ordem jurídica interna do Regulamento (UE) n.º 910/2014, relativo à identificação eletrónica e aos serviços de confiança para as transações eletrónicas no mercado interno e no Regulamento (UE) n.º 910/2014, do Parlamento Europeu e do Conselho, de 23 de julho de 2014, estando aqueles certificados sujeitos às regras legais e regulamentares relativas ao Sistema de Certificação Eletrónica do Estado.
+
+8 - A validade dos certificados e a sua substituição ou renovação são regulamentados através de portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.

@@ -18,4 +18,4 @@ c) Autenticar de forma unívoca através de uma assinatura electrónica qualific
 
 3 - A leitura óptica da zona específica do cartão, mencionada na alínea a) do n.º 2, está reservada a entidades ou serviços do Estado e da Administração Pública, bem como à identificação do titular no âmbito das especificações técnicas do cartão para documentos de viagem.
 
-4 - Os mecanismos técnicos de acesso e leitura dos dados constantes de circuito integrado são definidos por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.
+4 - As normas técnicas de armazenamento, acesso, leitura, segurança e interoperabilidade dos dados constantes de circuito integrado são definidas por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.

@@ -18,7 +18,7 @@ a) Os mecanismos técnicos de acesso e leitura dos dados constantes de circuito 
 
 b) O prazo de validade, referido no artigo 19.º;
 
-c) Os casos e termos de apresentação por via eletrónica dos pedidos relativos ao cartão de cidadão referidos no n.º 3 do artigo 20.º;
+c) Os casos e termos de submissão à distância dos pedidos relativos ao cartão de cidadão referidos no n.º 3 do artigo 20.º;
 
 d) Os casos e termos da recolha e a verificação de dados relativos à imagem facial e às impressões digitais realizadas de forma automatizada com recurso a sistema biométrico de comparação das imagens do rosto, recolhidas eletronicamente em tempo real, com a imagem facial constante do sistema de informação responsável pelo sistema de ciclo de vida do cartão de cidadão, referidas no n.º 4 do artigo 25.º;
 
