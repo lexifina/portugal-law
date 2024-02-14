@@ -14,7 +14,7 @@ d) Adquirir, detiver ou alojar materiais previstos na alínea b) com o propósit
 
 2 - Quem praticar os actos descritos no número anterior profissionalmente ou com intenção lucrativa é punido com pena de prisão de um a oito anos.
 
-3 - Quem praticar os atos descritos nas alíneas a) e b) do n.º 1 recorrendo a violência ou ameaça grave é punido com pena de prisão de 1 a 8 anos.
+3 - Quem praticar os atos descritos nas alíneas a) e b) do n.º 1 recorrendo a qualquer forma de ameaça, constrangimento ou violência é punido com pena de prisão de 1 a 8 anos.
 
 4 - Quem praticar os actos descritos nas alíneas c) e d) do n.º 1 utilizando material pornográfico com representação realista de menor é punido com pena de prisão até dois anos.
 

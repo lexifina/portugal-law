@@ -26,7 +26,7 @@ h) Quem desempenhe ou participe no desempenho de funções públicas em associa�
 
 2 - Ao funcionário são equiparados os membros de órgão de gestão ou administração ou órgão fiscal e os trabalhadores de empresas públicas, nacionalizadas, de capitais públicos ou com participação maioritária de capital público e ainda de empresas concessionárias de serviços públicos, sendo que no caso das empresas com participação igual ou minoritária de capitais públicos, são equiparados a funcionários os titulares de órgão de gestão ou administração designados pelo Estado ou por outro ente público.
 
-3 - São ainda equiparados ao funcionário, para efeitos do disposto nos artigos 335.º e 372.º a 374.º:
+3 - São ainda equiparados ao funcionário, para efeitos do disposto nos artigos 335.º e 372.º a 375.º:
 
 a) Os magistrados, funcionários, agentes e equiparados de organizações de direito internacional público, independentemente da nacionalidade e residência;
 

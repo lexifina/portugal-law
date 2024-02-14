@@ -22,7 +22,7 @@ h) Tráfico de pessoas, auxílio à imigração ilegal ou tráfico de órgãos o
 
 i) Danos contra a natureza, poluição, atividades perigosas para o ambiente, ou perigo relativo a animais ou vegetais;
 
-j) Fraude fiscal ou fraude contra a segurança social;
+j) Contrabando, contrabando de circulação, contrabando de mercadorias de circulação condicionada em embarcações, fraude fiscal ou fraude contra a segurança social;
 
 k) Tráfico de influência, recebimento indevido de vantagem, corrupção, peculato, participação económica em negócio, administração danosa em unidade económica do setor público, fraude na obtenção ou desvio de subsídio, subvenção ou crédito, ou corrupção com prejuízo do comércio internacional ou no setor privado;
 
