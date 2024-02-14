@@ -42,4 +42,4 @@ d) 2 anos, nos casos restantes.
 
 4 - Quando a lei estabelecer para qualquer crime, em alternativa, pena de prisão ou de multa, só a primeira é considerada para efeito do disposto neste artigo.
 
-5 - Nos crimes contra a liberdade e autodeterminação sexual de menores, bem como no crime de mutilação genital feminina sendo a vítima menor, o procedimento criminal não se extingue, por efeito da prescrição, antes de o ofendido perfazer 23 anos.
+5 - Nos crimes contra a liberdade e autodeterminação sexual de menores, bem como no crime de mutilação genital feminina sendo a vítima menor, o procedimento criminal não se extingue, por efeito da prescrição, antes de o ofendido perfazer 25 anos.
