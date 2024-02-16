@@ -19,3 +19,7 @@ d) Definir os pressupostos desportivos, financeiros e de organização de acesso
 4 - A liga profissional é integrada, obrigatoriamente, pelas sociedades desportivas que disputem as competições profissionais.
 
 5 - A liga profissional pode, ainda, nos termos definidos nos seus estatutos, integrar representantes de outros agentes desportivos.
+
+6 - A proporção de pessoas de cada sexo designadas para cada órgão de administração e de fiscalização da liga profissional não pode ser inferior a 33,3 %.
+
+7 - Ao incumprimento dos limiares mínimos a que se refere o número anterior aplica-se o regime sancionatório previsto no artigo 6.º da Lei n.º 62/2017, de 1 de agosto, que aprova o regime da representação equilibrada entre mulheres e homens nos órgãos de administração e de fiscalização das entidades do setor público empresarial e das empresas cotadas em bolsa.
