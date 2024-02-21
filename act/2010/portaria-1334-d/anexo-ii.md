@@ -4,10 +4,4 @@
 
 Certificado de residência permanente de cidadão da União
 
-(ver documento original)
-
-Frente
-
-(ver documento original)
-
-Verso
+117259427

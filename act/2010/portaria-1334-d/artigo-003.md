@@ -2,10 +2,24 @@
 
 ### Taxas
 
-1 - Pela emissão de cada um dos documentos referidos nos artigos 1.º e 2.º da presente portaria é devida uma taxa no valor de (euro) 15.
+1 - Pela emissão de cada um dos documentos referidos nos artigos 1.º e 2.º da presente portaria são devidas as seguintes taxas:
 
-2 - Em caso de extravio, roubo ou deterioração dos certificados de registo ou dos cartões de residência previstos na presente portaria, pelo pedido de emissão ou substituição é devida uma taxa de (euro) 10, que acresce à taxa de emissão prevista no número anterior.
+a) (euro) 15 quando os pedidos sejam apresentados em canal digital, por maiores de 25 anos;
 
-3 - Pela emissão urgente dos documentos referidos no artigo 2.º, com entrega em mão efetuada no próprio dia útil do pedido, é devida uma taxa de (euro) 35, que acresce às taxas e encargos de emissão referidos no n.º 1 do presente artigo.
+b) (euro) 18 quando os pedidos sejam apresentados em atendimento presencial, por maiores de 25 anos;
+
+c) (euro) 15 quando os pedidos sejam apresentados em atendimento presencial, por menores de 25 anos;
+
+d) (euro) 12,5 quando os pedidos sejam apresentados em canal digital, por menores de 25 anos;
+
+e) Isento quando os pedidos sejam apresentados presencialmente por crianças até 1 ano de idade;
+
+f) (euro) 53 pela emissão urgente dos documentos referidos no artigo 2.º, por maiores de 25 anos, com entrega em mão efetuada no próprio dia útil do pedido;
+
+g) (euro) 50 pela emissão urgente dos documentos referidos no artigo 2.º, por menores de 25 anos, com entrega em mão efetuada no próprio dia útil do pedido.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
 
 4 - Pelo pedido autónomo de alteração de morada, sem substituição dos documentos referidos nos artigos 1.º e 2.º, é devida uma taxa de (euro) 3.
