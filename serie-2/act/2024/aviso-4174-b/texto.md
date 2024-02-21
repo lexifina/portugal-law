@@ -1,0 +1,10 @@
+Aviso n.º 4174-B/2024
+Sumário: Proposta de Regulamento Municipal de Funcionamento e Utilização do Sistema de Partilha de Bicicletas Elétricas de Montemor-o-Novo - MorBike - abertura do período de discussão pública.
+Proposta de Regulamento Municipal de Funcionamento e Utilização do Sistema de Partilha de Bicicletas Elétricas de Montemor-o-Novo - MorBike - Abertura do Período de Discussão Pública
+Olímpio Manuel Vidigal Galvão, Presidente da Câmara Municipal de Montemor-o-Novo torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, o seguinte:
+1 - A Câmara Municipal, na sua reunião ordinária realizada dia 7 de fevereiro de 2024, deliberou aprovar o projeto de Regulamento Municipal de Funcionamento e Utilização do Sistema de Partilha de Bicicletas Elétricas de Montemor-o-Novo - MorBike, incluindo os respetivos Anexos (1 - Perímetro Urbano de Montemor-o-Novo; 2 - Localização das Estações de Ancoragem e Recarga; 3 - Minuta de Termo de Responsabilidade; 4 - Minuta de Ficha de Registo de Utilizador Frequente), no sentido de o submeter à apreciação pública, para recolha de sugestões e outros contributos, pelo prazo de 30 (Trinta) dias úteis, nos termos dos artigos 87.º e 101.º, ambos do Código do Procedimento Administrativo (CPA), na sua atual redação, iniciando-se a contagem do prazo no dia útil seguinte ao da publicação do Aviso de Abertura no Diário da República, 2.ª série.
+2 - Os documentos inerentes estão disponibilizados na página oficial do Município de Montemor-o-Novo na Internet www.cm-montemornovo.pt.
+3 - As sugestões e contributos deverão ser formuladas por escrito e dirigidas ao Sr. Presidente da Câmara Municipal de Montemor-o-Novo, até às 17,30 horas do último dia do prazo referido no n.º 1.
+Para constar, se publica o presente Aviso e outros de igual teor que vão ser afixados nos lugares públicos de costume.
+8 de fevereiro de 2024. - O Presidente da Câmara Municipal de Montemor-o-Novo, Olímpio Manuel Vidigal Galvão.
+317365901
