@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2024-02-21, processo 0167/23.0BALSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0167/23.0BALSB
+
+**Data do Acordão:** 02/21/2024
+
+**Tribunal:** PLENO DA SECÇÃO DO CT
+
+**Relator:** PEDRO VERGUEIRO
+
+**Descritores:** RECURSO PARA UNIFORMIZAÇÃO DE JURISPRUDÊNCIA; MESMA QUESTÃO FUNDAMENTAL DE DIREITO
+
+**Nº Convencional:** JSTA000P31949
+
+**Nº do Documento:** SAP202402210167/23
+
+**Recorrente:** A..., LDA
+
+**Recorrido 1:** AT - AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - O recurso para o Supremo Tribunal Administrativo de decisão arbitral pressupõe, para além do mais, que se verifique, entre a decisão arbitral recorrida e a decisão arbitral fundamento, oposição quanto à mesma questão fundamental de direito (cfr. o n.º 2 do art. 25.º RJAT), o que pressupõe uma identidade substancial das situações fácticas.
+
+II - Para apurar da existência de contradição sobre a mesma questão fundamental de direito entre a decisão arbitral recorrida e o Acórdão Fundamento devem adoptar-se os critérios já firmados por este STA, quais sejam: - Identidade da questão de direito sobre que recaíram as decisões em confronto, que supõe estar-se perante uma situação de facto substancialmente idêntica; - Que não tenha havido alteração substancial da regulamentação jurídica; - Que se tenha perfilhado, nos dois arestos, solução oposta; - A oposição deverá decorrer de decisões expressas, não bastando a pronúncia implícita ou a mera consideração colateral, tecida no âmbito da apreciação de questão distinta.
+
+III - A partir daqui, e fazendo aplicação do que fica exposto ao caso dos autos, é ponto assente que aquilo que esteve na base da decisão arbitral fundamento constitui o ponto de partida da actividade vertida na decisão arbitral recorrida, ou dito de outro modo, a decisão arbitral recorrida entendeu por bem colocar-se como que a jusante da decisão arbitral fundamento, o que significa que a decisão arbitral recorrida fez uma abordagem distinta em relação à decisão arbitral fundamento, o que nos remete para um enquadramento e análise diferentes, com natural reflexo ao nível da respectiva decisão.
+
+IV - Assim, tem de ser negativa a resposta à questão de saber se as duas decisões em alegada oposição se pronunciaram efectivamente em termos contrários acerca de uma mesma questão jurídica, dentro de um igual enquadramento fáctico e jurídico, pelo que, não se mostram reunidos os pressupostos legais (cumulativos) para que este Supremo Tribunal possa conhecer deste recurso.
