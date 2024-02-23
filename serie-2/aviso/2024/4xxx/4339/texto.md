@@ -1,0 +1,5 @@
+Aviso n.º 4339/2024
+Sumário: Consulta pública do projeto do Regulamento de Atribuição do Título Académico de Agregado da Universidade do Algarve.
+Por despacho do Reitor da Universidade do Algarve, torna-se público que, nos termos do disposto nos artigos 97.º a 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º da Lei n.º 62/2007 de 10 de setembro, na sua atual redação, que aprova o Regime Jurídico das Instituições de Ensino Superior (RJIES) submete-se a consulta pública o projeto de Regulamento de Atribuição do Título Académico de Agregado da Universidade do Algarve, com vista à recolha de contributos e sugestões, procedendo-se, para o efeito, à publicação do aviso na 2.ª série do Diário da República e à divulgação no sítio da Internet https://www.ualg.pt/content/documentos-ualg, devendo os interessados apresentar as sugestões ou comentários por escrito, no prazo de 30 dias a contar da data da referida publicação, ao Reitor da Universidade do Algarve, utilizando o endereço eletrónico reitor@ualg.pt.
+8 de fevereiro de 2024. - O Reitor, Paulo Águas.
+317366339
