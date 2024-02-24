@@ -29,3 +29,5 @@ c) No caso de PME, apresentem um rácio de autonomia financeira não inferior a 
 (ver documento original)
 
 6 - Para efeitos da aferição do cumprimento do financiamento adequado com capitais próprios em sede de encerramento financeiro, as novas entradas de capital social, prestações suplementares e empréstimos de sócios e acionistas, podem ser substituídos pelo montante dos resultados líquidos gerados pela empresa e retidos durante o período de realização projeto.
+
+7 - As empresas que à data da candidatura tenham menos de um ano de atividade, assim como as empresas que apresentem projetos de elevada intensidade tecnológica, podem, em alternativa ao disposto nos n.os 5 e 6, demonstrar a sua capacidade de financiamento do projeto mediante declaração do revisor oficial de contas ou do contabilista certificado.
