@@ -1,0 +1,45 @@
+## Capítulo IX
+
+## Direitos e deveres
+
+# Artigo 69.º
+
+### Direitos
+
+1 - Os contabilistas certificados têm, relativamente a quem prestam serviços, os seguintes direitos:
+
+a) Obter todos os documentos, informações e demais elementos de que necessitem para o exercício das suas funções;
+
+b) Exigir a confirmação, por escrito, de qualquer instrução, quando o considerem necessário;
+
+c) Assegurar que todas as operações ocorridas estão devidamente suportadas e que lhe foram integralmente transmitidas;
+
+d) Receber pontualmente os salários ou honorários a que tenham direito.
+
+2 - Os contabilistas certificados têm, relativamente à Ordem, os seguintes direitos:
+
+a) Solicitar a emissão da respetiva cédula profissional, podendo esta, a pedido do contabilista certificado, conter suplementarmente uma designação profissional;
+
+b) Recorrer à proteção da Ordem sempre que sejam cerceados os seus direitos ou que sejam criados obstáculos ao regular exercício das suas funções;
+
+c) Beneficiar dos serviços e ferramentas profissionais disponibilizados pela Ordem e da assistência técnica e jurídica prestadas pelos gabinetes especializados da Ordem;
+
+d) Eleger e ser eleito para os órgãos da Ordem;
+
+e) Examinar, nos prazos fixados, as demonstrações financeiras da Ordem e os documentos relacionados com a sua contabilidade;
+
+f) Apresentar à Ordem propostas, sugestões ou reclamações sobre assuntos que julguem do interesse da classe ou do seu interesse profissional.
+
+3 - No âmbito das suas funções, os contabilistas certificados têm o direito de obter dos serviços da AT e da segurança social todas as informações necessárias inerentes ao exercício das suas funções e relacionadas com as entidades por cujas contabilidades são responsáveis.
+
+4 - No cumprimento das suas funções, os contabilistas certificados gozam de atendimento preferencial em todos os serviços da AT e da segurança social, mediante exibição da respetiva cédula profissional.
+
+5 - A execução de contabilidades sob a responsabilidade de contabilistas certificados apenas pode ser outorgada por estes, por sociedades profissionais de contabilistas certificados, por sociedades de contabilidade, e por sociedades multidisciplinares cujo objeto social abranja as atividades previstas no artigo 10.º
+
+6 - No exercício de serviços previamente contratados, os contabilistas certificados ficam dispensados do cumprimento do disposto no n.º 1 do artigo 10.º do Decreto-Lei n.º 138/90, de 6 de abril.
+
+7 - Quando o julguem necessário para a construção da imagem fiel e verdadeira da contabilidade, os contabilistas certificados podem solicitar a entidades públicas ou privadas competentes as informações necessárias à verificação da sua conformidade com a realidade patrimonial expressa nas demonstrações financeiras das contabilidades pelas quais são responsáveis.
+
+8 - Na execução de serviços que não sejam previamente contratados ou que, pela sua natureza, revelem carácter de eventualidade, os contabilistas certificados dão indicações aos seus clientes ou potenciais clientes dos honorários previsíveis, tendo em consideração os serviços a executar e identificando expressamente, além do valor final previsível, o valor máximo e mínimo da sua hora de trabalho, obedecendo às regras previstas no n.º 6 do artigo seguinte.
+
+9 - No exercício das suas funções, pode o contabilista certificado exigir, a título de provisão, quantias por conta dos honorários, o que, não sendo satisfeito, lhe confere o direito de não assumir a responsabilidade inerente ao exercício da profissão.
