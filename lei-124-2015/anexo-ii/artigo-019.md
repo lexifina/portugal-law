@@ -1,0 +1,15 @@
+## Secção V
+
+## Membros
+
+# Artigo 19.º
+
+### Categorias de membros
+
+1 - São membros da OMD, nos termos da lei:
+
+a) Os médicos dentistas;
+
+b) [Revogada.]
+
+2 - O conselho diretivo da OMD pode regulamentar a categoria de médico dentista aposentado e honorário.
